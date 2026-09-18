@@ -5,11 +5,11 @@
   "book": "2-kings",
   "lang": "xh",
   "chapter": 8,
-  "translation": "U-Elishea wathetha kumfazi onjalo, lowo umniniyedwa wokumvusa unyana wakhe esiйinembenzaneni — wathi kuye: “Vuka, hamba wena nendlu yakho, uhlale njengomhleni apho uza kuhlala khona, kuba uYahwe ubize indlala, yaye isifikelele elizweni iminyaka esixhenxe.”",
+  "translation": "U-Elisya wathetha kwisityehu awayevuselele ⟨את⟩ unyana wayo, esithi: “Vuka, hamba wena nekhaya lakho, uze uhlale apho uza kuhla khona, kuba uYahwe ubizile indlala, yaza yafika nasehlabathini iminyaka esixhenxe.”",
   "tokens": [
     {
       "surface": "ואלישע",
-      "gloss": "U-Elishea"
+      "gloss": "U-Elisya"
     },
     {
       "surface": "דבר",
@@ -17,32 +17,32 @@
     },
     {
       "surface": "אל",
-      "gloss": "ku"
+      "gloss": "kwi"
     },
     {
       "surface": "האשה",
-      "gloss": "umfazi"
+      "gloss": "sisityehu"
     },
     {
       "surface": "אשר",
-      "gloss": "onjalo"
+      "gloss": "awayevuselela"
     },
     {
       "surface": "החיה",
-      "gloss": "wamvusa"
+      "gloss": "awayevuselela"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "unyana wakhe"
+      "marks": "unyana wayo"
     },
     {
       "surface": "בנה",
-      "gloss": "unyana wakhe"
+      "gloss": "unyana wayo"
     },
     {
       "surface": "לאמר",
-      "gloss": "wathi"
+      "gloss": "esithi"
     },
     {
       "surface": "קומי",
@@ -58,11 +58,11 @@
     },
     {
       "surface": "וביתך",
-      "gloss": "nendlu yakho"
+      "gloss": "nekhaya lakho"
     },
     {
       "surface": "וגורי",
-      "gloss": "uhlale njengomhleni"
+      "gloss": "uze uhlale"
     },
     {
       "surface": "באשר",
@@ -70,7 +70,7 @@
     },
     {
       "surface": "תגורי",
-      "gloss": "uza kuhlala khona"
+      "gloss": "uza kuhla khona"
     },
     {
       "surface": "כי",
@@ -78,7 +78,7 @@
     },
     {
       "surface": "קרא",
-      "gloss": "ubize"
+      "gloss": "ubizile"
     },
     {
       "surface": "יהוה",
@@ -90,19 +90,19 @@
     },
     {
       "surface": "וגם",
-      "gloss": "yaye"
+      "gloss": "naye"
     },
     {
       "surface": "בא",
-      "gloss": "isifikelele"
+      "gloss": "yafika"
     },
     {
       "surface": "אל",
-      "gloss": "ku"
+      "gloss": "kwi"
     },
     {
       "surface": "הארץ",
-      "gloss": "elizweni"
+      "gloss": "hlabathi"
     },
     {
       "surface": "שבע",
@@ -113,6 +113,6 @@
       "gloss": "iminyaka"
     }
   ],
-  "timestamp": "2026-09-18T18:41:06.725466548Z",
+  "timestamp": "2026-09-18T20:16:35.155872403Z",
   "model": "glm-5.3"
 }

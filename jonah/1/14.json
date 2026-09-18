@@ -5,7 +5,7 @@
   "book": "jonah",
   "lang": "xh",
   "chapter": 1,
-  "translation": "Baza babiza kuYahwe, bathi: “Hhayi, Yahwe, sinda ngesiquphelo, musa ukusitya ngenefeshi yalomntu, ungabi naligazi elingacalileyo phezu kwethu; kuba wena, Yahwe, njengoko uwathandeleyo, wenze njalo.”",
+  "translation": "Baza babiza kuYahwe, bathi: “Hawu, uYahwe, nceda, musa ukusenza sitshabalale ngenxa yobomi bomntu lo, ungabi ndawo ubeka kuthi igazi elingenamcali; kuba wena, uYahwe, njengoko wakhetha, wenze njalo.”",
   "tokens": [
     {
       "surface": "ויקראו",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "אל",
-      "gloss": "ku-"
+      "gloss": "ku"
     },
     {
       "surface": "יהוה",
@@ -25,11 +25,11 @@
     },
     {
       "surface": "אנה",
-      "gloss": "Hhayi"
+      "gloss": "Hawu"
     },
     {
       "surface": "יהוה",
-      "gloss": "Yahwe"
+      "gloss": "uYahwe"
     },
     {
       "surface": "אל",
@@ -37,19 +37,19 @@
     },
     {
       "surface": "נא",
-      "gloss": "ngesiquphelo"
+      "gloss": "nceda"
     },
     {
       "surface": "נאבדה",
-      "gloss": "ukusitya"
+      "gloss": "ukusenza sitshabalale"
     },
     {
       "surface": "בנפש",
-      "gloss": "ngenefeshi"
+      "gloss": "ngenxa yobomi"
     },
     {
       "surface": "האיש",
-      "gloss": "yalomntu"
+      "gloss": "bomntu"
     },
     {
       "surface": "הזה",
@@ -57,23 +57,23 @@
     },
     {
       "surface": "ואל",
-      "gloss": "ungabi"
+      "gloss": "ungabi ndawo"
     },
     {
       "surface": "תתן",
-      "gloss": "ukubeka"
+      "gloss": "ubeka"
     },
     {
       "surface": "עלינו",
-      "gloss": "phezu kwethu"
+      "gloss": "kuthi"
     },
     {
       "surface": "דם",
-      "gloss": "ligazi"
+      "gloss": "igazi"
     },
     {
       "surface": "נקיא",
-      "gloss": "elingacalileyo"
+      "gloss": "elingenamcali"
     },
     {
       "surface": "כי",
@@ -85,7 +85,7 @@
     },
     {
       "surface": "יהוה",
-      "gloss": "Yahwe"
+      "gloss": "uYahwe"
     },
     {
       "surface": "כאשר",
@@ -93,13 +93,13 @@
     },
     {
       "surface": "חפצת",
-      "gloss": "uwathandeleyo"
+      "gloss": "wakhetha"
     },
     {
       "surface": "עשית",
       "gloss": "wenze njalo"
     }
   ],
-  "timestamp": "2026-09-18T14:02:08.593509673Z",
+  "timestamp": "2026-09-18T20:18:27.708152354Z",
   "model": "glm-5.3"
 }

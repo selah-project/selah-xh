@@ -5,23 +5,23 @@
   "book": "1-kings",
   "lang": "xh",
   "chapter": 13,
-  "translation": "Umprofethi omdala, lowo ambuyisela e-⟨the⟩ mgwenyeni, wesiva lokhu, wathi: “Kulowo umntu kaElohim, lowo owaphikisa ⟨את⟩ umlomo kaYahwe; uYahwe wamnikezela ibhubesi, yamqhawula yambulala, njengelizwi kaYahwe awalithethayo kuye.”",
+  "translation": "Umprofeti owayembuyisela endleleni wakhe wava, wathi: “NguloMntu kaElohim owayephikisa ⟨את⟩ umlomo kaYahwe; uYahwe wamnikezela kwingonyama, yamlimaza wambulala, njengelizwi likaYahwe awalithethayo kuye.”",
   "tokens": [
     {
       "surface": "וישמע",
-      "gloss": "wesiva"
+      "gloss": "wava"
     },
     {
       "surface": "הנביא",
-      "gloss": "Umprofethi"
+      "gloss": "umprofeti"
     },
     {
       "surface": "אשר",
-      "gloss": "lowo"
+      "gloss": "owaye-"
     },
     {
       "surface": "השיבו",
-      "gloss": "ambuyisela"
+      "gloss": "embuyisela"
     },
     {
       "surface": "מן",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "הדרך",
-      "gloss": "mgwenyeni"
+      "gloss": "indleleni"
     },
     {
       "surface": "ויאמר",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "איש",
-      "gloss": "umntu"
+      "gloss": "uMntu"
     },
     {
       "surface": "האלהים",
@@ -45,20 +45,20 @@
     },
     {
       "surface": "הוא",
-      "gloss": "Kulowo"
+      "gloss": "ngu-"
     },
     {
       "surface": "אשר",
-      "gloss": "lowo"
+      "gloss": "owaye-"
     },
     {
       "surface": "מרה",
-      "gloss": "owaphikisa"
+      "gloss": "ephikisa"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "umlomo"
+      "marks": "umlomo kaYahwe"
     },
     {
       "surface": "פי",
@@ -78,15 +78,15 @@
     },
     {
       "surface": "לאריה",
-      "gloss": "ibhubesi"
+      "gloss": "kwingonyama"
     },
     {
       "surface": "וישברהו",
-      "gloss": "yamqhawula"
+      "gloss": "yamlimaza"
     },
     {
       "surface": "וימתהו",
-      "gloss": "yambulala"
+      "gloss": "wambulala"
     },
     {
       "surface": "כדבר",
@@ -94,7 +94,7 @@
     },
     {
       "surface": "יהוה",
-      "gloss": "kaYahwe"
+      "gloss": "likaYahwe"
     },
     {
       "surface": "אשר",
@@ -102,13 +102,13 @@
     },
     {
       "surface": "דבר",
-      "gloss": "-lithetha"
+      "gloss": "alithetha"
     },
     {
       "surface": "לו",
       "gloss": "kuye"
     }
   ],
-  "timestamp": "2026-09-18T10:24:09.123932199Z",
+  "timestamp": "2026-09-18T20:16:57.317828540Z",
   "model": "glm-5.3"
 }

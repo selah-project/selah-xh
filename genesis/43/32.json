@@ -5,11 +5,11 @@
   "book": "genesis",
   "lang": "xh",
   "chapter": 43,
-  "translation": "Beka azele yena lodwa, bona bodwa, nabaMitsrayim abadla naye ⟨את⟩ bodwa, kuba amaMitsrayim awakwazi ukudla ukutya ⟨את⟩ namaHebhere, kuba yinto enukisayo kuwo amaMitsrayim.",
+  "translation": "Babekela yena yedwa, nabo bona bodwa, nabaMitsrayim abadla naye ⟨את⟩ bodwa, kuba amaMitsrayim akakwazi ukutya ⟨את⟩ amaHebhere isonka, kuba into entlekileyo leyo kumaMitsrayim.",
   "tokens": [
     {
       "surface": "וישימו",
-      "gloss": "beka azele"
+      "gloss": "Babekela"
     },
     {
       "surface": "לו",
@@ -17,11 +17,11 @@
     },
     {
       "surface": "לבדו",
-      "gloss": "lodwa"
+      "gloss": "yedwa"
     },
     {
       "surface": "ולהם",
-      "gloss": "bona"
+      "gloss": "nabo"
     },
     {
       "surface": "לבדם",
@@ -37,7 +37,8 @@
     },
     {
       "surface": "אתו",
-      "gloss": "naye ⟨את⟩"
+      "gloss": "⟨את⟩ naye",
+      "marks": "abadla (abadla naye)"
     },
     {
       "surface": "לבדם",
@@ -49,11 +50,11 @@
     },
     {
       "surface": "לא",
-      "gloss": "hayi"
+      "gloss": "aku-"
     },
     {
       "surface": "יוכלון",
-      "gloss": "awakwazi"
+      "gloss": "bakwazi"
     },
     {
       "surface": "המצרים",
@@ -61,7 +62,7 @@
     },
     {
       "surface": "לאכל",
-      "gloss": "ukudla"
+      "gloss": "ukutya"
     },
     {
       "surface": "את",
@@ -74,7 +75,7 @@
     },
     {
       "surface": "לחם",
-      "gloss": "ukutya"
+      "gloss": "isonka"
     },
     {
       "surface": "כי",
@@ -82,17 +83,17 @@
     },
     {
       "surface": "תועבה",
-      "gloss": "yinto enukisayo"
+      "gloss": "into entlekileyo"
     },
     {
       "surface": "הוא",
-      "gloss": "yona"
+      "gloss": "leyo"
     },
     {
       "surface": "למצרים",
-      "gloss": "kuwo amaMitsrayim"
+      "gloss": "kumaMitsrayim"
     }
   ],
-  "timestamp": "2026-09-18T05:41:59.003633883Z",
+  "timestamp": "2026-09-18T20:18:33.531258148Z",
   "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "ecclesiastes",
   "lang": "xh",
   "chapter": 7,
-  "translation": "Kodwa oku kuphela ndakubona: ndafumana lokhu, ukuba uElohim wenza ⟨את⟩ umntu olungileyo, kodwa abantu batyelela izicwangciso ezininzi.",
+  "translation": "Bona, oku kuphela ndifumene: ukuba uElohim wenza ⟨את⟩ umntu eqinileyo, kodwa bona bakhangela izicwangciso ezininzi.",
   "tokens": [
     {
       "surface": "לבד",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "ראה",
-      "gloss": "kubona"
+      "gloss": "Bona"
     },
     {
       "surface": "זה",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "מצאתי",
-      "gloss": "ndafumana"
+      "gloss": "ndifumene"
     },
     {
       "surface": "אשר",
@@ -46,15 +46,15 @@
     },
     {
       "surface": "ישר",
-      "gloss": "olungileyo"
+      "gloss": "eqinileyo"
     },
     {
       "surface": "והמה",
-      "gloss": "kodwa abantu"
+      "gloss": "kodwa bona"
     },
     {
       "surface": "בקשו",
-      "gloss": "batyelela"
+      "gloss": "bakhangela"
     },
     {
       "surface": "חשבנות",
@@ -65,6 +65,6 @@
       "gloss": "ezininzi"
     }
   ],
-  "timestamp": "2026-09-18T16:24:57.765656520Z",
+  "timestamp": "2026-09-18T20:17:22.675936680Z",
   "model": "glm-5.3"
 }

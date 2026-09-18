@@ -5,11 +5,11 @@
   "book": "1-samuel",
   "lang": "xh",
   "chapter": 22,
-  "translation": "Wahamba ke uDavide apho, waya eMitspeni yaseMowabhi, wathi kwenkosi yaseMowabhi: “Ndicela ubawo nomama bam bathe ngapha nani, de ndazi oku uElohim aza kukwenza kum.”",
+  "translation": "Wahamba ke uDavide apho wayesuka khona, waya eMitspe yaseMowabhi, wathi kwenkosi yaseMowabhi: “Ndicela ubawo nomama bam φuthi ⟨את⟩ kunye nani, de ndazi into uElohim aza kuyenza kum.”",
   "tokens": [
     {
       "surface": "וילך",
-      "gloss": "Wahamba"
+      "gloss": "wahamba"
     },
     {
       "surface": "דוד",
@@ -17,11 +17,11 @@
     },
     {
       "surface": "משם",
-      "gloss": "apho"
+      "gloss": "apho wayesuka khona"
     },
     {
       "surface": "מצפה",
-      "gloss": "eMitspeni"
+      "gloss": "eMitspe"
     },
     {
       "surface": "מואב",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "אל",
-      "gloss": "ku"
+      "gloss": "ku-"
     },
     {
       "surface": "מלך",
@@ -45,7 +45,7 @@
     },
     {
       "surface": "יֵצֵא",
-      "gloss": "bathe ngapha"
+      "gloss": "maphume"
     },
     {
       "surface": "נא",
@@ -61,8 +61,8 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ nani",
-      "marks": "nani"
+      "gloss": "⟨את⟩ kunye nani",
+      "marks": "kunye nani"
     },
     {
       "surface": "עד",
@@ -70,7 +70,7 @@
     },
     {
       "surface": "אשר",
-      "gloss": ""
+      "gloss": "into"
     },
     {
       "surface": "אדע",
@@ -78,11 +78,11 @@
     },
     {
       "surface": "מה",
-      "gloss": "oku"
+      "gloss": "nthoni"
     },
     {
       "surface": "יעשה",
-      "gloss": "aza kukwenza"
+      "gloss": "enza"
     },
     {
       "surface": "לי",
@@ -93,6 +93,6 @@
       "gloss": "uElohim"
     }
   ],
-  "timestamp": "2026-09-18T18:38:55.904036323Z",
+  "timestamp": "2026-09-18T20:16:31.378783114Z",
   "model": "glm-5.3"
 }

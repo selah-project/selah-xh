@@ -5,7 +5,7 @@
   "book": "leviticus",
   "lang": "xh",
   "chapter": 6,
-  "translation": "Kananjalo le ⟨is⟩ iTora yomnikelo wokutya: oonyana ka-Aharon baya kuwusondeza ⟨את⟩ umnikelo wokutya phambi kukaYahwe, phambi kwealtare.",
+  "translation": "Kananjalo le yiTora yomnikelo wesonhlamvu: oonyana ka-Aharoni mabazise ⟨את⟩ phambi kukaYahwe, ecaleni le-altari.",
   "tokens": [
     {
       "surface": "וזאת",
@@ -13,20 +13,20 @@
     },
     {
       "surface": "תורת",
-      "gloss": "iTorа"
+      "gloss": "yiTora"
     },
     {
       "surface": "המנחה",
-      "gloss": "yomnikelo wokutya"
+      "gloss": "yomnikelo wesonhlamvu"
     },
     {
       "surface": "הקרב",
-      "gloss": "baya kuwusondeza"
+      "gloss": "mabazise"
     },
     {
       "surface": "אתה",
       "gloss": "⟨את⟩",
-      "marks": "umnikelo wokutya"
+      "marks": "omnikelo"
     },
     {
       "surface": "בני",
@@ -34,29 +34,29 @@
     },
     {
       "surface": "אהרן",
-      "gloss": "ka-Aharon"
+      "gloss": "ka-Aharoni"
     },
     {
       "surface": "לפני",
-      "gloss": "phambi kukaYahwe"
-    },
-    {
-      "surface": "יהוה",
-      "gloss": "uYahwe"
-    },
-    {
-      "surface": "אל",
       "gloss": "phambi"
     },
     {
+      "surface": "יהוה",
+      "gloss": "kukaYahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ecaleni"
+    },
+    {
       "surface": "פני",
-      "gloss": "ubuso"
+      "gloss": "le"
     },
     {
       "surface": "המזבח",
-      "gloss": "wealtare"
+      "gloss": "i-altari"
     }
   ],
-  "timestamp": "2026-09-18T18:53:00.083329326Z",
+  "timestamp": "2026-09-18T20:18:56.904465643Z",
   "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "daniel",
   "lang": "xh",
   "chapter": 12,
-  "translation": "Wena ke, uDaniyeli, vala ⟨את⟩ amagama, udityale isigqinqa esincumathiseyo kwincwadi, de kube lixesha lokuphela; abaninzi baya kuzula-zula, ulwazi lunokwanda.",
+  "translation": "Wena ke, u-Daniyeli, tshixa amagama, uze uvale ngomtya incwadi, de kube lixesha lokuphela; abaninzi baya kuzulazula, ulwazi lunokwandiswa.",
   "tokens": [
     {
       "surface": "ואתה",
@@ -13,24 +13,23 @@
     },
     {
       "surface": "דניאל",
-      "gloss": "uDaniyeli"
+      "gloss": "u-Daniyeli"
     },
     {
       "surface": "סתם",
-      "gloss": "vala"
+      "gloss": "tshixa"
     },
     {
       "surface": "הדברים",
-      "gloss": "⟨את⟩ amagama",
-      "marks": "amagama"
+      "gloss": "amagama"
     },
     {
       "surface": "וחתם",
-      "gloss": "udityale isigqinqa esincumathiseyo"
+      "gloss": "uze uvale ngomtya"
     },
     {
       "surface": "הספר",
-      "gloss": "kwincwadi"
+      "gloss": "incwadi"
     },
     {
       "surface": "עד",
@@ -46,7 +45,7 @@
     },
     {
       "surface": "ישטטו",
-      "gloss": "baya kuzula-zula"
+      "gloss": "baya kuzulazula"
     },
     {
       "surface": "רבים",
@@ -54,13 +53,13 @@
     },
     {
       "surface": "ותרבה",
-      "gloss": "lunokwanda"
+      "gloss": "lunokwandiswa"
     },
     {
       "surface": "הדעת",
       "gloss": "ulwazi"
     }
   ],
-  "timestamp": "2026-09-18T18:41:49.295455293Z",
+  "timestamp": "2026-09-18T20:17:04.488172831Z",
   "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "ruth",
   "lang": "xh",
   "chapter": 1,
-  "translation": "Wathetha uRuth: “Musа ukundikhalabisha ukuba ndikushiye, ndibuyele emva kwakho; kuba apho uya khona, mna ndiya khaya, apho ulala khona, mna ndilala khaya; abantu bakho ngabantu bam, uElohim wakho nguElohim wam.”",
+  "translation": "Wathetha uRuthi: “Mus’ ukundicisha ukushiya wena okanye ukubuyela emva kwakho; kuba apho uya khona, ndiya khona; apho ulala khona, ndilala khona; abantu bakho ngabantu bam; noElohim wakho nguElohim wam.”",
   "tokens": [
     {
       "surface": "ותאמר",
@@ -13,15 +13,15 @@
     },
     {
       "surface": "רות",
-      "gloss": "uRuth"
+      "gloss": "uRuthi"
     },
     {
       "surface": "אל",
-      "gloss": "musa"
+      "gloss": "mus’"
     },
     {
       "surface": "תפגעי",
-      "gloss": "ukundikhalabisha"
+      "gloss": "ukundicisha"
     },
     {
       "surface": "בי",
@@ -29,11 +29,11 @@
     },
     {
       "surface": "לעזבך",
-      "gloss": "ukuba ndikushiye"
+      "gloss": "ukushiya wena"
     },
     {
       "surface": "לשוב",
-      "gloss": "ndibuyele"
+      "gloss": "ukubuyela"
     },
     {
       "surface": "מאחריך",
@@ -45,11 +45,11 @@
     },
     {
       "surface": "אל",
-      "gloss": "apho"
+      "gloss": "apho…khona"
     },
     {
       "surface": "אשר",
-      "gloss": "—"
+      "gloss": "apho"
     },
     {
       "surface": "תלכי",
@@ -57,11 +57,11 @@
     },
     {
       "surface": "אלך",
-      "gloss": "ndiya khaya"
+      "gloss": "ndiya khona"
     },
     {
       "surface": "ובאשר",
-      "gloss": "apho"
+      "gloss": "nokuba apho"
     },
     {
       "surface": "תליני",
@@ -69,7 +69,7 @@
     },
     {
       "surface": "אלין",
-      "gloss": "ndilala khaya"
+      "gloss": "ndilala khona"
     },
     {
       "surface": "עמך",
@@ -81,13 +81,13 @@
     },
     {
       "surface": "ואלהיך",
-      "gloss": "uElohim wakho"
+      "gloss": "noElohim wakho"
     },
     {
       "surface": "אלהי",
-      "gloss": "uElohim wam"
+      "gloss": "nguElohim wam"
     }
   ],
-  "timestamp": "2026-09-18T18:56:04.458704427Z",
+  "timestamp": "2026-09-18T20:19:33.643387913Z",
   "model": "glm-5.3"
 }

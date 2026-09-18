@@ -5,7 +5,7 @@
   "book": "isaiah",
   "lang": "xh",
   "chapter": 38,
-  "translation": "Ndiza kukhulula wena nale sixeko ⟨את⟩ esandleni senkosi yaseAshuri, ndiza kukhusela eli sixeko.",
+  "translation": "Ndiza kukhulula wena nesi sixeko esandleni sekumkani uAshuri; ndiza kukhusela ngesi sixeko.",
   "tokens": [
     {
       "surface": "ומכף",
@@ -13,11 +13,11 @@
     },
     {
       "surface": "מלך",
-      "gloss": "senkosi"
+      "gloss": "sekumkani"
     },
     {
       "surface": "אשור",
-      "gloss": "yaseAshuri"
+      "gloss": "uAshuri"
     },
     {
       "surface": "אצילך",
@@ -26,15 +26,15 @@
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "eli sixeko"
+      "marks": "esi sixeko (le sixeko)"
     },
     {
       "surface": "העיר",
-      "gloss": "eli sixeko"
+      "gloss": "sixeko"
     },
     {
       "surface": "הזאת",
-      "gloss": "eli"
+      "gloss": "esi"
     },
     {
       "surface": "וגנותי",
@@ -42,17 +42,17 @@
     },
     {
       "surface": "על",
-      "gloss": ""
+      "gloss": "phezu kwa-"
     },
     {
       "surface": "העיר",
-      "gloss": "eli sixeko"
+      "gloss": "sixeko"
     },
     {
       "surface": "הזאת",
-      "gloss": "eli"
+      "gloss": "esi"
     }
   ],
-  "timestamp": "2026-09-18T18:48:29.530551103Z",
+  "timestamp": "2026-09-18T20:17:59.313992428Z",
   "model": "glm-5.3"
 }

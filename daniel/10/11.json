@@ -5,11 +5,11 @@
   "book": "daniel",
   "lang": "xh",
   "chapter": 10,
-  "translation": "Wathetha kum: “Daniele, ndoda eneminqweno, qonda amagama endithetha kuwe, yima kwimeko yakho yokuma, kuba ngoku ndithunyelwe kuwe.” Waza esethetha nam ⟨את⟩ eli lizwi, ndayima ndizamazama.",
+  "translation": "Wathi kum: “Daniyeli, ndoda yothandeka, qonda amagama endithethayo kuwe, yima esikhundleni sakho, kuba ngoku ndithunyelwe kuwe.” Kwathi esithetha nam ⟨את⟩ eli ligama, ndamile ndigodola.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "Wathetha"
+      "gloss": "wathi"
     },
     {
       "surface": "אלי",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "דניאל",
-      "gloss": "Daniele"
+      "gloss": "Daniyeli"
     },
     {
       "surface": "איש",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "חמדות",
-      "gloss": "ineminqweno"
+      "gloss": "yothandeka"
     },
     {
       "surface": "הבן",
@@ -37,15 +37,15 @@
     },
     {
       "surface": "אשר",
-      "gloss": "endithetha"
+      "gloss": "–"
     },
     {
       "surface": "אנכי",
-      "gloss": "mna"
+      "gloss": "ndi-"
     },
     {
       "surface": "דבר",
-      "gloss": "ndithetha"
+      "gloss": "thethayo"
     },
     {
       "surface": "אליך",
@@ -57,11 +57,11 @@
     },
     {
       "surface": "על",
-      "gloss": "kwi"
+      "gloss": "e-"
     },
     {
       "surface": "עמדך",
-      "gloss": "imeko yakho yokuma"
+      "gloss": "skhundleni sakho"
     },
     {
       "surface": "כי",
@@ -81,7 +81,7 @@
     },
     {
       "surface": "ובדברו",
-      "gloss": "Waza esethetha"
+      "gloss": "kwathi esithetha"
     },
     {
       "surface": "עמי",
@@ -90,25 +90,25 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "eli lizwi"
+      "marks": "eli ligama"
     },
     {
       "surface": "הדבר",
-      "gloss": "eli lizwi"
+      "gloss": "eli ligama"
     },
     {
       "surface": "הזה",
-      "gloss": ""
+      "gloss": "(eli)"
     },
     {
       "surface": "עמדתי",
-      "gloss": "ndayima"
+      "gloss": "ndamile"
     },
     {
       "surface": "מרעיד",
-      "gloss": "ndizamazama"
+      "gloss": "ndigodola"
     }
   ],
-  "timestamp": "2026-09-18T18:41:44.700834879Z",
+  "timestamp": "2026-09-18T20:17:17.964635042Z",
   "model": "glm-5.3"
 }

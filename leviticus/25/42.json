@@ -5,7 +5,7 @@
   "book": "leviticus",
   "lang": "xh",
   "chapter": 25,
-  "translation": "Kuba ngabakhonzi bam abo, ndabakhupha ⟨את⟩ esuka elwabini leMitsrayim; abathengiswa ngokuthengiswa komkhonzi.",
+  "translation": "Kuba iinkonzi zam abantu, aba ndakhupha ⟨את⟩ abantu kwilizwe leMitsrayim; akanzi athengiswe ngokuthengiswa kokukhonza.",
   "tokens": [
     {
       "surface": "כי",
@@ -13,40 +13,40 @@
     },
     {
       "surface": "עבדי",
-      "gloss": "ngabakhonzi bam"
+      "gloss": "iinkonzi zam"
     },
     {
       "surface": "הם",
-      "gloss": "abo"
+      "gloss": "abanzi"
     },
     {
       "surface": "אשר",
-      "gloss": ""
+      "gloss": "aba"
     },
     {
       "surface": "הוצאתי",
-      "gloss": "ndabakhupha"
+      "gloss": "ndakhupha"
     },
     {
       "surface": "אתם",
       "gloss": "⟨את⟩",
-      "marks": "bona"
+      "marks": "abantu"
     },
     {
       "surface": "מארץ",
-      "gloss": "elwabini"
+      "gloss": "kwilizwe"
     },
     {
       "surface": "מצרים",
-      "gloss": "iMitsrayim"
+      "gloss": "leMitsrayim"
     },
     {
       "surface": "לא",
-      "gloss": "akunanga—"
+      "gloss": "akanzi"
     },
     {
       "surface": "ימכרו",
-      "gloss": "abathengiswa"
+      "gloss": "athengiswe"
     },
     {
       "surface": "ממכרת",
@@ -54,9 +54,9 @@
     },
     {
       "surface": "עבד",
-      "gloss": "komkhonzi"
+      "gloss": "kokukhonza"
     }
   ],
-  "timestamp": "2026-09-18T18:53:01.544398892Z",
+  "timestamp": "2026-09-18T20:18:51.099366711Z",
   "model": "glm-5.3"
 }

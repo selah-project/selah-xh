@@ -5,7 +5,7 @@
   "book": "1-kings",
   "lang": "xh",
   "chapter": 13,
-  "translation": "Kwathi xa inkosi yayiva ⟨את⟩ lamazana lomntu kaElohim awayewadlalile phezu kolusu eBheteli, uYarobheyam walula ⟨את⟩ isandla sakhe ukusuka olusini, esithi: “Bambeni!” Kwatisa isandla sakhe awayesilulile ngakuye, wayengakwazi ukusibuyisela kuye.",
+  "translation": "KWathi, xa inkosi yayiva ⟨את⟩ indaba yomntu kaElohim, leyo wayibizile ngokuchasene naltare eBheit-Eli, uYarobhama walula ⟨את⟩ isandla sakhe kwitha altare, ithi: “Nibambe.” Isandla sakhe esalulayo ngokuchasene naye somile, waza wangenakho ukusibuyisela kuye.",
   "tokens": [
     {
       "surface": "ויהי",
@@ -22,15 +22,15 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "lamazana"
+      "marks": "indaba"
     },
     {
       "surface": "דבר",
-      "gloss": "lamazana"
+      "gloss": "indaba"
     },
     {
       "surface": "איש",
-      "gloss": "umntu"
+      "gloss": "yomntu"
     },
     {
       "surface": "האלהים",
@@ -38,27 +38,27 @@
     },
     {
       "surface": "אשר",
-      "gloss": "awayewadlalile"
+      "gloss": "leyo"
     },
     {
       "surface": "קרא",
-      "gloss": "wadlalile"
+      "gloss": "wayibizile"
     },
     {
       "surface": "על",
-      "gloss": "phezu"
+      "gloss": "ngokuchasene"
     },
     {
       "surface": "המזבח",
-      "gloss": "olusini"
+      "gloss": "naltare"
     },
     {
       "surface": "בבית",
-      "gloss": "eBheteli"
+      "gloss": "eBheit-"
     },
     {
       "surface": "אל",
-      "gloss": ""
+      "gloss": "Eli"
     },
     {
       "surface": "וישלח",
@@ -66,7 +66,7 @@
     },
     {
       "surface": "ירבעם",
-      "gloss": "uYarobheyam"
+      "gloss": "uYarobhama"
     },
     {
       "surface": "את",
@@ -79,23 +79,23 @@
     },
     {
       "surface": "מעל",
-      "gloss": "ukusuka"
+      "gloss": "kwitha"
     },
     {
       "surface": "המזבח",
-      "gloss": "olusini"
+      "gloss": "altare"
     },
     {
       "surface": "לאמר",
-      "gloss": "esithi"
+      "gloss": "ithi"
     },
     {
       "surface": "תפשהו",
-      "gloss": "bambeni"
+      "gloss": "Nibambe"
     },
     {
-      "surface": "ויתיבש",
-      "gloss": "kwatisa"
+      "surface": "ותיבש",
+      "gloss": "somile"
     },
     {
       "surface": "ידו",
@@ -103,23 +103,23 @@
     },
     {
       "surface": "אשר",
-      "gloss": "awayesilulile"
+      "gloss": "eso"
     },
     {
       "surface": "שלח",
-      "gloss": "walula"
+      "gloss": "esalulayo"
     },
     {
       "surface": "עליו",
-      "gloss": "ngakuye"
+      "gloss": "ngokuchasene naye"
     },
     {
       "surface": "ולא",
-      "gloss": "wayengakwazi — akukho"
+      "gloss": "waza wangenakho"
     },
     {
       "surface": "יכל",
-      "gloss": "ukwazi"
+      "gloss": "ngenakho"
     },
     {
       "surface": "להשיבה",
@@ -130,6 +130,6 @@
       "gloss": "kuye"
     }
   ],
-  "timestamp": "2026-09-18T18:38:21.016212341Z",
+  "timestamp": "2026-09-18T20:16:45.166502673Z",
   "model": "glm-5.3"
 }

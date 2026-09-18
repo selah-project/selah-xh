@@ -5,7 +5,7 @@
   "book": "1-kings",
   "lang": "xh",
   "chapter": 13,
-  "translation": "Waza wamemeza ngelizwi likaYahwe phezu kwesixhobo, wathi: “Isixhobo, isixhobo, uthe uYahwe: Yabonakala, unyana uzakuzalwa kuwo umzi kaDawidi, uYoshiyahu igama lakhe, uza kuzithwalela phezu kwakho ⟨את⟩ amapristi emiqulu eminanze ngakho, amathambo omntu aza kutshiswa phezu kwakho.”",
+  "translation": "Wamemeza esibingelelweni ngelizwi likaYahwe, wathetha: “Isibingelelo, isibingelelo, utsho uYahwe: Nangu unyana uzakuzalwa endlwini kaDavide, uYoshiyahu igama lakhe, yena uza kuchitha ngaphezu kwakho ⟨את⟩ abapristi bezixeko eziphakamileyo abatshisayo imveliso ngaphezu kwakho, iinthambo zomntu ziza kutshiswa ngaphezu kwakho.”",
   "tokens": [
     {
       "surface": "ויקרא",
@@ -13,11 +13,11 @@
     },
     {
       "surface": "על",
-      "gloss": "phezu"
+      "gloss": "esibingelelweni"
     },
     {
       "surface": "המזבח",
-      "gloss": "kwesixhobo"
+      "gloss": "isibingelelo"
     },
     {
       "surface": "בדבר",
@@ -29,23 +29,23 @@
     },
     {
       "surface": "ויאמר",
-      "gloss": "wathi"
+      "gloss": "wathetha"
     },
     {
       "surface": "מזבח",
-      "gloss": "Isixhobo"
+      "gloss": "Isibingelelo"
     },
     {
       "surface": "מזבח",
-      "gloss": "isixhobo"
+      "gloss": "isibingelelo"
     },
     {
       "surface": "כה",
-      "gloss": "uthe"
+      "gloss": "utsho"
     },
     {
       "surface": "אמר",
-      "gloss": "uthe"
+      "gloss": "uYahwe"
     },
     {
       "surface": "יהוה",
@@ -53,7 +53,7 @@
     },
     {
       "surface": "הנה",
-      "gloss": "Yabonakala"
+      "gloss": "Nangu"
     },
     {
       "surface": "בן",
@@ -65,66 +65,66 @@
     },
     {
       "surface": "לבית",
-      "gloss": "kuwo"
+      "gloss": "endlwini"
     },
     {
       "surface": "דוד",
-      "gloss": "umzi"
+      "gloss": "kaDavide"
     },
     {
       "surface": "יאשיהו",
-      "gloss": "kaDawidi"
-    },
-    {
-      "surface": "שמו",
-      "gloss": "igama"
-    },
-    {
-      "surface": "וזבח",
       "gloss": "uYoshiyahu"
     },
     {
+      "surface": "שמו",
+      "gloss": "igama lakhe"
+    },
+    {
+      "surface": "וזבח",
+      "gloss": "uza kuchitha"
+    },
+    {
       "surface": "עליך",
-      "gloss": "phezu"
+      "gloss": "ngaphezu kwakho"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "amapristi emiqulu"
+      "marks": "abapristi bezixeko eziphakamileyo"
     },
     {
       "surface": "כהני",
-      "gloss": "amapristi"
+      "gloss": "abapristi"
     },
     {
       "surface": "הבמות",
-      "gloss": "emiqulu"
+      "gloss": "bezixeko eziphakamileyo"
     },
     {
       "surface": "המקטרים",
-      "gloss": "eminanze"
+      "gloss": "abatshisayo imveliso"
     },
     {
       "surface": "עליך",
-      "gloss": "ngakho"
+      "gloss": "ngaphezu kwakho"
     },
     {
       "surface": "ועצמות",
-      "gloss": "amathambo"
+      "gloss": "iinthambo"
     },
     {
       "surface": "אדם",
-      "gloss": "omntu"
+      "gloss": "zomntu"
     },
     {
       "surface": "ישרפו",
-      "gloss": "aza kutshiswa"
+      "gloss": "ziza kutshiswa"
     },
     {
       "surface": "עליך",
-      "gloss": "phezu kwakho"
+      "gloss": "ngaphezu kwakho"
     }
   ],
-  "timestamp": "2026-09-18T10:26:43.035535334Z",
+  "timestamp": "2026-09-18T20:16:44.387511358Z",
   "model": "glm-5.3"
 }

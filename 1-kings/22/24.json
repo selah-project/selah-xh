@@ -5,15 +5,15 @@
   "book": "1-kings",
   "lang": "xh",
   "chapter": 22,
-  "translation": "Wasondele uTsidiqiyahu unyana kaKenaana, wamtyabula ⟨את⟩ uMikayehu esihlathini, wathi: “Ngaphi na le ndlela yadlula ngayo umoya kaYahwe, usuka kum ⟨את⟩, ukukhuluma ⟨את⟩ wena?”",
+  "translation": "Wasondela uTsidkiyahu, unyana kaKenana, wamqhatha uMikayahu esithangeni, wathi: “Ngaphi na kudlula umoya kaYahwe ⟨את⟩ kum, ukuthetha ⟨את⟩ kuwe?”",
   "tokens": [
     {
       "surface": "ויגש",
-      "gloss": "wasondele"
+      "gloss": "Wasondela"
     },
     {
       "surface": "צדקיהו",
-      "gloss": "uTsidiqiyahu"
+      "gloss": "uTsidkiyahu"
     },
     {
       "surface": "בן",
@@ -21,28 +21,28 @@
     },
     {
       "surface": "כנענה",
-      "gloss": "kaKenaana"
+      "gloss": "kaKenana"
     },
     {
       "surface": "ויכה",
-      "gloss": "wamtyabula"
+      "gloss": "wamqhatha"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "uMikayehu"
+      "marks": "uMikayahu"
     },
     {
       "surface": "מיכיהו",
-      "gloss": "uMikayehu"
+      "gloss": "uMikayahu"
     },
     {
       "surface": "על",
-      "gloss": "esihlathini phezu"
+      "gloss": "esithangeni (phezu kwaso)"
     },
     {
       "surface": "הלחי",
-      "gloss": "esihlathini"
+      "gloss": "isithange"
     },
     {
       "surface": "ויאמר",
@@ -50,7 +50,7 @@
     },
     {
       "surface": "אי",
-      "gloss": "ngaphi"
+      "gloss": "Ngaphi na"
     },
     {
       "surface": "זה",
@@ -58,7 +58,7 @@
     },
     {
       "surface": "עבר",
-      "gloss": "yadlula"
+      "gloss": "kudlula"
     },
     {
       "surface": "רוח",
@@ -70,17 +70,18 @@
     },
     {
       "surface": "מאתי",
-      "gloss": "usuka kum ⟨את⟩"
+      "gloss": "⟨את⟩ kum"
     },
     {
       "surface": "לדבר",
-      "gloss": "ukukhuluma"
+      "gloss": "ukuthetha"
     },
     {
       "surface": "אותך",
-      "gloss": "⟨את⟩ wena"
+      "gloss": "⟨את⟩ kuwe",
+      "marks": "kuwe (uMikayahu)"
     }
   ],
-  "timestamp": "2026-09-18T10:36:34.460411088Z",
+  "timestamp": "2026-09-18T20:16:53.208798552Z",
   "model": "glm-5.3"
 }

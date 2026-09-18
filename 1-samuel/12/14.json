@@ -5,7 +5,7 @@
   "book": "1-samuel",
   "lang": "xh",
   "chapter": 12,
-  "translation": "Ukuba niyoyika uYahwe, nimkhonza, nilalele ilizwi lakhe, ungaphazamisi ⟨את⟩ ukomyalelo lukaYahwe, niya kuba yini nani nenkosi ebusa phezu kwenu, nilandela uYahwe uElohim wenu.",
+  "translation": "Ukuba niyamoyika ⟨את⟩ uYahwe, nimkhonza, nilalele ilizwi lakhe, ningaphazamisi ⟨את⟩ umlomo kaYahwe, niya kuba nani nina nakwi⟨inkosi⟩ ebusa phezu kwenu, nilandela ngasemva koYahwe uElohim wenu.",
   "tokens": [
     {
       "surface": "אם",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "תיראו",
-      "gloss": "niyoyika"
+      "gloss": "niyamoyika"
     },
     {
       "surface": "את",
@@ -30,8 +30,7 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩",
-      "marks": "nimkhonza (yena)"
+      "gloss": "⟨את⟩"
     },
     {
       "surface": "ושמעתם",
@@ -43,24 +42,24 @@
     },
     {
       "surface": "ולא",
-      "gloss": "ungaphazamisi"
+      "gloss": "ninga"
     },
     {
       "surface": "תמרו",
-      "gloss": "ungaphazamisi"
+      "gloss": "phazamisi"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ukomyalelo"
+      "marks": "umlomo kaYahwe"
     },
     {
       "surface": "פי",
-      "gloss": "ukomyalelo"
+      "gloss": "umlomo"
     },
     {
       "surface": "יהוה",
-      "gloss": "lukaYahwe"
+      "gloss": "kaYahwe"
     },
     {
       "surface": "והיתם",
@@ -68,15 +67,15 @@
     },
     {
       "surface": "גם",
-      "gloss": "yini"
-    },
-    {
-      "surface": "אתם",
       "gloss": "nani"
     },
     {
+      "surface": "אתם",
+      "gloss": "nina"
+    },
+    {
       "surface": "וגם",
-      "gloss": "ne"
+      "gloss": "nakwi"
     },
     {
       "surface": "המלך",
@@ -84,7 +83,7 @@
     },
     {
       "surface": "אשר",
-      "gloss": "ebusa (esi)"
+      "gloss": "ebusa"
     },
     {
       "surface": "מלך",
@@ -96,7 +95,7 @@
     },
     {
       "surface": "אחר",
-      "gloss": "nilandela"
+      "gloss": "ngasemva ko"
     },
     {
       "surface": "יהוה",
@@ -107,6 +106,6 @@
       "gloss": "uElohim wenu"
     }
   ],
-  "timestamp": "2026-09-18T09:21:25.531917202Z",
+  "timestamp": "2026-09-18T20:17:01.262027898Z",
   "model": "glm-5.3"
 }

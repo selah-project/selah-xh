@@ -5,15 +5,15 @@
   "book": "isaiah",
   "lang": "xh",
   "chapter": 37,
-  "translation": "Olu yiloo lizwi elithethwa nguYahwe ngaye: yakuncamakaliswa, intombi intsokombi yaseTsiyon; yakuhlekisa ngeentswaa; emva kwakho intombi kaYerushalayimi yachukumisa intloko.",
+  "translation": "Olu luludaba uYahwe aluthethele ngaye: Ukudlala ngakuthi, ukuchitha ngakuthi, intombi yaseTsiyoni; emva kwakho ihlokoma intombi yeYerushalayimi.",
   "tokens": [
     {
       "surface": "זה",
-      "gloss": "ol"
+      "gloss": "Olu"
     },
     {
       "surface": "הדבר",
-      "gloss": "yiloo lizwi"
+      "gloss": "uludaba"
     },
     {
       "surface": "אשר",
@@ -21,11 +21,11 @@
     },
     {
       "surface": "דבר",
-      "gloss": "elithethwa nguYahwe"
+      "gloss": "aluthethele"
     },
     {
       "surface": "יהוה",
-      "gloss": "nguYahwe"
+      "gloss": "uYahwe"
     },
     {
       "surface": "עליו",
@@ -33,31 +33,31 @@
     },
     {
       "surface": "בזה",
-      "gloss": "yakuncamakaliswa"
+      "gloss": "Ukudlala ngakuthi"
     },
     {
       "surface": "לך",
-      "gloss": "kuwe"
+      "gloss": "ngakuthi"
     },
     {
       "surface": "לעגה",
-      "gloss": "yakuhlekisa ngeentswaa"
+      "gloss": "ukuchitha"
     },
     {
       "surface": "לך",
-      "gloss": "kuwe"
+      "gloss": "ngakuthi"
     },
     {
       "surface": "בתולת",
-      "gloss": "intsokombi"
-    },
-    {
-      "surface": "בת",
       "gloss": "intombi"
     },
     {
+      "surface": "בת",
+      "gloss": "yase-"
+    },
+    {
       "surface": "ציון",
-      "gloss": "yaseTsiyon"
+      "gloss": "Tsiyoni"
     },
     {
       "surface": "אחריך",
@@ -65,11 +65,11 @@
     },
     {
       "surface": "ראש",
-      "gloss": "intloko"
+      "gloss": "ihlokoma"
     },
     {
       "surface": "הניעה",
-      "gloss": "yachukumisa"
+      "gloss": "ihlokoma"
     },
     {
       "surface": "בת",
@@ -77,9 +77,9 @@
     },
     {
       "surface": "ירושלם",
-      "gloss": "kaYerushalayimi"
+      "gloss": "yeYerushalayimi"
     }
   ],
-  "timestamp": "2026-09-18T18:47:42.478174958Z",
+  "timestamp": "2026-09-18T20:19:44.691844333Z",
   "model": "glm-5.3"
 }

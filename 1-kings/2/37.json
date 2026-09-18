@@ -5,11 +5,11 @@
   "book": "1-kings",
   "lang": "xh",
   "chapter": 2,
-  "translation": "Kwaye kuya kubakho ukuba ngosuku lokuphuma kwakho, ndiya kuwadlula ⟨את⟩ umlambo iKidroni, uya kwazi ngokwenene ukuba uya kufa ngempela; igazi lakho liya kuba phezu kwentloko yakho.",
+  "translation": "Kwaye kuya kuba njalo: ngosuku oluya phuma ngalo, wandula umdlwana weQidroni, uya kwazi ngokucacileyo ukuba uya kufa ngenene; igazi lakhe liza kuba liphezu kweentloko yakhe.",
   "tokens": [
     {
       "surface": "והיה",
-      "gloss": "kuya kubakho"
+      "gloss": "kwaye kuya kuba njalo"
     },
     {
       "surface": "ביום",
@@ -17,32 +17,32 @@
     },
     {
       "surface": "צאתך",
-      "gloss": "lokuphuma kwakho"
+      "gloss": "oluya phuma ngalo"
     },
     {
       "surface": "ועברת",
-      "gloss": "uya kuwadlula"
+      "gloss": "wandula"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "umlambo iKidroni"
+      "marks": "umdlwana weQidroni"
     },
     {
       "surface": "נחל",
-      "gloss": "umlambo"
+      "gloss": "umdlwana"
     },
     {
       "surface": "קדרון",
-      "gloss": "iKidroni"
+      "gloss": "weQidroni"
     },
     {
       "surface": "ידע",
-      "gloss": "uya kwazi"
+      "gloss": "⟨uya⟩"
     },
     {
       "surface": "תדע",
-      "gloss": "ngokwenene"
+      "gloss": "kwazi"
     },
     {
       "surface": "כי",
@@ -50,25 +50,25 @@
     },
     {
       "surface": "מות",
-      "gloss": "ufa"
+      "gloss": "⟨ngenene⟩"
     },
     {
       "surface": "תמות",
-      "gloss": "ngempela"
+      "gloss": "uya kufa"
     },
     {
       "surface": "דמך",
-      "gloss": "igazi lakho"
+      "gloss": "igazi lakhe"
     },
     {
       "surface": "יהיה",
-      "gloss": "liya kuba"
+      "gloss": "liza kuba"
     },
     {
       "surface": "בראשך",
-      "gloss": "phezu kwentloko yakso"
+      "gloss": "phezu kweentloko yakhe"
     }
   ],
-  "timestamp": "2026-09-18T10:09:09.425725012Z",
+  "timestamp": "2026-09-18T20:16:32.487421810Z",
   "model": "glm-5.3"
 }

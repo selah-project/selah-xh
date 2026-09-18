@@ -5,19 +5,19 @@
   "book": "1-chronicles",
   "lang": "xh",
   "chapter": 5,
-  "translation": "Kwaye uYehotsadaki wahanjiswa ekuthinjweni, xa uYahwe wathuma <את> uYuda nakwiYerushalayimi ngesandla soBhukhadhine tsari.",
+  "translation": "uYehotsadaka wahamba ekuthunjweni, xa uYahwe wathunela <את> uYehuda neYerushalayimi ngesandla seNebukadnetsara.",
   "tokens": [
     {
       "surface": "ויהוצדק",
-      "gloss": "uYehotsadaki"
+      "gloss": "uYehotsadaka"
     },
     {
       "surface": "הלך",
-      "gloss": "wahanjiswa"
+      "gloss": "wahamba"
     },
     {
       "surface": "בהגלות",
-      "gloss": "ekuthinjweni"
+      "gloss": "ekuthunjweni"
     },
     {
       "surface": "יהוה",
@@ -26,15 +26,15 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "uYuda"
+      "marks": "uYehuda"
     },
     {
       "surface": "יהודה",
-      "gloss": "uYuda"
+      "gloss": "uYehuda"
     },
     {
       "surface": "וירושלם",
-      "gloss": "iYerushalayimi"
+      "gloss": "neYerushalayimi"
     },
     {
       "surface": "ביד",
@@ -42,9 +42,9 @@
     },
     {
       "surface": "נבכדנאצר",
-      "gloss": "uBhukhadhine tsari"
+      "gloss": "seNebukadnetsara"
     }
   ],
-  "timestamp": "2026-09-18T18:37:16.238615284Z",
+  "timestamp": "2026-09-18T20:16:29.640919594Z",
   "model": "glm-5.3"
 }

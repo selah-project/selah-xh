@@ -5,15 +5,15 @@
   "book": "jeremiah",
   "lang": "xh",
   "chapter": 38,
-  "translation": "Kwaye iinkosi zathi kukumlawuli: “Sicela loo mntu ⟨את⟩ abulawe, kuba ngokunjalo uyenza izandla zibe buthathaka zamadoda empilo eshiyiweyo kweli dolophu, nakwe ⟨את⟩ izandla zonke abantu, ngokuthetha kubo njengale magama; kuba loo mntu akafuni impilo entle yalo mntu wonke, kodwa ukonakala.",
+  "translation": "Iinduna zathi kukumkani: “Nceda, mabulawe ⟨את⟩ lo mntu, kuba ngenxa yoko yena uyabuthaza ⟨את⟩ ezandla zamadoda emfazwe asaleleyo kule sixeko, nazo ⟨את⟩ ezandla zonke abantu, ngokubathethela njengala mazwi; kuba lo mntu akafuni ukufunela uxolo aba bantu, kungekhona okungalunganga.”",
   "tokens": [
     {
       "surface": "ויאמרו",
-      "gloss": "kwaye zathi"
+      "gloss": "zathi"
     },
     {
       "surface": "השרים",
-      "gloss": "iinkosi"
+      "gloss": "iinduna"
     },
     {
       "surface": "אל",
@@ -21,24 +21,24 @@
     },
     {
       "surface": "המלך",
-      "gloss": "umlawuli"
+      "gloss": "kumkani"
     },
     {
       "surface": "יומת",
-      "gloss": "abulawe"
+      "gloss": "mabulawe"
     },
     {
       "surface": "נא",
-      "gloss": "sicela"
+      "gloss": "nceda"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "loo mntu"
+      "marks": "lo mntu"
     },
     {
       "surface": "האיש",
-      "gloss": "loo mntu"
+      "gloss": "lo mntu"
     },
     {
       "surface": "הזה",
@@ -50,11 +50,11 @@
     },
     {
       "surface": "על",
-      "gloss": "ngaphezu"
+      "gloss": "ngenxa"
     },
     {
       "surface": "כן",
-      "gloss": "kokunjalo"
+      "gloss": "yoko"
     },
     {
       "surface": "הוא",
@@ -62,45 +62,45 @@
     },
     {
       "surface": "מרפא",
-      "gloss": "enza ubuthathaka"
+      "gloss": "uyabuthaza"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "izandla zamadoda empilo"
+      "marks": "ezandla"
     },
     {
       "surface": "ידי",
-      "gloss": "izandla"
+      "gloss": "ezandla"
     },
     {
       "surface": "אנשי",
-      "gloss": "zamadoda"
+      "gloss": "amadoda"
     },
     {
       "surface": "המלחמה",
-      "gloss": "empilo"
+      "gloss": "emfazwe"
     },
     {
       "surface": "הנשארים",
-      "gloss": "eshiyiweyo"
+      "gloss": "asaleleyo"
     },
     {
       "surface": "בעיר",
-      "gloss": "kweli dolophu"
+      "gloss": "kule sixeko"
     },
     {
       "surface": "הזאת",
-      "gloss": "eli"
+      "gloss": "le"
     },
     {
       "surface": "ואת",
-      "gloss": "nakwe ⟨את⟩",
-      "marks": "izandla zonke abantu"
+      "gloss": "nazo ⟨את⟩",
+      "marks": "ezandla zonke abantu"
     },
     {
       "surface": "ידי",
-      "gloss": "izandla"
+      "gloss": "ezandla"
     },
     {
       "surface": "כל",
@@ -112,7 +112,7 @@
     },
     {
       "surface": "לדבר",
-      "gloss": "ukuthetha"
+      "gloss": "ukubathethela"
     },
     {
       "surface": "אליהם",
@@ -120,11 +120,11 @@
     },
     {
       "surface": "כדברים",
-      "gloss": "njengamagama"
+      "gloss": "njengala"
     },
     {
       "surface": "האלה",
-      "gloss": "la"
+      "gloss": "mazwi"
     },
     {
       "surface": "כי",
@@ -132,7 +132,7 @@
     },
     {
       "surface": "האיש",
-      "gloss": "loo mntu"
+      "gloss": "lo mntu"
     },
     {
       "surface": "הזה",
@@ -144,33 +144,33 @@
     },
     {
       "surface": "דרש",
-      "gloss": "ufuna"
+      "gloss": "ukufunela"
     },
     {
       "surface": "לשלום",
-      "gloss": "impilo entle"
+      "gloss": "uxolo"
     },
     {
       "surface": "לעם",
-      "gloss": "yalo mntu"
+      "gloss": "aba bantu"
     },
     {
       "surface": "הזה",
-      "gloss": "lo"
+      "gloss": "aba"
     },
     {
       "surface": "כי",
-      "gloss": "kodwa"
+      "gloss": "kungekhona"
     },
     {
       "surface": "אם",
-      "gloss": ""
+      "gloss": "kungekhona"
     },
     {
       "surface": "לרעה",
-      "gloss": "ukonakala"
+      "gloss": "okungalunganga"
     }
   ],
-  "timestamp": "2026-09-18T18:50:03.211415872Z",
+  "timestamp": "2026-09-18T20:18:16.840624656Z",
   "model": "glm-5.3"
 }

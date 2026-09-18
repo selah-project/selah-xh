@@ -5,11 +5,11 @@
   "book": "1-kings",
   "lang": "xh",
   "chapter": 5,
-  "translation": "Wabathumela eLebanoni amawaka ali-10 ngenyanga ngokutshintshana; inyanga bayibe eLebanoni, iinyanga ezimbini besekhaya; u-Adoniram wayephethe ⟨את⟩ isigxobo.",
+  "translation": "Wawathumela eLebanoni, iinkulu elishumi ngenyanga, ngokutshintshelana: inyanga enye bebeseLebanoni, iinyanga ezimbini besekhayeni; u-Adoniram wayengaphezulu komthwalo wecorpus.",
   "tokens": [
     {
       "surface": "וישלחם",
-      "gloss": "Wabathumela"
+      "gloss": "Wawathumela"
     },
     {
       "surface": "לבנונה",
@@ -17,11 +17,11 @@
     },
     {
       "surface": "עשרת",
-      "gloss": "amawaka ali-10"
+      "gloss": "elishumi"
     },
     {
       "surface": "אלפים",
-      "gloss": ""
+      "gloss": "iinkulu"
     },
     {
       "surface": "בחדש",
@@ -29,15 +29,15 @@
     },
     {
       "surface": "חליפות",
-      "gloss": "ngokutshintshana"
+      "gloss": "ngokutshintshelana"
     },
     {
       "surface": "חדש",
-      "gloss": "inyanga"
+      "gloss": "inyanga enye"
     },
     {
       "surface": "יהיו",
-      "gloss": "bayibe"
+      "gloss": "bebekhona"
     },
     {
       "surface": "בלבנון",
@@ -53,7 +53,7 @@
     },
     {
       "surface": "בביתו",
-      "gloss": "besekhaya"
+      "gloss": "ekhayeni"
     },
     {
       "surface": "ואדנירם",
@@ -61,13 +61,13 @@
     },
     {
       "surface": "על",
-      "gloss": "wayephethe"
+      "gloss": "engaphezulu"
     },
     {
       "surface": "המס",
-      "gloss": "isigxobo"
+      "gloss": "komthwalo wecorpus"
     }
   ],
-  "timestamp": "2026-09-18T18:38:04.334991253Z",
+  "timestamp": "2026-09-18T20:16:43.097374470Z",
   "model": "glm-5.3"
 }

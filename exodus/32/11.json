@@ -5,11 +5,11 @@
   "book": "exodus",
   "lang": "xh",
   "chapter": 32,
-  "translation": "Wacelenkosela uMoshe ⟨את⟩ ubuso bukaYahwe uElohim wakhe, wathi: Yini uYahwe ukuba ulaka lwakho luduke ngabantu bakho, obakhuphe emhlabeni waseMitsrayim ngamandla amakhulu nangesandla esomeleleyo?",
+  "translation": "UMoshe wacingcela ⟨את⟩ ubuso bukaYahwe, uElohim wakhe, wathetha wathi: “Yahwe, kutheni ulaka lwakho luvutha ngabantu bakho, owakhuphayo kwilizwe laseMitsrayim ngamandla amakhulu nangesandla esomeleleyo?”",
   "tokens": [
     {
       "surface": "ויחל",
-      "gloss": "wacelenkosela"
+      "gloss": "wacingcela"
     },
     {
       "surface": "משה",
@@ -18,7 +18,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ubuso bukaYahwe"
+      "marks": "ubuso"
     },
     {
       "surface": "פני",
@@ -26,7 +26,7 @@
     },
     {
       "surface": "יהוה",
-      "gloss": "bukaYahwe"
+      "gloss": "kaYahwe"
     },
     {
       "surface": "אלהיו",
@@ -34,23 +34,23 @@
     },
     {
       "surface": "ויאמר",
-      "gloss": "wathi"
+      "gloss": "wathetha wathi"
     },
     {
       "surface": "למה",
-      "gloss": "yini"
+      "gloss": "kutheni"
     },
     {
       "surface": "יהוה",
-      "gloss": "uYahwe"
+      "gloss": "Yahwe"
     },
     {
       "surface": "יחרה",
-      "gloss": "makangaduki"
+      "gloss": "luvutha"
     },
     {
       "surface": "אפך",
-      "gloss": "ulaka lwakho"
+      "gloss": "ulaka lwakhe"
     },
     {
       "surface": "בעמך",
@@ -58,19 +58,19 @@
     },
     {
       "surface": "אשר",
-      "gloss": "oba"
+      "gloss": "oba-"
     },
     {
       "surface": "הוצאת",
-      "gloss": "obakhuphe"
+      "gloss": "owakhuphayo"
     },
     {
       "surface": "מארץ",
-      "gloss": "emhlabeni"
+      "gloss": "kwilizwe"
     },
     {
       "surface": "מצרים",
-      "gloss": "waseMitsrayim"
+      "gloss": "laseMitsrayim"
     },
     {
       "surface": "בכח",
@@ -89,6 +89,6 @@
       "gloss": "esomeleleyo"
     }
   ],
-  "timestamp": "2026-09-18T06:23:18.638456885Z",
+  "timestamp": "2026-09-18T20:17:39.283981058Z",
   "model": "glm-5.3"
 }

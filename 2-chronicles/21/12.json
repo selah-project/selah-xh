@@ -5,11 +5,11 @@
   "book": "2-chronicles",
   "lang": "xh",
   "chapter": 21,
-  "translation": "Kwafikelela kuye incwadi esetshiweyo ivela ku-Eliyahu, um profethi, ithi: Uthi uYahwe, uElohim kaDavide uyise: Ngenxa yokuba awuhambanga ezindleleni zeYehoshafati uyise, nakwezindleleni ze-Asa, inkosi yaseYuda,",
+  "translation": "Kwafikeliswa kuye incwadi evela ku-Eliyahu umprofeti, ithi: Uza kutsho njalo uYahwe, uElohim kaDavide uyise, kuba awuhambanga ezindlebeni zikaYehoshafati uyise, nasezindlebeni zika-Asa inkosi yaseYuda;",
   "tokens": [
     {
       "surface": "ויבא",
-      "gloss": "kwafikelela"
+      "gloss": "kwafikeliswa"
     },
     {
       "surface": "אליו",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "מכתב",
-      "gloss": "incwadi esetshiweyo"
+      "gloss": "incwadi"
     },
     {
       "surface": "מאליהו",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "הנביא",
-      "gloss": "um profethi"
+      "gloss": "umprofeti"
     },
     {
       "surface": "לאמר",
@@ -33,11 +33,11 @@
     },
     {
       "surface": "כה",
-      "gloss": ""
+      "gloss": "njalo"
     },
     {
       "surface": "אמר",
-      "gloss": "uthi"
+      "gloss": "utsho"
     },
     {
       "surface": "יהוה",
@@ -57,27 +57,27 @@
     },
     {
       "surface": "תחת",
-      "gloss": "ngenkxa"
+      "gloss": "kuba"
     },
     {
       "surface": "אשר",
-      "gloss": "yokuba"
+      "gloss": ""
     },
     {
       "surface": "לא",
-      "gloss": "hayi"
+      "gloss": "akuhambanga"
     },
     {
       "surface": "הלכת",
-      "gloss": "wahamba"
+      "gloss": "awuhambanga"
     },
     {
       "surface": "בדרכי",
-      "gloss": "ezindleleni"
+      "gloss": "ezindlebeni"
     },
     {
       "surface": "יהושפט",
-      "gloss": "zeYehoshafati"
+      "gloss": "kaYehoshafati"
     },
     {
       "surface": "אביך",
@@ -85,11 +85,11 @@
     },
     {
       "surface": "ובדרכי",
-      "gloss": "nakwezindleleni"
+      "gloss": "nasezindlebeni"
     },
     {
       "surface": "אסא",
-      "gloss": "ze-Asa"
+      "gloss": "ka-Asa"
     },
     {
       "surface": "מלך",
@@ -100,6 +100,6 @@
       "gloss": "yaseYuda"
     }
   ],
-  "timestamp": "2026-09-18T18:39:31.704823833Z",
+  "timestamp": "2026-09-18T20:19:53.263075907Z",
   "model": "glm-5.3"
 }

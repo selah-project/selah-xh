@@ -5,7 +5,7 @@
   "book": "ezekiel",
   "lang": "xh",
   "chapter": 38,
-  "translation": "Emva kweentsuku ezininzi uza kubizwa kwangoko; ekupheleni kwiminyaka uza kuza elizweni elibuyisiweyo esinkrelweni, eliqokelelweyo kwizizwe ezininzi, phezu kweentaba zakwaSirayeli, eazange ziphile zibe yinkangca isikhathi eside; yona yakhutshwa phakathi kwizizwe, basalela bekhuselekile bonke.",
+  "translation": "Emva kweentsuku ezininzi uza kumiswa; ekupheleni kweminyaka uza kuza kumhlaba obuyisiweyo olusuka emkhonzweni, oqokelelweyo kubantu abaninzi, phezu kwezintaba zikaSirayeli, eaba yintlanga njalo; yena ikhutshiwe kubantu, ahlala bekhuselekile bonke.",
   "tokens": [
     {
       "surface": "מימים",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "תפקד",
-      "gloss": "uza kubizwa kwangoko"
+      "gloss": "uza kumiswa"
     },
     {
       "surface": "באחרית",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "השנים",
-      "gloss": "kwiminyaka"
+      "gloss": "kweminyaka"
     },
     {
       "surface": "תבוא",
@@ -33,31 +33,31 @@
     },
     {
       "surface": "אל",
-      "gloss": "ku-"
+      "gloss": "ku"
     },
     {
       "surface": "ארץ",
-      "gloss": "elizweni"
+      "gloss": "umhlaba"
     },
     {
       "surface": "משובבת",
-      "gloss": "elibuyisiweyo"
+      "gloss": "obuyisiweyo"
     },
     {
       "surface": "מחרב",
-      "gloss": "esinkrelweni"
+      "gloss": "olusuka emkhonzweni"
     },
     {
       "surface": "מקבצת",
-      "gloss": "eliqokelelweyo"
+      "gloss": "oqokelelweyo"
     },
     {
       "surface": "מעמים",
-      "gloss": "kwizizwe"
+      "gloss": "kubantu"
     },
     {
       "surface": "רבים",
-      "gloss": "ezininzi"
+      "gloss": "abaninzi"
     },
     {
       "surface": "על",
@@ -65,11 +65,11 @@
     },
     {
       "surface": "הרי",
-      "gloss": "kweentaba"
+      "gloss": "kwezintaba"
     },
     {
       "surface": "ישראל",
-      "gloss": "zakwaSirayeli"
+      "gloss": "zikaSirayeli"
     },
     {
       "surface": "אשר",
@@ -77,31 +77,31 @@
     },
     {
       "surface": "היו",
-      "gloss": "zibe"
+      "gloss": "eaba"
     },
     {
       "surface": "לחרבה",
-      "gloss": "yinkangca"
+      "gloss": "yintlanga"
     },
     {
       "surface": "תמיד",
-      "gloss": "isikhathi eside"
+      "gloss": "njalo"
     },
     {
       "surface": "והיא",
-      "gloss": "yona"
+      "gloss": "yena"
     },
     {
       "surface": "מעמים",
-      "gloss": "phakathi kwizizwe"
+      "gloss": "kubantu"
     },
     {
       "surface": "הוצאה",
-      "gloss": "yakhutshwa"
+      "gloss": "ikhutshiwe"
     },
     {
       "surface": "וישבו",
-      "gloss": "basalela"
+      "gloss": "ahlala"
     },
     {
       "surface": "לבטח",
@@ -112,6 +112,6 @@
       "gloss": "bonke"
     }
   ],
-  "timestamp": "2026-09-18T13:26:33.302237305Z",
+  "timestamp": "2026-09-18T20:17:39.331223890Z",
   "model": "glm-5.3"
 }

@@ -5,11 +5,11 @@
   "book": "1-samuel",
   "lang": "xh",
   "chapter": 2,
-  "translation": "Umuntu wayesithi kuye: “Amafutha makatshiswe ngomsi kuqala njengangoku, wena uze wathabathe njengoko umphefumlo wakho awulangazeleyo.” Yena wayesithi: “Hayi; unika ngoku, kuba ukuba ungabiniki, ndiza kuyithabatha ngamandla.”",
+  "translation": "Wathi lo mntu kuye: “Tshisani ngokwenene amafutha namhlanje, ze uthathe okokwakho njengoko sithanda umphefumlo wakho.” Yena wathi kuye: “Hayi, ngoku uzakunika; ukuba awuniki, ndithathe ngeendlela zamandla.”",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "wayesithi"
+      "gloss": "Wathi"
     },
     {
       "surface": "אליו",
@@ -17,19 +17,19 @@
     },
     {
       "surface": "האיש",
-      "gloss": "umntu"
+      "gloss": "lo mntu"
     },
     {
       "surface": "קטר",
-      "gloss": "qalisa"
+      "gloss": "Tshisani"
     },
     {
       "surface": "יקטירון",
-      "gloss": "batshise ngomsi"
+      "gloss": "ngokwenene"
     },
     {
       "surface": "כיום",
-      "gloss": "njengangoku"
+      "gloss": "namhlanje"
     },
     {
       "surface": "החלב",
@@ -37,11 +37,11 @@
     },
     {
       "surface": "וקח",
-      "gloss": "uthabathe"
+      "gloss": "uthathe"
     },
     {
       "surface": "לך",
-      "gloss": "wena"
+      "gloss": "okokwakho"
     },
     {
       "surface": "כאשר",
@@ -49,7 +49,7 @@
     },
     {
       "surface": "תאוה",
-      "gloss": "awulangazeleyo"
+      "gloss": "sithanda"
     },
     {
       "surface": "נפשך",
@@ -57,15 +57,15 @@
     },
     {
       "surface": "ואמר",
-      "gloss": "wayesithi"
+      "gloss": "Wathi"
     },
     {
       "surface": "לו",
-      "gloss": "yena"
+      "gloss": "kuye"
     },
     {
       "surface": "כי",
-      "gloss": "ke"
+      "gloss": "Hayi"
     },
     {
       "surface": "עתה",
@@ -73,25 +73,25 @@
     },
     {
       "surface": "תתן",
-      "gloss": "unika"
+      "gloss": "uzakunika"
     },
     {
       "surface": "ואם",
-      "gloss": "kuba ukuba"
+      "gloss": "ukuba"
     },
     {
       "surface": "לא",
-      "gloss": "ungabiniki"
+      "gloss": "awuniki"
     },
     {
       "surface": "לקחתי",
-      "gloss": "ndiza kuyithabatha"
+      "gloss": "ndithathe"
     },
     {
       "surface": "בחזקה",
-      "gloss": "ngamandla"
+      "gloss": "ngeendlela zamandla"
     }
   ],
-  "timestamp": "2026-09-18T09:15:55.917008342Z",
+  "timestamp": "2026-09-18T20:17:05.448738411Z",
   "model": "glm-5.3"
 }

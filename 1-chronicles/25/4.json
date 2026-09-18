@@ -5,11 +5,11 @@
   "book": "1-chronicles",
   "lang": "xh",
   "chapter": 25,
-  "translation": "KuHeman: oonyana bakaHeman: uBukiyahu, uMattanyahu, u-Uzzieli, uShebwueli, noYerimoti, uKhananyahu, uKhanani, u-Eliyatha, uGidalati, noRomamti-Ezeri, uYoshbeqasha, uMalloti, uHotiri, noMakhaziyoti.",
+  "translation": "Kuka-Hemani: oonyana ka-Hemani; uBukkiyahu, uMattanyahu, u-Uzzieli, uShebwueli, noYerimoti, uKhananyahu, uKhanani, u-Eliyata, uGidalti, noRomamti-Ezeri, uYoshbeqasha, uMalloti, uHotiri, noMakhaziyoti.",
   "tokens": [
     {
       "surface": "להימן",
-      "gloss": "KuHeman"
+      "gloss": "Kuka-Hemani"
     },
     {
       "surface": "בני",
@@ -17,11 +17,11 @@
     },
     {
       "surface": "הימן",
-      "gloss": "bakaHeman"
+      "gloss": "ka-Hemani"
     },
     {
       "surface": "בקיהו",
-      "gloss": "uBukiyahu"
+      "gloss": "uBukkiyahu"
     },
     {
       "surface": "מתניהו",
@@ -49,19 +49,19 @@
     },
     {
       "surface": "אליאתה",
-      "gloss": "u-Eliyatha"
+      "gloss": "u-Eliyata"
     },
     {
       "surface": "גדלתי",
-      "gloss": "uGidalati"
+      "gloss": "uGidalti"
     },
     {
       "surface": "ורממתי",
-      "gloss": "noRomamti-Ezeri"
+      "gloss": "noRomamti-"
     },
     {
       "surface": "עזר",
-      "gloss": ""
+      "gloss": "Ezeri"
     },
     {
       "surface": "ישבקשה",
@@ -80,6 +80,6 @@
       "gloss": "noMakhaziyoti"
     }
   ],
-  "timestamp": "2026-09-18T18:37:25.221594685Z",
+  "timestamp": "2026-09-18T20:16:50.759603235Z",
   "model": "glm-5.3"
 }
