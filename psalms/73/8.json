@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 73:8",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 73,
+  "translation": "Bayahlekisa, bayathetha ngokungalunganga ngeenzuzo zomcalu; bathetha ubukhosi bobuzwe.",
+  "tokens": [
+    {
+      "surface": "ימיקו",
+      "gloss": "bayahlekisa"
+    },
+    {
+      "surface": "וידברו",
+      "gloss": "bayathetha"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "ngokungalunganga"
+    },
+    {
+      "surface": "עשק",
+      "gloss": "ngeenzuzo zomcalu"
+    },
+    {
+      "surface": "ממרום",
+      "gloss": "ubukhosi bobuzwe"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "bathetha"
+    }
+  ],
+  "timestamp": "2026-09-18T15:00:11.236068464Z",
+  "model": "glm-5.3"
+}

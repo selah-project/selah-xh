@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 27:5",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 27,
+  "translation": "Kuba uya kundifihla esikhenkceni lakhe ngosuku lolubi; uya kundifihla esifihlekweni setenti yakhe; phezu kolwaba uya kundiphakamisa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "יצפנני",
+      "gloss": "uya kundifihla"
+    },
+    {
+      "surface": "בסכה",
+      "gloss": "esikhenkceni lakhe"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ngosuku lwe"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "lolubi"
+    },
+    {
+      "surface": "יסתרני",
+      "gloss": "uya kundifihla"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "esifihlekweni"
+    },
+    {
+      "surface": "אהלו",
+      "gloss": "setenti yakhe"
+    },
+    {
+      "surface": "בצור",
+      "gloss": "phezu kolwaba"
+    },
+    {
+      "surface": "ירוממני",
+      "gloss": "uya kundiphakamisa"
+    }
+  ],
+  "timestamp": "2026-09-18T14:39:06.458516791Z",
+  "model": "glm-5.3"
+}

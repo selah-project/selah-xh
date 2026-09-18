@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 22:6",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 22,
+  "translation": "Kuwe bakhalo, basindiswa; kukho bathembela, kwaye abazange bahlekwe.",
+  "tokens": [
+    {
+      "surface": "אליך",
+      "gloss": "kuwe"
+    },
+    {
+      "surface": "זעקו",
+      "gloss": "bakhalo"
+    },
+    {
+      "surface": "ונמלטו",
+      "gloss": "basindiswa"
+    },
+    {
+      "surface": "בך",
+      "gloss": "kukho"
+    },
+    {
+      "surface": "בטחו",
+      "gloss": "bathembela"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "abazange"
+    },
+    {
+      "surface": "בושו",
+      "gloss": "bahlekwe"
+    }
+  ],
+  "timestamp": "2026-09-18T14:33:12.153296426Z",
+  "model": "glm-5.3"
+}

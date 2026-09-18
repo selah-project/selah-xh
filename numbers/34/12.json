@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 34:12",
+  "book": "numbers",
+  "lang": "xh",
+  "chapter": 34,
+  "translation": "umda wehla waza waya eYordanini, iindawo zokuphuma zawo zawaba lolwandle loMunyu; le yonke le yaye ilizwe elinguwenu liyiimida zalo ezijikelezileyo.",
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "wehla"
+    },
+    {
+      "surface": "הגבול",
+      "gloss": "umda"
+    },
+    {
+      "surface": "הירדנה",
+      "gloss": "eYordanini"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "zawaba"
+    },
+    {
+      "surface": "תוצאתיו",
+      "gloss": "iindawo zokuphuma zawo"
+    },
+    {
+      "surface": "ים",
+      "gloss": "lolwandle"
+    },
+    {
+      "surface": "המלח",
+      "gloss": "loMunyu"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "le"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "yaye"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "elinguwenu"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ilizwe"
+    },
+    {
+      "surface": "לגבלתיה",
+      "gloss": "liyiimida zalo"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ezijikelezileyo"
+    }
+  ],
+  "timestamp": "2026-09-18T07:48:11.945213241Z",
+  "model": "glm-5.3"
+}

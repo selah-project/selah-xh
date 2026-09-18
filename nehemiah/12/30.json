@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "nehemiah 12:30",
+  "book": "nehemiah",
+  "lang": "xh",
+  "chapter": 12,
+  "translation": "Bazacocekisa abapristi nabaLevi, bazacocekisa ⟨את⟩ abantu, ⟨את⟩ amasango, no⟨את⟩ udonga.",
+  "tokens": [
+    {
+      "surface": "ויטהרו",
+      "gloss": "bazacocekisa"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "abapristi"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "nabaLevi"
+    },
+    {
+      "surface": "ויטהרו",
+      "gloss": "bazacocekisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abantu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "amasango"
+    },
+    {
+      "surface": "השערים",
+      "gloss": "amasango"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "udonga"
+    },
+    {
+      "surface": "החומה",
+      "gloss": "udonga"
+    }
+  ],
+  "timestamp": "2026-09-18T16:49:11.955159773Z",
+  "model": "glm-5.3"
+}

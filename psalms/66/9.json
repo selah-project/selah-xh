@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 66:9",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 66,
+  "translation": "OWabeka umphefumlo wethu ebomini, waze wazange wanike iinyawo zethu ukuba zicinge.",
+  "tokens": [
+    {
+      "surface": "השם",
+      "gloss": "OWabeka"
+    },
+    {
+      "surface": "נפשנו",
+      "gloss": "umphefumlo wethu"
+    },
+    {
+      "surface": "בחיים",
+      "gloss": "ebomini"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "wazange"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "wanike"
+    },
+    {
+      "surface": "למוט",
+      "gloss": "ukuba zicinge"
+    },
+    {
+      "surface": "רגלנו",
+      "gloss": "iinyawo zethu"
+    }
+  ],
+  "timestamp": "2026-09-18T14:53:25.904612710Z",
+  "model": "glm-5.3"
+}

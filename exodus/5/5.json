@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 5:5",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 5,
+  "translation": "Wathi uParo: “Yabonani, abantu belizwe baninzi ngoku, nithi niza kubenza bamkele ukuphola ⟨את⟩ kwimithwalo yabo?”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Wathi"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "uParo"
+    },
+    {
+      "surface": "הן",
+      "gloss": "Yabonani"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "baninzi"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "ngoku"
+    },
+    {
+      "surface": "עם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "belizwe"
+    },
+    {
+      "surface": "והשבתם",
+      "gloss": "niza kubenza bamkele ukuphola"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "kwimithwalo yabo"
+    },
+    {
+      "surface": "מסבלתם",
+      "gloss": "kwimithwalo yabo"
+    }
+  ],
+  "timestamp": "2026-09-18T05:53:09.956811576Z",
+  "model": "glm-5.3"
+}

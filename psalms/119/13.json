@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 119:13",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 119,
+  "translation": "Ngeyece ndibalisile zonke izigwebo zomlomo wakho.",
+  "tokens": [
+    {
+      "surface": "בשפתי",
+      "gloss": "ngeyece"
+    },
+    {
+      "surface": "ספרתי",
+      "gloss": "ndibalisile"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zonke"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "izigwebo"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "zomlomo wakho"
+    }
+  ],
+  "timestamp": "2026-09-18T15:23:10.803199149Z",
+  "model": "glm-5.3"
+}

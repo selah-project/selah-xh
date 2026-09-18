@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 43:5",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 43,
+  "translation": "Ubuza ntoni, umphefumlo wam, ubuzisindwa phantsi? Ubuza ntoni ukudideka kwindawo yam? Lindela kuElohim, kuba ndiza kumbonga nakanjalo, ⟨nguye⟩ intsindvo yobuso bam, noElohim wam.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "ntoni"
+    },
+    {
+      "surface": "תשתוחחי",
+      "gloss": "uzisindwa phantsi"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "umphefumlo wam"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "ubuza ntoni"
+    },
+    {
+      "surface": "תהמי",
+      "gloss": "ukudideka"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "phakathi kwam"
+    },
+    {
+      "surface": "הוחילי",
+      "gloss": "Lindela"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "kuElohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "nakanjalo"
+    },
+    {
+      "surface": "אודנו",
+      "gloss": "ndiza kumbonga"
+    },
+    {
+      "surface": "ישועת",
+      "gloss": "intsindvo"
+    },
+    {
+      "surface": "פני",
+      "gloss": "yobuso bam"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "noElohim wam"
+    }
+  ],
+  "timestamp": "2026-09-18T14:42:37.964498875Z",
+  "model": "glm-5.3"
+}

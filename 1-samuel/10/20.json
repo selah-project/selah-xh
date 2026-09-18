@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 10:20",
+  "book": "1-samuel",
+  "lang": "xh",
+  "chapter": 10,
+  "translation": "Wazisondisa uShemuweli ⟨את⟩ zonke izizwe zeYisrael, yaza yabalwa isizwe sakaBenyamini.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "Wazisondisa"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "uShemuweli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zonke izizwe zeYisrael"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zonke"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "izizwe"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "zeYisrael"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "yaza yabalwa"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "isizwe"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "sakaBenyamini"
+    }
+  ],
+  "timestamp": "2026-09-18T09:21:15.297077702Z",
+  "model": "glm-5.3"
+}

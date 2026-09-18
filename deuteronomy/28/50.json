@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "deuteronomy 28:50",
+  "book": "deuteronomy",
+  "lang": "xh",
+  "chapter": 28,
+  "translation": "isizwe esinobuso obuqinileyo obungcwele, esinganyusi ubuso lo mdala, lingaze lenze umcebiso kumncinci.",
+  "tokens": [
+    {
+      "surface": "גוי",
+      "gloss": "isizwe"
+    },
+    {
+      "surface": "עז",
+      "gloss": "obuqinileyo obukhoyo"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "obuso"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "eso"
+    },
+    {
+      "surface": "לא",
+      "gloss": "linganyusi"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "ubuso"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "kubuso"
+    },
+    {
+      "surface": "לזקן",
+      "gloss": "lo mdala"
+    },
+    {
+      "surface": "ונער",
+      "gloss": "kumncinci"
+    },
+    {
+      "surface": "לא",
+      "gloss": "lingaze lenze"
+    },
+    {
+      "surface": "יחן",
+      "gloss": "umcebiso"
+    }
+  ],
+  "timestamp": "2026-09-18T08:21:10.009521616Z",
+  "model": "glm-5.3"
+}

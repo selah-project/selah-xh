@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 50:1",
+  "book": "isaiah",
+  "lang": "xh",
+  "chapter": 50,
+  "translation": "Ngoku njalo wathetha uYahwe: “Aphi elo incwadi yesiqhumiso unyoko, endamshiya ngayo? Okanye ngubani wetyala lam, ondinindithengisela kuye? Yabonani, ngezono zenu nanithengiswa, nangeziphambano zenu unyoko washiywa.”",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Ngoku njalo"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "wathetha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אי",
+      "gloss": "Aphi"
+    },
+    {
+      "surface": "זה",
+      "gloss": "elo"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "incwadi"
+    },
+    {
+      "surface": "כריתות",
+      "gloss": "yesiqhumiso"
+    },
+    {
+      "surface": "אמכם",
+      "gloss": "unyoko"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oko"
+    },
+    {
+      "surface": "שלחתיה",
+      "gloss": "endamshiya"
+    },
+    {
+      "surface": "או",
+      "gloss": "Okanye"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ngubani"
+    },
+    {
+      "surface": "מנושי",
+      "gloss": "wetyala lam"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oko"
+    },
+    {
+      "surface": "מכרתי",
+      "gloss": "ndinithengisela"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "nina"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kuye"
+    },
+    {
+      "surface": "הן",
+      "gloss": "Yabonani"
+    },
+    {
+      "surface": "בעונתיכם",
+      "gloss": "ngezono zenu"
+    },
+    {
+      "surface": "נמכרתם",
+      "gloss": "nanithengiswa"
+    },
+    {
+      "surface": "ובפשעיכם",
+      "gloss": "nangeziphambano zenu"
+    },
+    {
+      "surface": "שלחה",
+      "gloss": "washiywa"
+    },
+    {
+      "surface": "אמכם",
+      "gloss": "unyoko"
+    }
+  ],
+  "timestamp": "2026-09-18T11:41:44.188970146Z",
+  "model": "glm-5.3"
+}

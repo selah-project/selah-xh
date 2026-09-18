@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 23:9",
+  "book": "1-samuel",
+  "lang": "xh",
+  "chapter": 23,
+  "translation": "uDavide wazi ukuba uShawuli ebeka ubuwungcingcinga ngakumbi kuye; wathetha ku-Ebyathari umprofethi, wathi: “Yizisa apha ⟨i⟩efodi.”",
+  "tokens": [
+    {
+      "surface": "וידע",
+      "gloss": "wazi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "uDavide"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ukuba"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "kuye"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "uShawuli"
+    },
+    {
+      "surface": "מחריש",
+      "gloss": "ebeka ubuwungcingcinga"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "okungcolileyo ngakumbi"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "wathetha"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "אביתר",
+      "gloss": "-Ebyathari"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "umprofethi"
+    },
+    {
+      "surface": "הגישה",
+      "gloss": "Yizisa apha"
+    },
+    {
+      "surface": "האפוד",
+      "gloss": "efodi"
+    }
+  ],
+  "timestamp": "2026-09-18T09:33:43.112192129Z",
+  "model": "glm-5.3"
+}

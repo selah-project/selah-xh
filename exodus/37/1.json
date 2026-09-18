@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 37:1",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 37,
+  "translation": "UBetsalel wenza ⟨את⟩ ⟨the⟩ iarika yemithi yeakasia: ubude bayo babungamabha mabini nesiqingatha, kunene nobubanzi bamabha omnye nesiqingatha, ukwakheka kwamabha omnye nesiqingatha.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "wenza"
+    },
+    {
+      "surface": "בצלאל",
+      "gloss": "UBetsalel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "⟨the⟩ iarika"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "⟨the⟩ iarika"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "yemithi"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "yeakasia"
+    },
+    {
+      "surface": "אמתים",
+      "gloss": "amabha mabini"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "nesiqingatha"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "ubude bayo"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "kunene namabha"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "omnye nesiqingatha"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "ububanzi bayo"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "kunene namabha"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "omnye nesiqingatha"
+    },
+    {
+      "surface": "קמתו",
+      "gloss": "ukwakheka kwakhe"
+    }
+  ],
+  "timestamp": "2026-09-18T06:28:55.637808015Z",
+  "model": "glm-5.3"
+}

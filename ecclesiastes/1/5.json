@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 1:5",
+  "book": "ecclesiastes",
+  "lang": "xh",
+  "chapter": 1,
+  "translation": "Ilanga liyavutha, kananjalo ilanga liyahamba liye kwindawo yalo, liyakhawuleza ibalela, livutha khona.",
+  "tokens": [
+    {
+      "surface": "וזרח",
+      "gloss": "liyavutha"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "ilanga"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "liyahamba"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "ilanga"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "liye kwi-"
+    },
+    {
+      "surface": "מקומו",
+      "gloss": "indawo yalo"
+    },
+    {
+      "surface": "שואף",
+      "gloss": "liyakhawuleza ibalela"
+    },
+    {
+      "surface": "זורח",
+      "gloss": "livutha"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yilo"
+    },
+    {
+      "surface": "שם",
+      "gloss": "khona"
+    }
+  ],
+  "timestamp": "2026-09-18T17:49:15.042848801Z",
+  "model": "glm-5.3"
+}

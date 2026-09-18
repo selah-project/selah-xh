@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 23:16",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 23,
+  "translation": "Nesithethe sokutya okuqala komsebenzi wakho owutyalayo emasimini; nesithethe sokuqokelela, ekuphumeni komnyaka, xa uqokelela ⟨את⟩ umsebenzi wakho ⟨usuka⟩ emasimini.",
+  "tokens": [
+    {
+      "surface": "וחג",
+      "gloss": "nesithethe"
+    },
+    {
+      "surface": "הקציר",
+      "gloss": "sokutya"
+    },
+    {
+      "surface": "בכורי",
+      "gloss": "okuqala"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "komsebenzi wakho"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "owu-"
+    },
+    {
+      "surface": "תזרע",
+      "gloss": "utyalayo"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "emasimini"
+    },
+    {
+      "surface": "וחג",
+      "gloss": "nesithethe"
+    },
+    {
+      "surface": "האסף",
+      "gloss": "sokuqokelela"
+    },
+    {
+      "surface": "בצאת",
+      "gloss": "ekuphumeni"
+    },
+    {
+      "surface": "השנה",
+      "gloss": "komnyaka"
+    },
+    {
+      "surface": "באספך",
+      "gloss": "xa uqokelela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umsebenzi wakho"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "umsebenzi wakho"
+    },
+    {
+      "surface": "מן",
+      "gloss": "usuka"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "emasimini"
+    }
+  ],
+  "timestamp": "2026-09-18T06:09:37.642539917Z",
+  "model": "glm-5.3"
+}

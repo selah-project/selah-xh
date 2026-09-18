@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 34:2",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 34,
+  "translation": "Ndiza kukudumisa ⟨את⟩ uYahwe ngalo lonke ixesha; indumiso yakhe iya kuhlala rhoqo emlonyeni wam.",
+  "tokens": [
+    {
+      "surface": "אברכה",
+      "gloss": "Ndiza kukudumisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uYahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ngalo lonke"
+    },
+    {
+      "surface": "עת",
+      "gloss": "ixesha"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "rhoqo"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "indumiso yakhe"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "emlonyeni wam"
+    }
+  ],
+  "timestamp": "2026-09-18T14:40:56.983228386Z",
+  "model": "glm-5.3"
+}

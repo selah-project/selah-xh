@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 102:1",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 102,
+  "translation": "Uthandazo lomdini, xa edinwa ngokwaneleyo, athethele ithalo lakhe phambi kuYahwe.",
+  "tokens": [
+    {
+      "surface": "תפלה",
+      "gloss": "Uthandazo"
+    },
+    {
+      "surface": "לעני",
+      "gloss": "lomdini"
+    },
+    {
+      "surface": "כי",
+      "gloss": "xa"
+    },
+    {
+      "surface": "יעטף",
+      "gloss": "edinwa ngokwaneleyo"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "phambi ku"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ישפך",
+      "gloss": "athethele"
+    },
+    {
+      "surface": "שיחו",
+      "gloss": "ithalo lakhe"
+    }
+  ],
+  "timestamp": "2026-09-18T15:14:42.202942566Z",
+  "model": "glm-5.3"
+}

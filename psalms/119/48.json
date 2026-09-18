@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "psalms 119:48",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 119,
+  "translation": "Ndiza kuphakamisa izandla zam kuwo omiyalelo yakho endiwuthandayo, ndiza kucinga ngezimiso zako.",
+  "tokens": [
+    {
+      "surface": "ואשא",
+      "gloss": "Ndiza kuphakamisa"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "izandla zam"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuwo o-"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "miyalelo yakho"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "endi-"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "wuthandayo"
+    },
+    {
+      "surface": "ואשיחה",
+      "gloss": "Ndiza kucinga"
+    },
+    {
+      "surface": "בחקיך",
+      "gloss": "ngezimiso zako"
+    }
+  ],
+  "timestamp": "2026-09-18T15:23:43.975095044Z",
+  "model": "glm-5.3"
+}

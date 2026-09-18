@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 27:15",
+  "book": "leviticus",
+  "lang": "xh",
+  "chapter": 27,
+  "translation": "Ukuba lowo ungcingcwelisayo eza kukhulula ⟨את⟩ indlu yakhe, uza kwongeza iwesihlanu yesiliva yolingo lwakho phezu kwayo, ize kuba yeyakhe.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ukuba"
+    },
+    {
+      "surface": "המקדיש",
+      "gloss": "lowo ungcingcwelisayo"
+    },
+    {
+      "surface": "יגאל",
+      "gloss": "eza kukhulula"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "indlu yakhe"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "indlu yakhe"
+    },
+    {
+      "surface": "ויסף",
+      "gloss": "uza kwongeza"
+    },
+    {
+      "surface": "חמישית",
+      "gloss": "iwesihlanu"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "yesiliva"
+    },
+    {
+      "surface": "ערכך",
+      "gloss": "yolingo lwakho"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "phezu kwayo"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "ize kuba"
+    },
+    {
+      "surface": "לו",
+      "gloss": "yeyakhe"
+    }
+  ],
+  "timestamp": "2026-09-18T07:09:05.163866841Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 69:12",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 69,
+  "translation": "Ndenza isinxibo sam isaka, ndaba ngomzekelo kubo.",
+  "tokens": [
+    {
+      "surface": "ואתנה",
+      "gloss": "Ndenza"
+    },
+    {
+      "surface": "לבושי",
+      "gloss": "isinxibo sam"
+    },
+    {
+      "surface": "שק",
+      "gloss": "isaka"
+    },
+    {
+      "surface": "ואהי",
+      "gloss": "ndaba"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ngomzekelo kubo"
+    },
+    {
+      "surface": "למשל",
+      "gloss": "ngomzekelo"
+    }
+  ],
+  "timestamp": "2026-09-18T14:56:16.059261493Z",
+  "model": "glm-5.3"
+}

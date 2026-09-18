@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 22:7",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 22,
+  "translation": "Mna yimbumbe yilokuba ndingomntu; ndinguhleba lwabantu, ndidanyazwe yintlalo.",
+  "tokens": [
+    {
+      "surface": "ואנכי",
+      "gloss": "mna"
+    },
+    {
+      "surface": "תולעת",
+      "gloss": "yimbumbe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "yilokuba ndingu-"
+    },
+    {
+      "surface": "איש",
+      "gloss": "omntu"
+    },
+    {
+      "surface": "חרפת",
+      "gloss": "uhleba"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "ובזוי",
+      "gloss": "ndidanyazwe"
+    },
+    {
+      "surface": "עם",
+      "gloss": "yintlalo"
+    }
+  ],
+  "timestamp": "2026-09-18T14:33:12.153436749Z",
+  "model": "glm-5.3"
+}

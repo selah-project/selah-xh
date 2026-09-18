@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 4:1",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 4,
+  "translation": "Kumlawuli, ngeendwanya zeenthwazi; ingoma kaDavide.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Kumlawuli"
+    },
+    {
+      "surface": "בנגינות",
+      "gloss": "ngeendwanya zeenthwazi"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "ingoma"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "kaDavide"
+    }
+  ],
+  "timestamp": "2026-09-18T14:27:19.065788530Z",
+  "model": "glm-5.3"
+}

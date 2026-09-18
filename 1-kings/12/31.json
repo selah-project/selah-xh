@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-kings 12:31",
+  "book": "1-kings",
+  "lang": "xh",
+  "chapter": 12,
+  "translation": "Wenza ⟨את⟩ iindlu zeendawo eziphakamileyo, wenza abapristi basuka kwiintsingiselo zabantu, abangeyiwo kwiinyana zikaLevi.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "wenza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iindlu zeendawo eziphakamileyo"
+    },
+    {
+      "surface": "בית",
+      "gloss": "iindlu"
+    },
+    {
+      "surface": "במות",
+      "gloss": "zeendawo eziphakamileyo"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "wenza"
+    },
+    {
+      "surface": "כהנים",
+      "gloss": "abapristi"
+    },
+    {
+      "surface": "מקצות",
+      "gloss": "basuka kwiintsingiselo"
+    },
+    {
+      "surface": "העם",
+      "gloss": "zabantu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aba-"
+    },
+    {
+      "surface": "לא",
+      "gloss": "anga-"
+    },
+    {
+      "surface": "היו",
+      "gloss": "yiwo"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "kwiinyana"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "zikaLevi"
+    }
+  ],
+  "timestamp": "2026-09-18T10:25:32.623124205Z",
+  "model": "glm-5.3"
+}

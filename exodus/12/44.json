@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "exodus 12:44",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 12,
+  "translation": "Kodwa wonke ilikhoboka lomntu, elithengisiweyo ngesiliva, xa usike unyana walo ⟨את⟩, ngoko eliya kudla kuso.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "kodwa wonke"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "ikhoboka"
+    },
+    {
+      "surface": "איש",
+      "gloss": "lomntu"
+    },
+    {
+      "surface": "מקנת",
+      "gloss": "elithengisiweyo"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "ngesiliva"
+    },
+    {
+      "surface": "ומלתה",
+      "gloss": "xa usike unyana"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "uye"
+    },
+    {
+      "surface": "אז",
+      "gloss": "ngoko"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "eliya kudla"
+    },
+    {
+      "surface": "בו",
+      "gloss": "kuso"
+    }
+  ],
+  "timestamp": "2026-09-18T06:00:09.072183428Z",
+  "model": "glm-5.3"
+}

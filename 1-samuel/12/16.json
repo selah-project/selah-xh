@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 12:16",
+  "book": "1-samuel",
+  "lang": "xh",
+  "chapter": 12,
+  "translation": "Yini ngoku, zimbekeni, nibone ⟨את⟩ le nto enkulu uYahwe ayenzayo phambi kwamehlo enu.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Yini"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "ngoku"
+    },
+    {
+      "surface": "התיצבו",
+      "gloss": "zimbekeni"
+    },
+    {
+      "surface": "וראו",
+      "gloss": "nibone"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le nto enkulu"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "le nto"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "enkulu"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "le"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ayenzayo (esi)"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ayenzayo"
+    },
+    {
+      "surface": "לעיניכם",
+      "gloss": "phambi kwamehlo enu"
+    }
+  ],
+  "timestamp": "2026-09-18T09:21:25.532301360Z",
+  "model": "glm-5.3"
+}

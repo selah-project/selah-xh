@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 16:1",
+  "book": "1-kings",
+  "lang": "xh",
+  "chapter": 16,
+  "translation": "Waba likho igama likaYahwe ku-Yehu unyana kaKhanani, ngokuchasene noBaasha, ukutsho:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "waba likho"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "igama"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "likaYahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "u-Yehu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "unyana"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "kaKhanani"
+    },
+    {
+      "surface": "על",
+      "gloss": "ngokuchasene"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "noBaasha"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ukutsho"
+    }
+  ],
+  "timestamp": "2026-09-18T10:30:01.754824861Z",
+  "model": "glm-5.3"
+}

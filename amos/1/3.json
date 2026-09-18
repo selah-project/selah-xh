@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "amos 1:3",
+  "book": "amos",
+  "lang": "xh",
+  "chapter": 1,
+  "translation": "Uthi uYahwe ngesi: Ngenxa kweshuku lamathathu eliKamaseki, nangenxa lamane, andibuyisi ilizofo, kuba babetha uGileyadi nggezixhobo ezibukhali zentsimbi ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "ngesi"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "Uthi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "על",
+      "gloss": "Ngenxa kwe-"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "lamathathu"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "shuku"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "liKamaseki"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "nangenxa kwa-"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "lamane"
+    },
+    {
+      "surface": "לא",
+      "gloss": "andi-"
+    },
+    {
+      "surface": "אשיבנו",
+      "gloss": "-buyisi ilizofo"
+    },
+    {
+      "surface": "על",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "דושם",
+      "gloss": "babetha"
+    },
+    {
+      "surface": "בחרצות",
+      "gloss": "nggezixhobo ezibukhali"
+    },
+    {
+      "surface": "הברזל",
+      "gloss": "zentsimbi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uGileyadi"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "uGileyadi"
+    }
+  ],
+  "timestamp": "2026-09-18T13:54:27.737947226Z",
+  "model": "glm-5.3"
+}

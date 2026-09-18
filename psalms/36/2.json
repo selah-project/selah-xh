@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 36:2",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 36,
+  "translation": "Isalathiso sepsho lerashiwi sithetha entliziyweni yam: akukho luyiko lukaElohim phambi kamehlo akhe.",
+  "tokens": [
+    {
+      "surface": "נאם",
+      "gloss": "isalathiso"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "sepsho"
+    },
+    {
+      "surface": "לרשע",
+      "gloss": "lerashiwi"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "e-"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "ntliziyweni yam"
+    },
+    {
+      "surface": "אין",
+      "gloss": "akukho"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "luyiko"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "lukaElohim"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "phambi"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "kamehlo akhe"
+    }
+  ],
+  "timestamp": "2026-09-18T14:41:20.065215371Z",
+  "model": "glm-5.3"
+}

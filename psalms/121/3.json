@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 121:3",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 121,
+  "translation": "Akayi kuvumela unyawo lwakho ukutyabuka; owakugcina akayi kunqumama.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "akayi ku-"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "kuvumela"
+    },
+    {
+      "surface": "למוט",
+      "gloss": "ukutyabuka"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "unyawo lwakho"
+    },
+    {
+      "surface": "אל",
+      "gloss": "akayi ku-"
+    },
+    {
+      "surface": "ינום",
+      "gloss": "kunqumama"
+    },
+    {
+      "surface": "שמרך",
+      "gloss": "owakugcina"
+    }
+  ],
+  "timestamp": "2026-09-18T15:26:45.399035334Z",
+  "model": "glm-5.3"
+}

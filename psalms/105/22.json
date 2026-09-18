@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 105:22",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 105,
+  "translation": "ukubophela iinduna zakhe ngokwakhe, nabadala bakhe wabalumkisa.",
+  "tokens": [
+    {
+      "surface": "לאסר",
+      "gloss": "ukubophela"
+    },
+    {
+      "surface": "שריו",
+      "gloss": "iinduna zakhe"
+    },
+    {
+      "surface": "בנפשו",
+      "gloss": "ngokwakhe"
+    },
+    {
+      "surface": "וזקניו",
+      "gloss": "nabadala bakhe"
+    },
+    {
+      "surface": "יחכם",
+      "gloss": "wabalumkisa"
+    }
+  ],
+  "timestamp": "2026-09-18T15:16:07.453238792Z",
+  "model": "glm-5.3"
+}

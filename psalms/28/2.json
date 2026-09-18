@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 28:2",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 28,
+  "translation": "Yiva ilizwi leembandezelo zam xa ndikhuza kuwe, xa ndiphakamisa izandla zam esikhululweni sakho ⟨engcwele⟩.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "Yiva"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ilizwi"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "leembandezelo zam"
+    },
+    {
+      "surface": "בשועי",
+      "gloss": "xa ndikhuza"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kuwe"
+    },
+    {
+      "surface": "בנשאי",
+      "gloss": "xa ndiphakamisa"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "izandla zam"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "דביר",
+      "gloss": "esikhululweni sakho"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "engcwele"
+    }
+  ],
+  "timestamp": "2026-09-18T14:39:28.364419264Z",
+  "model": "glm-5.3"
+}

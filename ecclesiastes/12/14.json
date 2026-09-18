@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ecclesiastes 12:14",
+  "book": "ecclesiastes",
+  "lang": "xh",
+  "chapter": 12,
+  "translation": "Kuba uElohim uza kuzisa ⟨את⟩ konke okwenziwayo emgweqweni, phezu koko konke okufihliweyo, nokuba kulungile nokuba kukubi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "konke okwenziwayo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "konke"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "okwenziwayo"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "uza kuzisa"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "emgweqweni"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kokukonke"
+    },
+    {
+      "surface": "נעלם",
+      "gloss": "okufihliweyo"
+    },
+    {
+      "surface": "אם",
+      "gloss": "nokuba"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "kulungile"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "nokuba"
+    },
+    {
+      "surface": "רע",
+      "gloss": "kukubi"
+    }
+  ],
+  "timestamp": "2026-09-18T16:27:05.726764549Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 119:14",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 119,
+  "translation": "Endleleni yeziqiniseko zakho ndazonwabela, njengakuwo onke ubutyebi.",
+  "tokens": [
+    {
+      "surface": "בדרך",
+      "gloss": "endleleni"
+    },
+    {
+      "surface": "עדותיך",
+      "gloss": "yeziqiniseko zakho"
+    },
+    {
+      "surface": "ששתי",
+      "gloss": "ndazonwabela"
+    },
+    {
+      "surface": "כעל",
+      "gloss": "njengakuwo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "onke"
+    },
+    {
+      "surface": "הון",
+      "gloss": "ubutyebi"
+    }
+  ],
+  "timestamp": "2026-09-18T15:23:10.803429853Z",
+  "model": "glm-5.3"
+}

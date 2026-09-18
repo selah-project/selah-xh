@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 3:10",
+  "book": "numbers",
+  "lang": "xh",
+  "chapter": 3,
+  "translation": "Kananjalo ⟨את⟩ u-Aharon no⟨את⟩ iinyana zakhe uza kuwabeka ngokubamisa, baza kugcina ⟨את⟩ isikhonzo sabo sobupristi; ummangalwana oqhubekayo uya kubulawa.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ kananjalo"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "u-Aharon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "no⟨את⟩"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "iinyana zakhe"
+    },
+    {
+      "surface": "תפקד",
+      "gloss": "uza kuwabeka ngokubamisa"
+    },
+    {
+      "surface": "ושמרו",
+      "gloss": "baza kugcina"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isikhonzo sabo sobupristi"
+    },
+    {
+      "surface": "כהנתם",
+      "gloss": "isikhonzo sabo sobupristi"
+    },
+    {
+      "surface": "והזר",
+      "gloss": "nommangalwana"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "oqhubekayo"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "uya kubulawa"
+    }
+  ],
+  "timestamp": "2026-09-18T07:11:46.153736643Z",
+  "model": "glm-5.3"
+}

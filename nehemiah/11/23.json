@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "nehemiah 11:23",
+  "book": "nehemiah",
+  "lang": "xh",
+  "chapter": 11,
+  "translation": "Kuba umyalelo wenkosi wawusezibo, kunye nexabiso elizinikeleleyo kubaculi, umcimbi wemini ngemini yayo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kuba"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "umyalelo"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "wenkosi"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "wawusezibo"
+    },
+    {
+      "surface": "ואמנה",
+      "gloss": "kunye nexabiso elizinikeleleyo"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "המשררים",
+      "gloss": "abaculi"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "umcimbi"
+    },
+    {
+      "surface": "יום",
+      "gloss": "wemini"
+    },
+    {
+      "surface": "ביומו",
+      "gloss": "ngemini yayo"
+    }
+  ],
+  "timestamp": "2026-09-18T16:49:12.826407350Z",
+  "model": "glm-5.3"
+}

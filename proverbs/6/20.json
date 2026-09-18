@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 6:20",
+  "book": "proverbs",
+  "lang": "xh",
+  "chapter": 6,
+  "translation": "Gcina, nyana wam, imiyalelo yakoyise, ungayekanga iTora yenina yakho;",
+  "tokens": [
+    {
+      "surface": "נצר",
+      "gloss": "gcina"
+    },
+    {
+      "surface": "בני",
+      "gloss": "nyana wam"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "imiyalelo"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "yakoyise"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "unga-"
+    },
+    {
+      "surface": "תטש",
+      "gloss": "yekanga"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "iTora"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "yenina yakho"
+    }
+  ],
+  "timestamp": "2026-09-18T15:40:28.907244293Z",
+  "model": "glm-5.3"
+}

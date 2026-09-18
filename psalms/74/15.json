@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 74:15",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 74,
+  "translation": "Wena wavula umthombo nomlambo, wena wawisa umomvo imilambo enamanzi aphakadeyo.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Wena"
+    },
+    {
+      "surface": "בקעת",
+      "gloss": "wavula"
+    },
+    {
+      "surface": "מעין",
+      "gloss": "umthombo"
+    },
+    {
+      "surface": "ונחל",
+      "gloss": "nomlambo"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "הובשת",
+      "gloss": "wawisa umomvo"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "imilambo"
+    },
+    {
+      "surface": "איתן",
+      "gloss": "enamanzi aphakadeyo"
+    }
+  ],
+  "timestamp": "2026-09-18T15:01:06.852633220Z",
+  "model": "glm-5.3"
+}

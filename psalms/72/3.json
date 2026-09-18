@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 72:3",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 72,
+  "translation": "Iintaba zize zithwale uxolo ku-⟨the⟩ bantu, neenduli ngokulunga.",
+  "tokens": [
+    {
+      "surface": "ישאו",
+      "gloss": "zize zithwale"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "iintaba"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "uxolo"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "kubantu"
+    },
+    {
+      "surface": "וגבעות",
+      "gloss": "neenduli"
+    },
+    {
+      "surface": "בצדקה",
+      "gloss": "ngokulunga"
+    }
+  ],
+  "timestamp": "2026-09-18T14:58:51.651793609Z",
+  "model": "glm-5.3"
+}

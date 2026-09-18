@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 4:24",
+  "book": "genesis",
+  "lang": "xh",
+  "chapter": 4,
+  "translation": "Kuba ngoKayini kuthathwa imbuyiselo yesixhenxe; kodwa ngoLemeke yesixhenxe anamashumi asixhenxe nesixhenxe.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kuba"
+    },
+    {
+      "surface": "שבעתים",
+      "gloss": "yesixhenxe"
+    },
+    {
+      "surface": "יקקם",
+      "gloss": "kuthathwa imbuyiselo"
+    },
+    {
+      "surface": "קין",
+      "gloss": "ngoKayini"
+    },
+    {
+      "surface": "ולמך",
+      "gloss": "kodwa ngoLemeke"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "amashumi asixhenxe"
+    },
+    {
+      "surface": "ושבעה",
+      "gloss": "nesixhenxe"
+    }
+  ],
+  "timestamp": "2026-09-18T05:09:15.178310169Z",
+  "model": "glm-5.3"
+}

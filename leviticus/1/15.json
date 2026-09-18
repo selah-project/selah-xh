@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 1:15",
+  "book": "leviticus",
+  "lang": "xh",
+  "chapter": 1,
+  "translation": "Umpristi uzakuyisa kwi-altare, akhothule ⟨את⟩ intloko yayo, aze atshise kwi-altare, igazi layo liza kuchithwa ngasekhaleni, ngomdonga we-altare.",
+  "tokens": [
+    {
+      "surface": "והקריבו",
+      "gloss": "uzakuyisa"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "umpristi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwi-"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altare"
+    },
+    {
+      "surface": "ומלק",
+      "gloss": "akhothule"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "intloko yayo"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "intloko yayo"
+    },
+    {
+      "surface": "והקטיר",
+      "gloss": "aze atshise"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "kwi-altare"
+    },
+    {
+      "surface": "ונמצה",
+      "gloss": "liza kuchithwa"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "igazi layo"
+    },
+    {
+      "surface": "על",
+      "gloss": "ngasekhaleni, ngaphezu"
+    },
+    {
+      "surface": "קיר",
+      "gloss": "komdonga"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "we-altare"
+    }
+  ],
+  "timestamp": "2026-09-18T06:34:10.316825993Z",
+  "model": "glm-5.3"
+}

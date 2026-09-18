@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 3:5",
+  "book": "genesis",
+  "lang": "xh",
+  "chapter": 3,
+  "translation": "kuba uElohim uyazi ukuba ngeyona mini niya kutyitya ngayo, amehlo enu aya kuvuleka, niza kuba njengoElohim, abazi okulungileyo nokungalunganga.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "uyazi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ukuba"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ngeyona mini"
+    },
+    {
+      "surface": "אכלכם",
+      "gloss": "niya kutyitya"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ngayo"
+    },
+    {
+      "surface": "ונפקחו",
+      "gloss": "aya kuvuleka"
+    },
+    {
+      "surface": "עיניכם",
+      "gloss": "amehlo enu"
+    },
+    {
+      "surface": "והייתם",
+      "gloss": "niza kuba"
+    },
+    {
+      "surface": "כאלהים",
+      "gloss": "njengoElohim"
+    },
+    {
+      "surface": "ידעי",
+      "gloss": "abazi"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "okulungileyo"
+    },
+    {
+      "surface": "ורע",
+      "gloss": "nokungalunganga"
+    }
+  ],
+  "timestamp": "2026-09-18T05:08:48.835297942Z",
+  "model": "glm-5.3"
+}

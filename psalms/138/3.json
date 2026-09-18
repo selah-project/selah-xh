@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 138:3",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 138,
+  "translation": "Ngelosuku ndandibiza, waphendula wena; wandiqinisekisa emphefumloweni wam ngamandla.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "ngelosuku"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "ndandibiza"
+    },
+    {
+      "surface": "ותענני",
+      "gloss": "waphendula wena"
+    },
+    {
+      "surface": "תרהבני",
+      "gloss": "wandiqinisekisa"
+    },
+    {
+      "surface": "בנפשי",
+      "gloss": "emphefumloweni wam"
+    },
+    {
+      "surface": "עז",
+      "gloss": "ngamandla"
+    }
+  ],
+  "timestamp": "2026-09-18T15:31:15.028620282Z",
+  "model": "glm-5.3"
+}

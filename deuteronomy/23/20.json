@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 23:20",
+  "book": "deuteronomy",
+  "lang": "xh",
+  "chapter": 23,
+  "translation": "Mus' ukufaka inzala kumzakwakho: inzala yeesiliva, inzala yokutya, inzala yento nayiphi na ekwenzelwa inzala.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "mus'"
+    },
+    {
+      "surface": "תשיך",
+      "gloss": "ukufaka inzala"
+    },
+    {
+      "surface": "לאחיך",
+      "gloss": "kumzakwakho"
+    },
+    {
+      "surface": "נשך",
+      "gloss": "inzala"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "yeesiliva"
+    },
+    {
+      "surface": "נשך",
+      "gloss": "inzala"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "yokutya"
+    },
+    {
+      "surface": "נשך",
+      "gloss": "inzala"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yento nayiphi na"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "into"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "eyi-"
+    },
+    {
+      "surface": "ישך",
+      "gloss": "ekwenzelwa inzala"
+    }
+  ],
+  "timestamp": "2026-09-18T08:15:39.296872341Z",
+  "model": "glm-5.3"
+}

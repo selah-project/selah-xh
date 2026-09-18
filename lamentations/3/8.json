@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "lamentations 3:8",
+  "book": "lamentations",
+  "lang": "xh",
+  "chapter": 3,
+  "translation": "Nokuba ndikhalaza ndifuna⟨lusizi⟩, uyayivala ⟨phezu⟩ kwethandazO lam.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Nokuba"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ukuba"
+    },
+    {
+      "surface": "אזעק",
+      "gloss": "ndikhalaza"
+    },
+    {
+      "surface": "ואשוע",
+      "gloss": "ndifuna lusizi"
+    },
+    {
+      "surface": "שתם",
+      "gloss": "uyayivala"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "ithandazo lam"
+    }
+  ],
+  "timestamp": "2026-09-18T16:20:32.260695174Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 4:15",
+  "book": "1-kings",
+  "lang": "xh",
+  "chapter": 4,
+  "translation": "U-Akhimaatsi kwiNafthali; naye wathabatha ⟨את⟩ uBasemati intombi kaShelomo ukuba yinkosikazi.",
+  "tokens": [
+    {
+      "surface": "אחימעץ",
+      "gloss": "U-Akhimaatsi"
+    },
+    {
+      "surface": "בנפתלי",
+      "gloss": "kwiNafthali"
+    },
+    {
+      "surface": "גם",
+      "gloss": "naye"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yena"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "wathabatha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uBasemati"
+    },
+    {
+      "surface": "בשמת",
+      "gloss": "uBasemati"
+    },
+    {
+      "surface": "בת",
+      "gloss": "intombi"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "kaShelomo"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "ukuba yinkosikazi"
+    }
+  ],
+  "timestamp": "2026-09-18T10:08:17.230436873Z",
+  "model": "glm-5.3"
+}

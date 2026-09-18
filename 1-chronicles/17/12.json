@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 17:12",
+  "book": "1-chronicles",
+  "lang": "xh",
+  "chapter": 17,
+  "translation": "Yena uza kukwakhela mna indlu, mna ndiza kuqinisa ⟨את⟩ isihlalo sakhe kuze kube ngunaphakade.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "yena"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "uza kukwakhela"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mna"
+    },
+    {
+      "surface": "בית",
+      "gloss": "indlu"
+    },
+    {
+      "surface": "וכננתי",
+      "gloss": "ndiza kuqinisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isihlalo sakhe"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "isihlalo sakhe"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kuze kube"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ngunaphakade"
+    }
+  ],
+  "timestamp": "2026-09-18T16:57:47.361324118Z",
+  "model": "glm-5.3"
+}

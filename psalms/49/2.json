@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 49:2",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 49,
+  "translation": "Thethani-ni oku, zwiiintlanga zonke; lukhuni ke nzulele, nonke enihleli hleli kulo ihlabathi elidlulayo.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "Thethani-ni"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "oku"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zonke"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "zwiiintlanga"
+    },
+    {
+      "surface": "האזינו",
+      "gloss": "nzulele"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nonke"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "enihleli hleli"
+    },
+    {
+      "surface": "חלד",
+      "gloss": "ihlabathi elidlulayo"
+    }
+  ],
+  "timestamp": "2026-09-18T14:47:24.813702732Z",
+  "model": "glm-5.3"
+}

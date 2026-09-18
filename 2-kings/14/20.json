@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 14:20",
+  "book": "2-kings",
+  "lang": "xh",
+  "chapter": 14,
+  "translation": "Bamthwalela ⟨אתו⟩ phezu kwezihashi, waze wangcwatywa eYerushalayimi kunye nooyise kwisixeko sikaDawidi.",
+  "tokens": [
+    {
+      "surface": "וישאו",
+      "gloss": "Bamthwalela"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "yena (u-Amatsiya)"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu"
+    },
+    {
+      "surface": "הסוסים",
+      "gloss": "kwezihashi"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "waze wangcwatywa"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "eYerushalayimi"
+    },
+    {
+      "surface": "עם",
+      "gloss": "kunye"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "nooyise"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "kwisixeko"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "sikaDawidi"
+    }
+  ],
+  "timestamp": "2026-09-18T10:48:38.435549767Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 7:15",
+  "book": "proverbs",
+  "lang": "xh",
+  "chapter": 7,
+  "translation": "Ngoko ndaphuma ndiza kukudibana nawe, ndiza kukufunela ubuso bakho, ndakufumana.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ngoko"
+    },
+    {
+      "surface": "יצאתי",
+      "gloss": "ndaphuma"
+    },
+    {
+      "surface": "לקראתך",
+      "gloss": "ndiza kukudibana nawe"
+    },
+    {
+      "surface": "לשחר",
+      "gloss": "ndiza kukufunela"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ubuso bakho"
+    },
+    {
+      "surface": "ואמצאך",
+      "gloss": "ndakufumana"
+    }
+  ],
+  "timestamp": "2026-09-18T15:40:21.253119796Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 11:3",
+  "book": "proverbs",
+  "lang": "xh",
+  "chapter": 11,
+  "translation": "Ukuchaneka kwabaqhelekileyo kubakhokhela, kodwa ukuphambuka bezikhohlakeleyo ngukutshatyalaliswa kwabo.",
+  "tokens": [
+    {
+      "surface": "תמת",
+      "gloss": "ukuchaneka"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "kwabaqhelekileyo"
+    },
+    {
+      "surface": "תנחם",
+      "gloss": "kubakhokhela"
+    },
+    {
+      "surface": "וסלף",
+      "gloss": "kodwa ukuphambuka"
+    },
+    {
+      "surface": "בוגדים",
+      "gloss": "bezikhohlakeleyo"
+    },
+    {
+      "surface": "ושדם",
+      "gloss": "ngukutshatyalaliswa kwabo"
+    }
+  ],
+  "timestamp": "2026-09-18T15:45:18.161587451Z",
+  "model": "glm-5.3"
+}

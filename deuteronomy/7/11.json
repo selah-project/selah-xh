@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 7:11",
+  "book": "deuteronomy",
+  "lang": "xh",
+  "chapter": 7,
+  "translation": "Uze ugcine ⟨את⟩ umyalelo, ⟨את⟩ iimiso no⟨את⟩ kumiso-mthetho endingawela kuwe namhlanje ukuzenza.",
+  "tokens": [
+    {
+      "surface": "ושמרת",
+      "gloss": "Uze ugcin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umyalelo"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "umyalelo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "no⟨את⟩",
+      "marks": "iimiso"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "iimiso"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "no⟨את⟩",
+      "marks": "imiso-mthetho"
+    },
+    {
+      "surface": "המשפטים",
+      "gloss": "imiso-mthetho"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "endingawela"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ndi"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "ngiwamisela kuwe"
+    },
+    {
+      "surface": "היום",
+      "gloss": "namhlanje"
+    },
+    {
+      "surface": "לעשותם",
+      "gloss": "ukuzenza"
+    }
+  ],
+  "timestamp": "2026-09-18T08:00:45.065399673Z",
+  "model": "glm-5.3"
+}

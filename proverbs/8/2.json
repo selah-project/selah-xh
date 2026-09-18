@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 8:2",
+  "book": "proverbs",
+  "lang": "xh",
+  "chapter": 8,
+  "translation": "Entabeni ephezulu, etyhoneni lendlela, apho iindlela zidibana khona, yima.",
+  "tokens": [
+    {
+      "surface": "בראש",
+      "gloss": "entabeni ephezulu"
+    },
+    {
+      "surface": "מרומים",
+      "gloss": "ephezulu"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "etyhoneni"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "indlela"
+    },
+    {
+      "surface": "בית",
+      "gloss": "apho"
+    },
+    {
+      "surface": "נתיבות",
+      "gloss": "iindlela zidibana"
+    },
+    {
+      "surface": "נצבה",
+      "gloss": "yima"
+    }
+  ],
+  "timestamp": "2026-09-18T15:41:40.522788834Z",
+  "model": "glm-5.3"
+}

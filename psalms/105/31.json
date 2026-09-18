@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 105:31",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 105,
+  "translation": "Wathetha, yaza yafika impukane, neenkunkuru kumda wawo wonke.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "Wathetha"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "yaza yafika"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "impukane"
+    },
+    {
+      "surface": "כנים",
+      "gloss": "neenkunkuru"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "kuwo onke"
+    },
+    {
+      "surface": "גבולם",
+      "gloss": "kumda wawo"
+    }
+  ],
+  "timestamp": "2026-09-18T15:18:24.777581273Z",
+  "model": "glm-5.3"
+}

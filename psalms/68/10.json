@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 68:10",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 68,
+  "translation": "Isivuthwethu sanikelo ngokuzithandela ududisa, uElohim; ifa lakho, nasiphela amandla, wena wasizinzisa.",
+  "tokens": [
+    {
+      "surface": "גשם",
+      "gloss": "isivuthwethu"
+    },
+    {
+      "surface": "נדבות",
+      "gloss": "sanikelo ngokuzithandela"
+    },
+    {
+      "surface": "תניף",
+      "gloss": "ududisa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "נחלתך",
+      "gloss": "ifa lakho"
+    },
+    {
+      "surface": "ונלאה",
+      "gloss": "nasiphela amandla"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "כוננתה",
+      "gloss": "wasizinzisa"
+    }
+  ],
+  "timestamp": "2026-09-18T14:56:10.233645960Z",
+  "model": "glm-5.3"
+}

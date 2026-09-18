@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 6:20",
+  "book": "deuteronomy",
+  "lang": "xh",
+  "chapter": 6,
+  "translation": "Xa unyana wakho Makubuzisa ngomso, ethi: “Zithini ezi zinqweno, nezi miqathango, nezi milawu enenxaxheba uYahwe uElohim wethu wayalele nina ⟨אתכם⟩?”",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Xa"
+    },
+    {
+      "surface": "ישאלך",
+      "gloss": "Makubuzisa"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "unyana wakho"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "ngomso"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ethi"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Zithini"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "ezinqwenweni"
+    },
+    {
+      "surface": "והחקים",
+      "gloss": "nemiqathango"
+    },
+    {
+      "surface": "והמשפטים",
+      "gloss": "nemilawu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ena"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "wayalela"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "uElohim wethu"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨אתכם⟩",
+      "marks": "nina"
+    }
+  ],
+  "timestamp": "2026-09-18T17:25:52.687438047Z",
+  "model": "glm-5.3"
+}

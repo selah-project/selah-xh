@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 37:1",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 37,
+  "translation": "KaDavid. Musa ukuvutha umsindo ngenxa yabenzi bobubi, musa ukoyika ngenxa yabenzi bokungkolisa.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "kaDavid"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Musa"
+    },
+    {
+      "surface": "תתחר",
+      "gloss": "ukuvutha umsindo"
+    },
+    {
+      "surface": "במרעים",
+      "gloss": "ngenxa yabenzi bobubi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "musa"
+    },
+    {
+      "surface": "תקנא",
+      "gloss": "ukoyika"
+    },
+    {
+      "surface": "בעשי",
+      "gloss": "ngenxa yabenzi"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "bokungkolisa"
+    }
+  ],
+  "timestamp": "2026-09-18T14:42:18.720671812Z",
+  "model": "glm-5.3"
+}

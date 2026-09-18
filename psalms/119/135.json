@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 135,
+  "ref": "psalms 119:135",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 119,
+  "translation": "Ubuso bakho bukhanyise kumkhonza wakho, undfundise ⟨את⟩ imithetho yakho.",
+  "tokens": [
+    {
+      "surface": "פניך",
+      "gloss": "ubuso bakho"
+    },
+    {
+      "surface": "האר",
+      "gloss": "bukhanyise"
+    },
+    {
+      "surface": "בעבדך",
+      "gloss": "kumkhonza wakho"
+    },
+    {
+      "surface": "ולמדני",
+      "gloss": "undfundise"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "imithetho yakho"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "imithetho yakho"
+    }
+  ],
+  "timestamp": "2026-09-18T15:25:51.051269491Z",
+  "model": "glm-5.3"
+}

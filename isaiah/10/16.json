@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 10:16",
+  "book": "isaiah",
+  "lang": "xh",
+  "chapter": 10,
+  "translation": "Ngoko u-Adonayi uYahwe Tsebhayoti uza kuthumela ekutyebini kwakhe ukoma; nangaphantsi kobukho bukakhe kuza kutsha ishwangushwe njengokutsha kolilo.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "Ngoko"
+    },
+    {
+      "surface": "ישלח",
+      "gloss": "uza kuthumela"
+    },
+    {
+      "surface": "האדון",
+      "gloss": "u-Adonayi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsebhayoti"
+    },
+    {
+      "surface": "במשמניו",
+      "gloss": "ekutyebini kwakhe"
+    },
+    {
+      "surface": "רזון",
+      "gloss": "ukoma"
+    },
+    {
+      "surface": "ותחת",
+      "gloss": "nangaphantsi"
+    },
+    {
+      "surface": "כבדו",
+      "gloss": "kobukho bukakhe"
+    },
+    {
+      "surface": "יקד",
+      "gloss": "kuza kutsha"
+    },
+    {
+      "surface": "יקד",
+      "gloss": "ishwangushwe"
+    },
+    {
+      "surface": "כיקוד",
+      "gloss": "njengokutsha"
+    },
+    {
+      "surface": "אש",
+      "gloss": "kolilo"
+    }
+  ],
+  "timestamp": "2026-09-18T11:11:00.770351506Z",
+  "model": "glm-5.3"
+}

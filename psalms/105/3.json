@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 105:3",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 105,
+  "translation": "Zukisani ngeGama lakhe elingcwele; uza kuvuyisa intliziyo abafuni uYahwe.",
+  "tokens": [
+    {
+      "surface": "התהללו",
+      "gloss": "Zukisani"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "ngeGama"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "elingcwele lakhe"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "uza kuvuyisa"
+    },
+    {
+      "surface": "לב",
+      "gloss": "intliziyo"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "abafuni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    }
+  ],
+  "timestamp": "2026-09-18T15:16:42.395406768Z",
+  "model": "glm-5.3"
+}

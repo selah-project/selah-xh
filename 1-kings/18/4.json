@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 18:4",
+  "book": "1-kings",
+  "lang": "xh",
+  "chapter": 18,
+  "translation": "Kwathi xa u-Izabeli esika ⟨את⟩ oorhaniorho bekaYahwe, u-Obadyahu wathabatha irhaniorho elikhulu, wazifihla, amashumi amahlanu amadoda eqhobosheni, wazisondla ngesonka namanzi.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Kwathi"
+    },
+    {
+      "surface": "בהכרית",
+      "gloss": "xa esika"
+    },
+    {
+      "surface": "איזבל",
+      "gloss": "u-Izabeli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oorhaniorho bekaYahwe"
+    },
+    {
+      "surface": "נביאי",
+      "gloss": "oorhaniorho"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "bekaYahwe"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "wathabatha"
+    },
+    {
+      "surface": "עבדיהו",
+      "gloss": "u-Obadyahu"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "elikhulu (irhaniorho)"
+    },
+    {
+      "surface": "נבאים",
+      "gloss": "irhaniorho"
+    },
+    {
+      "surface": "ויחביאם",
+      "gloss": "wazifihla"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "amashumi amahlanu"
+    },
+    {
+      "surface": "איש",
+      "gloss": "amadoda"
+    },
+    {
+      "surface": "במערה",
+      "gloss": "eqhobosheni"
+    },
+    {
+      "surface": "וכלכלם",
+      "gloss": "wazisondla"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ngesonka"
+    },
+    {
+      "surface": "ומים",
+      "gloss": "namanzi"
+    }
+  ],
+  "timestamp": "2026-09-18T10:30:38.881739286Z",
+  "model": "glm-5.3"
+}

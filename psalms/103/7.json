@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 103:7",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 103,
+  "translation": "Wazisa iindlela zakhe kuMoshe, izenzo zakhe kwiintsana zikaSirayeli.",
+  "tokens": [
+    {
+      "surface": "יודיע",
+      "gloss": "Wazisa"
+    },
+    {
+      "surface": "דרכיו",
+      "gloss": "iindlela zakhe"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "kuMoshe"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "kwiintsana zika"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Sirayeli"
+    },
+    {
+      "surface": "עלילותיו",
+      "gloss": "izenzo zakhe"
+    }
+  ],
+  "timestamp": "2026-09-18T15:12:47.598881968Z",
+  "model": "glm-5.3"
+}

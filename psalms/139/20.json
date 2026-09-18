@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 139:20",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 139,
+  "translation": "abathetha ngawe ngenjongo engalunganga, bakuthatha ngenxebe wena, izitha zakho.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "abathetha ngawe"
+    },
+    {
+      "surface": "יאמרך",
+      "gloss": "abathetha ngawe"
+    },
+    {
+      "surface": "למזמה",
+      "gloss": "ngenjongo engalunganga"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "bakuthatha ngenxebe"
+    },
+    {
+      "surface": "לשוא",
+      "gloss": "ngenxebe"
+    },
+    {
+      "surface": "עריך",
+      "gloss": "izitha zakho"
+    }
+  ],
+  "timestamp": "2026-09-18T15:30:42.554078742Z",
+  "model": "glm-5.3"
+}

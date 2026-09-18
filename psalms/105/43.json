@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "psalms 105:43",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 105,
+  "translation": "Wakhupha abantu bakhe ngovuyo, abakhethiweyo bakhe ngentsoko yovuyo.",
+  "tokens": [
+    {
+      "surface": "ויוצא",
+      "gloss": "Wakhupha"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "abantu bakhe"
+    },
+    {
+      "surface": "בששון",
+      "gloss": "ngovuyo"
+    },
+    {
+      "surface": "ברנה",
+      "gloss": "ngentsoko yovuyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abakhethiweyo bakhe"
+    },
+    {
+      "surface": "בחיריו",
+      "gloss": "abakhethiweyo bakhe"
+    }
+  ],
+  "timestamp": "2026-09-18T15:16:51.483364815Z",
+  "model": "glm-5.3"
+}

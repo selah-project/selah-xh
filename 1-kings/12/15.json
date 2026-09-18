@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 12:15",
+  "book": "1-kings",
+  "lang": "xh",
+  "chapter": 12,
+  "translation": "IKumkani ke ayivalanga abantu, kuba utshintsho lwaba lukho olvela kuYahwe, ukuze amise ⟨את⟩ ilizwi lakhe uYahwe awawuthethayo ngasandla so-Achiya waseShilo kuYerovhamu unyana kaNebhati.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ayivalanga"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "-vala"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "iKumkani"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "העם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "lwaba lukho"
+    },
+    {
+      "surface": "סבה",
+      "gloss": "utshintsho"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "olvela"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kuYahwe"
+    },
+    {
+      "surface": "למען",
+      "gloss": "ukuze"
+    },
+    {
+      "surface": "הקים",
+      "gloss": "amise"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ilizwi lakhe"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "ilizwi lakhe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "awawuthethayo"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "wawuthetha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ngasandla"
+    },
+    {
+      "surface": "אחיה",
+      "gloss": "so-Achiya"
+    },
+    {
+      "surface": "השילני",
+      "gloss": "waseShilo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "uYerovhamu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "unyana"
+    },
+    {
+      "surface": "נבט",
+      "gloss": "kaNebhati"
+    }
+  ],
+  "timestamp": "2026-09-18T10:26:34.870527192Z",
+  "model": "glm-5.3"
+}

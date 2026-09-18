@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 57:12",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 57,
+  "translation": "Nyukela phezulu, NguElohim, ngaphezulu kwamazulu; phezu komhlaba wonke ubukho bakho.",
+  "tokens": [
+    {
+      "surface": "רומה",
+      "gloss": "Nyukela phezulu"
+    },
+    {
+      "surface": "על",
+      "gloss": "ngaphezulu"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "kwamazulu"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "NguElohim"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wonke"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "komhlaba"
+    },
+    {
+      "surface": "כבודך",
+      "gloss": "ubukho bakho"
+    }
+  ],
+  "timestamp": "2026-09-18T14:50:13.716766502Z",
+  "model": "glm-5.3"
+}

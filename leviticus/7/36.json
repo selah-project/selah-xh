@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "leviticus 7:36",
+  "book": "leviticus",
+  "lang": "xh",
+  "chapter": 7,
+  "translation": "oku uYahwe awalele ukuba kunikezelwe kubo, ngosuku abathunjiswa ⟨את⟩ ngalo, ⟨את⟩ kwabantwana baka-Israyeli — isigqibo sobukho busengunaphakade ezizukulwaneni zabo.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "oku"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "awalele"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "ukuba kunikezelwe"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kubo"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ngosuku"
+    },
+    {
+      "surface": "משחו",
+      "gloss": "abathunjiswa ngalo"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "iindawo ezinikezelwayo"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩ kwabantwana",
+      "marks": "abantwana baka-Israyeli"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abantwana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "baka-Israyeli"
+    },
+    {
+      "surface": "חקת",
+      "gloss": "isigqibo"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "sobukho busengunaphakade"
+    },
+    {
+      "surface": "לדרתם",
+      "gloss": "ezizukulwaneni zabo"
+    }
+  ],
+  "timestamp": "2026-09-18T06:36:48.152206125Z",
+  "model": "glm-5.3"
+}

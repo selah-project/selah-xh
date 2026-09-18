@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 77:3",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 77,
+  "translation": "Ngosuku lokubandezela kwam ndamfuna u-Adonayi; isandla sam ebusuku samile, sangaphumli; umphefumlo wam wala ukhululeka.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "Ngosuku"
+    },
+    {
+      "surface": "צרתי",
+      "gloss": "lokubandezela kwam"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "u-Adonayi"
+    },
+    {
+      "surface": "דרשתי",
+      "gloss": "ndamfuna"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "isandla sam"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "ebusuku"
+    },
+    {
+      "surface": "נגרה",
+      "gloss": "samile"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "sanga"
+    },
+    {
+      "surface": "תפוג",
+      "gloss": "phumli"
+    },
+    {
+      "surface": "מאנה",
+      "gloss": "wala"
+    },
+    {
+      "surface": "הנחם",
+      "gloss": "ukhululeka"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "umphefumlo wam"
+    }
+  ],
+  "timestamp": "2026-09-18T15:01:55.654410199Z",
+  "model": "glm-5.3"
+}

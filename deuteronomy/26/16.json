@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 26:16",
+  "book": "deuteronomy",
+  "lang": "xh",
+  "chapter": 26,
+  "translation": "Namhlanje uYahwe uElohim wakho ukuyalela ukwenza ⟨את⟩ le mithetho ⟨את⟩ nemigaqo; uza kuyigcina uze uyenze ⟨azo⟩ ngentliziyo yakho yonke nangaphefumlo lwakho lonke.",
+  "tokens": [
+    {
+      "surface": "היום",
+      "gloss": "namhlanje"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "lo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "uElohim wakho"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "ukuyalela"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "ukwenza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le mithetho"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "le mithetho"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "le"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "imigaqo"
+    },
+    {
+      "surface": "המשפטים",
+      "gloss": "imigaqo"
+    },
+    {
+      "surface": "ושמרת",
+      "gloss": "uza kuyigcina"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "uze uyenze"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "zona"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ngeyona"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "intliziyo yakho"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "kwaye nange"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "umphefumlo wakho"
+    }
+  ],
+  "timestamp": "2026-09-18T08:18:40.241779850Z",
+  "model": "glm-5.3"
+}

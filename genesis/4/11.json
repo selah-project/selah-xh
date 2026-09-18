@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 4:11",
+  "book": "genesis",
+  "lang": "xh",
+  "chapter": 4,
+  "translation": "Kananjalo ngoku, urehlesiwe wena apha emhlabeni, ovule ⟨את⟩ umlomo wawo ukwamkela ⟨את⟩ igazi lomnakwenu esandleni sakho.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "kananjalo ngoku"
+    },
+    {
+      "surface": "ארור",
+      "gloss": "urehlesiwe"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "מן",
+      "gloss": "apha"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "emhlabeni"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "o"
+    },
+    {
+      "surface": "פצתה",
+      "gloss": "ovule"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umlomo wawo"
+    },
+    {
+      "surface": "פיה",
+      "gloss": "umlomo wawo"
+    },
+    {
+      "surface": "לקחת",
+      "gloss": "ukwamkela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "igazi lomnakwenu"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "igazi"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "lomnakwenu"
+    },
+    {
+      "surface": "מידך",
+      "gloss": "esandleni sakho"
+    }
+  ],
+  "timestamp": "2026-09-18T05:07:37.189592238Z",
+  "model": "glm-5.3"
+}

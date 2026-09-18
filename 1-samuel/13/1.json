@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 13:1",
+  "book": "1-samuel",
+  "lang": "xh",
+  "chapter": 13,
+  "translation": "UNyana wunyaka uShawuli ekumalweni kwakhe, iminyaka emibini emalunde ngoYisraeli.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "unyana"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "unyaka"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "uShawuli"
+    },
+    {
+      "surface": "במלכו",
+      "gloss": "ekumalweni kwakhe"
+    },
+    {
+      "surface": "ושתי",
+      "gloss": "emibini"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "iminyaka"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "walunda"
+    },
+    {
+      "surface": "על",
+      "gloss": "ngo-"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "uYisraeli"
+    }
+  ],
+  "timestamp": "2026-09-18T09:23:26.473221053Z",
+  "model": "glm-5.3"
+}

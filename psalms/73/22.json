@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 73:22",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 73,
+  "translation": "Mna bendingumhloli, ndingazi nto; bendiyisilwane sowahlwa nawe.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Mna"
+    },
+    {
+      "surface": "בער",
+      "gloss": "bendingumhloli"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ndingazi nto ⟨hayi⟩"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "ndazi"
+    },
+    {
+      "surface": "בהמות",
+      "gloss": "isilwane"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "bendi"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "nawe"
+    }
+  ],
+  "timestamp": "2026-09-18T14:59:53.045249662Z",
+  "model": "glm-5.3"
+}

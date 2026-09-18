@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "jeremiah 25:25",
+  "book": "jeremiah",
+  "lang": "xh",
+  "chapter": 25,
+  "translation": "kwaye ⟨את⟩ zonke iinkosi zaseZimri, kwaye ⟨את⟩ zonke iinkosi ze-Elamu, kwaye ⟨את⟩ zonke iinkosi zaseMadiya.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "zonke iinkosi zaseZimri"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zonke"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "iinkosi"
+    },
+    {
+      "surface": "זמרי",
+      "gloss": "zaseZimri"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "zonke iinkosi ze-Elamu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zonke"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "iinkosi"
+    },
+    {
+      "surface": "עילם",
+      "gloss": "ze-Elamu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "zonke iinkosi zaseMadiya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zonke"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "iinkosi"
+    },
+    {
+      "surface": "מדי",
+      "gloss": "zaseMadiya"
+    }
+  ],
+  "timestamp": "2026-09-18T12:14:49.838296454Z",
+  "model": "glm-5.3"
+}

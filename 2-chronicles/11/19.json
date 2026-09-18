@@ -1,0 +1,52 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-chronicles 11:19",
+  "book": "2-chronicles",
+  "lang": "xh",
+  "chapter": 11,
+  "translation": "Wamzala abantwana abakhwenana ⟨את⟩ uYeushi, ⟨את⟩ uShemarya no⟨את⟩ uZahamu.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "wamzala"
+    },
+    {
+      "surface": "לו",
+      "gloss": "yena"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "abantwana abakhwenana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uYeushi"
+    },
+    {
+      "surface": "יעוש",
+      "gloss": "uYeushi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "no⟨את⟩",
+      "marks": "uShemarya"
+    },
+    {
+      "surface": "שמריה",
+      "gloss": "uShemarya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "no⟨את⟩",
+      "marks": "uZahamu"
+    },
+    {
+      "surface": "זהם",
+      "gloss": "uZahamu"
+    }
+  ],
+  "timestamp": "2026-09-18T17:06:10.426869423Z",
+  "model": "glm-5.3"
+}

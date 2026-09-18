@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 105:9",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 105,
+  "translation": "Elowasika ⟨את⟩ u-Avraham, nefungo lakhe kuYishaki.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "elo-"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "wasika"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "u-Avraham"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "u-Avraham"
+    },
+    {
+      "surface": "ושבועתו",
+      "gloss": "nefungo lakhe"
+    },
+    {
+      "surface": "לישחק",
+      "gloss": "kuYishaki"
+    }
+  ],
+  "timestamp": "2026-09-18T15:16:08.488268794Z",
+  "model": "glm-5.3"
+}

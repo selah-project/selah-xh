@@ -1,0 +1,123 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 21:7",
+  "book": "2-kings",
+  "lang": "xh",
+  "chapter": 21,
+  "translation": "Wayibeka ⟨את⟩ isithombe seAshera awayenzileyo endlwini uYahwe ayithethileyo kuDawidi nakakuShelomoh unyana wakhe: ‘Kule ndlu nakwiYerushalayimi endiyikhethileyo kuzo zonke iintlanga zeYisraeli ndiza kubeka ⟨את⟩ igama lam kuaphakade.’",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "Wayibeka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isithombe seAshera"
+    },
+    {
+      "surface": "פסל",
+      "gloss": "isithombe"
+    },
+    {
+      "surface": "האשרה",
+      "gloss": "seAshera"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "עשה",
+      "gloss": "awayenzileyo"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "endlwini"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ayithethileyo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "uDawidi"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "naku"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "uShelomoh"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "unyana wakhe"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "Kule ndlu"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "le"
+    },
+    {
+      "surface": "ובירושלם",
+      "gloss": "nakwiYerushalayimi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "בחרתי",
+      "gloss": "endiyikhethileyo"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "kuzo zonke"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "iintlanga"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "zeYisraeli"
+    },
+    {
+      "surface": "אשים",
+      "gloss": "ndiza kubeka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "igama lam"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "igama lam"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "kuaphakade"
+    }
+  ],
+  "timestamp": "2026-09-18T10:58:22.930792723Z",
+  "model": "glm-5.3"
+}

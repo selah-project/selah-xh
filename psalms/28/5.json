@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 28:5",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 28,
+  "translation": "Kuba abafuni kuqonda imisebenzi kaYahwe, nangomsebenzi wezandla zakhe; uza kubatshabalalisa, kwaye akanakubakhakha.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "לא",
+      "gloss": "abafuni"
+    },
+    {
+      "surface": "יבינו",
+      "gloss": "kuqonda"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨ku⟩"
+    },
+    {
+      "surface": "פעלת",
+      "gloss": "imisebenzi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kaYahwe"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "nango"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "umsebenzi"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "wezandla zakhe"
+    },
+    {
+      "surface": "יהרסם",
+      "gloss": "uza kubatshabalalisa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kwaye akanaku"
+    },
+    {
+      "surface": "יבנם",
+      "gloss": "bakhakha"
+    }
+  ],
+  "timestamp": "2026-09-18T14:37:51.804743447Z",
+  "model": "glm-5.3"
+}

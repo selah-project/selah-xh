@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 13:9",
+  "book": "job",
+  "lang": "xh",
+  "chapter": 13,
+  "translation": "Ingaba yingcono ukuba akuhlulele ⟨את⟩ nina? Okanye, njengokudlalisa umntu, niyamdlalisa yena?",
+  "tokens": [
+    {
+      "surface": "הטוב",
+      "gloss": "Ingaba yingcono"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ukuba"
+    },
+    {
+      "surface": "יחקר",
+      "gloss": "akuhlulele"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "nina"
+    },
+    {
+      "surface": "אם",
+      "gloss": "okanye"
+    },
+    {
+      "surface": "כהתל",
+      "gloss": "njengokudlalisa"
+    },
+    {
+      "surface": "באנוש",
+      "gloss": "umntu"
+    },
+    {
+      "surface": "תהתלו",
+      "gloss": "niyamdlalisa"
+    },
+    {
+      "surface": "בו",
+      "gloss": "yena"
+    }
+  ],
+  "timestamp": "2026-09-18T16:03:31.817268583Z",
+  "model": "glm-5.3"
+}

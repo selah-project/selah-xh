@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 115:12",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 115,
+  "translation": "UYahwe usikhumbulile; uyakusikelekela — uyakusikelekela ⟨את⟩ intlwi yase-Israel, uyakusikelekela ⟨את⟩ intlwi ka-Aharon.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "UYahwe"
+    },
+    {
+      "surface": "זכרנו",
+      "gloss": "usikhumbulile"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "uyakusikelekela"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "uyakusikelekela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "intlwi yase-Israel"
+    },
+    {
+      "surface": "בית",
+      "gloss": "intlwi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "yase-Israel"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "uyakusikelekela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "intlwi ka-Aharon"
+    },
+    {
+      "surface": "בית",
+      "gloss": "intlwi"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "ka-Aharon"
+    }
+  ],
+  "timestamp": "2026-09-18T15:22:04.609593887Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 13:3",
+  "book": "1-chronicles",
+  "lang": "xh",
+  "chapter": 13,
+  "translation": "Siyisusele kithi ⟨את⟩ iarika kaElohim wethu, kuba asikayibuzanga ngemihla kaShawuli.”",
+  "tokens": [
+    {
+      "surface": "ונסבה",
+      "gloss": "Siyisusele"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iarika kaElohim wethu"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "iarika"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "kaElohim wethu"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "kithi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "לא",
+      "gloss": "asikayibuzanga"
+    },
+    {
+      "surface": "דרשנהו",
+      "gloss": "asikayibuzanga (yona)"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "ngemihla"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "kaShawuli"
+    }
+  ],
+  "timestamp": "2026-09-18T16:56:40.689636976Z",
+  "model": "glm-5.3"
+}

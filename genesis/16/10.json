@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 16:10",
+  "book": "genesis",
+  "lang": "xh",
+  "chapter": 16,
+  "translation": "Wathi isithunywa sikaYahwe kuye: “Ndiza kukwandisa kakhulu ⟨את⟩ inzala yakho, yaye ingabaleki ngeninzi.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Wathi"
+    },
+    {
+      "surface": "לה",
+      "gloss": "kuye"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "isithunywa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "sikaYahwe"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "kakhulu"
+    },
+    {
+      "surface": "ארבה",
+      "gloss": "Ndiza kukwandisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "inzala yakho"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "inzala yakho"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "yaye inga"
+    },
+    {
+      "surface": "יספר",
+      "gloss": "baleki"
+    },
+    {
+      "surface": "מרב",
+      "gloss": "ngeninzi"
+    }
+  ],
+  "timestamp": "2026-09-18T05:15:05.198322385Z",
+  "model": "glm-5.3"
+}

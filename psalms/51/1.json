@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 51:1",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 51,
+  "translation": "Kumlawuli womculo, umhayizo kaDavida.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Kumlawuli womculo"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "umhayizo"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "kaDavida"
+    }
+  ],
+  "timestamp": "2026-09-18T14:49:24.142934612Z",
+  "model": "glm-5.3"
+}

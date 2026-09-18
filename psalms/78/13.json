@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 78:13",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 78,
+  "translation": "Wadandulula ulwandle, wabagqithisa; wamisa ⟨the⟩ amanzi njengomqulu.",
+  "tokens": [
+    {
+      "surface": "בקע",
+      "gloss": "Wadandulula"
+    },
+    {
+      "surface": "ים",
+      "gloss": "ulwandle"
+    },
+    {
+      "surface": "ויעבירם",
+      "gloss": "wabagqithisa"
+    },
+    {
+      "surface": "ויצב",
+      "gloss": "wamisa"
+    },
+    {
+      "surface": "מים",
+      "gloss": "amanzi"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "njengo-"
+    },
+    {
+      "surface": "נד",
+      "gloss": "mqulu"
+    }
+  ],
+  "timestamp": "2026-09-18T15:01:57.999968292Z",
+  "model": "glm-5.3"
+}

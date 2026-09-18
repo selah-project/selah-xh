@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 14:10",
+  "book": "2-kings",
+  "lang": "xh",
+  "chapter": 14,
+  "translation": "Woyibetha ⟨את⟩ iEdom, yaye intliziyo yakho yakuphakamisa; zithathe ngobukhosi, uhlale endlwini yakho; kutheni ukhuphisana kolubi, ukuze uwe wena, noYuda kunye nawe?",
+  "tokens": [
+    {
+      "surface": "הכה",
+      "gloss": "ubethe"
+    },
+    {
+      "surface": "הכית",
+      "gloss": "oyibethe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iEdom"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "iEdom"
+    },
+    {
+      "surface": "ונשאך",
+      "gloss": "yakuphakamisa"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "intliziyo yakho"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "zithathe ngobukhosi"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "uhlale"
+    },
+    {
+      "surface": "בביתך",
+      "gloss": "endlwini yakho"
+    },
+    {
+      "surface": "ולמה",
+      "gloss": "kutheni"
+    },
+    {
+      "surface": "תתגרה",
+      "gloss": "ukhuphisana"
+    },
+    {
+      "surface": "ברעה",
+      "gloss": "kolubi"
+    },
+    {
+      "surface": "ונפלתה",
+      "gloss": "ukuze uwe"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "noYuda"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "kunye nawe"
+    }
+  ],
+  "timestamp": "2026-09-18T10:48:15.567331842Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 19:4",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 19,
+  "translation": "Akukho ntetho, akukho namazwi; ilizwi labo alivakelwa ndawonke.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "Akukho"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ntetho"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "akukho namazwi"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "amazwi"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "ndawonke"
+    },
+    {
+      "surface": "נשמע",
+      "gloss": "alivakelwa"
+    },
+    {
+      "surface": "קולם",
+      "gloss": "ilizwi labo"
+    }
+  ],
+  "timestamp": "2026-09-18T14:35:37.239560954Z",
+  "model": "glm-5.3"
+}

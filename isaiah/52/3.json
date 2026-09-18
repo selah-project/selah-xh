@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 52:3",
+  "book": "isaiah",
+  "lang": "xh",
+  "chapter": 52,
+  "translation": "Kuba ngokunjalo uthe uYahwe: mahala nanithengiswa, yaye hayi ngesiliva niya kukhululwa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "כה",
+      "gloss": "ngokunjalo"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "uthe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "mahala"
+    },
+    {
+      "surface": "נמכרתם",
+      "gloss": "nanithengiswa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "yaye hayi"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "ngesiliva"
+    },
+    {
+      "surface": "תגאלו",
+      "gloss": "niya kukhululwa"
+    }
+  ],
+  "timestamp": "2026-09-18T11:42:06.829675334Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 23:5",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 23,
+  "translation": "Uyalungiselela phambi kwam itafile phambi kwezitha zam; wandlise ngeoli intloko yam; inkomishi yam ihluthule.",
+  "tokens": [
+    {
+      "surface": "תערך",
+      "gloss": "Uyalungiselela"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "phambi kwam"
+    },
+    {
+      "surface": "שלחן",
+      "gloss": "itafile"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "phambi kwe"
+    },
+    {
+      "surface": "צררי",
+      "gloss": "zitha zam"
+    },
+    {
+      "surface": "דשנת",
+      "gloss": "wandlise"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "ngeoli"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "intloko yam"
+    },
+    {
+      "surface": "כוסי",
+      "gloss": "inkomishi yam"
+    },
+    {
+      "surface": "רויה",
+      "gloss": "ihluthule"
+    }
+  ],
+  "timestamp": "2026-09-18T14:36:51.392028340Z",
+  "model": "glm-5.3"
+}

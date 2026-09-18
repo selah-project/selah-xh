@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 4:21",
+  "book": "leviticus",
+  "lang": "xh",
+  "chapter": 4,
+  "translation": "Wayekhipha ⟨את⟩ inkunzi yenkomo kwindawo engaphandle kwinkampu, wayitshisa ⟨את⟩ njengoko watshisa ⟨את⟩ inkunzi yenkomo eyokuqala; ngumnikelo wesono weqela ngokwawo.",
+  "tokens": [
+    {
+      "surface": "והוציא",
+      "gloss": "wayekhipha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "inkunzi yenkomo"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "inkunzi yenkomo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwi"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "ngaphandle"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "kwinkampu"
+    },
+    {
+      "surface": "ושרף",
+      "gloss": "wayitshisa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "yona (inkunzi yenkomo)"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "njengoko"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "watshisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "inkunzi yenkomo"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "inkunzi yenkomo"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "eyokuqala"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "umnikelo wesono"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "weqela"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ngokwawo"
+    }
+  ],
+  "timestamp": "2026-09-18T06:38:41.091144602Z",
+  "model": "glm-5.3"
+}

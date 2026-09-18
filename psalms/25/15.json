@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 25:15",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 25,
+  "translation": "Amehlo am aqhubeka ebhekisa kuYahwe, kuba yena uya kukhupha iinyawo zam esingxakeni.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "amehlo am"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "aqhubeka"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ebhekisa ku-"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yena"
+    },
+    {
+      "surface": "יוציא",
+      "gloss": "uya kukhupha"
+    },
+    {
+      "surface": "מרשת",
+      "gloss": "esingxakeni"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "iinyawo zam"
+    }
+  ],
+  "timestamp": "2026-09-18T14:37:33.657181456Z",
+  "model": "glm-5.3"
+}

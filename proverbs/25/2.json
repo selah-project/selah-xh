@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 25:2",
+  "book": "proverbs",
+  "lang": "xh",
+  "chapter": 25,
+  "translation": "Uzuko lukaElohim kukufihla into; uzuko lweenkosi kukuphanda into.",
+  "tokens": [
+    {
+      "surface": "כבד",
+      "gloss": "uzuko luka-"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "הסתר",
+      "gloss": "kukufihla"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "into"
+    },
+    {
+      "surface": "וכבד",
+      "gloss": "nezuzo lwee-"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "nkosi"
+    },
+    {
+      "surface": "חקר",
+      "gloss": "kukuphanda"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "into"
+    }
+  ],
+  "timestamp": "2026-09-18T15:55:15.100285901Z",
+  "model": "glm-5.3"
+}

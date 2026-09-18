@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 1:3",
+  "book": "leviticus",
+  "lang": "xh",
+  "chapter": 1,
+  "translation": "Ukuba inkosi-mali yakhe yintengu-yonke, kwinkomo, isilumkisi mthwbenzi, uyinikele entsimini yetente lomdlangano; uyinikele yonke ithande lakhe, phambi kukaYahwe.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Ukuba"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "yintengu-yonke"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "inkosi-mali yakhe"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kwi"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "nkomo"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "isilumkisi"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "mthwbenzi"
+    },
+    {
+      "surface": "יקריבנו",
+      "gloss": "uyinikele"
+    },
+    {
+      "surface": "אל",
+      "gloss": "entsimini"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "yotembu"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "yetente"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "lomdlangano"
+    },
+    {
+      "surface": "יקריב",
+      "gloss": "uyinikele"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "yithande lakhe"
+    },
+    {
+      "surface": "לרצנו",
+      "gloss": "yothando lwakhe"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "phambi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kukaYahwe"
+    }
+  ],
+  "timestamp": "2026-09-18T06:33:45.313718134Z",
+  "model": "glm-5.3"
+}

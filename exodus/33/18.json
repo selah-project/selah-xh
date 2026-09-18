@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 33:18",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 33,
+  "translation": "Wathi ⟨yena⟩: “Ndicinge ubonise ⟨את⟩ ubukhosi bakho.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "הראני",
+      "gloss": "ubonise"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ndicinge"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ubukhosi bakho"
+    },
+    {
+      "surface": "כבדך",
+      "gloss": "ubukhosi bakho"
+    }
+  ],
+  "timestamp": "2026-09-18T06:24:13.252232113Z",
+  "model": "glm-5.3"
+}

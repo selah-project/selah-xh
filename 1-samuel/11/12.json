@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 11:12",
+  "book": "1-samuel",
+  "lang": "xh",
+  "chapter": 11,
+  "translation": "Abantu bathi kuShemuweli: “Ngubani lowo uthethe ukuba uShawuli akabusi phezu kwethu? Nibanike la madoda, sibabulale.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "bathi"
+    },
+    {
+      "surface": "העם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "uShemuweli"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ngubani"
+    },
+    {
+      "surface": "האמר",
+      "gloss": "othethe"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "uShawuli"
+    },
+    {
+      "surface": "ימלך",
+      "gloss": "akabusi (makabuse)"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "phezu kwethu"
+    },
+    {
+      "surface": "תנו",
+      "gloss": "nibanike"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "la madoda"
+    },
+    {
+      "surface": "ונמיתם",
+      "gloss": "sibabulale"
+    }
+  ],
+  "timestamp": "2026-09-18T09:20:50.763221669Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 24:16",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 24,
+  "translation": "Wahlala ukhanyo lukaYahwe phezu kwentaba yaseSinayi; ifu yamqumba yaye iintsuku ezintandathu; ngemini yesixhenxe wabizela uMoshe apha phakathi kwelo fu.",
+  "tokens": [
+    {
+      "surface": "וישכן",
+      "gloss": "wahlala"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "ukhanyo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ukaYahwe"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu kw-"
+    },
+    {
+      "surface": "הר",
+      "gloss": "intaba"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "yaseSinayi"
+    },
+    {
+      "surface": "ויכסהו",
+      "gloss": "yamqumba yaye"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "ifu"
+    },
+    {
+      "surface": "ששת",
+      "gloss": "iintsuku ezintandathu"
+    },
+    {
+      "surface": "ימים",
+      "gloss": ""
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "wabizela"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "משה",
+      "gloss": "uMoshe"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ngemini"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "yesixhenxe"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "apha phakathi kw-"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "elo fu"
+    }
+  ],
+  "timestamp": "2026-09-18T06:10:12.243874406Z",
+  "model": "glm-5.3"
+}

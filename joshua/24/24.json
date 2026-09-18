@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "joshua 24:24",
+  "book": "joshua",
+  "lang": "xh",
+  "chapter": 24,
+  "translation": "Bathi abantu kuYehoshuwa: uYahwe uElohim wethu ⟨את⟩ simkhonza, nelizwi lakhe silalela.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "bathi"
+    },
+    {
+      "surface": "העם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "uYehoshuwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uYahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "uElohim wethu"
+    },
+    {
+      "surface": "נעבד",
+      "gloss": "simkhonza"
+    },
+    {
+      "surface": "ובקולו",
+      "gloss": "nelizwi lakhe"
+    },
+    {
+      "surface": "נשמע",
+      "gloss": "silalela"
+    }
+  ],
+  "timestamp": "2026-09-18T08:47:44.249229649Z",
+  "model": "glm-5.3"
+}

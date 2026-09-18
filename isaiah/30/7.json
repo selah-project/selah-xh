@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 30:7",
+  "book": "isaiah",
+  "lang": "xh",
+  "chapter": 30,
+  "translation": "IMitsrayim ilutsho yaye ingenanto; ngoko ndidayibiza le: iRahabi ehleli kamnandi.",
+  "tokens": [
+    {
+      "surface": "ומצרים",
+      "gloss": "IMitsrayim"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "ilutsho"
+    },
+    {
+      "surface": "וריק",
+      "gloss": "yaye ingenanto"
+    },
+    {
+      "surface": "יעזרu",
+      "gloss": "iya kunceda"
+    },
+    {
+      "surface": "לכן",
+      "gloss": "ngoko"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "ndidayibiza"
+    },
+    {
+      "surface": "לזאת",
+      "gloss": "le"
+    },
+    {
+      "surface": "רהב",
+      "gloss": "iRahabi"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ehleli"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "kamnandi"
+    }
+  ],
+  "timestamp": "2026-09-18T11:25:02.309911125Z",
+  "model": "glm-5.3"
+}

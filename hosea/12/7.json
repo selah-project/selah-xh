@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "hosea 12:7",
+  "book": "hosea",
+  "lang": "xh",
+  "chapter": 12,
+  "translation": "Wena ubuyele kuElohim wakho; gcina ikhesedi nolulinganiso, ube ulindele kuElohim wakho ngonaphakade.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Wena"
+    },
+    {
+      "surface": "באלהיך",
+      "gloss": "uku-"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "ubuyela"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "ikhesedi"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "nolulinganiso"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "gcina"
+    },
+    {
+      "surface": "וקוה",
+      "gloss": "ube ulindele"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim wakho"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "ngonaphakade"
+    }
+  ],
+  "timestamp": "2026-09-18T13:46:53.764375180Z",
+  "model": "glm-5.3"
+}

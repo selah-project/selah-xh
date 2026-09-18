@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 10:10",
+  "book": "leviticus",
+  "lang": "xh",
+  "chapter": 10,
+  "translation": "Nokwahlula phakathi kokungcwele naphakathi kokungangcwele, phakathi kokungcolileyo naphakathi kokococekileyo;",
+  "tokens": [
+    {
+      "surface": "ולהבדיל",
+      "gloss": "nokwahlula"
+    },
+    {
+      "surface": "בין",
+      "gloss": "phakathi"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "kokungcwele"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "naphakathi"
+    },
+    {
+      "surface": "החל",
+      "gloss": "kokungangcwele"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "phakathi"
+    },
+    {
+      "surface": "הטמא",
+      "gloss": "kokungcolileyo"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "naphakathi"
+    },
+    {
+      "surface": "הטהור",
+      "gloss": "kokococekileyo"
+    }
+  ],
+  "timestamp": "2026-09-18T06:42:02.279239070Z",
+  "model": "glm-5.3"
+}

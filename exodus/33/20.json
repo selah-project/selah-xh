@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 33:20",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 33,
+  "translation": "Wathi ⟨yena⟩: “Awunako ukubona ⟨את⟩ ubuso bam, kuba umntu akayi kundibona ⟨yena⟩ nahleli.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "akunaku"
+    },
+    {
+      "surface": "תוכל",
+      "gloss": "ukubona"
+    },
+    {
+      "surface": "לראת",
+      "gloss": "ukubona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ubuso bam"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ubuso bam"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "לא",
+      "gloss": "akayi"
+    },
+    {
+      "surface": "יראני",
+      "gloss": "kundibona"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "umntu"
+    },
+    {
+      "surface": "וחי",
+      "gloss": "nahleli"
+    }
+  ],
+  "timestamp": "2026-09-18T06:24:13.252751425Z",
+  "model": "glm-5.3"
+}

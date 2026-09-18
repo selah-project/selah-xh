@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 16:8",
+  "book": "jeremiah",
+  "lang": "xh",
+  "chapter": 16,
+  "translation": "Ungangeni nendlwini yesidili lokusela, ukuzihlalela ⟨את⟩ kona ukutya nokusela.",
+  "tokens": [
+    {
+      "surface": "ובית",
+      "gloss": "nendlwini"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "yesidili lokusela"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ungangena"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "ukungena"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "ukuzihlalela"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "ukutya nokusela"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "ukutya"
+    },
+    {
+      "surface": "ולשתות",
+      "gloss": "nokusela"
+    }
+  ],
+  "timestamp": "2026-09-18T12:05:57.168203852Z",
+  "model": "glm-5.3"
+}

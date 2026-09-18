@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-kings 2:25",
+  "book": "2-kings",
+  "lang": "xh",
+  "chapter": 2,
+  "translation": "Waya kuthi wasuka apho waya entabeni iKarmeli, waza wasuka apho wabuyela eShomeroni.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "waya kuthi"
+    },
+    {
+      "surface": "משם",
+      "gloss": "wasuka apho"
+    },
+    {
+      "surface": "אל",
+      "gloss": "waya"
+    },
+    {
+      "surface": "הר",
+      "gloss": "entabeni"
+    },
+    {
+      "surface": "הכרמל",
+      "gloss": "iKarmeli"
+    },
+    {
+      "surface": "ומשם",
+      "gloss": "waza wasuka apho"
+    },
+    {
+      "surface": "שב",
+      "gloss": "wabuyela"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "eShomeroni"
+    }
+  ],
+  "timestamp": "2026-09-18T10:35:23.858166392Z",
+  "model": "glm-5.3"
+}

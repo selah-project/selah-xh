@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 130:4",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 130,
+  "translation": "Kuba kuwe kukho intethelelo, ukuze ubhoywe.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kuba"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "kuwe"
+    },
+    {
+      "surface": "הסליחה",
+      "gloss": "intethelelo"
+    },
+    {
+      "surface": "למען",
+      "gloss": "ukuze"
+    },
+    {
+      "surface": "תורא",
+      "gloss": "ubhoywe"
+    }
+  ],
+  "timestamp": "2026-09-18T15:27:13.754768362Z",
+  "model": "glm-5.3"
+}

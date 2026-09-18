@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 1:10",
+  "book": "2-chronicles",
+  "lang": "xh",
+  "chapter": 1,
+  "translation": "Ngoku, ndinike ukhalipha nolwazi, ukuze ndiphume ndingene phambi kwalo lolu luntu, kuba ngubani oza kugweba ⟨את⟩ lolu luntu lwakho olunkulu?",
+  "tokens": [
+    {
+      "surface": "עתה",
+      "gloss": "Ngoku"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "ukhalipha"
+    },
+    {
+      "surface": "ומדע",
+      "gloss": "nolwazi"
+    },
+    {
+      "surface": "תן",
+      "gloss": "ndinike"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ndinike"
+    },
+    {
+      "surface": "ואצאה",
+      "gloss": "ndiphume"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "phambi kwa-"
+    },
+    {
+      "surface": "העם",
+      "gloss": "lolu luntu"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "lolu"
+    },
+    {
+      "surface": "ואבואה",
+      "gloss": "ndingene"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ngubani"
+    },
+    {
+      "surface": "ישפט",
+      "gloss": "oza kugweba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lolu luntu lwakho"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "luntu lwakho"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "lolu"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "olunkulu"
+    }
+  ],
+  "timestamp": "2026-09-18T17:51:36.583931992Z",
+  "model": "glm-5.3"
+}

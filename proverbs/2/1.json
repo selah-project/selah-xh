@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 2:1",
+  "book": "proverbs",
+  "lang": "xh",
+  "chapter": 2,
+  "translation": "Unyana wam, ukuba uthabatha amazwi am, uze uzifihle iimiyalelo zam ⟨את⟩ kuwe:",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Unyana wam"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ukuba"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "uthabatha"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "amazwi am"
+    },
+    {
+      "surface": "ומצותי",
+      "gloss": "uze uzifihle iimiyalelo zam"
+    },
+    {
+      "surface": "תצפן",
+      "gloss": "uzifihle"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ kuwe",
+      "marks": "kuwe"
+    }
+  ],
+  "timestamp": "2026-09-18T15:39:16.511060058Z",
+  "model": "glm-5.3"
+}

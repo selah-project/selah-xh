@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-chronicles 5:35",
+  "book": "1-chronicles",
+  "lang": "xh",
+  "chapter": 5,
+  "translation": "U-Achimaatsi wazala ⟨את⟩ u-Azarjah, u-Azarjah wazala ⟨את⟩ u-Yokhanani.",
+  "tokens": [
+    {
+      "surface": "ואחימעץ",
+      "gloss": "u-Achimaatsi"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "wazala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "u-Azarjah"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "u-Azarjah"
+    },
+    {
+      "surface": "ועזריה",
+      "gloss": "u-Azarjah"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "wazala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "u-Yokhanani"
+    },
+    {
+      "surface": "יוחנן",
+      "gloss": "u-Yokhanani"
+    }
+  ],
+  "timestamp": "2026-09-18T16:51:41.064385954Z",
+  "model": "glm-5.3"
+}

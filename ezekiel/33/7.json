@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezekiel 33:7",
+  "book": "ezekiel",
+  "lang": "xh",
+  "chapter": 33,
+  "translation": "Wena, unyana womntu, ndakumisela njengommeli wendlu kaSirayeli; uza kuva ilizwi emlonyeni wam, uze ubaxhase ⟨אתם⟩ ngokwam.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "בן",
+      "gloss": "unyana"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "womntu"
+    },
+    {
+      "surface": "צפה",
+      "gloss": "njengommeli"
+    },
+    {
+      "surface": "נתתיך",
+      "gloss": "ndakumisela"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "wendlu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "kaSirayeli"
+    },
+    {
+      "surface": "ושמעת",
+      "gloss": "uza kuva"
+    },
+    {
+      "surface": "מפי",
+      "gloss": "emlonyeni"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ilizwi"
+    },
+    {
+      "surface": "והזהרת",
+      "gloss": "uze ubaxhase"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "bo (abantu bakwaSirayeli)"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "ngokwam"
+    }
+  ],
+  "timestamp": "2026-09-18T13:23:55.430018582Z",
+  "model": "glm-5.3"
+}

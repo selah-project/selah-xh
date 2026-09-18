@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 21:5",
+  "book": "deuteronomy",
+  "lang": "xh",
+  "chapter": 21,
+  "translation": "Kwaye oobaphresti, oonyana kaLevi, baza kusondelela; kuba yibo uYahwe uElohim wakhe abakhethile ukuba bamkhonze yena, baze bachaze ngeGama lukaYahwe; kwaye ngomlomo wabo kuya kumiswa lonke ingxabo nalo nto yonke yokotywa.",
+  "tokens": [
+    {
+      "surface": "ונגשו",
+      "gloss": "baza kusondelela"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "oobaphresti"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oonyana"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "kaLevi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "בם",
+      "gloss": "yibo"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "abakhethile"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "uElohim wakhe"
+    },
+    {
+      "surface": "לשרתו",
+      "gloss": "ukuba bamkhonze yena"
+    },
+    {
+      "surface": "ולברך",
+      "gloss": "baze bachaze"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "ngeGama"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "lukaYahwe"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "kwaye ngomlomo"
+    },
+    {
+      "surface": "פיהם",
+      "gloss": "wabo"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "kuya kumiswa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lonke"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "ingxabo"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "nento yonke"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "yokotywa"
+    }
+  ],
+  "timestamp": "2026-09-18T08:10:31.743903756Z",
+  "model": "glm-5.3"
+}

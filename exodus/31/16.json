@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 31:16",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 31,
+  "translation": "Abantwana bakwaSirayeli bayakugcina ⟨את⟩ iShabathi, ukwenza ⟨את⟩ iShabathi kwiintlanga zabo, njengomqophiso waphakade.",
+  "tokens": [
+    {
+      "surface": "ושמרו",
+      "gloss": "bayakugcina"
+    },
+    {
+      "surface": "בני",
+      "gloss": "Abantwana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "bakwaSirayeli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iShabathi"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "iShabathi"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "ukwenza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iShabathi"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "iShabathi"
+    },
+    {
+      "surface": "לדרתם",
+      "gloss": "kwiintlanga zabo"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "njengomqophiso"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "waphakade"
+    }
+  ],
+  "timestamp": "2026-09-18T06:18:35.520817302Z",
+  "model": "glm-5.3"
+}

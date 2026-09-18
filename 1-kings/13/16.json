@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 13:16",
+  "book": "1-kings",
+  "lang": "xh",
+  "chapter": 13,
+  "translation": "Wathi: “Andinakubuyela ⟨את⟩ nawe okanye ndingena ⟨את⟩ nawe; andityi isonka, yaye andiseli ⟨את⟩ nawe amanzi kule ndawo.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "andi-"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "nakubuyela"
+    },
+    {
+      "surface": "לשוב",
+      "gloss": "ukubuyela"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ nawe",
+      "marks": "ukubuyela ⟨את⟩ nawe"
+    },
+    {
+      "surface": "ולבוא",
+      "gloss": "ndingena"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ nawe",
+      "marks": "ukungena ⟨את⟩ nawe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "hayi"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "andityi"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "isonka"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "yaye andi-"
+    },
+    {
+      "surface": "אשתה",
+      "gloss": "seli"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ nawe",
+      "marks": "ukusela ⟨את⟩ nawe"
+    },
+    {
+      "surface": "מים",
+      "gloss": "amanzi"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "kule ndawo"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "le"
+    }
+  ],
+  "timestamp": "2026-09-18T10:24:58.443145196Z",
+  "model": "glm-5.3"
+}

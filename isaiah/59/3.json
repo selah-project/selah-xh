@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 59:3",
+  "book": "isaiah",
+  "lang": "xh",
+  "chapter": 59,
+  "translation": "Kuba izandla zenu zinyaziselwe yigazi, neziqalelo zenu zisuka kwizingozi; milomo yenu ithetha ubuxoki, ulwimi lwenu bububi bukhuluma.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kuba"
+    },
+    {
+      "surface": "כפיכם",
+      "gloss": "izandla zenu"
+    },
+    {
+      "surface": "נגאלו",
+      "gloss": "zinyaziselwe"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "yigazi"
+    },
+    {
+      "surface": "ואצבעותיכם",
+      "gloss": "neziqalelo zenu"
+    },
+    {
+      "surface": "בעון",
+      "gloss": "kwizingozi"
+    },
+    {
+      "surface": "שפתותיכם",
+      "gloss": "milomo yenu"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "ithetha"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "ubuxoki"
+    },
+    {
+      "surface": "לשונכם",
+      "gloss": "ulwimi lwenu"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "ububi"
+    },
+    {
+      "surface": "תהגה",
+      "gloss": "bukhuluma"
+    }
+  ],
+  "timestamp": "2026-09-18T11:46:30.565653195Z",
+  "model": "glm-5.3"
+}

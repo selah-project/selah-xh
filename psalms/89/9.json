@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 89:9",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 89,
+  "translation": "uYahwe, uElohim Tsebhayoti, ngubani oqinileyo njengawe, uYah? Kwaye ukuthembeka kwakho kukujikelezile konke.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsebhayoti"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ngubani"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "njengawe"
+    },
+    {
+      "surface": "חסין",
+      "gloss": "oqinileyo"
+    },
+    {
+      "surface": "יה",
+      "gloss": "uYah"
+    },
+    {
+      "surface": "ואמונתך",
+      "gloss": "kwaye ukuthembeka kwakho"
+    },
+    {
+      "surface": "סביבותיך",
+      "gloss": "kukujikelezile konke"
+    }
+  ],
+  "timestamp": "2026-09-18T15:08:05.022595766Z",
+  "model": "glm-5.3"
+}

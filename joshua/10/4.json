@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "joshua 10:4",
+  "book": "joshua",
+  "lang": "xh",
+  "chapter": 10,
+  "translation": "“Yizani kum, nindincede, masibethe ⟨את⟩ iGibhoni, kuba yenzile uxolo ⟨את⟩ uYehoshuwa no ⟨את⟩ abantwana bakaYisrayeli.”",
+  "tokens": [
+    {
+      "surface": "עלו",
+      "gloss": "Yizani"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kum"
+    },
+    {
+      "surface": "ועזרני",
+      "gloss": "nindincede"
+    },
+    {
+      "surface": "ונכה",
+      "gloss": "masibethe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iGibhoni"
+    },
+    {
+      "surface": "גבעון",
+      "gloss": "iGibhoni"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "השלימה",
+      "gloss": "yenzile uxolo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uYehoshuwa"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "uYehoshuwa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "abantwana bakaYisrayeli"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abantwana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "bakaYisrayeli"
+    }
+  ],
+  "timestamp": "2026-09-18T08:35:59.649832160Z",
+  "model": "glm-5.3"
+}

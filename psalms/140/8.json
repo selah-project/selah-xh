@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 140:8",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 140,
+  "translation": "uYahwe, u-Adonayi, amandla esiphephelo sam, ubusile intloko yam ngosuku lolwa.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "u-Adonayi"
+    },
+    {
+      "surface": "עז",
+      "gloss": "amandla"
+    },
+    {
+      "surface": "ישועתי",
+      "gloss": "esiphephelo sam"
+    },
+    {
+      "surface": "סכתה",
+      "gloss": "ubusile"
+    },
+    {
+      "surface": "לראשי",
+      "gloss": "intloko yam"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ngosuku"
+    },
+    {
+      "surface": "נשק",
+      "gloss": "lolwa"
+    }
+  ],
+  "timestamp": "2026-09-18T15:32:16.292547242Z",
+  "model": "glm-5.3"
+}

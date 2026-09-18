@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 30:2",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 30,
+  "translation": "I-cubit ubude bayo, nesex: I-cubit ububanzi bayo; lube\/lingu\/sikwe\/le; i-cubit ezimbini ukuphakama kwayo; amahorn ayo makabe yaye\/into-enye.",
+  "tokens": [
+    {
+      "surface": "אמה",
+      "gloss": "I-cubit"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "ubude bayo"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "kwaye i-cubit"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "ububanzi bayo"
+    },
+    {
+      "surface": "רבוע",
+      "gloss": "lingu-sikwele"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "makabe"
+    },
+    {
+      "surface": "ואמתים",
+      "gloss": "kwaye ii-cubit ezimbini"
+    },
+    {
+      "surface": "קמתו",
+      "gloss": "ukuphakama kwayo"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "kuwona (into-enye nayo)"
+    },
+    {
+      "surface": "קרנתיו",
+      "gloss": "amahorn ayo"
+    }
+  ],
+  "timestamp": "2026-09-18T17:21:37.347498634Z",
+  "model": "glm-5.3"
+}

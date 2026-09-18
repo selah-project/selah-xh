@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezra 7:5",
+  "book": "ezra",
+  "lang": "xh",
+  "chapter": 7,
+  "translation": "unyana ka-Avishuwa, unyana ka-Pinhasi, unyana ka-Elazari, unyana ka-Aharon umongameli wabapristi.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "unyana"
+    },
+    {
+      "surface": "אבישוע",
+      "gloss": "ka-Avishuwa"
+    },
+    {
+      "surface": "בן",
+      "gloss": "unyana"
+    },
+    {
+      "surface": "פינחס",
+      "gloss": "ka-Pinhasi"
+    },
+    {
+      "surface": "בן",
+      "gloss": "unyana"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "ka-Elazari"
+    },
+    {
+      "surface": "בן",
+      "gloss": "unyana"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "ka-Aharon"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "umpristi"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "umongameli"
+    }
+  ],
+  "timestamp": "2026-09-18T16:39:59.269632102Z",
+  "model": "glm-5.3"
+}

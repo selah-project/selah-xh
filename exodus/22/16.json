@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 22:16",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 22,
+  "translation": "Ukuba uyise enqatha ngokupheleleyo ukumnika yena, isilivere uya kulinganisa njengemali yomtshato yamantombi.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ukuba"
+    },
+    {
+      "surface": "מאן",
+      "gloss": "enqatha"
+    },
+    {
+      "surface": "ימאן",
+      "gloss": "enqatha ngokupheleleyo"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "uyise"
+    },
+    {
+      "surface": "לתתה",
+      "gloss": "ukumnika"
+    },
+    {
+      "surface": "לו",
+      "gloss": "yena"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "isilivere"
+    },
+    {
+      "surface": "ישקל",
+      "gloss": "uya kulinganisa"
+    },
+    {
+      "surface": "כמהר",
+      "gloss": "njengemali yomtshato"
+    },
+    {
+      "surface": "הבתולת",
+      "gloss": "yamantombi"
+    }
+  ],
+  "timestamp": "2026-09-18T06:08:59.542422172Z",
+  "model": "glm-5.3"
+}

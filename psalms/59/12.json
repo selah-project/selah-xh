@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 59:12",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 59,
+  "translation": "Musa ukubabulala, hlezi abantu bak alibali; baxhukutheza ngeenkonzo zakho, wehlise phantsi, wena u-Adonayi, isikhali sethu.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Musa"
+    },
+    {
+      "surface": "תהרגם",
+      "gloss": "ukubabulala"
+    },
+    {
+      "surface": "פן",
+      "gloss": "hlezi"
+    },
+    {
+      "surface": "ישכחו",
+      "gloss": "bak alibali"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "abantu bak"
+    },
+    {
+      "surface": "הניעמו",
+      "gloss": "baxhukutheza"
+    },
+    {
+      "surface": "בחילך",
+      "gloss": "ngeenkonzo zakho"
+    },
+    {
+      "surface": "והורידמו",
+      "gloss": "wehlise phantsi"
+    },
+    {
+      "surface": "מגננו",
+      "gloss": "isikhali sethu"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "u-Adonayi"
+    }
+  ],
+  "timestamp": "2026-09-18T14:52:45.843491493Z",
+  "model": "glm-5.3"
+}

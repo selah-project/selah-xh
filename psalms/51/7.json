@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 51:7",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 51,
+  "translation": "Yabona, ngokwalahleko ndazalwa, nasisonweni umama wazalisa mna.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "yabona"
+    },
+    {
+      "surface": "בעוון",
+      "gloss": "ngokwalahleko"
+    },
+    {
+      "surface": "חוללתי",
+      "gloss": "ndazalwa"
+    },
+    {
+      "surface": "ובחטא",
+      "gloss": "nasisonweni"
+    },
+    {
+      "surface": "יחמתני",
+      "gloss": "wazalisa mna"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "umama"
+    }
+  ],
+  "timestamp": "2026-09-18T14:49:50.528759320Z",
+  "model": "glm-5.3"
+}

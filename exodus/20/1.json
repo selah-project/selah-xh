@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 20:1",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 20,
+  "translation": "Wayethetha uElohim ⟨את⟩ onke amagama la, esithi:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "wayethetha"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "onke amagama la"
+    },
+    {
+      "surface": "כל",
+      "gloss": "onke"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "amagama"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "la"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "esithi"
+    }
+  ],
+  "timestamp": "2026-09-18T06:05:03.654813003Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 68:30",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 68,
+  "translation": "Kwindlu yakho engcwele engaphezu kweYerushalayimi, kuwe iinkosi ziya kuletha izipho.",
+  "tokens": [
+    {
+      "surface": "מהיכלך",
+      "gloss": "kwindlu yakho engcwele"
+    },
+    {
+      "surface": "על",
+      "gloss": "engaphezu"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "kweYerushalayimi"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kuwe"
+    },
+    {
+      "surface": "יובילו",
+      "gloss": "ziya kuletha"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "iinkosi"
+    },
+    {
+      "surface": "שי",
+      "gloss": "izipho"
+    }
+  ],
+  "timestamp": "2026-09-18T14:58:56.947030038Z",
+  "model": "glm-5.3"
+}

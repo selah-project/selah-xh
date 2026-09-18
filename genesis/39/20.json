@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 39:20",
+  "book": "genesis",
+  "lang": "xh",
+  "chapter": 39,
+  "translation": "Inkosi kaYosefu yamthabatha ⟨את⟩ yamtyalela entolweni, kuloo ndawo ababanjwa bakumkani aboshwayo khona; waza wahlala khona entolweni.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "yamthabatha"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Inkosi"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "kaYosefu"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "yamtyalela"
+    },
+    {
+      "surface": "ויתנהו",
+      "gloss": "yamtyalela"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ntolweni"
+    },
+    {
+      "surface": "הסהר",
+      "gloss": "entolweni"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "kuloo ndawo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "apho"
+    },
+    {
+      "surface": "אסורי",
+      "gloss": "ababanjwa"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "bakumkani"
+    },
+    {
+      "surface": "אסורים",
+      "gloss": "aboshwayo khona"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "wahlala"
+    },
+    {
+      "surface": "שם",
+      "gloss": "khona"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "e"
+    },
+    {
+      "surface": "הסהר",
+      "gloss": "entolweni"
+    }
+  ],
+  "timestamp": "2026-09-18T05:37:33.961845455Z",
+  "model": "glm-5.3"
+}

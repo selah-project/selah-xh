@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 35:13",
+  "book": "genesis",
+  "lang": "xh",
+  "chapter": 35,
+  "translation": "Kwaye uElohim wenyuka kuye, endaweni apho wayethetha ⟨את⟩ naye.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "wenyuka"
+    },
+    {
+      "surface": "מעליו",
+      "gloss": "kuye"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "endaweni"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "apho"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "wayethetha"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ naye",
+      "marks": "naye"
+    }
+  ],
+  "timestamp": "2026-09-18T05:33:14.144247114Z",
+  "model": "glm-5.3"
+}

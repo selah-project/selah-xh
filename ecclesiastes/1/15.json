@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 1:15",
+  "book": "ecclesiastes",
+  "lang": "xh",
+  "chapter": 1,
+  "translation": "Eloqweyo akunakwazi ukulungiswa; kwaye esingekhoyo akunakwazi ukubalwa.",
+  "tokens": [
+    {
+      "surface": "מעות",
+      "gloss": "Eloqweyo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "akunakwazi"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "akunakwazi"
+    },
+    {
+      "surface": "לתקן",
+      "gloss": "ukulungiswa"
+    },
+    {
+      "surface": "וחסרון",
+      "gloss": "esingekhoyo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "akunakwazi"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "akunakwazi"
+    },
+    {
+      "surface": "להמנות",
+      "gloss": "ukubalwa"
+    }
+  ],
+  "timestamp": "2026-09-18T16:23:46.761154107Z",
+  "model": "glm-5.3"
+}

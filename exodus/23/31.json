@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 23:31",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 23,
+  "translation": "Ndiza kubeka ⟨את⟩ umda wakho usuka elwandle lweSuf de elwandle lwamaPelishti, nasemhlaba ozingelwayo de kumlambo; kuba ndiza kunikeza ngesandla senu ⟨את⟩ abahlali bomhlaba, nina nibagxotha phambi kwenu.",
+  "tokens": [
+    {
+      "surface": "ושתי",
+      "gloss": "Ndiza kubeka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umda wakho"
+    },
+    {
+      "surface": "גבלך",
+      "gloss": "umda wakho"
+    },
+    {
+      "surface": "מים",
+      "gloss": "elwandle"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "lweSuf"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "de"
+    },
+    {
+      "surface": "ים",
+      "gloss": "elwandle"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "lwamaPelishti"
+    },
+    {
+      "surface": "וממדבר",
+      "gloss": "nasemhlaba ozingelwayo"
+    },
+    {
+      "surface": "עד",
+      "gloss": "de"
+    },
+    {
+      "surface": "הנהר",
+      "gloss": "kumlambo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "ndiza kunikeza"
+    },
+    {
+      "surface": "בידכם",
+      "gloss": "ngesandla senu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abahlali bomhlaba"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "abahlali"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bomhlaba"
+    },
+    {
+      "surface": "וגרשתמו",
+      "gloss": "nibagxotha"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "phambi kwenu"
+    }
+  ],
+  "timestamp": "2026-09-18T17:21:05.637308868Z",
+  "model": "glm-5.3"
+}

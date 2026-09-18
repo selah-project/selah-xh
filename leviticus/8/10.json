@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 8:10",
+  "book": "leviticus",
+  "lang": "xh",
+  "chapter": 8,
+  "translation": "Wathabatha uMoshe ⟨את⟩ ioyile yokuthambisa, wathambisa ⟨את⟩ ihema no⟨את⟩ konke okukulo, wazibeka njengongcwele ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "wathabatha"
+    },
+    {
+      "surface": "משה",
+      "gloss": "uMoshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ioyile yokuthambisa"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "ioyile"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "yokuthambisa"
+    },
+    {
+      "surface": "וימשח",
+      "gloss": "wathambisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ihema"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "ihema"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "konke okukulo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "konke"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ok"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ukulo"
+    },
+    {
+      "surface": "ויקדש",
+      "gloss": "wazibeka njengongcwele"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ihema nako konke okukulo"
+    }
+  ],
+  "timestamp": "2026-09-18T06:43:11.587818008Z",
+  "model": "glm-5.3"
+}

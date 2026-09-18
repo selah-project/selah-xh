@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 33:9",
+  "book": "deuteronomy",
+  "lang": "xh",
+  "chapter": 33,
+  "translation": "Othi kutata wakhe nakunina: “Andimbonanga; nabantakwabo akazange abazi, nabanakwabo akazange abazi” — kuba bagcine lwakho ulwazi, umnqophiso wakho bawugcina.",
+  "tokens": [
+    {
+      "surface": "האמר",
+      "gloss": "othi"
+    },
+    {
+      "surface": "לאביו",
+      "gloss": "kutata wakhe"
+    },
+    {
+      "surface": "ולאמו",
+      "gloss": "nakunina"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ayi"
+    },
+    {
+      "surface": "ראיתיו",
+      "gloss": "andimbonanga"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "abantakwabo"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "abantakwabo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "akazange"
+    },
+    {
+      "surface": "הכיר",
+      "gloss": "abazi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "abanakwabo"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "abanakwabo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "akazange"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "abazi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "שמרו",
+      "gloss": "bagcine"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "ulwazi lwakho"
+    },
+    {
+      "surface": "ובריתך",
+      "gloss": "nomnqophiso wakho"
+    },
+    {
+      "surface": "ינצרו",
+      "gloss": "bawugcina"
+    }
+  ],
+  "timestamp": "2026-09-18T17:26:06.796850792Z",
+  "model": "glm-5.3"
+}

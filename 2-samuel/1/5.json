@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 1:5",
+  "book": "2-samuel",
+  "lang": "xh",
+  "chapter": 1,
+  "translation": "UDawidi wathetha kwindoda entsha emtshoyo: “Uwazi njani ukuba uShawuli wafa, naye uYehonatana unyana wakhe?”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wathetha"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "uDawidi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "indoda entsha"
+    },
+    {
+      "surface": "המגיד",
+      "gloss": "emtshoyo"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kuye"
+    },
+    {
+      "surface": "איך",
+      "gloss": "njani"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "uwazi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ukuba"
+    },
+    {
+      "surface": "מת",
+      "gloss": "wafa"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "uShawuli"
+    },
+    {
+      "surface": "ויהונתן",
+      "gloss": "naye uYehonatana"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "unyana wakhe"
+    }
+  ],
+  "timestamp": "2026-09-18T09:42:59.186326393Z",
+  "model": "glm-5.3"
+}

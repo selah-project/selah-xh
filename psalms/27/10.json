@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 27:10",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 27,
+  "translation": "Kuba ubawo wam nomama bandishiye, uYahwe uzakundiqokelela.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "ubawo wam"
+    },
+    {
+      "surface": "ואמי",
+      "gloss": "nomama"
+    },
+    {
+      "surface": "עזבוני",
+      "gloss": "bandishiye"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "יאספני",
+      "gloss": "uzakundiqokelela"
+    }
+  ],
+  "timestamp": "2026-09-18T14:37:35.081296799Z",
+  "model": "glm-5.3"
+}

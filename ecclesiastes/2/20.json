@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ecclesiastes 2:20",
+  "book": "ecclesiastes",
+  "lang": "xh",
+  "chapter": 2,
+  "translation": "Ndaza ndatshikila ndaza ndazibuza ukwenza intliziyo yam ilahle ithemba konke ukhathazo olundululwayo, ololigcinekileyo phantsi kelanga.",
+  "tokens": [
+    {
+      "surface": "וסבותי",
+      "gloss": "ndaza ndatshikila"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ndaza"
+    },
+    {
+      "surface": "ליאש",
+      "gloss": "ukwenza... ilahle ithemba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "intliziyo yam"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "intliziyo yam"
+    },
+    {
+      "surface": "על",
+      "gloss": "konke"
+    },
+    {
+      "surface": "כל",
+      "gloss": "konke"
+    },
+    {
+      "surface": "העמל",
+      "gloss": "ukhathazo"
+    },
+    {
+      "surface": "שעמלתי",
+      "gloss": "ololigcinekileyo"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "phantsi"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "kelanga"
+    }
+  ],
+  "timestamp": "2026-09-18T16:24:14.921815578Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 92:12",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 92,
+  "translation": "Andiphelelela amehlo am abalindileyo ukusukela kum, amadlebe am aphule abenzi bobungcola abasuka kum.",
+  "tokens": [
+    {
+      "surface": "ותבט",
+      "gloss": "andiphelelela amehlo am"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "amehlo am"
+    },
+    {
+      "surface": "בשורי",
+      "gloss": "abalindileyo"
+    },
+    {
+      "surface": "בקמים",
+      "gloss": "abasuka"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "kum"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "abenzi bobungcola"
+    },
+    {
+      "surface": "תשמענה",
+      "gloss": "aphule amadlebe am"
+    },
+    {
+      "surface": "אזני",
+      "gloss": "amadlebe am"
+    }
+  ],
+  "timestamp": "2026-09-18T15:10:29.535988620Z",
+  "model": "glm-5.3"
+}

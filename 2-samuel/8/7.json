@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 8:7",
+  "book": "2-samuel",
+  "lang": "xh",
+  "chapter": 8,
+  "translation": "UDavidi wathabatha ⟨את⟩ izikhanga zegolide ezazikwiiNkonzi zikaHadadezeri, wazisa eYerushalayimi.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "wathabatha"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "uDavidi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izikhanga zegolide"
+    },
+    {
+      "surface": "שלטי",
+      "gloss": "izikhanga"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "zegolide"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ezazikwi-"
+    },
+    {
+      "surface": "היו",
+      "gloss": "ezazikwi-"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwi-"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "iiNkonzi"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "zikaHadadezeri"
+    },
+    {
+      "surface": "ויביאם",
+      "gloss": "wazisa"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "eYerushalayimi"
+    }
+  ],
+  "timestamp": "2026-09-18T09:47:54.062216035Z",
+  "model": "glm-5.3"
+}

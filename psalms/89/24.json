@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 89:24",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 89,
+  "translation": "Ndiza kutshatyalalisa phambi kwakhe abachasi bakhe, abazondiyo bakhe ndiza kubabetha.",
+  "tokens": [
+    {
+      "surface": "וכתותי",
+      "gloss": "Ndiza kutshatyalalisa"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "phambi kwakhe"
+    },
+    {
+      "surface": "צריו",
+      "gloss": "abachasi bakhe"
+    },
+    {
+      "surface": "ומשנאיו",
+      "gloss": "abazondiyo bakhe"
+    },
+    {
+      "surface": "אגוף",
+      "gloss": "ndiza kubabetha"
+    }
+  ],
+  "timestamp": "2026-09-18T15:08:38.521738718Z",
+  "model": "glm-5.3"
+}

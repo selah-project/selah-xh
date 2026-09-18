@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 13:15",
+  "book": "isaiah",
+  "lang": "xh",
+  "chapter": 13,
+  "translation": "Onke ofunyanwayo uza kubethwa ngesika, onke odityanisiweyo uza kuwa ngesika.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "onke"
+    },
+    {
+      "surface": "הנמצא",
+      "gloss": "ofunyanwayo"
+    },
+    {
+      "surface": "ידקר",
+      "gloss": "uza kubethwa ngesika"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "onke"
+    },
+    {
+      "surface": "הנספה",
+      "gloss": "odityanisiweyo"
+    },
+    {
+      "surface": "יפול",
+      "gloss": "uza kuwa"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "ngesika"
+    }
+  ],
+  "timestamp": "2026-09-18T11:09:51.358751341Z",
+  "model": "glm-5.3"
+}

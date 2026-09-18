@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 17:11",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 17,
+  "translation": "Yaye kwabenjalo: xa uphezamisa uMoshe isandla sakhe, wayenamandla uYisraeli; xa etyhapha isandla sakhe, wayenamandla uAmalek.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Yaye kwabenjalo"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "xa"
+    },
+    {
+      "surface": "ירים",
+      "gloss": "uphezamisa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "uMoshe"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "isandla sakhe"
+    },
+    {
+      "surface": "וגבר",
+      "gloss": "wayenamandla"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "uYisraeli"
+    },
+    {
+      "surface": "וכאשר",
+      "gloss": "kwaye xa"
+    },
+    {
+      "surface": "יניח",
+      "gloss": "etyhapha"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "isandla sakhe"
+    },
+    {
+      "surface": "וגבר",
+      "gloss": "wayenamandla"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "uAmalek"
+    }
+  ],
+  "timestamp": "2026-09-18T06:05:08.482869373Z",
+  "model": "glm-5.3"
+}

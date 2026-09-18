@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 142,
+  "ref": "psalms 119:142",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 119,
+  "translation": "Intetho elungileyo yakho ilungileyo ⟨is⟩ kuze kube phakade, kwaye iTora yakho yinyani.",
+  "tokens": [
+    {
+      "surface": "צדקתך",
+      "gloss": "intetho elungileyo yakho"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "ilungileyo"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "kuze kube phakade"
+    },
+    {
+      "surface": "ותורתך",
+      "gloss": "kwaye iTora yakho"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "yinyani"
+    }
+  ],
+  "timestamp": "2026-09-18T15:25:48.028406983Z",
+  "model": "glm-5.3"
+}

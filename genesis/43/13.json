@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 43:13",
+  "book": "genesis",
+  "lang": "xh",
+  "chapter": 43,
+  "translation": "Nithabathe ⟨את⟩ umzalwane wenu, nivuke, nibuyele kwindoda.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "umzalwane wenu"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "umzalwane wenu"
+    },
+    {
+      "surface": "קחו",
+      "gloss": "nithabathe"
+    },
+    {
+      "surface": "וקומו",
+      "gloss": "nivuke"
+    },
+    {
+      "surface": "שובו",
+      "gloss": "nibuyele"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "indoda"
+    }
+  ],
+  "timestamp": "2026-09-18T05:41:19.283618706Z",
+  "model": "glm-5.3"
+}

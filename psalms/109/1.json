@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 109:1",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 109,
+  "translation": "Kumlawuli. Ingoma kaDavide. U-Elohim wokudumisa kwam, musa ukucasha.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Kumlawuli"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "kaDavide"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "Ingoma"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "u-Elohim wam"
+    },
+    {
+      "surface": "תהלתי",
+      "gloss": "wokudumisa kwam"
+    },
+    {
+      "surface": "אל",
+      "gloss": "musa"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "ukucasha"
+    }
+  ],
+  "timestamp": "2026-09-18T15:21:11.103003901Z",
+  "model": "glm-5.3"
+}

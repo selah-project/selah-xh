@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 1:16",
+  "book": "joshua",
+  "lang": "xh",
+  "chapter": 1,
+  "translation": "Baphendula uYehoshuwa ⟨את⟩, bathi: konke oko uwalele thina siza kukwenza, kwaye kuyo yonke into onthumela thina kona siya kuhamba.",
+  "tokens": [
+    {
+      "surface": "ויענו",
+      "gloss": "Baphendula"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uYehoshuwa"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "uYehoshuwa"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "bathi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "konke"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oko"
+    },
+    {
+      "surface": "צויתנו",
+      "gloss": "uwalele thina"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "siza kukwenza"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "kwaye ku"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yonke"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oko"
+    },
+    {
+      "surface": "תשלחנו",
+      "gloss": "onthumela thina kona"
+    },
+    {
+      "surface": "נלך",
+      "gloss": "siya kuhamba"
+    }
+  ],
+  "timestamp": "2026-09-18T08:29:31.941546786Z",
+  "model": "glm-5.3"
+}

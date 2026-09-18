@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 62:3",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 62,
+  "translation": "Kuphela yena litshe lam nesindiso sam, ndebe yam ephezulu; andizi kutyabuka kakhulu.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Kuphela"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yena"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "litshe lam"
+    },
+    {
+      "surface": "וישועתי",
+      "gloss": "nesindiso sam"
+    },
+    {
+      "surface": "משגבי",
+      "gloss": "ndebe yam ephezulu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "andi"
+    },
+    {
+      "surface": "אמוט",
+      "gloss": "tyabuka"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "kakhulu"
+    }
+  ],
+  "timestamp": "2026-09-18T14:54:16.231154486Z",
+  "model": "glm-5.3"
+}

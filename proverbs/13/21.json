@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 13:21",
+  "book": "proverbs",
+  "lang": "xh",
+  "chapter": 13,
+  "translation": "Itona ilandelwa yinkohlakalo, kwaye ⟨את⟩ abalungileyo uza kubahlawula ⟨okulungileyo⟩.",
+  "tokens": [
+    {
+      "surface": "חטאים",
+      "gloss": "aboni"
+    },
+    {
+      "surface": "תרדף",
+      "gloss": "ilandelwa"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "inkohlakalo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kwaye ⟨את⟩",
+      "marks": "abalungileyo"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "abalungileyo"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "uza kubahlawula"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "okulungileyo"
+    }
+  ],
+  "timestamp": "2026-09-18T15:43:57.894446358Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 38:8",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 38,
+  "translation": "Kuba iintlongo zam zizalile ngobundindi, akukho mpiliswano enyameni yam.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "כסלי",
+      "gloss": "iintlongo zam"
+    },
+    {
+      "surface": "מלאו",
+      "gloss": "zizalile"
+    },
+    {
+      "surface": "נקלה",
+      "gloss": "ngobundindi"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "akukho"
+    },
+    {
+      "surface": "מתם",
+      "gloss": "mpiliswano"
+    },
+    {
+      "surface": "בבשרי",
+      "gloss": "enyameni yam"
+    }
+  ],
+  "timestamp": "2026-09-18T14:43:22.644699981Z",
+  "model": "glm-5.3"
+}

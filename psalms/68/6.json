@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 68:6",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 68,
+  "translation": "Yise weenkedama, noMahluli wabafelokazi, nguElohim kwindawo yakhe ingcwele.",
+  "tokens": [
+    {
+      "surface": "אבי",
+      "gloss": "Yise"
+    },
+    {
+      "surface": "יתומים",
+      "gloss": "weenkedama"
+    },
+    {
+      "surface": "ודין",
+      "gloss": "noMahluli"
+    },
+    {
+      "surface": "אלמנות",
+      "gloss": "wabafelokazi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "nguElohim"
+    },
+    {
+      "surface": "במעון",
+      "gloss": "kwindawo yakhe yokuhlala"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "ingcwele"
+    }
+  ],
+  "timestamp": "2026-09-18T14:56:35.638467170Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 1:16",
+  "book": "1-samuel",
+  "lang": "xh",
+  "chapter": 1,
+  "translation": "Umus’ ubeka ⟨את⟩ idesikazi lakho phambi kwentombazana yobubi; kuba ngobuninzi bokukhala kwam nolwazilo lwam ndithethile kude kube apha.”",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "mus’"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "ubeka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "idesikazi lakho"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "idesikazi lakho"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "phambi"
+    },
+    {
+      "surface": "בת",
+      "gloss": "kwentombazana"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "yobubi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "מרב",
+      "gloss": "ngobuninzi"
+    },
+    {
+      "surface": "שיחי",
+      "gloss": "bokukhala kwam"
+    },
+    {
+      "surface": "וכעסי",
+      "gloss": "nolwazilo lwam"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "ndithethile"
+    },
+    {
+      "surface": "עד",
+      "gloss": "de"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "kube apha"
+    }
+  ],
+  "timestamp": "2026-09-18T09:13:25.762357980Z",
+  "model": "glm-5.3"
+}

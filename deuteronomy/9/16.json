@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 9:16",
+  "book": "deuteronomy",
+  "lang": "xh",
+  "chapter": 9,
+  "translation": "Ndabona, nanga, ninile enye kuYahwe uElohim wenu, nazenzela ithole elithosiweyo, natshikile ngesikhundla kwindlela uYahwe ayalele ngayo ⟨אתכ׶ם⟩.",
+  "tokens": [
+    {
+      "surface": "וארא",
+      "gloss": "Ndabona"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "nanga"
+    },
+    {
+      "surface": "חטאתם",
+      "gloss": "ninile enye"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kuYahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "uElohim wenu"
+    },
+    {
+      "surface": "עשיתם",
+      "gloss": "nazenzela"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "-ela"
+    },
+    {
+      "surface": "עגל",
+      "gloss": "ithole"
+    },
+    {
+      "surface": "מסכה",
+      "gloss": "elithosiweyo"
+    },
+    {
+      "surface": "סרתם",
+      "gloss": "natshikile ngesikhundla"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "ngesikhundla"
+    },
+    {
+      "surface": "מן",
+      "gloss": "e-"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "indlela"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ey-"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ayalele"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨אתכם⟩",
+      "marks": "nonke (ninile enye kuYahwe)"
+    }
+  ],
+  "timestamp": "2026-09-18T08:01:35.953610120Z",
+  "model": "glm-5.3"
+}

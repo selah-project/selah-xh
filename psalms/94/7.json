@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 94:7",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 94,
+  "translation": "Bathi: “uYahwe akayi kubona; u-Elohim kaYaakobu akayi kuqonda.”",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "Bathi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hayi"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "akayi kubona"
+    },
+    {
+      "surface": "יה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kananjalo hayi"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "akayi kuqonda"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "uElohim ka-"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakobu"
+    }
+  ],
+  "timestamp": "2026-09-18T17:44:20.231867506Z",
+  "model": "glm-5.3"
+}

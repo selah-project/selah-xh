@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 8:4",
+  "book": "1-samuel",
+  "lang": "xh",
+  "chapter": 8,
+  "translation": "Ke wonke oodala bakaYisrayeli baqokelelana, bafika kuShemuweli eRamatayi.",
+  "tokens": [
+    {
+      "surface": "ויתקבצו",
+      "gloss": "baqokelelana"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wonke"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "oodala"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "bakaYisrayeli"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "bafika"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "uShemuweli"
+    },
+    {
+      "surface": "הרמתה",
+      "gloss": "eRamatayi"
+    }
+  ],
+  "timestamp": "2026-09-18T09:16:37.580285184Z",
+  "model": "glm-5.3"
+}

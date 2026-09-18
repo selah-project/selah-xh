@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "daniel 5:4",
+  "book": "daniel",
+  "lang": "xh",
+  "chapter": 5,
+  "translation": "Besele iwayini, babulela oothixo begolide, besilivere, bebhangqa, betsibi, benkuni, namatye.",
+  "tokens": [
+    {
+      "surface": "אשתיו",
+      "gloss": "besele"
+    },
+    {
+      "surface": "חמרא",
+      "gloss": "iwayini"
+    },
+    {
+      "surface": "ושבחו",
+      "gloss": "babulela"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "oothixo"
+    },
+    {
+      "surface": "דהבא",
+      "gloss": "begolide"
+    },
+    {
+      "surface": "וכספא",
+      "gloss": "besilivere"
+    },
+    {
+      "surface": "נחשא",
+      "gloss": "bebhangqa"
+    },
+    {
+      "surface": "פרזלא",
+      "gloss": "betsibi"
+    },
+    {
+      "surface": "אעא",
+      "gloss": "benkuni"
+    },
+    {
+      "surface": "ואבנא",
+      "gloss": "namatye"
+    }
+  ],
+  "timestamp": "2026-09-18T16:33:42.578098190Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "joshua 23:8",
+  "book": "joshua",
+  "lang": "xh",
+  "chapter": 23,
+  "translation": "nokuba kuYahwe uElohim wenu nina niqhotyoshelwe, njengoko nenzena de kule minyaka;",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nokuba"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "ביהוָה",
+      "gloss": "kuYahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "uElohim wenu"
+    },
+    {
+      "surface": "תדבקו",
+      "gloss": "niqhotyoshelwe"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "njengoko"
+    },
+    {
+      "surface": "עשיתם",
+      "gloss": "nenzena"
+    },
+    {
+      "surface": "עד",
+      "gloss": "de"
+    },
+    {
+      "surface": "היום",
+      "gloss": "kule minyaka"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "le"
+    }
+  ],
+  "timestamp": "2026-09-18T08:46:22.631335466Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 107:15",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 107,
+  "translation": "Makabulele kuYahwe ngeikhesedi yakhe, nakwezimangalisa zakhe kubantwanaabantu.",
+  "tokens": [
+    {
+      "surface": "יודו",
+      "gloss": "Makabulele"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kuYahwe"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ngeikhesedi yakhe"
+    },
+    {
+      "surface": "ונפלאותיו",
+      "gloss": "nakwezimangalisa zakhe"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "kubantwanaabantu"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "abantu"
+    }
+  ],
+  "timestamp": "2026-09-18T15:17:51.684198604Z",
+  "model": "glm-5.3"
+}

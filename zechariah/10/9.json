@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "zechariah 10:9",
+  "book": "zechariah",
+  "lang": "xh",
+  "chapter": 10,
+  "translation": "Ndiza kubatyalaza phakathi kweentlanga, kwaye kwiindawo ezikude baya kundikhumbula; baya kuphila ⟨את⟩ nabonyana babo, baya kubuyela.",
+  "tokens": [
+    {
+      "surface": "ואזרעם",
+      "gloss": "Ndiza kubatyalaza"
+    },
+    {
+      "surface": "בעמים",
+      "gloss": "phakathi kweentlanga"
+    },
+    {
+      "surface": "ובמרחקים",
+      "gloss": "kwiindawo ezikude"
+    },
+    {
+      "surface": "יזכרוני",
+      "gloss": "baya kundikhumbula"
+    },
+    {
+      "surface": "וחיו",
+      "gloss": "baya kuphila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abonyana babo"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "nabonyana babo"
+    },
+    {
+      "surface": "ושבו",
+      "gloss": "baya kubuyela"
+    }
+  ],
+  "timestamp": "2026-09-18T14:21:03.302074024Z",
+  "model": "glm-5.3"
+}

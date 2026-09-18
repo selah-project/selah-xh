@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 47:7",
+  "book": "genesis",
+  "lang": "xh",
+  "chapter": 47,
+  "translation": "Wazisa uYosef ⟨את⟩ uYakob ubawo, wamisela phambi koParo; wabanusela uYakob ⟨את⟩ uParo.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "wazisa"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "uYosef"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uYakob ubawo"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "uYakob"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ubawo"
+    },
+    {
+      "surface": "ויעמדהו",
+      "gloss": "wamisela"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "phambi"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "koParo"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "wabanusela"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "uYakob"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uParo"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "uParo"
+    }
+  ],
+  "timestamp": "2026-09-18T05:44:52.422160424Z",
+  "model": "glm-5.3"
+}

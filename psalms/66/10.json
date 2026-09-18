@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 66:10",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 66,
+  "translation": "Kuba wusivavanyile, uElohim; wusihlambulule njengokuhlambulwa kwe-silivere.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kuba"
+    },
+    {
+      "surface": "בחנתנו",
+      "gloss": "wusivavanyile"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "צרפתנו",
+      "gloss": "wusihlambulule"
+    },
+    {
+      "surface": "כצרף",
+      "gloss": "njengokuhlambulwa"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "kwe-silivere"
+    }
+  ],
+  "timestamp": "2026-09-18T14:53:25.904813660Z",
+  "model": "glm-5.3"
+}

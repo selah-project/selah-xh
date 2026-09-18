@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 71:2",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 71,
+  "translation": "Nngokolungelo lwakho undikhulule undikhuphele; thoba indlebe yakho kum, undisindise.",
+  "tokens": [
+    {
+      "surface": "בצדקתך",
+      "gloss": "ngokolungelo lwakho"
+    },
+    {
+      "surface": "תצילני",
+      "gloss": "undikhulule"
+    },
+    {
+      "surface": "ותפלטני",
+      "gloss": "undikhuphele"
+    },
+    {
+      "surface": "הטה",
+      "gloss": "thoba"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kum"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "indlebe yakho"
+    },
+    {
+      "surface": "והושיעני",
+      "gloss": "undisindise"
+    }
+  ],
+  "timestamp": "2026-09-18T17:44:51.610094892Z",
+  "model": "glm-5.3"
+}

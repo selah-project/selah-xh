@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "daniel 8:15",
+  "book": "daniel",
+  "lang": "xh",
+  "chapter": 8,
+  "translation": "Kwathi kwaba, xa mna, uDaniyeli, ndibona ⟨את⟩ umbono, ndifuna ukuqonda; nango, emi phambi kwam njengomfanekiso wendoda.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "kwathi kwaba"
+    },
+    {
+      "surface": "בראתי",
+      "gloss": "xa ndibona"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mna"
+    },
+    {
+      "surface": "דניאל",
+      "gloss": "uDaniyeli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umbono"
+    },
+    {
+      "surface": "החזון",
+      "gloss": "umbono"
+    },
+    {
+      "surface": "ואבקשה",
+      "gloss": "ndifuna"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "ukuqonda"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "nango"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "emi"
+    },
+    {
+      "surface": "לנגדי",
+      "gloss": "phambi kwam"
+    },
+    {
+      "surface": "כמראה",
+      "gloss": "njengomfanekiso"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "wendoda"
+    }
+  ],
+  "timestamp": "2026-09-18T16:35:41.533932599Z",
+  "model": "glm-5.3"
+}

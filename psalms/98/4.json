@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 98:4",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 98,
+  "translation": "Yikhaleni kuYahwe, umhlaba wonke: qhumnani nivakalise uvuyo, nilale nicinge, niculele.",
+  "tokens": [
+    {
+      "surface": "הריעו",
+      "gloss": "yikhaleni"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kuYahwe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wonke"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "umhlaba"
+    },
+    {
+      "surface": "פצחו",
+      "gloss": "qhumnani"
+    },
+    {
+      "surface": "ורננו",
+      "gloss": "nilale nicinge"
+    },
+    {
+      "surface": "וזמרו",
+      "gloss": "niculele"
+    }
+  ],
+  "timestamp": "2026-09-18T15:14:22.349907184Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,132 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 7:6",
+  "book": "2-kings",
+  "lang": "xh",
+  "chapter": 7,
+  "translation": "u-Adonayi wenza ⟨את⟩ umkhosi wamaAram uwva ilizwi lezinqamlezwa, ilizwi lamahashi, ilizwi lamabutho amakhulu; bathi umntu kumntu komnye: Nangu, inkosi yaseSirayeli isishumene ngokuchasene nathi ⟨את⟩ abakumkani babaHitite, yaye ⟨את⟩ abakumkani baseMitsrayim, ukusilela.",
+  "tokens": [
+    {
+      "surface": "ואדני",
+      "gloss": "u-Adonayi"
+    },
+    {
+      "surface": "השמיע",
+      "gloss": "wenza…uwva"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umkhosi wamaAram"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "umkhosi"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "wamaAram"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ilizwi"
+    },
+    {
+      "surface": "רכב",
+      "gloss": "leezinqamlezwa"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ilizwi"
+    },
+    {
+      "surface": "סוס",
+      "gloss": "lamahashi"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ilizwi"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "lamabutho"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "amakhulu"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "bathi"
+    },
+    {
+      "surface": "איש",
+      "gloss": "umntu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "komnye"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Nangu"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "isishumene"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "ngokuchasene nathi"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "inkosi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "yaseSirayeli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abakumkani babaHitite"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "abakumkani"
+    },
+    {
+      "surface": "החתים",
+      "gloss": "babaHitite"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "yaye ⟨את⟩",
+      "marks": "abakumkani baseMitsrayim"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "abakumkani"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "baseMitsrayim"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "ukusilela"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "ngokuchasene nathi"
+    }
+  ],
+  "timestamp": "2026-09-18T10:43:36.722986349Z",
+  "model": "glm-5.3"
+}

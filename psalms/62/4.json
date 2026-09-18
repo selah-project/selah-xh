@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 62:4",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 62,
+  "translation": "Kude kube nini niza kucekela umntu, niza kumbulala nonke, njengodonga olukhuphukileyo, njengesakhezo esidinwayo?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "Kude kube"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "nini"
+    },
+    {
+      "surface": "תהותתו",
+      "gloss": "niza kucekela"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "איש",
+      "gloss": "umntu"
+    },
+    {
+      "surface": "תרצחו",
+      "gloss": "niza kumbulala"
+    },
+    {
+      "surface": "כלכם",
+      "gloss": "nonke"
+    },
+    {
+      "surface": "כקיר",
+      "gloss": "njengodonga"
+    },
+    {
+      "surface": "נטוי",
+      "gloss": "olukhuphukileyo"
+    },
+    {
+      "surface": "גדר",
+      "gloss": "njengesakhezo"
+    },
+    {
+      "surface": "הדחויה",
+      "gloss": "esidinwayo"
+    }
+  ],
+  "timestamp": "2026-09-18T14:54:16.231292504Z",
+  "model": "glm-5.3"
+}

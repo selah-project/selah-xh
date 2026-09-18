@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "nehemiah 12:11",
+  "book": "nehemiah",
+  "lang": "xh",
+  "chapter": 12,
+  "translation": "U-Yoyada wazala ⟨את⟩ u-Yonatan, u-Yonatan wazala ⟨את⟩ u-Yadua.",
+  "tokens": [
+    {
+      "surface": "ויוידע",
+      "gloss": "u-Yoyada"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "wazala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "u-Yonatan"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "u-Yonatan"
+    },
+    {
+      "surface": "ויונתן",
+      "gloss": "kananjalo u-Yonatan"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "wazala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "u-Yadua"
+    },
+    {
+      "surface": "ידוע",
+      "gloss": "u-Yadua"
+    }
+  ],
+  "timestamp": "2026-09-18T16:48:39.809917743Z",
+  "model": "glm-5.3"
+}

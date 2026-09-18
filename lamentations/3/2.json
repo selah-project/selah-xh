@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "lamentations 3:2",
+  "book": "lamentations",
+  "lang": "xh",
+  "chapter": 3,
+  "translation": "Wandiqhuba ⟨את⟩ wandisiya ebumnyameni, kungekho kukhanya.",
+  "tokens": [
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩",
+      "marks": "mna (wandiqhuba)"
+    },
+    {
+      "surface": "נהג",
+      "gloss": "wandiqhuba"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "wandisiya"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "ebumnyameni"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kungekho"
+    },
+    {
+      "surface": "אור",
+      "gloss": "ukhanya"
+    }
+  ],
+  "timestamp": "2026-09-18T16:21:00.787672714Z",
+  "model": "glm-5.3"
+}

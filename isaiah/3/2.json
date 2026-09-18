@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 3:2",
+  "book": "isaiah",
+  "lang": "xh",
+  "chapter": 3,
+  "translation": "iqhawe nomntu wemfazwe, umahluli neprofeti, isangoma nomdala —",
+  "tokens": [
+    {
+      "surface": "גבור",
+      "gloss": "iqhawe"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "nomntu"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "wemfazwe"
+    },
+    {
+      "surface": "שופט",
+      "gloss": "umahluli"
+    },
+    {
+      "surface": "ונביא",
+      "gloss": "neprofeti"
+    },
+    {
+      "surface": "וקסם",
+      "gloss": "isangoma"
+    },
+    {
+      "surface": "וזקן",
+      "gloss": "nomdala"
+    }
+  ],
+  "timestamp": "2026-09-18T11:02:43.792401851Z",
+  "model": "glm-5.3"
+}

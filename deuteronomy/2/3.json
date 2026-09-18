@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 2:3",
+  "book": "deuteronomy",
+  "lang": "xh",
+  "chapter": 2,
+  "translation": "Malini kuni ukujikeleza ⟨את⟩ le ntaba; phononani kuni, niye emantla.",
+  "tokens": [
+    {
+      "surface": "רב",
+      "gloss": "Malini"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kuni"
+    },
+    {
+      "surface": "סב",
+      "gloss": "ukujikeleza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le ntaba"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "intaba"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "le"
+    },
+    {
+      "surface": "פנו",
+      "gloss": "phononani"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kuni"
+    },
+    {
+      "surface": "צפנה",
+      "gloss": "emantla"
+    }
+  ],
+  "timestamp": "2026-09-18T07:52:17.088175554Z",
+  "model": "glm-5.3"
+}

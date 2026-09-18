@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 24:30",
+  "book": "proverbs",
+  "lang": "xh",
+  "chapter": 24,
+  "translation": "Ngadlula edolopheni yomntu osizileyo, nasedolopheni yomntu ongenalinqondo;",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "e-"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "umhlaba (wezityalo)"
+    },
+    {
+      "surface": "איש",
+      "gloss": "yomntu"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "osizileyo"
+    },
+    {
+      "surface": "עברתי",
+      "gloss": "ngadlula"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "nase-"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "umthi wamagilevisi (indlela)"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "yomntu"
+    },
+    {
+      "surface": "חסר",
+      "gloss": "ongenalinqondo (ongenal)"
+    },
+    {
+      "surface": "לב",
+      "gloss": "inqondo"
+    }
+  ],
+  "timestamp": "2026-09-18T15:54:03.787132540Z",
+  "model": "glm-5.3"
+}

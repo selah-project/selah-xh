@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 88:10",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 88,
+  "translation": "Imehlo yam iphehla ngenxa yosizi; ndakubiza, uYahwe, yonke imini; ndandululise izandla zam kuwe.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "imehlo yam"
+    },
+    {
+      "surface": "דאבה",
+      "gloss": "iphehla"
+    },
+    {
+      "surface": "מני",
+      "gloss": "ngenxa ye"
+    },
+    {
+      "surface": "עני",
+      "gloss": "osizi"
+    },
+    {
+      "surface": "קראתיך",
+      "gloss": "ndakubiza"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "yonke i"
+    },
+    {
+      "surface": "יום",
+      "gloss": "imini"
+    },
+    {
+      "surface": "שטחתי",
+      "gloss": "ndandululise"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kuwe"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "izandla zam"
+    }
+  ],
+  "timestamp": "2026-09-18T15:07:11.103849343Z",
+  "model": "glm-5.3"
+}

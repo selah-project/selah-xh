@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 3:3",
+  "book": "2-chronicles",
+  "lang": "xh",
+  "chapter": 3,
+  "translation": "Nazi iindonga esazisise uShelomo ukwakha ⟨את⟩ indlu kaElohim: ubude, ngama-ala kwisilinganiso sokuqala, ngama-ala amashumi amathandathu; ububanzi, ngama-ala amashumi amabini.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Nazi"
+    },
+    {
+      "surface": "הוסד",
+      "gloss": "esazisise"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "uShelomo"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "ukwakha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "indlu"
+    },
+    {
+      "surface": "בית",
+      "gloss": "indlu"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "kaElohim"
+    },
+    {
+      "surface": "הארך",
+      "gloss": "ubude"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "ngama-ala"
+    },
+    {
+      "surface": "במדה",
+      "gloss": "kwisilinganiso"
+    },
+    {
+      "surface": "הראשונה",
+      "gloss": "sokuqala"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "ngama-ala"
+    },
+    {
+      "surface": "ששים",
+      "gloss": "amashumi amathandathu"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "ububanzi"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "ngama-ala"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "amashumi amabini"
+    }
+  ],
+  "timestamp": "2026-09-18T17:03:23.953906355Z",
+  "model": "glm-5.3"
+}

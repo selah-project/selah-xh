@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 95:11",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 95,
+  "translation": "Ngoko ndafunga ngolaka lwam: abayi kungena kwindawo yokuphumla yam.”",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "ngoko"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "ndafunga"
+    },
+    {
+      "surface": "באפי",
+      "gloss": "ngolaka lwam"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ukuba"
+    },
+    {
+      "surface": "יבאון",
+      "gloss": "abayi kungena"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwi-"
+    },
+    {
+      "surface": "מנוחתי",
+      "gloss": "indawo yokuphumla yam"
+    }
+  ],
+  "timestamp": "2026-09-18T15:09:53.820526454Z",
+  "model": "glm-5.3"
+}

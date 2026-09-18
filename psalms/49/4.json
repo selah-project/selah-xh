@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 49:4",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 49,
+  "translation": "Umlomo wam uza kuthetha iziNzulu-ntle, necebo ltliziyo yam leziNzulu zokuqonda.",
+  "tokens": [
+    {
+      "surface": "פי",
+      "gloss": "Umlomo wam"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "uza kuthetha"
+    },
+    {
+      "surface": "חכמות",
+      "gloss": "iziNzulu-ntle"
+    },
+    {
+      "surface": "והגות",
+      "gloss": "necebo l"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "tliziyo yam"
+    },
+    {
+      "surface": "תבונות",
+      "gloss": "leziNzulu zokuqonda"
+    }
+  ],
+  "timestamp": "2026-09-18T14:47:24.813981352Z",
+  "model": "glm-5.3"
+}

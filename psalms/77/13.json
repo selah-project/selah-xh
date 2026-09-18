@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 77:13",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 77,
+  "translation": "Ndiza kucinga ngezenzo zakho ⟨zonke⟩, ndithethe ngeentlanga zakho.",
+  "tokens": [
+    {
+      "surface": "והגיתי",
+      "gloss": "ndiza kucinga"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ngezenzo zakho zonke"
+    },
+    {
+      "surface": "פעלך",
+      "gloss": "ngezenzo zakho"
+    },
+    {
+      "surface": "ובעלילותיך",
+      "gloss": "ngeentlanga zakho"
+    },
+    {
+      "surface": "אשיחה",
+      "gloss": "ndithethe"
+    }
+  ],
+  "timestamp": "2026-09-18T15:00:34.471187303Z",
+  "model": "glm-5.3"
+}

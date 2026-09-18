@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "1-kings 12:29",
+  "book": "1-kings",
+  "lang": "xh",
+  "chapter": 12,
+  "translation": "Wabeka ⟨את⟩ enye eBhet-El, ⟨את⟩ enye wayibeka eDan.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "wabeka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "enye"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "enye"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "eBhet-"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "enye"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "enye"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "wayibeka"
+    },
+    {
+      "surface": "בדן",
+      "gloss": "eDan"
+    }
+  ],
+  "timestamp": "2026-09-18T10:25:32.622776367Z",
+  "model": "glm-5.3"
+}

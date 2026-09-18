@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 16:20",
+  "book": "jeremiah",
+  "lang": "xh",
+  "chapter": 16,
+  "translation": "Ingaba umntu uya kuzenzela uye oothixo, yaye bona bengengawo oothixo?",
+  "tokens": [
+    {
+      "surface": "היעשה",
+      "gloss": "Ingaba... uya kuzenzela"
+    },
+    {
+      "surface": "לו",
+      "gloss": "uye"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "umntu"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "oothixo"
+    },
+    {
+      "surface": "והמה",
+      "gloss": "yaye bona"
+    },
+    {
+      "surface": "לא",
+      "gloss": "bengengawo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "oothixo"
+    }
+  ],
+  "timestamp": "2026-09-18T12:05:54.302678103Z",
+  "model": "glm-5.3"
+}

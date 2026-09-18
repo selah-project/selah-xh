@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 18:4",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 18,
+  "translation": "Umakunyuliweyo ndizambiza uYahwe, kwaye ndisindwa kubachasi bam.",
+  "tokens": [
+    {
+      "surface": "מהלל",
+      "gloss": "Umakunyuliweyo"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "ndizambiza"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "kubachasi"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "bachasi bam"
+    },
+    {
+      "surface": "אושע",
+      "gloss": "ndisindwa"
+    }
+  ],
+  "timestamp": "2026-09-18T14:33:07.484984040Z",
+  "model": "glm-5.3"
+}

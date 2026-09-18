@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "zechariah 6:10",
+  "book": "zechariah",
+  "lang": "xh",
+  "chapter": 6,
+  "translation": "Thabatha kwabanjweyo — ⟨את⟩ uKheldayi, kwaye ⟨את⟩ uToviyah, kwaye ⟨את⟩ uYedhayah — wena uza kungena ngaloo mini, kwaye uza kungena endlwini kaYoshiyah unyana kaTsefanyah, abo batsho bele eBhabheli.",
+  "tokens": [
+    {
+      "surface": "לקוח",
+      "gloss": "Thabatha"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "ukuvela kwisebe labanjweyo lokwenyani"
+    },
+    {
+      "surface": "הגולה",
+      "gloss": "kwabanjweyo"
+    },
+    {
+      "surface": "מחלדי",
+      "gloss": "uKheldayi"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "kwaye ⟨את⟩",
+      "marks": "uToviyah"
+    },
+    {
+      "surface": "טוביה",
+      "gloss": "uToviyah"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "kwaye ⟨את⟩",
+      "marks": "uYedhayah"
+    },
+    {
+      "surface": "ידעיה",
+      "gloss": "uYedhayah"
+    },
+    {
+      "surface": "ובאת",
+      "gloss": "uza kungena"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ngaloo mini"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "leyo"
+    },
+    {
+      "surface": "ובאת",
+      "gloss": "uza kungena"
+    },
+    {
+      "surface": "בית",
+      "gloss": "endlwini"
+    },
+    {
+      "surface": "יאשיה",
+      "gloss": "kaYoshiyah"
+    },
+    {
+      "surface": "בן",
+      "gloss": "unyana"
+    },
+    {
+      "surface": "צפניה",
+      "gloss": "kaTsefanyah"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "abo"
+    },
+    {
+      "surface": "באו",
+      "gloss": "batsho bele"
+    },
+    {
+      "surface": "מבבל",
+      "gloss": "eBhabheli"
+    }
+  ],
+  "timestamp": "2026-09-18T14:17:15.117063244Z",
+  "model": "glm-5.3"
+}

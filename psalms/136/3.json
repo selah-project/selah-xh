@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 136:3",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 136,
+  "translation": "Nibuleleni u-Adonayi boonobhiwa, kuba ikhesedi yakhe ihleli kuze kube phakade.",
+  "tokens": [
+    {
+      "surface": "הודו",
+      "gloss": "Nibuleleni"
+    },
+    {
+      "surface": "לאדני",
+      "gloss": "u-Adonayi ba-"
+    },
+    {
+      "surface": "האדנים",
+      "gloss": "oonobhiwa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "kuze kube phakade"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ikhesedi yakhe"
+    }
+  ],
+  "timestamp": "2026-09-18T15:30:12.677927893Z",
+  "model": "glm-5.3"
+}

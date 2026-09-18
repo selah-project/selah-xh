@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 19:4",
+  "book": "job",
+  "lang": "xh",
+  "chapter": 19,
+  "translation": "Kananjalo, ngokwenene, ndidukile; isiphoseko sam sihlala ⟨את⟩ kum.",
+  "tokens": [
+    {
+      "surface": "ואף",
+      "gloss": "kananjalo"
+    },
+    {
+      "surface": "אמנם",
+      "gloss": "ngokwenene"
+    },
+    {
+      "surface": "שגיתי",
+      "gloss": "ndidukile"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ kum",
+      "marks": "isiphoseko sam"
+    },
+    {
+      "surface": "תלין",
+      "gloss": "sihlala"
+    },
+    {
+      "surface": "משוגתי",
+      "gloss": "isiphoseko sam"
+    }
+  ],
+  "timestamp": "2026-09-18T16:06:18.145285759Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 3:20",
+  "book": "2-kings",
+  "lang": "xh",
+  "chapter": 3,
+  "translation": "Kwenzeka ekuseni, xakusenya ukunikelwa kwesipho sakusasa, kwangukho amanzi ayeza ngendlela yeEdomu, yaza yazalisa umhlaba ⟨את⟩ amanzi.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "kwenzeka"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "ekuseni"
+    },
+    {
+      "surface": "כעלות",
+      "gloss": "xakusenya"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "ukunikelwa kwesipho sakusasa"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "kwangukho"
+    },
+    {
+      "surface": "מים",
+      "gloss": "amanzi"
+    },
+    {
+      "surface": "באים",
+      "gloss": "ayeza"
+    },
+    {
+      "surface": "מדרך",
+      "gloss": "ngendlela"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "yeEdomu"
+    },
+    {
+      "surface": "ותמלא",
+      "gloss": "yaza yazalisa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "umhlaba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amanzi"
+    },
+    {
+      "surface": "המים",
+      "gloss": "amanzi"
+    }
+  ],
+  "timestamp": "2026-09-18T10:39:38.719237378Z",
+  "model": "glm-5.3"
+}

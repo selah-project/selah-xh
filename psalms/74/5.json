@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 74:5",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 74,
+  "translation": "Kwaziwa njengoko kungeniswa phezulu, elixeliweyo leenkuni — iizembe.",
+  "tokens": [
+    {
+      "surface": "יודע",
+      "gloss": "Kwaziwa"
+    },
+    {
+      "surface": "כמביא",
+      "gloss": "njengoko kungeniswa"
+    },
+    {
+      "surface": "למעלה",
+      "gloss": "phezulu"
+    },
+    {
+      "surface": "בסבך",
+      "gloss": "elixeliweyo"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "leenkuni"
+    },
+    {
+      "surface": "קרדמות",
+      "gloss": "iizembe"
+    }
+  ],
+  "timestamp": "2026-09-18T15:01:09.795252098Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 7:24",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 7,
+  "translation": "Yaye onke amaMitsrayimabetha amanzi jikelele exetyeni ukuzisela, kuba abengakwazi ukusela amanzi exetye.",
+  "tokens": [
+    {
+      "surface": "ויחפרו",
+      "gloss": "abetha"
+    },
+    {
+      "surface": "כל",
+      "gloss": "onke ama-"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "סביבת",
+      "gloss": "jikelele"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "exetyeni"
+    },
+    {
+      "surface": "מים",
+      "gloss": "amanzi"
+    },
+    {
+      "surface": "לשתות",
+      "gloss": "ukuzisela"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "לא",
+      "gloss": "abengakwazi"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "(-akwazi)"
+    },
+    {
+      "surface": "לשתת",
+      "gloss": "ukusela"
+    },
+    {
+      "surface": "ממימי",
+      "gloss": "amanzi"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "exetye"
+    }
+  ],
+  "timestamp": "2026-09-18T05:51:04.226259439Z",
+  "model": "glm-5.3"
+}

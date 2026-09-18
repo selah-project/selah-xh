@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 2:24",
+  "book": "genesis",
+  "lang": "xh",
+  "chapter": 2,
+  "translation": "Ngenxa yoko indoda iya kushiya ⟨את⟩ uyise ⟨את⟩ nonina, iza kunamathiselela kumfazi wakhe, baza kuba lilinye inyama.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "ngenxa"
+    },
+    {
+      "surface": "כן",
+      "gloss": "yoko"
+    },
+    {
+      "surface": "יעזב",
+      "gloss": "iya kushiya"
+    },
+    {
+      "surface": "איש",
+      "gloss": "indoda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uyise"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "uyise"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "unina"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "unina"
+    },
+    {
+      "surface": "ודבק",
+      "gloss": "iza kunamathiselela"
+    },
+    {
+      "surface": "באשתו",
+      "gloss": "kumfazi wakhe"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "baza kuba"
+    },
+    {
+      "surface": "לבשר",
+      "gloss": "lilinye inyama"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "elilodwa"
+    }
+  ],
+  "timestamp": "2026-09-18T17:18:11.233740639Z",
+  "model": "glm-5.3"
+}

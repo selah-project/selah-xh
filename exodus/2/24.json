@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 2:24",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 2,
+  "translation": "uElohim wayeva ukudanisa kwabo, uElohim wakhumbula umnqophiso wakhe, ⟨את⟩ u-Avraham, ⟨את⟩ uYitshak no⟨את⟩ uYaakobi.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "wayeva"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ukudanisa kwabo"
+    },
+    {
+      "surface": "נאקתם",
+      "gloss": "ukudanisa kwabo"
+    },
+    {
+      "surface": "ויזכר",
+      "gloss": "wakhumbula"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umnqophiso wakhe"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "umnqophiso wakhe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "u-Avraham"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "u-Avraham"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uYitshak"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "uYitshak"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "no⟨את⟩",
+      "marks": "uYaakobi"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "uYaakobi"
+    }
+  ],
+  "timestamp": "2026-09-18T17:19:03.114187174Z",
+  "model": "glm-5.3"
+}

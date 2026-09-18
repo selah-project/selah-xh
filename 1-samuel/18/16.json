@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 18:16",
+  "book": "1-samuel",
+  "lang": "xh",
+  "chapter": 18,
+  "translation": "Onke uYisrayeli noYehuda babethanda ⟨את⟩ uDawidi, kuba wayephuma wayengena phambi kwabo.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "onke"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "uYisrayeli"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "noYehuda"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "babethanda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uDawidi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "uDawidi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yena"
+    },
+    {
+      "surface": "יוצא",
+      "gloss": "wayephuma"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "wayengena"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "phambi kwabo"
+    }
+  ],
+  "timestamp": "2026-09-18T09:30:24.987962588Z",
+  "model": "glm-5.3"
+}

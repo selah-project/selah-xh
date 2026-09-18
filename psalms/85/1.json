@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 85:1",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 85,
+  "translation": "Kumlawuli; koonnyana kaKorahi; imzimora.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Kumlawuli"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "koonnyana ka-"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korahi"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "imzimora"
+    }
+  ],
+  "timestamp": "2026-09-18T15:07:08.338825768Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 3:12",
+  "book": "genesis",
+  "lang": "xh",
+  "chapter": 3,
+  "translation": "Wathi umntu: “Umfazi owunikela ukuba abe ncam ndim, yena unike mina kweso sixhomekelekile, nditya.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Wathi"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "umntu"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "Umfazi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "endawo"
+    },
+    {
+      "surface": "נתתה",
+      "gloss": "unike"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "ncam"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yena"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "unike"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mina"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "umthi"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "nditya"
+    }
+  ],
+  "timestamp": "2026-09-18T17:18:40.577885410Z",
+  "model": "glm-5.3"
+}

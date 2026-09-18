@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-kings 4:9",
+  "book": "1-kings",
+  "lang": "xh",
+  "chapter": 4,
+  "translation": "Unyana kaDekeri, eMakazi, nakwiShaalabim, nakwiBeth-Shemeshi, nakwi-Eyloni-Bethi-Khanani;",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "Unyana"
+    },
+    {
+      "surface": "דקר",
+      "gloss": "kaDekeri"
+    },
+    {
+      "surface": "במקץ",
+      "gloss": "eMakazi"
+    },
+    {
+      "surface": "ובשעלבים",
+      "gloss": "nakwiShaalabim"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "nakwiBeth-Shemeshi"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "Bethi-Shemeshi"
+    },
+    {
+      "surface": "ואילון",
+      "gloss": "nakwi-Eyloni"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bethi"
+    },
+    {
+      "surface": "חנן",
+      "gloss": "Khanani"
+    }
+  ],
+  "timestamp": "2026-09-18T10:07:15.432893066Z",
+  "model": "glm-5.3"
+}

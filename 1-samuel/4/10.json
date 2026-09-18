@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 4:10",
+  "book": "1-samuel",
+  "lang": "xh",
+  "chapter": 4,
+  "translation": "AmaPlishti alwa, uIsrayeli wawabalaliswa, yaye umntu ngamnye wabalekela etendeni yakhe; isibethelo saba singangomso kakhulu, kwaye kwaqhubeka kwaIsrayeli amashumi amathathu eewaka la madoda angeenyawo.",
+  "tokens": [
+    {
+      "surface": "וילחמו",
+      "gloss": "alwa"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "AmaPlishti"
+    },
+    {
+      "surface": "וינגף",
+      "gloss": "wawabalaliswa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "uIsrayeli"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "wabaleka"
+    },
+    {
+      "surface": "איש",
+      "gloss": "umntu ngamnye"
+    },
+    {
+      "surface": "לאהליו",
+      "gloss": "etendeni yakhe"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "saba"
+    },
+    {
+      "surface": "המכה",
+      "gloss": "isibethelo"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "singangomso"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "kakhulu"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "kwaqhubeka"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "kwaIsrayeli"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "amashumi amathathu"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "eewaka"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "la madoda angeenyawo"
+    }
+  ],
+  "timestamp": "2026-09-18T09:15:48.317530527Z",
+  "model": "glm-5.3"
+}

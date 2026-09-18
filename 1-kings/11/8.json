@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 11:8",
+  "book": "1-kings",
+  "lang": "xh",
+  "chapter": 11,
+  "translation": "Wenza njalo wonke amakhosikazi akhe amazambi, abatshisayo iimphefumlo benqulela oothixo babo.",
+  "tokens": [
+    {
+      "surface": "וכן",
+      "gloss": "njalo"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "wenza"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "wonke"
+    },
+    {
+      "surface": "נשיו",
+      "gloss": "amakhosikazi akhe"
+    },
+    {
+      "surface": "הנכריות",
+      "gloss": "amazambi"
+    },
+    {
+      "surface": "מקטירות",
+      "gloss": "abatshisayo iimphefumlo"
+    },
+    {
+      "surface": "ומזבחות",
+      "gloss": "benqulela"
+    },
+    {
+      "surface": "לאלהיהן",
+      "gloss": "koothixo babo"
+    }
+  ],
+  "timestamp": "2026-09-18T10:23:56.169550680Z",
+  "model": "glm-5.3"
+}

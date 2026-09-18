@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 116:2",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 116,
+  "translation": "kuba wakhlohla undlebe wakhe kum, ndaza kummemba yonke imihla yam.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "הטה",
+      "gloss": "wakhlohla"
+    },
+    {
+      "surface": "אזנו",
+      "gloss": "undlebe yakhe"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kum"
+    },
+    {
+      "surface": "ובימי",
+      "gloss": "yonke imihla yam"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "ndaza kummemba"
+    }
+  ],
+  "timestamp": "2026-09-18T15:22:46.566352165Z",
+  "model": "glm-5.3"
+}

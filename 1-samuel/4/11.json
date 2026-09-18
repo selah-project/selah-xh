@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 4:11",
+  "book": "1-samuel",
+  "lang": "xh",
+  "chapter": 4,
+  "translation": "Yaye iarekha kaElohim yathathwa, kunye namakhosana amabini ka-Eli, afa — uKhofni noPinekhasi.",
+  "tokens": [
+    {
+      "surface": "וארון",
+      "gloss": "Yaye iarekha"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "kaElohim"
+    },
+    {
+      "surface": "נלקח",
+      "gloss": "yathathwa"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "kunye namakhosana amabini"
+    },
+    {
+      "surface": "בני",
+      "gloss": "amakhosana"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ka-Eli"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "afa"
+    },
+    {
+      "surface": "חפני",
+      "gloss": "uKhofni"
+    },
+    {
+      "surface": "ופינחס",
+      "gloss": "noPinekhasi"
+    }
+  ],
+  "timestamp": "2026-09-18T09:15:48.317673155Z",
+  "model": "glm-5.3"
+}

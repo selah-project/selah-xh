@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 50:16",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 50,
+  "translation": "Kodwa kumgwenya uElohim wathi: “Yintoni kuwe ukutsho imigaqo yam, ukuze uthabathe umnqophiso wam emlonyeni wakho?",
+  "tokens": [
+    {
+      "surface": "ולרשע",
+      "gloss": "Kodwa kumgwenya"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Yintoni"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kuwe"
+    },
+    {
+      "surface": "לספר",
+      "gloss": "ukutsho"
+    },
+    {
+      "surface": "חקי",
+      "gloss": "imigaqo yam"
+    },
+    {
+      "surface": "ותשא",
+      "gloss": "ukuze uthabathe"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "umnqophiso wam"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "⟨phezu⟩"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "emlonyeni wakho"
+    }
+  ],
+  "timestamp": "2026-09-18T14:48:24.352760911Z",
+  "model": "glm-5.3"
+}

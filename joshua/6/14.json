@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "joshua 6:14",
+  "book": "joshua",
+  "lang": "xh",
+  "chapter": 6,
+  "translation": "Bazungeleza ⟨את⟩ isixeko ngosuku lwesibini kanye kuphela, baze babuyela emkhosini; ngokunjalo benza iintsuku ezintandathu.",
+  "tokens": [
+    {
+      "surface": "ויסבו",
+      "gloss": "bazungeleza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isixeko"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "isixeko"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ngosuku"
+    },
+    {
+      "surface": "השני",
+      "gloss": "lwesibini"
+    },
+    {
+      "surface": "פעם",
+      "gloss": "kanye (ixesha)"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "kuphela (elinye)"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "baze babuyela"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "emkhosini"
+    },
+    {
+      "surface": "כה",
+      "gloss": "ngokunjalo"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "benza"
+    },
+    {
+      "surface": "ששת",
+      "gloss": "iintsuku ezintandathu — six"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "iintsuku"
+    }
+  ],
+  "timestamp": "2026-09-18T08:31:11.424262897Z",
+  "model": "glm-5.3"
+}

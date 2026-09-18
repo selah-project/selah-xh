@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 22:3",
+  "book": "1-kings",
+  "lang": "xh",
+  "chapter": 22,
+  "translation": "Inkosi yaseYisrayeli yathi kwiinkonzi zayo: “Niyazi na ukuba iRamoto yaseGileyadi ingeyethu, ke thina siyathula, singayithathi ⟨את⟩ esandleni senkosi yaseAram?”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "yathi"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "Inkosi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "yaseYisrayeli"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "kwiinkonzi zayo"
+    },
+    {
+      "surface": "הידעתם",
+      "gloss": "Niyazi na"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ukuba"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ingeyethu"
+    },
+    {
+      "surface": "רמת",
+      "gloss": "iRamoto"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "yaseGileyadi"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "ke thina"
+    },
+    {
+      "surface": "מחשים",
+      "gloss": "siyathula"
+    },
+    {
+      "surface": "מקחת",
+      "gloss": "ukuyithatha (singayithathi)"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "iRamoto yaseGileyadi"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "esandleni"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "senkosi"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "yaseAram"
+    }
+  ],
+  "timestamp": "2026-09-18T10:37:11.935834581Z",
+  "model": "glm-5.3"
+}

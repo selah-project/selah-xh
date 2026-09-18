@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 41:13",
+  "book": "genesis",
+  "lang": "xh",
+  "chapter": 41,
+  "translation": "Yaye kwaba njengoko utolike kuthi, kunjalo kwaba: mna ⟨את⟩ wandibuyisela esikhundleni sam, yena ⟨את⟩ bamgalela.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "yaye kwaba"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "njengoko"
+    },
+    {
+      "surface": "פתר",
+      "gloss": "utolike"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "kuthi"
+    },
+    {
+      "surface": "כן",
+      "gloss": "kunjalo"
+    },
+    {
+      "surface": "היה",
+      "gloss": "kwaba"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "mna"
+    },
+    {
+      "surface": "השיב",
+      "gloss": "wandibuyisela"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "כני",
+      "gloss": "esikhundleni sam"
+    },
+    {
+      "surface": "ואתו",
+      "gloss": "⟨את⟩",
+      "marks": "yena"
+    },
+    {
+      "surface": "תלה",
+      "gloss": "bamgalela"
+    }
+  ],
+  "timestamp": "2026-09-18T05:38:34.317423239Z",
+  "model": "glm-5.3"
+}

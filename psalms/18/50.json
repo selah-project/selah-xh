@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "psalms 18:50",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 18,
+  "translation": "Ngoko ndiza kukudumisa phakathi kwamazwe, uYahwe, ndiza kukucula ngolwazi ⟨⟨⟩⟩ lolwazi lwakho — ndiza kukucula igama lakho.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "ngoko- ke"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ngoko"
+    },
+    {
+      "surface": "אודך",
+      "gloss": "ndiza kukudumisa"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "phakathi kwamazwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "ולשמך",
+      "gloss": "ndiza kukucula igama lakho"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "ndiza kukucula"
+    }
+  ],
+  "timestamp": "2026-09-18T14:33:25.648318955Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 38:5",
+  "book": "ezekiel",
+  "lang": "xh",
+  "chapter": 38,
+  "translation": "IParas, iKush noPhut ⟨אתם⟩ — bonke abanesisihlangu nangehlem.",
+  "tokens": [
+    {
+      "surface": "פרס",
+      "gloss": "iParas"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "iKush"
+    },
+    {
+      "surface": "ופוט",
+      "gloss": "noPhut"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "kunye nabo"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "bonke"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "sisihlangu"
+    },
+    {
+      "surface": "וכובע",
+      "gloss": "nagehlem"
+    }
+  ],
+  "timestamp": "2026-09-18T13:26:33.301386846Z",
+  "model": "glm-5.3"
+}

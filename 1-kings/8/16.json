@@ -1,0 +1,119 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 8:16",
+  "book": "1-kings",
+  "lang": "xh",
+  "chapter": 8,
+  "translation": "Kusukela kwixesha endikhuphe ngalo abantu bam ⟨את⟩ iYisraele ⟨את⟩ eMitsrayim, andikhethanga naliphi ixhiba kuzo zonke iintlanga zikaYisraele, ukwakha indlu igama lam libe khona; kodwa ndakhetha uDavide ukuba abengaphezulu kwabantu bam iYisraele.",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "kusukela"
+    },
+    {
+      "surface": "היום",
+      "gloss": "kwixesha"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "endikhuphe ngalo"
+    },
+    {
+      "surface": "הוצאתי",
+      "gloss": "endikhuphe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abantu bam"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "abantu bam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iYisraele"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "iYisraele"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "eMitsrayim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "andikhe"
+    },
+    {
+      "surface": "בחרתי",
+      "gloss": "ndakhethanga"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "naliphi ixhiba"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "kuzo zonke"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "iintlanga"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "zikaYisraele"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "ukwakha"
+    },
+    {
+      "surface": "בית",
+      "gloss": "indlu"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "ibe"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "igama lam"
+    },
+    {
+      "surface": "שם",
+      "gloss": "khona"
+    },
+    {
+      "surface": "ואבחר",
+      "gloss": "kodwa ndakhetha"
+    },
+    {
+      "surface": "בדוד",
+      "gloss": "uDavide"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "ukuba abengaphezulu"
+    },
+    {
+      "surface": "על",
+      "gloss": "ngaphezulu kwa-"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "abantu bam"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "iYisraele"
+    }
+  ],
+  "timestamp": "2026-09-18T10:20:32.129293082Z",
+  "model": "glm-5.3"
+}

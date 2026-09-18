@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 10:10",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 10,
+  "translation": "Wathi kubo: “Makube njalo uYahwe ehlangene nani, njengoko ndiza kunithumala nina ⟨את⟩ nangeentsingane zenu ⟨את⟩; khangelani, kuba inkohlakalo imi ngokuchaseneyo nobuso benu.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "kubo"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "makube"
+    },
+    {
+      "surface": "כן",
+      "gloss": "njalo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "ehlangene nani"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "njengoko"
+    },
+    {
+      "surface": "אשלח",
+      "gloss": "ndiza kunithumala"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "nina"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "nange... ⟨את⟩",
+      "marks": "geentsingane zenu"
+    },
+    {
+      "surface": "טפכם",
+      "gloss": "eentsingane zenu"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "khangelani"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "inkohlakalo"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "imi ngokuchaseneyo"
+    },
+    {
+      "surface": "פניכם",
+      "gloss": "nobuso benu"
+    }
+  ],
+  "timestamp": "2026-09-18T05:57:23.580364106Z",
+  "model": "glm-5.3"
+}

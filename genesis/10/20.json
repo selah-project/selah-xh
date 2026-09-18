@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 10:20",
+  "book": "genesis",
+  "lang": "xh",
+  "chapter": 10,
+  "translation": "Ooku ngabaninya uKham, ngokwezizwe zabo, ngolwimi lwabo, ezintlweni zobukumkani babo, kumazwe abo.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Ooku"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ngabaninya"
+    },
+    {
+      "surface": "חם",
+      "gloss": "uKham"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "ngokwezizwe zabo"
+    },
+    {
+      "surface": "ללשנתם",
+      "gloss": "ngolwimi lwabo"
+    },
+    {
+      "surface": "בארצתם",
+      "gloss": "emhlabeni wabo"
+    },
+    {
+      "surface": "בגויהם",
+      "gloss": "kumazwe abo"
+    }
+  ],
+  "timestamp": "2026-09-18T05:11:49.683529294Z",
+  "model": "glm-5.3"
+}

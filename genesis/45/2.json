@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 45:2",
+  "book": "genesis",
+  "lang": "xh",
+  "chapter": 45,
+  "translation": "Waphakamisa ⟨את⟩ ilizwi lakhe ngenxa yokukhala; bamva amaMitsri, wamva nesihloko sikaParo.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "Waphakamisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ilizwi lakhe"
+    },
+    {
+      "surface": "קלו",
+      "gloss": "ilizwi lakhe"
+    },
+    {
+      "surface": "בבכי",
+      "gloss": "ngenxa yokukhala"
+    },
+    {
+      "surface": "וישמעו",
+      "gloss": "bamva"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "amaMitsri"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "wamva"
+    },
+    {
+      "surface": "בית",
+      "gloss": "isihloko sika-"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "uParo"
+    }
+  ],
+  "timestamp": "2026-09-18T05:45:25.983933291Z",
+  "model": "glm-5.3"
+}

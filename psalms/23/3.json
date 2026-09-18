@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 23:3",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 23,
+  "translation": "Umphefumlo wam uyabuyiswa; undikhokela kwiindlela zolungiso ngenxa yegama lakhe.",
+  "tokens": [
+    {
+      "surface": "נפשי",
+      "gloss": "umphefumlo wam"
+    },
+    {
+      "surface": "ישובב",
+      "gloss": "uyabuyiswa"
+    },
+    {
+      "surface": "ינחני",
+      "gloss": "undikhokela"
+    },
+    {
+      "surface": "במעגלי",
+      "gloss": "kwiindlela"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "zolungiso"
+    },
+    {
+      "surface": "למען",
+      "gloss": "ngenxa"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "yegama lakhe"
+    }
+  ],
+  "timestamp": "2026-09-18T14:35:59.450361117Z",
+  "model": "glm-5.3"
+}

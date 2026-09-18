@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 148:6",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 148,
+  "translation": "Wazimisela ngonaphakade, de kube ngonaphakade; wabeka umthetho ongadlulanga.",
+  "tokens": [
+    {
+      "surface": "ויעמידם",
+      "gloss": "Wazimisela"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "ngonaphakade"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "de kube ngonaphakade"
+    },
+    {
+      "surface": "חק",
+      "gloss": "umthetho"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "wabeka"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "onga-"
+    },
+    {
+      "surface": "יעבור",
+      "gloss": "dlulanga"
+    }
+  ],
+  "timestamp": "2026-09-18T15:35:11.142224255Z",
+  "model": "glm-5.3"
+}

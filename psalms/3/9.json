@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 3:9",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 3,
+  "translation": "KuYahwe ⟨is⟩ intsindiso; intsikelelo yakho ⟨is⟩ phezu kabantu bakho. Selah.",
+  "tokens": [
+    {
+      "surface": "ליהוה",
+      "gloss": "kuYahwe"
+    },
+    {
+      "surface": "הישועה",
+      "gloss": "intsindiso"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "abantu bakho"
+    },
+    {
+      "surface": "ברכתך",
+      "gloss": "intsikelelo yakho"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-18T14:24:35.988583512Z",
+  "model": "glm-5.3"
+}

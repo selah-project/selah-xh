@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 88:11",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 88,
+  "translation": "Ngaba umfi uza kwenzela umzekeliso? Ngaba irafayim baza kuvuka, bakudumise? iSelah.",
+  "tokens": [
+    {
+      "surface": "הלמתים",
+      "gloss": "umfi"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "uza kwenza"
+    },
+    {
+      "surface": "פלא",
+      "gloss": "umzekeliso"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ngaba"
+    },
+    {
+      "surface": "רפאים",
+      "gloss": "irafayim (abafi)"
+    },
+    {
+      "surface": "יקומו",
+      "gloss": "baza kuvuka"
+    },
+    {
+      "surface": "יודוך",
+      "gloss": "bakudumise"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "iSelah"
+    }
+  ],
+  "timestamp": "2026-09-18T15:07:11.104018792Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 96:4",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 96,
+  "translation": "Kuba uYahwe ungumkhulu, kwaye umxhamla ngokwenene; ungumoyikwayo ngaphezu kwazo onke oothixo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kuba"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "ungumkhulu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "ומהלל",
+      "gloss": "kwaye umxhamla"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ngokwenene"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "ungumoyikwayo"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yena"
+    },
+    {
+      "surface": "על",
+      "gloss": "ngaphezu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kwazo onke"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "oothixo"
+    }
+  ],
+  "timestamp": "2026-09-18T15:10:25.581517884Z",
+  "model": "glm-5.3"
+}

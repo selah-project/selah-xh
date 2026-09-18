@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-kings 10:26",
+  "book": "2-kings",
+  "lang": "xh",
+  "chapter": 10,
+  "translation": "Bakhipha ⟨את⟩ iintsika zendlu kaBhali, bazitshisa.",
+  "tokens": [
+    {
+      "surface": "ויצאו",
+      "gloss": "Bakhipha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iintsika"
+    },
+    {
+      "surface": "מצבות",
+      "gloss": "iintsika"
+    },
+    {
+      "surface": "בית",
+      "gloss": "zendlu"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "kaBhali"
+    },
+    {
+      "surface": "וישרפוה",
+      "gloss": "bazitshisa"
+    }
+  ],
+  "timestamp": "2026-09-18T10:43:23.531267784Z",
+  "model": "glm-5.3"
+}

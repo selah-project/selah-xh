@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 19:10",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 19,
+  "translation": "Ukwoyika uYahwe kucococekileyo, kumi kuze kube phakade; izigwebo zikaYahwe ziyinyaniso, zilungile zizonke.",
+  "tokens": [
+    {
+      "surface": "יראת",
+      "gloss": "ukwoyika"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "טהורה",
+      "gloss": "kucococekileyo"
+    },
+    {
+      "surface": "עומדת",
+      "gloss": "kumi"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "kuze kube phakade"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "izigwebo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "zikaYahwe"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "ziyinyaniso"
+    },
+    {
+      "surface": "צדקו",
+      "gloss": "zilungile"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "zizonke"
+    }
+  ],
+  "timestamp": "2026-09-18T14:33:44.084421601Z",
+  "model": "glm-5.3"
+}

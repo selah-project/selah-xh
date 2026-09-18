@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 3:1",
+  "book": "job",
+  "lang": "xh",
+  "chapter": 3,
+  "translation": "Emva koko u-Ayyov wavula ⟨את⟩ umlomo wakhe, wanqabela ⟨את⟩ usuku lwakhe.",
+  "tokens": [
+    {
+      "surface": "אחרי",
+      "gloss": "Emva"
+    },
+    {
+      "surface": "כן",
+      "gloss": "koko"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "wavula"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "u-Ayyov"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umlomo wakhe"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "umlomo wakhe"
+    },
+    {
+      "surface": "ויקלל",
+      "gloss": "wanqabela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "usuku lwakhe"
+    },
+    {
+      "surface": "יומו",
+      "gloss": "usuku lwakhe"
+    }
+  ],
+  "timestamp": "2026-09-18T16:00:12.776636159Z",
+  "model": "glm-5.3"
+}

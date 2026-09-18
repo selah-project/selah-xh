@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-chronicles 3:14",
+  "book": "2-chronicles",
+  "lang": "xh",
+  "chapter": 3,
+  "translation": "Waza wenza ⟨את⟩ ithuba lethemthi ngoluhlaza okwesibhakabhaka, nobomvu obungcwele, nobomvu obutshisayo, negqi; waza wenza ukwakhiwa kwamaqaba ethu kulo.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "waza wenza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ithuba lethekisi"
+    },
+    {
+      "surface": "הפרכת",
+      "gloss": "ithuba lethekisi"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "uluhlaza okwesibhakabhaka"
+    },
+    {
+      "surface": "וארגמן",
+      "gloss": "ubomvu obungcwele"
+    },
+    {
+      "surface": "וכרמיל",
+      "gloss": "ubomvu obutshisayo"
+    },
+    {
+      "surface": "ובוץ",
+      "gloss": "egqi"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "wenza ukwakhiwa"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "kulo"
+    },
+    {
+      "surface": "כרובים",
+      "gloss": "amaqaba ethu"
+    }
+  ],
+  "timestamp": "2026-09-18T17:02:44.836861026Z",
+  "model": "glm-5.3"
+}

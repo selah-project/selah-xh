@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 2:10",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 2,
+  "translation": "Kananjalo ngoku, nina iinkosi, zikhaliphe; fundiswani, nina amagwebo omhlaba.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "kananjalo ngoku"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "nina iinkosi"
+    },
+    {
+      "surface": "השכילו",
+      "gloss": "zikhaliphe"
+    },
+    {
+      "surface": "הוסרו",
+      "gloss": "fundiswani"
+    },
+    {
+      "surface": "שפטי",
+      "gloss": "nina amagwebo"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "omhlaba"
+    }
+  ],
+  "timestamp": "2026-09-18T14:25:28.171153558Z",
+  "model": "glm-5.3"
+}

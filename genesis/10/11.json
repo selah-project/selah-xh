@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 10:11",
+  "book": "genesis",
+  "lang": "xh",
+  "chapter": 10,
+  "translation": "Kulo lonke ilizwe elo waphuma u-Ashshuri, wakha ⟨את⟩ iNinive ⟨את⟩ noRekhoboti-Uri ⟨את⟩ noKelahi.",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ilizwe"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "elo"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "waphuma"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "u-Ashshuri"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "wakha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iNinive"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "iNinive"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "noRekhoboti-Uri"
+    },
+    {
+      "surface": "רחבת",
+      "gloss": "noRekhoboti-Uri"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "edolophini"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "noKelahi"
+    },
+    {
+      "surface": "כלח",
+      "gloss": "noKelahi"
+    }
+  ],
+  "timestamp": "2026-09-18T05:11:46.515086888Z",
+  "model": "glm-5.3"
+}

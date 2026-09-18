@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 13:5",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 13,
+  "translation": "Hayi ukuba isitha sam singathi: “Ndinaloyise”; abacingi abam bayavuya xa ndiyashukuma.",
+  "tokens": [
+    {
+      "surface": "פן",
+      "gloss": "hayi ukuba"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "singathi"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "isitha sam"
+    },
+    {
+      "surface": "יכלתיו",
+      "gloss": "Ndinaloyise"
+    },
+    {
+      "surface": "צרי",
+      "gloss": "abacingi abam"
+    },
+    {
+      "surface": "יגילו",
+      "gloss": "bayavuya"
+    },
+    {
+      "surface": "כי",
+      "gloss": "xa"
+    },
+    {
+      "surface": "אמוט",
+      "gloss": "ndiyashukuma"
+    }
+  ],
+  "timestamp": "2026-09-18T14:29:51.130567847Z",
+  "model": "glm-5.3"
+}

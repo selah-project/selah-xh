@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 40:20",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 40,
+  "translation": "Wathabatha waza wayibeka ⟨את⟩ ubungqina kwiaroni, wabeka ⟨את⟩ iimbambo phezu kwearoni, wabeka ⟨את⟩ ikhapporethi phezu kwearoni ngaphezulu.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "wathabatha"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "wayibeka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ubungqina"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "ubungqina"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwi"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "aroni"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "wabeka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iimbambo"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "iimbambo"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu kw"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "earoni"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "wabeka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ikhapporethi"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "ikhapporethi"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu kw"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "earoni"
+    },
+    {
+      "surface": "מלמעלה",
+      "gloss": "ngaphezulu"
+    }
+  ],
+  "timestamp": "2026-09-18T17:21:40.868601362Z",
+  "model": "glm-5.3"
+}

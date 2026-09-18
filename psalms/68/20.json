@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 68:20",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 68,
+  "translation": "Makabusisiwe u-Adonayi; yonke imihla usisela umthwalo, u-El weentsindiso zethu. Selah.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Makabusisiwe"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "u-Adonayi"
+    },
+    {
+      "surface": "יום",
+      "gloss": "imihla"
+    },
+    {
+      "surface": "יום",
+      "gloss": "yonke"
+    },
+    {
+      "surface": "יעמס",
+      "gloss": "usisela umthwalo"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "thina"
+    },
+    {
+      "surface": "האל",
+      "gloss": "u-El"
+    },
+    {
+      "surface": "ישועתנו",
+      "gloss": "weentsindiso zethu"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-18T14:57:51.657845922Z",
+  "model": "glm-5.3"
+}

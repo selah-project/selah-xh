@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 24:32",
+  "book": "genesis",
+  "lang": "xh",
+  "chapter": 24,
+  "translation": "Umntu wangena endlwini, wazikhulula iikamele; wanika ingca nesondlo ezikamele, namanzi okuhlamba iinyawo zakhe neenyawo zamadoda ⟨את⟩ anaye.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "wangena"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "Umntu"
+    },
+    {
+      "surface": "הביתה",
+      "gloss": "endlwini"
+    },
+    {
+      "surface": "ויפתח",
+      "gloss": "wazikhulula"
+    },
+    {
+      "surface": "הגמלים",
+      "gloss": "iikamele"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "wanika"
+    },
+    {
+      "surface": "תבן",
+      "gloss": "ingca"
+    },
+    {
+      "surface": "ומספוא",
+      "gloss": "nesondlo"
+    },
+    {
+      "surface": "לגמלים",
+      "gloss": "ezikamele"
+    },
+    {
+      "surface": "ומים",
+      "gloss": "namanzi"
+    },
+    {
+      "surface": "לרחץ",
+      "gloss": "okuhlamba"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "iinyawo zakhe"
+    },
+    {
+      "surface": "ורגלי",
+      "gloss": "neenyawo"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "zamadoda"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aye"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ anaye",
+      "marks": "amadoda aye naye"
+    }
+  ],
+  "timestamp": "2026-09-18T05:23:15.811364394Z",
+  "model": "glm-5.3"
+}

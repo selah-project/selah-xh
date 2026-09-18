@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 1:3",
+  "book": "numbers",
+  "lang": "xh",
+  "chapter": 1,
+  "translation": "kusukela kwiminyaka engamashumi amabini nangaphezulu, bonke abaphuma kukhosi lakwaSirayeli; niyakubabala ⟨אתם⟩ ngokweekhosi zabo — wena no-Aharoni.",
+  "tokens": [
+    {
+      "surface": "מבן",
+      "gloss": "kwiminyaka enga-"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "mashumi amabini"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "iminyaka"
+    },
+    {
+      "surface": "ומעלה",
+      "gloss": "nangaphezulu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bonke"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "abaphuma"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "ukhosi"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "lakwaSirayeli"
+    },
+    {
+      "surface": "תפקדו",
+      "gloss": "niyakubabala"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "bonke abaphuma kukhosi"
+    },
+    {
+      "surface": "לצבאתם",
+      "gloss": "ngokweekhosi zabo"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "no-Aharoni"
+    }
+  ],
+  "timestamp": "2026-09-18T07:10:14.915798228Z",
+  "model": "glm-5.3"
+}

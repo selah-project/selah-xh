@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 50:11",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 50,
+  "translation": "Ndiyazazi zonke iintaka zezintaba, kunye neento zelusiki zikum.",
+  "tokens": [
+    {
+      "surface": "ידעתי",
+      "gloss": "ndiyazazi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zonke"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "iintaka"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "zezintaba"
+    },
+    {
+      "surface": "וזיז",
+      "gloss": "kunye neento"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "zelusiki"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "zikum"
+    }
+  ],
+  "timestamp": "2026-09-18T14:46:29.233729606Z",
+  "model": "glm-5.3"
+}

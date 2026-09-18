@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 1:20",
+  "book": "job",
+  "lang": "xh",
+  "chapter": 1,
+  "translation": "Wavuka uYobhi, wazityabula ⟨את⟩ ingubo yakhe, wabunda ⟨את⟩ intloko yakhe, wawiswa phantsi emhlabeni, wakhuleka.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "wavuka"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "uYobhi"
+    },
+    {
+      "surface": "ויקרע",
+      "gloss": "wazityabula"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ingubo yakhe"
+    },
+    {
+      "surface": "מעלו",
+      "gloss": "ingubo yakhe"
+    },
+    {
+      "surface": "ויגז",
+      "gloss": "wabunda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "intloko yakhe"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "intloko yakhe"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "wawiswa phantsi"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "emhlabeni"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "wakhuleka"
+    }
+  ],
+  "timestamp": "2026-09-18T16:00:45.893201972Z",
+  "model": "glm-5.3"
+}

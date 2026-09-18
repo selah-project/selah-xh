@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "song-of-songs 3:5",
+  "book": "song-of-songs",
+  "lang": "xh",
+  "chapter": 3,
+  "translation": "Ndifungisile ndini, amadodakazi aseYerushalayimi, ngeentsikama nangeentoke zasimthla: musa ukuvusa okanye ukuvuyisa ⟨את⟩ uthando de luthande.",
+  "tokens": [
+    {
+      "surface": "השבעתי",
+      "gloss": "Ndifungisile ndini"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "amadodakazi aseYerushalayimi"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "amadodakazi"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "aseYerushalayimi"
+    },
+    {
+      "surface": "בצבאות",
+      "gloss": "ngeentsikama"
+    },
+    {
+      "surface": "או",
+      "gloss": "nange"
+    },
+    {
+      "surface": "באילות",
+      "gloss": "entoke"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "zasimthla"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ukuba"
+    },
+    {
+      "surface": "תעירו",
+      "gloss": "musa ukuvusa"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "okanye"
+    },
+    {
+      "surface": "תעוררו",
+      "gloss": "ukuvuyisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uthando"
+    },
+    {
+      "surface": "האהבה",
+      "gloss": "uthando"
+    },
+    {
+      "surface": "עד",
+      "gloss": "de"
+    },
+    {
+      "surface": "שתחפץ",
+      "gloss": "luthande"
+    }
+  ],
+  "timestamp": "2026-09-18T16:16:45.384102302Z",
+  "model": "glm-5.3"
+}

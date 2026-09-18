@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 5:12",
+  "book": "deuteronomy",
+  "lang": "xh",
+  "chapter": 5,
+  "translation": "Gcina ⟨את⟩ usuku lwesabatha, ulingcwalise, njengoko akutyalele uYahwe uElohim wakho.",
+  "tokens": [
+    {
+      "surface": "שמור",
+      "gloss": "gcina"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "usuku lwesabatha"
+    },
+    {
+      "surface": "יום",
+      "gloss": "usuku"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "lwesabatha"
+    },
+    {
+      "surface": "לקדשו",
+      "gloss": "ulingcwalise"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "njengoko"
+    },
+    {
+      "surface": "צוך",
+      "gloss": "akutyalele"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "uElohim wakho"
+    }
+  ],
+  "timestamp": "2026-09-18T07:57:26.716844405Z",
+  "model": "glm-5.3"
+}

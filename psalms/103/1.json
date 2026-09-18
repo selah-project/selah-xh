@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 103:1",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 103,
+  "translation": "Igaama kaDavide. Mphulela ⟨את⟩ uYahwe, mphefumlo wam, yaye wonke owuse ngaphakathi kwam mupulele ⟨את⟩ igama elingcwele lakhe.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Igaama kaDavide"
+    },
+    {
+      "surface": "ברכי",
+      "gloss": "Mphulela"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mphefumlo wam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uYahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "yaye wonke"
+    },
+    {
+      "surface": "קרבי",
+      "gloss": "owuse ngaphakathi kwam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "igama elingcwele lakhe"
+    },
+    {
+      "surface": "שם",
+      "gloss": "igama"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "elingcwele lakhe"
+    }
+  ],
+  "timestamp": "2026-09-18T15:14:18.538085691Z",
+  "model": "glm-5.3"
+}

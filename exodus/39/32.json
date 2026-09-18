@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 39:32",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 39,
+  "translation": "Yaphela yonke inkonzo yesikhungo, intente yokuqokolela; abantwana bakwaSirayeli benza konkeoko uYahwe wayemyalela ⟨את⟩ uMoshe — bayenzelo njalo.",
+  "tokens": [
+    {
+      "surface": "ותכל",
+      "gloss": "yaphela"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yonke"
+    },
+    {
+      "surface": "עבדת",
+      "gloss": "inkonzo"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "yesikhungo"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "intente"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "yokuqokolela"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "benza"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abantwana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "bakwaSirayeli"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "konkeoko"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "צוה",
+      "gloss": "wayemyalela"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ uMoshe",
+      "marks": "uMoshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "uMoshe"
+    },
+    {
+      "surface": "כן",
+      "gloss": "njalo"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "bayenzelo"
+    }
+  ],
+  "timestamp": "2026-09-18T06:32:06.377959674Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 95:6",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 95,
+  "translation": "Wozani, makothame thina, makuginge thina, makwamkele thina phambi koYahwe, umenzi wethu.",
+  "tokens": [
+    {
+      "surface": "באו",
+      "gloss": "wozani"
+    },
+    {
+      "surface": "נשתחוה",
+      "gloss": "makothame thina"
+    },
+    {
+      "surface": "ונכרעה",
+      "gloss": "makuginge thina"
+    },
+    {
+      "surface": "נברכה",
+      "gloss": "makwamkele thina"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "phambi kwa-"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "עשנו",
+      "gloss": "umenzi wethu"
+    }
+  ],
+  "timestamp": "2026-09-18T15:12:01.204565586Z",
+  "model": "glm-5.3"
+}

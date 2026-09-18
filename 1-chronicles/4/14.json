@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 4:14",
+  "book": "1-chronicles",
+  "lang": "xh",
+  "chapter": 4,
+  "translation": "UMeonotayi wazala ⟨את⟩ uOfera; uSeraya wazala ⟨את⟩ uYoabu, uyise weNciba yabaqambi, kuba babengabaqambi.",
+  "tokens": [
+    {
+      "surface": "ומעונתי",
+      "gloss": "uMeonotayi"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "wazala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uOfera"
+    },
+    {
+      "surface": "עפרה",
+      "gloss": "uOfera"
+    },
+    {
+      "surface": "ושריה",
+      "gloss": "uSeraya"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "wazala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uYoabu"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "uYoabu"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "uyise we-"
+    },
+    {
+      "surface": "גיא",
+      "gloss": "iNciba"
+    },
+    {
+      "surface": "חרשים",
+      "gloss": "yabaqambi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "חרשים",
+      "gloss": "babengabaqambi"
+    },
+    {
+      "surface": "היו",
+      "gloss": "babeng"
+    }
+  ],
+  "timestamp": "2026-09-18T16:51:49.139794697Z",
+  "model": "glm-5.3"
+}

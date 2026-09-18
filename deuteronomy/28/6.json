@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 28:6",
+  "book": "deuteronomy",
+  "lang": "xh",
+  "chapter": 28,
+  "translation": "Ubusibusisiwe wena ekungeniseni kwakho, waza wabusibusisiwe wena ekuphumeni kwakho.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "ubusibusisiwe"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "בבאך",
+      "gloss": "ekungeniseni kwakho"
+    },
+    {
+      "surface": "וברוך",
+      "gloss": "waza wabusibusisiwe"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "בצאתך",
+      "gloss": "ekuphumeni kwakho"
+    }
+  ],
+  "timestamp": "2026-09-18T08:19:08.746610495Z",
+  "model": "glm-5.3"
+}

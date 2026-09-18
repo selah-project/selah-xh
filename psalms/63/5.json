@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 63:5",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 63,
+  "translation": "Kanjalo ndiza kukubulela ubomi bam, ngeGama lakho ndiza kunyusa iintsana zezandla zam.",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "Kanjalo"
+    },
+    {
+      "surface": "אברכך",
+      "gloss": "ndiza kukubulela wena"
+    },
+    {
+      "surface": "בחיי",
+      "gloss": "ubomi bam"
+    },
+    {
+      "surface": "בשמך",
+      "gloss": "ngeGama lakho"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "ndiza kunyusa"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "iintsana zezandla zam"
+    }
+  ],
+  "timestamp": "2026-09-18T14:54:38.865197829Z",
+  "model": "glm-5.3"
+}

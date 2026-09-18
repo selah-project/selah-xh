@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 137:2",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 137,
+  "translation": "Phezu kweziMthi yamakhuni, embindi wawo, sazityanisa iiharpha zethu.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "phezu"
+    },
+    {
+      "surface": "ערבים",
+      "gloss": "kweziMthi yamakhuni"
+    },
+    {
+      "surface": "בתוכה",
+      "gloss": "embindi wawo"
+    },
+    {
+      "surface": "תלינו",
+      "gloss": "sazityanisa"
+    },
+    {
+      "surface": "כנרותינו",
+      "gloss": "iiharpha zethu"
+    }
+  ],
+  "timestamp": "2026-09-18T15:31:10.402881820Z",
+  "model": "glm-5.3"
+}

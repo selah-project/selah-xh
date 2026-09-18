@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 145:9",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 145,
+  "translation": "Ulungile uYahwe kubo bonke, nezihau zakhe zili phezu kwamisebenzi yakhe yonke.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "Ulungile"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "kubo bonke"
+    },
+    {
+      "surface": "ורחמיו",
+      "gloss": "nezihau zakhe"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu kwa-"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yonke"
+    },
+    {
+      "surface": "מעשיו",
+      "gloss": "amisebenzi yakhe"
+    }
+  ],
+  "timestamp": "2026-09-18T15:33:31.930072445Z",
+  "model": "glm-5.3"
+}

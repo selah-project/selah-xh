@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 127:4",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 127,
+  "translation": "Njengemibe esandleni sommandla, kanjalo ngabantwana bobutsha.",
+  "tokens": [
+    {
+      "surface": "כחצים",
+      "gloss": "njengemibe"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "esandleni"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "sommandla"
+    },
+    {
+      "surface": "כן",
+      "gloss": "kanjalo"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abantwana"
+    },
+    {
+      "surface": "הנעורים",
+      "gloss": "bobutsha"
+    }
+  ],
+  "timestamp": "2026-09-18T15:28:31.099721434Z",
+  "model": "glm-5.3"
+}

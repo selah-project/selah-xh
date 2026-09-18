@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 5:8",
+  "book": "leviticus",
+  "lang": "xh",
+  "chapter": 5,
+  "translation": "wazisa zona ⟨את⟩ kumpristi; umpristi wamisa ⟨את⟩ oko kusesono kuqala, watyhoza ⟨את⟩ ikhanda lalo kwindawo yomqala waso, kangako ukuhlukanisa.",
+  "tokens": [
+    {
+      "surface": "והביא",
+      "gloss": "wazisa"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ zona",
+      "marks": "zona kumpristi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "umpristi"
+    },
+    {
+      "surface": "והקריב",
+      "gloss": "wamisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oko kusesono"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oko"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "kusesono"
+    },
+    {
+      "surface": "ראשונה",
+      "gloss": "kuqala"
+    },
+    {
+      "surface": "ומלק",
+      "gloss": "watyhoza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ikhanda lalo"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "ikhanda lalo"
+    },
+    {
+      "surface": "ממול",
+      "gloss": "kwindawo"
+    },
+    {
+      "surface": "ערפו",
+      "gloss": "yomqala waso"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kangako"
+    },
+    {
+      "surface": "יבדיל",
+      "gloss": "ukuhlukanisa"
+    }
+  ],
+  "timestamp": "2026-09-18T06:40:26.425389974Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 5:1",
+  "book": "1-samuel",
+  "lang": "xh",
+  "chapter": 5,
+  "translation": "AmaFilisthi athatha ⟨את⟩ isanduka sikaElohim, balisa esivela kwiEven-Ezer iya kwiAshdodi.",
+  "tokens": [
+    {
+      "surface": "ופלשתים",
+      "gloss": "AmaFilisthi"
+    },
+    {
+      "surface": "לקחו",
+      "gloss": "athatha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isanduka"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "isanduka"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "sikaElohim"
+    },
+    {
+      "surface": "ויבאהו",
+      "gloss": "balisa"
+    },
+    {
+      "surface": "מאבן",
+      "gloss": "esivela kwiEven-"
+    },
+    {
+      "surface": "העזר",
+      "gloss": "Ezer"
+    },
+    {
+      "surface": "אשדודה",
+      "gloss": "iya kwiAshdodi"
+    }
+  ],
+  "timestamp": "2026-09-18T09:18:54.683924092Z",
+  "model": "glm-5.3"
+}

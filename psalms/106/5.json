@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 106:5",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 106,
+  "translation": "Ukubona ilungelo labakhethiweyo bakho, ukuvuyisa ngovuyo lwesizwe sakho, ukuzidabisa kunye nolifa lwakho.",
+  "tokens": [
+    {
+      "surface": "לראות",
+      "gloss": "ukubona"
+    },
+    {
+      "surface": "בטובת",
+      "gloss": "ilungelo"
+    },
+    {
+      "surface": "בחיריך",
+      "gloss": "abakhethiweyo bakho"
+    },
+    {
+      "surface": "לשמח",
+      "gloss": "ukuvuyisa"
+    },
+    {
+      "surface": "בשמחת",
+      "gloss": "ngovuyo"
+    },
+    {
+      "surface": "גויך",
+      "gloss": "lwesizwe sakho"
+    },
+    {
+      "surface": "להתהלל",
+      "gloss": "ukuzidabisa"
+    },
+    {
+      "surface": "עם",
+      "gloss": "kunye"
+    },
+    {
+      "surface": "נחלתך",
+      "gloss": "nolifa lwakho"
+    }
+  ],
+  "timestamp": "2026-09-18T15:16:42.025497296Z",
+  "model": "glm-5.3"
+}

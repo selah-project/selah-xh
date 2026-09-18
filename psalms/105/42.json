@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 105:42",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 105,
+  "translation": "Kuba wakhumbula ⟨את⟩ izwi lakhe elingcwele, ⟨את⟩ u-Avraham inceku yakhe.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kuba"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "wakhumbula"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izwi lakhe elingcwele"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "izwi"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "lakhe elingcwele"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "u-Avraham inceku yakhe"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "u-Avraham"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "inceku yakhe"
+    }
+  ],
+  "timestamp": "2026-09-18T15:16:51.483212479Z",
+  "model": "glm-5.3"
+}

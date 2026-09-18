@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "joshua 1:6",
+  "book": "joshua",
+  "lang": "xh",
+  "chapter": 1,
+  "translation": "Qina, uze ube namandla, kuba wena uza kubangenela ilifa ⟨את⟩ abantu aba ⟨את⟩ umhlaba endifungisileyo kuoyise bawo ukubanika wona.",
+  "tokens": [
+    {
+      "surface": "חזק",
+      "gloss": "Qina"
+    },
+    {
+      "surface": "ואמץ",
+      "gloss": "uze ube namandla"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "תנחיל",
+      "gloss": "uza kubangenela ilifa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abantu aba"
+    },
+    {
+      "surface": "העם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "aba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umhlaba"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "umhlaba"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oko"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "endifungisileyo"
+    },
+    {
+      "surface": "לאבותם",
+      "gloss": "kuoyise bawo"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "ukunika"
+    },
+    {
+      "surface": "להם",
+      "gloss": "bona"
+    }
+  ],
+  "timestamp": "2026-09-18T08:31:01.522132603Z",
+  "model": "glm-5.3"
+}

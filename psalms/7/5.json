@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 7:5",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 7,
+  "translation": "Ukuba ndimbuyisela ububi lowo ebenguthethelele kum, okanye ndatshabalalisa isitha sam ngaphandle kwesizathu,",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ukuba"
+    },
+    {
+      "surface": "גמלתי",
+      "gloss": "ndimbuyisela"
+    },
+    {
+      "surface": "שולמי",
+      "gloss": "lowo ebenguthethelele kum"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ububi"
+    },
+    {
+      "surface": "ואחלצה",
+      "gloss": "ndatshabalalisa"
+    },
+    {
+      "surface": "צוררי",
+      "gloss": "isitha sam"
+    },
+    {
+      "surface": "ריקם",
+      "gloss": "ngaphandle kwesizathu"
+    }
+  ],
+  "timestamp": "2026-09-18T14:27:59.161986721Z",
+  "model": "glm-5.3"
+}

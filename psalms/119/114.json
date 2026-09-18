@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 114,
+  "ref": "psalms 119:114",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 119,
+  "translation": "Wena ungumkhomba wam nesikhanga sam; ilizwi lakho ndalindele.",
+  "tokens": [
+    {
+      "surface": "סתרי",
+      "gloss": "umkhomba wam"
+    },
+    {
+      "surface": "ומגני",
+      "gloss": "nesikhanga sam"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Wena"
+    },
+    {
+      "surface": "לדברך",
+      "gloss": "ilizwi lakho"
+    },
+    {
+      "surface": "יחלתי",
+      "gloss": "ndlalindele ndithemba"
+    }
+  ],
+  "timestamp": "2026-09-18T17:45:28.421115832Z",
+  "model": "glm-5.3"
+}

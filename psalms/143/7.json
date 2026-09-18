@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 143:7",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 143,
+  "translation": "Khawundiphendule ngoxesha, uYahwe, kuba umoya wam uyaphelela; musa ukufihla ubuso bakho kum, hleze ndifane nabahla emgodini.",
+  "tokens": [
+    {
+      "surface": "מהר",
+      "gloss": "khawulezo"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "ndiphendule"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "כלתה",
+      "gloss": "uyaphelela"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "umoya wam"
+    },
+    {
+      "surface": "אל",
+      "gloss": "musa"
+    },
+    {
+      "surface": "תסתר",
+      "gloss": "ukufihla"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ubuso bakho"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "kum"
+    },
+    {
+      "surface": "ונמשלתי",
+      "gloss": "hleze ndifane"
+    },
+    {
+      "surface": "עם",
+      "gloss": "naba-"
+    },
+    {
+      "surface": "ירדי",
+      "gloss": "abahlayo"
+    },
+    {
+      "surface": "בור",
+      "gloss": "emgodini"
+    }
+  ],
+  "timestamp": "2026-09-18T15:32:43.097593627Z",
+  "model": "glm-5.3"
+}

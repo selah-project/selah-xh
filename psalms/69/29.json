@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "psalms 69:29",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 69,
+  "translation": "Mababhetshwe kwincwadi yabaphilayo, mabangabhalwa kunanolungileyo.",
+  "tokens": [
+    {
+      "surface": "ימחו",
+      "gloss": "mababhetshwe"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "kwincwadi"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "yabaphilayo"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "kuna"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "nolungileyo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mabangabi"
+    },
+    {
+      "surface": "יכתבו",
+      "gloss": "bhabhalwa"
+    }
+  ],
+  "timestamp": "2026-09-18T14:58:50.755719940Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 22:23",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 22,
+  "translation": "Ndiza kubalisa igama lakho kubabalwa bam; phakathi kwedibana ndiza kukudumisa.",
+  "tokens": [
+    {
+      "surface": "אספרה",
+      "gloss": "Ndiza kubalisa"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "igama lakho"
+    },
+    {
+      "surface": "לאחי",
+      "gloss": "kubabalwa bam"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "phakathi"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "kwedibana"
+    },
+    {
+      "surface": "אהללך",
+      "gloss": "ndiza kukudumisa"
+    }
+  ],
+  "timestamp": "2026-09-18T14:33:50.946219725Z",
+  "model": "glm-5.3"
+}

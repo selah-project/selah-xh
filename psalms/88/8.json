@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 88:8",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 88,
+  "translation": "Ukrushwa lwakho ludabusele phezu kwam, yaye udange ndineegabazi zakho zonke. Selah.",
+  "tokens": [
+    {
+      "surface": "עלי",
+      "gloss": "phezu kwam"
+    },
+    {
+      "surface": "סמכה",
+      "gloss": "ludabusele"
+    },
+    {
+      "surface": "חמתך",
+      "gloss": "ukrushwa lwakho"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "zonke"
+    },
+    {
+      "surface": "משבריך",
+      "gloss": "neegabazi zakho"
+    },
+    {
+      "surface": "ענית",
+      "gloss": "udange ndi-"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-18T15:07:55.850842134Z",
+  "model": "glm-5.3"
+}

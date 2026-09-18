@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 55:5",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 55,
+  "translation": "Intliziyo yam iyadyudla ngaphakathi kum, kwaye amoyikiso okufa ayele phezu kwam.",
+  "tokens": [
+    {
+      "surface": "לבי",
+      "gloss": "intliziyo yam"
+    },
+    {
+      "surface": "יחיל",
+      "gloss": "iyadyudla"
+    },
+    {
+      "surface": "בקרבי",
+      "gloss": "ngaphakathi kum"
+    },
+    {
+      "surface": "ואימות",
+      "gloss": "kwaye amoyikiso"
+    },
+    {
+      "surface": "מות",
+      "gloss": "okufa"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "ayele"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "phezu kwam"
+    }
+  ],
+  "timestamp": "2026-09-18T14:49:53.067108636Z",
+  "model": "glm-5.3"
+}

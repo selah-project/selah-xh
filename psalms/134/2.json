@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 134:2",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 134,
+  "translation": "Phakamisani izandla zenu kwindawo engcwele, nibakhenkelse ⟨את⟩ uYahwe.",
+  "tokens": [
+    {
+      "surface": "שאו",
+      "gloss": "Phakamisani"
+    },
+    {
+      "surface": "ידכם",
+      "gloss": "izandla zenu"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "kwindawo engcwele"
+    },
+    {
+      "surface": "וברכו",
+      "gloss": "nibakhenkelse"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uYahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    }
+  ],
+  "timestamp": "2026-09-18T15:26:31.642970633Z",
+  "model": "glm-5.3"
+}

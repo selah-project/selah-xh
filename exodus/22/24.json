@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 22:24",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 22,
+  "translation": "Ukuba nitshala isilivere komunye wabantu bam — ⟨את⟩ ompofu okanye lowo ukunye phaya kwakho — ungasayi kumelana naye njengomtyaleli-mali; musa ukubeka phezu kwakhe inzala.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ukuba"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "isilivere"
+    },
+    {
+      "surface": "תלוה",
+      "gloss": "ukutshala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "komunye wabantu bam"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "abantu bam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ompofu"
+    },
+    {
+      "surface": "העני",
+      "gloss": "ompofu"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "phaya kwakho"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ungasayi"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ukumelana"
+    },
+    {
+      "surface": "לו",
+      "gloss": "naye"
+    },
+    {
+      "surface": "כנשה",
+      "gloss": "njengomtyaleli-mali"
+    },
+    {
+      "surface": "לא",
+      "gloss": "musa"
+    },
+    {
+      "surface": "תשימון",
+      "gloss": "ukubeka"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "phezu kwakhe"
+    },
+    {
+      "surface": "נשך",
+      "gloss": "inzala"
+    }
+  ],
+  "timestamp": "2026-09-18T06:08:45.612884208Z",
+  "model": "glm-5.3"
+}

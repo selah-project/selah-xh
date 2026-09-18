@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 18:17",
+  "book": "leviticus",
+  "lang": "xh",
+  "chapter": 18,
+  "translation": "Isenene somfazi nentombi yakhe awudobuli; ⟨את⟩ intombi yenkonyana yakhe neng ⟨את⟩ intombi yentombi yakhe awuthabathi ukudobula isenene sakhe; ngozingca zakhe yile; inkohlakalo ngokwayo yiloo nto.",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "isenene"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "womfazi"
+    },
+    {
+      "surface": "ובתה",
+      "gloss": "nentombi yakhe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "awu- (hayi)"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "udobuli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "intombi yenkonyana yakhe"
+    },
+    {
+      "surface": "בת",
+      "gloss": "intombi"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "yenkonyana yakhe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "neng ⟨את⟩",
+      "marks": "intombi yentombi yakhe"
+    },
+    {
+      "surface": "בת",
+      "gloss": "intombi"
+    },
+    {
+      "surface": "בתה",
+      "gloss": "yentombi yakhe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "awu- (hayi)"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "uthabathe"
+    },
+    {
+      "surface": "לגלות",
+      "gloss": "ukudobula"
+    },
+    {
+      "surface": "ערותה",
+      "gloss": "isenene sakhe"
+    },
+    {
+      "surface": "שארה",
+      "gloss": "ngozingca zakhe"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "zile"
+    },
+    {
+      "surface": "זמה",
+      "gloss": "inkohlakalo"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yiloo nto"
+    }
+  ],
+  "timestamp": "2026-09-18T06:54:00.480169744Z",
+  "model": "glm-5.3"
+}

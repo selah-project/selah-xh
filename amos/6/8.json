@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "amos 6:8",
+  "book": "amos",
+  "lang": "xh",
+  "chapter": 6,
+  "translation": "U-Adonayi uYahwe wafunga ngaphefumlo wakhe — utshilo uYahwe, uElohim waTsebhayoti: ubukhulu bukaYakobi ndiyabunyanyekela, iindonga zakhe ezinkulu ndiyazonda; ndiza kuzinikelela isixeko nangapheleleyo okuso.",
+  "tokens": [
+    {
+      "surface": "נשבע",
+      "gloss": "wafunga"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "u-Adonayi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "בנפשו",
+      "gloss": "ngaphefumlo wakhe"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "utshilo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "waTsebhayoti"
+    },
+    {
+      "surface": "מתאב",
+      "gloss": "ndiyabunyanyekela"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "mna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ubukhulu bukaYakobi"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "ubukhulu"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "bukaYakobi"
+    },
+    {
+      "surface": "וארמנתיו",
+      "gloss": "iindonga zakhe ezinkulu"
+    },
+    {
+      "surface": "שנאתי",
+      "gloss": "ndiyazonda"
+    },
+    {
+      "surface": "והסגרתי",
+      "gloss": "ndiza kuzinikelela"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "isixeko"
+    },
+    {
+      "surface": "ומלאה",
+      "gloss": "nangapheleleyo okuso"
+    }
+  ],
+  "timestamp": "2026-09-18T13:56:36.546914302Z",
+  "model": "glm-5.3"
+}

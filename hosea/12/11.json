@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "hosea 12:11",
+  "book": "hosea",
+  "lang": "xh",
+  "chapter": 12,
+  "translation": "Ndathetha ⟨ku⟩abaprofeti, kananjalo ndingu ⟨omnye⟩ othileyo — ndandinze iimbono, ngesandla sabaprofeti ndenzelwa imifanekiso.",
+  "tokens": [
+    {
+      "surface": "ודברתי",
+      "gloss": "Ndathetha"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "abaprofeti"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "kananjalo ndingu"
+    },
+    {
+      "surface": "חזון",
+      "gloss": "iimbono"
+    },
+    {
+      "surface": "הרביתי",
+      "gloss": "ndandinze"
+    },
+    {
+      "surface": "וביד",
+      "gloss": "ngesandla"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "sabaprofeti"
+    },
+    {
+      "surface": "אדמה",
+      "gloss": "ndenzelwa imifanekiso"
+    }
+  ],
+  "timestamp": "2026-09-18T13:47:21.554143913Z",
+  "model": "glm-5.3"
+}

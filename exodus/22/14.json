@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 22:14",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 22,
+  "translation": "Ukuba umniniyo unaye, akayi kubuyisa; ukuba yinto eqhathiweyo ngu-⟨omnye⟩, ifike ngenxa yerenti yayo.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ukuba"
+    },
+    {
+      "surface": "בעליו",
+      "gloss": "umniniyo"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "unaye"
+    },
+    {
+      "surface": "לא",
+      "gloss": "cha"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "uzobuyisa"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ukuba"
+    },
+    {
+      "surface": "שכיר",
+      "gloss": "eqhathiweyo"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ngu-"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ufike"
+    },
+    {
+      "surface": "בשכרו",
+      "gloss": "ngerenti yayo"
+    }
+  ],
+  "timestamp": "2026-09-18T06:08:59.542082716Z",
+  "model": "glm-5.3"
+}

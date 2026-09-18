@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 26:7",
+  "book": "leviticus",
+  "lang": "xh",
+  "chapter": 26,
+  "translation": "Niya kuzingela ⟨את⟩ oochasi benu, baza kuwa phambi kwenu ngenkemba.",
+  "tokens": [
+    {
+      "surface": "ורדפתם",
+      "gloss": "Niya kuzingela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oochasi benu"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "oochasi benu"
+    },
+    {
+      "surface": "ונפלו",
+      "gloss": "baza kuwa"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "phambi kwenu"
+    },
+    {
+      "surface": "לחרב",
+      "gloss": "ngenkemba"
+    }
+  ],
+  "timestamp": "2026-09-18T07:06:46.666818611Z",
+  "model": "glm-5.3"
+}

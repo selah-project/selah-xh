@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 65:11",
+  "book": "isaiah",
+  "lang": "xh",
+  "chapter": 65,
+  "translation": "Kodwa nina, nilahleyo uYahwe, nihlalelwayo intaba yam engcwele, nolungelela uGad itafile, nizalisa uMeni isixubo.",
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "Kodwa nina"
+    },
+    {
+      "surface": "עזבי",
+      "gloss": "nilahleyo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "השכחים",
+      "gloss": "nihlalelwayo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "intaba yam engcwele"
+    },
+    {
+      "surface": "הר",
+      "gloss": "intaba"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "yam engcwele"
+    },
+    {
+      "surface": "הערכים",
+      "gloss": "nolungelela"
+    },
+    {
+      "surface": "לגד",
+      "gloss": "uGad"
+    },
+    {
+      "surface": "שלחן",
+      "gloss": "itafile"
+    },
+    {
+      "surface": "והממלאים",
+      "gloss": "nizalisa"
+    },
+    {
+      "surface": "למני",
+      "gloss": "uMeni"
+    },
+    {
+      "surface": "ממסך",
+      "gloss": "isixubo"
+    }
+  ],
+  "timestamp": "2026-09-18T11:49:20.732854016Z",
+  "model": "glm-5.3"
+}

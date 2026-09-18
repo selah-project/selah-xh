@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-samuel 14:35",
+  "book": "1-samuel",
+  "lang": "xh",
+  "chapter": 14,
+  "translation": "Wakha uShawuli ialtare kuYahwe; ngayo ⟨את⟩ waqalisa ukwakha ialtare kuYahwe.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "wakha"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "uShawuli"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "ialtare"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kuYahwe"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ialtare (lo uShawuli awakha)"
+    },
+    {
+      "surface": "החל",
+      "gloss": "waqalisa"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "ukwakha"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "ialtare"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kuYahwe"
+    }
+  ],
+  "timestamp": "2026-09-18T17:28:41.990560673Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 9:17",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 9,
+  "translation": "Usaziphakamisa ngokuchasene nabantu bam, (ukoze) ungabashiyi baphume?",
+  "tokens": [
+    {
+      "surface": "עודך",
+      "gloss": "usasa"
+    },
+    {
+      "surface": "מסתולל",
+      "gloss": "ziphakamisa"
+    },
+    {
+      "surface": "בעמי",
+      "gloss": "ngokuchasene nabantu bam"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "ukoze ungabi"
+    },
+    {
+      "surface": "שלחם",
+      "gloss": "shiyi baphume"
+    }
+  ],
+  "timestamp": "2026-09-18T05:57:03.144626771Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 29:11",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 29,
+  "translation": "uYahwe unika isizwe sakhe amandla; uYahwe usikelela ⟨את⟩ isizwe sakhe ngokuthula.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "עז",
+      "gloss": "amandla"
+    },
+    {
+      "surface": "לעמו",
+      "gloss": "isizwe sakhe"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "unika"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "usikelela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isizwe sakhe"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "isizwe sakhe"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "ngokuthula"
+    }
+  ],
+  "timestamp": "2026-09-18T14:36:43.023967079Z",
+  "model": "glm-5.3"
+}

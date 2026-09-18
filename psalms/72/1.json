@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 72:1",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 72,
+  "translation": "Ka-uShelomo. uElohim, nika inkoso iigwebo zakho, nokulunga kwakho kunyana wenkosi.",
+  "tokens": [
+    {
+      "surface": "לשלמה",
+      "gloss": "Ka-uShelomo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "iigwebo zakho"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "inkosi"
+    },
+    {
+      "surface": "תן",
+      "gloss": "nika"
+    },
+    {
+      "surface": "וצדקתך",
+      "gloss": "nokulunga kwakho"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "kunyana"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "wenkosi"
+    }
+  ],
+  "timestamp": "2026-09-18T14:58:51.651281141Z",
+  "model": "glm-5.3"
+}

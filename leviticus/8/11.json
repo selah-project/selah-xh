@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 8:11",
+  "book": "leviticus",
+  "lang": "xh",
+  "chapter": 8,
+  "translation": "Watyintsha kwayo phezu kwesimaltari isixhenxe samaxesha, wathambisa ⟨את⟩ isimaltari no⟨את⟩ zonke izixhobo zayo, ⟨את⟩ nesitya sokuhlamba nesiseko sawo, ukuze azisuselekile.",
+  "tokens": [
+    {
+      "surface": "ויז",
+      "gloss": "watyintsha"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "kwayo"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu kwe-"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "isimaltari"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "isixhenxe"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "samaxesha"
+    },
+    {
+      "surface": "וימשח",
+      "gloss": "wathambisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isimaltari"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "isimaltari"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "zonke izixhobo zayo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zonke"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "izixhobo zayo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "isitya sokuhlamba"
+    },
+    {
+      "surface": "הכיר",
+      "gloss": "isitya sokuhlamba"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "isiseko sawo"
+    },
+    {
+      "surface": "כנו",
+      "gloss": "isiseko sawo"
+    },
+    {
+      "surface": "לקדשם",
+      "gloss": "ukuze azisuselekile"
+    }
+  ],
+  "timestamp": "2026-09-18T06:43:11.588040330Z",
+  "model": "glm-5.3"
+}

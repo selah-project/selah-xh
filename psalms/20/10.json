@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 20:10",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 20,
+  "translation": "uYahwe, sindisa inkosi; asiphendule ngosuku lokumnqula.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "הושיעה",
+      "gloss": "sindisa"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "inkosi"
+    },
+    {
+      "surface": "יעננו",
+      "gloss": "asiphendule"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ngosuku"
+    },
+    {
+      "surface": "קראנו",
+      "gloss": "lokumnqula"
+    }
+  ],
+  "timestamp": "2026-09-18T14:33:11.836287337Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 140:14",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 140,
+  "translation": "Kananjalo abalungileyo baya kudumisa iGama lakho; aboqotho baya kuhlala ⟨את⟩ phambi kobuso bakho.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Kananjalo"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "abalungileyo"
+    },
+    {
+      "surface": "יודו",
+      "gloss": "baya kudumisa"
+    },
+    {
+      "surface": "לשמך",
+      "gloss": "iGama lakho"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "baya kuhlala"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "aboqotho"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "phambi kobuso bakho"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ubuso bakho"
+    }
+  ],
+  "timestamp": "2026-09-18T15:29:50.021403227Z",
+  "model": "glm-5.3"
+}

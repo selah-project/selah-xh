@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 109:10",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 109,
+  "translation": "Kwaphothele abantwana bakhe ngaphandle, bambele, batye umbla kumonakalo wamakhaya abo.",
+  "tokens": [
+    {
+      "surface": "ונוע",
+      "gloss": "kwaphothele"
+    },
+    {
+      "surface": "ינועו",
+      "gloss": "bazelela ngaphandle"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "abantwana bakhe"
+    },
+    {
+      "surface": "ושאלו",
+      "gloss": "bambele"
+    },
+    {
+      "surface": "ודרשו",
+      "gloss": "bafune"
+    },
+    {
+      "surface": "מחרבותיהם",
+      "gloss": "kumonakalo wamakhaya abo"
+    }
+  ],
+  "timestamp": "2026-09-18T15:20:00.910725770Z",
+  "model": "glm-5.3"
+}

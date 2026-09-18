@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 130:7",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 130,
+  "translation": "Malinde uYisrayeli kuYahwe, kuba kuYahwe kukho ikhesedi, kwaye kuYe kukho inkululeko eninzi.",
+  "tokens": [
+    {
+      "surface": "יחל",
+      "gloss": "malinde"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "uYisrayeli"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ku"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "החסד",
+      "gloss": "kukho ikhesedi"
+    },
+    {
+      "surface": "והרבה",
+      "gloss": "kwaye ... eninzi"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "kuYe"
+    },
+    {
+      "surface": "פדות",
+      "gloss": "inkululeko"
+    }
+  ],
+  "timestamp": "2026-09-18T15:27:41.858360117Z",
+  "model": "glm-5.3"
+}

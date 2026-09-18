@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "zechariah 8:15",
+  "book": "zechariah",
+  "lang": "xh",
+  "chapter": 8,
+  "translation": "ngokunjalo ndibuyile, ndicinge kule mihla ukwenza okulungileyo ⟨את⟩ iYerushalayimi ⟨ואת⟩ nendlu kaYuda. Musa ukoyika.",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "ngokunjalo"
+    },
+    {
+      "surface": "שבתי",
+      "gloss": "ndibuyile"
+    },
+    {
+      "surface": "זממתי",
+      "gloss": "ndicinge"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "kule mihla"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "le"
+    },
+    {
+      "surface": "להיטיב",
+      "gloss": "ukwenza okulungileyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iYerushalayimi"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "iYerushalayimi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨ואת⟩",
+      "marks": "nendlu kaYuda"
+    },
+    {
+      "surface": "בית",
+      "gloss": "indlu"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "kaYuda"
+    },
+    {
+      "surface": "אל",
+      "gloss": "musa"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "ukoyika"
+    }
+  ],
+  "timestamp": "2026-09-18T14:20:26.941820786Z",
+  "model": "glm-5.3"
+}

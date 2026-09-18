@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 4:10",
+  "book": "genesis",
+  "lang": "xh",
+  "chapter": 4,
+  "translation": "Wathi ⟨yena⟩: “Wenzе ntoni? Iphimbo legazi lomnakwenu likhalela kum apha emhlabeni.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ntoni"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "wenzе"
+    },
+    {
+      "surface": "קול",
+      "gloss": "iphimbo"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "legazi"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "lomnakwenu"
+    },
+    {
+      "surface": "צעקים",
+      "gloss": "likhalela"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kum"
+    },
+    {
+      "surface": "מן",
+      "gloss": "apha"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "emhlabeni"
+    }
+  ],
+  "timestamp": "2026-09-18T05:07:37.189112040Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 20:7",
+  "book": "leviticus",
+  "lang": "xh",
+  "chapter": 20,
+  "translation": "Nihlale nicingcwenga, nibe ngabacingcwenga, kuba mna ndinguYahwe uElohim wenu.",
+  "tokens": [
+    {
+      "surface": "והתקדשתם",
+      "gloss": "nihlale nicingcwenga"
+    },
+    {
+      "surface": "והייתם",
+      "gloss": "nibe"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "ngabacingcwenga"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "uElohim wenu"
+    }
+  ],
+  "timestamp": "2026-09-18T06:58:32.066376388Z",
+  "model": "glm-5.3"
+}

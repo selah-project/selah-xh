@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 6:25",
+  "book": "proverbs",
+  "lang": "xh",
+  "chapter": 6,
+  "translation": "Ungabi ncam ithande ubuhle bayo entliziyweni yakho, kananjalo ungamvumi ukuba athabathe ngamaphuphu amehlo akhe.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ungi- (musu)"
+    },
+    {
+      "surface": "תחמד",
+      "gloss": "uthande"
+    },
+    {
+      "surface": "יפיה",
+      "gloss": "ubuhle bayo"
+    },
+    {
+      "surface": "בלבבך",
+      "gloss": "entliziyweni yakho"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "kananjalo ungi-"
+    },
+    {
+      "surface": "תקחך",
+      "gloss": "ungamvumi ukuba athabathe"
+    },
+    {
+      "surface": "בעפעפיה",
+      "gloss": "ngamaphuphu amehlo akhe"
+    }
+  ],
+  "timestamp": "2026-09-18T15:41:03.213059245Z",
+  "model": "glm-5.3"
+}

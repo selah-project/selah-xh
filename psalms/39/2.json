@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 39:2",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 39,
+  "translation": "Ndandithi: Ndiza kugcina iindlela zam, ukuze ndingoni ngeelwimi zam; ndiza kubamza umlomo wam ngesithinteli, xa ungcolileyo esekuthi phambi kwam.",
+  "tokens": [
+    {
+      "surface": "אמרתי",
+      "gloss": "Ndandithi"
+    },
+    {
+      "surface": "אשמרה",
+      "gloss": "Ndiza kugcina"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "iindlela zam"
+    },
+    {
+      "surface": "מחטוא",
+      "gloss": "ukuze ndingoni"
+    },
+    {
+      "surface": "בלשוני",
+      "gloss": "ngeelwimi zam"
+    },
+    {
+      "surface": "אשמרה",
+      "gloss": "ndiza kugcina"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "umlomo wam"
+    },
+    {
+      "surface": "מחסום",
+      "gloss": "ngesithinteli"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "xa"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ungcolileyo"
+    },
+    {
+      "surface": "לנגדי",
+      "gloss": "phambi kwam"
+    }
+  ],
+  "timestamp": "2026-09-18T14:44:30.226864643Z",
+  "model": "glm-5.3"
+}

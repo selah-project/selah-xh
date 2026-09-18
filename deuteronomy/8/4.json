@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 8:4",
+  "book": "deuteronomy",
+  "lang": "xh",
+  "chapter": 8,
+  "translation": "Isinxibo sakho asizange sidabuke kuwe, nenyawo yakho yona asizange satumba le minyaka imine enesine.",
+  "tokens": [
+    {
+      "surface": "שמלתך",
+      "gloss": "isinxibo sakho"
+    },
+    {
+      "surface": "לא",
+      "gloss": "asizange"
+    },
+    {
+      "surface": "בלתה",
+      "gloss": "sidabuke"
+    },
+    {
+      "surface": "מעליך",
+      "gloss": "kuwe"
+    },
+    {
+      "surface": "ורגלך",
+      "gloss": "nenyawo yakho"
+    },
+    {
+      "surface": "לא",
+      "gloss": "asizange"
+    },
+    {
+      "surface": "בצקה",
+      "gloss": "satumba"
+    },
+    {
+      "surface": "זה",
+      "gloss": "le"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "imine enesine"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "iminyaka"
+    }
+  ],
+  "timestamp": "2026-09-18T08:04:08.577397789Z",
+  "model": "glm-5.3"
+}

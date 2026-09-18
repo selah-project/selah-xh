@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 1:7",
+  "book": "leviticus",
+  "lang": "xh",
+  "chapter": 1,
+  "translation": "Abandana buka-Aharon, umbingeleli, bazibeke umlilo phezu kwesitude, bahlele iinkuni phezu komlilo.",
+  "tokens": [
+    {
+      "surface": "ונתנו",
+      "gloss": "bazibeke"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abandana"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "u-Aharon"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "umbingeleli"
+    },
+    {
+      "surface": "אש",
+      "gloss": "umlilo"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu ko-"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "isitude"
+    },
+    {
+      "surface": "וערכו",
+      "gloss": "bahlele"
+    },
+    {
+      "surface": "עצים",
+      "gloss": "iinkuni"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu ko-"
+    },
+    {
+      "surface": "האש",
+      "gloss": "komlilo"
+    }
+  ],
+  "timestamp": "2026-09-18T06:33:56.975338131Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 27:4",
+  "book": "1-samuel",
+  "lang": "xh",
+  "chapter": 27,
+  "translation": "Kwaziswa uShawuli ukuba ubalekile uDavide eGati, waza wangaphinda kabini ukumcinga.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "kwaziswa"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "uShawuli"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ukuba"
+    },
+    {
+      "surface": "ברח",
+      "gloss": "ubalekile"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "uDavide"
+    },
+    {
+      "surface": "גת",
+      "gloss": "eGati"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "waza akana"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "ukuphinda"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "kwakhona"
+    },
+    {
+      "surface": "לבקשו",
+      "gloss": "ukumcinga"
+    }
+  ],
+  "timestamp": "2026-09-18T09:40:48.978865099Z",
+  "model": "glm-5.3"
+}

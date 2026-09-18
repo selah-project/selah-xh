@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "genesis 10:29",
+  "book": "genesis",
+  "lang": "xh",
+  "chapter": 10,
+  "translation": "Nayo ⟨את⟩ iOphiri, nayo ⟨את⟩ iChavilah, nayo ⟨את⟩ iYobhabhi; bonke aba ngamadodana kaYokthani.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "iOphiri"
+    },
+    {
+      "surface": "אופר",
+      "gloss": "iOphiri"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "nayo ⟨את⟩",
+      "marks": "iChavilah"
+    },
+    {
+      "surface": "חוילה",
+      "gloss": "iChavilah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "nayo ⟨את⟩",
+      "marks": "iYobhabhi"
+    },
+    {
+      "surface": "יובב",
+      "gloss": "iYobhabhi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bonke"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "aba"
+    },
+    {
+      "surface": "בני",
+      "gloss": "amadodana"
+    },
+    {
+      "surface": "יקטן",
+      "gloss": "kaYokthani"
+    }
+  ],
+  "timestamp": "2026-09-18T05:11:47.211544383Z",
+  "model": "glm-5.3"
+}

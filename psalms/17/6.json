@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 17:6",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 17,
+  "translation": "Mna ndikubizile, kuba uya kundiphendula, u-El; thoba indlebe yakho kum, mamela amazwi am.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Mna"
+    },
+    {
+      "surface": "קראתיך",
+      "gloss": "ndikubizile"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "תענני",
+      "gloss": "uya kundiphendula"
+    },
+    {
+      "surface": "אל",
+      "gloss": "u-El"
+    },
+    {
+      "surface": "הט",
+      "gloss": "thoba"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "indlebe yakho"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kum"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "mamela"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "amazwi am"
+    }
+  ],
+  "timestamp": "2026-09-18T14:31:43.248229196Z",
+  "model": "glm-5.3"
+}

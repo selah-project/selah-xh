@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezekiel 33:20",
+  "book": "ezekiel",
+  "lang": "xh",
+  "chapter": 33,
+  "translation": "Kananjalo nina nithi: indlela ka-Adonayi ayilingananga. Ngesiqu ngamnye ngokweendlela zakhe ndiza kunigweba, nina ntlu kaSirayeli.",
+  "tokens": [
+    {
+      "surface": "ואמרתם",
+      "gloss": "nithi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hayi"
+    },
+    {
+      "surface": "יתכן",
+      "gloss": "ayilingananga"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "indlela"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ka-Adonayi"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ngesiqu ngamnye"
+    },
+    {
+      "surface": "כדרכיו",
+      "gloss": "ngokweendlela zakhe"
+    },
+    {
+      "surface": "אשפוט",
+      "gloss": "ndiza kunigweba"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "nina"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ntlu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "kaSirayeli"
+    }
+  ],
+  "timestamp": "2026-09-18T13:21:40.216701290Z",
+  "model": "glm-5.3"
+}

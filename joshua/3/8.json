@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "joshua 3:8",
+  "book": "joshua",
+  "lang": "xh",
+  "chapter": 3,
+  "translation": "Wena uza kuyala ⟨את⟩ abakhonzi abaphakamisayo isandi somnqophiso, uthi: “Xa nifikelela ekupheleni kwamanzi oMJordane, nimaQordane.”",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Wena"
+    },
+    {
+      "surface": "תצוה",
+      "gloss": "uza kuyala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abakhonzi"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "abakhonzi (iinkosi-priest)"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "abaphakamisayo"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "isandi"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "somnqophiso"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "uthi"
+    },
+    {
+      "surface": "כבאכם",
+      "gloss": "Xa nifikelela"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ku"
+    },
+    {
+      "surface": "קצה",
+      "gloss": "ekupheleni"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kwamanzi"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "oMJordane"
+    },
+    {
+      "surface": "בירדן",
+      "gloss": "maQordane (phakathi koMJordane)"
+    },
+    {
+      "surface": "תעמדו",
+      "gloss": "nimaQordane (nimile)"
+    }
+  ],
+  "timestamp": "2026-09-18T08:29:03.386988187Z",
+  "model": "glm-5.3"
+}

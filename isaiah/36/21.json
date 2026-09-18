@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 36:21",
+  "book": "isaiah",
+  "lang": "xh",
+  "chapter": 36,
+  "translation": "Bam thula, kwaye abaphendula ⟨אתו⟩ ndawo nenyani, kuba umyalelo wenkosi wayenguwulo, wuthi: “Musani ukumphendula.”",
+  "tokens": [
+    {
+      "surface": "ויחרישו",
+      "gloss": "bam thula"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kwaye abanga-"
+    },
+    {
+      "surface": "ענו",
+      "gloss": "phendula"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ndawo nenyani (ענו אתו דבר — bam phendula ndawo nenyani)"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ndawo nenyani"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "umyalelo"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "wenkosi"
+    },
+    {
+      "surface": "היא",
+      "gloss": "wayenguwulo"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "wuthi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "musani ukum-"
+    },
+    {
+      "surface": "תענהו",
+      "gloss": "phendula"
+    }
+  ],
+  "timestamp": "2026-09-18T11:25:31.952889518Z",
+  "model": "glm-5.3"
+}

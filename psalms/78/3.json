@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 78:3",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 78,
+  "translation": "Ezo siziva sona sazazi; ooBawo bethu bazibalisela thina.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "Ezo"
+    },
+    {
+      "surface": "שמענו",
+      "gloss": "siziva sona"
+    },
+    {
+      "surface": "ונדעם",
+      "gloss": "sazazi"
+    },
+    {
+      "surface": "ואבותינו",
+      "gloss": "ooBawo bethu"
+    },
+    {
+      "surface": "ספרו",
+      "gloss": "bazibalisela"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "thina"
+    }
+  ],
+  "timestamp": "2026-09-18T15:01:56.839629284Z",
+  "model": "glm-5.3"
+}

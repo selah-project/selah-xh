@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 2:12",
+  "book": "genesis",
+  "lang": "xh",
+  "chapter": 2,
+  "translation": "Igolide yaloo ndawo ilungile; kukho khona ibhedolakha netye leshohamu.",
+  "tokens": [
+    {
+      "surface": "וזהב",
+      "gloss": "igolide"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ndawo"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "yaloo"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ilungile"
+    },
+    {
+      "surface": "שם",
+      "gloss": "kukho khona"
+    },
+    {
+      "surface": "הבדלח",
+      "gloss": "ibhedolakha"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "netye"
+    },
+    {
+      "surface": "השהם",
+      "gloss": "leshohamu"
+    }
+  ],
+  "timestamp": "2026-09-18T05:07:23.014059807Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 96:13",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 96,
+  "translation": "Phambi koYahwe, kuba uyeza, kuba uyeza ukugweba ⟨את⟩ umhlaba; uzakugweba ⟨את⟩ ihlabathi ngobulungisa, neentlanga ngokuthembeka kwakhe.",
+  "tokens": [
+    {
+      "surface": "לפני",
+      "gloss": "Phambi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "koYahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "בא",
+      "gloss": "uyeza"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "בא",
+      "gloss": "uyeza"
+    },
+    {
+      "surface": "לשפט",
+      "gloss": "ukugweba"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "umhlaba"
+    },
+    {
+      "surface": "ישפט",
+      "gloss": "uzakugweba"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "ihlabathi"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "ngobulungisa"
+    },
+    {
+      "surface": "ועמים",
+      "gloss": "neentlanga"
+    },
+    {
+      "surface": "באמונתו",
+      "gloss": "ngokuthembeka kwakhe"
+    }
+  ],
+  "timestamp": "2026-09-18T15:09:18.324676484Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 86:15",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 86,
+  "translation": "Kodwa wena, u-Adonayi, ngu-El onenceba unomusa, ulolo thsileyo ulaka, unobuninzi bekhesedi nokuqinisekileyo.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "kodwa wena"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "u-Adonayi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ngu-El"
+    },
+    {
+      "surface": "רחום",
+      "gloss": "onenceba"
+    },
+    {
+      "surface": "וחנון",
+      "gloss": "unomusa"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "ulolo"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "thsileyo ulaka"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "unobuninzi"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "bekhesedi"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "nokuqinisekileyo"
+    }
+  ],
+  "timestamp": "2026-09-18T15:07:13.338187631Z",
+  "model": "glm-5.3"
+}

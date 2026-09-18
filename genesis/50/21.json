@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 50:21",
+  "book": "genesis",
+  "lang": "xh",
+  "chapter": 50,
+  "translation": "Kananjalo ngoku musani ukoyika; mna ndiza kunigcina ⟨את⟩ nina ⟨את⟩ nabantwana benu abancinane. Wabanika ⟨את⟩ uxolo wathetha ku-intliziyo yabo.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Kananjalo ngoku"
+    },
+    {
+      "surface": "אל",
+      "gloss": "musani"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "ukoyika"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "mna"
+    },
+    {
+      "surface": "אכלכל",
+      "gloss": "ndiza kunigcina"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ nina",
+      "marks": "nina"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ na-",
+      "marks": "abantwana benu abancinane"
+    },
+    {
+      "surface": "טפכם",
+      "gloss": "abantwana benu abancinane"
+    },
+    {
+      "surface": "וינחם",
+      "gloss": "wabanika uxolo"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ bona",
+      "marks": "bona"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "wathetha"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "intliziyo yabo"
+    }
+  ],
+  "timestamp": "2026-09-18T05:48:36.351472857Z",
+  "model": "glm-5.3"
+}

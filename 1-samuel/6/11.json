@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 6:11",
+  "book": "1-samuel",
+  "lang": "xh",
+  "chapter": 6,
+  "translation": "Babeka ⟨את⟩ isibokisi soYahwe kwisithuthi, kananjalo ⟨את⟩ isanduku, kananjalo ⟨את⟩ amagundwana egolide, kananjalo ⟨את⟩ imifanekiso yamavimba abo.",
+  "tokens": [
+    {
+      "surface": "וישמו",
+      "gloss": "babeka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isibokisi soYahwe"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "isibokisi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "soYahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwi-"
+    },
+    {
+      "surface": "העגלה",
+      "gloss": "sisithuthi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kananjalo ⟨את⟩",
+      "marks": "isanduku"
+    },
+    {
+      "surface": "הארגז",
+      "gloss": "isanduku"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kananjalo ⟨את⟩",
+      "marks": "amagundwana egolide"
+    },
+    {
+      "surface": "עכברי",
+      "gloss": "amagundwana"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "egolide"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kananjalo ⟨את⟩",
+      "marks": "imifanekiso yamavimba abo"
+    },
+    {
+      "surface": "צלמי",
+      "gloss": "imifanekiso"
+    },
+    {
+      "surface": "טחריהם",
+      "gloss": "yamavimba abo"
+    }
+  ],
+  "timestamp": "2026-09-18T09:17:29.363743432Z",
+  "model": "glm-5.3"
+}

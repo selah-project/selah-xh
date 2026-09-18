@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "leviticus 13:33",
+  "book": "leviticus",
+  "lang": "xh",
+  "chapter": 13,
+  "translation": "Waza wazingca, kodwa ⟨את⟩ isilonda akazange azinge; umpristi waza wawala ⟨את⟩ isilonda iintsuku ezisixhenxe okwesibini.",
+  "tokens": [
+    {
+      "surface": "והתגלח",
+      "gloss": "wazingca"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "isilonda"
+    },
+    {
+      "surface": "הנתק",
+      "gloss": "isilonda"
+    },
+    {
+      "surface": "לא",
+      "gloss": "akazange"
+    },
+    {
+      "surface": "יגלח",
+      "gloss": "azinge"
+    },
+    {
+      "surface": "והסגיר",
+      "gloss": "wawala"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "umpristi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isilonda"
+    },
+    {
+      "surface": "הנתק",
+      "gloss": "isilonda"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "ezisixhenxe"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "iintsuku"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "okwesibini"
+    }
+  ],
+  "timestamp": "2026-09-18T17:21:57.863421108Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 135:18",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 135,
+  "translation": "Njengazo ke ngokunjalo abazenzayo; bonke abathembelayo kuzo.",
+  "tokens": [
+    {
+      "surface": "כמוהם",
+      "gloss": "njengazo"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "ngokunjalo aba-"
+    },
+    {
+      "surface": "עשיהם",
+      "gloss": "-zenzayo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bonke"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ab"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "-thembelayo"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "kuzo"
+    }
+  ],
+  "timestamp": "2026-09-18T15:28:35.511755032Z",
+  "model": "glm-5.3"
+}

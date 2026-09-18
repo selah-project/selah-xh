@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 8:17",
+  "book": "deuteronomy",
+  "lang": "xh",
+  "chapter": 8,
+  "translation": "Kananjalo wenga uthi entliziyweni yakho: Amandla am ngokwam, namandla esandla sam, andenzela le nto ndinamleyo.",
+  "tokens": [
+    {
+      "surface": "ואמרת",
+      "gloss": "wenga uthi"
+    },
+    {
+      "surface": "בלבבך",
+      "gloss": "entliziyweni yakho"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "amandla am"
+    },
+    {
+      "surface": "ועצם",
+      "gloss": "namandla"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "esandla sam"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "andenzela"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ndinamleyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ubutyebi obu (החיל)"
+    },
+    {
+      "surface": "החיל",
+      "gloss": "ubutyebi obu"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "eli"
+    }
+  ],
+  "timestamp": "2026-09-18T08:03:35.723328203Z",
+  "model": "glm-5.3"
+}

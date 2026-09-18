@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 36:1",
+  "book": "2-chronicles",
+  "lang": "xh",
+  "chapter": 36,
+  "translation": "Abantu belizwe bathabatha ⟨את⟩ uYehoahazi unyana kaYoshiyahu, bamenza inkosi endaweni kayise eYerushalayimi.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "bathabatha"
+    },
+    {
+      "surface": "עם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "belizwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uYehoahazi"
+    },
+    {
+      "surface": "יהואחז",
+      "gloss": "uYehoahazi"
+    },
+    {
+      "surface": "בן",
+      "gloss": "unyana"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "kaYoshiyahu"
+    },
+    {
+      "surface": "וימליכהו",
+      "gloss": "bamenza inkosi"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "endaweni"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "kayise"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "eYerushalayimi"
+    }
+  ],
+  "timestamp": "2026-09-18T17:16:55.760908694Z",
+  "model": "glm-5.3"
+}

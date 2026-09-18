@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-kings 6:21",
+  "book": "2-kings",
+  "lang": "xh",
+  "chapter": 6,
+  "translation": "Wathetha inkosi yaseSirayeli ku-Elissha, xa ebona ⟨את⟩ bona: “Ndingababetha na, ndingababetha na, tata?”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wathetha"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "inkosi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "yaseSirayeli"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "u-Elissha"
+    },
+    {
+      "surface": "כראתו",
+      "gloss": "xa ebona"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "bona (amadodana azeArama)"
+    },
+    {
+      "surface": "האכה",
+      "gloss": "ndingababetha na"
+    },
+    {
+      "surface": "אכה",
+      "gloss": "ndingababetha na"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "tata"
+    }
+  ],
+  "timestamp": "2026-09-18T10:41:19.618808966Z",
+  "model": "glm-5.3"
+}

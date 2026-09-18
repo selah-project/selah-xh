@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 4:15",
+  "book": "ecclesiastes",
+  "lang": "xh",
+  "chapter": 4,
+  "translation": "Ndibonile ⟨את⟩ onke aphilayo ahamba ngaphantsi kwelanga, kunye nomntwana wesibini, oza kuma endaweni yakhe.",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "Ndibonile"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "onke aphilayo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "onke"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "aphilayo"
+    },
+    {
+      "surface": "המהלכים",
+      "gloss": "ahamba"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ngaphantsi"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "kwelanga"
+    },
+    {
+      "surface": "עם",
+      "gloss": "kunye"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "nomntwana"
+    },
+    {
+      "surface": "השני",
+      "gloss": "wesibini"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oza"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "kuma"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "endaweni yakhe"
+    }
+  ],
+  "timestamp": "2026-09-18T16:24:18.119063563Z",
+  "model": "glm-5.3"
+}

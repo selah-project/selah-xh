@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-samuel 17:30",
+  "book": "1-samuel",
+  "lang": "xh",
+  "chapter": 17,
+  "translation": "Wajika esuka kuye waya kumnye umntu owayejongene ⟨nomnye⟩, wathetha njengeli lixa lelizwi; abantu bamphendula ngephezulu njengokwelizwi lokuqala.",
+  "tokens": [
+    {
+      "surface": "ויסב",
+      "gloss": "Wajika"
+    },
+    {
+      "surface": "מאצלו",
+      "gloss": "esuka kuye"
+    },
+    {
+      "surface": "אל",
+      "gloss": "waya ku"
+    },
+    {
+      "surface": "מול",
+      "gloss": "ejongene"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "kumnye"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "wathetha"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "njengelizwi"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "eli"
+    },
+    {
+      "surface": "וישבהו",
+      "gloss": "bamphendula"
+    },
+    {
+      "surface": "העם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ngephezulu"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "njengokwelizwi"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "lokuqala"
+    }
+  ],
+  "timestamp": "2026-09-18T17:29:29.300264362Z",
+  "model": "glm-5.3"
+}

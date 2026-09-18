@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 4:8",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 4,
+  "translation": "Wuthathe uvuyo entliziyweni yam, ngaphezulu kwexesha umbona wabo newayini yabo besiqulunqile.",
+  "tokens": [
+    {
+      "surface": "נתתה",
+      "gloss": "Wuthathe"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "uvuyo"
+    },
+    {
+      "surface": "בלבי",
+      "gloss": "entliziyweni yam"
+    },
+    {
+      "surface": "מעת",
+      "gloss": "kwixesha"
+    },
+    {
+      "surface": "דגנם",
+      "gloss": "umbona wabo"
+    },
+    {
+      "surface": "ותירושם",
+      "gloss": "newayini yabo"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "besiqulunqile"
+    }
+  ],
+  "timestamp": "2026-09-18T14:26:32.034567210Z",
+  "model": "glm-5.3"
+}

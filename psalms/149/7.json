@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 149:7",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 149,
+  "translation": "Ukwenza ukuziphindelela ezizweni, nosohlwayo kumanyange.",
+  "tokens": [
+    {
+      "surface": "לעשות",
+      "gloss": "ukwenza"
+    },
+    {
+      "surface": "נקמה",
+      "gloss": "ukuziphindelela"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "ezizweni"
+    },
+    {
+      "surface": "תוכחת",
+      "gloss": "sohlwayo"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "אמים",
+      "gloss": "umanyange"
+    }
+  ],
+  "timestamp": "2026-09-18T15:34:24.724441740Z",
+  "model": "glm-5.3"
+}

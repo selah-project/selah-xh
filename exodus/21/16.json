@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 21:16",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 21,
+  "translation": "Lowo utywala umntu aze amthengise, ukuba afunyanwa esandleni sakhe, ufa ngokufa.",
+  "tokens": [
+    {
+      "surface": "וגנב",
+      "gloss": "Lowo utywala"
+    },
+    {
+      "surface": "איש",
+      "gloss": "umntu"
+    },
+    {
+      "surface": "ומכרו",
+      "gloss": "aze amthengise"
+    },
+    {
+      "surface": "ונמצא",
+      "gloss": "ukuba afunyanwa"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "esandleni sakhe"
+    },
+    {
+      "surface": "מות",
+      "gloss": "ngokufa"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "ufa"
+    }
+  ],
+  "timestamp": "2026-09-18T06:08:27.813377982Z",
+  "model": "glm-5.3"
+}

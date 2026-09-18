@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 13:16",
+  "book": "leviticus",
+  "lang": "xh",
+  "chapter": 13,
+  "translation": "Okanye ukuba inyama ephilileyo ibuyela, itshintshe ibe mhlophe, aze afike kumprofethi.",
+  "tokens": [
+    {
+      "surface": "או",
+      "gloss": "okanye"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ukuba"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "ibuyela"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "inyama"
+    },
+    {
+      "surface": "החי",
+      "gloss": "ephilileyo"
+    },
+    {
+      "surface": "ונהפך",
+      "gloss": "itshintshe"
+    },
+    {
+      "surface": "ללבן",
+      "gloss": "ibe mhlophe"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "aze afike"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "umprofethi"
+    }
+  ],
+  "timestamp": "2026-09-18T06:47:03.363010137Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 7:6",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 7,
+  "translation": "UMoshe no-Aharon benza njengoko uYahwe wabayalela ⟨את⟩; njalo babenze.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "benza"
+    },
+    {
+      "surface": "משה",
+      "gloss": "uMoshe"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "no-Aharon"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "njengoko"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "wabayalela"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "uMoshe no-Aharon"
+    },
+    {
+      "surface": "כן",
+      "gloss": "njalo"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "babenze"
+    }
+  ],
+  "timestamp": "2026-09-18T05:51:32.534393217Z",
+  "model": "glm-5.3"
+}

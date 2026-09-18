@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-samuel 13:21",
+  "book": "2-samuel",
+  "lang": "xh",
+  "chapter": 13,
+  "translation": "WKumkani uDavide wava ⟨את⟩ zonke iindaba ezize, wayesimthela kakhulu.",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "iKumkani"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "uDavide"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "wava"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zonke iindaba ezize"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zonke"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "iindaba"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ezize"
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "wayesimthela"
+    },
+    {
+      "surface": "לו",
+      "gloss": "uye"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "kakhulu"
+    }
+  ],
+  "timestamp": "2026-09-18T17:30:10.192119668Z",
+  "model": "glm-5.3"
+}

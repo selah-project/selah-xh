@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 19:8",
+  "book": "leviticus",
+  "lang": "xh",
+  "chapter": 19,
+  "translation": "Lowo udidayo uza kuthwala isohlwayo sakhe, kuba wayencebula ⟨את⟩ into engcwele kaYahwe; kwaye loo mphefumlo uyakuchithwa phakathi kwabantu bakhe.",
+  "tokens": [
+    {
+      "surface": "ואכליו",
+      "gloss": "Lowo udidayo"
+    },
+    {
+      "surface": "עונו",
+      "gloss": "isohlwayo sakhe"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "uza kuthwala"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "into engcwele kaYahwe"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "into engcwele"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kaYahwe"
+    },
+    {
+      "surface": "חלל",
+      "gloss": "wayencebula"
+    },
+    {
+      "surface": "ונכרתה",
+      "gloss": "uyakuchithwa"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "loo mphefumlo"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "loo"
+    },
+    {
+      "surface": "מעמיה",
+      "gloss": "phakathi kwabantu bakhe"
+    }
+  ],
+  "timestamp": "2026-09-18T06:55:06.715858548Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 82:5",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 82,
+  "translation": "Hayi abazi, kwaye abaqondi; kubumnyama bakhwelisa; zonke iisiseko zomhlaba ziyanyikima.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "hayi"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "abazi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kwaye"
+    },
+    {
+      "surface": "יבינו",
+      "gloss": "abaqondi"
+    },
+    {
+      "surface": "בחשכה",
+      "gloss": "kubumnyama"
+    },
+    {
+      "surface": "יתהלכו",
+      "gloss": "bakhwelisa"
+    },
+    {
+      "surface": "ימוטו",
+      "gloss": "ziyanyikima"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zonke"
+    },
+    {
+      "surface": "מוסדי",
+      "gloss": "iisiseko"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "zomhlaba"
+    }
+  ],
+  "timestamp": "2026-09-18T15:04:15.372895504Z",
+  "model": "glm-5.3"
+}

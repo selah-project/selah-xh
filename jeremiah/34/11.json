@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 34:11",
+  "book": "jeremiah",
+  "lang": "xh",
+  "chapter": 34,
+  "translation": "Kodwa emva kwako oko baphendula, baza babuyisela ⟨את⟩ iinkcaka ne-⟨את⟩ iincwadakazi abazikhululileyo ngamakhululelo, baza bazibamba ngenzondlo zibe ziinkcaka neencwadakazi.",
+  "tokens": [
+    {
+      "surface": "וישובו",
+      "gloss": "baphendula"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "emva kwa-"
+    },
+    {
+      "surface": "כן",
+      "gloss": "oko"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "baza babuyisela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iinkcaka"
+    },
+    {
+      "surface": "העבדים",
+      "gloss": "iinkcaka"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "iincwadakazi"
+    },
+    {
+      "surface": "השפחות",
+      "gloss": "iincwadakazi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aba-"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "zikhululileyo"
+    },
+    {
+      "surface": "חפשים",
+      "gloss": "ngamakhululelo"
+    },
+    {
+      "surface": "ויכבישום",
+      "gloss": "baza bazibamba ngenzondlo"
+    },
+    {
+      "surface": "לעבדים",
+      "gloss": "zibe ziinkcaka"
+    },
+    {
+      "surface": "ולשפחות",
+      "gloss": "neencwadakazi"
+    }
+  ],
+  "timestamp": "2026-09-18T12:24:56.014697690Z",
+  "model": "glm-5.3"
+}

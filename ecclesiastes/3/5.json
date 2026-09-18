@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 3:5",
+  "book": "ecclesiastes",
+  "lang": "xh",
+  "chapter": 3,
+  "translation": "Ixesha lokutshoza iilwesi, nexesha lokuzimanya iilwesi; ixesha lokwamkela ngokomzimba, nexesha lokumela kude nokwamkela ngokomzimba.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "ixesha"
+    },
+    {
+      "surface": "להשליך",
+      "gloss": "lokutshoza"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "iilwesi"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "nexesha"
+    },
+    {
+      "surface": "כנוס",
+      "gloss": "lokuzimanya"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "iilwesi"
+    },
+    {
+      "surface": "עת",
+      "gloss": "ixesha"
+    },
+    {
+      "surface": "לחבוק",
+      "gloss": "lokwamkela ngokomzimba"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "nexesha"
+    },
+    {
+      "surface": "לרחק",
+      "gloss": "lokumela kude"
+    },
+    {
+      "surface": "מחבק",
+      "gloss": "nokwamkela ngokomzimba"
+    }
+  ],
+  "timestamp": "2026-09-18T16:23:29.706075868Z",
+  "model": "glm-5.3"
+}

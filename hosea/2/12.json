@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "hosea 2:12",
+  "book": "hosea",
+  "lang": "xh",
+  "chapter": 2,
+  "translation": "Kananjalo ngoku ndiza kudibula ⟨את⟩ ubugenxe bakhe phambi kwamehlo abathandayo abakhe, yaye akukho mntu uza kumsindisa esandleni sam.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "kananjalo ngoku"
+    },
+    {
+      "surface": "אגלה",
+      "gloss": "ndiza kudibula"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ubugenxe bakhe"
+    },
+    {
+      "surface": "נבלתה",
+      "gloss": "ubugenxe bakhe"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "phambi kwamehlo"
+    },
+    {
+      "surface": "מאהביה",
+      "gloss": "abathandayo abakhe"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "yaye akukho mntu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hayi (akukho)"
+    },
+    {
+      "surface": "יצילנה",
+      "gloss": "uza kumsindisa"
+    },
+    {
+      "surface": "מידי",
+      "gloss": "esandleni sam"
+    }
+  ],
+  "timestamp": "2026-09-18T17:41:02.535914016Z",
+  "model": "glm-5.3"
+}

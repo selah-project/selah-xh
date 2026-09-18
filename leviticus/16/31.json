@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "leviticus 16:31",
+  "book": "leviticus",
+  "lang": "xh",
+  "chapter": 16,
+  "translation": "ISabhatha yokuphumla ngulona kunina, nize nicinezele ⟨את⟩ iinefeshi zenu — imithetho yaphakade.",
+  "tokens": [
+    {
+      "surface": "שבת",
+      "gloss": "ISabhatha"
+    },
+    {
+      "surface": "שבתון",
+      "gloss": "yokuphumla"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ngulona"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kunina"
+    },
+    {
+      "surface": "ועניתם",
+      "gloss": "nize nicinezele"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iinefeshi zenu"
+    },
+    {
+      "surface": "נפשתיכם",
+      "gloss": "iinefeshi zenu"
+    },
+    {
+      "surface": "חקת",
+      "gloss": "imithetho"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "yaphakade"
+    }
+  ],
+  "timestamp": "2026-09-18T06:56:18.243808690Z",
+  "model": "glm-5.3"
+}

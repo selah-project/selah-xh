@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 11:6",
+  "book": "ecclesiastes",
+  "lang": "xh",
+  "chapter": 11,
+  "translation": "Ekuseni tyala ⟨את⟩ imbewu yakho, kwaye ngokuhlwa ungaphumli isandla lakho, kuba awusiyo ukwazi ukuba yiphi eya kuphumelela, le na okanye le na, nokuba zombini njengesinye ziphumelele.",
+  "tokens": [
+    {
+      "surface": "בבקר",
+      "gloss": "ekuseni"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "tyala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "imbewu yakho"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "imbewu yakho"
+    },
+    {
+      "surface": "ולערב",
+      "gloss": "kwaye ngokuhlwa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "musʼ (ungaphumli)"
+    },
+    {
+      "surface": "תנח",
+      "gloss": "ungaphumli"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "isandla lakho"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "אינך",
+      "gloss": "awusiyo"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "ukwazi"
+    },
+    {
+      "surface": "אי",
+      "gloss": "aphi"
+    },
+    {
+      "surface": "זה",
+      "gloss": "yiphi"
+    },
+    {
+      "surface": "יכשר",
+      "gloss": "eya kuphumelela"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "le na"
+    },
+    {
+      "surface": "או",
+      "gloss": "okanye"
+    },
+    {
+      "surface": "זה",
+      "gloss": "le na"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "nokuba"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "zombini"
+    },
+    {
+      "surface": "כאחד",
+      "gloss": "njengesinye"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "ziphumelele"
+    }
+  ],
+  "timestamp": "2026-09-18T16:26:57.621606612Z",
+  "model": "glm-5.3"
+}

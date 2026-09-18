@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "hosea 8:6",
+  "book": "hosea",
+  "lang": "xh",
+  "chapter": 8,
+  "translation": "Kuba oku ⟨kusuka⟩ kuSirayeli: umenzi wezandla uzenzile, yaye akango-Elohim yena; kuba iya kwenziwa ngamaqhezu indinyana yeShomron.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "kusuka kuSirayeli"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "yaye yena"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "umenzi wezandla"
+    },
+    {
+      "surface": "עשהו",
+      "gloss": "uzenzile"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "yaye akanga-"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ngo-Elohim"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yena"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "שבבים",
+      "gloss": "ngamaqhezu"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "iya kwenziwa"
+    },
+    {
+      "surface": "עגל",
+      "gloss": "indinyana"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "iShomron"
+    }
+  ],
+  "timestamp": "2026-09-18T13:48:48.493389769Z",
+  "model": "glm-5.3"
+}

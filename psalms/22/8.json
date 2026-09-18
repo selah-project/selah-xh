@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 22:8",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 22,
+  "translation": "Bonke abandibonayo bendihleka; bafudumeza umlomo, behambisa intloko,",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "bonke"
+    },
+    {
+      "surface": "ראי",
+      "gloss": "abandibonayo"
+    },
+    {
+      "surface": "ילעגו",
+      "gloss": "bendihleka"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ndi-"
+    },
+    {
+      "surface": "יפטירו",
+      "gloss": "bafudumeza"
+    },
+    {
+      "surface": "בשפה",
+      "gloss": "umlomo"
+    },
+    {
+      "surface": "יניעו",
+      "gloss": "behambisa"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "intloko"
+    }
+  ],
+  "timestamp": "2026-09-18T14:33:12.153582450Z",
+  "model": "glm-5.3"
+}

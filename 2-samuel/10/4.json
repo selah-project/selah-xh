@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-samuel 10:4",
+  "book": "2-samuel",
+  "lang": "xh",
+  "chapter": 10,
+  "translation": "Wathabatha uHanuni ⟨את⟩ oonkonzi bakaDawidi, waze wacula ⟨את⟩ isiqingatha seendevu zabo, wasika ⟨את⟩ impahla yabo esiqingatheni, kude kufikelele kwiintlamvu zabo, waza wabathumela.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "wathabatha"
+    },
+    {
+      "surface": "חנון",
+      "gloss": "uHanuni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oonkonzi bakaDawidi"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "oonkonzi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "bakaDawidi"
+    },
+    {
+      "surface": "ויגלח",
+      "gloss": "waze wacula"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isiqingatha seendevu zabo"
+    },
+    {
+      "surface": "חצי",
+      "gloss": "isiqingatha"
+    },
+    {
+      "surface": "זקנם",
+      "gloss": "seendevu zabo"
+    },
+    {
+      "surface": "ויכרת",
+      "gloss": "wasika"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "impahla yabo"
+    },
+    {
+      "surface": "מדויהם",
+      "gloss": "impahla yabo"
+    },
+    {
+      "surface": "בחצי",
+      "gloss": "esiqingatheni"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kude kufikelele"
+    },
+    {
+      "surface": "שתותיהם",
+      "gloss": "kwiintlamvu zabo"
+    },
+    {
+      "surface": "וישלחם",
+      "gloss": "waza wabathumela"
+    }
+  ],
+  "timestamp": "2026-09-18T17:29:41.334464286Z",
+  "model": "glm-5.3"
+}

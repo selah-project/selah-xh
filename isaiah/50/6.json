@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 50:6",
+  "book": "isaiah",
+  "lang": "xh",
+  "chapter": 50,
+  "translation": "Umhlana wam ndawunikelela kwababethi, imilebe yam kwabatshabi; ubuso bam ababuzifihli iintlonzo nakutshiza.",
+  "tokens": [
+    {
+      "surface": "גוי",
+      "gloss": "umhlana"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "ndawunikelela"
+    },
+    {
+      "surface": "למכים",
+      "gloss": "kwababethi"
+    },
+    {
+      "surface": "ולחיי",
+      "gloss": "imilebe yam"
+    },
+    {
+      "surface": "למרטים",
+      "gloss": "kwabatshabi"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ubuso bam"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hayi"
+    },
+    {
+      "surface": "הסתרתי",
+      "gloss": "ababuzifihli"
+    },
+    {
+      "surface": "מכלמות",
+      "gloss": "iintlonzo"
+    },
+    {
+      "surface": "ורק",
+      "gloss": "nakutshiza"
+    }
+  ],
+  "timestamp": "2026-09-18T11:42:09.132242530Z",
+  "model": "glm-5.3"
+}

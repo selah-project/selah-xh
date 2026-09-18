@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-kings 13:9",
+  "book": "1-kings",
+  "lang": "xh",
+  "chapter": 13,
+  "translation": "Kuba ngokunjalo ⟨את⟩ wandiselele ngoYahwe ngelizwi, wathi: “Ungatyi ingqolowa, ungaseli amanzi, ungabuyi ngendlela oyihambileyo.”",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ngokunjalo"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "wandiselele"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "mna"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "ngelizwi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ungatyi"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "ukutya"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ingqolowa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kananjalo ungaseli"
+    },
+    {
+      "surface": "תשתה",
+      "gloss": "ukusela"
+    },
+    {
+      "surface": "מים",
+      "gloss": "amanzi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kananjalo ungabuyi"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "ukubuyela"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "ngendlela"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ayeyi-"
+    },
+    {
+      "surface": "הלכת",
+      "gloss": "oyihambileyo"
+    }
+  ],
+  "timestamp": "2026-09-18T10:24:17.412686602Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 19:5",
+  "book": "2-samuel",
+  "lang": "xh",
+  "chapter": 19,
+  "translation": "Inkosi yafihla ⟨את⟩ ubuso bayo, inkosi yakhala ngelizwi elikhuliweyo: Unyana wam, u-Avishalomi! U-Avishalomi, unyana wam, unyana wam!",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "inkosi yafihla"
+    },
+    {
+      "surface": "לאט",
+      "gloss": "ngokuthe ncinci"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ubuso bayo"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "ubuso bayo"
+    },
+    {
+      "surface": "ויזעק",
+      "gloss": "yakhala"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "inkosi"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ngelizwi"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "elikhuliweyo"
+    },
+    {
+      "surface": "בני",
+      "gloss": "unyana wam"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "u-Avishalomi"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "u-Avishalomi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "unyana wam"
+    },
+    {
+      "surface": "בני",
+      "gloss": "unyana wam"
+    }
+  ],
+  "timestamp": "2026-09-18T17:30:15.092151235Z",
+  "model": "glm-5.3"
+}

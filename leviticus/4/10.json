@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 4:10",
+  "book": "leviticus",
+  "lang": "xh",
+  "chapter": 4,
+  "translation": "Njengoko kususwa kwinkebe yomnikelo wezibavikisho zoxolo, umpristi uza kubatshisa phezu kwetyhilela lomnikelo wokutshiswa.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "njengoko"
+    },
+    {
+      "surface": "יורם",
+      "gloss": "kususwa"
+    },
+    {
+      "surface": "משור",
+      "gloss": "kwinkebe"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "womnikelo"
+    },
+    {
+      "surface": "השלמים",
+      "gloss": "wezibavikisho zoxolo"
+    },
+    {
+      "surface": "והקטירם",
+      "gloss": "uza kubatshisa"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "umpristi"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "kwetyhilela"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "lomnikelo wokutshiswa"
+    }
+  ],
+  "timestamp": "2026-09-18T06:37:51.544856852Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 81:13",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 81,
+  "translation": "Ndabashiyela ekuzimiseni kweenhliziyo zabo, baza bahamba kwiimbono zabo.",
+  "tokens": [
+    {
+      "surface": "ואשלחהו",
+      "gloss": "ndabashiyela"
+    },
+    {
+      "surface": "בשרירות",
+      "gloss": "ekuzimiseni"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "kweenhliziyo zabo"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "baza bahamba"
+    },
+    {
+      "surface": "במועצותיהם",
+      "gloss": "kwiimbono zabo"
+    }
+  ],
+  "timestamp": "2026-09-18T15:04:43.768739559Z",
+  "model": "glm-5.3"
+}

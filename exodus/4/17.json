@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 4:17",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 4,
+  "translation": "Kwaye ⟨את⟩ le nduku uyakuthabatha ngesandla sakho, oyakwenza ngayo ⟨את⟩ iimpawu.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "le nduku"
+    },
+    {
+      "surface": "המטה",
+      "gloss": "le nduku"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "le"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "uyakuthabatha"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "ngesandla sakho"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyaku-"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "wenza"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ngayo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iimpawu"
+    },
+    {
+      "surface": "האתת",
+      "gloss": "iimpawu"
+    }
+  ],
+  "timestamp": "2026-09-18T05:51:35.962840192Z",
+  "model": "glm-5.3"
+}

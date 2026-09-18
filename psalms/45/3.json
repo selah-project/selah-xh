@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 45:3",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 45,
+  "translation": "Wena uhle kuneenyana zomntu; umusa wathonyelwa emileveni yakho; ngoko uElohim usikelele kuixesha elingunaphakade.",
+  "tokens": [
+    {
+      "surface": "יפיפית",
+      "gloss": "uhle"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "kuneenyana za"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "umntu"
+    },
+    {
+      "surface": "הוצק",
+      "gloss": "wathonyelwa"
+    },
+    {
+      "surface": "חן",
+      "gloss": "umusa"
+    },
+    {
+      "surface": "בשפתותיך",
+      "gloss": "emileveni yakho"
+    },
+    {
+      "surface": "על",
+      "gloss": "ngoko"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ke"
+    },
+    {
+      "surface": "ברכך",
+      "gloss": "usikelele wena"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "kuixesha elingunaphakade"
+    }
+  ],
+  "timestamp": "2026-09-18T14:48:13.003141880Z",
+  "model": "glm-5.3"
+}

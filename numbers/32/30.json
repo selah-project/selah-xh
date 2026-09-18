@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 32:30",
+  "book": "numbers",
+  "lang": "xh",
+  "chapter": 32,
+  "translation": "Kodwa ukuba banga badluli ngokubalwela-lwelo ⟨את⟩ nani, baza kubanjelwa isabelo phakathi kwenu emhlabeni weKenani.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "kodwa ukuba"
+    },
+    {
+      "surface": "לא",
+      "gloss": "banga (hayi)"
+    },
+    {
+      "surface": "יעברו",
+      "gloss": "badluli"
+    },
+    {
+      "surface": "חלוצים",
+      "gloss": "ngokubalwela-lwelo"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ nani",
+      "marks": "nani"
+    },
+    {
+      "surface": "ונאחזו",
+      "gloss": "baza kubanjelwa isabelo"
+    },
+    {
+      "surface": "בתככם",
+      "gloss": "phakathi kwenu"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "emhlabeni"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "weKenani"
+    }
+  ],
+  "timestamp": "2026-09-18T07:46:42.746345721Z",
+  "model": "glm-5.3"
+}

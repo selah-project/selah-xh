@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 147:3",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 147,
+  "translation": "Uyaphilisa abenhliziyo ezeyiwayo, ayabophakalisa izilonda zabo.",
+  "tokens": [
+    {
+      "surface": "הרפא",
+      "gloss": "uyaphilisa"
+    },
+    {
+      "surface": "לשבורי",
+      "gloss": "abenhliziyo ezeyiwayo"
+    },
+    {
+      "surface": "לב",
+      "gloss": "enhliziyo"
+    },
+    {
+      "surface": "ומחבש",
+      "gloss": "ayabophakalisa"
+    },
+    {
+      "surface": "לעצבותם",
+      "gloss": "izilonda zabo"
+    }
+  ],
+  "timestamp": "2026-09-18T15:34:37.895684597Z",
+  "model": "glm-5.3"
+}

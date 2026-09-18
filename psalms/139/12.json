@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 139:12",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 139,
+  "translation": "Kodwa ubumnyama abunamthunzi kuwe, ubusuku bukhanya njengosuku; ubumnyama njengokukhanya kuwe.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "kodwa"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "ubumnyama"
+    },
+    {
+      "surface": "לא",
+      "gloss": "abunamthunzi (hayi)"
+    },
+    {
+      "surface": "יחשיך",
+      "gloss": "abunamthunzi"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "kuwe"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "ubusuku"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "njengosuku"
+    },
+    {
+      "surface": "יאיר",
+      "gloss": "bukhanya"
+    },
+    {
+      "surface": "כחשיכה",
+      "gloss": "ubumnyama"
+    },
+    {
+      "surface": "כאורה",
+      "gloss": "njengokukhanya"
+    }
+  ],
+  "timestamp": "2026-09-18T15:30:39.216072362Z",
+  "model": "glm-5.3"
+}

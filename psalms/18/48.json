@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "psalms 18:48",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 18,
+  "translation": "u-El onikela iziphindzelo ezim, uYahwe ongase ezibizela ngaphantsi kwam; lowana wadibana",
+  "tokens": [
+    {
+      "surface": "האל",
+      "gloss": "u-El"
+    },
+    {
+      "surface": "הנותן",
+      "gloss": "oninikela"
+    },
+    {
+      "surface": "נקמות",
+      "gloss": "iziphindzelo ezim"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kum"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "wadabisa"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "iilwandle zabelo"
+    },
+    {
+      "surface": "תחתי",
+      "gloss": "ngaphantsi kwam"
+    }
+  ],
+  "timestamp": "2026-09-18T17:42:41.100051516Z",
+  "model": "glm-5.3"
+}

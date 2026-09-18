@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 7:5",
+  "book": "leviticus",
+  "lang": "xh",
+  "chapter": 7,
+  "translation": "Kwaye umfundisi uzakutshisa ⟨את⟩ azo kwi-altare, njengomnikelo lomlilo kuYahwe; umnikelo wobutyi nguwo.",
+  "tokens": [
+    {
+      "surface": "והקטיר",
+      "gloss": "uzakutshisa"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "azo (iindidi ezitshiwayo)"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "umfundisi"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "kwi-altare"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "njengomnikelo lomlilo"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kuYahwe"
+    },
+    {
+      "surface": "אשם",
+      "gloss": "umnikelo wobutyi"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "nguwo"
+    }
+  ],
+  "timestamp": "2026-09-18T06:35:57.874130626Z",
+  "model": "glm-5.3"
+}

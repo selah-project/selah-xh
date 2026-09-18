@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 23:12",
+  "book": "numbers",
+  "lang": "xh",
+  "chapter": 23,
+  "translation": "Waphendula wathi: “Ingaba ⟨את⟩ oko uYahwe abekayo emlonyeni wam — ⟨את⟩ oko ndiyakugcina ukukuthetha?”",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "waphendula"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "ingaba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oko uYahwe abekayo emlonyeni wam"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oko"
+    },
+    {
+      "surface": "ישים",
+      "gloss": "abeka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "emlonyeni wam"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "oko ndiyakugcina"
+    },
+    {
+      "surface": "אשמר",
+      "gloss": "ndiyakugcina"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "ukukuthetha"
+    }
+  ],
+  "timestamp": "2026-09-18T07:36:26.929063125Z",
+  "model": "glm-5.3"
+}

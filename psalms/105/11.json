@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 105:11",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 105,
+  "translation": "Ethi: “Kuwe ndiza kunika ⟨את⟩ umhlaba weKhanana, icandelo lefalakho elinin.”",
+  "tokens": [
+    {
+      "surface": "לאמר",
+      "gloss": "ethi"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Kuwe"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "ndiza kunika"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umhlaba weKhanana"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "umhlaba"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "iKhanana"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "icandelo"
+    },
+    {
+      "surface": "נחלתכם",
+      "gloss": "lefalakho elinin"
+    }
+  ],
+  "timestamp": "2026-09-18T15:16:08.488701147Z",
+  "model": "glm-5.3"
+}

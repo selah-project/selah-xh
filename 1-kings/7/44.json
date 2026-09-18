@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "1-kings 7:44",
+  "book": "1-kings",
+  "lang": "xh",
+  "chapter": 7,
+  "translation": "⟨את⟩ Ilwandle elinye, ⟨את⟩ iinkomo ezilishumi elinambini ngaphantsi kolwandle.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ilwandle elinye"
+    },
+    {
+      "surface": "הים",
+      "gloss": "ilwandle"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "elinye"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "iinkomo ezilishumi elinambini"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "iinkomo"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ezilishumi"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "elinambini"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ngaphantsi"
+    },
+    {
+      "surface": "הים",
+      "gloss": "kolwandle"
+    }
+  ],
+  "timestamp": "2026-09-18T10:13:34.643177732Z",
+  "model": "glm-5.3"
+}

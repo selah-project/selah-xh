@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jeremiah 21:6",
+  "book": "jeremiah",
+  "lang": "xh",
+  "chapter": 21,
+  "translation": "Kwaye ndiza kubetha ⟨את⟩ abahlali besixeko esi, ⟨את⟩ nomntu ⟨את⟩ nelwanz; ngesisifo esikhulu baza kufa.",
+  "tokens": [
+    {
+      "surface": "והכיתי",
+      "gloss": "ndiza kubetha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abahlali besixeko esi"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "abahlali"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "besixeko"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "esi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "umntu"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "umntu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ilwanz"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "ilwanz"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "ngesisifo"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "esikhulu"
+    },
+    {
+      "surface": "ימתו",
+      "gloss": "baza kufa"
+    }
+  ],
+  "timestamp": "2026-09-18T12:11:43.070674531Z",
+  "model": "glm-5.3"
+}

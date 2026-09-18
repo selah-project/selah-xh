@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 31:4",
+  "book": "deuteronomy",
+  "lang": "xh",
+  "chapter": 31,
+  "translation": "uYahwe uza kwenza kubo njengoko wawenza kuSihoni naku-Ogi, iinkosi zamaMori, nakweli litha lakhe; abo wabatshabalalisa.",
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "uza kwenza"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kubo"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "njengoko"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "wawenza"
+    },
+    {
+      "surface": "לסיחון",
+      "gloss": "kuSihoni"
+    },
+    {
+      "surface": "ולעוג",
+      "gloss": "naku-Ogi"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "iinkosi"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "zamaMori"
+    },
+    {
+      "surface": "ולארצם",
+      "gloss": "nakweli litha"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "abo"
+    },
+    {
+      "surface": "השמיד",
+      "gloss": "wabatshabalalisa"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "–"
+    }
+  ],
+  "timestamp": "2026-09-18T08:25:21.360217899Z",
+  "model": "glm-5.3"
+}

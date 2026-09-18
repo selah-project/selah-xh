@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 26:30",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 26,
+  "translation": "Uza kwakha itenti ngokomthetho wayo owo waboniswa kuwe entabeni.",
+  "tokens": [
+    {
+      "surface": "והקמת",
+      "gloss": "uza kwakha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "itenti"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "itenti"
+    },
+    {
+      "surface": "כמשפטו",
+      "gloss": "ngokomthetho wayo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "owo"
+    },
+    {
+      "surface": "הראית",
+      "gloss": "waboniswa kuwe"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "entabeni"
+    }
+  ],
+  "timestamp": "2026-09-18T06:13:21.327737183Z",
+  "model": "glm-5.3"
+}

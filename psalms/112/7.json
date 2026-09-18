@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 112:7",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 112,
+  "translation": "Wenza iindaba ezimbi akayoyiki; intliziyo yakhe imiselwe, ithembile kuYahwe.",
+  "tokens": [
+    {
+      "surface": "משמועה",
+      "gloss": "iindaba"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ezimbi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "akayoyiki"
+    },
+    {
+      "surface": "יירא",
+      "gloss": "yoyika"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "imiselwe"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "intliziyo yakhe"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "ithembile"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "kuYahwe"
+    }
+  ],
+  "timestamp": "2026-09-18T15:20:28.071599926Z",
+  "model": "glm-5.3"
+}

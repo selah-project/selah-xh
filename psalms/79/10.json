@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 79:10",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 79,
+  "translation": "Kutheni ukuba iilwazi mithi: ‘Kuphi uElohim wabo?’ Makwaziwe kwiilwazi, phambi kwamehlo ethu, ukuziphindiselela kwengazi leenkonosi zakho ⟨eloxiweyo⟩.",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "kutheni"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "mithi"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "iilwazi"
+    },
+    {
+      "surface": "איה",
+      "gloss": "kuphi"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "uElohim wabo"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "makwaziwe"
+    },
+    {
+      "surface": "בגיים",
+      "gloss": "kwiilwazi"
+    },
+    {
+      "surface": "לעינינו",
+      "gloss": "phambi kwamehlo ethu"
+    },
+    {
+      "surface": "נקמת",
+      "gloss": "ukuziphindiselela"
+    },
+    {
+      "surface": "דם",
+      "gloss": "ingazi"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "leenkonosi zakho"
+    },
+    {
+      "surface": "השפוך",
+      "gloss": "eloxiweyo"
+    }
+  ],
+  "timestamp": "2026-09-18T15:04:51.859877903Z",
+  "model": "glm-5.3"
+}

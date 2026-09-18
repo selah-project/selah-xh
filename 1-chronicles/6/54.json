@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "1-chronicles 6:54",
+  "book": "1-chronicles",
+  "lang": "xh",
+  "chapter": 6,
+  "translation": "nange-Ayaloni ⟨את⟩ nemimandla yayo, nangeGathi-Rimoni ⟨את⟩ nemimandla yayo;",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "nge-Ayaloni"
+    },
+    {
+      "surface": "אילון",
+      "gloss": "i-Ayaloni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "nemimandla yayo"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "nemimandla yayo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ngeGathi-Rimoni"
+    },
+    {
+      "surface": "גת",
+      "gloss": "Gathi-"
+    },
+    {
+      "surface": "רמון",
+      "gloss": "Rimoni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "nemimandla yayo"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "nemimandla yayo"
+    }
+  ],
+  "timestamp": "2026-09-18T16:52:57.084641674Z",
+  "model": "glm-5.3"
+}

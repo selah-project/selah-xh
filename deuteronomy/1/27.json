@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "deuteronomy 1:27",
+  "book": "deuteronomy",
+  "lang": "xh",
+  "chapter": 1,
+  "translation": "Naza nakhala ezihoveni zenu, naza nathi: “Ngenxa yokuzonda uYahwe thina, wasikhupha elizweni laseMitsrayim, ukusinika ⟨את⟩ thina esandleni se-Emori, ukusitshabalalisa.”",
+  "tokens": [
+    {
+      "surface": "ותרגנו",
+      "gloss": "Naza nakhala"
+    },
+    {
+      "surface": "באהליכם",
+      "gloss": "ezihoveni zenu"
+    },
+    {
+      "surface": "ותאמרו",
+      "gloss": "naza nathi"
+    },
+    {
+      "surface": "בשנאת",
+      "gloss": "Ngenxa yokuzonda"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩",
+      "marks": "thina (obj. ka wasikhupha)"
+    },
+    {
+      "surface": "הוציאנו",
+      "gloss": "wasikhupha"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "elizweni"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "laseMitsrayim"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "ukusinika"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩",
+      "marks": "thina"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "esandleni"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "se-Emori"
+    },
+    {
+      "surface": "להשמידנו",
+      "gloss": "ukusitshabalalisa"
+    }
+  ],
+  "timestamp": "2026-09-18T07:53:35.614442438Z",
+  "model": "glm-5.3"
+}

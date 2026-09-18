@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 81:16",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 81,
+  "translation": "Abachasi bakaYahwe bazisa ubuxoki kuYe, ibe lihlala ixesha labo ngunaphakade.",
+  "tokens": [
+    {
+      "surface": "משנאי",
+      "gloss": "Abachasi bakaYahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "יכחשו",
+      "gloss": "bazisa ubuxoki"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kuYe"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ibe lihlala"
+    },
+    {
+      "surface": "עתם",
+      "gloss": "ixesha labo"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ngunaphakade"
+    }
+  ],
+  "timestamp": "2026-09-18T15:04:43.769210817Z",
+  "model": "glm-5.3"
+}

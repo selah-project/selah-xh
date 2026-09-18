@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 26:32",
+  "book": "leviticus",
+  "lang": "xh",
+  "chapter": 26,
+  "translation": "Mna ndiza kutshabalalisa ⟨את⟩ umhlaba, iintshaba zenu ezihlala kulo ziya kuwumangalisela.",
+  "tokens": [
+    {
+      "surface": "והשמתי",
+      "gloss": "ndiza kutshabalalisa"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umhlaba"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "umhlaba"
+    },
+    {
+      "surface": "ושממו",
+      "gloss": "ziya kuwumangalisela\/ziya kulahlazeka"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "kulo"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "iintshaba zenu"
+    },
+    {
+      "surface": "הישבים",
+      "gloss": "ezihlala"
+    },
+    {
+      "surface": "בה",
+      "gloss": "kulo"
+    }
+  ],
+  "timestamp": "2026-09-18T07:07:33.278467780Z",
+  "model": "glm-5.3"
+}

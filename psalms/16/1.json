@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 16:1",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 16,
+  "translation": "Incwadi yesihobe sikaDawidi. Ndiguqulela kuwe: Ndingalondolozi, u-El, kuba ndithathe khuseleko kuwe.",
+  "tokens": [
+    {
+      "surface": "מכתם",
+      "gloss": "Incwadi yesihobe"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "sikaDawidi"
+    },
+    {
+      "surface": "שמרני",
+      "gloss": "Ndingalondolozi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "u-El"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "ndithathe khuseleko"
+    },
+    {
+      "surface": "בך",
+      "gloss": "kuwe"
+    }
+  ],
+  "timestamp": "2026-09-18T14:31:58.391707020Z",
+  "model": "glm-5.3"
+}

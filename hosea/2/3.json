@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 2:3",
+  "book": "hosea",
+  "lang": "xh",
+  "chapter": 2,
+  "translation": "Yithani kubakhwenu benu: “Abantu bam,” nakwiidadi zenu: “Eninceba.”",
+  "tokens": [
+    {
+      "surface": "אמרו",
+      "gloss": "Yithani"
+    },
+    {
+      "surface": "לאחיכם",
+      "gloss": "kubakhwenu benu"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "Abantu bam"
+    },
+    {
+      "surface": "ולאחותיכם",
+      "gloss": "nakwiidadi zenu"
+    },
+    {
+      "surface": "רחמה",
+      "gloss": "Eninceba"
+    }
+  ],
+  "timestamp": "2026-09-18T13:44:58.313595598Z",
+  "model": "glm-5.3"
+}

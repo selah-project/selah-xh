@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 44:24",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 44,
+  "translation": "Vuka! Kutheni ulala, Adonayi? Phakamisa! Musa ukusilahta ngonaphakade.",
+  "tokens": [
+    {
+      "surface": "עורה",
+      "gloss": "vuka"
+    },
+    {
+      "surface": "למה",
+      "gloss": "kutheni"
+    },
+    {
+      "surface": "תישן",
+      "gloss": "ulala"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonayi"
+    },
+    {
+      "surface": "הקיצה",
+      "gloss": "phakamisa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "musa ukuba…"
+    },
+    {
+      "surface": "תזנח",
+      "gloss": "ukusilahta"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "ngonaphakade"
+    }
+  ],
+  "timestamp": "2026-09-18T14:45:40.083025654Z",
+  "model": "glm-5.3"
+}

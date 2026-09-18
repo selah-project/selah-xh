@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 67:6",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 67,
+  "translation": "Makubulele abantu kuwe, uElohim; makubulele abantu bonke.",
+  "tokens": [
+    {
+      "surface": "יודוך",
+      "gloss": "makubulele kuwe"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "יודוך",
+      "gloss": "makubulele"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "bonke"
+    }
+  ],
+  "timestamp": "2026-09-18T14:54:12.500660472Z",
+  "model": "glm-5.3"
+}

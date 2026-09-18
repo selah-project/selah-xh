@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 19:25",
+  "book": "leviticus",
+  "lang": "xh",
+  "chapter": 19,
+  "translation": "Kwaye ngonyaka wesihlanu niya kutya ⟨את⟩ isiqhamo sawo, ukuba sidadeziswe kuni isivuno sawo; ndinguYahwe uElohim wenu.",
+  "tokens": [
+    {
+      "surface": "ובשנה",
+      "gloss": "Kwaye ngonyaka"
+    },
+    {
+      "surface": "החמישת",
+      "gloss": "wesihlanu"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "niya kutya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isiqhamo sawo"
+    },
+    {
+      "surface": "פריו",
+      "gloss": "isiqhamo sawo"
+    },
+    {
+      "surface": "להוסיף",
+      "gloss": "ukuba sidadeziswe"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kuni"
+    },
+    {
+      "surface": "תבואתו",
+      "gloss": "isivuno sawo"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ndi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "nguYahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "uElohim wenu"
+    }
+  ],
+  "timestamp": "2026-09-18T06:57:57.884892078Z",
+  "model": "glm-5.3"
+}

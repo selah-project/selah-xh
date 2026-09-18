@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "joshua 12:19",
+  "book": "joshua",
+  "lang": "xh",
+  "chapter": 12,
+  "translation": "Inkosi yaseMadoni, enye; inkosi yaseḤatsori, enye;",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "inkosi"
+    },
+    {
+      "surface": "מדון",
+      "gloss": "yeMadoni"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "enye"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "inkosi"
+    },
+    {
+      "surface": "חצור",
+      "gloss": "yeḤatsori"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "enye"
+    }
+  ],
+  "timestamp": "2026-09-18T08:35:55.215107535Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 20:5",
+  "book": "isaiah",
+  "lang": "xh",
+  "chapter": 20,
+  "translation": "Baza kukhathazeka bedinwa ngeKushi, ithemba labo, nangeMitsrayim, utheko lwabo.",
+  "tokens": [
+    {
+      "surface": "וחתו",
+      "gloss": "baza kukhathazeka"
+    },
+    {
+      "surface": "ובשו",
+      "gloss": "bedinwa"
+    },
+    {
+      "surface": "מכוש",
+      "gloss": "ngeKushi"
+    },
+    {
+      "surface": "מבטם",
+      "gloss": "ithemba labo"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "nange-"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "iMitsrayim"
+    },
+    {
+      "surface": "תפארתם",
+      "gloss": "utheko lwabo"
+    }
+  ],
+  "timestamp": "2026-09-18T11:12:47.934899852Z",
+  "model": "glm-5.3"
+}

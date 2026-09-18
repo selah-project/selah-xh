@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "2-kings 17:36",
+  "book": "2-kings",
+  "lang": "xh",
+  "chapter": 17,
+  "translation": "Kodwa uYahwe, lowo waniphakamisa ⟨אתכם⟩ ezweni iMitsrayim ngamandla amakhulu nangengalo etyiweyo — ⟨אתו⟩ niyoyike, kuye nizithobe, kuye ninike iintengo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kodwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uYahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "lowo"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "waniphakamisa"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨אתכם⟩"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "ezweni"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "iMitsrayim"
+    },
+    {
+      "surface": "בכח",
+      "gloss": "ngamandla"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "amakhulu"
+    },
+    {
+      "surface": "ובזרוע",
+      "gloss": "nangengalo"
+    },
+    {
+      "surface": "נטויה",
+      "gloss": "etyiweyo"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "uYahwe lowo"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "niyoyike"
+    },
+    {
+      "surface": "ולו",
+      "gloss": "kwaye kuye"
+    },
+    {
+      "surface": "תשתחוו",
+      "gloss": "nizithobe"
+    },
+    {
+      "surface": "ולו",
+      "gloss": "kwaye kuye"
+    },
+    {
+      "surface": "תזבחו",
+      "gloss": "ninike iintengo"
+    }
+  ],
+  "timestamp": "2026-09-18T10:52:07.873871604Z",
+  "model": "glm-5.3"
+}

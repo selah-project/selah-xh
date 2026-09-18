@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 107:22",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 107,
+  "translation": "Mabenze amasirwele okubulela, maticaze imisebenzi yakhe ngokuvuyiswa.",
+  "tokens": [
+    {
+      "surface": "ויזבחו",
+      "gloss": "Mabenze amasirwele"
+    },
+    {
+      "surface": "זבחי",
+      "gloss": "amasirwele"
+    },
+    {
+      "surface": "תודה",
+      "gloss": "okubulela"
+    },
+    {
+      "surface": "ויספרו",
+      "gloss": "maticaze"
+    },
+    {
+      "surface": "מעשיו",
+      "gloss": "imisebenzi yakhe"
+    },
+    {
+      "surface": "ברנה",
+      "gloss": "ngokuvuyiswa"
+    }
+  ],
+  "timestamp": "2026-09-18T15:16:42.932155341Z",
+  "model": "glm-5.3"
+}

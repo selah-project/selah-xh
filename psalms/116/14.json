@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 116:14",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 116,
+  "translation": "Izithembiso zam kuYahwe ndiza kuziphumelela, phambi ⟨kwakhe⟩, nceda, kuwo onke abantu bakhe.",
+  "tokens": [
+    {
+      "surface": "נדרי",
+      "gloss": "Izithembiso zam"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kuYahwe"
+    },
+    {
+      "surface": "אשלם",
+      "gloss": "ndiza kuziphumelela"
+    },
+    {
+      "surface": "נגדה",
+      "gloss": "phansi phambi"
+    },
+    {
+      "surface": "נא",
+      "gloss": "nceda"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "kuwo onke"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "abantu bakhe"
+    }
+  ],
+  "timestamp": "2026-09-18T15:22:59.360990344Z",
+  "model": "glm-5.3"
+}

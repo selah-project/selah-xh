@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 63:9",
+  "book": "isaiah",
+  "lang": "xh",
+  "chapter": 63,
+  "translation": "Kuzo zonke iintlekele zawo yena akazange abe mmelwane, nesithunywa sobuso bakhe wasindisa; ngothando lwakhe nakububele bakhe yena wazihlawula; waziphakamisa wazithwala zonke iintsuku zasekuqaleni.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "kuzo zonke"
+    },
+    {
+      "surface": "צרתם",
+      "gloss": "iintlekele zawo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "akazange abe"
+    },
+    {
+      "surface": "צר",
+      "gloss": "mmelwane"
+    },
+    {
+      "surface": "ומלאך",
+      "gloss": "nesithunywa sobuso bakhe"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "sobuso bakhe"
+    },
+    {
+      "surface": "הושיעם",
+      "gloss": "wasindisa"
+    },
+    {
+      "surface": "באהבתו",
+      "gloss": "ngothando lwakhe"
+    },
+    {
+      "surface": "ובחמלתו",
+      "gloss": "nakububele bakhe"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yena"
+    },
+    {
+      "surface": "גאלם",
+      "gloss": "wazihlawula"
+    },
+    {
+      "surface": "וינטלם",
+      "gloss": "waziphakamisa"
+    },
+    {
+      "surface": "וינשאם",
+      "gloss": "wazithwala"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zonke"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "iintsuku"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "zasekuqaleni"
+    }
+  ],
+  "timestamp": "2026-09-18T11:45:20.001784248Z",
+  "model": "glm-5.3"
+}

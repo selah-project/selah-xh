@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-kings 17:7",
+  "book": "1-kings",
+  "lang": "xh",
+  "chapter": 17,
+  "translation": "Kwathi emva kwentsuku, isikhwele somile, kuba bekungekho khowudo emhlabeni.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "kwathi"
+    },
+    {
+      "surface": "מקץ",
+      "gloss": "emva kwe-"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ntsuku"
+    },
+    {
+      "surface": "וייבש",
+      "gloss": "somile"
+    },
+    {
+      "surface": "הנחל",
+      "gloss": "isikhwele"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "לא",
+      "gloss": "bekungekho"
+    },
+    {
+      "surface": "היה",
+      "gloss": "bekukho"
+    },
+    {
+      "surface": "גשם",
+      "gloss": "khowudo"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "emhlabeni"
+    }
+  ],
+  "timestamp": "2026-09-18T10:27:30.980282162Z",
+  "model": "glm-5.3"
+}

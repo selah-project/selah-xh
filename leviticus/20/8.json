@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 20:8",
+  "book": "leviticus",
+  "lang": "xh",
+  "chapter": 20,
+  "translation": "Nigcine ⟨את⟩ imithetho yam, niyenze ⟨את⟩; mna ndinguYahwe onicingcwengisayo.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "nigcine"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "imithetho yam"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "imithetho yam"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "niyenze"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "izonke (imithetho)"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "מקדשכם",
+      "gloss": "onicingcwengisayo"
+    }
+  ],
+  "timestamp": "2026-09-18T06:58:32.066523905Z",
+  "model": "glm-5.3"
+}

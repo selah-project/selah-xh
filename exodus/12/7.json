@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 12:7",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 12,
+  "translation": "Bathatha kolwe yegazi, bayibeka kwiintsika ezimbini nakwisiko sangaphezulu somnyango, kwiindlu apho bazakutya ⟨את⟩ ngaphakathi kuzo.",
+  "tokens": [
+    {
+      "surface": "ולקחו",
+      "gloss": "bathatha"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kolwe"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "yegazi"
+    },
+    {
+      "surface": "ונתנו",
+      "gloss": "bayibeka"
+    },
+    {
+      "surface": "על",
+      "gloss": "kwi-"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "ezimbini"
+    },
+    {
+      "surface": "המזוזת",
+      "gloss": "iintsika"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "nakwi-"
+    },
+    {
+      "surface": "המשקוף",
+      "gloss": "isiko sangaphezulu somnyango"
+    },
+    {
+      "surface": "על",
+      "gloss": "kwi-"
+    },
+    {
+      "surface": "הבתים",
+      "gloss": "iindlu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "apho"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "bazakutya"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "u- (igusha)"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "ngaphakathi kuzo"
+    }
+  ],
+  "timestamp": "2026-09-18T05:59:52.450750392Z",
+  "model": "glm-5.3"
+}

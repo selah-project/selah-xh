@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 29:12",
+  "book": "genesis",
+  "lang": "xh",
+  "chapter": 29,
+  "translation": "uYaaqov waxelela uRakhel ukuba ungumfowabo oyise yena, nokuba ungomnyana kaRivka yena; wagijima waza waxelela uyise.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "waxelela"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "uYaaqov"
+    },
+    {
+      "surface": "לרחל",
+      "gloss": "uRakhel"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ukuba"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "ungumfowabo"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "oyise"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yena"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "nokuba"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ungomnyana ka-"
+    },
+    {
+      "surface": "רבקה",
+      "gloss": "Rivka"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yena"
+    },
+    {
+      "surface": "ותרץ",
+      "gloss": "wagijima"
+    },
+    {
+      "surface": "ותגד",
+      "gloss": "waxelela"
+    },
+    {
+      "surface": "לאביה",
+      "gloss": "uyise"
+    }
+  ],
+  "timestamp": "2026-09-18T05:24:57.019576517Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 119:22",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 119,
+  "translation": "Khweshela ihlazo nendlula phezu kwam, kuba amangqina akho ndawagcina.",
+  "tokens": [
+    {
+      "surface": "גל",
+      "gloss": "khweshela"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "phezu kwam"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "ihlazo"
+    },
+    {
+      "surface": "ובוז",
+      "gloss": "nendlula"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "עדתיך",
+      "gloss": "amangqina akho"
+    },
+    {
+      "surface": "נצרתי",
+      "gloss": "ndawagcina"
+    }
+  ],
+  "timestamp": "2026-09-18T15:23:47.866079446Z",
+  "model": "glm-5.3"
+}

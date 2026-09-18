@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 138:5",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 138,
+  "translation": "Baya kucula ngeendlela zikaYahwe, kuba kukhulu udumo lukaYahwe.",
+  "tokens": [
+    {
+      "surface": "וישירו",
+      "gloss": "baya kucula"
+    },
+    {
+      "surface": "בדרכי",
+      "gloss": "ngeendlela zika"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "kukhulu"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "udumo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "lukaYahwe"
+    }
+  ],
+  "timestamp": "2026-09-18T15:31:31.103145966Z",
+  "model": "glm-5.3"
+}

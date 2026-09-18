@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 29:8",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 29,
+  "translation": "Uza kuzisa ⟨את⟩ oonyana bakhe, ubagqoke ngamakhaka aphambili.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "oonyana bakhe"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "oonyana bakhe"
+    },
+    {
+      "surface": "תקריב",
+      "gloss": "Uza kuzisa"
+    },
+    {
+      "surface": "והלבשתם",
+      "gloss": "ubagqoke"
+    },
+    {
+      "surface": "כתנת",
+      "gloss": "amakhaka aphambili"
+    }
+  ],
+  "timestamp": "2026-09-18T17:21:25.271144401Z",
+  "model": "glm-5.3"
+}

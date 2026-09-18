@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "hosea 8:12",
+  "book": "hosea",
+  "lang": "xh",
+  "chapter": 8,
+  "translation": "Ndibhalela yena izinto eziliinkulungwane zeTora yam (umyalelo wam), kodwa zatathwa njengento yasezweni.",
+  "tokens": [
+    {
+      "surface": "אכתוב",
+      "gloss": "Ndibhalela"
+    },
+    {
+      "surface": "לו",
+      "gloss": "yena"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "izinto eziliinkulungwane"
+    },
+    {
+      "surface": "תורתי",
+      "gloss": "zeTora yam"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "njengento"
+    },
+    {
+      "surface": "זר",
+      "gloss": "yasezweni (ungamaziyo)"
+    },
+    {
+      "surface": "נחשבו",
+      "gloss": "zatathwa"
+    }
+  ],
+  "timestamp": "2026-09-18T13:46:07.241173591Z",
+  "model": "glm-5.3"
+}

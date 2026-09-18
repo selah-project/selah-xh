@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "esther 9:10",
+  "book": "esther",
+  "lang": "xh",
+  "chapter": 9,
+  "translation": "Amakhwenkwe alishumi kaHaman, unyana kaHimedata, owalinganisa abaYuda, babulale; kodwa kwiimpahla azange batumela isandla sabo ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "עשרת",
+      "gloss": "alishumi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "amakhwenkwe"
+    },
+    {
+      "surface": "המן",
+      "gloss": "kaHaman"
+    },
+    {
+      "surface": "בן",
+      "gloss": "unyana"
+    },
+    {
+      "surface": "המדתא",
+      "gloss": "kaHimedata"
+    },
+    {
+      "surface": "צרר",
+      "gloss": "owalinganisa"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "abaYuda"
+    },
+    {
+      "surface": "הרגו",
+      "gloss": "babulale"
+    },
+    {
+      "surface": "ובבזה",
+      "gloss": "kodwa kwiimpahla"
+    },
+    {
+      "surface": "לא",
+      "gloss": "azange"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "batumela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isandla sabo"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "isandla sabo"
+    }
+  ],
+  "timestamp": "2026-09-18T16:29:44.556944353Z",
+  "model": "glm-5.3"
+}

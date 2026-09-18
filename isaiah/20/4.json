@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 20:4",
+  "book": "isaiah",
+  "lang": "xh",
+  "chapter": 20,
+  "translation": "Ubuze inkosi yaseAshur ⟨את⟩ ababethweleyo baseMitsrayim ⟨את⟩ nabatshunjiniweyo baseKushi, amakhwenkwe nabadala, simdaka, angekhanda, ihlale ivulekileyo — ihloywe iMitsrayim.",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "Ubuze"
+    },
+    {
+      "surface": "ינהג",
+      "gloss": "ibabuzisa"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "inkosi"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "yaseAshur"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ababethweleyo baseMitsrayim"
+    },
+    {
+      "surface": "שבי",
+      "gloss": "ababethweleyo"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "baseMitsrayim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ nabatshunjiniweyo",
+      "marks": "abatshunjiniweyo baseKushi"
+    },
+    {
+      "surface": "גלות",
+      "gloss": "abatshunjiniweyo"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "baseKushi"
+    },
+    {
+      "surface": "נערים",
+      "gloss": "amakhwenkwe"
+    },
+    {
+      "surface": "וזקנים",
+      "gloss": "nabadala"
+    },
+    {
+      "surface": "ערום",
+      "gloss": "simdaka"
+    },
+    {
+      "surface": "ויחף",
+      "gloss": "angekhanda"
+    },
+    {
+      "surface": "וחשופי",
+      "gloss": "ihlale ivulekileyo"
+    },
+    {
+      "surface": "שת",
+      "gloss": "ihlale"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "ihloywe \/ ubumdaka"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "iMitsrayim"
+    }
+  ],
+  "timestamp": "2026-09-18T11:15:51.697596034Z",
+  "model": "glm-5.3"
+}

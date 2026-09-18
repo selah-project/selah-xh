@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 140:5",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 140,
+  "translation": "Undigcine, uYahwe, ezandleni zomoni; undikhusele kumntu wobundlobongela, abacungilele ukundidukisa amanyathelo am.",
+  "tokens": [
+    {
+      "surface": "שמרני",
+      "gloss": "Undigcine"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "מידי",
+      "gloss": "ezandleni"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "zomoni"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "kumntu"
+    },
+    {
+      "surface": "חמסים",
+      "gloss": "wobundlobongela"
+    },
+    {
+      "surface": "תנצרני",
+      "gloss": "undikhusele"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aba"
+    },
+    {
+      "surface": "חשבו",
+      "gloss": "bacungilele"
+    },
+    {
+      "surface": "לדחות",
+      "gloss": "ukundidukisa"
+    },
+    {
+      "surface": "פעמי",
+      "gloss": "amanyathelo am"
+    }
+  ],
+  "timestamp": "2026-09-18T15:32:16.292047347Z",
+  "model": "glm-5.3"
+}

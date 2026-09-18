@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 12:7",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 12,
+  "translation": "Amazwi kaYahwe ngamagama accekileyo: usilivere ohluziweyo embindini wesiphongo samabokwe kuwo umhlaba, uhluziweyo kasixhenxe.",
+  "tokens": [
+    {
+      "surface": "אמרות",
+      "gloss": "amazwi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kaYahwe"
+    },
+    {
+      "surface": "אמרות",
+      "gloss": "ngamagama"
+    },
+    {
+      "surface": "טהרות",
+      "gloss": "accekileyo"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "usilivere"
+    },
+    {
+      "surface": "צרוף",
+      "gloss": "ohluziweyo"
+    },
+    {
+      "surface": "בעליל",
+      "gloss": "embindini wesiphongo samabokwe"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "kuwo umhlaba"
+    },
+    {
+      "surface": "מזקק",
+      "gloss": "uhluziweyo"
+    },
+    {
+      "surface": "שבעתים",
+      "gloss": "kasixhenxe"
+    }
+  ],
+  "timestamp": "2026-09-18T14:31:40.390439492Z",
+  "model": "glm-5.3"
+}

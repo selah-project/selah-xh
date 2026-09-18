@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 48:16",
+  "book": "genesis",
+  "lang": "xh",
+  "chapter": 48,
+  "translation": "Isithunywa esindikhululile kuzo zonke iindimaba, masibusise ⟨את⟩ elam; mababizwe ngeli gama lam, nangamagama ooyise bethu, u-Avraham noYitshak; mabe nande ngokuninzi phakathi womhlaba.",
+  "tokens": [
+    {
+      "surface": "המלאך",
+      "gloss": "isithunywa"
+    },
+    {
+      "surface": "הגאל",
+      "gloss": "esindikhululile"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ ndi",
+      "marks": "ndi"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "kuzo zonke"
+    },
+    {
+      "surface": "רע",
+      "gloss": "iindimaba"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "masibusise"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "elam"
+    },
+    {
+      "surface": "הנערים",
+      "gloss": "elam"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "mababizwe"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "nge-"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "eli gama lam"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "nangamagama"
+    },
+    {
+      "surface": "אבתי",
+      "gloss": "ooyise bethu"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "u-Avraham"
+    },
+    {
+      "surface": "ויצחק",
+      "gloss": "noYitshak"
+    },
+    {
+      "surface": "וידגו",
+      "gloss": "mabe nande"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "ngokuninzi"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "phakathi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "womhlaba"
+    }
+  ],
+  "timestamp": "2026-09-18T05:46:10.415444659Z",
+  "model": "glm-5.3"
+}

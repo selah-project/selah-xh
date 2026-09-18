@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 111:8",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 111,
+  "translation": "Zinambele zenzeke ngonaphakade nangonaphakade; zenziwe ngokwenyaniso nangokulungileyo.",
+  "tokens": [
+    {
+      "surface": "סמוכים",
+      "gloss": "zinambele"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "ngonaphakade"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "nangonaphakade"
+    },
+    {
+      "surface": "עשוים",
+      "gloss": "zenziwe"
+    },
+    {
+      "surface": "באמת",
+      "gloss": "ngokwenyaniso"
+    },
+    {
+      "surface": "וישר",
+      "gloss": "nangokulungileyo"
+    }
+  ],
+  "timestamp": "2026-09-18T15:20:30.900095841Z",
+  "model": "glm-5.3"
+}

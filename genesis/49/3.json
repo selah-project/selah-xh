@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 49:3",
+  "book": "genesis",
+  "lang": "xh",
+  "chapter": 49,
+  "translation": "Ruveni, wena ndzalwa yam yokuqala, amandla am, ukuqala kwamandla am — okuphakamileyo buzuko, nokuphakamileyo bunamandla.",
+  "tokens": [
+    {
+      "surface": "ראובן",
+      "gloss": "Ruveni"
+    },
+    {
+      "surface": "בכרי",
+      "gloss": "ndzalwa yam yokuqala"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "amandla am"
+    },
+    {
+      "surface": "וראשית",
+      "gloss": "ukuqala"
+    },
+    {
+      "surface": "אוני",
+      "gloss": "kwamandla am"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "okuphakamileyo"
+    },
+    {
+      "surface": "שאת",
+      "gloss": "buzuko"
+    },
+    {
+      "surface": "ויתר",
+      "gloss": "nokuphakamileyo"
+    },
+    {
+      "surface": "עז",
+      "gloss": "bunamandla"
+    }
+  ],
+  "timestamp": "2026-09-18T05:47:53.657171483Z",
+  "model": "glm-5.3"
+}

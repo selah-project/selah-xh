@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 101:7",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 101,
+  "translation": "Akayi kuhlala phakathi kwendlu yam lowo enza inkohlakalo; lowo ethetha amazinyo akayi kumisela phambi kwamehlo am.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "akayi"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "kuhlala"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "phakathi"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "kwendlu yam"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "enza"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "inkohlakalo"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ethetha"
+    },
+    {
+      "surface": "שקרים",
+      "gloss": "amazinyo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "akayi"
+    },
+    {
+      "surface": "יכון",
+      "gloss": "kumisela"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "phambi"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "kwamehlo am"
+    }
+  ],
+  "timestamp": "2026-09-18T15:15:18.476866632Z",
+  "model": "glm-5.3"
+}

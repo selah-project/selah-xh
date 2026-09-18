@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-kings 17:9",
+  "book": "2-kings",
+  "lang": "xh",
+  "chapter": 17,
+  "translation": "Kwaye abantwana bakaSirayeli benza ngasese izinto ezingenalungelo ngokuchasene noYahwe uElohim wabo, bazakhela iindawo ziphakamileyo kuzo zonke iixeko zabo, esuka entolongweni yabakhuseli yada kuxeko elinqwenelekileyo.",
+  "tokens": [
+    {
+      "surface": "ויחפאו",
+      "gloss": "benza ngasese"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abantwana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "kaSirayeli"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "izinto"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ozo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "akukho"
+    },
+    {
+      "surface": "כן",
+      "gloss": "lalungelo"
+    },
+    {
+      "surface": "על",
+      "gloss": "ngokuchasene"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "uElohim wabo"
+    },
+    {
+      "surface": "ויבנו",
+      "gloss": "bazakhele"
+    },
+    {
+      "surface": "להם",
+      "gloss": "—"
+    },
+    {
+      "surface": "במות",
+      "gloss": "iindawo ziphakamileyo"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "kuzo zonke"
+    },
+    {
+      "surface": "עריהם",
+      "gloss": "iixeko zabo"
+    },
+    {
+      "surface": "ממגדל",
+      "gloss": "esuka entolongweni"
+    },
+    {
+      "surface": "נוצרים",
+      "gloss": "yabakhuseli"
+    },
+    {
+      "surface": "עד",
+      "gloss": "yada"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "kuxeko"
+    },
+    {
+      "surface": "מבצר",
+      "gloss": "elinqwenelekileyo"
+    }
+  ],
+  "timestamp": "2026-09-18T10:50:55.635084087Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 17:15",
+  "book": "genesis",
+  "lang": "xh",
+  "chapter": 17,
+  "translation": "U-Elohim wathi ku-Avraham: uSarayi, umfazi wakho — musa ukubiza ⟨את⟩ igama lakhe uSarayi; kuba nguSara igama lakhe.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "u-Avraham"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "uSarayi"
+    },
+    {
+      "surface": "אשתך",
+      "gloss": "umfazi wakho"
+    },
+    {
+      "surface": "לא",
+      "gloss": "musa"
+    },
+    {
+      "surface": "תקרא",
+      "gloss": "ukubiza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "igama lakhe"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "igama lakhe"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "uSarayi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "uSara"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "igama lakhe"
+    }
+  ],
+  "timestamp": "2026-09-18T17:18:49.945023863Z",
+  "model": "glm-5.3"
+}

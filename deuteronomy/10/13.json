@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 10:13",
+  "book": "deuteronomy",
+  "lang": "xh",
+  "chapter": 10,
+  "translation": "ukugcina ⟨את⟩ imiyalelo kaYahwe kunye ⟨את⟩ nezinqumo zakhe, am ndikuyalela ngalomhla, kulungile kuwe.",
+  "tokens": [
+    {
+      "surface": "לשמר",
+      "gloss": "ukugcina"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "imiyalelo kaYahwe"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "imiyalelo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kaYahwe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kunye ⟨את⟩",
+      "marks": "nezinqumo zakhe"
+    },
+    {
+      "surface": "חקתיו",
+      "gloss": "nezinqumo zakhe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "am"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ndi-"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "ndikuyalela"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ngalomhla"
+    },
+    {
+      "surface": "לטוב",
+      "gloss": "kulungile"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kuwe"
+    }
+  ],
+  "timestamp": "2026-09-18T08:01:23.734813961Z",
+  "model": "glm-5.3"
+}

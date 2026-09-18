@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 78:25",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 78,
+  "translation": "Isonka sabamandla umntu wadla; ukutya wakuthumela kubo ukwanela.",
+  "tokens": [
+    {
+      "surface": "לחם",
+      "gloss": "isonka"
+    },
+    {
+      "surface": "אבירים",
+      "gloss": "sabamandla"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "wadla"
+    },
+    {
+      "surface": "איש",
+      "gloss": "umntu"
+    },
+    {
+      "surface": "צידה",
+      "gloss": "ukutya"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "wathumela"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kubo"
+    },
+    {
+      "surface": "לשבע",
+      "gloss": "ukwanela"
+    }
+  ],
+  "timestamp": "2026-09-18T15:02:31.098803317Z",
+  "model": "glm-5.3"
+}

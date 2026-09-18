@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "job 27:11",
+  "book": "job",
+  "lang": "xh",
+  "chapter": 27,
+  "translation": "Ndiya kunifundisa ⟨את⟩ nina ngesandla sika-El; oko ese ku-uShadayi andizukucasha.",
+  "tokens": [
+    {
+      "surface": "אורה",
+      "gloss": "ndiya kunifundisa"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "nina"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ngesandla"
+    },
+    {
+      "surface": "אל",
+      "gloss": "u-El"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oko"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "uShadayi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "andi-"
+    },
+    {
+      "surface": "אכחד",
+      "gloss": "zukucasha"
+    }
+  ],
+  "timestamp": "2026-09-18T16:08:46.771357347Z",
+  "model": "glm-5.3"
+}

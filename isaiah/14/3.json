@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 14:3",
+  "book": "isaiah",
+  "lang": "xh",
+  "chapter": 14,
+  "translation": "Iza kwaba njalo ngelanga uYahwe aza kukuphumla kuwe ngalo kwezoxinzelelo zakho, nakwiintshabalalo zakho, nakwisinxwaleko esibuhlungu owayenziwa ngaso.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "iza kwaba njalo"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ngelanga"
+    },
+    {
+      "surface": "הניח",
+      "gloss": "ukuphumla"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kuwe"
+    },
+    {
+      "surface": "מעצבך",
+      "gloss": "zoxinzelelo zakho"
+    },
+    {
+      "surface": "ומרגזך",
+      "gloss": "iintshabalalo zakho"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "kwa-"
+    },
+    {
+      "surface": "העבדה",
+      "gloss": "isinxwaleko"
+    },
+    {
+      "surface": "הקשה",
+      "gloss": "esibuhlungu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "owo-"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "enziwa"
+    },
+    {
+      "surface": "בך",
+      "gloss": "ngaso"
+    }
+  ],
+  "timestamp": "2026-09-18T11:12:38.284370732Z",
+  "model": "glm-5.3"
+}

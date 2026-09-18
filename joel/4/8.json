@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "joel 4:8",
+  "book": "joel",
+  "lang": "xh",
+  "chapter": 4,
+  "translation": "Ndiza kuthengisa ⟨את⟩ oonyana benu ne-⟨את⟩ eentombi zenu esandleni soonyana beYuda, baza kubathengisa kumaSheba, kuisizwe esikude; kuba uYahwe uthethe.",
+  "tokens": [
+    {
+      "surface": "ומכרתי",
+      "gloss": "ndiza kuthengisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oonyana benu"
+    },
+    {
+      "surface": "בניכם",
+      "gloss": "oonyana benu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne-⟨את⟩",
+      "marks": "eentombi zenu"
+    },
+    {
+      "surface": "בנותיכם",
+      "gloss": "eentombi zenu"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "esandleni"
+    },
+    {
+      "surface": "בני",
+      "gloss": "soonyana be-"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yuda"
+    },
+    {
+      "surface": "ומכרום",
+      "gloss": "baza kubathengisa"
+    },
+    {
+      "surface": "לשבאים",
+      "gloss": "kumaSheba"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "isizwe"
+    },
+    {
+      "surface": "רחוק",
+      "gloss": "esikude"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "uthethe"
+    }
+  ],
+  "timestamp": "2026-09-18T13:51:14.586423490Z",
+  "model": "glm-5.3"
+}

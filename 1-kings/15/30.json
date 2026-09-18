@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 15:30",
+  "book": "1-kings",
+  "lang": "xh",
+  "chapter": 15,
+  "translation": "Ngenxa yezi zono zikaYaravuam ezawenza, noko abenza uSirayeli azoni, ngesi sakekelelo asakekelisa ngaso uYahwe, uElohim kaSirayeli.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "Ngenxa"
+    },
+    {
+      "surface": "חטאות",
+      "gloss": "yezi zono"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "zikaYaravuam"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "eza-"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "wenza"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "noko"
+    },
+    {
+      "surface": "החטיא",
+      "gloss": "abenza azoni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uSirayeli"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "uSirayeli"
+    },
+    {
+      "surface": "בכעסו",
+      "gloss": "ngesi sakekelelo sakhe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "asa-"
+    },
+    {
+      "surface": "הכעיס",
+      "gloss": "kekelisa ngaso"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uYahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "kaSirayeli"
+    }
+  ],
+  "timestamp": "2026-09-18T10:29:13.502134457Z",
+  "model": "glm-5.3"
+}

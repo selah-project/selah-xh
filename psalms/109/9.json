@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 109:9",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 109,
+  "translation": "Maba ngabantwana bakhe abantungelwa abazali, umfazi wakhe abe ngumhlolokazi.",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "maba"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "abantwana bakhe"
+    },
+    {
+      "surface": "יתומים",
+      "gloss": "abantungelwa abazali"
+    },
+    {
+      "surface": "ואשתו",
+      "gloss": "umfazi wakhe"
+    },
+    {
+      "surface": "אלמנה",
+      "gloss": "umhlolokazi"
+    }
+  ],
+  "timestamp": "2026-09-18T15:20:00.910454973Z",
+  "model": "glm-5.3"
+}

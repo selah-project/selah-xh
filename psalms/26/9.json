@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 26:9",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 26,
+  "translation": "Musa kuqokelela umphefumlo wam kunye nezonile, okanye ubomi bam kunye namadoda egazi;",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "musa"
+    },
+    {
+      "surface": "תאסף",
+      "gloss": "ukuqokelela"
+    },
+    {
+      "surface": "עם",
+      "gloss": "kunye ne-"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "ezonile"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "umphefumlo wam"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "okanye kunye ne-"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "amadoda"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "egazi"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "ubomi bam"
+    }
+  ],
+  "timestamp": "2026-09-18T14:36:41.203381697Z",
+  "model": "glm-5.3"
+}

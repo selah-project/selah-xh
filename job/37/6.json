@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 37:6",
+  "book": "job",
+  "lang": "xh",
+  "chapter": 37,
+  "translation": "Kuba uthi kwekhephu: “Yiba phezu komhlaba,” nakwimvula ethile, nakwiintlanzi zamvula zamandla akhe.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "לשלג",
+      "gloss": "kwekhephu"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "uthi"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yiba"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "phezu komhlaba"
+    },
+    {
+      "surface": "וגשם",
+      "gloss": "nakwimvula"
+    },
+    {
+      "surface": "מטר",
+      "gloss": "ethile"
+    },
+    {
+      "surface": "וגשם",
+      "gloss": "naye"
+    },
+    {
+      "surface": "מטרות",
+      "gloss": "iintlanzi zamvula"
+    },
+    {
+      "surface": "עזו",
+      "gloss": "zamandla akhe"
+    }
+  ],
+  "timestamp": "2026-09-18T16:13:11.109318042Z",
+  "model": "glm-5.3"
+}

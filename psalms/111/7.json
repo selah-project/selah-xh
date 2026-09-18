@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 111:7",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 111,
+  "translation": "Imisebenzi yezandla zakhe yinyaniso nogunya; zonke iimiyalelo yakhe zithembekile.",
+  "tokens": [
+    {
+      "surface": "מעשי",
+      "gloss": "imisebenzi"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "yezandla zakhe"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "yinyaniso"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "nogunya"
+    },
+    {
+      "surface": "נאמנים",
+      "gloss": "zithembekile"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zonke"
+    },
+    {
+      "surface": "פקודיו",
+      "gloss": "iimiyalelo zakhe"
+    }
+  ],
+  "timestamp": "2026-09-18T15:20:30.899989464Z",
+  "model": "glm-5.3"
+}

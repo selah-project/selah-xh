@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "1-chronicles 6:44",
+  "book": "1-chronicles",
+  "lang": "xh",
+  "chapter": 6,
+  "translation": "Kunye ⟨את⟩ neAshan kunye ⟨את⟩ neendawo zalo zokusinga, kunye ⟨את⟩ neBheth-Shemesh kunye ⟨את⟩ neendawe zalo zokusinga.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "neAshan"
+    },
+    {
+      "surface": "עשן",
+      "gloss": "neAshan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "neendawo zalo zokusinga"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "neendawo zalo zokusinga"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "neBheth-Shemesh"
+    },
+    {
+      "surface": "בית",
+      "gloss": "iBheth-"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "Shemesh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "neendawe zalo zokusinga"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "neendawe zalo zokusinga"
+    }
+  ],
+  "timestamp": "2026-09-18T16:52:26.572565420Z",
+  "model": "glm-5.3"
+}

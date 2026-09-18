@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 4:5",
+  "book": "proverbs",
+  "lang": "xh",
+  "chapter": 4,
+  "translation": "Fumana ulwazi, fumana ukuqonda; ungayibali, ungaphephuki kwimizamelwa yomlomo wam.",
+  "tokens": [
+    {
+      "surface": "קנה",
+      "gloss": "fumana"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "ulwazi"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "fumana"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "ukuqonda"
+    },
+    {
+      "surface": "אל",
+      "gloss": "unga-"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "yibali"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ungaph-"
+    },
+    {
+      "surface": "תט",
+      "gloss": "ephuki"
+    },
+    {
+      "surface": "מאמרי",
+      "gloss": "kwimizamelwa"
+    },
+    {
+      "surface": "פי",
+      "gloss": "yomlomo wam"
+    }
+  ],
+  "timestamp": "2026-09-18T15:37:06.806020398Z",
+  "model": "glm-5.3"
+}

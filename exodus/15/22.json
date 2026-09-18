@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 15:22",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 15,
+  "translation": "UMoshe wasusa ⟨את⟩ uIsrayeli kwilwandle lweziqhamo, baphuma baya entlangweni iShuri, bahamba iintsuku ezintathu entlankeni, kodwa bambifumanga amanzi.",
+  "tokens": [
+    {
+      "surface": "ויסע",
+      "gloss": "wasusa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "uMoshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uIsrayeli"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "uIsrayeli"
+    },
+    {
+      "surface": "מים",
+      "gloss": "kwilwandle"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "lweziqhamo"
+    },
+    {
+      "surface": "ויצאו",
+      "gloss": "baphuma"
+    },
+    {
+      "surface": "אל",
+      "gloss": "baya"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "entlangweni"
+    },
+    {
+      "surface": "שור",
+      "gloss": "iShuri"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "bahamba"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "ezintathu"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "iintsuku"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "entlankeni"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kodwa bamba-"
+    },
+    {
+      "surface": "מצאו",
+      "gloss": "fumanga"
+    },
+    {
+      "surface": "מים",
+      "gloss": "amanzi"
+    }
+  ],
+  "timestamp": "2026-09-18T06:00:27.235276524Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 33:11",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 33,
+  "translation": "Icebo likaYahwe liya kuma kuixesha elingunaphakade, iingcingo zentliziyo yakhe kwisizukulwana ngesizukulwana.",
+  "tokens": [
+    {
+      "surface": "עצת",
+      "gloss": "icebo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "likaYahwe"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "kuixesha elingunaphakade"
+    },
+    {
+      "surface": "תעמד",
+      "gloss": "liya kuma"
+    },
+    {
+      "surface": "מחשבות",
+      "gloss": "iingcingo"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "zentliziyo yakhe"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "kwisizukulwana"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "ngesizukulwana"
+    }
+  ],
+  "timestamp": "2026-09-18T14:39:52.455564212Z",
+  "model": "glm-5.3"
+}

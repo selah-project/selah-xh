@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 2:23",
+  "book": "numbers",
+  "lang": "xh",
+  "chapter": 2,
+  "translation": "Nedabi lakhe nababalwa abo: amawaka amahlanu anamashumi amathathu namakhulu amane.",
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "nedabi lakhe"
+    },
+    {
+      "surface": "ופקדיהם",
+      "gloss": "nababalwa abo"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "amahlanu"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "anamashumi amathathu"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "amawaka"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "namakhulu amane"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "amakhulu"
+    }
+  ],
+  "timestamp": "2026-09-18T07:10:14.701562521Z",
+  "model": "glm-5.3"
+}

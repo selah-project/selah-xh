@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 88:17",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 88,
+  "translation": "Phezu kwam idlulile intlukutano yakho; izohlwayo zakho zendile ndim.",
+  "tokens": [
+    {
+      "surface": "עלי",
+      "gloss": "phezu kwam"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "idlulile"
+    },
+    {
+      "surface": "חרוניך",
+      "gloss": "intlukutano yakho"
+    },
+    {
+      "surface": "בעותיך",
+      "gloss": "izohlwayo zakho"
+    },
+    {
+      "surface": "צמתותני",
+      "gloss": "zendile ndim"
+    }
+  ],
+  "timestamp": "2026-09-18T15:06:38.080115202Z",
+  "model": "glm-5.3"
+}

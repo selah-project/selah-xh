@@ -1,0 +1,30 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 3:15",
+  "book": "deuteronomy",
+  "lang": "xh",
+  "chapter": 3,
+  "translation": "Kwaye kuMakhiri ndanika ⟨את⟩ iGiladi.",
+  "tokens": [
+    {
+      "surface": "ולמכיר",
+      "gloss": "Kwaye kuMakhiri"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "ndanika"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iGiladi"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "iGiladi"
+    }
+  ],
+  "timestamp": "2026-09-18T07:53:32.464040548Z",
+  "model": "glm-5.3"
+}

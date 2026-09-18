@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 8:1",
+  "book": "proverbs",
+  "lang": "xh",
+  "chapter": 8,
+  "translation": "Akutheni ⟨ndibuzo⟩ ulumko lungabizi, nokucinga lungaphefumla ilizwi laso?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "akutheni"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "ulumko"
+    },
+    {
+      "surface": "תקרא",
+      "gloss": "ungabizi"
+    },
+    {
+      "surface": "ותבונה",
+      "gloss": "nokucinga"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "lungaphefumla"
+    },
+    {
+      "surface": "קולה",
+      "gloss": "ilizwi laso"
+    }
+  ],
+  "timestamp": "2026-09-18T15:41:40.522571051Z",
+  "model": "glm-5.3"
+}

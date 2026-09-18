@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 9:28",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 9,
+  "translation": "Thandazani kuYahwe, kuba sele kwanele ukungabi nako izandi zoElohim nomkhenkce; ndiza kunivumela nihambe, ningeke niphinde nime.",
+  "tokens": [
+    {
+      "surface": "העתירו",
+      "gloss": "Thandazani"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "kwanele"
+    },
+    {
+      "surface": "מהית",
+      "gloss": "ukungabi nako"
+    },
+    {
+      "surface": "קלת",
+      "gloss": "izandi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "zoElohim"
+    },
+    {
+      "surface": "וברד",
+      "gloss": "nomkhenkce"
+    },
+    {
+      "surface": "ואשלחה",
+      "gloss": "ndiza kunivumela nihambe"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨אתכם⟩",
+      "marks": "nivumela nihambe (nin)"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ningeke"
+    },
+    {
+      "surface": "תספון",
+      "gloss": "niphinde"
+    },
+    {
+      "surface": "לעמד",
+      "gloss": "nime"
+    }
+  ],
+  "timestamp": "2026-09-18T05:56:33.988407557Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 14:3",
+  "book": "2-samuel",
+  "lang": "xh",
+  "chapter": 14,
+  "translation": "Uze ungene kwenkosi, uthethe kuye ngokwelo lizwi; uYoavu wabeka ⟨את⟩ amagama emlonyeni wakhe.",
+  "tokens": [
+    {
+      "surface": "ובאת",
+      "gloss": "uze ungene"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwi-"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "nkosi"
+    },
+    {
+      "surface": "ודברת",
+      "gloss": "uthethe"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kuye"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "ngokwelo lizwi"
+    },
+    {
+      "surface": "הזה",
+      "gloss": ""
+    },
+    {
+      "surface": "וישם",
+      "gloss": "wabeka"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "uYoavu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amagama"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "amagama"
+    },
+    {
+      "surface": "בפיה",
+      "gloss": "emlonyeni wakhe"
+    }
+  ],
+  "timestamp": "2026-09-18T09:54:53.770079923Z",
+  "model": "glm-5.3"
+}

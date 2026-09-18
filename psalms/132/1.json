@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 132:1",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 132,
+  "translation": "Icwecwe leengoma ezinokunyuka. Khumbula, uYahwe, ngenxa kaDawidi ⟨את⟩ konke ubunzima bakhe —",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "icwecwe leengoma"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "ezinokunyuka"
+    },
+    {
+      "surface": "זכור",
+      "gloss": "khumbula"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ngenxa kaDawidi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "konke ubunzima bakhe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "konke"
+    },
+    {
+      "surface": "ענותו",
+      "gloss": "ubunzima bakhe"
+    }
+  ],
+  "timestamp": "2026-09-18T15:27:27.680028246Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 1:27",
+  "book": "genesis",
+  "lang": "xh",
+  "chapter": 1,
+  "translation": "Wadala uElohim ⟨את⟩ umntu ngomfanekiselo wakhe; ngomfanekiselo kaElohim wamdalala ⟨אתו⟩; wandala ⟨אתם⟩ njengesilisa nesifazane.",
+  "tokens": [
+    {
+      "surface": "ויברא",
+      "gloss": "Wadala"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umntu"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "umntu"
+    },
+    {
+      "surface": "בצלמו",
+      "gloss": "ngomfanekiselo wakhe"
+    },
+    {
+      "surface": "בצלם",
+      "gloss": "ngomfanekiselo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "kaElohim"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "wamdalala"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "yena"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "njengesilisa"
+    },
+    {
+      "surface": "ונקבה",
+      "gloss": "nesifazane"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "wandala"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "bona"
+    }
+  ],
+  "timestamp": "2026-09-18T05:07:48.455323126Z",
+  "model": "glm-5.3"
+}

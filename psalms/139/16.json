@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 139:16",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 139,
+  "translation": "Amebho akho abona isakhelo sam esingakakhiwa; nasecwecweni lakho zonke zi bhaliwe—iintsuku ezakhiwayo, akukho nanye kuzo ingekabikho.",
+  "tokens": [
+    {
+      "surface": "גלמי",
+      "gloss": "isakhelo sam esingakakhiwa"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "abona"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "amehlo akho"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "nase"
+    },
+    {
+      "surface": "ספרך",
+      "gloss": "cwecweni lakho"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "zonke"
+    },
+    {
+      "surface": "יכתבו",
+      "gloss": "zi bhaliwe"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "iintsuku"
+    },
+    {
+      "surface": "יצרו",
+      "gloss": "ezakhiwayo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "akukho"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "nanye"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "kuzo"
+    }
+  ],
+  "timestamp": "2026-09-18T15:31:30.045887208Z",
+  "model": "glm-5.3"
+}

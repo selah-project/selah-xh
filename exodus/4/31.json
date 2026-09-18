@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 4:31",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 4,
+  "translation": "Abantu bakholwa; besiva ukuba uYahwe wayetyelele ⟨את⟩ abantwana bakwaYisraeli nasemva kokuba wayebubona ⟨את⟩ ubunzima babo, banqamla bachaza.",
+  "tokens": [
+    {
+      "surface": "ויאמן",
+      "gloss": "bakholwa"
+    },
+    {
+      "surface": "העם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "וישמעו",
+      "gloss": "besiva"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ukuba"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "wayetyelele"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abantwana bakwaYisraeli"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abantwana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "bakwaYisraeli"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "nasemva kokuba"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "wayebubona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ubunzima babo"
+    },
+    {
+      "surface": "ענים",
+      "gloss": "ubunzima babo"
+    },
+    {
+      "surface": "ויקדו",
+      "gloss": "banqamla"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "bachaza"
+    }
+  ],
+  "timestamp": "2026-09-18T05:50:26.134383048Z",
+  "model": "glm-5.3"
+}

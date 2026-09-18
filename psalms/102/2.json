@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 102:2",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 102,
+  "translation": "uYahwe, yiva uthandazo lwam, luze kuwe nokhala lwam.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "שמעה",
+      "gloss": "yiva"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "uthandazo lwam"
+    },
+    {
+      "surface": "ושועתי",
+      "gloss": "nokhala lwam"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kuwe"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "luze"
+    }
+  ],
+  "timestamp": "2026-09-18T15:14:42.203174039Z",
+  "model": "glm-5.3"
+}

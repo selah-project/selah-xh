@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 7:11",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 7,
+  "translation": "Isikhongozeli sam sikakuElohim, umsindisi wabalungileyo entliziyo.",
+  "tokens": [
+    {
+      "surface": "מגני",
+      "gloss": "isikhongozeli sam"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "מושיע",
+      "gloss": "umsindisi"
+    },
+    {
+      "surface": "ישרי",
+      "gloss": "wabalungileyo"
+    },
+    {
+      "surface": "לב",
+      "gloss": "entliziyo"
+    }
+  ],
+  "timestamp": "2026-09-18T14:25:29.431989369Z",
+  "model": "glm-5.3"
+}

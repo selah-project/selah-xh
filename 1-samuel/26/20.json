@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 26:20",
+  "book": "1-samuel",
+  "lang": "xh",
+  "chapter": 26,
+  "translation": "Kananjalo ngoku, makungawi igazi lam emhlabeni kude ubuso bukaYahwe; kuba ikumkani uSirayeli uphumele ukuzingela ⟨את⟩ iqabunye elinye, njengoko umzingeli ezingela iqundubevu ezintabeni.”",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "kananjalo ngoku"
+    },
+    {
+      "surface": "אל",
+      "gloss": "makungawi"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "ukungawa"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "igazi lam"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "emhlabeni"
+    },
+    {
+      "surface": "מנגד",
+      "gloss": "kude"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ubuso"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "bukaYahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "uphumele"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ikumkani"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "uSirayeli"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "ukuzingela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iqabunye elinye"
+    },
+    {
+      "surface": "פרעש",
+      "gloss": "iqabunye"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "elinye"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "njengoko"
+    },
+    {
+      "surface": "ירדף",
+      "gloss": "ezingela"
+    },
+    {
+      "surface": "הקרא",
+      "gloss": "iqundubevu"
+    },
+    {
+      "surface": "בהרים",
+      "gloss": "ezintabeni"
+    }
+  ],
+  "timestamp": "2026-09-18T09:41:55.163363700Z",
+  "model": "glm-5.3"
+}

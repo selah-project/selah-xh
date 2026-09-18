@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 111:4",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 111,
+  "translation": "Wenza isikhumbuzo seemimangaliso zakhe; uYahwe ungomusa, onesihawu.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "isikhumbuzo"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "Wenza"
+    },
+    {
+      "surface": "לנפלאתיו",
+      "gloss": "seemimangaliso zakhe"
+    },
+    {
+      "surface": "חנון",
+      "gloss": "ungomusa"
+    },
+    {
+      "surface": "ורחום",
+      "gloss": "onesihawu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    }
+  ],
+  "timestamp": "2026-09-18T15:20:54.495499103Z",
+  "model": "glm-5.3"
+}

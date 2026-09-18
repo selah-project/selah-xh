@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 6:8",
+  "book": "1-chronicles",
+  "lang": "xh",
+  "chapter": 6,
+  "translation": "uElkanayi unyana wakhe, no-Ebyasafi unyana wakhe, no-Asiri unyana wakhe.",
+  "tokens": [
+    {
+      "surface": "אלקנה",
+      "gloss": "uElkanayi"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "unyana wakhe"
+    },
+    {
+      "surface": "ואביסף",
+      "gloss": "no-Ebyasafi"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "unyana wakhe"
+    },
+    {
+      "surface": "ואסיר",
+      "gloss": "no-Asiri"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "unyana wakhe"
+    }
+  ],
+  "timestamp": "2026-09-18T16:52:04.618907355Z",
+  "model": "glm-5.3"
+}

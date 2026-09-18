@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 4:25",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 4,
+  "translation": "Wathatha uTsipora ityxha, wasika ⟨את⟩ olusu lwesinyana sakhe, waludibisa ngeenyawo zakhe, wathi: “Ngokwenene ungumyeni wengazi kum.”",
+  "tokens": [
+    {
+      "surface": "ותקח",
+      "gloss": "Wathatha"
+    },
+    {
+      "surface": "צפרה",
+      "gloss": "uTsipora"
+    },
+    {
+      "surface": "צר",
+      "gloss": "ityxha"
+    },
+    {
+      "surface": "ותכרת",
+      "gloss": "wasika"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "olusu lwesinyana sakhe"
+    },
+    {
+      "surface": "ערלת",
+      "gloss": "olusu"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "lwesinyana sakhe"
+    },
+    {
+      "surface": "ותגע",
+      "gloss": "waludibisa nge-"
+    },
+    {
+      "surface": "לרגליו",
+      "gloss": "inyawo zakhe"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngokwenene"
+    },
+    {
+      "surface": "חתן",
+      "gloss": "ungumyeni"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "wengazi"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kum"
+    }
+  ],
+  "timestamp": "2026-09-18T05:51:47.281397556Z",
+  "model": "glm-5.3"
+}

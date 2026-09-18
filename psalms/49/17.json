@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 49:17",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 49,
+  "translation": "Musa ukoyika xa umntu etyebisa, xa uzuko lwendlu yakhe lwanda.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Musa"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "ukoyika"
+    },
+    {
+      "surface": "כי",
+      "gloss": "xa"
+    },
+    {
+      "surface": "יעשר",
+      "gloss": "etyebisa"
+    },
+    {
+      "surface": "איש",
+      "gloss": "umntu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "xa"
+    },
+    {
+      "surface": "ירבה",
+      "gloss": "lwanda"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "uzuko"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "lwendlu yakhe"
+    }
+  ],
+  "timestamp": "2026-09-18T14:47:19.002364414Z",
+  "model": "glm-5.3"
+}

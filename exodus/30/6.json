@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 30:6",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 30,
+  "translation": "Uyibeka phambi kokhangelo oluse phezu kosiyeke sengqiqo, phambi komhlambi-ndlala olu se phezu kengqiqo, apho ndiza kudibana nawe khona.",
+  "tokens": [
+    {
+      "surface": "ונתתה",
+      "gloss": "uyibeka"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ yi-",
+      "marks": "yona (i-altare)"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "phambi"
+    },
+    {
+      "surface": "הפרכת",
+      "gloss": "kokhangelo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oluse"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu"
+    },
+    {
+      "surface": "ארן",
+      "gloss": "kosiyeke"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "sengqiqo"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "phambi"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "komhlambi-ndlala"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "olu se"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "kengqiqo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "apho"
+    },
+    {
+      "surface": "אועד",
+      "gloss": "ndiza kudibana"
+    },
+    {
+      "surface": "לך",
+      "gloss": "nawe"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "khona"
+    }
+  ],
+  "timestamp": "2026-09-18T06:16:23.574524116Z",
+  "model": "glm-5.3"
+}

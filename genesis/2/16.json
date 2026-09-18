@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 2:16",
+  "book": "genesis",
+  "lang": "xh",
+  "chapter": 2,
+  "translation": "Waba uYahwe uElohim waletha umyalelo kuwo umntu, wathi: 'Kutya uzakutya kuyo yonke imithi yesiva.'",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "waletha umyalelo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "umntu"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "kuyo yonke"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "imithi"
+    },
+    {
+      "surface": "הגן",
+      "gloss": "yesiva"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "Kutya"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "uzakutya"
+    }
+  ],
+  "timestamp": "2026-09-18T05:07:55.561913289Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "joshua 8:5",
+  "book": "joshua",
+  "lang": "xh",
+  "chapter": 8,
+  "translation": "Mna, ndi nomntu wonke ⟨את⟩ onendim, ndiza kusondela esixeko; kuya kubenjalo xa bephuma ukudibana nathi, njengokwasekuqaleni, sibaleke phambi kwabo.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Mna"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "nomntu wonke"
+    },
+    {
+      "surface": "העם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aba"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ onendim",
+      "marks": "onendim — isiqhagamshelwanam (H854), hayi uphawu lomthwalekisi"
+    },
+    {
+      "surface": "נקרב",
+      "gloss": "ndiza kusondela"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "isixeko"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "kuya kubenjalo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "xa"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "bephuma"
+    },
+    {
+      "surface": "לקראתנו",
+      "gloss": "ukudibana nathi"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "njengoko"
+    },
+    {
+      "surface": "בראשנה",
+      "gloss": "kwasekuqaleni"
+    },
+    {
+      "surface": "ונסנו",
+      "gloss": "sibaleke"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "phambi kwabo"
+    }
+  ],
+  "timestamp": "2026-09-18T08:33:25.244363117Z",
+  "model": "glm-5.3"
+}

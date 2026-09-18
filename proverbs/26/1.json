@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 26:1",
+  "book": "proverbs",
+  "lang": "xh",
+  "chapter": 26,
+  "translation": "Njengekhephu ehlobo, njengomvula ekwatshoni, ngokunjalo ubukhosi abufanelekanga kwindlavini.",
+  "tokens": [
+    {
+      "surface": "כשלג",
+      "gloss": "njengekhephu"
+    },
+    {
+      "surface": "בקיץ",
+      "gloss": "ehlobo"
+    },
+    {
+      "surface": "וכמטר",
+      "gloss": "njengomvula"
+    },
+    {
+      "surface": "בקציר",
+      "gloss": "ekwatshoni"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ngokunjalo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "akuna-"
+    },
+    {
+      "surface": "נאוה",
+      "gloss": "abufanelekanga"
+    },
+    {
+      "surface": "לכסיל",
+      "gloss": "kwindlavini"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "ubukhosi"
+    }
+  ],
+  "timestamp": "2026-09-18T15:55:25.933844970Z",
+  "model": "glm-5.3"
+}

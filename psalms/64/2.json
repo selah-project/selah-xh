@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 64:2",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 64,
+  "translation": "Yiva, uElohim, ilizwi lam kwingxoxo yam; uzakhusela ubomi bam kwisoyika sesitha.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "Yiva"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "ilizwi lam"
+    },
+    {
+      "surface": "בשיחי",
+      "gloss": "kwingxoxo yam"
+    },
+    {
+      "surface": "מפחד",
+      "gloss": "kwisoyika"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "sesitha"
+    },
+    {
+      "surface": "תצר",
+      "gloss": "uzakhusela"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "ubomi bam"
+    }
+  ],
+  "timestamp": "2026-09-18T14:54:48.426269581Z",
+  "model": "glm-5.3"
+}

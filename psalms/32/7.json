@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 32:7",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 32,
+  "translation": "Wena undindawo yokufihla; undikhusela entlungweni; iingoma zokhululeko undizungele. Selah.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "סתר",
+      "gloss": "indawo yokufihla"
+    },
+    {
+      "surface": "לי",
+      "gloss": "undi-"
+    },
+    {
+      "surface": "מצר",
+      "gloss": "entlungweni"
+    },
+    {
+      "surface": "תצרני",
+      "gloss": "undikhusela"
+    },
+    {
+      "surface": "רני",
+      "gloss": "iingoma"
+    },
+    {
+      "surface": "פלט",
+      "gloss": "zokhululeko"
+    },
+    {
+      "surface": "תסובבני",
+      "gloss": "undizungele"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-18T14:42:18.085036922Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 12:10",
+  "book": "proverbs",
+  "lang": "xh",
+  "chapter": 12,
+  "translation": "Lowo olungileyo uyayazi inefeshi yezilwane zakhe, kodwa iinzwelo zababi zinobukhohlakele.",
+  "tokens": [
+    {
+      "surface": "יודע",
+      "gloss": "uyayazi"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "lowo olungileyo"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "inefeshi (ubomi)"
+    },
+    {
+      "surface": "בהמתו",
+      "gloss": "yezilwane zakhe"
+    },
+    {
+      "surface": "ורחמי",
+      "gloss": "kodwa iinzwelo"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "zababi"
+    },
+    {
+      "surface": "אכזרי",
+      "gloss": "zinobukhohlakele"
+    }
+  ],
+  "timestamp": "2026-09-18T15:44:26.232152795Z",
+  "model": "glm-5.3"
+}

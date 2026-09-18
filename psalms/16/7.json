@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 16:7",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 16,
+  "translation": "Ndiza kudunyisa ⟨את⟩ uYahwe ondicedisile ngosalathiso; ewe, ebusuku iintsovu zam ziyandifundisa.",
+  "tokens": [
+    {
+      "surface": "אברך",
+      "gloss": "Ndiza kudunyisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uYahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "o"
+    },
+    {
+      "surface": "יעצני",
+      "gloss": "ndicedisile ngosalathiso"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ewe"
+    },
+    {
+      "surface": "לילות",
+      "gloss": "ebusuku"
+    },
+    {
+      "surface": "יסרוני",
+      "gloss": "ziyandifundisa"
+    },
+    {
+      "surface": "כליותי",
+      "gloss": "iintsovu zam"
+    }
+  ],
+  "timestamp": "2026-09-18T14:32:29.008974151Z",
+  "model": "glm-5.3"
+}

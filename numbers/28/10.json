@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 28:10",
+  "book": "numbers",
+  "lang": "xh",
+  "chapter": 28,
+  "translation": "Yiyesihlelo seholokawstom yesabatha ngokwesabatha sawo, ngaphezu kweholokawstom ejikeleziweyo kunye neniselo yaso.",
+  "tokens": [
+    {
+      "surface": "עלת",
+      "gloss": "iyesihlelo seholokawstom"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "yesabatha"
+    },
+    {
+      "surface": "בשבתו",
+      "gloss": "ngokwesabatha sawo"
+    },
+    {
+      "surface": "על",
+      "gloss": "ngaphezu"
+    },
+    {
+      "surface": "עלת",
+      "gloss": "kweholokawstom"
+    },
+    {
+      "surface": "התמיד",
+      "gloss": "ejikeleziweyo"
+    },
+    {
+      "surface": "ונסכה",
+      "gloss": "kunye neniselo yaso"
+    }
+  ],
+  "timestamp": "2026-09-18T07:40:44.077440042Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "esther 5:10",
+  "book": "esther",
+  "lang": "xh",
+  "chapter": 5,
+  "translation": "UHaman wazibamba waza wangena endlwini yakhe, wathumela waza wazisa ⟨את⟩ abahlobo bakhe no⟨את⟩ uZeresh umfazi wakhe.",
+  "tokens": [
+    {
+      "surface": "ויתאפק",
+      "gloss": "wazibamba"
+    },
+    {
+      "surface": "המן",
+      "gloss": "uHaman"
+    },
+    {
+      "surface": "ויבוא",
+      "gloss": "wangena"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e-"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "endlwini yakhe"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "wathumela"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "wazisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abahlobo bakhe"
+    },
+    {
+      "surface": "אהביו",
+      "gloss": "abahlobo bakhe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "no⟨את⟩",
+      "marks": "uZeresh"
+    },
+    {
+      "surface": "זרש",
+      "gloss": "uZeresh"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "umfazi wakhe"
+    }
+  ],
+  "timestamp": "2026-09-18T16:28:34.765789502Z",
+  "model": "glm-5.3"
+}

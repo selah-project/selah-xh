@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ecclesiastes 7:20",
+  "book": "ecclesiastes",
+  "lang": "xh",
+  "chapter": 7,
+  "translation": "Kuba akukho mntu olungileyo ehlabathini oza kukwenza okulungileyo engaguni nasesono.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "mntu"
+    },
+    {
+      "surface": "אין",
+      "gloss": "akukho"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "olungileyo"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ehlabathini"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oza kukwenza okulungileyo — (lowo)"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "enza"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "okulungileyo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "engaguni"
+    },
+    {
+      "surface": "יחטא",
+      "gloss": "nasesono"
+    }
+  ],
+  "timestamp": "2026-09-18T16:26:05.037367913Z",
+  "model": "glm-5.3"
+}

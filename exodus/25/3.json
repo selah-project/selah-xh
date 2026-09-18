@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 25:3",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 25,
+  "translation": "Lo ngumnikelo oza kuwuthabela ⟨את⟩ kubo: igolide nesisiliva nobhedu.",
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "Lo ngu"
+    },
+    {
+      "surface": "התרומה",
+      "gloss": "umnikelo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "o"
+    },
+    {
+      "surface": "תקחו",
+      "gloss": "oza kuwuthabela"
+    },
+    {
+      "surface": "מאתם",
+      "gloss": "⟨את⟩ kubo"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "igolide"
+    },
+    {
+      "surface": "וכסף",
+      "gloss": "nesisiliva"
+    },
+    {
+      "surface": "ונחשת",
+      "gloss": "nobhedu"
+    }
+  ],
+  "timestamp": "2026-09-18T06:13:23.891144177Z",
+  "model": "glm-5.3"
+}

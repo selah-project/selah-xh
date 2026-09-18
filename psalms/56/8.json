@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 56:8",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 56,
+  "translation": "Ngobubi na baphunyelela? Ngolaka wehlisa iintlanga, uElohim.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "Ngobubi (phezu koku-)"
+    },
+    {
+      "surface": "און",
+      "gloss": "obubi"
+    },
+    {
+      "surface": "פלט",
+      "gloss": "baphunyelela"
+    },
+    {
+      "surface": "למו",
+      "gloss": "na\/bona"
+    },
+    {
+      "surface": "באף",
+      "gloss": "Ngolaka"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "iintlanga"
+    },
+    {
+      "surface": "הורד",
+      "gloss": "wehlisa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "uElohim"
+    }
+  ],
+  "timestamp": "2026-09-18T14:51:20.208050971Z",
+  "model": "glm-5.3"
+}

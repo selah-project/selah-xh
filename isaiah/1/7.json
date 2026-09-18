@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 1:7",
+  "book": "isaiah",
+  "lang": "xh",
+  "chapter": 1,
+  "translation": "Umhlaba wenu ulilahlwe, iimidolophu yenu zitshisiwe ngomlilo; umhlaba wenu, phambi kwenu abasemzini bayawutya ⟨את⟩, ulilahlwe njengotshatyalaliswa yabasemzini.",
+  "tokens": [
+    {
+      "surface": "ארצכם",
+      "gloss": "umhlaba wenu"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "ulilahlwe"
+    },
+    {
+      "surface": "עריכם",
+      "gloss": "iimidolophu yenu"
+    },
+    {
+      "surface": "שרפות",
+      "gloss": "zitshisiwe"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ngomlilo"
+    },
+    {
+      "surface": "אדמתכם",
+      "gloss": "umhlaba wenu"
+    },
+    {
+      "surface": "לנגדכם",
+      "gloss": "phambi kwenu"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "abasemzini"
+    },
+    {
+      "surface": "אכלים",
+      "gloss": "bayawutya"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "umhlaba wenu"
+    },
+    {
+      "surface": "ושממה",
+      "gloss": "ulilahlwe"
+    },
+    {
+      "surface": "כמהפכת",
+      "gloss": "njengotshatyalaliswa"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "yabasemzini"
+    }
+  ],
+  "timestamp": "2026-09-18T11:00:53.518236372Z",
+  "model": "glm-5.3"
+}

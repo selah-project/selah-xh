@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 14:6",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 14,
+  "translation": "Waza uParo walungisa ⟨את⟩ iinqwelo zakhe, waza ⟨את⟩ abantu bakhe wabathabatha naye.",
+  "tokens": [
+    {
+      "surface": "ויאסר",
+      "gloss": "walungisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iinqwelo zakhe"
+    },
+    {
+      "surface": "רכבו",
+      "gloss": "iinqwelo zakhe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "abantu bakhe"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "abantu bakhe"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "wabathabatha"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "naye"
+    }
+  ],
+  "timestamp": "2026-09-18T06:00:03.067907487Z",
+  "model": "glm-5.3"
+}

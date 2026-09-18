@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 54:3",
+  "book": "isaiah",
+  "lang": "xh",
+  "chapter": 54,
+  "translation": "Kuba uza kuphuma ngasekunene nakasekhohlo, kunye nesignewhu sakho sizakuthatha amazwe, iindawo ezilahlwayo mazingenwa abantu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "ngasekunene"
+    },
+    {
+      "surface": "ושמאול",
+      "gloss": "nakasekhohlo"
+    },
+    {
+      "surface": "תפרצי",
+      "gloss": "uza kuphuma"
+    },
+    {
+      "surface": "וזרעך",
+      "gloss": "kunye nesignewhu sakho"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "amazwe"
+    },
+    {
+      "surface": "יירש",
+      "gloss": "sizakuthatha"
+    },
+    {
+      "surface": "וערים",
+      "gloss": "iindawo"
+    },
+    {
+      "surface": "נשמות",
+      "gloss": "ezilahlwayo"
+    },
+    {
+      "surface": "יושיבו",
+      "gloss": "mazingenwa abantu"
+    }
+  ],
+  "timestamp": "2026-09-18T11:41:49.608150872Z",
+  "model": "glm-5.3"
+}

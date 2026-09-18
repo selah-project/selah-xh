@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 9:30",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 9,
+  "translation": "Kodwa wena neenkonzi zakho — ndiyazi ukuba nisanoyika ubuso bukaYahwe uElohim.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "kodwa wena"
+    },
+    {
+      "surface": "ועבדיך",
+      "gloss": "neenkonzi zakho"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "ndiyazi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ukuba"
+    },
+    {
+      "surface": "טרם",
+      "gloss": "nisanoyika"
+    },
+    {
+      "surface": "תיראון",
+      "gloss": "niyakoyika"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "ubuso buka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "uElohim"
+    }
+  ],
+  "timestamp": "2026-09-18T05:56:10.584042026Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-chronicles 11:11",
+  "book": "2-chronicles",
+  "lang": "xh",
+  "chapter": 11,
+  "translation": "Waziqinisa ezo zindawo zokuzikhusela, wabeka kuzo abaphathi, neendawo zokugcina ukutya, uoyile newayini.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "Waziqinisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ezo zindawo zokuzikhusela"
+    },
+    {
+      "surface": "המצרות",
+      "gloss": "ezo zindawo zokuzikhusela"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "wabeka"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "kuzo"
+    },
+    {
+      "surface": "נגידים",
+      "gloss": "abaphathi"
+    },
+    {
+      "surface": "ואצרות",
+      "gloss": "neendawo zokugcina"
+    },
+    {
+      "surface": "מאכל",
+      "gloss": "ukutya"
+    },
+    {
+      "surface": "ושמן",
+      "gloss": "uoyile"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "newayini"
+    }
+  ],
+  "timestamp": "2026-09-18T17:05:12.679160987Z",
+  "model": "glm-5.3"
+}

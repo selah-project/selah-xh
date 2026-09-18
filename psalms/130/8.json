@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 130:8",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 130,
+  "translation": "Yaye nguYe uza kukhulula ⟨את⟩ uYisrayeli kwizono zakhe zonke.",
+  "tokens": [
+    {
+      "surface": "והוא",
+      "gloss": "yaye nguYe"
+    },
+    {
+      "surface": "יפדה",
+      "gloss": "uza kukhulula"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uYisrayeli"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "uYisrayeli"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "kwizoni zakhe zonke"
+    },
+    {
+      "surface": "עונתיו",
+      "gloss": "ezo"
+    }
+  ],
+  "timestamp": "2026-09-18T15:27:41.858503793Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 109:30",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 109,
+  "translation": "Mna ndiza kudumisa uYahwe ngolonwabo olukhulu ngomlomo wam, phakathi kwabantu abaninshi ndiza kumdankisa.",
+  "tokens": [
+    {
+      "surface": "אודה",
+      "gloss": "Mna ndiza kudumisa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ngolonwabo olukhulu"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "ngomlomo wam"
+    },
+    {
+      "surface": "ובתוך",
+      "gloss": "phakathi kwe"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "abantu abaninshi"
+    },
+    {
+      "surface": "אהללנו",
+      "gloss": "ndiza kumdankisa"
+    }
+  ],
+  "timestamp": "2026-09-18T15:20:04.676266828Z",
+  "model": "glm-5.3"
+}

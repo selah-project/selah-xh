@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 17:9",
+  "book": "leviticus",
+  "lang": "xh",
+  "chapter": 17,
+  "translation": "Kwaye akayisi yedwa ecaleni komnyango wentente yomdibano, ukuyenza ⟨את⟩yo kuYahwe — loo mntu uza kuchotywa kwabantu bakhe.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "kwaye ku-"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "umnyango"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "intente"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "yomdibano"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hayi"
+    },
+    {
+      "surface": "יביאנו",
+      "gloss": "akayisi yedwa"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "ukwenza"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩yo",
+      "marks": "leyo (intabelo etyiwayo)"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kuYahwe"
+    },
+    {
+      "surface": "ונכרת",
+      "gloss": "uza kuchotywa"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "loo mntu"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "loo"
+    },
+    {
+      "surface": "מעמיו",
+      "gloss": "kwabantu bakhe"
+    }
+  ],
+  "timestamp": "2026-09-18T17:22:05.600310267Z",
+  "model": "glm-5.3"
+}

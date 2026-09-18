@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 62:5",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 62,
+  "translation": "Kuphela ukusuka kwisikhwele sakhe bacociselisa ukumsusa; bayonwabela amanga; ngomlomo wabo bayabusisa, kodwa kwingaphakathi labo batshonxa. Selah.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "kuphela"
+    },
+    {
+      "surface": "משאתו",
+      "gloss": "isikhwele sakhe"
+    },
+    {
+      "surface": "יעצו",
+      "gloss": "bacociselisa"
+    },
+    {
+      "surface": "להדיח",
+      "gloss": "ukumsusa"
+    },
+    {
+      "surface": "ירצו",
+      "gloss": "bayonwabela"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "amanga"
+    },
+    {
+      "surface": "בפיו",
+      "gloss": "ngomlomo wakhe"
+    },
+    {
+      "surface": "יברכו",
+      "gloss": "bayabusisa"
+    },
+    {
+      "surface": "ובקרבם",
+      "gloss": "kodwa kwingaphakathi labo"
+    },
+    {
+      "surface": "יקללו",
+      "gloss": "batshonxa"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-18T14:54:29.244048492Z",
+  "model": "glm-5.3"
+}

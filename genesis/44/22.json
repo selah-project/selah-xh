@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 44:22",
+  "book": "genesis",
+  "lang": "xh",
+  "chapter": 44,
+  "translation": "Sathi ku-Adonayi wam: “Umntwana akanako ukushiya ⟨את⟩ uyise; xa eshiya ⟨את⟩ uyise, uyise uya kufa.”",
+  "tokens": [
+    {
+      "surface": "ונאמר",
+      "gloss": "Sathi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "u-Adonayi wam"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hayi"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "akanako"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "umntwana"
+    },
+    {
+      "surface": "לעזב",
+      "gloss": "ukushiya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uyise"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "uyise"
+    },
+    {
+      "surface": "ועזב",
+      "gloss": "xa eshiya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uyise"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "uyise"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "uya kufa"
+    }
+  ],
+  "timestamp": "2026-09-18T05:41:35.825645036Z",
+  "model": "glm-5.3"
+}

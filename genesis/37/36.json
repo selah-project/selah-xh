@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "genesis 37:36",
+  "book": "genesis",
+  "lang": "xh",
+  "chapter": 37,
+  "translation": "AMadani amthengise ⟨את⟩ eMitsrayim, kuPotifari, isikhonzi senkundla sikaParo, intloko yabasiki.",
+  "tokens": [
+    {
+      "surface": "והמדנים",
+      "gloss": "aMadani"
+    },
+    {
+      "surface": "מכרו",
+      "gloss": "amthengise"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "yena"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku… e"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "eMitsrayim"
+    },
+    {
+      "surface": "לפוטיפר",
+      "gloss": "kuPotifari"
+    },
+    {
+      "surface": "סריס",
+      "gloss": "isikhonzi senkundla"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ukaParo, sikaParo"
+    },
+    {
+      "surface": "שר",
+      "gloss": "intloko"
+    },
+    {
+      "surface": "הטבחים",
+      "gloss": "yabasiki"
+    }
+  ],
+  "timestamp": "2026-09-18T05:35:53.026670921Z",
+  "model": "glm-5.3"
+}

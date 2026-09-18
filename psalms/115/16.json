@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 115:16",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 115,
+  "translation": "Amazulu, amazulu ngukaYahwe, kodwa umhlaba uwanike abantwana bentsundu.",
+  "tokens": [
+    {
+      "surface": "השמים",
+      "gloss": "Amazulu"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "amazulu"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ngukaYahwe"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "kodwa umhlaba"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "uwanike"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "abantwana"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "bentsundu"
+    }
+  ],
+  "timestamp": "2026-09-18T15:22:10.127239113Z",
+  "model": "glm-5.3"
+}

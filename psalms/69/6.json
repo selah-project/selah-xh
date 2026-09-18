@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 69:6",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 69,
+  "translation": "uElohim, wena uyazazi iwula yam, nokuba amatyala am akufihlekanga kuwe.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "uyazazi"
+    },
+    {
+      "surface": "לאולתי",
+      "gloss": "iwula yam"
+    },
+    {
+      "surface": "ואשמותי",
+      "gloss": "nokuba amatyala am"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "kuwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "akwa-"
+    },
+    {
+      "surface": "נכחדו",
+      "gloss": "fihlekanga"
+    }
+  ],
+  "timestamp": "2026-09-18T14:56:53.637393403Z",
+  "model": "glm-5.3"
+}

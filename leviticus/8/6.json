@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 8:6",
+  "book": "leviticus",
+  "lang": "xh",
+  "chapter": 8,
+  "translation": "Wasondisa uMoshe ⟨את⟩ u-Aharon no-⟨ואת⟩ oonyana bakhe, wabatshula ngamanzi.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "Wasondisa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "uMoshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "u-Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "u-Aharon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨ואת⟩",
+      "marks": "oonyana bakhe"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "oonyana bakhe"
+    },
+    {
+      "surface": "וירחץ",
+      "gloss": "wabatshula"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ aba-"
+    },
+    {
+      "surface": "במים",
+      "gloss": "ngamanzi"
+    }
+  ],
+  "timestamp": "2026-09-18T06:44:14.378413386Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 35:17",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 35,
+  "translation": "⟨את⟩ iingalelo zenkundla, ⟨את⟩ iipilisi zawo kunye ⟨את⟩ neendawo zokumiswa zawo, kunye ⟨את⟩ necwazi lomnyango wenkundla;",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iingalelo zenkundla"
+    },
+    {
+      "surface": "קלעי",
+      "gloss": "iingalelo"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "zenkundla"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iipilisi zawo"
+    },
+    {
+      "surface": "עמדיו",
+      "gloss": "iipilisi zawo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "neendawo zokumiswa zawo"
+    },
+    {
+      "surface": "אדניה",
+      "gloss": "iindawo zokumiswa zawo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "icwazi lomnyango wenkundla"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "icwazi"
+    },
+    {
+      "surface": "שער",
+      "gloss": "lomnyango"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "wenkundla"
+    }
+  ],
+  "timestamp": "2026-09-18T06:23:54.710943153Z",
+  "model": "glm-5.3"
+}

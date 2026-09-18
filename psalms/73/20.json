@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 73:20",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 73,
+  "translation": "Njengokuphupha ekuvusekeni komntu, u-Adonayi, uvuse ⟨kwisixeko⟩, uza kudanyaza umfanekiso wabo.",
+  "tokens": [
+    {
+      "surface": "כחלום",
+      "gloss": "njengokuphupha"
+    },
+    {
+      "surface": "מהקיץ",
+      "gloss": "ekuvusekeni komntu"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "u-Adonayi"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "kwisixeko"
+    },
+    {
+      "surface": "צלמם",
+      "gloss": "umfanekiso wabo"
+    },
+    {
+      "surface": "תבזה",
+      "gloss": "uza kudanyaza"
+    }
+  ],
+  "timestamp": "2026-09-18T15:00:01.029792487Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 12:14",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 12,
+  "translation": "Kwaye lo mhla uyakuba kuwe ngokukhumbuzo; niyakumkhumbula ⟨את⟩ wona njengomthendelezo kuYahwe, ezizukulwaneni zenu; ngumgaqo ongunaphakade — niyakuwumkhumbula.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Kwaye uyakuba"
+    },
+    {
+      "surface": "היום",
+      "gloss": "lo mhla"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "olu"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kuwe"
+    },
+    {
+      "surface": "לזכרון",
+      "gloss": "ngokukhumbuzo"
+    },
+    {
+      "surface": "וחגתם",
+      "gloss": "niyakumkhumbula"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "umthendelezo"
+    },
+    {
+      "surface": "חג",
+      "gloss": "njengomthendelezo"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kuYahwe"
+    },
+    {
+      "surface": "לדרתיכם",
+      "gloss": "ezizukulwaneni zenu"
+    },
+    {
+      "surface": "חקת",
+      "gloss": "ngumgaqo"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ongunaphakade"
+    },
+    {
+      "surface": "תחגהו",
+      "gloss": "niyakuwumkhumbula"
+    }
+  ],
+  "timestamp": "2026-09-18T06:02:01.933298030Z",
+  "model": "glm-5.3"
+}

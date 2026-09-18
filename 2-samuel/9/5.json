@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 9:5",
+  "book": "2-samuel",
+  "lang": "xh",
+  "chapter": 9,
+  "translation": "Wathumela uDawidi, inkosi, waya wamkela endlwini kaMakhiri, unyana ka-Ammieli, eLo-Devari.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Wathumela"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "inkosi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "uDawidi"
+    },
+    {
+      "surface": "ויקחהו",
+      "gloss": "waya wamkela"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "endlwini"
+    },
+    {
+      "surface": "מכיר",
+      "gloss": "kaMakhiri"
+    },
+    {
+      "surface": "בן",
+      "gloss": "unyana"
+    },
+    {
+      "surface": "עמיאל",
+      "gloss": "ka-Ammieli"
+    },
+    {
+      "surface": "מלו",
+      "gloss": "e"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "Lo-Devari"
+    }
+  ],
+  "timestamp": "2026-09-18T09:49:54.985086290Z",
+  "model": "glm-5.3"
+}

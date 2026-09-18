@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 9:12",
+  "book": "numbers",
+  "lang": "xh",
+  "chapter": 9,
+  "translation": "Bangashiyo nantoni na yayo kuze kusekusa, nolithambo abaluphukisi kuyo; njengoko wonke umthetho wePesaka bayawenza ⟨את⟩ bayagcina.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "bange"
+    },
+    {
+      "surface": "ישאירו",
+      "gloss": "shiye"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "nantoni na yayo"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kuze"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "kusekusa"
+    },
+    {
+      "surface": "ועצם",
+      "gloss": "nolithambo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "bange"
+    },
+    {
+      "surface": "ישברו",
+      "gloss": "phukise"
+    },
+    {
+      "surface": "בו",
+      "gloss": "kuyo"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "njengoko"
+    },
+    {
+      "surface": "חקת",
+      "gloss": "umthetho"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "wePesaka"
+    },
+    {
+      "surface": "יעשו",
+      "gloss": "bayawenza bayagcina"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "iPesaka"
+    }
+  ],
+  "timestamp": "2026-09-18T07:22:14.319445342Z",
+  "model": "glm-5.3"
+}

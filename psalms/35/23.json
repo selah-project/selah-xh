@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 35:23",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 35,
+  "translation": "Vuka, sukuma, wena uElohim wam no-Adonayi wam, ⟨ku⟩mgwebo wam naku⟨dab⟩o lam.",
+  "tokens": [
+    {
+      "surface": "העירה",
+      "gloss": "Vuka"
+    },
+    {
+      "surface": "והקיצה",
+      "gloss": "sukuma"
+    },
+    {
+      "surface": "למשפטי",
+      "gloss": "mgwebo wam"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "uElohim wam"
+    },
+    {
+      "surface": "ואדני",
+      "gloss": "no-Adonayi wam"
+    },
+    {
+      "surface": "לריבי",
+      "gloss": "dabo lam"
+    }
+  ],
+  "timestamp": "2026-09-18T14:40:06.506138348Z",
+  "model": "glm-5.3"
+}

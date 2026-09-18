@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 9:20",
+  "book": "leviticus",
+  "lang": "xh",
+  "chapter": 9,
+  "translation": "Babeka ⟨את⟩ amafutha kwamabele, wautshisa yena amafutha phezu kwe-altare.",
+  "tokens": [
+    {
+      "surface": "וישימו",
+      "gloss": "babeka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amafutha"
+    },
+    {
+      "surface": "החלבים",
+      "gloss": "amafutha"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu"
+    },
+    {
+      "surface": "החזות",
+      "gloss": "kwamabele"
+    },
+    {
+      "surface": "ויקטר",
+      "gloss": "wautshisa"
+    },
+    {
+      "surface": "החלבים",
+      "gloss": "amafutha"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "i-altare"
+    }
+  ],
+  "timestamp": "2026-09-18T06:42:46.523494893Z",
+  "model": "glm-5.3"
+}

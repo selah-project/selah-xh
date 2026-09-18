@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 8:8",
+  "book": "deuteronomy",
+  "lang": "xh",
+  "chapter": 8,
+  "translation": "Elubale lotywala besonka, nesiriyeli, newodini, netreyi, negranada; elubale looliwe onamafutha, nobusi.",
+  "tokens": [
+    {
+      "surface": "ארץ",
+      "gloss": "elubale"
+    },
+    {
+      "surface": "חטה",
+      "gloss": "utywala besonka"
+    },
+    {
+      "surface": "ושערה",
+      "gloss": "nesiriyeli"
+    },
+    {
+      "surface": "וגפן",
+      "gloss": "newodini"
+    },
+    {
+      "surface": "ותאנה",
+      "gloss": "netreyi"
+    },
+    {
+      "surface": "ורמון",
+      "gloss": "negranada"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "elubale"
+    },
+    {
+      "surface": "זית",
+      "gloss": "ooliwe"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "onamafutha"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "nobusi"
+    }
+  ],
+  "timestamp": "2026-09-18T17:25:34.192655566Z",
+  "model": "glm-5.3"
+}

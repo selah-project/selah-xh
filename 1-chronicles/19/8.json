@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 19:8",
+  "book": "1-chronicles",
+  "lang": "xh",
+  "chapter": 19,
+  "translation": "UDavide esiva, wathumela ⟨את⟩ uYowabu ne-⟨את⟩ wonke umkhosi weengonyama.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "esiva"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "uDavide"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "wathumela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uYowabu"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "uYowabu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "wonke umkhosi weengonyama"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wonke"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "umkhosi"
+    },
+    {
+      "surface": "הגבורים",
+      "gloss": "weengonyama"
+    }
+  ],
+  "timestamp": "2026-09-18T16:58:52.877387695Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 50:8",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 50,
+  "translation": "Hayi ngezibalelo zakho miza kukugxeka, kwaye izibalelo ezitshisiweyo zakho zikum phambi kwam qho.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Hayi"
+    },
+    {
+      "surface": "על",
+      "gloss": "nge"
+    },
+    {
+      "surface": "זבחיך",
+      "gloss": "zibalelo zakho"
+    },
+    {
+      "surface": "אוכיחך",
+      "gloss": "miza kukugxeka"
+    },
+    {
+      "surface": "ועולתיך",
+      "gloss": "kwaye izibalelo ezitshisiweyo zakho"
+    },
+    {
+      "surface": "לנגדי",
+      "gloss": "zikum phambi kwam"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "qho"
+    }
+  ],
+  "timestamp": "2026-09-18T14:46:43.740013597Z",
+  "model": "glm-5.3"
+}

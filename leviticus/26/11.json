@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 26:11",
+  "book": "leviticus",
+  "lang": "xh",
+  "chapter": 26,
+  "translation": "Ndiza kubeka indlu yam yokuhlala phakathi kwenu, umphefumlo wam awuzukudinwa ⟨את⟩ nina.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "Ndiza kubeka"
+    },
+    {
+      "surface": "משכני",
+      "gloss": "indlu yam yokuhlala"
+    },
+    {
+      "surface": "בתוככם",
+      "gloss": "phakathi kwenu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "hayi \/ awu-"
+    },
+    {
+      "surface": "תגעל",
+      "gloss": "zukudinwa"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "umphefumlo wam"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ nina",
+      "marks": "nina"
+    }
+  ],
+  "timestamp": "2026-09-18T07:05:57.246013238Z",
+  "model": "glm-5.3"
+}

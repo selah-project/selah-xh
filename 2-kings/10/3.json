@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 10:3",
+  "book": "2-kings",
+  "lang": "xh",
+  "chapter": 10,
+  "translation": "nithathe elona lilungile nelona lize ngokulungileyo kwiinyana zookhokela benu, nimze esitulweni sikayise, nilwe ngendlu yenkosi yenu.",
+  "tokens": [
+    {
+      "surface": "וראיתם",
+      "gloss": "nithathe"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "elona lilungile"
+    },
+    {
+      "surface": "והישר",
+      "gloss": "nelona lize ngokulungileyo"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "kwiinyana"
+    },
+    {
+      "surface": "אדניכם",
+      "gloss": "zookhokela benu"
+    },
+    {
+      "surface": "ושמתם",
+      "gloss": "nimze"
+    },
+    {
+      "surface": "על",
+      "gloss": "es"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "itulweni"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "sikayise"
+    },
+    {
+      "surface": "והלחמו",
+      "gloss": "nilwe"
+    },
+    {
+      "surface": "על",
+      "gloss": "nge"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ndlu"
+    },
+    {
+      "surface": "אדניכם",
+      "gloss": "yenkosi yenu"
+    }
+  ],
+  "timestamp": "2026-09-18T10:44:50.268142214Z",
+  "model": "glm-5.3"
+}

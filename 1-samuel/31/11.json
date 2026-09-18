@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 31:11",
+  "book": "1-samuel",
+  "lang": "xh",
+  "chapter": 31,
+  "translation": "Basiva ngaye abahlali beYabheyishi yaseGil'adi ⟨את⟩ oko abakwenzileyo amaPelishtim kuShawuli.",
+  "tokens": [
+    {
+      "surface": "וישמעו",
+      "gloss": "basiva"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ngaye"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "abahlali"
+    },
+    {
+      "surface": "יביש",
+      "gloss": "beYabheyishi"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "yaseGil'adi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oko"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oko"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "abakwenzileyo"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "amaPelishtim"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "kuShawuli"
+    }
+  ],
+  "timestamp": "2026-09-18T09:43:33.040665262Z",
+  "model": "glm-5.3"
+}

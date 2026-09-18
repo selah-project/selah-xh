@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 4:3",
+  "book": "2-kings",
+  "lang": "xh",
+  "chapter": 4,
+  "translation": "Wayesetha: “Hamba, cela ngokwakho izitya ezivela ngaphandle, ⟨את⟩ kuwo onke amelakudeyo akho — izitya ezize, musa ukunciphisa.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wayesetha"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "hamba"
+    },
+    {
+      "surface": "שאלי",
+      "gloss": "cela"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ngokwakho"
+    },
+    {
+      "surface": "כלים",
+      "gloss": "izitya"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ezivela"
+    },
+    {
+      "surface": "החוץ",
+      "gloss": "ngaphandle"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "onke amelakudeyo akho"
+    },
+    {
+      "surface": "כל",
+      "gloss": "onke"
+    },
+    {
+      "surface": "שכנכי",
+      "gloss": "amelakudeyo akho"
+    },
+    {
+      "surface": "כלים",
+      "gloss": "izitya"
+    },
+    {
+      "surface": "רקים",
+      "gloss": "ezize"
+    },
+    {
+      "surface": "אל",
+      "gloss": "musa"
+    },
+    {
+      "surface": "תמעיטי",
+      "gloss": "ukunciphisa"
+    }
+  ],
+  "timestamp": "2026-09-18T10:40:32.880217119Z",
+  "model": "glm-5.3"
+}

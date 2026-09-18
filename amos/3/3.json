@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "amos 3:3",
+  "book": "amos",
+  "lang": "xh",
+  "chapter": 3,
+  "translation": "Ingaba ababini bayahamba kunye, ngaphandle kokuba bevumeleneyo?",
+  "tokens": [
+    {
+      "surface": "הילכו",
+      "gloss": "Ingaba bayahamba"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ababini"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "kunye"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "ngaphandle"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kokuba"
+    },
+    {
+      "surface": "נועדו",
+      "gloss": "bevumeleneyo"
+    }
+  ],
+  "timestamp": "2026-09-18T13:53:20.898274273Z",
+  "model": "glm-5.3"
+}

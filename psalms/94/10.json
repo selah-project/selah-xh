@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 94:10",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 94,
+  "translation": "Lowo uqeqesha iintlanga, akanqangi yini na? Lowo ufundisa umntu ulwazi, ⟨uYahwe⟩.",
+  "tokens": [
+    {
+      "surface": "היסר",
+      "gloss": "Lowo uqeqesha"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "iintlanga"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "akanqangi yini na?"
+    },
+    {
+      "surface": "יוכיח",
+      "gloss": "akanqangi"
+    },
+    {
+      "surface": "המלמד",
+      "gloss": "Lowo ufundisa"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "umntu"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "ulwazi, ⟨uYahwe⟩"
+    }
+  ],
+  "timestamp": "2026-09-18T15:10:05.543553704Z",
+  "model": "glm-5.3"
+}

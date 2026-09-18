@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 24:1",
+  "book": "1-chronicles",
+  "lang": "xh",
+  "chapter": 24,
+  "translation": "Kwakungeenyana ka-Aharon iindawo zabo: iinyana ka-Aharon yayinguNadab noAbihu, u-Elazari noItamari.",
+  "tokens": [
+    {
+      "surface": "ולבני",
+      "gloss": "Kwakungeenyana ka"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "u-Aharon"
+    },
+    {
+      "surface": "מחלקותם",
+      "gloss": "iindawo zabo"
+    },
+    {
+      "surface": "בני",
+      "gloss": "iinyana"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "ka-Aharon"
+    },
+    {
+      "surface": "נדב",
+      "gloss": "nguNadab"
+    },
+    {
+      "surface": "ואביהוא",
+      "gloss": "noAbihu"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "u-Elazari"
+    },
+    {
+      "surface": "ואיתמר",
+      "gloss": "noItamari"
+    }
+  ],
+  "timestamp": "2026-09-18T16:59:35.328305475Z",
+  "model": "glm-5.3"
+}

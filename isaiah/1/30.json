@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "isaiah 1:30",
+  "book": "isaiah",
+  "lang": "xh",
+  "chapter": 1,
+  "translation": "Kuba niya kuba njengomthi othintelweyo amaqaqambeli awo, yaye njengesim esingenamanzi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "תהיו",
+      "gloss": "niya kuba"
+    },
+    {
+      "surface": "כאלה",
+      "gloss": "njengomthi"
+    },
+    {
+      "surface": "נבלת",
+      "gloss": "othintelweyo"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "amaqaqambeli"
+    },
+    {
+      "surface": "וכגנה",
+      "gloss": "yaye njengesim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "eso-"
+    },
+    {
+      "surface": "מים",
+      "gloss": "amanzi"
+    },
+    {
+      "surface": "אין",
+      "gloss": "esingen-"
+    },
+    {
+      "surface": "לה",
+      "gloss": "aso"
+    }
+  ],
+  "timestamp": "2026-09-18T11:01:59.479780897Z",
+  "model": "glm-5.3"
+}

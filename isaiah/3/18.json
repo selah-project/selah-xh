@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 3:18",
+  "book": "isaiah",
+  "lang": "xh",
+  "chapter": 3,
+  "translation": "Ngelo xesha u-Adonayi uza kuthabatha ⟨את⟩ ubuhle beempahla zeenyawo ezikhala, neentambo ezihlotshiweyo, neendilinga ezifana nenyanga.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "ngelo xesha"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "elo"
+    },
+    {
+      "surface": "יסיר",
+      "gloss": "uza kuthabatha"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "u-Adonayi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ubuhle"
+    },
+    {
+      "surface": "תפארת",
+      "gloss": "ubuhle"
+    },
+    {
+      "surface": "העכסים",
+      "gloss": "beempahla zeenyawo ezikhala"
+    },
+    {
+      "surface": "והשביסים",
+      "gloss": "neentambo ezihlotshiweyo"
+    },
+    {
+      "surface": "והשהרנים",
+      "gloss": "neendilinga ezifana nenyanga"
+    }
+  ],
+  "timestamp": "2026-09-18T11:04:25.630053809Z",
+  "model": "glm-5.3"
+}

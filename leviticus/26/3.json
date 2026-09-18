@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 26:3",
+  "book": "leviticus",
+  "lang": "xh",
+  "chapter": 26,
+  "translation": "Ukuba nihambele kwimigaqo yam, ⟨ואת⟩ imiyalelo yam niyigcina niyenze ⟨אתם⟩;",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ukuba"
+    },
+    {
+      "surface": "בחקתי",
+      "gloss": "kwimigaqo yam"
+    },
+    {
+      "surface": "תלכו",
+      "gloss": "nihambele"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨ואת⟩",
+      "marks": "imiyalelo yam"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "imiyalelo yam"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "niyigcina"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "niyenze"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩"
+    }
+  ],
+  "timestamp": "2026-09-18T07:06:26.877132424Z",
+  "model": "glm-5.3"
+}

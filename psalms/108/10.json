@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 108:10",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 108,
+  "translation": "iMowabu sisitya sam sokuhlambela; phezu koEdom ndiza kutsho izicathulo zam; phezu kweFalisiti ndiza kukhalipha.",
+  "tokens": [
+    {
+      "surface": "מואב",
+      "gloss": "iMowabu"
+    },
+    {
+      "surface": "סיר",
+      "gloss": "sisitya sam sokuhlambela"
+    },
+    {
+      "surface": "רחצי",
+      "gloss": "sokuhlambela"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu ko-"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "אשליך",
+      "gloss": "ndiza kutsho"
+    },
+    {
+      "surface": "נעלי",
+      "gloss": "izicathulo zam"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "phezu kwe-"
+    },
+    {
+      "surface": "פלשת",
+      "gloss": "Falisiti"
+    },
+    {
+      "surface": "אתרועע",
+      "gloss": "ndiza kukhalipha"
+    }
+  ],
+  "timestamp": "2026-09-18T17:45:09.040396422Z",
+  "model": "glm-5.3"
+}

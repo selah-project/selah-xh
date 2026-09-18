@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 49:3",
+  "book": "isaiah",
+  "lang": "xh",
+  "chapter": 49,
+  "translation": "Wathi kum: “Wena undum wam unguye, Israyeli, owokuba ndiza kuzihlabisa ngakho.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kum"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "undum wam"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israyeli"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "owokuba"
+    },
+    {
+      "surface": "בך",
+      "gloss": "ngakho"
+    },
+    {
+      "surface": "אתפאר",
+      "gloss": "ndiza kuzihlabisa"
+    }
+  ],
+  "timestamp": "2026-09-18T17:35:38.784330338Z",
+  "model": "glm-5.3"
+}

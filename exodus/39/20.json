@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 39:20",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 39,
+  "translation": "Benza iisipsuma ezimbini zegolide, bazibeka kwiihlombe ezimbini ze-efodi ngaphantsi, phambi kobuso bayo, ecaleni lodibaniso lwalo, ngaphezulu wombaxo we-efodi.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "benza"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "ezimbini"
+    },
+    {
+      "surface": "טבעת",
+      "gloss": "iisipsuma"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "zegolide"
+    },
+    {
+      "surface": "ויתנם",
+      "gloss": "bazibeka"
+    },
+    {
+      "surface": "על",
+      "gloss": "kwi"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "iihlombe ezimbini"
+    },
+    {
+      "surface": "כתפת",
+      "gloss": "iihlombe ezimbini"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "ze-efodi"
+    },
+    {
+      "surface": "מלמטה",
+      "gloss": "ngaphantsi"
+    },
+    {
+      "surface": "ממול",
+      "gloss": "phambi"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "ubuso bayo"
+    },
+    {
+      "surface": "לעמת",
+      "gloss": "ecalenilo"
+    },
+    {
+      "surface": "מחברתו",
+      "gloss": "odibaniso lwalo"
+    },
+    {
+      "surface": "ממעל",
+      "gloss": "ngaphezulu"
+    },
+    {
+      "surface": "לחשב",
+      "gloss": "wombaxo"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "we-efodi"
+    }
+  ],
+  "timestamp": "2026-09-18T06:31:29.963056540Z",
+  "model": "glm-5.3"
+}

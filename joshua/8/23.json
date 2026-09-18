@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "joshua 8:23",
+  "book": "joshua",
+  "lang": "xh",
+  "chapter": 8,
+  "translation": "⟨את⟩ Inkosi yeAy bayithathe iphilayo, bamzisela ⟨את⟩ kuYehoshuwa.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "inkosi yeAy"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "inkosi"
+    },
+    {
+      "surface": "העי",
+      "gloss": "yeAy"
+    },
+    {
+      "surface": "תפשו",
+      "gloss": "bayithathe"
+    },
+    {
+      "surface": "חי",
+      "gloss": "iphilayo"
+    },
+    {
+      "surface": "ויקרבו",
+      "gloss": "bamzisela"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "bamzisela (inkosi)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "uYehoshuwa"
+    }
+  ],
+  "timestamp": "2026-09-18T08:34:45.391425948Z",
+  "model": "glm-5.3"
+}

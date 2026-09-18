@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 30:15",
+  "book": "isaiah",
+  "lang": "xh",
+  "chapter": 30,
+  "translation": "Kuba u-Adonayi uYahwe, oyiNgcwele yaseSirayeli, uthe kanjalo: Ebubuyeleni nasekuzoleni niya kusindwa; ethulisweni nasekuthembeni kuya kuba ngamandla enu. Kodwa nina anazimbelela.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "כה",
+      "gloss": "kanjalo"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "uthe"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "u-Adonayi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "oyiNgcwele"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "yaseSirayeli"
+    },
+    {
+      "surface": "בשובה",
+      "gloss": "ebubuyeleni"
+    },
+    {
+      "surface": "ונחת",
+      "gloss": "nasekuzoleni"
+    },
+    {
+      "surface": "תושעון",
+      "gloss": "niya kusindwa"
+    },
+    {
+      "surface": "בהשקט",
+      "gloss": "ethulisweni"
+    },
+    {
+      "surface": "ובבטחה",
+      "gloss": "nasekuthembeni"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "kuya kuba"
+    },
+    {
+      "surface": "גבורתכם",
+      "gloss": "ngamandla enu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kodwa hayi"
+    },
+    {
+      "surface": "אביתם",
+      "gloss": "nina anazimbelela"
+    }
+  ],
+  "timestamp": "2026-09-18T11:23:21.695414116Z",
+  "model": "glm-5.3"
+}

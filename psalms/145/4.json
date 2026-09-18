@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 145:4",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 145,
+  "translation": "Isizukulwana kumzukulwana sidumisa imisebenzi yakho, amandla akhe abhengezwa.",
+  "tokens": [
+    {
+      "surface": "דור",
+      "gloss": "Isizukulwana"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "kumzukulwana"
+    },
+    {
+      "surface": "ישבח",
+      "gloss": "sidumisa"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "imisebenzi yakho"
+    },
+    {
+      "surface": "וגבורתיך",
+      "gloss": "amandla"
+    },
+    {
+      "surface": "יגידו",
+      "gloss": "abhengezwa"
+    }
+  ],
+  "timestamp": "2026-09-18T15:34:09.573138538Z",
+  "model": "glm-5.3"
+}

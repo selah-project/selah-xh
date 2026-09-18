@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 8:12",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 8,
+  "translation": "UYahwe wathi kuMoshe: “Yithi ku-Aharon: Nwebisa ⟨את⟩ induku yakho, ubethe ⟨את⟩ umdenga womhlaba, ihle yiikneni kulo lonke ilizwe leMitsrayim.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "משה",
+      "gloss": "uMoshe"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "yithi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "u-Aharon"
+    },
+    {
+      "surface": "נטה",
+      "gloss": "nwebisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "induku yakho"
+    },
+    {
+      "surface": "מטך",
+      "gloss": "induku yakho"
+    },
+    {
+      "surface": "והך",
+      "gloss": "ubethe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umdenga womhlaba"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "umdenga"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "womhlaba"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "ihle"
+    },
+    {
+      "surface": "לכנם",
+      "gloss": "yiikneni"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "kulo lonke"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ilizwe"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "leMitsrayim"
+    }
+  ],
+  "timestamp": "2026-09-18T05:55:43.997058616Z",
+  "model": "glm-5.3"
+}

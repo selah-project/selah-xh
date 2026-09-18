@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "song-of-songs 3:1",
+  "book": "song-of-songs",
+  "lang": "xh",
+  "chapter": 3,
+  "translation": "Ebhedini lam ngoobusuku ndafuna ⟨את⟩ lowo amthandayo umphefumlo wam; ndamfuna, kodwa andimfumanga.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "ebhedini"
+    },
+    {
+      "surface": "משכבי",
+      "gloss": "lam"
+    },
+    {
+      "surface": "בלילות",
+      "gloss": "ngoobusuku"
+    },
+    {
+      "surface": "בקשתי",
+      "gloss": "ndafuna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lowo amthandayo umphefumlo wam"
+    },
+    {
+      "surface": "שאהבה",
+      "gloss": "lowo amthandayo"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "umphefumlo wam"
+    },
+    {
+      "surface": "בקשתיו",
+      "gloss": "ndamfuna"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kodwa andi-"
+    },
+    {
+      "surface": "מצאתיו",
+      "gloss": "-mfumanga"
+    }
+  ],
+  "timestamp": "2026-09-18T16:16:28.427710694Z",
+  "model": "glm-5.3"
+}

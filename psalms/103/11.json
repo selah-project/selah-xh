@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 103:11",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 103,
+  "translation": "Kuba njengokuphakama kwamazulu phezu komhlaba, kunjalo na ukhulu lweekhesedi zakhe phezu kwabamoyikayo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "כגבה",
+      "gloss": "njengokuphakama"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "amazulu"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu kwa-"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "omhlaba"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "ukhulu \/ uqine"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "iikhesedi zakhe"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu kwa-"
+    },
+    {
+      "surface": "יראיו",
+      "gloss": "abamoyikayo"
+    }
+  ],
+  "timestamp": "2026-09-18T15:13:12.180760281Z",
+  "model": "glm-5.3"
+}

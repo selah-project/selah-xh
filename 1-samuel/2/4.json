@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 2:4",
+  "book": "1-samuel",
+  "lang": "xh",
+  "chapter": 2,
+  "translation": "Izikhali zeegorha ziqhekezile, yaye abasilelekileyo bazinxibile ngamandla.",
+  "tokens": [
+    {
+      "surface": "קשת",
+      "gloss": "izikhali (imbowu)"
+    },
+    {
+      "surface": "גברים",
+      "gloss": "zeegorha"
+    },
+    {
+      "surface": "חתים",
+      "gloss": "ziqhekezile"
+    },
+    {
+      "surface": "ונכשלים",
+      "gloss": "yaye abasilelekileyo"
+    },
+    {
+      "surface": "אזרו",
+      "gloss": "bazinxibile"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "ngamandla"
+    }
+  ],
+  "timestamp": "2026-09-18T09:14:29.694347026Z",
+  "model": "glm-5.3"
+}

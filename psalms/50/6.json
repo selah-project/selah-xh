@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 50:6",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 50,
+  "translation": "Kwaye amazulu ayaqbira ulungelo lwakhe, kuba nguYahwe yedwa ugwebi. Selah.",
+  "tokens": [
+    {
+      "surface": "ויגידו",
+      "gloss": "Kwaye ayaqbira"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "amazulu"
+    },
+    {
+      "surface": "צדקו",
+      "gloss": "ulungelo lwakhe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "nguYahwe yedwa"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "ugwebi"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yedwa"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-18T14:46:43.739794137Z",
+  "model": "glm-5.3"
+}

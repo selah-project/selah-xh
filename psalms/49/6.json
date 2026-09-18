@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 49:6",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 49,
+  "translation": "Kutheni ndingoyike kwimihla yokubi, inqobo ubugwenxa obuzungezela amacala am?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "Kutheni"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "ndingoyike"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "kwimihla"
+    },
+    {
+      "surface": "רע",
+      "gloss": "yokubi"
+    },
+    {
+      "surface": "עון",
+      "gloss": "ubugwenxa"
+    },
+    {
+      "surface": "עקבי",
+      "gloss": "obuzungezela amacala am"
+    },
+    {
+      "surface": "יסובני",
+      "gloss": "⟨ndizungezwa⟩"
+    }
+  ],
+  "timestamp": "2026-09-18T14:46:20.341177390Z",
+  "model": "glm-5.3"
+}

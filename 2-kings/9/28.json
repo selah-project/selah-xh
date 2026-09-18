@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "2-kings 9:28",
+  "book": "2-kings",
+  "lang": "xh",
+  "chapter": 9,
+  "translation": "Amakhoboka akhe wamkhwabelisela ⟨את⟩ ayeziYerushalayimi, wamngcwaba ⟨את⟩ engcwabeni lakhe kunye nooyise, kwisixeko sikaDavide.",
+  "tokens": [
+    {
+      "surface": "וירכבו",
+      "gloss": "wamkhwabelisela"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "u-Ahaziyah"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "amakhoboka akhe"
+    },
+    {
+      "surface": "ירושלמה",
+      "gloss": "ayeziYerushalayimi"
+    },
+    {
+      "surface": "ויקברו",
+      "gloss": "wamngcwaba"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "u-Ahaziyah"
+    },
+    {
+      "surface": "בקברתו",
+      "gloss": "engcwabeni lakhe"
+    },
+    {
+      "surface": "עם",
+      "gloss": "kunye"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "nooyise"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "kwisixeko"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "sikaDavide"
+    }
+  ],
+  "timestamp": "2026-09-18T10:46:31.867702143Z",
+  "model": "glm-5.3"
+}

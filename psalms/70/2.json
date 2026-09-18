@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 70:2",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 70,
+  "translation": "uElohim, ukundisindisa; uYahwe, ukunceda kwam — khawulezile!",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "להצילני",
+      "gloss": "ukundisindisa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "לעזרתי",
+      "gloss": "ukunceda kwam"
+    },
+    {
+      "surface": "חושה",
+      "gloss": "khawulezile"
+    }
+  ],
+  "timestamp": "2026-09-18T14:56:50.307834052Z",
+  "model": "glm-5.3"
+}

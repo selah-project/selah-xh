@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 29:26",
+  "book": "genesis",
+  "lang": "xh",
+  "chapter": 29,
+  "translation": "ULavani wathi: “Akwenziwa njalo kweli ndawo yethu, ukunikela encinane ngaphambi kwenkulu.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "uLavani"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hayi\/ak-"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "kwenziwa"
+    },
+    {
+      "surface": "כן",
+      "gloss": "njalo"
+    },
+    {
+      "surface": "במקומנו",
+      "gloss": "kweli ndawo yethu"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "ukunikela"
+    },
+    {
+      "surface": "הצעירה",
+      "gloss": "encinane"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ngaphambi kwe"
+    },
+    {
+      "surface": "הבכירה",
+      "gloss": "enkulu"
+    }
+  ],
+  "timestamp": "2026-09-18T05:26:12.943822962Z",
+  "model": "glm-5.3"
+}

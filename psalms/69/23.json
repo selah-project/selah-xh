@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 69:23",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 69,
+  "translation": "Makube itafile yabo phambi kwabo sisibambiso, nakulungiselelo kwabo makube sisiqhwala.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "makube"
+    },
+    {
+      "surface": "שלחנם",
+      "gloss": "itafile yabo"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "phambi kwabo"
+    },
+    {
+      "surface": "לפח",
+      "gloss": "sisibambiso"
+    },
+    {
+      "surface": "ולשלומים",
+      "gloss": "nakulungiselelo kwabo"
+    },
+    {
+      "surface": "למוקש",
+      "gloss": "sisiqhwala"
+    }
+  ],
+  "timestamp": "2026-09-18T14:55:29.898644974Z",
+  "model": "glm-5.3"
+}

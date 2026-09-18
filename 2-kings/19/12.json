@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 19:12",
+  "book": "2-kings",
+  "lang": "xh",
+  "chapter": 19,
+  "translation": "Ngaba oothixo bezizwe basindise ⟨את⟩ ezo, abazichithayo ooyise bam — iGowzani, ⟨את⟩ neHaran, noRetsefu, neenkosana zase-Edeni, ezaziseTelashari?",
+  "tokens": [
+    {
+      "surface": "ההצילו",
+      "gloss": "Ngaba basindise"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ezo"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "oothixo"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "bezizwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ezo"
+    },
+    {
+      "surface": "שחתו",
+      "gloss": "abazichithayo"
+    },
+    {
+      "surface": "אבותי",
+      "gloss": "ooyise bam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iGowzani"
+    },
+    {
+      "surface": "גוזן",
+      "gloss": "iGowzani"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ ne-",
+      "marks": "iHaran"
+    },
+    {
+      "surface": "חרן",
+      "gloss": "iHaran"
+    },
+    {
+      "surface": "ורצף",
+      "gloss": "noRetsefu"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "neenkosana"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "zase-Edeni"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ezazise"
+    },
+    {
+      "surface": "בתלאשר",
+      "gloss": "Telashari"
+    }
+  ],
+  "timestamp": "2026-09-18T10:51:59.172272430Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 6:4",
+  "book": "ecclesiastes",
+  "lang": "xh",
+  "chapter": 6,
+  "translation": "Kuba ngenanjengo uye wafika, yasekumnyama uhamba, yasekumnyama igama lakhe luyakusongwa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kuba"
+    },
+    {
+      "surface": "בהבל",
+      "gloss": "ngenanjengo"
+    },
+    {
+      "surface": "בא",
+      "gloss": "uye wafika"
+    },
+    {
+      "surface": "ובחשך",
+      "gloss": "yasekumnyama"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "uhamba"
+    },
+    {
+      "surface": "ובחשך",
+      "gloss": "yasekumnyama"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "igama lakhe"
+    },
+    {
+      "surface": "יככה",
+      "gloss": "luyakusongwa"
+    }
+  ],
+  "timestamp": "2026-09-18T16:26:43.120757624Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 74:13",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 74,
+  "translation": "Wena walahlula ngamandla akho ulwandle, waphula iintloko zeetanninim phezu kwamanzi.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Wena"
+    },
+    {
+      "surface": "פוררת",
+      "gloss": "walahlula"
+    },
+    {
+      "surface": "בעזך",
+      "gloss": "ngamandla akho"
+    },
+    {
+      "surface": "ים",
+      "gloss": "ulwandle"
+    },
+    {
+      "surface": "שברת",
+      "gloss": "waphula"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "iintloko"
+    },
+    {
+      "surface": "תנינים",
+      "gloss": "zeetanninim"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu"
+    },
+    {
+      "surface": "המים",
+      "gloss": "kwamanzi"
+    }
+  ],
+  "timestamp": "2026-09-18T15:01:06.852230831Z",
+  "model": "glm-5.3"
+}

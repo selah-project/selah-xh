@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 10:13",
+  "book": "isaiah",
+  "lang": "xh",
+  "chapter": 10,
+  "translation": "Kuba wathetha: Ngentambo yesandla sam ndenze, nangobulumko bam, kuba ndilumileyo; ndaza kuthabatha iindawo zezizwe, nugcubo wazo ndawutyeba, ndaza kuthoba njengamadoda amakhulu ahlalayo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kuba"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "wathetha"
+    },
+    {
+      "surface": "בכח",
+      "gloss": "ngentambo"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "yesandla sam"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "ndenze"
+    },
+    {
+      "surface": "ובחכמתי",
+      "gloss": "nangobulumko bam"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "נבנותי",
+      "gloss": "ndilumileyo"
+    },
+    {
+      "surface": "ואסיר",
+      "gloss": "ndaza kuthabatha"
+    },
+    {
+      "surface": "גבולת",
+      "gloss": "iindawo"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "zezizwe"
+    },
+    {
+      "surface": "ועתידתיהם",
+      "gloss": "nugcubo wazo"
+    },
+    {
+      "surface": "שושתי",
+      "gloss": "ndawutyeba"
+    },
+    {
+      "surface": "ואוריד",
+      "gloss": "ndaza kuthoba"
+    },
+    {
+      "surface": "כאביר",
+      "gloss": "njengamadoda amakhulu"
+    },
+    {
+      "surface": "יושבים",
+      "gloss": "ahlalayo"
+    }
+  ],
+  "timestamp": "2026-09-18T11:11:00.769739016Z",
+  "model": "glm-5.3"
+}

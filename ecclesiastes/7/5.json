@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 7:5",
+  "book": "ecclesiastes",
+  "lang": "xh",
+  "chapter": 7,
+  "translation": "Kulungile ukuziva ukohlwayo kwesazi, kunokuba umntu eziva iculo lezidenge.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "Kulungile"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "ukuziva"
+    },
+    {
+      "surface": "גערת",
+      "gloss": "ukohlwayo"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "kwesazi"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "kunokuba umntu"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "eziva"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "iculo"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "lezidenge"
+    }
+  ],
+  "timestamp": "2026-09-18T16:26:03.354300058Z",
+  "model": "glm-5.3"
+}

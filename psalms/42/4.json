@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 42:4",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 42,
+  "translation": "Iinyembezi zam zibe yisonka sam imini nabusuku, xaxa bekuthi kum bonke imini: “Uphi uElohim wakho?”",
+  "tokens": [
+    {
+      "surface": "היתה",
+      "gloss": "zibe"
+    },
+    {
+      "surface": "לי",
+      "gloss": "sam"
+    },
+    {
+      "surface": "דמעתי",
+      "gloss": "iinyembezi zam"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "yisonka"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "imini"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "nabusuku"
+    },
+    {
+      "surface": "באמר",
+      "gloss": "bekuthi"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kum"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bonke"
+    },
+    {
+      "surface": "היום",
+      "gloss": "imini"
+    },
+    {
+      "surface": "איה",
+      "gloss": "uphi"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "uElohim wakho"
+    }
+  ],
+  "timestamp": "2026-09-18T14:45:29.895170690Z",
+  "model": "glm-5.3"
+}

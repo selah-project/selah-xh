@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 132:7",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 132,
+  "translation": "Siza kungena ezikhululweni zakhe; siza kuzithoba phambi kwesiphongo sezinyawo zakhe.",
+  "tokens": [
+    {
+      "surface": "נבואה",
+      "gloss": "Siza kungena"
+    },
+    {
+      "surface": "למשכנותיו",
+      "gloss": "ezikhululweni zakhe"
+    },
+    {
+      "surface": "נשתחוה",
+      "gloss": "siza kuzithoba"
+    },
+    {
+      "surface": "להדם",
+      "gloss": "phambi kwesiphongo"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "sezinyawo zakhe"
+    }
+  ],
+  "timestamp": "2026-09-18T15:27:58.567329714Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 40:22",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 40,
+  "translation": "Wabeka ⟨את⟩ itafile etentini lokudibana, ecaleni kwetente, ngasentshona, ngaphandle kweredi.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "wabeka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "itafile"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "itafile"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "etentini"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "lokudibana"
+    },
+    {
+      "surface": "על",
+      "gloss": "ecaleni"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "ecala"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "kwetente"
+    },
+    {
+      "surface": "צפנה",
+      "gloss": "ngasentshona"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "ngaphandle"
+    },
+    {
+      "surface": "לפרכת",
+      "gloss": "kweredi"
+    }
+  ],
+  "timestamp": "2026-09-18T06:30:46.207166295Z",
+  "model": "glm-5.3"
+}

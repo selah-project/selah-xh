@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 141:1",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 141,
+  "translation": "Umhaliso kaDavide. uYahwe, ndakubiza; khawulezela undifethele; tyalela indlebe ilizwi lam xa ndibizela kuWe.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Umhaliso"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "kaDavide"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "קראתיך",
+      "gloss": "ndakubiza"
+    },
+    {
+      "surface": "חושה",
+      "gloss": "khawulezela"
+    },
+    {
+      "surface": "לי",
+      "gloss": "undifethele"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "tyalela indlebe"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "ilizwi lam"
+    },
+    {
+      "surface": "בקראי",
+      "gloss": "xa ndibizela"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kuWe"
+    }
+  ],
+  "timestamp": "2026-09-18T15:31:49.730042495Z",
+  "model": "glm-5.3"
+}

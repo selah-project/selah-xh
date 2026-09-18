@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "leviticus 22:31",
+  "book": "leviticus",
+  "lang": "xh",
+  "chapter": 22,
+  "translation": "Kananjalo nigcine imiyalelo yam, niyenzile ⟨את⟩ yonke; ndinguYahwe.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "nigcine"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "imiyalelo yam"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "niyenzile"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "imiyalelo yam"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ndi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "nguYahwe"
+    }
+  ],
+  "timestamp": "2026-09-18T06:59:06.486514778Z",
+  "model": "glm-5.3"
+}

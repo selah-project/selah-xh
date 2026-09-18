@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 6:15",
+  "book": "genesis",
+  "lang": "xh",
+  "chapter": 6,
+  "translation": "Yaye le yindlela uza kuyenza ngayo ⟨את⟩ yona: iingcango ezintathu zee-ama ubude betyeya, amashumi amahlanu zee-ama ububanzi bayo, amashumi amathathu zii-ama ukuphakama kwayo.",
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "yaye le"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "indlela…ngayo"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "uza kuyenza"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "yona (ityeya)"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "ezintathu"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "iingcango"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "zii-ama"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "ubude"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "betyeya"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "amashumi amahlanu"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "zii-ama"
+    },
+    {
+      "surface": "רחבה",
+      "gloss": "ububanzi"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "amashumi amathathu"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "zii-ama"
+    },
+    {
+      "surface": "קומתה",
+      "gloss": "ukuphakama"
+    }
+  ],
+  "timestamp": "2026-09-18T05:10:18.559561002Z",
+  "model": "glm-5.3"
+}

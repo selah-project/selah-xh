@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "nehemiah 3:3",
+  "book": "nehemiah",
+  "lang": "xh",
+  "chapter": 3,
+  "translation": "Kwaye ⟨את⟩ isango seentlanzi bayakhela iintsana zeSenaah; bona bayazimisela iintsizi zawo, zamisa iingcango zawo, iitshagi zawo, neentsika zawo.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "isango seentlanzi"
+    },
+    {
+      "surface": "שער",
+      "gloss": "isango"
+    },
+    {
+      "surface": "הדגים",
+      "gloss": "seentlanzi"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "bayakhela"
+    },
+    {
+      "surface": "בני",
+      "gloss": "iintsana"
+    },
+    {
+      "surface": "הסנאה",
+      "gloss": "zeSenaah"
+    },
+    {
+      "surface": "המה",
+      "gloss": "bona"
+    },
+    {
+      "surface": "קרוהו",
+      "gloss": "bayazimisela iintsizi zawo"
+    },
+    {
+      "surface": "ויעמידו",
+      "gloss": "zamisa"
+    },
+    {
+      "surface": "דלתתיו",
+      "gloss": "iingcango zawo"
+    },
+    {
+      "surface": "מנעוליו",
+      "gloss": "iitshagi zawo"
+    },
+    {
+      "surface": "ובריחיו",
+      "gloss": "neentsika zawo"
+    }
+  ],
+  "timestamp": "2026-09-18T17:50:21.651021368Z",
+  "model": "glm-5.3"
+}

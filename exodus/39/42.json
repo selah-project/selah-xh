@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "exodus 39:42",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 39,
+  "translation": "Ngokweenkonzo zako konkeoko uYahwe awakuyalelayo kuMoshe, ngokunjalo abantwana bakwaSirayeli benza ⟨את⟩ umsebenzi wonke.",
+  "tokens": [
+    {
+      "surface": "ככל",
+      "gloss": "ngokweenkonzo zako konkeoko"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oko"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "awakuyalelayo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uMoshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "kuMoshe"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ngokunjalo"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "benza"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abantwana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "bakwaSirayeli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umsebenzi wonke"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wonke"
+    },
+    {
+      "surface": "העבדה",
+      "gloss": "umsebenzi"
+    }
+  ],
+  "timestamp": "2026-09-18T06:31:01.594534820Z",
+  "model": "glm-5.3"
+}

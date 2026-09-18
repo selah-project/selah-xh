@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 135:12",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 135,
+  "translation": "Waza wanika umhlaba wabo njengelifa, ilifa kuIsrayeli, abantu bakhe.",
+  "tokens": [
+    {
+      "surface": "ונתן",
+      "gloss": "Waza wanika"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "umhlaba wabo"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "njengelifa"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "ilifa"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "kuIsrayeli"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "abantu bakhe"
+    }
+  ],
+  "timestamp": "2026-09-18T15:27:53.912979528Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-kings 3:22",
+  "book": "2-kings",
+  "lang": "xh",
+  "chapter": 3,
+  "translation": "Bavuka ekuseni kakhulu, ilanga lalikhanya phezu kamanzi, uMowabi wabona ngasekunene ⟨את⟩ amanzi abomvu njengengazi.",
+  "tokens": [
+    {
+      "surface": "וישכימו",
+      "gloss": "Bavuka ekuseni kakhulu"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "ekuseni"
+    },
+    {
+      "surface": "והשמש",
+      "gloss": "ilanga"
+    },
+    {
+      "surface": "זרחה",
+      "gloss": "lalikhanya"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu"
+    },
+    {
+      "surface": "המים",
+      "gloss": "kamanzi"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "wabona"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "uMowabi"
+    },
+    {
+      "surface": "מנגד",
+      "gloss": "ngasekunene"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amanzi"
+    },
+    {
+      "surface": "המים",
+      "gloss": "amanzi"
+    },
+    {
+      "surface": "אדמים",
+      "gloss": "abomvu"
+    },
+    {
+      "surface": "כדם",
+      "gloss": "njengengazi"
+    }
+  ],
+  "timestamp": "2026-09-18T10:39:40.790462002Z",
+  "model": "glm-5.3"
+}

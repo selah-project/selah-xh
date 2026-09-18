@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 35:7",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 35,
+  "translation": "Kuba ngaphandle kwesizathu batyalela umnda kum, intengo yabo; ngaphandle kwesizathu bakhomba umnda <wemiphefumlo yam>",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "ngaphandle kwesizathu"
+    },
+    {
+      "surface": "טמנו",
+      "gloss": "batyalela"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kum"
+    },
+    {
+      "surface": "שחת",
+      "gloss": "umda"
+    },
+    {
+      "surface": "רשתם",
+      "gloss": "intengo yabo"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "ngaphandle kwesizathu"
+    },
+    {
+      "surface": "חפרו",
+      "gloss": "bakhomba"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "wemiphefumlo yam"
+    }
+  ],
+  "timestamp": "2026-09-18T14:40:29.538368322Z",
+  "model": "glm-5.3"
+}

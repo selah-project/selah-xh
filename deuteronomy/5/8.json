@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 5:8",
+  "book": "deuteronomy",
+  "lang": "xh",
+  "chapter": 5,
+  "translation": "Musá ukwenza kuwe isithixo, nayiphi na imfanekiso; leyo ingasezulwini ngaphezulu, naleyo isemhlabeni phantsi, naleyo isemanzi phantsi komhlaba.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Musá"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "ukwenza"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kuwe"
+    },
+    {
+      "surface": "פסל",
+      "gloss": "isithixo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nayiphi na"
+    },
+    {
+      "surface": "תמונה",
+      "gloss": "imfanekiso"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "leyo"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "ingasezulwini"
+    },
+    {
+      "surface": "ממעל",
+      "gloss": "ngaphezulu"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "naleyo"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "isemhlabeni"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "phantsi"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "naleyo"
+    },
+    {
+      "surface": "במים",
+      "gloss": "isemanzi"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "phantsi"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "komhlaba"
+    }
+  ],
+  "timestamp": "2026-09-18T07:57:29.782018814Z",
+  "model": "glm-5.3"
+}

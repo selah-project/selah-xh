@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-kings 1:14",
+  "book": "2-kings",
+  "lang": "xh",
+  "chapter": 1,
+  "translation": "Yabonakalisha! Yehla umlilo usuka ezulwini, wawutya ⟨את⟩ izikhulu ezimbini zeeshumi elihlanu ezokuqala ⟨את⟩ nangeeshumi elihlanu zawo; ngoko nangoku makabe nexabiso umphefumlo wam emehlweni akho.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Yabonakalisha!"
+    },
+    {
+      "surface": "ירדה",
+      "gloss": "Yehla"
+    },
+    {
+      "surface": "אש",
+      "gloss": "umlilo"
+    },
+    {
+      "surface": "מן",
+      "gloss": "usuka"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ezulwini"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "wawutya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izikhulu ezimbini zeeshumi elihlanu ezokuqala"
+    },
+    {
+      "surface": "שני",
+      "gloss": "ezimbini"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "izikhulu"
+    },
+    {
+      "surface": "החמשים",
+      "gloss": "zeeshumi elihlanu"
+    },
+    {
+      "surface": "הראשנים",
+      "gloss": "ezokuqala"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "nangeeshumi elihlanu zawo"
+    },
+    {
+      "surface": "חמשיהם",
+      "gloss": "eeshumi elihlanu zawo"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "ngoko nangoku"
+    },
+    {
+      "surface": "תיקר",
+      "gloss": "makabe nexabiso"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "umphefumlo wam"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "emehlweni akho"
+    }
+  ],
+  "timestamp": "2026-09-18T10:39:25.242162512Z",
+  "model": "glm-5.3"
+}

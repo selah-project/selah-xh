@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 139:2",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 139,
+  "translation": "Wena uyazi ukuhlala kwam nokuvuka kwam; uqonda iingcinga zam kude.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Wena"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "uyazi"
+    },
+    {
+      "surface": "שבתי",
+      "gloss": "ukuhlala kwam"
+    },
+    {
+      "surface": "וקומי",
+      "gloss": "nokuvuka kwam"
+    },
+    {
+      "surface": "בנתה",
+      "gloss": "uqonda"
+    },
+    {
+      "surface": "לרעי",
+      "gloss": "iingcinga zam"
+    },
+    {
+      "surface": "מרחוק",
+      "gloss": "kude"
+    }
+  ],
+  "timestamp": "2026-09-18T15:30:39.343110381Z",
+  "model": "glm-5.3"
+}

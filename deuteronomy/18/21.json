@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 18:21",
+  "book": "deuteronomy",
+  "lang": "xh",
+  "chapter": 18,
+  "translation": "Ukuba uthi entliziyweni yakho: Singalazi njani ⟨את⟩ ilizwi uYahwe alaluthethanga?",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "ukuba"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "uthi"
+    },
+    {
+      "surface": "בלבבך",
+      "gloss": "entliziyweni yakho"
+    },
+    {
+      "surface": "איכה",
+      "gloss": "njani"
+    },
+    {
+      "surface": "נדע",
+      "gloss": "singalazi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ilizwi"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ilizwi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨elo>"
+    },
+    {
+      "surface": "לא",
+      "gloss": "la-"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "-luthethanga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    }
+  ],
+  "timestamp": "2026-09-18T08:09:07.100186896Z",
+  "model": "glm-5.3"
+}

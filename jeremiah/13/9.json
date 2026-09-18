@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 13:9",
+  "book": "jeremiah",
+  "lang": "xh",
+  "chapter": 13,
+  "translation": "Kunjalo utshilo uYahwe: Ngalendlela ndiza kutshabalalisa ⟨את⟩ uzuko lukaYuda kunye ⟨את⟩ nezuko elikhulu leYerushalayimi.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Kunjalo"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "utshilo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "ככה",
+      "gloss": "Ngalendlela"
+    },
+    {
+      "surface": "אשחית",
+      "gloss": "ndiza kutshabalalisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uzuko lukaYuda"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "uzuko"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "lukaYuda"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kunye ⟨את⟩",
+      "marks": "uzuko elikhulu leYerushalayimi"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "nezuko elikhulu"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "leYerushalayimi"
+    },
+    {
+      "surface": "הרב",
+      "gloss": "elikhulu"
+    }
+  ],
+  "timestamp": "2026-09-18T12:06:23.946707604Z",
+  "model": "glm-5.3"
+}

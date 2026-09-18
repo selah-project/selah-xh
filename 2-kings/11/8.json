@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 11:8",
+  "book": "2-kings",
+  "lang": "xh",
+  "chapter": 11,
+  "translation": "Kwaye nizungele umlawuli jikeleze, umntu ngamnye kunye nezixhobo zakhe esandleni sakhe; lowo uthe wangena kwiindawana zokuzikhethela, mafe; kwaye nibe kunye nomlawuli ekuphumeni kwakhe nakwikufika kwakhe.",
+  "tokens": [
+    {
+      "surface": "והקפתם",
+      "gloss": "nizungele"
+    },
+    {
+      "surface": "על",
+      "gloss": ""
+    },
+    {
+      "surface": "המלך",
+      "gloss": "umlawuli"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "jikeleze"
+    },
+    {
+      "surface": "איש",
+      "gloss": "umntu ngamnye"
+    },
+    {
+      "surface": "וכליו",
+      "gloss": "kunye nezixhobo zakhe"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "esandleni sakhe"
+    },
+    {
+      "surface": "והבא",
+      "gloss": "lowo uthe wangena"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwi-"
+    },
+    {
+      "surface": "השדרות",
+      "gloss": "iindawana zokuzikhethela"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "mafe"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "kwaye nibe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ kunye"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "nomlawuli"
+    },
+    {
+      "surface": "בצאתו",
+      "gloss": "ekuphumeni kwakhe"
+    },
+    {
+      "surface": "ובבאו",
+      "gloss": "nakwikufika kwakhe"
+    }
+  ],
+  "timestamp": "2026-09-18T10:45:49.329852128Z",
+  "model": "glm-5.3"
+}

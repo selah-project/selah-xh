@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 22:1",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 22,
+  "translation": "Kumlawuli, phezu kweThomba lokusa, ingoma kaDavide.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Kumlawuli"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu"
+    },
+    {
+      "surface": "אילת",
+      "gloss": "iThomba"
+    },
+    {
+      "surface": "השחר",
+      "gloss": "lokusa"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "ingoma"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "kaDavide"
+    }
+  ],
+  "timestamp": "2026-09-18T14:35:36.089884407Z",
+  "model": "glm-5.3"
+}

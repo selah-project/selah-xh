@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 40:28",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 40,
+  "translation": "Wabeka indangabuye yomsiziyo wendlu.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "wabeka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "indangabuye yomsiziyo"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "indangabuye"
+    },
+    {
+      "surface": "הפתח",
+      "gloss": "yomsiziyo"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "wendlela yokuhlala"
+    }
+  ],
+  "timestamp": "2026-09-18T06:31:52.510772939Z",
+  "model": "glm-5.3"
+}

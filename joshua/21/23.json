@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "joshua 21:23",
+  "book": "joshua",
+  "lang": "xh",
+  "chapter": 21,
+  "translation": "Nakwisizwe seDana: iElteke nemiyezo yayo, iGibethon nemiyezo yayo.",
+  "tokens": [
+    {
+      "surface": "וממטה",
+      "gloss": "nakwisizwe"
+    },
+    {
+      "surface": "דן",
+      "gloss": "seDana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iElteke"
+    },
+    {
+      "surface": "אלתקא",
+      "gloss": "iElteke"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kunye ⟨neאת⟩",
+      "marks": "miyezo"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "nemiyezo yayo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iGibethon"
+    },
+    {
+      "surface": "גבתון",
+      "gloss": "iGibethon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kunye ⟨neאת⟩",
+      "marks": "miyezo"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "nemiyezo yayo"
+    }
+  ],
+  "timestamp": "2026-09-18T08:42:35.791677231Z",
+  "model": "glm-5.3"
+}

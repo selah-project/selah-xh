@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 24:6",
+  "book": "leviticus",
+  "lang": "xh",
+  "chapter": 24,
+  "translation": "Uza kuzibeka ⟨את⟩ ziimigca emibini, ezintandathu ngomgca ngamnye, phezu kwetafile ecocekileyo phambi koYahwe.",
+  "tokens": [
+    {
+      "surface": "ושמת",
+      "gloss": "uza kuzibeka"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "ziimigca emibini"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "emibini"
+    },
+    {
+      "surface": "מערכות",
+      "gloss": "iimigca"
+    },
+    {
+      "surface": "שש",
+      "gloss": "ezintandathu"
+    },
+    {
+      "surface": "המערכת",
+      "gloss": "umgca ngamnye"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu kwa-"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "itafile"
+    },
+    {
+      "surface": "הטהר",
+      "gloss": "ecocekileyo"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "phambi kwa-"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    }
+  ],
+  "timestamp": "2026-09-18T07:03:46.106832497Z",
+  "model": "glm-5.3"
+}

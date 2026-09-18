@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 118:4",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 118,
+  "translation": "Makathi ngoku abesaba uYahwe: kuba ku kube nakube ikhesedi yakhe.",
+  "tokens": [
+    {
+      "surface": "יאמרו",
+      "gloss": "Makathi"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ngoku"
+    },
+    {
+      "surface": "יראי",
+      "gloss": "abesaba"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ku kube nakube"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ikhesedi yakhe"
+    }
+  ],
+  "timestamp": "2026-09-18T15:22:23.972405587Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 22:27",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 22,
+  "translation": "uElohim musa ukumculela, kananjalo inkosi kuluntu lwakho musa ukuyiqalela.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "musa"
+    },
+    {
+      "surface": "תקלל",
+      "gloss": "ukumculela"
+    },
+    {
+      "surface": "ונשיא",
+      "gloss": "kananjalo inkosi"
+    },
+    {
+      "surface": "בעמך",
+      "gloss": "kuluntu lwakho"
+    },
+    {
+      "surface": "לא",
+      "gloss": "musa"
+    },
+    {
+      "surface": "תאר",
+      "gloss": "ukuyiqalela"
+    }
+  ],
+  "timestamp": "2026-09-18T06:08:14.767394504Z",
+  "model": "glm-5.3"
+}

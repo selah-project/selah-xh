@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 79:1",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 79,
+  "translation": "Ipsalma ka-Asaf. uElohim, iintlanga zize kwifakho lakho, zahlazula ⟨את⟩ itempile yakho engcwele, bazisa ⟨את⟩ iYerushalayimi yaba ziindulu.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Ipsalma"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "ka-Asaf"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "באו",
+      "gloss": "zize"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "iintlanga"
+    },
+    {
+      "surface": "בנחלתך",
+      "gloss": "kwifakho lakho"
+    },
+    {
+      "surface": "טמאו",
+      "gloss": "zahlazula"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "itempile yakho engcwele"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "itempile"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "engcwele yakho"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "bazisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iYerushalayimi"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "iYerushalayimi"
+    },
+    {
+      "surface": "לעיים",
+      "gloss": "yaba ziindulu"
+    }
+  ],
+  "timestamp": "2026-09-18T15:06:08.834063969Z",
+  "model": "glm-5.3"
+}

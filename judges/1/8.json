@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "judges 1:8",
+  "book": "judges",
+  "lang": "xh",
+  "chapter": 1,
+  "translation": "Balwa oonyana bakaYehuda ngeYerushalayimi, bayibamba ⟨את⟩ yona, bayibulala ngomlomo womkhwa, bathumela ⟨את⟩ isixeko emlilweni.",
+  "tokens": [
+    {
+      "surface": "וילחמו",
+      "gloss": "balwa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oonyana"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "bakaYehuda"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "ngeYerushalayimi"
+    },
+    {
+      "surface": "וילכדו",
+      "gloss": "bayibamba"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩",
+      "marks": "iYerushalayimi"
+    },
+    {
+      "surface": "ויכוה",
+      "gloss": "bayibulala"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "ngomlomo"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "womkhwa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "isixeko"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "isixeko"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "bathumela"
+    },
+    {
+      "surface": "באש",
+      "gloss": "emlilweni"
+    }
+  ],
+  "timestamp": "2026-09-18T08:48:15.879055258Z",
+  "model": "glm-5.3"
+}

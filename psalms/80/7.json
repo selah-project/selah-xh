@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 80:7",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 80,
+  "translation": "Usibeke njengoxabano kumelwane bethu, kwaye abachasi bethu bakrhabela phakathi kwabo.",
+  "tokens": [
+    {
+      "surface": "תשימנו",
+      "gloss": "Usibeke"
+    },
+    {
+      "surface": "מדון",
+      "gloss": "njenguxabano"
+    },
+    {
+      "surface": "לשכנינו",
+      "gloss": "kumelwane bethu"
+    },
+    {
+      "surface": "ואיבינו",
+      "gloss": "kwaye abachasi bethu"
+    },
+    {
+      "surface": "ילעגו",
+      "gloss": "bakrhabela"
+    },
+    {
+      "surface": "למו",
+      "gloss": "phakathi kwabo"
+    }
+  ],
+  "timestamp": "2026-09-18T15:05:10.438570226Z",
+  "model": "glm-5.3"
+}

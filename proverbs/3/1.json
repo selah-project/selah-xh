@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 3:1",
+  "book": "proverbs",
+  "lang": "xh",
+  "chapter": 3,
+  "translation": "Ndinyana wam, musa ukulibala iTora yam, nomimiselo yam intliziyo yakho mayigcine.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Ndinyana wam"
+    },
+    {
+      "surface": "תורתי",
+      "gloss": "iTora yam"
+    },
+    {
+      "surface": "אל",
+      "gloss": "musa"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "ukulibala"
+    },
+    {
+      "surface": "ומצותי",
+      "gloss": "nomimiselo yam"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "mayigcine"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "intliziyo yakho"
+    }
+  ],
+  "timestamp": "2026-09-18T15:38:31.455210936Z",
+  "model": "glm-5.3"
+}

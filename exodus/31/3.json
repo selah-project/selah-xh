@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 31:3",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 31,
+  "translation": "Ndize ndamzalisa ⟨אתו⟩ ngomoya kaElohim, ngobugcisa, nangokuqonda, nangolwazi, nangalo lonke umsebenzi wezandla:",
+  "tokens": [
+    {
+      "surface": "ואמלא",
+      "gloss": "ndamzalisa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "uBetsaleli"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ngomoya"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "kaElohim"
+    },
+    {
+      "surface": "בחכמה",
+      "gloss": "ngobugcisa"
+    },
+    {
+      "surface": "ובתבונה",
+      "gloss": "nangokuqonda"
+    },
+    {
+      "surface": "ובדעת",
+      "gloss": "nangolwazi"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "nangalo"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "umsebenzi wezandla"
+    }
+  ],
+  "timestamp": "2026-09-18T06:18:55.248341685Z",
+  "model": "glm-5.3"
+}

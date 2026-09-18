@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 6:10",
+  "book": "leviticus",
+  "lang": "xh",
+  "chapter": 6,
+  "translation": "Ayiphekwa nangcosana; iyaltyelo yabo ndinike ⟨את⟩ kwimniko yolilo wam; ingcwele engcweleyo ngu-ye, njengomniko weso nangomniko wexabiso.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "cha"
+    },
+    {
+      "surface": "תאפה",
+      "gloss": "ayiphekwa"
+    },
+    {
+      "surface": "חמץ",
+      "gloss": "nangcosana"
+    },
+    {
+      "surface": "חלקם",
+      "gloss": "ixelo labo"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "ndinike"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "kwimniko yolilo wam"
+    },
+    {
+      "surface": "מאשי",
+      "gloss": "kwimniko yolilo wam"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "ingcwele"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "engcweleyo"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ngu-ye"
+    },
+    {
+      "surface": "כחטאת",
+      "gloss": "njengomniko weso"
+    },
+    {
+      "surface": "וכאשם",
+      "gloss": "nangomniko wexabiso"
+    }
+  ],
+  "timestamp": "2026-09-18T06:36:41.208838985Z",
+  "model": "glm-5.3"
+}

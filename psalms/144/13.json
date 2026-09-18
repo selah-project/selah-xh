@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 144:13",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 144,
+  "translation": "Izikhululo zethu zigcwele, zibonelela ngokutya ngohlobo nawohlobo; imvu yethu izala ngezikhweli ngezigidi ezindleleni zethu zenkundla.",
+  "tokens": [
+    {
+      "surface": "מזוינו",
+      "gloss": "izikhululo zethu"
+    },
+    {
+      "surface": "מלאים",
+      "gloss": "zigcwele"
+    },
+    {
+      "surface": "מפיקים",
+      "gloss": "zibonelela"
+    },
+    {
+      "surface": "מזן",
+      "gloss": "ngokutya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ngoko"
+    },
+    {
+      "surface": "זן",
+      "gloss": "uhlobo nawohlobo"
+    },
+    {
+      "surface": "צאוננו",
+      "gloss": "imvu yethu"
+    },
+    {
+      "surface": "מאליפות",
+      "gloss": "izala ngezikhweli"
+    },
+    {
+      "surface": "מרבבות",
+      "gloss": "ngezigidi"
+    },
+    {
+      "surface": "בחוצותינו",
+      "gloss": "ezindleleni zethu zenkundla"
+    }
+  ],
+  "timestamp": "2026-09-18T15:33:32.209840672Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 34:8",
+  "book": "genesis",
+  "lang": "xh",
+  "chapter": 34,
+  "translation": "UKhamori wadibana nabo ⟨אתם⟩ esithi: uShekhem unyana wam, inefeshi yakhe ithe yakhothisa intombi yenu; ncedani nimnikelise yena ⟨אתה⟩ ukuba abe ngumfazi wakhe.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "wadibana nabo esithi"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "uKhamori"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ nabo",
+      "marks": "oonyana bakaYaakov"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "esithi"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "uShekhem"
+    },
+    {
+      "surface": "בני",
+      "gloss": "unyana wam"
+    },
+    {
+      "surface": "חשקה",
+      "gloss": "ithe yakhothisa"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "inefeshi yakhe"
+    },
+    {
+      "surface": "בבתכם",
+      "gloss": "intombi yenu"
+    },
+    {
+      "surface": "תנו",
+      "gloss": "nimnikelise"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ncedani"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ yena",
+      "marks": "uShekhem"
+    },
+    {
+      "surface": "לו",
+      "gloss": "uye kuye"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "ukuba abe ngumfazi wakhe"
+    }
+  ],
+  "timestamp": "2026-09-18T05:34:01.773294432Z",
+  "model": "glm-5.3"
+}

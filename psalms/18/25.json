@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 18:25",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 18,
+  "translation": "Uyawela-ndidiniselela uYahwe ngokwelungileyo kwam, ngokucwengeka kwezandla zam phambi kwamehlo akhe.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "uyawela-ndidiniselela"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mna"
+    },
+    {
+      "surface": "כצדקי",
+      "gloss": "ngokwelungileyo kwam"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "ngokucwengeka"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "kwezandla zam"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "phambi kwa-"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "mehlo akhe"
+    }
+  ],
+  "timestamp": "2026-09-18T14:34:37.186043621Z",
+  "model": "glm-5.3"
+}

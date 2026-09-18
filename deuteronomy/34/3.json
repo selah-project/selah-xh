@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 34:3",
+  "book": "deuteronomy",
+  "lang": "xh",
+  "chapter": 34,
+  "translation": "Ne⟨את⟩ iNgevi, ne⟨את⟩ isiqingatha — umthonjana weYeriyo, umzi weetakunywa — kude kuTsoari.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "iNgevi"
+    },
+    {
+      "surface": "הנגב",
+      "gloss": "iNgevi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "isiqingatha"
+    },
+    {
+      "surface": "הככר",
+      "gloss": "isiqingatha"
+    },
+    {
+      "surface": "בקעת",
+      "gloss": "umthonjana"
+    },
+    {
+      "surface": "ירחו",
+      "gloss": "weYeriyo"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "umzi"
+    },
+    {
+      "surface": "התמרים",
+      "gloss": "weetakunywa"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kude ku"
+    },
+    {
+      "surface": "צער",
+      "gloss": "Tsoari"
+    }
+  ],
+  "timestamp": "2026-09-18T08:25:04.885545285Z",
+  "model": "glm-5.3"
+}

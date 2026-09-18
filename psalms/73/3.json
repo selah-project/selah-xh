@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 73:3",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 73,
+  "translation": "Kuba ndithintele kwizidenge, ndibona uxolo lwabangcolileyo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kuba"
+    },
+    {
+      "surface": "קנאתי",
+      "gloss": "ndithintele"
+    },
+    {
+      "surface": "בהוללים",
+      "gloss": "kwizidenge"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "uxolo"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "lwabangcolileyo"
+    },
+    {
+      "surface": "אראה",
+      "gloss": "ndibona"
+    }
+  ],
+  "timestamp": "2026-09-18T14:58:58.283104811Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 5:3",
+  "book": "isaiah",
+  "lang": "xh",
+  "chapter": 5,
+  "translation": "Kananjalo, hini abahlali baseYerushalayimi nabantu baseYuda, gwebani, ncese, phakathi kwam neyeja yam.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "kananjalo"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "abahlali"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "baseYerushalayimi"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "nabantu"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "baseYuda"
+    },
+    {
+      "surface": "שפטו",
+      "gloss": "gwebani"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ncese"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "phakathi kwam"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ne"
+    },
+    {
+      "surface": "כרמי",
+      "gloss": "iyeja yam"
+    }
+  ],
+  "timestamp": "2026-09-18T11:08:02.807202092Z",
+  "model": "glm-5.3"
+}

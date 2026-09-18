@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-samuel 30:18",
+  "book": "1-samuel",
+  "lang": "xh",
+  "chapter": 30,
+  "translation": "UDavide wabuyisela ⟨את⟩ konke oko kwathathwa nguAmaleke, yaye ⟨את⟩ amakhosikazi akhe amabini uDavide wawasindisa.",
+  "tokens": [
+    {
+      "surface": "ויצל",
+      "gloss": "wabuyisela"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "uDavide"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "konke oko kwathathwa nguAmaleke"
+    },
+    {
+      "surface": "כל",
+      "gloss": "konke"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oko"
+    },
+    {
+      "surface": "לקחו",
+      "gloss": "kwathathwa"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "nguAmaleke"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "amakhosikazi akhe amabini"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "amabini"
+    },
+    {
+      "surface": "נשיו",
+      "gloss": "amakhosikazi akhe"
+    },
+    {
+      "surface": "הציל",
+      "gloss": "wawasindisa"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "uDavide"
+    }
+  ],
+  "timestamp": "2026-09-18T09:41:07.814324300Z",
+  "model": "glm-5.3"
+}

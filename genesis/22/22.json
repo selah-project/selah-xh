@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 22:22",
+  "book": "genesis",
+  "lang": "xh",
+  "chapter": 22,
+  "translation": "nangaba ⟨את⟩ u-Keshedi, nangaba ⟨את⟩ u-Khazowu, nangaba ⟨את⟩ u-Pildashi, nangaba ⟨את⟩ u-Yidlafi, nangaba ⟨את⟩ u-Betueli;",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "nangaba ⟨את⟩",
+      "marks": "u-Keshedi"
+    },
+    {
+      "surface": "כשד",
+      "gloss": "u-Keshedi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "nangaba ⟨את⟩",
+      "marks": "u-Khazowu"
+    },
+    {
+      "surface": "חזו",
+      "gloss": "u-Khazowu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "nangaba ⟨את⟩",
+      "marks": "u-Pildashi"
+    },
+    {
+      "surface": "פלדש",
+      "gloss": "u-Pildashi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "nangaba ⟨את⟩",
+      "marks": "u-Yidlafi"
+    },
+    {
+      "surface": "ידלף",
+      "gloss": "u-Yidlafi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "nangaba ⟨את⟩",
+      "marks": "u-Betueli"
+    },
+    {
+      "surface": "בתואל",
+      "gloss": "u-Betueli"
+    }
+  ],
+  "timestamp": "2026-09-18T05:18:22.385866412Z",
+  "model": "glm-5.3"
+}

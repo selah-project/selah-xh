@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 7:4",
+  "book": "ecclesiastes",
+  "lang": "xh",
+  "chapter": 7,
+  "translation": "Entliziyo yabalungileyo isezindlwini zeminyezo, yaye entliziyo yabasiziweyo iyingxenye yendlwini yovuyo.",
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "Entliziyo"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "yabalungileyo"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "isezindlwini"
+    },
+    {
+      "surface": "אבל",
+      "gloss": "zeminyezo"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "yaye entliziyo"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "yabasiziweyo"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "endlwini"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "yovuyo"
+    }
+  ],
+  "timestamp": "2026-09-18T16:26:09.139818633Z",
+  "model": "glm-5.3"
+}

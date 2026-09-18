@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 11:18",
+  "book": "genesis",
+  "lang": "xh",
+  "chapter": 11,
+  "translation": "WPelegi waphila iminyaka engamashumi amathathu, wazala ⟨את⟩ uRewu.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "waphila"
+    },
+    {
+      "surface": "פלג",
+      "gloss": "WPelegi"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "amashumi amathathu"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "iminyaka"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "wazala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uRewu"
+    },
+    {
+      "surface": "רעו",
+      "gloss": "uRewu"
+    }
+  ],
+  "timestamp": "2026-09-18T05:12:15.978871228Z",
+  "model": "glm-5.3"
+}

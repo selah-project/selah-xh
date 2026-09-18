@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 69:18",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 69,
+  "translation": "Musa ukufihla ubuso bakho kwisicwele zakho, kuba ndisesibinizweni; khawuphendule ngokukhawuleza.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "musa ukufihla"
+    },
+    {
+      "surface": "תסתר",
+      "gloss": "ukufihla"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ubuso bakho"
+    },
+    {
+      "surface": "מעבדך",
+      "gloss": "kwisicwele zakho"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "צר",
+      "gloss": "ndisesibinizweni"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ndi-"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "ngokukhawuleza"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "khawuphendule"
+    }
+  ],
+  "timestamp": "2026-09-18T14:57:49.217474222Z",
+  "model": "glm-5.3"
+}

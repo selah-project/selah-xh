@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 21:3",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 21,
+  "translation": "Inkanuko yentliziyo yakhe umnike, isicelo semilomo yakhe awuzibambelelanga kuso. Selah.",
+  "tokens": [
+    {
+      "surface": "תאות",
+      "gloss": "inkanuko"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "yentliziyo yakhe"
+    },
+    {
+      "surface": "נתתה",
+      "gloss": "umnike"
+    },
+    {
+      "surface": "לו",
+      "gloss": "uye"
+    },
+    {
+      "surface": "וארשת",
+      "gloss": "isicelo"
+    },
+    {
+      "surface": "שפתיו",
+      "gloss": "semilomo yakhe"
+    },
+    {
+      "surface": "בל",
+      "gloss": "akukho"
+    },
+    {
+      "surface": "מנעת",
+      "gloss": "wazibambela"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-18T14:35:48.103242727Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 147:9",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 147,
+  "translation": "Unika ilwanyana ukutya kwalo, nabantwana beengcungceza ababizayo.",
+  "tokens": [
+    {
+      "surface": "נותן",
+      "gloss": "Unika"
+    },
+    {
+      "surface": "לבהמה",
+      "gloss": "ilwanyana"
+    },
+    {
+      "surface": "לחמה",
+      "gloss": "ukutya kwalo"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "nabantwana"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "beengcungceza"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aba"
+    },
+    {
+      "surface": "יקראו",
+      "gloss": "bizayo"
+    }
+  ],
+  "timestamp": "2026-09-18T15:33:57.425132921Z",
+  "model": "glm-5.3"
+}

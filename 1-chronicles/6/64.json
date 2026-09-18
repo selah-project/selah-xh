@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 64,
+  "ref": "1-chronicles 6:64",
+  "book": "1-chronicles",
+  "lang": "xh",
+  "chapter": 6,
+  "translation": "kunye neQedemot kunye neyakhe iindawo zokutyela, kunye neMefathi kunye neyakhe iindawo zokutyela.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "kunye ⟨את⟩",
+      "marks": "iQedemot"
+    },
+    {
+      "surface": "קדמות",
+      "gloss": "iQedemot"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kunye ⟨את⟩",
+      "marks": "iindawo zokutyela zayo"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "iindawo zokutyela zayo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kunye ⟨את⟩",
+      "marks": "iMefathi"
+    },
+    {
+      "surface": "מיפעת",
+      "gloss": "iMefathi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kunye ⟨את⟩",
+      "marks": "iindawo zokutyela zayo"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "iindawo zokutyela zayo"
+    }
+  ],
+  "timestamp": "2026-09-18T16:53:18.061176800Z",
+  "model": "glm-5.3"
+}

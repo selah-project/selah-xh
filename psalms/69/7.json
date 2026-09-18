@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 69:7",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 69,
+  "translation": "Musa ukwenza abalindelayo kuwe bahlazeka ngenxa yam, u-Adonayi, uYahwe Tsebhayoti; musa ukwenza abakufunayo bedangele ngenxa yam, uElohim kaYisra'eli.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "musa ukwenza"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "bahlazeka"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ngenxa yam"
+    },
+    {
+      "surface": "קויך",
+      "gloss": "abalindelayo kuwe"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "u-Adonayi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsebhayoti"
+    },
+    {
+      "surface": "אל",
+      "gloss": "musa ukwenza"
+    },
+    {
+      "surface": "יכלמו",
+      "gloss": "bedangele"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ngenxa yam"
+    },
+    {
+      "surface": "מבקשיך",
+      "gloss": "abakufunayo"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "uElohim ka-"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'eli"
+    }
+  ],
+  "timestamp": "2026-09-18T14:56:53.637562503Z",
+  "model": "glm-5.3"
+}

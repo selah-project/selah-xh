@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 1:12",
+  "book": "deuteronomy",
+  "lang": "xh",
+  "chapter": 1,
+  "translation": "Ndingathwala njani yedwa ityhalelo lenu, nomthwalo wenu, neendabeni zenu?",
+  "tokens": [
+    {
+      "surface": "איכה",
+      "gloss": "njani"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "ndingathwala"
+    },
+    {
+      "surface": "לבדי",
+      "gloss": "yedwa"
+    },
+    {
+      "surface": "טרחכם",
+      "gloss": "ityhalelo lenu"
+    },
+    {
+      "surface": "ומשאכם",
+      "gloss": "nomthwalo wenu"
+    },
+    {
+      "surface": "וריבכם",
+      "gloss": "neendabeni zenu"
+    }
+  ],
+  "timestamp": "2026-09-18T07:50:53.319558644Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 13:4",
+  "book": "proverbs",
+  "lang": "xh",
+  "chapter": 13,
+  "translation": "Iinefeshi yesilumkho ifuna kodwa ingenanto; iinefeshi abasebenzi ngamandla tshisa yononaphalala.",
+  "tokens": [
+    {
+      "surface": "מתאוה",
+      "gloss": "ifuna"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "kodwa ingenanto"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "iinefeshi yesilumkho"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "esilumkho"
+    },
+    {
+      "surface": "ונפש",
+      "gloss": "iinefeshi"
+    },
+    {
+      "surface": "חרצים",
+      "gloss": "abasebenzi ngamandla"
+    },
+    {
+      "surface": "תדשן",
+      "gloss": "tshisa yononaphalala"
+    }
+  ],
+  "timestamp": "2026-09-18T15:45:18.313896754Z",
+  "model": "glm-5.3"
+}

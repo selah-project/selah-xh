@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 23:7",
+  "book": "2-kings",
+  "lang": "xh",
+  "chapter": 23,
+  "translation": "Wawutshabalalisa ⟨את⟩ izindlu zeqedeshi ebeziseyendlwini kaYahwe, apho abafazi belukha khona izindlu zeAshera.",
+  "tokens": [
+    {
+      "surface": "ויתץ",
+      "gloss": "wawutshabalalisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izindlu zeqedeshi"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "izindlu"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "zeqedeshi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ebezi-"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "eyendlwini"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kaYahwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "apho"
+    },
+    {
+      "surface": "הנשים",
+      "gloss": "abafazi"
+    },
+    {
+      "surface": "ארגות",
+      "gloss": "belukha"
+    },
+    {
+      "surface": "שם",
+      "gloss": "khona"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "izindlu"
+    },
+    {
+      "surface": "לאשרה",
+      "gloss": "zeAshera"
+    }
+  ],
+  "timestamp": "2026-09-18T10:58:10.481196266Z",
+  "model": "glm-5.3"
+}

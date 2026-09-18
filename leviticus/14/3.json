@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 14:3",
+  "book": "leviticus",
+  "lang": "xh",
+  "chapter": 14,
+  "translation": "Umongi uya kuphuma aye ngaphandle kwekampu, umongi uya kujongisisa, kwaye nabani na ukuba isichotho sipholile kumntu onesichotho:",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "uya kuphuma"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "umongi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "aye"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "ngaphandle"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "kwekampu"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "uya kujongisisa"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "umongi"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "kwaye nabani na"
+    },
+    {
+      "surface": "נרפא",
+      "gloss": "sipholile"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "isichotho"
+    },
+    {
+      "surface": "הצרעת",
+      "gloss": "sesichotho"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ku"
+    },
+    {
+      "surface": "הצרוע",
+      "gloss": "mntu onesichotho"
+    }
+  ],
+  "timestamp": "2026-09-18T06:48:19.198543543Z",
+  "model": "glm-5.3"
+}

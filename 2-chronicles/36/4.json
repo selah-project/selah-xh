@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 36:4",
+  "book": "2-chronicles",
+  "lang": "xh",
+  "chapter": 36,
+  "translation": "Inkosi yeMitsrayim yenza ⟨את⟩ uEliyakimi umnakwabo abe yinkosi phezu kwaYuda neYerushalayimi, watshintsha ⟨את⟩ igama lakhe laba nguYehoyakimi; uNekho wathabatha ⟨את⟩ uYehoahazi umnakwabo, wamisa eMitsrayim.",
+  "tokens": [
+    {
+      "surface": "וימלך",
+      "gloss": "yenza… abe yinkosi"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "inkosi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "yeMitsrayim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uEliyakimi"
+    },
+    {
+      "surface": "אליקים",
+      "gloss": "uEliyakimi"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "umnakwabo"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu kwa-"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yuda"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "neYerushalayimi"
+    },
+    {
+      "surface": "ויסב",
+      "gloss": "watshintsha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "igama lakhe"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "igama lakhe"
+    },
+    {
+      "surface": "יהויקים",
+      "gloss": "nguYehoyakimi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "uYehoahazi"
+    },
+    {
+      "surface": "יואחז",
+      "gloss": "uYehoahazi"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "umnakwabo"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "wathabatha"
+    },
+    {
+      "surface": "נכו",
+      "gloss": "uNekho"
+    },
+    {
+      "surface": "ויביאהו",
+      "gloss": "wamisa"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "eMitsrayim"
+    }
+  ],
+  "timestamp": "2026-09-18T17:16:55.761547375Z",
+  "model": "glm-5.3"
+}

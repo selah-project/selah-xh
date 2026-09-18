@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 10:1",
+  "book": "jeremiah",
+  "lang": "xh",
+  "chapter": 10,
+  "translation": "Mameleni ⟨את⟩ ilizwi elitshethayo uYahwe ngakuni, ndlu kaIsrayeli.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "Mameleni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ilizwi"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ilizwi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "elitshethayo"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "elitshethayo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "ngakuni"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ndlu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "kaIsrayeli"
+    }
+  ],
+  "timestamp": "2026-09-18T12:02:41.331379378Z",
+  "model": "glm-5.3"
+}

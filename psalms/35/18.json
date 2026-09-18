@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 35:18",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 35,
+  "translation": "Ndiza kukubulela kwindibano enkulu; phakathi kwabantu abanamandla ndiza kukudumisa.",
+  "tokens": [
+    {
+      "surface": "אודך",
+      "gloss": "ndiza kukubulela"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "kwindibano"
+    },
+    {
+      "surface": "רב",
+      "gloss": "enkulu"
+    },
+    {
+      "surface": "בעם",
+      "gloss": "phakathi kwabantu"
+    },
+    {
+      "surface": "עצום",
+      "gloss": "abanamandla"
+    },
+    {
+      "surface": "אהללך",
+      "gloss": "ndiza kukudumisa"
+    }
+  ],
+  "timestamp": "2026-09-18T14:41:26.346580408Z",
+  "model": "glm-5.3"
+}

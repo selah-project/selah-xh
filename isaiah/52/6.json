@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 52:6",
+  "book": "isaiah",
+  "lang": "xh",
+  "chapter": 52,
+  "translation": "Ngoko abantu bakwa bayakwazi igama lam; ngoko ngaloo mini baya kwazi ukuba mna ndinguwo othethayo — nanko ndi.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "ngoko"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "bayakwazi"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "abantu bakwa"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "igama lam"
+    },
+    {
+      "surface": "לכן",
+      "gloss": "ngoko"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ngaloo mini"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "leyo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ukuba"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mna"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "nguwo"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "othethayo"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "nanko ndi"
+    }
+  ],
+  "timestamp": "2026-09-18T11:40:45.021336232Z",
+  "model": "glm-5.3"
+}

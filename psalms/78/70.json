@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 70,
+  "ref": "psalms 78:70",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 78,
+  "translation": "Wakhetha uDawidi, inkonzi yakhe, wamthabatha emva kweendawo zokusinga iimvu.",
+  "tokens": [
+    {
+      "surface": "ויבחר",
+      "gloss": "wakhetha"
+    },
+    {
+      "surface": "בדוד",
+      "gloss": "uDawidi"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "inkonzi yakhe"
+    },
+    {
+      "surface": "ויקחהו",
+      "gloss": "wamthabatha"
+    },
+    {
+      "surface": "ממכלאת",
+      "gloss": "emva kweendawo zokusinga"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "iimvu"
+    }
+  ],
+  "timestamp": "2026-09-18T15:02:53.877312732Z",
+  "model": "glm-5.3"
+}

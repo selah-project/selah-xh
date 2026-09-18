@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 139:8",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 139,
+  "translation": "Ukuba ndingenyuka ezulwini, we lkho ⟨apho⟩; ukuba ndilalele eSheol, yonwabe lkho ⟨apho⟩.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ukuba"
+    },
+    {
+      "surface": "אסק",
+      "gloss": "ndingenyuka"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "ezulwini"
+    },
+    {
+      "surface": "שם",
+      "gloss": "apho"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "we lkho"
+    },
+    {
+      "surface": "ואציעה",
+      "gloss": "ndilalele"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "eSheol"
+    },
+    {
+      "surface": "הנך",
+      "gloss": "yonwabe lkho"
+    }
+  ],
+  "timestamp": "2026-09-18T15:30:18.637223898Z",
+  "model": "glm-5.3"
+}

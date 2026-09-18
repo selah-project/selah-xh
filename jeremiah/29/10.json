@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 29:10",
+  "book": "jeremiah",
+  "lang": "xh",
+  "chapter": 29,
+  "translation": "Kuba kanjalo wathetha uYahwe: Kwakugqitywe amashumi asixhenxe eminyaka iBhabheli, ndiza kunivavanya ⟨את⟩, ndiza kumisela phezu kwenu ⟨את⟩ ilizwi lam elilungileyo, ukunibuyisela ⟨את⟩ kwindawo le.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kuba"
+    },
+    {
+      "surface": "כה",
+      "gloss": "kanjalo"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "wathetha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "kwakugqitywe (ngokwenzeka)"
+    },
+    {
+      "surface": "מלאת",
+      "gloss": "ukugqitywa"
+    },
+    {
+      "surface": "לבבל",
+      "gloss": "iBhabheli"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "amashumi asixhenxe"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "eminyaka"
+    },
+    {
+      "surface": "אפקד",
+      "gloss": "ndiza kunivavanya"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "ninu"
+    },
+    {
+      "surface": "והקמתי",
+      "gloss": "ndiza kumisela"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "phezu kwenu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ilizwi lam elilungileyo"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ilizwi lam"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "elilungileyo"
+    },
+    {
+      "surface": "להשיב",
+      "gloss": "ukunibuyisela"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "ninu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "kwindawo"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "le"
+    }
+  ],
+  "timestamp": "2026-09-18T12:18:07.230048116Z",
+  "model": "glm-5.3"
+}

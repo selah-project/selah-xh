@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 34:2",
+  "book": "deuteronomy",
+  "lang": "xh",
+  "chapter": 34,
+  "translation": "Ne⟨את⟩ iNafthali yonke, ne⟨את⟩ ilizwe lukaEfrayimi nolukaMenashhe, ne⟨את⟩ ilizwe lukaYehuda lonke, kude kulo lwandle olungasemva.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "iNafthali yonke"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yonke"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "iNafthali"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "ilizwe lukaEfrayimi"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ilizwe"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "lukaEfrayimi"
+    },
+    {
+      "surface": "ומנשה",
+      "gloss": "nolukaMenashhe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "ilizwe lukaYehuda lonke"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lonke"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ilizwe"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "lukaYehuda"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kude ku"
+    },
+    {
+      "surface": "הים",
+      "gloss": "lwandle"
+    },
+    {
+      "surface": "האחרון",
+      "gloss": "olungasemva"
+    }
+  ],
+  "timestamp": "2026-09-18T08:25:04.885358305Z",
+  "model": "glm-5.3"
+}

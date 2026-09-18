@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 114:3",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 114,
+  "translation": "Ulwandle lwabona ⟨oko⟩ lwabaleka; uYordan wabuyela umva.",
+  "tokens": [
+    {
+      "surface": "הים",
+      "gloss": "ulwandle"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "lwabona"
+    },
+    {
+      "surface": "וינס",
+      "gloss": "lwabaleka"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "uYordan"
+    },
+    {
+      "surface": "יסב",
+      "gloss": "wabuyela"
+    },
+    {
+      "surface": "לאחור",
+      "gloss": "umva"
+    }
+  ],
+  "timestamp": "2026-09-18T17:45:39.326460115Z",
+  "model": "glm-5.3"
+}

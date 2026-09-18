@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 29:23",
+  "book": "genesis",
+  "lang": "xh",
+  "chapter": 29,
+  "translation": "Kwathi kungakuhle busuku, wathabatha ⟨את⟩ uLea intombi yakhe, wamngenisa ⟨את⟩ kuye, wangena kuye.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "kwathi"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "kungakuhle busuku"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "wathabatha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uLea"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "uLea"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "intombi yakhe"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "wamngenisa"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "uLea"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kuye"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "wangena"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "kuye"
+    }
+  ],
+  "timestamp": "2026-09-18T05:25:18.015671557Z",
+  "model": "glm-5.3"
+}

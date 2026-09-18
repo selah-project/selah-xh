@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 44:19",
+  "book": "genesis",
+  "lang": "xh",
+  "chapter": 44,
+  "translation": "Inkosi yam yabuza ⟨את⟩ abakhonza bayo, yathi: “Ngaba ninoyise okanye umzalana?”",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "inkosi yam"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "yabuza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abakhonza bayo"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "abakhonza bayo"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "yathi"
+    },
+    {
+      "surface": "היש",
+      "gloss": "ngaba nalikhona"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kuni"
+    },
+    {
+      "surface": "אב",
+      "gloss": "uyise"
+    },
+    {
+      "surface": "או",
+      "gloss": "okanye"
+    },
+    {
+      "surface": "אח",
+      "gloss": "umzalana"
+    }
+  ],
+  "timestamp": "2026-09-18T05:42:50.162932177Z",
+  "model": "glm-5.3"
+}

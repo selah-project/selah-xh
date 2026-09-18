@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 31:11",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 31,
+  "translation": "kunye ⟨את⟩ ne-oli yokugcoba, ⟨את⟩ nentsizi yeencasa engcweleyo; ngokwezinto zonke endazileyo kuwe baya kuzenza.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "i-oli yokugcoba"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "i-oli"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "yokugcoba"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "intsizi yeencasa engcweleyo"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "intsizi"
+    },
+    {
+      "surface": "הסמים",
+      "gloss": "yeencasa"
+    },
+    {
+      "surface": "לקדש",
+      "gloss": "engcweleyo"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "ngokwezinto zonke"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "צויתך",
+      "gloss": "endazileyo kuwe"
+    },
+    {
+      "surface": "יעשו",
+      "gloss": "baya kuzenza"
+    }
+  ],
+  "timestamp": "2026-09-18T06:17:12.741779157Z",
+  "model": "glm-5.3"
+}

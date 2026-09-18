@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-samuel 18:25",
+  "book": "2-samuel",
+  "lang": "xh",
+  "chapter": 18,
+  "translation": "Umlindi wamemeza, wazisa intsingiselo kwi⟨nkosi⟩. Inkosi yathi: ukuba ungumntu yedwa, iindaba ezilungileyo zisemlonyweni wakhe. Waza wahamba, ehamba esondela.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "wamemeza"
+    },
+    {
+      "surface": "הצפה",
+      "gloss": "umlindi"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "wazisa intsingiselo"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "kwi⟨nkosi⟩"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "yathi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "inkosi"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ukuba"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "yedwa"
+    },
+    {
+      "surface": "בשורה",
+      "gloss": "iindaba ezilungileyo"
+    },
+    {
+      "surface": "בפיו",
+      "gloss": "zisemlonyweni wakhe"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "wahamba"
+    },
+    {
+      "surface": "הלוך",
+      "gloss": "ehamba"
+    },
+    {
+      "surface": "וקרב",
+      "gloss": "esondela"
+    }
+  ],
+  "timestamp": "2026-09-18T10:00:00.483839084Z",
+  "model": "glm-5.3"
+}

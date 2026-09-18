@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-chronicles 22:13",
+  "book": "1-chronicles",
+  "lang": "xh",
+  "chapter": 22,
+  "translation": "Ngelo xesha uza kuphumelela, ukuba uligcine ukwenza ⟨את⟩ imimiselo ⟨ו-את⟩ neendawo zokwahlulela awayalela uYahwe ⟨את⟩ kuMoshe phezu kwaSirayeli. Yiba namandla, yiba nesibindi; musa ukoyika, ungakhathazeki.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "ngelo xesha"
+    },
+    {
+      "surface": "תצליח",
+      "gloss": "uza kuphumelela"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ukuba"
+    },
+    {
+      "surface": "תשמור",
+      "gloss": "uligcine"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "ukwenza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "imimiselo"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "imimiselo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨ו-את⟩",
+      "marks": "iindawo zokwahlulela"
+    },
+    {
+      "surface": "המשפטים",
+      "gloss": "iindawo zokwahlulela"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oko"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "awayalela"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kuMoshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "kuMoshe"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu kwa-"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Sirayeli"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "yiba namandla"
+    },
+    {
+      "surface": "ואמץ",
+      "gloss": "yiba nesibindi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "musa"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "ukoyika"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ungakhathazeki"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ungakhathazeki"
+    }
+  ],
+  "timestamp": "2026-09-18T17:52:05.075790913Z",
+  "model": "glm-5.3"
+}

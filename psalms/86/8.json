@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 86:8",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 86,
+  "translation": "Akukho ofana nawe phakathi koothixo, u-Adonayi, yaye akukho mizobo efana nomisebenzi wakho.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "Akukho"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "ofana nawe"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "phakathi koothixo"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "u-Adonayi"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "yaye akukho"
+    },
+    {
+      "surface": "כמעשיך",
+      "gloss": "mizobo efana nomisebenzi wakho"
+    }
+  ],
+  "timestamp": "2026-09-18T15:07:36.710097682Z",
+  "model": "glm-5.3"
+}

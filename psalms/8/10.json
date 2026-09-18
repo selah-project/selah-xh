@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 8:10",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 8,
+  "translation": "uYahwe, u-Adonayi wethu, makabi ligama lakho elinamandla kuwo wonke umhlaba!",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אדנינו",
+      "gloss": "u-Adonayi wethu"
+    },
+    {
+      "surface": "מה",
+      "gloss": "makabi"
+    },
+    {
+      "surface": "אדיר",
+      "gloss": "elinamandla"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "ligama lakho"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "kuwo wonke"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "umhlaba"
+    }
+  ],
+  "timestamp": "2026-09-18T14:29:29.817265068Z",
+  "model": "glm-5.3"
+}

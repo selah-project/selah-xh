@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 102:9",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 102,
+  "translation": "Yonke imini iintshaba zam zendihloya; abangenamxholo kum bafunga ngam.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Yonke"
+    },
+    {
+      "surface": "היום",
+      "gloss": "iminin"
+    },
+    {
+      "surface": "חרפוני",
+      "gloss": "zendihloya"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "iintshaba zam"
+    },
+    {
+      "surface": "מהוללי",
+      "gloss": "abangenamxholo kum"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ngam"
+    },
+    {
+      "surface": "נשבעו",
+      "gloss": "bafunga"
+    }
+  ],
+  "timestamp": "2026-09-18T15:12:55.561702067Z",
+  "model": "glm-5.3"
+}

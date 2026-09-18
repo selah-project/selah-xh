@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 2:21",
+  "book": "numbers",
+  "lang": "xh",
+  "chapter": 2,
+  "translation": "Nedabi lakhe nababalwa abo: amawaka amabini anamashumi amathathu namakhulu amabini.",
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "nedabi lakhe"
+    },
+    {
+      "surface": "ופקדיהם",
+      "gloss": "nababalwa abo"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "amabini"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "anamashumi amathathu"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "amawaka"
+    },
+    {
+      "surface": "ומאתים",
+      "gloss": "namakhulu amabini"
+    }
+  ],
+  "timestamp": "2026-09-18T07:10:14.701127513Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 58:1",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 58,
+  "translation": "Kumlawuli owongameleyo: “Musa ukutshatyalalisa.” Isihobe sikaDawidi, esiqoshiweyo.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Kumlawuli owongameleyo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Musa"
+    },
+    {
+      "surface": "תשחת",
+      "gloss": "ukutshatyalalisa"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "sikaDawidi"
+    },
+    {
+      "surface": "מכתם",
+      "gloss": "esiqoshiweyo"
+    }
+  ],
+  "timestamp": "2026-09-18T14:52:31.482164793Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 29:24",
+  "book": "genesis",
+  "lang": "xh",
+  "chapter": 29,
+  "translation": "ULavan wanika yena ⟨את⟩ iZilpa, inceku yakhe, kuLea intombi yakhe, njengenceku.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "wanika"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "uLavan"
+    },
+    {
+      "surface": "לה",
+      "gloss": "yena"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iZilpa"
+    },
+    {
+      "surface": "זלפה",
+      "gloss": "iZilpa"
+    },
+    {
+      "surface": "שפחתו",
+      "gloss": "inceku yakhe"
+    },
+    {
+      "surface": "ללאה",
+      "gloss": "kuLea"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "intombi yakhe"
+    },
+    {
+      "surface": "שפחה",
+      "gloss": "njengenceku"
+    }
+  ],
+  "timestamp": "2026-09-18T05:25:18.015891575Z",
+  "model": "glm-5.3"
+}

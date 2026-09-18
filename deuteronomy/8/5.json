@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 8:5",
+  "book": "deuteronomy",
+  "lang": "xh",
+  "chapter": 8,
+  "translation": "Uza kwazi nentliziyo yakho ukuba, njengoko umntu ecetyisa unyana wakhe, ngokunjalo uYahwe uElohim wakho uyakucetyisa wena.",
+  "tokens": [
+    {
+      "surface": "וידעת",
+      "gloss": "uza kwazi"
+    },
+    {
+      "surface": "עם",
+      "gloss": "kunye"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "nentliziyo yakho"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ukuba"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "njengoko"
+    },
+    {
+      "surface": "ייסר",
+      "gloss": "ecetyisa"
+    },
+    {
+      "surface": "איש",
+      "gloss": "umntu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "unyana wakhe"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "unyana wakhe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "uElohim wakho"
+    },
+    {
+      "surface": "מיסרך",
+      "gloss": "uyakucetyisa wena"
+    }
+  ],
+  "timestamp": "2026-09-18T17:25:20.856961779Z",
+  "model": "glm-5.3"
+}

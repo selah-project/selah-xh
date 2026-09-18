@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 28:9",
+  "book": "isaiah",
+  "lang": "xh",
+  "chapter": 28,
+  "translation": "⟨את⟩ ubani uya kumfundisa ulwazi, no⟨את⟩ ubani uya kumqondisa isibanezo? Abachithiweyo ebisini, abahothiweyo ezibeleni.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ubani"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ubani"
+    },
+    {
+      "surface": "יורה",
+      "gloss": "uya kumfundisa"
+    },
+    {
+      "surface": "דעה",
+      "gloss": "ulwazi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ubani"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ubani"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "uya kumqondisa"
+    },
+    {
+      "surface": "שמועה",
+      "gloss": "isibanezo"
+    },
+    {
+      "surface": "גמולי",
+      "gloss": "abachithiweyo"
+    },
+    {
+      "surface": "מחלב",
+      "gloss": "ebisini"
+    },
+    {
+      "surface": "עתיקי",
+      "gloss": "abahothiweyo"
+    },
+    {
+      "surface": "משדים",
+      "gloss": "ezibeleni"
+    }
+  ],
+  "timestamp": "2026-09-18T11:19:45.927461189Z",
+  "model": "glm-5.3"
+}

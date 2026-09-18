@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 21:24",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 21,
+  "translation": "iliso elingenyelisoliso, izinyo elingenyenyezinyo, isandla esingeneyesandla, unyawo olungeneyonyawo.",
+  "tokens": [
+    {
+      "surface": "עין",
+      "gloss": "iliso"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "elingenye"
+    },
+    {
+      "surface": "עין",
+      "gloss": "iliso"
+    },
+    {
+      "surface": "שן",
+      "gloss": "izinyo"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "elingenye"
+    },
+    {
+      "surface": "שן",
+      "gloss": "izinyo"
+    },
+    {
+      "surface": "יד",
+      "gloss": "isandla"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "esingeneye"
+    },
+    {
+      "surface": "יד",
+      "gloss": "sandla"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "unyawo"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "olungeneyo"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "nyawo"
+    }
+  ],
+  "timestamp": "2026-09-18T06:07:53.003939040Z",
+  "model": "glm-5.3"
+}

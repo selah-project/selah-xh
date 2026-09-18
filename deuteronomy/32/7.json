@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 32:7",
+  "book": "deuteronomy",
+  "lang": "xh",
+  "chapter": 32,
+  "translation": "Khumbula iintsuku zakuqala, qonda iminyaka yoolutsha nolutsha; buza ubawo wakho, uza kutshunyela wena; buza oomdala bakho, baza kuthetha kuwe.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "Khumbula"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "iintsuku"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "zakuqala"
+    },
+    {
+      "surface": "בינו",
+      "gloss": "qonda"
+    },
+    {
+      "surface": "שנות",
+      "gloss": "iminyaka"
+    },
+    {
+      "surface": "דור",
+      "gloss": "yoolutsha"
+    },
+    {
+      "surface": "ודור",
+      "gloss": "nolutsha"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "buza"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "ubawo wakho"
+    },
+    {
+      "surface": "ויגדך",
+      "gloss": "uza kutshunyela wena"
+    },
+    {
+      "surface": "זקניך",
+      "gloss": "oomdala bakho"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "baza kuthetha"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kuwe"
+    }
+  ],
+  "timestamp": "2026-09-18T17:25:07.926550389Z",
+  "model": "glm-5.3"
+}

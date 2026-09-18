@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 1:8",
+  "book": "isaiah",
+  "lang": "xh",
+  "chapter": 1,
+  "translation": "Kwaye intombi kaTsiyoni ishiyiwe njengophahla oluncinci ensimini yeedurya, njengendlwana ensimini yookhukhamba, njengenedolophu ivaliweyo.",
+  "tokens": [
+    {
+      "surface": "ונותרה",
+      "gloss": "kwaye ishiyiwe"
+    },
+    {
+      "surface": "בת",
+      "gloss": "intombi"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "kaTsiyoni"
+    },
+    {
+      "surface": "כסכה",
+      "gloss": "njengophahla oluncinci"
+    },
+    {
+      "surface": "בכרם",
+      "gloss": "ensimini yeedurya"
+    },
+    {
+      "surface": "כמלונה",
+      "gloss": "njengendlwana"
+    },
+    {
+      "surface": "במקשה",
+      "gloss": "ensimini yookhukhamba"
+    },
+    {
+      "surface": "כעיר",
+      "gloss": "njengenedolophu"
+    },
+    {
+      "surface": "נצורה",
+      "gloss": "ivaliweyo"
+    }
+  ],
+  "timestamp": "2026-09-18T11:00:53.518397998Z",
+  "model": "glm-5.3"
+}

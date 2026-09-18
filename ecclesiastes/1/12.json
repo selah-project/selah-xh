@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 1:12",
+  "book": "ecclesiastes",
+  "lang": "xh",
+  "chapter": 1,
+  "translation": "Mna, uKoelethi, ndandingumlawuli wakwa-Israyeli eYerushalayimi.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "mna"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "uKoelethi"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "ndanding"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "umlawuli"
+    },
+    {
+      "surface": "על",
+      "gloss": "wa-"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "kwa-Israyeli"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "eYerushalayimi"
+    }
+  ],
+  "timestamp": "2026-09-18T16:23:29.446034288Z",
+  "model": "glm-5.3"
+}

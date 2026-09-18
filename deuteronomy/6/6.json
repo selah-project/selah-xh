@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 6:6",
+  "book": "deuteronomy",
+  "lang": "xh",
+  "chapter": 6,
+  "translation": "Ezi mavalwe aza kuthi makuzalisekelwe kwiintliziyo yakho, amawele endiwalela wona namhlanje.",
+  "tokens": [
+    {
+      "surface": "והיו",
+      "gloss": "aza kukho\/makuzalisekelwe"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "ezi mavalwe"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ezi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amawele endiwalela wona"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "endi-"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "-walela"
+    },
+    {
+      "surface": "היום",
+      "gloss": "namhlanje"
+    },
+    {
+      "surface": "על",
+      "gloss": "kwi-"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "intliziyo yakho"
+    }
+  ],
+  "timestamp": "2026-09-18T07:56:41.247293476Z",
+  "model": "glm-5.3"
+}

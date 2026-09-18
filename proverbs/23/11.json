@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 23:11",
+  "book": "proverbs",
+  "lang": "xh",
+  "chapter": 23,
+  "translation": "kuba umsindisi wabo unamandla; yena uza kulwela inkundla yabo ⟨את⟩ nawe.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "גאלם",
+      "gloss": "umsindisi wabo"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "unamandla"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yena"
+    },
+    {
+      "surface": "יריב",
+      "gloss": "uza kulwela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "inkundla yabo"
+    },
+    {
+      "surface": "ריבם",
+      "gloss": "inkundla yabo"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ nawe"
+    }
+  ],
+  "timestamp": "2026-09-18T15:53:51.991864423Z",
+  "model": "glm-5.3"
+}

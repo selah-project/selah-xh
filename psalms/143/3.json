@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 143:3",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 143,
+  "translation": "Kuba umchasi walandela umphefumlo wam; wam cinezela emhlabeni ubomi bam; wandenza ndihlale ebumnyameni, njengabafileyo basemandulo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "רדף",
+      "gloss": "walandela"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "umchasi"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "umphefumlo wam"
+    },
+    {
+      "surface": "דכא",
+      "gloss": "wancinezela"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "emhlabeni"
+    },
+    {
+      "surface": "חיתי",
+      "gloss": "ubomi bam"
+    },
+    {
+      "surface": "הושיבני",
+      "gloss": "wandenza ndihlale"
+    },
+    {
+      "surface": "במחשכים",
+      "gloss": "ebumnyameni"
+    },
+    {
+      "surface": "כמתי",
+      "gloss": "njengabafileyo"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "basemandulo"
+    }
+  ],
+  "timestamp": "2026-09-18T15:32:13.810968126Z",
+  "model": "glm-5.3"
+}

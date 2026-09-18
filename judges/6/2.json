@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "judges 6:2",
+  "book": "judges",
+  "lang": "xh",
+  "chapter": 6,
+  "translation": "Isandla seMidiyani saba namandla phezu kweYisrayeli; ngenxa yeMidiyani abantwana bakwaYisrayeli bazenzela iindonga zemilambo ezisezintabeni, neminxuma, neendonga zokhuselo.",
+  "tokens": [
+    {
+      "surface": "ותעז",
+      "gloss": "saba namandla"
+    },
+    {
+      "surface": "יד",
+      "gloss": "isandla"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "seMidiyani"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu kwa-"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "eYisrayeli"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "ngenxa ye-"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "Midiyani"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "bazenzela"
+    },
+    {
+      "surface": "להם",
+      "gloss": "phantsi kwabo"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abantwana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "bakwaYisrayeli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iindonga zemilambo"
+    },
+    {
+      "surface": "המנהרות",
+      "gloss": "iindonga zemilambo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ezi-"
+    },
+    {
+      "surface": "בהרים",
+      "gloss": "sezintabeni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "neminxuma"
+    },
+    {
+      "surface": "המערות",
+      "gloss": "iminxuma"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "neendonga zokhuselo"
+    },
+    {
+      "surface": "המצדות",
+      "gloss": "neendonga zokhuselo"
+    }
+  ],
+  "timestamp": "2026-09-18T08:55:42.598144048Z",
+  "model": "glm-5.3"
+}

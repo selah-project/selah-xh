@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 22:32",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 22,
+  "translation": "Baza kufika batshile ilungelo lakhe kubantu abazalwayo, kuba ⟨wakwenza⟩.",
+  "tokens": [
+    {
+      "surface": "יבאו",
+      "gloss": "baza kufika"
+    },
+    {
+      "surface": "ויגידו",
+      "gloss": "batshile"
+    },
+    {
+      "surface": "צדקתו",
+      "gloss": "ilungelo lakhe"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "kubantu"
+    },
+    {
+      "surface": "נולד",
+      "gloss": "abazalwayo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "wakwenza"
+    }
+  ],
+  "timestamp": "2026-09-18T14:35:43.817372704Z",
+  "model": "glm-5.3"
+}

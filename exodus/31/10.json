@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 31:10",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 31,
+  "translation": "kunye ⟨את⟩ neempahla ezoxinenwe ngobuchule, ⟨את⟩ neempahla ezinkcwekileyo zompristi u-Aroni, ⟨את⟩ neempahla zonyana wakhe, ukuba bakhonze njabompristi.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "iimpahla ezoxinenwe ngobuchule"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "iimpahla"
+    },
+    {
+      "surface": "השרד",
+      "gloss": "ezoxinenwe ngobuchule"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "iimpahla ezinkcwekileyo zompristi u-Aroni"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "iimpahla"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "ezinkcwekileyo"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "zompristi u-Aroni"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "umpristi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "iimpahla zonyana wakhe"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "iimpahla"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "zonyana wakhe"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "ukuba bakhonze njabompristi"
+    }
+  ],
+  "timestamp": "2026-09-18T06:17:12.741572689Z",
+  "model": "glm-5.3"
+}

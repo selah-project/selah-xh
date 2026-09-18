@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "micah 7:7",
+  "book": "micah",
+  "lang": "xh",
+  "chapter": 7,
+  "translation": "Mna ndiyaqhubekela kuYahwe, ndilindele uElohim wosindiso lwam; uElohim wam uza kundiva.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Mna"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "kuYahwe"
+    },
+    {
+      "surface": "אצפה",
+      "gloss": "ndiyaqhubekela"
+    },
+    {
+      "surface": "אוחילה",
+      "gloss": "ndilindele"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "uElohim wo-"
+    },
+    {
+      "surface": "ישעי",
+      "gloss": "sindiso lwam"
+    },
+    {
+      "surface": "ישמעני",
+      "gloss": "uza kundiva"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "uElohim wam"
+    }
+  ],
+  "timestamp": "2026-09-18T14:07:48.929122524Z",
+  "model": "glm-5.3"
+}

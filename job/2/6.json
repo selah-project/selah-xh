@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 2:6",
+  "book": "job",
+  "lang": "xh",
+  "chapter": 2,
+  "translation": "Wathi uYahwe kuSatan: “Bheka, ulе еsandleni sakho; kuphela ⟨את⟩ umphefumlo wakhe uwugcine.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Wathi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "השטן",
+      "gloss": "uSatan"
+    },
+    {
+      "surface": "הנו",
+      "gloss": "Bheka, ulе"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "еsandleni sakho"
+    },
+    {
+      "surface": "אך",
+      "gloss": "kuphela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umphefumlo wakhe"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "umphefumlo wakhe"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "uwugcine"
+    }
+  ],
+  "timestamp": "2026-09-18T16:00:32.277456150Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 44:3",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 44,
+  "translation": "Wena, ngesandla sakho wazithathela iintlanga indawo yazo, wazityala ⟨abantwana bethu⟩; wazonakalisa amanxiwa, wazithumela.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Wena"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "ngesandla sakho"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "iintlanga"
+    },
+    {
+      "surface": "הורשת",
+      "gloss": "wazithathela indawo yazo"
+    },
+    {
+      "surface": "ותטעם",
+      "gloss": "wazityala ⟨abantwana bethu⟩"
+    },
+    {
+      "surface": "תרע",
+      "gloss": "wazonakalisa"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "amanxiwa"
+    },
+    {
+      "surface": "ותשלחם",
+      "gloss": "wazithumela"
+    }
+  ],
+  "timestamp": "2026-09-18T14:45:19.734709574Z",
+  "model": "glm-5.3"
+}

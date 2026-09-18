@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 26:18",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 26,
+  "translation": "Uzakwenza ⟨את⟩ iiplanki zetabernakele: amashumi amabini eeplanki ngasecaleni lasezantsi, engasentshona.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "Uzakwenza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iiplanki"
+    },
+    {
+      "surface": "הקרשים",
+      "gloss": "iiplanki"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "zetabernakele"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "amashumi amabini"
+    },
+    {
+      "surface": "קרש",
+      "gloss": "eeplanki"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "ngasecaleni"
+    },
+    {
+      "surface": "נגבה",
+      "gloss": "lasezantsi"
+    },
+    {
+      "surface": "תימנה",
+      "gloss": "engasentshona"
+    }
+  ],
+  "timestamp": "2026-09-18T17:20:19.427319714Z",
+  "model": "glm-5.3"
+}

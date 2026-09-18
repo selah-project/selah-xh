@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "song-of-songs 8:5",
+  "book": "song-of-songs",
+  "lang": "xh",
+  "chapter": 8,
+  "translation": "Ngubani lo ovela elangeni, elela kunodali wakhe? Ngaphantsi komthi weapile ndakuvuvukisa wena; apho unina wakuthwala wena; apho wakuthwala, yena wakuzala wena.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Ngubani"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "lo"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "ovela"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ela-"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "langeni"
+    },
+    {
+      "surface": "מתרפקת",
+      "gloss": "elela"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "דודה",
+      "gloss": "nodali wakhe"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "Ngaphantsi"
+    },
+    {
+      "surface": "התפוח",
+      "gloss": "komthi weapile"
+    },
+    {
+      "surface": "עוררתיך",
+      "gloss": "ndakuvuvukisa wena"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "apho"
+    },
+    {
+      "surface": "חבלתך",
+      "gloss": "wakuthwala wena"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "unina"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "apho"
+    },
+    {
+      "surface": "חבלה",
+      "gloss": "wakuthwala"
+    },
+    {
+      "surface": "ילדתך",
+      "gloss": "wakuzala wena"
+    }
+  ],
+  "timestamp": "2026-09-18T16:19:58.054277892Z",
+  "model": "glm-5.3"
+}

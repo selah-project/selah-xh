@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 29:5",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 29,
+  "translation": "Ilizwi likaYahwe liyatyabuka iisedari; uYahwe wazityabukisa ⟨את⟩ iisedari zeLebanoni.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "ilizwi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "likaYahwe"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "liyatyabuka"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "iisedari"
+    },
+    {
+      "surface": "וישבר",
+      "gloss": "wazityabukisa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iisedari zeLebanoni"
+    },
+    {
+      "surface": "ארזי",
+      "gloss": "iisedari"
+    },
+    {
+      "surface": "הלבנון",
+      "gloss": "zeLebanoni"
+    }
+  ],
+  "timestamp": "2026-09-18T14:37:16.062438981Z",
+  "model": "glm-5.3"
+}

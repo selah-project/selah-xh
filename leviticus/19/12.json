@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 19:12",
+  "book": "leviticus",
+  "lang": "xh",
+  "chapter": 19,
+  "translation": "Kananjalo musa ukulunga ngeGama lam ngobuxoki, uze ungcolise ⟨את⟩ iGama likaElohim wakho; ndinguYahwe.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "kananjalo musa"
+    },
+    {
+      "surface": "תשבעו",
+      "gloss": "ukulunga"
+    },
+    {
+      "surface": "בשמי",
+      "gloss": "ngeGama lam"
+    },
+    {
+      "surface": "לשקר",
+      "gloss": "ngobuxoki"
+    },
+    {
+      "surface": "וחללת",
+      "gloss": "uze ungcolise"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iGama"
+    },
+    {
+      "surface": "שם",
+      "gloss": "iGama"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "likaElohim wakho"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ndi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "nguYahwe"
+    }
+  ],
+  "timestamp": "2026-09-18T06:54:26.984058369Z",
+  "model": "glm-5.3"
+}

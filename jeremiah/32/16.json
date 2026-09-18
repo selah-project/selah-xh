@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "jeremiah 32:16",
+  "book": "jeremiah",
+  "lang": "xh",
+  "chapter": 32,
+  "translation": "Ndaza ndandulela ukuthandazela kuYahwe, emva kokunika ⟨את⟩ incwadi yothengiso uBharuk, unyana kaNeriya, ndithi:",
+  "tokens": [
+    {
+      "surface": "ואתפלל",
+      "gloss": "Ndaza ndandulela ukuthandazela"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "emva kokunika"
+    },
+    {
+      "surface": "תתי",
+      "gloss": "emva kokunika"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "incwadi yothengiso"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "incwadi"
+    },
+    {
+      "surface": "המקנה",
+      "gloss": "yothengiso"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "uBharuk"
+    },
+    {
+      "surface": "בן",
+      "gloss": "unyana"
+    },
+    {
+      "surface": "נריה",
+      "gloss": "kaNeriya"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ndithi"
+    }
+  ],
+  "timestamp": "2026-09-18T12:24:08.138965504Z",
+  "model": "glm-5.3"
+}

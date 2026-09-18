@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 118:18",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 118,
+  "translation": "uYah wandise ngokubetha, kodwa akandiniki ukufa.",
+  "tokens": [
+    {
+      "surface": "יסר",
+      "gloss": "wandise"
+    },
+    {
+      "surface": "יסרני",
+      "gloss": "ngokubetha"
+    },
+    {
+      "surface": "יה",
+      "gloss": "uYah"
+    },
+    {
+      "surface": "ולמות",
+      "gloss": "kodwa ukufa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "akandiniki (hayi)"
+    },
+    {
+      "surface": "נתנני",
+      "gloss": "wandinika"
+    }
+  ],
+  "timestamp": "2026-09-18T15:22:39.426057358Z",
+  "model": "glm-5.3"
+}

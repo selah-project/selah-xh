@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 21:3",
+  "book": "isaiah",
+  "lang": "xh",
+  "chapter": 21,
+  "translation": "Ngoko ke iintlungu zahlazulule izinqe zam, amacushu undibambele njengamacushu omzuzulu; ndachiwe ndivakalelwa, ndoyike ndibona.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "Ngesi-"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ngoko ke"
+    },
+    {
+      "surface": "מלאו",
+      "gloss": "zahlazulule"
+    },
+    {
+      "surface": "מתני",
+      "gloss": "izinqe zam"
+    },
+    {
+      "surface": "חלחלה",
+      "gloss": "iintlungu"
+    },
+    {
+      "surface": "צירים",
+      "gloss": "amacushu"
+    },
+    {
+      "surface": "אחזוני",
+      "gloss": "undibambele"
+    },
+    {
+      "surface": "כצירי",
+      "gloss": "njengamacushu"
+    },
+    {
+      "surface": "יולדה",
+      "gloss": "omzuzulu"
+    },
+    {
+      "surface": "נעויתי",
+      "gloss": "ndachiwe"
+    },
+    {
+      "surface": "משמע",
+      "gloss": "ndivakalelwa"
+    },
+    {
+      "surface": "נבהלתי",
+      "gloss": "ndoyike"
+    },
+    {
+      "surface": "מראות",
+      "gloss": "ndibona"
+    }
+  ],
+  "timestamp": "2026-09-18T11:15:05.335533470Z",
+  "model": "glm-5.3"
+}

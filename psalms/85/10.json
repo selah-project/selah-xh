@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 85:10",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 85,
+  "translation": "Inene, ikufutshane kwabamoyikayo iyo insindiso yakhe, ukuze uzuko luhlale emhlabeni wethu.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Inene"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "ikufutshane"
+    },
+    {
+      "surface": "ליראיו",
+      "gloss": "kwabamoyikayo iyo"
+    },
+    {
+      "surface": "ישעו",
+      "gloss": "insindiso yakhe"
+    },
+    {
+      "surface": "לשכן",
+      "gloss": "ukuze ihlale"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "uzuko"
+    },
+    {
+      "surface": "בארצנו",
+      "gloss": "emhlabeni wethu"
+    }
+  ],
+  "timestamp": "2026-09-18T15:07:19.555825660Z",
+  "model": "glm-5.3"
+}

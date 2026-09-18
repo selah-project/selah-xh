@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 91:1",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 91,
+  "translation": "Lowo uhlala ⟨kwi⟩ndawo efihlakeleyo ka-Elyon, emthunzini kaShadayi uzakuchitha ubusuku.",
+  "tokens": [
+    {
+      "surface": "ישב",
+      "gloss": "uhlala"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "endaweni efihlakeleyo"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "ka-Elyon"
+    },
+    {
+      "surface": "בצל",
+      "gloss": "emthunzini"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "kaShadayi"
+    },
+    {
+      "surface": "יתלונן",
+      "gloss": "uzakuchitha ubusuku"
+    }
+  ],
+  "timestamp": "2026-09-18T17:44:51.306056670Z",
+  "model": "glm-5.3"
+}

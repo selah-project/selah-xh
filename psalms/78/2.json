@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 78:2",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 78,
+  "translation": "Ndiya kuvula umlomo waM ngumthethelelo; ndiya kuthi tuba iintsana zentsitho ezivela kudala.",
+  "tokens": [
+    {
+      "surface": "אפתחה",
+      "gloss": "Ndiya kuvula"
+    },
+    {
+      "surface": "במשל",
+      "gloss": "ngumthethelelo"
+    },
+    {
+      "surface": "פי",
+      "gloss": "umlomo waM"
+    },
+    {
+      "surface": "אביעה",
+      "gloss": "ndiya kuthi tuba"
+    },
+    {
+      "surface": "חידות",
+      "gloss": "iintsana zentsitho"
+    },
+    {
+      "surface": "מני",
+      "gloss": "ezivela"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "kudala"
+    }
+  ],
+  "timestamp": "2026-09-18T15:01:56.839460813Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "joshua 8:15",
+  "book": "joshua",
+  "lang": "xh",
+  "chapter": 8,
+  "translation": "uYehoshuwa naye yonke iYisrayeli babethelekile phambi kwabo, babaleka ngendlela yentlango.",
+  "tokens": [
+    {
+      "surface": "וינגעו",
+      "gloss": "babethelekile"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "uYehoshuwa"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "naye yonke"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "iYisrayeli"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "phambi kwabo"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "babaleka"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "ngendlela"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "yentlango"
+    }
+  ],
+  "timestamp": "2026-09-18T08:33:04.722681091Z",
+  "model": "glm-5.3"
+}

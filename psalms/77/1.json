@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 77:1",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 77,
+  "translation": "Kumlawuli, ngoYedutuni; ku-Asaf, incwadi yomculo.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Kumlawuli"
+    },
+    {
+      "surface": "על",
+      "gloss": "ngo"
+    },
+    {
+      "surface": "ידיתון",
+      "gloss": "Yedutuni"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "ku-Asaf"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "incwadi yomculo"
+    }
+  ],
+  "timestamp": "2026-09-18T15:01:55.654056982Z",
+  "model": "glm-5.3"
+}

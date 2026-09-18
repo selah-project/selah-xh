@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 27:4",
+  "book": "leviticus",
+  "lang": "xh",
+  "chapter": 27,
+  "translation": "Ukuba ngowesifazane, ixabiso lakho libe ngamashumi amathathu amashekeli.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ukuba"
+    },
+    {
+      "surface": "נקבה",
+      "gloss": "owesifazane"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ngu-"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "libe"
+    },
+    {
+      "surface": "ערכך",
+      "gloss": "ixabiso lakho"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "ngamashumi amathathu"
+    },
+    {
+      "surface": "שקל",
+      "gloss": "amashekeli"
+    }
+  ],
+  "timestamp": "2026-09-18T07:09:13.164719214Z",
+  "model": "glm-5.3"
+}

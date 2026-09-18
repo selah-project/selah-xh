@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 18:32",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 18,
+  "translation": "Kuba ngubani u-Eloha ngaphandle koYahwe? Kananjalo ngubani ilitye eliqinileyo ngaphandle koElohim wethu?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ngubani"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "u-Eloha"
+    },
+    {
+      "surface": "מבלעדי",
+      "gloss": "ngaphandle ko-"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "kananjalo ngubani"
+    },
+    {
+      "surface": "צור",
+      "gloss": "ilitye eliqinileyo"
+    },
+    {
+      "surface": "זולתי",
+      "gloss": "ngaphandle ko-"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "uElohim wethu"
+    }
+  ],
+  "timestamp": "2026-09-18T14:34:50.079158068Z",
+  "model": "glm-5.3"
+}

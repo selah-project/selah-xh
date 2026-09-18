@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-kings 12:9",
+  "book": "1-kings",
+  "lang": "xh",
+  "chapter": 12,
+  "translation": "Wathetha kubo: “Ntoni eniyicebayo, ukuze siphendule izwi ⟨את⟩ la bantu abandithetheleleyo, besithi: Yehlisa ithwalo awayibekela uyise phezu kwethu?”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wathetha"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "kubo"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ntoni"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "nina"
+    },
+    {
+      "surface": "נועצים",
+      "gloss": "eniyicebayo"
+    },
+    {
+      "surface": "ונשיב",
+      "gloss": "ukuze siphendule"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "izwi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la bantu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "la bantu"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "le"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aba"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "abandithetheleleyo"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kum"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "besithi"
+    },
+    {
+      "surface": "הקל",
+      "gloss": "yehlisa"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kwi"
+    },
+    {
+      "surface": "העל",
+      "gloss": "ithwalo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "elo"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "awayibekela"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "uyise"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "phezu kwethu"
+    }
+  ],
+  "timestamp": "2026-09-18T10:25:28.209145925Z",
+  "model": "glm-5.3"
+}

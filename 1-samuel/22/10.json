@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 22:10",
+  "book": "1-samuel",
+  "lang": "xh",
+  "chapter": 22,
+  "translation": "wabuza kuYahwe ngaye, wamnika nokutya, waza wamnika naye ⟨את⟩ inkemba kaGolyati umFulishtayi.",
+  "tokens": [
+    {
+      "surface": "וישאל",
+      "gloss": "wabuza"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ngaye"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "kuYahwe"
+    },
+    {
+      "surface": "וצידה",
+      "gloss": "nokutya"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "wamnika"
+    },
+    {
+      "surface": "לו",
+      "gloss": "yena"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "inkemba kaGolyati"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "inkemba"
+    },
+    {
+      "surface": "גלית",
+      "gloss": "kaGolyati"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "umFulishtayi"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "wanika"
+    },
+    {
+      "surface": "לו",
+      "gloss": "yena"
+    }
+  ],
+  "timestamp": "2026-09-18T09:34:32.323683753Z",
+  "model": "glm-5.3"
+}

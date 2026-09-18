@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 45:12",
+  "book": "isaiah",
+  "lang": "xh",
+  "chapter": 45,
+  "translation": "NdinguYena ndenze umhlaba, ndadala ⟨את⟩ umntu phezu kwawo; ndinguYena — izandla zam zadumba ⟨את⟩ amazulu, wonke umkhosi wazo ndawuyalela.",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "NdinguYena"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "ndenze"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "umhlaba"
+    },
+    {
+      "surface": "ואדם",
+      "gloss": "nomntu"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "phezu kwawo"
+    },
+    {
+      "surface": "בראתי",
+      "gloss": "ndadala"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ndinguYena"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "izandla zam"
+    },
+    {
+      "surface": "נטו",
+      "gloss": "zadumba"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "amazulu"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "wonke"
+    },
+    {
+      "surface": "צבאם",
+      "gloss": "umkhosi wazo"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "ndawuyalela"
+    }
+  ],
+  "timestamp": "2026-09-18T11:34:47.854307664Z",
+  "model": "glm-5.3"
+}

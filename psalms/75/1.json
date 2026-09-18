@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 75:1",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 75,
+  "translation": "Kumlawuli; Musa ukutshatyalalisa; umculo ka-Asafi; icle.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Kumlawuli"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Musa"
+    },
+    {
+      "surface": "תשחת",
+      "gloss": "ukutshatyalalisa"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "umculo"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "ka-Asafi"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "icle"
+    }
+  ],
+  "timestamp": "2026-09-18T15:01:31.515063576Z",
+  "model": "glm-5.3"
+}

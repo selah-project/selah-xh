@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 2:20",
+  "book": "1-kings",
+  "lang": "xh",
+  "chapter": 2,
+  "translation": "Wathi: “Isicelo esincinane esinye ndisicela kuwe ⟨את⟩; musa ukuthelela ngaphaya ⟨את⟩ ubuso bam.” Wayesethi ukumkani kuye: “Cela, mama, kuba andizi kuthelela ngaphaya ⟨את⟩ ubuso bakho.”",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "שאלה",
+      "gloss": "isicelo"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "esinye"
+    },
+    {
+      "surface": "קטנה",
+      "gloss": "esincinane"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "mna"
+    },
+    {
+      "surface": "שאלת",
+      "gloss": "ndisicela"
+    },
+    {
+      "surface": "מאתך",
+      "gloss": "kuwe ⟨את⟩"
+    },
+    {
+      "surface": "אל",
+      "gloss": "musa"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "ukuthelela ngaphaya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ubuso bam"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ubuso bam"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "wayesethi"
+    },
+    {
+      "surface": "לה",
+      "gloss": "kuye"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ukumkani"
+    },
+    {
+      "surface": "שאלי",
+      "gloss": "cela"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "mama"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "לא",
+      "gloss": "andizi"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "kuthelela ngaphaya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ubuso bakho"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ubuso bakho"
+    }
+  ],
+  "timestamp": "2026-09-18T10:11:39.421473263Z",
+  "model": "glm-5.3"
+}

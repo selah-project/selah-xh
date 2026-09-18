@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 29:24",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 29,
+  "translation": "Ubeke konke ezandleni zika-Aharon nasezandleni zabantakwabo, uzishukumise njengomnikelo wokushukumiswa phambi koYahwe.",
+  "tokens": [
+    {
+      "surface": "ושמת",
+      "gloss": "ubeke"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "konke"
+    },
+    {
+      "surface": "על",
+      "gloss": "e-"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "zandleni"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "zika-Aharon"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "nase-"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "zandleni"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "zabantakwabo"
+    },
+    {
+      "surface": "והנפת",
+      "gloss": "uzishukumise"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "zi- (konke okwezi zinto)"
+    },
+    {
+      "surface": "תנופה",
+      "gloss": "njengomnikelo wokushukumiswa"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "phambi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "koYahwe"
+    }
+  ],
+  "timestamp": "2026-09-18T06:18:46.888052925Z",
+  "model": "glm-5.3"
+}

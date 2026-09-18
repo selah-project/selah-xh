@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 30:2",
+  "book": "proverbs",
+  "lang": "xh",
+  "chapter": 30,
+  "translation": "Kuba mna ndingumdla ngaphezu komntu, yaye andinawo ukuqonda komntu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kuba"
+    },
+    {
+      "surface": "בער",
+      "gloss": "ndingumdla"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "mna"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "ngaphezu komntu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "yaye andinawo"
+    },
+    {
+      "surface": "בינת",
+      "gloss": "ukuqonda"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "komntu"
+    },
+    {
+      "surface": "לי",
+      "gloss": "⟨ndinawo⟩"
+    }
+  ],
+  "timestamp": "2026-09-18T15:59:12.235771753Z",
+  "model": "glm-5.3"
+}

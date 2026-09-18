@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 4:12",
+  "book": "jeremiah",
+  "lang": "xh",
+  "chapter": 4,
+  "translation": "Moya ogcweleyo owokho uya kufika kum; ngoku nakanjalo mna ndiza kuthetha izigwebo ⟨את⟩ phezu kwabo.",
+  "tokens": [
+    {
+      "surface": "רוח",
+      "gloss": "moya"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "ogcweleyo"
+    },
+    {
+      "surface": "מאלה",
+      "gloss": "owokho"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "uya kufika"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kum"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "ngoku"
+    },
+    {
+      "surface": "גם",
+      "gloss": "nakanjalo"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mna"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "ndiza kuthetha"
+    },
+    {
+      "surface": "משפטים",
+      "gloss": "izigwebo"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "izigwebo"
+    }
+  ],
+  "timestamp": "2026-09-18T11:54:40.483507338Z",
+  "model": "glm-5.3"
+}

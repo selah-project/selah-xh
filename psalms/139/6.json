@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 139:6",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 139,
+  "translation": "Ulwazi ⟨lwakho⟩ luyamangalisa kum, luphakamile kakhulu; andinakho ukufikelela kulo.",
+  "tokens": [
+    {
+      "surface": "פלאיה",
+      "gloss": "luyamangalisa"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "ulwazi"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "kum"
+    },
+    {
+      "surface": "נשגבה",
+      "gloss": "luphakamile kakhulu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "andinakho"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "ukukwazi"
+    },
+    {
+      "surface": "לה",
+      "gloss": "kulo"
+    }
+  ],
+  "timestamp": "2026-09-18T15:30:18.636982926Z",
+  "model": "glm-5.3"
+}

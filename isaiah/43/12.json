@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 43:12",
+  "book": "isaiah",
+  "lang": "xh",
+  "chapter": 43,
+  "translation": "Mna ndabhengeza, ndasindisa, ndenza ukuba zivakalise; yaye akukho thixo lasezizweni phakathi kwenu. Nina ningamaqina am, isibheno sikaYahwe, yaye ndingu-El.",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "mna"
+    },
+    {
+      "surface": "הגדתי",
+      "gloss": "ndabhengeza"
+    },
+    {
+      "surface": "והושעתי",
+      "gloss": "ndasindisa"
+    },
+    {
+      "surface": "והשמעתי",
+      "gloss": "ndenza zivakalise"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "yaye akukho"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "phakathi kwenu"
+    },
+    {
+      "surface": "זר",
+      "gloss": "lasezizweni"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "nina"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "ningamaqina am"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "isibheno"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "sikaYahwe"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "yaye mna"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ndingu-El"
+    }
+  ],
+  "timestamp": "2026-09-18T11:30:58.410308818Z",
+  "model": "glm-5.3"
+}

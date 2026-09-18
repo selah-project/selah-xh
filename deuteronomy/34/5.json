@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 34:5",
+  "book": "deuteronomy",
+  "lang": "xh",
+  "chapter": 34,
+  "translation": "Wafa ke uMoshe, inkonzi kaYahwe, khona elizweni laseMowabhi, ngokomlomo kaYahwe.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "wafa"
+    },
+    {
+      "surface": "שם",
+      "gloss": "khona"
+    },
+    {
+      "surface": "משה",
+      "gloss": "uMoshe"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "inkonzi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kaYahwe"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "elizweni"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "laseMowabhi"
+    },
+    {
+      "surface": "על",
+      "gloss": "ngoko-"
+    },
+    {
+      "surface": "פי",
+      "gloss": "mlomo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kaYahwe"
+    }
+  ],
+  "timestamp": "2026-09-18T08:25:20.239884122Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 26:15",
+  "book": "leviticus",
+  "lang": "xh",
+  "chapter": 26,
+  "translation": "ukuba nithiyala imigaqo yam, ukuba umphefumlo wenu udyabhala ⟨את⟩ imimiselo yam, ukuze ningawenzi ⟨את⟩ onke oomyalelo bam, ukuyophula ⟨את⟩ umnqophiso wam;",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ukuba"
+    },
+    {
+      "surface": "בחקתי",
+      "gloss": "imigaqo yam"
+    },
+    {
+      "surface": "תמאסו",
+      "gloss": "nithiyala"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "ukuba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "imimiselo yam"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "imimiselo yam"
+    },
+    {
+      "surface": "תגעל",
+      "gloss": "udyabhala"
+    },
+    {
+      "surface": "נפשכם",
+      "gloss": "umphefumlo wenu"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "ukuzingela ukungawenzi"
+    },
+    {
+      "surface": "עשות",
+      "gloss": "ukwenza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "onke oomyalelo bam"
+    },
+    {
+      "surface": "כל",
+      "gloss": "onke"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "oomyalelo bam"
+    },
+    {
+      "surface": "להפרכם",
+      "gloss": "ukuyophula"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umnqophiso wam"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "umnqophiso wam"
+    }
+  ],
+  "timestamp": "2026-09-18T07:07:08.593348774Z",
+  "model": "glm-5.3"
+}

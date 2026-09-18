@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "judges 10:3",
+  "book": "judges",
+  "lang": "xh",
+  "chapter": 10,
+  "translation": "Wavuka emva kwakhe uYayiri, umGiladi, wahlulela ⟨את⟩ uYisraele iminyaka engamashumi amabini anesibini.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "wavuka"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "emva kwakhe"
+    },
+    {
+      "surface": "יאיר",
+      "gloss": "uYayiri"
+    },
+    {
+      "surface": "הגלעדי",
+      "gloss": "umGiladi"
+    },
+    {
+      "surface": "וישפט",
+      "gloss": "wahlulela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uYisraele"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "uYisraele"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "amashumi amabini"
+    },
+    {
+      "surface": "ושתים",
+      "gloss": "anesibini"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "iminyaka"
+    }
+  ],
+  "timestamp": "2026-09-18T08:59:52.360856735Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "hosea 13:7",
+  "book": "hosea",
+  "lang": "xh",
+  "chapter": 13,
+  "translation": "Ndingaba njengelubhlesi kubo, njengengwe ngaseNdleleni ndiza kuzilangazela.",
+  "tokens": [
+    {
+      "surface": "ואהי",
+      "gloss": "ndingaba"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kubo"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "njenge-"
+    },
+    {
+      "surface": "שחל",
+      "gloss": "elubhlesi"
+    },
+    {
+      "surface": "כנמר",
+      "gloss": "njengengwe"
+    },
+    {
+      "surface": "על",
+      "gloss": "ngase-"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "iNdlela"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "ndiza kuzilangazela"
+    }
+  ],
+  "timestamp": "2026-09-18T13:48:33.892757433Z",
+  "model": "glm-5.3"
+}

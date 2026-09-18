@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 1:10",
+  "book": "1-chronicles",
+  "lang": "xh",
+  "chapter": 1,
+  "translation": "uKush wazala ⟨את⟩ uNimrode; nguye owaqalisa ukuba yindoda esemandleni ehlabathini.",
+  "tokens": [
+    {
+      "surface": "וכוש",
+      "gloss": "uKush"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "wazala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uNimrode"
+    },
+    {
+      "surface": "נמרוד",
+      "gloss": "uNimrode"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "nguye"
+    },
+    {
+      "surface": "החל",
+      "gloss": "owaqalisa"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "ukuba"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "yindoda esemandleni"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ehlabathini"
+    }
+  ],
+  "timestamp": "2026-09-18T16:50:38.167596343Z",
+  "model": "glm-5.3"
+}

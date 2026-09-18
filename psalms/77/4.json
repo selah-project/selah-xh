@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 77:4",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 77,
+  "translation": "Ndiyakhumbula uElohim, ndinenhlungu; ndicinga, umoya wam uyawa. Sela.",
+  "tokens": [
+    {
+      "surface": "אזכרה",
+      "gloss": "Ndiyakhumbula"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "ואהמיה",
+      "gloss": "ndinenhlungu"
+    },
+    {
+      "surface": "אשיחה",
+      "gloss": "ndicinga"
+    },
+    {
+      "surface": "ותתעטף",
+      "gloss": "uyawa"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "umoya wam"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-09-18T15:01:55.654549334Z",
+  "model": "glm-5.3"
+}

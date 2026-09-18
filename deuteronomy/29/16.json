@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 29:16",
+  "book": "deuteronomy",
+  "lang": "xh",
+  "chapter": 29,
+  "translation": "Nanibona ⟨את⟩ iinkyukuma zabo no⟨את⟩ amathixo abo, umthi nelitye, isilivere negolide, anokho kubo.",
+  "tokens": [
+    {
+      "surface": "ותראו",
+      "gloss": "nanibona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iinkyukuma zabo"
+    },
+    {
+      "surface": "שקוציהם",
+      "gloss": "iinkyukuma zabo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "no⟨את⟩",
+      "marks": "amathixo abo"
+    },
+    {
+      "surface": "גלליהם",
+      "gloss": "amathixo abo"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "umthi"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "nelitye"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "isilivere"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "negolide"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "anokho"
+    },
+    {
+      "surface": "עמהם",
+      "gloss": "kubo"
+    }
+  ],
+  "timestamp": "2026-09-18T08:19:36.732458492Z",
+  "model": "glm-5.3"
+}

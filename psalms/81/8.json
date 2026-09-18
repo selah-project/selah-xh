@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 81:8",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 81,
+  "translation": "Kuxinzelelo ubizele, ndandikukhulula; ndakuphendula kwindawo ecashileyo yeduma; ndakuvavanya kwamanzi eMeriba. Selah.",
+  "tokens": [
+    {
+      "surface": "בצרה",
+      "gloss": "kuxinzelelo"
+    },
+    {
+      "surface": "קראת",
+      "gloss": "ubizele"
+    },
+    {
+      "surface": "ואחלצך",
+      "gloss": "ndandikukhulula"
+    },
+    {
+      "surface": "אענך",
+      "gloss": "ndakuphendula"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "kwindawo ecashileyo"
+    },
+    {
+      "surface": "רעם",
+      "gloss": "yeduma"
+    },
+    {
+      "surface": "אבחנך",
+      "gloss": "ndakuvavanya"
+    },
+    {
+      "surface": "על",
+      "gloss": "kwi-"
+    },
+    {
+      "surface": "מי",
+      "gloss": "amanzi"
+    },
+    {
+      "surface": "מריבה",
+      "gloss": "eMeriba"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-18T15:05:38.581755554Z",
+  "model": "glm-5.3"
+}

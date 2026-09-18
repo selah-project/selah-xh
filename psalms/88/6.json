@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 88:6",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 88,
+  "translation": "Ndishiyeke ekhululekile phakathi kwabafileyo, njengaboleleyo abalala engcwabeni, ongubakhankanyi ngokutsha; banyanzelwe ngasandla sakho.",
+  "tokens": [
+    {
+      "surface": "במתים",
+      "gloss": "phakathi kwabafileyo"
+    },
+    {
+      "surface": "חפשי",
+      "gloss": "ekhululekile"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "njenga-"
+    },
+    {
+      "surface": "חללים",
+      "gloss": "aboleleyo"
+    },
+    {
+      "surface": "שכבי",
+      "gloss": "abalala"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "engcwabeni"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "abo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "akukho"
+    },
+    {
+      "surface": "זכרתם",
+      "gloss": "ubakhankanyi"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ngokutsha"
+    },
+    {
+      "surface": "והמה",
+      "gloss": "banye"
+    },
+    {
+      "surface": "מידך",
+      "gloss": "ngasandla sakho"
+    },
+    {
+      "surface": "נגזרו",
+      "gloss": "banyanzelwe"
+    }
+  ],
+  "timestamp": "2026-09-18T15:07:55.850454902Z",
+  "model": "glm-5.3"
+}

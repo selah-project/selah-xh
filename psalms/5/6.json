@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 5:6",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 5,
+  "translation": "Abazibonayo abaza kumiswa phambi kwamehlo akho; uzidiale zonke abenzi bobuxoki.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "hayi"
+    },
+    {
+      "surface": "יתיצבו",
+      "gloss": "abaza kumiswa"
+    },
+    {
+      "surface": "הוללים",
+      "gloss": "abazibonayo"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "phambi kwa"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "amehlo akho"
+    },
+    {
+      "surface": "שנאת",
+      "gloss": "uzidiale"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zonke"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "abenzi"
+    },
+    {
+      "surface": "און",
+      "gloss": "bobuxoki"
+    }
+  ],
+  "timestamp": "2026-09-18T14:26:42.581920002Z",
+  "model": "glm-5.3"
+}

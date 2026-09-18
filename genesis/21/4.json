@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 21:4",
+  "book": "genesis",
+  "lang": "xh",
+  "chapter": 21,
+  "translation": "Waza u-Avraham wamkwangalusa uYitshaki unyana wakhe, enemihla emibini nesiwe, njengoko uElohim wamyalela ⟨אתו⟩.",
+  "tokens": [
+    {
+      "surface": "וימל",
+      "gloss": "wamkwangalusa"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "u-Avraham"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uYitshaki"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "uYitshaki"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "unyana wakhe"
+    },
+    {
+      "surface": "בן",
+      "gloss": "unyana"
+    },
+    {
+      "surface": "שמנת",
+      "gloss": "inemihla emibini nesiwe"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "⟨imihla⟩"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "njengoko"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "wamyalela"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "yena"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "uElohim"
+    }
+  ],
+  "timestamp": "2026-09-18T05:18:57.859801622Z",
+  "model": "glm-5.3"
+}

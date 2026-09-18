@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 18:26",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 18,
+  "translation": "Kulowo unobabalo uzibonakalisa ngobabalo; kumntu opheleleyo uzibonakalisa ngokupheleleyo.",
+  "tokens": [
+    {
+      "surface": "עם",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "חסיד",
+      "gloss": "lowo unobabalo"
+    },
+    {
+      "surface": "תתחסד",
+      "gloss": "uzibonakalisa ngobabalo"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "umntu"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "opheleleyo"
+    },
+    {
+      "surface": "תתמם",
+      "gloss": "uzibonakalisa ngokupheleleyo"
+    }
+  ],
+  "timestamp": "2026-09-18T14:34:37.186250229Z",
+  "model": "glm-5.3"
+}

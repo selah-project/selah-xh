@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 8:4",
+  "book": "2-chronicles",
+  "lang": "xh",
+  "chapter": 8,
+  "translation": "Waza wakha ⟨את⟩ iTadmori entlango, nako ⟨את⟩ onke amaxoko okugcina impahla awawakha eKhamathi.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "wakha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iTadmori"
+    },
+    {
+      "surface": "תדמר",
+      "gloss": "iTadmori"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "entlango"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "nako ⟨את⟩",
+      "marks": "onke amaxoko"
+    },
+    {
+      "surface": "כל",
+      "gloss": "onke"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "amaxoko"
+    },
+    {
+      "surface": "המסכנות",
+      "gloss": "okugcina impahla"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "awawakha"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "wawakha"
+    },
+    {
+      "surface": "בחמת",
+      "gloss": "eKhamathi"
+    }
+  ],
+  "timestamp": "2026-09-18T17:05:17.979330317Z",
+  "model": "glm-5.3"
+}

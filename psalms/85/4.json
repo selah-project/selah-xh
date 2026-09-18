@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 85:4",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 85,
+  "translation": "Wawususa lonke ulaka lwakho, wabuyela kwisithukuthezi solaka lwakho.",
+  "tokens": [
+    {
+      "surface": "אספת",
+      "gloss": "Wawususa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lonke"
+    },
+    {
+      "surface": "עברתך",
+      "gloss": "ulaka lwakho"
+    },
+    {
+      "surface": "השיבות",
+      "gloss": "wabuyela"
+    },
+    {
+      "surface": "מחרון",
+      "gloss": "kwisithukuthezi"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "solaka lwakho"
+    }
+  ],
+  "timestamp": "2026-09-18T15:07:08.339325803Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 40:18",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 40,
+  "translation": "Mna ndilumileyo ndingumfama, u-Adonayi undicengele; wena lungu ncume yam nokholisele lwam, u-Elohim wam, musa ukulibazisa.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "mna"
+    },
+    {
+      "surface": "עני",
+      "gloss": "ndilumileyo"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "ndingumfama"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "u-Adonayi"
+    },
+    {
+      "surface": "יחשב",
+      "gloss": "undicengele"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ndi-"
+    },
+    {
+      "surface": "עזרתי",
+      "gloss": "incume yam"
+    },
+    {
+      "surface": "ומפלטי",
+      "gloss": "nokholisele lwam"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "u-Elohim wam"
+    },
+    {
+      "surface": "אל",
+      "gloss": "musa"
+    },
+    {
+      "surface": "תאחר",
+      "gloss": "ukulibazisa"
+    }
+  ],
+  "timestamp": "2026-09-18T14:43:38.713151188Z",
+  "model": "glm-5.3"
+}

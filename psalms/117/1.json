@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 117:1",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 117,
+  "translation": "Dumisani ⟨את⟩ uYahwe, zonke iintlanga; mudumiseni yena, zonke ⟨the⟩ amazwe.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Dumisani"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uYahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zonke"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "iintlanga"
+    },
+    {
+      "surface": "שבחוהו",
+      "gloss": "mudumiseni yena"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zonke"
+    },
+    {
+      "surface": "האמים",
+      "gloss": "amazwe"
+    }
+  ],
+  "timestamp": "2026-09-18T15:21:41.427975142Z",
+  "model": "glm-5.3"
+}

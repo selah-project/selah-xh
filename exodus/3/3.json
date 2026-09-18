@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 3:3",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 3,
+  "translation": "Wathi uMoshe: “Ndiza kujika, nceda, ndibone ⟨את⟩ olo boniso olumkhulu: kutheni isikhuni lingatshisi?”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "משה",
+      "gloss": "uMoshe"
+    },
+    {
+      "surface": "אסרה",
+      "gloss": "ndiza kujika"
+    },
+    {
+      "surface": "נא",
+      "gloss": "nceda"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "ndibone"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umboniso"
+    },
+    {
+      "surface": "המראה",
+      "gloss": "umboniso"
+    },
+    {
+      "surface": "הגדל",
+      "gloss": "olumkhulu"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "olo"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "kutheni"
+    },
+    {
+      "surface": "לא",
+      "gloss": "linga"
+    },
+    {
+      "surface": "יבער",
+      "gloss": "tshisi"
+    },
+    {
+      "surface": "הסנה",
+      "gloss": "isikhuni"
+    }
+  ],
+  "timestamp": "2026-09-18T05:49:58.742561146Z",
+  "model": "glm-5.3"
+}

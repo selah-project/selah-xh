@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 144:14",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 144,
+  "translation": "Iinkabi zethu zinesiphatho esinzima; akukho bhangqa, akukho kuphuma, akukho bhadlolo emigangathweni yethu.",
+  "tokens": [
+    {
+      "surface": "אלופינו",
+      "gloss": "iinkabi zethu"
+    },
+    {
+      "surface": "מסבלים",
+      "gloss": "zinesiphatho esinzima"
+    },
+    {
+      "surface": "אין",
+      "gloss": "akukho"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "bhangqa"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "akukho"
+    },
+    {
+      "surface": "יוצאת",
+      "gloss": "kuphuma"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "akukho"
+    },
+    {
+      "surface": "צוחה",
+      "gloss": "bhadlolo"
+    },
+    {
+      "surface": "ברחבתינו",
+      "gloss": "emigangathweni yethu"
+    }
+  ],
+  "timestamp": "2026-09-18T15:33:32.210090654Z",
+  "model": "glm-5.3"
+}

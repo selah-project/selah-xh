@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 9:17",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 9,
+  "translation": "uYahwe waziswa, wenza ⟨umgwebo⟩; ngumsebenzi wezandla zakhe wonakele umgwadi. Higayoni. Selah.",
+  "tokens": [
+    {
+      "surface": "נודע",
+      "gloss": "waziswa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "umgwebo"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "wenza"
+    },
+    {
+      "surface": "בפעל",
+      "gloss": "ngumsebenzi"
+    },
+    {
+      "surface": "כפיו",
+      "gloss": "wezandla zakhe"
+    },
+    {
+      "surface": "נוקש",
+      "gloss": "wonakele"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "umgwadi"
+    },
+    {
+      "surface": "הגיון",
+      "gloss": "Higayoni"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-18T14:31:15.074824041Z",
+  "model": "glm-5.3"
+}

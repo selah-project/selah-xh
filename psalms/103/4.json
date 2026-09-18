@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 103:4",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 103,
+  "translation": "Omsindisayo ubomi bakho ekutshatyalalisweni, Odukisayo ngo-ikhesedi neenkcenkcezelo;",
+  "tokens": [
+    {
+      "surface": "הגואל",
+      "gloss": "Omsindisayo"
+    },
+    {
+      "surface": "משחת",
+      "gloss": "ekutshatyalalisweni"
+    },
+    {
+      "surface": "חייכי",
+      "gloss": "ubomi bakho"
+    },
+    {
+      "surface": "המעטרכי",
+      "gloss": "Odukisayo"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "ikhesedi"
+    },
+    {
+      "surface": "ורחמים",
+      "gloss": "nenkcenkcezelo"
+    }
+  ],
+  "timestamp": "2026-09-18T15:14:18.538600953Z",
+  "model": "glm-5.3"
+}

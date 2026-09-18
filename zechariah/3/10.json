@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "zechariah 3:10",
+  "book": "zechariah",
+  "lang": "xh",
+  "chapter": 3,
+  "translation": "Ngelo suku, utshilo uYahwe Tsebhayoti, niza kubizana, omnye komnye, phantsi komdiliya nasephantsi komthi weefigu.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "Ngelo suku"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "elo"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "utshilo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsebhayoti"
+    },
+    {
+      "surface": "תקראו",
+      "gloss": "niza kubizana"
+    },
+    {
+      "surface": "איש",
+      "gloss": "omnye (umntu)"
+    },
+    {
+      "surface": "לרעהו",
+      "gloss": "komnye"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e-"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "phantsi kwe-"
+    },
+    {
+      "surface": "גפן",
+      "gloss": "umdiliya"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "nase-"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "phantsi kwe-"
+    },
+    {
+      "surface": "תאנה",
+      "gloss": "umthi weefigu"
+    }
+  ],
+  "timestamp": "2026-09-18T14:16:23.443872764Z",
+  "model": "glm-5.3"
+}

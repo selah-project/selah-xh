@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "judges 1:31",
+  "book": "judges",
+  "lang": "xh",
+  "chapter": 1,
+  "translation": "IAsheri akalahlanga ⟨את⟩ abahlali beAko, nokuba ⟨את⟩ abahlali beTsidoni, nokuba ⟨את⟩ iAchlabi, nokuba ⟨את⟩ iAkhzibi, nokuba ⟨את⟩ iChelbaha, nokuba ⟨את⟩ iAfiki, nokuba ⟨את⟩ iRechobi.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "IAsheri"
+    },
+    {
+      "surface": "לא",
+      "gloss": "akalahlanga"
+    },
+    {
+      "surface": "הוריש",
+      "gloss": "ukulahla"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abahlali beAko"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "abahlali"
+    },
+    {
+      "surface": "עכו",
+      "gloss": "iAko"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "nokuba ⟨את⟩",
+      "marks": "abahlali beTsidoni"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "abahlali"
+    },
+    {
+      "surface": "צידון",
+      "gloss": "iTsidoni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "nokuba ⟨את⟩",
+      "marks": "iAchlabi"
+    },
+    {
+      "surface": "אחלב",
+      "gloss": "iAchlabi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "nokuba ⟨את⟩",
+      "marks": "iAkhzibi"
+    },
+    {
+      "surface": "אכזיב",
+      "gloss": "iAkhzibi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "nokuba ⟨את⟩",
+      "marks": "iChelbaha"
+    },
+    {
+      "surface": "חלבה",
+      "gloss": "iChelbaha"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "nokuba ⟨את⟩",
+      "marks": "iAfiki"
+    },
+    {
+      "surface": "אפיק",
+      "gloss": "iAfiki"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "nokuba ⟨את⟩",
+      "marks": "iRechobi"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "iRechobi"
+    }
+  ],
+  "timestamp": "2026-09-18T08:48:06.013213602Z",
+  "model": "glm-5.3"
+}

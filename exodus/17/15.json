@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 17:15",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 17,
+  "translation": "Waza uMoshe wakha i-altare, wayibiza igama layo uYahwe-Nisi.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "wakha"
+    },
+    {
+      "surface": "משה",
+      "gloss": "uMoshe"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "i-altare"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "wayibiza"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "igama layo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "נסי",
+      "gloss": "-Nisi"
+    }
+  ],
+  "timestamp": "2026-09-18T06:03:40.739385610Z",
+  "model": "glm-5.3"
+}

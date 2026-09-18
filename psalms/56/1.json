@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 56:1",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 56,
+  "translation": "Kumkhuzeli, nge-‘Yonath-elem-rehokim’ (ithuba elithuleyo lezinto ezikude), incwadi kaDavidi, umqobo, apho iFilisthim bambamla ⟨אתו⟩ eGat.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Kumkhuzeli"
+    },
+    {
+      "surface": "על",
+      "gloss": "nge-"
+    },
+    {
+      "surface": "יונת",
+      "gloss": "Yonath (ithuba)"
+    },
+    {
+      "surface": "אלם",
+      "gloss": "elithuleyo"
+    },
+    {
+      "surface": "רחקים",
+      "gloss": "lezinto ezikude"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "kaDavidi"
+    },
+    {
+      "surface": "מכתם",
+      "gloss": "umqobo"
+    },
+    {
+      "surface": "באחז",
+      "gloss": "apho…bambamla"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "uye (uDavidi)"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "iFilisthim"
+    },
+    {
+      "surface": "בגת",
+      "gloss": "eGat"
+    }
+  ],
+  "timestamp": "2026-09-18T14:51:17.922152898Z",
+  "model": "glm-5.3"
+}

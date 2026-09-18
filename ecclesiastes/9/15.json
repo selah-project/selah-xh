@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 9:15",
+  "book": "ecclesiastes",
+  "lang": "xh",
+  "chapter": 9,
+  "translation": "Kwaye kufunyanwe kulo umntu oswelekileyo, ulwazi, yaye yena wamsindisa ⟨את⟩ isixeko ngolwazi lwakhe; kodwa akukho mntu wamkhumbula ⟨את⟩ loo mntu oswelekileyo.",
+  "tokens": [
+    {
+      "surface": "ומצא",
+      "gloss": "kwaye kufunyanwe"
+    },
+    {
+      "surface": "בה",
+      "gloss": "kulo"
+    },
+    {
+      "surface": "איש",
+      "gloss": "umntu"
+    },
+    {
+      "surface": "מסכן",
+      "gloss": "oswelekileyo"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "ulwazi (unolwazi)"
+    },
+    {
+      "surface": "ומלט",
+      "gloss": "wamsindisa"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yena"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isixeko"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "isixeko"
+    },
+    {
+      "surface": "בחכמתו",
+      "gloss": "ngolwazi lwakhe"
+    },
+    {
+      "surface": "ואדם",
+      "gloss": "kodwa akukho mntu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hayi"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "wamkhumbula"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "loo mntu oswelekileyo"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "loo mntu"
+    },
+    {
+      "surface": "המסכן",
+      "gloss": "oswelekileyo"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "loo"
+    }
+  ],
+  "timestamp": "2026-09-18T16:25:54.323125951Z",
+  "model": "glm-5.3"
+}

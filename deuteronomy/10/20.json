@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 10:20",
+  "book": "deuteronomy",
+  "lang": "xh",
+  "chapter": 10,
+  "translation": "⟨את⟩ uYahwe uElohim wakho uza koyika, ⟨אתו⟩ uza kumkhonza, kwaye kuye uza kunamathela, ngegama lakhe uza kunqula: ⟨את⟩ uYahwe uElohim wakho moyika, yena ⟨אתו⟩ mkhonza, kuye kunamathela, ngegama lakhe unqula.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uYahwe uElohim wakho"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "uElohim wakho"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "uza koyika"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "uza kumkhonza yena"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "uza kumkhonza"
+    },
+    {
+      "surface": "ובו",
+      "gloss": "kuye"
+    },
+    {
+      "surface": "תדבק",
+      "gloss": "uza kunamathela"
+    },
+    {
+      "surface": "ובשמו",
+      "gloss": "ngegama lakhe"
+    },
+    {
+      "surface": "תשבע",
+      "gloss": "uza kunqula"
+    }
+  ],
+  "timestamp": "2026-09-18T08:02:43.088026814Z",
+  "model": "glm-5.3"
+}

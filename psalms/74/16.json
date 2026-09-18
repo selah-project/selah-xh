@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 74:16",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 74,
+  "translation": "Yowakhe usuku, ewe yowakhe ubusuku; wena wazilungelelanisa ukukhanya nelingelanga.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "Yowakhe"
+    },
+    {
+      "surface": "יום",
+      "gloss": "usuku"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ewe"
+    },
+    {
+      "surface": "לך",
+      "gloss": "yowakhe"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "ubusuku"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "הכינות",
+      "gloss": "wazilungelelanisa"
+    },
+    {
+      "surface": "מאור",
+      "gloss": "ukukhanya"
+    },
+    {
+      "surface": "ושמש",
+      "gloss": "nelingelanga"
+    }
+  ],
+  "timestamp": "2026-09-18T15:01:06.852782064Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 6:1",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 6,
+  "translation": "KuMlawuli, ngeezixhobo zentsimbi, ngokwesibhozo — umzamo kaDawidi.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "KuMlawuli"
+    },
+    {
+      "surface": "בנגינות",
+      "gloss": "ngezixhobo zentsimbi"
+    },
+    {
+      "surface": "על",
+      "gloss": "ngokwe-"
+    },
+    {
+      "surface": "השמינית",
+      "gloss": "sibhozo"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "umzamo"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "kaDawidi"
+    }
+  ],
+  "timestamp": "2026-09-18T14:26:15.611094754Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 11:7",
+  "book": "deuteronomy",
+  "lang": "xh",
+  "chapter": 11,
+  "translation": "Kuba amehlo enu ngawo abonayo ⟨את⟩ onke amasebenzo amakhulu kaYahwe awenzeleyo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "עיניכם",
+      "gloss": "amehlo enu"
+    },
+    {
+      "surface": "הראת",
+      "gloss": "abonayo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "onke amasebenzo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "onke"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "amasebenzo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kaYahwe"
+    },
+    {
+      "surface": "הגדל",
+      "gloss": "amakhulu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oko"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "awenzeleyo"
+    }
+  ],
+  "timestamp": "2026-09-18T08:04:12.369128971Z",
+  "model": "glm-5.3"
+}

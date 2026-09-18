@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "micah 5:5",
+  "book": "micah",
+  "lang": "xh",
+  "chapter": 5,
+  "translation": "Bayakutyabeka ⟨את⟩ ilizwe laseAshuru ngenkemba, kwaye ⟨את⟩ ilizwe likaNimrodi emasangweni awo; uza kusindisa kwaseAshuru, kuba uza kungena elizweni lethu, nakuba aza kurhinqa kwimida yethu.",
+  "tokens": [
+    {
+      "surface": "ורעו",
+      "gloss": "bayakutyabeka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ilizwe laseAshuru"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ilizwe"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "laseAshuru"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "ngenkemba"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kwaye ⟨את⟩",
+      "marks": "ilizwe likaNimrodi"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ilizwe"
+    },
+    {
+      "surface": "נמרד",
+      "gloss": "likaNimrodi"
+    },
+    {
+      "surface": "בפתחיה",
+      "gloss": "emasangweni awo"
+    },
+    {
+      "surface": "והציל",
+      "gloss": "uza kusindisa"
+    },
+    {
+      "surface": "מאשור",
+      "gloss": "kwaseAshuru"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "uza kungena"
+    },
+    {
+      "surface": "בארצנו",
+      "gloss": "elizweni lethu"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "nakuba"
+    },
+    {
+      "surface": "ידרך",
+      "gloss": "aza kurhinqa"
+    },
+    {
+      "surface": "בגבולנו",
+      "gloss": "kwimida yethu"
+    }
+  ],
+  "timestamp": "2026-09-18T14:04:10.734919922Z",
+  "model": "glm-5.3"
+}

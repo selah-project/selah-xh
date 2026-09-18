@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 12:5",
+  "book": "hosea",
+  "lang": "xh",
+  "chapter": 12,
+  "translation": "Waza wayesilwa nomthunywa, woyisa; wakhala, wathandazela kuye; eBheit-Eli wamfumana, waza apho wathetha nathi;",
+  "tokens": [
+    {
+      "surface": "וישר",
+      "gloss": "wayesilwa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne-"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "omthunywa"
+    },
+    {
+      "surface": "ויכל",
+      "gloss": "woyisa"
+    },
+    {
+      "surface": "בכה",
+      "gloss": "wakhala"
+    },
+    {
+      "surface": "ויתחנן",
+      "gloss": "wathandazela"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kiye"
+    },
+    {
+      "surface": "בית",
+      "gloss": "eBheit-"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-Eli"
+    },
+    {
+      "surface": "ימצאנו",
+      "gloss": "wamfumana"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "waza apho"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "wathetha"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "nathi"
+    }
+  ],
+  "timestamp": "2026-09-18T13:46:53.763974957Z",
+  "model": "glm-5.3"
+}

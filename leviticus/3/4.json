@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 3:4",
+  "book": "leviticus",
+  "lang": "xh",
+  "chapter": 3,
+  "translation": "Kunye ⟨את⟩ iintsofu ezimbini kunye ⟨את⟩ amafutha angaphezu kwazo, okusemazantsi obumbindi, kunye ⟨את⟩ isinxaxheba esiphezu kweesibindi, phezu kweentsofu aza kuyisusa.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "kunye ⟨את⟩",
+      "marks": "iintsofu ezimbini"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "ezimbini"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "iintsofu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kunye ⟨את⟩",
+      "marks": "amafutha"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "amafutha"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "okukhona"
+    },
+    {
+      "surface": "עלהן",
+      "gloss": "angaphezu kwazo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oku"
+    },
+    {
+      "surface": "על",
+      "gloss": "kusemazantsi"
+    },
+    {
+      "surface": "הכסלים",
+      "gloss": "obumbindi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kunye ⟨את⟩",
+      "marks": "isinxaxheba"
+    },
+    {
+      "surface": "היתרת",
+      "gloss": "isinxaxheba"
+    },
+    {
+      "surface": "על",
+      "gloss": "esiphezu"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "kweesibindi"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu"
+    },
+    {
+      "surface": "הכליות",
+      "gloss": "kweentsofu"
+    },
+    {
+      "surface": "יסירנה",
+      "gloss": "aza kuyisusa"
+    }
+  ],
+  "timestamp": "2026-09-18T17:21:28.212147979Z",
+  "model": "glm-5.3"
+}

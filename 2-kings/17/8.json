@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 17:8",
+  "book": "2-kings",
+  "lang": "xh",
+  "chapter": 17,
+  "translation": "baza bahamba ngeezimiso zezizwe uYahwe owazinxusayo phambi kwabantwana bakwaSirayeli, nangeezimiso lezo iinkosi zakwaSirayeli ezazizenzileyo.",
+  "tokens": [
+    {
+      "surface": "וילכו",
+      "gloss": "baza bahamba"
+    },
+    {
+      "surface": "בחקות",
+      "gloss": "ngeezimiso"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "zezizwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ela"
+    },
+    {
+      "surface": "הוריש",
+      "gloss": "owazinxusayo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "phambi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "kwabantwana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "bakwaSirayeli"
+    },
+    {
+      "surface": "ומלכי",
+      "gloss": "nakweenkosi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "zakwaSirayeli"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ezazizenza"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "zazizenzileyo"
+    }
+  ],
+  "timestamp": "2026-09-18T10:53:12.619006992Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 60:4",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 60,
+  "translation": "Ududumise umhlaba, uwuziqhawule; philisa iindwane zawo, kuba uzinyazika.",
+  "tokens": [
+    {
+      "surface": "הרעשתה",
+      "gloss": "Ududumise"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "umhlaba"
+    },
+    {
+      "surface": "פצמתה",
+      "gloss": "uwuziqhawule"
+    },
+    {
+      "surface": "רפה",
+      "gloss": "philisa"
+    },
+    {
+      "surface": "שבריה",
+      "gloss": "iindwane zawo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "uzinyazika"
+    }
+  ],
+  "timestamp": "2026-09-18T14:53:27.487113501Z",
+  "model": "glm-5.3"
+}

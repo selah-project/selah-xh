@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 41:1",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 41,
+  "translation": "Kumlawuli womculo. Isihlabelelo sikaDavide.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Kumlawuli womculo"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "Isihlabelelo"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "sikaDavide"
+    }
+  ],
+  "timestamp": "2026-09-18T14:44:26.895953533Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 4:11",
+  "book": "leviticus",
+  "lang": "xh",
+  "chapter": 4,
+  "translation": "Nesikhumba senkabi, nayo yonke inyama yayo, kunye neentlolo zayo nemilenze yayo, izitho zayo zangaphakathi nomdungo wayo.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "esikhumba senkabi"
+    },
+    {
+      "surface": "עור",
+      "gloss": "isikhumba"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "senkabi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "yonke inyama yayo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yonke"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "inyama yayo"
+    },
+    {
+      "surface": "על",
+      "gloss": "kunye"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "neentlolo zayo"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "kunye"
+    },
+    {
+      "surface": "כרעיו",
+      "gloss": "nemilenze yayo"
+    },
+    {
+      "surface": "וקרבו",
+      "gloss": "izitho zangaphakathi"
+    },
+    {
+      "surface": "ופרשו",
+      "gloss": "nomdungo wayo"
+    }
+  ],
+  "timestamp": "2026-09-18T06:37:51.545119196Z",
+  "model": "glm-5.3"
+}

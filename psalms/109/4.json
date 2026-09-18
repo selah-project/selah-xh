@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 109:4",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 109,
+  "translation": "Ngesiqu sokuthanda kwam bayandisolisa, kodwa mna ndingumthandazo.",
+  "tokens": [
+    {
+      "surface": "תחת",
+      "gloss": "Ngesiqu sa"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "sokuthanda kwam"
+    },
+    {
+      "surface": "ישטנוני",
+      "gloss": "bayandisolisa"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "kodwa mna"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "ndingumthandazo"
+    }
+  ],
+  "timestamp": "2026-09-18T15:21:11.103507778Z",
+  "model": "glm-5.3"
+}

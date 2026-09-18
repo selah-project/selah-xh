@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "exodus 12:50",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 12,
+  "translation": "Ke ke abantwana bonke bakwa-Israyeli benza njengoko wayewusele uYahwe ⟨את⟩ uMoshe kunye ⟨נאת⟩ u-Aharon; benjalo benza.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "benza"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bonke"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abantwana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "bakwa-Israyeli"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "njengoko"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "wayewusele"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uMoshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "uMoshe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨נאת⟩",
+      "marks": "u-Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "u-Aharon"
+    },
+    {
+      "surface": "כן",
+      "gloss": "benjalo"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "benza"
+    }
+  ],
+  "timestamp": "2026-09-18T05:58:26.707389888Z",
+  "model": "glm-5.3"
+}

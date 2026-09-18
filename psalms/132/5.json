@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 132:5",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 132,
+  "translation": "ukuze ndifumene indawo kaYahwe, izikhululo zoMandla kaYakobi.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "ukuze"
+    },
+    {
+      "surface": "אמצא",
+      "gloss": "ndifumene"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "indawo"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kaYahwe"
+    },
+    {
+      "surface": "משכנות",
+      "gloss": "izikhululo"
+    },
+    {
+      "surface": "לאביר",
+      "gloss": "zoMandla"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "kaYakobi"
+    }
+  ],
+  "timestamp": "2026-09-18T15:27:58.566996823Z",
+  "model": "glm-5.3"
+}

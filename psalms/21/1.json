@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 21:1",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 21,
+  "translation": "Kwintloko yomculo. Ipsalma likaDavide.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Kwintloko yomculo"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "ipsalma"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "likaDavide"
+    }
+  ],
+  "timestamp": "2026-09-18T14:35:48.102812049Z",
+  "model": "glm-5.3"
+}

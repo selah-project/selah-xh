@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 16:10",
+  "book": "numbers",
+  "lang": "xh",
+  "chapter": 16,
+  "translation": "Wanisondela wena ⟨את⟩, no⟨את⟩ bonke abazalwana bakho, amadodana kaLevi, nawe; kanti nithi nifune nayo isabelo sokubingelela?",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "wanisondela"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "wena"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "no⟨את⟩",
+      "marks": "bonke abazalwana bakho"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bonke"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "abazalwana bakho"
+    },
+    {
+      "surface": "בני",
+      "gloss": "amadodana ka-"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "kaLevi"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "nawe ⟨את⟩"
+    },
+    {
+      "surface": "ובקשתם",
+      "gloss": "nithi nifune"
+    },
+    {
+      "surface": "גם",
+      "gloss": "nayo"
+    },
+    {
+      "surface": "כהנה",
+      "gloss": "isabelo sokubingelela"
+    }
+  ],
+  "timestamp": "2026-09-18T07:28:55.723218962Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 71:14",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 71,
+  "translation": "Kodwa mna ndiza kulindela ngonaphakade, ndiza kwongeza phezu konke udumo lwakho.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "kodwa mna"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "ngonaphakade"
+    },
+    {
+      "surface": "איחל",
+      "gloss": "ndiza kulindela"
+    },
+    {
+      "surface": "והוספתי",
+      "gloss": "ndiza kwongeza"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "konke"
+    },
+    {
+      "surface": "תהלתך",
+      "gloss": "udumo lwakho"
+    }
+  ],
+  "timestamp": "2026-09-18T14:57:42.737699455Z",
+  "model": "glm-5.3"
+}

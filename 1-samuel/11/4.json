@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 11:4",
+  "book": "1-samuel",
+  "lang": "xh",
+  "chapter": 11,
+  "translation": "Abathunywa bafika eGibeya kaShawuli, bathetha la mazwi kwindlebe zabantu; bonke abantu baphakamisa ⟨את⟩ ilizwi labo, bakhala.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "bafika"
+    },
+    {
+      "surface": "המלאכים",
+      "gloss": "abathunywa"
+    },
+    {
+      "surface": "גבעת",
+      "gloss": "eGibeya"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "kaShawuli"
+    },
+    {
+      "surface": "וידברו",
+      "gloss": "bathetha"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "la mazwi"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "kwindlebe"
+    },
+    {
+      "surface": "העם",
+      "gloss": "zabantu"
+    },
+    {
+      "surface": "וישאו",
+      "gloss": "baphakamisa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bonke"
+    },
+    {
+      "surface": "העם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ilizwi labo"
+    },
+    {
+      "surface": "קולם",
+      "gloss": "ilizwi labo"
+    },
+    {
+      "surface": "ויבכו",
+      "gloss": "bakhala"
+    }
+  ],
+  "timestamp": "2026-09-18T09:24:02.472235970Z",
+  "model": "glm-5.3"
+}

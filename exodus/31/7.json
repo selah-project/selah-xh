@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 31:7",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 31,
+  "translation": "⟨את⟩ itenti yodibano, nethi ⟨את⟩ i-aron yobungqina, nethi ⟨את⟩ i-kaporethe esiphezu kwalo, nethi ⟨את⟩ zonke izixhobo zetenti;",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "itenti yodibano"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "itenti"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "yodibano"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "nethi ⟨את⟩",
+      "marks": "i-aron yobungqina"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "i-aron"
+    },
+    {
+      "surface": "לעדת",
+      "gloss": "yobungqina"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "nethi ⟨את⟩",
+      "marks": "i-kaporethe"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "i-kaporethe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "esonayo"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "esiphezu kwalo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "nethi ⟨את⟩",
+      "marks": "zonke izixhobo zetenti"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zonke"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "izixhobo"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "zetenti"
+    }
+  ],
+  "timestamp": "2026-09-18T06:20:01.069050031Z",
+  "model": "glm-5.3"
+}

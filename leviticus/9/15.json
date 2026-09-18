@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 9:15",
+  "book": "leviticus",
+  "lang": "xh",
+  "chapter": 9,
+  "translation": "Waza wazisa ⟨את⟩ umnikelo wabantu; wathabatha ⟨את⟩ ibhokhwe yenkunzi yesono esingabantu, wayibulala, wayenza njengomnikelo wesono, njengokuqala.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "wazisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umnikelo"
+    },
+    {
+      "surface": "קרבן",
+      "gloss": "umnikelo"
+    },
+    {
+      "surface": "העם",
+      "gloss": "wabantu"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "wathabatha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ibhokhwe yenkunzi"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "ibhokhwe yenkunzi"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "yesono"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "elo"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "singabantu"
+    },
+    {
+      "surface": "וישחטהו",
+      "gloss": "wayibulala"
+    },
+    {
+      "surface": "ויחטאהו",
+      "gloss": "wayenza njengomnikelo wesono"
+    },
+    {
+      "surface": "כראשון",
+      "gloss": "njengokuqala"
+    }
+  ],
+  "timestamp": "2026-09-18T06:41:17.199071037Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 40:26",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 40,
+  "translation": "Wayibekela indlu yosiziyo olungileyo yesigebenga esibomvu phambi kolusu lokusoka.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "wayibeka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isigebenga esibomvu"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "isigebenga esibomvu"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "olungileyo yesigebenga esibomvu"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "endleleni yosiziyo"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "yosiziyo (endlela yokudibana)"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "phambi"
+    },
+    {
+      "surface": "הפרכת",
+      "gloss": "kolusu lokusoka"
+    }
+  ],
+  "timestamp": "2026-09-18T06:31:52.510474344Z",
+  "model": "glm-5.3"
+}

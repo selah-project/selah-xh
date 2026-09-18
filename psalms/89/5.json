@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 89:5",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 89,
+  "translation": "Kuze kube phakade ndiza kumisela izityale zakho, ndiza kwakha isihlalo sakho esizukweni nangesizukwana. Selah.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "kuze kube"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "phakade"
+    },
+    {
+      "surface": "אכין",
+      "gloss": "ndiza kumisela"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "izityale zakho"
+    },
+    {
+      "surface": "ובניתי",
+      "gloss": "ndiza kwakha"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "esizukweni"
+    },
+    {
+      "surface": "ודור",
+      "gloss": "nangesizukwana"
+    },
+    {
+      "surface": "כסאך",
+      "gloss": "isihlalo sakho"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-18T15:07:56.238798195Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 118:23",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 118,
+  "translation": "Olu kuvela ⟨את⟩ kuYahwe; luyamangalisa emehweni ethu.",
+  "tokens": [
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "kuvela kuYahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "kuvela"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "Olu"
+    },
+    {
+      "surface": "היא",
+      "gloss": "lu"
+    },
+    {
+      "surface": "נפלאת",
+      "gloss": "luyamangalisa"
+    },
+    {
+      "surface": "בעינינו",
+      "gloss": "emehweni ethu"
+    }
+  ],
+  "timestamp": "2026-09-18T15:21:47.657808310Z",
+  "model": "glm-5.3"
+}

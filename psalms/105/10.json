@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 105:10",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 105,
+  "translation": "Wayimisela kuYaakob ibe ngumthetho, kuIsrayeli ibe ngumnqophiso wangaphakade.",
+  "tokens": [
+    {
+      "surface": "ויעמידה",
+      "gloss": "wayimisela"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "kuYaakob"
+    },
+    {
+      "surface": "לחק",
+      "gloss": "ibe ngumthetho"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "kuIsrayeli"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "ibe ngumnqophiso"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "wangaphakade"
+    }
+  ],
+  "timestamp": "2026-09-18T15:16:08.488543712Z",
+  "model": "glm-5.3"
+}

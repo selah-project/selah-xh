@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 4:3",
+  "book": "ecclesiastes",
+  "lang": "xh",
+  "chapter": 4,
+  "translation": "Kulungile ngaphezu kwababili lowo ungazalanga nangoku, lowo akazibonanga ⟨את⟩ isenzo esibi esenziwa kwisixraba esezantsi kelanga.",
+  "tokens": [
+    {
+      "surface": "וטוב",
+      "gloss": "Kulungile"
+    },
+    {
+      "surface": "משניהם",
+      "gloss": "ngaphezu kwababili"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lowo ungazalanga nangoku"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "lowo"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "nangoku"
+    },
+    {
+      "surface": "לא",
+      "gloss": "akazalanga"
+    },
+    {
+      "surface": "היה",
+      "gloss": "azanga"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "esaziyo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "akazibonanga"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "bona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isenzo esibi"
+    },
+    {
+      "surface": "המעשה",
+      "gloss": "isenzo"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "esibi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "esaziyo"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "senziwa"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "kwisixraba esezantsi"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "kelanga"
+    }
+  ],
+  "timestamp": "2026-09-18T16:24:44.932909054Z",
+  "model": "glm-5.3"
+}

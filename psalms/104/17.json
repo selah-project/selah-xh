@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 104:17",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 104,
+  "translation": "Apho iintaka zenzela iindlwane zazo; iinkosele, iibherosha ziliyikhaya lazo.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "Apho"
+    },
+    {
+      "surface": "שם",
+      "gloss": "khona"
+    },
+    {
+      "surface": "צפרים",
+      "gloss": "iintaka"
+    },
+    {
+      "surface": "יקננו",
+      "gloss": "zenzela iindlwane zazo"
+    },
+    {
+      "surface": "חסידה",
+      "gloss": "iinkosele"
+    },
+    {
+      "surface": "ברושים",
+      "gloss": "iibherosha"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "ikaya lazo"
+    }
+  ],
+  "timestamp": "2026-09-18T15:15:16.172187045Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 4:20",
+  "book": "2-kings",
+  "lang": "xh",
+  "chapter": 4,
+  "translation": "Wamthwala, wamzisa kumama wakhe, wahlala phantsi pezu kwamadolo akhe de kwakusemva kwemini, waza wafa.",
+  "tokens": [
+    {
+      "surface": "וישאהו",
+      "gloss": "wamthwala"
+    },
+    {
+      "surface": "ויביאהו",
+      "gloss": "wamzisa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "umama wakhe"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "wahlala phantsi"
+    },
+    {
+      "surface": "על",
+      "gloss": "pezu"
+    },
+    {
+      "surface": "ברכיה",
+      "gloss": "kwamadolo akhe"
+    },
+    {
+      "surface": "עד",
+      "gloss": "de"
+    },
+    {
+      "surface": "הצהרים",
+      "gloss": "kwakusemva kwemini"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "wafa"
+    }
+  ],
+  "timestamp": "2026-09-18T10:39:57.972135905Z",
+  "model": "glm-5.3"
+}

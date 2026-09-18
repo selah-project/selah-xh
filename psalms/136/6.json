@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 136:6",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 136,
+  "translation": "Kulowo wanda umhlaba phezu kwamanzi, kuba ikhesedi yakhe ingunaphakade.",
+  "tokens": [
+    {
+      "surface": "לרקע",
+      "gloss": "Kulowo wanda"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "umhlaba"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu kwa-"
+    },
+    {
+      "surface": "המים",
+      "gloss": "amanzi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ingunaphakade"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ikhesedi yakhe"
+    }
+  ],
+  "timestamp": "2026-09-18T15:30:05.958615202Z",
+  "model": "glm-5.3"
+}

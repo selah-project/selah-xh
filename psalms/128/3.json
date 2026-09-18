@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 128:3",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 128,
+  "translation": "Umfazi wakho njengomthalana othwala izibhamu, ezibeleni zekaya yakho; abantwana bakho njengokhula kwezi-oli, ejikeleze itafile yakho.",
+  "tokens": [
+    {
+      "surface": "אשתך",
+      "gloss": "Umfazi wakho"
+    },
+    {
+      "surface": "כגפן",
+      "gloss": "njengomthalana"
+    },
+    {
+      "surface": "פריה",
+      "gloss": "othwala izibhamu"
+    },
+    {
+      "surface": "בירכתי",
+      "gloss": "ezibeleni"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "zekaya yakho"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "abantwana bakho"
+    },
+    {
+      "surface": "כשתלי",
+      "gloss": "njengokhula"
+    },
+    {
+      "surface": "זיתים",
+      "gloss": "kwezi-oli"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ejikeleze"
+    },
+    {
+      "surface": "לשלחנך",
+      "gloss": "itafile yakho"
+    }
+  ],
+  "timestamp": "2026-09-18T15:27:05.150560953Z",
+  "model": "glm-5.3"
+}

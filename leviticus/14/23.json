@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "leviticus 14:23",
+  "book": "leviticus",
+  "lang": "xh",
+  "chapter": 14,
+  "translation": "Aze azise ngomhla wesibhozo, ukucocwa kwakhe, kumongameli, esiphelweni sendlela yetente yomdibano, phambi kukaYahwe.",
+  "tokens": [
+    {
+      "surface": "והביא",
+      "gloss": "Aze azise"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ zo"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ngomhla"
+    },
+    {
+      "surface": "השמיני",
+      "gloss": "wesibhozo"
+    },
+    {
+      "surface": "לטהרתו",
+      "gloss": "ukucocwa kwakhe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "mongameli"
+    },
+    {
+      "surface": "אל",
+      "gloss": "esiphelweni se-"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "indlela"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "yetente"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "yomdibano"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "phambi kuka-"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    }
+  ],
+  "timestamp": "2026-09-18T06:50:40.304392246Z",
+  "model": "glm-5.3"
+}

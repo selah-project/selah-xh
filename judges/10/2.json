@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "judges 10:2",
+  "book": "judges",
+  "lang": "xh",
+  "chapter": 10,
+  "translation": "Wahlulela ⟨את⟩ uYisraele iminyaka engamashumi amabini anesithathu, wafa, wangcotywa eShamire.",
+  "tokens": [
+    {
+      "surface": "וישפט",
+      "gloss": "wahlulela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uYisraele"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "uYisraele"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "amashumi amabini"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "anesithathu"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "iminyaka"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "wafa"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "wangcotywa"
+    },
+    {
+      "surface": "בשמיר",
+      "gloss": "eShamire"
+    }
+  ],
+  "timestamp": "2026-09-18T08:59:52.360703141Z",
+  "model": "glm-5.3"
+}

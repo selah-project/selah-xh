@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "esther 4:7",
+  "book": "esther",
+  "lang": "xh",
+  "chapter": 4,
+  "translation": "Wamxelela uMordekayi ⟨את⟩ yonke into emenzekileyo, kunye ⟨את⟩ nesixa sesilivere awayibizileyo uHaman ukusihlawulela eziko-silivere lenkosi ngokwakwaYuda, ukubatshabalalisa.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "wamxelela"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kuye"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "uMordekayi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yonke into emenzekileyo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yonke"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "into"
+    },
+    {
+      "surface": "קרהו",
+      "gloss": "emenzekileyo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kunye ⟨את⟩",
+      "marks": "isixa sesilivere"
+    },
+    {
+      "surface": "פרשת",
+      "gloss": "isixa"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "sesilivere"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "awayibizileyo"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "awayibizileyo"
+    },
+    {
+      "surface": "המן",
+      "gloss": "uHaman"
+    },
+    {
+      "surface": "לשקול",
+      "gloss": "ukusihlawulela"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "גנזי",
+      "gloss": "eziko-silivere"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "lenkosi"
+    },
+    {
+      "surface": "ביהודיים",
+      "gloss": "ngokwakwaYuda"
+    },
+    {
+      "surface": "לאבדם",
+      "gloss": "ukubatshabalalisa"
+    }
+  ],
+  "timestamp": "2026-09-18T16:29:01.403730429Z",
+  "model": "glm-5.3"
+}

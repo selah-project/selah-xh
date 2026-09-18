@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "2-kings 21:24",
+  "book": "2-kings",
+  "lang": "xh",
+  "chapter": 21,
+  "translation": "Abantu belizwe babulala ⟨את⟩ bonke abacebisana ngokuchasa inkosi u-Amon; abantu belizwe bamisela uYoshiyahu, unyana wakhe, ukuba abe yinkosi endaweni yakhe.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "babulala"
+    },
+    {
+      "surface": "עם",
+      "gloss": "Abantu"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "belizwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bonke abacebisana"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bonke"
+    },
+    {
+      "surface": "הקשרים",
+      "gloss": "abacebisana"
+    },
+    {
+      "surface": "על",
+      "gloss": "ngokuchasa"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "inkosi"
+    },
+    {
+      "surface": "אמון",
+      "gloss": "u-Amon"
+    },
+    {
+      "surface": "וימליכו",
+      "gloss": "bamisela ukuba abe yinkosi"
+    },
+    {
+      "surface": "עם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "belizwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uYoshiyahu"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "uYoshiyahu"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "unyana wakhe"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "endaweni yakhe"
+    }
+  ],
+  "timestamp": "2026-09-18T10:55:14.806069697Z",
+  "model": "glm-5.3"
+}

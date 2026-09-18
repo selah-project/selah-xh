@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-kings 2:21",
+  "book": "1-kings",
+  "lang": "xh",
+  "chapter": 2,
+  "translation": "Wathi: “Makunikezwe ⟨את⟩ u-Abishagi umShunami u-Adoniyahu uyakwabo njengomfazi.”",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "Wathi"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "Makunikezwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "u-Abishagi"
+    },
+    {
+      "surface": "אבישג",
+      "gloss": "u-Abishagi"
+    },
+    {
+      "surface": "השנמית",
+      "gloss": "umShunami"
+    },
+    {
+      "surface": "לאדניהו",
+      "gloss": "u-Adoniyahu"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "uyakwabo"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "njengomfazi"
+    }
+  ],
+  "timestamp": "2026-09-18T18:31:44.386197906Z",
+  "model": "glm-5.3"
+}

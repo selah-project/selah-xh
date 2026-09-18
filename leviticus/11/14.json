@@ -1,0 +1,35 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 11:14",
+  "book": "leviticus",
+  "lang": "xh",
+  "chapter": 11,
+  "translation": "⟨את⟩ iDaʼa, ⟨את⟩ neAya ngohlobo lwayo.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "iDaʼa"
+    },
+    {
+      "surface": "הדאה",
+      "gloss": "iDaʼa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "iAya"
+    },
+    {
+      "surface": "האיה",
+      "gloss": "iAya"
+    },
+    {
+      "surface": "למינה",
+      "gloss": "ngohlobo lwayo"
+    }
+  ],
+  "timestamp": "2026-09-18T06:41:41.884288227Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 119:4",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 119,
+  "translation": "Wena uyalele imiyalelo yakho ukuba igcinwe ngamandla.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Wena"
+    },
+    {
+      "surface": "צויתה",
+      "gloss": "uyalele"
+    },
+    {
+      "surface": "פקדיך",
+      "gloss": "imiyalelo yakho"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "ukuba igcinwe"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ngamandla"
+    }
+  ],
+  "timestamp": "2026-09-18T15:23:27.276496556Z",
+  "model": "glm-5.3"
+}

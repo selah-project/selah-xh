@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 20:4",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 20,
+  "translation": "A wenzi nga ubungcwele-obuzobe okanye nasiphi na isifanekiso esikulangeni, okusezulwini ngaphezu, okusemhlabeni ngaphantsi, okumanzi ngaphantsi komhlaba.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "A wenzi nga"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "wenzi nga"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kuwe"
+    },
+    {
+      "surface": "פסל",
+      "gloss": "isithixo esizobiweyo"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "nayiphi na"
+    },
+    {
+      "surface": "תמונה",
+      "gloss": "isifanekiso"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oku"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "kusezulwini"
+    },
+    {
+      "surface": "ממעל",
+      "gloss": "ngaphezu"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "oku"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "semhlabeni"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "ngaphantsi"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "oku"
+    },
+    {
+      "surface": "במים",
+      "gloss": "kumanzi"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "ngaphantsi"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "komhlaba"
+    }
+  ],
+  "timestamp": "2026-09-18T06:05:03.655394340Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 96:1",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 96,
+  "translation": "Culani kuYahwe iculo elitsha, culani kuYahwe, lonke ihlabathi.",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "Culani"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kuYahwe"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "iculo"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "elitsha"
+    },
+    {
+      "surface": "שירו",
+      "gloss": "culani"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kuYahwe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lonke"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ihlabathi"
+    }
+  ],
+  "timestamp": "2026-09-18T15:10:25.580854826Z",
+  "model": "glm-5.3"
+}

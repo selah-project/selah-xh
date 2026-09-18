@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 34:9",
+  "book": "genesis",
+  "lang": "xh",
+  "chapter": 34,
+  "translation": "Ziqhaganani ⟨את⟩ nathi: nikanika iintombi zenu kuthi, nina nithabathe ⟨את⟩ iintombi zethu ukuzinza kuni.",
+  "tokens": [
+    {
+      "surface": "והתחתנו",
+      "gloss": "ziqhaganani"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ nathi"
+    },
+    {
+      "surface": "בנתיכם",
+      "gloss": "iintombi zenu"
+    },
+    {
+      "surface": "תתנו",
+      "gloss": "nikanika"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "kuthi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "iintombi zethu"
+    },
+    {
+      "surface": "בנתינו",
+      "gloss": "iintombi zethu"
+    },
+    {
+      "surface": "תקחו",
+      "gloss": "nithabathe"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kuni"
+    }
+  ],
+  "timestamp": "2026-09-18T05:32:07.781615972Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 14:5",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 14,
+  "translation": "Kwaziswa inkosi yaseMitsrayim ukuba balekile abantu; ke intliziyo kaParo nophatho lakhe yaphendukela kubantu, bathi: “Yintoni na le esiyenzileyo, ukuba silahle ⟨את⟩ uYisrayeli kwinkonzo yethu?”",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "kwaziswa"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "kumkosi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "waseMitsrayim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ukuba"
+    },
+    {
+      "surface": "ברח",
+      "gloss": "balekile"
+    },
+    {
+      "surface": "העם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "ויהפך",
+      "gloss": "yaphendukela"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "intliziyo"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "kaParo"
+    },
+    {
+      "surface": "ועבדיו",
+      "gloss": "nophatho lakhe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "העם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "bathi"
+    },
+    {
+      "surface": "מה",
+      "gloss": "yintoni na"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "le"
+    },
+    {
+      "surface": "עשינו",
+      "gloss": "esiyenzileyo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ukuba"
+    },
+    {
+      "surface": "שלחנו",
+      "gloss": "silahle"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uYisrayeli"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "uYisrayeli"
+    },
+    {
+      "surface": "מעבדנו",
+      "gloss": "kwinkonzo yethu"
+    }
+  ],
+  "timestamp": "2026-09-18T06:00:03.067326150Z",
+  "model": "glm-5.3"
+}

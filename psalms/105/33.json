@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 105:33",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 105,
+  "translation": "Wabetha izivini zabo neefigi zabo, waphula iinkuni zomda wabo.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "wabetha"
+    },
+    {
+      "surface": "גפנם",
+      "gloss": "izivini zabo"
+    },
+    {
+      "surface": "ותאנתם",
+      "gloss": "neefigi zabo"
+    },
+    {
+      "surface": "וישבר",
+      "gloss": "waphula"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "iinkuni"
+    },
+    {
+      "surface": "גבולם",
+      "gloss": "zomda wabo"
+    }
+  ],
+  "timestamp": "2026-09-18T15:16:17.163007449Z",
+  "model": "glm-5.3"
+}

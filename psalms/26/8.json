@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 26:8",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 26,
+  "translation": "uYahwe, ndithande indawo yokuhlala yendlu yakho, nendawo yentente yakho apho uzuko lwakho luhlala khona.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "ndithande"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "indawo yokuhlala"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "yendlu yakho"
+    },
+    {
+      "surface": "ומקום",
+      "gloss": "nendawo"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "yentente yakho"
+    },
+    {
+      "surface": "כבודך",
+      "gloss": "uzuko lwakho"
+    }
+  ],
+  "timestamp": "2026-09-18T17:42:47.319527291Z",
+  "model": "glm-5.3"
+}

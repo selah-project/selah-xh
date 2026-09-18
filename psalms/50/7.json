@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 50:7",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 50,
+  "translation": "Mamela, hlobo lam, maza ndithethe; wena uSirayeli, maza ndichazile ngakuni: nguElohim, uThixo wakho, mna.",
+  "tokens": [
+    {
+      "surface": "שמעה",
+      "gloss": "Mamela"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "hlobo lam"
+    },
+    {
+      "surface": "ואדברה",
+      "gloss": "maza ndithethe"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "uSirayeli"
+    },
+    {
+      "surface": "ואעידה",
+      "gloss": "maza ndichazile"
+    },
+    {
+      "surface": "בך",
+      "gloss": "ngakuni"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "nguElohim"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "uThixo wakho"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "mna"
+    }
+  ],
+  "timestamp": "2026-09-18T14:46:43.739905683Z",
+  "model": "glm-5.3"
+}

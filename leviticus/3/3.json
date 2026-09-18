@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 3:3",
+  "book": "leviticus",
+  "lang": "xh",
+  "chapter": 3,
+  "translation": "Aza kuzisa isixhaso sezibingelelo njengesixhaso somlilo kuYahwe: ⟨את⟩ amafutha asonga ⟨את⟩ iindlelanga, kunye ⟨את⟩ onke amafutha angaphezu kweindlelanga.",
+  "tokens": [
+    {
+      "surface": "והקריב",
+      "gloss": "aza kuzisa"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "isixhaso"
+    },
+    {
+      "surface": "השלמים",
+      "gloss": "sezibingelelo"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "njengesixhaso somlilo"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kuYahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amafutha"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "amafutha"
+    },
+    {
+      "surface": "המכסה",
+      "gloss": "asonga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iindlelanga"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "iindlelanga"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kunye ⟨את⟩",
+      "marks": "onke amafutha"
+    },
+    {
+      "surface": "כל",
+      "gloss": "onke"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "amafutha"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "okukhona"
+    },
+    {
+      "surface": "על",
+      "gloss": "angaphezu"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "kweindlelanga"
+    }
+  ],
+  "timestamp": "2026-09-18T17:21:28.211879278Z",
+  "model": "glm-5.3"
+}

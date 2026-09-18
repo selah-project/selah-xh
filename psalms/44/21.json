@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 44:21",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 44,
+  "translation": "Ukuba siyalibala igama likaElohim wethu, okanye sihlakulela izandla zethu ⟨kwi⟩-el ingeloyo,",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ukuba"
+    },
+    {
+      "surface": "שכחנו",
+      "gloss": "siyalibala"
+    },
+    {
+      "surface": "שם",
+      "gloss": "igama"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "likaElohim wethu"
+    },
+    {
+      "surface": "ונפרש",
+      "gloss": "sihlakulela"
+    },
+    {
+      "surface": "כפינו",
+      "gloss": "izandla zethu"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "⟨kwi⟩-el"
+    },
+    {
+      "surface": "זר",
+      "gloss": "ingeloyo"
+    }
+  ],
+  "timestamp": "2026-09-18T14:45:40.082457238Z",
+  "model": "glm-5.3"
+}

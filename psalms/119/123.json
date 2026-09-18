@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 123,
+  "ref": "psalms 119:123",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 119,
+  "translation": "Amehlo am aphelelwe ⟨ngamandla⟩ ngentsindiso yakho nangelayizwi lolungisa lwakho.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "Amehlo am"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "aphelelwe"
+    },
+    {
+      "surface": "לישועתך",
+      "gloss": "ngentsindiso yakho"
+    },
+    {
+      "surface": "ולאמרת",
+      "gloss": "nangelayizwi"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "lolungisa lwakho"
+    }
+  ],
+  "timestamp": "2026-09-18T15:26:11.291396367Z",
+  "model": "glm-5.3"
+}

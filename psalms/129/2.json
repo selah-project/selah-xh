@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 129:2",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 129,
+  "translation": "Kaninzi bandihlupha ukusuka ebutsha bami, kodwa abazange bakwazi kum.",
+  "tokens": [
+    {
+      "surface": "רבת",
+      "gloss": "Kaninzi"
+    },
+    {
+      "surface": "צררוני",
+      "gloss": "bandihlupha"
+    },
+    {
+      "surface": "מנעורי",
+      "gloss": "ukusuka ebutsha bami"
+    },
+    {
+      "surface": "גם",
+      "gloss": "kodwa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "abazange"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "bakwazi"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kum"
+    }
+  ],
+  "timestamp": "2026-09-18T15:26:59.426216587Z",
+  "model": "glm-5.3"
+}

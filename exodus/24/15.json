@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 24:15",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 24,
+  "translation": "Waqalisa uMoshe ukuya entabeni, wamqumba ifu ⟨את⟩ leyo ntaba.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "waqalisa ukuya"
+    },
+    {
+      "surface": "משה",
+      "gloss": "uMoshe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "entabeni"
+    },
+    {
+      "surface": "ויכס",
+      "gloss": "wamqumba"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "ifu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "leyo ntaba"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "leyo ntaba"
+    }
+  ],
+  "timestamp": "2026-09-18T06:10:12.243692455Z",
+  "model": "glm-5.3"
+}

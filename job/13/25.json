@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "job 13:25",
+  "book": "job",
+  "lang": "xh",
+  "chapter": 13,
+  "translation": "Ingaba uza kuxhalabisa igesi elinyaziswa yimoya, kwaye ⟨את⟩ umbole omileyo uza kulandela?",
+  "tokens": [
+    {
+      "surface": "העלה",
+      "gloss": "ingaba"
+    },
+    {
+      "surface": "נדף",
+      "gloss": "elinyaziswa yimoya"
+    },
+    {
+      "surface": "תערוץ",
+      "gloss": "uza kuxhalabisa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "umbole omileyo"
+    },
+    {
+      "surface": "קש",
+      "gloss": "umbole"
+    },
+    {
+      "surface": "יבש",
+      "gloss": "omileyo"
+    },
+    {
+      "surface": "תרדף",
+      "gloss": "uza kulandela"
+    }
+  ],
+  "timestamp": "2026-09-18T16:04:08.305394853Z",
+  "model": "glm-5.3"
+}

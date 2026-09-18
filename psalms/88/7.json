@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 88:7",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 88,
+  "translation": "Umdali wambeka... undibekile embobeni engcangcolezantsi, kubumnyama, emanzini anzulu.",
+  "tokens": [
+    {
+      "surface": "שתני",
+      "gloss": "undibekile"
+    },
+    {
+      "surface": "בבור",
+      "gloss": "embobeni"
+    },
+    {
+      "surface": "תחתיות",
+      "gloss": "engcangcolezantsi"
+    },
+    {
+      "surface": "במחשכים",
+      "gloss": "kubumnyama"
+    },
+    {
+      "surface": "במצלות",
+      "gloss": "emanzini anzulu"
+    }
+  ],
+  "timestamp": "2026-09-18T15:07:55.850699506Z",
+  "model": "glm-5.3"
+}

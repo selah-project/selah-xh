@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 18:16",
+  "book": "leviticus",
+  "lang": "xh",
+  "chapter": 18,
+  "translation": "Ubuqhogo bomkakwabo ukwabo akubonisi; ubuqhogo bubunkuluwakho ngokwabo.",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "ubuqhogo"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "bomkakwabo"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "ukwabo wakho"
+    },
+    {
+      "surface": "לא",
+      "gloss": "aku-"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "bonisi"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "ubuqhogo"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "bunkuluwakwo wakho"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ngokwabo"
+    }
+  ],
+  "timestamp": "2026-09-18T06:53:20.769294967Z",
+  "model": "glm-5.3"
+}

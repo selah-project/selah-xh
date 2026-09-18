@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "ezekiel 34:30",
+  "book": "ezekiel",
+  "lang": "xh",
+  "chapter": 34,
+  "translation": "Baya kwazi ukuba ndinguYahwe uElohim wabo, ndikunye nabo, yaye ngabo — bendlu kaSirayeli — abantu bakhe, utshilo u-Adonayi uYahwe.",
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "Baya kwazi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ukuba"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ndingu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "uElohim wabo"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "nabo"
+    },
+    {
+      "surface": "והמה",
+      "gloss": "ngabo"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "abantu bakhe"
+    },
+    {
+      "surface": "בית",
+      "gloss": "bendlu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "kaSirayeli"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "utshilo"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "u-Adonayi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    }
+  ],
+  "timestamp": "2026-09-18T17:39:56.043217423Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 10:2",
+  "book": "isaiah",
+  "lang": "xh",
+  "chapter": 10,
+  "translation": "ukutshikila abangenanto kwisigwebo, ukutyabula ulwabiwo lwabaswelleyo bentabam yakho; ukwenza iikhama zibe yimpahla yabo, nge-⟨את⟩ abantwana abazalwa batalwa babanga.",
+  "tokens": [
+    {
+      "surface": "להטות",
+      "gloss": "ukutshikila"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "kwisigwebo"
+    },
+    {
+      "surface": "דלים",
+      "gloss": "abangenanto"
+    },
+    {
+      "surface": "ולגזל",
+      "gloss": "ukutyabula"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ulwabiwo"
+    },
+    {
+      "surface": "עניי",
+      "gloss": "lwabaswelleyo"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "bentabam yakho"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "ukwenza"
+    },
+    {
+      "surface": "אלמנות",
+      "gloss": "iikhama"
+    },
+    {
+      "surface": "שללם",
+      "gloss": "zibe yimpahla yabo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "nge-⟨את⟩",
+      "marks": "abantwana abazalwa batalwa"
+    },
+    {
+      "surface": "יתומים",
+      "gloss": "abantwana abazalwa batalwa"
+    },
+    {
+      "surface": "יבזו",
+      "gloss": "babanga"
+    }
+  ],
+  "timestamp": "2026-09-18T11:11:44.556668634Z",
+  "model": "glm-5.3"
+}

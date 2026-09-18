@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 106:6",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 106,
+  "translation": "Sonilele ngokudibana nooyihlo bethu, senze ubugwenxa, senza ububi.",
+  "tokens": [
+    {
+      "surface": "חטאנו",
+      "gloss": "Sonilele"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ngokudibana"
+    },
+    {
+      "surface": "אבותינו",
+      "gloss": "nooyihlo bethu"
+    },
+    {
+      "surface": "העוינו",
+      "gloss": "senze ubugwenxa"
+    },
+    {
+      "surface": "הרשענו",
+      "gloss": "senza ububi"
+    }
+  ],
+  "timestamp": "2026-09-18T15:16:42.025811538Z",
+  "model": "glm-5.3"
+}

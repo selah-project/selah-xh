@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 5:25",
+  "book": "leviticus",
+  "lang": "xh",
+  "chapter": 5,
+  "translation": "Yaye uza kuletha ⟨את⟩ icala lakhe kuYahwe: iquphe elingenasiphumo, elivela kwiinkomo, ngokwexabiso lakho, njengenxaxheba yecala, kumpristi.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "icala lakhe"
+    },
+    {
+      "surface": "אשמו",
+      "gloss": "icala lakhe"
+    },
+    {
+      "surface": "יביא",
+      "gloss": "uza kuletha"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kuYahwe"
+    },
+    {
+      "surface": "איל",
+      "gloss": "iquphe"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "elingenasiphumo"
+    },
+    {
+      "surface": "מן",
+      "gloss": "elivela"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "kwiinkomo"
+    },
+    {
+      "surface": "בערכך",
+      "gloss": "ngokwexabiso lakho"
+    },
+    {
+      "surface": "לאשם",
+      "gloss": "njengenxaxheba yecala"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "umpristi"
+    }
+  ],
+  "timestamp": "2026-09-18T06:34:36.392746439Z",
+  "model": "glm-5.3"
+}

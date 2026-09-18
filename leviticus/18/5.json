@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 18:5",
+  "book": "leviticus",
+  "lang": "xh",
+  "chapter": 18,
+  "translation": "Niya kugcina ⟨את⟩ iimiso zam kunye ne-⟨את⟩ imimiselo yam, umntu oyenza ⟨את⟩ eza aza kuphila ngazo; ndinguYahwe.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "niya kugcina"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iimiso zam"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "iimiso zam"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kunye ne-⟨את⟩",
+      "marks": "imimiselo yam"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "imimiselo yam"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyenza (eza)"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "oyenza"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "eza"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "umntu"
+    },
+    {
+      "surface": "וחי",
+      "gloss": "aza kuphila"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "ngazo"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ndi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "nguYahwe"
+    }
+  ],
+  "timestamp": "2026-09-18T06:52:42.026221850Z",
+  "model": "glm-5.3"
+}

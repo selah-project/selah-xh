@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 1:5",
+  "book": "hosea",
+  "lang": "xh",
+  "chapter": 1,
+  "translation": "Kwaye kuya kubakho ngaloo mini, ukuba ndiza kuphahlaza ⟨את⟩ itoli yakwaYisrayeli emlamweni weYizreeli.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "kuya kubakho"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ngaloo mini"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ngaloo"
+    },
+    {
+      "surface": "ושברתי",
+      "gloss": "ndiza kuphahlaza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "itoli yakwaYisrayeli"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "itoli"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "yakwaYisrayeli"
+    },
+    {
+      "surface": "בעמק",
+      "gloss": "emlamweni"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "weYizreeli"
+    }
+  ],
+  "timestamp": "2026-09-18T13:44:18.927990360Z",
+  "model": "glm-5.3"
+}

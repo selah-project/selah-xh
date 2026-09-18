@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 30:4",
+  "book": "isaiah",
+  "lang": "xh",
+  "chapter": 30,
+  "translation": "Kuba iinkosi zakhe ziseTsoani, athunywa akhe sebefikelele eKhanesi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kuba"
+    },
+    {
+      "surface": "היו",
+      "gloss": "zi-"
+    },
+    {
+      "surface": "בצען",
+      "gloss": "eTsoani"
+    },
+    {
+      "surface": "שריו",
+      "gloss": "iinkosi zakhe"
+    },
+    {
+      "surface": "ומלאכיו",
+      "gloss": "athunywa akhe"
+    },
+    {
+      "surface": "חנס",
+      "gloss": "eKhanesi"
+    },
+    {
+      "surface": "יגיעו",
+      "gloss": "sebefikelele"
+    }
+  ],
+  "timestamp": "2026-09-18T11:24:00.166062778Z",
+  "model": "glm-5.3"
+}

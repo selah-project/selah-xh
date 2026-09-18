@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 37:4",
+  "book": "genesis",
+  "lang": "xh",
+  "chapter": 37,
+  "translation": "Abantakwabo babona ukuba uyise wamthanda ngaphezu kwabo bonke abantakwabo; bamzonda ⟨את⟩ yena, bangakwazi ukuthetha kuye ngokwexolo.",
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "babona"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "Abantakwabo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ukuba"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "wamthanda"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "wamthanda"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "uyise"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "ngaphezu kwabo bonke"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "abantakwabo"
+    },
+    {
+      "surface": "וישנאו",
+      "gloss": "bamzonda"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "yena"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "cha-, banga-"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "-kwazi"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "ukuthetha kuye"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "ngokwexolo"
+    }
+  ],
+  "timestamp": "2026-09-18T05:34:47.136917478Z",
+  "model": "glm-5.3"
+}

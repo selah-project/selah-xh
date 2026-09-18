@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-samuel 2:6",
+  "book": "2-samuel",
+  "lang": "xh",
+  "chapter": 2,
+  "translation": "Kwaye ngoku uYahwe makwenze nani ikhesedi nenyaniso, kwaye mna ndiya kuwenza ⟨את⟩ nani oku okulungileyo, kuba nenza le nto.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "kwaye ngoku"
+    },
+    {
+      "surface": "יעש",
+      "gloss": "makwenze"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "nani"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "ikhesedi"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "nenyaniso"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "kwaye"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "mna"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "ndiya kuwenza"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ nani",
+      "marks": "nani"
+    },
+    {
+      "surface": "הטובה",
+      "gloss": "okulungileyo"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "oku"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "עשיתם",
+      "gloss": "nenza"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "lo nto"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "le"
+    }
+  ],
+  "timestamp": "2026-09-18T09:44:43.870407721Z",
+  "model": "glm-5.3"
+}

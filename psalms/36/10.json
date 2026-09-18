@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 36:10",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 36,
+  "translation": "Kuba kuwe kukho ⟨umthombo⟩ wobomi; ekukhanyeni kwakho sibona ukukhanya.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "kuwe"
+    },
+    {
+      "surface": "מקור",
+      "gloss": "⟨umthombo⟩"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "wobomi"
+    },
+    {
+      "surface": "באורך",
+      "gloss": "ekukhanyeni kwakho"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "sibona"
+    },
+    {
+      "surface": "אור",
+      "gloss": "ukukhanya"
+    }
+  ],
+  "timestamp": "2026-09-18T14:39:51.027357751Z",
+  "model": "glm-5.3"
+}

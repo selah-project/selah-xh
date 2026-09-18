@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "amos 5:1",
+  "book": "amos",
+  "lang": "xh",
+  "chapter": 5,
+  "translation": "Yivani le ⟨את⟩ ilizwi endilinyukisayo phezu kwenu, ililu, hini wena endlwini yakwa-Israel.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "Yivani"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ilizwi"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ilizwi"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "le"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "eli"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "endi(nam)"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "-nyukisayo"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "phezu kwenu"
+    },
+    {
+      "surface": "קינה",
+      "gloss": "ililu"
+    },
+    {
+      "surface": "בית",
+      "gloss": "endlwini"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "yakwa-Israel"
+    }
+  ],
+  "timestamp": "2026-09-18T13:57:37.820218140Z",
+  "model": "glm-5.3"
+}

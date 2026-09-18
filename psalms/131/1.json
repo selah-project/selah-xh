@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 131:1",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 131,
+  "translation": "Ingoma yamanyuko, kaDawidi. uYahwe, intliziyo yam ayiphakamanga, nemehlo yam ayabalusi; andihambahambanga ezintweni ezinkulu nakwezimangalisa kum.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Ingoma"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "yamanyuko"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "kaDawidi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ayi-"
+    },
+    {
+      "surface": "גבה",
+      "gloss": "phakamanga"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "intliziyo yam"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "nawe ayi-"
+    },
+    {
+      "surface": "רמו",
+      "gloss": "balusi"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "emehlo yam"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "naye anda-"
+    },
+    {
+      "surface": "הלכתי",
+      "gloss": "hambahambanga"
+    },
+    {
+      "surface": "בגדלות",
+      "gloss": "ezintweni ezinkulu"
+    },
+    {
+      "surface": "ובנפלאות",
+      "gloss": "nakwezimangalisa"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "kum"
+    }
+  ],
+  "timestamp": "2026-09-18T15:27:12.448474777Z",
+  "model": "glm-5.3"
+}

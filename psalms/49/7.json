@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 49:7",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 49,
+  "translation": "Abo bathelela bathembu kubuchule babo, baziqhenya ngobuninzi bubutyebi babo.",
+  "tokens": [
+    {
+      "surface": "הבטחים",
+      "gloss": "abo bathelela bathembu"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "חילם",
+      "gloss": "ubuchule babo"
+    },
+    {
+      "surface": "וברב",
+      "gloss": "ngobuninzi"
+    },
+    {
+      "surface": "עשרם",
+      "gloss": "bubutyebi babo"
+    },
+    {
+      "surface": "יתהללו",
+      "gloss": "baziqhenya"
+    }
+  ],
+  "timestamp": "2026-09-18T14:46:20.341305210Z",
+  "model": "glm-5.3"
+}

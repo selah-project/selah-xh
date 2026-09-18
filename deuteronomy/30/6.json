@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 30:6",
+  "book": "deuteronomy",
+  "lang": "xh",
+  "chapter": 30,
+  "translation": "uYahwe uElohim wakho uza kukucheba ⟨את⟩ intliziyo yakho n⟨את⟩⟨את⟩ intliziyo yombewu wakho, ukuthanda ⟨את⟩ uYahwe uElohim wakho ngeintliziyo yakho yonke nangemiphefumlo yakho yonke, ukuze uphile.",
+  "tokens": [
+    {
+      "surface": "ומל",
+      "gloss": "uza kukucheba"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "uElohim wakho"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "intliziyo yakho"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "intliziyo yakho"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "intliziyo yombewu wakho"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "intliziyo"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "umbewu wakho"
+    },
+    {
+      "surface": "לאהבה",
+      "gloss": "ukuthanda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uYahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "uElohim wakho"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "nge-...yonke"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "intliziyo yakho"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "nange-...yonke"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "imiphefumlo yakho"
+    },
+    {
+      "surface": "למען",
+      "gloss": "ukuze"
+    },
+    {
+      "surface": "חייך",
+      "gloss": "uphile"
+    }
+  ],
+  "timestamp": "2026-09-18T08:21:36.834188957Z",
+  "model": "glm-5.3"
+}

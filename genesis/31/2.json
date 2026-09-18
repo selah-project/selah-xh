@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 31:2",
+  "book": "genesis",
+  "lang": "xh",
+  "chapter": 31,
+  "translation": "Wabona uYa'akov ⟨את⟩ ubuso bukaLavan, kwaye nanko, alisonto kuye njengakutsha nangakutsha ngakuduzula.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "wabona"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "uYa'akov"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ubuso"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ubuso"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "bukaLavan"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "kwaye nanko"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "alisonto"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "kuye"
+    },
+    {
+      "surface": "כתמול",
+      "gloss": "njengakutsha"
+    },
+    {
+      "surface": "שלשום",
+      "gloss": "nangakutsha ngakuduzula"
+    }
+  ],
+  "timestamp": "2026-09-18T05:27:53.912986962Z",
+  "model": "glm-5.3"
+}

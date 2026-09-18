@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 100:4",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 100,
+  "translation": "Ngenani philango lwakhe ngokubulela, iindawo zakhe ezikunye ngeendumko; m-buleleni, barukani igama lakhe.",
+  "tokens": [
+    {
+      "surface": "באו",
+      "gloss": "Ngenani"
+    },
+    {
+      "surface": "שעריו",
+      "gloss": "philango lwakhe"
+    },
+    {
+      "surface": "בתודה",
+      "gloss": "ngokubulela"
+    },
+    {
+      "surface": "חצרתיו",
+      "gloss": "iindawo zakhe ezikunye"
+    },
+    {
+      "surface": "בתהלה",
+      "gloss": "ngeendumko"
+    },
+    {
+      "surface": "הודו",
+      "gloss": "m-buleleni"
+    },
+    {
+      "surface": "לו",
+      "gloss": "(kuye)"
+    },
+    {
+      "surface": "ברכו",
+      "gloss": "barukani"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "igama lakhe"
+    }
+  ],
+  "timestamp": "2026-09-18T15:14:14.804884593Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 27:12",
+  "book": "deuteronomy",
+  "lang": "xh",
+  "chapter": 27,
+  "translation": "Ezi ziya kumila ukuzukisa ⟨את⟩ uluntu entabeni iGerizim, ekugqithiseni kwenu ⟨את⟩ uYordani: uShimon, noLevi, noYuda, noYisakari, noYosefu, noBinyamin.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Ezi"
+    },
+    {
+      "surface": "יעמדו",
+      "gloss": "ziya kumila"
+    },
+    {
+      "surface": "לברך",
+      "gloss": "ukuzukisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uluntu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "uluntu"
+    },
+    {
+      "surface": "על",
+      "gloss": "e"
+    },
+    {
+      "surface": "הר",
+      "gloss": "ntabeni"
+    },
+    {
+      "surface": "גרזים",
+      "gloss": "iGerizim"
+    },
+    {
+      "surface": "בעברכם",
+      "gloss": "ekugqithiseni kwenu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uYordani"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "uYordani"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "uShimon"
+    },
+    {
+      "surface": "ולוי",
+      "gloss": "noLevi"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "noYuda"
+    },
+    {
+      "surface": "ויששכר",
+      "gloss": "noYisakari"
+    },
+    {
+      "surface": "ויוסף",
+      "gloss": "noYosefu"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "noBinyamin"
+    }
+  ],
+  "timestamp": "2026-09-18T08:15:14.923469201Z",
+  "model": "glm-5.3"
+}

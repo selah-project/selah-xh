@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 26:2",
+  "book": "proverbs",
+  "lang": "xh",
+  "chapter": 26,
+  "translation": "Njengetentane esibalekelayo, njengenkonjana ezulazulayo, ngokunjalo isiqalekiso esingenasizathu asifi kumntu.",
+  "tokens": [
+    {
+      "surface": "כצפור",
+      "gloss": "njengetentane"
+    },
+    {
+      "surface": "לנוד",
+      "gloss": "ezulazulayo"
+    },
+    {
+      "surface": "כדרור",
+      "gloss": "njengenkonjana"
+    },
+    {
+      "surface": "לעוף",
+      "gloss": "ezulazulayo-ndanyaza"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ngokunjalo"
+    },
+    {
+      "surface": "קללת",
+      "gloss": "isiqalekiso"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "esingenasizathu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "asi-"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "fi kumntu"
+    }
+  ],
+  "timestamp": "2026-09-18T15:55:25.934097327Z",
+  "model": "glm-5.3"
+}

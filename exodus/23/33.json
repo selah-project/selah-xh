@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "exodus 23:33",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 23,
+  "translation": "Abasayi kuhlala eluhlwini lwakho, hleze bakwenze usonwenze ⟨את⟩ wena kum, kuba ukuba ukhonza ⟨את⟩ oothixo babo, kuba oko kuya kuba sisibiyelo kuwe.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "abasayi"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "kuhlala"
+    },
+    {
+      "surface": "בארצך",
+      "gloss": "eluhlwini lwakho"
+    },
+    {
+      "surface": "פן",
+      "gloss": "hleze"
+    },
+    {
+      "surface": "יחטיאו",
+      "gloss": "bakwenze usonwenze"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "wena"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kum"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "ukhonza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oothixo babo"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "oothixo babo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "kuya kuba"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kuwe"
+    },
+    {
+      "surface": "למוקש",
+      "gloss": "sisibiyelo"
+    }
+  ],
+  "timestamp": "2026-09-18T06:07:34.354787037Z",
+  "model": "glm-5.3"
+}

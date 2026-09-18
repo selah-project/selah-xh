@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 74:4",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 74,
+  "translation": "Izichasi zakho zikhwaza ngomsindo phakathi kwendawo yokudibana kwakho; zamisa iimpawu zawo ⟨njengeempawu⟩.",
+  "tokens": [
+    {
+      "surface": "שאגו",
+      "gloss": "zikhwaza ngomsindo"
+    },
+    {
+      "surface": "צרריך",
+      "gloss": "izichasi zakho"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "phakathi"
+    },
+    {
+      "surface": "מועדך",
+      "gloss": "kwendawo yokudibana kwakho"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "zamisa"
+    },
+    {
+      "surface": "אותתם",
+      "gloss": "iimpawu zawo"
+    },
+    {
+      "surface": "אתות",
+      "gloss": "njengeempawu"
+    }
+  ],
+  "timestamp": "2026-09-18T15:02:04.672308439Z",
+  "model": "glm-5.3"
+}

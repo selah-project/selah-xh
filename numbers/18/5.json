@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 18:5",
+  "book": "numbers",
+  "lang": "xh",
+  "chapter": 18,
+  "translation": "Kwaye niza kugcina ⟨את⟩ ukugcinwa kokungcwele no⟨את⟩ ukugcinwa wesibingelelo, ukuze kungabi nalulaka kwakhona phezu koonyana bakaSirayeli.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "niza kugcina"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ukugcinwa kokungcwele"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "ukugcinwa"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "kokungcwele"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "no⟨את⟩",
+      "marks": "ukugcinwa wesibingelelo"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "ukugcinwa"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "wesibingelelo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ukuze kungabi"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "kubakho"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "kwakhona"
+    },
+    {
+      "surface": "קצף",
+      "gloss": "lulaka"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oonyana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "bakaSirayeli"
+    }
+  ],
+  "timestamp": "2026-09-18T07:31:39.257902365Z",
+  "model": "glm-5.3"
+}

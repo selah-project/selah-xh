@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 145:6",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 145,
+  "translation": "Amandla ezintlanga zakho ezoyikisayo baza kuzithetha, obukhulu bakho ndiza kubalisa.",
+  "tokens": [
+    {
+      "surface": "ועזוז",
+      "gloss": "amandla"
+    },
+    {
+      "surface": "נוראתיך",
+      "gloss": "ezintlanga zakho ezoyikisayo"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "baza kuzithetha"
+    },
+    {
+      "surface": "וגדולתיך",
+      "gloss": "obukhulu bakho"
+    },
+    {
+      "surface": "אספרנה",
+      "gloss": "ndiza kubalisa"
+    }
+  ],
+  "timestamp": "2026-09-18T17:45:44.294974399Z",
+  "model": "glm-5.3"
+}

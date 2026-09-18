@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "psalms 107:37",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 107,
+  "translation": "Batyalwa amasimi, batyala iilemvini, zadala iziqhamo zemveliso.",
+  "tokens": [
+    {
+      "surface": "ויזרעו",
+      "gloss": "batyalwa amasimi"
+    },
+    {
+      "surface": "שדות",
+      "gloss": "amasimi"
+    },
+    {
+      "surface": "ויטעו",
+      "gloss": "batyala"
+    },
+    {
+      "surface": "כרמים",
+      "gloss": "iilemvini"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "zadala"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "iziqhamo"
+    },
+    {
+      "surface": "תבואה",
+      "gloss": "zemveliso"
+    }
+  ],
+  "timestamp": "2026-09-18T15:18:57.514533770Z",
+  "model": "glm-5.3"
+}

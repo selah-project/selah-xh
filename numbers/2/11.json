@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 2:11",
+  "book": "numbers",
+  "lang": "xh",
+  "chapter": 2,
+  "translation": "Nomkhosi wakhe nababaluli bakhe: amawaka angamashumi amatandathu anamane, neenkulu ezihlanu.",
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "nomkhosi wakhe"
+    },
+    {
+      "surface": "ופקדיו",
+      "gloss": "nababaluli bakhe"
+    },
+    {
+      "surface": "ששה",
+      "gloss": "amatandathu"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "anamane"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "amawaka"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "neenkulu ezihlanu"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "eenkulu"
+    }
+  ],
+  "timestamp": "2026-09-18T07:10:43.112701842Z",
+  "model": "glm-5.3"
+}

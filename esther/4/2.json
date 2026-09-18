@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "esther 4:2",
+  "book": "esther",
+  "lang": "xh",
+  "chapter": 4,
+  "translation": "waze wangena de engaphambi kwesango sekumkani, kuba akukho mntu anelungelo lokungena esangweni sekumkani egqokile isaka.",
+  "tokens": [
+    {
+      "surface": "ויבוא",
+      "gloss": "wangena"
+    },
+    {
+      "surface": "עד",
+      "gloss": "de"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "engaphambi"
+    },
+    {
+      "surface": "שער",
+      "gloss": "kwesango"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sekumkani"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "אין",
+      "gloss": "akukho mntu"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "lokungela"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "שער",
+      "gloss": "esangweni"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sekumkani"
+    },
+    {
+      "surface": "בלבוש",
+      "gloss": "egqokile"
+    },
+    {
+      "surface": "שק",
+      "gloss": "isaka"
+    }
+  ],
+  "timestamp": "2026-09-18T16:28:41.724121782Z",
+  "model": "glm-5.3"
+}

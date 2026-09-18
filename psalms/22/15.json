@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 22:15",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 22,
+  "translation": "Ndichithiwe njengamanzi, yahlukana yonke iithambo zam; intliziyo yam yafana nawaxi, inyibilika phakathi kolusu lwam.",
+  "tokens": [
+    {
+      "surface": "כמים",
+      "gloss": "njengamanzi"
+    },
+    {
+      "surface": "נשפכתי",
+      "gloss": "Ndichithiwe"
+    },
+    {
+      "surface": "והתפרדו",
+      "gloss": "yahlukana"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yonke"
+    },
+    {
+      "surface": "עצמותי",
+      "gloss": "iithambo zam"
+    },
+    {
+      "surface": "היה",
+      "gloss": "yafana"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "intliziyo yam"
+    },
+    {
+      "surface": "כדונג",
+      "gloss": "nawaxi"
+    },
+    {
+      "surface": "נמס",
+      "gloss": "inyibilika"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "phakathi"
+    },
+    {
+      "surface": "מעי",
+      "gloss": "ulusu lwam"
+    }
+  ],
+  "timestamp": "2026-09-18T14:35:06.615702885Z",
+  "model": "glm-5.3"
+}

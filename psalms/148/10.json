@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 148:10",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 148,
+  "translation": "iiiwushu kunye nazo zonke izilwanyana ezifuywayo, iziphephamkhathi kunye neentaka ezinamaphiko;",
+  "tokens": [
+    {
+      "surface": "החיה",
+      "gloss": "iiiwushu"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "kunye nazo zonke"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "izilwanyana ezifuywayo"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "iziphephamkhathi"
+    },
+    {
+      "surface": "וצפור",
+      "gloss": "kunye neentaka"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "ezinamaphiko"
+    }
+  ],
+  "timestamp": "2026-09-18T15:33:08.746306011Z",
+  "model": "glm-5.3"
+}

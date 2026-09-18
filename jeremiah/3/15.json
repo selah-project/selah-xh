@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 3:15",
+  "book": "jeremiah",
+  "lang": "xh",
+  "chapter": 3,
+  "translation": "Ndiza kuninikela nina abalusi ngokwelentliziyo yam, baza kunilusa ⟨את⟩ ngolwazi nangokuqonda.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "Ndiza kuninikela"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "nina"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "abalusi"
+    },
+    {
+      "surface": "כלבי",
+      "gloss": "ngokwelentliziyo yam"
+    },
+    {
+      "surface": "ורעו",
+      "gloss": "baza kunilusa"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "nina"
+    },
+    {
+      "surface": "דעה",
+      "gloss": "ngolwazi"
+    },
+    {
+      "surface": "והשכיל",
+      "gloss": "nangokuqonda"
+    }
+  ],
+  "timestamp": "2026-09-18T17:36:41.826683059Z",
+  "model": "glm-5.3"
+}

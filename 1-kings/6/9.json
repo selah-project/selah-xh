@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-kings 6:9",
+  "book": "1-kings",
+  "lang": "xh",
+  "chapter": 6,
+  "translation": "Wawakha ⟨את⟩ indlu, wayigqiba; wazifihla ⟨את⟩ indlu ngeebhodi needongwe lereti.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "wawakha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "indlu"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "indlu"
+    },
+    {
+      "surface": "ויכלהו",
+      "gloss": "wayigqiba"
+    },
+    {
+      "surface": "ויספן",
+      "gloss": "wazifihla"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "indlu"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "indlu"
+    },
+    {
+      "surface": "גבים",
+      "gloss": "ngeebhodi"
+    },
+    {
+      "surface": "ושדרת",
+      "gloss": "needongwe"
+    },
+    {
+      "surface": "בארזים",
+      "gloss": "lereti"
+    }
+  ],
+  "timestamp": "2026-09-18T10:14:09.910065721Z",
+  "model": "glm-5.3"
+}

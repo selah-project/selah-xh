@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 36:5",
+  "book": "genesis",
+  "lang": "xh",
+  "chapter": 36,
+  "translation": "Kananjalo u-Aholibama wazala ⟨את⟩ uYeyishi, ⟨את⟩ noYalamu, ⟨את⟩ noKoraha; baba ngaba oonyana baKhesavu abazalweyo kuye eliKanaani.",
+  "tokens": [
+    {
+      "surface": "ואהליבמה",
+      "gloss": "Kananjalo u-Aholibama"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "wazala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uYeyishi"
+    },
+    {
+      "surface": "יעיש",
+      "gloss": "uYeyishi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "noYalamu"
+    },
+    {
+      "surface": "יעלם",
+      "gloss": "noYalamu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "noKoraha"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "noKoraha"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "baba ngaba"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oonyana"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "baKhesavu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "abazalweyo"
+    },
+    {
+      "surface": "ילדו",
+      "gloss": "abazalwe"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kuye"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "eli-"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "iKanaani"
+    }
+  ],
+  "timestamp": "2026-09-18T05:32:38.390026114Z",
+  "model": "glm-5.3"
+}

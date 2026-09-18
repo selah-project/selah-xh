@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 10:18",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 10,
+  "translation": "Ukugweba intandane nenanceku, ukuze umntu womhlaba angaphindi kwakhona ukoyika ⟨abantu⟩ apha emhlabeni.",
+  "tokens": [
+    {
+      "surface": "לשפט",
+      "gloss": "ukugweba"
+    },
+    {
+      "surface": "יתום",
+      "gloss": "intandane"
+    },
+    {
+      "surface": "ודך",
+      "gloss": "nenanceku"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ukuze... angaphindi"
+    },
+    {
+      "surface": "יוסיף",
+      "gloss": "angaphindi"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "kwakhona"
+    },
+    {
+      "surface": "לערץ",
+      "gloss": "ukoyika ⟨abantu⟩"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "umntu womhlaba"
+    },
+    {
+      "surface": "מן",
+      "gloss": "apha"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "emhlabeni"
+    }
+  ],
+  "timestamp": "2026-09-18T14:29:46.029166225Z",
+  "model": "glm-5.3"
+}

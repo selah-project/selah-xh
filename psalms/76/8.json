@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 76:8",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 76,
+  "translation": "Wena, yaye wena uloyikisa; ngoko ubani na oza kumisela phambi kwakho ukususela ngalo ixesha ulaka lwakho?",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "uloyikisa"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "yaye wena"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "ngoko ubani na"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "oza kumisela"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "phambi kwakho"
+    },
+    {
+      "surface": "מאז",
+      "gloss": "ukususela ngalo ixesha"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "ulaka lwakho"
+    }
+  ],
+  "timestamp": "2026-09-18T15:01:18.914899377Z",
+  "model": "glm-5.3"
+}

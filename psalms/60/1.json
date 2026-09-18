@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 60:1",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 60,
+  "translation": "Kumlawuli, ngeShushan-Eduth, umkhitam kaDavi, ukufundisa.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Kumlawuli"
+    },
+    {
+      "surface": "על",
+      "gloss": "nge-"
+    },
+    {
+      "surface": "שושן",
+      "gloss": "iShushan"
+    },
+    {
+      "surface": "עדות",
+      "gloss": "iEduth"
+    },
+    {
+      "surface": "מכתם",
+      "gloss": "umkhitam"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "kaDavi"
+    },
+    {
+      "surface": "ללמד",
+      "gloss": "ukufundisa"
+    }
+  ],
+  "timestamp": "2026-09-18T14:53:27.486540964Z",
+  "model": "glm-5.3"
+}

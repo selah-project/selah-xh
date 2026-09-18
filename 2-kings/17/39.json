@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "2-kings 17:39",
+  "book": "2-kings",
+  "lang": "xh",
+  "chapter": 17,
+  "translation": "Kodwa ⟨את⟩ uYahwe uElohim wenu niya kumoyika; yena uza kunisindisa ⟨את⟩ nina esandleni seendaba zenu zonke — izitha zenu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kodwa (ngokuba)"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kuphela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uYahwe uElohim wenu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "uElohim wenu"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "niya kumoyika"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "yena"
+    },
+    {
+      "surface": "יציל",
+      "gloss": "uza kunisindisa"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ nina",
+      "marks": "nina"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "esandleni"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zonke"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "izitha zenu"
+    }
+  ],
+  "timestamp": "2026-09-18T10:51:25.587491912Z",
+  "model": "glm-5.3"
+}

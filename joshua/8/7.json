@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "joshua 8:7",
+  "book": "joshua",
+  "lang": "xh",
+  "chapter": 8,
+  "translation": "Yaye nina niza kuvuka kwisiphulelo-mkhuselo, nityale isixeko ⟨את⟩; uYahwe uElohim wenu uza kuyinika isixeko esandleni sami — esandleni sami yenu.",
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "Yaye nina"
+    },
+    {
+      "surface": "תקמו",
+      "gloss": "niza kuvuka"
+    },
+    {
+      "surface": "מהאורב",
+      "gloss": "kwisiphulelo-mkhuselo"
+    },
+    {
+      "surface": "והורשתם",
+      "gloss": "nityale"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isixeko"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "isixeko"
+    },
+    {
+      "surface": "ונתנה",
+      "gloss": "uza kuyinika"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "uElohim wenu"
+    },
+    {
+      "surface": "בידכם",
+      "gloss": "esandleni sami — yenu"
+    }
+  ],
+  "timestamp": "2026-09-18T08:33:25.244820405Z",
+  "model": "glm-5.3"
+}

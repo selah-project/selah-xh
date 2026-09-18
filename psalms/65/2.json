@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 65:2",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 65,
+  "translation": "Kuwe, ekuthuleni, ⟨kukho⟩ udumo, uElohim, eTsiyoni; kuwe nesithembiso siya kuzalisekiswa.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "Kuwe"
+    },
+    {
+      "surface": "דמיה",
+      "gloss": "ekuthuleni"
+    },
+    {
+      "surface": "תהלה",
+      "gloss": "udumo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "eTsiyoni"
+    },
+    {
+      "surface": "ולך",
+      "gloss": "kuwe ne-"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "siya kuzalisekiswa"
+    },
+    {
+      "surface": "נדר",
+      "gloss": "isithembiso"
+    }
+  ],
+  "timestamp": "2026-09-18T14:55:54.239579850Z",
+  "model": "glm-5.3"
+}

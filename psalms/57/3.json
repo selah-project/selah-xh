@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 57:3",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 57,
+  "translation": "Ndiza kubiza kuElohim u-El Eliyoni, ku-El ogqibezelayo kum.",
+  "tokens": [
+    {
+      "surface": "אקרא",
+      "gloss": "Ndiza kubiza"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "kuElohim"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "u-El Eliyoni"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "ku-El"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "ogqibezelayo"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "kum"
+    }
+  ],
+  "timestamp": "2026-09-18T14:52:02.736210822Z",
+  "model": "glm-5.3"
+}

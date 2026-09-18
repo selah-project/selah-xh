@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 34:8",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 34,
+  "translation": "Isithunywa sikaYahwe sihlala sijikelezile kubo abamoyikayo, sibasindisa.",
+  "tokens": [
+    {
+      "surface": "חנה",
+      "gloss": "sihlala (encamp)"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "Isithunywa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "sikaYahwe"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "sijikelezile"
+    },
+    {
+      "surface": "ליראיו",
+      "gloss": "kubo abamoyikayo"
+    },
+    {
+      "surface": "ויחלצם",
+      "gloss": "sibasindisa"
+    }
+  ],
+  "timestamp": "2026-09-18T14:39:56.613723127Z",
+  "model": "glm-5.3"
+}

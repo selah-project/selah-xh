@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 22:1",
+  "book": "deuteronomy",
+  "lang": "xh",
+  "chapter": 22,
+  "translation": "Musa ukubona ⟨את⟩ inkunzi yakumntakwenu okanye ⟨את⟩ imvu yakhe edukiweyo, uze uzifihle kuzo; uyibuyisela ngokwenene kumntakwenu.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "musa"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "ukubona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "inkunzi yakumntakwenu"
+    },
+    {
+      "surface": "שור",
+      "gloss": "inkunzi"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "umntakwenu"
+    },
+    {
+      "surface": "או",
+      "gloss": "okanye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "imvu yakhe"
+    },
+    {
+      "surface": "שיו",
+      "gloss": "imvu"
+    },
+    {
+      "surface": "נדחים",
+      "gloss": "edukiweyo"
+    },
+    {
+      "surface": "והתעלמת",
+      "gloss": "uze uzifihle"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "kuzo"
+    },
+    {
+      "surface": "השב",
+      "gloss": "uyibuyisele"
+    },
+    {
+      "surface": "תשיבם",
+      "gloss": "uyibuyisela"
+    },
+    {
+      "surface": "לאחיך",
+      "gloss": "kumntakwenu"
+    }
+  ],
+  "timestamp": "2026-09-18T08:13:17.098396705Z",
+  "model": "glm-5.3"
+}

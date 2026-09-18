@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 10:4",
+  "book": "1-samuel",
+  "lang": "xh",
+  "chapter": 10,
+  "translation": "Baza kukubuza ngoxolo, banike iinkolo ezimbini zesonka; waza wuthabatha ezandleni zabo.",
+  "tokens": [
+    {
+      "surface": "ושאלו",
+      "gloss": "baza kukubuza"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kuwe (ukubuza)"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "ngoxolo"
+    },
+    {
+      "surface": "ונתנו",
+      "gloss": "banike"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kuwe"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "ezimbini"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "zesonka"
+    },
+    {
+      "surface": "ולקחת",
+      "gloss": "waza wuthabatha"
+    },
+    {
+      "surface": "מידם",
+      "gloss": "ezandleni zabo"
+    }
+  ],
+  "timestamp": "2026-09-18T09:21:15.394420790Z",
+  "model": "glm-5.3"
+}

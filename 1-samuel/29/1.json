@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 29:1",
+  "book": "1-samuel",
+  "lang": "xh",
+  "chapter": 29,
+  "translation": "Kwaye iPelishtiyim aqokelele ⟨את⟩ onke amabala awo eApheka, kwaye uYisrayeli umile eBhayini eli ∙ eYizreeli.",
+  "tokens": [
+    {
+      "surface": "ויקבצו",
+      "gloss": "aqokelele"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "iPelishtiyim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "onke amabala awo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "onke"
+    },
+    {
+      "surface": "מחניהם",
+      "gloss": "amabala awo"
+    },
+    {
+      "surface": "אפקה",
+      "gloss": "eApheka"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "kwaye uYisrayeli"
+    },
+    {
+      "surface": "חנים",
+      "gloss": "umile"
+    },
+    {
+      "surface": "בעין",
+      "gloss": "eBhayini"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "eli"
+    },
+    {
+      "surface": "ביזרעאל",
+      "gloss": "eYizreeli"
+    }
+  ],
+  "timestamp": "2026-09-18T09:39:29.566189743Z",
+  "model": "glm-5.3"
+}

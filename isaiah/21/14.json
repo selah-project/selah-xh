@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 21:14",
+  "book": "isaiah",
+  "lang": "xh",
+  "chapter": 21,
+  "translation": "Ukudibana nowomileyo bazile amanzi; abahlali bomhlaba waTema ngesonka sawo badibana nolowo ebalayo.",
+  "tokens": [
+    {
+      "surface": "לקראת",
+      "gloss": "Ukudibana"
+    },
+    {
+      "surface": "צמא",
+      "gloss": "nowomileyo"
+    },
+    {
+      "surface": "התיו",
+      "gloss": "bazile"
+    },
+    {
+      "surface": "מים",
+      "gloss": "amanzi"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "abahlali"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "bomhlaba"
+    },
+    {
+      "surface": "תימא",
+      "gloss": "waTema"
+    },
+    {
+      "surface": "בלחמו",
+      "gloss": "ngesonka sawo"
+    },
+    {
+      "surface": "קדמו",
+      "gloss": "badibana"
+    },
+    {
+      "surface": "נדד",
+      "gloss": "nolowo ebalayo"
+    }
+  ],
+  "timestamp": "2026-09-18T11:13:33.188876707Z",
+  "model": "glm-5.3"
+}

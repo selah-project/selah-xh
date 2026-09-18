@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 107:16",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 107,
+  "translation": "Kuba wacekula iingcango zomthombweyi, wadabula iibhari zentsimbi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kuba"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "wacekula"
+    },
+    {
+      "surface": "דלתות",
+      "gloss": "iingcango"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "zomthombweyi"
+    },
+    {
+      "surface": "ובריחי",
+      "gloss": "iibhari"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "zentsimbi"
+    },
+    {
+      "surface": "גדע",
+      "gloss": "wadabula"
+    }
+  ],
+  "timestamp": "2026-09-18T15:17:51.684361906Z",
+  "model": "glm-5.3"
+}

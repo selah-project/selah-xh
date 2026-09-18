@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 69:3",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 69,
+  "translation": "Ndincyathekile emdizeni onzulu, akukho ndawo yokuma; ndingenile emanzini amanzulu, inkxwaleko yamanzi indigqithisile.",
+  "tokens": [
+    {
+      "surface": "טבעתי",
+      "gloss": "Ndincyathekile"
+    },
+    {
+      "surface": "ביון",
+      "gloss": "emdzini"
+    },
+    {
+      "surface": "מצולה",
+      "gloss": "onzulu (oludanzeleyo)"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "akukho"
+    },
+    {
+      "surface": "מעמד",
+      "gloss": "ndawo yokuma"
+    },
+    {
+      "surface": "באתי",
+      "gloss": "ndingenile"
+    },
+    {
+      "surface": "במעמקי",
+      "gloss": "ezintabeni zakanjani — emanzini amanzulu"
+    },
+    {
+      "surface": "מים",
+      "gloss": "amanzi"
+    },
+    {
+      "surface": "ושבלת",
+      "gloss": "inkxwaleko yamanzi"
+    },
+    {
+      "surface": "שטפתני",
+      "gloss": "indigqithisile"
+    }
+  ],
+  "timestamp": "2026-09-18T14:57:43.589150369Z",
+  "model": "glm-5.3"
+}

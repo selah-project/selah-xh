@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 107:11",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 107,
+  "translation": "Kuba bambikela amagama ka-El, balahla icebo le-Elyoni.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "המרו",
+      "gloss": "bambikela"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "amagama"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka-El"
+    },
+    {
+      "surface": "ועצת",
+      "gloss": "icebo"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "le-Elyoni"
+    },
+    {
+      "surface": "נאצו",
+      "gloss": "balahla"
+    }
+  ],
+  "timestamp": "2026-09-18T15:16:53.669266637Z",
+  "model": "glm-5.3"
+}

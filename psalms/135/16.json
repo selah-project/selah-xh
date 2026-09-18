@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 135:16",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 135,
+  "translation": "Umlomo banawo kodwa abathethi; amehlo banawo kodwa ababoni.",
+  "tokens": [
+    {
+      "surface": "פה",
+      "gloss": "umlomo"
+    },
+    {
+      "surface": "להם",
+      "gloss": "banawo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kodwa abathethi"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "kodwa abathethi"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "amehlo"
+    },
+    {
+      "surface": "להם",
+      "gloss": "banawo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kodwa ababoni"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "kodwa ababoni"
+    }
+  ],
+  "timestamp": "2026-09-18T15:28:30.396236014Z",
+  "model": "glm-5.3"
+}

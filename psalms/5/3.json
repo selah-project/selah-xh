@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 5:3",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 5,
+  "translation": "Ndibambe ngeendlebe ilizwi lomthandazo wam, inkosi yam noElohim wam; kuba kuwe ndiza kuthandaza.",
+  "tokens": [
+    {
+      "surface": "הקשיבה",
+      "gloss": "ndibambe ngeendlebe"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "ilizwi la-"
+    },
+    {
+      "surface": "שועי",
+      "gloss": "umthandazo wam"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "inkosi yam"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "noElohim wam"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kuwe"
+    },
+    {
+      "surface": "אתפלל",
+      "gloss": "ndiza kuthandaza"
+    }
+  ],
+  "timestamp": "2026-09-18T14:26:53.228928548Z",
+  "model": "glm-5.3"
+}

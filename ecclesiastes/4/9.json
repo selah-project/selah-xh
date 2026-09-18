@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 4:9",
+  "book": "ecclesiastes",
+  "lang": "xh",
+  "chapter": 4,
+  "translation": "Balungileyo ababini kunesinye, kuba banomvuzo olungileyo ocinezeleni lwabo.",
+  "tokens": [
+    {
+      "surface": "טובים",
+      "gloss": "Balungileyo"
+    },
+    {
+      "surface": "השנים",
+      "gloss": "ababini"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kunesinye"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "nesinye"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "יש",
+      "gloss": "banomvuzo"
+    },
+    {
+      "surface": "להם",
+      "gloss": "bano-"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "umvuzo"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "olungileyo"
+    },
+    {
+      "surface": "בעמלם",
+      "gloss": "ocinezeleni lwabo"
+    }
+  ],
+  "timestamp": "2026-09-18T16:23:35.087336714Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 80:9",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 80,
+  "translation": "Isidiliya ususile eMitsrayim, ugxothile amazwe, ulihlumile.",
+  "tokens": [
+    {
+      "surface": "גפן",
+      "gloss": "isidiliya"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "eMitsrayim"
+    },
+    {
+      "surface": "תסיע",
+      "gloss": "ususile"
+    },
+    {
+      "surface": "תגרש",
+      "gloss": "ugxothile"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "amazwe"
+    },
+    {
+      "surface": "ותטעה",
+      "gloss": "ulihlumile"
+    }
+  ],
+  "timestamp": "2026-09-18T15:04:36.891427143Z",
+  "model": "glm-5.3"
+}

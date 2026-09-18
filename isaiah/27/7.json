@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 27:7",
+  "book": "isaiah",
+  "lang": "xh",
+  "chapter": 27,
+  "translation": "Ngaba wamlima njengokulima kwabamlimelayo? Okanye wabulala njengokubulala kwababulalwa ngaye?",
+  "tokens": [
+    {
+      "surface": "הכמכת",
+      "gloss": "njengokulima kwa"
+    },
+    {
+      "surface": "מכהו",
+      "gloss": "abamlimelayo"
+    },
+    {
+      "surface": "הכהו",
+      "gloss": "wamlima"
+    },
+    {
+      "surface": "אם",
+      "gloss": "okanye"
+    },
+    {
+      "surface": "כהרג",
+      "gloss": "njengokubulala kwa"
+    },
+    {
+      "surface": "הרגיו",
+      "gloss": "ababulalwa ngaye"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "wabulala"
+    }
+  ],
+  "timestamp": "2026-09-18T11:18:29.682619754Z",
+  "model": "glm-5.3"
+}

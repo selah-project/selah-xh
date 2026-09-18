@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 82:8",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 82,
+  "translation": "Sukuma, uElohim, wgweba lo mhlaba, kuba wena uza kulifa onke amazwe.",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "sukuma"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "שפטה",
+      "gloss": "wgweba"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lo mhlaba"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "תנחל",
+      "gloss": "uza kulifa"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "onke"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "amazwe"
+    }
+  ],
+  "timestamp": "2026-09-18T15:04:15.373502894Z",
+  "model": "glm-5.3"
+}

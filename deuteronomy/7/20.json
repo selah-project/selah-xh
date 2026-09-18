@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 7:20",
+  "book": "deuteronomy",
+  "lang": "xh",
+  "chapter": 7,
+  "translation": "Kananjalo uYahwe uElohim wakho uza kuthumela ⟨את⟩ iintshongolozane phakathi kwabo, de kube batshona abasaleleyo nabalaleleyo kude nawe.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "kananjalo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iintshongolozane"
+    },
+    {
+      "surface": "הצרעה",
+      "gloss": "iintshongolozane"
+    },
+    {
+      "surface": "ישלח",
+      "gloss": "uza kuthumela"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "uElohim wakho"
+    },
+    {
+      "surface": "בם",
+      "gloss": "phakathi kwabo"
+    },
+    {
+      "surface": "עד",
+      "gloss": "de"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "kube batshona"
+    },
+    {
+      "surface": "הנשארים",
+      "gloss": "abasaleleyo"
+    },
+    {
+      "surface": "והנסתרים",
+      "gloss": "nabalaleleyo kude nawe"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "phambi kwakho"
+    }
+  ],
+  "timestamp": "2026-09-18T08:01:31.606551830Z",
+  "model": "glm-5.3"
+}

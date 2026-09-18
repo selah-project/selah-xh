@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 99:6",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 99,
+  "translation": "UMoshe no-Aharon babengabalinduli bakhe, uShemueli nababizelayo ngeliGama lakhe; babizela kuYahwe, yena wabaphendula.",
+  "tokens": [
+    {
+      "surface": "משה",
+      "gloss": "uMoshe"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "no-Aharon"
+    },
+    {
+      "surface": "בכהניו",
+      "gloss": "babengabalinduli bakhe"
+    },
+    {
+      "surface": "ושמואל",
+      "gloss": "uShemueli"
+    },
+    {
+      "surface": "בקראי",
+      "gloss": "nababizelayo"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ngeliGama lakhe"
+    },
+    {
+      "surface": "קראים",
+      "gloss": "babizela"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kuYahwe"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "yena"
+    },
+    {
+      "surface": "יענם",
+      "gloss": "wabaphendula"
+    }
+  ],
+  "timestamp": "2026-09-18T15:14:07.684114432Z",
+  "model": "glm-5.3"
+}

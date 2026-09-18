@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 49:12",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 49,
+  "translation": "Intliziyo yabo ithi: iindlu zabo zihlala ngonaphakade, izikhululo zabo kwiinxalaba neenxalaba; babizisa amagama abo phezu koomhlaba.",
+  "tokens": [
+    {
+      "surface": "קרבם",
+      "gloss": "intliziyo yabo"
+    },
+    {
+      "surface": "בתימו",
+      "gloss": "iindlu zabo"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ngonaphakade"
+    },
+    {
+      "surface": "משכנתם",
+      "gloss": "izikhululo zabo"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "kwiinxalaba"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "neenxalaba"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "babizisa"
+    },
+    {
+      "surface": "בשמותם",
+      "gloss": "amagama abo"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "phezu koo-"
+    },
+    {
+      "surface": "אדמות",
+      "gloss": "mhlaba"
+    }
+  ],
+  "timestamp": "2026-09-18T14:47:02.715886149Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 8:6",
+  "book": "deuteronomy",
+  "lang": "xh",
+  "chapter": 8,
+  "translation": "Uze ugcinile ⟨את⟩ imiyalelo kaYahwe uElohim wakho, ukuze uhamba ezindleleni zakhe, umoyike ⟨את⟩ yena.",
+  "tokens": [
+    {
+      "surface": "ושמרת",
+      "gloss": "uze ugcinile"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "imiyalelo"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "imiyalelo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kaYahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "uElohim wakho"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "ukuze uhamba"
+    },
+    {
+      "surface": "בדרכיו",
+      "gloss": "ezindleleni zakhe"
+    },
+    {
+      "surface": "וליראה",
+      "gloss": "umoyike"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ yena"
+    }
+  ],
+  "timestamp": "2026-09-18T17:25:20.857258Z",
+  "model": "glm-5.3"
+}

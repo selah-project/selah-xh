@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 10:8",
+  "book": "1-kings",
+  "lang": "xh",
+  "chapter": 10,
+  "translation": "Awonwabantu abantu bakho, awonwabantu ezi nkonzi zakhe — ezi zimi phambi kwakho <ku>zesinye ixesha, ezilumamela <ku>ubulumko bakho.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Awonwabantu"
+    },
+    {
+      "surface": "אנשיך",
+      "gloss": "abantu bakho"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "awonwabantu"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "nkonzi zakho"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ezi"
+    },
+    {
+      "surface": "העמדים",
+      "gloss": "ezimi"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "phambi kwakho"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "<ku>zesinye ixesha"
+    },
+    {
+      "surface": "השמעים",
+      "gloss": "ezilumamela"
+    },
+    {
+      "surface": "את",
+      "gloss": "<את>",
+      "marks": "ubulumko bakho"
+    },
+    {
+      "surface": "חכמתך",
+      "gloss": "ubulumko bakho"
+    }
+  ],
+  "timestamp": "2026-09-18T10:20:25.184263968Z",
+  "model": "glm-5.3"
+}

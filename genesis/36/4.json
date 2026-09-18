@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 36:4",
+  "book": "genesis",
+  "lang": "xh",
+  "chapter": 36,
+  "translation": "U-Ada wamzala uEsawu ⟨את⟩ u-Elifazi; uBhasemathi wazala ⟨את⟩ uRewueli.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "wamzala"
+    },
+    {
+      "surface": "עדה",
+      "gloss": "U-Ada"
+    },
+    {
+      "surface": "לעשו",
+      "gloss": "uEsawu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "u-Elifazi"
+    },
+    {
+      "surface": "אליפז",
+      "gloss": "u-Elifazi"
+    },
+    {
+      "surface": "ובשמת",
+      "gloss": "uBhasemathi"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "wazala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uRewueli"
+    },
+    {
+      "surface": "רעואל",
+      "gloss": "uRewueli"
+    }
+  ],
+  "timestamp": "2026-09-18T05:32:23.383307143Z",
+  "model": "glm-5.3"
+}

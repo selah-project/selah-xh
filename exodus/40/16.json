@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 40:16",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 40,
+  "translation": "Wenza uMoshe njengako konke uYahwe awamylelayo ⟨את⟩ yena; ngokunjalo wenza.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "wenza"
+    },
+    {
+      "surface": "משה",
+      "gloss": "uMoshe"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "njengako konke"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oko"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "awamylelayo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "yena (uMoshe)"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ngokunjalo"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "wenza"
+    }
+  ],
+  "timestamp": "2026-09-18T06:32:18.254290016Z",
+  "model": "glm-5.3"
+}

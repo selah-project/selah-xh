@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 123:4",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 123,
+  "translation": "Kwanda kwezalisiwe umphefumlo wethu ngokuhlekwa kwabahleli, nangokungahlonwa kwezizigqatsa.",
+  "tokens": [
+    {
+      "surface": "רבת",
+      "gloss": "Kwanda"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "kwezalisiwe"
+    },
+    {
+      "surface": "לה",
+      "gloss": "kuye"
+    },
+    {
+      "surface": "נפשנו",
+      "gloss": "umphefumlo wethu"
+    },
+    {
+      "surface": "הלעג",
+      "gloss": "ngokuhlekwa"
+    },
+    {
+      "surface": "השאננים",
+      "gloss": "kwabahleli"
+    },
+    {
+      "surface": "הבוז",
+      "gloss": "nangokungahlonwa"
+    },
+    {
+      "surface": "לגאיונים",
+      "gloss": "kwezizigqatsa"
+    }
+  ],
+  "timestamp": "2026-09-18T15:29:12.814552770Z",
+  "model": "glm-5.3"
+}

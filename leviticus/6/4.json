@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 6:4",
+  "book": "leviticus",
+  "lang": "xh",
+  "chapter": 6,
+  "translation": "Avule izambatho zakhe, agqoke ezinye izambatho, aphose umdanti angaphandle enkampini, kwizithuba esicocekileyo.",
+  "tokens": [
+    {
+      "surface": "ופשט",
+      "gloss": "Avule"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izambatho zakhe"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "izambatho zakhe"
+    },
+    {
+      "surface": "ולבש",
+      "gloss": "agqoke"
+    },
+    {
+      "surface": "בגדים",
+      "gloss": "izambatho"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "ezinye"
+    },
+    {
+      "surface": "והוציא",
+      "gloss": "aphose"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umdanti"
+    },
+    {
+      "surface": "הדשן",
+      "gloss": "umdanti"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "angaphandle"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "enkampini"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwi-"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "izithuba"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "esicocekileyo"
+    }
+  ],
+  "timestamp": "2026-09-18T06:39:20.926382311Z",
+  "model": "glm-5.3"
+}

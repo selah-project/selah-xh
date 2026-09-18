@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 25:6",
+  "book": "deuteronomy",
+  "lang": "xh",
+  "chapter": 25,
+  "translation": "Kuya kubakho lokha umntwana wokuqala owazalayo: uya kuvuselela igama lomnakwabo owafiweyo, ukuze igama lakhe lingacinywa kwiIsrael.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "kuya kubakho"
+    },
+    {
+      "surface": "הבכור",
+      "gloss": "umntwana wokuqala"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "le- (owazalayo)"
+    },
+    {
+      "surface": "תלד",
+      "gloss": "ozalayo"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "uya kuvuselela"
+    },
+    {
+      "surface": "על",
+      "gloss": "nge-"
+    },
+    {
+      "surface": "שם",
+      "gloss": "igama"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "lomnakwabo"
+    },
+    {
+      "surface": "המת",
+      "gloss": "owafiweyo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "lingacinywa"
+    },
+    {
+      "surface": "ימחה",
+      "gloss": "ucinywe"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "igama lakhe"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "kwiIsrael"
+    }
+  ],
+  "timestamp": "2026-09-18T17:25:22.541250023Z",
+  "model": "glm-5.3"
+}

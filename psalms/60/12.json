@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 60:12",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 60,
+  "translation": "Awungananga wena, uElohim, wasala wasishiya? Awungaphumi nangenxa yethu, uElohim, kwimikhosi yethu?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "Awungananga"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "זנחתנו",
+      "gloss": "wasala wasishiya"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kananjalo awungaphumi"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "awungaphumi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "בצבאותינו",
+      "gloss": "kwimikhosi yethu"
+    }
+  ],
+  "timestamp": "2026-09-18T14:52:46.649444953Z",
+  "model": "glm-5.3"
+}

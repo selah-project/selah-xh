@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "deuteronomy 4:45",
+  "book": "deuteronomy",
+  "lang": "xh",
+  "chapter": 4,
+  "translation": "Ezi ngamangqina, imigaqo nemigwebo, awathetha uMoshe kubantwana bakwaYisrayeli ekuphumeni kwabo eMitsrayim.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "ezi"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "ngamangqina"
+    },
+    {
+      "surface": "והחקים",
+      "gloss": "imigaqo"
+    },
+    {
+      "surface": "והמשפטים",
+      "gloss": "nemigwebo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a-"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "awathetha"
+    },
+    {
+      "surface": "משה",
+      "gloss": "uMoshe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abantwana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "bakwaYisrayeli"
+    },
+    {
+      "surface": "בצאתם",
+      "gloss": "ekuphumeni kwabo"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "eMitsrayim"
+    }
+  ],
+  "timestamp": "2026-09-18T07:58:20.769036644Z",
+  "model": "glm-5.3"
+}

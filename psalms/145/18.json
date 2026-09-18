@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 145:18",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 145,
+  "translation": "Useduze uYahwe kubo bonke abambizayo, kubo bonke abambizayo ngokwenyaniso.",
+  "tokens": [
+    {
+      "surface": "קרוב",
+      "gloss": "Useduze"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "kubo bonke"
+    },
+    {
+      "surface": "קראיו",
+      "gloss": "abambizayo"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "kubo bonke"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "abambizayo (ombo)"
+    },
+    {
+      "surface": "יקראהו",
+      "gloss": "abambizayo"
+    },
+    {
+      "surface": "באמת",
+      "gloss": "ngokwenyaniso"
+    }
+  ],
+  "timestamp": "2026-09-18T15:34:37.099128057Z",
+  "model": "glm-5.3"
+}

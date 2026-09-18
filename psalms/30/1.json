@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 30:1",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 30,
+  "translation": "Ipsalume, icandi lokunikezelwa kwendlu, likaDavide.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "ipsalume"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "icandi"
+    },
+    {
+      "surface": "חנכת",
+      "gloss": "lokunikezelwa"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "kwendlu"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "likaDavide"
+    }
+  ],
+  "timestamp": "2026-09-18T14:38:08.349529412Z",
+  "model": "glm-5.3"
+}

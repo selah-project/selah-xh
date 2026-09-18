@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 28:3",
+  "book": "deuteronomy",
+  "lang": "xh",
+  "chapter": 28,
+  "translation": "Usikelelwe wena esixekweni, usikelelwe wena emasimini.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Usikelelwe"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "esixekweni"
+    },
+    {
+      "surface": "וברוך",
+      "gloss": "usikelelwe"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "emasimini"
+    }
+  ],
+  "timestamp": "2026-09-18T08:19:36.929085173Z",
+  "model": "glm-5.3"
+}

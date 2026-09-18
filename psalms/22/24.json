@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 22:24",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 22,
+  "translation": "Nina anoyika uYahwe, mbadumiseni; nina sonke isiduko sikaYakobu, mzukise; nina msabeni yena, sonke isiduko sikaSirayeli.",
+  "tokens": [
+    {
+      "surface": "יראי",
+      "gloss": "Nina anoyika"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "mbadumiseni"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sonke"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "isiduko"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "sikaYakobu"
+    },
+    {
+      "surface": "כבדוהו",
+      "gloss": "mzukise"
+    },
+    {
+      "surface": "וגורו",
+      "gloss": "nina msabeni"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "yena"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sonke"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "isiduko"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "sikaSirayeli"
+    }
+  ],
+  "timestamp": "2026-09-18T14:33:50.946338186Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 2:4",
+  "book": "numbers",
+  "lang": "xh",
+  "chapter": 2,
+  "translation": "Umkhosi wakhe nababalwa bawo: kune namashumi amatpondo anesithathu amawaka, namekhulu amatandathu.",
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "Umkhosi wakhe"
+    },
+    {
+      "surface": "ופקדיהם",
+      "gloss": "nababalwa bawo"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "kune"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "namashumi amatpondo anesithathu"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "amawaka"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "namekhulu"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "amatandathu"
+    }
+  ],
+  "timestamp": "2026-09-18T07:10:22.651341630Z",
+  "model": "glm-5.3"
+}

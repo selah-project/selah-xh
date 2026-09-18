@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 58:1",
+  "book": "isaiah",
+  "lang": "xh",
+  "chapter": 58,
+  "translation": "Biza ngomqolo, ungabinzi; njengesigubu nyusa ilizwi lakho, uxelele abantu bam ukuhlubuka kwabo, nasaphweni lukaYakobi amacala abo.",
+  "tokens": [
+    {
+      "surface": "קרא",
+      "gloss": "Biza"
+    },
+    {
+      "surface": "בגרון",
+      "gloss": "ngomqolo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "unga-"
+    },
+    {
+      "surface": "תחשך",
+      "gloss": "binzi"
+    },
+    {
+      "surface": "כשופר",
+      "gloss": "njengesigubu"
+    },
+    {
+      "surface": "הרם",
+      "gloss": "nyusa"
+    },
+    {
+      "surface": "קולך",
+      "gloss": "ilizwi lakho"
+    },
+    {
+      "surface": "והגד",
+      "gloss": "uxelele"
+    },
+    {
+      "surface": "לעמי",
+      "gloss": "abantu bam"
+    },
+    {
+      "surface": "פשעם",
+      "gloss": "ukuhlubuka kwabo"
+    },
+    {
+      "surface": "ולבית",
+      "gloss": "nasaphweni luka-"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yakobi"
+    },
+    {
+      "surface": "חטאתם",
+      "gloss": "amacala abo"
+    }
+  ],
+  "timestamp": "2026-09-18T11:45:56.465611782Z",
+  "model": "glm-5.3"
+}

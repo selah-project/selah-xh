@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 10:16",
+  "book": "2-kings",
+  "lang": "xh",
+  "chapter": 10,
+  "translation": "Wathi: “Hamba ⟨את⟩ nam, uze ubone umona wam ngoYahwe.” Bamsolisa, bamlwesa ⟨את⟩ ekolweni yakhe.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Wathi"
+    },
+    {
+      "surface": "לכה",
+      "gloss": "Hamba"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ nam"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "uze ubone"
+    },
+    {
+      "surface": "בקנאתי",
+      "gloss": "umona wam"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ngoYahwe"
+    },
+    {
+      "surface": "וירכבו",
+      "gloss": "Bamsolisa, bamlwesa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "yena (u-Yehonadav)"
+    },
+    {
+      "surface": "ברכבו",
+      "gloss": "ekolweni yakhe"
+    }
+  ],
+  "timestamp": "2026-09-18T10:46:43.321353392Z",
+  "model": "glm-5.3"
+}

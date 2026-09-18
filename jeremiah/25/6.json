@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jeremiah 25:6",
+  "book": "jeremiah",
+  "lang": "xh",
+  "chapter": 25,
+  "translation": "Musani ukulandela oothixo abanye ukubakhonza nokubakhonzela; musani ukundivusa isiphesho ⟨את⟩ ngezandla zenu, ndingayenzanga inkohlakalo kuwe.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "Musani"
+    },
+    {
+      "surface": "תלכו",
+      "gloss": "ukulandela"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "(emva kwe)"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "oothixo"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "abanye"
+    },
+    {
+      "surface": "לעבדם",
+      "gloss": "ukubakhonza"
+    },
+    {
+      "surface": "ולהשתחות",
+      "gloss": "nokubakhonzela"
+    },
+    {
+      "surface": "להם",
+      "gloss": ""
+    },
+    {
+      "surface": "ולא",
+      "gloss": "musani"
+    },
+    {
+      "surface": "תכעיסו",
+      "gloss": "ukundivusa isiphesho"
+    },
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩ ndi-",
+      "marks": "ukundivusa (ndivuswa isiphesho)"
+    },
+    {
+      "surface": "במעשה",
+      "gloss": "nge-"
+    },
+    {
+      "surface": "ידיכם",
+      "gloss": "zandla zenu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ndinga-"
+    },
+    {
+      "surface": "ארע",
+      "gloss": "yenzanga inkohlakalo"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kuwe"
+    }
+  ],
+  "timestamp": "2026-09-18T17:38:17.313064601Z",
+  "model": "glm-5.3"
+}

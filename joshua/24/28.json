@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "joshua 24:28",
+  "book": "joshua",
+  "lang": "xh",
+  "chapter": 24,
+  "translation": "Uthi uYehoshuwa wabadlulisa ⟨את⟩ abantu, umntu ngamnye eya kulifa lakhe.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "wabadlulisa"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "uYehoshuwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abantu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "איש",
+      "gloss": "umntu ngamnye"
+    },
+    {
+      "surface": "לנחלתו",
+      "gloss": "kulifa lakhe"
+    }
+  ],
+  "timestamp": "2026-09-18T17:27:23.063130409Z",
+  "model": "glm-5.3"
+}

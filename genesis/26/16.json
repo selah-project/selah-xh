@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 26:16",
+  "book": "genesis",
+  "lang": "xh",
+  "chapter": 26,
+  "translation": "Wathi uAvimeleki kuYitshaki: “Hamba usuke kuthi, kuba wenze ngamandla ngakumbi kuthi kakhulu.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "uAvimeleki"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitshaki"
+    },
+    {
+      "surface": "לך",
+      "gloss": "hamba"
+    },
+    {
+      "surface": "מעמנו",
+      "gloss": "usuke kuthi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "עצמת",
+      "gloss": "wenze ngamandla"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ngakumbi kuthi"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "kakhulu"
+    }
+  ],
+  "timestamp": "2026-09-18T05:23:32.247363815Z",
+  "model": "glm-5.3"
+}

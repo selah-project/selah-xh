@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 135:8",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 135,
+  "translation": "Owasibetha abazalwa bokuqala baseMitsrayim, ukusuka kumntu ukuya kwiinkomo.",
+  "tokens": [
+    {
+      "surface": "שהכה",
+      "gloss": "Owasibetha"
+    },
+    {
+      "surface": "בכורי",
+      "gloss": "abazalwa bokuqala"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "baseMitsrayim"
+    },
+    {
+      "surface": "מאדם",
+      "gloss": "ukusuka kumntu"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ukuya"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "kwiinkomo"
+    }
+  ],
+  "timestamp": "2026-09-18T15:29:15.695776364Z",
+  "model": "glm-5.3"
+}

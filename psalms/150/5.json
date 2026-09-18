@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 150:5",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 150,
+  "translation": "Mdumisani uYah ngeenkhombe ezinomsindo ophakamileyo; mdumisani uYah ngeenkhombe zesikhwele.",
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "mdumisani"
+    },
+    {
+      "surface": "בצלצלי",
+      "gloss": "ngeenkhombe"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ezinomsindo ophakamileyo"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "mdumisani"
+    },
+    {
+      "surface": "בצלצלי",
+      "gloss": "ngeenkhombe"
+    },
+    {
+      "surface": "תרועה",
+      "gloss": "zesikhwele"
+    }
+  ],
+  "timestamp": "2026-09-18T15:33:09.029798482Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 78:42",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 78,
+  "translation": "Abakhumbulanga ⟨את⟩ isandla sakhe, umhla abakhululwa ngawo kumchasi.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "akukho"
+    },
+    {
+      "surface": "זכרו",
+      "gloss": "abakhumbulanga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isandla sakhe"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "isandla sakhe"
+    },
+    {
+      "surface": "יום",
+      "gloss": "umhla"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "acha"
+    },
+    {
+      "surface": "פדם",
+      "gloss": "abakhululwa"
+    },
+    {
+      "surface": "מני",
+      "gloss": "ku"
+    },
+    {
+      "surface": "צר",
+      "gloss": "kumchasi"
+    }
+  ],
+  "timestamp": "2026-09-18T15:02:59.868553393Z",
+  "model": "glm-5.3"
+}

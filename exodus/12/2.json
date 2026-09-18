@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 12:2",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 12,
+  "translation": "Inyanga le iba yintloko yeenyanga kuwe nina; yeyokuqala kuwe nina kweenyanga zomnyaka.",
+  "tokens": [
+    {
+      "surface": "החדש",
+      "gloss": "inyanga"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "le"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kuwe nina"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "yintloko"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "yeenyanga"
+    },
+    {
+      "surface": "ראשון",
+      "gloss": "yeyokuqala"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yona"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kuwe nina"
+    },
+    {
+      "surface": "לחדשי",
+      "gloss": "kweenyanga"
+    },
+    {
+      "surface": "השנה",
+      "gloss": "zomnyaka"
+    }
+  ],
+  "timestamp": "2026-09-18T05:58:21.330266011Z",
+  "model": "glm-5.3"
+}

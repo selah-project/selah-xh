@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 26:4",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 26,
+  "translation": "Andihlelanga nabantu bokuxoka, kwaye nabafihli andizukungena.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "hayi"
+    },
+    {
+      "surface": "ישבתי",
+      "gloss": "andihlelanga"
+    },
+    {
+      "surface": "עם",
+      "gloss": "na"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "bokuxoka"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "kwaye na"
+    },
+    {
+      "surface": "נעלמים",
+      "gloss": "abafihli"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hayi"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "andizukungena"
+    }
+  ],
+  "timestamp": "2026-09-18T14:38:43.065038963Z",
+  "model": "glm-5.3"
+}

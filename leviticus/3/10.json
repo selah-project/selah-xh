@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 3:10",
+  "book": "leviticus",
+  "lang": "xh",
+  "chapter": 3,
+  "translation": "Nazo zombini iintsoho zethu ezibini, namafutha akho asemazantsi kwazo, asehlathini, ⟨את⟩ nese se sibuthathaka lasentlalweni, iintsoho zethu — uza kuthatha wonke.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ nazo"
+    },
+    {
+      "surface": "שְׁתֵּ֣י",
+      "gloss": "zombini"
+    },
+    {
+      "surface": "הַכְּלָיֹ֔ת",
+      "gloss": "iintsoho zethu ezibini"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ nama"
+    },
+    {
+      "surface": "הַחֵ֨לֶב֙",
+      "gloss": "amafutha"
+    },
+    {
+      "surface": "אֲשֶׁ֣ר",
+      "gloss": "akho"
+    },
+    {
+      "surface": "עֲלֵהֶ֔ן",
+      "gloss": "asemazantsi kwazo"
+    },
+    {
+      "surface": "אֲשֶׁ֖ר",
+      "gloss": "asehlathini"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "kwezi"
+    },
+    {
+      "surface": "הַכְּסָלִ֑ים",
+      "gloss": "iindonga zethu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ nese"
+    },
+    {
+      "surface": "הַיֹּתֶ֨רֶת֙",
+      "gloss": "se sibuthathaka lasentlalweni"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "phezu"
+    },
+    {
+      "surface": "הַכָּבֵ֔ד",
+      "gloss": "kwesisu"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "phezu"
+    },
+    {
+      "surface": "הַכְּלָיֹ֖ת",
+      "gloss": "kwezintsoho"
+    },
+    {
+      "surface": "יְסִירֶֽנָּה",
+      "gloss": "uza kuthatha wonke"
+    }
+  ],
+  "timestamp": "2026-09-18T06:32:39.210382086Z",
+  "model": "glm-5.3"
+}

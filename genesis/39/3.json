@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 39:3",
+  "book": "genesis",
+  "lang": "xh",
+  "chapter": 39,
+  "translation": "Inkosi yakhe yabona ukuba uYahwe waba ⟨את⟩ naye, nokuba konke awayenkwenza uYahwe wayekuphumelelisa esandleni sakhe.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "yabona"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "Inkosi yakhe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ukuba"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ naye",
+      "marks": "yena (uYosef)"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "nokuba konke"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oko"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "aye"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "enkwenza"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "מצליח",
+      "gloss": "kuphumelelisa"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "esandleni sakhe"
+    }
+  ],
+  "timestamp": "2026-09-18T05:38:34.720070178Z",
+  "model": "glm-5.3"
+}

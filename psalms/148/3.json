@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 148:3",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 148,
+  "translation": "Dumani kuye, ilanga nenyanga; dumani kuye, onke inkwenkwezi zokukhanya.",
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "Dumani kuye"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "ilanga"
+    },
+    {
+      "surface": "וירח",
+      "gloss": "ninyanga"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "dumani kuye"
+    },
+    {
+      "surface": "כל",
+      "gloss": "onke"
+    },
+    {
+      "surface": "כוכבי",
+      "gloss": "inkwenkwezi zo-"
+    },
+    {
+      "surface": "אור",
+      "gloss": "khanya"
+    }
+  ],
+  "timestamp": "2026-09-18T15:34:18.340186730Z",
+  "model": "glm-5.3"
+}

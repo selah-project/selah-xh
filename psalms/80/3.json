@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 80:3",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 80,
+  "translation": "Phambi ko-Efrayim noBhenyamin noMenashe vusa ⟨את⟩ amandla akho, uze usindise othi.",
+  "tokens": [
+    {
+      "surface": "לפני",
+      "gloss": "phambi kwa-"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "u-Efrayim"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "noBhenyamin"
+    },
+    {
+      "surface": "ומנשה",
+      "gloss": "noMenashe"
+    },
+    {
+      "surface": "עוררה",
+      "gloss": "vusa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amandla akho"
+    },
+    {
+      "surface": "גבורתך",
+      "gloss": "amandla akho"
+    },
+    {
+      "surface": "ולכה",
+      "gloss": "uze"
+    },
+    {
+      "surface": "לישעתה",
+      "gloss": "usindise"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "othi"
+    }
+  ],
+  "timestamp": "2026-09-18T17:44:35.939881605Z",
+  "model": "glm-5.3"
+}

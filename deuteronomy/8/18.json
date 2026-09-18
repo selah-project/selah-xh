@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 8:18",
+  "book": "deuteronomy",
+  "lang": "xh",
+  "chapter": 8,
+  "translation": "Kodwa khumbula uYahwe uElohim wakho, kuba nguYe onikela amandla okwenza ubutyebi, ukuze aseke umnqophiso wakhe awafungelayo ooYise bakho, njengakule mini.",
+  "tokens": [
+    {
+      "surface": "וזכרת",
+      "gloss": "kodwa khumbula"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uYahwe uElohim wakho"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "uElohim wakho"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "nguYe"
+    },
+    {
+      "surface": "הנתן",
+      "gloss": "onikela"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kuwe"
+    },
+    {
+      "surface": "כח",
+      "gloss": "amandla"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "okwenza"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "ubutyebi"
+    },
+    {
+      "surface": "למען",
+      "gloss": "ukuze"
+    },
+    {
+      "surface": "הקים",
+      "gloss": "aseke"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umnqophiso wakhe"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "umnqophiso wakhe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "owo"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "awafungelayo"
+    },
+    {
+      "surface": "לאבתיך",
+      "gloss": "ooYise bakho"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "njengakule mini"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "le"
+    }
+  ],
+  "timestamp": "2026-09-18T08:03:35.723828028Z",
+  "model": "glm-5.3"
+}

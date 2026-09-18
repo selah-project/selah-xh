@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 1:12",
+  "book": "1-chronicles",
+  "lang": "xh",
+  "chapter": 1,
+  "translation": "kunye ⟨את⟩ namaPathrusi, kunye ⟨את⟩ namaKaslukhi, apho amaFilisti aphuma khona, kunye ⟨את⟩ namaKafthori.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "kunye ⟨את⟩"
+    },
+    {
+      "surface": "פתרסים",
+      "gloss": "namaPathrusi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kunye ⟨את⟩"
+    },
+    {
+      "surface": "כסלחים",
+      "gloss": "namaKaslukhi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "apho"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "aphuma"
+    },
+    {
+      "surface": "משם",
+      "gloss": "khona"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "amaFilisti"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kunye ⟨את⟩"
+    },
+    {
+      "surface": "כפתרים",
+      "gloss": "namaKafthori"
+    }
+  ],
+  "timestamp": "2026-09-18T16:50:38.167908209Z",
+  "model": "glm-5.3"
+}

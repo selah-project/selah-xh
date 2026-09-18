@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 90:6",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 90,
+  "translation": "Ekuseni lutyabile ludlulile; ngokuhlwa luncityiwe lomile.",
+  "tokens": [
+    {
+      "surface": "בבקר",
+      "gloss": "ekuseni"
+    },
+    {
+      "surface": "יציץ",
+      "gloss": "lutyabile"
+    },
+    {
+      "surface": "וחלף",
+      "gloss": "ludlulile"
+    },
+    {
+      "surface": "לערב",
+      "gloss": "ngokuhlwa"
+    },
+    {
+      "surface": "ימולל",
+      "gloss": "luncityiwe"
+    },
+    {
+      "surface": "ויבש",
+      "gloss": "lomile"
+    }
+  ],
+  "timestamp": "2026-09-18T15:11:29.929687349Z",
+  "model": "glm-5.3"
+}

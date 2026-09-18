@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 9:16",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 9,
+  "translation": "Kodwa ngenxa yaloo nto ndikumisile wena, ukuze ndikubonise ⟨את⟩ amandla am, nakuze libalwe igama lam emhlabeni wonke.",
+  "tokens": [
+    {
+      "surface": "ואולם",
+      "gloss": "Kodwa"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "ngenxa"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "yaloo nto"
+    },
+    {
+      "surface": "העמדתיך",
+      "gloss": "ndikumisile wena"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "ukuze"
+    },
+    {
+      "surface": "הראתך",
+      "gloss": "ndikubonise"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amandla am"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "amandla am"
+    },
+    {
+      "surface": "ולמען",
+      "gloss": "nakuze"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "libalwe"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "igama lam"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "wonke"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "emhlabeni"
+    }
+  ],
+  "timestamp": "2026-09-18T05:55:49.634419779Z",
+  "model": "glm-5.3"
+}

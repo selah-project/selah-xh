@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 51:8",
+  "book": "isaiah",
+  "lang": "xh",
+  "chapter": 51,
+  "translation": "Kuba isibungu siya kubatya njengengubo, unonkala uya kubatya njengoboya; ilungelo lam liya kuhlala ngonaphakade, isindiso sam siya kungaphela kwizizukulwana nangezizukulwana.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kuba"
+    },
+    {
+      "surface": "כבגד",
+      "gloss": "njengengubo"
+    },
+    {
+      "surface": "יאכלם",
+      "gloss": "siya kubatya"
+    },
+    {
+      "surface": "עש",
+      "gloss": "isibungu"
+    },
+    {
+      "surface": "וכצמר",
+      "gloss": "njengoboya"
+    },
+    {
+      "surface": "יאכלם",
+      "gloss": "uya kubatya"
+    },
+    {
+      "surface": "סס",
+      "gloss": "unonkala"
+    },
+    {
+      "surface": "וצדקתי",
+      "gloss": "ilungelo lam"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ngonaphakade"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "liya kuhlala"
+    },
+    {
+      "surface": "וישועתי",
+      "gloss": "isindiso sam"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "kwizizukulwana"
+    },
+    {
+      "surface": "דורים",
+      "gloss": "nangezizukulwana"
+    }
+  ],
+  "timestamp": "2026-09-18T11:40:38.275685057Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 59,
+  "ref": "genesis 24:59",
+  "book": "genesis",
+  "lang": "xh",
+  "chapter": 24,
+  "translation": "Bamthumela uRivka udadewabo, kunye nonosi wakhe, kunye nencekwanakazi lika-Avraham nabantu bakhe.",
+  "tokens": [
+    {
+      "surface": "וישלחו",
+      "gloss": "Bamthumela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uRivka"
+    },
+    {
+      "surface": "רבקה",
+      "gloss": "uRivka"
+    },
+    {
+      "surface": "אחתם",
+      "gloss": "udadewabo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kunye ⟨את⟩",
+      "marks": "unosi wakhe"
+    },
+    {
+      "surface": "מנקתה",
+      "gloss": "unosi wakhe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kunye ⟨את⟩",
+      "marks": "incekwanakazi lika-Avraham"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "incekwanakazi"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "lika-Avraham"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kunye ⟨את⟩",
+      "marks": "abantu bakhe"
+    },
+    {
+      "surface": "אנשיו",
+      "gloss": "abantu bakhe"
+    }
+  ],
+  "timestamp": "2026-09-18T05:21:06.608763387Z",
+  "model": "glm-5.3"
+}

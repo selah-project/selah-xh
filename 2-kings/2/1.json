@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 2:1",
+  "book": "2-kings",
+  "lang": "xh",
+  "chapter": 2,
+  "translation": "Kwathi, ekunyusweni koYahwe ⟨את⟩ u-Eliyahu ngentholo yamazulu, u-Eliyahu no-Elishea bahamba besuka eGilgali.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Kwathi"
+    },
+    {
+      "surface": "בהעלות",
+      "gloss": "ekunyusweni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "u-Eliyahu"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "u-Eliyahu"
+    },
+    {
+      "surface": "בסערה",
+      "gloss": "ngentholo"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "amazulu"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "wahamba"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "u-Eliyahu"
+    },
+    {
+      "surface": "ואלישע",
+      "gloss": "no-Elishea"
+    },
+    {
+      "surface": "מן",
+      "gloss": "besuka"
+    },
+    {
+      "surface": "הגלגל",
+      "gloss": "eGilgali"
+    }
+  ],
+  "timestamp": "2026-09-18T10:38:53.822756584Z",
+  "model": "glm-5.3"
+}

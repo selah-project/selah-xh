@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 17:6",
+  "book": "proverbs",
+  "lang": "xh",
+  "chapter": 17,
+  "translation": "Abantwana babantwana ngabantwana babantwana bayisigcoko samaqheku, nooyise bobo bayisibeko sabantwana babo.",
+  "tokens": [
+    {
+      "surface": "עטרת",
+      "gloss": "isigcoko"
+    },
+    {
+      "surface": "זקנים",
+      "gloss": "samaqheku"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abantwana baba"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "ntwana babo"
+    },
+    {
+      "surface": "ותפארת",
+      "gloss": "bayisibeko"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "abantwana"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "nooyise bobo"
+    }
+  ],
+  "timestamp": "2026-09-18T15:50:08.848055547Z",
+  "model": "glm-5.3"
+}

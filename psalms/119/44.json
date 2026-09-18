@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "psalms 119:44",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 119,
+  "translation": "Ndiza kugcina iTora yakho ngokungapheliyo, kuixesha elingunaphakade nangunaphakade.",
+  "tokens": [
+    {
+      "surface": "ואשמרה",
+      "gloss": "ndiza kugcina"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "iTora yakho"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "ngokungapheliyo"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "kuixesha elingunaphakade"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "nangunaphakade"
+    }
+  ],
+  "timestamp": "2026-09-18T15:22:52.810359535Z",
+  "model": "glm-5.3"
+}

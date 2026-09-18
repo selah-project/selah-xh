@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 24:10",
+  "book": "joshua",
+  "lang": "xh",
+  "chapter": 24,
+  "translation": "Kodwa mna andazanga ukuvuma ukumamela uBilami; waze wabusisa ngesibisiso, wabusisa nina; ndakunikulula ngesandla sakhe.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "kodwa andazanga"
+    },
+    {
+      "surface": "אביתי",
+      "gloss": "ukuvuma"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "ukumamela"
+    },
+    {
+      "surface": "לבלעם",
+      "gloss": "uBilami"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "wabusisa ngesibisiso"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "ngesibisiso"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "nina"
+    },
+    {
+      "surface": "ואצל",
+      "gloss": "ndakunikulula"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "nina"
+    },
+    {
+      "surface": "מידו",
+      "gloss": "ngesandla sakhe"
+    }
+  ],
+  "timestamp": "2026-09-18T08:47:02.473204716Z",
+  "model": "glm-5.3"
+}

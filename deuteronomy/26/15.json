@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 26:15",
+  "book": "deuteronomy",
+  "lang": "xh",
+  "chapter": 26,
+  "translation": "Jonga phantsi aphasela kwindawo yakho engcwele, evela ezulwini, uze unike umsitho ⟨את⟩ abantu bakho ⟨את⟩ iYisrayeli ⟨את⟩ nomhlaba onawo sinike wona, njengoko uthegisela ooyihlo bethu — umhlaba othelekayo ubisi nobusi.",
+  "tokens": [
+    {
+      "surface": "השקיפה",
+      "gloss": "jongа phantsi"
+    },
+    {
+      "surface": "ממעון",
+      "gloss": "aphasela kwindawo"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "engcwele yakho"
+    },
+    {
+      "surface": "מן",
+      "gloss": "evela"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ezulwini"
+    },
+    {
+      "surface": "וברך",
+      "gloss": "uze unike umsitho"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abantu bakho"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "abantu bakho"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iYisrayeli"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "iYisrayeli"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "umhlaba"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "umhlaba"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "onawo"
+    },
+    {
+      "surface": "נתתה",
+      "gloss": "usinike"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "thi"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "njengoko"
+    },
+    {
+      "surface": "נשבעת",
+      "gloss": "uthegisela"
+    },
+    {
+      "surface": "לאבתינו",
+      "gloss": "ooyihlo bethu"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "umhlaba"
+    },
+    {
+      "surface": "זבת",
+      "gloss": "othelekayo"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "ubisi"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "nobusi"
+    }
+  ],
+  "timestamp": "2026-09-18T08:18:40.241600832Z",
+  "model": "glm-5.3"
+}

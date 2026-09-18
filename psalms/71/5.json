@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 71:5",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 71,
+  "translation": "Kuba wena unguthemba lwam, u-Adonayi uYahwe, ungukhuseleko lwam ukusukela ebuntwaneni bam.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "תקותי",
+      "gloss": "unguthemba lwam"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "u-Adonayi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "מבטחי",
+      "gloss": "ungukhuseleko lwam"
+    },
+    {
+      "surface": "מנעורי",
+      "gloss": "ukusukela ebuntwaneni bam"
+    }
+  ],
+  "timestamp": "2026-09-18T14:55:58.607470749Z",
+  "model": "glm-5.3"
+}

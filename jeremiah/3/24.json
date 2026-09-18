@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "jeremiah 3:24",
+  "book": "jeremiah",
+  "lang": "xh",
+  "chapter": 3,
+  "translation": "Kwaye isdime sidla ⟨את⟩ umsebenzi woobawo bethu ukusuka ebuntwaneni bethu; ⟨את⟩ iimvu zabo ⟨ואת⟩ neenkomo zabo, ⟨את⟩ oonyana babo ⟨ואת⟩ neentombi zabo.",
+  "tokens": [
+    {
+      "surface": "והבשת",
+      "gloss": "kwaye isdime"
+    },
+    {
+      "surface": "אכלה",
+      "gloss": "sidla"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umsebenzi woobawo bethu"
+    },
+    {
+      "surface": "יגיע",
+      "gloss": "umsebenzi"
+    },
+    {
+      "surface": "אבותינו",
+      "gloss": "woobawo bethu"
+    },
+    {
+      "surface": "מנעורינו",
+      "gloss": "ukusuka ebuntwaneni bethu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iimvu zabo"
+    },
+    {
+      "surface": "צאנם",
+      "gloss": "iimvu zabo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨ואת⟩",
+      "marks": "neenkomo zabo"
+    },
+    {
+      "surface": "בקרם",
+      "gloss": "neenkomo zabo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oonyana babo"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "oonyana babo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨ואת⟩",
+      "marks": "neentombi zabo"
+    },
+    {
+      "surface": "בנותיהם",
+      "gloss": "neentombi zabo"
+    }
+  ],
+  "timestamp": "2026-09-18T11:53:58.850048250Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 40:8",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 40,
+  "translation": "Uza kumisela ⟨את⟩ isibaya jikelele, uze ubeka ⟨את⟩ ikhathini yesango lesibaya.",
+  "tokens": [
+    {
+      "surface": "ושמת",
+      "gloss": "uza kumisela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isibaya"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "isibaya"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "jikelele"
+    },
+    {
+      "surface": "ונתת",
+      "gloss": "uze ubeka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ikhathini yesango lesibaya"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "ikhathini"
+    },
+    {
+      "surface": "שער",
+      "gloss": "yesango"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "lesibaya"
+    }
+  ],
+  "timestamp": "2026-09-18T06:31:35.284235383Z",
+  "model": "glm-5.3"
+}

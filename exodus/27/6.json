@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 27:6",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 27,
+  "translation": "kwaye uza kukwenza izinti ze-altari, izinti zomthi we-shitim, kwaye uzuzigquma ⟨את⟩ ngesibhedu.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "uza kukwenza"
+    },
+    {
+      "surface": "בדים",
+      "gloss": "izinti"
+    },
+    {
+      "surface": "למזבח",
+      "gloss": "ze-altari"
+    },
+    {
+      "surface": "בדי",
+      "gloss": "izinti"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "zomthi"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "we-shitim"
+    },
+    {
+      "surface": "וצפית",
+      "gloss": "uzuzigquma"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "zona (izinti)"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "ngesibhedu"
+    }
+  ],
+  "timestamp": "2026-09-18T06:14:35.966006096Z",
+  "model": "glm-5.3"
+}

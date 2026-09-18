@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 11:5",
+  "book": "numbers",
+  "lang": "xh",
+  "chapter": 11,
+  "translation": "Siyakhumbula ⟨את⟩ intlanzi esayitya eMitsrayim mahala; ⟨את⟩ iikukhamba, ⟨את⟩ iimeloni, ⟨את⟩ iilekhi, ⟨את⟩ i-anyanisi, ⟨את⟩ nekhalikile.",
+  "tokens": [
+    {
+      "surface": "זכרנו",
+      "gloss": "Siyakhumbula"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "intlanzi"
+    },
+    {
+      "surface": "הדגה",
+      "gloss": "intlanzi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "esa"
+    },
+    {
+      "surface": "נאכל",
+      "gloss": "yitya"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "eMitsrayim"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "mahala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iikukhamba"
+    },
+    {
+      "surface": "הקשאים",
+      "gloss": "iikukhamba"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "iimeloni"
+    },
+    {
+      "surface": "האבטחים",
+      "gloss": "iimeloni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "iilekhi"
+    },
+    {
+      "surface": "החציר",
+      "gloss": "iilekhi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "i-anyanisi"
+    },
+    {
+      "surface": "הבצלים",
+      "gloss": "i-anyanisi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ikalikile"
+    },
+    {
+      "surface": "השומים",
+      "gloss": "ikalikile"
+    }
+  ],
+  "timestamp": "2026-09-18T07:24:03.714852485Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 43:26",
+  "book": "genesis",
+  "lang": "xh",
+  "chapter": 43,
+  "translation": "UYosef wangena endlwini, bamzisela ⟨את⟩ isipho esesesandleni sabo endlwini, bawa phantsi baqubuda kuye emhlabeni.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "wangena"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "uYosef"
+    },
+    {
+      "surface": "הביתה",
+      "gloss": "endlwini"
+    },
+    {
+      "surface": "ויביאו",
+      "gloss": "bamzisela"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kuye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isipho"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "isipho"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ese-"
+    },
+    {
+      "surface": "בידם",
+      "gloss": "sesandleni sabo"
+    },
+    {
+      "surface": "הביתה",
+      "gloss": "endlwini"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "bawa phantsi baqubuda"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kuye"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "emhlabeni"
+    }
+  ],
+  "timestamp": "2026-09-18T05:40:57.887055986Z",
+  "model": "glm-5.3"
+}

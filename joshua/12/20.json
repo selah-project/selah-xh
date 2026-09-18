@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "joshua 12:20",
+  "book": "joshua",
+  "lang": "xh",
+  "chapter": 12,
+  "translation": "Inkosi yaseShimroni-Meroni, enye; inkosi yaseAkhshafi, enye;",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "inkosi"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "yeShimroni-"
+    },
+    {
+      "surface": "מראון",
+      "gloss": "-Meroni"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "enye"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "inkosi"
+    },
+    {
+      "surface": "אכשף",
+      "gloss": "yeAkhshafi"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "enye"
+    }
+  ],
+  "timestamp": "2026-09-18T08:35:55.215216916Z",
+  "model": "glm-5.3"
+}

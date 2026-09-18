@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 5:10",
+  "book": "deuteronomy",
+  "lang": "xh",
+  "chapter": 5,
+  "translation": "Aze enze ikhesedi kumawaka, kubo abamthandayo nabo bagcinelayo imiyalelo yakhe.",
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "enze"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "ikhesedi"
+    },
+    {
+      "surface": "לאלפים",
+      "gloss": "kumawaka"
+    },
+    {
+      "surface": "לאהבי",
+      "gloss": "kubo abamthandayo"
+    },
+    {
+      "surface": "ולשמרי",
+      "gloss": "nabo bagcinelayo"
+    },
+    {
+      "surface": "מצותו",
+      "gloss": "imiyalelo yakhe"
+    }
+  ],
+  "timestamp": "2026-09-18T07:57:26.716524715Z",
+  "model": "glm-5.3"
+}

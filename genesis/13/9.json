@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 13:9",
+  "book": "genesis",
+  "lang": "xh",
+  "chapter": 13,
+  "translation": "Ingaba wonke ⟨the⟩ umhlaba awungaphambili kwakho? Zihlukanise, ndicela, undeke kum; ukuba ngasekhohlo, mna ndiza kungasekunene; ukuba ngasekunene, mna ndiza kungasekhohlo.”",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "Ingaba"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wonke"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "umhlaba"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "phambili kwakho"
+    },
+    {
+      "surface": "הפרד",
+      "gloss": "zihlukanise"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ndicela"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "undeke kum"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ukuba"
+    },
+    {
+      "surface": "השמאל",
+      "gloss": "ngasekhohlo"
+    },
+    {
+      "surface": "ואימנה",
+      "gloss": "mna ndiza kungasekunene"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "ukuba (kananjalo)"
+    },
+    {
+      "surface": "הימין",
+      "gloss": "ngasekunene"
+    },
+    {
+      "surface": "ואשמאילה",
+      "gloss": "mna ndiza kungasekhohlo"
+    }
+  ],
+  "timestamp": "2026-09-18T05:13:06.851682512Z",
+  "model": "glm-5.3"
+}

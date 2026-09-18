@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-kings 8:21",
+  "book": "1-kings",
+  "lang": "xh",
+  "chapter": 8,
+  "translation": "Ndaza ndabeka apho indawo ye-aroni, apho kukho umnqophiso kaYahwe, owacula nooyihlo lwethu xa wayemkhupha ⟨את⟩ ekelweni laseMitsrayim.",
+  "tokens": [
+    {
+      "surface": "ואשם",
+      "gloss": "ndaza ndabeka"
+    },
+    {
+      "surface": "שם",
+      "gloss": "apho"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "indawo"
+    },
+    {
+      "surface": "לארון",
+      "gloss": "ye-aroni"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "apho"
+    },
+    {
+      "surface": "שם",
+      "gloss": "kukho"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "umnqophiso"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kaYahwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "owo"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "wacula"
+    },
+    {
+      "surface": "עם",
+      "gloss": "noo-"
+    },
+    {
+      "surface": "אבתינו",
+      "gloss": "yihlo lwethu"
+    },
+    {
+      "surface": "בהוציאו",
+      "gloss": "xa wayemkhupha"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ekelweni laseMitsrayim"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "ekeleni"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "laseMitsrayim"
+    }
+  ],
+  "timestamp": "2026-09-18T10:21:08.215743165Z",
+  "model": "glm-5.3"
+}

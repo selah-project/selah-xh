@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 41:20",
+  "book": "genesis",
+  "lang": "xh",
+  "chapter": 41,
+  "translation": "Kwaye iinkomo ezinesinyeza nezimbi zatya ⟨את⟩ iinkomo ezisixhenxe ezokuqala, ezizityebileyo ezinamandla.",
+  "tokens": [
+    {
+      "surface": "ותאכלנה",
+      "gloss": "zatya"
+    },
+    {
+      "surface": "הפרות",
+      "gloss": "iinkomo"
+    },
+    {
+      "surface": "הרקות",
+      "gloss": "ezinesinyeza"
+    },
+    {
+      "surface": "והרעות",
+      "gloss": "nezimbi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iinkomo ezisixhenxe ezokuqala ezizityebileyo"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "ezisixhenxe"
+    },
+    {
+      "surface": "הפרות",
+      "gloss": "iinkomo"
+    },
+    {
+      "surface": "הראשנות",
+      "gloss": "ezokuqala"
+    },
+    {
+      "surface": "הבריאאת",
+      "gloss": "ezizityebileyo ezinamandla"
+    }
+  ],
+  "timestamp": "2026-09-18T17:19:43.271607573Z",
+  "model": "glm-5.3"
+}

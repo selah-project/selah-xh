@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 24:17",
+  "book": "leviticus",
+  "lang": "xh",
+  "chapter": 24,
+  "translation": "Kwaye umntu ukuba ethe wakwaphula inefeshi yomntu, ngokufa uza kufa.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "Kwaye umntu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ukuba"
+    },
+    {
+      "surface": "יכה",
+      "gloss": "wakwaphula"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yonike"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "inefeshi"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "yomntu"
+    },
+    {
+      "surface": "מות",
+      "gloss": "ngokufa"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "uza kufa"
+    }
+  ],
+  "timestamp": "2026-09-18T07:02:36.891639195Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 51:14",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 51,
+  "translation": "Ndibuyisele uvuyo lokusindiswa kwakho, undixhashe ngomoya ozimelayo.",
+  "tokens": [
+    {
+      "surface": "השיבה",
+      "gloss": "Ndibuyisele"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ndi-"
+    },
+    {
+      "surface": "ששון",
+      "gloss": "uvuyo"
+    },
+    {
+      "surface": "ישעך",
+      "gloss": "lokusindiswa kwakho"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "ngomoya"
+    },
+    {
+      "surface": "נדיבה",
+      "gloss": "ozimelayo"
+    },
+    {
+      "surface": "תסמכני",
+      "gloss": "undixhashe"
+    }
+  ],
+  "timestamp": "2026-09-18T17:42:50.850213043Z",
+  "model": "glm-5.3"
+}

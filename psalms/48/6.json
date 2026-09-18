@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 48:6",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 48,
+  "translation": "Zona zazibona, zazisita ngoko, zaqhumaka, zoyike zabaleka.",
+  "tokens": [
+    {
+      "surface": "המה",
+      "gloss": "zona"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "zazibona"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ngoko"
+    },
+    {
+      "surface": "תמהו",
+      "gloss": "zaqhumaka"
+    },
+    {
+      "surface": "נבהלו",
+      "gloss": "zoyike"
+    },
+    {
+      "surface": "נחפזו",
+      "gloss": "zabaleka"
+    }
+  ],
+  "timestamp": "2026-09-18T14:46:53.643555925Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 27:8",
+  "book": "genesis",
+  "lang": "xh",
+  "chapter": 27,
+  "translation": "“Kananjalo ngoku, nyana wam, thula uluvule indlebe kwisandi sam, kwinto endiyalelayo ⟨את⟩ wena.”",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Kananjalo ngoku"
+    },
+    {
+      "surface": "בני",
+      "gloss": "nyana wam"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "thula uluvule indlebe"
+    },
+    {
+      "surface": "בקלי",
+      "gloss": "kwisandi sam"
+    },
+    {
+      "surface": "לאשר",
+      "gloss": "kwinto"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ndi-"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "yalelayo"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "wena"
+    }
+  ],
+  "timestamp": "2026-09-18T05:23:36.654001740Z",
+  "model": "glm-5.3"
+}

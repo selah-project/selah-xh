@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "hosea 12:4",
+  "book": "hosea",
+  "lang": "xh",
+  "chapter": 12,
+  "translation": "Esibelekweni wabamba ngomlenze ⟨את⟩ umnakaye; ngamandla akhe walwana noElohim ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "בבטן",
+      "gloss": "esibelekweni"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "wabamba ngomlenze"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umnakaye"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "umnakaye"
+    },
+    {
+      "surface": "ובאונו",
+      "gloss": "ngamandla akhe"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "walwana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uElohim"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "uElohim"
+    }
+  ],
+  "timestamp": "2026-09-18T13:48:06.826382777Z",
+  "model": "glm-5.3"
+}

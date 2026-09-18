@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 45:4",
+  "book": "jeremiah",
+  "lang": "xh",
+  "chapter": 45,
+  "translation": "Njalo uza kumthi: Uthi uYahwe: Yabona, oko ndakwakhileyo mna ndiyatshabalalisa, no⟨את⟩ le nto ndityalileyo mna ndiza kuyikhupha, n⟨את⟩ umhlaba wonke — yona.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Njalo"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "uza kumthi"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kuye"
+    },
+    {
+      "surface": "כה",
+      "gloss": "njengokuthi"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "uthi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Yabona"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oko"
+    },
+    {
+      "surface": "בניתי",
+      "gloss": "ndakwakhileyo"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mna"
+    },
+    {
+      "surface": "הרס",
+      "gloss": "ndiyatshabalalisa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "le nto ndityalileyo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "le nto"
+    },
+    {
+      "surface": "נטעתי",
+      "gloss": "ndityalileyo"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mna"
+    },
+    {
+      "surface": "נתש",
+      "gloss": "ndiza kuyikhupha"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "umhlaba wonke"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wonke"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "umhlaba"
+    },
+    {
+      "surface": "היא",
+      "gloss": "yona"
+    }
+  ],
+  "timestamp": "2026-09-18T12:34:47.953226096Z",
+  "model": "glm-5.3"
+}

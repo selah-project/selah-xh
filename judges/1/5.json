@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "judges 1:5",
+  "book": "judges",
+  "lang": "xh",
+  "chapter": 1,
+  "translation": "Bafumana ⟨את⟩ u-Adoni-Bezek eBhezeki, balwa naye, babulala ⟨את⟩ iKhanani kunye ⟨את⟩ iPherizi.",
+  "tokens": [
+    {
+      "surface": "וימצאו",
+      "gloss": "bafumana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "u-Adoni-Bezek"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "u-Adoni-"
+    },
+    {
+      "surface": "בזק",
+      "gloss": "Bezek"
+    },
+    {
+      "surface": "בבזק",
+      "gloss": "eBhezeki"
+    },
+    {
+      "surface": "וילחמו",
+      "gloss": "balwa"
+    },
+    {
+      "surface": "בו",
+      "gloss": "naye"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "babulala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iKhanani"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "iKhanani"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kunye ⟨את⟩",
+      "marks": "iPherizi"
+    },
+    {
+      "surface": "הפרזי",
+      "gloss": "iPherizi"
+    }
+  ],
+  "timestamp": "2026-09-18T08:48:15.878373269Z",
+  "model": "glm-5.3"
+}

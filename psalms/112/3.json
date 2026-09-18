@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 112:3",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 112,
+  "translation": "Inxaxheba nabutyebi befilikiyo kwindlu yakhe, ngokulunga kwakhe kumi kuze kube phakade.",
+  "tokens": [
+    {
+      "surface": "הון",
+      "gloss": "Inxaxheba nabutyebi befilikiyo"
+    },
+    {
+      "surface": "ועשר",
+      "gloss": "abutyebi befilikiyo"
+    },
+    {
+      "surface": "בביתו",
+      "gloss": "kwindlu yakhe"
+    },
+    {
+      "surface": "וצדקתו",
+      "gloss": "ngokulunga kwakhe"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "kumi"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "kuze kube phakade"
+    }
+  ],
+  "timestamp": "2026-09-18T15:19:46.570355545Z",
+  "model": "glm-5.3"
+}

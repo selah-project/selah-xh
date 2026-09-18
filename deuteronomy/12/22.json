@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 12:22",
+  "book": "deuteronomy",
+  "lang": "xh",
+  "chapter": 12,
+  "translation": "Kodwa njengokutyiwa kwempunzi nempofu ⟨את⟩, ngokunjalo uza kuyitya; ongcolileyo nococekileyo ngokufananya baya kuyitya.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "kodwa"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "njengoko"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "kutyiwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "impunzi"
+    },
+    {
+      "surface": "הצבי",
+      "gloss": "impunzi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "impofu"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "impofu"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ngokunjalo"
+    },
+    {
+      "surface": "תאכלנו",
+      "gloss": "uza kuyitya"
+    },
+    {
+      "surface": "הטמא",
+      "gloss": "ongcolileyo"
+    },
+    {
+      "surface": "והטהור",
+      "gloss": "nococekileyo"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "ngokufananya"
+    },
+    {
+      "surface": "יאכלנו",
+      "gloss": "baya kuyitya"
+    }
+  ],
+  "timestamp": "2026-09-18T17:26:00.599398368Z",
+  "model": "glm-5.3"
+}

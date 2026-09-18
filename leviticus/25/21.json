@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 25:21",
+  "book": "leviticus",
+  "lang": "xh",
+  "chapter": 25,
+  "translation": "Ndiza kuyalela ⟨את⟩ isibingelelo sam kuni ngonyaka wesithandathu, yaza yakhiqiza ⟨את⟩ inkozo yeminyaka emithathu.",
+  "tokens": [
+    {
+      "surface": "וצויתי",
+      "gloss": "ndiza kuyalela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isibingelelo sam"
+    },
+    {
+      "surface": "ברכתי",
+      "gloss": "isibingelelo sam"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kuni"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "ngonyaka"
+    },
+    {
+      "surface": "הששית",
+      "gloss": "wesithandathu"
+    },
+    {
+      "surface": "ועשת",
+      "gloss": "yaza yakhiqiza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "inkozo"
+    },
+    {
+      "surface": "התבואה",
+      "gloss": "inkozo"
+    },
+    {
+      "surface": "לשלש",
+      "gloss": "yeminyaka emithathu"
+    },
+    {
+      "surface": "השנים",
+      "gloss": "iminyaka"
+    }
+  ],
+  "timestamp": "2026-09-18T07:03:13.890304073Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 24:5",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 24,
+  "translation": "Wathumela ⟨את⟩ amakhwenkwe akwaYisrayeli, banikele izipho ezitshisiweyo, banikele izipho zoxolo kuYahwe, iinkabi.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Wathumela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amakhwenkwe akwaYisrayeli"
+    },
+    {
+      "surface": "נערי",
+      "gloss": "amakhwenkwe"
+    },
+    {
+      "surface": "בני",
+      "gloss": "akwa—abantwana baka"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrayeli"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "banikele"
+    },
+    {
+      "surface": "עלת",
+      "gloss": "izipho ezitshisiweyo"
+    },
+    {
+      "surface": "ויזבחו",
+      "gloss": "banikele"
+    },
+    {
+      "surface": "זבחים",
+      "gloss": "izipho"
+    },
+    {
+      "surface": "שלמים",
+      "gloss": "zoxolo"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kuYahwe"
+    },
+    {
+      "surface": "פרים",
+      "gloss": "iinkabi"
+    }
+  ],
+  "timestamp": "2026-09-18T06:11:32.632214060Z",
+  "model": "glm-5.3"
+}

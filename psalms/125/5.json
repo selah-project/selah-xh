@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 125:5",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 125,
+  "translation": "Kulabo abatshikilela kwiindlela eziqhosholiweyo zabo, uYahwe uya kubatyhalela ⟨את⟩ abenzi bokungcola; uxolo makube kuSirayeli.",
+  "tokens": [
+    {
+      "surface": "והמטים",
+      "gloss": "kulabo abatshikilela"
+    },
+    {
+      "surface": "עקלקלותם",
+      "gloss": "kwiindlela eziqhosholiweyo zabo"
+    },
+    {
+      "surface": "יוליכם",
+      "gloss": "uya kubatyhalela"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abenzi bokungcola"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "abenzi"
+    },
+    {
+      "surface": "האון",
+      "gloss": "bokungcola"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "uxolo"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "kuSirayeli"
+    }
+  ],
+  "timestamp": "2026-09-18T15:26:20.229143751Z",
+  "model": "glm-5.3"
+}

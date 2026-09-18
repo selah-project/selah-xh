@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "genesis 36:42",
+  "book": "genesis",
+  "lang": "xh",
+  "chapter": 36,
+  "translation": "iNkosi yaseKenazi, iNkosi yaseTemani, iNkosi yaseMibtsari.",
+  "tokens": [
+    {
+      "surface": "אלוף",
+      "gloss": "iNkosi"
+    },
+    {
+      "surface": "קנז",
+      "gloss": "yaseKenazi"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "iNkosi"
+    },
+    {
+      "surface": "תימן",
+      "gloss": "yaseTemani"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "iNkosi"
+    },
+    {
+      "surface": "מבצר",
+      "gloss": "yaseMibtsari"
+    }
+  ],
+  "timestamp": "2026-09-18T05:31:59.275833168Z",
+  "model": "glm-5.3"
+}

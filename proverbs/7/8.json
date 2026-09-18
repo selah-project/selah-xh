@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 7:8",
+  "book": "proverbs",
+  "lang": "xh",
+  "chapter": 7,
+  "translation": "Edlula emgwaqeni wokuthengisa, ekufutshane nekona yakhe, waza wandula indlela eya endlwini yakhe ahambele ngamanyathelo.",
+  "tokens": [
+    {
+      "surface": "עבר",
+      "gloss": "Edlula"
+    },
+    {
+      "surface": "בשוק",
+      "gloss": "emgwaqeni wokuthengisa"
+    },
+    {
+      "surface": "אצל",
+      "gloss": "ekufutshane ne"
+    },
+    {
+      "surface": "פנה",
+      "gloss": "kona yakhe"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "indlela"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "endlwini yakhe"
+    },
+    {
+      "surface": "יצעד",
+      "gloss": "ahambele ngamanyathelo"
+    }
+  ],
+  "timestamp": "2026-09-18T15:41:21.799086574Z",
+  "model": "glm-5.3"
+}

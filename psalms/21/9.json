@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 21:9",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 21,
+  "translation": "Isandla sakho siza kubafumana onke oovimba bakho; isandla sakho sokunene siza kubafumana abakuthiyayo.",
+  "tokens": [
+    {
+      "surface": "תמצא",
+      "gloss": "siza kubafumana"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "isandla sakho"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "onke"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "oovimba bakho"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "isandla sakho sokunene"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "siza kubafumana"
+    },
+    {
+      "surface": "שנאיך",
+      "gloss": "abakuthiyayo"
+    }
+  ],
+  "timestamp": "2026-09-18T14:33:25.976295991Z",
+  "model": "glm-5.3"
+}

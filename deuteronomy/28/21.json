@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 28:21",
+  "book": "deuteronomy",
+  "lang": "xh",
+  "chapter": 28,
+  "translation": "UYahwe uza kudibanisa kuwe ⟨את⟩ isifo sokuthelekisa, ade ekugqibenisi ⟨את⟩ wena phezu komhlaba o wena ungena kuwo ukuwulawula.",
+  "tokens": [
+    {
+      "surface": "ידבק",
+      "gloss": "uza kudibanisa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "בך",
+      "gloss": "kuwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isifo sokuthelekisa"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "isifo sokuthelekisa"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ade"
+    },
+    {
+      "surface": "כלתו",
+      "gloss": "ekugqibenisi"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "wena"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "phezu"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "komhlaba"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "o"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ungena"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "kuwo"
+    },
+    {
+      "surface": "לרשתה",
+      "gloss": "ukuwulawula"
+    }
+  ],
+  "timestamp": "2026-09-18T08:20:05.752050835Z",
+  "model": "glm-5.3"
+}

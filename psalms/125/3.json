@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 125:3",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 125,
+  "translation": "Kuba intonga yobubi ayisayi kuphumla phe kolwahlulo lwabalungileyo, ukuze abalungileyo bangasoli iintanda zawo ngobugwenxa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kuba"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ayi"
+    },
+    {
+      "surface": "ינוח",
+      "gloss": "sayi kuphumla"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "intonga"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "yobubi"
+    },
+    {
+      "surface": "על",
+      "gloss": "phe"
+    },
+    {
+      "surface": "גורל",
+      "gloss": "olwahlulo"
+    },
+    {
+      "surface": "הצדיקים",
+      "gloss": "lwabalungileyo"
+    },
+    {
+      "surface": "למען",
+      "gloss": "ukuze"
+    },
+    {
+      "surface": "לא",
+      "gloss": "banga"
+    },
+    {
+      "surface": "ישלחו",
+      "gloss": "soli"
+    },
+    {
+      "surface": "הצדיקים",
+      "gloss": "abalungileyo"
+    },
+    {
+      "surface": "בעולתה",
+      "gloss": "ngobugwenxa"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "iintanda zawo"
+    }
+  ],
+  "timestamp": "2026-09-18T15:28:33.692502637Z",
+  "model": "glm-5.3"
+}

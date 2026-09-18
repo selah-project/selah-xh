@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 14:5",
+  "book": "2-kings",
+  "lang": "xh",
+  "chapter": 14,
+  "translation": "Kwathi-ke, xa ubukumkani bwaluqinile ezandleni zakhe, wabulala ⟨את⟩ amakhonza akhe ababulala ⟨את⟩ ukumkani uyise.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Kwathi-ke"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "xa"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "baluqinile"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "ubukumkani"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "ezandleni zakhe"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "wabulala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amakhonza akhe"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "amakhonza akhe"
+    },
+    {
+      "surface": "המכים",
+      "gloss": "ababulala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ukumkani"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ukumkani"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "uyise"
+    }
+  ],
+  "timestamp": "2026-09-18T17:33:55.929782670Z",
+  "model": "glm-5.3"
+}

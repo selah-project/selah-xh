@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 3:23",
+  "book": "genesis",
+  "lang": "xh",
+  "chapter": 3,
+  "translation": "Wamthumela u-Yahwe u-Elohim endlwini ka-Edeni, ukuba alime ⟨את⟩ umhlaba apho athathwe khona.",
+  "tokens": [
+    {
+      "surface": "וישלחהו",
+      "gloss": "wamthumela"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "u-Yahwe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "u-Elohim"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "endlwini ka-"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "Edeni"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "ukuba alime"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umhlaba"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "umhlaba"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "apho"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "athathwe"
+    },
+    {
+      "surface": "משם",
+      "gloss": "khona"
+    }
+  ],
+  "timestamp": "2026-09-18T05:08:18.850418165Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 6:10",
+  "book": "1-kings",
+  "lang": "xh",
+  "chapter": 6,
+  "translation": "Wawakha ⟨את⟩ isakhiwo phezu kwendlu yonke, iikhubithi ezintlanu ubude; wamisa ⟨את⟩ indlu ngeentonga zereti.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "wawakha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isakhiwo"
+    },
+    {
+      "surface": "היצוע",
+      "gloss": "isakhiwo"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu kwendlu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yonke"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "indlu"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "ezintlanu"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "iikhubithi"
+    },
+    {
+      "surface": "קומתו",
+      "gloss": "ubude"
+    },
+    {
+      "surface": "ויאחז",
+      "gloss": "wamisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "indlu"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "indlu"
+    },
+    {
+      "surface": "בעצי",
+      "gloss": "ngeentonga"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "zereti"
+    }
+  ],
+  "timestamp": "2026-09-18T10:14:09.910300896Z",
+  "model": "glm-5.3"
+}

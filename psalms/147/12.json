@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 147:12",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 147,
+  "translation": "Dumisa, iYerushalayimi, ⟨את⟩ uYahwe; dankisa uElohim wakho, wena uTsiyoni.",
+  "tokens": [
+    {
+      "surface": "שבחי",
+      "gloss": "Dumisa"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "iYerushalayimi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uYahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "הללי",
+      "gloss": "dankisa"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "uElohim wakho"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "uTsiyoni"
+    }
+  ],
+  "timestamp": "2026-09-18T15:33:57.425723827Z",
+  "model": "glm-5.3"
+}

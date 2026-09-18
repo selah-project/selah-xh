@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 90:15",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 90,
+  "translation": "Sivuyise ngokwemihxa esibuhlungu, ngokweminyaka esibone ngayo okungcolileyo.",
+  "tokens": [
+    {
+      "surface": "שמחנו",
+      "gloss": "Sivuyise"
+    },
+    {
+      "surface": "כימות",
+      "gloss": "ngokwemihxa"
+    },
+    {
+      "surface": "עניתנו",
+      "gloss": "esibuhlungu"
+    },
+    {
+      "surface": "שנות",
+      "gloss": "ngokweminyaka"
+    },
+    {
+      "surface": "ראינו",
+      "gloss": "esibone ngayo"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "okungcolileyo"
+    }
+  ],
+  "timestamp": "2026-09-18T15:10:37.096714135Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "amos 4:6",
+  "book": "amos",
+  "lang": "xh",
+  "chapter": 4,
+  "translation": "Kanananjalo mna ndaninika ukucocwa kwamazinyo kuzo zonke iidalwe zenu, nesweloisonka kuzo zonke iindawo zenu; nangona kunjalo anibuyanga kum, utsho uYahwe.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "Kanananjalo"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mna"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "ndanike"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ni"
+    },
+    {
+      "surface": "נקיון",
+      "gloss": "ukucocwa"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "kwamazinyo"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "kuzo zonke"
+    },
+    {
+      "surface": "עריכם",
+      "gloss": "iidalwe zenu"
+    },
+    {
+      "surface": "וחסר",
+      "gloss": "neswelo"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "isonka"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "kuzo zonke"
+    },
+    {
+      "surface": "מקומתיכם",
+      "gloss": "iindawo zenu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "nangona kunjalo hayi"
+    },
+    {
+      "surface": "שבתם",
+      "gloss": "anibuyanga"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "kum"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "utsho"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    }
+  ],
+  "timestamp": "2026-09-18T13:55:07.334461954Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 8:13",
+  "book": "isaiah",
+  "lang": "xh",
+  "chapter": 8,
+  "translation": "⟨את⟩ uYahwe Tsebhayoti, yena nimngcwasisa; yena maba liloyiko lenu, yena maba lingcango lenu.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uYahwe Tsebhayoti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsebhayoti"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "yena"
+    },
+    {
+      "surface": "תקדישו",
+      "gloss": "nimngcwasisa"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "yena"
+    },
+    {
+      "surface": "מוראכם",
+      "gloss": "loyiko lenu"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "yena"
+    },
+    {
+      "surface": "מערצכם",
+      "gloss": "ingcango lenu"
+    }
+  ],
+  "timestamp": "2026-09-18T17:33:39.439805540Z",
+  "model": "glm-5.3"
+}

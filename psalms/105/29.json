@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "psalms 105:29",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 105,
+  "translation": "Watshintsha ⟨את⟩ amanzi abo abe ligazi, waza wabulala ⟨את⟩ iintlanzi zabo.",
+  "tokens": [
+    {
+      "surface": "הפך",
+      "gloss": "Watshintsha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amanzi abo"
+    },
+    {
+      "surface": "מימיהם",
+      "gloss": "amanzi abo"
+    },
+    {
+      "surface": "לדם",
+      "gloss": "abe ligazi"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "waza wabulala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iintlanzi zabo"
+    },
+    {
+      "surface": "דגתם",
+      "gloss": "iintlanzi zabo"
+    }
+  ],
+  "timestamp": "2026-09-18T15:18:24.777138653Z",
+  "model": "glm-5.3"
+}

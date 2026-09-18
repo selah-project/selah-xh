@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 28:1",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 28,
+  "translation": "Wena ke, yisela kukho ⟨את⟩ u-Aharon umnakweno, noonyana bakhe naye, ephakathi kwabantwana bakwaIsrayeli, ukuba asebenzele njengesibingeleli kum — u-Aharon, uNadabhu, noAbhihu, u-Elazara, noIthamara, oonyana baka-Aharon.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "yisela kukho"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kukho"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "u-Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "u-Aharon"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "umnakweno"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "oonyana bakhe"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "oonyana bakhe"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "naye ⟨את⟩"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "ephakathi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abantwana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "bakwaIsrayeli"
+    },
+    {
+      "surface": "לכהנו",
+      "gloss": "njengesibingeleli"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kum"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "u-Aharon"
+    },
+    {
+      "surface": "נדב",
+      "gloss": "uNadabhu"
+    },
+    {
+      "surface": "ואביהוא",
+      "gloss": "noAbhihu"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "u-Elazara"
+    },
+    {
+      "surface": "ויתמר",
+      "gloss": "noIthamara",
+      "marks": ""
+    },
+    {
+      "surface": "בני",
+      "gloss": "oonyana"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "baka-Aharon"
+    }
+  ],
+  "timestamp": "2026-09-18T06:15:56.195379071Z",
+  "model": "glm-5.3"
+}

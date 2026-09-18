@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 7:16",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 7,
+  "translation": "Wumba umngxuma, wawenza, waza wawela kumngxuma awenzileyo.",
+  "tokens": [
+    {
+      "surface": "בור",
+      "gloss": "umngxuma"
+    },
+    {
+      "surface": "כרה",
+      "gloss": "wumba"
+    },
+    {
+      "surface": "ויחפרהו",
+      "gloss": "wawenza"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "wawela"
+    },
+    {
+      "surface": "בשחת",
+      "gloss": "kumngxuma"
+    },
+    {
+      "surface": "יפעל",
+      "gloss": "awenzileyo"
+    }
+  ],
+  "timestamp": "2026-09-18T14:25:57.830773890Z",
+  "model": "glm-5.3"
+}

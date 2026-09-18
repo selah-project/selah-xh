@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 72:6",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 72,
+  "translation": "Uyahla njengemvula phezu kotye nje njengoko kunjalo, njengemiqulu yemvula etyeleza ⟨את⟩ umhlaba.",
+  "tokens": [
+    {
+      "surface": "ירד",
+      "gloss": "uyahla"
+    },
+    {
+      "surface": "כמטר",
+      "gloss": "njengemvula"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu kwe"
+    },
+    {
+      "surface": "גז",
+      "gloss": "utye nje (olutyiweyo)"
+    },
+    {
+      "surface": "כרביבים",
+      "gloss": "njengemiqulu yemvula"
+    },
+    {
+      "surface": "זרזיף",
+      "gloss": "etyeleza"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "umhlaba",
+      "marks": "umhlaba"
+    }
+  ],
+  "timestamp": "2026-09-18T14:58:34.885141163Z",
+  "model": "glm-5.3"
+}

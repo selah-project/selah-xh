@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 25:12",
+  "book": "isaiah",
+  "lang": "xh",
+  "chapter": 25,
+  "translation": "Waza elo nqaba eliphezulu leendonga zakhe: wazisa phantsi, wazise ezantsi, waze wafikelela emhlabeni, waba ngumdaka.",
+  "tokens": [
+    {
+      "surface": "ומבצר",
+      "gloss": "waza elo nqaba"
+    },
+    {
+      "surface": "משגב",
+      "gloss": "eliphezulu"
+    },
+    {
+      "surface": "חומתיך",
+      "gloss": "leendonga zakho"
+    },
+    {
+      "surface": "השח",
+      "gloss": "wazisa phantsi"
+    },
+    {
+      "surface": "השפיל",
+      "gloss": "wazise ezantsi"
+    },
+    {
+      "surface": "הגיע",
+      "gloss": "wafikelela"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "emhlabeni"
+    },
+    {
+      "surface": "עד",
+      "gloss": "de"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "ngumdaka"
+    }
+  ],
+  "timestamp": "2026-09-18T11:18:21.780800925Z",
+  "model": "glm-5.3"
+}

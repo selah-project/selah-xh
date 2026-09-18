@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 12:3",
+  "book": "2-chronicles",
+  "lang": "xh",
+  "chapter": 12,
+  "translation": "Ngezinqwemile ezingamawaka ama-1,200, nangamadoda esibhayiskhoba angamawaka ama-60; yaye abantu abafike naye a babonwabalwa — abaLubhi, abaSukhi, nabaKushi.",
+  "tokens": [
+    {
+      "surface": "באלף",
+      "gloss": "ngezinqwemile ezingamawaka"
+    },
+    {
+      "surface": "ומאתים",
+      "gloss": "kwaye lamashane ama-2"
+    },
+    {
+      "surface": "רכב",
+      "gloss": "izinqwemile"
+    },
+    {
+      "surface": "ובששים",
+      "gloss": "kwaye angama-60"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "amawaka"
+    },
+    {
+      "surface": "פרשים",
+      "gloss": "amadoda esibhayiskhoba"
+    },
+    {
+      "surface": "וין",
+      "gloss": "yaye a babonwabalwa"
+    },
+    {
+      "surface": "ואין מספר",
+      "gloss": "a babonwabalwa"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "abafike"
+    },
+    {
+      "surface": "באו",
+      "gloss": "bafika"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "naye"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "eMitsrayim"
+    },
+    {
+      "surface": "לובים",
+      "gloss": "abaLubhi"
+    },
+    {
+      "surface": "סוכיים",
+      "gloss": "abaSukhi"
+    },
+    {
+      "surface": "וכושים",
+      "gloss": "nabaKushi"
+    }
+  ],
+  "timestamp": "2026-09-18T17:06:13.822916306Z",
+  "model": "glm-5.3"
+}

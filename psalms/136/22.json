@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 136:22",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 136,
+  "translation": "Ifa kuSirayeli, inkonzi yakhe, kuba ikhesedi yakhe ihlala phakade.",
+  "tokens": [
+    {
+      "surface": "נחלה",
+      "gloss": "Ifa"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "kuSirayeli"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "inkonzi yakhe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ihlala phakade"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ikhesedi yakhe"
+    }
+  ],
+  "timestamp": "2026-09-18T15:29:45.335100320Z",
+  "model": "glm-5.3"
+}

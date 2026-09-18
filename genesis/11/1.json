@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 11:1",
+  "book": "genesis",
+  "lang": "xh",
+  "chapter": 11,
+  "translation": "Yaye ilizwe lilonke belinolwimi ⟨olunye⟩, namagama ⟨akunye⟩.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Yaye"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lilonke"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ilizwe"
+    },
+    {
+      "surface": "שפה",
+      "gloss": "ulwimi"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "olunye"
+    },
+    {
+      "surface": "ודברים",
+      "gloss": "namagama"
+    },
+    {
+      "surface": "אחדים",
+      "gloss": "akunye"
+    }
+  ],
+  "timestamp": "2026-09-18T05:13:42.553260759Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 84:6",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 84,
+  "translation": "Zonwabile umntu enemandla kuwe; iindlela ezinkulu zikwintliziyo yabo.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Zonwabile"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "umntu"
+    },
+    {
+      "surface": "עוז",
+      "gloss": "emandla"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ku- (yena)"
+    },
+    {
+      "surface": "בך",
+      "gloss": "kuwe"
+    },
+    {
+      "surface": "מסלות",
+      "gloss": "iindlela ezinkulu"
+    },
+    {
+      "surface": "בלבבם",
+      "gloss": "kwintliziyo yabo"
+    }
+  ],
+  "timestamp": "2026-09-18T15:08:59.851195787Z",
+  "model": "glm-5.3"
+}

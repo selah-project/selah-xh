@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 16:16",
+  "book": "1-chronicles",
+  "lang": "xh",
+  "chapter": 16,
+  "translation": "onawenze ⟨את⟩ u-Avraham, nesisifungo sakhe kuYitshaki;",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "ona-"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "-wenze"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "u-Avraham"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "u-Avraham"
+    },
+    {
+      "surface": "ושבועתו",
+      "gloss": "nesisifungo sakhe"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "kuYitshaki"
+    }
+  ],
+  "timestamp": "2026-09-18T17:51:20.449760651Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 52:8",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 52,
+  "translation": "Abalungileyo baya kubona, besoyika, bamhleka yena.",
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "baya kubona"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "abalungileyo"
+    },
+    {
+      "surface": "וייראו",
+      "gloss": "besoyika"
+    },
+    {
+      "surface": "ועליו",
+      "gloss": "yena"
+    },
+    {
+      "surface": "ישחקו",
+      "gloss": "bamhleka"
+    }
+  ],
+  "timestamp": "2026-09-18T14:51:00.375313739Z",
+  "model": "glm-5.3"
+}

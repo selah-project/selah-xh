@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 42:12",
+  "book": "jeremiah",
+  "lang": "xh",
+  "chapter": 42,
+  "translation": "Kwaye ndiza kuninika nina iinceba, kwaye ⟨uza⟩ kunceba ⟨את⟩ nina, kwaye ⟨uza⟩ kunibuyisela ⟨את⟩ nina kumhlaba wenu.",
+  "tokens": [
+    {
+      "surface": "ואתן",
+      "gloss": "kwaye ndiza kuninika"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "nina"
+    },
+    {
+      "surface": "רחמים",
+      "gloss": "iinceba"
+    },
+    {
+      "surface": "ורחם",
+      "gloss": "kwaye ⟨uza⟩ kunceba"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ nina",
+      "marks": "nina (onje lowo uza kunceba)"
+    },
+    {
+      "surface": "והשיב",
+      "gloss": "kwaye ⟨uza⟩ kunibuyisela"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ nina",
+      "marks": "nina (onje lowo uza kunibuyisela)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "אדמתכם",
+      "gloss": "umhlaba wenu"
+    }
+  ],
+  "timestamp": "2026-09-18T12:35:52.326052429Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 37:2",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 37,
+  "translation": "Kuba njengotyani ngokukhawuleza baza kunyamalala, kananjalo njengohlaza botyani baza kukoma.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kuba"
+    },
+    {
+      "surface": "כחציר",
+      "gloss": "njengotyani"
+    },
+    {
+      "surface": "מהרה",
+      "gloss": "ngokukhawuleza"
+    },
+    {
+      "surface": "ימלו",
+      "gloss": "baza kunyamalala"
+    },
+    {
+      "surface": "וכירק",
+      "gloss": "kananjalo njengohlaza"
+    },
+    {
+      "surface": "דשא",
+      "gloss": "botyani"
+    },
+    {
+      "surface": "יבולון",
+      "gloss": "baza kukoma"
+    }
+  ],
+  "timestamp": "2026-09-18T14:42:18.720901749Z",
+  "model": "glm-5.3"
+}

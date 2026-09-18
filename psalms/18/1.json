@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 18:1",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 18,
+  "translation": "Kumlawuli. Ngesicaka sikaYahwe, nguDavide, owathethela kuYahwe ⟨את⟩ amagama ale ngoma ngelo xesha uYahwe emsindisela ⟨את⟩ esandleni sabo bonke abachasi bakhe, nasandleni sikaShawuli.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Kumlawuli"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "Ngesicaka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "sikaYahwe"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "nguDavide"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "owo"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "wathethela"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kuYahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amagama"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "amagama"
+    },
+    {
+      "surface": "השירה",
+      "gloss": "engomeni"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "le"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ngelo xesha"
+    },
+    {
+      "surface": "הציל",
+      "gloss": "emsindisela"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩",
+      "marks": "yena"
+    },
+    {
+      "surface": "מכף",
+      "gloss": "esandleni"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sabo bonke"
+    },
+    {
+      "surface": "איביו",
+      "gloss": "bachasi bakhe"
+    },
+    {
+      "surface": "ומיד",
+      "gloss": "nasandleni"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "sikaShawuli"
+    }
+  ],
+  "timestamp": "2026-09-18T14:33:07.484469965Z",
+  "model": "glm-5.3"
+}

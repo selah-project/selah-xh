@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 9:5",
+  "book": "leviticus",
+  "lang": "xh",
+  "chapter": 9,
+  "translation": "Bathabatha oko uMoshe wayaleleyo, phambi kwetenti yokudibana; yasondela yonke imeko, yamila phambi kaYahwe.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "bathabatha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oko"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oko"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "wayaleleyo"
+    },
+    {
+      "surface": "משה",
+      "gloss": "uMoshe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "phambi kwe-"
+    },
+    {
+      "surface": "פני",
+      "gloss": "phambi"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "itenti"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "yokudibana"
+    },
+    {
+      "surface": "ויקרבו",
+      "gloss": "yasondela"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yonke"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "imeko"
+    },
+    {
+      "surface": "ויעמדו",
+      "gloss": "yamila"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "phambi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kaYahwe"
+    }
+  ],
+  "timestamp": "2026-09-18T06:42:47.838810021Z",
+  "model": "glm-5.3"
+}

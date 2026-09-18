@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 74:8",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 74,
+  "translation": "Bathi ezintliziyweni zabo: ‘Masibahahlaze ndawonye’; batshisa iindawo zonke zokudibana ko-El emhlabeni.",
+  "tokens": [
+    {
+      "surface": "אמרו",
+      "gloss": "bathi"
+    },
+    {
+      "surface": "בלבם",
+      "gloss": "ezintliziyweni zabo"
+    },
+    {
+      "surface": "נינם",
+      "gloss": "masibahahlaze"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "ndawonye"
+    },
+    {
+      "surface": "שרפו",
+      "gloss": "batshisa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zonke"
+    },
+    {
+      "surface": "מועדי",
+      "gloss": "iindawo zokudibana"
+    },
+    {
+      "surface": "אל",
+      "gloss": "u-El"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "emhlabeni"
+    }
+  ],
+  "timestamp": "2026-09-18T15:01:09.795742703Z",
+  "model": "glm-5.3"
+}

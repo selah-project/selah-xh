@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 94:5",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 94,
+  "translation": "Bakudiliza abantu bakho, uYahwe; bahlupha ⟨את⟩ ifa lakho.",
+  "tokens": [
+    {
+      "surface": "עמך",
+      "gloss": "abantu bakho"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "ידכאו",
+      "gloss": "bakudiliza"
+    },
+    {
+      "surface": "ונחלתך",
+      "gloss": "nifa lakho"
+    },
+    {
+      "surface": "יענו",
+      "gloss": "bahlupha"
+    }
+  ],
+  "timestamp": "2026-09-18T17:44:31.093988361Z",
+  "model": "glm-5.3"
+}

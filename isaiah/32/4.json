@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 32:4",
+  "book": "isaiah",
+  "lang": "xh",
+  "chapter": 32,
+  "translation": "Kwaye intliziyo yaba khawulezayo iya kuqonda ulwazi, ulwimi lwabazamazama luya kukhawuleza ukuthetha ngocacileyo.",
+  "tokens": [
+    {
+      "surface": "ולבב",
+      "gloss": "Kwaye intliziyo"
+    },
+    {
+      "surface": "נמהרים",
+      "gloss": "yaba khawulezayo"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "iya kuqonda"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "ulwazi"
+    },
+    {
+      "surface": "ולשון",
+      "gloss": "ulwimi"
+    },
+    {
+      "surface": "עלגים",
+      "gloss": "lwabazamazama"
+    },
+    {
+      "surface": "תמהר",
+      "gloss": "luya kukhawuleza"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "ukuthetha"
+    },
+    {
+      "surface": "צחות",
+      "gloss": "ngocacileyo"
+    }
+  ],
+  "timestamp": "2026-09-18T11:21:39.248233965Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "joshua 4:20",
+  "book": "joshua",
+  "lang": "xh",
+  "chapter": 4,
+  "translation": "Naye u-Yehoshuwa wamisela ⟨את⟩ le matyhubhu amabini anesikhombisa awayithathayo kwiYordan eGilgala.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "matyhubhu amabini anesikhombisa"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "amabini"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "anesikhombisa"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "matyhubhu"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "le"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "awayithathayo"
+    },
+    {
+      "surface": "לקחו",
+      "gloss": "thatha"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ku"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "iYordan"
+    },
+    {
+      "surface": "הקים",
+      "gloss": "wamisela"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "u-Yehoshuwa"
+    },
+    {
+      "surface": "בגלגל",
+      "gloss": "eGilgala"
+    }
+  ],
+  "timestamp": "2026-09-18T08:27:34.469296194Z",
+  "model": "glm-5.3"
+}

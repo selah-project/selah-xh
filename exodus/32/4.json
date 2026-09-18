@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 32:4",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 32,
+  "translation": "Wayamkela kwizandla zabo, wawumba ⟨אתו⟩ ngechata, wasenza inkonyana yetywila; bathi: “O ngawo oothixo bakho, Yisrayeli, abakukhuphayo elizweni leMitsrayim.”",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "wayamkela"
+    },
+    {
+      "surface": "מידם",
+      "gloss": "kwizandla zabo"
+    },
+    {
+      "surface": "ויצר",
+      "gloss": "wawumba"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "ngechata"
+    },
+    {
+      "surface": "בחרט",
+      "gloss": "ngechata"
+    },
+    {
+      "surface": "ויעשהו",
+      "gloss": "wasenza"
+    },
+    {
+      "surface": "עגל",
+      "gloss": "inkonyana"
+    },
+    {
+      "surface": "מסכה",
+      "gloss": "yetywila"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "bathi"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "O"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "oothixo bakho"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrayeli"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aba"
+    },
+    {
+      "surface": "העלוך",
+      "gloss": "khuphayo"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "elizweni"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "leMitsrayim"
+    }
+  ],
+  "timestamp": "2026-09-18T06:23:06.042950291Z",
+  "model": "glm-5.3"
+}

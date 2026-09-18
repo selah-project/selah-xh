@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 109:18",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 109,
+  "translation": "Wayivalela isiqalekiso njengengubo yakhe, yangena njengamanzi kwingaphakathi lakhe, najengoyile kumathambo akhe.",
+  "tokens": [
+    {
+      "surface": "וילבש",
+      "gloss": "Wayivalela"
+    },
+    {
+      "surface": "קללה",
+      "gloss": "isiqalekiso"
+    },
+    {
+      "surface": "כמדו",
+      "gloss": "njengengubo yakhe"
+    },
+    {
+      "surface": "ותבא",
+      "gloss": "yangena"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "njengamanzi"
+    },
+    {
+      "surface": "בקרבו",
+      "gloss": "kwingaphakathi lakhe"
+    },
+    {
+      "surface": "וכשמן",
+      "gloss": "najengoyile"
+    },
+    {
+      "surface": "בעצמותיו",
+      "gloss": "kumathambo akhe"
+    }
+  ],
+  "timestamp": "2026-09-18T15:20:45.160222987Z",
+  "model": "glm-5.3"
+}

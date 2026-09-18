@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 1:3",
+  "book": "ecclesiastes",
+  "lang": "xh",
+  "chapter": 1,
+  "translation": "Ntoni inzuzo yomntu kulo lonke ukubandeziela kwakhe, abandezele ngakwazo phantsi kwelanga?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Ntoni"
+    },
+    {
+      "surface": "יתרון",
+      "gloss": "inzuzo"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "yomntu"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "kulo lonke"
+    },
+    {
+      "surface": "עמלו",
+      "gloss": "ukubandeziela kwakhe"
+    },
+    {
+      "surface": "שיעמל",
+      "gloss": "abandezele ngakwazo"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "phantsi"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "kwelanga"
+    }
+  ],
+  "timestamp": "2026-09-18T16:24:02.225947808Z",
+  "model": "glm-5.3"
+}

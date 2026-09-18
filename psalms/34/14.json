@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 34:14",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 34,
+  "translation": "Gcina ulwimi lwakho kwibi, namalebe akho ekuthetheni ukhohliso.",
+  "tokens": [
+    {
+      "surface": "נצר",
+      "gloss": "Gcina"
+    },
+    {
+      "surface": "לשונך",
+      "gloss": "ulwimi lwakho"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "kwibi"
+    },
+    {
+      "surface": "ושפתיך",
+      "gloss": "namalebe akho"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "ekuthetheni"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "ukhohliso"
+    }
+  ],
+  "timestamp": "2026-09-18T14:40:38.022579819Z",
+  "model": "glm-5.3"
+}

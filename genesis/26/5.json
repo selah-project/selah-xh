@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 26:5",
+  "book": "genesis",
+  "lang": "xh",
+  "chapter": 26,
+  "translation": "Ngenxa yokuba u-Avraham walalela ilizwi lam, wagcina isigqibo sam, imiyalelo yam, imithetho yam, neTora yam.",
+  "tokens": [
+    {
+      "surface": "עקב",
+      "gloss": "ngenxa yokuba"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ukuba"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "walalela"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "u-Avraham"
+    },
+    {
+      "surface": "בקלי",
+      "gloss": "ilizwi lam"
+    },
+    {
+      "surface": "וישמר",
+      "gloss": "wagcina"
+    },
+    {
+      "surface": "משמרתי",
+      "gloss": "isigqibo sam"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "imiyalelo yam"
+    },
+    {
+      "surface": "חקותי",
+      "gloss": "imithetho yam"
+    },
+    {
+      "surface": "ותורתי",
+      "gloss": "neTora yam"
+    }
+  ],
+  "timestamp": "2026-09-18T05:23:55.919747870Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 23:14",
+  "book": "genesis",
+  "lang": "xh",
+  "chapter": 23,
+  "translation": "Waphendula u-Efroni ⟨את⟩ u-Avraham, wathi kuye:",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "Waphendula"
+    },
+    {
+      "surface": "עפרון",
+      "gloss": "u-Efroni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "u-Avraham"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "u-Avraham"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kuye"
+    }
+  ],
+  "timestamp": "2026-09-18T05:18:39.352005477Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 36:4",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 36,
+  "translation": "Amagama omlomo wakhe ngobugwenxa nokukrwela; wamisa ukuceba, ukwenza okulungileyo.",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "amagama"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "lomlomo wakhe"
+    },
+    {
+      "surface": "און",
+      "gloss": "ngobugwenxa"
+    },
+    {
+      "surface": "ומרמה",
+      "gloss": "nokukrwela"
+    },
+    {
+      "surface": "חדל",
+      "gloss": "wamisa"
+    },
+    {
+      "surface": "להשכיל",
+      "gloss": "ukuceba"
+    },
+    {
+      "surface": "להיטיב",
+      "gloss": "ukwenza okulungileyo"
+    }
+  ],
+  "timestamp": "2026-09-18T14:41:20.065453969Z",
+  "model": "glm-5.3"
+}

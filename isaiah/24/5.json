@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 24:5",
+  "book": "isaiah",
+  "lang": "xh",
+  "chapter": 24,
+  "translation": "Umhlaba wonyamalala ngaphantsi koohlala bakhe, kuba bayazidukisa iintlawulo, batshintshe umthetho weTora, baphule umnqophiso wekuqhubeke-phakade.",
+  "tokens": [
+    {
+      "surface": "והארץ",
+      "gloss": "umhlaba wonyamalala"
+    },
+    {
+      "surface": "חנפה",
+      "gloss": "onyamalala"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ngaphantsi"
+    },
+    {
+      "surface": "ישביה",
+      "gloss": "koohlala bakhe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "bayazidukisa iintlawulo"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "umthetho weTora"
+    },
+    {
+      "surface": "חלפו",
+      "gloss": "batshintshe"
+    },
+    {
+      "surface": "חק",
+      "gloss": "umthetho"
+    },
+    {
+      "surface": "הפרו",
+      "gloss": "baphule"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "umnqophiso"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "wekuqhubeke-phakade"
+    }
+  ],
+  "timestamp": "2026-09-18T11:18:19.906110703Z",
+  "model": "glm-5.3"
+}

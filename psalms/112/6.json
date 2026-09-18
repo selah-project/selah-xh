@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 112:6",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 112,
+  "translation": "Kuba akasayi kuzityabuka kuze kube phakade; olungileyo uza kuba ngu-sikhumbuzo esingunaphakade.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kuba"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "kuze kube phakade"
+    },
+    {
+      "surface": "לא",
+      "gloss": "akasayi"
+    },
+    {
+      "surface": "ימוט",
+      "gloss": "kuzityabuka"
+    },
+    {
+      "surface": "לזכר",
+      "gloss": "ngu-sikhumbuzo"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "esingunaphakade"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "uza kuba"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "olungileyo"
+    }
+  ],
+  "timestamp": "2026-09-18T15:20:28.071436764Z",
+  "model": "glm-5.3"
+}

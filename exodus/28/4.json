@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 28:4",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 28,
+  "translation": "Ezi ngoku ziiimpahla abaza kuzenza: ihoshena, ne-efoda, nameyila, ikethonetha eqhoboshiweyo, imitsnefethe, ne-aveneta; baza kuwenza impahla engcwele ka-Aharon umnakweno nakoonyana bakhe, ukuba asebenzele njengesibingeleli kum.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Ezi"
+    },
+    {
+      "surface": "הבגדים",
+      "gloss": "ziiimpahla"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "abaza kuzenza",
+      "marks": ""
+    },
+    {
+      "surface": "יעשו",
+      "gloss": "abaza kuzenza"
+    },
+    {
+      "surface": "חשן",
+      "gloss": "ihoshena"
+    },
+    {
+      "surface": "ואפוד",
+      "gloss": "ne-efoda"
+    },
+    {
+      "surface": "ומעיל",
+      "gloss": "nameyila"
+    },
+    {
+      "surface": "וכתנת",
+      "gloss": "ikethonetha"
+    },
+    {
+      "surface": "תשבץ",
+      "gloss": "eqhoboshiweyo"
+    },
+    {
+      "surface": "מצנפת",
+      "gloss": "imitsnefethe"
+    },
+    {
+      "surface": "ואבנט",
+      "gloss": "ne-aveneta"
+    },
+    {
+      "surface": "ועשו",
+      "gloss": "baza kuwenza"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "impahla"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "engcwele"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "ka-Aharon"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "umnakweno"
+    },
+    {
+      "surface": "ולבניו",
+      "gloss": "nakoonyana bakhe"
+    },
+    {
+      "surface": "לכהנו",
+      "gloss": "njengesibingeleli"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kum"
+    }
+  ],
+  "timestamp": "2026-09-18T06:15:56.196058403Z",
+  "model": "glm-5.3"
+}

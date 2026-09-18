@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 2:1",
+  "book": "1-chronicles",
+  "lang": "xh",
+  "chapter": 2,
+  "translation": "Ezi ngabanabantwana bakaIsrayeli: uRubheni, uShimeoni, uLevi, noYehuda, uYisaskari, noZevuluni.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Ezi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abanantwana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "bakaIsrayeli"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "uRubheni"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "uShimeoni"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "uLevi"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "noYehuda"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "uYisaskari"
+    },
+    {
+      "surface": "וזבלון",
+      "gloss": "noZevuluni"
+    }
+  ],
+  "timestamp": "2026-09-18T16:50:58.700934844Z",
+  "model": "glm-5.3"
+}

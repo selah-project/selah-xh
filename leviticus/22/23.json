@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "leviticus 22:23",
+  "book": "leviticus",
+  "lang": "xh",
+  "chapter": 22,
+  "translation": "Kodwa inkoku okanye iwulu elindekileyo okanye elicandekileyo — njengemincili niyakwenza ⟨את⟩-yo, kodwa njengenqophiso alisoze ⟨samkelwa⟩.",
+  "tokens": [
+    {
+      "surface": "ושור",
+      "gloss": "Kodwa inkoku"
+    },
+    {
+      "surface": "ושה",
+      "gloss": "okanye iwulu"
+    },
+    {
+      "surface": "שרוע",
+      "gloss": "elindekileyo"
+    },
+    {
+      "surface": "וקלוט",
+      "gloss": "okanye elicandekileyo"
+    },
+    {
+      "surface": "נדבה",
+      "gloss": "njengemincili"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "niyakwenza"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "-yo (inkoku okanye iwulu)"
+    },
+    {
+      "surface": "ולנדר",
+      "gloss": "kodwa njengenqophiso"
+    },
+    {
+      "surface": "לא",
+      "gloss": "alisoze"
+    },
+    {
+      "surface": "ירצה",
+      "gloss": "samkelwa"
+    }
+  ],
+  "timestamp": "2026-09-18T17:22:41.320667084Z",
+  "model": "glm-5.3"
+}

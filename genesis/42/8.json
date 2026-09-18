@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 42:8",
+  "book": "genesis",
+  "lang": "xh",
+  "chapter": 42,
+  "translation": "Wabazi uYosef ⟨את⟩ abakwabo, kodwa bona abazanga yena.",
+  "tokens": [
+    {
+      "surface": "ויכר",
+      "gloss": "wabazi"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "uYosef"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abakwabo"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "abakwabo"
+    },
+    {
+      "surface": "והם",
+      "gloss": "bona"
+    },
+    {
+      "surface": "לא",
+      "gloss": "abazanga"
+    },
+    {
+      "surface": "הכרהו",
+      "gloss": "yena"
+    }
+  ],
+  "timestamp": "2026-09-18T17:19:36.232412463Z",
+  "model": "glm-5.3"
+}

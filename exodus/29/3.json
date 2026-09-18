@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 29:3",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 29,
+  "translation": "Uza kuzibeka ⟨אתם⟩ kwisela elinye, uze ungene nazo kwisela, no⟨את⟩ inkomosi no⟨את⟩ amaqanda amabini.",
+  "tokens": [
+    {
+      "surface": "ונתת",
+      "gloss": "uza kuzibeka"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "uzibeka kwisela"
+    },
+    {
+      "surface": "על",
+      "gloss": "kwi-"
+    },
+    {
+      "surface": "סל",
+      "gloss": "isela"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "elinye"
+    },
+    {
+      "surface": "והקרבת",
+      "gloss": "uze ungene"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "nazo kwisela"
+    },
+    {
+      "surface": "בסל",
+      "gloss": "kwisela"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "no⟨את⟩"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "inkomosi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "no⟨את⟩"
+    },
+    {
+      "surface": "שני",
+      "gloss": "amabini"
+    },
+    {
+      "surface": "האילים",
+      "gloss": "amaqanda"
+    }
+  ],
+  "timestamp": "2026-09-18T06:18:56.999606890Z",
+  "model": "glm-5.3"
+}

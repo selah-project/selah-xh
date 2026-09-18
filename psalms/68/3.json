@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 68:3",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 68,
+  "translation": "Njengokutyotyozwa komusi, uza kubatyotyza; njengokunyibilika kweziba phambi komlilo, bayeni banjalo batshonelise phambi kukaElohim.",
+  "tokens": [
+    {
+      "surface": "כהנדף",
+      "gloss": "Njengokutyotyozwa"
+    },
+    {
+      "surface": "עשן",
+      "gloss": "komusi"
+    },
+    {
+      "surface": "תנדף",
+      "gloss": "uza kubatyotyza"
+    },
+    {
+      "surface": "כהמס",
+      "gloss": "njengokunyibilika"
+    },
+    {
+      "surface": "דונג",
+      "gloss": "kweziba"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "phambi"
+    },
+    {
+      "surface": "אש",
+      "gloss": "komlilo"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "banjalo batshonelise"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "bayeni"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "phambi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "kukaElohim"
+    }
+  ],
+  "timestamp": "2026-09-18T14:55:11.497660586Z",
+  "model": "glm-5.3"
+}

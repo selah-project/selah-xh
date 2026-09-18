@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 17:10",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 17,
+  "translation": "Amanqatha azo avalekile ⟨kuzo⟩; umlomo wazo uthethile ngonobukhosi.",
+  "tokens": [
+    {
+      "surface": "חלבמו",
+      "gloss": "amanqatha azo"
+    },
+    {
+      "surface": "סגרו",
+      "gloss": "avalekile"
+    },
+    {
+      "surface": "פימו",
+      "gloss": "umlomo wazo"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "uthethile"
+    },
+    {
+      "surface": "בגאות",
+      "gloss": "ngonobukhosi"
+    }
+  ],
+  "timestamp": "2026-09-18T14:30:48.716225020Z",
+  "model": "glm-5.3"
+}

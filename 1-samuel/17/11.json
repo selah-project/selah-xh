@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 17:11",
+  "book": "1-samuel",
+  "lang": "xh",
+  "chapter": 17,
+  "translation": "UShawuli nakuYisrayeli wonke bayeva ⟨את⟩ ezi zinto zoPelishti, bakhathazeka, bagqibela ukoyika kakhulu.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "bayeva"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "uShawuli"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "naku... wonke"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrayeli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ezi zinto zoPelishti"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ezi zinto"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "zoPelishti"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ezi"
+    },
+    {
+      "surface": "ויחתו",
+      "gloss": "bakhathazeka"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "bagqibela ukoyika"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "kakhulu"
+    }
+  ],
+  "timestamp": "2026-09-18T09:27:27.827453924Z",
+  "model": "glm-5.3"
+}

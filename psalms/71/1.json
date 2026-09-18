@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 71:1",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 71,
+  "translation": "Kuwe, uYahwe, ndicinge ukhuseleko; musa ndenze ndibhidiske phakade.",
+  "tokens": [
+    {
+      "surface": "בך",
+      "gloss": "kuwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "ndicinge ukhuseleko"
+    },
+    {
+      "surface": "אל",
+      "gloss": "musa"
+    },
+    {
+      "surface": "אבושה",
+      "gloss": "ndenze ndibhidiske"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "phakade"
+    }
+  ],
+  "timestamp": "2026-09-18T17:44:51.609843373Z",
+  "model": "glm-5.3"
+}

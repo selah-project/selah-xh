@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 138:7",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 138,
+  "translation": "Ukuba ndihamba phakathi kobunzima, undiphilisa; phezu kolwazi lwezitha zam uthumla isandla sakho, kwaye undisindisa ngesandla sakho sokunene.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Ukuba"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "ndihamba"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "phakathi"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "kobunzima"
+    },
+    {
+      "surface": "תחיני",
+      "gloss": "undiphilisa"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu"
+    },
+    {
+      "surface": "אף",
+      "gloss": "lwazi"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "lwezitha zam"
+    },
+    {
+      "surface": "תשלח",
+      "gloss": "uthumla"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "isandla sakho"
+    },
+    {
+      "surface": "ותושיעני",
+      "gloss": "kwaye undisindisa"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "ngesandla sakho sokunene"
+    }
+  ],
+  "timestamp": "2026-09-18T15:31:31.103629796Z",
+  "model": "glm-5.3"
+}

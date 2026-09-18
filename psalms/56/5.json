@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 56:5",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 56,
+  "translation": "KuElohim ndidumisa ilizwi lakhe; kuElohim ndibeke ithemba; andoyiki oko umzimba unako ukwenza kum.",
+  "tokens": [
+    {
+      "surface": "באלהים",
+      "gloss": "kuElohim"
+    },
+    {
+      "surface": "אהלל",
+      "gloss": "ndidumisa"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "ilizwi lakhe"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "kuElohim"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "ndibeke ithemba"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hayi\/andi-"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "ndoyiki"
+    },
+    {
+      "surface": "מה",
+      "gloss": "oko"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "unako ukwenza"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "umzimba"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kum"
+    }
+  ],
+  "timestamp": "2026-09-18T14:51:20.207461461Z",
+  "model": "glm-5.3"
+}

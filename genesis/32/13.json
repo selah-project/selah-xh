@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 32:13",
+  "book": "genesis",
+  "lang": "xh",
+  "chapter": 32,
+  "translation": "Wena wathetha: “Ndiza kukwenza kakuhle kakuhle, ndiza kubeka ⟨את⟩ imbewu yakho njengentsimbi yolwandle, engeke ibalwa ngenxa yolwazi.”",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Wena"
+    },
+    {
+      "surface": "אמרת",
+      "gloss": "wathetha"
+    },
+    {
+      "surface": "היטב",
+      "gloss": "kakuhle"
+    },
+    {
+      "surface": "איטיב",
+      "gloss": "Ndiza kukwenza kakuhle"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "wena"
+    },
+    {
+      "surface": "ושמתי",
+      "gloss": "ndiza kubeka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "imbewu yakho"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "imbewu yakho"
+    },
+    {
+      "surface": "כחול",
+      "gloss": "njengentsimbi"
+    },
+    {
+      "surface": "הים",
+      "gloss": "yolwandle"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "engu-"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ngeke"
+    },
+    {
+      "surface": "יספר",
+      "gloss": "ibalwa"
+    },
+    {
+      "surface": "מרב",
+      "gloss": "ngenxa yolwazi"
+    }
+  ],
+  "timestamp": "2026-09-18T05:28:51.356366780Z",
+  "model": "glm-5.3"
+}

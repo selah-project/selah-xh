@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "psalms 106:40",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 106,
+  "translation": "Intlonelo kaYahwe ivuthwe ngokumelene nabantu bakhe, waza wayenxa ⟨את⟩ ifa lakhe.",
+  "tokens": [
+    {
+      "surface": "ויחר",
+      "gloss": "ivuthwe (intlonelo)"
+    },
+    {
+      "surface": "אף",
+      "gloss": "intlonelo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kaYahwe"
+    },
+    {
+      "surface": "בעמו",
+      "gloss": "ngokumelene nabantu bakhe"
+    },
+    {
+      "surface": "ויתעב",
+      "gloss": "wayenxa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ifa lakhe"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "ifa lakhe"
+    }
+  ],
+  "timestamp": "2026-09-18T15:16:11.610348746Z",
+  "model": "glm-5.3"
+}

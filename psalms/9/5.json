@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 9:5",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 9,
+  "translation": "Kuba wenze isigwebo sam ne-icala iam; wahlalela isihlalo somgwebo, ugweba ngokulungileyo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kuba"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "wenze"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "isigwebo sam"
+    },
+    {
+      "surface": "ודיני",
+      "gloss": "ne-icala iam"
+    },
+    {
+      "surface": "ישבת",
+      "gloss": "wahlalela"
+    },
+    {
+      "surface": "לכסא",
+      "gloss": "isihlalo somgwebo"
+    },
+    {
+      "surface": "שופט",
+      "gloss": "ugweba"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "ngokulungileyo"
+    }
+  ],
+  "timestamp": "2026-09-18T14:30:41.795557241Z",
+  "model": "glm-5.3"
+}

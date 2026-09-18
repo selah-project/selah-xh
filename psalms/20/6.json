@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 20:6",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 20,
+  "translation": "Siza kudanisa ngesiphephelo sakho, sibhema umkhosi ngesiGama sikaElohim wethu; uYahwe azalise zonke iicelo zakho.",
+  "tokens": [
+    {
+      "surface": "נרננה",
+      "gloss": "siza kudanisa"
+    },
+    {
+      "surface": "בישועתך",
+      "gloss": "ngesiphephelo sakho"
+    },
+    {
+      "surface": "ובשם",
+      "gloss": "ngesiGama"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "sikaElohim wethu"
+    },
+    {
+      "surface": "נדגל",
+      "gloss": "sibhema umkhosi"
+    },
+    {
+      "surface": "ימלא",
+      "gloss": "azalise"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zonke"
+    },
+    {
+      "surface": "משאלותיך",
+      "gloss": "iicelo zakho"
+    }
+  ],
+  "timestamp": "2026-09-18T14:35:09.351051345Z",
+  "model": "glm-5.3"
+}

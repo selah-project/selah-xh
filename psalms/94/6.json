@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 94:6",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 94,
+  "translation": "Bayabulala ⟨את⟩ ifelokazi nendwendwe, batywiniyaza ⟨את⟩ abantwana abazaliwe abafileyo.",
+  "tokens": [
+    {
+      "surface": "אלמנה",
+      "gloss": "ifelokazi"
+    },
+    {
+      "surface": "וגר",
+      "gloss": "nendwendwe"
+    },
+    {
+      "surface": "יהרגו",
+      "gloss": "bayabulala"
+    },
+    {
+      "surface": "ויתומים",
+      "gloss": "nabantwana abazaliwe abafileyo"
+    },
+    {
+      "surface": "ירצחו",
+      "gloss": "batywiniyaza"
+    }
+  ],
+  "timestamp": "2026-09-18T17:44:31.094233314Z",
+  "model": "glm-5.3"
+}

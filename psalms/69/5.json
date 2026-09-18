@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 69:5",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 69,
+  "translation": "Baninzi ngakumbi kweentsana zeenwele zentloko yam abandithiyayo mahala; banamandla abanditshabalalisayo, abachasi bam bubuxoki; oko bendandizange ndidligaze, ndiza kubuyisa.",
+  "tokens": [
+    {
+      "surface": "רבו",
+      "gloss": "baninzi ngakumbi"
+    },
+    {
+      "surface": "משערות",
+      "gloss": "kweentsana zeenwele"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "zentloko yam"
+    },
+    {
+      "surface": "שנאי",
+      "gloss": "abandithiyayo"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "mahala"
+    },
+    {
+      "surface": "עצמו",
+      "gloss": "banamandla"
+    },
+    {
+      "surface": "מצמיתי",
+      "gloss": "abanditshabalalisayo"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "abachasi bam"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "bubuxoki"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oko"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndizange"
+    },
+    {
+      "surface": "גזלתי",
+      "gloss": "ndidligaze"
+    },
+    {
+      "surface": "אז",
+      "gloss": "ndiza"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "kubuyisa"
+    }
+  ],
+  "timestamp": "2026-09-18T14:56:53.637156762Z",
+  "model": "glm-5.3"
+}

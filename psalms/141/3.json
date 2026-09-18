@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 141:3",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 141,
+  "translation": "Misela ulindelo, uYahwe, phambi komlomo wam; ulindele umnyango weempleya zam.",
+  "tokens": [
+    {
+      "surface": "שיתה",
+      "gloss": "Misela"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "שמרה",
+      "gloss": "ulindelo"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "phambi komlomo wam"
+    },
+    {
+      "surface": "נצרה",
+      "gloss": "ulindele"
+    },
+    {
+      "surface": "על",
+      "gloss": ""
+    },
+    {
+      "surface": "דל",
+      "gloss": "umnyango"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "weempleya zam"
+    }
+  ],
+  "timestamp": "2026-09-18T15:31:49.730617127Z",
+  "model": "glm-5.3"
+}

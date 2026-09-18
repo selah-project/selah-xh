@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 48:2",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 48,
+  "translation": "Mkhulu uYahwe, kwaye odunwa kakhulu, esixekweni sikaElohim wethu, intabana yakhe engcwele.",
+  "tokens": [
+    {
+      "surface": "גדול",
+      "gloss": "Mkhulu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "ומהלל",
+      "gloss": "kwaye odunwa"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "kakhulu"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "esixekweni"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "sikaElohim wethu"
+    },
+    {
+      "surface": "הר",
+      "gloss": "intabana"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "engcwele yakhe"
+    }
+  ],
+  "timestamp": "2026-09-18T14:48:12.890134272Z",
+  "model": "glm-5.3"
+}

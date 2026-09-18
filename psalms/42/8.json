@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 42:8",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 42,
+  "translation": "Ubuzela bubiza obuzela ngesandi sokududuma kwamanzi akho; onke amaza akho namagxalabahle akho adlula phezu kwam.",
+  "tokens": [
+    {
+      "surface": "תהום",
+      "gloss": "Ubuzela"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "תהום",
+      "gloss": "obuzela"
+    },
+    {
+      "surface": "קורא",
+      "gloss": "bubiza"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "ngesandi"
+    },
+    {
+      "surface": "צנוריך",
+      "gloss": "sokududuma kwamanzi akho"
+    },
+    {
+      "surface": "כל",
+      "gloss": "onke"
+    },
+    {
+      "surface": "משבריך",
+      "gloss": "amaza akho"
+    },
+    {
+      "surface": "וגליך",
+      "gloss": "namagxalabahle akho"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "phezu kwam"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "adlula"
+    }
+  ],
+  "timestamp": "2026-09-18T14:45:53.084225479Z",
+  "model": "glm-5.3"
+}

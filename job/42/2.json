@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 42:2",
+  "book": "job",
+  "lang": "xh",
+  "chapter": 42,
+  "translation": "Ndiyazi ukuba uyakwazi konke, yaye akukho cebo livaliwe kuwe.",
+  "tokens": [
+    {
+      "surface": "ידעת",
+      "gloss": "ndiyazi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ukuba"
+    },
+    {
+      "surface": "כל",
+      "gloss": "konke"
+    },
+    {
+      "surface": "תוכל",
+      "gloss": "uyakwazi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "yaye akukho"
+    },
+    {
+      "surface": "יבצר",
+      "gloss": "livaliwe"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "kuwe"
+    },
+    {
+      "surface": "מזמה",
+      "gloss": "icebo"
+    }
+  ],
+  "timestamp": "2026-09-18T16:15:40.071570876Z",
+  "model": "glm-5.3"
+}

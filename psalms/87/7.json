@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 87:7",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 87,
+  "translation": "Kwaye abaculi njengabadanso ⟨baya kuthi⟩: “Onke imithombo yam zikukho.”",
+  "tokens": [
+    {
+      "surface": "ושרים",
+      "gloss": "abaculi"
+    },
+    {
+      "surface": "כחללים",
+      "gloss": "njengabadanso"
+    },
+    {
+      "surface": "כל",
+      "gloss": "onke"
+    },
+    {
+      "surface": "מעיני",
+      "gloss": "imithombo"
+    },
+    {
+      "surface": "בך",
+      "gloss": "zikukho"
+    }
+  ],
+  "timestamp": "2026-09-18T15:07:20.909003854Z",
+  "model": "glm-5.3"
+}

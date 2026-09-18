@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 120:4",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 120,
+  "translation": "Iintolo ezisempini zommandla, ezigxininisiweyo, kunye namalahle oor ethamu.",
+  "tokens": [
+    {
+      "surface": "חצי",
+      "gloss": "Iintolo"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "zommandla"
+    },
+    {
+      "surface": "שנונים",
+      "gloss": "ezigxininisiweyo"
+    },
+    {
+      "surface": "עם",
+      "gloss": "kunye na-"
+    },
+    {
+      "surface": "גחלי",
+      "gloss": "amalahle"
+    },
+    {
+      "surface": "רתמים",
+      "gloss": "oor ethamu"
+    }
+  ],
+  "timestamp": "2026-09-18T15:26:24.662507309Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 25:2",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 25,
+  "translation": "Elohim wam, kuwe ndithembile; musa ukundenza ndidideke; musa ukuba abachasi bam ponelise ngam.",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim wam"
+    },
+    {
+      "surface": "בך",
+      "gloss": "kuwe"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "ndithembile"
+    },
+    {
+      "surface": "אל",
+      "gloss": "musa ukundenza"
+    },
+    {
+      "surface": "אבושה",
+      "gloss": "ndidideke"
+    },
+    {
+      "surface": "אל",
+      "gloss": "musa ukuba"
+    },
+    {
+      "surface": "יעלצו",
+      "gloss": "ponelise"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "abachasi bam"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ngam"
+    }
+  ],
+  "timestamp": "2026-09-18T14:37:42.069928065Z",
+  "model": "glm-5.3"
+}

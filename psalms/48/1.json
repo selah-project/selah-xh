@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 48:1",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 48,
+  "translation": "Ingoma, umzimoro, woonyana bakaKorahi.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Ingoma"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "umzimoro"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "woonyana baka-"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korahi"
+    }
+  ],
+  "timestamp": "2026-09-18T14:48:12.889849925Z",
+  "model": "glm-5.3"
+}

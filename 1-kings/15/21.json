@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-kings 15:21",
+  "book": "1-kings",
+  "lang": "xh",
+  "chapter": 15,
+  "translation": "Waba kuba, ekuvaveni u-Baasha, wayeka ukwakha ⟨את⟩ iRama, wayahlala eTirtsa.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Waba kuba"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "ekuvaveni"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "u-Baasha"
+    },
+    {
+      "surface": "ויחדל",
+      "gloss": "wayeka"
+    },
+    {
+      "surface": "מבנות",
+      "gloss": "ukwakha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iRama"
+    },
+    {
+      "surface": "הרמה",
+      "gloss": "iRama"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "wayahlala"
+    },
+    {
+      "surface": "בתרצה",
+      "gloss": "eTirtsa"
+    }
+  ],
+  "timestamp": "2026-09-18T10:30:39.809341244Z",
+  "model": "glm-5.3"
+}

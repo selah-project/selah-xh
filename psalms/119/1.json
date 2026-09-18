@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 119:1",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 119,
+  "translation": "Ulonwabo lwaba cocekileyo ngendlela yabo, abahamba kuTora kaYahwe.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "ulonwabo"
+    },
+    {
+      "surface": "תמימי",
+      "gloss": "aba cocekileyo"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "ngendlela"
+    },
+    {
+      "surface": "ההלכים",
+      "gloss": "abahamba"
+    },
+    {
+      "surface": "בתורת",
+      "gloss": "kuTora"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kaYahwe"
+    }
+  ],
+  "timestamp": "2026-09-18T15:23:27.276001480Z",
+  "model": "glm-5.3"
+}

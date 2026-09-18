@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 21:6",
+  "book": "numbers",
+  "lang": "xh",
+  "chapter": 21,
+  "translation": "Wathi uYahwe wathumela kwaba bantu ⟨את⟩ inyoka ezithayo ezivuthayo; zakhamba zilumela abantu, aze abantu abaninzi bakwaSirayeli abafileyo.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "wathumela"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "בעם",
+      "gloss": "kwaba bantu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "inyoka ezivuthayo"
+    },
+    {
+      "surface": "הנחשים",
+      "gloss": "injokwane ezivuthayo"
+    },
+    {
+      "surface": "השרפים",
+      "gloss": "ezivuthayo (ezifudumeleyo)"
+    },
+    {
+      "surface": "וינשכו",
+      "gloss": "zakhamba zilumela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abantu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "aze ... bafe"
+    },
+    {
+      "surface": "עם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "רב",
+      "gloss": "abaninzi"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "bakwaSirayeli"
+    }
+  ],
+  "timestamp": "2026-09-18T07:33:30.434388637Z",
+  "model": "glm-5.3"
+}

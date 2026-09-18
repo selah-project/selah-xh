@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 116:9",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 116,
+  "translation": "Ndiya kuhamba phambi koYahwe ezintlambezini zabethu.",
+  "tokens": [
+    {
+      "surface": "אתהלך",
+      "gloss": "Ndiya kuhamba"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "phambi ko-"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "בארצות",
+      "gloss": "ezintlambezini"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "zabethu"
+    }
+  ],
+  "timestamp": "2026-09-18T15:21:48.039077218Z",
+  "model": "glm-5.3"
+}

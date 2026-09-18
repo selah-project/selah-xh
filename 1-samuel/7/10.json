@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 7:10",
+  "book": "1-samuel",
+  "lang": "xh",
+  "chapter": 7,
+  "translation": "Kwathi uSamuweli esenyusa isithobo, abantu baseFilisti behamba beledelele ukulwa neSirayeli; kodwa uYahwe wabadumaza ngesandi esikhulu ngelo mini phezu kwabantu baseFilisti, wabakhathaza, kwabaphelwa phambi koSirayeli.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "kwathi"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "uSamuweli"
+    },
+    {
+      "surface": "מעלה",
+      "gloss": "esenyusa"
+    },
+    {
+      "surface": "העולה",
+      "gloss": "isithobo"
+    },
+    {
+      "surface": "ופלשתים",
+      "gloss": "abantu baseFilisti"
+    },
+    {
+      "surface": "נגשו",
+      "gloss": "belekela"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "ukulwa"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "neSirayeli"
+    },
+    {
+      "surface": "וירעם",
+      "gloss": "wabadumaza"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "ngesandi"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "esikhulu"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ngelo mini"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "le"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu kwa"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "abantu baseFilisti"
+    },
+    {
+      "surface": "ויהמם",
+      "gloss": "wabakhathaza"
+    },
+    {
+      "surface": "וינגפו",
+      "gloss": "kwabaphelwa"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "phambi kwa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Sirayeli"
+    }
+  ],
+  "timestamp": "2026-09-18T09:15:40.955169695Z",
+  "model": "glm-5.3"
+}

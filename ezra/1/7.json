@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezra 1:7",
+  "book": "ezra",
+  "lang": "xh",
+  "chapter": 1,
+  "translation": "Inkosi uKoreshi yakhupha ⟨את⟩ izinto zendlu kaYahwe uNebukadnetshar awayezikhuphe eYerushalayimi, waza wazibeka endlwini yothixo bakhe.",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "inkosi"
+    },
+    {
+      "surface": "כורש",
+      "gloss": "uKoreshi"
+    },
+    {
+      "surface": "הוציא",
+      "gloss": "yakhupha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izinto zendlu kaYahwe"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "izinto"
+    },
+    {
+      "surface": "בית",
+      "gloss": "zendlu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kaYahwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ezi"
+    },
+    {
+      "surface": "הוציא",
+      "gloss": "wayezikhuphe"
+    },
+    {
+      "surface": "נבוכדנצר",
+      "gloss": "uNebukadnetshar"
+    },
+    {
+      "surface": "מירושלם",
+      "gloss": "eYerushalayimi"
+    },
+    {
+      "surface": "ויתנם",
+      "gloss": "wazibeka"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "endlwini"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "yothixo bakhe"
+    }
+  ],
+  "timestamp": "2026-09-18T16:39:27.622139846Z",
+  "model": "glm-5.3"
+}

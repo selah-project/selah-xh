@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 31:3",
+  "book": "proverbs",
+  "lang": "xh",
+  "chapter": 31,
+  "translation": "Musa ukunika abafazi amandla akho, nokwendlela zakho kwinto etshatyalalisa iinkosi.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "musa"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "ukunika"
+    },
+    {
+      "surface": "לנשים",
+      "gloss": "abafazi"
+    },
+    {
+      "surface": "חילך",
+      "gloss": "amandla akho"
+    },
+    {
+      "surface": "ודרכיך",
+      "gloss": "nokwendlela zakho"
+    },
+    {
+      "surface": "למחות",
+      "gloss": "ukutshatyalalisa"
+    },
+    {
+      "surface": "מלכין",
+      "gloss": "iinkosi"
+    }
+  ],
+  "timestamp": "2026-09-18T15:59:35.200464378Z",
+  "model": "glm-5.3"
+}

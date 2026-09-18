@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 57:8",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 57,
+  "translation": "Intliziyo yam ilungele, uElohim, intliziyo yam ilungele; ndiza kucula, ndiza kudumisa.",
+  "tokens": [
+    {
+      "surface": "נכון",
+      "gloss": "ilungele"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "intliziyo yam"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "ilungele"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "intliziyo yam"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "ndiza kucula"
+    },
+    {
+      "surface": "ואזמרה",
+      "gloss": "ndiza kudumisa"
+    }
+  ],
+  "timestamp": "2026-09-18T14:52:10.456471353Z",
+  "model": "glm-5.3"
+}

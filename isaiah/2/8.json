@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 2:8",
+  "book": "isaiah",
+  "lang": "xh",
+  "chapter": 2,
+  "translation": "Ilizwe labo lalizalile izithixo, kumsebenzi wezandla zabo bayakhobele, koko kwakwenziwa yimincwele yabo.",
+  "tokens": [
+    {
+      "surface": "ותמלא",
+      "gloss": "lalizalile"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "ilizwe labo"
+    },
+    {
+      "surface": "אלילים",
+      "gloss": "izithixo"
+    },
+    {
+      "surface": "למעשה",
+      "gloss": "kumsebenzi"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "wezandla zabo"
+    },
+    {
+      "surface": "ישתחוו",
+      "gloss": "bayakhobele"
+    },
+    {
+      "surface": "לאשר",
+      "gloss": "koko"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "kwakwenziwa"
+    },
+    {
+      "surface": "אצבעתיו",
+      "gloss": "yimincwele yabo"
+    }
+  ],
+  "timestamp": "2026-09-18T11:00:26.118341071Z",
+  "model": "glm-5.3"
+}

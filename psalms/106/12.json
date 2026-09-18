@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 106:12",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 106,
+  "translation": "Baza bakholwa kwiinkcazelo zakhe, baliduma elidumo lakhe.",
+  "tokens": [
+    {
+      "surface": "ויאמינו",
+      "gloss": "bakholwa"
+    },
+    {
+      "surface": "בדבריו",
+      "gloss": "kwiinkcazelo zakhe"
+    },
+    {
+      "surface": "ישירו",
+      "gloss": "baliduma"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "elidumo lakhe"
+    }
+  ],
+  "timestamp": "2026-09-18T15:16:52.806113035Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 34:11",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 34,
+  "translation": "Iingonyana ezincinci ziswela zimba; abafuna uYahwe abasweli nantoni na ilungileyo.",
+  "tokens": [
+    {
+      "surface": "כפירים",
+      "gloss": "Iingonyana ezincinci"
+    },
+    {
+      "surface": "רשו",
+      "gloss": "ziswela"
+    },
+    {
+      "surface": "ורעבו",
+      "gloss": "zimba"
+    },
+    {
+      "surface": "ודרשי",
+      "gloss": "abafuna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "akayi \/ abasweli"
+    },
+    {
+      "surface": "יחסרו",
+      "gloss": "kusweleke"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nantoni na"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ilungileyo"
+    }
+  ],
+  "timestamp": "2026-09-18T14:40:09.638305294Z",
+  "model": "glm-5.3"
+}

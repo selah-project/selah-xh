@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 7:7",
+  "book": "genesis",
+  "lang": "xh",
+  "chapter": 7,
+  "translation": "UNoa wangena, noonyana bakhe, nomfazi wakhe, nabafazi oonyana bakhe banganaye ⟨את⟩, kwisikepe, ngenxa yamanzi omkhululo.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "wangena"
+    },
+    {
+      "surface": "נח",
+      "gloss": "UNoa"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "noonyana bakhe"
+    },
+    {
+      "surface": "ואשתו",
+      "gloss": "nomfazi wakhe"
+    },
+    {
+      "surface": "ונשי",
+      "gloss": "nabafazi"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "oonyana bakhe"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ naye"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwisikepe (kwi)"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "isikepe (ityeba)"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "ngenxa (emva kwazo)"
+    },
+    {
+      "surface": "מי",
+      "gloss": "amanzi"
+    },
+    {
+      "surface": "המבול",
+      "gloss": "omkhululo"
+    }
+  ],
+  "timestamp": "2026-09-18T05:09:30.494910558Z",
+  "model": "glm-5.3"
+}

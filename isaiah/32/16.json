@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 32:16",
+  "book": "isaiah",
+  "lang": "xh",
+  "chapter": 32,
+  "translation": "umgangatho uya kuhlala esinkangala, ulungisa luya kuhlala ecakeni elilinyiweyo.",
+  "tokens": [
+    {
+      "surface": "ושכן",
+      "gloss": "uya kuhlala"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "esinkangala"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "umgangatho"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "ulungisa"
+    },
+    {
+      "surface": "בכרמל",
+      "gloss": "ecakeni elilinyiweyo"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "luya kuhlala"
+    }
+  ],
+  "timestamp": "2026-09-18T11:22:13.353904970Z",
+  "model": "glm-5.3"
+}

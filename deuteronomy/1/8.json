@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 1:8",
+  "book": "deuteronomy",
+  "lang": "xh",
+  "chapter": 1,
+  "translation": "Bona, ndibe ndinizela phambi kwenu ⟨את⟩ ilizwe; ningeni, nilibambe ⟨את⟩ ilizwe uYahwe awafungisela ooBawo — u-Avraham, u-Yitshak, noYa'akob — ukubaleza bona nasemvelini yabo emva kwabo.",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "Bona"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "ndibe ndinizela"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "phambi kwenu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ilizwe"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ilizwe"
+    },
+    {
+      "surface": "באו",
+      "gloss": "ningeni"
+    },
+    {
+      "surface": "ורשו",
+      "gloss": "nilibambe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ilizwe"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ilizwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "elo"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "awafungisela"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "לאבתיכם",
+      "gloss": "ooBawo"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "u-Avraham"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "u-Yitshak"
+    },
+    {
+      "surface": "וליעקב",
+      "gloss": "noYa'akob"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "ukubaleza"
+    },
+    {
+      "surface": "להם",
+      "gloss": "bona"
+    },
+    {
+      "surface": "ולזרעם",
+      "gloss": "nasemvelini yabo"
+    },
+    {
+      "surface": "אחריהם",
+      "gloss": "emva kwabo"
+    }
+  ],
+  "timestamp": "2026-09-18T07:53:05.043339486Z",
+  "model": "glm-5.3"
+}

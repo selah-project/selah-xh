@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 26:30",
+  "book": "genesis",
+  "lang": "xh",
+  "chapter": 26,
+  "translation": "Wabaenza umkhosi kubo, basebatya basebasela.",
+  "tokens": [
+    {
+      "surface": "ועש",
+      "gloss": "wabaenza"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kubo"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "umkhosi wokunxila"
+    },
+    {
+      "surface": "ויאכלו",
+      "gloss": "batya"
+    },
+    {
+      "surface": "וישתו",
+      "gloss": "basela"
+    }
+  ],
+  "timestamp": "2026-09-18T05:23:09.409394517Z",
+  "model": "glm-5.3"
+}

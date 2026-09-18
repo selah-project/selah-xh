@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 8:1",
+  "book": "1-chronicles",
+  "lang": "xh",
+  "chapter": 8,
+  "translation": "UBinyamin wazala ⟨את⟩ uBhela umzwana wakhe wokuqala; u-Ashbeli eyesibini, no-Ahrah eyesithathu.",
+  "tokens": [
+    {
+      "surface": "ובנימן",
+      "gloss": "UBinyamin"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "wazala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uBhela"
+    },
+    {
+      "surface": "בלע",
+      "gloss": "uBhela"
+    },
+    {
+      "surface": "בכרו",
+      "gloss": "umzwana wakhe wokuqala"
+    },
+    {
+      "surface": "אשבל",
+      "gloss": "u-Ashbeli"
+    },
+    {
+      "surface": "השני",
+      "gloss": "eyesibini"
+    },
+    {
+      "surface": "ואחרח",
+      "gloss": "no-Ahrah"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "eyesithathu"
+    }
+  ],
+  "timestamp": "2026-09-18T17:50:24.364418401Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 16:12",
+  "book": "deuteronomy",
+  "lang": "xh",
+  "chapter": 16,
+  "translation": "Uza kukhumbula ukuba ubu⟨ngumkhonza⟩ kwiMitsrayim, uza kugcina wenza ⟨את⟩ le migaqo.",
+  "tokens": [
+    {
+      "surface": "וזכרת",
+      "gloss": "uza kukhumbula"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ukuba"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "ngumkhonza"
+    },
+    {
+      "surface": "היית",
+      "gloss": "ubu⟨ngumkhonza⟩"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "kwiMitsrayim"
+    },
+    {
+      "surface": "ושמרת",
+      "gloss": "uza kugcina"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "wenza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le migaqo"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "migaqo"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "le"
+    }
+  ],
+  "timestamp": "2026-09-18T08:08:58.574768049Z",
+  "model": "glm-5.3"
+}

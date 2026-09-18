@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 37:23",
+  "book": "genesis",
+  "lang": "xh",
+  "chapter": 37,
+  "translation": "KWaba njani, xa efikelela uYosef kumkhuluwa wakhe, baza bamtshula uYosef ⟨את⟩ ingubo yakhe, ⟨את⟩ ingubo yeepasim ezaye esimbadweni.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "KWaba njani"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "xa"
+    },
+    {
+      "surface": "בא",
+      "gloss": "efikelela"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "uYosef"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "abakhuluwa bakhe"
+    },
+    {
+      "surface": "ויפשיטו",
+      "gloss": "bamtshula"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uYosef"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "uYosef"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ingubo yakhe"
+    },
+    {
+      "surface": "כתנתו",
+      "gloss": "ingubo yakhe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ingubo yeepasim"
+    },
+    {
+      "surface": "כתנת",
+      "gloss": "ingubo"
+    },
+    {
+      "surface": "הפסים",
+      "gloss": "yeepasim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ezaye"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "esimbadweni"
+    }
+  ],
+  "timestamp": "2026-09-18T05:36:47.251627404Z",
+  "model": "glm-5.3"
+}

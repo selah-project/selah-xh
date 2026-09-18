@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 129:4",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 129,
+  "translation": "uYahwe ulungileleyo, wasika iintambo zeenkohlakalo.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ulungileleyo"
+    },
+    {
+      "surface": "קצץ",
+      "gloss": "wasika"
+    },
+    {
+      "surface": "עבות",
+      "gloss": "iintambo"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "zeenkohlakalo"
+    }
+  ],
+  "timestamp": "2026-09-18T15:26:59.426439399Z",
+  "model": "glm-5.3"
+}

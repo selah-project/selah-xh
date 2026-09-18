@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 40:10",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 40,
+  "translation": "Ndazisile iindaba zobulungisa kwisiqulatho esikhulu; yabona, milomo yam ayizi kuthintelwa — wena, uYahwe, uyayazi.",
+  "tokens": [
+    {
+      "surface": "בשרתי",
+      "gloss": "ndazisile iindaba"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "zobulungisa"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "kwisiqulatho"
+    },
+    {
+      "surface": "רב",
+      "gloss": "esikhulu"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "yabona"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "miloma yam"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ayi"
+    },
+    {
+      "surface": "אכלא",
+      "gloss": "zi kuthintelwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "uyayazi"
+    }
+  ],
+  "timestamp": "2026-09-18T14:44:25.941533351Z",
+  "model": "glm-5.3"
+}

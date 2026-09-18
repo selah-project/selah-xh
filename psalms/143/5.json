@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 143:5",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 143,
+  "translation": "Ndikhumbule iintsuku zamandulo; ndicinga ngezenzo zakho zonke; ngomsebenzi wezandla zakhe ⟨ndicinga ngokucokisisa⟩.",
+  "tokens": [
+    {
+      "surface": "זכרתי",
+      "gloss": "Ndikhumbule"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "iintsuku"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "zamandulo"
+    },
+    {
+      "surface": "הגיתי",
+      "gloss": "ndicinga"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ngezonke"
+    },
+    {
+      "surface": "פעלך",
+      "gloss": "ezenzo zakho"
+    },
+    {
+      "surface": "במעשה",
+      "gloss": "ngomsebenzi"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "wezandla zakho"
+    },
+    {
+      "surface": "אשוחח",
+      "gloss": "ndicinga ngokucokisisa"
+    }
+  ],
+  "timestamp": "2026-09-18T15:32:43.097227349Z",
+  "model": "glm-5.3"
+}

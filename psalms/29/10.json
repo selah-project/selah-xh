@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 29:10",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 29,
+  "translation": "uYahwe wayehlela ngomkhosi wamanzi, uYahwe ehlela njengenkosi kuwo ubumi obungunaphakade.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "למבול",
+      "gloss": "ngomkhosi wamanzi"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "wayehlela"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "ehlela"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "njengenkosi"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "kuwo ubumi obungunaphakade"
+    }
+  ],
+  "timestamp": "2026-09-18T14:36:43.023829341Z",
+  "model": "glm-5.3"
+}

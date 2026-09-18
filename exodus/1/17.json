@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 1:17",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 1,
+  "translation": "Kwaye abasizi bezalisa basaba ⟨את⟩ uElohim, baza abenza njengoko inkosi yaseMitsrayim yayithethile kubo; baza baphilisa ⟨את⟩ abantwana.",
+  "tokens": [
+    {
+      "surface": "ותיראן",
+      "gloss": "basaba"
+    },
+    {
+      "surface": "המילדת",
+      "gloss": "abasizi bezalisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uElohim"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "baza abenza"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "benza"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "njengoko"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "yayithethile"
+    },
+    {
+      "surface": "אליהן",
+      "gloss": "kubo"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "inkosi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "yaseMitsrayim"
+    },
+    {
+      "surface": "ותחיין",
+      "gloss": "baphilisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abantwana"
+    },
+    {
+      "surface": "הילדים",
+      "gloss": "abantwana"
+    }
+  ],
+  "timestamp": "2026-09-18T05:48:58.980973707Z",
+  "model": "glm-5.3"
+}

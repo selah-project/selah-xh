@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 18:27",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 18,
+  "translation": "UMoshe wasithumela ⟨את⟩ umyeni wakhe-ntombi waye wahamba waza waya kwilakhe.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "wasithumela"
+    },
+    {
+      "surface": "משה",
+      "gloss": "uMoshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umyenakhe"
+    },
+    {
+      "surface": "חתנו",
+      "gloss": "umyeni wakhe-ntombi"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "wahamba"
+    },
+    {
+      "surface": "לו",
+      "gloss": "waza"
+    },
+    {
+      "surface": "אל",
+      "gloss": "waya"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "kwilakhe"
+    }
+  ],
+  "timestamp": "2026-09-18T06:04:09.295044124Z",
+  "model": "glm-5.3"
+}

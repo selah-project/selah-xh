@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ezekiel 6:12",
+  "book": "ezekiel",
+  "lang": "xh",
+  "chapter": 6,
+  "translation": "Osekude uya kufa ngesifo; osekufuphi uya kuwa ngekrele; oleleyo noqiniselweyo uya kufa ngendlala; ndiza kugqibezela ilaka lam kuwo.",
+  "tokens": [
+    {
+      "surface": "הרחוק",
+      "gloss": "Osekude"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "ngesifo"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "uya kufa"
+    },
+    {
+      "surface": "והקרוב",
+      "gloss": "osekufuphi"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "ngekrele"
+    },
+    {
+      "surface": "יפול",
+      "gloss": "uya kuwa"
+    },
+    {
+      "surface": "והנשאר",
+      "gloss": "oleleyo"
+    },
+    {
+      "surface": "והנצור",
+      "gloss": "noqiniselweyo"
+    },
+    {
+      "surface": "ברעב",
+      "gloss": "ngendlala"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "uya kufa"
+    },
+    {
+      "surface": "וכליתי",
+      "gloss": "ndiza kugqibezela"
+    },
+    {
+      "surface": "חמתי",
+      "gloss": "ilaka lam"
+    },
+    {
+      "surface": "בם",
+      "gloss": "kuwo"
+    }
+  ],
+  "timestamp": "2026-09-18T12:50:23.305161688Z",
+  "model": "glm-5.3"
+}

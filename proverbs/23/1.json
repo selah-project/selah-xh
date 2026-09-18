@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 23:1",
+  "book": "proverbs",
+  "lang": "xh",
+  "chapter": 23,
+  "translation": "Ukuba uhlala ukutya ⟨את⟩ nomlawuli, qaphela ngokucokisekileyo ⟨את⟩ oko kungase kubekwe phambi kwakho.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ukuba"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "uhlala"
+    },
+    {
+      "surface": "ללחום",
+      "gloss": "ukutya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nomlawuli"
+    },
+    {
+      "surface": "מושל",
+      "gloss": "nomlawuli"
+    },
+    {
+      "surface": "בין",
+      "gloss": "qaphela"
+    },
+    {
+      "surface": "תבין",
+      "gloss": "ngokucokisekileyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oko kungase kubekwe phambi kwakho"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oko"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "kungaphambi kwakho"
+    }
+  ],
+  "timestamp": "2026-09-18T15:54:50.905083017Z",
+  "model": "glm-5.3"
+}

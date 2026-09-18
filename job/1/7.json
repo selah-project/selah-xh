@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 1:7",
+  "book": "job",
+  "lang": "xh",
+  "chapter": 1,
+  "translation": "Wathi uYahwe kwi-sathana: Uvela phi? Waphendula isathana ⟨את⟩ uYahwe, wathi: Ukusuka ekuzulazula emhlabeni, nakwenkubo yokuhambe-hamba kuso.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Wathi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "השטן",
+      "gloss": "isathana"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "Uvela phi"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "uza"
+    },
+    {
+      "surface": "ויען",
+      "gloss": "Waphendula"
+    },
+    {
+      "surface": "השטן",
+      "gloss": "isathana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uYahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "משוט",
+      "gloss": "ekuzulazula"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "emhlabeni"
+    },
+    {
+      "surface": "ומהתהלך",
+      "gloss": "nakwenkubo yokuhambe-hamba"
+    },
+    {
+      "surface": "בה",
+      "gloss": "kuso"
+    }
+  ],
+  "timestamp": "2026-09-18T16:00:51.559720155Z",
+  "model": "glm-5.3"
+}

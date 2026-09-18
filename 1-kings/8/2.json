@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 8:2",
+  "book": "1-kings",
+  "lang": "xh",
+  "chapter": 8,
+  "translation": "Baza baqokelelana ku-inkosi yelizwe uShelomoh onke amadoda akaYisrayeli kweyanga yeEthanim, ngexesha lesiko — lona yeyanga yesixhenxe.",
+  "tokens": [
+    {
+      "surface": "ויקהלו",
+      "gloss": "baza baqokelelana"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "inkosi yelizwe"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "uShelomoh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "onke"
+    },
+    {
+      "surface": "איש",
+      "gloss": "amadoda"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "akaYisrayeli"
+    },
+    {
+      "surface": "בירח",
+      "gloss": "kweyanga"
+    },
+    {
+      "surface": "האתנים",
+      "gloss": "yeEthanim"
+    },
+    {
+      "surface": "בחג",
+      "gloss": "ngexesha lesiko"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "lona"
+    },
+    {
+      "surface": "החדש",
+      "gloss": "yeyanga"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "yesixhenxe"
+    }
+  ],
+  "timestamp": "2026-09-18T10:19:01.535826853Z",
+  "model": "glm-5.3"
+}

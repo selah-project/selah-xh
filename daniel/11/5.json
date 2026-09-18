@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "daniel 11:5",
+  "book": "daniel",
+  "lang": "xh",
+  "chapter": 11,
+  "translation": "Inkosi yaseMzantsi iza kuqiniswa, kunye nomicimbi wezi nkokeli zayo; yena uza kuqiniswa ngaphezu kwakhe, abe ulawulo; ulawulo olukhulu liza kuba lulawulo lwakhe.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "iza kuqiniswa"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "inkosi"
+    },
+    {
+      "surface": "הנגב",
+      "gloss": "yaseMzantsi"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "kwezi"
+    },
+    {
+      "surface": "שריו",
+      "gloss": "iinkokeli zakhe"
+    },
+    {
+      "surface": "ויחזק",
+      "gloss": "uza kuqiniswa"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ngaphezu kwakhe"
+    },
+    {
+      "surface": "ומשל",
+      "gloss": "abe ulawulo"
+    },
+    {
+      "surface": "ממשל",
+      "gloss": "ulawulo"
+    },
+    {
+      "surface": "רב",
+      "gloss": "olukhulu"
+    },
+    {
+      "surface": "ממשלתו",
+      "gloss": "ulawulo lwakhe"
+    }
+  ],
+  "timestamp": "2026-09-18T16:38:48.560136450Z",
+  "model": "glm-5.3"
+}

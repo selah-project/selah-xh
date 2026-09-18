@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 25:18",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 25,
+  "translation": "Uza kwenza iikerubhi ezimbini zegolide; umsebenzi oqhotsiweyo ngokubetha uza kuwenzela ⟨את⟩ zona, ekupheleni kokumbini kweisixoleli.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "Uza kwenza"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ezimbini"
+    },
+    {
+      "surface": "כרבים",
+      "gloss": "iikerubhi"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "zegolide"
+    },
+    {
+      "surface": "מקשה",
+      "gloss": "umsebenzi oqhotsiweyo ngokubetha"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "uza kuwenzela"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "zona (iikerubhi ezimbini)"
+    },
+    {
+      "surface": "משני",
+      "gloss": "kokumbini"
+    },
+    {
+      "surface": "קצות",
+      "gloss": "ekupheleni"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "kweisixoleli"
+    }
+  ],
+  "timestamp": "2026-09-18T06:14:25.609671008Z",
+  "model": "glm-5.3"
+}

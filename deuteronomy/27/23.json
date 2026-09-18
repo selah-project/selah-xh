@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 27:23",
+  "book": "deuteronomy",
+  "lang": "xh",
+  "chapter": 27,
+  "translation": "Owisiweleyo ngumntu ongcolileyo oqiniselekileyo — uye walala nomama kamfazi wakhe; abantu bonke baza kuthi: Amen.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "Owisiweleyo ngumntu ongcolileyo oqiniselekileyo —"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "olala"
+    },
+    {
+      "surface": "עם",
+      "gloss": "kunye"
+    },
+    {
+      "surface": "חתנתו",
+      "gloss": "nomama kamfazi wakhe"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "baza kuthi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bonke"
+    },
+    {
+      "surface": "העם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Amen"
+    }
+  ],
+  "timestamp": "2026-09-18T08:17:42.146785617Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 42:7",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 42,
+  "translation": "uElohim wam, phezu kwam inefeshi yam iyabetheka; ngoko ke ndiyakukhumbula, usuka emhlabeni weYordan, naseHermonini, usuka entabeni iMitsari.",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "uElohim wam"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "phezu kwam"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "inefeshi yam"
+    },
+    {
+      "surface": "תשתוחח",
+      "gloss": "iyabetheka"
+    },
+    {
+      "surface": "על",
+      "gloss": "ngoko"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ke"
+    },
+    {
+      "surface": "אזכרך",
+      "gloss": "ndiyakukhumbula"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "emhlabeni we"
+    },
+    {
+      "surface": "ירדן",
+      "gloss": "Yordan"
+    },
+    {
+      "surface": "וחרמונים",
+      "gloss": "naseHermonini"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "entabeni i"
+    },
+    {
+      "surface": "מצער",
+      "gloss": "Mitsari"
+    }
+  ],
+  "timestamp": "2026-09-18T14:45:53.084088159Z",
+  "model": "glm-5.3"
+}

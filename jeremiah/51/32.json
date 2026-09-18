@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "jeremiah 51:32",
+  "book": "jeremiah",
+  "lang": "xh",
+  "chapter": 51,
+  "translation": "Kananjalo iindlela zokudlula zathathwa, ⟨ואת⟩ iintlama zatshiswa ngomlilo, amadoda olwe adangele.",
+  "tokens": [
+    {
+      "surface": "והמעברות",
+      "gloss": "iindlela zokudlula"
+    },
+    {
+      "surface": "נתפשו",
+      "gloss": "zathathwa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "iintlama"
+    },
+    {
+      "surface": "האגמים",
+      "gloss": "iintlama"
+    },
+    {
+      "surface": "שרפו",
+      "gloss": "zatshiswa"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ngomlilo"
+    },
+    {
+      "surface": "ואנשי",
+      "gloss": "amadoda"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "olwe"
+    },
+    {
+      "surface": "נבהלו",
+      "gloss": "adangele"
+    }
+  ],
+  "timestamp": "2026-09-18T12:44:10.027132970Z",
+  "model": "glm-5.3"
+}

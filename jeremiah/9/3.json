@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 9:3",
+  "book": "jeremiah",
+  "lang": "xh",
+  "chapter": 9,
+  "translation": "Umntu ngamnye nomhlobo wakhe — qaphelani; nakwizibini zam zalwane ungazithembi; kuba umzalwana wonke ngumkhohlisi oguqukayo, nomhlobo ngamnye uhamba ekleva.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "umntu ngamnye"
+    },
+    {
+      "surface": "מרעהו",
+      "gloss": "nomhlobo wakhe"
+    },
+    {
+      "surface": "השמרו",
+      "gloss": "qaphelani"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "nakwi-"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zonke"
+    },
+    {
+      "surface": "אח",
+      "gloss": "izibini zam zalwane"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ungazithembi"
+    },
+    {
+      "surface": "תבטחו",
+      "gloss": "ukuthemba"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wonke"
+    },
+    {
+      "surface": "אח",
+      "gloss": "umzalwana"
+    },
+    {
+      "surface": "עקוב",
+      "gloss": "ngumkhohlisi"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "oguqukayo"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "nomhlobo ngamnye"
+    },
+    {
+      "surface": "רע",
+      "gloss": "(mhlobo)"
+    },
+    {
+      "surface": "רכיל",
+      "gloss": "ekleva"
+    },
+    {
+      "surface": "יהלך",
+      "gloss": "uhamba"
+    }
+  ],
+  "timestamp": "2026-09-18T12:03:31.627443024Z",
+  "model": "glm-5.3"
+}

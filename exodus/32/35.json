@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "exodus 32:35",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 32,
+  "translation": "Waba uYahwe wabetha ⟨את⟩ abantu, kuba benze ⟨את⟩ ithole elenziwa ngu-Aharon.",
+  "tokens": [
+    {
+      "surface": "ויגף",
+      "gloss": "wabetha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abantu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "על",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "benze"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "benze"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ithole"
+    },
+    {
+      "surface": "העגל",
+      "gloss": "ithole"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "elenziwa"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "elenziwa"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "ngu-Aharon"
+    }
+  ],
+  "timestamp": "2026-09-18T06:21:12.534825102Z",
+  "model": "glm-5.3"
+}

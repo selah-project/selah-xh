@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "song-of-songs 8:4",
+  "book": "song-of-songs",
+  "lang": "xh",
+  "chapter": 8,
+  "translation": "Ndinifungisile ngesibiyelo, amadoda akwaYerushalayimi — makungabi nanto yokuvusa nokuvusa uthando, de lithande ngokwalo.",
+  "tokens": [
+    {
+      "surface": "השבעתי",
+      "gloss": "Ndinifungisile"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ nisibiyelo"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "amadoda akwa-"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayimi"
+    },
+    {
+      "surface": "מה",
+      "gloss": "makungabi nanto"
+    },
+    {
+      "surface": "תעירו",
+      "gloss": "yokuvusa"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "nokuvusa"
+    },
+    {
+      "surface": "תעררו",
+      "gloss": "ukuvusa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uthando"
+    },
+    {
+      "surface": "האהבה",
+      "gloss": "uthando"
+    },
+    {
+      "surface": "עד",
+      "gloss": "de"
+    },
+    {
+      "surface": "שתחפץ",
+      "gloss": " lithande ngokwalo"
+    }
+  ],
+  "timestamp": "2026-09-18T16:18:41.152143448Z",
+  "model": "glm-5.3"
+}

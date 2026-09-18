@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 148:4",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 148,
+  "translation": "Dumani kuye, mazulu amazulu, namanzi asezulu apezulu kwamazulu.",
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "Dumani kuye"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "mazulu ama-"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "zulu"
+    },
+    {
+      "surface": "והמים",
+      "gloss": "nanz i"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a-"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "pezulu kwa-"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "mazulu"
+    }
+  ],
+  "timestamp": "2026-09-18T15:34:18.340304073Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 144:3",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 144,
+  "translation": "uYahwe, ngumntu ntoni na, ukuba umazi? Unyana womntu, ukuba umkhumbula ngakumbi?",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ntoni na"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "umntu"
+    },
+    {
+      "surface": "ותדעהו",
+      "gloss": "ukuba umazi"
+    },
+    {
+      "surface": "בן",
+      "gloss": "Unyana"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "womntu"
+    },
+    {
+      "surface": "ותחשבהו",
+      "gloss": "ukuba umkhumbula ngakumbi"
+    }
+  ],
+  "timestamp": "2026-09-18T15:32:30.587818513Z",
+  "model": "glm-5.3"
+}

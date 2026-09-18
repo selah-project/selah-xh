@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "psalms 106:38",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 106,
+  "translation": "Batyhaphhe igazi elingenabublungu, igazi lazonyana babo nangentombi zabo, abo babechithela izithombe zeKenaana; umhlaba wazityholiswa ngeegazi.",
+  "tokens": [
+    {
+      "surface": "וישפכו",
+      "gloss": "batyhaphhe"
+    },
+    {
+      "surface": "דם",
+      "gloss": "igazi"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "elingenabublungu"
+    },
+    {
+      "surface": "דם",
+      "gloss": "igazi"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "laoonyana babo"
+    },
+    {
+      "surface": "ובנותיהם",
+      "gloss": "nangentombi zabo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "abo"
+    },
+    {
+      "surface": "זבחו",
+      "gloss": "babechitha (imihlolongo)"
+    },
+    {
+      "surface": "לעצבי",
+      "gloss": "ezithombeni"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "iKenaana"
+    },
+    {
+      "surface": "ותחנף",
+      "gloss": "wazityholiswa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "umhlaba"
+    },
+    {
+      "surface": "בדמים",
+      "gloss": "ngeegazi"
+    }
+  ],
+  "timestamp": "2026-09-18T15:16:11.610018719Z",
+  "model": "glm-5.3"
+}

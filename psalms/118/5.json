@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 118:5",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 118,
+  "translation": "Kuxinzelelo ndabiza uYah; uYah wandiphendula kwindawo esibanzi.",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "kuxinzelelo"
+    },
+    {
+      "surface": "המצר",
+      "gloss": "kuxinzelelo"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "ndabiza"
+    },
+    {
+      "surface": "יה",
+      "gloss": "uYah"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "wandiphendula"
+    },
+    {
+      "surface": "במרחב",
+      "gloss": "kwindawo esibanzi"
+    },
+    {
+      "surface": "יה",
+      "gloss": "uYah"
+    }
+  ],
+  "timestamp": "2026-09-18T15:21:59.832271692Z",
+  "model": "glm-5.3"
+}

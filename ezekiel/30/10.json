@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 30:10",
+  "book": "ezekiel",
+  "lang": "xh",
+  "chapter": 30,
+  "translation": "Kutsho u-Adonayi uYahwe: Mna ndiza kuthisa ⟨את⟩ ubuninzi beMitsrayim esandleni soNevukhadnetsara, inkosi yaseBhabheli.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Kutsho"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "utsho"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "u-Adonayi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "והשבתי",
+      "gloss": "ndiza kuthisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ubuninzi beMitsrayim"
+    },
+    {
+      "surface": "המון",
+      "gloss": "ubuninzi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "beMitsrayim"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "esandleni so-"
+    },
+    {
+      "surface": "נבוכדראצר",
+      "gloss": "Nevukhadnetsara"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "inkosi"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "yaseBhabheli"
+    }
+  ],
+  "timestamp": "2026-09-18T13:18:33.526181977Z",
+  "model": "glm-5.3"
+}

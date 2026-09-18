@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 3:2",
+  "book": "ezekiel",
+  "lang": "xh",
+  "chapter": 3,
+  "translation": "Ndavula ⟨את⟩ umlomo wam, wanditya ⟨את⟩ le migalelo.",
+  "tokens": [
+    {
+      "surface": "ואפתח",
+      "gloss": "ndavula"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umlomo wam"
+    },
+    {
+      "surface": "פי",
+      "gloss": "umlomo wam"
+    },
+    {
+      "surface": "ויאכלני",
+      "gloss": "wanditya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le migalelo"
+    },
+    {
+      "surface": "המגלה",
+      "gloss": "le migalelo"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "le"
+    }
+  ],
+  "timestamp": "2026-09-18T12:50:33.264406766Z",
+  "model": "glm-5.3"
+}

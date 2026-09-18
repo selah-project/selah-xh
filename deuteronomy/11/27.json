@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "deuteronomy 11:27",
+  "book": "deuteronomy",
+  "lang": "xh",
+  "chapter": 11,
+  "translation": "intsikelelo, ukuba nimamela ⟨את⟩ imiyalelo kaYahwe uElohim wenu endiniyalelayo namhlanje;",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "intsikelelo"
+    },
+    {
+      "surface": "הברכה",
+      "gloss": "intsikelelo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ukuba"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "nimamela"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "imiyalelo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "uElohim wenu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "endiniyalelayo"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "mna"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "ndiyalela"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "ni — endiniyalelayo"
+    },
+    {
+      "surface": "היום",
+      "gloss": "namhlanje"
+    }
+  ],
+  "timestamp": "2026-09-18T08:02:55.383465196Z",
+  "model": "glm-5.3"
+}

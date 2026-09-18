@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 40:12",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 40,
+  "translation": "Uza kusondisa ⟨את⟩ u-Aharon ⟨את⟩ noonyana bakhe emnyango wetenti yomdibano, uza kubahlamba ⟨את⟩ ngamanzi.",
+  "tokens": [
+    {
+      "surface": "והקרבת",
+      "gloss": "uza kusondisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "u-Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "u-Aharon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "noonyana bakhe"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "noonyana bakhe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "emnyango"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "wetenti"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "yomdibano"
+    },
+    {
+      "surface": "ורחצת",
+      "gloss": "uza kubahlamba"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ngamanzi"
+    },
+    {
+      "surface": "במים",
+      "gloss": "ngamanzi"
+    }
+  ],
+  "timestamp": "2026-09-18T06:31:27.840378616Z",
+  "model": "glm-5.3"
+}

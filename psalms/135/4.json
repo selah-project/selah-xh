@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 135:4",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 135,
+  "translation": "Kuba uYah wakhethela uYaaqovhlelayo, uSirayeli njengesigcawu sakhe.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kuba"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "uYaaqovhlelayo"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "wakhethela"
+    },
+    {
+      "surface": "לו",
+      "gloss": ""
+    },
+    {
+      "surface": "יה",
+      "gloss": "uYah"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "uSirayeli"
+    },
+    {
+      "surface": "לסגלתו",
+      "gloss": "njengesigcawu sakhe"
+    }
+  ],
+  "timestamp": "2026-09-18T15:28:47.002094957Z",
+  "model": "glm-5.3"
+}

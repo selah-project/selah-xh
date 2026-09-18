@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ecclesiastes 1:18",
+  "book": "ecclesiastes",
+  "lang": "xh",
+  "chapter": 1,
+  "translation": "Kuba kukho ubuninzi kolwazi lokuhlakanipa kukho ubuninzi bokudinwa; lowo enyusa ulwazi unyusa intlungu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kuba"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "kukho ubuninzi"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "ukuhlakanipa"
+    },
+    {
+      "surface": "רב",
+      "gloss": "kubuninzi"
+    },
+    {
+      "surface": "כעס",
+      "gloss": "ukudinwa"
+    },
+    {
+      "surface": "ויוסיף",
+      "gloss": "yaye lowo unyusa"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "ulwazi"
+    },
+    {
+      "surface": "יוסיף",
+      "gloss": "unyusa"
+    },
+    {
+      "surface": "מכאוב",
+      "gloss": "intlungu"
+    }
+  ],
+  "timestamp": "2026-09-18T16:23:18.461602530Z",
+  "model": "glm-5.3"
+}

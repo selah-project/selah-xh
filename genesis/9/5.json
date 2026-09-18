@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 9:5",
+  "book": "genesis",
+  "lang": "xh",
+  "chapter": 9,
+  "translation": "Kodwa ngokwenene ⟨את⟩ igazi lenu, elilubomi lenu, ndiza kulifuna; esandleni sesilwanyana ngasinye ndiza kusifuna; nasandleni somntu, esandleni womntu umntwakwakhe umntu, ndiza kufuna ⟨את⟩ umphefumlo womntu.",
+  "tokens": [
+    {
+      "surface": "ואך",
+      "gloss": "kodwa ngokwenene"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "igazi lenu"
+    },
+    {
+      "surface": "דמכם",
+      "gloss": "igazi lenu"
+    },
+    {
+      "surface": "לנפשתיכם",
+      "gloss": "elilubomi luen"
+    },
+    {
+      "surface": "אדרש",
+      "gloss": "ndiza kulifuna"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "esandleni"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ngasinye"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "sesilwanyana"
+    },
+    {
+      "surface": "אדרשנו",
+      "gloss": "ndiza kusifuna"
+    },
+    {
+      "surface": "ומיד",
+      "gloss": "nasandleni"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "somntu"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "esandleni"
+    },
+    {
+      "surface": "איש",
+      "gloss": "womntu"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "umntwakwakhe umntu"
+    },
+    {
+      "surface": "אדרש",
+      "gloss": "ndiza kufuna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umphefumlo womntu"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "umphefumlo"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "womntu"
+    }
+  ],
+  "timestamp": "2026-09-18T05:09:29.806473706Z",
+  "model": "glm-5.3"
+}

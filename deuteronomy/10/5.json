@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 10:5",
+  "book": "deuteronomy",
+  "lang": "xh",
+  "chapter": 10,
+  "translation": "Ndaza ndaphenduka ndaza ndehla entabeni, ndabeka ⟨את⟩ iitafile kwi-arke endandenzileyo; zikho apho, njengokuba uYahwe wandityalela.",
+  "tokens": [
+    {
+      "surface": "ואפן",
+      "gloss": "ndaphenduka"
+    },
+    {
+      "surface": "וארד",
+      "gloss": "ndehla"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ukusuka"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "entabeni"
+    },
+    {
+      "surface": "ואשם",
+      "gloss": "ndabeka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iitafile"
+    },
+    {
+      "surface": "הלחת",
+      "gloss": "iitafile"
+    },
+    {
+      "surface": "בארון",
+      "gloss": "kwi-arke"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oko"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "endandenzileyo"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "zikho"
+    },
+    {
+      "surface": "שם",
+      "gloss": "apho"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "njengokuba"
+    },
+    {
+      "surface": "צוני",
+      "gloss": "wandityalela"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    }
+  ],
+  "timestamp": "2026-09-18T08:03:26.511394213Z",
+  "model": "glm-5.3"
+}

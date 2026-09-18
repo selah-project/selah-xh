@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 6:9",
+  "book": "ecclesiastes",
+  "lang": "xh",
+  "chapter": 6,
+  "translation": "Kungcono okubona kwamehlo kunokuhamba-khaya kwenkxwaleko; le nakokokukhanyela, nezinxwaleko zomoya.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "Kungcono"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "ukubona"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "kwamehlo"
+    },
+    {
+      "surface": "מהלך",
+      "gloss": "ukuhamba-khaya"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "kwenkxwaleko"
+    },
+    {
+      "surface": "גם",
+      "gloss": "nako"
+    },
+    {
+      "surface": "זה",
+      "gloss": "le"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "kukhanyela"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "nezinxwaleko"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "zomoya"
+    }
+  ],
+  "timestamp": "2026-09-18T16:26:33.389633380Z",
+  "model": "glm-5.3"
+}

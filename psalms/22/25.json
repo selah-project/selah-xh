@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 22:25",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 22,
+  "translation": "Kuba akabhedelanga, waze wangazidela intsizi yosizi, waze wangafihla ubuso bakhe kuye; xa embizela yena, wamva.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "לא",
+      "gloss": "akabhedelanga"
+    },
+    {
+      "surface": "בזה",
+      "gloss": "akabhedelanga"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "waze"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "wangazidela"
+    },
+    {
+      "surface": "ענות",
+      "gloss": "intsizi"
+    },
+    {
+      "surface": "עני",
+      "gloss": "yosizi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "waze"
+    },
+    {
+      "surface": "הסתיר",
+      "gloss": "wangafihla"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "ubuso bakhe"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "kuye"
+    },
+    {
+      "surface": "ובשועו",
+      "gloss": "xa embizela"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "yena"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "wamva"
+    }
+  ],
+  "timestamp": "2026-09-18T14:34:45.669255002Z",
+  "model": "glm-5.3"
+}

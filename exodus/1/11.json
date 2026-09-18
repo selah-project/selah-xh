@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 1:11",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 1,
+  "translation": "Babeka phezu kwawo iinduna zomthwalo ophoqwayo, ukuze bamohlwaye ngezithwaliso zabo; waza wakha ii-dolophu ezokugcina kuParo: ⟨את⟩ iPithoma ne-⟨את⟩ iRamesese.",
+  "tokens": [
+    {
+      "surface": "וישימו",
+      "gloss": "Babeka"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "phezu kwawo"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "iinduna"
+    },
+    {
+      "surface": "מסים",
+      "gloss": "zomthwalo ophoqwayo"
+    },
+    {
+      "surface": "למען",
+      "gloss": "ukuze"
+    },
+    {
+      "surface": "ענתו",
+      "gloss": "bamohlwaye"
+    },
+    {
+      "surface": "בסבלתם",
+      "gloss": "ngezithwaliso zabo"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "waza wakha"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "ii-dolophu"
+    },
+    {
+      "surface": "מסכנות",
+      "gloss": "ezokugcina"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "kuParo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iPithoma"
+    },
+    {
+      "surface": "פתם",
+      "gloss": "iPithoma"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne-⟨את⟩",
+      "marks": "iRamesese"
+    },
+    {
+      "surface": "רעמסס",
+      "gloss": "iRamesese"
+    }
+  ],
+  "timestamp": "2026-09-18T05:47:54.831144179Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 54:5",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 54,
+  "translation": "Kuba abangeni avukile ngokuchasana nam, kwaye abahlubhi bafuna umphefumlo wam; ababeki uElohim phambi kwabo. Selah.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "abangeni"
+    },
+    {
+      "surface": "קמו",
+      "gloss": "avukile"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ngokuchasana nam"
+    },
+    {
+      "surface": "ועריצים",
+      "gloss": "kwaye abahlubhi"
+    },
+    {
+      "surface": "בקשו",
+      "gloss": "bafuna"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "umphefumlo wam"
+    },
+    {
+      "surface": "לא",
+      "gloss": "akukho"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ababeki"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "לנגדם",
+      "gloss": "phambi kwabo"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-18T14:50:42.245599582Z",
+  "model": "glm-5.3"
+}

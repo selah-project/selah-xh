@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 12:7",
+  "book": "proverbs",
+  "lang": "xh",
+  "chapter": 12,
+  "translation": "Abalungi batshiwo, andikho ⟨️⟩; kodwa isendlu zabalungileyo iza kumi.",
+  "tokens": [
+    {
+      "surface": "הפוך",
+      "gloss": "batshiwo"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "abalungi"
+    },
+    {
+      "surface": "ואינם",
+      "gloss": "andikho"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "kodwa isendlu"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "zabalungileyo"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "iza kumi"
+    }
+  ],
+  "timestamp": "2026-09-18T17:46:05.311051028Z",
+  "model": "glm-5.3"
+}

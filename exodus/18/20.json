@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 18:20",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 18,
+  "translation": "Uze ubaxhasise ⟨את⟩ iimigaqo neTora, ubazisise ⟨את⟩ indlela abaya kuhamba ngayo, nangomsebenzi abaya kuwenza.",
+  "tokens": [
+    {
+      "surface": "והזהרתה",
+      "gloss": "Uze ubaxhasise"
+    },
+    {
+      "surface": "אתהם",
+      "gloss": "⟨את⟩ ubaxhasise ⟨abahuqukisi⟩"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iimigaqo"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "iimigaqo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "neTora"
+    },
+    {
+      "surface": "התורת",
+      "gloss": "neTora"
+    },
+    {
+      "surface": "והודעת",
+      "gloss": "ubazisise"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kubo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "indlela"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "indlela"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "abaya kuhamba"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ngayo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "nango-⟨את⟩",
+      "marks": "omsebenzi"
+    },
+    {
+      "surface": "המעשה",
+      "gloss": "omsebenzi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "abaya kuwenza"
+    },
+    {
+      "surface": "יעשון",
+      "gloss": "abaya kuwenza"
+    }
+  ],
+  "timestamp": "2026-09-18T06:05:57.485305231Z",
+  "model": "glm-5.3"
+}

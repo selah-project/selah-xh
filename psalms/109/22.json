@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 109:22",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 109,
+  "translation": "Kuba ndim intlakulela nemfuno, entliziyeni yam iphukile ngaphakathi kum.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "עני",
+      "gloss": "intlakulela"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "nemfuno"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ndim"
+    },
+    {
+      "surface": "ולבי",
+      "gloss": "entliziyeni yam"
+    },
+    {
+      "surface": "חלל",
+      "gloss": "iphukile"
+    },
+    {
+      "surface": "בקרבי",
+      "gloss": "ngaphakathi kum"
+    }
+  ],
+  "timestamp": "2026-09-18T17:45:24.732700346Z",
+  "model": "glm-5.3"
+}

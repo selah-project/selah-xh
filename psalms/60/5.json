@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 60:5",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 60,
+  "translation": "Wubonise ubunzima abantu bakho; wenzela sisiye iwayini yokuzibhubhudizeza.",
+  "tokens": [
+    {
+      "surface": "הראיתה",
+      "gloss": "wubonise"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "abantu bakho"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "ubunzima"
+    },
+    {
+      "surface": "השקיתנו",
+      "gloss": "wenzela sisiye"
+    },
+    {
+      "surface": "יין",
+      "gloss": "iwayini"
+    },
+    {
+      "surface": "תרעלה",
+      "gloss": "yokuzibhubhudizeza"
+    }
+  ],
+  "timestamp": "2026-09-18T14:53:47.225244732Z",
+  "model": "glm-5.3"
+}

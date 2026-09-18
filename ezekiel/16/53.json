@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "ezekiel 16:53",
+  "book": "ezekiel",
+  "lang": "xh",
+  "chapter": 16,
+  "translation": "Ndibuyisela ubuthinjwa babo, ⟨את⟩ ubuthinjwa beSodoma nakwiintombi zayo, nangoko ⟨את⟩ ubuthinjwa beShomeron nakwiintombi zayo; ndibuyisela ubuthinjwa bakho phakathi kwazo.",
+  "tokens": [
+    {
+      "surface": "ושבתי",
+      "gloss": "ndibuyisela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ubuthinjwa babo"
+    },
+    {
+      "surface": "שביתהן",
+      "gloss": "ubuthinjwa babo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ubuthinjwa beSodoma"
+    },
+    {
+      "surface": "שבית",
+      "gloss": "ubuthinjwa"
+    },
+    {
+      "surface": "סדם",
+      "gloss": "iSodoma"
+    },
+    {
+      "surface": "ובנותיה",
+      "gloss": "nakwiintombi zayo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "nangoko ⟨את⟩",
+      "marks": "ubuthinjwa beShomeron"
+    },
+    {
+      "surface": "שבית",
+      "gloss": "ubuthinjwa"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "iShomeron"
+    },
+    {
+      "surface": "ובנותיה",
+      "gloss": "nakwiintombi zayo"
+    },
+    {
+      "surface": "ושבית",
+      "gloss": "ndibuyisela nokuthinjwa"
+    },
+    {
+      "surface": "שביתיך",
+      "gloss": "ubuthinjwa bakho"
+    },
+    {
+      "surface": "בתוכהנה",
+      "gloss": "phakathi kwazo"
+    }
+  ],
+  "timestamp": "2026-09-18T13:04:41.428346147Z",
+  "model": "glm-5.3"
+}

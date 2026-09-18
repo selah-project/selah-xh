@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 3:5",
+  "book": "proverbs",
+  "lang": "xh",
+  "chapter": 3,
+  "translation": "Themba kuYahwe ngentliziyo yakho yonke, kwaye musa ukusekela kuqonda lwakho.",
+  "tokens": [
+    {
+      "surface": "בטח",
+      "gloss": "Themba"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ngehlazo lonke"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "ngentliziyo yakho"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "kwaye musa ukusekela"
+    },
+    {
+      "surface": "בינתך",
+      "gloss": "kuqonda lwakho"
+    },
+    {
+      "surface": "אל",
+      "gloss": "musa"
+    },
+    {
+      "surface": "תשען",
+      "gloss": "ukusekela"
+    }
+  ],
+  "timestamp": "2026-09-18T15:38:49.062151581Z",
+  "model": "glm-5.3"
+}

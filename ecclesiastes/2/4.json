@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 2:4",
+  "book": "ecclesiastes",
+  "lang": "xh",
+  "chapter": 2,
+  "translation": "Ndandikhulisa imisebenzi yam: ndawakha iindlu, ndatisa iindawo zamoyili.",
+  "tokens": [
+    {
+      "surface": "הגדלתי",
+      "gloss": "Ndandikhulisa"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "imisebenzi yam"
+    },
+    {
+      "surface": "בניתי",
+      "gloss": "ndawakha"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ndakha ndakwenza"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "iindlu"
+    },
+    {
+      "surface": "נטעתי",
+      "gloss": "ndatisa"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ndakha ndakwenza"
+    },
+    {
+      "surface": "כרמים",
+      "gloss": "iindawo zamoyili"
+    }
+  ],
+  "timestamp": "2026-09-18T16:24:44.030169334Z",
+  "model": "glm-5.3"
+}

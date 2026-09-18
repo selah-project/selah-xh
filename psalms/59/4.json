@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 59:4",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 59,
+  "translation": "Kuba, yabonani, balindele umphefumlo wam; abanamandla bahlangabezana ndithabathe; ⟨akukho⟩ ukwephula kwam, yaye akukho isono sam, uYahwe.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "yabonani"
+    },
+    {
+      "surface": "ארבו",
+      "gloss": "balindele"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "umphefumlo wam"
+    },
+    {
+      "surface": "יגורו",
+      "gloss": "bahlangabezana"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ndithabathe"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "abanamandla"
+    },
+    {
+      "surface": "לא",
+      "gloss": "⟨akukho⟩"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "ukwephula kwam"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "yaye akukho"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "isono sam"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    }
+  ],
+  "timestamp": "2026-09-18T14:52:37.458187651Z",
+  "model": "glm-5.3"
+}

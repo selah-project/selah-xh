@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 6:9",
+  "book": "genesis",
+  "lang": "xh",
+  "chapter": 6,
+  "translation": "Ezi ngoolwabiso lukaNosi: uNosi wayengumntu olungileyo, ungcolileyo kwiihlazo zakhe; uNosi wahamba noElohim ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Ezi"
+    },
+    {
+      "surface": "תולדת",
+      "gloss": "ngoolwabiso"
+    },
+    {
+      "surface": "נח",
+      "gloss": "ukaNosi"
+    },
+    {
+      "surface": "נח",
+      "gloss": "uNosi"
+    },
+    {
+      "surface": "איש",
+      "gloss": "umntu"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "olungileyo"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "ungcolileyo"
+    },
+    {
+      "surface": "היה",
+      "gloss": "wayeng"
+    },
+    {
+      "surface": "בדרתיו",
+      "gloss": "kwiihlazo zakhe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uElohim"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "התהלך",
+      "gloss": "wahamba no-"
+    },
+    {
+      "surface": "נח",
+      "gloss": "uNosi"
+    }
+  ],
+  "timestamp": "2026-09-18T05:09:28.824143288Z",
+  "model": "glm-5.3"
+}

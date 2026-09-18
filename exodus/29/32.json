@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 29:32",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 29,
+  "translation": "U-Aharon nabantwana bakhe badla ⟨את⟩ inyama yesila segusha, nesonka esikwisikhephu, ngasemnyango wethente lokuqongelela.",
+  "tokens": [
+    {
+      "surface": "ואכל",
+      "gloss": "badla"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "u-Aharon"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "abantwana bakhe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "inyama"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "inyama"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "yesila segusha"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "isonka"
+    },
+    {
+      "surface": "הלחם",
+      "gloss": "nasonka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "eso"
+    },
+    {
+      "surface": "בסל",
+      "gloss": "esikwisikhephu"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "ngasemnyango"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "wethente"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "lokuqongelela"
+    }
+  ],
+  "timestamp": "2026-09-18T06:17:49.252979793Z",
+  "model": "glm-5.3"
+}

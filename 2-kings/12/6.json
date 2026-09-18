@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 12:6",
+  "book": "2-kings",
+  "lang": "xh",
+  "chapter": 12,
+  "translation": "Makabathabathele abapristi, umntu ngamnye ⟨את⟩ kumaziwe yakhe; baze balungele iziphazamiso zendlu, kuzo zonke iindawo apho kufunyanwa khona isiphazamiso.",
+  "tokens": [
+    {
+      "surface": "יקחו",
+      "gloss": "Makabathabathele"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kuwo"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "abapristi"
+    },
+    {
+      "surface": "איש",
+      "gloss": "umntu"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩ kumaziwe yakhe",
+      "marks": "kumaziwe yakhe"
+    },
+    {
+      "surface": "מכרו",
+      "gloss": "umaziwe yakhe"
+    },
+    {
+      "surface": "והם",
+      "gloss": "bona"
+    },
+    {
+      "surface": "יחזקו",
+      "gloss": "balungele"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iziphazamiso zendlu"
+    },
+    {
+      "surface": "בדק",
+      "gloss": "iziphazamiso"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "zendlu"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "kuzo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ezo"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "kufunyanwa"
+    },
+    {
+      "surface": "שם",
+      "gloss": "khona"
+    },
+    {
+      "surface": "בדק",
+      "gloss": "isiphazamiso"
+    }
+  ],
+  "timestamp": "2026-09-18T10:49:24.592261517Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 1:18",
+  "book": "deuteronomy",
+  "lang": "xh",
+  "chapter": 1,
+  "translation": "Ndawaniyalela nina ngelo xesha ⟨את⟩ yonke into enokuyenzayo.",
+  "tokens": [
+    {
+      "surface": "ואצוה",
+      "gloss": "Ndawaniyalela"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "nina"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "ngelo xesha"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "elo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yonke into"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yonke"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "into"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ao"
+    },
+    {
+      "surface": "תעשון",
+      "gloss": "enokuyenzayo"
+    }
+  ],
+  "timestamp": "2026-09-18T07:54:15.758326955Z",
+  "model": "glm-5.3"
+}

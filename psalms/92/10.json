@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 92:10",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 92,
+  "translation": "Kuba qha, oozala zakho, Yahwe; kuba qha, oozala zakho tshiya ukutshatyalala; bonke abenzi bobungcola baza kohlukana.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "qha"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "oozala zakho"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "qha"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "oozala zakho"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "tshiya ukutshatyalala"
+    },
+    {
+      "surface": "יתפרדו",
+      "gloss": "baza kohlukana"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bonke"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "abenzi"
+    },
+    {
+      "surface": "און",
+      "gloss": "bobungcola"
+    }
+  ],
+  "timestamp": "2026-09-18T15:10:29.535743736Z",
+  "model": "glm-5.3"
+}

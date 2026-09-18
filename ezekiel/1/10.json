@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 1:10",
+  "book": "ezekiel",
+  "lang": "xh",
+  "chapter": 1,
+  "translation": "Yaye umfanekiso weebuso zabo: buso lomntu nobuso lebhubesi kwindawo yasekunene, kubo bonke abane; nobuso senkomo kwindawo yasekhohlo, kubo bonke abane; yaye nobuso lokhozi kubo bonke abane.",
+  "tokens": [
+    {
+      "surface": "ודמות",
+      "gloss": "yaye umfanekiso"
+    },
+    {
+      "surface": "פניהם",
+      "gloss": "weebuso zabo"
+    },
+    {
+      "surface": "פני",
+      "gloss": "buso"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "lomntu"
+    },
+    {
+      "surface": "ופני",
+      "gloss": "nobuso"
+    },
+    {
+      "surface": "אריה",
+      "gloss": "lebhubesi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwi-"
+    },
+    {
+      "surface": "הימין",
+      "gloss": "ndawo yasekunene"
+    },
+    {
+      "surface": "לארבעתם",
+      "gloss": "kubo bonke abane"
+    },
+    {
+      "surface": "ופני",
+      "gloss": "nobuso"
+    },
+    {
+      "surface": "שור",
+      "gloss": "senkomo"
+    },
+    {
+      "surface": "מהשמאול",
+      "gloss": "kwindawo yasekhohlo"
+    },
+    {
+      "surface": "לארבעתן",
+      "gloss": "kubo bonke abane"
+    },
+    {
+      "surface": "ופני",
+      "gloss": "yaye nobuso"
+    },
+    {
+      "surface": "נשר",
+      "gloss": "lokhozi"
+    },
+    {
+      "surface": "לארבעתן",
+      "gloss": "kubo bonke abane"
+    }
+  ],
+  "timestamp": "2026-09-18T12:45:30.179195529Z",
+  "model": "glm-5.3"
+}

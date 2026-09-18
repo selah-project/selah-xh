@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 17:2",
+  "book": "genesis",
+  "lang": "xh",
+  "chapter": 17,
+  "translation": "Ndiza kumisela umnqophiso wam phakathi kwam nakuwe, ndiza kukwandisa ⟨את⟩ we kakhulu kakhulu.",
+  "tokens": [
+    {
+      "surface": "ואתנה",
+      "gloss": "ndiza kumisela"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "umnqophiso wam"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "phakathi kwam"
+    },
+    {
+      "surface": "ובינך",
+      "gloss": "nakuwe"
+    },
+    {
+      "surface": "וארבה",
+      "gloss": "ndiza kukwandisa"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩",
+      "marks": "we"
+    },
+    {
+      "surface": "במאד",
+      "gloss": "kakhulu"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "kakhulu"
+    }
+  ],
+  "timestamp": "2026-09-18T05:17:23.834828080Z",
+  "model": "glm-5.3"
+}

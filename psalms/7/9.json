@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 7:9",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 7,
+  "translation": "uYahwe uhlawula amawela; ndahlawule, uYahwe, ngokobulungiswa bam nakokuchanekileyo kwam kum.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "ידין",
+      "gloss": "uhlawula"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "amawela"
+    },
+    {
+      "surface": "שפטני",
+      "gloss": "ndahlawule"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "כצדקי",
+      "gloss": "ngokobulungiswa bam"
+    },
+    {
+      "surface": "וכתמי",
+      "gloss": "nakokuchanekileyo kwam"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "kum"
+    }
+  ],
+  "timestamp": "2026-09-18T14:25:29.431519858Z",
+  "model": "glm-5.3"
+}

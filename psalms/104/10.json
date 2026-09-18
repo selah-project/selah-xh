@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 104:10",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 104,
+  "translation": "Othumela imithombo emigwadleni; phakathi kweentaba yahlazuluka.",
+  "tokens": [
+    {
+      "surface": "המשלח",
+      "gloss": "Othumela"
+    },
+    {
+      "surface": "מעינים",
+      "gloss": "imithombo"
+    },
+    {
+      "surface": "בנחלים",
+      "gloss": "emigwadleni"
+    },
+    {
+      "surface": "בין",
+      "gloss": "phakathi kw-"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "iintaba"
+    },
+    {
+      "surface": "יהלכון",
+      "gloss": "yahlazuluka"
+    }
+  ],
+  "timestamp": "2026-09-18T15:12:57.764081851Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "ruth 4:22",
+  "book": "ruth",
+  "lang": "xh",
+  "chapter": 4,
+  "translation": "uOvedi wazala ⟨את⟩ uYishayi, kananjalo uYishayi wazala ⟨את⟩ uDawidi.",
+  "tokens": [
+    {
+      "surface": "ועבד",
+      "gloss": "uOvedi"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "wazala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uYishayi"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "uYishayi"
+    },
+    {
+      "surface": "וישי",
+      "gloss": "kananjalo uYishayi"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "wazala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uDawidi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "uDawidi"
+    }
+  ],
+  "timestamp": "2026-09-18T16:17:52.851960615Z",
+  "model": "glm-5.3"
+}

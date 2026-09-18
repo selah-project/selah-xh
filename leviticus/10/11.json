@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 10:11",
+  "book": "leviticus",
+  "lang": "xh",
+  "chapter": 10,
+  "translation": "nokufundisa ⟨את⟩ abantwana bakaIsrayeli ⟨את⟩ zonke izimiso uYahwe awazithethayo kubo ngosandla lukaMoshe.",
+  "tokens": [
+    {
+      "surface": "ולהורת",
+      "gloss": "nokufundisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abantwana bakaIsrayeli"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abantwana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "bakaIsrayeli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zonke izimiso"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zonke"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "izimiso"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "awazithethayo"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "awazithethayo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "kubo"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ngosandla"
+    },
+    {
+      "surface": "משה",
+      "gloss": "lukaMoshe"
+    }
+  ],
+  "timestamp": "2026-09-18T06:42:02.279430869Z",
+  "model": "glm-5.3"
+}

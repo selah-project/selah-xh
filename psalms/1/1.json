@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 1:1",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 1,
+  "translation": "Usikelelo lomntu loyo, ongahambanga kwiingcebiso zamashologolo, waza kwindlela yaboni awemi, waza kwindla yabahlekisi awahlali.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "usikelelo"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "lomntu loyo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo, o-"
+    },
+    {
+      "surface": "לא",
+      "gloss": "anga-"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "-hambanga"
+    },
+    {
+      "surface": "בעצת",
+      "gloss": "kwiingcebiso za-"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "amashologolo"
+    },
+    {
+      "surface": "ובדרך",
+      "gloss": "waza kwindlela ya-"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "aboni"
+    },
+    {
+      "surface": "לא",
+      "gloss": "a-"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "-emi"
+    },
+    {
+      "surface": "ובמושב",
+      "gloss": "waza kwindla ya-"
+    },
+    {
+      "surface": "לצים",
+      "gloss": "abahlekisi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "a-"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "-hlali"
+    }
+  ],
+  "timestamp": "2026-09-18T14:28:03.597603131Z",
+  "model": "glm-5.3"
+}

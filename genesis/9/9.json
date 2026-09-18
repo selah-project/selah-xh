@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 9:9",
+  "book": "genesis",
+  "lang": "xh",
+  "chapter": 9,
+  "translation": "“Kwaye mna, nangoku, ndimisela umnqophiso wam ⟨את⟩ nani, nangaba ⟨את⟩ nezizukulwana zenu emva kwenu.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Kwaye mna"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "nangoku"
+    },
+    {
+      "surface": "מקים",
+      "gloss": "ndimisela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umnqophiso wam"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "umnqophiso wam"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "nani ⟨את⟩"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "nangaba ⟨את⟩"
+    },
+    {
+      "surface": "זרעכם",
+      "gloss": "nezizukulwana zenu"
+    },
+    {
+      "surface": "אחריכם",
+      "gloss": "emva kwenu"
+    }
+  ],
+  "timestamp": "2026-09-18T17:18:44.989385723Z",
+  "model": "glm-5.3"
+}

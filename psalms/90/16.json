@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 90:16",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 90,
+  "translation": "Misebenzi yakho mababonakale kwiintlonzo zakho, ubukhosi bakho mabathwalwe ngabantwana babo.",
+  "tokens": [
+    {
+      "surface": "יראה",
+      "gloss": "mababonakale"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwiintlonzo"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "zakho (iintlonzo)"
+    },
+    {
+      "surface": "פעלך",
+      "gloss": "Misebenzi yakho"
+    },
+    {
+      "surface": "והדרך",
+      "gloss": "ubukhosi bakho"
+    },
+    {
+      "surface": "על",
+      "gloss": "kwi"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "ngabantwana babo"
+    }
+  ],
+  "timestamp": "2026-09-18T15:10:37.096817648Z",
+  "model": "glm-5.3"
+}

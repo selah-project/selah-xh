@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 37:4",
+  "book": "jeremiah",
+  "lang": "xh",
+  "chapter": 37,
+  "translation": "Kwaye uYeremiya wayengena wayephuma phakathi kwabantu, kuba abazange bambeki ⟨אתו⟩ kwindlu yokuvalwa.",
+  "tokens": [
+    {
+      "surface": "וירמיהו",
+      "gloss": "kwaye uYeremiya"
+    },
+    {
+      "surface": "בא",
+      "gloss": "wayengena"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "wayephuma"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "phakathi"
+    },
+    {
+      "surface": "העם",
+      "gloss": "kwabantu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kuba abazange"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "bambeki"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩ yena",
+      "marks": "kwindlu yokuvalwa"
+    },
+    {
+      "surface": "בית",
+      "gloss": "kwindlu"
+    },
+    {
+      "surface": "הכליא",
+      "gloss": "yokuvalwa"
+    }
+  ],
+  "timestamp": "2026-09-18T12:28:05.582888087Z",
+  "model": "glm-5.3"
+}

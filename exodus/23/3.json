@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 23:3",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 23,
+  "translation": "kwaye oweswela akamhloneli ⟨the⟩ emcaleni wakhe.",
+  "tokens": [
+    {
+      "surface": "ודל",
+      "gloss": "kwaye oweswela"
+    },
+    {
+      "surface": "לא",
+      "gloss": "akamhloneli"
+    },
+    {
+      "surface": "תהדר",
+      "gloss": "⟨the⟩"
+    },
+    {
+      "surface": "בריבו",
+      "gloss": "emcaleni wakhe"
+    }
+  ],
+  "timestamp": "2026-09-18T17:20:14.028642036Z",
+  "model": "glm-5.3"
+}

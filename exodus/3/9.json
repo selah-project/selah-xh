@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 3:9",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 3,
+  "translation": "Kwaye ngoku, yabona, ukhalo lwabantwana bakaSirayeli lufikelele kum; kwaye ndiyabonile nangaphezu ⟨את⟩ loxinzelelo abazinzelela ngawona abaseMitsrayim.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "kwaye ngoku"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "yabona"
+    },
+    {
+      "surface": "צעקת",
+      "gloss": "ukhalo"
+    },
+    {
+      "surface": "בני",
+      "gloss": "lwabantwana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "bakaSirayeli"
+    },
+    {
+      "surface": "באה",
+      "gloss": "lufikelele"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kum"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "kwaye nangaphezu"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "ndiyabonile"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "loxinzelelo"
+    },
+    {
+      "surface": "הלחץ",
+      "gloss": "loxinzelelo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "abazinzelela ngawona"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "abaseMitsrayim"
+    },
+    {
+      "surface": "לחצים",
+      "gloss": "abazinzelela"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ zona"
+    }
+  ],
+  "timestamp": "2026-09-18T05:52:40.979081581Z",
+  "model": "glm-5.3"
+}

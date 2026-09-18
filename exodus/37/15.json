@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 37:15",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 37,
+  "translation": "Wayenza ⟨את⟩ izitshixo zomthi we-akatsiya, wazixela ngegolide ⟨אתם⟩, ukuthwala ⟨את⟩ itafile.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "wayenza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izitshixo"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "izitshixo"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "zomthi"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "we-akatsiya"
+    },
+    {
+      "surface": "ויצף",
+      "gloss": "wazixela"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "izitshixo"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "negolide"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "ukuthwala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "itafile"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "itafile"
+    }
+  ],
+  "timestamp": "2026-09-18T06:29:18.188033098Z",
+  "model": "glm-5.3"
+}

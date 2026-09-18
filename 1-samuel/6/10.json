@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 6:10",
+  "book": "1-samuel",
+  "lang": "xh",
+  "chapter": 6,
+  "translation": "Amadoda ayenza njalo; athatha iinkomo ezimbini ezinikayo ubisi, azibophele kwisithuthi, kananjalo ⟨את⟩ amathole azo atshixile endlwini.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "ayenza"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "amadoda"
+    },
+    {
+      "surface": "כן",
+      "gloss": "njalo"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "athatha"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "ezimbini"
+    },
+    {
+      "surface": "פרות",
+      "gloss": "iinkomo"
+    },
+    {
+      "surface": "עלות",
+      "gloss": "ezinikayo ubisi"
+    },
+    {
+      "surface": "ויאסרום",
+      "gloss": "azibophele"
+    },
+    {
+      "surface": "בעגלה",
+      "gloss": "kwisithuthi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "amathole azo"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "amathole azo"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "atshixile"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "endlwini"
+    }
+  ],
+  "timestamp": "2026-09-18T09:17:29.363575659Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 119:5",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 119,
+  "translation": "Ewu, ukuba iindlela zam zingaqinisekiswa ukulondoloza imithetho yakho!",
+  "tokens": [
+    {
+      "surface": "אחלי",
+      "gloss": "Ewu, ukuba"
+    },
+    {
+      "surface": "יכנו",
+      "gloss": "zingaqinisekiswa"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "iindlela zam"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "ukulondoloza"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "imithetho yakho"
+    }
+  ],
+  "timestamp": "2026-09-18T15:22:46.488921055Z",
+  "model": "glm-5.3"
+}

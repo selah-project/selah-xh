@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "joshua 21:37",
+  "book": "joshua",
+  "lang": "xh",
+  "chapter": 21,
+  "translation": "⟨את⟩ iKedemoti kunye ⟨את⟩ neendawo zayo zokutyisa, kunye ⟨את⟩ iMefati kunye ⟨את⟩ neendawo zayo zokutyisa — iinkosi ezine.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iKedemoti"
+    },
+    {
+      "surface": "קדמות",
+      "gloss": "iKedemoti"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kunye ⟨את⟩",
+      "marks": "neendawo zayo zokutyisa"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "neendawo zayo zokutyisa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kunye ⟨את⟩",
+      "marks": "iMefati"
+    },
+    {
+      "surface": "מיפעת",
+      "gloss": "iMefati"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kunye ⟨את⟩",
+      "marks": "neendawo zayo zokutyisa"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "neendawo zayo zokutyisa"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "iinkosi"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "ezine"
+    }
+  ],
+  "timestamp": "2026-09-18T08:43:05.601471989Z",
+  "model": "glm-5.3"
+}

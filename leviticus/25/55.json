@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 55,
+  "ref": "leviticus 25:55",
+  "book": "leviticus",
+  "lang": "xh",
+  "chapter": 25,
+  "translation": "Kuba kuM abantwana bakwa-Israyeli ngabasebenzi; ngabasebenzi bam, abo ndibakhuphileyo ⟨את⟩ elizweni laseMitsrayim: ndinguYahwe uElohim wenu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kuM"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abantwana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "bakwa-Israyeli"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "ngabasebenzi"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "ngabasebenzi bam"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ngabo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "abo"
+    },
+    {
+      "surface": "הוצאתי",
+      "gloss": "ndibakhuphileyo"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "bona (abantwana bakwa-Israyeli)"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "elizweni"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "laseMitsrayim"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ndingu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "uElohim wenu"
+    }
+  ],
+  "timestamp": "2026-09-18T07:04:13.272382537Z",
+  "model": "glm-5.3"
+}

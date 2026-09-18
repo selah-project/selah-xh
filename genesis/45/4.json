@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 45:4",
+  "book": "genesis",
+  "lang": "xh",
+  "chapter": 45,
+  "translation": "Wathi uYosef kubakwabo: “Sindikela kum, nanceda.” Basindela; wathi: “NdinguYosef umnakwenu, lo nimthengisele ⟨את⟩ mna eMitsrayim.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Wathi"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "uYosef"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "bakwabo"
+    },
+    {
+      "surface": "גשו",
+      "gloss": "Sindikela"
+    },
+    {
+      "surface": "נא",
+      "gloss": "nanceda"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kum"
+    },
+    {
+      "surface": "ויגשו",
+      "gloss": "Basindela"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Ndi-"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "nguYosef"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "umnakwenu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "lo"
+    },
+    {
+      "surface": "מכרתם",
+      "gloss": "nimthengisele"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ mna",
+      "marks": "nimthengisele mna"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "eMitsrayim"
+    }
+  ],
+  "timestamp": "2026-09-18T05:45:25.984248301Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "psalms 78:45",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 78,
+  "translation": "Wathumela kubo iqembu leenyonzi, laza labatya; neensele, zaza zatshabalalisa.",
+  "tokens": [
+    {
+      "surface": "ישלח",
+      "gloss": "Wathumela"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "kubo"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "iqembu leenyonzi"
+    },
+    {
+      "surface": "ויאכלם",
+      "gloss": "laza labatya"
+    },
+    {
+      "surface": "וצפרדע",
+      "gloss": "neensele"
+    },
+    {
+      "surface": "ותשחיתם",
+      "gloss": "zaza zatshabalalisa"
+    }
+  ],
+  "timestamp": "2026-09-18T15:04:12.144517534Z",
+  "model": "glm-5.3"
+}

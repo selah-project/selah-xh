@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 140:2",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 140,
+  "translation": "Ndikhulule, uYahwe, kumntu wobubi; kumntu wendlobongela ⟨undigcine⟩.",
+  "tokens": [
+    {
+      "surface": "חלצני",
+      "gloss": "Ndikhulule"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "מאדם",
+      "gloss": "kumntu"
+    },
+    {
+      "surface": "רע",
+      "gloss": "wobubi"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "kumntu"
+    },
+    {
+      "surface": "חמסים",
+      "gloss": "wendlobongela"
+    },
+    {
+      "surface": "תנצרני",
+      "gloss": "⟨undigcine⟩"
+    }
+  ],
+  "timestamp": "2026-09-18T15:31:28.945586114Z",
+  "model": "glm-5.3"
+}

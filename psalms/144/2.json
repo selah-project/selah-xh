@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 144:2",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 144,
+  "translation": "Ikhesedi yam, nesixeko sam esinamandla, indawo yam ephezulu yokhuseleko nodedeli wam; ihawu lame yena, kwaye kuye ndikhululekile; lowo ethobisa amabandla ngaphantsi kwam.",
+  "tokens": [
+    {
+      "surface": "חסדי",
+      "gloss": "ikhesedi yam"
+    },
+    {
+      "surface": "ומצודתי",
+      "gloss": "nesixeko sam esinamandla"
+    },
+    {
+      "surface": "משגבי",
+      "gloss": "indawo yam ephezulu yokhuseleko"
+    },
+    {
+      "surface": "ומפלטי",
+      "gloss": "nodedeli wam"
+    },
+    {
+      "surface": "לי",
+      "gloss": "yena kum"
+    },
+    {
+      "surface": "מגני",
+      "gloss": "ihawu lame"
+    },
+    {
+      "surface": "ובו",
+      "gloss": "kuye"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "ndikhululekile"
+    },
+    {
+      "surface": "הרודד",
+      "gloss": "lowo ethobisa"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "amabandla"
+    },
+    {
+      "surface": "תחתי",
+      "gloss": "ngaphantsi kwam"
+    }
+  ],
+  "timestamp": "2026-09-18T15:32:30.587692858Z",
+  "model": "glm-5.3"
+}

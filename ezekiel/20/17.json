@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ezekiel 20:17",
+  "book": "ezekiel",
+  "lang": "xh",
+  "chapter": 20,
+  "translation": "Kodwa iliso lam lathethelela ngokuzinza ukutshatyalaliswa kwabo, andenze ngokubasela isiphelo esipheleleyo entlangobeni.",
+  "tokens": [
+    {
+      "surface": "ותחס",
+      "gloss": "lathethelela ngokuzinza"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "iliso lam"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "kuwo"
+    },
+    {
+      "surface": "משחתם",
+      "gloss": "ukutshatyalaliswa kwabo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "andi-"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "ndenze"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "bona"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "isiphelo esipheleleyo"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "entlangobeni"
+    }
+  ],
+  "timestamp": "2026-09-18T13:09:42.581930888Z",
+  "model": "glm-5.3"
+}

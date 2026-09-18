@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 19:10",
+  "book": "isaiah",
+  "lang": "xh",
+  "chapter": 19,
+  "translation": "Baza kuba iintsika zayo zibholiweyo; onke abenzi bemivuzo bahlelekileyo emiphefumlo.",
+  "tokens": [
+    {
+      "surface": "והיו",
+      "gloss": "baza kuba"
+    },
+    {
+      "surface": "שתתיה",
+      "gloss": "iintsika zayo"
+    },
+    {
+      "surface": "מדכאים",
+      "gloss": "zibholiweyo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "onke"
+    },
+    {
+      "surface": "עשי",
+      "gloss": "abenzi"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "bemivuzo"
+    },
+    {
+      "surface": "אגמי",
+      "gloss": "bahlelekileyo"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "emiphefumlo"
+    }
+  ],
+  "timestamp": "2026-09-18T11:13:34.189864097Z",
+  "model": "glm-5.3"
+}

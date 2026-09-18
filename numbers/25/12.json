@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 25:12",
+  "book": "numbers",
+  "lang": "xh",
+  "chapter": 25,
+  "translation": "Ngoko yithi: Nanku, m ndinika ⟨את⟩ umnqophiso wam woxolo.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "ngoko"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "yithi"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "nanku, m"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ndinika"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kuye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umnqophiso wam woxolo"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "umnqophiso wam"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "woxolo"
+    }
+  ],
+  "timestamp": "2026-09-18T07:36:47.866592743Z",
+  "model": "glm-5.3"
+}

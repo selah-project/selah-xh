@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 68:15",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 68,
+  "translation": "Xa uShadayi esasaza iinkosi kuyo, kubamhlophe njengaseTsalmon.",
+  "tokens": [
+    {
+      "surface": "בפרש",
+      "gloss": "esasaza"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "uShadayi"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "iinkosi"
+    },
+    {
+      "surface": "בה",
+      "gloss": "kuyo"
+    },
+    {
+      "surface": "תשלג",
+      "gloss": "kubamhlophe"
+    },
+    {
+      "surface": "בצלמון",
+      "gloss": "njengaseTsalmon"
+    }
+  ],
+  "timestamp": "2026-09-18T14:57:53.609218870Z",
+  "model": "glm-5.3"
+}

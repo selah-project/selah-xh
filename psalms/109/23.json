@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 109:23",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 109,
+  "translation": "Ndahamba njengesithunzi xa sicothula, ndazanyazelwa njengenzenzekuku.",
+  "tokens": [
+    {
+      "surface": "כצל",
+      "gloss": "njengesithunzi"
+    },
+    {
+      "surface": "כנטותו",
+      "gloss": "xa sicothula"
+    },
+    {
+      "surface": "נהלכתי",
+      "gloss": "ndahamba"
+    },
+    {
+      "surface": "ננערתי",
+      "gloss": "ndazanyazelwa"
+    },
+    {
+      "surface": "כארבה",
+      "gloss": "njengenzenzekuku"
+    }
+  ],
+  "timestamp": "2026-09-18T17:45:08.680628962Z",
+  "model": "glm-5.3"
+}

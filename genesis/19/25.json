@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 19:25",
+  "book": "genesis",
+  "lang": "xh",
+  "chapter": 19,
+  "translation": "Waza waziguqula ⟨את⟩ izixeko ezi, ⟨ואת⟩ igodi yonke, ⟨ואת⟩ bonke abahlali bezixeko, nemilela yomhlaba.",
+  "tokens": [
+    {
+      "surface": "ויהפך",
+      "gloss": "waziguqula"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izixeko ezi"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "izixeko"
+    },
+    {
+      "surface": "האל",
+      "gloss": "ezi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨ואת⟩",
+      "marks": "igodi yonke"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yonke"
+    },
+    {
+      "surface": "הככר",
+      "gloss": "igodi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨ואת⟩",
+      "marks": "bonke abahlali bezixeko"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bonke"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "abahlali"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "bezixeko"
+    },
+    {
+      "surface": "וצמח",
+      "gloss": "nemilela"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "yomhlaba"
+    }
+  ],
+  "timestamp": "2026-09-18T05:17:01.767774341Z",
+  "model": "glm-5.3"
+}

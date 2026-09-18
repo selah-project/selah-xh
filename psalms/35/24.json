@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 35:24",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 35,
+  "translation": "Ngena isigwebo sam ngokobulungisa bakho, uYahwe uElohim wam, kwaye ban⟨ga⟩zonwabi kum.",
+  "tokens": [
+    {
+      "surface": "שפטני",
+      "gloss": "Ngena isigwebo sam"
+    },
+    {
+      "surface": "כצדקך",
+      "gloss": "ngokobulungisa bakho"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "uElohim wam"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "kwaye musa"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "ukuba bonwaba"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kum"
+    }
+  ],
+  "timestamp": "2026-09-18T14:40:06.506247030Z",
+  "model": "glm-5.3"
+}

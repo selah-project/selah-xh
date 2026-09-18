@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 20:15",
+  "book": "1-kings",
+  "lang": "xh",
+  "chapter": 20,
+  "translation": "Wabala ⟨את⟩ iintsha zabaphathi beendawo; zazili amakhulu amabini, amashumi amathathu anesibini; emva kwabo wabala ⟨את⟩ abantu bonke, onke abantwana bakaYisrayeli, iinkulungwane ezisixhenxe.",
+  "tokens": [
+    {
+      "surface": "ויפקד",
+      "gloss": "Wabala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iintsha zabaphathi beendawo"
+    },
+    {
+      "surface": "נערי",
+      "gloss": "iintsha"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "zabaphathi"
+    },
+    {
+      "surface": "המדינות",
+      "gloss": "beendawo"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "zazili"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "amakhulu amabini"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "nesibini"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "amashumi amathathu anesibini"
+    },
+    {
+      "surface": "ואחריהם",
+      "gloss": "emva kwabo"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "wabala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abantu bonke"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bonke"
+    },
+    {
+      "surface": "העם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "onke"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abantwana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "bakaYisrayeli"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "ezisixhenxe"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "iinkulungwane"
+    }
+  ],
+  "timestamp": "2026-09-18T10:34:06.689788785Z",
+  "model": "glm-5.3"
+}

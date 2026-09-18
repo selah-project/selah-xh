@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 8:5",
+  "book": "leviticus",
+  "lang": "xh",
+  "chapter": 8,
+  "translation": "Wathetha uMoshe kwiqela: “Olu ngulo mxholo uYahwe awulaleleyo ukwenziwa.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Wathetha"
+    },
+    {
+      "surface": "משה",
+      "gloss": "uMoshe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwiqela"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "iqela"
+    },
+    {
+      "surface": "זה",
+      "gloss": "Olu"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ngulo mxholo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "awulaleleyo"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "awulaleleyo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "ukwenziwa"
+    }
+  ],
+  "timestamp": "2026-09-18T06:44:14.378047808Z",
+  "model": "glm-5.3"
+}

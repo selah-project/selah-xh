@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 80,
+  "ref": "psalms 119:80",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 119,
+  "translation": "Makube lize le ligqibelele ezisiqweni sakho, ukuze ndingadinwa.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "makube"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "lize le"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "ligqibelele"
+    },
+    {
+      "surface": "בחקיך",
+      "gloss": "ezisiqweni sakho"
+    },
+    {
+      "surface": "למען",
+      "gloss": "ukuze"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kungadinwa"
+    },
+    {
+      "surface": "אבוש",
+      "gloss": "ndingadinwa"
+    }
+  ],
+  "timestamp": "2026-09-18T15:25:55.087981656Z",
+  "model": "glm-5.3"
+}

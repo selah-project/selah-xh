@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 21:22",
+  "book": "leviticus",
+  "lang": "xh",
+  "chapter": 21,
+  "translation": "Isonika uElohim wakhe, ezongcwele kunokungcwele nangezongcwele uya kutya.",
+  "tokens": [
+    {
+      "surface": "לחם",
+      "gloss": "isonika"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "uElohim wakhe"
+    },
+    {
+      "surface": "מקדשי",
+      "gloss": "ezongcwele kunokungcwele"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "ezongcwele kunokungcwele"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "nange"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "ezongcwele"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "uya kutya"
+    }
+  ],
+  "timestamp": "2026-09-18T07:00:24.080401108Z",
+  "model": "glm-5.3"
+}

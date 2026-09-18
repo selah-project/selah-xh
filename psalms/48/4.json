@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 48:4",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 48,
+  "translation": "uElohim uye waziswa emazingeni ayo njengesiphephelo.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "בארמנותיה",
+      "gloss": "emazingeni ayo"
+    },
+    {
+      "surface": "נודע",
+      "gloss": "uye waziswa"
+    },
+    {
+      "surface": "למשגב",
+      "gloss": "njengesiphephelo"
+    }
+  ],
+  "timestamp": "2026-09-18T14:48:12.890465277Z",
+  "model": "glm-5.3"
+}

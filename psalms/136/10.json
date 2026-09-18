@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 136:10",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 136,
+  "translation": "Kwelo wabetha iMitsrayim ngabazalwa babo bokuqala, kuba ikhesedi yakhe ihlala ingunaphakade.",
+  "tokens": [
+    {
+      "surface": "למכה",
+      "gloss": "Kwelo wabetha"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "iMitsrayim"
+    },
+    {
+      "surface": "בבכוריהם",
+      "gloss": "ngabazalwa babo bokuqala"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ihlala ingunaphakade"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ikhesedi yakhe"
+    }
+  ],
+  "timestamp": "2026-09-18T15:30:00.585425467Z",
+  "model": "glm-5.3"
+}

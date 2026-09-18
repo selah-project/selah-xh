@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "joshua 18:4",
+  "book": "joshua",
+  "lang": "xh",
+  "chapter": 18,
+  "translation": "Nikeni ngokwenu amadoda amathathu ngasizwe, ndiza kubathuma, bakhe bagcwintsha bagcwalisa umhlaba, bayibhale ngokwefia labo, baze beze kum.",
+  "tokens": [
+    {
+      "surface": "הבו",
+      "gloss": "nikeni"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ngokwenu"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "amathathu"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "amadoda"
+    },
+    {
+      "surface": "לשבט",
+      "gloss": "ngasizwe"
+    },
+    {
+      "surface": "ואשלחם",
+      "gloss": "ndiza kubathuma"
+    },
+    {
+      "surface": "ויקמו",
+      "gloss": "bakhe"
+    },
+    {
+      "surface": "ויתהלכו",
+      "gloss": "bagcwintsha bagcwalisa umhlaba"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "umhlaba"
+    },
+    {
+      "surface": "ויכתבו",
+      "gloss": "bayibhale"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩",
+      "marks": "bayibhale (umhlaba)"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "ngokwe-"
+    },
+    {
+      "surface": "נחלתם",
+      "gloss": "ifa labo"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "baze beze"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kum"
+    }
+  ],
+  "timestamp": "2026-09-18T08:41:04.928607490Z",
+  "model": "glm-5.3"
+}

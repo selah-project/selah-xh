@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 145:3",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 145,
+  "translation": "UYahwe mkhulu, udunyiswe kakhulu, akukho siphelo kubukhulu bakhe.",
+  "tokens": [
+    {
+      "surface": "גדול",
+      "gloss": "mkhulu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "UYahwe"
+    },
+    {
+      "surface": "ומהלל",
+      "gloss": "udunyiswe"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "kakhulu"
+    },
+    {
+      "surface": "ולגדלתו",
+      "gloss": "kubukhulu bakhe"
+    },
+    {
+      "surface": "אין",
+      "gloss": "akukho"
+    },
+    {
+      "surface": "חקר",
+      "gloss": "siphelo"
+    }
+  ],
+  "timestamp": "2026-09-18T15:34:09.572991231Z",
+  "model": "glm-5.3"
+}

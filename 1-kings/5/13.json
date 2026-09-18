@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-kings 5:13",
+  "book": "1-kings",
+  "lang": "xh",
+  "chapter": 5,
+  "translation": "Wathetha ngamahlathi, ukusuka kwisederwa eseLebanoni okwaze kwakwi-hysopu ekhuphuma kudonga; wathetha ngeenkomo, nangezinyoni, nangezilwanyana ezinyamalalayo, nangeentlanzi.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "wathetha"
+    },
+    {
+      "surface": "על",
+      "gloss": "nga-"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "amahlathi"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ukusuka"
+    },
+    {
+      "surface": "הארז",
+      "gloss": "kwisederwa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ese"
+    },
+    {
+      "surface": "בלבנון",
+      "gloss": "Lebanoni"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "okwaze"
+    },
+    {
+      "surface": "האזוב",
+      "gloss": "kwakwi-hysopu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ekhuphuma eseso"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "ekhuphuma"
+    },
+    {
+      "surface": "בקיר",
+      "gloss": "kudonga"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "wathetha"
+    },
+    {
+      "surface": "על",
+      "gloss": "nge-"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "iinkomo"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "nange-"
+    },
+    {
+      "surface": "העוף",
+      "gloss": "izinyoni"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "nange-"
+    },
+    {
+      "surface": "הרמש",
+      "gloss": "izilwanyana ezinyamalalayo"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "nange-"
+    },
+    {
+      "surface": "הדגים",
+      "gloss": "iintlanzi"
+    }
+  ],
+  "timestamp": "2026-09-18T10:13:56.799000531Z",
+  "model": "glm-5.3"
+}

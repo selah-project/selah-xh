@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 5:5",
+  "book": "leviticus",
+  "lang": "xh",
+  "chapter": 5,
+  "translation": "Waba njalo: xa enetyala kwenye yezi ⟨zinto⟩, wazichaza oko ache ngayo.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "waba njalo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "xa"
+    },
+    {
+      "surface": "יאשם",
+      "gloss": "enetyala"
+    },
+    {
+      "surface": "לאחת",
+      "gloss": "kwenye"
+    },
+    {
+      "surface": "מאלה",
+      "gloss": "yezi"
+    },
+    {
+      "surface": "והתודה",
+      "gloss": "wazichaza"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oko"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "ache"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "ngayo"
+    }
+  ],
+  "timestamp": "2026-09-18T06:40:26.424271377Z",
+  "model": "glm-5.3"
+}

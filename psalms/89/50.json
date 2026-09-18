@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "psalms 89:50",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 89,
+  "translation": "Zekuphi, ku-Adonayi, iikhesedi zakho zasekuqaleni, oza kuzifungisa ku-Davide ngokuthembeka kwakho?",
+  "tokens": [
+    {
+      "surface": "איה",
+      "gloss": "Zekuphi"
+    },
+    {
+      "surface": "חסדיך",
+      "gloss": "iikhesedi zakho"
+    },
+    {
+      "surface": "הראשנים",
+      "gloss": "zasekuqaleni"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ku-Adonayi"
+    },
+    {
+      "surface": "נשבעת",
+      "gloss": "oza kuzifungisa"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ku-Davide"
+    },
+    {
+      "surface": "באמונתך",
+      "gloss": "ngokuthembeka kwakho"
+    }
+  ],
+  "timestamp": "2026-09-18T15:09:41.493365138Z",
+  "model": "glm-5.3"
+}

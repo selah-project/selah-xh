@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jonah 1:15",
+  "book": "jonah",
+  "lang": "xh",
+  "chapter": 1,
+  "translation": "Banyusa ⟨את⟩ uYona, bamtalazela elwandle, ulwandle lwema ukusuka ekubuthakeni kwalo.",
+  "tokens": [
+    {
+      "surface": "וישאו",
+      "gloss": "banyusa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uYona"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "uYona"
+    },
+    {
+      "surface": "ויטלהו",
+      "gloss": "bamtalazela"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e-"
+    },
+    {
+      "surface": "הים",
+      "gloss": "lwandle"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "lwema"
+    },
+    {
+      "surface": "הים",
+      "gloss": "ulwandle"
+    },
+    {
+      "surface": "מזעפו",
+      "gloss": "ukusuka ekubuthakeni kwalo"
+    }
+  ],
+  "timestamp": "2026-09-18T14:02:08.593715372Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "lamentations 1:3",
+  "book": "lamentations",
+  "lang": "xh",
+  "chapter": 1,
+  "translation": "Yahunyuliswe uYehudwa ngenxa yentlungu nangenxa yobuninzi bobugcisa; uhlala phakathi kweekwothu, akafumana uyolo; bonke abamlandelayo bafikelela kuye phakathi kweendlela ezixineneyo.",
+  "tokens": [
+    {
+      "surface": "גלתה",
+      "gloss": "Yahunyuliswe"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "uYehudwa"
+    },
+    {
+      "surface": "מעני",
+      "gloss": "ngenxa yentlungu"
+    },
+    {
+      "surface": "ומרב",
+      "gloss": "nangenxa yobuninzi"
+    },
+    {
+      "surface": "עבדה",
+      "gloss": "bobugcisa"
+    },
+    {
+      "surface": "היא",
+      "gloss": "u-"
+    },
+    {
+      "surface": "ישבה",
+      "gloss": "uhlala"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "phakathi kweekwothu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "aka-"
+    },
+    {
+      "surface": "מצאה",
+      "gloss": "fumana"
+    },
+    {
+      "surface": "מנוח",
+      "gloss": "uyolo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bonke"
+    },
+    {
+      "surface": "רדפיה",
+      "gloss": "abamlandelayo"
+    },
+    {
+      "surface": "השיגוה",
+      "gloss": "bafikelela kuye"
+    },
+    {
+      "surface": "בין",
+      "gloss": "phakathi"
+    },
+    {
+      "surface": "המצרים",
+      "gloss": "kweendlela ezixineneyo"
+    }
+  ],
+  "timestamp": "2026-09-18T16:20:05.270467432Z",
+  "model": "glm-5.3"
+}

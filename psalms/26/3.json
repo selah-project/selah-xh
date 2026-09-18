@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 26:3",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 26,
+  "translation": "Kuba ikhesedi yakho isiphambi kwamehlo am, naxa ndihambahamba ngokwenyaniso yakho.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kuba"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "ikhesedi yakho"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "isiphambi kwa"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "amehlo am"
+    },
+    {
+      "surface": "והתהלכתי",
+      "gloss": "naxa ndihambahamba"
+    },
+    {
+      "surface": "באמתך",
+      "gloss": "ngokwenyaniso yakho"
+    }
+  ],
+  "timestamp": "2026-09-18T14:38:43.064913378Z",
+  "model": "glm-5.3"
+}

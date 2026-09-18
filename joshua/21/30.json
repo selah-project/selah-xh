@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "joshua 21:30",
+  "book": "joshua",
+  "lang": "xh",
+  "chapter": 21,
+  "translation": "Kwasekuluhlu lukaAsheri: ⟨את⟩ iMishali kunye ⟨נ⟩⟨את⟩ imigwasho yayo, ⟨את⟩ iAvdoni kunye ⟨נ⟩⟨את⟩ imigwasho yayo.",
+  "tokens": [
+    {
+      "surface": "וממטה",
+      "gloss": "Kwasekuluhlu luka-"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "Asheri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iMishali"
+    },
+    {
+      "surface": "משאל",
+      "gloss": "iMishali"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kunye ⟨את⟩",
+      "marks": "imigwasho yayo"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "imigwasho yayo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iAvdoni"
+    },
+    {
+      "surface": "עבדון",
+      "gloss": "iAvdoni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kunye ⟨את⟩",
+      "marks": "imigwasho yayo"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "imigwasho yayo"
+    }
+  ],
+  "timestamp": "2026-09-18T08:43:45.282575944Z",
+  "model": "glm-5.3"
+}

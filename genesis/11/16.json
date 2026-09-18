@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 11:16",
+  "book": "genesis",
+  "lang": "xh",
+  "chapter": 11,
+  "translation": "Waphila u-Ever iminyaka engamashumi amane amathathu ane, wazala ⟨את⟩ uPeleg.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "waphila"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "u-Ever"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "amane"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "amashumi amathathu"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "iminyaka"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "wazala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uPeleg"
+    },
+    {
+      "surface": "פלג",
+      "gloss": "uPeleg"
+    }
+  ],
+  "timestamp": "2026-09-18T05:12:06.381972011Z",
+  "model": "glm-5.3"
+}

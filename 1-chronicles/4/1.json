@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 4:1",
+  "book": "1-chronicles",
+  "lang": "xh",
+  "chapter": 4,
+  "translation": "Amakwabo uYehudha: ngu-Peretsi, uKetsroni, uKarmi, uHuri, noShobhali.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "amakwabo"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "uYehudha"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "u-Peretsi"
+    },
+    {
+      "surface": "חצרון",
+      "gloss": "uKetsroni"
+    },
+    {
+      "surface": "וכרמי",
+      "gloss": "noKarmi"
+    },
+    {
+      "surface": "וחור",
+      "gloss": "noHuri"
+    },
+    {
+      "surface": "ושובל",
+      "gloss": "noShobhali"
+    }
+  ],
+  "timestamp": "2026-09-18T16:51:59.222790452Z",
+  "model": "glm-5.3"
+}

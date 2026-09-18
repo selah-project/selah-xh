@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jonah 4:1",
+  "book": "jonah",
+  "lang": "xh",
+  "chapter": 4,
+  "translation": "Kwabonakala kakhulu bububi kuYona, ububi obukhulu, waze wathsala intshontsho.",
+  "tokens": [
+    {
+      "surface": "וירע",
+      "gloss": "kwabonakala bububi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "uYona"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ububi"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "obukhulu"
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "waze wathsala intshontsho"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kuye"
+    }
+  ],
+  "timestamp": "2026-09-18T14:01:20.463440574Z",
+  "model": "glm-5.3"
+}

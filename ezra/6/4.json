@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezra 6:4",
+  "book": "ezra",
+  "lang": "xh",
+  "chapter": 6,
+  "translation": "Iinduli ezintathu zamatye amakhulu, nenduli yomthi omtsha; iindleko zizonikezwa ezisuka endlwini yenkosi.",
+  "tokens": [
+    {
+      "surface": "נדבכין",
+      "gloss": "iinduli"
+    },
+    {
+      "surface": "די",
+      "gloss": "za"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "amatye"
+    },
+    {
+      "surface": "גלל",
+      "gloss": "amakhulu"
+    },
+    {
+      "surface": "תלתא",
+      "gloss": "ezintathu"
+    },
+    {
+      "surface": "ונדבך",
+      "gloss": "nenduli"
+    },
+    {
+      "surface": "די",
+      "gloss": "yo"
+    },
+    {
+      "surface": "אע",
+      "gloss": "omthi"
+    },
+    {
+      "surface": "חדת",
+      "gloss": "omtsha"
+    },
+    {
+      "surface": "ונפקתא",
+      "gloss": "iindleko zizonikezwa"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ezisuka"
+    },
+    {
+      "surface": "בית",
+      "gloss": "endlwini"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "yenkosi"
+    },
+    {
+      "surface": "תתיהב",
+      "gloss": "zizonikezwa"
+    }
+  ],
+  "timestamp": "2026-09-18T17:49:58.838440543Z",
+  "model": "glm-5.3"
+}

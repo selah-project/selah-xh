@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 49:11",
+  "book": "isaiah",
+  "lang": "xh",
+  "chapter": 49,
+  "translation": "Ndiza kwenza iintaba zam zonke zibe yindlela, iindlela zam ezikhulu zisinyuswe.",
+  "tokens": [
+    {
+      "surface": "ושמתי",
+      "gloss": "Ndiza kuwenza"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zonke"
+    },
+    {
+      "surface": "הרי",
+      "gloss": "iintaba zam"
+    },
+    {
+      "surface": "לדרך",
+      "gloss": "zibe yindlela"
+    },
+    {
+      "surface": "ומסלתי",
+      "gloss": "iindlela zam ezikhulu"
+    },
+    {
+      "surface": "ירמון",
+      "gloss": "zisinyuswe"
+    }
+  ],
+  "timestamp": "2026-09-18T11:36:03.823335932Z",
+  "model": "glm-5.3"
+}

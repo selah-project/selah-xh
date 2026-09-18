@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 89:35",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 89,
+  "translation": "Andicimi umnqophiso wam, nto ephuma emileveni yam andiyitshintshi.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "andi"
+    },
+    {
+      "surface": "אחלל",
+      "gloss": "cimi"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "umnqophiso wam"
+    },
+    {
+      "surface": "ומוצא",
+      "gloss": "nto ephuma"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "emileveni yam"
+    },
+    {
+      "surface": "לא",
+      "gloss": "andi"
+    },
+    {
+      "surface": "אשנה",
+      "gloss": "yitshintshi"
+    }
+  ],
+  "timestamp": "2026-09-18T15:08:02.509245905Z",
+  "model": "glm-5.3"
+}

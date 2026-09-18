@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 10:14",
+  "book": "genesis",
+  "lang": "xh",
+  "chapter": 10,
+  "translation": "⟨ואת⟩ abaPathrusim, ⟨ואת⟩ abaKasluchim, apha khuma apho abaseFilisthim, ⟨ואת⟩ abaKhaftorim.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨ואת⟩",
+      "marks": "abaPathrusim"
+    },
+    {
+      "surface": "פתרסים",
+      "gloss": "abaPathrusim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨ואת⟩",
+      "marks": "abaKasluchim"
+    },
+    {
+      "surface": "כסלחים",
+      "gloss": "abaKasluchim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "apha"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "akhuma"
+    },
+    {
+      "surface": "משם",
+      "gloss": "khonapho"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "abaseFilisthim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨ואת⟩",
+      "marks": "abaKhaftorim"
+    },
+    {
+      "surface": "כפתרים",
+      "gloss": "abaKhaftorim"
+    }
+  ],
+  "timestamp": "2026-09-18T05:11:45.946431915Z",
+  "model": "glm-5.3"
+}

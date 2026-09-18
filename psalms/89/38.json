@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "psalms 89:38",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 89,
+  "translation": "NjengeNyanga iyaqinisekiswa ixesha elingapheliyo, yaye ngumgangeli othembekayo ezulwini. Selah.",
+  "tokens": [
+    {
+      "surface": "כירח",
+      "gloss": "njengeNyanga"
+    },
+    {
+      "surface": "יכון",
+      "gloss": "iyaqinisekiswa"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ixesha elingapheliyo"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "yaye ngumgangeli"
+    },
+    {
+      "surface": "בשחק",
+      "gloss": "ezulwini"
+    },
+    {
+      "surface": "נאמן",
+      "gloss": "othembekayo"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-18T15:08:08.786500281Z",
+  "model": "glm-5.3"
+}

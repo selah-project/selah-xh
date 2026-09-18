@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 61:6",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 61,
+  "translation": "Kuba wena, uElohim, uwavile izifungo zam; unike ilifa lwabo abo bayo igama lakho.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kuba"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "uwavile"
+    },
+    {
+      "surface": "לנדרי",
+      "gloss": "izifungo zam"
+    },
+    {
+      "surface": "נתת",
+      "gloss": "unike"
+    },
+    {
+      "surface": "ירשת",
+      "gloss": "ilifa"
+    },
+    {
+      "surface": "יראי",
+      "gloss": "abo bayo"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "igama lakho"
+    }
+  ],
+  "timestamp": "2026-09-18T14:54:22.554130695Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 20:16",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 20,
+  "translation": "Uzakungaphenduli ngumzakwakho ngobungqina bobuxoki.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "akuna"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "uzakuphendula"
+    },
+    {
+      "surface": "ברעך",
+      "gloss": "ngomzakwakho"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ubungqina"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "bobuxoki"
+    }
+  ],
+  "timestamp": "2026-09-18T06:02:32.337143642Z",
+  "model": "glm-5.3"
+}

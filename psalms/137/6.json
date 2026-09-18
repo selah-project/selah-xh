@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 137:6",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 137,
+  "translation": "Malincamathisele ulwimi lwam kwisanti sam, ukuba ndingakukhumbuli wena, ukuba ndingaphezulisi ⟨את⟩ iYerushalayimi phezu kweentloko zovuyo lwam.",
+  "tokens": [
+    {
+      "surface": "תדבק",
+      "gloss": "malincamathisele"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "ulwimi lwam"
+    },
+    {
+      "surface": "לחכי",
+      "gloss": "kwisanti sam"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ukuba"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hayi (ndingakukhumbuli)"
+    },
+    {
+      "surface": "אזכרכי",
+      "gloss": "ndikukhumbula (wena)"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ukuba"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hayi (ndingaphezulisi)"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "ndiphezulisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iYerushalayimi"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "iYerushalayimi"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "kweentloko"
+    },
+    {
+      "surface": "שמחתי",
+      "gloss": "zovuyo lwam"
+    }
+  ],
+  "timestamp": "2026-09-18T15:32:33.021046639Z",
+  "model": "glm-5.3"
+}

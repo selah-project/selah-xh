@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 9:8",
+  "book": "deuteronomy",
+  "lang": "xh",
+  "chapter": 9,
+  "translation": "NakwiHorebe naba nempi kuYahwe, uYahwe wamthwala nininzi, ukunictshabalalisa ⟨אתכם⟩.",
+  "tokens": [
+    {
+      "surface": "ובחרב",
+      "gloss": "NakwiHorebe"
+    },
+    {
+      "surface": "הקצפתם",
+      "gloss": "naba nempi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kuYahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "ויתאנף",
+      "gloss": "wamthwala nininzi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "nini"
+    },
+    {
+      "surface": "להשמיד",
+      "gloss": "ukunictshabalalisa"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨אתכם⟩ nina"
+    }
+  ],
+  "timestamp": "2026-09-18T08:02:02.645354854Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 25:12",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 25,
+  "translation": "Ngubani lo umntu oyoyikayo uYahwe? Uza kumfundisa endleleni ⟨ayo⟩ khetha ⟨yena⟩.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Ngubani"
+    },
+    {
+      "surface": "זה",
+      "gloss": "lo"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "umntu"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "oyoyikayo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "יורנו",
+      "gloss": "uza kumfundisa"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "endleleni"
+    },
+    {
+      "surface": "יבחר",
+      "gloss": "khetha"
+    }
+  ],
+  "timestamp": "2026-09-18T14:36:54.355489551Z",
+  "model": "glm-5.3"
+}

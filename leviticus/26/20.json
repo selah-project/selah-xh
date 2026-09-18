@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 26:20",
+  "book": "leviticus",
+  "lang": "xh",
+  "chapter": 26,
+  "translation": "Amandla enu aza kutshatyalaliswangepeni, umhlaba wenu akayi kunika ⟨את⟩ isivuno sawo, nawo amasimi omhlaba awayi kunika imbewu yawo.",
+  "tokens": [
+    {
+      "surface": "ותם",
+      "gloss": "aza kutshatyalaliswa"
+    },
+    {
+      "surface": "לריק",
+      "gloss": "ngepeni"
+    },
+    {
+      "surface": "כחכם",
+      "gloss": "amandla enu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "hayi"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "akayi kunika"
+    },
+    {
+      "surface": "ארצכם",
+      "gloss": "umhlaba wenu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isivuno sawo"
+    },
+    {
+      "surface": "יבולה",
+      "gloss": "isivuno sawo"
+    },
+    {
+      "surface": "ועץ",
+      "gloss": "amasimi omhlaba"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "omhlaba"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hayi"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "awayi kunika"
+    },
+    {
+      "surface": "פריו",
+      "gloss": "imbewu yawo"
+    }
+  ],
+  "timestamp": "2026-09-18T07:07:34.671407519Z",
+  "model": "glm-5.3"
+}

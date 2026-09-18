@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 69:13",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 69,
+  "translation": "Abahlali besango bathetha ngam; abaselayo utywala obunamandla bendihlabela ngezingoma.",
+  "tokens": [
+    {
+      "surface": "ישיחו",
+      "gloss": "bathetha"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ngam"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "abahlali"
+    },
+    {
+      "surface": "שער",
+      "gloss": "besango"
+    },
+    {
+      "surface": "ונגינות",
+      "gloss": "ngezingoma"
+    },
+    {
+      "surface": "שותי",
+      "gloss": "abaselayo"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "utywala obunamandla"
+    }
+  ],
+  "timestamp": "2026-09-18T14:56:41.412267458Z",
+  "model": "glm-5.3"
+}

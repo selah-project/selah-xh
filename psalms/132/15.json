@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 132:15",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 132,
+  "translation": "Ukutya kwayo ndiza kukusikekela ngokwedlulele; abalahlileyo bayo ndiza kubaswesa ngesonka.",
+  "tokens": [
+    {
+      "surface": "צידה",
+      "gloss": "ukutya kwayo"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "ndiza kukusikekela"
+    },
+    {
+      "surface": "אברך",
+      "gloss": "ngokwedlulele"
+    },
+    {
+      "surface": "אביוניה",
+      "gloss": "abalahlileyo bayo"
+    },
+    {
+      "surface": "אשביע",
+      "gloss": "ndiza kubaswesa"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ngesonka"
+    }
+  ],
+  "timestamp": "2026-09-18T15:27:56.661597106Z",
+  "model": "glm-5.3"
+}

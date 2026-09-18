@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 10:3",
+  "book": "1-chronicles",
+  "lang": "xh",
+  "chapter": 10,
+  "translation": "Kwaye imfazwe yamzinzisa phezu kukaShawuli, kwaza abagaleli begunya bamfumane, waza walimala ngenxa yabagaleli.",
+  "tokens": [
+    {
+      "surface": "ותכבד",
+      "gloss": "yamzinzisa"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "imfazwe"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ukaShawuli"
+    },
+    {
+      "surface": "וימצאהו",
+      "gloss": "bamfumane"
+    },
+    {
+      "surface": "המורים",
+      "gloss": "abagaleli begunya"
+    },
+    {
+      "surface": "בקשת",
+      "gloss": "ngophahla lwegunya"
+    },
+    {
+      "surface": "ויחל",
+      "gloss": "walimala"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ngenxa"
+    },
+    {
+      "surface": "היורים",
+      "gloss": "yabagaleli"
+    }
+  ],
+  "timestamp": "2026-09-18T16:54:45.134508188Z",
+  "model": "glm-5.3"
+}

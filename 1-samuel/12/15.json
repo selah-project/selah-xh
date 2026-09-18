@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 12:15",
+  "book": "1-samuel",
+  "lang": "xh",
+  "chapter": 12,
+  "translation": "Kodwa ukuba anilalelanga ilizwi lukaYahwe, naza namanye ⟨את⟩ ukomyalelo lukaYahwe, isandla sikaYahwe siza kuba ngasentla kwenu nakwiinkosi zenu.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Kodwa ukuba"
+    },
+    {
+      "surface": "לא",
+      "gloss": "anilalelanga (hayi)"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "anilalelanga"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "ilizwi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "lukaYahwe"
+    },
+    {
+      "surface": "ומריתם",
+      "gloss": "naza namanye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ukomyalelo"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ukomyalelo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "lukaYahwe"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "siza kuba"
+    },
+    {
+      "surface": "יד",
+      "gloss": "isandla"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "sikaYahwe"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "ngasentla kwenu"
+    },
+    {
+      "surface": "ובאבתיכם",
+      "gloss": "nakwiinkosi zenu"
+    }
+  ],
+  "timestamp": "2026-09-18T09:21:25.532130934Z",
+  "model": "glm-5.3"
+}

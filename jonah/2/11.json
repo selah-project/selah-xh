@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jonah 2:11",
+  "book": "jonah",
+  "lang": "xh",
+  "chapter": 2,
+  "translation": "Wathetha uYahwe kwinlanja, yaza yamkhuphela ngaphandle uYona ⟨את⟩ kumhlaba omileyo.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wathetha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "לדג",
+      "gloss": "kwinlanja"
+    },
+    {
+      "surface": "ויקא",
+      "gloss": "yamkhuphela ngaphandle (yatyiya)"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uYona"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "uYona"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "היבשה",
+      "gloss": "umhlaba omileyo"
+    }
+  ],
+  "timestamp": "2026-09-18T14:00:33.842610600Z",
+  "model": "glm-5.3"
+}

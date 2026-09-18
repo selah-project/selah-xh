@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 100:5",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 100,
+  "translation": "Kuba uYahwe ulungile; ikhesedi yakhe ime kuze kube phakade, nethembeka lakhe lizisele kwindlaokwendla.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "lungile"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "kuze kube phakade"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ikhesedi yakhe"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ze"
+    },
+    {
+      "surface": "דר",
+      "gloss": "kwindla"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "nakwindla"
+    },
+    {
+      "surface": "אמונתו",
+      "gloss": "ithembeka lakhe"
+    }
+  ],
+  "timestamp": "2026-09-18T15:11:57.867181072Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 20:10",
+  "book": "leviticus",
+  "lang": "xh",
+  "chapter": 20,
+  "translation": "Kwaye umntu olumana ukwewu ⟨את⟩ nesifazana somntu, ozenza ukwewu ⟨את⟩ nesifazana lomakhaya wakhe, umwewu nomwewukazi bayakufa ngenxa yokufa.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "Kwaye umntu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "olumana"
+    },
+    {
+      "surface": "ינאף",
+      "gloss": "ukwewu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nesifazana somntu"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "nesifazana"
+    },
+    {
+      "surface": "איש",
+      "gloss": "somntu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ozenza"
+    },
+    {
+      "surface": "ינאף",
+      "gloss": "ukwewu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nesifazana lomakhaya wakhe"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "nesifazana"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "lomakhaya wakhe"
+    },
+    {
+      "surface": "מות",
+      "gloss": "ngenxa yokufa"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "bayakufa"
+    },
+    {
+      "surface": "הנאף",
+      "gloss": "umwewu"
+    },
+    {
+      "surface": "והנאפת",
+      "gloss": "nomwewukazi"
+    }
+  ],
+  "timestamp": "2026-09-18T06:59:32.443893687Z",
+  "model": "glm-5.3"
+}

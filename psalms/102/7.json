@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 102:7",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 102,
+  "translation": "Ndingafana neqa'at yasezintlango; ndaba njengesikhova seemimandla engenamntu.",
+  "tokens": [
+    {
+      "surface": "דמיתי",
+      "gloss": "Ndingafana"
+    },
+    {
+      "surface": "לקאת",
+      "gloss": "neqa'at"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "yasezintlango"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "ndaba"
+    },
+    {
+      "surface": "ככוס",
+      "gloss": "njengesikhova"
+    },
+    {
+      "surface": "חרבות",
+      "gloss": "seemimandla engenamntu"
+    }
+  ],
+  "timestamp": "2026-09-18T15:13:11.591944018Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 30:1",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 30,
+  "translation": "Uza kukwenza i-altare yoku\/tya\/isa imveliso\/ephum'umoya; ngamaphezu entsimbi\/ye-shittim uza kuyenza ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "Uza kukwenza"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "i-altare"
+    },
+    {
+      "surface": "מקטר",
+      "gloss": "yokutyisa imveliso"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "ephuma umoya (incense)"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "amaphezu entsimbi"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "shittim (acacia)"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "uza kuyenza"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "yona (i-altare)"
+    }
+  ],
+  "timestamp": "2026-09-18T17:21:37.347210445Z",
+  "model": "glm-5.3"
+}

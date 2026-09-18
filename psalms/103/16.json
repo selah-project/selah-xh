@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 103:16",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 103,
+  "translation": "Kuba umoya uyadlula phezu kwawo, yaze yanakwa yingekho, indawo yayo ingayazi kwakhona.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "umoya"
+    },
+    {
+      "surface": "עברה",
+      "gloss": "uyadlula"
+    },
+    {
+      "surface": "בו",
+      "gloss": "phezu kwawo"
+    },
+    {
+      "surface": "ואיננו",
+      "gloss": "yaze yanakwa yingekho"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ingayazi"
+    },
+    {
+      "surface": "יכירנו",
+      "gloss": "ingayiboni"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "kwakhona"
+    },
+    {
+      "surface": "מקומו",
+      "gloss": "indawo yayo"
+    }
+  ],
+  "timestamp": "2026-09-18T15:13:28.384130364Z",
+  "model": "glm-5.3"
+}

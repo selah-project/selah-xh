@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 17:15",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 17,
+  "translation": "Mna, ngobulungisa ndiza kubona ubuso bakho; ndiza kweneliswa xa ndivuka ngomfanekiso wakho.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Mna"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "ngobulungisa"
+    },
+    {
+      "surface": "אחזה",
+      "gloss": "ndiza kubona"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ubuso bakho"
+    },
+    {
+      "surface": "אשבעה",
+      "gloss": "ndiza kweneliswa"
+    },
+    {
+      "surface": "בהקיץ",
+      "gloss": "xa ndivuka"
+    },
+    {
+      "surface": "תמונתך",
+      "gloss": "ngomfanekiso wakho"
+    }
+  ],
+  "timestamp": "2026-09-18T14:30:46.487577131Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 3:6",
+  "book": "2-kings",
+  "lang": "xh",
+  "chapter": 3,
+  "translation": "Waphuma inkosi uYehoram ngaloo mini eShomroni, waza wabutha ⟨את⟩ onke ama-Israyeli.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "Waphuma"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "inkosi"
+    },
+    {
+      "surface": "יהורם",
+      "gloss": "uYehoram"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ngaloo mini"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "lwe"
+    },
+    {
+      "surface": "משמרון",
+      "gloss": "eShomroni"
+    },
+    {
+      "surface": "ויפקד",
+      "gloss": "wabutha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "onke ama-Israyeli"
+    },
+    {
+      "surface": "כל",
+      "gloss": "onke"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ama-Israyeli"
+    }
+  ],
+  "timestamp": "2026-09-18T10:38:53.456965409Z",
+  "model": "glm-5.3"
+}

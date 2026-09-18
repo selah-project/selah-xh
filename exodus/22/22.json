@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 22:22",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 22,
+  "translation": "Ukuba nimtyhaphaza — ndithi nimtyhaphaza ⟨את⟩ yena — kuba ngokwenene xa ekhala, uza kukhala kum; ndiza kumva ngokwenene ukukhala kwakhe.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ukuba"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "ukumtyhaphaza"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "nimtyhaphaza"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "yena"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "אם",
+      "gloss": "xa"
+    },
+    {
+      "surface": "צעק",
+      "gloss": "ngokwenene ukukhala"
+    },
+    {
+      "surface": "יצעק",
+      "gloss": "uza kukhala"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kum"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ukumva"
+    },
+    {
+      "surface": "אשמע",
+      "gloss": "ndiza kumva ngokwenene"
+    },
+    {
+      "surface": "צעקתו",
+      "gloss": "ukukhala kwakhe"
+    }
+  ],
+  "timestamp": "2026-09-18T06:08:45.612234142Z",
+  "model": "glm-5.3"
+}

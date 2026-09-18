@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 109:27",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 109,
+  "translation": "Baze bakwazi ukuba isandla sakho yile ⟨ndisindisileyo⟩; wena, Yahwe, wenze yonke le.",
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "Baze bakwazi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ukuba"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "isandla sakho"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "yile"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עשיתה",
+      "gloss": "wenze yonke le"
+    }
+  ],
+  "timestamp": "2026-09-18T15:19:33.470845074Z",
+  "model": "glm-5.3"
+}

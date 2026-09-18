@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 8:6",
+  "book": "genesis",
+  "lang": "xh",
+  "chapter": 8,
+  "translation": "Kwasekugqibeleni kwamashumi amane amahlathi, uNoa wavula ⟨את⟩ ifestile yendlu yomkumbi awayenziyo.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Kwasekugqibeleni"
+    },
+    {
+      "surface": "מקץ",
+      "gloss": "kwasekugqibeleni kwe"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "amashumi amane"
+    },
+    {
+      "surface": "יום",
+      "gloss": "amahlathi"
+    },
+    {
+      "surface": "ויפתח",
+      "gloss": "wavula"
+    },
+    {
+      "surface": "נח",
+      "gloss": "uNoa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ifestile"
+    },
+    {
+      "surface": "חלון",
+      "gloss": "ifestile"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "yendlu yomkumbi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "awayenziyo"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "enziyo"
+    }
+  ],
+  "timestamp": "2026-09-18T05:09:51.011105394Z",
+  "model": "glm-5.3"
+}

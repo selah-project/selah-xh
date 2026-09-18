@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 18:15",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 18,
+  "translation": "Wathumela iintolo zakhe wazihambisa ixabiso; nabakhazimba abaninzi, wazidubula",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Wathumela"
+    },
+    {
+      "surface": "חציו",
+      "gloss": "iintolo zakhe"
+    },
+    {
+      "surface": "ויפיצם",
+      "gloss": "wazihambisa"
+    },
+    {
+      "surface": "וברקים",
+      "gloss": "nabakhazimba"
+    },
+    {
+      "surface": "רב",
+      "gloss": "abaninzi"
+    },
+    {
+      "surface": "ויהמם",
+      "gloss": "wazidubula"
+    }
+  ],
+  "timestamp": "2026-09-18T17:43:34.350350821Z",
+  "model": "glm-5.3"
+}

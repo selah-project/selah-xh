@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-kings 21:26",
+  "book": "2-kings",
+  "lang": "xh",
+  "chapter": 21,
+  "translation": "Wamngcwatha entaphweni yakhe esivikweni sikaUza; wabusa uYoshiya unyana wakhe endaweni yakhe.",
+  "tokens": [
+    {
+      "surface": "ויקבר",
+      "gloss": "wamngcwatha"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "yena (uAmon)"
+    },
+    {
+      "surface": "בקברתו",
+      "gloss": "entaphweni yakhe"
+    },
+    {
+      "surface": "בגן",
+      "gloss": "esivikweni"
+    },
+    {
+      "surface": "עזא",
+      "gloss": "sikaUza"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "wabusa"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "uYoshiya"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "unyana wakhe"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "endaweni yakhe"
+    }
+  ],
+  "timestamp": "2026-09-18T17:33:23.823356982Z",
+  "model": "glm-5.3"
+}

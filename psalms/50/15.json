@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 50:15",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 50,
+  "translation": "Ndibize ngosuku lobunzima; mna ndiza kukhulula wena, wena uza kundidumisa.",
+  "tokens": [
+    {
+      "surface": "וקראני",
+      "gloss": "Ndibize"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ngosuku"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "lobunzima"
+    },
+    {
+      "surface": "אחלצך",
+      "gloss": "mna ndiza kukhulula wena"
+    },
+    {
+      "surface": "ותכבדני",
+      "gloss": "wena uza kundidumisa"
+    }
+  ],
+  "timestamp": "2026-09-18T14:48:24.352634767Z",
+  "model": "glm-5.3"
+}

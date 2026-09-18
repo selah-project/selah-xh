@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 38:5",
+  "book": "isaiah",
+  "lang": "xh",
+  "chapter": 38,
+  "translation": "Hamba, uthethe kuKhizkiyahu: Njalo uthi uYahwe, uElohim kaDavide uyihlo wakho, Ndive ⟨את⟩ thandazelo yakho, ndibonile ⟨את⟩ iinyaniso zakho; nanku ndiza kongeza kwimihla yakho iminyaka elishumi nesihlanu.",
+  "tokens": [
+    {
+      "surface": "הלוך",
+      "gloss": "Hamba"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "uthethe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "uKhizkiyahu"
+    },
+    {
+      "surface": "כה",
+      "gloss": "Njalo"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "uthi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "uElohim ka"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "uDavide"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "uyihlo wakho"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "Ndive"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "thandazelo yakho"
+    },
+    {
+      "surface": "תפלתך",
+      "gloss": "thandazelo yakho"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "ndibonile"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iinyaniso zakho"
+    },
+    {
+      "surface": "דמעתך",
+      "gloss": "iinyaniso zakho"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "nanku"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "ndiza kongeza"
+    },
+    {
+      "surface": "על",
+      "gloss": "kwi"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "mihla yakho"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "elihlanu"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "elishumi"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "iminyaka"
+    }
+  ],
+  "timestamp": "2026-09-18T11:27:47.692125301Z",
+  "model": "glm-5.3"
+}

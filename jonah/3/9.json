@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jonah 3:9",
+  "book": "jonah",
+  "lang": "xh",
+  "chapter": 3,
+  "translation": "Ngubani owaziyo? Mhlawumbi uza kubuyela, aze axole uElohim, abuyele kwesisithukuthezi sokrwada kwakhe, kwaye singapheli.”",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Ngubani"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "owaziyo"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "uza kubuyela"
+    },
+    {
+      "surface": "ונחם",
+      "gloss": "aze axole"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "abuyele"
+    },
+    {
+      "surface": "מחרון",
+      "gloss": "kwesisithukuthezi"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "sokrwada kwakhe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kwaye singa-"
+    },
+    {
+      "surface": "נאבד",
+      "gloss": "pheli"
+    }
+  ],
+  "timestamp": "2026-09-18T14:00:28.839610243Z",
+  "model": "glm-5.3"
+}

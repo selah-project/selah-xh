@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 26:10",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 26,
+  "translation": "aboxho bakhe bubugqwira, nasandla sayo esinene sizaliswe ngeentshwapha;",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "abo"
+    },
+    {
+      "surface": "בידיהם",
+      "gloss": "ezandleni zabo"
+    },
+    {
+      "surface": "זמה",
+      "gloss": "ubugqwira"
+    },
+    {
+      "surface": "וימינם",
+      "gloss": "nasandla sayo esinene"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "sizaliswe"
+    },
+    {
+      "surface": "שחד",
+      "gloss": "ngeentshwapha"
+    }
+  ],
+  "timestamp": "2026-09-18T14:36:41.203722970Z",
+  "model": "glm-5.3"
+}

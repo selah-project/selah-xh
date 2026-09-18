@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 14:4",
+  "book": "2-chronicles",
+  "lang": "xh",
+  "chapter": 14,
+  "translation": "Wazisusa kwisixeko zonke zaYuda ⟨את⟩ iindawoziphakamileyo kunye ⟨את⟩ neefanekiso zelanga, umbuso wazolile phambi kwakhe.",
+  "tokens": [
+    {
+      "surface": "ויסר",
+      "gloss": "Wazisusa"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "kwisixeko zonke"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "kwisixeko"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "zaYuda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iindawoziphakamileyo"
+    },
+    {
+      "surface": "הבמות",
+      "gloss": "iindawoziphakamileyo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kunye ⟨את⟩ ne-",
+      "marks": "iifanekiso zelanga"
+    },
+    {
+      "surface": "החמנים",
+      "gloss": "iifanekiso zelanga"
+    },
+    {
+      "surface": "ותשקט",
+      "gloss": "wazolile"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "umbuso"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "phambi kwakhe"
+    }
+  ],
+  "timestamp": "2026-09-18T17:07:41.060404424Z",
+  "model": "glm-5.3"
+}

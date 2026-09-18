@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 2:17",
+  "book": "genesis",
+  "lang": "xh",
+  "chapter": 2,
+  "translation": "kodwa umthi wokwazi okulungileyo nokungcolileyo, ungatyi kiwo, kuba ngosuku oluya kutya ngako lona, uya kufa ngokwenene.”",
+  "tokens": [
+    {
+      "surface": "ומעץ",
+      "gloss": "kodwa umthi"
+    },
+    {
+      "surface": "הדעת",
+      "gloss": "wokwazi"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "okulungileyo"
+    },
+    {
+      "surface": "ורע",
+      "gloss": "nokungcolileyo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "akusiyo"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "ungatyi"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "kiwo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ngosuku"
+    },
+    {
+      "surface": "אכלך",
+      "gloss": "oluya kutya ngako lona"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ngako"
+    },
+    {
+      "surface": "מות",
+      "gloss": "uya kufa"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "ngokwenene"
+    }
+  ],
+  "timestamp": "2026-09-18T05:08:44.788647593Z",
+  "model": "glm-5.3"
+}

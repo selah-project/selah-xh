@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 71:22",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 71,
+  "translation": "Mna ndiza kukudumisa ngesandla se-neveli ngenyaniso yakho, uElohim wam; ndiza kukuculela ngekhinori, wena Ongcwele kaSrayeli.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Mna ⟨naye⟩"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mna"
+    },
+    {
+      "surface": "אודך",
+      "gloss": "ndiza kukudumisa"
+    },
+    {
+      "surface": "בכלי",
+      "gloss": "ngesandla se-"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "neveli"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "ngenyaniso yakho"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "uElohim wam"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "ndiza kukuculela"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kuwe"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "ngekhinori"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "Ongcwele"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "kaSrayeli"
+    }
+  ],
+  "timestamp": "2026-09-18T14:56:41.482145947Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 25:25",
+  "book": "leviticus",
+  "lang": "xh",
+  "chapter": 25,
+  "translation": "Ukuba umzalwane wakho usweleka, athengise inxalenye yalo mnqophiso wakhe, koko umkolishi wakhe osondeleyo kuye uye afike, aze akhulule ⟨את⟩ oko kutengiswayo komzalwane wakhe.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ukuba"
+    },
+    {
+      "surface": "ימוך",
+      "gloss": "usweleka"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "umzalwane wakho"
+    },
+    {
+      "surface": "ומכר",
+      "gloss": "athengise"
+    },
+    {
+      "surface": "מאחזתו",
+      "gloss": "inxalenye yalo mnqophiso wakhe"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "uye afike"
+    },
+    {
+      "surface": "גאלו",
+      "gloss": "umkolishi wakhe"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "osondeleyo"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kuye"
+    },
+    {
+      "surface": "וגאל",
+      "gloss": "aze akhulule"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oko kutengiswayo komzalwane wakhe"
+    },
+    {
+      "surface": "ממכר",
+      "gloss": "oko kutengiswayo"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "komzalwane wakhe"
+    }
+  ],
+  "timestamp": "2026-09-18T07:06:49.129174810Z",
+  "model": "glm-5.3"
+}

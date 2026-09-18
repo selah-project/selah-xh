@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 77:10",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 77,
+  "translation": "ULibele na u-El ukuba nom usa? Walivala na ngolaka unguno lwakhe? Selah.",
+  "tokens": [
+    {
+      "surface": "השכח",
+      "gloss": "ulibele na"
+    },
+    {
+      "surface": "חנות",
+      "gloss": "ukuba nom usa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "u-El"
+    },
+    {
+      "surface": "אם",
+      "gloss": "okanye"
+    },
+    {
+      "surface": "קפץ",
+      "gloss": "walivala"
+    },
+    {
+      "surface": "באף",
+      "gloss": "ngolaka"
+    },
+    {
+      "surface": "רחמיו",
+      "gloss": "unguno lwakhe"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-18T15:00:43.123507993Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 35:14",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 35,
+  "translation": "no⟨את⟩ umnandi wokukhanya, ⟨את⟩ izinto zawo, ⟨את⟩ iibhelita zawo, no⟨את⟩ ioyile yokukhanya;",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "no⟨את⟩",
+      "marks": "umnandi wokukhanya"
+    },
+    {
+      "surface": "מנרת",
+      "gloss": "umnandi"
+    },
+    {
+      "surface": "המאור",
+      "gloss": "wokukhanya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "izinto zawo"
+    },
+    {
+      "surface": "כליה",
+      "gloss": "izinto zawo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "iibhelita zawo"
+    },
+    {
+      "surface": "נרתיה",
+      "gloss": "iibhelita zawo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "no⟨את⟩",
+      "marks": "ioyile yokukhanya"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "ioyile"
+    },
+    {
+      "surface": "המאור",
+      "gloss": "yokukhanya"
+    }
+  ],
+  "timestamp": "2026-09-18T06:23:25.770291931Z",
+  "model": "glm-5.3"
+}

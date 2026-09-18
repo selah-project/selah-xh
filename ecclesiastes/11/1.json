@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 11:1",
+  "book": "ecclesiastes",
+  "lang": "xh",
+  "chapter": 11,
+  "translation": "Shenxisela ukutya kwakho phezu kwamanzi, kuba kwimihla emininzi uza kubufumana.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "Shenxisela"
+    },
+    {
+      "surface": "לחמך",
+      "gloss": "ukutya kwakho"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu"
+    },
+    {
+      "surface": "פני",
+      "gloss": "phezu (kwamanzi)"
+    },
+    {
+      "surface": "המים",
+      "gloss": "kwamanzi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "emininzi"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "kwimihla"
+    },
+    {
+      "surface": "תמצאנו",
+      "gloss": "uza kubufumana"
+    }
+  ],
+  "timestamp": "2026-09-18T16:26:39.122318898Z",
+  "model": "glm-5.3"
+}

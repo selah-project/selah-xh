@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 34:28",
+  "book": "genesis",
+  "lang": "xh",
+  "chapter": 34,
+  "translation": "⟨את⟩ iimvu zabo no⟨את⟩ iinkomo zabo no⟨את⟩ amadonki abo, no⟨את⟩ konke okuse dolowini, no⟨את⟩ konke okusimasimini, bakuthabatha.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iimvu zabo"
+    },
+    {
+      "surface": "צאנם",
+      "gloss": "iimvu zabo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "no⟨את⟩",
+      "marks": "iinkomo zabo"
+    },
+    {
+      "surface": "בקרם",
+      "gloss": "iinkomo zabo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "no⟨את⟩",
+      "marks": "amadonki abo"
+    },
+    {
+      "surface": "חמריהם",
+      "gloss": "amadonki abo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "no⟨את⟩",
+      "marks": "konke okuse dolowini"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "konke oku-"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "okuse dolowini"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "no⟨את⟩",
+      "marks": "konke okusimasimini"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "konke oku-"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "okusimasimini"
+    },
+    {
+      "surface": "לקחו",
+      "gloss": "bakuthabatha"
+    }
+  ],
+  "timestamp": "2026-09-18T05:34:33.895584497Z",
+  "model": "glm-5.3"
+}

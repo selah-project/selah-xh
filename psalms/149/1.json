@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 149:1",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 149,
+  "translation": "Dumani uYah, yimbuleni kuYahwe ingoma entsha, indumiso yakhe ekwindibano yabakhesedi.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Dumani"
+    },
+    {
+      "surface": "יה",
+      "gloss": "uYah"
+    },
+    {
+      "surface": "שירו",
+      "gloss": "yimbuleni"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kuYahwe"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "ingoma"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "entsha"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "indumiso yakhe"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "ekwindibano"
+    },
+    {
+      "surface": "חסידים",
+      "gloss": "yabakhesedi"
+    }
+  ],
+  "timestamp": "2026-09-18T17:46:26.295958482Z",
+  "model": "glm-5.3"
+}

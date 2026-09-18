@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 37:22",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 37,
+  "translation": "Kuba abasikelekileyo nguYahwe baya kudla ⟨isabelo⟩ umhlaba; abasityhiweyo nguYahwe baya kucinywa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "מברכיו",
+      "gloss": "abasikelekileyo"
+    },
+    {
+      "surface": "יירשו",
+      "gloss": "baya kudla umhlaba"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "umhlaba"
+    },
+    {
+      "surface": "ומקלליו",
+      "gloss": "abasityhiweyo"
+    },
+    {
+      "surface": "יכרתו",
+      "gloss": "baya kucinywa"
+    }
+  ],
+  "timestamp": "2026-09-18T14:43:00.167901151Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 98:1",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 98,
+  "translation": "Incwadi yomculo. Cululelani kuYahwe umculo omtsha, kuba wenzile imimangaliso; sandla sakhe sokunene nesebe lakhe elingcweleenzile intsalela yakhe.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "incwadi yomculo"
+    },
+    {
+      "surface": "שירו",
+      "gloss": "cululelani"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kuYahwe"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "umculo"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "omtsha"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "נפלאות",
+      "gloss": "imimangaliso"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "wenzile"
+    },
+    {
+      "surface": "הושיעה",
+      "gloss": "enzile intsalela"
+    },
+    {
+      "surface": "לו",
+      "gloss": "yena"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "isandla sakhe sokunene"
+    },
+    {
+      "surface": "וזרוע",
+      "gloss": "nesebe"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "elingcwele"
+    }
+  ],
+  "timestamp": "2026-09-18T15:14:22.349332273Z",
+  "model": "glm-5.3"
+}

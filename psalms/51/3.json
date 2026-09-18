@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 51:3",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 51,
+  "translation": "Ndenzele isihe, uElohim, ngokwekhesedi yakho, ngokobuninzi bezihlanelo zakho cima iziphulo zam.",
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "Ndenzele isihe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "כחסדך",
+      "gloss": "ngokwekhesedi yakho"
+    },
+    {
+      "surface": "כרב",
+      "gloss": "ngokobuninzi"
+    },
+    {
+      "surface": "רחמיך",
+      "gloss": "bezihlanelo zakho"
+    },
+    {
+      "surface": "מחה",
+      "gloss": "cima"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "iziphulo zam"
+    }
+  ],
+  "timestamp": "2026-09-18T14:49:24.143338258Z",
+  "model": "glm-5.3"
+}

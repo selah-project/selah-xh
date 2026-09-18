@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 13:15",
+  "book": "genesis",
+  "lang": "xh",
+  "chapter": 13,
+  "translation": "kuba ⟨את⟩ yonke lo mhlaba owubonayo, kuwe ndiza kunika yena, nakwimbewu yakho, de kube ngunaphakade.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yonke lo mhlaba"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yonke"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lo mhlaba"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "eo"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "owu"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "bonayo"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kuwe"
+    },
+    {
+      "surface": "אתננה",
+      "gloss": "ndiza kunika yena"
+    },
+    {
+      "surface": "ולזרעך",
+      "gloss": "nakwimbewu yakho"
+    },
+    {
+      "surface": "עד",
+      "gloss": "de kube"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ngunaphakade"
+    }
+  ],
+  "timestamp": "2026-09-18T05:12:27.814560189Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 42:11",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 42,
+  "translation": "Njengokutshatyalaliswa kwamathamba am, iintshaba zam zindihlazile, ngokuthi kum yonke imihla: Lithi na uElohim wakho?",
+  "tokens": [
+    {
+      "surface": "ברצח",
+      "gloss": "njengokutshatyalaliswa"
+    },
+    {
+      "surface": "בעצמותי",
+      "gloss": "kwamathamba am"
+    },
+    {
+      "surface": "חרפוני",
+      "gloss": "zindihlazile"
+    },
+    {
+      "surface": "צוררי",
+      "gloss": "iintshaba zam"
+    },
+    {
+      "surface": "באמרם",
+      "gloss": "ngokuthi"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kum"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yonke"
+    },
+    {
+      "surface": "היום",
+      "gloss": "imihla"
+    },
+    {
+      "surface": "איה",
+      "gloss": "Lithi na"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "uElohim wakho"
+    }
+  ],
+  "timestamp": "2026-09-18T14:44:36.963091436Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 3:3",
+  "book": "hosea",
+  "lang": "xh",
+  "chapter": 3,
+  "translation": "Ndandithi kuye: “Iintsuku ezininzi uza kuhlala undilindele; musa ukutyaleka, ungabi yomntu omnye; mna ndino njalo kuwe.”",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "Ndandithi"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "kuye"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "iintsuku"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "ezininzi"
+    },
+    {
+      "surface": "תשבי",
+      "gloss": "uza kuhlala"
+    },
+    {
+      "surface": "לי",
+      "gloss": "undilindele"
+    },
+    {
+      "surface": "לא",
+      "gloss": "musa"
+    },
+    {
+      "surface": "תזני",
+      "gloss": "ukutyaleka"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ungabi"
+    },
+    {
+      "surface": "תהיי",
+      "gloss": "yomntu"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "omnye"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "njalo"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mna"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kuwe"
+    }
+  ],
+  "timestamp": "2026-09-18T13:43:49.660243070Z",
+  "model": "glm-5.3"
+}

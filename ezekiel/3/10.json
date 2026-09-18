@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 3:10",
+  "book": "ezekiel",
+  "lang": "xh",
+  "chapter": 3,
+  "translation": "Wathi kum: “Unyana womntu, onke amazwi am andithethayo kuwe, wamkele ngenhliziyo yakho, uve nangeendlebe zakho.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kum"
+    },
+    {
+      "surface": "בן",
+      "gloss": "unyana"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "womntu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "onke amazwi am"
+    },
+    {
+      "surface": "כל",
+      "gloss": "onke"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "amazwi am"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ndithethayo"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "ndithethayo"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kuwe"
+    },
+    {
+      "surface": "קח",
+      "gloss": "wamkele"
+    },
+    {
+      "surface": "בלבבך",
+      "gloss": "ngenhliziyo yakho"
+    },
+    {
+      "surface": "ובאזניך",
+      "gloss": "nangeendlebe zakho"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "uve"
+    }
+  ],
+  "timestamp": "2026-09-18T12:50:08.139508503Z",
+  "model": "glm-5.3"
+}

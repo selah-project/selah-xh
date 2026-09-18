@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 148:7",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 148,
+  "translation": "Dumisani uYahwe ⟨את⟩ emhlabeni, zizo izilo zaselwandle nako onke amanzi ajulileyo.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Dumisani"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uYahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kwi-"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "umhlaba"
+    },
+    {
+      "surface": "תנינים",
+      "gloss": "izilo zaselwandle"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "nako onke"
+    },
+    {
+      "surface": "תהמות",
+      "gloss": "amanzi ajulileyo"
+    }
+  ],
+  "timestamp": "2026-09-18T15:35:11.142337686Z",
+  "model": "glm-5.3"
+}

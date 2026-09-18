@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezekiel 16:9",
+  "book": "ezekiel",
+  "lang": "xh",
+  "chapter": 16,
+  "translation": "Ndakuhlamba ngamanzi, ndakuhlanza ugazi lwakho kuwe, ndakugcoba ngeoli.",
+  "tokens": [
+    {
+      "surface": "וארחצך",
+      "gloss": "ndakuhlamba"
+    },
+    {
+      "surface": "במים",
+      "gloss": "ngamanzi"
+    },
+    {
+      "surface": "ואשטף",
+      "gloss": "ndakuhlanza"
+    },
+    {
+      "surface": "דמיך",
+      "gloss": "ugazi lwakho"
+    },
+    {
+      "surface": "מעליך",
+      "gloss": "kuwe"
+    },
+    {
+      "surface": "ואסכך",
+      "gloss": "ndakugcoba"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "ngeoli"
+    }
+  ],
+  "timestamp": "2026-09-18T13:02:01.961240648Z",
+  "model": "glm-5.3"
+}

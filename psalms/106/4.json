@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 106:4",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 106,
+  "translation": "Ndikhumbule, wena uYahwe, ngokwamkela abantu bakho; undwendwele ngosindiso lwakho.",
+  "tokens": [
+    {
+      "surface": "זכרני",
+      "gloss": "Ndikhumbule"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "ברצון",
+      "gloss": "ngokwamkela"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "abantu bakho"
+    },
+    {
+      "surface": "פקדני",
+      "gloss": "undwendwele"
+    },
+    {
+      "surface": "בישועתך",
+      "gloss": "ngosindiso lwakho"
+    }
+  ],
+  "timestamp": "2026-09-18T15:17:39.792892860Z",
+  "model": "glm-5.3"
+}

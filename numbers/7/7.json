@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 7:7",
+  "book": "numbers",
+  "lang": "xh",
+  "chapter": 7,
+  "translation": "⟨את⟩ Iinqwelo ezimbini no⟨את⟩ iinkabi ezine wanika oonyana bakaGershoni, ngokomlomo wesebenzi wabo.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iinqwelo ezimbini"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "ezimbini"
+    },
+    {
+      "surface": "העגלת",
+      "gloss": "iinqwelo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "no⟨את⟩",
+      "marks": "iinkabi ezine"
+    },
+    {
+      "surface": "ארבעת",
+      "gloss": "ezine"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "iinkabi"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "wanika"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "oonyana baka"
+    },
+    {
+      "surface": "גרשון",
+      "gloss": "uGershoni"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "ngokomlomo"
+    },
+    {
+      "surface": "עבדתם",
+      "gloss": "wesebenzi wabo"
+    }
+  ],
+  "timestamp": "2026-09-18T07:15:01.013019905Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 26:11",
+  "book": "genesis",
+  "lang": "xh",
+  "chapter": 26,
+  "translation": "Wayalela u-Abimelekhe ⟨את⟩ onke abantu, esithi: “Nobani othintayo lo mntu okanye umfazi wakhe, imoya yaleta, iya kubulawa.”",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "wayalela"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "u-Abimelekhe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "onke abantu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "onke"
+    },
+    {
+      "surface": "העם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "esithi"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "othintayo"
+    },
+    {
+      "surface": "באיש",
+      "gloss": "lo mntu"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "lo"
+    },
+    {
+      "surface": "ובאשתו",
+      "gloss": "okanye umfazi wakhe"
+    },
+    {
+      "surface": "מות",
+      "gloss": "imoya yaleta ⟨iyo kufa⟩"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "iya kubulawa"
+    }
+  ],
+  "timestamp": "2026-09-18T05:25:01.283092741Z",
+  "model": "glm-5.3"
+}

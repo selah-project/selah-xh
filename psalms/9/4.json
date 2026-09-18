@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 9:4",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 9,
+  "translation": "Ekubuyela umva izitha zam, ziya kuteleza, zisweleke phambi kobuso bakho.",
+  "tokens": [
+    {
+      "surface": "בשוב",
+      "gloss": "ekubuyela"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "izitha zam"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "umva"
+    },
+    {
+      "surface": "יכשלו",
+      "gloss": "ziya kuteleza"
+    },
+    {
+      "surface": "ויאבדו",
+      "gloss": "zisweleke"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "phambi kobuso bakho"
+    }
+  ],
+  "timestamp": "2026-09-18T14:32:13.133167554Z",
+  "model": "glm-5.3"
+}

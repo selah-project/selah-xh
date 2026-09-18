@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 4:2",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 4,
+  "translation": "Xa ndibiza, ndiphendule, uElohim wobulungisa bam; esichotheni undandathisile; ndibekele ngomusa, uve isicelo sam.",
+  "tokens": [
+    {
+      "surface": "בקראי",
+      "gloss": "Xa ndibiza"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "ndiphendule"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "צדקי",
+      "gloss": "wobulungisa bam"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "esichotheni"
+    },
+    {
+      "surface": "הרחבת",
+      "gloss": "undandathisile"
+    },
+    {
+      "surface": "לי",
+      "gloss": "nd"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "ndibekele ngomusa"
+    },
+    {
+      "surface": "ושמע",
+      "gloss": "uve"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "isicelo sam"
+    }
+  ],
+  "timestamp": "2026-09-18T14:27:19.066048083Z",
+  "model": "glm-5.3"
+}

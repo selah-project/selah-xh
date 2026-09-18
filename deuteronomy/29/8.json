@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 29:8",
+  "book": "deuteronomy",
+  "lang": "xh",
+  "chapter": 29,
+  "translation": "Yigcinani ke amagama olo mnqophiso ⟨את⟩, nize nizenze ⟨את⟩, ukuze niphumelele kuzo ⟨את⟩ zonke izinto enizenzayo.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "yigcinani"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amagama olo mnqophiso"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "amagama"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "olo mnqophiso"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "olu"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "nizenze"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "amagama olo mnqophiso"
+    },
+    {
+      "surface": "למען",
+      "gloss": "ukuze"
+    },
+    {
+      "surface": "תשכילו",
+      "gloss": "niphumelele"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zonke izinto"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zonke"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ez-"
+    },
+    {
+      "surface": "תעשון",
+      "gloss": "enizenzayo"
+    }
+  ],
+  "timestamp": "2026-09-18T08:20:06.989316774Z",
+  "model": "glm-5.3"
+}

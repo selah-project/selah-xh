@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 8:3",
+  "book": "2-kings",
+  "lang": "xh",
+  "chapter": 8,
+  "translation": "Kwathi ekupheleni kweminyaka esixhenxe, umfazi wabuya elizweni lamaFilisti, waphuma ukukhala kukumkani ngekhaya lakhe nangensimi yakhe.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Kwathi"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "ekupheleni"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "esixhenxe"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "iminyaka"
+    },
+    {
+      "surface": "ותשב",
+      "gloss": "wabuya"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "umfazi"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "elizweni"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "lamaFilisti"
+    },
+    {
+      "surface": "ותצא",
+      "gloss": "waphuma"
+    },
+    {
+      "surface": "לצעק",
+      "gloss": "ukukhala"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kumkani"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nge"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "ikhaya lakhe"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "nange"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "nsimi yakhe"
+    }
+  ],
+  "timestamp": "2026-09-18T10:45:34.797611452Z",
+  "model": "glm-5.3"
+}

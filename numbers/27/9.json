@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 27:9",
+  "book": "numbers",
+  "lang": "xh",
+  "chapter": 27,
+  "translation": "Ukuba akanabo intombi, niza kusalela ⟨את⟩ ifa lakhe kubantakwabo.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ukuba"
+    },
+    {
+      "surface": "אין",
+      "gloss": "akanabo"
+    },
+    {
+      "surface": "לו",
+      "gloss": "akayinabo-"
+    },
+    {
+      "surface": "בת",
+      "gloss": "intombi"
+    },
+    {
+      "surface": "ונתתם",
+      "gloss": "niza kusalela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ifa lakhe"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "ifa lakhe"
+    },
+    {
+      "surface": "לאחיו",
+      "gloss": "kubantakwabo"
+    }
+  ],
+  "timestamp": "2026-09-18T07:41:13.190980616Z",
+  "model": "glm-5.3"
+}

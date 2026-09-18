@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 31:2",
+  "book": "proverbs",
+  "lang": "xh",
+  "chapter": 31,
+  "translation": "Yintoni, unyana wam? yintoni, unyana wesisu sam? yintoni, unyana wezithembiso zam?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "yintoni"
+    },
+    {
+      "surface": "ברי",
+      "gloss": "unyana wam"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "yintoni"
+    },
+    {
+      "surface": "בר",
+      "gloss": "unyana"
+    },
+    {
+      "surface": "בטני",
+      "gloss": "wesisu sam"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "yintoni"
+    },
+    {
+      "surface": "בר",
+      "gloss": "unyana"
+    },
+    {
+      "surface": "נדרי",
+      "gloss": "wezithembiso zam"
+    }
+  ],
+  "timestamp": "2026-09-18T15:59:35.200345218Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 105,
+  "ref": "psalms 119:105",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 119,
+  "translation": "Iganja leenyawo zam ilizwi lakho, kukhanyelo lwendlela yam.",
+  "tokens": [
+    {
+      "surface": "נר",
+      "gloss": "iganja"
+    },
+    {
+      "surface": "לרגלי",
+      "gloss": "leenyawo zam"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "ilizwi lakho"
+    },
+    {
+      "surface": "ואור",
+      "gloss": "kukhanyelo"
+    },
+    {
+      "surface": "לנתיבתי",
+      "gloss": "lwendlela yam"
+    }
+  ],
+  "timestamp": "2026-09-18T15:23:58.729658620Z",
+  "model": "glm-5.3"
+}

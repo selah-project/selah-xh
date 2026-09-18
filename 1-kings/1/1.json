@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 1:1",
+  "book": "1-kings",
+  "lang": "xh",
+  "chapter": 1,
+  "translation": "Waza iNkumkani uDavide yamdala, yangena emihleni, waza bammisa ngemibhaco, kodwa akazange abe nubushushu.",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "waza iNkumkani"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "uDavide"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "yamdala"
+    },
+    {
+      "surface": "בא",
+      "gloss": "yangena"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "emihleni"
+    },
+    {
+      "surface": "ויכסהו",
+      "gloss": "bammisa"
+    },
+    {
+      "surface": "בבגדים",
+      "gloss": "ngemibhaco"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kodwa akazange"
+    },
+    {
+      "surface": "יחם",
+      "gloss": "abe nubushushu"
+    },
+    {
+      "surface": "לו",
+      "gloss": "yena"
+    }
+  ],
+  "timestamp": "2026-09-18T10:07:41.092879597Z",
+  "model": "glm-5.3"
+}

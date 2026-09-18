@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 8:1",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 8,
+  "translation": "Wayethetha uYahwe kuMoshe: “Yithi ku-Aharon: Lula ⟨את⟩ isandla sakho ngesixhobo sakho phezu kwemilambo, phezu kwiiyeore, nangephezu kwii-axesi, uze uzenze ukuba anyuke ⟨את⟩ iintulo phezu komhlaba weMitsrayim.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Wayethetha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "משה",
+      "gloss": "uMoshe"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "Yithi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "u-Aharon"
+    },
+    {
+      "surface": "נטה",
+      "gloss": "Lula"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isandla sakho"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "isandla sakho"
+    },
+    {
+      "surface": "במטך",
+      "gloss": "ngesixhobo sakho"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu"
+    },
+    {
+      "surface": "הנהרת",
+      "gloss": "kwemilambo"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu"
+    },
+    {
+      "surface": "היארים",
+      "gloss": "kwiiyeore"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "nangephezu"
+    },
+    {
+      "surface": "האגמים",
+      "gloss": "kwii-axesi"
+    },
+    {
+      "surface": "והעל",
+      "gloss": "uze uzenze ukuba anyuke"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iintulo"
+    },
+    {
+      "surface": "הצפרדעים",
+      "gloss": "iintulo"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "komhlaba"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "weMitsrayim"
+    }
+  ],
+  "timestamp": "2026-09-18T05:56:43.944919087Z",
+  "model": "glm-5.3"
+}

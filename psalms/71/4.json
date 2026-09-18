@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 71:4",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 71,
+  "translation": "uElohim wam, ndikhuphe esandleni somngcolileyo, esandleni somtyholi nomsunguli.",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "uElohim wam"
+    },
+    {
+      "surface": "פלטני",
+      "gloss": "ndikhuphe"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "esandleni"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "somngcolileyo"
+    },
+    {
+      "surface": "מכף",
+      "gloss": "esandleni"
+    },
+    {
+      "surface": "מעול",
+      "gloss": "somtyholi"
+    },
+    {
+      "surface": "וחומץ",
+      "gloss": "nomsunguli"
+    }
+  ],
+  "timestamp": "2026-09-18T17:44:38.425584841Z",
+  "model": "glm-5.3"
+}

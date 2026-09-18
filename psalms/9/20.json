@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 9:20",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 9,
+  "translation": "Sukuma, uYahwe; musa ukuvumela umntu ukuba abe namandla; ma ziguqulwe iintlanga phambi kobuso bakho.",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "Sukuma"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "musa"
+    },
+    {
+      "surface": "יעז",
+      "gloss": "ukuvumela... ukuba abe namandla"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "umntu"
+    },
+    {
+      "surface": "ישפטו",
+      "gloss": "ma ziguqulwe"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "iintlanga"
+    },
+    {
+      "surface": "על",
+      "gloss": "phambi"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "kobuso bakho"
+    }
+  ],
+  "timestamp": "2026-09-18T14:31:15.075594317Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-samuel 19:13",
+  "book": "1-samuel",
+  "lang": "xh",
+  "chapter": 19,
+  "translation": "UMikal wathabatha ⟨את⟩ iitheraphim, wazibeka esitulo sokulala, waza ⟨את⟩ isixeke seenwele zeibhokhwe wabeka ecaleni kweentloko zakhe, waza wayigquma ngesinxibo.",
+  "tokens": [
+    {
+      "surface": "ותקח",
+      "gloss": "wathabatha"
+    },
+    {
+      "surface": "מיכל",
+      "gloss": "uMikal"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iitheraphim"
+    },
+    {
+      "surface": "התרפים",
+      "gloss": "iitheraphim"
+    },
+    {
+      "surface": "ותשם",
+      "gloss": "wazibeka"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "המטה",
+      "gloss": "esitulo sokulala"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "isixeke seenwele zeibhokhwe"
+    },
+    {
+      "surface": "כביר",
+      "gloss": "isixeke"
+    },
+    {
+      "surface": "העזים",
+      "gloss": "zeibhokhwe"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "wabeka"
+    },
+    {
+      "surface": "מראשתיו",
+      "gloss": "ecaleni kweentloko zakhe"
+    },
+    {
+      "surface": "ותכס",
+      "gloss": "wayigquma"
+    },
+    {
+      "surface": "בבגד",
+      "gloss": "ngesinxibo"
+    }
+  ],
+  "timestamp": "2026-09-18T09:31:19.275661452Z",
+  "model": "glm-5.3"
+}

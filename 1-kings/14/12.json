@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 14:12",
+  "book": "1-kings",
+  "lang": "xh",
+  "chapter": 14,
+  "translation": "Wena ke, vuka, yiya endlwini yakho; xa iinyawo zakho zingena esixekweni, umntwana uya kufa.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "wena ke"
+    },
+    {
+      "surface": "קומי",
+      "gloss": "vuka"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "yiya"
+    },
+    {
+      "surface": "לביתך",
+      "gloss": "endlwini yakho"
+    },
+    {
+      "surface": "בבאה",
+      "gloss": "xa zingena"
+    },
+    {
+      "surface": "רגליך",
+      "gloss": "iinyawo zakho"
+    },
+    {
+      "surface": "העירה",
+      "gloss": "esixekweni"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "uya kufa"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "umntwana"
+    }
+  ],
+  "timestamp": "2026-09-18T17:32:21.754848390Z",
+  "model": "glm-5.3"
+}

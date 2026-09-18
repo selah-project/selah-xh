@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 2:12",
+  "book": "leviticus",
+  "lang": "xh",
+  "chapter": 2,
+  "translation": "Njengemnikelo yeziqalo nize niyizise ⟨את⟩ kuYahwe; kodwa azinyuki kwitafile yokutshisa, zibe yivumba elimnandi.",
+  "tokens": [
+    {
+      "surface": "קרבן",
+      "gloss": "njengemnikelo"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "yeziqalo"
+    },
+    {
+      "surface": "תקריבו",
+      "gloss": "nize niyizise"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "kuYahwe"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kuYahwe"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "kodwa ku-"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "itafile yokutshisa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hayi"
+    },
+    {
+      "surface": "יעלו",
+      "gloss": "azinyuki"
+    },
+    {
+      "surface": "לריח",
+      "gloss": "zibe yivumba"
+    },
+    {
+      "surface": "ניחח",
+      "gloss": "elimnandi"
+    }
+  ],
+  "timestamp": "2026-09-18T06:33:26.269049398Z",
+  "model": "glm-5.3"
+}

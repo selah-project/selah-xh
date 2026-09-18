@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "psalms 105:45",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 105,
+  "translation": "Ukuze bagcine imithetho yakhe, baze baligcile iTora yakhe. Yibani nditheni uYah!",
+  "tokens": [
+    {
+      "surface": "בעבור",
+      "gloss": "ukuze"
+    },
+    {
+      "surface": "ישמרו",
+      "gloss": "bagcine"
+    },
+    {
+      "surface": "חקיו",
+      "gloss": "imithetho yakhe"
+    },
+    {
+      "surface": "ותורתיו",
+      "gloss": "baze baligcile iTora yakhe"
+    },
+    {
+      "surface": "ינצרו",
+      "gloss": "baligcile"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "yibani nditheni"
+    },
+    {
+      "surface": "יה",
+      "gloss": "uYah"
+    }
+  ],
+  "timestamp": "2026-09-18T15:15:31.134834925Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 9:2",
+  "book": "numbers",
+  "lang": "xh",
+  "chapter": 9,
+  "translation": "Makwenze abantwana bakwaSirayeli ⟨את⟩ iPaseka ngexesha layo elichaziweyo.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "Makwenze"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abantwana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "bakwaSirayeli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iPaseka"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "iPaseka"
+    },
+    {
+      "surface": "במועדו",
+      "gloss": "ngexesha layo elichaziweyo"
+    }
+  ],
+  "timestamp": "2026-09-18T07:22:51.261427423Z",
+  "model": "glm-5.3"
+}

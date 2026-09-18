@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 8:13",
+  "book": "ecclesiastes",
+  "lang": "xh",
+  "chapter": 8,
+  "translation": "Kodwa akukho nto ilungileyo kulongcolileyo, yaye akanazinzisa iintsuku zakhe njengesithunzi, kuba yena akamoyiki uElohim.",
+  "tokens": [
+    {
+      "surface": "וטוב",
+      "gloss": "kodwa (akukho nto) ilungileyo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "akukho"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "iyakuba"
+    },
+    {
+      "surface": "לרשע",
+      "gloss": "kulongcolileyo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "yaye akanazi"
+    },
+    {
+      "surface": "יאריך",
+      "gloss": "ukuzinzisa"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "iintsuku"
+    },
+    {
+      "surface": "כצל",
+      "gloss": "njengesithunzi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "akakho yena"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "oyikiyo"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "phambi kuka-"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "uElohim"
+    }
+  ],
+  "timestamp": "2026-09-18T16:27:08.146000177Z",
+  "model": "glm-5.3"
+}

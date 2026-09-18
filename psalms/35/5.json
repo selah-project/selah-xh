@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 35:5",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 35,
+  "translation": "Maba ngangotsho olushushu phambi komoya, kwaye isithunywa sikaYahwe sidadalaze.",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "maba (bakhe beng)"
+    },
+    {
+      "surface": "כמץ",
+      "gloss": "ngangotsho olushushu"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "phambi kwa-"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "umoya"
+    },
+    {
+      "surface": "ומלאך",
+      "gloss": "kwaye isithunywa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "sikaYahwe"
+    },
+    {
+      "surface": "דוחה",
+      "gloss": "sidadalaze"
+    }
+  ],
+  "timestamp": "2026-09-18T14:40:29.537993383Z",
+  "model": "glm-5.3"
+}

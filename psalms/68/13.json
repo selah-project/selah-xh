@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 68:13",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 68,
+  "translation": "Iinkosi zemikhosi zabaleka, zabaleka, yaye olingedwa ekhaya usahlukanisa isigxeba.",
+  "tokens": [
+    {
+      "surface": "מלכי",
+      "gloss": "iinkosi"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "zemikhosi"
+    },
+    {
+      "surface": "ידדון",
+      "gloss": "zabaleka"
+    },
+    {
+      "surface": "ידדון",
+      "gloss": "zabaleka"
+    },
+    {
+      "surface": "ונות",
+      "gloss": "yaye olingedwa"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ekhaya"
+    },
+    {
+      "surface": "תחלק",
+      "gloss": "usahlukanisa"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "isigxeba"
+    }
+  ],
+  "timestamp": "2026-09-18T14:57:53.608809286Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 75:3",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 75,
+  "translation": "Kuba mna, xa ndithatha ixesha elicityiweyo, ndiyakwahlulela ngokulungelelanisa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kuba"
+    },
+    {
+      "surface": "אקח",
+      "gloss": "ndithatha"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ixesha elicityiweyo"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mna"
+    },
+    {
+      "surface": "מישרים",
+      "gloss": "ngokulungelelanisa"
+    },
+    {
+      "surface": "אשפט",
+      "gloss": "ndiyakwahlulela"
+    }
+  ],
+  "timestamp": "2026-09-18T15:01:31.515434534Z",
+  "model": "glm-5.3"
+}

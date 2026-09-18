@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-chronicles 34:19",
+  "book": "2-chronicles",
+  "lang": "xh",
+  "chapter": 34,
+  "translation": "Kwaba njalo, xa inkosi eyiva ⟨את⟩ amagama eTora, yazibukula ⟨את⟩ impahla yayo.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Kwaba njalo"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "xa eyiva"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "inkosi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amagama"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "amagama"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "eTora"
+    },
+    {
+      "surface": "ויקרע",
+      "gloss": "yazibukula"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "impahla yayo"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "impahla yayo"
+    }
+  ],
+  "timestamp": "2026-09-18T17:16:26.065770965Z",
+  "model": "glm-5.3"
+}

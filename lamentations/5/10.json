@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "lamentations 5:10",
+  "book": "lamentations",
+  "lang": "xh",
+  "chapter": 5,
+  "translation": "Isikhumba sethu sishiswe njengesitovu, ngenxa yokushisa kolamba.",
+  "tokens": [
+    {
+      "surface": "עורנו",
+      "gloss": "isikhumba sethu"
+    },
+    {
+      "surface": "כתנור",
+      "gloss": "njengesitovu"
+    },
+    {
+      "surface": "נכמרו",
+      "gloss": "sishiswe"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "ngenza ye-"
+    },
+    {
+      "surface": "זלעפות",
+      "gloss": "ukushisa"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "kolamba"
+    }
+  ],
+  "timestamp": "2026-09-18T16:23:19.081367868Z",
+  "model": "glm-5.3"
+}

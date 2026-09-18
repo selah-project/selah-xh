@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ecclesiastes 7:17",
+  "book": "ecclesiastes",
+  "lang": "xh",
+  "chapter": 7,
+  "translation": "Musa ukwenza ububi kakhulu, ungabi sisiphongo; kutheni ukuba ufe ngaphambi kwexesha lithi?",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "musa ukwenza"
+    },
+    {
+      "surface": "תרשע",
+      "gloss": "ububi"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "kakhulu"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ungabi"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "ungabi"
+    },
+    {
+      "surface": "סכל",
+      "gloss": "sisiphongo"
+    },
+    {
+      "surface": "למה",
+      "gloss": "kutheni"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "ufe"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "ngaphambi"
+    },
+    {
+      "surface": "עתך",
+      "gloss": "exesha lithi"
+    }
+  ],
+  "timestamp": "2026-09-18T16:26:05.036632144Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 91:12",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 91,
+  "translation": "Bephaleni ezandleni bakuthwale, hleze ulimele unyawo lwakho ngelitye.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "phepha"
+    },
+    {
+      "surface": "כפים",
+      "gloss": "ezandleni"
+    },
+    {
+      "surface": "ישאונך",
+      "gloss": "bakuthwale"
+    },
+    {
+      "surface": "פן",
+      "gloss": "hleze"
+    },
+    {
+      "surface": "תגף",
+      "gloss": "ulimele"
+    },
+    {
+      "surface": "באבן",
+      "gloss": "ngelitye"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "unyawo lwakho"
+    }
+  ],
+  "timestamp": "2026-09-18T15:09:58.399396398Z",
+  "model": "glm-5.3"
+}

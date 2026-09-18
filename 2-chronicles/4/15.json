@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 4:15",
+  "book": "2-chronicles",
+  "lang": "xh",
+  "chapter": 4,
+  "translation": "⟨את⟩ Ulwandle olunye, ⟨את⟩ naye ⟨את⟩ iinkunzi ezilishumi elinambini phantsi kwalo.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ulwandle olunye"
+    },
+    {
+      "surface": "הים",
+      "gloss": "Ulwandle"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "olunye"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ naye",
+      "marks": "iinkunzi"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "iinkunzi"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ezilishumi elinambini"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "elinambini"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "phantsi kwalo"
+    }
+  ],
+  "timestamp": "2026-09-18T17:03:09.930238112Z",
+  "model": "glm-5.3"
+}

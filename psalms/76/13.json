@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 76:13",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 76,
+  "translation": "Uyaqokelela ⟨kancinci⟩ umoya weenduna; ungumoyikazi kwiinkosi zomhlaba.",
+  "tokens": [
+    {
+      "surface": "יבצר",
+      "gloss": "uyaqokelela kancinci"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "umoya"
+    },
+    {
+      "surface": "נגידים",
+      "gloss": "weenduna"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "ungumoyikazi"
+    },
+    {
+      "surface": "למלכי",
+      "gloss": "kwiinkosi"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "zomhlaba"
+    }
+  ],
+  "timestamp": "2026-09-18T14:59:24.558860873Z",
+  "model": "glm-5.3"
+}

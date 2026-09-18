@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 143:12",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 143,
+  "translation": "Kananjalo ngekesedi yakho citshela iintshaba zam, utshabalalise bonke abachaseneyo nomphefumlo wam, kuba mna ndingumkhonzo wakho.",
+  "tokens": [
+    {
+      "surface": "ובחסדך",
+      "gloss": "kananjalo ngekesedi yakho"
+    },
+    {
+      "surface": "תצמית",
+      "gloss": "citshela"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "iintshaba zam"
+    },
+    {
+      "surface": "והאבדת",
+      "gloss": "utshabalalise"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bonke"
+    },
+    {
+      "surface": "צררי",
+      "gloss": "abachaseneyo"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nomphefumlo wam"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mna"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "ndingumkhonzo wakho"
+    }
+  ],
+  "timestamp": "2026-09-18T17:45:21.099789960Z",
+  "model": "glm-5.3"
+}

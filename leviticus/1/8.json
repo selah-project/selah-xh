@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 1:8",
+  "book": "leviticus",
+  "lang": "xh",
+  "chapter": 1,
+  "translation": "Bahlele abandana buka-Aharon, ababingeleli, ⟨את⟩ iingceke, ⟨את⟩ intloko n⟨את⟩ amafutha, phezu kweenkuni ezisephezulu komlilo, ozisephezulu kwesitude.",
+  "tokens": [
+    {
+      "surface": "וערכו",
+      "gloss": "bahlele"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abandana"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "u-Aharon"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "ababingeleli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iingceke"
+    },
+    {
+      "surface": "הנתחים",
+      "gloss": "iingceke"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "intloko"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "intloko"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "n⟨את⟩",
+      "marks": "amafutha"
+    },
+    {
+      "surface": "הפדר",
+      "gloss": "amafutha"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu ko-"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "kweenkuni"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ezi-"
+    },
+    {
+      "surface": "על",
+      "gloss": "zisephezulu ko-"
+    },
+    {
+      "surface": "האש",
+      "gloss": "mlilo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ozi-"
+    },
+    {
+      "surface": "על",
+      "gloss": "zisephezulu ko-"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "isitude"
+    }
+  ],
+  "timestamp": "2026-09-18T06:33:56.975666202Z",
+  "model": "glm-5.3"
+}

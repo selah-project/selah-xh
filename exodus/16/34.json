@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "exodus 16:34",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 16,
+  "translation": "Njengoko uYahwe wayalela kuMoshe, uAharon wabeka ⟨את⟩ yona phambi kobungqina, ukuba igcinwe.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "Njengoko"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "wayalela"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "משה",
+      "gloss": "uMoshe"
+    },
+    {
+      "surface": "ויניחהו",
+      "gloss": "wabeka yona"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "uAharon"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "phambi"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "kobungqina"
+    },
+    {
+      "surface": "למשמרת",
+      "gloss": "ukuba igcinwe"
+    }
+  ],
+  "timestamp": "2026-09-18T06:04:18.621053647Z",
+  "model": "glm-5.3"
+}

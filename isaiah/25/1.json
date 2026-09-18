@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 25:1",
+  "book": "isaiah",
+  "lang": "xh",
+  "chapter": 25,
+  "translation": "uYahwe, uElohim wam, nguwe; ndiza kukukhuphela phezulu, ndiza kukudumisa iGama lakho, kuba wenze izinto ezimangalisayo, iingcinga zamandulo, ngokwesithembeko, qaqamba-langa.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "uElohim wam"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "nguwe"
+    },
+    {
+      "surface": "ארוממך",
+      "gloss": "ndiza kukukhuphela phezulu"
+    },
+    {
+      "surface": "אודה",
+      "gloss": "ndiza kukudumisa"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "iGama lakho"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "wenze"
+    },
+    {
+      "surface": "פלא",
+      "gloss": "izinto ezimangalisayo"
+    },
+    {
+      "surface": "עצות",
+      "gloss": "iingcinga"
+    },
+    {
+      "surface": "מרחוק",
+      "gloss": "zamandulo"
+    },
+    {
+      "surface": "אמונה",
+      "gloss": "ngokwesithembeko"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "qaqamba-langa"
+    }
+  ],
+  "timestamp": "2026-09-18T11:19:38.598677262Z",
+  "model": "glm-5.3"
+}

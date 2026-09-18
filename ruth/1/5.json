@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ruth 1:5",
+  "book": "ruth",
+  "lang": "xh",
+  "chapter": 1,
+  "translation": "Kwaza kwafowonakala ukufa kwawo omabini, uMakhlon noKilyoni; kwaza yafela yena umfazi, kwasala engenalonyana alo ababini nangendodwa yayo.",
+  "tokens": [
+    {
+      "surface": "וימותו",
+      "gloss": "kwaza kwafowonakala ukufa"
+    },
+    {
+      "surface": "גם",
+      "gloss": "kwaza"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "kwawo omabini"
+    },
+    {
+      "surface": "מחלון",
+      "gloss": "uMakhlon"
+    },
+    {
+      "surface": "וכליון",
+      "gloss": "noKilyoni"
+    },
+    {
+      "surface": "ותשאר",
+      "gloss": "kwaza yasala"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "umfazi"
+    },
+    {
+      "surface": "משני",
+      "gloss": "engenalonyana alo ababini"
+    },
+    {
+      "surface": "ילדיה",
+      "gloss": "oolonyana alo"
+    },
+    {
+      "surface": "ומאישה",
+      "gloss": "nangendodwa yayo"
+    }
+  ],
+  "timestamp": "2026-09-18T16:19:19.893629874Z",
+  "model": "glm-5.3"
+}

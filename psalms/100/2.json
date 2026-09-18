@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 100:2",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 100,
+  "translation": "Mkhonzeni ⟨את⟩ uYahwe ngovuyo; ngenani phambi kwakhe ngecanti.",
+  "tokens": [
+    {
+      "surface": "עבדו",
+      "gloss": "Mkhonzeni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uYahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "בשמחה",
+      "gloss": "ngovuyo"
+    },
+    {
+      "surface": "באו",
+      "gloss": "ngenani"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "phambi kwakhe"
+    },
+    {
+      "surface": "ברננה",
+      "gloss": "ngecanti"
+    }
+  ],
+  "timestamp": "2026-09-18T15:14:14.804457828Z",
+  "model": "glm-5.3"
+}

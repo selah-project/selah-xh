@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 59,
+  "ref": "psalms 78:59",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 78,
+  "translation": "uElohim weva lokhu, wathikiba ngolaka, wala ngamandla u-Israel.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "weva lokhu"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "ויתעבר",
+      "gloss": "wathikiba ngulaka"
+    },
+    {
+      "surface": "וימאס",
+      "gloss": "wala"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ngamandla"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "u-Israel"
+    }
+  ],
+  "timestamp": "2026-09-18T15:02:58.236566895Z",
+  "model": "glm-5.3"
+}

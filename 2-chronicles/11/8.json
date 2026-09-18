@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 11:8",
+  "book": "2-chronicles",
+  "lang": "xh",
+  "chapter": 11,
+  "translation": "kunye ⟨את⟩ negati, ⟨את⟩ neMaresha, ⟨את⟩ neZifi.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "igati"
+    },
+    {
+      "surface": "גת",
+      "gloss": "igati"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "iMaresha"
+    },
+    {
+      "surface": "מרשה",
+      "gloss": "iMaresha"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "iZifi"
+    },
+    {
+      "surface": "זיף",
+      "gloss": "iZifi"
+    }
+  ],
+  "timestamp": "2026-09-18T17:04:49.829506823Z",
+  "model": "glm-5.3"
+}

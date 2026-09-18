@@ -1,0 +1,123 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 12:5",
+  "book": "2-chronicles",
+  "lang": "xh",
+  "chapter": 12,
+  "translation": "KWafika uShemaya, umprofeti, kuRexabam nakwiintloko zeYuda ezaqokelelwa eYerushalayimi ngenxa kaShishaki, wathi kubo: “Uthi uYahwe: Nina nandishiye ⟨את⟩-ndi; ndaza mna ndanishiya nina ⟨את⟩-nina, ndaninika esandleni saShishaki.”",
+  "tokens": [
+    {
+      "surface": "ושמעיה",
+      "gloss": "uShemaya"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "umprofeti"
+    },
+    {
+      "surface": "בא",
+      "gloss": "wafika"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "uRexabam"
+    },
+    {
+      "surface": "ושרי",
+      "gloss": "nakwiintloko"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "zeYuda"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aba"
+    },
+    {
+      "surface": "נאספו",
+      "gloss": "ziqokelelwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e-"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "iYerushalayimi"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "ngenxa"
+    },
+    {
+      "surface": "שישק",
+      "gloss": "kaShishaki"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kubo"
+    },
+    {
+      "surface": "כה",
+      "gloss": "ngokuthi"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "uthi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "nina"
+    },
+    {
+      "surface": "עזבתם",
+      "gloss": "nandishiye"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "ndi (mna)"
+    },
+    {
+      "surface": "ואף",
+      "gloss": "ndaza"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mna"
+    },
+    {
+      "surface": "עזבתי",
+      "gloss": "ndanishiya"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "nina"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "esandleni"
+    },
+    {
+      "surface": "שישק",
+      "gloss": "saShishaki"
+    }
+  ],
+  "timestamp": "2026-09-18T17:05:28.651263359Z",
+  "model": "glm-5.3"
+}

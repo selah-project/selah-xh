@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 11:10",
+  "book": "2-kings",
+  "lang": "xh",
+  "chapter": 11,
+  "translation": "Umpristi wanika abaphathi bamakhulu ⟨את⟩ umkhonto nezi-⟨את⟩ zihlangu ezazinkosi uDawidi, ezazikwindlu kaYahwe.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "wanika"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "umpristi"
+    },
+    {
+      "surface": "לשרי",
+      "gloss": "abaphathi"
+    },
+    {
+      "surface": "המאיות",
+      "gloss": "bamakhulu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umkhonto"
+    },
+    {
+      "surface": "החנית",
+      "gloss": "umkhonto"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne-⟨את⟩",
+      "marks": "izihlangu"
+    },
+    {
+      "surface": "השלטים",
+      "gloss": "izihlangu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ezazi"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "ezazinkosi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "uDawidi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ezazi"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "kwindlu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kaYahwe"
+    }
+  ],
+  "timestamp": "2026-09-18T10:47:32.618989576Z",
+  "model": "glm-5.3"
+}

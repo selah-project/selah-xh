@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 29:3",
+  "book": "isaiah",
+  "lang": "xh",
+  "chapter": 29,
+  "translation": "Ndiza kucamba njengomjikelezo phezu kwakho, ndiza kubeka isikhululo somkhosi phezu kwakho, ndiza kuphakamisa iindonga zokusingatha phezu kwakho.",
+  "tokens": [
+    {
+      "surface": "וחניתי",
+      "gloss": "ndiza kucamba"
+    },
+    {
+      "surface": "כדור",
+      "gloss": "njengomjikelezo"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "phezu kwakho"
+    },
+    {
+      "surface": "וצרתי",
+      "gloss": "ndiza kubeka"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "phezu kwakho"
+    },
+    {
+      "surface": "מצב",
+      "gloss": "isikhululo somkhosi"
+    },
+    {
+      "surface": "והקימתי",
+      "gloss": "ndiza kuphakamisa"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "phezu kwakho"
+    },
+    {
+      "surface": "מצרת",
+      "gloss": "iindonga zokusingatha"
+    }
+  ],
+  "timestamp": "2026-09-18T11:22:27.861179281Z",
+  "model": "glm-5.3"
+}

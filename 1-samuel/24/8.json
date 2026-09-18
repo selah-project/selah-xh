@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 24:8",
+  "book": "1-samuel",
+  "lang": "xh",
+  "chapter": 24,
+  "translation": "UDavide waba ngumlawuli wabo ⟨את⟩ amadoda akhe ngamagama, akaniki mvumeleloo ukuba bakuse uShawuli; uShawuli wavuka emhumeni, wahamba ngendlela.",
+  "tokens": [
+    {
+      "surface": "וישסע",
+      "gloss": "waba ngumlawuli wabo"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "uDavide"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amadoda akhe"
+    },
+    {
+      "surface": "אנשיו",
+      "gloss": "amadoda akhe"
+    },
+    {
+      "surface": "בדברים",
+      "gloss": "ngamagama"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "akaniki"
+    },
+    {
+      "surface": "נתנם",
+      "gloss": "mvumeleloo"
+    },
+    {
+      "surface": "לקום",
+      "gloss": "ukuba bakuse"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "uShawuli"
+    },
+    {
+      "surface": "ושאול",
+      "gloss": "uShawuli"
+    },
+    {
+      "surface": "קם",
+      "gloss": "wavuka"
+    },
+    {
+      "surface": "מהמערה",
+      "gloss": "emhumeni"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "wahamba"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "ngendlela"
+    }
+  ],
+  "timestamp": "2026-09-18T09:34:52.956319942Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 9:6",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 9,
+  "translation": "Wazisola iintlanga, wasitshabalalisa isiphula-mthetho; igama laso ulitshabalalisele ixesha elide nangunaphakade.",
+  "tokens": [
+    {
+      "surface": "גערת",
+      "gloss": "Wazisola"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "iintlanga"
+    },
+    {
+      "surface": "אבדת",
+      "gloss": "wasitshabalalisa"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "isiphula-mthetho"
+    },
+    {
+      "surface": "שמם",
+      "gloss": "igama laso"
+    },
+    {
+      "surface": "מחית",
+      "gloss": "ulitshabalalisele"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ixesha elide"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "nangunaphakade"
+    }
+  ],
+  "timestamp": "2026-09-18T14:30:41.795760008Z",
+  "model": "glm-5.3"
+}

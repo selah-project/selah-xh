@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 13:15",
+  "book": "1-kings",
+  "lang": "xh",
+  "chapter": 13,
+  "translation": "Wathi kuye: “Hamba ⟨את⟩ nam endlwini, utye isonka.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kuye"
+    },
+    {
+      "surface": "לך",
+      "gloss": "hamba"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ nam",
+      "marks": "hamba ⟨את⟩ nam"
+    },
+    {
+      "surface": "הביתה",
+      "gloss": "endlwini"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "utye"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "isonka"
+    }
+  ],
+  "timestamp": "2026-09-18T10:24:58.443011719Z",
+  "model": "glm-5.3"
+}

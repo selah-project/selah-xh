@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 10:8",
+  "book": "isaiah",
+  "lang": "xh",
+  "chapter": 10,
+  "translation": "Kuba uthi: “Ingaba iinkosi zam zonke zingookumkani?”",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kuba"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "uthi"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "Ingaba ... yini"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "iinkosi zam"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "zonke zidibene"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "zingookumkani"
+    }
+  ],
+  "timestamp": "2026-09-18T11:09:17.821396105Z",
+  "model": "glm-5.3"
+}

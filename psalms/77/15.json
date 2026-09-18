@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 77:15",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 77,
+  "translation": "Wena unguye u-El owenza imimangaliso; wazisa amandla akho kumazwe.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Wena"
+    },
+    {
+      "surface": "האל",
+      "gloss": "unguye u-El"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "owenza"
+    },
+    {
+      "surface": "פלא",
+      "gloss": "imimangaliso"
+    },
+    {
+      "surface": "הודעת",
+      "gloss": "wazisa"
+    },
+    {
+      "surface": "בעמים",
+      "gloss": "kumazwe"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "amandla akho"
+    }
+  ],
+  "timestamp": "2026-09-18T15:00:34.471533815Z",
+  "model": "glm-5.3"
+}

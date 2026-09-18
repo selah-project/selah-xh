@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "hosea 5:6",
+  "book": "hosea",
+  "lang": "xh",
+  "chapter": 5,
+  "translation": "Ngezimvu zawo nangeenkomo zawo baya kuya kuYahwe ukumfunela, kodwa abayi kumfumana; wazisusa kubo.",
+  "tokens": [
+    {
+      "surface": "בצאנם",
+      "gloss": "ngezimvu zawo"
+    },
+    {
+      "surface": "ובבקרם",
+      "gloss": "nangeenkomo zawo"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "baya"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "ukumfunela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kuYahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kuYahwe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kodwa abayi"
+    },
+    {
+      "surface": "ימצאו",
+      "gloss": "kumfumana"
+    },
+    {
+      "surface": "חלץ",
+      "gloss": "wazisusa"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "kabo"
+    }
+  ],
+  "timestamp": "2026-09-18T13:43:51.772375046Z",
+  "model": "glm-5.3"
+}

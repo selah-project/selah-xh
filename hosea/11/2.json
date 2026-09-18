@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "hosea 11:2",
+  "book": "hosea",
+  "lang": "xh",
+  "chapter": 11,
+  "translation": "Basabizwa kubo, kodwa bahamba bephuma phambi kwabo; bazimbelela kwiBaal, banqwilisa nakuzo izithombe ezisikweleenyo.",
+  "tokens": [
+    {
+      "surface": "קראו",
+      "gloss": "basabizwa"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kubo"
+    },
+    {
+      "surface": "כן",
+      "gloss": "kodwa"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "bahamba"
+    },
+    {
+      "surface": "מפניהם",
+      "gloss": "bephuma phambi kwabo"
+    },
+    {
+      "surface": "לבעלים",
+      "gloss": "kwiBaal"
+    },
+    {
+      "surface": "יזבחו",
+      "gloss": "bazimbelela"
+    },
+    {
+      "surface": "ולפסלים",
+      "gloss": "nakuzo izithombe ezisikweleenyo"
+    },
+    {
+      "surface": "יקטרון",
+      "gloss": "banqwilisa"
+    }
+  ],
+  "timestamp": "2026-09-18T13:48:20.154783380Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 87,
+  "ref": "psalms 119:87",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 119,
+  "translation": "Hleze bangandityeba emhlabeni, kodwa mna andazukushiya iimiyalelo yakho.",
+  "tokens": [
+    {
+      "surface": "כמעט",
+      "gloss": "Hleze"
+    },
+    {
+      "surface": "כלוני",
+      "gloss": "bangandityeba"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "emhlabeni"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "kodwa mna"
+    },
+    {
+      "surface": "לא",
+      "gloss": "anda-"
+    },
+    {
+      "surface": "עזבתי",
+      "gloss": "-zukushiya"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "iimiyalelo yakho"
+    }
+  ],
+  "timestamp": "2026-09-18T15:25:43.262826003Z",
+  "model": "glm-5.3"
+}

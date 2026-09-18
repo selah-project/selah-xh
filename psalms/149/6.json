@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 149:6",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 149,
+  "translation": "Izibongelo eziphakamileyo zo-El zikumqolo wabo, nasenkcanwini esinamaziko amabini esandleni sabo.",
+  "tokens": [
+    {
+      "surface": "רוממות",
+      "gloss": "izibongelo eziphakamileyo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "u-El"
+    },
+    {
+      "surface": "בגרונם",
+      "gloss": "zikumqolo wabo"
+    },
+    {
+      "surface": "וחרב",
+      "gloss": "nasenkcanwini"
+    },
+    {
+      "surface": "פיפיות",
+      "gloss": "esinamaziko amabini"
+    },
+    {
+      "surface": "בידם",
+      "gloss": "esandleni sabo"
+    }
+  ],
+  "timestamp": "2026-09-18T15:34:24.724294363Z",
+  "model": "glm-5.3"
+}

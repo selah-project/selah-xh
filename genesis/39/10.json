@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 39:10",
+  "book": "genesis",
+  "lang": "xh",
+  "chapter": 39,
+  "translation": "Kwathi njengoko wayesithetha kuYosef imihla ngemihla, yena akamvangi ukuya kulala phakathi kwakhe, nokuba naye.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Kwathi"
+    },
+    {
+      "surface": "כדברה",
+      "gloss": "njengoko wayesithetha"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "uYosef"
+    },
+    {
+      "surface": "יום",
+      "gloss": "imihla"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ngemihla"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "yaye aka-"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "-mva"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "kuye"
+    },
+    {
+      "surface": "לשכב",
+      "gloss": "ukuya kulala"
+    },
+    {
+      "surface": "אצלה",
+      "gloss": "phakathi kwakhe"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "ukuba"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "naye"
+    }
+  ],
+  "timestamp": "2026-09-18T05:35:54.322078036Z",
+  "model": "glm-5.3"
+}

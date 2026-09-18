@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ezekiel 11:18",
+  "book": "ezekiel",
+  "lang": "xh",
+  "chapter": 11,
+  "translation": "Baza kungena khona, basuse ⟨את⟩ zonke izithixo ezichasileyo zayo, ⟨את⟩ nazo zonke izinto eziyinkohliso zayo kuyo.",
+  "tokens": [
+    {
+      "surface": "ובאו",
+      "gloss": "baza kungena"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "khona"
+    },
+    {
+      "surface": "והסירו",
+      "gloss": "basuse"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zonke izithixo ezichasileyo zayo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zonke"
+    },
+    {
+      "surface": "שקוציה",
+      "gloss": "izithixo ezichasileyo zayo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "zonke izinto eziyinkohliso zayo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nazo zonke"
+    },
+    {
+      "surface": "תועבותיה",
+      "gloss": "izinto eziyinkohliso zayo"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "kuyo"
+    }
+  ],
+  "timestamp": "2026-09-18T13:00:30.431221352Z",
+  "model": "glm-5.3"
+}

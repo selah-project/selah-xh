@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 114:8",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 114,
+  "translation": "Owatshintsha ⟨את⟩ ilitshe elingumgangatho waba yiphondo lamanzi, ⟨את⟩ ilitshe eliqinileyo laba ngumthombo wamanzi.",
+  "tokens": [
+    {
+      "surface": "ההפכי",
+      "gloss": "Owatshintsha"
+    },
+    {
+      "surface": "הצור",
+      "gloss": "ilitshe elingumgangatho"
+    },
+    {
+      "surface": "אגם",
+      "gloss": "waba yiphondo"
+    },
+    {
+      "surface": "מים",
+      "gloss": "lamanzi"
+    },
+    {
+      "surface": "חלמיש",
+      "gloss": "ilitshe eliqinileyo"
+    },
+    {
+      "surface": "למעינו",
+      "gloss": "laba ngumthombo"
+    },
+    {
+      "surface": "מים",
+      "gloss": "wamanzi"
+    }
+  ],
+  "timestamp": "2026-09-18T15:20:29.713287016Z",
+  "model": "glm-5.3"
+}

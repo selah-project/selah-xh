@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 34:6",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 34,
+  "translation": "Babheka kuye, bakhanya, ubuso babo abuzudanyazwa.",
+  "tokens": [
+    {
+      "surface": "הביטו",
+      "gloss": "Babheka"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kuye"
+    },
+    {
+      "surface": "ונהרו",
+      "gloss": "bakhanya"
+    },
+    {
+      "surface": "ופניהם",
+      "gloss": "ubuso babo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "abu-"
+    },
+    {
+      "surface": "יחפרו",
+      "gloss": "zudanyazwa"
+    }
+  ],
+  "timestamp": "2026-09-18T14:39:56.613415939Z",
+  "model": "glm-5.3"
+}

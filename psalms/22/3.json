@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 22:3",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 22,
+  "translation": "uElohim wam, ndiyabizisa emini, kodwa ungaphenduli; nasebusuku, akukho thulashe kum.",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "uElohim wam"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "ndiyabizisa"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "emini"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kodwa akukho"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "uphenduli"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "nasebusuku"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kwaye akukho"
+    },
+    {
+      "surface": "דומיה",
+      "gloss": "thulashe"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kum"
+    }
+  ],
+  "timestamp": "2026-09-18T14:35:36.090421951Z",
+  "model": "glm-5.3"
+}

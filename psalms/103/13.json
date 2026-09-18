@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 103:13",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 103,
+  "translation": "Njengokuba uyise enenkathalo phezu koonyana, uYahwe unenkathalo phezu kwabamloyikayo.",
+  "tokens": [
+    {
+      "surface": "כרחם",
+      "gloss": "njengokuba unenkathalo"
+    },
+    {
+      "surface": "אב",
+      "gloss": "uyise"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu kwa-"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "oonyana"
+    },
+    {
+      "surface": "רחם",
+      "gloss": "unenкathalo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu kwa-"
+    },
+    {
+      "surface": "יראיו",
+      "gloss": "abamloyikayo"
+    }
+  ],
+  "timestamp": "2026-09-18T15:13:28.383368402Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 17:12",
+  "book": "2-kings",
+  "lang": "xh",
+  "chapter": 17,
+  "translation": "Bazinikela kwiintshontsho zothixo, ngako uYahwe wathi kubo: Musa ukwenza ⟨את⟩ le nto.",
+  "tokens": [
+    {
+      "surface": "ויעבדו",
+      "gloss": "bazininzele"
+    },
+    {
+      "surface": "הגללים",
+      "gloss": "kwiintshontsho zothixo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "azo"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kubo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Musa"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "ukwenza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le nto"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "nto"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "le"
+    }
+  ],
+  "timestamp": "2026-09-18T10:50:55.635630082Z",
+  "model": "glm-5.3"
+}

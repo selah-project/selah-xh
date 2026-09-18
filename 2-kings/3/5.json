@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 3:5",
+  "book": "2-kings",
+  "lang": "xh",
+  "chapter": 3,
+  "translation": "Wathi xa sekufile u-Ahab, inkosi yakwaMoab yaphuleka kwinkosi yakwa-Israyeli.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Wathi"
+    },
+    {
+      "surface": "כמות",
+      "gloss": "xa sekufile"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "u-Ahab"
+    },
+    {
+      "surface": "ויפשע",
+      "gloss": "yaphuleka"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "inkosi"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "yakwaMoab"
+    },
+    {
+      "surface": "במלך",
+      "gloss": "kwinkosi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "yakwa-Israyeli"
+    }
+  ],
+  "timestamp": "2026-09-18T10:38:53.456565814Z",
+  "model": "glm-5.3"
+}

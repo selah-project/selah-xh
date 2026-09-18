@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 106:11",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 106,
+  "translation": "Amanzi abagqumbele abachasene nabo; akukho nanye wabo wasala.",
+  "tokens": [
+    {
+      "surface": "ויכסו",
+      "gloss": "abagqumbele"
+    },
+    {
+      "surface": "מים",
+      "gloss": "Amanzi"
+    },
+    {
+      "surface": "צריהם",
+      "gloss": "abachasene nabo"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "nanye"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "wabo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "akukho"
+    },
+    {
+      "surface": "נותר",
+      "gloss": "wasala"
+    }
+  ],
+  "timestamp": "2026-09-18T15:16:52.806015528Z",
+  "model": "glm-5.3"
+}

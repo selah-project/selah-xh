@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 4:12",
+  "book": "1-chronicles",
+  "lang": "xh",
+  "chapter": 4,
+  "translation": "UEshton wazala ⟨את⟩ iBhet-Rafa, ⟨את⟩ noPaseya, ⟨את⟩ noTehina uyise wase-Ir-Nahashe; aba ngamadoda aseReka.",
+  "tokens": [
+    {
+      "surface": "ואשתון",
+      "gloss": "UEshton"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "wazala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iBhet-Rafa"
+    },
+    {
+      "surface": "בית",
+      "gloss": "iBhet-"
+    },
+    {
+      "surface": "רפא",
+      "gloss": "Rafa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "uPaseya"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "uPaseya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "uTehina"
+    },
+    {
+      "surface": "תחנה",
+      "gloss": "uTehina"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "uyise"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "iIr-"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "Nahashe"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "aba"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "ngamadoda"
+    },
+    {
+      "surface": "רכה",
+      "gloss": "aseReka"
+    }
+  ],
+  "timestamp": "2026-09-18T16:52:03.721882826Z",
+  "model": "glm-5.3"
+}

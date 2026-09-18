@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "1-samuel 25:33",
+  "book": "1-samuel",
+  "lang": "xh",
+  "chapter": 25,
+  "translation": "Usikelelwe unokuqonda kwakho, usikelelwe wena, onamhlanje wandibambelela ⟨את⟩ ekungeni kumngcwabo wegazi, waza wasibamba isandla sam kum.",
+  "tokens": [
+    {
+      "surface": "וברוך",
+      "gloss": "usikelelwe"
+    },
+    {
+      "surface": "טעמך",
+      "gloss": "unokuqonda kwakho"
+    },
+    {
+      "surface": "וברוכה",
+      "gloss": "usikelelwe wena"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wena\/owo wandibambelela"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "owo"
+    },
+    {
+      "surface": "כלתני",
+      "gloss": "wandibambelela"
+    },
+    {
+      "surface": "היום",
+      "gloss": "namhlanje"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "le"
+    },
+    {
+      "surface": "מבוא",
+      "gloss": "ekungeni"
+    },
+    {
+      "surface": "בדמים",
+      "gloss": "kumngcwabo wegazi"
+    },
+    {
+      "surface": "והשע",
+      "gloss": "waza wasibamba"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "isandla sam"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kum"
+    }
+  ],
+  "timestamp": "2026-09-18T09:38:54.370458955Z",
+  "model": "glm-5.3"
+}

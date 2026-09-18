@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 8:3",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 8,
+  "translation": "Benza njalo abanyanzi ngeendlela zabo ezimfihlakeleyo, banyusa ⟨את⟩ iintulo phezu komhlaba weMitsrayim.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "Benza"
+    },
+    {
+      "surface": "כן",
+      "gloss": "njalo"
+    },
+    {
+      "surface": "החרטמים",
+      "gloss": "abanyanzi"
+    },
+    {
+      "surface": "בלטיהם",
+      "gloss": "ngeendlela zabo ezimfihlakeleyo"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "banyusa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iintulo"
+    },
+    {
+      "surface": "הצפרדעים",
+      "gloss": "iintulo"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "komhlaba"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "weMitsrayim"
+    }
+  ],
+  "timestamp": "2026-09-18T05:56:43.945317286Z",
+  "model": "glm-5.3"
+}

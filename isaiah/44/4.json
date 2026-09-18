@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 44:4",
+  "book": "isaiah",
+  "lang": "xh",
+  "chapter": 44,
+  "translation": "Kwaye baza kuhluma phakathi kwutshani, njengemithi ethe tyaba emi kwiijojwa lamanzi.",
+  "tokens": [
+    {
+      "surface": "וצמחו",
+      "gloss": "baza kuhluma"
+    },
+    {
+      "surface": "בבין",
+      "gloss": "phakathi"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "utshani"
+    },
+    {
+      "surface": "כערבים",
+      "gloss": "njengemithi ethe tyaba"
+    },
+    {
+      "surface": "על",
+      "gloss": "emi kwiijojwa lamanzi"
+    },
+    {
+      "surface": "יבלי",
+      "gloss": "iijojwa lamanzi"
+    },
+    {
+      "surface": "מים",
+      "gloss": "amanzi"
+    }
+  ],
+  "timestamp": "2026-09-18T11:33:41.439884674Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 13:11",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 13,
+  "translation": "Iya kubakho xa uYahwe eza kukungenisa elwabini lweKhanani, njengokuba awafungileleyo kuwe nakwoobawo bakho, aze akunike elo lase",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "iya kubakho"
+    },
+    {
+      "surface": "כי",
+      "gloss": "xa"
+    },
+    {
+      "surface": "יבאך",
+      "gloss": "eza kukungenisa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e-"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "elwabini"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "lweKhanani"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "njengokuba"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "awafungileleyo"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kuwe"
+    },
+    {
+      "surface": "ולאבתיך",
+      "gloss": "nakwoobawo bakho"
+    },
+    {
+      "surface": "ונתנה",
+      "gloss": "aze akunike"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kuwe"
+    }
+  ],
+  "timestamp": "2026-09-18T17:20:57.111396645Z",
+  "model": "glm-5.3"
+}

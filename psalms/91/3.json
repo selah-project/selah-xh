@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 91:3",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 91,
+  "translation": "Kuba yena uza kukukhulula kwisanga lomdobhi, nangomkhuhlane onobungozi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yena"
+    },
+    {
+      "surface": "יצילך",
+      "gloss": "uza kukukhulula"
+    },
+    {
+      "surface": "מפח",
+      "gloss": "kwisanga"
+    },
+    {
+      "surface": "יקוש",
+      "gloss": "lomdobhi"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "nangomkhuhlane"
+    },
+    {
+      "surface": "הוות",
+      "gloss": "onobungozi"
+    }
+  ],
+  "timestamp": "2026-09-18T17:44:05.870721957Z",
+  "model": "glm-5.3"
+}

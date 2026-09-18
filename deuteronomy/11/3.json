@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 11:3",
+  "book": "deuteronomy",
+  "lang": "xh",
+  "chapter": 11,
+  "translation": "neezi phawuli zakhe, nezi zenzo zakhe ezazenzileyo phakathi kweiMitsrayim, kuParo, inkosi yaseMitsrayim, nakulo lonke ilizwe lakhe —",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "neezi ⟨את⟩",
+      "marks": "phawuli zakhe"
+    },
+    {
+      "surface": "אתתיו",
+      "gloss": "phawuli zakhe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "nezi ⟨את⟩",
+      "marks": "zenzo zakhe"
+    },
+    {
+      "surface": "מעשיו",
+      "gloss": "zenzo zakhe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "eza"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "azenzileyo"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "phakathi kwe-"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "iMitsrayim"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "kuParo"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "inkosi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "yaseMitsrayim"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "nakulo lonke"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "ilizwe lakhe"
+    }
+  ],
+  "timestamp": "2026-09-18T08:04:10.271716179Z",
+  "model": "glm-5.3"
+}

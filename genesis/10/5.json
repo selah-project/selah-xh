@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 10:5",
+  "book": "genesis",
+  "lang": "xh",
+  "chapter": 10,
+  "translation": "Ngaba bahlukana kuwo ⟨aba⟩ iihlathi zeentlanga ezilizweni zazo, umntu ngolwimi lwakhe, nokusapho lwazo phakathi zeentlanga zazo.",
+  "tokens": [
+    {
+      "surface": "מאלה",
+      "gloss": "ngaba"
+    },
+    {
+      "surface": "נפרדו",
+      "gloss": "bahlukana"
+    },
+    {
+      "surface": "איי",
+      "gloss": "iihlathi"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "zeentlanga"
+    },
+    {
+      "surface": "בארצתם",
+      "gloss": "ezilizweni zazo"
+    },
+    {
+      "surface": "איש",
+      "gloss": "umntu"
+    },
+    {
+      "surface": "ללשנו",
+      "gloss": "ngolwimi lwakhe"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "nokusapho lwazo"
+    },
+    {
+      "surface": "בגויהם",
+      "gloss": "phakathi zeentlanga zazo"
+    }
+  ],
+  "timestamp": "2026-09-18T05:10:11.908466080Z",
+  "model": "glm-5.3"
+}

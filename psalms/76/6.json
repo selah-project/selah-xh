@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 76:6",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 76,
+  "translation": "Babuthwe ngabom abanamandla entliziyweni, balale ukulala kwabo, yaye akukho namnye wamadoda anamandla obona izandla zakhe.",
+  "tokens": [
+    {
+      "surface": "אשתוללו",
+      "gloss": "babuthwe ngabom"
+    },
+    {
+      "surface": "אבירי",
+      "gloss": "abanamandla"
+    },
+    {
+      "surface": "לב",
+      "gloss": "entliziyweni"
+    },
+    {
+      "surface": "נמו",
+      "gloss": "balale"
+    },
+    {
+      "surface": "שנתם",
+      "gloss": "ukulala kwabo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "yaye akukho"
+    },
+    {
+      "surface": "מצאו",
+      "gloss": "obona"
+    },
+    {
+      "surface": "כל",
+      "gloss": "namnye"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "wamadoda"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "anamandla"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "izandla zakhe"
+    }
+  ],
+  "timestamp": "2026-09-18T15:01:18.914588138Z",
+  "model": "glm-5.3"
+}

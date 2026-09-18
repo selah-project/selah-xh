@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 42:10",
+  "book": "job",
+  "lang": "xh",
+  "chapter": 42,
+  "translation": "Wabuyisela uYahwe ⟨את⟩ ukuthunjwa kukayiyoob, xa enemthandazela abahlobo bakhe; uYahwe wongeza ⟨את⟩ konke oko wayenako uYiyoob, kabini.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "שב",
+      "gloss": "Wabuyisela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ukuthunjwa kukayiyoob"
+    },
+    {
+      "surface": "שבית",
+      "gloss": "ukuthunjwa"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "kukayiyoob"
+    },
+    {
+      "surface": "בהתפללו",
+      "gloss": "xa enemthandazela"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "ngenxa"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "yabahlobo bakhe"
+    },
+    {
+      "surface": "ויסף",
+      "gloss": "wongeza"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "konke oko wayenako uYiyoob"
+    },
+    {
+      "surface": "כל",
+      "gloss": "konke"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oko"
+    },
+    {
+      "surface": "לאיוב",
+      "gloss": "kuYiyoob"
+    },
+    {
+      "surface": "למשנה",
+      "gloss": "kabini"
+    }
+  ],
+  "timestamp": "2026-09-18T17:48:43.801149151Z",
+  "model": "glm-5.3"
+}

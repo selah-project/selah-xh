@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 30:2",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 30,
+  "translation": "Ndiya kukunyusela phezulu, wena uYahwe, kuba undikhuphile, waza akanazisa ukuvuya izitha zam.",
+  "tokens": [
+    {
+      "surface": "ארוממך",
+      "gloss": "ndiya kukunyusela phezulu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "דליתני",
+      "gloss": "undikhuphile"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "waza akanazisa"
+    },
+    {
+      "surface": "שמחת",
+      "gloss": "ukuvuya"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "izitha zam"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ndim"
+    }
+  ],
+  "timestamp": "2026-09-18T14:38:08.349761025Z",
+  "model": "glm-5.3"
+}

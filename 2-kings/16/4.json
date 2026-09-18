@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 16:4",
+  "book": "2-kings",
+  "lang": "xh",
+  "chapter": 16,
+  "translation": "Wanikela ngomnikelo watshisa imfavethu ezindaweni ziphakamileyo nakwiinduli, nangaphantsi komthi ngamnye oluhlaza.",
+  "tokens": [
+    {
+      "surface": "ויזבח",
+      "gloss": "Wanikela ngomnikelo"
+    },
+    {
+      "surface": "ויקטר",
+      "gloss": "watshisa imfavethu"
+    },
+    {
+      "surface": "בבמות",
+      "gloss": "ezindaweni ziphakamileyo"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "nakwi"
+    },
+    {
+      "surface": "הגבעות",
+      "gloss": "iinduli"
+    },
+    {
+      "surface": "ותחת",
+      "gloss": "nangaphantsi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ngamnye"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "komthi"
+    },
+    {
+      "surface": "רענן",
+      "gloss": "oluhlaza"
+    }
+  ],
+  "timestamp": "2026-09-18T10:52:40.307815790Z",
+  "model": "glm-5.3"
+}

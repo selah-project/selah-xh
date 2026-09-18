@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 7:12",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 7,
+  "translation": "uElohim ungumahlawuli ulungileyo, yaye u-El ulwela intswela-bulungisa ngalo lonke imini.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "שופט",
+      "gloss": "ungumahlawuli"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ulungileyo"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "yaye u-El"
+    },
+    {
+      "surface": "זעם",
+      "gloss": "ulwela intswela-bulungisa"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ngalo lonke"
+    },
+    {
+      "surface": "יום",
+      "gloss": "imini"
+    }
+  ],
+  "timestamp": "2026-09-18T14:25:29.432123964Z",
+  "model": "glm-5.3"
+}

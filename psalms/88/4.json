@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 88:4",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 88,
+  "translation": "Kuba umphefumlo wam udlekile bububi, ubomi bam bufikelele kwiSheol.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kuba"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "udlekile"
+    },
+    {
+      "surface": "ברעות",
+      "gloss": "bububi"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "umphefumlo wam"
+    },
+    {
+      "surface": "וחיי",
+      "gloss": "ubomi bam"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "kwiSheol"
+    },
+    {
+      "surface": "הגיעו",
+      "gloss": "bufikelele"
+    }
+  ],
+  "timestamp": "2026-09-18T15:06:36.651498079Z",
+  "model": "glm-5.3"
+}

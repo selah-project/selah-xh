@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 137:5",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 137,
+  "translation": "Ukuba ndiyakulibala, iYerushalayimi, malibale ⟨isandla sam sokunene⟩.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Ukuba"
+    },
+    {
+      "surface": "אשכחך",
+      "gloss": "ndiyakulibala (wena)"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "iYerushalayimi"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "malibale"
+    },
+    {
+      "surface": "ימיני",
+      "gloss": "isandla sam sokunene"
+    }
+  ],
+  "timestamp": "2026-09-18T15:32:33.020808810Z",
+  "model": "glm-5.3"
+}

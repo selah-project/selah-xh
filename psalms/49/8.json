@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 49:8",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 49,
+  "translation": "Umfoyo akanakuphela ukukhulula umntu; akanakunika uElohim isindleko yakhe.",
+  "tokens": [
+    {
+      "surface": "אח",
+      "gloss": "Umfoyo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "akanaku"
+    },
+    {
+      "surface": "פדה",
+      "gloss": "ukukhulula"
+    },
+    {
+      "surface": "יפדה",
+      "gloss": "⟨kuphela⟩"
+    },
+    {
+      "surface": "איש",
+      "gloss": "umntu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "akanaku"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "ninika"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "כפרו",
+      "gloss": "isindleko yakhe"
+    }
+  ],
+  "timestamp": "2026-09-18T14:46:20.341421575Z",
+  "model": "glm-5.3"
+}

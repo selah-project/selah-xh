@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 25:3",
+  "book": "proverbs",
+  "lang": "xh",
+  "chapter": 25,
+  "translation": "Amazulu ngokuphakama, umhlaba ngokujulileyo, ke intliziyo yeenkosi ayinakuphandwa.",
+  "tokens": [
+    {
+      "surface": "שמים",
+      "gloss": "amazulu"
+    },
+    {
+      "surface": "לרום",
+      "gloss": "ngokuphakama"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "nomhlaba"
+    },
+    {
+      "surface": "לעמק",
+      "gloss": "ngokujulileyo"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "nentliziyo yee-"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "nkosi"
+    },
+    {
+      "surface": "אין",
+      "gloss": "akukho"
+    },
+    {
+      "surface": "חקר",
+      "gloss": "kuphandwa"
+    }
+  ],
+  "timestamp": "2026-09-18T15:55:15.100440961Z",
+  "model": "glm-5.3"
+}

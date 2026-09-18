@@ -1,0 +1,52 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "numbers 32:34",
+  "book": "numbers",
+  "lang": "xh",
+  "chapter": 32,
+  "translation": "Abantwana baGadi bakha ⟨את⟩ iDiboni, ⟨את⟩ neAtaroti, ⟨את⟩ neAroeri.",
+  "tokens": [
+    {
+      "surface": "ויבנו",
+      "gloss": "bakha"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abantwana"
+    },
+    {
+      "surface": "גד",
+      "gloss": "baGadi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iDiboni"
+    },
+    {
+      "surface": "דיבן",
+      "gloss": "iDiboni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ ne-",
+      "marks": "neAtaroti"
+    },
+    {
+      "surface": "עטרת",
+      "gloss": "neAtaroti"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ ne-",
+      "marks": "neAroeri"
+    },
+    {
+      "surface": "ערער",
+      "gloss": "neAroeri"
+    }
+  ],
+  "timestamp": "2026-09-18T07:45:46.869251833Z",
+  "model": "glm-5.3"
+}

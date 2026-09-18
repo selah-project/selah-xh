@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 42:10",
+  "book": "jeremiah",
+  "lang": "xh",
+  "chapter": 42,
+  "translation": "Ukuba nihlaHLA ngokwenene kulo mhlaba, ndiza kunakhwa ⟨את⟩ nina, kwaye andizi kutshabalalisa; ndiza kunityala ⟨את⟩ nina, kwaye andizi kukhupha imizi; kuba ndiyazisola ngobubi endakwenzayo kuni.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ukuba"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "ngokwenene"
+    },
+    {
+      "surface": "תשבו",
+      "gloss": "nihlala"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "kulo mhlaba"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "lo"
+    },
+    {
+      "surface": "ובניתי",
+      "gloss": "ndiza kunakhwa"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ nina",
+      "marks": "nina (onje lowo uza kuwakha)"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kwaye andizi"
+    },
+    {
+      "surface": "אהרס",
+      "gloss": "kutshabalalisa"
+    },
+    {
+      "surface": "ונטעתי",
+      "gloss": "ndiza kunityala"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ nina",
+      "marks": "nina (onje lowo uza kuwatyala)"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kwaye andizi"
+    },
+    {
+      "surface": "אתוש",
+      "gloss": "kukhupha imizi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "נחמתי",
+      "gloss": "ndiyazisola"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nga-"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "ububi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oko"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "endakwenzayo"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kuni"
+    }
+  ],
+  "timestamp": "2026-09-18T12:35:52.325749502Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 2:8",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 2,
+  "translation": "Yathi kuye intombi kaParo: “Hamba.” Yahamba intombi, yabiza ⟨את⟩ unina womntwana.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "yathi"
+    },
+    {
+      "surface": "לה",
+      "gloss": "kuye"
+    },
+    {
+      "surface": "בת",
+      "gloss": "intombi"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "kaParo"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "hamba"
+    },
+    {
+      "surface": "ותלך",
+      "gloss": "yahamba"
+    },
+    {
+      "surface": "העלמה",
+      "gloss": "intombi"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "yabiza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "unina"
+    },
+    {
+      "surface": "אם",
+      "gloss": "unina"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "womntwana"
+    }
+  ],
+  "timestamp": "2026-09-18T05:50:07.429595579Z",
+  "model": "glm-5.3"
+}

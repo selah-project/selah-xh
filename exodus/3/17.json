@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 3:17",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 3,
+  "translation": "Ndathi: Ndiya kuninyusa ⟨את⟩ nina ethinandabeni leMitsrayim, kumhlaba wakwaKanana, nowaseHiti, nowaseAmori, nowasePerizi, nowaseHiwi, nowaseYebusi, kumhlaba ozele ngobisi nangeni.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "Ndathi"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "ndiya kuninyusa"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ nina",
+      "marks": "nina"
+    },
+    {
+      "surface": "מעני",
+      "gloss": "ethinandabeni"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "iMitsrayim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kumhlaba"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "wama-"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "wakwaKanana"
+    },
+    {
+      "surface": "והחתי",
+      "gloss": "nowaseHiti"
+    },
+    {
+      "surface": "והאמרי",
+      "gloss": "nowaseAmori"
+    },
+    {
+      "surface": "והפרזי",
+      "gloss": "nowasePerizi"
+    },
+    {
+      "surface": "והחוי",
+      "gloss": "nowaseHiwi"
+    },
+    {
+      "surface": "והיבוסי",
+      "gloss": "nowaseYebusi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kumhlaba"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ozele"
+    },
+    {
+      "surface": "זבת",
+      "gloss": "ozele"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "ngobisi"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "nangeni"
+    }
+  ],
+  "timestamp": "2026-09-18T05:52:47.183496571Z",
+  "model": "glm-5.3"
+}

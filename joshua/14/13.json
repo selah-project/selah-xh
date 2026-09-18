@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "joshua 14:13",
+  "book": "joshua",
+  "lang": "xh",
+  "chapter": 14,
+  "translation": "UYehoshuwa wamngcwalela, wanika uKalebi unyana kaYefune iKhebheroni ⟨את⟩ njengolwandle lwakhe lokufa.",
+  "tokens": [
+    {
+      "surface": "ויברכהו",
+      "gloss": "wamngcwalela"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "UYehoshuwa"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "wanika"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iKhebheroni"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "iKhebheroni"
+    },
+    {
+      "surface": "לכלב",
+      "gloss": "uKalebi"
+    },
+    {
+      "surface": "בן",
+      "gloss": "unyana"
+    },
+    {
+      "surface": "יפנה",
+      "gloss": "kaYefune"
+    },
+    {
+      "surface": "לנחלה",
+      "gloss": "njengolwandle lokufa"
+    }
+  ],
+  "timestamp": "2026-09-18T08:36:04.479349860Z",
+  "model": "glm-5.3"
+}

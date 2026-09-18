@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 30:5",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 30,
+  "translation": "Wenza ⟨את⟩ izigxobo zomthi we-acacia, wazigubungela ngengolave.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "wenza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izigxobo"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "izigxobo"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "zomthi"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "we-acacia"
+    },
+    {
+      "surface": "וצפית",
+      "gloss": "wazigubungela"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ zi-",
+      "marks": "izigxobo"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ngengolave"
+    }
+  ],
+  "timestamp": "2026-09-18T06:16:23.574183472Z",
+  "model": "glm-5.3"
+}

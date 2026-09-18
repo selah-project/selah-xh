@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "hosea 10:6",
+  "book": "hosea",
+  "lang": "xh",
+  "chapter": 10,
+  "translation": "Kananjalo yona ⟨את⟩ iya kuhanjiswa eAshuru, njengesipho sokumkani uYarebhi; iimbazuka ziya kuthatha u-Efrayimi, uYisrayeli ubuze ngenxa yomcebisi wakhe.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "kananjalo"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩",
+      "marks": "yona (into eqhotsayo)"
+    },
+    {
+      "surface": "לאשור",
+      "gloss": "eAshuru"
+    },
+    {
+      "surface": "יובל",
+      "gloss": "iya kuhanjiswa"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "njengesipho"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "sokumkani"
+    },
+    {
+      "surface": "ירב",
+      "gloss": "uYarebhi"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "iimbazuka"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "u-Efrayimi"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "ziya kumthatha"
+    },
+    {
+      "surface": "ויבוש",
+      "gloss": "ubuze"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "uYisrayeli"
+    },
+    {
+      "surface": "מעצתו",
+      "gloss": "ngenxa yomcebisi wakhe"
+    }
+  ],
+  "timestamp": "2026-09-18T13:49:17.752238191Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 7:12",
+  "book": "ecclesiastes",
+  "lang": "xh",
+  "chapter": 7,
+  "translation": "Kuba kukho isikhwele sobukreliqazi, isikhwele sikasiliva; yaye indeba yolwazi ngobukreliqazi: bubaphilisa abanabo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "בצל",
+      "gloss": "isikhwele"
+    },
+    {
+      "surface": "החכמה",
+      "gloss": "sobukreliqazi"
+    },
+    {
+      "surface": "בצל",
+      "gloss": "isikhwele"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "sikasiliva"
+    },
+    {
+      "surface": "ויתרון",
+      "gloss": "yaye indeba"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "yolwazi"
+    },
+    {
+      "surface": "החכמה",
+      "gloss": "ngobukreliqazi"
+    },
+    {
+      "surface": "תחיה",
+      "gloss": "bubaphilisa"
+    },
+    {
+      "surface": "בעליה",
+      "gloss": "abanabo"
+    }
+  ],
+  "timestamp": "2026-09-18T16:25:23.350767240Z",
+  "model": "glm-5.3"
+}

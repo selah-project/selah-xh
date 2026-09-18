@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 76:7",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 76,
+  "translation": "Ngesiwo sakho, uElohim kaYaakov, iindonga namahashe zidangele zilale.",
+  "tokens": [
+    {
+      "surface": "מגערתך",
+      "gloss": "ngesiwo sakho"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "kaYaakov"
+    },
+    {
+      "surface": "נרדם",
+      "gloss": "zidangele zilale"
+    },
+    {
+      "surface": "ורכב",
+      "gloss": "iindonga"
+    },
+    {
+      "surface": "וסוס",
+      "gloss": "namahashe"
+    }
+  ],
+  "timestamp": "2026-09-18T15:01:18.914738100Z",
+  "model": "glm-5.3"
+}

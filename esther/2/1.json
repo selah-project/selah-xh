@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "esther 2:1",
+  "book": "esther",
+  "lang": "xh",
+  "chapter": 2,
+  "translation": "Emva kwalezo zinto, xeshikwinobukrwarha benkosi u-Ahashuerosh buthehle, wakhumbula ⟨את⟩ uVashti, noko ⟨את⟩ kwakwenzileyo, noko ⟨את⟩ kwagqiweyo ngokuchasene naye.",
+  "tokens": [
+    {
+      "surface": "אחר",
+      "gloss": "Emva kwe-"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "zinto"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "lezo"
+    },
+    {
+      "surface": "כשך",
+      "gloss": "xeshikwinobukrwarha buthehle"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "ubukrwarha"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "benkosi"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "u-Ahashuerosh"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "wakhumbula"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uVashti"
+    },
+    {
+      "surface": "ושתי",
+      "gloss": "uVashti"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "oko kwakwenzileyo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oko"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "kwakwenzileyo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "oko kwagqiweyo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oko"
+    },
+    {
+      "surface": "נגזר",
+      "gloss": "kwagqiweyo"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "ngokuchasene naye"
+    }
+  ],
+  "timestamp": "2026-09-18T16:28:02.742040409Z",
+  "model": "glm-5.3"
+}

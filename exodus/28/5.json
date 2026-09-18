@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 28:5",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 28,
+  "translation": "Kwaye baza kuthabatha ⟨את⟩ igolide, ⟨את⟩ itekheleti, ⟨את⟩ iargamani, ⟨את⟩ itolaathi yeshani, ⟨את⟩ nelineni olungcamileyo.",
+  "tokens": [
+    {
+      "surface": "והם",
+      "gloss": "kwaye bona"
+    },
+    {
+      "surface": "יקחו",
+      "gloss": "baza kuthabatha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "igolide"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "igolide"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "itekheleti"
+    },
+    {
+      "surface": "התכלת",
+      "gloss": "itekheleti"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "iargamani"
+    },
+    {
+      "surface": "הארגמן",
+      "gloss": "iargamani"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "itolaathi yeshani"
+    },
+    {
+      "surface": "תולעת",
+      "gloss": "itolaathi"
+    },
+    {
+      "surface": "השני",
+      "gloss": "yeshani"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "elineni olungcamileyo"
+    },
+    {
+      "surface": "השש",
+      "gloss": "elineni olungcamileyo"
+    }
+  ],
+  "timestamp": "2026-09-18T06:15:06.837257630Z",
+  "model": "glm-5.3"
+}

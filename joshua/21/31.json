@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "joshua 21:31",
+  "book": "joshua",
+  "lang": "xh",
+  "chapter": 21,
+  "translation": "⟨את⟩ iKhelekathi kunye ⟨נ⟩⟨את⟩ imigwasho yayo, ⟨נ⟩⟨את⟩ iRekhobi kunye ⟨נ⟩⟨את⟩ imigwasho yayo — iindawo ezine.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iKhelekathi"
+    },
+    {
+      "surface": "חלקת",
+      "gloss": "iKhelekathi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kunye ⟨את⟩",
+      "marks": "imigwasho yayo"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "imigwasho yayo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kunye ⟨את⟩",
+      "marks": "iRekhobi"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "iRekhobi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kunye ⟨את⟩",
+      "marks": "imigwasho yayo"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "imigwasho yayo"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "iindawo"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "ezine"
+    }
+  ],
+  "timestamp": "2026-09-18T08:43:45.282719969Z",
+  "model": "glm-5.3"
+}

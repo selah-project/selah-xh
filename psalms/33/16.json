@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 33:16",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 33,
+  "translation": "Akukho nkosi iphelelwa yimikhosi emininzi; akukho namandla omkhosi am nkcinzeza ngamandla akhe amakhulu.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "akukho"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "inkosi"
+    },
+    {
+      "surface": "נושע",
+      "gloss": "iphelelwa yimikhosi"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "emininzi"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "amandla omkhosi"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "umkhosi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "akukho"
+    },
+    {
+      "surface": "ינצל",
+      "gloss": "ankcinzeza"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "emininzi"
+    },
+    {
+      "surface": "כח",
+      "gloss": "amandla"
+    }
+  ],
+  "timestamp": "2026-09-18T14:40:31.912848438Z",
+  "model": "glm-5.3"
+}

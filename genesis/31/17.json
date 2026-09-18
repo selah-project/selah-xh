@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 31:17",
+  "book": "genesis",
+  "lang": "xh",
+  "chapter": 31,
+  "translation": "Yase uYakob esuka, wabeka ⟨את⟩ oonyana bakhe no-⟨את⟩ abafazi bakhe phezu kweekamela.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "esuka"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "uYakob"
+    },
+    {
+      "surface": "וישא",
+      "gloss": "wabeka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oonyana bakhe"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "oonyana bakhe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "no-⟨את⟩",
+      "marks": "abafazi bakhe"
+    },
+    {
+      "surface": "נשיו",
+      "gloss": "abafazi bakhe"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu"
+    },
+    {
+      "surface": "הגמלים",
+      "gloss": "kweekamela"
+    }
+  ],
+  "timestamp": "2026-09-18T05:27:53.891893873Z",
+  "model": "glm-5.3"
+}

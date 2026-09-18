@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 19:15",
+  "book": "1-kings",
+  "lang": "xh",
+  "chapter": 19,
+  "translation": "Wathetha uYahwe kuye: “Hamba, buyela kwendlela yakho, ehlathini leDamesheki; uze ufinyelele, uze uganise ⟨את⟩ uHazaeli njengenkosi yakwaAram.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wathetha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kuye"
+    },
+    {
+      "surface": "לך",
+      "gloss": "hamba"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "buyela"
+    },
+    {
+      "surface": "לדרכך",
+      "gloss": "kwendlela yakho"
+    },
+    {
+      "surface": "מדברה",
+      "gloss": "ehlathini"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "iDamesheki"
+    },
+    {
+      "surface": "ובאת",
+      "gloss": "uze ufinyelele"
+    },
+    {
+      "surface": "ומשחת",
+      "gloss": "uze uganise"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uHazaeli"
+    },
+    {
+      "surface": "חזאל",
+      "gloss": "uHazaeli"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "njengenkosi"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "kwaAram"
+    }
+  ],
+  "timestamp": "2026-09-18T17:31:55.632303448Z",
+  "model": "glm-5.3"
+}

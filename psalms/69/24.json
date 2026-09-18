@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 69:24",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 69,
+  "translation": "Makumnyame amehlo abo ukuze bangaboni, kwaye iintshiya zabo makuzidenga ngalo lonke ixesha.",
+  "tokens": [
+    {
+      "surface": "תחשכנה",
+      "gloss": "makumnyame"
+    },
+    {
+      "surface": "עיניהם",
+      "gloss": "amehlo abo"
+    },
+    {
+      "surface": "מראות",
+      "gloss": "ukuzibonisa"
+    },
+    {
+      "surface": "ומתניהם",
+      "gloss": "iintshiya zabo"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "ngalo lonke ixesha"
+    },
+    {
+      "surface": "המעד",
+      "gloss": "makuzidenga"
+    }
+  ],
+  "timestamp": "2026-09-18T14:55:29.898785018Z",
+  "model": "glm-5.3"
+}

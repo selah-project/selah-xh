@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 1:20",
+  "book": "isaiah",
+  "lang": "xh",
+  "chapter": 1,
+  "translation": "Kodwa ukuba niyala ninqukela, inkani iya kunidla; kuba umlomo kaYahwe uthethe.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Kodwa ukuba"
+    },
+    {
+      "surface": "תמאנו",
+      "gloss": "niyala"
+    },
+    {
+      "surface": "ומריתם",
+      "gloss": "ninqukela"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "inkani"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "iya kunidla"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "פי",
+      "gloss": "umlomo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kaYahwe"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "uthethe"
+    }
+  ],
+  "timestamp": "2026-09-18T11:01:29.553408726Z",
+  "model": "glm-5.3"
+}

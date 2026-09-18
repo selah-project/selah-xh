@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 102:20",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 102,
+  "translation": "Kuba uYahwe wakhupha ikhanda lokujonga ukusuka ekuyunyezweni kwakhe okungcwele, wajonga ukusuka ezulwini ukuya emhlabeni.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "השקיף",
+      "gloss": "wakhupha ikhanda lokujonga"
+    },
+    {
+      "surface": "ממרום",
+      "gloss": "ukusuka phezulu"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "ekungcweleeni kwakhe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "ukusuka ezulwini"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ukuya"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "emhlabeni"
+    },
+    {
+      "surface": "הביט",
+      "gloss": "wajonga"
+    }
+  ],
+  "timestamp": "2026-09-18T15:13:52.654803354Z",
+  "model": "glm-5.3"
+}

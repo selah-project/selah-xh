@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 103:12",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 103,
+  "translation": "Njengokude kwempuma naseNtshona, kunjalo na ukude akususela kuthi ⟨את⟩ amacala ethu.",
+  "tokens": [
+    {
+      "surface": "כרחק",
+      "gloss": "njengokude"
+    },
+    {
+      "surface": "מזרח",
+      "gloss": "impuma"
+    },
+    {
+      "surface": "ממערב",
+      "gloss": "eNtshona"
+    },
+    {
+      "surface": "הרחיק",
+      "gloss": "ukususa kude"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "kuthi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amacala ethu"
+    },
+    {
+      "surface": "פשעינו",
+      "gloss": "amacala ethu"
+    }
+  ],
+  "timestamp": "2026-09-18T15:13:12.180884260Z",
+  "model": "glm-5.3"
+}

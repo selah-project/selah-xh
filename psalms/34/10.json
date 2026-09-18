@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 34:10",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 34,
+  "translation": "Yoyikeni uYahwe, oobangcwele bakhe; kuba akukho nto eswelisiyo abamoyikayo.",
+  "tokens": [
+    {
+      "surface": "יראו",
+      "gloss": "Yoyikeni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uYahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "קדשיו",
+      "gloss": "oobangcwele bakhe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "אין",
+      "gloss": "akukho"
+    },
+    {
+      "surface": "מחסור",
+      "gloss": "nto eswelisiyo"
+    },
+    {
+      "surface": "ליראיו",
+      "gloss": "abamoyikayo"
+    }
+  ],
+  "timestamp": "2026-09-18T14:40:09.638171607Z",
+  "model": "glm-5.3"
+}

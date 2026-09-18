@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 3:3",
+  "book": "1-kings",
+  "lang": "xh",
+  "chapter": 3,
+  "translation": "UShelomoh wamthanda uYahwe, ukuhamba kwimithetho kaDawidi uyise; kuphela kwiindawo ziphakamileyo yena utyisa atshisa nencensi.",
+  "tokens": [
+    {
+      "surface": "ויאהב",
+      "gloss": "wamthanda"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "UShelomoh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uYahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "ukuhamba"
+    },
+    {
+      "surface": "בחקות",
+      "gloss": "kwimithetho"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "kaDawidi"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "uyise"
+    },
+    {
+      "surface": "רק",
+      "gloss": "kuphela"
+    },
+    {
+      "surface": "בבמות",
+      "gloss": "kwiindawo ziphakamileyo"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yena"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "utyisa"
+    },
+    {
+      "surface": "ומקטיר",
+      "gloss": "atshisa nencensi"
+    }
+  ],
+  "timestamp": "2026-09-18T10:10:32.734394322Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "zechariah 9:11",
+  "book": "zechariah",
+  "lang": "xh",
+  "chapter": 9,
+  "translation": "Nakanjalo wena ⟨את⟩, ngegazi lomnqophiso wakho, ndithumele ababoshwa bakho emgodini ongenamanzi kuwo.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "nakanjalo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "igazi lomnqophiso wakho"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "ngegazi"
+    },
+    {
+      "surface": "בריתך",
+      "gloss": "lomnqophiso wakho"
+    },
+    {
+      "surface": "שלחתי",
+      "gloss": "ndithumele"
+    },
+    {
+      "surface": "אסיריך",
+      "gloss": "ababoshwa bakho"
+    },
+    {
+      "surface": "מבור",
+      "gloss": "emgodini"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ongenamanzi"
+    },
+    {
+      "surface": "מים",
+      "gloss": "amanzi"
+    },
+    {
+      "surface": "בו",
+      "gloss": "kuwo"
+    }
+  ],
+  "timestamp": "2026-09-18T17:43:34.112393163Z",
+  "model": "glm-5.3"
+}

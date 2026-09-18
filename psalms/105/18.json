@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 105:18",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 105,
+  "translation": "Bamenzakalisa ngezikhabulu iinyawo zakhe; intsimbi yangena entloko yakhe ⟨umoya wakhe⟩.",
+  "tokens": [
+    {
+      "surface": "ענו",
+      "gloss": "bamenzakalisa"
+    },
+    {
+      "surface": "בכבל",
+      "gloss": "ngezikhabulu"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "iinyawo zakhe"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "intsimbi"
+    },
+    {
+      "surface": "באה",
+      "gloss": "yangena"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "entloko yakhe ⟨umoya wakhe⟩"
+    }
+  ],
+  "timestamp": "2026-09-18T15:16:36.538207396Z",
+  "model": "glm-5.3"
+}

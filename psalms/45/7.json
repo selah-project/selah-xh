@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 45:7",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 45,
+  "translation": "Isitulo sakho, wena uElohim, simi kuaphakade nakuaphakade; intonga yolungiselelo yintonga yobukhosi bakho.",
+  "tokens": [
+    {
+      "surface": "כסאך",
+      "gloss": "isitulo sakho"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "wena uElohim"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "kuaphakade"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "nakuaphakade"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "intonga"
+    },
+    {
+      "surface": "מישר",
+      "gloss": "yolungiselelo"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "yintonga"
+    },
+    {
+      "surface": "מלכותך",
+      "gloss": "yobukhosi bakho"
+    }
+  ],
+  "timestamp": "2026-09-18T14:48:41.308683478Z",
+  "model": "glm-5.3"
+}

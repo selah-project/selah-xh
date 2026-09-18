@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 7:10",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 7,
+  "translation": "UMoshe no-Aharon basa kuParo, bakwenza oko njengoko uYahwe awaleleyo; uAharon walahla ⟨את⟩ induku yakhe phambi kukaParo nangaphambi kweenkonzi zakhe, yaba yintankenkesh yonke.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "basa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "uMoshe"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "no-Aharon"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "uParo"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "bakwenza"
+    },
+    {
+      "surface": "כן",
+      "gloss": "oko"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "njengoko"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "awaleleyo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "וישלך",
+      "gloss": "walahla"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "uAharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "induku yakhe"
+    },
+    {
+      "surface": "מטהו",
+      "gloss": "induku yakhe"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "phambi kuka"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "uParo"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "nangaphambi kwa"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "eenkonzi zakhe"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "yaba"
+    },
+    {
+      "surface": "לתנינים",
+      "gloss": "yintankenkesh yonke"
+    }
+  ],
+  "timestamp": "2026-09-18T05:51:27.721161959Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 4:9",
+  "book": "1-samuel",
+  "lang": "xh",
+  "chapter": 4,
+  "translation": "Nizime ngamandla, nibengamadoda, nina maPlishti, hleze nibe ziinkonzo kumaHebhere, njengokoabenikhonza nina; nibe ngamadoda, nilwe.”",
+  "tokens": [
+    {
+      "surface": "התחזקו",
+      "gloss": "Nizime ngamandla"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "nibengamadoda"
+    },
+    {
+      "surface": "לאנשים",
+      "gloss": "ngamadoda"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "nina maPlishti"
+    },
+    {
+      "surface": "פן",
+      "gloss": "hleze"
+    },
+    {
+      "surface": "תעבדו",
+      "gloss": "nibe ziinkonzo"
+    },
+    {
+      "surface": "לעברים",
+      "gloss": "kumaHebhere"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "njengoko"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "abenikhonza"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "nina"
+    },
+    {
+      "surface": "והייתם",
+      "gloss": "nibe ngamadoda"
+    },
+    {
+      "surface": "לאנשים",
+      "gloss": "ngamadoda"
+    },
+    {
+      "surface": "ונלחמתם",
+      "gloss": "nilwe"
+    }
+  ],
+  "timestamp": "2026-09-18T09:15:48.317265877Z",
+  "model": "glm-5.3"
+}

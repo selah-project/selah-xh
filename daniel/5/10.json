@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "daniel 5:10",
+  "book": "daniel",
+  "lang": "xh",
+  "chapter": 5,
+  "translation": "Inkosikazi, ngenxa yamagama enkosi neenduna zayo, yangena endlwini yesidini; inkosikazi yaphendula yathi: “Inkosi, uphile ixesha elingapheliyo! Makungakuxhalabisi iingcinga zakho, ubuso bakho makungabitshintshi.”",
+  "tokens": [
+    {
+      "surface": "מלכתא",
+      "gloss": "Inkosikazi"
+    },
+    {
+      "surface": "לקבל",
+      "gloss": "ngenxa"
+    },
+    {
+      "surface": "מלי",
+      "gloss": "yamagama"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "enkosi"
+    },
+    {
+      "surface": "ורברבנוהי",
+      "gloss": "neenduna zayo"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "endlwini"
+    },
+    {
+      "surface": "משתיא",
+      "gloss": "yesidini"
+    },
+    {
+      "surface": "עללת",
+      "gloss": "yangena"
+    },
+    {
+      "surface": "ענת",
+      "gloss": "yaphendula"
+    },
+    {
+      "surface": "מלכתא",
+      "gloss": "inkosikazi"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "yathi"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "Inkosi"
+    },
+    {
+      "surface": "לעלמין",
+      "gloss": "ixesha elingapheliyo"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "uphile"
+    },
+    {
+      "surface": "אל",
+      "gloss": "makungaku-"
+    },
+    {
+      "surface": "יבהלוך",
+      "gloss": "xhalabisi"
+    },
+    {
+      "surface": "רעיונך",
+      "gloss": "iingcinga zakho"
+    },
+    {
+      "surface": "וזיויך",
+      "gloss": "ubuso bakho"
+    },
+    {
+      "surface": "אל",
+      "gloss": "makungabi-"
+    },
+    {
+      "surface": "ישתנו",
+      "gloss": "tshintshi"
+    }
+  ],
+  "timestamp": "2026-09-18T17:49:17.334918917Z",
+  "model": "glm-5.3"
+}

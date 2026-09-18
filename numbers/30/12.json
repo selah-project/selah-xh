@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 30:12",
+  "book": "numbers",
+  "lang": "xh",
+  "chapter": 30,
+  "translation": "yaye umyeni wakhe weva, wathula kuye, akamvalanga yena ⟨את⟩; ke zonke iintembiso zakhe ziya kuma, yaye sonke isibophelelo awayenzelayo, enefeshi yakhe, siya kuma.",
+  "tokens": [
+    {
+      "surface": "ושמע",
+      "gloss": "yaye weva"
+    },
+    {
+      "surface": "אישה",
+      "gloss": "umyeni wakhe"
+    },
+    {
+      "surface": "והחרש",
+      "gloss": "wathula"
+    },
+    {
+      "surface": "לה",
+      "gloss": "kuye"
+    },
+    {
+      "surface": "לא",
+      "gloss": "akanga"
+    },
+    {
+      "surface": "הניא",
+      "gloss": "mvala"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "yena"
+    },
+    {
+      "surface": "וקמו",
+      "gloss": "ziya kuma"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zonke"
+    },
+    {
+      "surface": "נדריה",
+      "gloss": "iintembiso zakhe"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "yaye sonke"
+    },
+    {
+      "surface": "אסר",
+      "gloss": "isibophelelo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ol"
+    },
+    {
+      "surface": "אסרה",
+      "gloss": "awayenzelayo"
+    },
+    {
+      "surface": "על",
+      "gloss": "enzele"
+    },
+    {
+      "surface": "נפשה",
+      "gloss": "inefeshi yakhe"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "siya kuma"
+    }
+  ],
+  "timestamp": "2026-09-18T07:44:08.107441214Z",
+  "model": "glm-5.3"
+}

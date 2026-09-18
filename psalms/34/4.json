@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 34:4",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 34,
+  "translation": "Ndinikeleni kuYahwe ⟨את⟩ kum, masiphakamise kunye igama lakhe.",
+  "tokens": [
+    {
+      "surface": "גדלו",
+      "gloss": "Ndinikeleni kuYahwe — yandiseni"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ kum"
+    },
+    {
+      "surface": "ונרוממה",
+      "gloss": "masiphakamise"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "igama lakhe"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "kunye"
+    }
+  ],
+  "timestamp": "2026-09-18T14:40:56.983509730Z",
+  "model": "glm-5.3"
+}

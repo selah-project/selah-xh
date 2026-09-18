@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 2:5",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 2,
+  "translation": "Ngoko uza kuthetha kubo ngolaka lwakhe, kwaye ngumsindo wakhe omkhulu uza kuboyikisa.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "ngoko"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "uza kuthetha"
+    },
+    {
+      "surface": "אלימו",
+      "gloss": "kubo"
+    },
+    {
+      "surface": "באפו",
+      "gloss": "ngolaka lwakhe"
+    },
+    {
+      "surface": "ובחרונו",
+      "gloss": "kwaye ngumsindo wakhe omkhulu"
+    },
+    {
+      "surface": "יבהלמו",
+      "gloss": "uza kuboyikisa"
+    }
+  ],
+  "timestamp": "2026-09-18T14:26:24.090456942Z",
+  "model": "glm-5.3"
+}

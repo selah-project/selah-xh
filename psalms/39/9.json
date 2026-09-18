@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 39:9",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 39,
+  "translation": "Ndikhulule kuzo zonke izono zam; ungandenzi ihlazo loludenge.",
+  "tokens": [
+    {
+      "surface": "מכל",
+      "gloss": "kuzo zonke"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "izono zam"
+    },
+    {
+      "surface": "הצילני",
+      "gloss": "Ndikhulule"
+    },
+    {
+      "surface": "חרפת",
+      "gloss": "ihlazo"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "loludenge"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mus'"
+    },
+    {
+      "surface": "תשימני",
+      "gloss": "ungandenzi"
+    }
+  ],
+  "timestamp": "2026-09-18T14:43:41.092953992Z",
+  "model": "glm-5.3"
+}

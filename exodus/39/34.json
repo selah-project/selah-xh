@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "exodus 39:34",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 39,
+  "translation": "Umkhuselo wamabhulukhwe eerham ezibomvu ebomvu-dyendwe, umkhuselo wamabhulukhwe ama-takhashi, kunye ⟨את⟩ neiciphu lomkhuselo.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "umkhuselo wamabhulukhwe eerham"
+    },
+    {
+      "surface": "מכסה",
+      "gloss": "umkhuselo"
+    },
+    {
+      "surface": "עורת",
+      "gloss": "wamabhulukhwe"
+    },
+    {
+      "surface": "האילם",
+      "gloss": "eerham"
+    },
+    {
+      "surface": "המאדמים",
+      "gloss": "ezibomvu ebomvu-dyendwe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "umkhuselo wamabhulukhwe ama-takhashi"
+    },
+    {
+      "surface": "מכסה",
+      "gloss": "umkhuselo"
+    },
+    {
+      "surface": "ערת",
+      "gloss": "wamabhulukhwe"
+    },
+    {
+      "surface": "התחשים",
+      "gloss": "ama-takhashi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kunye ⟨את⟩",
+      "marks": "neiciphu lomkhuselo"
+    },
+    {
+      "surface": "פרכת",
+      "gloss": "neiciphu"
+    },
+    {
+      "surface": "המסך",
+      "gloss": "lomkhuselo"
+    }
+  ],
+  "timestamp": "2026-09-18T06:31:21.737708476Z",
+  "model": "glm-5.3"
+}

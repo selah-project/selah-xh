@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 77:9",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 77,
+  "translation": "Ingaba iphele na phakade ikhesedi yakhe? Sigqibile na isithetho sakhe kumntu untsalwa nentsalwa?",
+  "tokens": [
+    {
+      "surface": "האפס",
+      "gloss": "iphele na"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "phakade"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ikhesedi yakhe"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "sigqibile na"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "isithetho sakhe"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "kumntu untsalwa"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "nentsalwa"
+    }
+  ],
+  "timestamp": "2026-09-18T15:00:43.123293423Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 119:27",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 119,
+  "translation": "Ndidendise indlela yemimiselo yakho; ndiza kucaphula ngeemimangaliso zakho.",
+  "tokens": [
+    {
+      "surface": "דרך",
+      "gloss": "indlela"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "yemimiselo yakho"
+    },
+    {
+      "surface": "הבינני",
+      "gloss": "ndidendise"
+    },
+    {
+      "surface": "ואשיחה",
+      "gloss": "ndiza kucaphula"
+    },
+    {
+      "surface": "בנפלאותיך",
+      "gloss": "ngeemimangaliso zakho"
+    }
+  ],
+  "timestamp": "2026-09-18T15:23:15.679045704Z",
+  "model": "glm-5.3"
+}

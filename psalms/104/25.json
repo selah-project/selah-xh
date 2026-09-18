@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 104:25",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 104,
+  "translation": "Le lulwandle olukhulu olubanzi ngeenantlama; apho kukho iintyatyambo ezingenabalinganiswa, izidalwa eziphilayo ezinincinci kunye neezinkulu.",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "Le"
+    },
+    {
+      "surface": "הים",
+      "gloss": "ulwandle"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "olukhulu"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "olubanzi"
+    },
+    {
+      "surface": "ידים",
+      "gloss": "ngeenantlama"
+    },
+    {
+      "surface": "שם",
+      "gloss": "apho"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "iintyatyambo"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ezingenabalinganiswa"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "⟨isibalo⟩"
+    },
+    {
+      "surface": "חיות",
+      "gloss": "izidalwa eziphilayo"
+    },
+    {
+      "surface": "קטנות",
+      "gloss": "ezinincinci"
+    },
+    {
+      "surface": "עם",
+      "gloss": "kunye"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "neezinkulu"
+    }
+  ],
+  "timestamp": "2026-09-18T15:14:41.770518800Z",
+  "model": "glm-5.3"
+}

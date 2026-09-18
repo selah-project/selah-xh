@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 106:8",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 106,
+  "translation": "Kodwa wabasindela ngenxa yeGama lakhe, ukwenza ukwazi ⟨את⟩ amandla akhe.",
+  "tokens": [
+    {
+      "surface": "ויושיעם",
+      "gloss": "Kodwa wabasindela"
+    },
+    {
+      "surface": "למען",
+      "gloss": "ngenxa"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "yeGama lakhe"
+    },
+    {
+      "surface": "להודיע",
+      "gloss": "ukwenza ukwazi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amandla akhe"
+    },
+    {
+      "surface": "גבורתו",
+      "gloss": "amandla akhe"
+    }
+  ],
+  "timestamp": "2026-09-18T15:16:42.026151134Z",
+  "model": "glm-5.3"
+}

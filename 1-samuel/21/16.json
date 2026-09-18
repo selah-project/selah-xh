@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 21:16",
+  "book": "1-samuel",
+  "lang": "xh",
+  "chapter": 21,
+  "translation": "“Kutheni ndingamswele amahlazane, ukuba niza kungenisa ⟨את⟩ lo mntu ukuba aphuphuthe ngaphambi kwam? Ngaba lo uza kungena endlwini yam?”",
+  "tokens": [
+    {
+      "surface": "חסר",
+      "gloss": "ndingamswele"
+    },
+    {
+      "surface": "משגעים",
+      "gloss": "amahlazane"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mna"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ukuba"
+    },
+    {
+      "surface": "הבאתם",
+      "gloss": "niza kungenisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lo mntu"
+    },
+    {
+      "surface": "זה",
+      "gloss": "lo mntu"
+    },
+    {
+      "surface": "להשתגע",
+      "gloss": "ukuba aphuphuthe"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ngaphambi kwam"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "lo"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "uza kungena"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e-"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "endlwini yam"
+    }
+  ],
+  "timestamp": "2026-09-18T09:34:11.310960904Z",
+  "model": "glm-5.3"
+}

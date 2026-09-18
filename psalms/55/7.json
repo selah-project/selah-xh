@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 55:7",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 55,
+  "translation": "Ndandithi: Makandinike ipiko njengentengwane, ndiza kuphapasha, ndize ndingcamla.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "Ndandithi"
+    },
+    {
+      "surface": "מי",
+      "gloss": "⟨ngubani⟩"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "Makandinike"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kum"
+    },
+    {
+      "surface": "אבר",
+      "gloss": "ipiko"
+    },
+    {
+      "surface": "כיונה",
+      "gloss": "njengentengwane"
+    },
+    {
+      "surface": "אעופה",
+      "gloss": "ndiza kuphapasha"
+    },
+    {
+      "surface": "ואשכנה",
+      "gloss": "ndize ndingcamla"
+    }
+  ],
+  "timestamp": "2026-09-18T14:49:53.067527090Z",
+  "model": "glm-5.3"
+}

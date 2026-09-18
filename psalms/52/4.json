@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 52:4",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 52,
+  "translation": "Ulwimi lwakho lucubungula ukutshatyalaliswa, njengesika elichongiweyo, esenza inkohlakalo.",
+  "tokens": [
+    {
+      "surface": "הוות",
+      "gloss": "ukutshatyalaliswa"
+    },
+    {
+      "surface": "תחשב",
+      "gloss": "lucubungula"
+    },
+    {
+      "surface": "לשונך",
+      "gloss": "ulwimi lwakho"
+    },
+    {
+      "surface": "כתער",
+      "gloss": "njengesika"
+    },
+    {
+      "surface": "מלטש",
+      "gloss": "elichongiweyo"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "esenza"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "inkohlakalo"
+    }
+  ],
+  "timestamp": "2026-09-18T14:51:17.582531525Z",
+  "model": "glm-5.3"
+}

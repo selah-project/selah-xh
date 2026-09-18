@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 30:8",
+  "book": "deuteronomy",
+  "lang": "xh",
+  "chapter": 30,
+  "translation": "wena uza kubuyela, uza kulalela ilizwi likaYahwe, uza kukwenza ⟨את⟩ imiyalelo yakhe yonke endingikuyalelayo namhlanje.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "uza kubuyela"
+    },
+    {
+      "surface": "ושמעת",
+      "gloss": "uza kulalela"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "ilizwi lika"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "uza kukwenza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "imiyalelo yakhe yonke"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yonke"
+    },
+    {
+      "surface": "מצותיו",
+      "gloss": "imiyalelo yakhe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "endingi"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "mna"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "nikuyalela"
+    },
+    {
+      "surface": "היום",
+      "gloss": "namhlanje"
+    }
+  ],
+  "timestamp": "2026-09-18T08:21:36.834550904Z",
+  "model": "glm-5.3"
+}

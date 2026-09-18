@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 26:9",
+  "book": "deuteronomy",
+  "lang": "xh",
+  "chapter": 26,
+  "translation": "Wasifika nasisa kule ndawo, wasinika ⟨את⟩ eli lizwe, ilizwe elichitha ubisi nobusi.",
+  "tokens": [
+    {
+      "surface": "ויבאנו",
+      "gloss": "wasifika nasisa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwi-"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "ndawo"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "le"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "wasinika"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "thina"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "eli lizwe"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lizwe"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "eli"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ilizwe"
+    },
+    {
+      "surface": "זבת",
+      "gloss": "elichitha"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "ubisi"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "nobusi"
+    }
+  ],
+  "timestamp": "2026-09-18T08:16:06.950552527Z",
+  "model": "glm-5.3"
+}

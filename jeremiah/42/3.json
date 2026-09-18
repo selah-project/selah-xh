@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 42:3",
+  "book": "jeremiah",
+  "lang": "xh",
+  "chapter": 42,
+  "translation": "ukuze uYahwe uElohim wakho asixelele ⟨את⟩ indlela esiza kuhamba ngayo, nendlela — ⟨את⟩ into esiza kuyenza.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "asixelele"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "-si"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "uElohim wakho"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "indlela"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "indlela"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "esiza kuhamba ngayo"
+    },
+    {
+      "surface": "נלך",
+      "gloss": "esiza kuhamba"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ngayo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "into"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "into"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "esiza kuyenza"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "esiza kuyenza"
+    }
+  ],
+  "timestamp": "2026-09-18T17:38:00.549006938Z",
+  "model": "glm-5.3"
+}

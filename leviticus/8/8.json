@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 8:8",
+  "book": "leviticus",
+  "lang": "xh",
+  "chapter": 8,
+  "translation": "Wayibeka phezu kwakhe ⟨את⟩ ikhosheni, wafaka kwikhosheni ⟨את⟩ i-Urimi no-⟨ואת⟩ neThumim.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "Wayibeka phezu"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "phezu kwakhe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ikhosheni"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "ikhosheni"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "wafaka"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwi-"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "kwikhosheni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i-Urimi"
+    },
+    {
+      "surface": "האורים",
+      "gloss": "i-Urimi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨ואת⟩",
+      "marks": "neThumim"
+    },
+    {
+      "surface": "התמים",
+      "gloss": "neThumim"
+    }
+  ],
+  "timestamp": "2026-09-18T06:44:14.378842875Z",
+  "model": "glm-5.3"
+}

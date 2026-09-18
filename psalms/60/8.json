@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 60:8",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 60,
+  "translation": "UElohim wathetha engcweleni yakhe; ndiza kuvuya; ndiza kwahlula iShekhem, ndilinga intlambo yeSukhot.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "UElohim"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "wathetha"
+    },
+    {
+      "surface": "בקדשו",
+      "gloss": "engcweleni yakhe"
+    },
+    {
+      "surface": "אעלזה",
+      "gloss": "ndiza kuvuya"
+    },
+    {
+      "surface": "אחלקה",
+      "gloss": "ndiza kwahlula"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "iShekhem"
+    },
+    {
+      "surface": "ועמק",
+      "gloss": "intlambo"
+    },
+    {
+      "surface": "סכות",
+      "gloss": "yeSukhot"
+    },
+    {
+      "surface": "אמדד",
+      "gloss": "ndilinga"
+    }
+  ],
+  "timestamp": "2026-09-18T14:53:47.225799877Z",
+  "model": "glm-5.3"
+}

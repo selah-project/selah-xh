@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "hosea 9:17",
+  "book": "hosea",
+  "lang": "xh",
+  "chapter": 9,
+  "translation": "uElohim wam uza kubalahla, kuba abamvalanga; baza kuba ngabahamba-hamba phakathi kweenkululeko ezizimangele.",
+  "tokens": [
+    {
+      "surface": "ימאסם",
+      "gloss": "uza kubalahla"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "uElohim wam"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "לא",
+      "gloss": "a-"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "bamvalanga"
+    },
+    {
+      "surface": "לו",
+      "gloss": "m-"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "baza kuba"
+    },
+    {
+      "surface": "נדדים",
+      "gloss": "ngabahamba-hamba"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "phakathi kweenkululeko ezizimangele"
+    }
+  ],
+  "timestamp": "2026-09-18T13:45:12.219959905Z",
+  "model": "glm-5.3"
+}

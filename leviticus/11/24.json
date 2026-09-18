@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "leviticus 11:24",
+  "book": "leviticus",
+  "lang": "xh",
+  "chapter": 11,
+  "translation": "Yaye ngezi niya kungcoliswa: nabani na othinta izidumbu zazo uya kungcoliswa de kusihlwa.",
+  "tokens": [
+    {
+      "surface": "ולאלה",
+      "gloss": "yaye ngezi"
+    },
+    {
+      "surface": "תטמאו",
+      "gloss": "niya kungcoliswa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nabani na"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "othinta"
+    },
+    {
+      "surface": "בנבלתם",
+      "gloss": "izidumbu zazo"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "uya kungcoliswa"
+    },
+    {
+      "surface": "עד",
+      "gloss": "de"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "kusihlwa"
+    }
+  ],
+  "timestamp": "2026-09-18T06:42:03.978556877Z",
+  "model": "glm-5.3"
+}

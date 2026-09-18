@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 19:10",
+  "book": "leviticus",
+  "lang": "xh",
+  "chapter": 19,
+  "translation": "Iwile yakho musa ukutshikila ngokupheleleyo, namaxabiso aphantsi ewile yakho musa ukuwaqokelela; kumahlwempu nakwendwendwe uya kushiya ⟨את⟩ elo. NdinguYahwe uElohim wenu.",
+  "tokens": [
+    {
+      "surface": "וכרמך",
+      "gloss": "iwile yakho"
+    },
+    {
+      "surface": "לא",
+      "gloss": "musa"
+    },
+    {
+      "surface": "תעולל",
+      "gloss": "ukutshikila ngokupheleleyo"
+    },
+    {
+      "surface": "ופרט",
+      "gloss": "namaxabiso aphantsi"
+    },
+    {
+      "surface": "כרמך",
+      "gloss": "ewile yakho"
+    },
+    {
+      "surface": "לא",
+      "gloss": "musa"
+    },
+    {
+      "surface": "תלקט",
+      "gloss": "ukuwaqokelela"
+    },
+    {
+      "surface": "לעני",
+      "gloss": "kumahlwempu"
+    },
+    {
+      "surface": "ולגר",
+      "gloss": "nakwendwendwe"
+    },
+    {
+      "surface": "תעזב",
+      "gloss": "uya kushiya"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "elo (amaxabiso namda wewile)"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ndi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "nguYahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "uElohim wenu"
+    }
+  ],
+  "timestamp": "2026-09-18T06:54:26.983669182Z",
+  "model": "glm-5.3"
+}

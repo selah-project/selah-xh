@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 27:5",
+  "book": "jeremiah",
+  "lang": "xh",
+  "chapter": 27,
+  "translation": "Mna ndenzile ⟨את⟩ umhlaba ⟨את⟩ umntu kunye ne⟨את⟩ izilwanyana ezikumgangatho womhlaba, ngamandla am akhulu kunye nengalo yam etyhaliweyo; ndaza kuyinika lowo ulungileyo emehlweni am.",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "Mna"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "ndenzile"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umhlaba"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "umhlaba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umntu"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "umntu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kunye ne⟨את⟩",
+      "marks": "izilwanyana"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "izilwanyana"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ezi"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu"
+    },
+    {
+      "surface": "פני",
+      "gloss": "kumgangatho"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "womhlaba"
+    },
+    {
+      "surface": "בכחי",
+      "gloss": "ngamandla am"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "akhulu"
+    },
+    {
+      "surface": "ובזרועי",
+      "gloss": "kunye nengalo yam"
+    },
+    {
+      "surface": "הנטויה",
+      "gloss": "etyhaliweyo"
+    },
+    {
+      "surface": "ונתתיה",
+      "gloss": "ndaza kuyinika"
+    },
+    {
+      "surface": "לאשר",
+      "gloss": "lowo"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "ulungileyo"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "emehlweni am"
+    }
+  ],
+  "timestamp": "2026-09-18T12:17:31.377542908Z",
+  "model": "glm-5.3"
+}

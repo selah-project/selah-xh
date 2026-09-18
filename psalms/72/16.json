@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 72:16",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 72,
+  "translation": "Makubekho ubuninzi beengqolowa emhlabeni, phepezentliweeni kweentaba; isiqhamo sayo singaqhuthunjiswa njengaseLebanoni; baze baphume kwindawo yesixeko njengotyani bomhlaba.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "makubekho"
+    },
+    {
+      "surface": "פסת",
+      "gloss": "ubuninzi"
+    },
+    {
+      "surface": "בר",
+      "gloss": "beengqolowa"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "emhlabeni"
+    },
+    {
+      "surface": "בראש",
+      "gloss": "phepezentliweeni"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "kweentaba"
+    },
+    {
+      "surface": "ירעש",
+      "gloss": "singaqhuthunjiswa"
+    },
+    {
+      "surface": "כלבנון",
+      "gloss": "njengaseLebanoni"
+    },
+    {
+      "surface": "פריו",
+      "gloss": "isiqhamo sayo"
+    },
+    {
+      "surface": "ויציצו",
+      "gloss": "baze baphume"
+    },
+    {
+      "surface": "מעיר",
+      "gloss": "kwindawo yesixeko"
+    },
+    {
+      "surface": "כעשב",
+      "gloss": "njengotyani"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bomhlaba"
+    }
+  ],
+  "timestamp": "2026-09-18T14:58:53.399006171Z",
+  "model": "glm-5.3"
+}

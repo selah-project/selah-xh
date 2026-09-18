@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 13:1",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 13,
+  "translation": "Kwumlawuli weengoma, ipsalma kaDavide.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Kwumlawuli"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "ipsalma"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "kaDavide"
+    }
+  ],
+  "timestamp": "2026-09-18T14:32:12.755939173Z",
+  "model": "glm-5.3"
+}

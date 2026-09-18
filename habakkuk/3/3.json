@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "habakkuk 3:3",
+  "book": "habakkuk",
+  "lang": "xh",
+  "chapter": 3,
+  "translation": "u-Eloha uza kweza eTeman, noyiNgcwele entabeni yeParan. Selah. Ubukhosi bakhe bashingca amazulu, iindumiso zakhe zagcwalisa umhlaba.",
+  "tokens": [
+    {
+      "surface": "אלוה",
+      "gloss": "u-Eloha"
+    },
+    {
+      "surface": "מתימן",
+      "gloss": "eTeman"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "uza kweza"
+    },
+    {
+      "surface": "וקדוש",
+      "gloss": "noyiNgcwele"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "entabeni ye-"
+    },
+    {
+      "surface": "פארן",
+      "gloss": "Paran"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    },
+    {
+      "surface": "כסה",
+      "gloss": "bashingca"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "amazulu"
+    },
+    {
+      "surface": "הודו",
+      "gloss": "ubukhosi bakhe"
+    },
+    {
+      "surface": "ותהלתו",
+      "gloss": "iindumiso zakhe"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "zagcwalisa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "umhlaba"
+    }
+  ],
+  "timestamp": "2026-09-18T14:12:06.589012527Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 96:10",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 96,
+  "translation": "Yithini kwintlanga zelizwe: uYahwe ungukumkani! Yaye ihlabathi liyakomelela, aliyi kutshatyalala; uza kugweba ngokulunga kwabantu.",
+  "tokens": [
+    {
+      "surface": "אמרו",
+      "gloss": "Yithini"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "kwintlanga zelizwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ungukumkani"
+    },
+    {
+      "surface": "אף",
+      "gloss": "Yaye"
+    },
+    {
+      "surface": "תכון",
+      "gloss": "iyakomelela, imiswe"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "ihlabathi"
+    },
+    {
+      "surface": "בל",
+      "gloss": "aliyi (hayi konke)"
+    },
+    {
+      "surface": "תמוט",
+      "gloss": "kutshatyalala"
+    },
+    {
+      "surface": "ידין",
+      "gloss": "uza kugweba"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "ngabantu"
+    },
+    {
+      "surface": "במישרים",
+      "gloss": "ngokulunga (ngokookutyani)"
+    }
+  ],
+  "timestamp": "2026-09-18T15:10:01.581530758Z",
+  "model": "glm-5.3"
+}

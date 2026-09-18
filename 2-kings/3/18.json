@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-kings 3:18",
+  "book": "2-kings",
+  "lang": "xh",
+  "chapter": 3,
+  "translation": "Kananjalo oku kuncinane emehlweni kaYahwe, uza kunika ⟨את⟩ uMowabu ezandleni zenu.",
+  "tokens": [
+    {
+      "surface": "ונקל",
+      "gloss": "kananjalo oku kuncinane"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "oku"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "emehlweni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kaYahwe"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "uza kunika"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uMowabu"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "uMowabu"
+    },
+    {
+      "surface": "בידכם",
+      "gloss": "ezandleni zenu"
+    }
+  ],
+  "timestamp": "2026-09-18T10:39:38.718849448Z",
+  "model": "glm-5.3"
+}

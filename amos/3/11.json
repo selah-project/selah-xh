@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "amos 3:11",
+  "book": "amos",
+  "lang": "xh",
+  "chapter": 3,
+  "translation": "Ngoko uthi u-Adonayi uYahwe: Umhlafuli uza kukombeleza ilizwe; ⟨iza⟩ wehlisa amandla akho kuwe, iiqonga zakho ziza kudinyulwa.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "Ngoko"
+    },
+    {
+      "surface": "כה",
+      "gloss": "uthi"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "uthe"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "u-Adonayi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "צר",
+      "gloss": "Umhlafuli"
+    },
+    {
+      "surface": "וסביב",
+      "gloss": "uza kukombeleza"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ilizwe"
+    },
+    {
+      "surface": "והורד",
+      "gloss": "wehlisa"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "kuwe"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "amandla akho"
+    },
+    {
+      "surface": "ונבזו",
+      "gloss": "ziza kudinyulwa"
+    },
+    {
+      "surface": "ארמנותיך",
+      "gloss": "iiqonga zakho"
+    }
+  ],
+  "timestamp": "2026-09-18T13:53:00.059521029Z",
+  "model": "glm-5.3"
+}

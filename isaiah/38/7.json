@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 38:7",
+  "book": "isaiah",
+  "lang": "xh",
+  "chapter": 38,
+  "translation": "Kwaye oku kuwe nguphawu ⟨את⟩ olu kuYahwe, oku uYahwe aza kukwenza ⟨את⟩ loo mba awuthethileyo.",
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "Kwaye oku"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kuwe"
+    },
+    {
+      "surface": "האות",
+      "gloss": "nguphawu"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩ olu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kuYahwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oku"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "aza kukwenza"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "loo mba"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "loo mba"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "loo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "awu"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "thethileyo"
+    }
+  ],
+  "timestamp": "2026-09-18T11:27:47.692561147Z",
+  "model": "glm-5.3"
+}

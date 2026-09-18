@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "joshua 12:15",
+  "book": "joshua",
+  "lang": "xh",
+  "chapter": 12,
+  "translation": "Inkosi yaseLibnahi, enye; inkosi yaseAdulami, enye;",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "inkosi"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "aseLibnahi"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "enye"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "inkosi"
+    },
+    {
+      "surface": "עדלם",
+      "gloss": "aseAdulami"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "enye"
+    }
+  ],
+  "timestamp": "2026-09-18T08:35:51.303473408Z",
+  "model": "glm-5.3"
+}

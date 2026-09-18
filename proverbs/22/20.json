@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 22:20",
+  "book": "proverbs",
+  "lang": "xh",
+  "chapter": 22,
+  "translation": "Ingaba andakubhala ⟨kuwe⟩ izinto ezintathu ngeengcebiso nolwazi?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "Ingaba"
+    },
+    {
+      "surface": "כתבתי",
+      "gloss": "andakubhala"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kuwe"
+    },
+    {
+      "surface": "שלשום",
+      "gloss": "izinto ezintathu"
+    },
+    {
+      "surface": "במועצת",
+      "gloss": "ngeengcebiso"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "nolwazi"
+    }
+  ],
+  "timestamp": "2026-09-18T17:46:54.454166862Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 25:7",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 25,
+  "translation": "Izono zotsha lwam neziphambano zam ungazikhumbuli; ngokwesikhesedi sakho khumbula mna, wena, ngenxa yokulunga kwakho, uYahwe.",
+  "tokens": [
+    {
+      "surface": "חטאות",
+      "gloss": "Izono"
+    },
+    {
+      "surface": "נעורי",
+      "gloss": "zotsha lwam"
+    },
+    {
+      "surface": "ופשעי",
+      "gloss": "neziphambano zam"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ungazi-"
+    },
+    {
+      "surface": "תזכר",
+      "gloss": "khumbuli"
+    },
+    {
+      "surface": "כחסדך",
+      "gloss": "ngokwesikhesedi sakho"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "khumbula"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mna"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "למען",
+      "gloss": "ngenxa yakho-"
+    },
+    {
+      "surface": "טובך",
+      "gloss": "kulunga kwakho"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    }
+  ],
+  "timestamp": "2026-09-18T14:37:23.850870349Z",
+  "model": "glm-5.3"
+}

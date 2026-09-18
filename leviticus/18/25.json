@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 18:25",
+  "book": "leviticus",
+  "lang": "xh",
+  "chapter": 18,
+  "translation": "Yaye umhlaba wazitywina, ndaza ndamtyalela esweni layo phezu kwawo, yaye umhlaba wabamisa abemi balo.",
+  "tokens": [
+    {
+      "surface": "ותטמא",
+      "gloss": "wazitywina"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "umhlaba"
+    },
+    {
+      "surface": "ואפקד",
+      "gloss": "ndaza ndamtyalela esweni"
+    },
+    {
+      "surface": "עונה",
+      "gloss": "elayo"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "phezu kwawo"
+    },
+    {
+      "surface": "ותקא",
+      "gloss": "wabamisa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "umhlaba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abemi balo"
+    },
+    {
+      "surface": "ישביה",
+      "gloss": "abemi balo"
+    }
+  ],
+  "timestamp": "2026-09-18T06:53:14.561942610Z",
+  "model": "glm-5.3"
+}

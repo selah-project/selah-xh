@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "numbers 1:17",
+  "book": "numbers",
+  "lang": "xh",
+  "chapter": 1,
+  "translation": "UMoshe no-Aharon bathabatha ⟨את⟩ amadoda la achazwe ngeegama zawo.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "bathabatha"
+    },
+    {
+      "surface": "משה",
+      "gloss": "uMoshe"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "no-Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amadoda la"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "amadoda"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "la"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "acha"
+    },
+    {
+      "surface": "נקבו",
+      "gloss": "achazwe"
+    },
+    {
+      "surface": "בשמות",
+      "gloss": "ngeegama zawo"
+    }
+  ],
+  "timestamp": "2026-09-18T07:10:44.644382672Z",
+  "model": "glm-5.3"
+}

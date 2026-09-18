@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 2:7",
+  "book": "1-samuel",
+  "lang": "xh",
+  "chapter": 2,
+  "translation": "uYahwe wenza ubuluma, aze enze ubutyebi; ehlabisa phantsi, enye ezibisa phezulu.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "מוריש",
+      "gloss": "wenza ubuluma"
+    },
+    {
+      "surface": "ומעשיר",
+      "gloss": "aze enze ubutyebi"
+    },
+    {
+      "surface": "משפיל",
+      "gloss": "ehlabisa phantsi"
+    },
+    {
+      "surface": "אף",
+      "gloss": "enye"
+    },
+    {
+      "surface": "מרומם",
+      "gloss": "ezibisa phezulu"
+    }
+  ],
+  "timestamp": "2026-09-18T09:11:46.474102042Z",
+  "model": "glm-5.3"
+}

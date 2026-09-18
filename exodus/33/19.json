@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 33:19",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 33,
+  "translation": "Wathetha ⟨yena⟩: “Mna ndiza kudlulisa lonke ilungelo lam phambi kokho, ndiza kubizela ngeGama likaYahwe phambi kokho, ndiza kunikela ikhesedi lowo ndimnikela ikhesedi, ndiza kuzithanda lowo ndimizithanda.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wathetha"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mna"
+    },
+    {
+      "surface": "אעביר",
+      "gloss": "ndiza kudlulisa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lonke"
+    },
+    {
+      "surface": "טובי",
+      "gloss": "ilungela lam"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "kokho"
+    },
+    {
+      "surface": "וקראתי",
+      "gloss": "ndiza kubizela"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "ngeGama"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "likaYahwe"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "phambi kokho"
+    },
+    {
+      "surface": "וחנתי",
+      "gloss": "ndiza kunikela ikhesedi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lowo ndimnikela ikhesedi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "lowo"
+    },
+    {
+      "surface": "אחן",
+      "gloss": "ndimnikela ikhesedi"
+    },
+    {
+      "surface": "ורחמתי",
+      "gloss": "ndiza kuzithanda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lowo ndimizithanda"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "lowo"
+    },
+    {
+      "surface": "ארחם",
+      "gloss": "ndimizithanda"
+    }
+  ],
+  "timestamp": "2026-09-18T06:24:13.252500395Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 25:5",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 25,
+  "translation": "kunye neezikhumba zeenthengu ezibomvu, neezikhumba zeetahashi, nabemi besiti",
+  "tokens": [
+    {
+      "surface": "וערת",
+      "gloss": "kunye neezikhumba ze-"
+    },
+    {
+      "surface": "אילם",
+      "gloss": "iinthengu"
+    },
+    {
+      "surface": "מאדמים",
+      "gloss": "ezibomvu"
+    },
+    {
+      "surface": "וערת",
+      "gloss": "neezikhumba ze-"
+    },
+    {
+      "surface": "תחשים",
+      "gloss": "iitahashi"
+    },
+    {
+      "surface": "ועצי",
+      "gloss": "nabemi be-"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "isiti"
+    }
+  ],
+  "timestamp": "2026-09-18T06:11:32.792889866Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 55:9",
+  "book": "isaiah",
+  "lang": "xh",
+  "chapter": 55,
+  "translation": "Kuba njengoko amazulu aphakamileyo ngaphezu komhlaba, njalo iindlela zam ziphakamileyo ngaphezu kweindlela zenu, neengcinga zam ngaphezu kweengcinga zenu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "גבהו",
+      "gloss": "ziphakamileyo"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "amazulu"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "ngaphezu komhlaba"
+    },
+    {
+      "surface": "כן",
+      "gloss": "njalo"
+    },
+    {
+      "surface": "גבהו",
+      "gloss": "ziphakamileyo"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "iindlela zam"
+    },
+    {
+      "surface": "מדרכיכם",
+      "gloss": "ngaphezu kweindlela zenu"
+    },
+    {
+      "surface": "ומחשבתי",
+      "gloss": "neengcinga zam"
+    },
+    {
+      "surface": "ממחשבתיכם",
+      "gloss": "ngaphezu kweengcinga zenu"
+    }
+  ],
+  "timestamp": "2026-09-18T11:40:52.595219533Z",
+  "model": "glm-5.3"
+}

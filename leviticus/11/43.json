@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "leviticus 11:43",
+  "book": "leviticus",
+  "lang": "xh",
+  "chapter": 11,
+  "translation": "Musani ukuzenyanyekisa ngeenqanawa zenu ⟨את⟩ kuzo zonke izinto eziphuhlisa umhlaba eziphuhlisa, ungabi nangcolisiwo nazo, uze ungcoliseke ngazo.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Musani"
+    },
+    {
+      "surface": "תשקצו",
+      "gloss": "ukuzenyanyekisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iinqanawa zenu"
+    },
+    {
+      "surface": "נפשתיכם",
+      "gloss": "ngeenqanawa zenu"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "kuzo zonke"
+    },
+    {
+      "surface": "השרץ",
+      "gloss": "izinto eziphuhlisa umhlaba"
+    },
+    {
+      "surface": "השרץ",
+      "gloss": "eziphuhlisa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ungabi"
+    },
+    {
+      "surface": "תטמאו",
+      "gloss": "nangcolisiwo"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "nazo"
+    },
+    {
+      "surface": "ונטמתם",
+      "gloss": "uze ungcoliseke"
+    },
+    {
+      "surface": "בם",
+      "gloss": "ngazo"
+    }
+  ],
+  "timestamp": "2026-09-18T06:42:32.629560637Z",
+  "model": "glm-5.3"
+}

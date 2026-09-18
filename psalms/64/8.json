@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 64:8",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 64,
+  "translation": "Kodwa uElohim uyabadubula ngetolo; ngokungazelelisiyo sezizinjani iintlawulo zabo.",
+  "tokens": [
+    {
+      "surface": "וירם",
+      "gloss": "uyabadubula"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "חץ",
+      "gloss": "ngetolo"
+    },
+    {
+      "surface": "פתאום",
+      "gloss": "ngokungazelelisiyo"
+    },
+    {
+      "surface": "היו",
+      "gloss": "baba yingozi"
+    },
+    {
+      "surface": "מכותם",
+      "gloss": "iintlawulo zabo"
+    }
+  ],
+  "timestamp": "2026-09-18T14:54:54.318724225Z",
+  "model": "glm-5.3"
+}

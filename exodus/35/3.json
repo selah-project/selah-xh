@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 35:3",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 35,
+  "translation": "Ningabaseli mlilo nakweliphi na iidolophu zenu ngomhla wesabatha.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "nin-"
+    },
+    {
+      "surface": "תבערו",
+      "gloss": "-gaseli"
+    },
+    {
+      "surface": "אש",
+      "gloss": "mlilo"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "nakweliphi na"
+    },
+    {
+      "surface": "משבתיכם",
+      "gloss": "iidolophu zenu"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ngomhla"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "wesabatha"
+    }
+  ],
+  "timestamp": "2026-09-18T06:24:55.431875308Z",
+  "model": "glm-5.3"
+}

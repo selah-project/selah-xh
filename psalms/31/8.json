@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 31:8",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 31,
+  "translation": "Ndiza kuduma ndivuya ngeKhesedi lakho, okoko ubonile ⟨את⟩ isithukuthezelo sam; wazile iingxaki zomphefumlo wam.",
+  "tokens": [
+    {
+      "surface": "אגילה",
+      "gloss": "Ndiza kuduma"
+    },
+    {
+      "surface": "ואשמחה",
+      "gloss": "ndivuya"
+    },
+    {
+      "surface": "בחסדך",
+      "gloss": "ngeKhesedi lakho"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "okoko"
+    },
+    {
+      "surface": "ראית",
+      "gloss": "ubonile"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isithukuthezelo sam"
+    },
+    {
+      "surface": "עניי",
+      "gloss": "isithukuthezelo sam"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "wazile"
+    },
+    {
+      "surface": "בצרות",
+      "gloss": "iingxaki"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "zomphefumlo wam"
+    }
+  ],
+  "timestamp": "2026-09-18T14:38:53.040020710Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 12:16",
+  "book": "genesis",
+  "lang": "xh",
+  "chapter": 12,
+  "translation": "Wenza okulungileyo ku-Avraham ngenxa yayo; waba nazo: iiggusha, neenkomo, nameqhude, nezicaka zesilisa nezicaka zesifazane, neezithole zamakhobokazana, neekamela.",
+  "tokens": [
+    {
+      "surface": "ולאברם",
+      "gloss": "ku-Avraham"
+    },
+    {
+      "surface": "היטיב",
+      "gloss": "wenza okulungileyo"
+    },
+    {
+      "surface": "בעבורה",
+      "gloss": "ngenxa yayo"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "waba nazo"
+    },
+    {
+      "surface": "לו",
+      "gloss": "yena"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "iiggusha"
+    },
+    {
+      "surface": "ובקר",
+      "gloss": "neenkomo"
+    },
+    {
+      "surface": "וחמרים",
+      "gloss": "nameqhude"
+    },
+    {
+      "surface": "ועבדים",
+      "gloss": "nezicaka zesilisa"
+    },
+    {
+      "surface": "ושפחת",
+      "gloss": "nezicaka zesifazane"
+    },
+    {
+      "surface": "ואתנת",
+      "gloss": "neezithole zamakhobokazana"
+    },
+    {
+      "surface": "וגמלים",
+      "gloss": "neekamela"
+    }
+  ],
+  "timestamp": "2026-09-18T05:12:46.027004744Z",
+  "model": "glm-5.3"
+}

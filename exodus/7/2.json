@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 7:2",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 7,
+  "translation": "Wena uza kuthetha ⟨את⟩ konke endingakuyalelayo; kwaye u-Aharon umnakwenu uza kuthetha kuParo, ukuze athumele ⟨את⟩ abantwana bakwaYisrayeli elizweni lakhe.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Wena"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "uza kuthetha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "konke"
+    },
+    {
+      "surface": "כל",
+      "gloss": "konke"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oko"
+    },
+    {
+      "surface": "אצוך",
+      "gloss": "endingakuyalelayo"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "kwaye u-Aharon"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "umnakwenu"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "uza kuthetha"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "uParo"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "ukuze athumele"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abantwana bakwaYisrayeli"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abantwana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "bakwaYisrayeli"
+    },
+    {
+      "surface": "מארצו",
+      "gloss": "elizweni lakhe"
+    }
+  ],
+  "timestamp": "2026-09-18T17:20:44.619090022Z",
+  "model": "glm-5.3"
+}

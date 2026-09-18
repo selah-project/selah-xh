@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 53:2",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 53,
+  "translation": "Unathanga wathetha entliziyweni yakhe: “Akakho uElohim.” Bancola, benze ubugwenxa obunzima; akukho mntu wenza okulungileyo.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "wathetha"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "unathanga"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "entliziyweni yakhe"
+    },
+    {
+      "surface": "אין",
+      "gloss": "akakho"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "השחיתו",
+      "gloss": "bancola"
+    },
+    {
+      "surface": "והתעיבו",
+      "gloss": "benze"
+    },
+    {
+      "surface": "עול",
+      "gloss": "ubugwenxa obunzima"
+    },
+    {
+      "surface": "אין",
+      "gloss": "akukho"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "wenza"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "okulungileyo"
+    }
+  ],
+  "timestamp": "2026-09-18T14:50:18.077605315Z",
+  "model": "glm-5.3"
+}

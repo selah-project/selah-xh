@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 124:2",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 124,
+  "translation": "ukuba uYahwe wayengasisi kuthi, xa abantu bevukela thina;",
+  "tokens": [
+    {
+      "surface": "לולי",
+      "gloss": "ukuba… wayengasisi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "wayengasisi"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "kuthi"
+    },
+    {
+      "surface": "בקום",
+      "gloss": "xa bevukela"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "thina"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "abantu"
+    }
+  ],
+  "timestamp": "2026-09-18T15:28:04.329718859Z",
+  "model": "glm-5.3"
+}

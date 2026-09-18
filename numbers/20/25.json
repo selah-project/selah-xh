@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 20:25",
+  "book": "numbers",
+  "lang": "xh",
+  "chapter": 20,
+  "translation": "Thatha uAharon no-Elazari unyana wakhe, uze ubanyuse ukuya entabeni iHora.",
+  "tokens": [
+    {
+      "surface": "קח",
+      "gloss": "Thatha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uAharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "uAharon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "no⟨את⟩",
+      "marks": "u-Elazari"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "u-Elazari"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "unyana wakhe"
+    },
+    {
+      "surface": "והעל",
+      "gloss": "uze ubanyuse"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ukuya entabeni iHora"
+    },
+    {
+      "surface": "הר",
+      "gloss": "iHora"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "entabeni"
+    }
+  ],
+  "timestamp": "2026-09-18T07:33:35.783037461Z",
+  "model": "glm-5.3"
+}

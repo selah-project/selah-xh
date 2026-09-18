@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 37:12",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 37,
+  "translation": "Umtyholi ucwangcisa ubugwenxa elo lungenelayo, begqwisa amazinyo akhe ngaphezu kwakhe.",
+  "tokens": [
+    {
+      "surface": "זמם",
+      "gloss": "ucwangcisa ubugwenxa"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "Umtyholi"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "elo lungenelayo"
+    },
+    {
+      "surface": "וחרק",
+      "gloss": "begqwisa"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ngaphezu kwakhe"
+    },
+    {
+      "surface": "שניו",
+      "gloss": "amazinyo akhe"
+    }
+  ],
+  "timestamp": "2026-09-18T14:41:22.500949369Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 29:6",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 29,
+  "translation": "Wazenza ukuba batyhale njengethole, iLebanoni noSiriyoni njengonyana weenkomo ezinkulu zasendle.",
+  "tokens": [
+    {
+      "surface": "וירקידם",
+      "gloss": "Wazenza ukuba batyhale"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "njenge"
+    },
+    {
+      "surface": "עגל",
+      "gloss": "ethole"
+    },
+    {
+      "surface": "לבנון",
+      "gloss": "iLebanoni"
+    },
+    {
+      "surface": "ושרין",
+      "gloss": "noSiriyoni"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "njenge"
+    },
+    {
+      "surface": "בן",
+      "gloss": "onyana"
+    },
+    {
+      "surface": "ראמים",
+      "gloss": "weenkomo ezinkulu zasendle"
+    }
+  ],
+  "timestamp": "2026-09-18T14:37:16.062712153Z",
+  "model": "glm-5.3"
+}

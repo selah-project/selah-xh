@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 75:4",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 75,
+  "translation": "Iyanyamalala umhlaba nawo onke ahlali kwo; mna ndizingqibile iintsika zalo. Selah.",
+  "tokens": [
+    {
+      "surface": "נמגים",
+      "gloss": "Iyanyamalala"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "umhlaba"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "nawo onke"
+    },
+    {
+      "surface": "ישביה",
+      "gloss": "ahlali kwo"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "mna"
+    },
+    {
+      "surface": "תכנתי",
+      "gloss": "ndizingqibile"
+    },
+    {
+      "surface": "עמודיה",
+      "gloss": "iintsika zalo"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-18T15:01:31.515600141Z",
+  "model": "glm-5.3"
+}

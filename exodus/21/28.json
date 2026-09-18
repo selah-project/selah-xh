@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 21:28",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 21,
+  "translation": "Ukuba inkunzi yomnombo uthe yakhaba ⟨את⟩ umntu okanye ⟨את⟩ umfazi, afe, inkunzi ngokwayo mayibhotshozwe ngamatye, inyama yayo ingatyatyiwa ⟨את⟩, umnini inkunzi ungenacala.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "Ukuba"
+    },
+    {
+      "surface": "יגח",
+      "gloss": "uthe yakhaba"
+    },
+    {
+      "surface": "שור",
+      "gloss": "inkunzi yomnombo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umntu"
+    },
+    {
+      "surface": "איש",
+      "gloss": "umntu"
+    },
+    {
+      "surface": "או",
+      "gloss": "okanye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umfazi"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "umfazi"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "afe"
+    },
+    {
+      "surface": "סקול",
+      "gloss": "ngamatye (infinitive)"
+    },
+    {
+      "surface": "יסקל",
+      "gloss": "mayibhotshozwe"
+    },
+    {
+      "surface": "השור",
+      "gloss": "inkunzi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "inga-"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "tyatyiwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "inyama yayo"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "inyama yayo"
+    },
+    {
+      "surface": "ובעל",
+      "gloss": "umnini"
+    },
+    {
+      "surface": "השור",
+      "gloss": "inkunzi"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "ungenacala"
+    }
+  ],
+  "timestamp": "2026-09-18T06:08:22.771666781Z",
+  "model": "glm-5.3"
+}

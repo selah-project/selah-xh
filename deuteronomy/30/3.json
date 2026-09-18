@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 30:3",
+  "book": "deuteronomy",
+  "lang": "xh",
+  "chapter": 30,
+  "translation": "uYahwe uElohim wakho uza kubuyisa ⟨את⟩ ubukhoboki bakho, aze akhahalele wena, abuyele akuqokelele kuzo zonke iintlanga apho yakusatyalalisa khona uYahwe uElohim wakho.",
+  "tokens": [
+    {
+      "surface": "ושב",
+      "gloss": "uza kubuyisa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "uElohim wakho"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ubukhoboki bakho"
+    },
+    {
+      "surface": "שבותך",
+      "gloss": "ubukhoboki bakho"
+    },
+    {
+      "surface": "ורחמך",
+      "gloss": "aze akhahalele wena"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "abuyela"
+    },
+    {
+      "surface": "וקבצך",
+      "gloss": "akuqokelele"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "kuzo"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "iintlanga"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "apho"
+    },
+    {
+      "surface": "הפיצך",
+      "gloss": "yakusatyalalisa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "uElohim wakho"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "khona"
+    }
+  ],
+  "timestamp": "2026-09-18T08:22:11.978594568Z",
+  "model": "glm-5.3"
+}

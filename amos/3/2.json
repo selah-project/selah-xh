@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "amos 3:2",
+  "book": "amos",
+  "lang": "xh",
+  "chapter": 3,
+  "translation": "Kuphela ⟨את⟩ nina ndawazi kuzo zonke iintsapho zomhlaba; ngoko ndiza kubonakalisa kuwo onke amashologqo enu.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "Kuphela"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ nina"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "ndawazi"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "kuzo zonke"
+    },
+    {
+      "surface": "משפחות",
+      "gloss": "iintsapho"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "zomhlaba"
+    },
+    {
+      "surface": "על",
+      "gloss": "ngoko"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ngoko"
+    },
+    {
+      "surface": "אפקד",
+      "gloss": "ndiza kubonakalisa"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "ku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "onke amashologqo enu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "onke"
+    },
+    {
+      "surface": "עונתיכם",
+      "gloss": "amashologqo enu"
+    }
+  ],
+  "timestamp": "2026-09-18T13:53:20.898104615Z",
+  "model": "glm-5.3"
+}

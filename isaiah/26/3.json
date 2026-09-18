@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 26:3",
+  "book": "isaiah",
+  "lang": "xh",
+  "chapter": 26,
+  "translation": "Ingcinga ezigodlayo kuwe uyawugcina uxolo, uxolo, kuba kuwe kuthenjelwe.",
+  "tokens": [
+    {
+      "surface": "יצר",
+      "gloss": "ingcinga"
+    },
+    {
+      "surface": "סמוך",
+      "gloss": "ezigodlayo kuwe"
+    },
+    {
+      "surface": "תצר",
+      "gloss": "uyawugcina"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "uxolo"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "uxolo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "בך",
+      "gloss": "kuwe"
+    },
+    {
+      "surface": "בטוח",
+      "gloss": "kuthenjelwe"
+    }
+  ],
+  "timestamp": "2026-09-18T11:18:42.064019489Z",
+  "model": "glm-5.3"
+}

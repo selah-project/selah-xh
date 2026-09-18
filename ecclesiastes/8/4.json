@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 8:4",
+  "book": "ecclesiastes",
+  "lang": "xh",
+  "chapter": 8,
+  "translation": "Apho kukho izwi lenkosi khona kukho ulawulo; ngubani onokuthi kuye: “Wenza ntoni?”",
+  "tokens": [
+    {
+      "surface": "באשר",
+      "gloss": "Apho... khona"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "izwi"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "lenkosi"
+    },
+    {
+      "surface": "שלטון",
+      "gloss": "ulawulo"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "ngubani"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "onokuthi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kuye"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ntoni"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "Wenza"
+    }
+  ],
+  "timestamp": "2026-09-18T16:25:52.962275400Z",
+  "model": "glm-5.3"
+}

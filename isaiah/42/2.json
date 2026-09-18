@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 42:2",
+  "book": "isaiah",
+  "lang": "xh",
+  "chapter": 42,
+  "translation": "Akayi kukhala, akanzi phakamisa, akayi kuvenza ukuba izwi lakhe livakalwe phasika.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "akayi"
+    },
+    {
+      "surface": "יצעק",
+      "gloss": "kukhala"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "akanzi"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "phakamisa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "akayi"
+    },
+    {
+      "surface": "ישמיע",
+      "gloss": "kuvenza ukuba livakalwe"
+    },
+    {
+      "surface": "בחוץ",
+      "gloss": "phasika"
+    },
+    {
+      "surface": "קולו",
+      "gloss": "izwi lakhe"
+    }
+  ],
+  "timestamp": "2026-09-18T11:33:32.161175635Z",
+  "model": "glm-5.3"
+}

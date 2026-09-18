@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 23:8",
+  "book": "numbers",
+  "lang": "xh",
+  "chapter": 23,
+  "translation": "Ndingaqhexesha njani? u-El akanqobi! Kananjalo, ndingatsala umsindo njani? uYahwe akazange atsale umsindo.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "njani"
+    },
+    {
+      "surface": "אקב",
+      "gloss": "ndingaqhexesha"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hayi"
+    },
+    {
+      "surface": "קבה",
+      "gloss": "uye waqhexesha"
+    },
+    {
+      "surface": "אל",
+      "gloss": "u-El"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "kananjalo njani"
+    },
+    {
+      "surface": "אזעם",
+      "gloss": "ndingatsala umsindo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hayi"
+    },
+    {
+      "surface": "זעם",
+      "gloss": "watsale umsindo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    }
+  ],
+  "timestamp": "2026-09-18T07:37:11.216904547Z",
+  "model": "glm-5.3"
+}

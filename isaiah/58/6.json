@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 58:6",
+  "book": "isaiah",
+  "lang": "xh",
+  "chapter": 58,
+  "translation": "Akunjalo na yilolu lulumbo endilukhethileyo: ukuvula izintsheko zobugwenxa, ukulula amaqhina esixhobo-sithwalo, nokusukela abatyaliweyo bengamahla, nangaluphi na uxande nizu kuluqhaqha?",
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "Akunjalo na"
+    },
+    {
+      "surface": "זה",
+      "gloss": "yilolu"
+    },
+    {
+      "surface": "צום",
+      "gloss": "lulumbo"
+    },
+    {
+      "surface": "אבחרהו",
+      "gloss": "endilukhethileyo"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "ukuvula"
+    },
+    {
+      "surface": "חרצבות",
+      "gloss": "izintsheko"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "zobugwenxa"
+    },
+    {
+      "surface": "התר",
+      "gloss": "ukulula"
+    },
+    {
+      "surface": "אגדות",
+      "gloss": "amaqhina"
+    },
+    {
+      "surface": "מוטה",
+      "gloss": "esixhobo-sithwalo"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "nokusukela"
+    },
+    {
+      "surface": "רצוצים",
+      "gloss": "abatyaliweyo"
+    },
+    {
+      "surface": "חפשים",
+      "gloss": "bengamahla"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "nangaluphi na"
+    },
+    {
+      "surface": "מוטה",
+      "gloss": "uxande"
+    },
+    {
+      "surface": "תנתקו",
+      "gloss": "nizu kuluqhaqha"
+    }
+  ],
+  "timestamp": "2026-09-18T11:48:14.469825160Z",
+  "model": "glm-5.3"
+}

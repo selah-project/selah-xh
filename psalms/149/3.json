@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 149:3",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 149,
+  "translation": "Makudumise igama lakhe ngesikhenketha; ngesityathanga nangomrhubhe makumculele uYahwe.",
+  "tokens": [
+    {
+      "surface": "יהללו",
+      "gloss": "makudumise"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "igama lakhe"
+    },
+    {
+      "surface": "במחול",
+      "gloss": "ngesikhenketha"
+    },
+    {
+      "surface": "בתף",
+      "gloss": "ngesityathanga"
+    },
+    {
+      "surface": "וכנור",
+      "gloss": "nangomrhubhe"
+    },
+    {
+      "surface": "יזמרו",
+      "gloss": "makumculele"
+    },
+    {
+      "surface": "לו",
+      "gloss": "uYahwe"
+    }
+  ],
+  "timestamp": "2026-09-18T17:45:53.658245078Z",
+  "model": "glm-5.3"
+}

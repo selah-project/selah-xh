@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 3:7",
+  "book": "1-samuel",
+  "lang": "xh",
+  "chapter": 3,
+  "translation": "USamuweli wayengakazi ⟨את⟩ uYahwe, kutsho kwangaphambili kokuba ilizwi likaYahwe lityhilwe kuye.",
+  "tokens": [
+    {
+      "surface": "ושמואל",
+      "gloss": "uSamuweli"
+    },
+    {
+      "surface": "טרם",
+      "gloss": "engakazi"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "wayengakazi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uYahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "וטרם",
+      "gloss": "kwangaphambili kokuba"
+    },
+    {
+      "surface": "יגלה",
+      "gloss": "lityhilwe"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kuye"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ilizwi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "likaYahwe"
+    }
+  ],
+  "timestamp": "2026-09-18T09:15:35.500157236Z",
+  "model": "glm-5.3"
+}

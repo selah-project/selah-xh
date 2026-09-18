@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 113:5",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 113,
+  "translation": "Ngubani ofana noYahwe uElohim wethu, lowo uzibekelayo phezulu ukuze ahlale ⟨phezulu⟩?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "ngubani"
+    },
+    {
+      "surface": "כיהוה",
+      "gloss": "ofana noYahwe"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "uElohim wethu"
+    },
+    {
+      "surface": "המגביהי",
+      "gloss": "lowo uzibekelayo phezulu"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "ukuze ahlale"
+    }
+  ],
+  "timestamp": "2026-09-18T15:19:34.977474726Z",
+  "model": "glm-5.3"
+}

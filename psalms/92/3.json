@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 92:3",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 92,
+  "translation": "Ukuchaza ikhesedi yakho ekuseni, nenokholo yakho kwiiyure zasebusuku.",
+  "tokens": [
+    {
+      "surface": "להגיד",
+      "gloss": "ukuchaza"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "ekuseni"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "ikhesedi yakho"
+    },
+    {
+      "surface": "ואמונתך",
+      "gloss": "nenokholo yakho"
+    },
+    {
+      "surface": "בלילות",
+      "gloss": "kwiiyure zasebusuku"
+    }
+  ],
+  "timestamp": "2026-09-18T15:11:44.829439047Z",
+  "model": "glm-5.3"
+}

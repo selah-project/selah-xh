@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 1:10",
+  "book": "deuteronomy",
+  "lang": "xh",
+  "chapter": 1,
+  "translation": "uYahwe uElohim wenu waninanda ⟨אתכם⟩, yaye nango nangoku njengetykweni zezulu ngobuninzi.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "uElohim wenu"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "waninanda"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨אתכם⟩",
+      "marks": "ninanda"
+    },
+    {
+      "surface": "והנכם",
+      "gloss": "yaye nango nangoku"
+    },
+    {
+      "surface": "היום",
+      "gloss": "namhlanje\/nangoku"
+    },
+    {
+      "surface": "ככוכבי",
+      "gloss": "njengetykweni"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "zezulu"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "ngobuninzi"
+    }
+  ],
+  "timestamp": "2026-09-18T07:50:53.319230992Z",
+  "model": "glm-5.3"
+}

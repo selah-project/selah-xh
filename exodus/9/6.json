@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 9:6",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 9,
+  "translation": "UYahwe wakwenza ⟨את⟩ eli lizwi ngelanga elizayo, yafa yonke imfuywane yaseMitsrayim; kwaye kwimfuywane yabantwana bakaSirayeli hayi yafa nanye.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "wakwenza"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "eli lizwi"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "eli lizwi"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "eli"
+    },
+    {
+      "surface": "ממחרת",
+      "gloss": "ngelanga elizayo"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "yafa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yonke"
+    },
+    {
+      "surface": "מקנה",
+      "gloss": "imfuywane"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "yaseMitsrayim"
+    },
+    {
+      "surface": "וממקנה",
+      "gloss": "kwaye kwimfuywane"
+    },
+    {
+      "surface": "בני",
+      "gloss": "yabantwana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "bakaSirayeli"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hayi"
+    },
+    {
+      "surface": "מת",
+      "gloss": "yafa"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "nanye"
+    }
+  ],
+  "timestamp": "2026-09-18T05:57:25.038395588Z",
+  "model": "glm-5.3"
+}

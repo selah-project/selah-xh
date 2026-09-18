@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 43:11",
+  "book": "jeremiah",
+  "lang": "xh",
+  "chapter": 43,
+  "translation": "Uza kufika, asule ⟨את⟩ ilizwe laseMitsrayim: owayesingela ukufa, kufa; owayesingela ubuthiya, ubuthiya; owayesingela inkemba, yinkemba.",
+  "tokens": [
+    {
+      "surface": "ובאה",
+      "gloss": "Uza kufika"
+    },
+    {
+      "surface": "והכה",
+      "gloss": "asule"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ilizwe laseMitsrayim"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ilizwe"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "laseMitsrayim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "owo"
+    },
+    {
+      "surface": "למות",
+      "gloss": "kukufa"
+    },
+    {
+      "surface": "למות",
+      "gloss": "kufa"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "owo"
+    },
+    {
+      "surface": "לשבי",
+      "gloss": "kubuthiya"
+    },
+    {
+      "surface": "לשבי",
+      "gloss": "ubuthiya"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "owo"
+    },
+    {
+      "surface": "לחרב",
+      "gloss": "kunkemba"
+    },
+    {
+      "surface": "לחרב",
+      "gloss": "yinkemba"
+    }
+  ],
+  "timestamp": "2026-09-18T12:36:27.474699773Z",
+  "model": "glm-5.3"
+}

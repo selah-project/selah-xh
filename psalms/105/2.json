@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 105:2",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 105,
+  "translation": "Culani kuye, dumani-ni kuye; caphulani ngezonakaliso zonke zakhe.",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "culani"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kuye"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "dumani-ni (culelani ngesixhobo)"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kuye"
+    },
+    {
+      "surface": "שיחו",
+      "gloss": "caphulani"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ngezonakaliso zonke"
+    },
+    {
+      "surface": "נפלאותיו",
+      "gloss": "zakhe"
+    }
+  ],
+  "timestamp": "2026-09-18T15:16:42.395273569Z",
+  "model": "glm-5.3"
+}

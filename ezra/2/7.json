@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezra 2:7",
+  "book": "ezra",
+  "lang": "xh",
+  "chapter": 2,
+  "translation": "Amakwa-u-Eylamu: iwaka elinamakhulu amabini anamashumi amahlanu anamane.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "amakwa-"
+    },
+    {
+      "surface": "עילם",
+      "gloss": "u-Eylamu"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "iwaka elinamakhulu amabini"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "elinamakhulu amabini"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "anamashumi amahlanu"
+    },
+    {
+      "surface": "וארבעה",
+      "gloss": "anamane"
+    }
+  ],
+  "timestamp": "2026-09-18T16:38:10.144975287Z",
+  "model": "glm-5.3"
+}

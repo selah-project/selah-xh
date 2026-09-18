@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 7:3",
+  "book": "leviticus",
+  "lang": "xh",
+  "chapter": 7,
+  "translation": "Kananjalo ⟨את⟩ onke amafutha ayo uza kuwaleta kuwo, ⟨את⟩ umsila wamafutha namarha amafutha amboza ⟨את⟩ izitho zakwangaphakathi.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "kananjalo ⟨את⟩",
+      "marks": "onke amafutha ayo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "onke"
+    },
+    {
+      "surface": "חלבו",
+      "gloss": "amafutha ayo"
+    },
+    {
+      "surface": "יקריב",
+      "gloss": "uza kuwaleta"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "kuwo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umsila wamafutha"
+    },
+    {
+      "surface": "האליה",
+      "gloss": "umsila wamafutha"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "namarha ⟨את⟩",
+      "marks": "amafutha amboza izitho zakwangaphakathi"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "amafutha"
+    },
+    {
+      "surface": "המכסה",
+      "gloss": "amboza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izitho zakwangaphakathi"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "izitho zakwangaphakathi"
+    }
+  ],
+  "timestamp": "2026-09-18T06:37:05.749466221Z",
+  "model": "glm-5.3"
+}

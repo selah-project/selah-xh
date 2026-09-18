@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 2:2",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 2,
+  "translation": "Yakhulelwa lowo mfazi, wazala unyana; wambona ⟨אתו⟩ ukuba ulungile yena, wamzifihla iinyanga ezintathu.",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "Yakhulelwa"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "lowo mfazi"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "wazala"
+    },
+    {
+      "surface": "בן",
+      "gloss": "unyana"
+    },
+    {
+      "surface": "ותרא",
+      "gloss": "wambona"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "unyana"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ukuba"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ulungile"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yena"
+    },
+    {
+      "surface": "ותצפנהו",
+      "gloss": "wamzifihla"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "ezintathu"
+    },
+    {
+      "surface": "ירחים",
+      "gloss": "iinyanga"
+    }
+  ],
+  "timestamp": "2026-09-18T05:49:52.250974150Z",
+  "model": "glm-5.3"
+}

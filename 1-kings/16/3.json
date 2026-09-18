@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 16:3",
+  "book": "1-kings",
+  "lang": "xh",
+  "chapter": 16,
+  "translation": "Yabona, mna ndiza kutshathtela umva kaBaasha nomva wendlu yakhe yonke, ndiza kunika ⟨את⟩ indlu yakho ibe njengendlu kaYarobham unyana kaNevat.",
+  "tokens": [
+    {
+      "surface": "הנני",
+      "gloss": "yabona, mna"
+    },
+    {
+      "surface": "מבעיר",
+      "gloss": "ndiza kutshathtela"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "umva"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "kaBaasha"
+    },
+    {
+      "surface": "ואחרי",
+      "gloss": "nomva"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "wendlu yakhe"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "ndiza kunika"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "indlu yakho"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "indlu yakho"
+    },
+    {
+      "surface": "כבית",
+      "gloss": "njengendlu"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "kaYarobham"
+    },
+    {
+      "surface": "בן",
+      "gloss": "unyana"
+    },
+    {
+      "surface": "נבט",
+      "gloss": "kaNevat"
+    }
+  ],
+  "timestamp": "2026-09-18T10:30:01.755287249Z",
+  "model": "glm-5.3"
+}

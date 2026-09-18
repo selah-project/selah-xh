@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 1:15",
+  "book": "job",
+  "lang": "xh",
+  "chapter": 1,
+  "translation": "iSheva yaza yawa phezu kwazo, yaza yathabatha ⟨את⟩ ooncedakambe, basalabo ababulawa ngommese onamandla; mna ndiza kuzela ndedwa ukuzakunceda.",
+  "tokens": [
+    {
+      "surface": "ותפל",
+      "gloss": "yaza yawa phezu kwazo"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "iSheva"
+    },
+    {
+      "surface": "ותקחם",
+      "gloss": "yaza yathabatha"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ooncedakambe"
+    },
+    {
+      "surface": "הנערים",
+      "gloss": "ooncedakambe"
+    },
+    {
+      "surface": "הכו",
+      "gloss": "basalabo"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "ngommese"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "onamandla"
+    },
+    {
+      "surface": "ואמלטה",
+      "gloss": "ndiza kuzela"
+    },
+    {
+      "surface": "רק",
+      "gloss": " kuphela"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mna"
+    },
+    {
+      "surface": "לבדי",
+      "gloss": "ndedwa"
+    },
+    {
+      "surface": "להגיד",
+      "gloss": "ukuzakunceda"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kuwe"
+    }
+  ],
+  "timestamp": "2026-09-18T16:00:17.820776125Z",
+  "model": "glm-5.3"
+}

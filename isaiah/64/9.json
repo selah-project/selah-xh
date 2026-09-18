@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 64:9",
+  "book": "isaiah",
+  "lang": "xh",
+  "chapter": 64,
+  "translation": "Iiidolophu ez-i-ngcwele zakho zaba ngentlango; iZiyoni yaba ngentlango; iYerushalayimi yaba yindawo etshatayalisweyo.",
+  "tokens": [
+    {
+      "surface": "ערי",
+      "gloss": "Iiidolophu"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "ez-i-ngcwele zakho"
+    },
+    {
+      "surface": "היו",
+      "gloss": "zaba"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "ngentlango"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "iZiyoni"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "ngentlango"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "yaba"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "iYerushalayimi"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "yindawo etshatayalisweyo"
+    }
+  ],
+  "timestamp": "2026-09-18T11:49:24.058613021Z",
+  "model": "glm-5.3"
+}

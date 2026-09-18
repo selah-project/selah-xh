@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 27:10",
+  "book": "deuteronomy",
+  "lang": "xh",
+  "chapter": 27,
+  "translation": "Uza kuliva ilizwi likaYahwe uElohim wakho, uza kukwenza ⟨את⟩ imiyalelo yakhe no⟨את⟩ imithetho yakhe endikuyalelayo namhlanje.",
+  "tokens": [
+    {
+      "surface": "ושמעת",
+      "gloss": "Uza kuliva"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "ilizwi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "likaYahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "uElohim wakho"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "uza kukwenza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "imiyalelo yakhe"
+    },
+    {
+      "surface": "מצותו",
+      "gloss": "imiyalelo yakhe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "no⟨את⟩",
+      "marks": "imithetho yakhe"
+    },
+    {
+      "surface": "חקיו",
+      "gloss": "imithetho yakhe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "endikuyalelayo"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ndi"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "yalela"
+    },
+    {
+      "surface": "היום",
+      "gloss": "namhlanje"
+    }
+  ],
+  "timestamp": "2026-09-18T08:15:14.923155448Z",
+  "model": "glm-5.3"
+}

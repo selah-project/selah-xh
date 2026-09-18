@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 31:12",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 31,
+  "translation": "Ndibe sisidenge phakathi kwazo zonke iintshabalalisi zam, nasekukhohliwe emzini wam kakhulu, nam ingcinezelo kubantu abazaziyo; ababonayo endleleni babethabatha amehlo abe kude nami.",
+  "tokens": [
+    {
+      "surface": "מכל",
+      "gloss": "phakathi kwazo zonke"
+    },
+    {
+      "surface": "צררי",
+      "gloss": "iintshabalalisi zam"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "Ndibe"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "sisidenge"
+    },
+    {
+      "surface": "ולשכני",
+      "gloss": "nabamelwane bam"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "kakhulu"
+    },
+    {
+      "surface": "ופחד",
+      "gloss": "nam ingcinezelo"
+    },
+    {
+      "surface": "למידעי",
+      "gloss": "kubantu abazaziyo"
+    },
+    {
+      "surface": "ראי",
+      "gloss": "ababonayo"
+    },
+    {
+      "surface": "בחוץ",
+      "gloss": "endleleni"
+    },
+    {
+      "surface": "נדדו",
+      "gloss": "babethabatha amehlo abe kude"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "nami"
+    }
+  ],
+  "timestamp": "2026-09-18T14:37:40.084888027Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 22:1",
+  "book": "genesis",
+  "lang": "xh",
+  "chapter": 22,
+  "translation": "Kwenzeka emva kwezi ndaba, uElohim wamvavanya ⟨את⟩ u-Avraham, wathi kuye: “Avraham!” Wathi: “Ndilapha.”",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Kwenzeka"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "emva"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "kwezi ndaba"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ezi"
+    },
+    {
+      "surface": "והאלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "נסה",
+      "gloss": "wamvavanya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "u-Avraham"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "u-Avraham"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kuye"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "Ndilapha"
+    }
+  ],
+  "timestamp": "2026-09-18T05:21:04.892819064Z",
+  "model": "glm-5.3"
+}

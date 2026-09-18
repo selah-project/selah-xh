@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 48:21",
+  "book": "isaiah",
+  "lang": "xh",
+  "chapter": 48,
+  "translation": "Yabanye bazanga benomdla emarhambeni abehambele apha; wamanza obulal'utsana olunzima waba necwaka kum, watyhalela intsikelelo, watyhalela intsikelelo, watyhalela intsikelelo; ihlathi lityabuka, amanza atyhalela.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "yabanye bazanga"
+    },
+    {
+      "surface": "צמאו",
+      "gloss": "benomdla"
+    },
+    {
+      "surface": "בחרבות",
+      "gloss": "emarhambeni"
+    },
+    {
+      "surface": "הוליכם",
+      "gloss": "abehambele apha"
+    },
+    {
+      "surface": "מים",
+      "gloss": "wamanza"
+    },
+    {
+      "surface": "מצור",
+      "gloss": "obulal'utsana olunzima"
+    },
+    {
+      "surface": "הזיל",
+      "gloss": "watyhalela"
+    },
+    {
+      "surface": "למו",
+      "gloss": "kum"
+    },
+    {
+      "surface": "ויבקע",
+      "gloss": "watyhalela intsikelelo"
+    },
+    {
+      "surface": "צור",
+      "gloss": "ihlathi"
+    },
+    {
+      "surface": "ויזבו",
+      "gloss": "lityabuka"
+    },
+    {
+      "surface": "מים",
+      "gloss": "amanza atyhalela"
+    }
+  ],
+  "timestamp": "2026-09-18T11:33:50.889876978Z",
+  "model": "glm-5.3"
+}

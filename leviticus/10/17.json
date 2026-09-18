@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 10:17",
+  "book": "leviticus",
+  "lang": "xh",
+  "chapter": 10,
+  "translation": "Kutheni anidlanga ⟨את⟩ umnikelo wesono endaweni engcwele, kuba ⟨ingcwele engcweleyo⟩ yona, yaye ⟨את⟩ waninika yona ukuba nithwale ⟨את⟩ isono lentlangano, ukwenza isibuyelelwano nabo phambi koYahwe?",
+  "tokens": [
+    {
+      "surface": "מדוע",
+      "gloss": "Kutheni"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hayi (ana-)"
+    },
+    {
+      "surface": "אכלתם",
+      "gloss": "nidlile"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umnikelo wesono"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "umnikelo wesono"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "endaweni"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "engcwele"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "ingcwele"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "engcweleyo"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yona"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "⟨את⟩ yona",
+      "marks": "waninika yona"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "waninika"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "nina"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "ukuba nithwale"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isono lentlangano"
+    },
+    {
+      "surface": "עון",
+      "gloss": "isono"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "lentlangano"
+    },
+    {
+      "surface": "לכפר",
+      "gloss": "ukwenza isibuyelelwano"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "nabo"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "phambi kwa-"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    }
+  ],
+  "timestamp": "2026-09-18T06:45:13.554740115Z",
+  "model": "glm-5.3"
+}

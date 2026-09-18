@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 10:11",
+  "book": "1-chronicles",
+  "lang": "xh",
+  "chapter": 10,
+  "translation": "Zonke iindawo zaseYabeshi-Gileadi zamva ⟨את⟩ konke aba ukwenza amaPelishtim kuShawuli.",
+  "tokens": [
+    {
+      "surface": "וישמעו",
+      "gloss": "zamva"
+    },
+    {
+      "surface": "כל",
+      "gloss": "Zonke"
+    },
+    {
+      "surface": "יביש",
+      "gloss": "iindawo zaseYabeshi"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "-Gileadi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "konke"
+    },
+    {
+      "surface": "כל",
+      "gloss": "konke"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aba"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ukwenza"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "amaPelishtim"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "kuShawuli"
+    }
+  ],
+  "timestamp": "2026-09-18T16:53:52.434861809Z",
+  "model": "glm-5.3"
+}

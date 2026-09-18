@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-samuel 3:11",
+  "book": "2-samuel",
+  "lang": "xh",
+  "chapter": 3,
+  "translation": "Yaye wayengasayi kumphendula u-Abner lizwi, ngenxa yokoyika kwakhe yena.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "yaye...engasa"
+    },
+    {
+      "surface": "יכל",
+      "gloss": "-yi"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "-sa"
+    },
+    {
+      "surface": "להשיב",
+      "gloss": "kumphendula"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "u-Abner"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "u-Abner"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "lizwi"
+    },
+    {
+      "surface": "מיראתו",
+      "gloss": "ngenxa yokoyika kwakhe"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "yena"
+    }
+  ],
+  "timestamp": "2026-09-18T09:44:31.545249584Z",
+  "model": "glm-5.3"
+}

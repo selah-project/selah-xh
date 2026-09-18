@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 50:14",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 50,
+  "translation": "Hlatyela uElohim ⟨isiphumbo⟩ sombulelo, uze uzalise ku-Elyoni iminqophiso yakho.",
+  "tokens": [
+    {
+      "surface": "זבח",
+      "gloss": "hlatyela"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "תודה",
+      "gloss": "⟨isiphumbo⟩ sombulelo"
+    },
+    {
+      "surface": "ושלם",
+      "gloss": "uze uzalise"
+    },
+    {
+      "surface": "לעליון",
+      "gloss": "ku-Elyoni"
+    },
+    {
+      "surface": "נדריך",
+      "gloss": "iminqophiso yakho"
+    }
+  ],
+  "timestamp": "2026-09-18T14:48:24.352520777Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,39 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 1:6",
+  "book": "leviticus",
+  "lang": "xh",
+  "chapter": 1,
+  "translation": "Aze akhalule ⟨את⟩ isigcawu sokutshiswa, aze asike iingceke ngokweengceke zayo.",
+  "tokens": [
+    {
+      "surface": "והפשיט",
+      "gloss": "akhalule ulusu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isigcawu sokutshiswa"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "isigcawu sokutshiswa"
+    },
+    {
+      "surface": "ונתח",
+      "gloss": "asike"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "iingceke"
+    },
+    {
+      "surface": "לנתחיה",
+      "gloss": "ngokweengceke zayo"
+    }
+  ],
+  "timestamp": "2026-09-18T06:33:56.975128242Z",
+  "model": "glm-5.3"
+}

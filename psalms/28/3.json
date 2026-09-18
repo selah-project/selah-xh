@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 28:3",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 28,
+  "translation": "Musa ukunditsala kunye nababi, kunye nabenzi bobubi, abathetho uxolo kubahlobo babo, ⟨kodwa⟩ ububi ezintliziyweni zabo.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Musa"
+    },
+    {
+      "surface": "תמשכני",
+      "gloss": "ukunditsala"
+    },
+    {
+      "surface": "עם",
+      "gloss": "kunye na-"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ababi"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "kunye na-"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "abenzi"
+    },
+    {
+      "surface": "און",
+      "gloss": "bobubi"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "abathetho"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "uxolo"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "רעיהם",
+      "gloss": "bahlobo babo"
+    },
+    {
+      "surface": "ורעה",
+      "gloss": "ububi"
+    },
+    {
+      "surface": "בלבבם",
+      "gloss": "ezintliziyweni zabo"
+    }
+  ],
+  "timestamp": "2026-09-18T14:39:28.364634743Z",
+  "model": "glm-5.3"
+}

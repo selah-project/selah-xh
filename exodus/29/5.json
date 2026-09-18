@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 29:5",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 29,
+  "translation": "Uza kukuthabatha iingubo, uza kumgqokisa u-Aharon ⟨את⟩ ihempe, ⟨את⟩ ingubo ephezulu ye-efodi, ⟨את⟩ i-efodi, ⟨את⟩ isifuba, uza kumbophelela ngomtya ojiniweyo we-efodi.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "uza kukuthabatha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iingubo"
+    },
+    {
+      "surface": "הבגדים",
+      "gloss": "iingubo"
+    },
+    {
+      "surface": "והלבשת",
+      "gloss": "uza kumgqokisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "u-Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "u-Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ihempe"
+    },
+    {
+      "surface": "הכתנת",
+      "gloss": "ihempe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ingubo ephezulu ye-efodi"
+    },
+    {
+      "surface": "מעיל",
+      "gloss": "ingubo ephezulu"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "ye-efodi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "i-efodi"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "i-efodi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "isifuba"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "isifuba"
+    },
+    {
+      "surface": "ואפדת",
+      "gloss": "uza kumbophelela"
+    },
+    {
+      "surface": "לו",
+      "gloss": "-ye"
+    },
+    {
+      "surface": "בחשב",
+      "gloss": "ngomtya ojiniweyo"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "we-efodi"
+    }
+  ],
+  "timestamp": "2026-09-18T17:22:00.235471364Z",
+  "model": "glm-5.3"
+}

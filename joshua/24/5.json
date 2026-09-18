@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "joshua 24:5",
+  "book": "joshua",
+  "lang": "xh",
+  "chapter": 24,
+  "translation": "Ndathumela uMoshe ⟨את⟩ no-Aharoni ⟨ואת⟩, ndaza ndazihlasela iMitsrayim ⟨את⟩ njengoko ndakwenza phakathi kwayo; emva koko ndanikhuphela.",
+  "tokens": [
+    {
+      "surface": "ואשלח",
+      "gloss": "ndathumela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uMoshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "uMoshe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨ואת⟩",
+      "marks": "no-Aharoni"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "no-Aharoni"
+    },
+    {
+      "surface": "ואגף",
+      "gloss": "ndazihlasela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iMitsrayim"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "iMitsrayim"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "njengoko"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "ndakwenza"
+    },
+    {
+      "surface": "בקרבו",
+      "gloss": "phakathi kwayo"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "emva koko"
+    },
+    {
+      "surface": "הוצאתי",
+      "gloss": "ndanikhuphela"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ nina"
+    }
+  ],
+  "timestamp": "2026-09-18T08:48:37.513594610Z",
+  "model": "glm-5.3"
+}

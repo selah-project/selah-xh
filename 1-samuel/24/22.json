@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-samuel 24:22",
+  "book": "1-samuel",
+  "lang": "xh",
+  "chapter": 24,
+  "translation": "Ngoko ke ngoku, yifungela ngoYahwe ukuba awusi kucima ⟨את⟩ imbewu yam emva kwam, nangakumbi awusi kutshabalalisa ⟨את⟩ igama lam endlwini kabawo wam.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Ngoko ke ngoku"
+    },
+    {
+      "surface": "השבעה",
+      "gloss": "yifungela"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kum"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "ngoYahwe"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ukuba"
+    },
+    {
+      "surface": "תכרית",
+      "gloss": "awusi kucima"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "imbewu yam"
+    },
+    {
+      "surface": "זרעי",
+      "gloss": "imbewu yam"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "emva kwam"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "nangakumbi"
+    },
+    {
+      "surface": "תשמיד",
+      "gloss": "awusi kutshabalalisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "igama lam"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "igama lam"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "endlwini"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "kabawo wam"
+    }
+  ],
+  "timestamp": "2026-09-18T09:33:44.858761845Z",
+  "model": "glm-5.3"
+}

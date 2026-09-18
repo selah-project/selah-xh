@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 13:10",
+  "book": "deuteronomy",
+  "lang": "xh",
+  "chapter": 13,
+  "translation": "kuba uza kumbulala ngenene; isandla sakho siza kuba kokokuqala ngaye ukumbulala, yaye isandla sonke isizwe semva koko.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "umbulala"
+    },
+    {
+      "surface": "תהרגנו",
+      "gloss": "uza kumbulala ngenene"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "isandla sakho"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "siza kuba"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ngaye"
+    },
+    {
+      "surface": "בראשונה",
+      "gloss": "kokokuqala"
+    },
+    {
+      "surface": "להמיתו",
+      "gloss": "ukumbulala"
+    },
+    {
+      "surface": "ויד",
+      "gloss": "yaye isandla"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sonke"
+    },
+    {
+      "surface": "העם",
+      "gloss": "isizwe"
+    },
+    {
+      "surface": "באחרנה",
+      "gloss": "emva koko"
+    }
+  ],
+  "timestamp": "2026-09-18T08:05:40.859270017Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 22:20",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 22,
+  "translation": "Isihambi musa ukulityazisa, ungazincinezela; kuba nina nahamba njengozihambi elizweni laseMitsrayim.",
+  "tokens": [
+    {
+      "surface": "וגר",
+      "gloss": "isihambi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "musa"
+    },
+    {
+      "surface": "תונה",
+      "gloss": "ukulityazisa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ungazin-"
+    },
+    {
+      "surface": "תלחצנו",
+      "gloss": "cinezela"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "גרים",
+      "gloss": "njengozihambi"
+    },
+    {
+      "surface": "הייתם",
+      "gloss": "naba"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "elizweni"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "laseMitsrayim"
+    }
+  ],
+  "timestamp": "2026-09-18T06:09:35.047523972Z",
+  "model": "glm-5.3"
+}

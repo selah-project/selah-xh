@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "joshua 11:9",
+  "book": "joshua",
+  "lang": "xh",
+  "chapter": 11,
+  "translation": "Wenza uYehoshuwa kubo njengoko wamtsho uYahwe: ⟨את⟩ iihhashi zabo wazinqumla imithambo, ⟨את⟩ iinqwelo zabo wazitshisa ngomlilo.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "wenza"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kubo"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "uYehoshuwa"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "njengoko"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "wamtsho"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kuye"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iihashi zabo"
+    },
+    {
+      "surface": "סוסיהם",
+      "gloss": "iihashi zabo"
+    },
+    {
+      "surface": "עקר",
+      "gloss": "wazinqumla imithambo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "iinqwelo zabo"
+    },
+    {
+      "surface": "מרכבתיהם",
+      "gloss": "iinqwelo zabo"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "wazitshisa"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ngomlilo"
+    }
+  ],
+  "timestamp": "2026-09-18T08:37:32.035927525Z",
+  "model": "glm-5.3"
+}

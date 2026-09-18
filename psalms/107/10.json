@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 107:10",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 107,
+  "translation": "Ahlali ekumnyama nasekuthuneni kwokufa, ababoshw' ubunzima nangentsimbi.",
+  "tokens": [
+    {
+      "surface": "ישבי",
+      "gloss": "ahlali"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "ekumnyama"
+    },
+    {
+      "surface": "וצלמות",
+      "gloss": "nasekuthuneni kwokufa"
+    },
+    {
+      "surface": "אסירי",
+      "gloss": "ababoshw'"
+    },
+    {
+      "surface": "עני",
+      "gloss": "ubunzima"
+    },
+    {
+      "surface": "וברזל",
+      "gloss": "nangentsimbi"
+    }
+  ],
+  "timestamp": "2026-09-18T15:16:53.669085733Z",
+  "model": "glm-5.3"
+}

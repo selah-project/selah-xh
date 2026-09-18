@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 7:1",
+  "book": "ecclesiastes",
+  "lang": "xh",
+  "chapter": 7,
+  "translation": "Igama elilungileyo lingaphezu kooyile olungileyo, nangesuku lokufa lingaphezu kosuku lokuzalwa.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "lingaphezu"
+    },
+    {
+      "surface": "שם",
+      "gloss": "igama elilungileyo"
+    },
+    {
+      "surface": "משמן",
+      "gloss": "ooyile olungileyo"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "olungileyo"
+    },
+    {
+      "surface": "ויום",
+      "gloss": "nangesuku"
+    },
+    {
+      "surface": "המות",
+      "gloss": "lokufa"
+    },
+    {
+      "surface": "מיום",
+      "gloss": "lingaphezu kosuku"
+    },
+    {
+      "surface": "הולדו",
+      "gloss": "lokuzalwa"
+    }
+  ],
+  "timestamp": "2026-09-18T16:26:09.139142094Z",
+  "model": "glm-5.3"
+}

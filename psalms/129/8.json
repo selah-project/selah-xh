@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 129:8",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 129,
+  "translation": "Kananjalo abadlulayo abathanga bathi: “Isibheno sikaYahwe mali siba kuni; sibulele ⟨את⟩ ngeGama likaYahwe.”",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Kananjalo...abathanga"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "bathanga bathi"
+    },
+    {
+      "surface": "העברים",
+      "gloss": "abadlulayo"
+    },
+    {
+      "surface": "ברכת",
+      "gloss": "isibheno"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ukaYahwe"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "mali siba kuni"
+    },
+    {
+      "surface": "ברכנו",
+      "gloss": "sibulele"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "uni (abazithiyayo iTsiyoni)"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "ngeGama"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "likaYahwe"
+    }
+  ],
+  "timestamp": "2026-09-18T15:27:34.882091945Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 93:3",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 93,
+  "translation": "Amalambo aphefumlela, yena uYahwe, amalambo aphefumlela izandi zawo, amalambo aza kuphefumla amazaqobo awo.",
+  "tokens": [
+    {
+      "surface": "נשאו",
+      "gloss": "aphefumlela"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "amalambo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "yena uYahwe"
+    },
+    {
+      "surface": "נשאו",
+      "gloss": "aphefumlela"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "amalambo"
+    },
+    {
+      "surface": "קולם",
+      "gloss": "izandi zawo"
+    },
+    {
+      "surface": "ישאו",
+      "gloss": "aza kuphefumla"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "amalambo"
+    },
+    {
+      "surface": "דכים",
+      "gloss": "amazaqobo awo"
+    }
+  ],
+  "timestamp": "2026-09-18T15:12:04.377098637Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 23:25",
+  "book": "proverbs",
+  "lang": "xh",
+  "chapter": 23,
+  "translation": "Ukuba uyabuya ubawo wakho kunye nomama wakho, yaye makuvuyise lowo wakuzalayo.",
+  "tokens": [
+    {
+      "surface": "ישמח",
+      "gloss": "makudume"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "ubawo wakho"
+    },
+    {
+      "surface": "ואמך",
+      "gloss": "kunye nomama wakho"
+    },
+    {
+      "surface": "ותגל",
+      "gloss": "makuvuyise"
+    },
+    {
+      "surface": "יולדתך",
+      "gloss": "lowo wakuzalayo"
+    }
+  ],
+  "timestamp": "2026-09-18T15:52:45.169935317Z",
+  "model": "glm-5.3"
+}

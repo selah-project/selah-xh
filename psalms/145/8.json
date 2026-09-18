@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 145:8",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 145,
+  "translation": "UneNceba nesihawu uYahwe, ungalali msindo ngokukhawuleza, unobukhulu beekhesedi.",
+  "tokens": [
+    {
+      "surface": "חנון",
+      "gloss": "uneNceba"
+    },
+    {
+      "surface": "ורחום",
+      "gloss": "nesihawu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "ungalali msindo ngokukhawuleza"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "⟨imithwebo⟩"
+    },
+    {
+      "surface": "וגדל",
+      "gloss": "unobukhulu"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "beekhesedi"
+    }
+  ],
+  "timestamp": "2026-09-18T17:45:54.183015998Z",
+  "model": "glm-5.3"
+}

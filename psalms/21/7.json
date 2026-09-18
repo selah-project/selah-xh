@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 21:7",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 21,
+  "translation": "Kuba wamenza waba sisibingelelo esingunaphakade; wamvuyisa ngolonwabo ⟨את⟩ ebusweni bakho.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "תשיתהו",
+      "gloss": "wamenza waba"
+    },
+    {
+      "surface": "ברכות",
+      "gloss": "sisibingelelo"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "esingunaphakade"
+    },
+    {
+      "surface": "תחדהו",
+      "gloss": "wamvuyisa"
+    },
+    {
+      "surface": "בשמחה",
+      "gloss": "ngolonwabo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ebusweni bakho"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ebusweni bakho"
+    }
+  ],
+  "timestamp": "2026-09-18T14:35:09.304598156Z",
+  "model": "glm-5.3"
+}

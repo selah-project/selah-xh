@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 40:1",
+  "book": "isaiah",
+  "lang": "xh",
+  "chapter": 40,
+  "translation": "Fuduzani, fuduzani abantu bakam,” uthi uElohim wenu.",
+  "tokens": [
+    {
+      "surface": "נחמו",
+      "gloss": "fuduzani"
+    },
+    {
+      "surface": "נחמו",
+      "gloss": "fuduzani"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "abantu bakam"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "uthi"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "uElohim wenu"
+    }
+  ],
+  "timestamp": "2026-09-18T11:32:09.154751655Z",
+  "model": "glm-5.3"
+}

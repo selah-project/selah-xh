@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "judges 11:27",
+  "book": "judges",
+  "lang": "xh",
+  "chapter": 11,
+  "translation": "Mna ke andingcolisanga kuwe, kodwa wena uyenzela bubi ⟨את⟩ ndim, ngokulwa nam: uYahwe, uMgwebo, mawugwebe namhlanje phakathi kwabantwana bakaYisra'eli nabantwana bakaAmoni.",
+  "tokens": [
+    {
+      "surface": "ואנכי",
+      "gloss": "mna ke"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ange-"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "ndingcolisanga"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kuwe"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "kodwa wena"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "uyenzela"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ ndim",
+      "marks": "ndim"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "bubi"
+    },
+    {
+      "surface": "להלחם",
+      "gloss": "ngokulwa"
+    },
+    {
+      "surface": "בי",
+      "gloss": "nam"
+    },
+    {
+      "surface": "ישפט",
+      "gloss": "mawugwebe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "השפט",
+      "gloss": "uMgwebo"
+    },
+    {
+      "surface": "היום",
+      "gloss": "namhlanje"
+    },
+    {
+      "surface": "בין",
+      "gloss": "phakathi kwa-"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abantwana baka-"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'eli"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "naphakathi kwa-"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abantwana baka-"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Amoni"
+    }
+  ],
+  "timestamp": "2026-09-18T09:03:19.850846238Z",
+  "model": "glm-5.3"
+}

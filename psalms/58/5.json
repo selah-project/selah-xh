@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 58:5",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 58,
+  "translation": "Ubuthi babo bunjengebuthi benyoka, njengesibhungu esingevayo esivalela indlebe yaso.",
+  "tokens": [
+    {
+      "surface": "חמת",
+      "gloss": "ubuthi"
+    },
+    {
+      "surface": "למו",
+      "gloss": "babo"
+    },
+    {
+      "surface": "כדמות",
+      "gloss": "njenge"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "ubuthi"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "benyoka"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "njenge"
+    },
+    {
+      "surface": "פתן",
+      "gloss": "isibhungu"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "esingevayo"
+    },
+    {
+      "surface": "יאטם",
+      "gloss": "esivalela"
+    },
+    {
+      "surface": "אזנו",
+      "gloss": "indlebe yaso"
+    }
+  ],
+  "timestamp": "2026-09-18T17:43:50.734603687Z",
+  "model": "glm-5.3"
+}

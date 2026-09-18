@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 37:14",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 37,
+  "translation": "Ngasekhona lomda kwakukho iindandatho, ibe ngaziindawo zezitshixo zokuthwala ⟨את⟩ itafile.",
+  "tokens": [
+    {
+      "surface": "לעמת",
+      "gloss": "ngasekhona lom-"
+    },
+    {
+      "surface": "המסגרת",
+      "gloss": "umda"
+    },
+    {
+      "surface": "היו",
+      "gloss": "kwakukho"
+    },
+    {
+      "surface": "הטבעת",
+      "gloss": "iindandatho"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "izindawo"
+    },
+    {
+      "surface": "לבדים",
+      "gloss": "zezitshixo"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "zokuthwala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "itafile"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "itafile"
+    }
+  ],
+  "timestamp": "2026-09-18T06:29:18.187873708Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 19:8",
+  "book": "1-samuel",
+  "lang": "xh",
+  "chapter": 19,
+  "translation": "Imfazwe yongezelela kwakhona, uDavide waphuma, walwa neeFilisthi, wababetha ubunzima obukhulu, bazibalekela phambi kwakhe.",
+  "tokens": [
+    {
+      "surface": "ותוסף",
+      "gloss": "yongezelela kwakhona"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "imfazwe"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "⟨yenzeka⟩"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "waphuma"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "uDavide"
+    },
+    {
+      "surface": "וילחם",
+      "gloss": "walwa"
+    },
+    {
+      "surface": "בפלשתים",
+      "gloss": "neeFilisthi"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "wababetha"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "ngabo"
+    },
+    {
+      "surface": "מכה",
+      "gloss": "ubunzima"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "obukhulu"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "bazibalekela"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "phambi kwakhe"
+    }
+  ],
+  "timestamp": "2026-09-18T09:30:46.490839840Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 9:11",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 9,
+  "translation": "Baza kuthembaka kuwe abazi iGama lakho, kuba awubashiyanga abakufunayo, Yahwe.",
+  "tokens": [
+    {
+      "surface": "ויבטחו",
+      "gloss": "baza kuthembaka"
+    },
+    {
+      "surface": "בך",
+      "gloss": "kuwe"
+    },
+    {
+      "surface": "יודעי",
+      "gloss": "abazi"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "iGama lakho"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hayi"
+    },
+    {
+      "surface": "עזבת",
+      "gloss": "awubashiyanga"
+    },
+    {
+      "surface": "דרשיך",
+      "gloss": "abakufunayo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-18T14:30:20.106121739Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 76:1",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 76,
+  "translation": "Kumlawuli, ngeziqendu. Incwadi yedumiso ka-Asafe, iculo.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Kumlawuli"
+    },
+    {
+      "surface": "בנגינת",
+      "gloss": "ngeziqendu"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "incwadi yedumiso"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "ka-Asafe"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "iculo"
+    }
+  ],
+  "timestamp": "2026-09-18T15:01:00.901047551Z",
+  "model": "glm-5.3"
+}

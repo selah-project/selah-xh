@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 109:12",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 109,
+  "translation": "Mungenabo mntu otsala ikhesedi kuye, mungenabo mntu ubambele kwiintandabuzo zakhe.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "musa"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "mabi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kuye"
+    },
+    {
+      "surface": "משך",
+      "gloss": "otsala"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "ikhesedi"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "kananjalo musa"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "mabi"
+    },
+    {
+      "surface": "חונן",
+      "gloss": "obambele"
+    },
+    {
+      "surface": "ליתומיו",
+      "gloss": "kwiintandabuzo zakhe"
+    }
+  ],
+  "timestamp": "2026-09-18T15:20:00.911002853Z",
+  "model": "glm-5.3"
+}

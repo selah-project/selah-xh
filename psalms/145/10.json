@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 145:10",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 145,
+  "translation": "Baya kukudumisa wena, uYahwe, wonke umsebenzi wakho, nabanqabileyo bakho baya kusikelela.",
+  "tokens": [
+    {
+      "surface": "יודוך",
+      "gloss": "Baya kukudumisa wena"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wonke"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "umsebenzi wakho"
+    },
+    {
+      "surface": "וחסידיך",
+      "gloss": "nabanqabileyo bakho"
+    },
+    {
+      "surface": "יברכוכה",
+      "gloss": "baya kusikelela"
+    }
+  ],
+  "timestamp": "2026-09-18T15:33:31.930270601Z",
+  "model": "glm-5.3"
+}

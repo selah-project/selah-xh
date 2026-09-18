@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 45:11",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 45,
+  "translation": "Mamela, ndintombana, ubukele, uthende indlebe yakho; ulibale nto abantu bakho nendlu yakaluta.",
+  "tokens": [
+    {
+      "surface": "שמעי",
+      "gloss": "Mamela"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ndintombana"
+    },
+    {
+      "surface": "וראי",
+      "gloss": "ubukele"
+    },
+    {
+      "surface": "והטי",
+      "gloss": "uthende"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "indlebe yakho"
+    },
+    {
+      "surface": "ושכחי",
+      "gloss": "ulibale nto"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "abantu bakho"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "nendlu"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "yakaluta"
+    }
+  ],
+  "timestamp": "2026-09-18T17:42:38.549272509Z",
+  "model": "glm-5.3"
+}

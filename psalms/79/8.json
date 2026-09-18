@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 79:8",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 79,
+  "translation": "Mus'ukukhumbula iimphonyo zangaphambili; makusikelele ngokukhawuleza izihawu zakho nathi, kuba siphelelwe yimfuneko enkulu.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Mus'u-"
+    },
+    {
+      "surface": "תזכר",
+      "gloss": "khumbula"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "nathi"
+    },
+    {
+      "surface": "עונת",
+      "gloss": "iimphonyo"
+    },
+    {
+      "surface": "ראשנים",
+      "gloss": "zangaphambili"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "ngokukhawuleza"
+    },
+    {
+      "surface": "יקדמונו",
+      "gloss": "makusikelele nathi"
+    },
+    {
+      "surface": "רחמיך",
+      "gloss": "izihawu zakho"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "דלונו",
+      "gloss": "siphelelwe yimfuneko"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "enkulu"
+    }
+  ],
+  "timestamp": "2026-09-18T15:05:32.458722151Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 50:4",
+  "book": "isaiah",
+  "lang": "xh",
+  "chapter": 50,
+  "translation": "U-Adonayi uYahwe wandinika ulwimi lwabafundi, ukwazi ukusekela ⟨את⟩ mthunjwa ngelizwi; ekuseni nangekuseni uvusa, uvusa indlebe yam ukuzwa njengabafundi.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "u-Adonayi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "wanika"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mna"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "ulwimi"
+    },
+    {
+      "surface": "למודים",
+      "gloss": "lwabafundi"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "ukwazi"
+    },
+    {
+      "surface": "לעות",
+      "gloss": "ukusekela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mthunjwa"
+    },
+    {
+      "surface": "יעף",
+      "gloss": "mthunjwa"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ngelizwi"
+    },
+    {
+      "surface": "יעיר",
+      "gloss": "uvusa"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "ekuseni"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "nangekuseni"
+    },
+    {
+      "surface": "יעיר",
+      "gloss": "uvusa"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mna"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "indlebe yam"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "ukuzwa"
+    },
+    {
+      "surface": "כלמודים",
+      "gloss": "njengabafundi"
+    }
+  ],
+  "timestamp": "2026-09-18T11:41:44.189868941Z",
+  "model": "glm-5.3"
+}

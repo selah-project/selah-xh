@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-samuel 13:22",
+  "book": "1-samuel",
+  "lang": "xh",
+  "chapter": 13,
+  "translation": "Kwaze kwaba lilanga lokulwa, akubonwanga inkemba nakhandoli exandleni yanke yalo lonke uluntu olwaye no-⟨את⟩ uShawuli no-⟨את⟩ uYonatana; kodwa kuShawuli nakuye uYonatana unyana wakhe kwafunyanwa ⟨konke⟩.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "kwaze kwaba"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "lilanga"
+    },
+    {
+      "surface": "מלחמת",
+      "gloss": "lokulwa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "akubonwanga"
+    },
+    {
+      "surface": "נמצא",
+      "gloss": "akubonwanga"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "inkemba"
+    },
+    {
+      "surface": "וחנית",
+      "gloss": "nakhandoli"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "exandleni"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yalo lonke"
+    },
+    {
+      "surface": "העם",
+      "gloss": "uluntu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "olwaye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uShawuli"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "uShawuli"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "no-⟨את⟩",
+      "marks": "uYonatana"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "uYonatana"
+    },
+    {
+      "surface": "ותמצא",
+      "gloss": "kwafunyanwa"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "kuShawuli"
+    },
+    {
+      "surface": "וליונתן",
+      "gloss": "nakuye uYonatana"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "unyana wakhe"
+    }
+  ],
+  "timestamp": "2026-09-18T09:20:05.690354441Z",
+  "model": "glm-5.3"
+}

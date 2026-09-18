@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 66:5",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 66,
+  "translation": "Yizani, nibone imisebenzi kaElohim; unoyike ngezenzo zakhe phezu kabantwana bobuntu.",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "Yizani"
+    },
+    {
+      "surface": "וראו",
+      "gloss": "nibone"
+    },
+    {
+      "surface": "מפעלות",
+      "gloss": "imisebenzi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "kaElohim"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "unoyike"
+    },
+    {
+      "surface": "עלילה",
+      "gloss": "ngezenzo zakhe"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu"
+    },
+    {
+      "surface": "בני",
+      "gloss": "kabantwana"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "bobuntu"
+    }
+  ],
+  "timestamp": "2026-09-18T14:55:04.193140871Z",
+  "model": "glm-5.3"
+}

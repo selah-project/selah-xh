@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 4:20",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 4,
+  "translation": "UMoshe wathabatha ⟨את⟩ umfazi wakhe no⟨את⟩ antwana bakhe, wabaqhwabahazisa ephezu kwequnde, wabuyela elizweni laseMitsrayim; uMoshe wathabatha ⟨את⟩ induku kaElohim esandleni sakhe.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "wathabatha"
+    },
+    {
+      "surface": "משה",
+      "gloss": "uMoshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umfazi wakhe"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "umfazi wakhe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "no⟨את⟩",
+      "marks": "abantwana bakhe"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "abantwana bakhe"
+    },
+    {
+      "surface": "וירכבם",
+      "gloss": "wabaqhwabahazisa"
+    },
+    {
+      "surface": "על",
+      "gloss": "ephezu"
+    },
+    {
+      "surface": "החמר",
+      "gloss": "kwequnde"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "wabuyela"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "elizweni"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "laseMitsrayim"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "wathabatha"
+    },
+    {
+      "surface": "משה",
+      "gloss": "uMoshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "induku kaElohim"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "induku"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "kaElohim"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "esandleni sakhe"
+    }
+  ],
+  "timestamp": "2026-09-18T05:51:35.963497243Z",
+  "model": "glm-5.3"
+}

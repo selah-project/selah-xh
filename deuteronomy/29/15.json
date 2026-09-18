@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 29:15",
+  "book": "deuteronomy",
+  "lang": "xh",
+  "chapter": 29,
+  "translation": "Kuba nina niyazazi ⟨את⟩ oko sahlala ngako elweni leMitsrayim, no⟨את⟩ oko sidlule ngako phakathi kweentlanga enina nazidlula kuzo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "nina"
+    },
+    {
+      "surface": "ידעתם",
+      "gloss": "niyazazi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oko sahlala ngako"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oko"
+    },
+    {
+      "surface": "ישבנו",
+      "gloss": "sahlala"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "elweni"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "leMitsrayim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "no⟨את⟩",
+      "marks": "oko sidlule ngako"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oko"
+    },
+    {
+      "surface": "עברנו",
+      "gloss": "sidlule"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "phakathi kwa-"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "kweentlanga"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "enina"
+    },
+    {
+      "surface": "עברתם",
+      "gloss": "nazidlula"
+    }
+  ],
+  "timestamp": "2026-09-18T08:19:36.732125672Z",
+  "model": "glm-5.3"
+}

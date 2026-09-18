@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 29:12",
+  "book": "isaiah",
+  "lang": "xh",
+  "chapter": 29,
+  "translation": "Incwadi inikezelwa lowo engaziyo incwadi, bethi: “Funda le, ndicela”; yena uthi: “Andandazi incwadi.”",
+  "tokens": [
+    {
+      "surface": "ונתן",
+      "gloss": "inikezelwa"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "incwadi"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "lowo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hayi"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "aziyo"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "incwadi"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "bethi"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "Funda"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ndicela"
+    },
+    {
+      "surface": "זה",
+      "gloss": "le"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "uthi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hayi"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "andandazi"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "incwadi"
+    }
+  ],
+  "timestamp": "2026-09-18T11:23:10.932892316Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 69:14",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 69,
+  "translation": "Kulam, thandazwam lise kuwe, Yahwe, elixesha lenkondelela; Thixo, ngoloninzi lwekhesedi yakho, ndiphendule, ngenyaniso yesiphephelo sakho.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "kulam"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "thandazwam"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kuwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עת",
+      "gloss": "elixesha"
+    },
+    {
+      "surface": "רצון",
+      "gloss": "lenkondelela"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Thixo"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "ngoloninzi"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "lwekhesedi yakho"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "ndiphendule"
+    },
+    {
+      "surface": "באמת",
+      "gloss": "ngenyaniso"
+    },
+    {
+      "surface": "ישעך",
+      "gloss": "yesiphephelo sakho"
+    }
+  ],
+  "timestamp": "2026-09-18T14:56:41.412589802Z",
+  "model": "glm-5.3"
+}

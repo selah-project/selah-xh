@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 47:16",
+  "book": "genesis",
+  "lang": "xh",
+  "chapter": 47,
+  "translation": "U-Yosef wathetha wathi: “Zisela inkomo zenu, ndiza kuninika ngenkomo zenu, ukuba imali iphelelile.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wathetha wathi"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "u-Yosef"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "zisela"
+    },
+    {
+      "surface": "מקניכם",
+      "gloss": "inkomo zenu"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "ndiza kuninika"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ni"
+    },
+    {
+      "surface": "במקניכם",
+      "gloss": "ngenkomo zenu"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ukuba"
+    },
+    {
+      "surface": "אפס",
+      "gloss": "iphelelile"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "imali"
+    }
+  ],
+  "timestamp": "2026-09-18T05:44:43.617053306Z",
+  "model": "glm-5.3"
+}

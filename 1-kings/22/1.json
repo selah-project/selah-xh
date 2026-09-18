@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 22:1",
+  "book": "1-kings",
+  "lang": "xh",
+  "chapter": 22,
+  "translation": "Bahlala iminyaka emithathu ingenalwazo phakathi kweAram naseYisrayeli.",
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "Bahlala"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "emithathu"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "iminyaka"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ingenalwazo (akukho)"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "imfazwe"
+    },
+    {
+      "surface": "בין",
+      "gloss": "phakathi kwe-"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "iAram"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "nase-"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "iYisrayeli"
+    }
+  ],
+  "timestamp": "2026-09-18T10:37:11.935401460Z",
+  "model": "glm-5.3"
+}

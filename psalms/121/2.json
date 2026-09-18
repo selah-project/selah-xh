@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 121:2",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 121,
+  "translation": "Uncedo lwam lukaYahwe, wenzela amazulu nomhlaba.",
+  "tokens": [
+    {
+      "surface": "עזרי",
+      "gloss": "Uncedo lwam"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "luvela ku-"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "wenzela"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "amazulu"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "nomhlaba"
+    }
+  ],
+  "timestamp": "2026-09-18T15:26:45.398921902Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 19:5",
+  "book": "1-chronicles",
+  "lang": "xh",
+  "chapter": 19,
+  "translation": "Baye babixa kuDavide nangamadoda lau, wathumela abantu ukudibana nabo, kuba amadoda ebengahlazekile kakhulu; inkosi yathi: “Hlalani eYerikho de kukhule iindwibe zenu, nize nibuyele.”",
+  "tokens": [
+    {
+      "surface": "וילכו",
+      "gloss": "baye"
+    },
+    {
+      "surface": "ויגידו",
+      "gloss": "babixa"
+    },
+    {
+      "surface": "לדויד",
+      "gloss": "kuDavide"
+    },
+    {
+      "surface": "על",
+      "gloss": "nanga-"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "amadoda"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "wathumela"
+    },
+    {
+      "surface": "לקראתם",
+      "gloss": "ukudibana nabo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "היו",
+      "gloss": "ebeng"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "amadoda"
+    },
+    {
+      "surface": "נכלמים",
+      "gloss": "ahlazekile"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "kakhulu"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "inkosi"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "hlalani"
+    },
+    {
+      "surface": "בירחו",
+      "gloss": "eYerikho"
+    },
+    {
+      "surface": "עד",
+      "gloss": "de"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ukuba"
+    },
+    {
+      "surface": "יצמח",
+      "gloss": "kukhule"
+    },
+    {
+      "surface": "זקנכם",
+      "gloss": "iindwibe zenu"
+    },
+    {
+      "surface": "ושבתם",
+      "gloss": "nize nibuyele"
+    }
+  ],
+  "timestamp": "2026-09-18T16:58:52.876776534Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 131:2",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 131,
+  "translation": "Inene, ndizolile umphefumlo wam, ndawunyamezela: njengomntwana ochanjisiweyo kuniyhe wake, njengomntwana ochanjisiweyo lowo umphefumlo wam kum.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Inene"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inene"
+    },
+    {
+      "surface": "שויתי",
+      "gloss": "ndilinganise"
+    },
+    {
+      "surface": "ודוממתי",
+      "gloss": "ndazola"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "umphefumlo wam"
+    },
+    {
+      "surface": "כגמל",
+      "gloss": "njengomntwana ochanjisiweyo"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ku"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "niyhe wake"
+    },
+    {
+      "surface": "כגמל",
+      "gloss": "njengomntwana ochanjisiweyo"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "kum"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "umphefumlo wam"
+    }
+  ],
+  "timestamp": "2026-09-18T15:27:12.448860263Z",
+  "model": "glm-5.3"
+}

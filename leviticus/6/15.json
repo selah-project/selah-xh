@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 6:15",
+  "book": "leviticus",
+  "lang": "xh",
+  "chapter": 6,
+  "translation": "Kwaye umkhosi othanjisiweyo ozakumlandela kwakhe, phakathi kwabantwana bakhe, uyakwenza ⟨את⟩ yona; sisigunyaziso esingunaphakade kuYahwe; kuphelele ngokutshiswa.",
+  "tokens": [
+    {
+      "surface": "והכהן",
+      "gloss": "kwaye umkhosi"
+    },
+    {
+      "surface": "המשיח",
+      "gloss": "othanjisiweyo"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "ozakumlandela kwakhe"
+    },
+    {
+      "surface": "מבניו",
+      "gloss": "phakathi kwabantwana bakhe"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "uyakwenza"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "yona (imnikelo)"
+    },
+    {
+      "surface": "חק",
+      "gloss": "sisigunyaziso"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "esingunaphakade"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kuYahwe"
+    },
+    {
+      "surface": "כליל",
+      "gloss": "kuphelele"
+    },
+    {
+      "surface": "תקטר",
+      "gloss": "ngokutshiswa"
+    }
+  ],
+  "timestamp": "2026-09-18T06:37:34.178202893Z",
+  "model": "glm-5.3"
+}

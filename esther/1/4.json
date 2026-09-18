@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "esther 1:4",
+  "book": "esther",
+  "lang": "xh",
+  "chapter": 1,
+  "translation": "Xa ebonisa ⟨את⟩ ubutyebi bobuzwe lobukhosi bayo, nakwi ⟨את⟩ ubunyani bubuhle bobukhulu bayo, kwangaphelela iintsuku ezininzi — tsiphuka engama-180.",
+  "tokens": [
+    {
+      "surface": "בהראתו",
+      "gloss": "Xa ebonisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ubutyebi bobuzwe lobukhosi bayo"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ubutyebi"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "obuzwe"
+    },
+    {
+      "surface": "מלכותו",
+      "gloss": "lobukhosi bayo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ubunyani bubuhle"
+    },
+    {
+      "surface": "יקר",
+      "gloss": "ubunyani"
+    },
+    {
+      "surface": "תפארת",
+      "gloss": "obuhle"
+    },
+    {
+      "surface": "גדולתו",
+      "gloss": "bobukhulu bayo"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "iintsuku"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "ezininzi"
+    },
+    {
+      "surface": "שמונים",
+      "gloss": "engama-80"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "ne-100"
+    },
+    {
+      "surface": "יום",
+      "gloss": "tsiphuka"
+    }
+  ],
+  "timestamp": "2026-09-18T16:28:58.211371806Z",
+  "model": "glm-5.3"
+}

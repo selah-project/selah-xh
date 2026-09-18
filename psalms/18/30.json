@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 18:30",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 18,
+  "translation": "Kuba ngawe ndiya kugalela iqela lamabutho, nanguElohim wam ndiya kudukula udonga.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "בך",
+      "gloss": "ngawe"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ndiya kugalela"
+    },
+    {
+      "surface": "גדוד",
+      "gloss": "iqela lamabutho"
+    },
+    {
+      "surface": "ובאלהי",
+      "gloss": "nanguElohim wam"
+    },
+    {
+      "surface": "אדלג",
+      "gloss": "ndiya kudukula"
+    },
+    {
+      "surface": "שור",
+      "gloss": "donga"
+    }
+  ],
+  "timestamp": "2026-09-18T14:34:50.078857096Z",
+  "model": "glm-5.3"
+}

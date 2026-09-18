@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 25:20",
+  "book": "leviticus",
+  "lang": "xh",
+  "chapter": 25,
+  "translation": "Ukuba nithi: Siza kudla ntoni kunyaka wesixhenxe? Yabonani, asizalimanga, asiziyo kuqokelela ⟨את⟩ isivuno sethu.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "ukuba"
+    },
+    {
+      "surface": "תאמרו",
+      "gloss": "nithi"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ntoni"
+    },
+    {
+      "surface": "נאכל",
+      "gloss": "siza kudla"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "kunyaka"
+    },
+    {
+      "surface": "השביעת",
+      "gloss": "wesixhenxe"
+    },
+    {
+      "surface": "הן",
+      "gloss": "yabonani"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hayi"
+    },
+    {
+      "surface": "נזרע",
+      "gloss": "sizalimanga"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kananjalo hayi"
+    },
+    {
+      "surface": "נאסף",
+      "gloss": "siqokelelanga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isivuno sethu"
+    },
+    {
+      "surface": "תבואתנו",
+      "gloss": "isivuno sethu"
+    }
+  ],
+  "timestamp": "2026-09-18T07:05:20.499917084Z",
+  "model": "glm-5.3"
+}

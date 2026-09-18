@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 6:14",
+  "book": "genesis",
+  "lang": "xh",
+  "chapter": 6,
+  "translation": "Yenza kuwe ityeya yamaphezu egofa; iindawo zokuhlala uza kuzenza ⟨את⟩ ityeya, uze uyigubudela ngokhephu ngaphakathi nangaphandle ngesigcawu sokugubudela.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "yenza"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kuwe"
+    },
+    {
+      "surface": "תבת",
+      "gloss": "ityeya"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "amaphezu"
+    },
+    {
+      "surface": "גפר",
+      "gloss": "egofa"
+    },
+    {
+      "surface": "קנים",
+      "gloss": "iindawo zokuhlala"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "uza kuzenza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ityeya"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "ityeya"
+    },
+    {
+      "surface": "וכפרת",
+      "gloss": "uze uyigubudela"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ngaphakathi nangaphandle"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "ngaphakathi"
+    },
+    {
+      "surface": "ומחוץ",
+      "gloss": "nangaphandle"
+    },
+    {
+      "surface": "בכפר",
+      "gloss": "ngesigcawu sokugubudela"
+    }
+  ],
+  "timestamp": "2026-09-18T05:10:18.559331345Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 25:5",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 25,
+  "translation": "Ndikhokhele ngeqiniso lakho, undifundise, kuba wena nguElohim wesindiso lwam; ⟨את⟩ wena ndiyalindela yonke imini.",
+  "tokens": [
+    {
+      "surface": "הדריכני",
+      "gloss": "Ndikhokhele"
+    },
+    {
+      "surface": "באמתך",
+      "gloss": "ngeqiniso lakho"
+    },
+    {
+      "surface": "ולמדני",
+      "gloss": "undifundise"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "nguElohim"
+    },
+    {
+      "surface": "ישעי",
+      "gloss": "wesindiso lwam"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩",
+      "marks": "wena"
+    },
+    {
+      "surface": "קויתי",
+      "gloss": "ndiyalindela"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yonke"
+    },
+    {
+      "surface": "היום",
+      "gloss": "imini"
+    }
+  ],
+  "timestamp": "2026-09-18T14:37:23.850552125Z",
+  "model": "glm-5.3"
+}

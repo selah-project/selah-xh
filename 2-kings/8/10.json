@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 8:10",
+  "book": "2-kings",
+  "lang": "xh",
+  "chapter": 8,
+  "translation": "Wathi u-Elishea kuye: “Hamba, yithi kuye: ‘Uza kuphila’; kodwa uYahwe undibonise ukuba ngenene uza kufa.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Wathi"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kuye"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "u-Elishea"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Hamba"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "yithi"
+    },
+    {
+      "surface": "לא",
+      "gloss": ""
+    },
+    {
+      "surface": "חיה",
+      "gloss": "kuphila"
+    },
+    {
+      "surface": "תחיה",
+      "gloss": "uza kuphila"
+    },
+    {
+      "surface": "והראני",
+      "gloss": "undibonise"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ukuba"
+    },
+    {
+      "surface": "מות",
+      "gloss": "ukufa"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "ngenene uza kufa"
+    }
+  ],
+  "timestamp": "2026-09-18T10:44:49.086462594Z",
+  "model": "glm-5.3"
+}

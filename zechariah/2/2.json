@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "zechariah 2:2",
+  "book": "zechariah",
+  "lang": "xh",
+  "chapter": 2,
+  "translation": "Ndathi kumangelosi othetha ngaphakathi kim: “Zintoni ezi?” Wathi kum: “Ezi ziimpondo ezisasazileyo ⟨את⟩ uYehuda, ⟨את⟩ iYisrayeli, neYerushalayimi.”",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "Ndathi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "umangelosi"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "othetha"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ngaphakathi kim"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Zintoni"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ezi"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Wathi"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kim"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "Ezi"
+    },
+    {
+      "surface": "הקרנות",
+      "gloss": "ziimpondo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ezonasazileyo ez"
+    },
+    {
+      "surface": "זרו",
+      "gloss": "ezisasazileyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uYehuda"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "uYehuda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iYisrayeli"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "iYisrayeli"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "neYerushalayimi"
+    }
+  ],
+  "timestamp": "2026-09-18T14:18:59.752611753Z",
+  "model": "glm-5.3"
+}

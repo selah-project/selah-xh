@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 24:10",
+  "book": "1-samuel",
+  "lang": "xh",
+  "chapter": 24,
+  "translation": "Wathi uDawidi kuShawuli: “Kutheni uliva ⟨את⟩ amagama omntu, esithi: Nanko uDawidi ufuna ububi bakho?”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "uDawidi"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "kuShawuli"
+    },
+    {
+      "surface": "למה",
+      "gloss": "kutheni"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "uliva"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amagama omntu"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "amagama"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "omntu"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "esithi"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "nanko"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "uDawidi"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "ufuna"
+    },
+    {
+      "surface": "רעתך",
+      "gloss": "ububi bakho"
+    }
+  ],
+  "timestamp": "2026-09-18T09:36:47.787846042Z",
+  "model": "glm-5.3"
+}

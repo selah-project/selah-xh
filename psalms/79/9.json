@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 79:9",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 79,
+  "translation": "Sisilele, uElohim weyesha sethu, ngenxa yobuza begama lakho; sisiphephele, ubekhulule iimpsini zethu, ngenxa yegama lakho.",
+  "tokens": [
+    {
+      "surface": "עזרנו",
+      "gloss": "sisilele"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "uElohim we-"
+    },
+    {
+      "surface": "ישענו",
+      "gloss": "iyesha sethu"
+    },
+    {
+      "surface": "על",
+      "gloss": "ngenxa ye-"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "udaba"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "obuza"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "begama lakho"
+    },
+    {
+      "surface": "והצילנו",
+      "gloss": "sisiphephele"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "ubekhulule"
+    },
+    {
+      "surface": "על",
+      "gloss": "i-"
+    },
+    {
+      "surface": "חטאתינו",
+      "gloss": "iimpsini zethu"
+    },
+    {
+      "surface": "למען",
+      "gloss": "ngenxa ye-"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "gama lakho"
+    }
+  ],
+  "timestamp": "2026-09-18T15:04:51.859645941Z",
+  "model": "glm-5.3"
+}

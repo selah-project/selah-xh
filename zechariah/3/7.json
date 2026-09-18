@@ -1,0 +1,120 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "zechariah 3:7",
+  "book": "zechariah",
+  "lang": "xh",
+  "chapter": 3,
+  "translation": "Njalo utsho uYahwe Tsebhayoti: Ukuba uya kuhamba ezindleleni zam, ukuba ugcina ⟨את⟩ umkhosi wam, nokuba wena uza kugweba ⟨את⟩ indlu yam, nokuba uza kugcina ⟨את⟩ iinkundla zam; ndiza kunika iindlela zokuhamba phakathi kwaba mi la.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Njalo"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "utsho"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsebhayoti"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Ukuba"
+    },
+    {
+      "surface": "בדרכי",
+      "gloss": "ezindleleni zam"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "uya kuhamba"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "ukuba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umkhosi wam"
+    },
+    {
+      "surface": "משמרתי",
+      "gloss": "umkhosi wam"
+    },
+    {
+      "surface": "תשמר",
+      "gloss": "ugcina"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "nokuba"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "תדין",
+      "gloss": "uza kugweba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "indlu yam"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "indlu yam"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "nokuba"
+    },
+    {
+      "surface": "תשמר",
+      "gloss": "uza kugcina"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iinkundla zam"
+    },
+    {
+      "surface": "חצרי",
+      "gloss": "iinkundla zam"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "ndiza kunika"
+    },
+    {
+      "surface": "לך",
+      "gloss": "wena"
+    },
+    {
+      "surface": "מהלכים",
+      "gloss": "iindlela zokuhamba"
+    },
+    {
+      "surface": "בין",
+      "gloss": "phakathi"
+    },
+    {
+      "surface": "העמדים",
+      "gloss": "kwaba mi"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "la"
+    }
+  ],
+  "timestamp": "2026-09-18T14:19:43.739952171Z",
+  "model": "glm-5.3"
+}

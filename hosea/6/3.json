@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 6:3",
+  "book": "hosea",
+  "lang": "xh",
+  "chapter": 6,
+  "translation": "Masimazi, simlandelele ukumazi ⟨את⟩ uYahwe; ukuphuma kwakhe kuzinze njengokusa, yaye uza kufika kuthi njengimvula, njengimvula yasehlobo echitha ⟨את⟩ umhlaba.",
+  "tokens": [
+    {
+      "surface": "ונדעה",
+      "gloss": "Masimazi"
+    },
+    {
+      "surface": "נרדפה",
+      "gloss": "simlandelele"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "ukumazi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uYahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "כשחר",
+      "gloss": "njengokusa"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "kuzinze"
+    },
+    {
+      "surface": "מוצאו",
+      "gloss": "ukuphuma kwakhe"
+    },
+    {
+      "surface": "ויבוא",
+      "gloss": "yaye uza kufika"
+    },
+    {
+      "surface": "כגשם",
+      "gloss": "njengimvula"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "kuthi"
+    },
+    {
+      "surface": "כמלקוש",
+      "gloss": "njengimvula yasehlobo"
+    },
+    {
+      "surface": "יורה",
+      "gloss": "echitha"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "umhlaba"
+    }
+  ],
+  "timestamp": "2026-09-18T17:42:03.309030653Z",
+  "model": "glm-5.3"
+}

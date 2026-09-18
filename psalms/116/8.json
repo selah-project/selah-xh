@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 116:8",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 116,
+  "translation": "Kuba usindise umphefumlo wam ekufeni, ⟨את⟩ amehlo am emiganeni, ⟨את⟩ iinyawo zam ekukhohlelweni.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kuba"
+    },
+    {
+      "surface": "חלצת",
+      "gloss": "usindise"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "umphefumlo wam"
+    },
+    {
+      "surface": "ממות",
+      "gloss": "ekufeni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amehlo am"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "amehlo am"
+    },
+    {
+      "surface": "מן",
+      "gloss": "e-"
+    },
+    {
+      "surface": "דמעה",
+      "gloss": "emiganeni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iinyawo zam"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "iinyawo zam"
+    },
+    {
+      "surface": "מדחי",
+      "gloss": "ekukhohlelweni"
+    }
+  ],
+  "timestamp": "2026-09-18T15:22:40.507653062Z",
+  "model": "glm-5.3"
+}

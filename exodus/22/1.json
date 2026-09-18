@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 22:1",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 22,
+  "translation": "Ukuba isela ifunyanwe isidiliza ⟨(engena)⟩, yabethwa yaza yafa, akukho mgungqo wegazi kum.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Ukuba"
+    },
+    {
+      "surface": "במחתרת",
+      "gloss": "isidiliza ⟨(engena)⟩"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "ifunyanwe"
+    },
+    {
+      "surface": "הגנב",
+      "gloss": "isela"
+    },
+    {
+      "surface": "והכה",
+      "gloss": "yabethwa"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "yaza yafa"
+    },
+    {
+      "surface": "אין",
+      "gloss": "akukho"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kum"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "mgungqo wegazi"
+    }
+  ],
+  "timestamp": "2026-09-18T06:10:48.003587965Z",
+  "model": "glm-5.3"
+}

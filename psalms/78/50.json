@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "psalms 78:50",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 78,
+  "translation": "Walungisa indlela yolaka lwakhe; akazange asindise imiphefumlo yabo ekufeni, waza wazinikela ubomi babo kwisifo esibulalayo.",
+  "tokens": [
+    {
+      "surface": "יפלס",
+      "gloss": "Walungisa"
+    },
+    {
+      "surface": "נתיב",
+      "gloss": "indlela"
+    },
+    {
+      "surface": "לאפו",
+      "gloss": "yolaka lwakhe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "akazange"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "asindise"
+    },
+    {
+      "surface": "ממות",
+      "gloss": "ekufeni"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "imiphefumlo yabo"
+    },
+    {
+      "surface": "וחיתם",
+      "gloss": "ubomi babo"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "kwisifo esibulalayo"
+    },
+    {
+      "surface": "הסגיר",
+      "gloss": "wazinikela"
+    }
+  ],
+  "timestamp": "2026-09-18T15:03:12.321871350Z",
+  "model": "glm-5.3"
+}

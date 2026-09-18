@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 10:3",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 10,
+  "translation": "Kuba isigxebengu sichaza inkankula yomphefumlo walo; lowo uzuzelayo uyabulela, uqhomfa uYahwe.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kuba"
+    },
+    {
+      "surface": "הלל",
+      "gloss": "sichaza"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "isigxebengu"
+    },
+    {
+      "surface": "על",
+      "gloss": "nge-"
+    },
+    {
+      "surface": "תאות",
+      "gloss": "inkankula"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "yomphefumlo walo"
+    },
+    {
+      "surface": "ובצע",
+      "gloss": "lowo uzuzelayo"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "uyabulela"
+    },
+    {
+      "surface": "נאץ",
+      "gloss": "uqhomfa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    }
+  ],
+  "timestamp": "2026-09-18T14:32:19.934785279Z",
+  "model": "glm-5.3"
+}

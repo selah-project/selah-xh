@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 10:4",
+  "book": "isaiah",
+  "lang": "xh",
+  "chapter": 10,
+  "translation": "Kwaye akukho nto ngingayenza ngaphandle kokuthula phantsi komthunywa, naphantsi kwabulawayo bawa. Nakuzonke ezi, ulaka lwakhe alubuyanga, nolandolo isandla sakhe simi njalo.",
+  "tokens": [
+    {
+      "surface": "בלתי",
+      "gloss": "akukho nto ngingayenza ngaphandle"
+    },
+    {
+      "surface": "כרע",
+      "gloss": "ukuthula"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "phantsi"
+    },
+    {
+      "surface": "אסיר",
+      "gloss": "komthunywa"
+    },
+    {
+      "surface": "ותחת",
+      "gloss": "naphantsi"
+    },
+    {
+      "surface": "הרוגים",
+      "gloss": "kwabulawayo"
+    },
+    {
+      "surface": "יפלו",
+      "gloss": "bawa"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "Nakuzonke"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ezi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "alubuyanga alu"
+    },
+    {
+      "surface": "שב",
+      "gloss": "alubuyanga"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "ulaka lwakhe"
+    },
+    {
+      "surface": "ועוד",
+      "gloss": "nolandolo"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "isandla sakhe"
+    },
+    {
+      "surface": "נטויה",
+      "gloss": "simi njalo"
+    }
+  ],
+  "timestamp": "2026-09-18T11:11:44.556997755Z",
+  "model": "glm-5.3"
+}

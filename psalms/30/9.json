@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 30:9",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 30,
+  "translation": "Kuwe, uYahwe, ndiyabiza; kwaye ku-Adonayi ndicinga ⟨umnxeba⟩.",
+  "tokens": [
+    {
+      "surface": "אליך",
+      "gloss": "Kuwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "ndiyabiza"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "kwaye ku"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "u-Adonayi"
+    },
+    {
+      "surface": "אתחנן",
+      "gloss": "ndicinga umnxeba"
+    }
+  ],
+  "timestamp": "2026-09-18T14:37:44.236896704Z",
+  "model": "glm-5.3"
+}

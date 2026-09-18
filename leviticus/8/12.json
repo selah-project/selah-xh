@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 8:12",
+  "book": "leviticus",
+  "lang": "xh",
+  "chapter": 8,
+  "translation": "Wawuchitha oyile yokuthambisa phezu kwekhanda lika-Aharoni, wamthambisa ukuze abe ngcwele ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ויצק",
+      "gloss": "wawuchitha"
+    },
+    {
+      "surface": "משמן",
+      "gloss": "oyile"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "yokuthambisa"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu kwe-"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "ikhanda"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "lika-Aharoni"
+    },
+    {
+      "surface": "וימשח",
+      "gloss": "wamthambisa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "u-Aharoni"
+    },
+    {
+      "surface": "לקדשו",
+      "gloss": "ukuze abe ngcwele"
+    }
+  ],
+  "timestamp": "2026-09-18T06:43:11.588211246Z",
+  "model": "glm-5.3"
+}

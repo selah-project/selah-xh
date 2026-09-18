@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 41:4",
+  "book": "jeremiah",
+  "lang": "xh",
+  "chapter": 41,
+  "translation": "Kwenzekile ngomhla wesibini ukubulawwa kukaGedalayahu, yaye akukho mntu wayazi nto.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Kwenzekile"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ngomhla"
+    },
+    {
+      "surface": "השני",
+      "gloss": "wesibini"
+    },
+    {
+      "surface": "להמית",
+      "gloss": "ukubulawwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uGedalayahu"
+    },
+    {
+      "surface": "גדליהו",
+      "gloss": "kukaGedalayahu"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "yaye akukho mntu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hayi"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "wayazi nto"
+    }
+  ],
+  "timestamp": "2026-09-18T12:30:54.911020230Z",
+  "model": "glm-5.3"
+}

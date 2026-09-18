@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 138:2",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 138,
+  "translation": "Ndiza kuzithoba ngase tempeleni yakho ingcwele, ndiza kukudumba ⟨את⟩ igama lakho ngenxa yeikhesedi yakho nangenxa yeqiniso lakho; kuba wenze likhulu, ngapheulu kwegama lakho lonke, ilizwi lakho.",
+  "tokens": [
+    {
+      "surface": "אשתחוה",
+      "gloss": "ndiza kuzithoba"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ngase-"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "tempeleni"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "ingcwele yakho"
+    },
+    {
+      "surface": "ואודה",
+      "gloss": "ndiza kukudumba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "igama lakho"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "igama lakho"
+    },
+    {
+      "surface": "על",
+      "gloss": "ngenxa ye-"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "ikhesedi yakho"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "nangenxa ye-"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "iqiniso lakho"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "הגדלת",
+      "gloss": "wenze likhulu"
+    },
+    {
+      "surface": "על",
+      "gloss": "ngapheulu kwa-"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lonke"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "igama lakho"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "ilizwi lakho"
+    }
+  ],
+  "timestamp": "2026-09-18T15:31:15.028464174Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 6:16",
+  "book": "numbers",
+  "lang": "xh",
+  "chapter": 6,
+  "translation": "Umpristi uza kuzisa zonke ezi phambi koYahwe, aze enza ⟨את⟩ isono sakhe ⟨את⟩ nesithobile sokushisa sakhe.",
+  "tokens": [
+    {
+      "surface": "והקריב",
+      "gloss": "uza kuzisa"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "umpristi"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "phambi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "koYahwe"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "aze enza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isono sakhe"
+    },
+    {
+      "surface": "חטאתו",
+      "gloss": "isono sakhe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "isithobile sokushisa sakhe"
+    },
+    {
+      "surface": "עלתו",
+      "gloss": "isithobile sokushisa sakhe"
+    }
+  ],
+  "timestamp": "2026-09-18T07:16:32.441728611Z",
+  "model": "glm-5.3"
+}

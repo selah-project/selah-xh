@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 29:4",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 29,
+  "translation": "Uza kuzisa ⟨את⟩ u-Aharon no⟨את⟩ oonyana bakhe emnyango wetenti yomdibano, uze ubatyekele ⟨אתם⟩ ngamanzi.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "u-Aharon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "no⟨את⟩"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "oonyana bakhe"
+    },
+    {
+      "surface": "תקריב",
+      "gloss": "uza kuzisa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e-"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "emnyango"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "wetenti"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "yomdibano"
+    },
+    {
+      "surface": "ורחצת",
+      "gloss": "uze ubatyekele"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ubatyekele ngamanzi"
+    },
+    {
+      "surface": "במים",
+      "gloss": "ngamanzi"
+    }
+  ],
+  "timestamp": "2026-09-18T06:18:56.999857571Z",
+  "model": "glm-5.3"
+}

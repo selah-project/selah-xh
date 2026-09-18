@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-samuel 17:24",
+  "book": "1-samuel",
+  "lang": "xh",
+  "chapter": 17,
+  "translation": "Amadoda onke uYisraelyi, ekuboneni ⟨את⟩ loo mntu, abalekela phaya kuye, basoyika kakhulu.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "onke"
+    },
+    {
+      "surface": "איש",
+      "gloss": "amadoda"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "uYisraelyi"
+    },
+    {
+      "surface": "בראותם",
+      "gloss": "ekuboneni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "loo mntu"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "loo mntu"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "abalekela"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "phaya kuye"
+    },
+    {
+      "surface": "וייראו",
+      "gloss": "basoyika"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "kakhulu"
+    }
+  ],
+  "timestamp": "2026-09-18T09:27:21.600225640Z",
+  "model": "glm-5.3"
+}

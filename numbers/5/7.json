@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 5:7",
+  "book": "numbers",
+  "lang": "xh",
+  "chapter": 5,
+  "translation": "bayakuvuma ⟨את⟩ isono labo ababenzayo, abuyisele ⟨את⟩ isiphoso sakhe sonke, adongele kwisiqingatha sesihlanu ngaphezu kwaso, anike lowo amonakele yena.",
+  "tokens": [
+    {
+      "surface": "והתודו",
+      "gloss": "bayakuvuma"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isono labo"
+    },
+    {
+      "surface": "חטאתם",
+      "gloss": "isono labo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aba"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "benzayo"
+    },
+    {
+      "surface": "והשיב",
+      "gloss": "abuyisele"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isiphoso sakhe"
+    },
+    {
+      "surface": "אשמו",
+      "gloss": "isiphoso sakhe"
+    },
+    {
+      "surface": "בראשו",
+      "gloss": "sonke"
+    },
+    {
+      "surface": "וחמישתו",
+      "gloss": "kwisiqingatha sesihlanu"
+    },
+    {
+      "surface": "יסף",
+      "gloss": "adongele"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ngaphezu kwaso"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "anike"
+    },
+    {
+      "surface": "לאשר",
+      "gloss": "lowo"
+    },
+    {
+      "surface": "אשם",
+      "gloss": "amonakele"
+    },
+    {
+      "surface": "לו",
+      "gloss": "yena"
+    }
+  ],
+  "timestamp": "2026-09-18T07:18:03.100523378Z",
+  "model": "glm-5.3"
+}

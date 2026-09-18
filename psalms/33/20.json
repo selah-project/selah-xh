@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 33:20",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 33,
+  "translation": "Umphefumlo wethu ulindele uYahwe; yena luncedo lwethu nekhaka lethu.",
+  "tokens": [
+    {
+      "surface": "נפשנו",
+      "gloss": "Umphefumlo wethu"
+    },
+    {
+      "surface": "חכתה",
+      "gloss": "ulindele"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "עזרנו",
+      "gloss": "luncedo lwethu"
+    },
+    {
+      "surface": "ומגננו",
+      "gloss": "nekhaka lethu"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yena"
+    }
+  ],
+  "timestamp": "2026-09-18T14:40:35.935416183Z",
+  "model": "glm-5.3"
+}

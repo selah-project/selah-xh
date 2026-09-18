@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 105:20",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 105,
+  "translation": "Inkosi yathumela yamkhulula; umlawuli wemiSebede, waza wamkhulula.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "yathumela"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "inkosi"
+    },
+    {
+      "surface": "ויתירהו",
+      "gloss": "yamkhulula"
+    },
+    {
+      "surface": "משל",
+      "gloss": "umlawuli"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "wemiSebede"
+    },
+    {
+      "surface": "ויפתחהו",
+      "gloss": "wamkhulula"
+    }
+  ],
+  "timestamp": "2026-09-18T15:16:36.538517028Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 78:6",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 78,
+  "translation": "Ukuze kwazi isizukulwana elizayo, abantwana abazakuzalwa, bavuke batshele abantwana babo.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "ukuze"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "kwazi"
+    },
+    {
+      "surface": "דור",
+      "gloss": "isizukulwana"
+    },
+    {
+      "surface": "אחרון",
+      "gloss": "elizayo"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "abantwana"
+    },
+    {
+      "surface": "יולדו",
+      "gloss": "abazakuzalwa"
+    },
+    {
+      "surface": "יקמו",
+      "gloss": "bavuke"
+    },
+    {
+      "surface": "ויספרו",
+      "gloss": "batshele"
+    },
+    {
+      "surface": "לבניהם",
+      "gloss": "abantwana babo"
+    }
+  ],
+  "timestamp": "2026-09-18T15:02:18.178547819Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 19:5",
+  "book": "numbers",
+  "lang": "xh",
+  "chapter": 19,
+  "translation": "Wayitshisa ⟨את⟩ inkomo emehlo akhe: ⟨את⟩ isikhumba sayo, ⟨את⟩ nenyama yayo, ⟨את⟩ nagazi layo; phezu komquba wayo utshiswa.",
+  "tokens": [
+    {
+      "surface": "ושרף",
+      "gloss": "wayitshisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "inkomo"
+    },
+    {
+      "surface": "הפרה",
+      "gloss": "inkomo"
+    },
+    {
+      "surface": "לעיניו",
+      "gloss": "emehlo akhe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isikhumba sayo"
+    },
+    {
+      "surface": "ערה",
+      "gloss": "isikhumba sayo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ ne-",
+      "marks": "inyama yayo"
+    },
+    {
+      "surface": "בשרה",
+      "gloss": "inyama yayo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ na-",
+      "marks": "gazi layo"
+    },
+    {
+      "surface": "דמה",
+      "gloss": "gazi layo"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu kwe-"
+    },
+    {
+      "surface": "פרשה",
+      "gloss": "umquba wayo"
+    },
+    {
+      "surface": "ישרף",
+      "gloss": "utshiswa"
+    }
+  ],
+  "timestamp": "2026-09-18T07:31:41.864957646Z",
+  "model": "glm-5.3"
+}

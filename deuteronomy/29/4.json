@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 29:4",
+  "book": "deuteronomy",
+  "lang": "xh",
+  "chapter": 29,
+  "translation": "Ndanihamba nani iminyaka engamashumi amane entlango; iingubo zenu azizidambanga phezu kwenu, nesicathulo sakho asizidambanga ehlotyeni lweenyawo zakho.",
+  "tokens": [
+    {
+      "surface": "ואולך",
+      "gloss": "Ndanihamba"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ nina",
+      "marks": "nina (iminyaka engamashumi amane)"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "engamashumi amane"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "iminyaka"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "entlango"
+    },
+    {
+      "surface": "לא",
+      "gloss": "azizi"
+    },
+    {
+      "surface": "בלו",
+      "gloss": "zidambanga"
+    },
+    {
+      "surface": "שלמתיכם",
+      "gloss": "iingubo zenu"
+    },
+    {
+      "surface": "מעליכם",
+      "gloss": "phezu kwenu"
+    },
+    {
+      "surface": "ונעלך",
+      "gloss": "nesicathulo sakho"
+    },
+    {
+      "surface": "לא",
+      "gloss": "asi"
+    },
+    {
+      "surface": "בלתה",
+      "gloss": "zidambanga"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "ehlotyeni"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "lweenyawo zakho"
+    }
+  ],
+  "timestamp": "2026-09-18T08:21:23.958108471Z",
+  "model": "glm-5.3"
+}

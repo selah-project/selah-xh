@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 16:4",
+  "book": "genesis",
+  "lang": "xh",
+  "chapter": 16,
+  "translation": "Wangena kuHagari, wakhulelwa; wakubona ukuba ukhulelwe, wancitshisela inkosi yakhe emehweni ake.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "Wangena"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "Hagari"
+    },
+    {
+      "surface": "ותהר",
+      "gloss": "wakhulelwa"
+    },
+    {
+      "surface": "ותרא",
+      "gloss": "wakubona"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ukuba"
+    },
+    {
+      "surface": "הרתה",
+      "gloss": "ukhulelwe"
+    },
+    {
+      "surface": "ותקל",
+      "gloss": "wancitshisela"
+    },
+    {
+      "surface": "גברתה",
+      "gloss": "inkosi yakhe"
+    },
+    {
+      "surface": "בעיניה",
+      "gloss": "emehweni ake"
+    }
+  ],
+  "timestamp": "2026-09-18T05:16:04.171013796Z",
+  "model": "glm-5.3"
+}

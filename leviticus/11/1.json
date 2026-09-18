@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 11:1",
+  "book": "leviticus",
+  "lang": "xh",
+  "chapter": 11,
+  "translation": "Wathetha uYahwe kuMoshe nakwaku-Aharon, wathi kubo:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "Wathetha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "משה",
+      "gloss": "uMoshe"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "nakwa"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "u-Aharon"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "kubo"
+    }
+  ],
+  "timestamp": "2026-09-18T06:42:52.295602335Z",
+  "model": "glm-5.3"
+}

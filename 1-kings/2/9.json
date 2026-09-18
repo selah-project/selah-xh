@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-kings 2:9",
+  "book": "1-kings",
+  "lang": "xh",
+  "chapter": 2,
+  "translation": "Kwaye ngoku musa ukumkhululeka; kuba wena ungumntu ohlakaniphile, uza kwazi ⟨את⟩ oku uza kukwenzela yena, uza kuhla ubudala bakhe ngegazi eziya kwiSheol.”",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "kwaye ngoku"
+    },
+    {
+      "surface": "אל",
+      "gloss": "musa"
+    },
+    {
+      "surface": "תנקהו",
+      "gloss": "ukumkhululeka"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "איש",
+      "gloss": "umntu"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "ohlakaniphile"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "וידעת",
+      "gloss": "uza kwazi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oku"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oku"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "uza kukwenza"
+    },
+    {
+      "surface": "לו",
+      "gloss": "yena"
+    },
+    {
+      "surface": "והורדת",
+      "gloss": "uza kuhla"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ubudala bakhe"
+    },
+    {
+      "surface": "שיבתו",
+      "gloss": "ubudala bakhe"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "ngegazi"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "eziya kwiSheol"
+    }
+  ],
+  "timestamp": "2026-09-18T10:07:56.796355415Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 74:9",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 74,
+  "translation": "Iimpawu zethu asiziboni; akukho namnye ungumprofeti ngaphezu koko; kwaye ⟨את⟩ akukho kuthi olwaziyo ukuba kuza kuthiwa ukuya de nini.",
+  "tokens": [
+    {
+      "surface": "אותתינו",
+      "gloss": "iimpawu zethu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "asi-"
+    },
+    {
+      "surface": "ראינו",
+      "gloss": "ziboni"
+    },
+    {
+      "surface": "אין",
+      "gloss": "akukho"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "namnye"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "ungumprofeti"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kwaye akukho"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩",
+      "marks": "kuthi"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "olwaziyo"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ukuya de"
+    },
+    {
+      "surface": "מה",
+      "gloss": "nini"
+    }
+  ],
+  "timestamp": "2026-09-18T15:00:06.190134622Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "nehemiah 1:2",
+  "book": "nehemiah",
+  "lang": "xh",
+  "chapter": 1,
+  "translation": "Kwafika uHanani, omnye kwabazalwana bam, yena nabantu bakwaYuda; ndabuzisa ngeYuda abasindileyo, abashiyekileyo esithinjweni, nakwiYerushalayimi.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "kwafika"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "uHanani"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "omnye"
+    },
+    {
+      "surface": "מאחי",
+      "gloss": "kwabazalwana bam"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yena"
+    },
+    {
+      "surface": "ואנשים",
+      "gloss": "nabantu"
+    },
+    {
+      "surface": "מיהודה",
+      "gloss": "bakwaYuda"
+    },
+    {
+      "surface": "ואשאלם",
+      "gloss": "ndabuzisa"
+    },
+    {
+      "surface": "על",
+      "gloss": "nge-"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "amaYuda"
+    },
+    {
+      "surface": "הפליטה",
+      "gloss": "abasindileyo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "abo"
+    },
+    {
+      "surface": "נשארו",
+      "gloss": "abashiyekileyo"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kwi-"
+    },
+    {
+      "surface": "השבי",
+      "gloss": "esithinjweni"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "nakwi-"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "iYerushalayimi"
+    }
+  ],
+  "timestamp": "2026-09-18T16:43:57.791908791Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "joshua 21:22",
+  "book": "joshua",
+  "lang": "xh",
+  "chapter": 21,
+  "translation": "Kunye neKibtsayim nemiyezo yayo, kunye neBeti-Khoron nemiyezo yayo; iindolophu ezine.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "kunye ⟨neאת⟩",
+      "marks": "iKibtsayim"
+    },
+    {
+      "surface": "קבצים",
+      "gloss": "neKibtsayim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kunye ⟨neאת⟩",
+      "marks": "miyezo"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "nemiyezo yayo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kunye ⟨neאת⟩",
+      "marks": "iBeti-Khoron"
+    },
+    {
+      "surface": "בית",
+      "gloss": "iBeti-"
+    },
+    {
+      "surface": "חורן",
+      "gloss": "Khoron"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kunye ⟨neאת⟩",
+      "marks": "miyezo"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "nemiyezo yayo"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "iindolophu"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "ezine"
+    }
+  ],
+  "timestamp": "2026-09-18T08:42:35.791524266Z",
+  "model": "glm-5.3"
+}

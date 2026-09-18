@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 103:2",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 103,
+  "translation": "Mphulela ⟨את⟩ uYahwe, mphefumlo wam, ungahlali ukulibala zonke imbuyiselo zakhe;",
+  "tokens": [
+    {
+      "surface": "ברכי",
+      "gloss": "Mphulela"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mphefumlo wam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uYahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ungahlali"
+    },
+    {
+      "surface": "תשכחי",
+      "gloss": "ukulibala"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zonke"
+    },
+    {
+      "surface": "גמוליו",
+      "gloss": "imbuyiselo zakhe"
+    }
+  ],
+  "timestamp": "2026-09-18T15:14:18.538330226Z",
+  "model": "glm-5.3"
+}

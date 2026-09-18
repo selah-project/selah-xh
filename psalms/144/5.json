@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 144:5",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 144,
+  "translation": "uYahwe, tyekisa amazulu akho uze wehle; chukumisa iintaba, kwaye zimilise.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "הט",
+      "gloss": "tyekisa"
+    },
+    {
+      "surface": "שמיך",
+      "gloss": "amazulu akho"
+    },
+    {
+      "surface": "ותרד",
+      "gloss": "uze wehle"
+    },
+    {
+      "surface": "גע",
+      "gloss": "chukumisa"
+    },
+    {
+      "surface": "בהרים",
+      "gloss": "iintaba"
+    },
+    {
+      "surface": "ויעשנו",
+      "gloss": "kwaye zimilise"
+    }
+  ],
+  "timestamp": "2026-09-18T15:33:54.004423725Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 99:9",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 99,
+  "translation": "Phakamisani uYahwe uElohim wethu, nitshonkelele entabeni ingcwele yakhe, kuba uYahwe uElohim wethu ⟨ngcwele⟩.",
+  "tokens": [
+    {
+      "surface": "רוממו",
+      "gloss": "Phakamisani"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "uElohim wethu"
+    },
+    {
+      "surface": "והשתחוו",
+      "gloss": "nitshonkelele"
+    },
+    {
+      "surface": "להר",
+      "gloss": "entabeni"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "ingcwele yakhe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "⟨ngcwele⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "uElohim wethu"
+    }
+  ],
+  "timestamp": "2026-09-18T15:12:00.992048193Z",
+  "model": "glm-5.3"
+}

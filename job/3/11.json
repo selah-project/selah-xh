@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "job 3:11",
+  "book": "job",
+  "lang": "xh",
+  "chapter": 3,
+  "translation": "Kutheni undingabulali ngaphakathi kwesisu? Ndaphuma esiswini, ndaza ndafa:",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "kutheni"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nga-"
+    },
+    {
+      "surface": "מרחם",
+      "gloss": "ngaphakathi kwesisu"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "ndingabulali"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "esiswini"
+    },
+    {
+      "surface": "יצאתי",
+      "gloss": "ndaphuma"
+    },
+    {
+      "surface": "ואגוע",
+      "gloss": "ndaza ndafa"
+    }
+  ],
+  "timestamp": "2026-09-18T15:59:32.632742792Z",
+  "model": "glm-5.3"
+}

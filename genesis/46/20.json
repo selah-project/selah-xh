@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 46:20",
+  "book": "genesis",
+  "lang": "xh",
+  "chapter": 46,
+  "translation": "Kwaye kuYosefu, kumhlaba waseMitsrayim, kwazalwa uMnashe no-Efrayim, abo uAsenati, unyana kaPoti-fera, umngcwabe waseOni, abazalela yena.",
+  "tokens": [
+    {
+      "surface": "ויולד",
+      "gloss": "Kwaye kwazalwa"
+    },
+    {
+      "surface": "ליוסף",
+      "gloss": "kuYosefu"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "kumhlaba"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "waseMitsrayim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "abo"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "abazalela yena"
+    },
+    {
+      "surface": "לו",
+      "gloss": "yena"
+    },
+    {
+      "surface": "אסנת",
+      "gloss": "uAsenati"
+    },
+    {
+      "surface": "בת",
+      "gloss": "unyana"
+    },
+    {
+      "surface": "פוטי",
+      "gloss": "kaPoti-fera"
+    },
+    {
+      "surface": "פרע",
+      "gloss": "kaPoti-fera"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "umngcwabe"
+    },
+    {
+      "surface": "אן",
+      "gloss": "waseOni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uMnashe"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "uMnashe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "no⟨את⟩",
+      "marks": "u-Efrayim"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "u-Efrayim"
+    }
+  ],
+  "timestamp": "2026-09-18T17:19:33.076227425Z",
+  "model": "glm-5.3"
+}

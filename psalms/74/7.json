@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 74:7",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 74,
+  "translation": "Bathumele umlilo esikhewulweni sakho, basitsalela emhlabeni; bayonakalisa indlu yokuhlala yegama lakho.",
+  "tokens": [
+    {
+      "surface": "שלחו",
+      "gloss": "bathumele"
+    },
+    {
+      "surface": "באש",
+      "gloss": "umlilo"
+    },
+    {
+      "surface": "מקדשך",
+      "gloss": "esikhewulweni sakho"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "emhlabeni"
+    },
+    {
+      "surface": "חללו",
+      "gloss": "bayonakalisa"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "indlu yokuhlala"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "yegama lakho"
+    }
+  ],
+  "timestamp": "2026-09-18T15:01:09.795627316Z",
+  "model": "glm-5.3"
+}

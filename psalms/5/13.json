@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 5:13",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 5,
+  "translation": "Kuba wena, uYahwe, uya kusikelela ⟨את⟩ umalungileyo; njengetsipo yolwaneliseko uya kumzungeleza.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "תברך",
+      "gloss": "uya kusikelela"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "umalungileyo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "כצנה",
+      "gloss": "njengetsipo"
+    },
+    {
+      "surface": "רצון",
+      "gloss": "ulwaneliseko"
+    },
+    {
+      "surface": "תעטרנו",
+      "gloss": "uya kumzungeleza"
+    }
+  ],
+  "timestamp": "2026-09-18T14:24:35.114056191Z",
+  "model": "glm-5.3"
+}

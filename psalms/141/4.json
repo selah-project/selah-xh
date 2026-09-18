@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 141:4",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 141,
+  "translation": "Musa ukujikisa intliziyo yam kwisinto esibi, ukwenza izenzo ngoobubi ⟨את⟩ amadoda enza ubuhoxo; kwaye andiyi kudla iimnandi zabo.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Musa"
+    },
+    {
+      "surface": "תט",
+      "gloss": "ukujikisa"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "intliziyo yam"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "kwisinto"
+    },
+    {
+      "surface": "רע",
+      "gloss": "esibi"
+    },
+    {
+      "surface": "להתעולל",
+      "gloss": "ukwenza"
+    },
+    {
+      "surface": "עללות",
+      "gloss": "izenzo"
+    },
+    {
+      "surface": "ברשע",
+      "gloss": "ngoobubi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amadoda enza ubuhoxo"
+    },
+    {
+      "surface": "אישים",
+      "gloss": "amadoda"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "enza"
+    },
+    {
+      "surface": "און",
+      "gloss": "ubuhoxo"
+    },
+    {
+      "surface": "ובל",
+      "gloss": "kwaye andinge"
+    },
+    {
+      "surface": "אלחם",
+      "gloss": "ndiyi kudla"
+    },
+    {
+      "surface": "במנעמיהם",
+      "gloss": "iimnandi zabo"
+    }
+  ],
+  "timestamp": "2026-09-18T15:31:49.730849927Z",
+  "model": "glm-5.3"
+}

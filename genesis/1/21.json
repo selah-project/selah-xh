@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 1:21",
+  "book": "genesis",
+  "lang": "xh",
+  "chapter": 1,
+  "translation": "Kwaye uElohim wadala ⟨את⟩ iintanini ezinkulu, no⟨את⟩ yonke inefeshi yephilileyo ezezahlwayo awayazela amanzi ngohlobo lwazo, no⟨את⟩ yonke intaka enamaphiko ngohlobo lwayo; kwaye wabona uElohim ukuba kulungile.",
+  "tokens": [
+    {
+      "surface": "ויברא",
+      "gloss": "wadala"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iintanini ezinkulu"
+    },
+    {
+      "surface": "התנינם",
+      "gloss": "iintanini"
+    },
+    {
+      "surface": "הגדלים",
+      "gloss": "ezinkulu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "no⟨את⟩",
+      "marks": "yonke inefeshi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yonke"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "inefeshi"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "yephilileyo"
+    },
+    {
+      "surface": "הרמשת",
+      "gloss": "ezezahlwayo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "awayazela"
+    },
+    {
+      "surface": "שרצו",
+      "gloss": "azela"
+    },
+    {
+      "surface": "המים",
+      "gloss": "amanzi"
+    },
+    {
+      "surface": "למינהם",
+      "gloss": "ngohlobo lwazo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "no⟨את⟩",
+      "marks": "yonke intaka"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yonke"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "intaka"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "enamaphiko"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "ngohlobo lwayo"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "wabona"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ukuba"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "kulungile"
+    }
+  ],
+  "timestamp": "2026-09-18T05:07:52.513920745Z",
+  "model": "glm-5.3"
+}

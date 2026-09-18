@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 19:21",
+  "book": "isaiah",
+  "lang": "xh",
+  "chapter": 19,
+  "translation": "UYahwe uza kwaziwa kwiMitsrayim, yaye abemi beMitsrayim baza kwazi ⟨את⟩ uYahwe ngaloo mini; baza kukhonza ngomnikelo wokuhlaba nangomnikelo, baza kwenza isifungo kuYahwe, basifezekisa.",
+  "tokens": [
+    {
+      "surface": "ונודע",
+      "gloss": "uza kwaziwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "למצרים",
+      "gloss": "kwiMitsrayim"
+    },
+    {
+      "surface": "וידעו",
+      "gloss": "baza kwazi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "iMitsrayim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uYahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ngaloo mini"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "loo"
+    },
+    {
+      "surface": "ועבדו",
+      "gloss": "baza kukhonza"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "ngomnikelo wokuhlaba"
+    },
+    {
+      "surface": "ומנחה",
+      "gloss": "nangomnikelo"
+    },
+    {
+      "surface": "ונדרו",
+      "gloss": "baza kwenza isifungo"
+    },
+    {
+      "surface": "נדר",
+      "gloss": "isifungo"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kuYahwe"
+    },
+    {
+      "surface": "ושלמו",
+      "gloss": "basifezekisa"
+    }
+  ],
+  "timestamp": "2026-09-18T11:13:43.797342503Z",
+  "model": "glm-5.3"
+}

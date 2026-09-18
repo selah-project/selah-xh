@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 95:10",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 95,
+  "translation": "Iminyaka engamashumi amane ndandithukuthele ngesizukulwana eso, ndathi: “Luluntu olusukelelintliziyo, yaye alazi iindlela zam.”",
+  "tokens": [
+    {
+      "surface": "ארבעים",
+      "gloss": "amashumi amane"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "iminyaka"
+    },
+    {
+      "surface": "אקוט",
+      "gloss": "ndandithukuthele"
+    },
+    {
+      "surface": "בדור",
+      "gloss": "ngesizukulwana eso"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "ndathi"
+    },
+    {
+      "surface": "עם",
+      "gloss": "luluntu"
+    },
+    {
+      "surface": "תעי",
+      "gloss": "olusukeleyo"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "intliziyo"
+    },
+    {
+      "surface": "הם",
+      "gloss": "bona"
+    },
+    {
+      "surface": "והם",
+      "gloss": "yaye bona"
+    },
+    {
+      "surface": "לא",
+      "gloss": "a-"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "azanga"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "iindlela zam"
+    }
+  ],
+  "timestamp": "2026-09-18T15:09:53.820358611Z",
+  "model": "glm-5.3"
+}

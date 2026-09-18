@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 48:8",
+  "book": "genesis",
+  "lang": "xh",
+  "chapter": 48,
+  "translation": "U-Israeli wabona ⟨את⟩ amakwenkwe kaYosef, wathi: “Ngabanina aba?”",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "wabona"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "u-Israeli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amakwenkwe kaYosef"
+    },
+    {
+      "surface": "בני",
+      "gloss": "amakwenkwe"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "kaYosef"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ngabanina"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "aba"
+    }
+  ],
+  "timestamp": "2026-09-18T05:45:27.624404867Z",
+  "model": "glm-5.3"
+}

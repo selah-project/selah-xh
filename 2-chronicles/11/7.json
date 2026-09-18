@@ -1,0 +1,44 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 11:7",
+  "book": "2-chronicles",
+  "lang": "xh",
+  "chapter": 11,
+  "translation": "kunye ⟨את⟩ neBhayitTsur, ⟨את⟩ iSokowakhi, ⟨את⟩ noAdhulam;",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "iBhayitTsur"
+    },
+    {
+      "surface": "בית",
+      "gloss": "iBhayit-"
+    },
+    {
+      "surface": "צור",
+      "gloss": "-Tsur"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "iSokowakhi"
+    },
+    {
+      "surface": "שוכו",
+      "gloss": "iSokowakhi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "oAdhulam"
+    },
+    {
+      "surface": "עדלם",
+      "gloss": "oAdhulam"
+    }
+  ],
+  "timestamp": "2026-09-18T17:04:49.829368177Z",
+  "model": "glm-5.3"
+}

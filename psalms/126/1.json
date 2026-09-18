@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 126:1",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 126,
+  "translation": "Iculo lamaqulu. Ekubuyeleni kukaYahwe ⟨את⟩ ubuyelo besiTsyoni, saba njengabaphuphayo.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Iculo"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "lamaqulu"
+    },
+    {
+      "surface": "בשוב",
+      "gloss": "Ekubuyeleni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kaYahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ubuyelo besiTsyoni"
+    },
+    {
+      "surface": "שיבת",
+      "gloss": "ubuyelo"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "besiTsyoni"
+    },
+    {
+      "surface": "היינו",
+      "gloss": "saba"
+    },
+    {
+      "surface": "כחלמים",
+      "gloss": "njengabaphuphayo"
+    }
+  ],
+  "timestamp": "2026-09-18T17:45:35.795436717Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 107:19",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 107,
+  "translation": "Baze bakhalisa kuYahwe ekuxineni kwabo, wabasindisa ezinxwinyeni zabo.",
+  "tokens": [
+    {
+      "surface": "ויזעקו",
+      "gloss": "baze bakhalisa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "ekuxineni"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kwabo"
+    },
+    {
+      "surface": "ממצקותיהם",
+      "gloss": "ezinxwinyeni zabo"
+    },
+    {
+      "surface": "יושיעם",
+      "gloss": "wabasindisa"
+    }
+  ],
+  "timestamp": "2026-09-18T15:18:24.861625152Z",
+  "model": "glm-5.3"
+}

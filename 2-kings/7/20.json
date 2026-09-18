@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 7:20",
+  "book": "2-kings",
+  "lang": "xh",
+  "chapter": 7,
+  "translation": "Yaye kwenzeka njalo kuye; abantu bamnyathela ⟨את⟩ yena emnyango, waza wafa.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "kwenzeka"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kuye"
+    },
+    {
+      "surface": "כן",
+      "gloss": "njalo"
+    },
+    {
+      "surface": "וירמסו",
+      "gloss": "bamnyathela"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "yena"
+    },
+    {
+      "surface": "העם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "בשׁער",
+      "gloss": "emnyango"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "wafa"
+    }
+  ],
+  "timestamp": "2026-09-18T10:44:53.267495170Z",
+  "model": "glm-5.3"
+}

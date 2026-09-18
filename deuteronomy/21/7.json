@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 21:7",
+  "book": "deuteronomy",
+  "lang": "xh",
+  "chapter": 21,
+  "translation": "Kwaye baza kuphendula, bathi: “Izandla zethu azizichithanga ⟨את⟩ le igazi, nemehlo ethu ayibonanga.”",
+  "tokens": [
+    {
+      "surface": "וענו",
+      "gloss": "baza kuphendula"
+    },
+    {
+      "surface": "ואמרו",
+      "gloss": "bathi"
+    },
+    {
+      "surface": "ידינו",
+      "gloss": "izandla zethu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "azizi-"
+    },
+    {
+      "surface": "שפכה",
+      "gloss": "chithanga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le igazi"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "le igazi"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "eli"
+    },
+    {
+      "surface": "ועינינו",
+      "gloss": "nemehlo ethu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ayi-"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "bonanga"
+    }
+  ],
+  "timestamp": "2026-09-18T08:10:31.744623110Z",
+  "model": "glm-5.3"
+}

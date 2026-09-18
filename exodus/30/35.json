@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "exodus 30:35",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 30,
+  "translation": "Uze wenze ⟨את⟩ yaba yikhetorethi, idityaniso, umsebenzi womdibanisi, isaltyiweyo, icocekileyo, ingcwele.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "Uze wenze"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ikhetorethi"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "ikhetorethi"
+    },
+    {
+      "surface": "רקח",
+      "gloss": "idtyaniso"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "umsebenzi"
+    },
+    {
+      "surface": "רוקח",
+      "gloss": "womdibanisi"
+    },
+    {
+      "surface": "ממלח",
+      "gloss": "isaltyiweyo"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "icocekileyo"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "ingcwele"
+    }
+  ],
+  "timestamp": "2026-09-18T06:17:27.936888116Z",
+  "model": "glm-5.3"
+}

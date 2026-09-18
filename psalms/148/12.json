@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 148:12",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 148,
+  "translation": "amakhosikazi ashukumayo kwakunye namantombazana angatintwatyiwo, amadala kunye namakhwenkwe;",
+  "tokens": [
+    {
+      "surface": "בחורים",
+      "gloss": "amakhwenkwe ashukumayo"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "kwakunye nama-"
+    },
+    {
+      "surface": "בתולות",
+      "gloss": "amantombazana angatintwatyiwo"
+    },
+    {
+      "surface": "זקנים",
+      "gloss": "amadala"
+    },
+    {
+      "surface": "עם",
+      "gloss": "kunye nama-"
+    },
+    {
+      "surface": "נערים",
+      "gloss": "amakhwenkwe"
+    }
+  ],
+  "timestamp": "2026-09-18T15:33:08.746660205Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 36:17",
+  "book": "isaiah",
+  "lang": "xh",
+  "chapter": 36,
+  "translation": "Ude ndifike ndithabathe ⟨את⟩ nina, ndise elizweni elinjenganelwenu elinjalo, ilizwe leengqolowa newayini elitsha, ilizwe lesonka nemidiliya.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "ude"
+    },
+    {
+      "surface": "באי",
+      "gloss": "ndifike"
+    },
+    {
+      "surface": "ולקחתי",
+      "gloss": "ndithabathe"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "nina"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ilizwe"
+    },
+    {
+      "surface": "כארצכם",
+      "gloss": "elinjenganelwenu"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ilizwe"
+    },
+    {
+      "surface": "דגן",
+      "gloss": "leengqolowa"
+    },
+    {
+      "surface": "ותירוש",
+      "gloss": "newayini elitsha"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ilizwe"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "lesonka"
+    },
+    {
+      "surface": "וכרמים",
+      "gloss": "nemidiliya"
+    }
+  ],
+  "timestamp": "2026-09-18T11:27:51.202839109Z",
+  "model": "glm-5.3"
+}

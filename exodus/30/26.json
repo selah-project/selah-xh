@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 30:26",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 30,
+  "translation": "Uza kuthanjisa ngayo ⟨את⟩ itente yokudibana, no⟨את⟩ isikhele sobungqina.",
+  "tokens": [
+    {
+      "surface": "ומשחת",
+      "gloss": "Uza kuthanjisa"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ngayo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "itente yokudibana"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "itente"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "yokudibana"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "no⟨את⟩",
+      "marks": "isikhele sobungqina"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "isikhele"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "sobungqina"
+    }
+  ],
+  "timestamp": "2026-09-18T06:18:13.119977931Z",
+  "model": "glm-5.3"
+}

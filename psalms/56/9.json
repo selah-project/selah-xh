@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 56:9",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 56,
+  "translation": "Ukuhanjiswa kwam wena ububala; iinyembezi zam zibe kwesisiphongo sakho; azikho na kwincwadi yakho?",
+  "tokens": [
+    {
+      "surface": "נדי",
+      "gloss": "ukuhanjiswa kwam"
+    },
+    {
+      "surface": "ספרתה",
+      "gloss": "ububala"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "שימה",
+      "gloss": "zibe"
+    },
+    {
+      "surface": "דמעתי",
+      "gloss": "iinyembezi zam"
+    },
+    {
+      "surface": "בנאדך",
+      "gloss": "kwesisiphongo sakho"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "azikho na"
+    },
+    {
+      "surface": "בספרתך",
+      "gloss": "kwincwadi yakho"
+    }
+  ],
+  "timestamp": "2026-09-18T14:49:33.640069974Z",
+  "model": "glm-5.3"
+}

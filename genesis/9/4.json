@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 9:4",
+  "book": "genesis",
+  "lang": "xh",
+  "chapter": 9,
+  "translation": "Kodwa inyama, ngokusemphefumlweni wayo — igazi layo — aniyi kuyitya.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Kodwa"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "inyama"
+    },
+    {
+      "surface": "בנפשו",
+      "gloss": "ngokusemphefumlweni wayo"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "igazi layo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ayi"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "kuyitya"
+    }
+  ],
+  "timestamp": "2026-09-18T05:10:31.331439025Z",
+  "model": "glm-5.3"
+}

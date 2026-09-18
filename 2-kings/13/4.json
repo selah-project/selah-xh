@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 13:4",
+  "book": "2-kings",
+  "lang": "xh",
+  "chapter": 13,
+  "translation": "U-Yehoachazi wathandazela ubuso bukaYahwe ⟨את⟩, uYahwe wamva; kuba wabona ubunzima ⟨את⟩ beYisrayeli, nangona ibabanzela inkosi yakwaAram.",
+  "tokens": [
+    {
+      "surface": "ויחל",
+      "gloss": "wathandazela"
+    },
+    {
+      "surface": "יהואחז",
+      "gloss": "U-Yehoachazi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ubuso bukaYahwe"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ubuso"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "bukaYahwe"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "wamva"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "uYahwe ⟨kuye⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "wabona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ubunzima beYisrayeli"
+    },
+    {
+      "surface": "לחץ",
+      "gloss": "ubunzima"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "beYisrayeli"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "לחץ",
+      "gloss": "ibabanzela"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "abo"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "inkosi"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "yakwaAram"
+    }
+  ],
+  "timestamp": "2026-09-18T10:50:02.934515428Z",
+  "model": "glm-5.3"
+}

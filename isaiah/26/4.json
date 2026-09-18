@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 26:4",
+  "book": "isaiah",
+  "lang": "xh",
+  "chapter": 26,
+  "translation": "Thembeni uYahwe kuze kube phakade, kuba kuYah, uYahwe, ⟨kukho⟩ litye lamaphakade.",
+  "tokens": [
+    {
+      "surface": "בטחו",
+      "gloss": "Thembeni"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "kuze kube"
+    },
+    {
+      "surface": "עד",
+      "gloss": "phakade"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "ביה",
+      "gloss": "kuYah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "צור",
+      "gloss": "litye"
+    },
+    {
+      "surface": "עולמים",
+      "gloss": "lamaphakade"
+    }
+  ],
+  "timestamp": "2026-09-18T11:18:42.064141581Z",
+  "model": "glm-5.3"
+}

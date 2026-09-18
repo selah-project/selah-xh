@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 17:3",
+  "book": "genesis",
+  "lang": "xh",
+  "chapter": 17,
+  "translation": "Wawa u-Avram ngobuso bakhe, uElohim wathetha ⟨naye⟩ ⟨את⟩ ethi:",
+  "tokens": [
+    {
+      "surface": "ויפל",
+      "gloss": "wawa"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "u-Avram"
+    },
+    {
+      "surface": "על",
+      "gloss": "ng"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "obuso bakhe"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "wathetha"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "naye"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ethi"
+    }
+  ],
+  "timestamp": "2026-09-18T05:17:23.835036433Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "amos 9:4",
+  "book": "amos",
+  "lang": "xh",
+  "chapter": 9,
+  "translation": "Nokuba behamba besithunjwa phambi koobutshaba babo, apho na ndiya kuyalela ⟨את⟩ ikrele, libabulele; mna ndiza kubekela iso lam phezu kwabo ngokungcolileyo, hayi ngokulungileyo.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Nokuba"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "behamba"
+    },
+    {
+      "surface": "בשבי",
+      "gloss": "besithunjwa"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "phambi kwa-"
+    },
+    {
+      "surface": "איביהם",
+      "gloss": "oobutshaba babo"
+    },
+    {
+      "surface": "משם",
+      "gloss": "apho na"
+    },
+    {
+      "surface": "אצוה",
+      "gloss": "ndiya kuyalela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ikrele"
+    },
+    {
+      "surface": "החרב",
+      "gloss": "ikrele"
+    },
+    {
+      "surface": "והרגתם",
+      "gloss": "libabulele"
+    },
+    {
+      "surface": "ושמתי",
+      "gloss": "ndiza kubekela"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "iso lam"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "phezu kwabo"
+    },
+    {
+      "surface": "לרעה",
+      "gloss": "ngokungcolileyo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "hayi"
+    },
+    {
+      "surface": "לטובה",
+      "gloss": "ngokulungileyo"
+    }
+  ],
+  "timestamp": "2026-09-18T13:59:51.769899769Z",
+  "model": "glm-5.3"
+}

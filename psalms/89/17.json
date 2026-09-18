@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 89:17",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 89,
+  "translation": "NgeGama lakho bayavuya yonke imini, kwaye ngokulungiselelwakho bapakanyiswa.",
+  "tokens": [
+    {
+      "surface": "בשמך",
+      "gloss": "ngeGama lakho"
+    },
+    {
+      "surface": "יגילון",
+      "gloss": "bayavuya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yonke"
+    },
+    {
+      "surface": "היום",
+      "gloss": "imini"
+    },
+    {
+      "surface": "ובצדקתך",
+      "gloss": "kwaye ngokulungiselelwakho"
+    },
+    {
+      "surface": "ירומו",
+      "gloss": "bapakanyiswa"
+    }
+  ],
+  "timestamp": "2026-09-18T15:08:34.683240978Z",
+  "model": "glm-5.3"
+}

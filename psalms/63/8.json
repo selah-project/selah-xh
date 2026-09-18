@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 63:8",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 63,
+  "translation": "Kuba wena ubunguncedo lwam; emthunzini weziphiko zakho ndiza kucula ndivuye.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kuba"
+    },
+    {
+      "surface": "היית",
+      "gloss": "wena ubu"
+    },
+    {
+      "surface": "עזרתה",
+      "gloss": "nguncedo"
+    },
+    {
+      "surface": "לי",
+      "gloss": "lwam"
+    },
+    {
+      "surface": "ובצל",
+      "gloss": "emthunzini"
+    },
+    {
+      "surface": "כנפיך",
+      "gloss": "weziphiko zakho"
+    },
+    {
+      "surface": "ארנן",
+      "gloss": "ndiza kucula ndivuye"
+    }
+  ],
+  "timestamp": "2026-09-18T14:54:38.865857744Z",
+  "model": "glm-5.3"
+}

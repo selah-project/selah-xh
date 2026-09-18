@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 40:23",
+  "book": "genesis",
+  "lang": "xh",
+  "chapter": 40,
+  "translation": "Kodwa isibini esikhulu sabasela-nobubele alikalibali uYosef, wamlibala.",
+  "tokens": [
+    {
+      "surface": "וילא",
+      "gloss": "kodwa...ali-"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "-lali"
+    },
+    {
+      "surface": "שר",
+      "gloss": "isibini esikhulu"
+    },
+    {
+      "surface": "המשקים",
+      "gloss": "sabasela-nobubele"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uYosef"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "uYosef"
+    },
+    {
+      "surface": "וישכחהו",
+      "gloss": "wamlibala"
+    }
+  ],
+  "timestamp": "2026-09-18T05:35:08.205657761Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "judges 11:15",
+  "book": "judges",
+  "lang": "xh",
+  "chapter": 11,
+  "translation": "wayesetha kuye: “Kangangokuthi uthe uYiftahe: Hayi wathabatha uYisrayeli ⟨את⟩ umhlaba wakwaMowabi, kunye no-⟨את⟩ umhlaba wabantwana bakaAmnon;",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wayesetha"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kuye"
+    },
+    {
+      "surface": "כה",
+      "gloss": "Kangangokuthi"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "uthe"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "uYiftahe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Hayi"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "wathabatha"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "uYisrayeli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umhlaba wakwaMowabi"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "umhlaba"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "wakwaMowabi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kunye no-⟨את⟩",
+      "marks": "umhlaba wabantwana bakaAmnon"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "umhlaba"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wabantwana"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "bakaAmnon"
+    }
+  ],
+  "timestamp": "2026-09-18T09:02:31.513035058Z",
+  "model": "glm-5.3"
+}

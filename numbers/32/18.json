@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "numbers 32:18",
+  "book": "numbers",
+  "lang": "xh",
+  "chapter": 32,
+  "translation": "Asisi kubuyela ezindlini zethu, de oonyana bakaSirayeli bedla umnqophiso, umntu ngamnye umnqophiso wakhe.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "asi"
+    },
+    {
+      "surface": "נשוב",
+      "gloss": "kubuyela"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ezi-"
+    },
+    {
+      "surface": "בתינו",
+      "gloss": "ndlini zethu"
+    },
+    {
+      "surface": "עד",
+      "gloss": "de"
+    },
+    {
+      "surface": "התנחל",
+      "gloss": "bedla umnqophiso"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oonyana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "bakaSirayeli"
+    },
+    {
+      "surface": "איש",
+      "gloss": "umntu ngamnye"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "umnqophiso wakhe"
+    }
+  ],
+  "timestamp": "2026-09-18T07:46:25.531398085Z",
+  "model": "glm-5.3"
+}

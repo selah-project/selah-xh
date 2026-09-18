@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 5:3",
+  "book": "2-kings",
+  "lang": "xh",
+  "chapter": 5,
+  "translation": "Wathi kunkosikazi yakhe: Ngamangaliso ukuba inkosi yam ibingekho phambi komprofeti ose-Shomroni, ngoko wayeza kumisela ⟨את⟩ yena aze aphume kulo mkhuhlane wakhe.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "Wathi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "גברתה",
+      "gloss": "nkosikazi yakhe"
+    },
+    {
+      "surface": "אחלי",
+      "gloss": "ngamangaliso"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "inkosi yam"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "phambi"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "komprofeti"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ose-"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "Shomroni"
+    },
+    {
+      "surface": "אז",
+      "gloss": "ngoko"
+    },
+    {
+      "surface": "יאסף",
+      "gloss": "wayeza kumisela"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "kulo mkhuhlane wakhe"
+    },
+    {
+      "surface": "מצרעתו",
+      "gloss": "kulo mkhuhlane wakhe"
+    }
+  ],
+  "timestamp": "2026-09-18T10:43:33.140053666Z",
+  "model": "glm-5.3"
+}

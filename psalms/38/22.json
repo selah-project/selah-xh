@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 38:22",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 38,
+  "translation": "Ungandishiyi uYahwe, uElohim wam; ungaphambi kude ndi.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Unga"
+    },
+    {
+      "surface": "תעזבני",
+      "gloss": "ndishiye"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "uElohim wam"
+    },
+    {
+      "surface": "אל",
+      "gloss": "unga"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "phambi kude"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "ndi"
+    }
+  ],
+  "timestamp": "2026-09-18T14:43:09.488906174Z",
+  "model": "glm-5.3"
+}

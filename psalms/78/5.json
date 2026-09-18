@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 78:5",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 78,
+  "translation": "Wayimisa ingqikelelo kuYaaqov, wayibeka iTora kuIsrayeli, obana wayalela ⟨את⟩ ooYise bethu ukubazisa abantwana babo.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "wayimisa"
+    },
+    {
+      "surface": "עדות",
+      "gloss": "ingqikelelo"
+    },
+    {
+      "surface": "ביעקב",
+      "gloss": "kuYaaqov"
+    },
+    {
+      "surface": "ותורה",
+      "gloss": "naye iTora"
+    },
+    {
+      "surface": "שם",
+      "gloss": "wayibeka"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "kuIsrayeli"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "obana"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "wayalela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ooYise bethu"
+    },
+    {
+      "surface": "אבותינו",
+      "gloss": "ooYise bethu"
+    },
+    {
+      "surface": "להודיעם",
+      "gloss": "ukubazisa"
+    },
+    {
+      "surface": "לבניהם",
+      "gloss": "abantwana babo"
+    }
+  ],
+  "timestamp": "2026-09-18T15:02:18.178308173Z",
+  "model": "glm-5.3"
+}

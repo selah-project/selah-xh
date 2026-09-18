@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 2:1",
+  "book": "genesis",
+  "lang": "xh",
+  "chapter": 2,
+  "translation": "Yagqitywa amazulu nomhlaba, nazo zonke iimikhosi zazo.",
+  "tokens": [
+    {
+      "surface": "ויכלו",
+      "gloss": "yagqitywa"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "amazulu"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "nomhlaba"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "nazo zonke"
+    },
+    {
+      "surface": "צבאם",
+      "gloss": "iimikhosi zazo"
+    }
+  ],
+  "timestamp": "2026-09-18T05:08:45.342010156Z",
+  "model": "glm-5.3"
+}

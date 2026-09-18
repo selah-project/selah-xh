@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 50:18",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 50,
+  "translation": "Ukuba ubonile isela, waqhubana naye, ulwahlulo lwakho ludityanene nabaphangi bomtshato.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Ukuba"
+    },
+    {
+      "surface": "ראית",
+      "gloss": "ubonile"
+    },
+    {
+      "surface": "גנב",
+      "gloss": "isela"
+    },
+    {
+      "surface": "ותרץ",
+      "gloss": "waqhubana"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "naye"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "kubi-"
+    },
+    {
+      "surface": "מנאפים",
+      "gloss": "baphangi bomtshato"
+    },
+    {
+      "surface": "חלקך",
+      "gloss": "ulwahlulo lwakho"
+    }
+  ],
+  "timestamp": "2026-09-18T14:47:54.754663543Z",
+  "model": "glm-5.3"
+}

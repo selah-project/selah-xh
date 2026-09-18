@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 1:7",
+  "book": "2-kings",
+  "lang": "xh",
+  "chapter": 1,
+  "translation": "Waza wathetha kwenye: “Yintoni imo yalomntu lowo wenyukelayo ukunifumana, nawe uthethe kwenye ⟨את⟩ la mazwi?”",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "wathetha"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "kwenye"
+    },
+    {
+      "surface": "מה",
+      "gloss": "yintoni"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "imo"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "yalomntu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "lowo"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "wenyukelayo"
+    },
+    {
+      "surface": "לקראתכם",
+      "gloss": "ukunifumana"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "uthethe"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "kwenye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la mazwi"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "la mazwi"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "la"
+    }
+  ],
+  "timestamp": "2026-09-18T10:38:39.263918251Z",
+  "model": "glm-5.3"
+}

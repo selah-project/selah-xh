@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 71:8",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 71,
+  "translation": "Mlomo wam mazalwe ngokudumisa kwakho, yonke imihla ngobuhle bakho obukhulu.",
+  "tokens": [
+    {
+      "surface": "ימלא",
+      "gloss": "mazalwe"
+    },
+    {
+      "surface": "פי",
+      "gloss": "Mlomo wam"
+    },
+    {
+      "surface": "תהלתך",
+      "gloss": "ngokudumisa kwakho"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yonke"
+    },
+    {
+      "surface": "היום",
+      "gloss": "imihla"
+    },
+    {
+      "surface": "תפארתך",
+      "gloss": "ngobuhle bakho obukhulu"
+    }
+  ],
+  "timestamp": "2026-09-18T14:55:58.608049013Z",
+  "model": "glm-5.3"
+}

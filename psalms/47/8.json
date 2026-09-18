@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 47:8",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 47,
+  "translation": "Kuba ukumkani womhlaba wonke nguElohim; culani nokuqonda.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kuba"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ukumkani"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wonke"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "womhlaba"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "nguElohim"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "culani"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "nokuqonda"
+    }
+  ],
+  "timestamp": "2026-09-18T14:48:00.639912680Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 25:28",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 25,
+  "translation": "Uza kwenza ⟨את⟩ othingo bomthi weShitim, uza kuwugquma ngegolide ⟨אתם⟩, ngowo kuthwalwe ⟨את⟩ itafile.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "uza kwenza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "othingo"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "othingo"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "bomthi"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "weShitim"
+    },
+    {
+      "surface": "וצפית",
+      "gloss": "uza kuwugquma"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "othingo"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ngegolide"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "kuthwalwe"
+    },
+    {
+      "surface": "בם",
+      "gloss": "ngowo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "itafile"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "itafile"
+    }
+  ],
+  "timestamp": "2026-09-18T06:12:22.158792722Z",
+  "model": "glm-5.3"
+}

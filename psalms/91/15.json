@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 91:15",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 91,
+  "translation": "Uza kundibiza, mna ndiza kumphendula; mna ndiya kuba naye entlakweni; ndiza kumsindisa, ndinika isidima.",
+  "tokens": [
+    {
+      "surface": "יקראני",
+      "gloss": "uza kundibiza"
+    },
+    {
+      "surface": "ואענהו",
+      "gloss": "ndiza kumphendula"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "naye"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "mna"
+    },
+    {
+      "surface": "בצרה",
+      "gloss": "entlakweni"
+    },
+    {
+      "surface": "אחלצהו",
+      "gloss": "ndiza kumsindisa"
+    },
+    {
+      "surface": "ואכבדהו",
+      "gloss": "ndinika isidima"
+    }
+  ],
+  "timestamp": "2026-09-18T15:10:57.043327397Z",
+  "model": "glm-5.3"
+}

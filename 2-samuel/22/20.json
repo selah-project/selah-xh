@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-samuel 22:20",
+  "book": "2-samuel",
+  "lang": "xh",
+  "chapter": 22,
+  "translation": "Wandikhuphela endlwini exakeleyo, wandisindisa ⟨אתי⟩; kuba wandithandela.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "Wandikhuphela"
+    },
+    {
+      "surface": "למרחב",
+      "gloss": "endlwini exakeleyo"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "mina"
+    },
+    {
+      "surface": "יחלצני",
+      "gloss": "wandisindisa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "wandithandela"
+    },
+    {
+      "surface": "בי",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-09-18T10:03:50.053100021Z",
+  "model": "glm-5.3"
+}

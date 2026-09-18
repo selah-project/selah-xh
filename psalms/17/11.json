@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 17:11",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 17,
+  "translation": "Amanyathelo ethu ngoku awazungezile; amehlo azo abeke ukusithobisa emhlabeni.",
+  "tokens": [
+    {
+      "surface": "אשרינו",
+      "gloss": "amanyathelo ethu"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "ngoku"
+    },
+    {
+      "surface": "סבבוני",
+      "gloss": "awazungezile"
+    },
+    {
+      "surface": "עיניהם",
+      "gloss": "amehlo azo"
+    },
+    {
+      "surface": "ישיתו",
+      "gloss": "abeke"
+    },
+    {
+      "surface": "לנטות",
+      "gloss": "ukusithobisa"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "emhlabeni"
+    }
+  ],
+  "timestamp": "2026-09-18T14:30:48.716338452Z",
+  "model": "glm-5.3"
+}

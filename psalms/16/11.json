@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 16:11",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 16,
+  "translation": "Uya kundazisa indlela yobomi; ukwaneliseka kolonwabo kulapho ⟨את⟩ ubuso bakho khona; iinto ezimnandi ziseSandleni sakho sokunene kuze kube phakade.",
+  "tokens": [
+    {
+      "surface": "תודיעני",
+      "gloss": "uya kundazisa"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "indlela"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "yobomi"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "ukwaneliseka"
+    },
+    {
+      "surface": "שמחות",
+      "gloss": "colonwabo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ubuso bakho"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ubuso bakho"
+    },
+    {
+      "surface": "נעמות",
+      "gloss": "iinto ezimnandi"
+    },
+    {
+      "surface": "בימינך",
+      "gloss": "seSandleni sakho sokunene"
+    },
+    {
+      "surface": "נצח",
+      "gloss": "kuze kube phakade"
+    }
+  ],
+  "timestamp": "2026-09-18T14:30:04.391026146Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 11:11",
+  "book": "leviticus",
+  "lang": "xh",
+  "chapter": 11,
+  "translation": "Zibe zizityholo kuni; aniyi kutya inyama yazo, kwaye ⟨את⟩ izidumbu zazo niyakuzityhola.",
+  "tokens": [
+    {
+      "surface": "ושקץ",
+      "gloss": "zibe zizityholo"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "ziyakuba"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kuni"
+    },
+    {
+      "surface": "מבשרם",
+      "gloss": "inyama yazo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ayi"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "kutya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "izidumbu zazo"
+    },
+    {
+      "surface": "נבלתם",
+      "gloss": "izidumbu zazo"
+    },
+    {
+      "surface": "תשקצו",
+      "gloss": "niyakuzityhola"
+    }
+  ],
+  "timestamp": "2026-09-18T06:41:34.637004734Z",
+  "model": "glm-5.3"
+}

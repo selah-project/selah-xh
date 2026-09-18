@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 27:1",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 27,
+  "translation": "Uza kwenza ⟨את⟩ i-altare ngeentsimbi ze-acasia; iinyaard ezingamihlanu ubude, ngee-nyaard ezingamihlanu ububanzi; i-altare iza kuba yisikwere; iinyaard ezintathu ubude babo.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "Uza kwenza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i-altare"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "i-altare"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "ngeentsimbi"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "ze-acacia"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "zingamihlanu"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "iinyaard"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "ubude"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "nangezingamihlanu"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "iinyaard"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "ububanzi"
+    },
+    {
+      "surface": "רבוע",
+      "gloss": "isikwere"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "iza kuba"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "i-altare"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "nezintathu"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "iinyaard"
+    },
+    {
+      "surface": "קמתו",
+      "gloss": "ubude babo"
+    }
+  ],
+  "timestamp": "2026-09-18T06:14:31.427191194Z",
+  "model": "glm-5.3"
+}

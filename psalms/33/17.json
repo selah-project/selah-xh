@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 33:17",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 33,
+  "translation": "Bubuxoki ihashe ekusindisweni, yaye nangobuninzi bamandla ayo akasindisi.",
+  "tokens": [
+    {
+      "surface": "שקר",
+      "gloss": "bubuxoki"
+    },
+    {
+      "surface": "הסוס",
+      "gloss": "ihashe"
+    },
+    {
+      "surface": "לתשועה",
+      "gloss": "ekusindisweni"
+    },
+    {
+      "surface": "וברב",
+      "gloss": "yaye nangobuninzi"
+    },
+    {
+      "surface": "חילו",
+      "gloss": "bamandla ayo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "akha-"
+    },
+    {
+      "surface": "ימלט",
+      "gloss": "-sindisi"
+    }
+  ],
+  "timestamp": "2026-09-18T14:40:35.934919431Z",
+  "model": "glm-5.3"
+}

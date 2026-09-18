@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 55:9",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 55,
+  "translation": "Ndiza kungxamisa indawo yokubalekela, ukusuka kwimoya ekhaliphayo, ukusuka kwisiphepho.",
+  "tokens": [
+    {
+      "surface": "אחישה",
+      "gloss": "ndiza kungxamisa"
+    },
+    {
+      "surface": "מפלט",
+      "gloss": "indawo yokubalekela"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kwam"
+    },
+    {
+      "surface": "מרוח",
+      "gloss": "ukusuka kwimoya"
+    },
+    {
+      "surface": "סעה",
+      "gloss": "ekhaliphayo"
+    },
+    {
+      "surface": "מסער",
+      "gloss": "ukusuka kwisiphepho"
+    }
+  ],
+  "timestamp": "2026-09-18T14:50:07.162670474Z",
+  "model": "glm-5.3"
+}

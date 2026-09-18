@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 94:11",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 94,
+  "translation": "uYahwe uyayazi iingcinga zomntu, okokuba zinganto.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "uyayazi"
+    },
+    {
+      "surface": "מחשבות",
+      "gloss": "iingcinga"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "zomntu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "okokuba"
+    },
+    {
+      "surface": "המה",
+      "gloss": "zi-"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "zinganto"
+    }
+  ],
+  "timestamp": "2026-09-18T15:10:05.543671327Z",
+  "model": "glm-5.3"
+}

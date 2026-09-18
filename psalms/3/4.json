@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 3:4",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 3,
+  "translation": "Kodwa wena, Yahwe, ungumongamele wam; yindlela endizisa ubunzima bame, umphezumisi wentsimbi yam.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Kodwa wena"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "ungumongamele wam"
+    },
+    {
+      "surface": "בעדי",
+      "gloss": "wam (ngangoku)"
+    },
+    {
+      "surface": "כבודי",
+      "gloss": "yindlela endizisa ubunzima bame"
+    },
+    {
+      "surface": "ומרים",
+      "gloss": "umphezumisi"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "wentsimbi yam"
+    }
+  ],
+  "timestamp": "2026-09-18T14:26:44.232228235Z",
+  "model": "glm-5.3"
+}

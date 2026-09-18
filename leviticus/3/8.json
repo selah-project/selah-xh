@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 3:8",
+  "book": "leviticus",
+  "lang": "xh",
+  "chapter": 3,
+  "translation": "Aze aseke isandla sakhe phezu komhlathi wentloko yento yakhe, aze ayihlabe phambi kwetenti yokudibana; kwaye oonyana baka-Aharon baya kukutyhophha ⟨את⟩ igazi layo phezu kwe-altare jikeleze.",
+  "tokens": [
+    {
+      "surface": "וסמך",
+      "gloss": "aze aseke"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isandla sakhe"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "isandla sakhe"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "komhlathi wentloko"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "yento yakhe"
+    },
+    {
+      "surface": "ושחט",
+      "gloss": "aze ayihlabe"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "yona"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "phambi"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "kwetenti"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "yokudibana"
+    },
+    {
+      "surface": "וזרקו",
+      "gloss": "baya kukutyhophha"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oonyana"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "ka-Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "igazi layo"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "igazi layo"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "kwe-altare"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "jikeleze"
+    }
+  ],
+  "timestamp": "2026-09-18T06:33:49.831539563Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 104:31",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 104,
+  "translation": "Mabe ubukhosi bukaYahwe buhlale phakade; uYahwe mavakalise ukuvuya kwezinto zakheenzileyo.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "Mabe…buhlale"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "ubukhosi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ukaYahwe"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "phakade"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "mavakalise ukuvuya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "במעשיו",
+      "gloss": "kwezinto zakheenzileyo"
+    }
+  ],
+  "timestamp": "2026-09-18T17:45:38.115825623Z",
+  "model": "glm-5.3"
+}

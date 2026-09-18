@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 102:28",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 102,
+  "translation": "Kodwa wena nguwe ⟨lo mnye⟩, iminyaka yakho ayizi kuphela.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Kodwa wena"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "nguwe"
+    },
+    {
+      "surface": "ושנותיך",
+      "gloss": "iminyaka yakho"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ayizi"
+    },
+    {
+      "surface": "יתמו",
+      "gloss": "kuphela"
+    }
+  ],
+  "timestamp": "2026-09-18T15:14:22.349922341Z",
+  "model": "glm-5.3"
+}

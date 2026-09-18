@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 14:3",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 14,
+  "translation": "uParo uza kuthetha ngebantwana bakwaYisrayeli: Budidekile kumhlaba, intlango ibavalele.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "uza kuthetha"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "uParo"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "nge-abantwana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "bakwaYisrayeli"
+    },
+    {
+      "surface": "נבכים",
+      "gloss": "Budidekile"
+    },
+    {
+      "surface": "הם",
+      "gloss": "⟨bona⟩"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "kumhlaba"
+    },
+    {
+      "surface": "סגר",
+      "gloss": "ibavalele"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "ke"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "intlango"
+    }
+  ],
+  "timestamp": "2026-09-18T06:02:53.285807655Z",
+  "model": "glm-5.3"
+}

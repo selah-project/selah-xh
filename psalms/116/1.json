@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 116:1",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 116,
+  "translation": "Ndithanda, kuba uYahwe uyeva ⟨את⟩ ilizwi lam, iimfazwe zam;",
+  "tokens": [
+    {
+      "surface": "אהבתי",
+      "gloss": "Ndithanda"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "uyeva"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ilizwi lam"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "ilizwi lam"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "iimfazwe zam"
+    }
+  ],
+  "timestamp": "2026-09-18T15:22:46.566131728Z",
+  "model": "glm-5.3"
+}

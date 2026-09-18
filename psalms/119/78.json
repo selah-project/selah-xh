@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 78,
+  "ref": "psalms 119:78",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 119,
+  "translation": "Mabadinwe abakhwejulayo, kuba bangihamba ngobuxoki; mna ndiza kucinga ngeziyalelo zakho.",
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "mabadinwe"
+    },
+    {
+      "surface": "זדים",
+      "gloss": "abakhwejulayo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "ngobuxoki"
+    },
+    {
+      "surface": "עותוני",
+      "gloss": "bangihamba"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mna"
+    },
+    {
+      "surface": "אשיח",
+      "gloss": "ndiza kucinga"
+    },
+    {
+      "surface": "בפקודיך",
+      "gloss": "ngeziyalelo zakho"
+    }
+  ],
+  "timestamp": "2026-09-18T15:25:55.087723572Z",
+  "model": "glm-5.3"
+}

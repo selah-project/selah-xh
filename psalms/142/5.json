@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 142:5",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 142,
+  "translation": "Buka ngasekunene ubone, kuba andinamntu undaziyo; iphelele kum indawo yokubaleka; akukho mntu ufuna umphefumlo wam.",
+  "tokens": [
+    {
+      "surface": "הביט",
+      "gloss": "buka"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "ngasekunene"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "ubone"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "akukho"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ndinam"
+    },
+    {
+      "surface": "מכיר",
+      "gloss": "undaziyo"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "iphelele"
+    },
+    {
+      "surface": "מנוס",
+      "gloss": "indawo yokubaleka"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "kum"
+    },
+    {
+      "surface": "אין",
+      "gloss": "akukho"
+    },
+    {
+      "surface": "דורש",
+      "gloss": "ufuna"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "umphefumlo wam"
+    }
+  ],
+  "timestamp": "2026-09-18T15:32:17.454774658Z",
+  "model": "glm-5.3"
+}

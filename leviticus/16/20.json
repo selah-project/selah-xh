@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 16:20",
+  "book": "leviticus",
+  "lang": "xh",
+  "chapter": 16,
+  "translation": "Aza aqule ekwenzeni ukubuyisela ⟨את⟩ isingcawe nesingcawe, ⟨את⟩ nendlu yokuqokelela, ⟨את⟩ negawulayo ligcinwa lisingcawe; ngoko uza kungenisa ⟨את⟩ ibhokhwe elihla elibomvu.",
+  "tokens": [
+    {
+      "surface": "וכלה",
+      "gloss": "aza aqule (ekwenzeni)"
+    },
+    {
+      "surface": "מכפר",
+      "gloss": "ukubuyisela (ukuxolela)"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isingcawe"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "isingcawe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "indlu yokuqokelela"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "indlu (ithenti)"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "yokuqokelela (idlangano)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "igawulayo"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "negawulayo"
+    },
+    {
+      "surface": "והקריב",
+      "gloss": "uza kungenisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ibhokhwe elihla"
+    },
+    {
+      "surface": "השעיר",
+      "gloss": "ibhokhwe elihla (unesikhumba esimnyama)"
+    },
+    {
+      "surface": "החי",
+      "gloss": "eliphilileyo (elihla)"
+    }
+  ],
+  "timestamp": "2026-09-18T17:22:25.874640584Z",
+  "model": "glm-5.3"
+}

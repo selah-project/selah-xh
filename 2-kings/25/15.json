@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 25:15",
+  "book": "2-kings",
+  "lang": "xh",
+  "chapter": 25,
+  "translation": "Kananjalo ⟨את⟩ iimfujane ⟩⟨את⟩ neebhasini, ezaziligolide golide, nezisesiliva sesiliva, wazithatha inkoka yabagibi-bhaxa.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "iimfujane"
+    },
+    {
+      "surface": "המחתות",
+      "gloss": "iimfujane"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ieebhasini"
+    },
+    {
+      "surface": "המזרקות",
+      "gloss": "ieebhasini"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ezazi"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ligolide"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "golide"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "nezise"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "sesiliva"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "sesiliva"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "wazithatha"
+    },
+    {
+      "surface": "רב",
+      "gloss": "inkoka"
+    },
+    {
+      "surface": "טבחים",
+      "gloss": "yabagibi-bhaxa"
+    }
+  ],
+  "timestamp": "2026-09-18T17:34:11.618736101Z",
+  "model": "glm-5.3"
+}

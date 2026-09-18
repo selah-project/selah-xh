@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "hosea 4:12",
+  "book": "hosea",
+  "lang": "xh",
+  "chapter": 4,
+  "translation": "Isizwe sam sibuzela komthi walo, intonga yalo iyaxelela kuwo; kuba umoya wobufebe uwabadukisile, baze bawenza ubufebe ngaphantsi koothixo babo.",
+  "tokens": [
+    {
+      "surface": "עמי",
+      "gloss": "isizwe sam"
+    },
+    {
+      "surface": "בעצו",
+      "gloss": "komthi walo"
+    },
+    {
+      "surface": "ישאל",
+      "gloss": "sibuzela"
+    },
+    {
+      "surface": "ומקלו",
+      "gloss": "nentonga yalo"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "iyaxelela"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kuwo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "umoya"
+    },
+    {
+      "surface": "זנונים",
+      "gloss": "wobufebe"
+    },
+    {
+      "surface": "התעה",
+      "gloss": "uwabadukisile"
+    },
+    {
+      "surface": "ויזנו",
+      "gloss": "baze bawenza ubufebe"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "ngaphantsi"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "koothixo babo"
+    }
+  ],
+  "timestamp": "2026-09-18T13:42:08.169884304Z",
+  "model": "glm-5.3"
+}

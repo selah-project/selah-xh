@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 12:4",
+  "book": "deuteronomy",
+  "lang": "xh",
+  "chapter": 12,
+  "translation": "Aniyenzi njalo kuYahwe uElohim wenu.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Ani-"
+    },
+    {
+      "surface": "תעשון",
+      "gloss": "yenzi njalo"
+    },
+    {
+      "surface": "כן",
+      "gloss": "njalo"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kuYahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "uElohim wenu"
+    }
+  ],
+  "timestamp": "2026-09-18T08:05:53.138287807Z",
+  "model": "glm-5.3"
+}

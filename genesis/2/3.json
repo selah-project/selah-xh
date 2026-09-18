@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 2:3",
+  "book": "genesis",
+  "lang": "xh",
+  "chapter": 2,
+  "translation": "U-Elohim wabusisa ⟨את⟩ usuku lwesixhenxe, wayingcwelekisa ⟨את⟩ zona; kuba kuzo waphumla kuso sonke umsebenzi wakhe owoo, owadala uElohim ukubenza.",
+  "tokens": [
+    {
+      "surface": "ויברך",
+      "gloss": "wabusisa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "usuku lwesixhenxe"
+    },
+    {
+      "surface": "יום",
+      "gloss": "usuku"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "lwesixhenxe"
+    },
+    {
+      "surface": "ויקדש",
+      "gloss": "wayingcwelekisa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "usuku lwesixhenxe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "בו",
+      "gloss": "kuzo"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "waphumla"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "kuso sonke"
+    },
+    {
+      "surface": "מלאכתו",
+      "gloss": "umsebenzi wakhe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "owawo"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "owadala"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "ukubenza"
+    }
+  ],
+  "timestamp": "2026-09-18T05:08:45.342884849Z",
+  "model": "glm-5.3"
+}

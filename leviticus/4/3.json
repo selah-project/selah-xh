@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 4:3",
+  "book": "leviticus",
+  "lang": "xh",
+  "chapter": 4,
+  "translation": "ukuba ikohane othanjisiweyo enza isona elenza abantu benalo ubunene, uze anikele ngesono sakhe awayenzileyo inkunzi yenkomo engenangciphezo kuYahwe, njengesono.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ukuba"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ikohane"
+    },
+    {
+      "surface": "המשיח",
+      "gloss": "othanjisiweyo"
+    },
+    {
+      "surface": "יחטא",
+      "gloss": "enza isona"
+    },
+    {
+      "surface": "לאשמת",
+      "gloss": "elenza… ubunene"
+    },
+    {
+      "surface": "העם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "והקריב",
+      "gloss": "uze anikele"
+    },
+    {
+      "surface": "על",
+      "gloss": "nge-"
+    },
+    {
+      "surface": "חטאתו",
+      "gloss": "isono sakhe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "awayenzileyo"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "enza isona"
+    },
+    {
+      "surface": "פר",
+      "gloss": "inkunzi"
+    },
+    {
+      "surface": "בן",
+      "gloss": "yomnye"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "weenkomo"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "engenangciphezo"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kuYahwe"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "njengesono"
+    }
+  ],
+  "timestamp": "2026-09-18T06:34:49.748832958Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 33:6",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 33,
+  "translation": "Abantwana bakwaYisrayeli bazikhupha ⟨את⟩ izihlobiso zabo kwintaba yaseHorove.",
+  "tokens": [
+    {
+      "surface": "ויתנצלו",
+      "gloss": "bazikhupha"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abantwana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "bakwaYisrayeli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izihlobiso zabo"
+    },
+    {
+      "surface": "עדים",
+      "gloss": "izihlobiso zabo"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "kwintaba"
+    },
+    {
+      "surface": "חורב",
+      "gloss": "yaseHorove"
+    }
+  ],
+  "timestamp": "2026-09-18T06:21:42.108933387Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "joshua 6:9",
+  "book": "joshua",
+  "lang": "xh",
+  "chapter": 6,
+  "translation": "Kwaye oolahlasela behamba phambi koobapristi ababetha iishofara, kwaye umkhosi wangasemva ehamba emva kwe-arki, ehamba esabatha ngeeshofara.",
+  "tokens": [
+    {
+      "surface": "והחלוץ",
+      "gloss": "kwaye oolahlasela"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "ehamba"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "phambi"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "koobapristi"
+    },
+    {
+      "surface": "תקעו",
+      "gloss": "bebetha"
+    },
+    {
+      "surface": "השופרות",
+      "gloss": "iishofara"
+    },
+    {
+      "surface": "והמאסף",
+      "gloss": "kwaye umkhosi wangasemva"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "ehamba"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "emva"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "kwe-arki"
+    },
+    {
+      "surface": "הלוך",
+      "gloss": "ehamba"
+    },
+    {
+      "surface": "ותקוע",
+      "gloss": "esabatha"
+    },
+    {
+      "surface": "בשופרות",
+      "gloss": "ngeeshofara"
+    }
+  ],
+  "timestamp": "2026-09-18T08:29:27.501428968Z",
+  "model": "glm-5.3"
+}

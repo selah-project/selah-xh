@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 106:25",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 106,
+  "translation": "Baze wangongoloza kwaiintenti zabo, anga mameli ilizwi likaYahwe.",
+  "tokens": [
+    {
+      "surface": "וירגנו",
+      "gloss": "wangongoloza"
+    },
+    {
+      "surface": "באהליהם",
+      "gloss": "kwaiintenti zabo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "anga"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "mameli"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "ilizwi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "likaYahwe"
+    }
+  ],
+  "timestamp": "2026-09-18T15:17:40.298426509Z",
+  "model": "glm-5.3"
+}

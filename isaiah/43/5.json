@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 43:5",
+  "book": "isaiah",
+  "lang": "xh",
+  "chapter": 43,
+  "translation": "Musa ukoyika, kuba ⟨את⟩ nawe mna ndilikho; imbewu yakho ndiza kuyileisa empuma, ndikunqumle entshona.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Musa"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "ukoyika"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ nawe"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mna"
+    },
+    {
+      "surface": "ממזרח",
+      "gloss": "empuma"
+    },
+    {
+      "surface": "אביא",
+      "gloss": "ndiza kuyileisa"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "imbewu yakho"
+    },
+    {
+      "surface": "וממערב",
+      "gloss": "entshona"
+    },
+    {
+      "surface": "אקבצך",
+      "gloss": "ndikunqumle"
+    }
+  ],
+  "timestamp": "2026-09-18T11:31:07.916097325Z",
+  "model": "glm-5.3"
+}

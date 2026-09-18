@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 3:18",
+  "book": "genesis",
+  "lang": "xh",
+  "chapter": 3,
+  "translation": "Iintlama nezikhwezana ziza kukhula kuwe, kwaye uza kutya ⟨את⟩ izityalo zelivini.",
+  "tokens": [
+    {
+      "surface": "וקוץ",
+      "gloss": "iintlama"
+    },
+    {
+      "surface": "ודרדר",
+      "gloss": "nezikhwezana"
+    },
+    {
+      "surface": "תצמיח",
+      "gloss": "ziza kukhula"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kuwe"
+    },
+    {
+      "surface": "ואכלת",
+      "gloss": "uza kutya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izityalo zelivini"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "izityalo"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "zelivini"
+    }
+  ],
+  "timestamp": "2026-09-18T05:08:46.193772328Z",
+  "model": "glm-5.3"
+}

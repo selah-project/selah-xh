@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 22:2",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 22,
+  "translation": "Ukuba ilanga livukile phezu kwakhe, umgungqo wegazi uluwilo; uya kuhlawulela ngokupheleleyo; ukuba akananto, uza kuthengiswa ngenyawuliselo yakhe.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Ukuba"
+    },
+    {
+      "surface": "זרחה",
+      "gloss": "livukile"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "ilanga"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "phezu kwakhe"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "umgungqo wegazi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "uluwilo"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "uhlawulele"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "ngokupheleleyo"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ukuba"
+    },
+    {
+      "surface": "אין",
+      "gloss": "akananto"
+    },
+    {
+      "surface": "לו",
+      "gloss": "yena"
+    },
+    {
+      "surface": "ונמכר",
+      "gloss": "uza kuthengiswa"
+    },
+    {
+      "surface": "בגנבתו",
+      "gloss": "ngenyawuliselo yakhe"
+    }
+  ],
+  "timestamp": "2026-09-18T06:10:48.003980575Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 2:10",
+  "book": "1-kings",
+  "lang": "xh",
+  "chapter": 2,
+  "translation": "UDawid walala kooyise, wazingelwa kwisixeko sikaDawid.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "walala"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "uDawid"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ko"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "ooyise"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "wazingelwa"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "kwisixeko"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "sikaDawid"
+    }
+  ],
+  "timestamp": "2026-09-18T10:07:56.796607632Z",
+  "model": "glm-5.3"
+}

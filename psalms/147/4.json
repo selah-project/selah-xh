@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 147:4",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 147,
+  "translation": "Ubala inani leenkwenkwezi, zonke ngamagama azo abizwa.",
+  "tokens": [
+    {
+      "surface": "מונה",
+      "gloss": "ubala"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "inani"
+    },
+    {
+      "surface": "לכוכבים",
+      "gloss": "leenkwenkwezi"
+    },
+    {
+      "surface": "לכלם",
+      "gloss": "zonke"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "ngamagama azo"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "abizwa"
+    }
+  ],
+  "timestamp": "2026-09-18T15:34:37.895825968Z",
+  "model": "glm-5.3"
+}

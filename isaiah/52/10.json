@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 52:10",
+  "book": "isaiah",
+  "lang": "xh",
+  "chapter": 52,
+  "translation": "U Yahwe wembula ⟨את⟩ undonkjane lwakhe olungcwele emehlweni onke amazwe; onke amaphethelo omhlaba aye kabonile ⟨את⟩ intsindiwele yam yethu, uElohim.",
+  "tokens": [
+    {
+      "surface": "חשף",
+      "gloss": "wembula"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "undonkjane lwakhe olungcwele"
+    },
+    {
+      "surface": "זרוע",
+      "gloss": "undonkjane"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "olungcwele lwakhe"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "emehlweni"
+    },
+    {
+      "surface": "כל",
+      "gloss": "onke"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "amazwe"
+    },
+    {
+      "surface": "וראו",
+      "gloss": "abonile"
+    },
+    {
+      "surface": "כל",
+      "gloss": "onke"
+    },
+    {
+      "surface": "אפסי",
+      "gloss": "amaphethelo"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "omhlaba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "intsindiwele yam"
+    },
+    {
+      "surface": "ישועת",
+      "gloss": "intsindiwele"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "uElohim wethu"
+    }
+  ],
+  "timestamp": "2026-09-18T11:39:45.234610723Z",
+  "model": "glm-5.3"
+}

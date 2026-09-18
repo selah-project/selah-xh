@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 3:7",
+  "book": "jeremiah",
+  "lang": "xh",
+  "chapter": 3,
+  "translation": "Ndathi: emva kokuba yenze ⟨את⟩ le nto yonke, iza kubuyela kum; kodwa ayibuyelanga. Wayibona udadewazi uYehudah, lowo nobukhohliso.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "ndathi"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "emva kokuba"
+    },
+    {
+      "surface": "עשותה",
+      "gloss": "yenze"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le nto yonke"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zonke"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "le"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kum"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "iza kubuyela"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kodwa ayi-"
+    },
+    {
+      "surface": "שבה",
+      "gloss": "buyelanga"
+    },
+    {
+      "surface": "ותראה",
+      "gloss": "wayibona"
+    },
+    {
+      "surface": "בגודה",
+      "gloss": "lowo nobukhohliso"
+    },
+    {
+      "surface": "אחותה",
+      "gloss": "udadewazi"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "uYehudah"
+    }
+  ],
+  "timestamp": "2026-09-18T11:53:16.766832558Z",
+  "model": "glm-5.3"
+}

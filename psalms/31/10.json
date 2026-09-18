@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 31:10",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 31,
+  "translation": "Ncenela ndiYahwe, kuba ndisengxwabangxwaba; idonga lomoyezo limbile, umoya wam, nesithsaba sam.",
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "Ncenela"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ndiYahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "צר",
+      "gloss": "ndisengxwabangxwaba"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ndi-"
+    },
+    {
+      "surface": "עששה",
+      "gloss": "limbile"
+    },
+    {
+      "surface": "בכעס",
+      "gloss": "ngomoyezo"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "idonga lomme"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "moya wam"
+    },
+    {
+      "surface": "ובטני",
+      "gloss": "nesithsaba sam"
+    }
+  ],
+  "timestamp": "2026-09-18T14:37:40.084546055Z",
+  "model": "glm-5.3"
+}

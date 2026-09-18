@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 3:3",
+  "book": "2-kings",
+  "lang": "xh",
+  "chapter": 3,
+  "translation": "Kodwa kwiizona zoYarobhuam unyana kaNebhathi, ozenza i-Israel yona isonakale, wadinwa; akazange aphume kuzo.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "kodwa"
+    },
+    {
+      "surface": "בחטאות",
+      "gloss": "kwiizona"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "zoYarobhuam"
+    },
+    {
+      "surface": "בן",
+      "gloss": "unyana"
+    },
+    {
+      "surface": "נבט",
+      "gloss": "kaNebhathi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "o-"
+    },
+    {
+      "surface": "החטיא",
+      "gloss": "ozenza isonakale"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i-Israel"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "i-Israel"
+    },
+    {
+      "surface": "דבק",
+      "gloss": "wadinwa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "akazange"
+    },
+    {
+      "surface": "סר",
+      "gloss": "aphume"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "kuzo"
+    }
+  ],
+  "timestamp": "2026-09-18T10:38:53.637108499Z",
+  "model": "glm-5.3"
+}

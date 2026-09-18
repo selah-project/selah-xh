@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 32:15",
+  "book": "isaiah",
+  "lang": "xh",
+  "chapter": 32,
+  "translation": "kude kuwowothulwele umoya ukusuka phezulu phezu kwethu; inkangala iya kuba lithoba elilinyiweyo, elilinyiweyo lingabalelwa njengohlathi.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "kude"
+    },
+    {
+      "surface": "יערה",
+      "gloss": "kuwowothulwele"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "phezu kwethu"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "umoya"
+    },
+    {
+      "surface": "ממרום",
+      "gloss": "ukusuka phezulu"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "kuya kubakho"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "inkangala"
+    },
+    {
+      "surface": "לכרמל",
+      "gloss": "iya kuba lithoba elilinyiweyo"
+    },
+    {
+      "surface": "וכרמל",
+      "gloss": "elilinyiweyo"
+    },
+    {
+      "surface": "ליער",
+      "gloss": "njengohlathi"
+    },
+    {
+      "surface": "יחשב",
+      "gloss": "lingabalelwa"
+    }
+  ],
+  "timestamp": "2026-09-18T11:22:13.353762343Z",
+  "model": "glm-5.3"
+}

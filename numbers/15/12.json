@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 15:12",
+  "book": "numbers",
+  "lang": "xh",
+  "chapter": 15,
+  "translation": "Ngokwamanani eniwenzayo, njalo niyakwenza kwenye nganye, ngokwamanabi ayo.",
+  "tokens": [
+    {
+      "surface": "כמספר",
+      "gloss": "Ngokwamanani"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "eniwenzayo"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "niwenzayo"
+    },
+    {
+      "surface": "ככה",
+      "gloss": "njalo"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "niyakwenza"
+    },
+    {
+      "surface": "לאחד",
+      "gloss": "kwenye nganye"
+    },
+    {
+      "surface": "כמספרם",
+      "gloss": "ngokwamanabi ayo"
+    }
+  ],
+  "timestamp": "2026-09-18T07:27:31.466318107Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 91:6",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 91,
+  "translation": "Isifo esihamba emnyameni, nokutshatyalaliswa okudumbelela phakathi kwemini.",
+  "tokens": [
+    {
+      "surface": "מדבר",
+      "gloss": "isifo"
+    },
+    {
+      "surface": "באפל",
+      "gloss": "emnyameni"
+    },
+    {
+      "surface": "יהלך",
+      "gloss": "esihamba"
+    },
+    {
+      "surface": "מקטב",
+      "gloss": "nokutshatyalaliswa"
+    },
+    {
+      "surface": "ישוד",
+      "gloss": "okudumbelela"
+    },
+    {
+      "surface": "צהרים",
+      "gloss": "phakathi kwemini"
+    }
+  ],
+  "timestamp": "2026-09-18T15:11:11.434413430Z",
+  "model": "glm-5.3"
+}

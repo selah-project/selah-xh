@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 88:15",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 88,
+  "translation": "Kutheni, uYahwe, usityhalela emva umphefumlo wam, ucashisa ubuso bakho kum?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "kutheni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "תזנח",
+      "gloss": "usityhalela emva"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "umphefumlo wam"
+    },
+    {
+      "surface": "תסתיר",
+      "gloss": "ucashisa"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ubuso bakho"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "kum"
+    }
+  ],
+  "timestamp": "2026-09-18T15:06:35.232473260Z",
+  "model": "glm-5.3"
+}

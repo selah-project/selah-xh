@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 23:32",
+  "book": "leviticus",
+  "lang": "xh",
+  "chapter": 23,
+  "translation": "Ngusaphumlo-sabata, iShabat enkulu kuni; niya kuzohlwaya ⟨את⟩ iinefeshi zenu; ngomhla wesithoba ngenyanga ebusuku — ukusuka ebusuku ukusa ebusuku niza kugcina iShabat yenu.",
+  "tokens": [
+    {
+      "surface": "שבת",
+      "gloss": "iShabat"
+    },
+    {
+      "surface": "שבתון",
+      "gloss": "usaphumlo-sabata olukhulu"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ngu-"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kuni"
+    },
+    {
+      "surface": "ועניתם",
+      "gloss": "niya kuzohlwaya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iinefeshi zenu"
+    },
+    {
+      "surface": "נפשתיכם",
+      "gloss": "iinefeshi zenu"
+    },
+    {
+      "surface": "בתשעה",
+      "gloss": "ngomhla wesithoba"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "ngenyanga"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "ebusuku"
+    },
+    {
+      "surface": "מערב",
+      "gloss": "ukusuka ebusuku"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ukusa"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "ebusuku"
+    },
+    {
+      "surface": "תשבתו",
+      "gloss": "niza kugcina"
+    },
+    {
+      "surface": "שבתכם",
+      "gloss": "iShabat yenu"
+    }
+  ],
+  "timestamp": "2026-09-18T07:04:18.454832794Z",
+  "model": "glm-5.3"
+}

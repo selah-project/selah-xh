@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "nahum 2:3",
+  "book": "nahum",
+  "lang": "xh",
+  "chapter": 2,
+  "translation": "Kuba uYahwe ubuyisela ⟨את⟩ ubukhozi bukaYakob, njengobukhozi bakwaSirayeli; kuba abashushumbisi babashushumbisile, kwaye amagatya abo ezibamvu abawonakalisile.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kuba"
+    },
+    {
+      "surface": "שב",
+      "gloss": "ubuyisela"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ubukhozi bukaYakob"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "ubukhozi"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "bukaYakob"
+    },
+    {
+      "surface": "כגאון",
+      "gloss": "njengobukhozi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "bakwaSirayeli"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "בקקום",
+      "gloss": "abashushumbisi"
+    },
+    {
+      "surface": "בקקים",
+      "gloss": "babashushumbisile"
+    },
+    {
+      "surface": "וזמריהם",
+      "gloss": "amagatya abo ezibamvu"
+    },
+    {
+      "surface": "שחתו",
+      "gloss": "abawonakalisile"
+    }
+  ],
+  "timestamp": "2026-09-18T14:10:40.539199991Z",
+  "model": "glm-5.3"
+}

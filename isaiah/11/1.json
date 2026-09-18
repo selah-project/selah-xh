@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 11:1",
+  "book": "isaiah",
+  "lang": "xh",
+  "chapter": 11,
+  "translation": "Kwaye intshiye idla ngokuvela kwisiqu sikaYishayi, netyhubhu evela kwiimpande zakhe izakudala isiqhamo.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "idla ngokuvela"
+    },
+    {
+      "surface": "חטר",
+      "gloss": "intshiye"
+    },
+    {
+      "surface": "מגזע",
+      "gloss": "kwisiqu"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "sikaYishayi"
+    },
+    {
+      "surface": "ונצר",
+      "gloss": "netyhubhu"
+    },
+    {
+      "surface": "משרשיו",
+      "gloss": "kwiimpande zakhe"
+    },
+    {
+      "surface": "יפרה",
+      "gloss": "izakudala isiqhamo"
+    }
+  ],
+  "timestamp": "2026-09-18T11:11:54.901426599Z",
+  "model": "glm-5.3"
+}

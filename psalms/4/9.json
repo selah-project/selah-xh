@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 4:9",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 4,
+  "translation": "Ngokuxoleleyo, ndodwa, ndiza kungalala ndilele; kuba wena, uYahwe, wedwa, undihlalisela ngokhuseleko.",
+  "tokens": [
+    {
+      "surface": "בשלום",
+      "gloss": "ngokuxoleleyo"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "ndodwa"
+    },
+    {
+      "surface": "אשכבה",
+      "gloss": "ndiza kungalala"
+    },
+    {
+      "surface": "ואישן",
+      "gloss": "ndilele"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "לבדד",
+      "gloss": "wedwa"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "ngokhuseleko"
+    },
+    {
+      "surface": "תושיבני",
+      "gloss": "undihlalisela"
+    }
+  ],
+  "timestamp": "2026-09-18T14:24:34.839904182Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 121:5",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 121,
+  "translation": "uYahwe ngumgcini wakho, uYahwe ngumthunzi wakhe ekhohlo lakho lasekunene.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "שמרך",
+      "gloss": "ngumgcini wakho"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "צלך",
+      "gloss": "ngumthunzi wakho"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu"
+    },
+    {
+      "surface": "יד",
+      "gloss": "yesandla"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "lakho lasekunene"
+    }
+  ],
+  "timestamp": "2026-09-18T15:26:27.219883182Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "2-samuel 12:27",
+  "book": "2-samuel",
+  "lang": "xh",
+  "chapter": 12,
+  "translation": "Wathumela uYowabhu abathunywa kuDawidhi, wathi: “Ndilwile eRabha, ndithathe ⟨את⟩ ixeko lamanzi.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "wathumela"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "uYowabhu"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "abathunywa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "uDawidhi"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "נלחמתי",
+      "gloss": "ndilwile"
+    },
+    {
+      "surface": "ברבה",
+      "gloss": "eRabha"
+    },
+    {
+      "surface": "גם",
+      "gloss": "kananjalo"
+    },
+    {
+      "surface": "לכדתי",
+      "gloss": "ndithathe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ixeko lamanzi"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "ixeko"
+    },
+    {
+      "surface": "המים",
+      "gloss": "lamanzi"
+    }
+  ],
+  "timestamp": "2026-09-18T09:52:32.517655067Z",
+  "model": "glm-5.3"
+}

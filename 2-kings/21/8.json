@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 21:8",
+  "book": "2-kings",
+  "lang": "xh",
+  "chapter": 21,
+  "translation": "Andizukongeza ukudukisa inyawo yakwaYisraeli emhlabeni endawonikezona ooyise bawo; kuphela ukuba bagcine ukwenza ngako konke endibalele ngakona, nangoko nangeTora yonke owalele ⟨את⟩ uYisraeli undum wam uMoshe.”",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "hayi"
+    },
+    {
+      "surface": "אסיף",
+      "gloss": "andizukongeza"
+    },
+    {
+      "surface": "להניד",
+      "gloss": "ukudukisa"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "inyawo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "yakwaYisraeli"
+    },
+    {
+      "surface": "מן",
+      "gloss": "emin"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "emhlabeni"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "endawonike"
+    },
+    {
+      "surface": "לאבותם",
+      "gloss": "ooyise bawo"
+    },
+    {
+      "surface": "רק",
+      "gloss": "kuphela"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ukuba"
+    },
+    {
+      "surface": "ישמרו",
+      "gloss": "bagcine"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "ukwenza"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "ngako konke"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "צויתים",
+      "gloss": "endibalele ngakona"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "nangako"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "nangeTora yonke"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "צוה",
+      "gloss": "owalele"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "uYisraeli"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "undum wam"
+    },
+    {
+      "surface": "משה",
+      "gloss": "uMoshe"
+    }
+  ],
+  "timestamp": "2026-09-18T10:58:22.930969296Z",
+  "model": "glm-5.3"
+}

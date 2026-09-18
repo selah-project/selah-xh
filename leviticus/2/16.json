@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 2:16",
+  "book": "leviticus",
+  "lang": "xh",
+  "chapter": 2,
+  "translation": "Kwaye umpristi uza kutshisa ⟨את⟩ isikhumbuzo sayo, seentumba etyiwayo zayo ngeoyile yayo, kunye nilebhone yayo yonke; isirliso yomnikelo kuYahwe.",
+  "tokens": [
+    {
+      "surface": "והקטיר",
+      "gloss": "uza kutshisa"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "umpristi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isikhumbuzo sayo"
+    },
+    {
+      "surface": "אזכרתה",
+      "gloss": "isikhumbuzo sayo"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "seentumba etyiwayo zayo"
+    },
+    {
+      "surface": "ומשמנה",
+      "gloss": "ngeoyile yayo"
+    },
+    {
+      "surface": "על",
+      "gloss": "kunye ne-"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yonke"
+    },
+    {
+      "surface": "לבנתה",
+      "gloss": "ilebhone yayo"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "isirliso yomnikelo"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kuYahwe"
+    }
+  ],
+  "timestamp": "2026-09-18T06:32:49.733850906Z",
+  "model": "glm-5.3"
+}

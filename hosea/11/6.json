@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "hosea 11:6",
+  "book": "hosea",
+  "lang": "xh",
+  "chapter": 11,
+  "translation": "Kwaye isiphanga siya kuma kwiidolophu zakhe, sitshisa iibari zakhe, sidla ngemicimbi yazo.",
+  "tokens": [
+    {
+      "surface": "וחלה",
+      "gloss": "kwaye siya kuma"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "isiphanga"
+    },
+    {
+      "surface": "בעריו",
+      "gloss": "kwiidolophu zakhe"
+    },
+    {
+      "surface": "וכלתה",
+      "gloss": "sitshisa"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "iibari zakhe"
+    },
+    {
+      "surface": "ואכלה",
+      "gloss": "sidla"
+    },
+    {
+      "surface": "ממעצותיהם",
+      "gloss": "ngemicimbi yazo"
+    }
+  ],
+  "timestamp": "2026-09-18T13:48:18.466349913Z",
+  "model": "glm-5.3"
+}

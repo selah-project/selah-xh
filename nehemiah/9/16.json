@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "nehemiah 9:16",
+  "book": "nehemiah",
+  "lang": "xh",
+  "chapter": 9,
+  "translation": "Kodwa bona noobawo bethu bazikhukhumala, benza iintamo ezinqwaleleyo, abanamvela kwimiyalelo yakho.",
+  "tokens": [
+    {
+      "surface": "והם",
+      "gloss": "bona"
+    },
+    {
+      "surface": "ואבתינו",
+      "gloss": "noobawo bethu"
+    },
+    {
+      "surface": "הזידו",
+      "gloss": "bazikhukhumala"
+    },
+    {
+      "surface": "ויקשו",
+      "gloss": "benza ubunzima"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iintamo zabo"
+    },
+    {
+      "surface": "ערפם",
+      "gloss": "iintamo zabo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "abana-"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "-mvela"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwi-"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "miyalelo yakho"
+    }
+  ],
+  "timestamp": "2026-09-18T16:47:24.870456458Z",
+  "model": "glm-5.3"
+}

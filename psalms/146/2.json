@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 146:2",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 146,
+  "translation": "Ndiya kudumisa uYahwe ubomi bam bonke; ndiya kucula kuElohim wam ngesaphila sam.",
+  "tokens": [
+    {
+      "surface": "אהללה",
+      "gloss": "ndiya kudumisa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "בחיי",
+      "gloss": "ubomi bam bonke"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "ndiya kucula"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "kuElohim wam"
+    },
+    {
+      "surface": "בעודי",
+      "gloss": "ngesaphila sam"
+    }
+  ],
+  "timestamp": "2026-09-18T15:33:40.849287038Z",
+  "model": "glm-5.3"
+}

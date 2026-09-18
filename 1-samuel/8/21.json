@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-samuel 8:21",
+  "book": "1-samuel",
+  "lang": "xh",
+  "chapter": 8,
+  "translation": "uShemuweli wamva amazwi onke abantu, wawathetha kwiindlebe zikaYahwe.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "wamva"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "uShemuweli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amazwi onke abantu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "onke"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "amazwi"
+    },
+    {
+      "surface": "העם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "וידברם",
+      "gloss": "wawathetha"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "kwiindlebe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kaYahwe"
+    }
+  ],
+  "timestamp": "2026-09-18T09:14:39.128378871Z",
+  "model": "glm-5.3"
+}

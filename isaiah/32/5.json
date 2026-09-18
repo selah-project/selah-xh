@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 32:5",
+  "book": "isaiah",
+  "lang": "xh",
+  "chapter": 32,
+  "translation": "Isiphukuphuku akusayi kuthiwa kwakhona elinobubele, umtene akusayi kuthiwa uyacebile.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "akusayi"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "kuthiwa"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "kwakhona"
+    },
+    {
+      "surface": "לנבל",
+      "gloss": "isiphukuphuku"
+    },
+    {
+      "surface": "נדיב",
+      "gloss": "elinobubele"
+    },
+    {
+      "surface": "ולכילי",
+      "gloss": "nomtene"
+    },
+    {
+      "surface": "לא",
+      "gloss": "akusayi"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "kuthiwa"
+    },
+    {
+      "surface": "שוע",
+      "gloss": "uyacebile"
+    }
+  ],
+  "timestamp": "2026-09-18T11:24:37.182862227Z",
+  "model": "glm-5.3"
+}

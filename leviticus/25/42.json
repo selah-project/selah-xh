@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "leviticus 25:42",
+  "book": "leviticus",
+  "lang": "xh",
+  "chapter": 25,
+  "translation": "Kuba iinkonza zam zona, ndazikhupha ⟨אתם⟩ ezweni laseMitsrayim; akuthengiswa ngomthengiso wesicaka.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "iinkonza zam"
+    },
+    {
+      "surface": "הם",
+      "gloss": "zona"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ndazikhupha"
+    },
+    {
+      "surface": "הוצאתי",
+      "gloss": ""
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "iinkonza zam"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "ezweni"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "laseMitsrayim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "aku"
+    },
+    {
+      "surface": "ימכרו",
+      "gloss": "thengiswa"
+    },
+    {
+      "surface": "ממכרת",
+      "gloss": "ngomthengiso"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "wesicaka"
+    }
+  ],
+  "timestamp": "2026-09-18T07:05:24.080465908Z",
+  "model": "glm-5.3"
+}

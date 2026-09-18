@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 62:12",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 62,
+  "translation": "Kanye wathetha uElohim, kabini ndive le nto, ukuba ⟨amandla⟩ nguka-Elohim.",
+  "tokens": [
+    {
+      "surface": "אחת",
+      "gloss": "kanye"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "wathetha"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "kabini"
+    },
+    {
+      "surface": "זו",
+      "gloss": "le nto"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "ndive"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ukuba"
+    },
+    {
+      "surface": "עז",
+      "gloss": "amandla"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "nguka-Elohim"
+    }
+  ],
+  "timestamp": "2026-09-18T17:44:26.003321022Z",
+  "model": "glm-5.3"
+}

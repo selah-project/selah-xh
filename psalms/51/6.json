@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 51:6",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 51,
+  "translation": "Kuwe, kuwe wedwa ndone, okungcolileyo kwamehlo akhu ndakwenza ⟨okungcolileyo⟩, ukuze ulungile emazwini akhu, ucacekile kwigwebo lakho.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "kuwe"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "kuwe wedwa"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "ndone"
+    },
+    {
+      "surface": "והרע",
+      "gloss": "okungcolileyo"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "kwamehlo akho"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "ndakwenza"
+    },
+    {
+      "surface": "למען",
+      "gloss": "ukuze"
+    },
+    {
+      "surface": "תצדק",
+      "gloss": "ulungile"
+    },
+    {
+      "surface": "בדברך",
+      "gloss": "emazwini akho"
+    },
+    {
+      "surface": "תזכה",
+      "gloss": "ucacekile"
+    },
+    {
+      "surface": "בשפטך",
+      "gloss": "kwigwebo lakho"
+    }
+  ],
+  "timestamp": "2026-09-18T14:49:50.528601535Z",
+  "model": "glm-5.3"
+}

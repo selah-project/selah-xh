@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 7:10",
+  "book": "job",
+  "lang": "xh",
+  "chapter": 7,
+  "translation": "Akaphindi esabhazweni <angle>kwakhona<\/angle>, ndawo yakhe ayimazi <angle>kwakhona<\/angle>.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "a-"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "phindi"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "kwakhona"
+    },
+    {
+      "surface": "לביתו",
+      "gloss": "esabhazweni lakhe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "yaye ayi-"
+    },
+    {
+      "surface": "יכירנו",
+      "gloss": "mazi"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "kwakhona"
+    },
+    {
+      "surface": "מקמו",
+      "gloss": "ndawo yakhe"
+    }
+  ],
+  "timestamp": "2026-09-18T16:01:09.197182640Z",
+  "model": "glm-5.3"
+}

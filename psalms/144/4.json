@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 144:4",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 144,
+  "translation": "Umntu ufana nomoya odlulayo; iintsuku zakhe njengesithunzi esidlulayo.",
+  "tokens": [
+    {
+      "surface": "אדם",
+      "gloss": "Umntu"
+    },
+    {
+      "surface": "להבל",
+      "gloss": "nomoya odlulayo"
+    },
+    {
+      "surface": "דמה",
+      "gloss": "ufana"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "iintsuku zakhe"
+    },
+    {
+      "surface": "כצל",
+      "gloss": "njengesithunzi"
+    },
+    {
+      "surface": "עובר",
+      "gloss": "esidlulayo"
+    }
+  ],
+  "timestamp": "2026-09-18T15:32:30.587926566Z",
+  "model": "glm-5.3"
+}

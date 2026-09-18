@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 54:9",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 54,
+  "translation": "Kuba ⟨wandikhulula⟩ kulo lonke uxinelwaniso, mme emaphosweni am waphawula iliso lam.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "kulo lonke"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "uxinelwaniso"
+    },
+    {
+      "surface": "הצילני",
+      "gloss": "⟨wandikhulula⟩"
+    },
+    {
+      "surface": "ובאיבי",
+      "gloss": "emaphosweni am"
+    },
+    {
+      "surface": "ראתה",
+      "gloss": "waphawula"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "iliso lam"
+    }
+  ],
+  "timestamp": "2026-09-18T14:48:58.308944410Z",
+  "model": "glm-5.3"
+}

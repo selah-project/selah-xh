@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 16:7",
+  "book": "2-samuel",
+  "lang": "xh",
+  "chapter": 16,
+  "translation": "Kanjalo wathetha uShimi ehleba: “Phuma, phuma, wena ndini yegazi, wena ndini yobuwula!”",
+  "tokens": [
+    {
+      "surface": "וכה",
+      "gloss": "kanjalo"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "wathetha"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "uShimi"
+    },
+    {
+      "surface": "בקללו",
+      "gloss": "ehleba"
+    },
+    {
+      "surface": "צא",
+      "gloss": "Phuma"
+    },
+    {
+      "surface": "צא",
+      "gloss": "phuma"
+    },
+    {
+      "surface": "איש",
+      "gloss": "wena ndini"
+    },
+    {
+      "surface": "הדמים",
+      "gloss": "yegazi"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "wena ndini"
+    },
+    {
+      "surface": "הבליעל",
+      "gloss": "yobuwula"
+    }
+  ],
+  "timestamp": "2026-09-18T09:58:12.427420833Z",
+  "model": "glm-5.3"
+}

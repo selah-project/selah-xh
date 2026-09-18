@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 66:8",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 66,
+  "translation": "Bakani, nina miZwe, uElohim wethu, nize nivakalise ilizwi ledumiso lakhe.",
+  "tokens": [
+    {
+      "surface": "ברכו",
+      "gloss": "Bakani"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "nina miZwe"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "uElohim wethu"
+    },
+    {
+      "surface": "והשמיעו",
+      "gloss": "nize nivakalise"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ilizwi"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "ledumiso lakhe"
+    }
+  ],
+  "timestamp": "2026-09-18T14:55:04.193658996Z",
+  "model": "glm-5.3"
+}

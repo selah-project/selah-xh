@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 162,
+  "ref": "psalms 119:162",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 119,
+  "translation": "Mna ndidumile ngesithetho sakho, njengomntu ofumene isabelwano esinkulu.",
+  "tokens": [
+    {
+      "surface": "שש",
+      "gloss": "ndidumile"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "mna"
+    },
+    {
+      "surface": "על",
+      "gloss": "nge-"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "isithetho sakho"
+    },
+    {
+      "surface": "כמוצא",
+      "gloss": "njengomntu ofumene"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "isabelwano"
+    },
+    {
+      "surface": "רב",
+      "gloss": "esinkulu"
+    }
+  ],
+  "timestamp": "2026-09-18T15:25:30.861973387Z",
+  "model": "glm-5.3"
+}

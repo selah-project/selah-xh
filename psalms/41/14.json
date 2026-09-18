@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 41:14",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 41,
+  "translation": "Wanga abe ngozalwana uYahwe, uElohim ka-Israyeli,kusukela kwixesha elingadibala de kufike kwixesha elingadibala. Kwaba njalo, kwaba njalo.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Wanga abe ngozalwana"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "uElohim ka"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "-Israyeli"
+    },
+    {
+      "surface": "מהעולם",
+      "gloss": "kusukela kwixesha elingadibala"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "de kufike"
+    },
+    {
+      "surface": "העולם",
+      "gloss": "kwixesha elingadibala"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Kwaba njalo"
+    },
+    {
+      "surface": "ואמן",
+      "gloss": "kwaba njalo"
+    }
+  ],
+  "timestamp": "2026-09-18T14:42:48.128131771Z",
+  "model": "glm-5.3"
+}

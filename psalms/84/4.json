@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 84:4",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 84,
+  "translation": "Nokuba intak' encinci ifumene indlu, yaye idrori ifumene isikhululo sokuzala iboodyo bayo: ⟨את⟩ iialthari zakho, uYahwe Tsebhayoti, ukumkani wam noElohim wam.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "nokuba"
+    },
+    {
+      "surface": "צפור",
+      "gloss": "intak' encinci"
+    },
+    {
+      "surface": "מצאה",
+      "gloss": "ifumene"
+    },
+    {
+      "surface": "בית",
+      "gloss": "indlu"
+    },
+    {
+      "surface": "ודרור",
+      "gloss": "yaye idrori"
+    },
+    {
+      "surface": "קן",
+      "gloss": "isikhululo sokuzala"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ibone"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "apho"
+    },
+    {
+      "surface": "שתה",
+      "gloss": "ibeka"
+    },
+    {
+      "surface": "אפרחיה",
+      "gloss": "amaboodyo ayo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iialthari zakho"
+    },
+    {
+      "surface": "מזבחותיך",
+      "gloss": "iialthari zakho"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsebhayoti"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "ukumkani wam"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "noElohim wam"
+    }
+  ],
+  "timestamp": "2026-09-18T15:09:02.112525842Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 31:22",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 31,
+  "translation": "Uvakalise uYahwe, kuba wenze ikhesedi yakhe yodwa kum, kwisixeko esingumqobo.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "uvakalise"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "הפליא",
+      "gloss": "wenze ... yodwa"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ikhesedi yakhe"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kum"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "kwisixeko"
+    },
+    {
+      "surface": "מצור",
+      "gloss": "esingumqobo"
+    }
+  ],
+  "timestamp": "2026-09-18T14:39:34.333692347Z",
+  "model": "glm-5.3"
+}

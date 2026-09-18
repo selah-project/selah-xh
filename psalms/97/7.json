@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 97:7",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 97,
+  "translation": "Mazinze ngemfesane onke abakhonzi bezithombe, abazikhukhuzelayo kwiithixo ezingenalutho; zithobeni kuye, onke oothixo.",
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "mazinze ngemfesane"
+    },
+    {
+      "surface": "כל",
+      "gloss": "onke"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "abakhonzi"
+    },
+    {
+      "surface": "פסל",
+      "gloss": "bezithombe"
+    },
+    {
+      "surface": "המתהללים",
+      "gloss": "abazikhukhuzelayo"
+    },
+    {
+      "surface": "באלילים",
+      "gloss": "kwiithixo ezingenalutho"
+    },
+    {
+      "surface": "השתחוו",
+      "gloss": "zithobeni"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kuye"
+    },
+    {
+      "surface": "כל",
+      "gloss": "onke"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "oothixo"
+    }
+  ],
+  "timestamp": "2026-09-18T15:12:21.925615336Z",
+  "model": "glm-5.3"
+}

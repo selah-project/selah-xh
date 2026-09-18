@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 123:3",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 123,
+  "translation": "Usixolele, uYahwe, usixolele, kuba sizalisiwe ngokugqitha kukungahlonwa.",
+  "tokens": [
+    {
+      "surface": "חננו",
+      "gloss": "Usixolele"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "חננו",
+      "gloss": "usixolele"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "רב",
+      "gloss": "ngokugqitha"
+    },
+    {
+      "surface": "שבענו",
+      "gloss": "sizalisiwe"
+    },
+    {
+      "surface": "בוז",
+      "gloss": "kukungahlonwa"
+    }
+  ],
+  "timestamp": "2026-09-18T15:29:12.814411190Z",
+  "model": "glm-5.3"
+}

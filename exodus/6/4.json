@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 6:4",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 6,
+  "translation": "Yaye ndaza ndimisa ⟨את⟩ umnqophiso wam ⟨אתם⟩ phakathi kwabo, ukubanika ⟨את⟩ ilizwe lakwaKana, ⟨את⟩ ilizwe lokuhlala kwabo okwethutyana, apho bahlala khona njengabasemzini.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "yaye"
+    },
+    {
+      "surface": "הקמתי",
+      "gloss": "ndaza ndimisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umnqophiso wam"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "umnqophiso wam"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "phakathi kwabo"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "ukubanika"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kubo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ilizwe lakwaKana"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ilizwe"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "lakwaKana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ilizwe lokuhlala kwabo"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ilizwe"
+    },
+    {
+      "surface": "מגריהם",
+      "gloss": "lokuhlala kwabo okwethutyana"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "apho"
+    },
+    {
+      "surface": "גרו",
+      "gloss": "bahlala njengabasemzini"
+    },
+    {
+      "surface": "בה",
+      "gloss": "khona"
+    }
+  ],
+  "timestamp": "2026-09-18T05:52:16.814153843Z",
+  "model": "glm-5.3"
+}

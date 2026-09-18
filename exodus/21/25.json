@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 21:25",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 21,
+  "translation": "umchama esikhundleni somchama, inxeba esikhundleni senxeba, undindwe esikhundleni sondindwe.",
+  "tokens": [
+    {
+      "surface": "כויה",
+      "gloss": "umchama"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "esikhundleni sa-"
+    },
+    {
+      "surface": "כויה",
+      "gloss": "umchama"
+    },
+    {
+      "surface": "פצע",
+      "gloss": "inxeba"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "esikhundleni sa-"
+    },
+    {
+      "surface": "פצע",
+      "gloss": "inxeba"
+    },
+    {
+      "surface": "חבורה",
+      "gloss": "undindwe"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "esikhundleni sa-"
+    },
+    {
+      "surface": "חבורה",
+      "gloss": "undindwe"
+    }
+  ],
+  "timestamp": "2026-09-18T06:08:22.770777Z",
+  "model": "glm-5.3"
+}

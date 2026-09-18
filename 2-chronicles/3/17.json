@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-chronicles 3:17",
+  "book": "2-chronicles",
+  "lang": "xh",
+  "chapter": 3,
+  "translation": "Wamisela iintsika phambi betempile, enye ngasekunene, enye ngasekhohlo; wabiza igama leyo yasekunene Yakhiyi, negama leyo yasekhohlo Bowazi.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "wamisela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iintsika"
+    },
+    {
+      "surface": "העמודים",
+      "gloss": "iintsika"
+    },
+    {
+      "surface": "על",
+      "gloss": "phambi"
+    },
+    {
+      "surface": "פני",
+      "gloss": "phambi kobuso bethempile"
+    },
+    {
+      "surface": "ההיכל",
+      "gloss": "bethempile"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "enye"
+    },
+    {
+      "surface": "מימין",
+      "gloss": "ngasekunene"
+    },
+    {
+      "surface": "ואחד",
+      "gloss": "enye"
+    },
+    {
+      "surface": "מהשמאול",
+      "gloss": "ngasekhohlo"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "wabiza"
+    },
+    {
+      "surface": "שם",
+      "gloss": "igama"
+    },
+    {
+      "surface": "הימיני",
+      "gloss": "leyo yasekunene"
+    },
+    {
+      "surface": "יכין",
+      "gloss": "Yakhiyi"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "negama"
+    },
+    {
+      "surface": "השמאלי",
+      "gloss": "leyo yasekhohlo"
+    },
+    {
+      "surface": "בעז",
+      "gloss": "Bowazi"
+    }
+  ],
+  "timestamp": "2026-09-18T17:02:18.470689677Z",
+  "model": "glm-5.3"
+}

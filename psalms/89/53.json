@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "psalms 89:53",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 89,
+  "translation": "Uyabongwa uYahwe kuze kube ninini. Ameni, yaye ameni.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Uyabongwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "kuze kube ninini"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Ameni"
+    },
+    {
+      "surface": "ואמן",
+      "gloss": "yaye ameni"
+    }
+  ],
+  "timestamp": "2026-09-18T15:09:13.117918123Z",
+  "model": "glm-5.3"
+}

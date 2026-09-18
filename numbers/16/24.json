@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "numbers 16:24",
+  "book": "numbers",
+  "lang": "xh",
+  "chapter": 16,
+  "translation": "Yitha eli qela, uthi: Nyukani nilinganise amacala ohlaziyo lukaKora, uDathani no-Abhiramu.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "Yitha"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "li qela"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "uthi"
+    },
+    {
+      "surface": "העלו",
+      "gloss": "Nyukani"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "ilinganise amacala"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "ohlaziyo luka"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Kora"
+    },
+    {
+      "surface": "דתן",
+      "gloss": "Dathani"
+    },
+    {
+      "surface": "ואבירם",
+      "gloss": "no-Abhiramu"
+    }
+  ],
+  "timestamp": "2026-09-18T07:27:01.580889702Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-kings 3:27",
+  "book": "1-kings",
+  "lang": "xh",
+  "chapter": 3,
+  "translation": "Waphendula inkosi yaye wathetha: “Mnikeni yena ⟨את⟩ umntwana ozalweyo ophilayo, lo mfi ningambulali; yena ngunina.”",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "waphendula"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "inkosi"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "wathetha"
+    },
+    {
+      "surface": "תנו",
+      "gloss": "mnikeni"
+    },
+    {
+      "surface": "לה",
+      "gloss": "yena"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umntwana ozalweyo ophilayo"
+    },
+    {
+      "surface": "הילוד",
+      "gloss": "umntwana ozalweyo"
+    },
+    {
+      "surface": "החי",
+      "gloss": "ophilayo"
+    },
+    {
+      "surface": "והמת",
+      "gloss": "lo mfi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ninq"
+    },
+    {
+      "surface": "תמיתהו",
+      "gloss": "ningambulali"
+    },
+    {
+      "surface": "היא",
+      "gloss": "yena"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "ngunina"
+    }
+  ],
+  "timestamp": "2026-09-18T17:31:14.273727155Z",
+  "model": "glm-5.3"
+}

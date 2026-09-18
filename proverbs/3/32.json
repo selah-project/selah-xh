@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "proverbs 3:32",
+  "book": "proverbs",
+  "lang": "xh",
+  "chapter": 3,
+  "translation": "Kuba iinto ezingcwele eziswela ukuqine zisiqhwala kuYahwe, kodwa ⟨את⟩ abalungileyo babelana nesele lwakhe.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "תועבת",
+      "gloss": "isiqhwala"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kuYahwe"
+    },
+    {
+      "surface": "נלוז",
+      "gloss": "eziswela ukuqine"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "abalungileyo"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "abalungileyo"
+    },
+    {
+      "surface": "סודו",
+      "gloss": "isele lwakhe"
+    }
+  ],
+  "timestamp": "2026-09-18T17:46:31.519842469Z",
+  "model": "glm-5.3"
+}

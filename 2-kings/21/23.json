@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "2-kings 21:23",
+  "book": "2-kings",
+  "lang": "xh",
+  "chapter": 21,
+  "translation": "Abakhonzi baka-Amon bacebana ngokumchasa, baza bambulala ⟨את⟩ inkosi endlwini yakhe.",
+  "tokens": [
+    {
+      "surface": "ויקשרו",
+      "gloss": "bacebana"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "Abakhonzi"
+    },
+    {
+      "surface": "אמון",
+      "gloss": "baka-Amon"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ngokumchasa"
+    },
+    {
+      "surface": "וימיתו",
+      "gloss": "bambulala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "inkosi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "inkosi"
+    },
+    {
+      "surface": "בביתו",
+      "gloss": "endlwini yakhe"
+    }
+  ],
+  "timestamp": "2026-09-18T10:55:14.805933216Z",
+  "model": "glm-5.3"
+}

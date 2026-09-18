@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 5:10",
+  "book": "proverbs",
+  "lang": "xh",
+  "chapter": 5,
+  "translation": "hleze abantu basemzini batshwele ngamandla akho, imisebenzi eminzima yakho ibe ngwendlu yomntu wasemzini;",
+  "tokens": [
+    {
+      "surface": "פן",
+      "gloss": "hleze"
+    },
+    {
+      "surface": "ישבעו",
+      "gloss": "batshwele"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "abantu basemzini"
+    },
+    {
+      "surface": "כחך",
+      "gloss": "ngamandla akho"
+    },
+    {
+      "surface": "ועצביך",
+      "gloss": "imisebenzi eminzima yakho"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "ibe ngwendlu"
+    },
+    {
+      "surface": "נכרי",
+      "gloss": "yomntu wasemzini"
+    }
+  ],
+  "timestamp": "2026-09-18T15:37:09.657796738Z",
+  "model": "glm-5.3"
+}

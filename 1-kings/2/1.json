@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 2:1",
+  "book": "1-kings",
+  "lang": "xh",
+  "chapter": 2,
+  "translation": "Yaza amaxesha kaDawidi asondele ukuba afe, wayalela ⟨את⟩ uShelomohi unyana wakhe, wathi:",
+  "tokens": [
+    {
+      "surface": "ויקרבו",
+      "gloss": "Yaza asondele"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "amaxesha"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "kaDawidi"
+    },
+    {
+      "surface": "למות",
+      "gloss": "ukuba afe"
+    },
+    {
+      "surface": "ויצו",
+      "gloss": "wayalela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uShelomohi"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "uShelomohi"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "unyana wakhe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "wathi"
+    }
+  ],
+  "timestamp": "2026-09-18T10:11:32.049590395Z",
+  "model": "glm-5.3"
+}

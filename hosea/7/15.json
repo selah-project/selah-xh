@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "hosea 7:15",
+  "book": "hosea",
+  "lang": "xh",
+  "chapter": 7,
+  "translation": "Yaye mna ndibafundise, ndenzela amandla iingalo zabo; baze bacinga ububi ngam.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "yaye mna"
+    },
+    {
+      "surface": "יסרתי",
+      "gloss": "ndibafundise"
+    },
+    {
+      "surface": "חזקתי",
+      "gloss": "ndenzela amandla"
+    },
+    {
+      "surface": "זרועתם",
+      "gloss": "iingalo zabo"
+    },
+    {
+      "surface": "ואלי",
+      "gloss": "ngam"
+    },
+    {
+      "surface": "יחשבו",
+      "gloss": "bacinga"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ububi"
+    }
+  ],
+  "timestamp": "2026-09-18T13:46:26.945514816Z",
+  "model": "glm-5.3"
+}

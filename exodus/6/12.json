@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 6:12",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 6,
+  "translation": "UMoshe wathetha phambi koYahwe, esithi: “Yabonani, abantwana bakaSirayeli abandilalelanga; uParo uza kundilalela njani, mna ongenyiselwanga ezindebeni?”",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "wathetha"
+    },
+    {
+      "surface": "משה",
+      "gloss": "uMoshe"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "phambi ko"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "esithi"
+    },
+    {
+      "surface": "הן",
+      "gloss": "Yabonani"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abantwana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "bakaSirayeli"
+    },
+    {
+      "surface": "לא",
+      "gloss": "a- (hayi)"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "bamamela"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kum"
+    },
+    {
+      "surface": "ואיך",
+      "gloss": "njani"
+    },
+    {
+      "surface": "ישמעני",
+      "gloss": "uza kundilalela"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "uParo"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "mna"
+    },
+    {
+      "surface": "ערל",
+      "gloss": "ongenyiselwanga"
+    },
+    {
+      "surface": "שפתים",
+      "gloss": "ezindebeni"
+    }
+  ],
+  "timestamp": "2026-09-18T05:50:47.082620429Z",
+  "model": "glm-5.3"
+}

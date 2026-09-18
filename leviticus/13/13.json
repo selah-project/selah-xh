@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 13:13",
+  "book": "leviticus",
+  "lang": "xh",
+  "chapter": 13,
+  "translation": "Kwaye uza kujonga umprofethi, taru, ukugula kudlange ⟨את⟩ yonke inyama yakhe, wayicoca ⟨את⟩ ukugula; yonke itshintshile ibe mhlophe; uy cocileyo.",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "uza kujonga"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "umprofethi"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "taru"
+    },
+    {
+      "surface": "כסתה",
+      "gloss": "kudlange"
+    },
+    {
+      "surface": "הצרעת",
+      "gloss": "ukugula"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yonke inyama yakhe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yonke"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "inyama yakhe"
+    },
+    {
+      "surface": "וטהר",
+      "gloss": "wayicoca"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ukugula"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "ukugula"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "yonke"
+    },
+    {
+      "surface": "הפך",
+      "gloss": "itshintshile"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "ibe mhlophe"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "cocile"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "uy"
+    }
+  ],
+  "timestamp": "2026-09-18T06:47:03.362145363Z",
+  "model": "glm-5.3"
+}

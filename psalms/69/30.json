@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 69:30",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 69,
+  "translation": "Kodwa mna ndiyahlupheka ndinobuhlungu; intsindiso yakho, uElohim, iza kundipakamisa.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Kodwa mna"
+    },
+    {
+      "surface": "עני",
+      "gloss": "ndiyahlupheka"
+    },
+    {
+      "surface": "וכואב",
+      "gloss": "ndinobuhlungu"
+    },
+    {
+      "surface": "ישועתך",
+      "gloss": "intsindiso yakho"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "תשגבני",
+      "gloss": "iza kundipakamisa"
+    }
+  ],
+  "timestamp": "2026-09-18T14:58:50.755951413Z",
+  "model": "glm-5.3"
+}

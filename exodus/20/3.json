@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 20:3",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 20,
+  "translation": "A Makabekekanga kuwe oothixo abanye phezu kobuso bam.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "A makabekekanga"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "makabekekanga"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kuwe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "oothixo"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "abanye"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu"
+    },
+    {
+      "surface": "פני",
+      "gloss": "kobuso bam"
+    }
+  ],
+  "timestamp": "2026-09-18T06:05:03.655233831Z",
+  "model": "glm-5.3"
+}

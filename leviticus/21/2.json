@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 21:2",
+  "book": "leviticus",
+  "lang": "xh",
+  "chapter": 21,
+  "translation": "Ngaphandle kwesilumkana sakhe esisondelayo kuye: umama wakhe, utata wakhe, unyana wakhe, intombi yakwe, nomnakwabo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ngaphandle"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kwe-"
+    },
+    {
+      "surface": "לשארו",
+      "gloss": "kwisilumkana sakhe"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "esisondelayo"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kuye"
+    },
+    {
+      "surface": "לאמו",
+      "gloss": "umama wakhe"
+    },
+    {
+      "surface": "ולאביו",
+      "gloss": "utata wakhe"
+    },
+    {
+      "surface": "ולבנו",
+      "gloss": "unyana wakhe"
+    },
+    {
+      "surface": "ולבתו",
+      "gloss": "intombi yakwe"
+    },
+    {
+      "surface": "ולאחיו",
+      "gloss": "nomnakwabo"
+    }
+  ],
+  "timestamp": "2026-09-18T06:59:19.885868235Z",
+  "model": "glm-5.3"
+}

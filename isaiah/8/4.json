@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 8:4",
+  "book": "isaiah",
+  "lang": "xh",
+  "chapter": 8,
+  "translation": "Kuba phambi kokuba umntwana akwazi ukubiza ⟨ukuthi⟩ “ubawo” nokuthi “mama”, kuya kuthathwa ⟨את⟩ amandla eDamesheqe n⟨את⟩ isithuthwano seShomeron phambi kwenkosi yaseAshuri.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kuba"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "phambi kokuba"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "akwazi"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "umntwana"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "ukubiza"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "“ubawo”"
+    },
+    {
+      "surface": "ואמי",
+      "gloss": "nokuthi “mama”"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "kuya kuthathwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amandla eDamesheqe"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "amandla"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "eDamesheqe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "n⟨את⟩",
+      "marks": "isithuthwano seShomeron"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "isithuthwano"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "seShomeron"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "phambi"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kwenkosi"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "yaseAshuri"
+    }
+  ],
+  "timestamp": "2026-09-18T11:05:42.563085102Z",
+  "model": "glm-5.3"
+}

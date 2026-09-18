@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 132:11",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 132,
+  "translation": "UYahwe wafungisa kuDawidi ngenyaniso, akayi kutshatsha kuso: isibuno sesisu sakho ndiza kubekela isidlwe sakho.",
+  "tokens": [
+    {
+      "surface": "נשבע",
+      "gloss": "wafungisa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "kuDawidi"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "ngenyaniso"
+    },
+    {
+      "surface": "לא",
+      "gloss": "akayi"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "kutshatsha"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "kuso"
+    },
+    {
+      "surface": "מפרי",
+      "gloss": "isibuno sa-"
+    },
+    {
+      "surface": "בטנך",
+      "gloss": "sesisu sakho"
+    },
+    {
+      "surface": "אשית",
+      "gloss": "ndiza kubeka"
+    },
+    {
+      "surface": "לכסא",
+      "gloss": "esidlweni"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sakho"
+    }
+  ],
+  "timestamp": "2026-09-18T15:27:30.821799905Z",
+  "model": "glm-5.3"
+}

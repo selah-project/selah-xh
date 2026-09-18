@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 37:18",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 37,
+  "translation": "uYahwe uyayazi ⟨iintsuku⟩ zabapheleleyo, yaye ifa labo liya kubakho ⟨ngoonaphakade⟩.",
+  "tokens": [
+    {
+      "surface": "יודע",
+      "gloss": "uyayazi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "iintsuku ze"
+    },
+    {
+      "surface": "תמימם",
+      "gloss": "abapheleleyo"
+    },
+    {
+      "surface": "ונחלתם",
+      "gloss": "yaye ifa labo"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ngoonaphakade"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "liya kubakho"
+    }
+  ],
+  "timestamp": "2026-09-18T14:43:13.650904256Z",
+  "model": "glm-5.3"
+}

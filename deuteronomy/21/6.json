@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 21:6",
+  "book": "deuteronomy",
+  "lang": "xh",
+  "chapter": 21,
+  "translation": "Kwaye oo-elderu bonke besixeko eso, abasondeleyo kumntu obulalwayo, baza kuhlamba ⟨את⟩ izandla zabo ngaphezu kwenkomo enkuni eyayinikelwe intamo yayo emthambekelweni.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "bonke"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "oo-elderu"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "besixeko"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "eso"
+    },
+    {
+      "surface": "הקרבים",
+      "gloss": "abasondeleyo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "החלל",
+      "gloss": "umntu obulalwayo"
+    },
+    {
+      "surface": "ירחצו",
+      "gloss": "baza kuhlamba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izandla zabo"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "izandla zabo"
+    },
+    {
+      "surface": "על",
+      "gloss": "ngaphezu kwa"
+    },
+    {
+      "surface": "העגלה",
+      "gloss": "inkomo enkuni"
+    },
+    {
+      "surface": "הערופה",
+      "gloss": "eyayinikelwe intamo yayo"
+    },
+    {
+      "surface": "בנחל",
+      "gloss": "emthambekelweni"
+    }
+  ],
+  "timestamp": "2026-09-18T08:10:31.744318437Z",
+  "model": "glm-5.3"
+}

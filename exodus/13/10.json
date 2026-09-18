@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 13:10",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 13,
+  "translation": "Uza kugcina ⟨את⟩ lo myalelo ngexesha elichaziweyo, ukusukela kumnyaka ukuya kumnyaka.",
+  "tokens": [
+    {
+      "surface": "ושמרת",
+      "gloss": "Uza kugcina"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lo myalelo"
+    },
+    {
+      "surface": "החקה",
+      "gloss": "lo myalelo"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ngexesha elichaziweyo"
+    },
+    {
+      "surface": "למועדה",
+      "gloss": "ukusukela kumnyaka"
+    },
+    {
+      "surface": "מימים",
+      "gloss": "ukuya"
+    },
+    {
+      "surface": "ימימה",
+      "gloss": "kumnyaka"
+    }
+  ],
+  "timestamp": "2026-09-18T17:20:18.577351008Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 11:1",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 11,
+  "translation": "Kumlawuli. KaDavide. KuYahwe ndikhohliwe — njani nithi kumphefumlo wam: “Dukathela entabeni yakho, ntaka”?",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Kumlawuli"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "KaDavide"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "kuYahwe"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "ndikhohliwe"
+    },
+    {
+      "surface": "איך",
+      "gloss": "njani"
+    },
+    {
+      "surface": "תאמרו",
+      "gloss": "nithi"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "kumphefumlo wam"
+    },
+    {
+      "surface": "נודו",
+      "gloss": "Dukathela"
+    },
+    {
+      "surface": "הרכם",
+      "gloss": "entabeni yakho"
+    },
+    {
+      "surface": "צפור",
+      "gloss": "ntaka"
+    }
+  ],
+  "timestamp": "2026-09-18T14:32:39.690055191Z",
+  "model": "glm-5.3"
+}

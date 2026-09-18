@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 23:2",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 23,
+  "translation": "Emadlelweni etyani eluhlaza undibeka phantsi ukuphumla; edukeni kwamanzi okuzola undikhokela.",
+  "tokens": [
+    {
+      "surface": "בנאות",
+      "gloss": "emadlelweni"
+    },
+    {
+      "surface": "דשא",
+      "gloss": "etyani eluhlaza"
+    },
+    {
+      "surface": "ירביצני",
+      "gloss": "undibeka phantsi ukuphumla"
+    },
+    {
+      "surface": "על",
+      "gloss": "edukeni"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kwamanzi"
+    },
+    {
+      "surface": "מנחות",
+      "gloss": "okuzola"
+    },
+    {
+      "surface": "ינהלני",
+      "gloss": "undikhokela"
+    }
+  ],
+  "timestamp": "2026-09-18T14:35:59.450232388Z",
+  "model": "glm-5.3"
+}

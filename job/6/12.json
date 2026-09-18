@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 6:12",
+  "book": "job",
+  "lang": "xh",
+  "chapter": 6,
+  "translation": "Ngaba isikhunkulu sam singamandla amatye? Ngaba inyama yam yintsaro yedongo?",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ngaba"
+    },
+    {
+      "surface": "כח",
+      "gloss": "amandla"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "amatye"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "isikhunkulu sam"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ngaba"
+    },
+    {
+      "surface": "בשרי",
+      "gloss": "inyama yam"
+    },
+    {
+      "surface": "נחוש",
+      "gloss": "intsaro yedongo"
+    }
+  ],
+  "timestamp": "2026-09-18T16:01:30.859031712Z",
+  "model": "glm-5.3"
+}

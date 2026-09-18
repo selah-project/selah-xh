@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-kings 5:7",
+  "book": "1-kings",
+  "lang": "xh",
+  "chapter": 5,
+  "translation": "Kwaye laba bamiselweyo bazalisa ngokutya ⟨את⟩ inkosi uShelomoh, no⟨את⟩ bonke abasondeleyo etafileni yenkosi uShelomoh, umntu ngamnye kwinyanga yakhe; akukho nto bayiyekileyo.",
+  "tokens": [
+    {
+      "surface": "וכלכלו",
+      "gloss": "bazalisa ngokutya"
+    },
+    {
+      "surface": "הנצבים",
+      "gloss": "labantu abamiselweyo"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "laba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "inkosi uShelomoh"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "inkosi"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "uShelomoh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "no⟨את⟩",
+      "marks": "bonke abasondeleyo etafileni"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bonke"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "abasondeleyo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "etafileni"
+    },
+    {
+      "surface": "שלחן",
+      "gloss": "etafile"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "yenkosi"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "uShelomoh"
+    },
+    {
+      "surface": "איש",
+      "gloss": "umntu ngamnye"
+    },
+    {
+      "surface": "חדשו",
+      "gloss": "kwinyanga yakhe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "akukho"
+    },
+    {
+      "surface": "יעדרו",
+      "gloss": "bayiyekileyo"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "nto"
+    }
+  ],
+  "timestamp": "2026-09-18T10:13:41.117862575Z",
+  "model": "glm-5.3"
+}

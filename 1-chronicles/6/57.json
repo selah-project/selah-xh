@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 57,
+  "ref": "1-chronicles 6:57",
+  "book": "1-chronicles",
+  "lang": "xh",
+  "chapter": 6,
+  "translation": "Kwaye kwisiqenga seqela laseYisaskari: iKhedeshi kunye nemimandla yayo eyiyo <imigaqo yomhlaba ongwevange> ⟨את⟩, noDabherathi ⟨את⟩ kunye nemimandla yayo eyiyo.",
+  "tokens": [
+    {
+      "surface": "וממטה",
+      "gloss": "kwaye kwisiqenga seqela"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "laseYisaskari"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iKhedeshi"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "iKhedeshi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "imimandla yayo eyiyo"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "kunye nemimandla yayo eyiyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uDabherathi"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "noDabherathi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "imimandla yayo eyiyo"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "kunye nemimandla yayo eyiyo"
+    }
+  ],
+  "timestamp": "2026-09-18T16:52:28.625458935Z",
+  "model": "glm-5.3"
+}

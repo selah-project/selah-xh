@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 1:6",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 1,
+  "translation": "Kuba uYahwe uyayazi indlela yabalungileyo, kodwa indlela yabenzi bobubi iya kutshatyalaliswa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "uyayazi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "indlela"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "yabalungileyo"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "kwaye indlela"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "yabenzi bobubi"
+    },
+    {
+      "surface": "תאבד",
+      "gloss": "iya kutshatyalaliswa"
+    }
+  ],
+  "timestamp": "2026-09-18T14:25:22.640415395Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 4:8",
+  "book": "1-samuel",
+  "lang": "xh",
+  "chapter": 4,
+  "translation": "“Yeha kuthi! Ngubani oza kusisindisa esandleni sawo la oothixo amandaka? Nguwo aba oothixo ababetha ⟨את⟩ iMitsrayim ngezibetho zonke entlangweni.”",
+  "tokens": [
+    {
+      "surface": "אוי",
+      "gloss": "yeha"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "kuthi"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ngubani"
+    },
+    {
+      "surface": "יצילנו",
+      "gloss": "oza kusisindisa"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "esandleni"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "oothixo"
+    },
+    {
+      "surface": "האדירים",
+      "gloss": "amandaka"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "la"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "nguwo aba"
+    },
+    {
+      "surface": "הם",
+      "gloss": "aba"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "oothixo"
+    },
+    {
+      "surface": "המכים",
+      "gloss": "ababetha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iMitsrayim"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "iMitsrayim"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "nge-…-zonke"
+    },
+    {
+      "surface": "מכה",
+      "gloss": "zibetho"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "entlangweni"
+    }
+  ],
+  "timestamp": "2026-09-18T09:17:20.538759634Z",
+  "model": "glm-5.3"
+}

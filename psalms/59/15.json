@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 59:15",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 59,
+  "translation": "Baze babuyela ebusuku, baze bememeza njengenja, baze besinga-Isixeko.",
+  "tokens": [
+    {
+      "surface": "וישובו",
+      "gloss": "baze babuyela"
+    },
+    {
+      "surface": "לערב",
+      "gloss": "ebusuku"
+    },
+    {
+      "surface": "יהמו",
+      "gloss": "baze bememeza"
+    },
+    {
+      "surface": "ככלב",
+      "gloss": "njengenja"
+    },
+    {
+      "surface": "ויסובבו",
+      "gloss": "baze besinga"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "isixeko"
+    }
+  ],
+  "timestamp": "2026-09-18T14:53:01.033292624Z",
+  "model": "glm-5.3"
+}

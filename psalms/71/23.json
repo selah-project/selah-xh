@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 71:23",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 71,
+  "translation": "Iteyi zam ziza kurhweba uvuyo xa ndikuculela wena; nomphefumlo wam, lowo owawukhulula.",
+  "tokens": [
+    {
+      "surface": "תרננה",
+      "gloss": "ziza kurhweba uvuyo"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "iteyi zam"
+    },
+    {
+      "surface": "כי",
+      "gloss": "xa"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "ndikuculela"
+    },
+    {
+      "surface": "לך",
+      "gloss": "wena"
+    },
+    {
+      "surface": "ונפשי",
+      "gloss": "nomphefumlo wam"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "lowo"
+    },
+    {
+      "surface": "פדית",
+      "gloss": "owawukhulula"
+    }
+  ],
+  "timestamp": "2026-09-18T14:56:41.482270764Z",
+  "model": "glm-5.3"
+}

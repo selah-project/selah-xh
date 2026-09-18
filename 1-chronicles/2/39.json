@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "1-chronicles 2:39",
+  "book": "1-chronicles",
+  "lang": "xh",
+  "chapter": 2,
+  "translation": "u-Azaryahu wazala ⟨את⟩ uKhetlesi, yena uKhetlesi wazala ⟨את⟩ u-Elasaha.",
+  "tokens": [
+    {
+      "surface": "ועזריה",
+      "gloss": "u-Azaryahu"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "wazala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uKhetlesi"
+    },
+    {
+      "surface": "חלץ",
+      "gloss": "uKhetlesi"
+    },
+    {
+      "surface": "וחלץ",
+      "gloss": "yena uKhetlesi"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "wazala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "u-Elasaha"
+    },
+    {
+      "surface": "אלעשה",
+      "gloss": "u-Elasaha"
+    }
+  ],
+  "timestamp": "2026-09-18T16:50:16.360023518Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 6:12",
+  "book": "isaiah",
+  "lang": "xh",
+  "chapter": 6,
+  "translation": "uYahwe eze asuse ⟨את⟩ abantu kude, intsalela eshiyiweyo yande phakathi komhlaba.",
+  "tokens": [
+    {
+      "surface": "ורחק",
+      "gloss": "eze asuse kude"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abantu"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "ורבה",
+      "gloss": "yande"
+    },
+    {
+      "surface": "העזובה",
+      "gloss": "intsalela eshiyiweyo"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "phakathi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "komhlaba"
+    }
+  ],
+  "timestamp": "2026-09-18T17:34:08.812993185Z",
+  "model": "glm-5.3"
+}

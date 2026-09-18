@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 11:5",
+  "book": "isaiah",
+  "lang": "xh",
+  "chapter": 11,
+  "translation": "Ilunga lokucocekileyo liza kuba yisixhaso sam aqhephu zakhe, nokuthembeka yisixhaso sesinqe sakhe.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "liza kuba"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "ilunga lokucocekileyo"
+    },
+    {
+      "surface": "אזור",
+      "gloss": "isixhaso"
+    },
+    {
+      "surface": "מתניו",
+      "gloss": "amaqhephu zakhe"
+    },
+    {
+      "surface": "והאמונה",
+      "gloss": "nokuthembeka"
+    },
+    {
+      "surface": "אזור",
+      "gloss": "isixhaso"
+    },
+    {
+      "surface": "חלציו",
+      "gloss": "sesinqe sakhe"
+    }
+  ],
+  "timestamp": "2026-09-18T11:10:17.389187418Z",
+  "model": "glm-5.3"
+}

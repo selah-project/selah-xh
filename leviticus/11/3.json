@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 11:3",
+  "book": "leviticus",
+  "lang": "xh",
+  "chapter": 11,
+  "translation": "Yonke into ehlahla ihlazi, ihlahla ihlazi ezahlulweyo, iphakamisa ukutya okutsaliweyo (i-cud) kwiinkomo — leyo ⟨את⟩ niyayidla.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Yonke into"
+    },
+    {
+      "surface": "מפרסת",
+      "gloss": "ehlahla"
+    },
+    {
+      "surface": "פרסה",
+      "gloss": "ihlazi"
+    },
+    {
+      "surface": "ושסעת",
+      "gloss": "ihlahla ihlazi ezahlulweyo"
+    },
+    {
+      "surface": "שסע",
+      "gloss": "ezahlulweyo"
+    },
+    {
+      "surface": "פרסת",
+      "gloss": "ihlazi"
+    },
+    {
+      "surface": "מעלת",
+      "gloss": "iphakamisa"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "ukutya okutsaliweyo (i-cud)"
+    },
+    {
+      "surface": "בבהמה",
+      "gloss": "kwiinkomo"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "leyo (into edla i-cud enehlazi)"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "niyayidla"
+    }
+  ],
+  "timestamp": "2026-09-18T06:42:52.296072404Z",
+  "model": "glm-5.3"
+}

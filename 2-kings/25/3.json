@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 25:3",
+  "book": "2-kings",
+  "lang": "xh",
+  "chapter": 25,
+  "translation": "Ngolwesithoba lwenyanga indlala yomelela esixekweni, yaye yayingekho sinkwa kubantu belizwe.",
+  "tokens": [
+    {
+      "surface": "בתשעה",
+      "gloss": "ngolwesithoba"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "lwenyanga"
+    },
+    {
+      "surface": "ויחזק",
+      "gloss": "yomelela"
+    },
+    {
+      "surface": "הרעב",
+      "gloss": "indlala"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "esixekweni"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "yaye yayingekho"
+    },
+    {
+      "surface": "היה",
+      "gloss": "yayingekho"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "sinkwa"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "kubantu"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "belizwe"
+    }
+  ],
+  "timestamp": "2026-09-18T11:02:37.130159371Z",
+  "model": "glm-5.3"
+}

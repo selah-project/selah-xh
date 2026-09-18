@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-kings 20:25",
+  "book": "1-kings",
+  "lang": "xh",
+  "chapter": 20,
+  "translation": "Wena, balisela kuwe umkhosi njengomkhosi owelwe ⟨את⟩ kuwe, namahashe njengamahashe, neeinqwelo njengeenqwelo; siza kulwa nabo ⟨את⟩ kwindawo ethe nkqo; ingaba asiyo kuqina kunabo? Wamva ilizwi labo, wenza njalo.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Wena"
+    },
+    {
+      "surface": "תמנה",
+      "gloss": "balisela"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kuwe"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "umkhosi"
+    },
+    {
+      "surface": "כחיל",
+      "gloss": "njengomkhosi"
+    },
+    {
+      "surface": "הנפל",
+      "gloss": "owelwe"
+    },
+    {
+      "surface": "מאותך",
+      "gloss": "⟨את⟩",
+      "marks": "amahashe"
+    },
+    {
+      "surface": "וסוס",
+      "gloss": "namahashe"
+    },
+    {
+      "surface": "כסוס",
+      "gloss": "njengamahashe"
+    },
+    {
+      "surface": "ורכב",
+      "gloss": "neeinqwelo"
+    },
+    {
+      "surface": "כרכב",
+      "gloss": "njengeenqwelo"
+    },
+    {
+      "surface": "ונלחמה",
+      "gloss": "siza kulwa"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "kwindawo ethe nkqo"
+    },
+    {
+      "surface": "במישור",
+      "gloss": "kwindawo ethe nkqo"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ingaba"
+    },
+    {
+      "surface": "לא",
+      "gloss": "asiyo"
+    },
+    {
+      "surface": "נחזק",
+      "gloss": "kuqina"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "kunabo"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "wamva"
+    },
+    {
+      "surface": "לקלם",
+      "gloss": "ilizwi labo"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "wenza"
+    },
+    {
+      "surface": "כן",
+      "gloss": "njalo"
+    }
+  ],
+  "timestamp": "2026-09-18T17:32:35.865308637Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 59:11",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 59,
+  "translation": "U-Elohim wekhesedi wam uza kundihamba andisandilela; uElohim uza kundibonisa oozela bam.",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "U-Elohim"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "wekhesedi wam"
+    },
+    {
+      "surface": "יקדמני",
+      "gloss": "uza kundihamba andisandilela"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "יראני",
+      "gloss": "uza kundibonisa"
+    },
+    {
+      "surface": "בשררי",
+      "gloss": "oozela bam"
+    }
+  ],
+  "timestamp": "2026-09-18T14:52:45.843340344Z",
+  "model": "glm-5.3"
+}

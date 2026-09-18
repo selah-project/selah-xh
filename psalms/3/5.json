@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 3:5",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 3,
+  "translation": "Ndizerha ngelizwi lam kuYahwe, waphendula umntu <⟨את⟩ hayi apha> — waziphendula kwintaba yakhe ingcwele. Selah.",
+  "tokens": [
+    {
+      "surface": "קולי",
+      "gloss": "ngelizwi lam"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "ndizerha"
+    },
+    {
+      "surface": "ויענני",
+      "gloss": "waphendula"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "kwintaba"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "yakhe ingcwele"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-18T14:26:41.779119058Z",
+  "model": "glm-5.3"
+}

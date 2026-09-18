@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 104:15",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 104,
+  "translation": "Kwaye iwini ivuyisa intliziyo yomntu, ukwenza ubuso bukhanye ngamafutha, navokutya intliziyo yomntu iyalisekela.",
+  "tokens": [
+    {
+      "surface": "ויין",
+      "gloss": "Kwaye iwini"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "ivuyisa"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "intliziyo"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "yomntu"
+    },
+    {
+      "surface": "להצהיל",
+      "gloss": "ukwenza bukhanye"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "ubuso"
+    },
+    {
+      "surface": "משמן",
+      "gloss": "ngamafutha"
+    },
+    {
+      "surface": "ולחם",
+      "gloss": "navokutya"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "intliziyo"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "yomntu"
+    },
+    {
+      "surface": "יסעד",
+      "gloss": "iyalisekela"
+    }
+  ],
+  "timestamp": "2026-09-18T17:45:37.151013004Z",
+  "model": "glm-5.3"
+}

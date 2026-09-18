@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 20:21",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 20,
+  "translation": "Abantu bemi kude, uMoshe ke wasondela kumnyama onzulu apho uElohim wayekhona.",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "bemi"
+    },
+    {
+      "surface": "העם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "kude"
+    },
+    {
+      "surface": "ומשה",
+      "gloss": "uMoshe ke"
+    },
+    {
+      "surface": "נגש",
+      "gloss": "wasondela"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "הערפל",
+      "gloss": "kumnyama onzulu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "apho"
+    },
+    {
+      "surface": "שם",
+      "gloss": "khona"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "uElohim wayekhona"
+    }
+  ],
+  "timestamp": "2026-09-18T06:05:05.079054975Z",
+  "model": "glm-5.3"
+}

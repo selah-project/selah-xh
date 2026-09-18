@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 107:2",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 107,
+  "translation": "Makatsho abahlawulisweyo bakaYahwe, abo wabahlawulisa esandleni sochasene:",
+  "tokens": [
+    {
+      "surface": "יאמרו",
+      "gloss": "Makatsho"
+    },
+    {
+      "surface": "גאולי",
+      "gloss": "abahlawulisweyo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "bakaYahwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "abo"
+    },
+    {
+      "surface": "גאלם",
+      "gloss": "wabahlawulisa"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "esandleni"
+    },
+    {
+      "surface": "צר",
+      "gloss": "sochasene"
+    }
+  ],
+  "timestamp": "2026-09-18T15:17:56.086379707Z",
+  "model": "glm-5.3"
+}

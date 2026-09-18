@@ -1,0 +1,44 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 40:11",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 40,
+  "translation": "Uza kuthanjisa ⟨את⟩ isitya sokuhlambela ⟨את⟩ nesiseko salo, uza kuyingcwelekisa ⟨את⟩ sona.",
+  "tokens": [
+    {
+      "surface": "ומשחת",
+      "gloss": "uza kuthanjisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isitya sokuhlambela"
+    },
+    {
+      "surface": "הכיר",
+      "gloss": "isitya sokuhlambela"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "nesiseko salo"
+    },
+    {
+      "surface": "כנו",
+      "gloss": "nesiseko salo"
+    },
+    {
+      "surface": "וקדשת",
+      "gloss": "uza kuyingcwelekisa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "sona"
+    }
+  ],
+  "timestamp": "2026-09-18T06:31:27.840203580Z",
+  "model": "glm-5.3"
+}

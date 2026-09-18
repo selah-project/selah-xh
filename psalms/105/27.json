@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 105:27",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 105,
+  "translation": "Babeka phakathi kwabo amazwi amaqondiso akhe, nemimangaliso elizweni likaKham.",
+  "tokens": [
+    {
+      "surface": "שמו",
+      "gloss": "babeka"
+    },
+    {
+      "surface": "בם",
+      "gloss": "phakathi kwabo"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "amazwi"
+    },
+    {
+      "surface": "אתותיו",
+      "gloss": "amaqondiso akhe"
+    },
+    {
+      "surface": "ומפתים",
+      "gloss": "nemimangaliso"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "elizweni"
+    },
+    {
+      "surface": "חם",
+      "gloss": "likaKham"
+    }
+  ],
+  "timestamp": "2026-09-18T15:17:18.144124378Z",
+  "model": "glm-5.3"
+}

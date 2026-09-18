@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 23:25",
+  "book": "numbers",
+  "lang": "xh",
+  "chapter": 23,
+  "translation": "Wathi uBalaki kuBilamu: “Nokuba ukubeka isiqalekiso, awunakuwubeka kuwo; nokuba ukusikelela, awunawusikelela.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Wathi"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "uBalaki"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "uBilamu"
+    },
+    {
+      "surface": "גם",
+      "gloss": "nokuba"
+    },
+    {
+      "surface": "קב",
+      "gloss": "ukubeka isiqalekiso"
+    },
+    {
+      "surface": "לא",
+      "gloss": "musa\/awunaku"
+    },
+    {
+      "surface": "תקבנו",
+      "gloss": "ukuwubeka kuwo"
+    },
+    {
+      "surface": "גם",
+      "gloss": "nokuba"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "ukusikelela"
+    },
+    {
+      "surface": "לא",
+      "gloss": "awunaku"
+    },
+    {
+      "surface": "תברכנו",
+      "gloss": "kuwusikelela"
+    }
+  ],
+  "timestamp": "2026-09-18T07:36:09.271016701Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 3:3",
+  "book": "ezekiel",
+  "lang": "xh",
+  "chapter": 3,
+  "translation": "Wathetha kum: “Unyana womntu, siswakho sitye, uzalise ilifu lakho ⟨את⟩ le migalelo endinikelayo.” Ndayitya, yaba semlomeni wam njengesonka samasi ⟨ukuze ibe ntweni⟩.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wathetha"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kum"
+    },
+    {
+      "surface": "בן",
+      "gloss": "unyana"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "womntu"
+    },
+    {
+      "surface": "בטנך",
+      "gloss": "siswakho"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "sitye"
+    },
+    {
+      "surface": "ומעיך",
+      "gloss": "ilifu lakho"
+    },
+    {
+      "surface": "תמלא",
+      "gloss": "uzalise"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le migalelo"
+    },
+    {
+      "surface": "המגלה",
+      "gloss": "le migalelo"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "le"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "endinikelayo"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mna"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ndinika"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kuwe"
+    },
+    {
+      "surface": "ואכלה",
+      "gloss": "ndayitya"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "yaba"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "semlomeni wam"
+    },
+    {
+      "surface": "כדבש",
+      "gloss": "njengesonka samasi"
+    },
+    {
+      "surface": "למתוק",
+      "gloss": "⟨ukuze ibe ntweni⟩"
+    }
+  ],
+  "timestamp": "2026-09-18T12:50:33.264620845Z",
+  "model": "glm-5.3"
+}

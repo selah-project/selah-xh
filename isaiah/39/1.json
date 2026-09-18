@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 39:1",
+  "book": "isaiah",
+  "lang": "xh",
+  "chapter": 39,
+  "translation": "Ngaloo xesha uMerodakh-Baladani, unyana kaBaladani, inkosi yaseBhabheli, wathumela iileta nembeko kuKhizkiyahu, kuba wava ukuba ugule, waza wakha waba namandla.",
+  "tokens": [
+    {
+      "surface": "בעת",
+      "gloss": "Ngaloo xesha"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "loo"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "wathumela"
+    },
+    {
+      "surface": "מרדך",
+      "gloss": "uMerodakh-"
+    },
+    {
+      "surface": "בלאדן",
+      "gloss": "Baladani"
+    },
+    {
+      "surface": "בן",
+      "gloss": "unyana"
+    },
+    {
+      "surface": "בלאדן",
+      "gloss": "kaBaladani"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "inkosi"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "yaseBhabheli"
+    },
+    {
+      "surface": "ספרים",
+      "gloss": "iileta"
+    },
+    {
+      "surface": "ומנחה",
+      "gloss": "nembeko"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Khizkiyahu"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "kuba wava"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ukuba"
+    },
+    {
+      "surface": "חלה",
+      "gloss": "ugule"
+    },
+    {
+      "surface": "ויחזק",
+      "gloss": "wakha waba namandla"
+    }
+  ],
+  "timestamp": "2026-09-18T11:29:11.801546061Z",
+  "model": "glm-5.3"
+}

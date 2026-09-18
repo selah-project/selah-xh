@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "2-samuel 19:32",
+  "book": "2-samuel",
+  "lang": "xh",
+  "chapter": 19,
+  "translation": "UBartsiyelayi waseGileyadi wehla eRogelim, wadlula noKumkani ⟨את⟩ iYordane, ukumsusa ⟨את⟩ aye ngaphesheya yeYordane.",
+  "tokens": [
+    {
+      "surface": "וברזלי",
+      "gloss": "uBartsiyelayi"
+    },
+    {
+      "surface": "הגלעדי",
+      "gloss": "waseGileyadi"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "wehla"
+    },
+    {
+      "surface": "מרגלים",
+      "gloss": "eRogelim"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "wadlula"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iKumkani iYordane"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "noKumkani"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "iYordane"
+    },
+    {
+      "surface": "לשלחו",
+      "gloss": "ukumsusa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "eYordaneni"
+    },
+    {
+      "surface": "בירדן",
+      "gloss": "aye ngaphesheya yeYordane"
+    }
+  ],
+  "timestamp": "2026-09-18T10:01:31.009505305Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "ezekiel 18:30",
+  "book": "ezekiel",
+  "lang": "xh",
+  "chapter": 18,
+  "translation": "Ngoko ke, omnye nomnye ngendlela yakhe, ndiza kunigweba ⟨את⟩ nina, ikhaya lika-Israel — kulotshwe u-Adonayi uYahwe. Buyelani, nize nibuyisele kude nazo zonke iintabalazo zenu, de isono singabi sisiphazamiso kuni.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "ngoko ke"
+    },
+    {
+      "surface": "איש",
+      "gloss": "omnye nomnye"
+    },
+    {
+      "surface": "כדרכיו",
+      "gloss": "ngendlela yakhe"
+    },
+    {
+      "surface": "אשפט",
+      "gloss": "ndiza kunigweba"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "nina, ikhaya lika-Israel"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ikhaya"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "lika-Israel"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "kulotshwe"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "u-Adonayi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "שובו",
+      "gloss": "buyelani"
+    },
+    {
+      "surface": "והשיבו",
+      "gloss": "nize nibuyisele"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "kude nazo zonke"
+    },
+    {
+      "surface": "פשעיכם",
+      "gloss": "iintabalazo zenu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "de ... singabi"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "singabi"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kuni"
+    },
+    {
+      "surface": "למכשול",
+      "gloss": "sisiphazamiso"
+    },
+    {
+      "surface": "עון",
+      "gloss": "sesono"
+    }
+  ],
+  "timestamp": "2026-09-18T13:09:32.640905991Z",
+  "model": "glm-5.3"
+}

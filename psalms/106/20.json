@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 106:20",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 106,
+  "translation": "Batshintshisa ⟨את⟩ ubuzuko babo baba sesimweni senkomo etyayo utshani.",
+  "tokens": [
+    {
+      "surface": "וימירו",
+      "gloss": "batshintshisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ubuzuko babo"
+    },
+    {
+      "surface": "כבודם",
+      "gloss": "ubuzuko babo"
+    },
+    {
+      "surface": "בתבנית",
+      "gloss": "baba sesimweni"
+    },
+    {
+      "surface": "שור",
+      "gloss": "senkomo"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "etyayo"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "utshani"
+    }
+  ],
+  "timestamp": "2026-09-18T15:17:22.968853992Z",
+  "model": "glm-5.3"
+}

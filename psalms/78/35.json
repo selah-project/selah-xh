@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 78:35",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 78,
+  "translation": "Bakhumbula ukuba nguElohim ⟨is⟩ idwala labo, no-El Elyon uMhlabi wabo.",
+  "tokens": [
+    {
+      "surface": "ויזכרו",
+      "gloss": "Bakhumbula"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ukuba"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "nguElohim"
+    },
+    {
+      "surface": "צורם",
+      "gloss": "idwala labo"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "no-El"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elyon"
+    },
+    {
+      "surface": "גאלם",
+      "gloss": "uMhlabi wabo"
+    }
+  ],
+  "timestamp": "2026-09-18T15:03:11.143766742Z",
+  "model": "glm-5.3"
+}

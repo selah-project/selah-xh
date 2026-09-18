@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 58:8",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 58,
+  "translation": "Makanyamalale njengamanzi ahamayo; makaze ayedwa; xa etyhutha umkhondo wakhe, makacuthwe.",
+  "tokens": [
+    {
+      "surface": "ימאסו",
+      "gloss": "makanyamalale"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "njeng"
+    },
+    {
+      "surface": "מים",
+      "gloss": "amanzi ahamayo"
+    },
+    {
+      "surface": "יתהלכו",
+      "gloss": "makaze"
+    },
+    {
+      "surface": "למו",
+      "gloss": "ayedwa"
+    },
+    {
+      "surface": "ידרך",
+      "gloss": "xa etyhutha"
+    },
+    {
+      "surface": "חצו",
+      "gloss": "umkhondo wakhe"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "njengoko"
+    },
+    {
+      "surface": "יתמללו",
+      "gloss": "makacuthwe"
+    }
+  ],
+  "timestamp": "2026-09-18T17:44:12.247882414Z",
+  "model": "glm-5.3"
+}

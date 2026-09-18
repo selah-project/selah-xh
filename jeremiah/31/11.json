@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 31:11",
+  "book": "jeremiah",
+  "lang": "xh",
+  "chapter": 31,
+  "translation": "Kuba uYahwe wamkhulula ⟨את⟩ uYaakov, wamsindisa esandleni somandla esingaphezu kwakhe.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kuba"
+    },
+    {
+      "surface": "פדה",
+      "gloss": "wamkhulula"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uYaakov"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "uYaakov"
+    },
+    {
+      "surface": "וגאלו",
+      "gloss": "wamsindisa"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "esandleni"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "somandla"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "esingaphezu kwakhe"
+    }
+  ],
+  "timestamp": "2026-09-18T12:18:42.286816604Z",
+  "model": "glm-5.3"
+}

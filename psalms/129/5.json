@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 129:5",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 129,
+  "translation": "Mabenze intlonzi, batshone umva, bonke abazithiyayo iTsiyoni.",
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "Mabenze intlonzi"
+    },
+    {
+      "surface": "ויסגו",
+      "gloss": "batshone"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "umva"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bonke"
+    },
+    {
+      "surface": "שנאי",
+      "gloss": "abazithiyayo"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "iTsiyoni"
+    }
+  ],
+  "timestamp": "2026-09-18T15:27:34.881373498Z",
+  "model": "glm-5.3"
+}

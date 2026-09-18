@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "judges 12:13",
+  "book": "judges",
+  "lang": "xh",
+  "chapter": 12,
+  "translation": "Emva kwakhe waguqula-la u-Abdoni unyana kaHileli, umPiratoni, wahlawula uYisrayeli.",
+  "tokens": [
+    {
+      "surface": "וישפט",
+      "gloss": "wahlawula"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "emva kwakhe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uYisrayeli"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "uYisrayeli"
+    },
+    {
+      "surface": "עבדון",
+      "gloss": "u-Abdoni"
+    },
+    {
+      "surface": "בן",
+      "gloss": "unyana ka-"
+    },
+    {
+      "surface": "הלל",
+      "gloss": "Hileli"
+    },
+    {
+      "surface": "הפרעתוני",
+      "gloss": "umPiratoni"
+    }
+  ],
+  "timestamp": "2026-09-18T09:01:29.147054362Z",
+  "model": "glm-5.3"
+}

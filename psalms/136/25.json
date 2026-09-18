@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 136:25",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 136,
+  "translation": "Unikeza ukutya <את> wonke umzimba, kuba ikhesedi yakhe isiwele lanaphakade.",
+  "tokens": [
+    {
+      "surface": "נתן",
+      "gloss": "Unikeza"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ukutya"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "wonke"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "umzimba"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "lanaphakade"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ikhesedi yakhe isiwele"
+    }
+  ],
+  "timestamp": "2026-09-18T15:29:36.237011842Z",
+  "model": "glm-5.3"
+}

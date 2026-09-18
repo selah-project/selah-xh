@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 14:5",
+  "book": "ezekiel",
+  "lang": "xh",
+  "chapter": 14,
+  "translation": "ukuze ndibambelele ⟨את⟩ ibhayisi likaSirayeli ngeentliziyo zabo, abo batshitshile kum ngezikrwadaqadi zabo, bonke.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "ukuze"
+    },
+    {
+      "surface": "תפש",
+      "gloss": "ndibambelele"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ibhayisi likaSirayeli"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ibhayisi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "likaSirayeli"
+    },
+    {
+      "surface": "בלבם",
+      "gloss": "ngeentliziyo zabo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "abo"
+    },
+    {
+      "surface": "נזרו",
+      "gloss": "batshitshile"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "kum"
+    },
+    {
+      "surface": "בגלוליהם",
+      "gloss": "ngezikrwadaqadi zabo"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "bonke"
+    }
+  ],
+  "timestamp": "2026-09-18T13:05:22.511736247Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 137:7",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 137,
+  "translation": "Khumbula, Yahwe, ngokwabantwana beEdomu ⟨את⟩ yosuku lweYerushalayimi, abathi bobo: “Yitshatyalalise, yitshatyalalise, de kwiisiyala salo!”",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "Khumbula"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "abantwana"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "beEdomu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yosuku lweYerushalayimi"
+    },
+    {
+      "surface": "יום",
+      "gloss": "usuku"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "lweYerushalayimi"
+    },
+    {
+      "surface": "האמרים",
+      "gloss": "abathi bobo"
+    },
+    {
+      "surface": "ערו",
+      "gloss": "Yitshatyalalise"
+    },
+    {
+      "surface": "ערו",
+      "gloss": "yitshatyalalise"
+    },
+    {
+      "surface": "עד",
+      "gloss": "de"
+    },
+    {
+      "surface": "היסוד",
+      "gloss": "kwiisiyala"
+    },
+    {
+      "surface": "בה",
+      "gloss": "salo"
+    }
+  ],
+  "timestamp": "2026-09-18T15:32:33.021192829Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 26:5",
+  "book": "leviticus",
+  "lang": "xh",
+  "chapter": 26,
+  "translation": "Ukucheba kuni kuzakufikelela ekuvunweni kwamagilevathi, ekuvunweni kuzakufikelela ekutyalweni; niya kutya isonka senu ukufikela ukwaneliseka, niya kuhlala ngokhuseleko elweni lenu.",
+  "tokens": [
+    {
+      "surface": "והשיג",
+      "gloss": "kuzakufikelela"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kuni"
+    },
+    {
+      "surface": "דיש",
+      "gloss": "ukucheba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ukuvuna kwamagilevathi"
+    },
+    {
+      "surface": "בציר",
+      "gloss": "ukuvuna kwamagilevathi"
+    },
+    {
+      "surface": "ובציר",
+      "gloss": "ekuvunweni"
+    },
+    {
+      "surface": "ישיג",
+      "gloss": "kuzakufikelela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ukutyalwa"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "ukutyalwa"
+    },
+    {
+      "surface": "ואכלתם",
+      "gloss": "niya kutya"
+    },
+    {
+      "surface": "לחמכם",
+      "gloss": "isonka senu"
+    },
+    {
+      "surface": "לשבע",
+      "gloss": "ukufikela ukwaneliseka"
+    },
+    {
+      "surface": "וישבתם",
+      "gloss": "niya kuhlala"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "ngokhuseleko"
+    },
+    {
+      "surface": "בארצכם",
+      "gloss": "elweni lenu"
+    }
+  ],
+  "timestamp": "2026-09-18T07:06:46.665966894Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-kings 19:25",
+  "book": "2-kings",
+  "lang": "xh",
+  "chapter": 19,
+  "translation": "Awuvange uyiva ukusukela kude? Yona ⟨את⟩ ndayenzile, ndayakha kwiintsuku zangaphambili; ngoku ndiyizisile, yaba yithuba lokwenza amaduku, iidolophu ezinqumliweyo ezibhakiweyo.",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "awuvange"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "uyiva"
+    },
+    {
+      "surface": "למרחוק",
+      "gloss": "ukusukela kude"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "yona (into endenzileyo)"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "ndayenzile"
+    },
+    {
+      "surface": "למימי",
+      "gloss": "kwiintsuku"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "zangaphambili"
+    },
+    {
+      "surface": "ויצרתיה",
+      "gloss": "ndayakha"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "ngoku"
+    },
+    {
+      "surface": "הביאתיה",
+      "gloss": "ndiyizisile"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "yaba"
+    },
+    {
+      "surface": "להשות",
+      "gloss": "yithuba lokwenza"
+    },
+    {
+      "surface": "גלים",
+      "gloss": "amaduku"
+    },
+    {
+      "surface": "נצים",
+      "gloss": "ezinqumliweyo"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "iidolophu"
+    },
+    {
+      "surface": "בצרות",
+      "gloss": "ezibhakiweyo"
+    }
+  ],
+  "timestamp": "2026-09-18T10:56:00.068488759Z",
+  "model": "glm-5.3"
+}

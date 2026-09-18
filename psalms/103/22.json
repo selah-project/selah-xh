@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 103:22",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 103,
+  "translation": "Bulisela uYahwe, zonke izenzo zakhe, kuzo zonke iindawo zobukhosi bakhe; bulisela, mpefumlo wam, ⟨את⟩ uYahwe.",
+  "tokens": [
+    {
+      "surface": "ברכו",
+      "gloss": "Bulisela"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zonke"
+    },
+    {
+      "surface": "מעשיו",
+      "gloss": "izenzo zakhe"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "kuzo zonke"
+    },
+    {
+      "surface": "מקמות",
+      "gloss": "iindawo"
+    },
+    {
+      "surface": "ממשלתו",
+      "gloss": "zobukhosi bakhe"
+    },
+    {
+      "surface": "ברכי",
+      "gloss": "bulisela"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mpefumlo wam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uYahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    }
+  ],
+  "timestamp": "2026-09-18T15:12:29.839104140Z",
+  "model": "glm-5.3"
+}

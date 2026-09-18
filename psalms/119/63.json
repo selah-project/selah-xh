@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 63,
+  "ref": "psalms 119:63",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 119,
+  "translation": "Mngane ndinguwo wonke abo bakoyika wena, nabo bagcina iimiyalelo yakho.",
+  "tokens": [
+    {
+      "surface": "חבר",
+      "gloss": "Mngane"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ndingu"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "wo wonke"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "abo"
+    },
+    {
+      "surface": "יראוך",
+      "gloss": "bakoyika wena"
+    },
+    {
+      "surface": "ולשמרי",
+      "gloss": "nabo bagcina"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "iimiyalelo yakho"
+    }
+  ],
+  "timestamp": "2026-09-18T17:45:16.904002794Z",
+  "model": "glm-5.3"
+}

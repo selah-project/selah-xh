@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 8:20",
+  "book": "leviticus",
+  "lang": "xh",
+  "chapter": 8,
+  "translation": "Ihola lowo, wayihlela ibe ziingceba zalo; uMoshe watyhalela ⟨את⟩ intloko ⟨את⟩ neengceba ⟨את⟩ namafutha.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ihola"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "ihola"
+    },
+    {
+      "surface": "נתח",
+      "gloss": "wayihlela ibe ziingceba"
+    },
+    {
+      "surface": "לנתחיו",
+      "gloss": "ziingceba zalo"
+    },
+    {
+      "surface": "ויקטר",
+      "gloss": "watyhalela"
+    },
+    {
+      "surface": "משה",
+      "gloss": "uMoshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "intloko"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "intloko"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "iingceba"
+    },
+    {
+      "surface": "הנתחים",
+      "gloss": "iingceba"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "amafutha"
+    },
+    {
+      "surface": "הפדר",
+      "gloss": "amafutha"
+    }
+  ],
+  "timestamp": "2026-09-18T06:44:31.693400200Z",
+  "model": "glm-5.3"
+}

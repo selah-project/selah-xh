@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 11:7",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 11,
+  "translation": "Kuba uYahwe ulungileyo, uthanda ulungelo; abo bamiliselweyo baya kububona ubuso bakhe.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ulungileyo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "צדקות",
+      "gloss": "ulungelo"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "uthanda"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "abo bamiliselweyo"
+    },
+    {
+      "surface": "יחזו",
+      "gloss": "baya kubona"
+    },
+    {
+      "surface": "פנימו",
+      "gloss": "ubuso bakhe"
+    }
+  ],
+  "timestamp": "2026-09-18T14:30:46.828196925Z",
+  "model": "glm-5.3"
+}

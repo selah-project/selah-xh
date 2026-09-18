@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "isaiah 1:24",
+  "book": "isaiah",
+  "lang": "xh",
+  "chapter": 1,
+  "translation": "Ngoko koko, utshilo u-Adonayi, uYahwe Tsebhayoti, uNamandla wakwa-Israel: Yho, ndiza kuzikhulula kuze ndonwabe kumacala am, ndize ndiphindele kubachasi bam.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "Ngoko koko"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "utshilo"
+    },
+    {
+      "surface": "האדון",
+      "gloss": "u-Adonayi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsebhayoti"
+    },
+    {
+      "surface": "אביר",
+      "gloss": "uNamandla"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "wakwa-Israel"
+    },
+    {
+      "surface": "הוי",
+      "gloss": "Yho"
+    },
+    {
+      "surface": "אנחם",
+      "gloss": "ndiza kuzikhulula kuze ndonwabe"
+    },
+    {
+      "surface": "מצרי",
+      "gloss": "kumacala am"
+    },
+    {
+      "surface": "ואנקמה",
+      "gloss": "ndize ndiphindele"
+    },
+    {
+      "surface": "מאויבי",
+      "gloss": "kubachasi bam"
+    }
+  ],
+  "timestamp": "2026-09-18T11:01:03.593168594Z",
+  "model": "glm-5.3"
+}

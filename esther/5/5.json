@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "esther 5:5",
+  "book": "esther",
+  "lang": "xh",
+  "chapter": 5,
+  "translation": "Wathetha inkosi yaye: Khawulezani ⟨את⟩ uHamani ukwenza ⟨את⟩ icandelwe leEster; kwangoko ingeneyinkosi noHamani esidlangalaleni (umkhombe) awayenziweyo uEster.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wathetha"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "inkosi"
+    },
+    {
+      "surface": "מהרו",
+      "gloss": "khawulezani"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uHamani"
+    },
+    {
+      "surface": "המן",
+      "gloss": "uHamani"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "ukwenza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "icandelwe leEster"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "icandelwe"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "leEster"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "kwangoko ingena"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "inkosi"
+    },
+    {
+      "surface": "והמן",
+      "gloss": "noHamani"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwi-"
+    },
+    {
+      "surface": "המשתה",
+      "gloss": "esidlangalaleni (umkhombe)"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "awayenziweyo"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "wayenziwe"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "uEster"
+    }
+  ],
+  "timestamp": "2026-09-18T16:28:17.228555740Z",
+  "model": "glm-5.3"
+}

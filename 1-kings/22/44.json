@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "1-kings 22:44",
+  "book": "1-kings",
+  "lang": "xh",
+  "chapter": 22,
+  "translation": "Kodwa iindawo eziphakamileyo azanga zisuswe; abantu besachitha iintsebenzi besatshisa imveliso kwezo ndawo eziphakamileyo.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Kodwa"
+    },
+    {
+      "surface": "הבמות",
+      "gloss": "iindawo eziphakamileyo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "azanga"
+    },
+    {
+      "surface": "סרו",
+      "gloss": "zisuswe"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "besa-"
+    },
+    {
+      "surface": "העם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "מזבחים",
+      "gloss": "chitha iintsebenzi"
+    },
+    {
+      "surface": "ומקטרים",
+      "gloss": "besatshisa imveliso"
+    },
+    {
+      "surface": "בבמות",
+      "gloss": "kwezo ndawo eziphakamileyo"
+    }
+  ],
+  "timestamp": "2026-09-18T10:36:07.907468174Z",
+  "model": "glm-5.3"
+}

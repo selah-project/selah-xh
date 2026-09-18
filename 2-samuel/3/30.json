@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-samuel 3:30",
+  "book": "2-samuel",
+  "lang": "xh",
+  "chapter": 3,
+  "translation": "Kananjalo uYowavu noAbishayi umnakwabo babulala uAbineri, kuba ebulele ⟨את⟩ uAsaheli umnakwabo, eGibhoni, emfazweni.",
+  "tokens": [
+    {
+      "surface": "ויואב",
+      "gloss": "uYowavu"
+    },
+    {
+      "surface": "ואבישי",
+      "gloss": "noAbishayi"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "umnakwabo"
+    },
+    {
+      "surface": "הרגו",
+      "gloss": "babulala"
+    },
+    {
+      "surface": "לאבנר",
+      "gloss": "uAbineri"
+    },
+    {
+      "surface": "על",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨okokuba⟩"
+    },
+    {
+      "surface": "המית",
+      "gloss": "ebulele"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uAsaheli"
+    },
+    {
+      "surface": "עשהאל",
+      "gloss": "uAsaheli"
+    },
+    {
+      "surface": "אחיהם",
+      "gloss": "umnakwabo"
+    },
+    {
+      "surface": "בגבעון",
+      "gloss": "eGibhoni"
+    },
+    {
+      "surface": "במלחמה",
+      "gloss": "emfazweni"
+    }
+  ],
+  "timestamp": "2026-09-18T09:46:52.546327206Z",
+  "model": "glm-5.3"
+}

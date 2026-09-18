@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 10:11",
+  "book": "isaiah",
+  "lang": "xh",
+  "chapter": 10,
+  "translation": "Ingaba andizukwenza njengoko endenzileyo iShomroni noothixo bayo abaseleyo, ndenza njalo iYerushalayimi naiidolo zayo?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "Ingaba"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "njengoko"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "endenzileyo"
+    },
+    {
+      "surface": "לשמרון",
+      "gloss": "iShomroni"
+    },
+    {
+      "surface": "ולאליליה",
+      "gloss": "noothixo bayo abaseleyo"
+    },
+    {
+      "surface": "כן",
+      "gloss": "njalo"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "ndizukwenza"
+    },
+    {
+      "surface": "לירושלם",
+      "gloss": "iYerushalayimi"
+    },
+    {
+      "surface": "ולעצביה",
+      "gloss": "naiidolo zayo"
+    }
+  ],
+  "timestamp": "2026-09-18T17:33:55.565349419Z",
+  "model": "glm-5.3"
+}

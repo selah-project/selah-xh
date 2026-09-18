@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 1:5",
+  "book": "ezekiel",
+  "lang": "xh",
+  "chapter": 1,
+  "translation": "Kwaye phakathi kwako kwakukho umfanekiso wezidalwa ezine ezinemphefumlo; noku ngokwabo kungumboniso wabo: umfanekiso womntu lo kwabo.",
+  "tokens": [
+    {
+      "surface": "ומתוכה",
+      "gloss": "kwaye phakathi kwako"
+    },
+    {
+      "surface": "דמות",
+      "gloss": "umfanekiso"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "ezine"
+    },
+    {
+      "surface": "חיות",
+      "gloss": "izidalwa ezinemphefumlo"
+    },
+    {
+      "surface": "וזה",
+      "gloss": "kananjalo oku"
+    },
+    {
+      "surface": "מראיהן",
+      "gloss": "ngokwabo kungumboniso wabo"
+    },
+    {
+      "surface": "דמות",
+      "gloss": "umfanekiso"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "womntu"
+    },
+    {
+      "surface": "להנה",
+      "gloss": "kwabo"
+    }
+  ],
+  "timestamp": "2026-09-18T12:45:48.529871596Z",
+  "model": "glm-5.3"
+}

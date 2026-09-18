@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 31:2",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 31,
+  "translation": "Kuwe, uYahwe, ndithathe ukhuseleko; musa ndingadinwa kuze kube phakade; ngobulungisa bakho ndikhulule.",
+  "tokens": [
+    {
+      "surface": "בך",
+      "gloss": "Kuwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "ndithathe ukhuseleko"
+    },
+    {
+      "surface": "אל",
+      "gloss": "musa"
+    },
+    {
+      "surface": "אבושה",
+      "gloss": "ndingadinwa"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "kuze kube phakade"
+    },
+    {
+      "surface": "בצדקתך",
+      "gloss": "ngobulungisa bakho"
+    },
+    {
+      "surface": "פלטני",
+      "gloss": "ndikhulule"
+    }
+  ],
+  "timestamp": "2026-09-18T14:38:48.975936788Z",
+  "model": "glm-5.3"
+}

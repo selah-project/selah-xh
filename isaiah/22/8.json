@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 22:8",
+  "book": "isaiah",
+  "lang": "xh",
+  "chapter": 22,
+  "translation": "Watyhila ⟨את⟩ isikhuseleko sikaYehudha, wajonge ngalolo suku kwiizikhali zeNdlu yeThango.",
+  "tokens": [
+    {
+      "surface": "ויגל",
+      "gloss": "Watyhila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isikhuseleko sikaYehudha"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "isikhuseleko"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "sikaYehudha"
+    },
+    {
+      "surface": "ותבט",
+      "gloss": "wajonge"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ngalolo suku"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ngalolo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "נשק",
+      "gloss": "iizikhali"
+    },
+    {
+      "surface": "בית",
+      "gloss": "zeNdlu"
+    },
+    {
+      "surface": "היער",
+      "gloss": "yeThango"
+    }
+  ],
+  "timestamp": "2026-09-18T11:15:30.231108225Z",
+  "model": "glm-5.3"
+}

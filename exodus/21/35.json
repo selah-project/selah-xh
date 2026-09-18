@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "exodus 21:35",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 21,
+  "translation": "Kwaye ukuba inkunzi yomntu igxotha ⟨את⟩ inkunzi yomhlobo wakhe yaza ifa, bathengisa ⟨את⟩ inkunzi ephilayo, badwanisa ⟨את⟩ isilivere yayo; kwaye nakuba ⟨את⟩ leyo ifileyo bayidwanisa.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "kwaye ukuba"
+    },
+    {
+      "surface": "יגף",
+      "gloss": "igxotha"
+    },
+    {
+      "surface": "שור",
+      "gloss": "inkunzi"
+    },
+    {
+      "surface": "איש",
+      "gloss": "yomntu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "inkunzi yomhlobo wakhe"
+    },
+    {
+      "surface": "שור",
+      "gloss": "inkunzi"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "yomhlobo wakhe"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "yaza ifa"
+    },
+    {
+      "surface": "ומכרו",
+      "gloss": "bathengisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "inkunzi ephilayo"
+    },
+    {
+      "surface": "השור",
+      "gloss": "inkunzi"
+    },
+    {
+      "surface": "החי",
+      "gloss": "ephilayo"
+    },
+    {
+      "surface": "וחצו",
+      "gloss": "badwanisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isilivere yayo"
+    },
+    {
+      "surface": "כספו",
+      "gloss": "isilivere yayo"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "kwaye nakuba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "leyo ifileyo"
+    },
+    {
+      "surface": "המת",
+      "gloss": "leyo ifileyo"
+    },
+    {
+      "surface": "יחצון",
+      "gloss": "bayidwanisa"
+    }
+  ],
+  "timestamp": "2026-09-18T06:08:23.225673108Z",
+  "model": "glm-5.3"
+}

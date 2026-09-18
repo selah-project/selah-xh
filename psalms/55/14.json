@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 55:14",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 55,
+  "translation": "Kodwa wena — umntu olingana nam, umhlobo wam osondelayo, nomaziyo wam!",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "kodwa wena"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "umntu"
+    },
+    {
+      "surface": "כערכי",
+      "gloss": "olingana nam"
+    },
+    {
+      "surface": "אלופי",
+      "gloss": "umhlobo wam osondelayo"
+    },
+    {
+      "surface": "ומידעי",
+      "gloss": "nomaziyo wam"
+    }
+  ],
+  "timestamp": "2026-09-18T14:50:40.563304945Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 78:32",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 78,
+  "translation": "Nangaphezu kwezi zonke bazekile kwaphela, kananjalo abakholwanga kumangaliso yakhe.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "Nangaphezu kuzo"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "zonke ezi"
+    },
+    {
+      "surface": "חטאו",
+      "gloss": "bazekile"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "kwaphela"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kananjalo abange-"
+    },
+    {
+      "surface": "האמינו",
+      "gloss": "bakholwa"
+    },
+    {
+      "surface": "בנפלאותיו",
+      "gloss": "kumangaliso yakhe"
+    }
+  ],
+  "timestamp": "2026-09-18T15:03:14.142554044Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "joshua 21:12",
+  "book": "joshua",
+  "lang": "xh",
+  "chapter": 21,
+  "translation": "Kodwa ⟨את⟩ iindawo zolimo zesixeko nange⟨את⟩ iilali zaso banika uKalebu unyana kaYefune, njengesabelo sakhe.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "iindawo zolimo zesixeko"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "iindawo zolimo"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "zesixeko"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "nange⟨את⟩",
+      "marks": "iilali zaso"
+    },
+    {
+      "surface": "חצריה",
+      "gloss": "iilali zaso"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "banika"
+    },
+    {
+      "surface": "לכלב",
+      "gloss": "uKalebu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "unyana"
+    },
+    {
+      "surface": "יפנה",
+      "gloss": "kaYefune"
+    },
+    {
+      "surface": "באחזתו",
+      "gloss": "njengesabelo sakhe"
+    }
+  ],
+  "timestamp": "2026-09-18T08:43:24.450254554Z",
+  "model": "glm-5.3"
+}

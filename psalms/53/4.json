@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 53:4",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 53,
+  "translation": "Bonke batshintshile indlela, ndawonye bancoliwe; akukho mntu wenza okulungileyo, akukho nanye.",
+  "tokens": [
+    {
+      "surface": "כלו",
+      "gloss": "bonke"
+    },
+    {
+      "surface": "סג",
+      "gloss": "batshintshile indlela"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "ndawonye"
+    },
+    {
+      "surface": "נאלחו",
+      "gloss": "bancoliwe"
+    },
+    {
+      "surface": "אין",
+      "gloss": "akukho"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "mntu wenza"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "okulungileyo"
+    },
+    {
+      "surface": "אין",
+      "gloss": "akukho"
+    },
+    {
+      "surface": "גם",
+      "gloss": "naye"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "nanye"
+    }
+  ],
+  "timestamp": "2026-09-18T14:50:18.077929964Z",
+  "model": "glm-5.3"
+}

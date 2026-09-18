@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "esther 10:1",
+  "book": "esther",
+  "lang": "xh",
+  "chapter": 10,
+  "translation": "Inkosi u-Achashverosh wabeka umthwalo (mase) phezu komhlaba nakwiiziqithi zalolu lwandle.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "wabeka"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "inkosi"
+    },
+    {
+      "surface": "אחשרש",
+      "gloss": "u-Achashverosh"
+    },
+    {
+      "surface": "מס",
+      "gloss": "umthwalo (mase)"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu kwa-"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "umhlaba"
+    },
+    {
+      "surface": "ואיי",
+      "gloss": "nakwiiziqithi"
+    },
+    {
+      "surface": "הים",
+      "gloss": "zalolu lwandle"
+    }
+  ],
+  "timestamp": "2026-09-18T17:49:02.531885404Z",
+  "model": "glm-5.3"
+}

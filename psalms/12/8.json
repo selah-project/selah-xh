@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 12:8",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 12,
+  "translation": "Wena, uYahwe, uya kubagcina; uya kubakhusela kule ntlangano ibeko kuze kube phakade.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "תשמרם",
+      "gloss": "uya kubagcina"
+    },
+    {
+      "surface": "תצרנו",
+      "gloss": "uya kubakhusela"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "הדור",
+      "gloss": "le ntlangano"
+    },
+    {
+      "surface": "זו",
+      "gloss": "ibeko"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "kuze kube phakade"
+    }
+  ],
+  "timestamp": "2026-09-18T14:31:40.390597417Z",
+  "model": "glm-5.3"
+}

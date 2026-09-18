@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 26:9",
+  "book": "leviticus",
+  "lang": "xh",
+  "chapter": 26,
+  "translation": "Ndiza kujonga kuni, ndaza ndiza kunenzisa ⟨את⟩ nina, ndaza ndiza kubanda ⟨את⟩ nina, ndaza ndiza kumisela ⟨את⟩ umnqophiso wam ⟨את⟩ phakathi kwenu.",
+  "tokens": [
+    {
+      "surface": "ופניתי",
+      "gloss": "Ndiza kujonga"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "kuni"
+    },
+    {
+      "surface": "והפריתי",
+      "gloss": "ndaza ndiza kunenzisa"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ nina",
+      "marks": "nina"
+    },
+    {
+      "surface": "והרביתי",
+      "gloss": "ndaza ndiza kubanda"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ nina",
+      "marks": "nina"
+    },
+    {
+      "surface": "והקימתי",
+      "gloss": "ndaza ndiza kumisela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umnqophiso wam"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "umnqophiso wam"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ phakathi kwenu"
+    }
+  ],
+  "timestamp": "2026-09-18T07:05:57.245073863Z",
+  "model": "glm-5.3"
+}

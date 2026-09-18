@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 7:7",
+  "book": "ecclesiastes",
+  "lang": "xh",
+  "chapter": 7,
+  "translation": "Kuba ukunyanzelisa kumenza wesazi ukuba adangele, yande isipho sitshabalalisa ⟨את⟩ intliziyo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kuba"
+    },
+    {
+      "surface": "העשק",
+      "gloss": "ukunyanzelisa"
+    },
+    {
+      "surface": "יהולל",
+      "gloss": "kumenza ukuba adangele"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "wesazi"
+    },
+    {
+      "surface": "ויאבד",
+      "gloss": "sitshabalalisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "intliziyo"
+    },
+    {
+      "surface": "לב",
+      "gloss": "intliziyo"
+    },
+    {
+      "surface": "מתנה",
+      "gloss": "isipho"
+    }
+  ],
+  "timestamp": "2026-09-18T16:26:03.354725427Z",
+  "model": "glm-5.3"
+}

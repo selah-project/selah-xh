@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 85:5",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 85,
+  "translation": "Sibuyisela kuthi, wena uElohim wentsindiso yethu, utshabalalise isiqalekiso sakho esithi phezu kwethu.",
+  "tokens": [
+    {
+      "surface": "שובנו",
+      "gloss": "sibuyisela kuthi"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "ישענו",
+      "gloss": "wentsindiso yethu"
+    },
+    {
+      "surface": "והפר",
+      "gloss": "utshabalalise"
+    },
+    {
+      "surface": "כעסך",
+      "gloss": "isiqalekiso sakho"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "phezu kwethu"
+    }
+  ],
+  "timestamp": "2026-09-18T15:07:08.295566210Z",
+  "model": "glm-5.3"
+}

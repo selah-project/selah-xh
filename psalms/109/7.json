@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 109:7",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 109,
+  "translation": "Xa egwetshwa, aphume eyingcumbu, uthandazelo lwakhe lulube sona isono.",
+  "tokens": [
+    {
+      "surface": "בהשפטו",
+      "gloss": "xa egwetshwa"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "aphume"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "eyingcumbu"
+    },
+    {
+      "surface": "ותפלתו",
+      "gloss": "uthandazelo lwakhe"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "lulube"
+    },
+    {
+      "surface": "לחטאה",
+      "gloss": "isono"
+    }
+  ],
+  "timestamp": "2026-09-18T15:19:55.278099944Z",
+  "model": "glm-5.3"
+}

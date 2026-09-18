@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 45:4",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 45,
+  "translation": "Xhoma inkemba yakho esinqeni sakho, wena qhawe — ubuduma bakho nobuhle bakho.",
+  "tokens": [
+    {
+      "surface": "חגור",
+      "gloss": "xhoma"
+    },
+    {
+      "surface": "חרבך",
+      "gloss": "inkemba yakho"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu kwe"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "isinqe (ulwangu)"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "qhawe"
+    },
+    {
+      "surface": "הודך",
+      "gloss": "ubuduma bakho"
+    },
+    {
+      "surface": "והדרך",
+      "gloss": "nobuhle bakho"
+    }
+  ],
+  "timestamp": "2026-09-18T14:48:13.003261039Z",
+  "model": "glm-5.3"
+}

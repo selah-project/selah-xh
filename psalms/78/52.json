@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "psalms 78:52",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 78,
+  "translation": "Wakhenketha abantu bakhe njengezimvu, wabakhokela njengesibini esintlangweni.",
+  "tokens": [
+    {
+      "surface": "ויסע",
+      "gloss": "Wakhenketha"
+    },
+    {
+      "surface": "כצאן",
+      "gloss": "njengezimvu"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "abantu bakhe"
+    },
+    {
+      "surface": "וינהגם",
+      "gloss": "wabakhokela"
+    },
+    {
+      "surface": "כעדר",
+      "gloss": "njengesibini"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "esintlangweni"
+    }
+  ],
+  "timestamp": "2026-09-18T15:03:12.322263611Z",
+  "model": "glm-5.3"
+}

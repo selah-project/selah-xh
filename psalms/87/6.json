@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 87:6",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 87,
+  "translation": "uYahwe uza kubala xa ebhala abantu: “Lo wazalwa khona.” Selah.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "יספר",
+      "gloss": "uza kubala"
+    },
+    {
+      "surface": "בכתוב",
+      "gloss": "xa ebhala"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "זה",
+      "gloss": "lo"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "wazalwa"
+    },
+    {
+      "surface": "שם",
+      "gloss": "khona"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-18T15:07:20.908872611Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 11:15",
+  "book": "1-kings",
+  "lang": "xh",
+  "chapter": 11,
+  "translation": "Kwathi kwenzeke, xa uDavide eca ⟨את⟩ iEdom, ekunyukeni kukaYowav, intloko yomkhosi, ukungcwaba abafileyo, wabulala wonke umdanisi oMEdomini.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "kwathi kwenzeke"
+    },
+    {
+      "surface": "בהיות",
+      "gloss": "xa"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "uDavide eca"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iEdom"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "iEdom"
+    },
+    {
+      "surface": "בעלות",
+      "gloss": "ekunyukeni"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "kukaYowav"
+    },
+    {
+      "surface": "שר",
+      "gloss": "intloko"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "yomkhosi"
+    },
+    {
+      "surface": "לקבר",
+      "gloss": "ukungcwaba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abafileyo"
+    },
+    {
+      "surface": "החללים",
+      "gloss": "abafileyo"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "wabulala"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wonke"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "umdanisi"
+    },
+    {
+      "surface": "באדום",
+      "gloss": "oMEdomini"
+    }
+  ],
+  "timestamp": "2026-09-18T10:23:52.136409586Z",
+  "model": "glm-5.3"
+}

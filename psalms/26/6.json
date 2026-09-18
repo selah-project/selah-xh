@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 26:6",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 26,
+  "translation": "Ndiza kuhlamba iindlela zam ngecocekio, uYahwe, ndiza kujikeleza ⟨את⟩ i-altare yakho.",
+  "tokens": [
+    {
+      "surface": "ארחץ",
+      "gloss": "Ndiza kuhlamba"
+    },
+    {
+      "surface": "בנקיון",
+      "gloss": "ngecocekio"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "iindlela zam"
+    },
+    {
+      "surface": "ואסבבה",
+      "gloss": "ndiza kujikeleza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i-altare yakho"
+    },
+    {
+      "surface": "מזבחך",
+      "gloss": "i-altare yakho"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    }
+  ],
+  "timestamp": "2026-09-18T17:42:48.890210484Z",
+  "model": "glm-5.3"
+}

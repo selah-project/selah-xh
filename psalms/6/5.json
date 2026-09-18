@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 6:5",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 6,
+  "translation": "Buyela uYahwe, khulula umphefumlo wam, ndisindise ngenxa yeikhesedi yakho.",
+  "tokens": [
+    {
+      "surface": "שובה",
+      "gloss": "Buyela"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "חלצה",
+      "gloss": "khulula"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "umphefumlo wam"
+    },
+    {
+      "surface": "הושיעני",
+      "gloss": "ndisindise"
+    },
+    {
+      "surface": "למען",
+      "gloss": "ngenxa ye"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "ikhesedi yakho"
+    }
+  ],
+  "timestamp": "2026-09-18T14:25:19.849703586Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-samuel 14:21",
+  "book": "2-samuel",
+  "lang": "xh",
+  "chapter": 14,
+  "translation": "Wathetha inkosi ku-Yowav: “Ndizenze ⟨את⟩ elo nto.” Hamba, ubuyisele ⟨את⟩ umfana ⟨את⟩ u-Avshalom.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wathetha"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "inkosi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "u-Yowav"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "⟨yakho⟩"
+    },
+    {
+      "surface": "נא",
+      "gloss": "⟨ndicela⟩"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "ndizenze"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "elo nto"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "elo nto"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "lo"
+    },
+    {
+      "surface": "ולך",
+      "gloss": "hamba"
+    },
+    {
+      "surface": "השב",
+      "gloss": "ubuyisele"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umfana"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "umfana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "u-Avshalom"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "u-Avshalom"
+    }
+  ],
+  "timestamp": "2026-09-18T09:55:50.033192500Z",
+  "model": "glm-5.3"
+}

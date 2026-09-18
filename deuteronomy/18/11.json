@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 18:11",
+  "book": "deuteronomy",
+  "lang": "xh",
+  "chapter": 18,
+  "translation": "okanye onesa imilingo, okanye ombuza ⟨את⟩ umoya wabafileyo nakwisiphefumlo esaziyo, okanye ofunisisa kubafi.",
+  "tokens": [
+    {
+      "surface": "וחבר",
+      "gloss": "onesa imilingo"
+    },
+    {
+      "surface": "חבר",
+      "gloss": "umlingo"
+    },
+    {
+      "surface": "ושאל",
+      "gloss": "ombuza"
+    },
+    {
+      "surface": "אוב",
+      "gloss": "⟨את⟩",
+      "marks": "umoya wabafileyo"
+    },
+    {
+      "surface": "וידעני",
+      "gloss": "nakwisiphefumlo esaziyo"
+    },
+    {
+      "surface": "ודרש",
+      "gloss": "ofunisisa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "המתים",
+      "gloss": "bafi"
+    }
+  ],
+  "timestamp": "2026-09-18T17:25:45.188801970Z",
+  "model": "glm-5.3"
+}

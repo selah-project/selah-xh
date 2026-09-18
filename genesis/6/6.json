@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 6:6",
+  "book": "genesis",
+  "lang": "xh",
+  "chapter": 6,
+  "translation": "Wazisola uYahwe ukuba wadala ⟨את⟩ umntu emhlabeni, waya athinteka intliziyo yakhe ngolwazilo.",
+  "tokens": [
+    {
+      "surface": "וינחם",
+      "gloss": "wazisola"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ukuba"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "wadala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umntu"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "umntu"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "emhlabeni"
+    },
+    {
+      "surface": "ויתעצב",
+      "gloss": "waya athinteka"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ngolwazilo"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "intliziyo yakhe"
+    }
+  ],
+  "timestamp": "2026-09-18T05:09:37.067705761Z",
+  "model": "glm-5.3"
+}

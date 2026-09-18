@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 1:3",
+  "book": "isaiah",
+  "lang": "xh",
+  "chapter": 1,
+  "translation": "Iinkomo zazi umniniyo, nenkomo yomhlaba iazi i-ebusi yomniniyo: u-Israel akazanga azi, abantu bakho abazanga buze.",
+  "tokens": [
+    {
+      "surface": "ידע",
+      "gloss": "zazi"
+    },
+    {
+      "surface": "שור",
+      "gloss": "iinkomo"
+    },
+    {
+      "surface": "קנהו",
+      "gloss": "umniniyo"
+    },
+    {
+      "surface": "וחמור",
+      "gloss": "nenkomo yomhlaba"
+    },
+    {
+      "surface": "אבוס",
+      "gloss": "i-ebusi"
+    },
+    {
+      "surface": "בעליו",
+      "gloss": "yomniniyo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "u-Israel"
+    },
+    {
+      "surface": "לא",
+      "gloss": "akazanga"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "azi"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "abantu bakho"
+    },
+    {
+      "surface": "לא",
+      "gloss": "abazanga"
+    },
+    {
+      "surface": "התבונן",
+      "gloss": "buze"
+    }
+  ],
+  "timestamp": "2026-09-18T11:02:01.574811992Z",
+  "model": "glm-5.3"
+}

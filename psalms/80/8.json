@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 80:8",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 80,
+  "translation": "uElohim Tsebhayoti, sibuyisela, ukhanyise ubuso bakho, siza kusindwa.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsebhayoti"
+    },
+    {
+      "surface": "השיבנו",
+      "gloss": "sibuyisela"
+    },
+    {
+      "surface": "והאר",
+      "gloss": "ukhanyise"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ubuso bakho"
+    },
+    {
+      "surface": "ונושעה",
+      "gloss": "siza kusindwa"
+    }
+  ],
+  "timestamp": "2026-09-18T15:05:10.438685054Z",
+  "model": "glm-5.3"
+}

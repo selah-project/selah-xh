@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 9:4",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 9,
+  "translation": "uYahwe uza kulwahlula phakathi kwesifu seYisrayeli nesifu seMitsrayim; akukho nto iza kufa kuyo yonke into yabantwana bakwaYisrayeli.",
+  "tokens": [
+    {
+      "surface": "והפלה",
+      "gloss": "uza kulwahlula"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "בין",
+      "gloss": "phakathi kwe-"
+    },
+    {
+      "surface": "מקנה",
+      "gloss": "isifu se-"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrayeli"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "nesifu se-"
+    },
+    {
+      "surface": "מקנה",
+      "gloss": "isifu se-"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "akukho"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "iza kufa"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "kuyo yonke"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "yabantwana bakwa-"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrayeli"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "nto"
+    }
+  ],
+  "timestamp": "2026-09-18T05:56:38.383899435Z",
+  "model": "glm-5.3"
+}

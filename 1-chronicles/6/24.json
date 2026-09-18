@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-chronicles 6:24",
+  "book": "1-chronicles",
+  "lang": "xh",
+  "chapter": 6,
+  "translation": "nomzalwane wakhe uAsafa, umi ngasekunene kwakhe; uAsafa unyana kaBerekuya, unyana kaShimea;",
+  "tokens": [
+    {
+      "surface": "ואחיו",
+      "gloss": "nomzalwane wakhe"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "uAsafa"
+    },
+    {
+      "surface": "העמד",
+      "gloss": "umi"
+    },
+    {
+      "surface": "על",
+      "gloss": "ngase-"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "kunene kwakhe"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "uAsafa"
+    },
+    {
+      "surface": "בן",
+      "gloss": "unyana ka-"
+    },
+    {
+      "surface": "ברכיהו",
+      "gloss": "Berekuya"
+    },
+    {
+      "surface": "בן",
+      "gloss": "unyana ka-"
+    },
+    {
+      "surface": "שמעא",
+      "gloss": "Shimea"
+    }
+  ],
+  "timestamp": "2026-09-18T16:52:17.033023232Z",
+  "model": "glm-5.3"
+}

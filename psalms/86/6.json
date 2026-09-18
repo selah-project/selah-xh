@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 86:6",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 86,
+  "translation": "Ndimamkele indlebe, uYahwe, ithandazwam lam, uze uluviwe ilizwi leemfazwe zam.",
+  "tokens": [
+    {
+      "surface": "האזינה",
+      "gloss": "Ndimamkele indlebe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "ithandazwam lam"
+    },
+    {
+      "surface": "והקשיבה",
+      "gloss": "uze uluviwe"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "ilizwi"
+    },
+    {
+      "surface": "תחנונותי",
+      "gloss": "leemfazwe zam"
+    }
+  ],
+  "timestamp": "2026-09-18T15:07:36.709839597Z",
+  "model": "glm-5.3"
+}

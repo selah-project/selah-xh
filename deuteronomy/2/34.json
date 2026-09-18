@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "deuteronomy 2:34",
+  "book": "deuteronomy",
+  "lang": "xh",
+  "chapter": 2,
+  "translation": "Sathabatha zonke iidolophu zakhe ngelo xesha, sadeda ⟨את⟩ yonke dolophu — amadoda nebasetyhini nabantwana abancinane; akukho namnye wasala.",
+  "tokens": [
+    {
+      "surface": "ונלכד",
+      "gloss": "sathabatha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zonke iidolophu zakhe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zonke"
+    },
+    {
+      "surface": "עריו",
+      "gloss": "iidolophu zakhe"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "ngelo xesha"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ngelo (xesha)"
+    },
+    {
+      "surface": "ונחרם",
+      "gloss": "sadeda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yonke dolophu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yonke"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "dolophu"
+    },
+    {
+      "surface": "מתם",
+      "gloss": "amadoda"
+    },
+    {
+      "surface": "והנשים",
+      "gloss": "nebasetyhini"
+    },
+    {
+      "surface": "והטף",
+      "gloss": "nabantwana abancinane"
+    },
+    {
+      "surface": "לא",
+      "gloss": "akukho"
+    },
+    {
+      "surface": "השארנו",
+      "gloss": "wasala (thina asasalisi)"
+    },
+    {
+      "surface": "שריד",
+      "gloss": "namnye wasala"
+    }
+  ],
+  "timestamp": "2026-09-18T07:53:35.558054759Z",
+  "model": "glm-5.3"
+}

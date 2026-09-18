@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 42:24",
+  "book": "genesis",
+  "lang": "xh",
+  "chapter": 42,
+  "translation": "Wazityhalela kwicala angangezhi aze wakhala; wabuya kubo waza wathetha nabo, waza kwakunye noShimon waza wambophelela phambi kwamehlo abo ⟨את⟩ uShimon.",
+  "tokens": [
+    {
+      "surface": "ויסב",
+      "gloss": "Wazityhalela kwicala"
+    },
+    {
+      "surface": "מעליהם",
+      "gloss": "angangezhi"
+    },
+    {
+      "surface": "ויבך",
+      "gloss": "aze wakhala"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "wabuya"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "kubo"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "wathetha"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "nabo"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "wathabatha"
+    },
+    {
+      "surface": "מאתם",
+      "gloss": "kwakunye ⟨את⟩",
+      "marks": "uShimon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uShimon"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "uShimon"
+    },
+    {
+      "surface": "ויאסר",
+      "gloss": "wambophelela"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "wambophelela"
+    },
+    {
+      "surface": "לעיניהם",
+      "gloss": "phambi kwamehlo abo"
+    }
+  ],
+  "timestamp": "2026-09-18T05:41:25.115340986Z",
+  "model": "glm-5.3"
+}

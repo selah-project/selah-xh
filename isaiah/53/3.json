@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 53:3",
+  "book": "isaiah",
+  "lang": "xh",
+  "chapter": 53,
+  "translation": "Wabhinqwa waza wasishiwa yabantu; ngumntu weentlungu, waziwa ngokugula; njengomntu ofihla ubuso apha kuye, wabhinqwa, asizange simtyalela.",
+  "tokens": [
+    {
+      "surface": "נבזה",
+      "gloss": "wabhinqwa"
+    },
+    {
+      "surface": "וחדל",
+      "gloss": "wasishiwa"
+    },
+    {
+      "surface": "אישים",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "איש",
+      "gloss": "umntu"
+    },
+    {
+      "surface": "מכאבות",
+      "gloss": "iintlungu"
+    },
+    {
+      "surface": "וידוע",
+      "gloss": "waziwa"
+    },
+    {
+      "surface": "חלי",
+      "gloss": "ukugula"
+    },
+    {
+      "surface": "וכמסתר",
+      "gloss": "njengomntu"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "ubuso"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "kuye"
+    },
+    {
+      "surface": "נבזה",
+      "gloss": "wabhinqwa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "asizange"
+    },
+    {
+      "surface": "חשבנהו",
+      "gloss": "simtyalela"
+    }
+  ],
+  "timestamp": "2026-09-18T11:41:23.644172886Z",
+  "model": "glm-5.3"
+}

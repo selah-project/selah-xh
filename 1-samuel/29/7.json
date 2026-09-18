@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 29:7",
+  "book": "1-samuel",
+  "lang": "xh",
+  "chapter": 29,
+  "translation": "Ngoko ke ngoku, buyela, hamba ngxolo, musa ukwenza okubi kumehlo abasirhanini bamaFilisthi.”",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Ngoko ke ngoku"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "buyela"
+    },
+    {
+      "surface": "ולך",
+      "gloss": "hamba"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "ngxolo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "musa ukwenza"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "ukwenza"
+    },
+    {
+      "surface": "רע",
+      "gloss": "okubi"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "kumehlo"
+    },
+    {
+      "surface": "סרני",
+      "gloss": "abasirhanini"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "bamaFilisthi"
+    }
+  ],
+  "timestamp": "2026-09-18T09:42:12.696823495Z",
+  "model": "glm-5.3"
+}

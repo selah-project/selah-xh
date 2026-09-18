@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 28:5",
+  "book": "ezekiel",
+  "lang": "xh",
+  "chapter": 28,
+  "translation": "Kwintlaninge lobukhali bakho, ngorhwebo lwakho, wandulukisa ubutyebi bakho, yaye intliziyo yakho yenyukela ngenxa yobutyebi bakho.",
+  "tokens": [
+    {
+      "surface": "ברב",
+      "gloss": "kwintlaninge"
+    },
+    {
+      "surface": "חכמתך",
+      "gloss": "lobukhali (ulwazi) bakho"
+    },
+    {
+      "surface": "ברכלתך",
+      "gloss": "ngorhwebo lwakho"
+    },
+    {
+      "surface": "הרבית",
+      "gloss": "wandulukisa"
+    },
+    {
+      "surface": "חילך",
+      "gloss": "ubutyebi bakho"
+    },
+    {
+      "surface": "ויגבה",
+      "gloss": "yaye yenyukela"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "intliziyo yakho"
+    },
+    {
+      "surface": "בחילך",
+      "gloss": "ngenxa yobutyebi bakho"
+    }
+  ],
+  "timestamp": "2026-09-18T13:17:09.495518660Z",
+  "model": "glm-5.3"
+}

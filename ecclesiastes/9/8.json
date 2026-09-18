@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 9:8",
+  "book": "ecclesiastes",
+  "lang": "xh",
+  "chapter": 9,
+  "translation": "Zonke iixesha impahla yakho mayibe mhlophe, namafutha phezu kwekhanda lakho makangabi nanto.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "Zonke"
+    },
+    {
+      "surface": "עת",
+      "gloss": "iixesha"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "mayibe"
+    },
+    {
+      "surface": "בגדיך",
+      "gloss": "impahla yakho"
+    },
+    {
+      "surface": "לבנים",
+      "gloss": "mhlophe"
+    },
+    {
+      "surface": "ושמן",
+      "gloss": "namafutha"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu"
+    },
+    {
+      "surface": "ראשך",
+      "gloss": "kwekhanda lakho"
+    },
+    {
+      "surface": "אל",
+      "gloss": "maka- (mus'u)"
+    },
+    {
+      "surface": "יחסר",
+      "gloss": "ngabi nanto"
+    }
+  ],
+  "timestamp": "2026-09-18T16:26:35.951721324Z",
+  "model": "glm-5.3"
+}

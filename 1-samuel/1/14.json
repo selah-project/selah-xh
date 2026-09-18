@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 1:14",
+  "book": "1-samuel",
+  "lang": "xh",
+  "chapter": 1,
+  "translation": "U-Eli wathi kuye: “Uza kuxhwala de kube nini? Susa ⟨את⟩ iwayini yakho kuwe.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "kuye"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "u-Eli"
+    },
+    {
+      "surface": "עד",
+      "gloss": "de"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "kube nini"
+    },
+    {
+      "surface": "תשתכרין",
+      "gloss": "uza kuxhwala"
+    },
+    {
+      "surface": "הסירי",
+      "gloss": "susa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iwayini yakho"
+    },
+    {
+      "surface": "יינך",
+      "gloss": "iwayini yakho"
+    },
+    {
+      "surface": "מעליך",
+      "gloss": "kuwe"
+    }
+  ],
+  "timestamp": "2026-09-18T09:13:25.761957128Z",
+  "model": "glm-5.3"
+}

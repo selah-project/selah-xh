@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 3:14",
+  "book": "1-samuel",
+  "lang": "xh",
+  "chapter": 3,
+  "translation": "Ngoko ke ndafungela endlwini ka-Eli ukuba inkohlakalo yendlu ka-Eli ayiza kubuyiswa ngesibingelelo nasinikezelo kuixesha elingunaphakade.",
+  "tokens": [
+    {
+      "surface": "ולכן",
+      "gloss": "Ngoko ke"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "ndafungela"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "endlwini"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ka-Eli"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ukuba"
+    },
+    {
+      "surface": "יתכפר",
+      "gloss": "ayiza kubuyiswa"
+    },
+    {
+      "surface": "עון",
+      "gloss": "inkohlakalo"
+    },
+    {
+      "surface": "בית",
+      "gloss": "yendlu"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ka-Eli"
+    },
+    {
+      "surface": "בזבח",
+      "gloss": "ngesibingelelo"
+    },
+    {
+      "surface": "ובמנחה",
+      "gloss": "nasinikezelo"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ku"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ixesha elingunaphakade"
+    }
+  ],
+  "timestamp": "2026-09-18T17:28:04.433942805Z",
+  "model": "glm-5.3"
+}

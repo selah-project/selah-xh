@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 17:12",
+  "book": "isaiah",
+  "lang": "xh",
+  "chapter": 17,
+  "translation": "Maye, ingxolo yamanyange amaninzi, enjengengxolo yolwandle bexhokonxa; nayindandatho yezizwe, enjengokuqhuma kwamanzi amakhulu bezakutsaleka.",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Maye"
+    },
+    {
+      "surface": "המון",
+      "gloss": "ingxolo"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "yamanyange"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "amaninzi"
+    },
+    {
+      "surface": "כהמות",
+      "gloss": "enjengengxolo"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "yolwandle"
+    },
+    {
+      "surface": "יהמיון",
+      "gloss": "bexhokonxa"
+    },
+    {
+      "surface": "ושאון",
+      "gloss": "nayindandatho"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "yezizwe"
+    },
+    {
+      "surface": "כשאון",
+      "gloss": "enjengokuqhuma"
+    },
+    {
+      "surface": "מים",
+      "gloss": "kwamanzi"
+    },
+    {
+      "surface": "כבירים",
+      "gloss": "amakhulu"
+    },
+    {
+      "surface": "ישאון",
+      "gloss": "bezakutsaleka"
+    }
+  ],
+  "timestamp": "2026-09-18T11:13:34.173268955Z",
+  "model": "glm-5.3"
+}

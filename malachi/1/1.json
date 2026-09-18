@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "malachi 1:1",
+  "book": "malachi",
+  "lang": "xh",
+  "chapter": 1,
+  "translation": "Uthwalo lolwazi lukaYahwe ku-Israeli, ngesandla sikaMalaki.",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "uthwalo"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "lolwazi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "lukaYahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "uIsraeli"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ngesandla sika"
+    },
+    {
+      "surface": "מלאכי",
+      "gloss": "Malaki"
+    }
+  ],
+  "timestamp": "2026-09-18T14:24:32.577608927Z",
+  "model": "glm-5.3"
+}

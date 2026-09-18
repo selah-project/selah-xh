@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 16:5",
+  "book": "leviticus",
+  "lang": "xh",
+  "chapter": 16,
+  "translation": "Kwaye u-Aharon uza kuthabatha kwindibano yabantwana bakwaYisraeli imbini yeentshoci zezibokana zenxeba, nendoda enye yemvu isisipho esishiswayo.",
+  "tokens": [
+    {
+      "surface": "ומאת",
+      "gloss": "⟨את⟩ kwi-",
+      "marks": "indibano yabantwana bakwaYisraeli"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "indibano"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abantwana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "bakwaYisraeli"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "uza kuthabatha"
+    },
+    {
+      "surface": "שני",
+      "gloss": "imbini"
+    },
+    {
+      "surface": "שעירי",
+      "gloss": "yeentshoci"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "zezibokana"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "ngenxeba"
+    },
+    {
+      "surface": "ואיל",
+      "gloss": "nendoda yemvu"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "enye"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "esisipho esishiswayo"
+    }
+  ],
+  "timestamp": "2026-09-18T06:53:50.463680326Z",
+  "model": "glm-5.3"
+}

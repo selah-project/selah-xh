@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 108:12",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 108,
+  "translation": "Awusishiyile na uElohim, yaye awuphumi uElohim nemikhosi yethu?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "na"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "זנחתנו",
+      "gloss": "awusishiyile"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "yaye awu-"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "phumi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "בצבאתינו",
+      "gloss": "nemikhosi yethu"
+    }
+  ],
+  "timestamp": "2026-09-18T17:45:15.449330253Z",
+  "model": "glm-5.3"
+}

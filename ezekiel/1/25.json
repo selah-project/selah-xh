@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ezekiel 1:25",
+  "book": "ezekiel",
+  "lang": "xh",
+  "chapter": 1,
+  "translation": "Kwakukho ilizwi elivela phezu kolwakhiwo olwalungaphezu kweentloko zabo; xa bemi, bamisa phantsi amaphiko abo.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "kwakukho"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ilizwi"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "phezu"
+    },
+    {
+      "surface": "לרקיע",
+      "gloss": "kolwakhiwo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "olwalu-"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu kwe-"
+    },
+    {
+      "surface": "ראשם",
+      "gloss": "iintloko zabo"
+    },
+    {
+      "surface": "בעמדם",
+      "gloss": "xa bemi"
+    },
+    {
+      "surface": "תרפינה",
+      "gloss": "bamisa phantsi"
+    },
+    {
+      "surface": "כנפיהן",
+      "gloss": "amaphiko abo"
+    }
+  ],
+  "timestamp": "2026-09-18T12:48:19.605355078Z",
+  "model": "glm-5.3"
+}

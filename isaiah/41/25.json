@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "isaiah 41:25",
+  "book": "isaiah",
+  "lang": "xh",
+  "chapter": 41,
+  "translation": "Ndivuse ovela mntla, waza ⟨את⟩ uza ovela ekuzalweni kwelanga; uza kubiza ngeGama lam, noza kufika kwiinduna njengengcazi, njengomdlali wombiza uza kunyathela ⟨את⟩ untya.",
+  "tokens": [
+    {
+      "surface": "העירותי",
+      "gloss": "Ndivuse"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "ovela mntla"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "uza ovela ekuzalweni kwelanga"
+    },
+    {
+      "surface": "ממזרח",
+      "gloss": "ekuzalweni"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "kwelanga"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "uza kubiza"
+    },
+    {
+      "surface": "בשמי",
+      "gloss": "ngeGama lam"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "noza kufika"
+    },
+    {
+      "surface": "סגנים",
+      "gloss": "kwiinduna"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "njenge-"
+    },
+    {
+      "surface": "חמר",
+      "gloss": "ngcazi"
+    },
+    {
+      "surface": "וכמו",
+      "gloss": "njengo-"
+    },
+    {
+      "surface": "יוצר",
+      "gloss": "mdlali wombiza"
+    },
+    {
+      "surface": "ירמס",
+      "gloss": "uza kunyathela"
+    },
+    {
+      "surface": "טיט",
+      "gloss": "untya"
+    }
+  ],
+  "timestamp": "2026-09-18T11:32:57.935391055Z",
+  "model": "glm-5.3"
+}

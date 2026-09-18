@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 40:20",
+  "book": "genesis",
+  "lang": "xh",
+  "chapter": 40,
+  "translation": "Kwenzeka ngomhla wesithathu, umhla wokuzalwa kukaParo, wadibisa ukutya okumnandi konke ooncedeni bakhe; wanyusa ⟨את⟩ intloko yenkululekulu wabamkeli kunye ⟨את⟩ intloko yenkululekulu wobhaki phakathi koencedeni bakhe.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "kwenzeka"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ngumhla"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "wesithathu"
+    },
+    {
+      "surface": "יום",
+      "gloss": "umhla"
+    },
+    {
+      "surface": "הלדת",
+      "gloss": "wokuzalwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ukaParo"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ukaParo"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "wadibisa"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "ukutya okumnandi"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "konke"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "ooncedeni bakhe"
+    },
+    {
+      "surface": "וישא",
+      "gloss": "wanyusa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "intloko yenkululekulu wabamkeli"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "intloko"
+    },
+    {
+      "surface": "שר",
+      "gloss": "yenkululekulu"
+    },
+    {
+      "surface": "המשקים",
+      "gloss": "wabamkeli"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kunye ⟨את⟩",
+      "marks": "intloko yenkululekulu wobhaki"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "intloko"
+    },
+    {
+      "surface": "שר",
+      "gloss": "yenkululekulu"
+    },
+    {
+      "surface": "האפים",
+      "gloss": "wobhaki"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "phakathi"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "koencedeni bakhe"
+    }
+  ],
+  "timestamp": "2026-09-18T05:37:45.585892974Z",
+  "model": "glm-5.3"
+}

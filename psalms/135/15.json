@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 135:15",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 135,
+  "translation": "Iithixo zeentlanga zingilveri negolide, umsebenzi wezandla zabantu.",
+  "tokens": [
+    {
+      "surface": "עצבי",
+      "gloss": "iithixo"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "zeentlanga"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "ilingcwece (ilveri)"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "negolide"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "umsebenzi"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "wezandla"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "zabantu"
+    }
+  ],
+  "timestamp": "2026-09-18T15:28:30.396102397Z",
+  "model": "glm-5.3"
+}

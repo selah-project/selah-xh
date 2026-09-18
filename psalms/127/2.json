@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 127:2",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 127,
+  "translation": "Ngabom kunina ukuvuka kuseni, ukuhlala bentla, ukutya isonka loluxinzelelo; kanjalo unika ⟨omthandayo⟩ ukulala.",
+  "tokens": [
+    {
+      "surface": "שוא",
+      "gloss": "ngabom"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kunina"
+    },
+    {
+      "surface": "משכימי",
+      "gloss": "ukuvuka kuseni"
+    },
+    {
+      "surface": "קום",
+      "gloss": "bavuka"
+    },
+    {
+      "surface": "מאחרי",
+      "gloss": "bahlala bentla"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "bahlala"
+    },
+    {
+      "surface": "אכלי",
+      "gloss": "abadla"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "isonka"
+    },
+    {
+      "surface": "העצבים",
+      "gloss": "loluxinzelelo"
+    },
+    {
+      "surface": "כן",
+      "gloss": "kanjalo"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "unika"
+    },
+    {
+      "surface": "לידידו",
+      "gloss": "omthandayo"
+    },
+    {
+      "surface": "שנא",
+      "gloss": "ukulala"
+    }
+  ],
+  "timestamp": "2026-09-18T15:28:31.099427239Z",
+  "model": "glm-5.3"
+}

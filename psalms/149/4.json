@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 149:4",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 149,
+  "translation": "Kuba uYahwe uluvuyela abantu bakhe; uhombisa abathobekileyo ngentsindiso.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "רוצה",
+      "gloss": "uluvuyela"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "בעמו",
+      "gloss": "abantu bakhe"
+    },
+    {
+      "surface": "יפאר",
+      "gloss": "uhombisa"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "abathobekileyo"
+    },
+    {
+      "surface": "בישועה",
+      "gloss": "ngentsindiso"
+    }
+  ],
+  "timestamp": "2026-09-18T17:45:53.658541649Z",
+  "model": "glm-5.3"
+}

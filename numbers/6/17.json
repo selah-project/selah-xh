@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "numbers 6:17",
+  "book": "numbers",
+  "lang": "xh",
+  "chapter": 6,
+  "translation": "Yaye ⟨את⟩ iramu uza kuyenza njengomnikelo woxolo kuYahwe, ngokwebhasikithu yeenkwa ezingenaseli; umpristi uza kunikelela ⟨את⟩ isonka sakhe kunye ⟨את⟩ nomselo wakhe.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "iramu"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "iramu"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "uza kuyenza"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "umnikelo"
+    },
+    {
+      "surface": "שלמים",
+      "gloss": "woxolo"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kuYahwe"
+    },
+    {
+      "surface": "על",
+      "gloss": "ngokwe-"
+    },
+    {
+      "surface": "סל",
+      "gloss": "ibhasikithu"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "yeenkwa ezingenaseli"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "kananjalo wenza"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "umpristi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isonka sakhe"
+    },
+    {
+      "surface": "מנחתו",
+      "gloss": "isonka sakhe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "umselo wakhe"
+    },
+    {
+      "surface": "נסכו",
+      "gloss": "umselo wakhe"
+    }
+  ],
+  "timestamp": "2026-09-18T07:18:19.980601898Z",
+  "model": "glm-5.3"
+}

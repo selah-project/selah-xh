@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 73:5",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 73,
+  "translation": "Kusizi komntu akukho kubo, yaye kunye nabantu abayi kuchukunyiswa.",
+  "tokens": [
+    {
+      "surface": "בעמל",
+      "gloss": "kusizi"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "komntu"
+    },
+    {
+      "surface": "אינמו",
+      "gloss": "akukho kubo"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "yaye kunye"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "nabantu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hayi"
+    },
+    {
+      "surface": "ינגעו",
+      "gloss": "bayi kuchukunyiswa"
+    }
+  ],
+  "timestamp": "2026-09-18T15:00:11.235459258Z",
+  "model": "glm-5.3"
+}

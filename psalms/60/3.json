@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 60:3",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 60,
+  "translation": "uElohim, wasilahla, wasiphula, wadasuka — buyela kuthi!",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "זנחתנו",
+      "gloss": "wasilahla"
+    },
+    {
+      "surface": "פרצתנו",
+      "gloss": "wasiphula"
+    },
+    {
+      "surface": "אנפת",
+      "gloss": "wadasuka"
+    },
+    {
+      "surface": "תשובב",
+      "gloss": "buyela"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "kuthi"
+    }
+  ],
+  "timestamp": "2026-09-18T14:53:27.486967940Z",
+  "model": "glm-5.3"
+}

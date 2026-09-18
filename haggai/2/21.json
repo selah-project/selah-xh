@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "haggai 2:21",
+  "book": "haggai",
+  "lang": "xh",
+  "chapter": 2,
+  "translation": "Yitha kuZerubbabele, umlawuli weYuda, ukuthi: Ndiyazudumba ⟨את⟩ amazulu ⟨את⟩ nomhlaba.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "Yitha"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "זרבבל",
+      "gloss": "Zerubbabele"
+    },
+    {
+      "surface": "פחת",
+      "gloss": "umlawuli"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "weYuda"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ukuthi"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Ndi"
+    },
+    {
+      "surface": "מרעיש",
+      "gloss": "iyazudumba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amazulu"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "amazulu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "nomhlaba"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "nomhlaba"
+    }
+  ],
+  "timestamp": "2026-09-18T14:14:48.063083139Z",
+  "model": "glm-5.3"
+}

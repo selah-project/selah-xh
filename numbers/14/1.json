@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 14:1",
+  "book": "numbers",
+  "lang": "xh",
+  "chapter": 14,
+  "translation": "Yonke indibano yaphakamisa ⟨את⟩ ilizwi labo, abantu balila ngobusuku obu.",
+  "tokens": [
+    {
+      "surface": "ותשא",
+      "gloss": "yaphakamisa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yonke"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "indibano"
+    },
+    {
+      "surface": "ויתנו",
+      "gloss": "banika"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ilizwi labo"
+    },
+    {
+      "surface": "קולם",
+      "gloss": "ilizwi labo"
+    },
+    {
+      "surface": "ויבכו",
+      "gloss": "balila"
+    },
+    {
+      "surface": "העם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "ngobusuku"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "obo"
+    }
+  ],
+  "timestamp": "2026-09-18T07:25:21.577786578Z",
+  "model": "glm-5.3"
+}

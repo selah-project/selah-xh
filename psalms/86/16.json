@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 86:16",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 86,
+  "translation": "Jonga kum, undinceda; niphe amandla akho owenu msebenzeli, umsize unyana wenceku yakho.",
+  "tokens": [
+    {
+      "surface": "פנה",
+      "gloss": "jonga"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kum"
+    },
+    {
+      "surface": "וחנני",
+      "gloss": "undinceda"
+    },
+    {
+      "surface": "תנה",
+      "gloss": "niphe"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "amandla akho"
+    },
+    {
+      "surface": "לעבדך",
+      "gloss": "owenu msebenzeli"
+    },
+    {
+      "surface": "והושיעה",
+      "gloss": "umsize"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "unyana"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "wenceku yakho"
+    }
+  ],
+  "timestamp": "2026-09-18T15:07:13.338346533Z",
+  "model": "glm-5.3"
+}

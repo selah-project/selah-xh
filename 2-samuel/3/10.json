@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-samuel 3:10",
+  "book": "2-samuel",
+  "lang": "xh",
+  "chapter": 3,
+  "translation": "ukudlulisa ubukumkani buvela endlwini kaShawuli, nokumisela ⟨את⟩ isikhongozelo sikaDavide phezu kwaYisrayeli nakwaYuda, ukusuka eDan nokuya eBhereshebha.",
+  "tokens": [
+    {
+      "surface": "להעביר",
+      "gloss": "ukudlulisa"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "ubukumkani"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "endlwini"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "kaShawuli"
+    },
+    {
+      "surface": "ולהקים",
+      "gloss": "nokumisela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isikhongozelo sikaDavide"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "isikhongozelo"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "sikaDavide"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "kwaYisrayeli"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "nakwa"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "uYuda"
+    },
+    {
+      "surface": "מדן",
+      "gloss": "ukusuka eDan"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "nokuya"
+    },
+    {
+      "surface": "באר",
+      "gloss": "eBhere"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "shebha"
+    }
+  ],
+  "timestamp": "2026-09-18T09:44:31.545108423Z",
+  "model": "glm-5.3"
+}

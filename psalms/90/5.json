@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 90:5",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 90,
+  "translation": "Uzigelezise njengomkhombe wamanzi; baba ngulala; ekuseni ludlula njengotshani.",
+  "tokens": [
+    {
+      "surface": "זרמתם",
+      "gloss": "uzigelezise"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ulala"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "baba"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "ekuseni"
+    },
+    {
+      "surface": "כחציר",
+      "gloss": "njengotshani"
+    },
+    {
+      "surface": "יחלף",
+      "gloss": "ludlula"
+    }
+  ],
+  "timestamp": "2026-09-18T15:11:29.929336717Z",
+  "model": "glm-5.3"
+}

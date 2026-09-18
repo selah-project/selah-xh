@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 15:10",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 15,
+  "translation": "Wothuka ngomoya wakho, ulwandle lwabagqumela; batshonile njengentsimbi esisindayo emanzini amakhulu.",
+  "tokens": [
+    {
+      "surface": "נשפת",
+      "gloss": "wothuka"
+    },
+    {
+      "surface": "ברוחך",
+      "gloss": "ngomoya wakho"
+    },
+    {
+      "surface": "כסמו",
+      "gloss": "lwabagqumela"
+    },
+    {
+      "surface": "ים",
+      "gloss": "ulwandle"
+    },
+    {
+      "surface": "צללו",
+      "gloss": "batshonile"
+    },
+    {
+      "surface": "כעופרת",
+      "gloss": "njengentsimbi esisindayo"
+    },
+    {
+      "surface": "במים",
+      "gloss": "emanzini"
+    },
+    {
+      "surface": "אדירים",
+      "gloss": "amakhulu"
+    }
+  ],
+  "timestamp": "2026-09-18T05:58:40.597179444Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 102:3",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 102,
+  "translation": "Musa ukufihla ubuso bakho kum ngosuku olunzima lwam; yithobe indlebe yakho kum; ngosuku endibizayo, khawuleza, ndiphendule.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Musa uk"
+    },
+    {
+      "surface": "תסתר",
+      "gloss": "ukufihla"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ubuso bakho"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "kum"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ngosuku"
+    },
+    {
+      "surface": "צר",
+      "gloss": "olunzima"
+    },
+    {
+      "surface": "לי",
+      "gloss": "lwam"
+    },
+    {
+      "surface": "הטה",
+      "gloss": "yithobe"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kum"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "indlebe yakho"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ngosuku"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "endibizayo"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "khawuleza"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "ndiphendule"
+    }
+  ],
+  "timestamp": "2026-09-18T15:14:42.203347470Z",
+  "model": "glm-5.3"
+}

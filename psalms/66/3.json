@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 66:3",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 66,
+  "translation": "Yithani kuElohim: 'Zizinto ezimangalisayo izenzo zakhe!' Ngenxa yogunya lwakhe amachwengeza akho aza kuzama ukuzenza amanyala phambi kwakho.",
+  "tokens": [
+    {
+      "surface": "אמרו",
+      "gloss": "yithani"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "kuElohim"
+    },
+    {
+      "surface": "מה",
+      "gloss": "zizinto ezimangalisayo"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "ezimangalisayo (ezibangela umsindo)"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "izenzo zakhe"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "ngexesha elifanelekileyo"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "ugunya lwakhe"
+    },
+    {
+      "surface": "יכחשו",
+      "gloss": "aza kuzama ukuzenza amanyala"
+    },
+    {
+      "surface": "לך",
+      "gloss": "phambi kwakho"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "amachwengeza akho"
+    }
+  ],
+  "timestamp": "2026-09-18T14:53:33.388176906Z",
+  "model": "glm-5.3"
+}

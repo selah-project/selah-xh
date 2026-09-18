@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 137:8",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 137,
+  "translation": "Ntombi kaBhabheli, eshintshiweyo ngokutshatyalalisa, makabe lumnandi lowo yakubuyisela kuwe ⟨את⟩ umvuzo wakho, lowo wawusenzele thina.",
+  "tokens": [
+    {
+      "surface": "בת",
+      "gloss": "Ntombi"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "kaBhabheli"
+    },
+    {
+      "surface": "השדודה",
+      "gloss": "eshintshiweyo ngokutshatyalalisa"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "makabe lumnanni"
+    },
+    {
+      "surface": "שישלם",
+      "gloss": "lowo yakubuyisela"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kuwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umvuzo wakho"
+    },
+    {
+      "surface": "גמולך",
+      "gloss": "umvuzo wakho"
+    },
+    {
+      "surface": "שגמלת",
+      "gloss": "wawusenzele"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "thina"
+    }
+  ],
+  "timestamp": "2026-09-18T15:32:33.021338181Z",
+  "model": "glm-5.3"
+}

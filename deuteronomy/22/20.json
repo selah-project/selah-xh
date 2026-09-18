@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 22:20",
+  "book": "deuteronomy",
+  "lang": "xh",
+  "chapter": 22,
+  "translation": "Kodwa ukuba le nto iyinyaniso, ukungabi yintombi kungafunyanwanga kule nkazana —",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Kodwa ukuba"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "iyinyaniso"
+    },
+    {
+      "surface": "היה",
+      "gloss": "⟨ngaba⟩"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "le nto"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "le"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hayi"
+    },
+    {
+      "surface": "נמצאו",
+      "gloss": "kungafunyanwanga"
+    },
+    {
+      "surface": "בתולים",
+      "gloss": "ukungabi yintombi"
+    },
+    {
+      "surface": "לנער",
+      "gloss": "kule nkazana"
+    }
+  ],
+  "timestamp": "2026-09-18T17:25:45.632843929Z",
+  "model": "glm-5.3"
+}

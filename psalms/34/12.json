@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 34:12",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 34,
+  "translation": "Wodwa nina bantwana, ndilaleleni; ndiza kunifundisa ukuwoyika uYahwe.",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "Wodwa"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "bantwana"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "ndilaleleni"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kum"
+    },
+    {
+      "surface": "יראת",
+      "gloss": "ukuwoyika"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אלמדכם",
+      "gloss": "ndiza kunifundisa"
+    }
+  ],
+  "timestamp": "2026-09-18T14:40:09.638421659Z",
+  "model": "glm-5.3"
+}

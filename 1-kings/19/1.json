@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 19:1",
+  "book": "1-kings",
+  "lang": "xh",
+  "chapter": 19,
+  "translation": "Waxelela u-Axabi ku-Iyizebeli ⟨את⟩ konkeoko uEliya akwenzileyo, nange⟨את⟩ konkeoko awenzeleyo ukubulala ⟨את⟩ iiprofeti zonke ngekrele.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "waxelela"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "u-Axabi"
+    },
+    {
+      "surface": "לאיזבל",
+      "gloss": "ku-Iyizebeli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "konkeoko"
+    },
+    {
+      "surface": "כל",
+      "gloss": "konkeoko"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oko"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "akwenzileyo"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "uEliya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "nange⟨את⟩",
+      "marks": "konkeoko"
+    },
+    {
+      "surface": "כל",
+      "gloss": "konkeoko"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oko"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "ukubulala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iiprofeti zonke"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zonke"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "iiprofeti"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "ngekrele"
+    }
+  ],
+  "timestamp": "2026-09-18T17:32:57.296981233Z",
+  "model": "glm-5.3"
+}

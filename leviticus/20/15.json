@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 20:15",
+  "book": "leviticus",
+  "lang": "xh",
+  "chapter": 20,
+  "translation": "Kwaye umntu xa enika isinini sakhe esilwanyeni, uyakufa ngokufa; no⟨את⟩ esilwanyeni niyakubulala.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "kwaye umntu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "xa"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "enika"
+    },
+    {
+      "surface": "שכבתו",
+      "gloss": "isinini sakhe"
+    },
+    {
+      "surface": "בבהמה",
+      "gloss": "esilwanyeni"
+    },
+    {
+      "surface": "מות",
+      "gloss": "uyakufa"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "ngokufa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "no⟨את⟩",
+      "marks": "esilwanyeni"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "esilwanyeni"
+    },
+    {
+      "surface": "תהרגו",
+      "gloss": "niyakubulala"
+    }
+  ],
+  "timestamp": "2026-09-18T07:00:24.443756291Z",
+  "model": "glm-5.3"
+}

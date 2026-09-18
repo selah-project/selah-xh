@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 143:1",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 143,
+  "translation": "Ingoma kaDavide. Yahwe, yiva umthandazo wam, mamele iiluleko zam; ngokuthembeka kwakho ndiphendule, ngokolungiswa kwakho.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "ingoma"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "kaDavide"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "yiva"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "umthandazo wam"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "mamele"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "iiluleko zam"
+    },
+    {
+      "surface": "באמנתך",
+      "gloss": "ngokuthembeka kwakho"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "ndiphendule"
+    },
+    {
+      "surface": "בצדקתך",
+      "gloss": "ngokolungiswa kwakho"
+    }
+  ],
+  "timestamp": "2026-09-18T15:32:13.810535004Z",
+  "model": "glm-5.3"
+}

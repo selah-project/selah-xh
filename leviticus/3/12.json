@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 3:12",
+  "book": "leviticus",
+  "lang": "xh",
+  "chapter": 3,
+  "translation": "Ukuba isipho sakhe bubhokazana, uza kusingisa phambi koYahwe.",
+  "tokens": [
+    {
+      "surface": "וְאִ֥ם",
+      "gloss": "ukuba"
+    },
+    {
+      "surface": "עֵ֖ז",
+      "gloss": "ubhokazana"
+    },
+    {
+      "surface": "קָרְבָּנ֑וֹ",
+      "gloss": "isipho sakhe"
+    },
+    {
+      "surface": "וְהִקְרִיב֖וֹ",
+      "gloss": "uza kusingisa"
+    },
+    {
+      "surface": "לִפְנֵ֥י",
+      "gloss": "phambi"
+    },
+    {
+      "surface": "יְהוָֽה",
+      "gloss": "koYahwe"
+    }
+  ],
+  "timestamp": "2026-09-18T06:32:39.210744032Z",
+  "model": "glm-5.3"
+}

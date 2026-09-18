@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 3:24",
+  "book": "deuteronomy",
+  "lang": "xh",
+  "chapter": 3,
+  "translation": "u-Adonayi Yahwe, wena uqalile ukubonisa ⟨את⟩ umkhonzi wakho ⟨את⟩ ubukhulu bakho, kunye ⟨את⟩ isandla sakho esinamandla; kuba ngubani u-El ezulwini nasemhlabeni onokwenza njengemisebenzi yakho najangamandla akho amakhulu?",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "u-Adonayi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "החלות",
+      "gloss": "uqalile"
+    },
+    {
+      "surface": "להראות",
+      "gloss": "ukubonisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umkhonzi wakho"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "umkhonzi wakho"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ubukhulu bakho"
+    },
+    {
+      "surface": "גדלך",
+      "gloss": "ubukhulu bakho"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "isandla sakho"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "isandla sakho"
+    },
+    {
+      "surface": "החזקה",
+      "gloss": "esinamandla"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ngubani"
+    },
+    {
+      "surface": "אל",
+      "gloss": "u-El"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "ezulwini"
+    },
+    {
+      "surface": "ובארץ",
+      "gloss": "nasemhlabeni"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "onokwenza"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "ukwenza"
+    },
+    {
+      "surface": "כמעשיך",
+      "gloss": "njengemisebenzi yakho"
+    },
+    {
+      "surface": "וכגבורתך",
+      "gloss": "najaran­gamandla akho"
+    }
+  ],
+  "timestamp": "2026-09-18T07:52:30.345433348Z",
+  "model": "glm-5.3"
+}

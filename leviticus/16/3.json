@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 16:3",
+  "book": "leviticus",
+  "lang": "xh",
+  "chapter": 16,
+  "translation": "Ngaloo ndlela uAaron uza kungena elundaweni olungcwele: ngenkunzi yenkomo njengomnikelo wesono, nenkunzi yemvu njengomnikelo oshisiweyo.",
+  "tokens": [
+    {
+      "surface": "בזאת",
+      "gloss": "Ngaloo ndlela"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "uza kungena"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "uAaron"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ela"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "ndawo engcwele"
+    },
+    {
+      "surface": "בפר",
+      "gloss": "ngenkunzi yenkomo"
+    },
+    {
+      "surface": "בן",
+      "gloss": "unyana we"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "inkomo"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "njengomnikelo wesono"
+    },
+    {
+      "surface": "ואיל",
+      "gloss": "nankunzi yemvu"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "njengomnikelo oshisiweyo"
+    }
+  ],
+  "timestamp": "2026-09-18T06:56:53.361263277Z",
+  "model": "glm-5.3"
+}

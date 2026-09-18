@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 5:9",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 5,
+  "translation": "Inkonzo makubanzima kumadoda, benze ngayo, bangazinakisi amazwi amabubesi.",
+  "tokens": [
+    {
+      "surface": "תכבד",
+      "gloss": "makubanzima"
+    },
+    {
+      "surface": "העבדה",
+      "gloss": "inkonzo"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "amadoda"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "benze"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ngayo"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "mus"
+    },
+    {
+      "surface": "ישעו",
+      "gloss": "bangazinakisi"
+    },
+    {
+      "surface": "בדברי",
+      "gloss": "amazwi"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "amabubesi"
+    }
+  ],
+  "timestamp": "2026-09-18T05:51:22.225581821Z",
+  "model": "glm-5.3"
+}

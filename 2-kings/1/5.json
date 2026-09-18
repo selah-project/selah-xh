@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 1:5",
+  "book": "2-kings",
+  "lang": "xh",
+  "chapter": 1,
+  "translation": "Zabuya iintumwa kuye, waza wathetha kwenye: “Yintoni le — nibuyile niphindela?”",
+  "tokens": [
+    {
+      "surface": "וישובו",
+      "gloss": "zabuya"
+    },
+    {
+      "surface": "המלאכים",
+      "gloss": "iintumwa"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kuye"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "wathetha"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "kwenye"
+    },
+    {
+      "surface": "מה",
+      "gloss": "yintoni"
+    },
+    {
+      "surface": "זה",
+      "gloss": "le"
+    },
+    {
+      "surface": "שבתם",
+      "gloss": "nibuyile niphindela"
+    }
+  ],
+  "timestamp": "2026-09-18T10:38:39.263339359Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-samuel 1:11",
+  "book": "2-samuel",
+  "lang": "xh",
+  "chapter": 1,
+  "translation": "uDawid waphatha ngamandla impahla yakhe, wayinqumla; nakanjalo onke amadoda ⟨אתו⟩ ayenaye.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "waphatha ngamandla"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "uDawid"
+    },
+    {
+      "surface": "בבגדו",
+      "gloss": "impahla yakhe"
+    },
+    {
+      "surface": "ויקרעם",
+      "gloss": "wayinqumla"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "nakanjalo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "onke"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "amadoda"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "amadoda ayenaye"
+    }
+  ],
+  "timestamp": "2026-09-18T09:44:02.976630785Z",
+  "model": "glm-5.3"
+}

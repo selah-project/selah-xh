@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 116:16",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 116,
+  "translation": "Nceda, Yahwe, kuba mna ndingumkhonzo wakho, mna ndingumkhonzo wakho, unyana wencesikazi yakho; wandivulele imiqobo yam.",
+  "tokens": [
+    {
+      "surface": "אנה",
+      "gloss": "Nceda"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mna"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "ndingumkhonzo wakho"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mna"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "ndingumkhonzo wakho"
+    },
+    {
+      "surface": "בן",
+      "gloss": "unyana"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "wencesikazi yakhe"
+    },
+    {
+      "surface": "פתחת",
+      "gloss": "wandivulele"
+    },
+    {
+      "surface": "למוסרי",
+      "gloss": "imiqobo yam"
+    }
+  ],
+  "timestamp": "2026-09-18T15:22:59.361297741Z",
+  "model": "glm-5.3"
+}

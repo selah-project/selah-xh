@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 12:2",
+  "book": "genesis",
+  "lang": "xh",
+  "chapter": 12,
+  "translation": "Ndiza kukwenza ube lilizwe elikhulu, ndiza kukutsikelela, ndiza kukwenza igama lakho libe likhulu — yaye ubengumtsikelelo.",
+  "tokens": [
+    {
+      "surface": "ואעשך",
+      "gloss": "ndiza kukwenza"
+    },
+    {
+      "surface": "לגוי",
+      "gloss": "ube lilizwe"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "elikhulu"
+    },
+    {
+      "surface": "ואברכך",
+      "gloss": "ndiza kukutsikelela"
+    },
+    {
+      "surface": "ואגדלה",
+      "gloss": "ndiza kukwenza libe likhulu"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "igama lakho"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "yaye ube"
+    },
+    {
+      "surface": "ברכה",
+      "gloss": "umtsikelelo"
+    }
+  ],
+  "timestamp": "2026-09-18T05:13:27.705784978Z",
+  "model": "glm-5.3"
+}

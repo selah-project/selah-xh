@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 25:10",
+  "book": "genesis",
+  "lang": "xh",
+  "chapter": 25,
+  "translation": "Isima sabethwa ngu-Avraham kumakaBene-Hhethi; ecaleni kwakungcwatywa u-Avraham noSara umfaziakhe.",
+  "tokens": [
+    {
+      "surface": "השדה",
+      "gloss": "isima"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "-"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "sabethwa"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "ngu-Avraham"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "kumakaBene-Hhethi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ama-"
+    },
+    {
+      "surface": "חת",
+      "gloss": "Bene-Hhethi"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "ecaleni"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "kwakungcwatywa"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "u-Avraham"
+    },
+    {
+      "surface": "ושרה",
+      "gloss": "noSara"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "umfaziakhe"
+    }
+  ],
+  "timestamp": "2026-09-18T05:21:13.063457757Z",
+  "model": "glm-5.3"
+}

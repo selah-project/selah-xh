@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 23:2",
+  "book": "1-chronicles",
+  "lang": "xh",
+  "chapter": 23,
+  "translation": "Wadibana ⟨את⟩ onke amaphakathi eSirayeli, neabapristi, neaLeviyim.",
+  "tokens": [
+    {
+      "surface": "ויאסף",
+      "gloss": "Wadibana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "onke amaphakathi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "onke"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "amaphakathi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "eSirayeli"
+    },
+    {
+      "surface": "והכהנים",
+      "gloss": "neabapristi"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "neaLeviyim"
+    }
+  ],
+  "timestamp": "2026-09-18T16:59:36.712932508Z",
+  "model": "glm-5.3"
+}

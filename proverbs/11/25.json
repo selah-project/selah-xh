@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 11:25",
+  "book": "proverbs",
+  "lang": "xh",
+  "chapter": 11,
+  "translation": "Umphefumlo wobetiso uyakutyebiswa; lowo uniselayo, yena naye uza kuniselwa.",
+  "tokens": [
+    {
+      "surface": "נפש",
+      "gloss": "umphefumlo"
+    },
+    {
+      "surface": "ברכה",
+      "gloss": "wobetiso"
+    },
+    {
+      "surface": "תדשן",
+      "gloss": "uyakutyebiswa"
+    },
+    {
+      "surface": "ומרוה",
+      "gloss": "lowo uniselayo"
+    },
+    {
+      "surface": "גם",
+      "gloss": "naye"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yena"
+    },
+    {
+      "surface": "יורא",
+      "gloss": "uza kuniselwa"
+    }
+  ],
+  "timestamp": "2026-09-18T17:46:26.941742319Z",
+  "model": "glm-5.3"
+}

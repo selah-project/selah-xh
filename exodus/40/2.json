@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 40:2",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 40,
+  "translation": "Ngosuku lwenyanga yokuqala, ngomhla wokuqala wenyanga, uza kwakha itabhenakile yentente yomdla.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "Ngosuku"
+    },
+    {
+      "surface": "החדש",
+      "gloss": "lwenyanga"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "yokuqala"
+    },
+    {
+      "surface": "באחד",
+      "gloss": "ngomhla wokuqala"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "wenyanga"
+    },
+    {
+      "surface": "תקים",
+      "gloss": "uza kwakha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "itabhenakile"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "itabhenakile"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "yentente"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "yomdla"
+    }
+  ],
+  "timestamp": "2026-09-18T17:21:21.528917921Z",
+  "model": "glm-5.3"
+}

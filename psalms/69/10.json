@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 69:10",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 69,
+  "translation": "Kuba inkanuko yendlu yakho indityile, izithuko zabathukayo wena ziwelile phezu kwam.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "קנאת",
+      "gloss": "inkanuko"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "yendlu yakho"
+    },
+    {
+      "surface": "אכלתני",
+      "gloss": "indityile"
+    },
+    {
+      "surface": "וחרפות",
+      "gloss": "izithuko"
+    },
+    {
+      "surface": "חורפיך",
+      "gloss": "zabathukayo wena"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "ziwelile"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "phezu kwam"
+    }
+  ],
+  "timestamp": "2026-09-18T14:56:16.059019403Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 8:2",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 8,
+  "translation": "uYahwe, u-Adonayi wethu, mangakanana ubukhulu begama lakho emhlabeni wonke, lowo obekile uzuko lwakho phezu kwezulu!",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אדנינו",
+      "gloss": "u-Adonayi wethu"
+    },
+    {
+      "surface": "מה",
+      "gloss": "mangakanana"
+    },
+    {
+      "surface": "אדיר",
+      "gloss": "ubukhulu"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "begama lakho"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "emhlabeni wonke"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "emhlabeni wonke"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "lowo"
+    },
+    {
+      "surface": "תנה",
+      "gloss": "obekile"
+    },
+    {
+      "surface": "הודך",
+      "gloss": "uzuko lwakho"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "kwezulu"
+    }
+  ],
+  "timestamp": "2026-09-18T14:28:21.644379495Z",
+  "model": "glm-5.3"
+}

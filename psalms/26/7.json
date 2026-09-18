@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 26:7",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 26,
+  "translation": "ukwenza kusixelele ⟨ilizwi⟩ lebhongo lokubulela, nokuxela zonke imimangaliso yakho.",
+  "tokens": [
+    {
+      "surface": "לשמע",
+      "gloss": "ukwenza kusixelele"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "ilizwi"
+    },
+    {
+      "surface": "תודה",
+      "gloss": "ibhongo lokubulela"
+    },
+    {
+      "surface": "ולספר",
+      "gloss": "nokuxela"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zonke"
+    },
+    {
+      "surface": "נפלאותיך",
+      "gloss": "imimangaliso yakho"
+    }
+  ],
+  "timestamp": "2026-09-18T17:42:47.319267250Z",
+  "model": "glm-5.3"
+}

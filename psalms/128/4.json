@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 128:4",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 128,
+  "translation": "Yabona, ngokwenene, ngokunjalo uya kubusisiw⟨a⟩ umntu oyesaba uYahwe.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Yabona"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngokwenene"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ngokunjalo"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "uya kubusisiwa"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "umntu"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "oyesaba"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    }
+  ],
+  "timestamp": "2026-09-18T15:27:05.150716921Z",
+  "model": "glm-5.3"
+}

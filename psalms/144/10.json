@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 144:10",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 144,
+  "translation": "OWunikezela intsindiso kwiinkosi, Owakhululayo ⟨את⟩ uDawidi, isicaka sakhe, endlwala yenabi.",
+  "tokens": [
+    {
+      "surface": "הנותן",
+      "gloss": "OWunikezela"
+    },
+    {
+      "surface": "תשועה",
+      "gloss": "intsindiso"
+    },
+    {
+      "surface": "למלכים",
+      "gloss": "kwiinkosi"
+    },
+    {
+      "surface": "הפוצה",
+      "gloss": "Owakhululayo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uDawidi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "uDawidi"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "isicaka sakhe"
+    },
+    {
+      "surface": "מחרב",
+      "gloss": "endlwala"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "yenabi"
+    }
+  ],
+  "timestamp": "2026-09-18T15:33:55.082998824Z",
+  "model": "glm-5.3"
+}

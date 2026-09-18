@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 145:2",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 145,
+  "translation": "Ngeentsuku zonke ndiza kukubusisa, ndiza kukudumisa igama lakho kuze kube phakade naphakade.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "zonke"
+    },
+    {
+      "surface": "יום",
+      "gloss": "Ngeentsuku"
+    },
+    {
+      "surface": "אברכך",
+      "gloss": "ndiza kukubusisa"
+    },
+    {
+      "surface": "ואהללה",
+      "gloss": "ndiza kukudumisa"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "igama lakho"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "kuze kube phakade"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "naphakade"
+    }
+  ],
+  "timestamp": "2026-09-18T15:34:09.572840082Z",
+  "model": "glm-5.3"
+}

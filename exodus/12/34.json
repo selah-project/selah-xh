@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "exodus 12:34",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 12,
+  "translation": "Uluntu lwaluthatha ⟨את⟩ ingqolowa yalo Ingenyange ithswalwe okanye ihluthwe, izitya zokuxova umgubo zithunywe ngeenyawo zazo <ezizinxibyo> emihlombe yazo.",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "lwawuthatha"
+    },
+    {
+      "surface": "העם",
+      "gloss": "uluntu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ingqolowa yalo"
+    },
+    {
+      "surface": "בצקו",
+      "gloss": "ingqolowa yalo"
+    },
+    {
+      "surface": "טרם",
+      "gloss": "Ingenyange"
+    },
+    {
+      "surface": "יחמץ",
+      "gloss": "ihluthwe"
+    },
+    {
+      "surface": "משארתם",
+      "gloss": "izitya zokuxova umgubo"
+    },
+    {
+      "surface": "צררת",
+      "gloss": "zithunywe"
+    },
+    {
+      "surface": "בשמלתם",
+      "gloss": "ngeenyawo zazo <ezizinxibyo>"
+    },
+    {
+      "surface": "על",
+      "gloss": "kwi-"
+    },
+    {
+      "surface": "שכמם",
+      "gloss": "emihlombe yazo"
+    }
+  ],
+  "timestamp": "2026-09-18T06:00:39.537644465Z",
+  "model": "glm-5.3"
+}

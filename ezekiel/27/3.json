@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 27:3",
+  "book": "ezekiel",
+  "lang": "xh",
+  "chapter": 27,
+  "translation": "uthi kwiTsure, ehleli kumathango olwandle, itrhedanti yamahlelo kwiilwa ezininzi: Usha ngoku uthe u-Adonayi uYahwe: iTsure, wena uthe: Ndiyintloko yobuhle;",
+  "tokens": [
+    {
+      "surface": "ואמרת",
+      "gloss": "uthi"
+    },
+    {
+      "surface": "לצור",
+      "gloss": "kwiTsure"
+    },
+    {
+      "surface": "הישבתי",
+      "gloss": "ehleli"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "מבואת",
+      "gloss": "mathango"
+    },
+    {
+      "surface": "ים",
+      "gloss": "olwandle"
+    },
+    {
+      "surface": "רכלת",
+      "gloss": "itrhedanti"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "yamahlelo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "איים",
+      "gloss": "iilwa"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "ezininzi"
+    },
+    {
+      "surface": "כה",
+      "gloss": "ngoku"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "uthe"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "u-Adonayi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "צור",
+      "gloss": "iTsure"
+    },
+    {
+      "surface": "את",
+      "gloss": "wena",
+      "marks": "uthe"
+    },
+    {
+      "surface": "אמרת",
+      "gloss": "uthe"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ndi-"
+    },
+    {
+      "surface": "כלילת",
+      "gloss": "intloko \/ ukuzelekile"
+    },
+    {
+      "surface": "יפי",
+      "gloss": "yobuhle"
+    }
+  ],
+  "timestamp": "2026-09-18T13:17:29.402909867Z",
+  "model": "glm-5.3"
+}

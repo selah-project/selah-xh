@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 78:4",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 78,
+  "translation": "Azisi kufihlwa kwiintwana zabo; kuveliselwe nesizukulwana esizayo iidumiso zikaYahwe, namandla aKhe, neemimangaliso yaKhe ao awenza.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Azi"
+    },
+    {
+      "surface": "נכחד",
+      "gloss": "si kufihlwa"
+    },
+    {
+      "surface": "מבניהם",
+      "gloss": "kwiintwana zabo"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "kuveliselwe nesizukulwana"
+    },
+    {
+      "surface": "אחרון",
+      "gloss": "esizayo"
+    },
+    {
+      "surface": "מספרים",
+      "gloss": "iidumiso"
+    },
+    {
+      "surface": "תהלות",
+      "gloss": "zikaYahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "ועזוזו",
+      "gloss": "namandla aKhe"
+    },
+    {
+      "surface": "ונפלאותיו",
+      "gloss": "neemimangaliso yaKhe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ao"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "awenza"
+    }
+  ],
+  "timestamp": "2026-09-18T15:01:56.839758640Z",
+  "model": "glm-5.3"
+}

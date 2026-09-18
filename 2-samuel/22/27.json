@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "2-samuel 22:27",
+  "book": "2-samuel",
+  "lang": "xh",
+  "chapter": 22,
+  "translation": "Kum ococokekileyo uzibonakalisa ucocokele; nom ongqaqamileyo uzibonakalisa ungqaqamile.",
+  "tokens": [
+    {
+      "surface": "עם",
+      "gloss": "kum"
+    },
+    {
+      "surface": "נבר",
+      "gloss": "ococokekileyo"
+    },
+    {
+      "surface": "תתבר",
+      "gloss": "uzibonakalisa ucocokele"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "nom"
+    },
+    {
+      "surface": "עקש",
+      "gloss": "ongqaqamileyo"
+    },
+    {
+      "surface": "תתפל",
+      "gloss": "uzibonakalisa ungqaqamile"
+    }
+  ],
+  "timestamp": "2026-09-18T10:04:46.533703502Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "hosea 2:15",
+  "book": "hosea",
+  "lang": "xh",
+  "chapter": 2,
+  "translation": "Ndiza kubhekisela kuye imihla yeBaali, apho atshisa khona umkhuhlane kuwo, ehombisa ngeempahla zakhe zokuhombisa, aze ehamba emva kwabathandi bakhe; kuthi mna, undikhohliwe — isalathiso sikaYahwe.",
+  "tokens": [
+    {
+      "surface": "ופקדתי",
+      "gloss": "Ndiza kubhekisela kuye (ndiza kuzisola)"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "kuye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "imihla yeBaali"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "imihla"
+    },
+    {
+      "surface": "הבעלים",
+      "gloss": "yeBaali"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "apho"
+    },
+    {
+      "surface": "תקטיר",
+      "gloss": "atshisa umkhuhlane"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kuwo"
+    },
+    {
+      "surface": "ותעד",
+      "gloss": "ehombisa ngazo"
+    },
+    {
+      "surface": "נזמה",
+      "gloss": "isinxaxhe sakhe sempumlo"
+    },
+    {
+      "surface": "וחליתה",
+      "gloss": "neempahla zakhe zokuhombisa"
+    },
+    {
+      "surface": "ותלך",
+      "gloss": "ehamba"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "emva kwa-"
+    },
+    {
+      "surface": "מאהביה",
+      "gloss": "abathandi bakhe"
+    },
+    {
+      "surface": "ואתי",
+      "gloss": "⟨את⟩ mna",
+      "marks": "undikhohliwe mna"
+    },
+    {
+      "surface": "שכחה",
+      "gloss": "undikhohliwe"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "isalathiso"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "sikaYahwe"
+    }
+  ],
+  "timestamp": "2026-09-18T13:43:05.459602896Z",
+  "model": "glm-5.3"
+}

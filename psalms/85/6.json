@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 85:6",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 85,
+  "translation": "Kude kwanaphakade uza kothuka ngathi, uza kudiba ulaka lwakho umthi wakuthi kuvelwana nakweliphi na?",
+  "tokens": [
+    {
+      "surface": "הלעולם",
+      "gloss": "kude kwanaphakade"
+    },
+    {
+      "surface": "תאנף",
+      "gloss": "uza kothuka"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ngathi"
+    },
+    {
+      "surface": "тמשך",
+      "gloss": "uza kudiba"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "ulaka lwakho"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "kuvelwana"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "nakweliphi na"
+    }
+  ],
+  "timestamp": "2026-09-18T15:07:08.295800127Z",
+  "model": "glm-5.3"
+}

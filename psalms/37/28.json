@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 37:28",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 37,
+  "translation": "Kuba uYahwe uthanda isigwebo, akanushiyi ⟨את⟩ izikhwele zakhe; zigcinwa ngonaphakade; kodwa inzala yabenzi bubu icinywa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "uthanda"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "isigwebo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "akayeki"
+    },
+    {
+      "surface": "יעזב",
+      "gloss": "ukushiya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izikhwele zakhe"
+    },
+    {
+      "surface": "חסידיו",
+      "gloss": "izikhwele zakhe"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ngonaphakade"
+    },
+    {
+      "surface": "נשמרו",
+      "gloss": "zigcinwa"
+    },
+    {
+      "surface": "וזרע",
+      "gloss": "kodwa inzala"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "yabenzi bubu"
+    },
+    {
+      "surface": "נכרת",
+      "gloss": "icinywa"
+    }
+  ],
+  "timestamp": "2026-09-18T14:43:42.984414967Z",
+  "model": "glm-5.3"
+}

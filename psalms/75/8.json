@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 75:8",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 75,
+  "translation": "Kuba nguElohim owahlulelayo: lo uyawisela ezantsi, yena lo umphakamisela.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kuba"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "nguElohim"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "owahlulelayo"
+    },
+    {
+      "surface": "זה",
+      "gloss": "lo"
+    },
+    {
+      "surface": "ישפיל",
+      "gloss": "uyawisela ezantsi"
+    },
+    {
+      "surface": "וזה",
+      "gloss": "yena lo"
+    },
+    {
+      "surface": "ירים",
+      "gloss": "umphakamisela"
+    }
+  ],
+  "timestamp": "2026-09-18T15:01:15.921057468Z",
+  "model": "glm-5.3"
+}

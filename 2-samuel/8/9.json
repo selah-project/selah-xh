@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-samuel 8:9",
+  "book": "2-samuel",
+  "lang": "xh",
+  "chapter": 8,
+  "translation": "Wava uToi, inkosi yaseKhamati, ukuba uDavide wabetha ⟨את⟩ wonke umkhosi kaHadedezari.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "wava"
+    },
+    {
+      "surface": "תעי",
+      "gloss": "uToi"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "inkosi"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "yaseKhamati"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ukuba"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "wabetha"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "uDavide"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wonke umkhosi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wonke"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "umkhosi"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "kaHadedezari"
+    }
+  ],
+  "timestamp": "2026-09-18T09:47:17.281048258Z",
+  "model": "glm-5.3"
+}

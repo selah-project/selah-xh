@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 3:3",
+  "book": "ecclesiastes",
+  "lang": "xh",
+  "chapter": 3,
+  "translation": "Ixesha lokubulala, nexesha lokuphilisa; ixesha lokwakha, nexesha lokusebenza ubudlelwane bezandla.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "ixesha"
+    },
+    {
+      "surface": "להרוג",
+      "gloss": "lokubulala"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "nexesha"
+    },
+    {
+      "surface": "לרפוא",
+      "gloss": "lokuphilisa"
+    },
+    {
+      "surface": "עת",
+      "gloss": "ixesha"
+    },
+    {
+      "surface": "לפרוץ",
+      "gloss": "lokutshabalalisa"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "nexesha"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "lokwakha"
+    }
+  ],
+  "timestamp": "2026-09-18T16:24:02.623953321Z",
+  "model": "glm-5.3"
+}

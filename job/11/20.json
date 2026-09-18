@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 11:20",
+  "book": "job",
+  "lang": "xh",
+  "chapter": 11,
+  "translation": "Kwaye amehlo abalungileyo abi aya kutshatayala; indawo yokubalekela yonakele kubo, nethemba labo lingo kuphefumla komphefumlo.",
+  "tokens": [
+    {
+      "surface": "ועיני",
+      "gloss": "kwaye amehlo"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "abalungileyo abi"
+    },
+    {
+      "surface": "תכלינה",
+      "gloss": "aya kutshatayala"
+    },
+    {
+      "surface": "ומנוס",
+      "gloss": "indawo yokubalekela"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "yonakele"
+    },
+    {
+      "surface": "מנהם",
+      "gloss": "kubo"
+    },
+    {
+      "surface": "ותקותם",
+      "gloss": "nethemba labo"
+    },
+    {
+      "surface": "מפח",
+      "gloss": "ngo kuphefumla"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "womphefumlo"
+    }
+  ],
+  "timestamp": "2026-09-18T16:03:33.677117371Z",
+  "model": "glm-5.3"
+}

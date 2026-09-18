@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 11:3",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 11,
+  "translation": "Kuba iisiseko ziyabhidiswa — umntu olungileyo, wenza ntoni?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kuba"
+    },
+    {
+      "surface": "השתות",
+      "gloss": "iisiseko"
+    },
+    {
+      "surface": "יהרסון",
+      "gloss": "ziyabhidiswa"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "umntu olungileyo"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ntoni"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "wenza"
+    }
+  ],
+  "timestamp": "2026-09-18T14:32:39.690591268Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 107:4",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 107,
+  "translation": "Batshonile elangeni, endle endleleni, umzi wokuhlala abawufumenanga.",
+  "tokens": [
+    {
+      "surface": "תעו",
+      "gloss": "Batshonile"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "elangeni"
+    },
+    {
+      "surface": "בישימון",
+      "gloss": "endle"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "endleleni"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "umzi"
+    },
+    {
+      "surface": "מושב",
+      "gloss": "wokuhlala"
+    },
+    {
+      "surface": "לא",
+      "gloss": "anga-"
+    },
+    {
+      "surface": "מצאו",
+      "gloss": "abawufumenanga"
+    }
+  ],
+  "timestamp": "2026-09-18T15:17:56.086711062Z",
+  "model": "glm-5.3"
+}

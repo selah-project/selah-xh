@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 21:5",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 21,
+  "translation": "Ubomi wabucela kuwe, wamnika ⟨⟨ubuninzi⟩⟩ beentsuku, kuze kube ngunaphakade nanaphakade.",
+  "tokens": [
+    {
+      "surface": "חיים",
+      "gloss": "ubomi"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "wabucela"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "kuwe"
+    },
+    {
+      "surface": "נתתה",
+      "gloss": "wamnika"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kuye"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "ubuninzi"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "beentsuku"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "kuze kube ngunaphakade"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "nanaphakade"
+    }
+  ],
+  "timestamp": "2026-09-18T14:35:09.304187734Z",
+  "model": "glm-5.3"
+}

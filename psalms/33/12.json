@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 33:12",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 33,
+  "translation": "Ubumnandi bubakuloku isizwe esinguYahwe nguElohim waso, abantu abawakhethelayo ukuba abe lefa lakhe.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "ubumnanni ngabakuloku"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "isizwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "esingu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "nguElohim waso"
+    },
+    {
+      "surface": "העם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "abawakhethelayo"
+    },
+    {
+      "surface": "לנחלה",
+      "gloss": "ukuba abe lefa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "lakhe"
+    }
+  ],
+  "timestamp": "2026-09-18T14:39:52.455692032Z",
+  "model": "glm-5.3"
+}

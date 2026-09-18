@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 39:28",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 39,
+  "translation": "Naye ⟨את⟩ idangatye leleyini ehleliweyo, kunye ⟨את⟩ nezihlandlo zeentambo zentloko zeleyini ehleliweyo, kunye ⟨את⟩ neempahla zangaphantsi zebhodi yeleyini ehleliweyo eqhotyoshelweyo;",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "kunye ⟨את⟩"
+    },
+    {
+      "surface": "המצנפת",
+      "gloss": "idangatye"
+    },
+    {
+      "surface": "שש",
+      "gloss": "leleyini ehleliweyo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kunye ⟨את⟩"
+    },
+    {
+      "surface": "פארי",
+      "gloss": "nezihlandlo zeentambo zentloko"
+    },
+    {
+      "surface": "המגבעת",
+      "gloss": "iintambo zentloko"
+    },
+    {
+      "surface": "שש",
+      "gloss": "zeleyini ehleliweyo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kunye ⟨את⟩"
+    },
+    {
+      "surface": "מכנסי",
+      "gloss": "neempahla zangaphantsi"
+    },
+    {
+      "surface": "הבד",
+      "gloss": "zebhodi yeleyini"
+    },
+    {
+      "surface": "שש",
+      "gloss": "yeleyini ehleliweyo"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "eqhotyoshelweyo"
+    }
+  ],
+  "timestamp": "2026-09-18T06:31:40.393006534Z",
+  "model": "glm-5.3"
+}

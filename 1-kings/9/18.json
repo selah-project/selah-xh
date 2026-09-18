@@ -1,0 +1,39 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-kings 9:18",
+  "book": "1-kings",
+  "lang": "xh",
+  "chapter": 9,
+  "translation": "Kunye ⟨את⟩ neBa'alat, kunye ⟨את⟩ neTamar, elanteni, emhlabeni.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "iBa'alat"
+    },
+    {
+      "surface": "בעלת",
+      "gloss": "iBa'alat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "iTamar"
+    },
+    {
+      "surface": "תמר",
+      "gloss": "iTamar"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "elanteni"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "emhlabeni"
+    }
+  ],
+  "timestamp": "2026-09-18T10:20:53.675946004Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 35:25",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 35,
+  "translation": "Yonke ⟨i⟩yakwabafazi abanolwazi entliziyweni batyabukile ngesandla sabo, bazisa into etyabukiweyo: ⟨את⟩ ubuluhlaza ⟨את⟩ nobumfusa, ⟨את⟩ ubomvu (intshongwe-zesoncamedo) ⟨את⟩ nesilika esicocekileyo.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "yonke"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "yakwabafazi"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "anolwazi"
+    },
+    {
+      "surface": "לב",
+      "gloss": "entliziyweni"
+    },
+    {
+      "surface": "בידיה",
+      "gloss": "ngesandla sabo"
+    },
+    {
+      "surface": "טוו",
+      "gloss": "batyabukile"
+    },
+    {
+      "surface": "ויביאו",
+      "gloss": "bazisa"
+    },
+    {
+      "surface": "מטוה",
+      "gloss": "into etyabukiweyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ubuluhlaza"
+    },
+    {
+      "surface": "התכלת",
+      "gloss": "ubuluhlaza"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "nobumfusa"
+    },
+    {
+      "surface": "הארגמן",
+      "gloss": "nobumfusa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ubomvu"
+    },
+    {
+      "surface": "תולעת",
+      "gloss": "(intshongwe-zesoncamedo)"
+    },
+    {
+      "surface": "השני",
+      "gloss": "ubomvu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "nesilika esicocekileyo"
+    },
+    {
+      "surface": "השש",
+      "gloss": "nesilika esicocekileyo"
+    }
+  ],
+  "timestamp": "2026-09-18T06:25:19.634416443Z",
+  "model": "glm-5.3"
+}

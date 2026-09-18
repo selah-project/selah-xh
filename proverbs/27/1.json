@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 27:1",
+  "book": "proverbs",
+  "lang": "xh",
+  "chapter": 27,
+  "translation": "Musa ukuzidla ngomso, kuba awazi oku ⟨yakuzala⟩ yomso.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "musa"
+    },
+    {
+      "surface": "תתהלל",
+      "gloss": "ukuzidla"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ngeyomso"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "omso"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "לא",
+      "gloss": "awazi"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "azi"
+    },
+    {
+      "surface": "מה",
+      "gloss": "oko"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "⟨yakuzala⟩"
+    },
+    {
+      "surface": "יום",
+      "gloss": "yomso"
+    }
+  ],
+  "timestamp": "2026-09-18T15:57:03.466038937Z",
+  "model": "glm-5.3"
+}

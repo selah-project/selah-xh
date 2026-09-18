@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 118:16",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 118,
+  "translation": "Isandla sokunene kaYahwe siphakamile, isandla sokunene kaYahwe sisenza ubuchule.",
+  "tokens": [
+    {
+      "surface": "ימין",
+      "gloss": "isandla sokunene"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kaYahwe"
+    },
+    {
+      "surface": "רוממה",
+      "gloss": "siphakamile"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "isandla sokunene"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kaYahwe"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "sisenza"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "ubuchule"
+    }
+  ],
+  "timestamp": "2026-09-18T15:22:36.763423523Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 6:7",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 6,
+  "translation": "Ndindathile ngeenzwakalo zam; ubusuku bonke ndenza ibhedi yam idadaze; ngamzona am ndiyayitopya idayisi yam.",
+  "tokens": [
+    {
+      "surface": "יגעתי",
+      "gloss": "Ndindathile"
+    },
+    {
+      "surface": "באנחתי",
+      "gloss": "ngeenzwakalo zam"
+    },
+    {
+      "surface": "אשחה",
+      "gloss": "ndenza … idadaze"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "bonke"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "ubusuku"
+    },
+    {
+      "surface": "מטתי",
+      "gloss": "ibhedi yam"
+    },
+    {
+      "surface": "בדמעתי",
+      "gloss": "ngamzona am"
+    },
+    {
+      "surface": "ערשי",
+      "gloss": "idayisi yam"
+    },
+    {
+      "surface": "אמסה",
+      "gloss": "ndiyayitopya"
+    }
+  ],
+  "timestamp": "2026-09-18T14:25:19.850076289Z",
+  "model": "glm-5.3"
+}

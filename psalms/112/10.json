@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 112:10",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 112,
+  "translation": "Uzalunga-kwelungile ubona akanakale; amazinyo yakhe uza kukroba, wasweleka; isifiso sabangalunganga siza kutshabalala.",
+  "tokens": [
+    {
+      "surface": "רשע",
+      "gloss": "ungalungile"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "ubona"
+    },
+    {
+      "surface": "וכעס",
+      "gloss": "akanakale"
+    },
+    {
+      "surface": "שניו",
+      "gloss": "amazinyo yakhe"
+    },
+    {
+      "surface": "יחרק",
+      "gloss": "uza kukroba"
+    },
+    {
+      "surface": "ונמס",
+      "gloss": "wasweleka"
+    },
+    {
+      "surface": "תאות",
+      "gloss": "isifiso"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "abangalunganga"
+    },
+    {
+      "surface": "תאבד",
+      "gloss": "siza kutshabalala"
+    }
+  ],
+  "timestamp": "2026-09-18T15:19:15.675236145Z",
+  "model": "glm-5.3"
+}

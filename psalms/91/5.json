@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 91:5",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 91,
+  "translation": "Awuzi kukoyika loloyiko lobusuku, lembatheleyo ebhabhayo emini.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "awuzi"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "kukoyika"
+    },
+    {
+      "surface": "מפחד",
+      "gloss": "loloyiko"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "lobusuku"
+    },
+    {
+      "surface": "מחץ",
+      "gloss": "lembatheleyo"
+    },
+    {
+      "surface": "יעוף",
+      "gloss": "ebhabhayo"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "emini"
+    }
+  ],
+  "timestamp": "2026-09-18T15:11:11.434184472Z",
+  "model": "glm-5.3"
+}

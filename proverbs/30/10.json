@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 30:10",
+  "book": "proverbs",
+  "lang": "xh",
+  "chapter": 30,
+  "translation": "Musa ukukhohlisa ngesicaka kwinkosi yaso, hleze sikuhoye, uze ube nobutyala.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "musa"
+    },
+    {
+      "surface": "תלשן",
+      "gloss": "ukukhohlisa nge-"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "isicaka"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "אדנו",
+      "gloss": "inkosi yaso"
+    },
+    {
+      "surface": "פן",
+      "gloss": "hleze"
+    },
+    {
+      "surface": "יקללך",
+      "gloss": "sikuhoye"
+    },
+    {
+      "surface": "ואשמת",
+      "gloss": "uze ube nobutyala"
+    }
+  ],
+  "timestamp": "2026-09-18T15:58:27.211438969Z",
+  "model": "glm-5.3"
+}

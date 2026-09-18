@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 12:13",
+  "book": "ecclesiastes",
+  "lang": "xh",
+  "chapter": 12,
+  "translation": "Isiphelo sedaba, konke kusivelwe: Yoyika uElohim, ugcinile ⟨את⟩ umyalelo wakhe, kuba oku ngukonkebonke komntu.",
+  "tokens": [
+    {
+      "surface": "סוף",
+      "gloss": "isiphelo"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "sedaba"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "konke"
+    },
+    {
+      "surface": "נשמע",
+      "gloss": "kusivelwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uElohim"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "yoyika"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "umyalelo wakhe"
+    },
+    {
+      "surface": "מצותיו",
+      "gloss": "umyalelo wakhe"
+    },
+    {
+      "surface": "שמור",
+      "gloss": "ugcinile"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "זה",
+      "gloss": "oku"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ukonkebonke"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "komntu"
+    }
+  ],
+  "timestamp": "2026-09-18T16:27:05.726439621Z",
+  "model": "glm-5.3"
+}

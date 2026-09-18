@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 47:2",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 47,
+  "translation": "Zonke iintlanga, batshisa izandla ⟨zonke⟩; mkhalikeleni uElohim ngevumba lemvuyo.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Zonke"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "iintlanga"
+    },
+    {
+      "surface": "תקעו",
+      "gloss": "batshisa izandla"
+    },
+    {
+      "surface": "כף",
+      "gloss": "⟨izandla⟩"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "mkhalikeleni"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "ngevumba"
+    },
+    {
+      "surface": "רנה",
+      "gloss": "lemvuyo"
+    }
+  ],
+  "timestamp": "2026-09-18T14:48:02.561818448Z",
+  "model": "glm-5.3"
+}

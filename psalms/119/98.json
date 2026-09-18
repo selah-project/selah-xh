@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 98,
+  "ref": "psalms 119:98",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 119,
+  "translation": "Kuneentsaba zam izimiso zakho zendisa ndi; kuba zimi kum kuza kube phakade.",
+  "tokens": [
+    {
+      "surface": "מאיבי",
+      "gloss": "kuneentsaba zam"
+    },
+    {
+      "surface": "תחכמני",
+      "gloss": "zendisa ndi"
+    },
+    {
+      "surface": "מצותך",
+      "gloss": "izimiso zakho"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "kuza kube phakade"
+    },
+    {
+      "surface": "היא",
+      "gloss": "zimi"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kum"
+    }
+  ],
+  "timestamp": "2026-09-18T15:25:00.276696078Z",
+  "model": "glm-5.3"
+}

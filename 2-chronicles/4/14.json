@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-chronicles 4:14",
+  "book": "2-chronicles",
+  "lang": "xh",
+  "chapter": 4,
+  "translation": "Wenza ⟨את⟩ iisiseko, wenza ⟨את⟩ iibhesini phezu kweesisiseko.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "iisiseko"
+    },
+    {
+      "surface": "המכנות",
+      "gloss": "iisiseko"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "wenza"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "iibhesini"
+    },
+    {
+      "surface": "הכירות",
+      "gloss": "iibhesini"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "wenza"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu"
+    },
+    {
+      "surface": "המכנות",
+      "gloss": "kweesisiseko"
+    }
+  ],
+  "timestamp": "2026-09-18T17:03:09.930029200Z",
+  "model": "glm-5.3"
+}

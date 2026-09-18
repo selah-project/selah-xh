@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 147:10",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 147,
+  "translation": "Uthanda ⟨hayi⟩ ubunamandla behashe, uneliseka ⟨hayi⟩ ngamathanga omntu.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "hayi"
+    },
+    {
+      "surface": "בגבורת",
+      "gloss": "ubunamandla"
+    },
+    {
+      "surface": "הסוס",
+      "gloss": "behashe"
+    },
+    {
+      "surface": "יחפץ",
+      "gloss": "uthanda"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hayi"
+    },
+    {
+      "surface": "בשוקי",
+      "gloss": "ngamathanga"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "omntu"
+    },
+    {
+      "surface": "ירצה",
+      "gloss": "uneliseka"
+    }
+  ],
+  "timestamp": "2026-09-18T15:33:57.425420901Z",
+  "model": "glm-5.3"
+}

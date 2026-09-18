@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 33:3",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 33,
+  "translation": "Culani kuye iculo elitsha; dlalani kakuhle ngokuduma.",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "Culani"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kuye"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "iculo"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "elitsha"
+    },
+    {
+      "surface": "היטיבו",
+      "gloss": "dlalani kakuhle"
+    },
+    {
+      "surface": "נגן",
+      "gloss": "-dlala"
+    },
+    {
+      "surface": "בתרועה",
+      "gloss": "ngokuduma"
+    }
+  ],
+  "timestamp": "2026-09-18T14:41:25.866302125Z",
+  "model": "glm-5.3"
+}

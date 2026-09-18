@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 78:9",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 78,
+  "translation": "Amakwala ka-Efrayim, abatyhalela iibhowu ukudubula, batshikilela ngosuku lokulwa.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "amakwala"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "ka-Efrayim"
+    },
+    {
+      "surface": "נושקי",
+      "gloss": "abatyhalela"
+    },
+    {
+      "surface": "רומי",
+      "gloss": "ukudubula"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "iibhowu"
+    },
+    {
+      "surface": "הפכו",
+      "gloss": "batshikilela"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ngosuku"
+    },
+    {
+      "surface": "קרב",
+      "gloss": "lokulwa"
+    }
+  ],
+  "timestamp": "2026-09-18T15:01:59.295110702Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 122:7",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 122,
+  "translation": "Maba lukho uxolo kwiindonga zakho, intuthuzelo kwiindlu zakho ezinkulu.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "Maba lukho"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "uxolo"
+    },
+    {
+      "surface": "בחילך",
+      "gloss": "kwiindonga zakho"
+    },
+    {
+      "surface": "שלוה",
+      "gloss": "intuthuzelo"
+    },
+    {
+      "surface": "בארמנותיך",
+      "gloss": "kwiindlu zakho ezinkulu"
+    }
+  ],
+  "timestamp": "2026-09-18T15:28:23.759648072Z",
+  "model": "glm-5.3"
+}

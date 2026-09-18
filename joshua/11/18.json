@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "joshua 11:18",
+  "book": "joshua",
+  "lang": "xh",
+  "chapter": 11,
+  "translation": "Iintsuku ezininzi uYehoshuwa wenza ⟨את⟩ onke la makhosi imfazwe.",
+  "tokens": [
+    {
+      "surface": "ימים",
+      "gloss": "iintsuku"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "ezininzi"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "wenza"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "uYehoshuwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "onke la makhosi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "onke"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "la makhosi"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "la"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "imfazwe"
+    }
+  ],
+  "timestamp": "2026-09-18T08:38:16.369976968Z",
+  "model": "glm-5.3"
+}

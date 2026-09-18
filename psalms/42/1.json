@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 42:1",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 42,
+  "translation": "Kumlawuli; inguqu esifundisayo, soonyana bakaKorah.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Kumlawuli"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "esifundisayo"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "soonyana baka"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korah"
+    }
+  ],
+  "timestamp": "2026-09-18T14:45:29.894600388Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 30:16",
+  "book": "numbers",
+  "lang": "xh",
+  "chapter": 30,
+  "translation": "Kodwa ukuba wazitshabalalisa emva kokuba eseva, yena uza kuthwala isono layo.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "kodwa ukuba"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "watshabalalisa"
+    },
+    {
+      "surface": "יפר",
+      "gloss": "ngokupheleleyo"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "zona (izithembiso neendibano)"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "emva"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "kokuba eseva"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "uza kuthwala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isono layo"
+    },
+    {
+      "surface": "עונה",
+      "gloss": "isono layo"
+    }
+  ],
+  "timestamp": "2026-09-18T07:45:27.057354532Z",
+  "model": "glm-5.3"
+}

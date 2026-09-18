@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "job 28:23",
+  "book": "job",
+  "lang": "xh",
+  "chapter": 28,
+  "translation": "uElohim uyaqonda indlela yayo, yaye yena uyayazi ⟨את⟩ indawo yayo.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "הבין",
+      "gloss": "uyaqonda"
+    },
+    {
+      "surface": "דרכה",
+      "gloss": "indlela yayo"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "yaye yena"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "uyayazi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "indawo yayo"
+    },
+    {
+      "surface": "מקומה",
+      "gloss": "indawo yayo"
+    }
+  ],
+  "timestamp": "2026-09-18T16:09:03.690039344Z",
+  "model": "glm-5.3"
+}

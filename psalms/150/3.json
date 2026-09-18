@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 150:3",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 150,
+  "translation": "Dumani ngoYahwe ngokuvuthwa kweenyanga; dumani ngoYahwe nge-neveli nange-kinora.",
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "dumani ngoYahwe"
+    },
+    {
+      "surface": "בתקע",
+      "gloss": "ngokuvuthwa"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "kweenyanga"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "dumani ngoYahwe"
+    },
+    {
+      "surface": "בנבל",
+      "gloss": "nge-neveli"
+    },
+    {
+      "surface": "וכנור",
+      "gloss": "nange-kinora"
+    }
+  ],
+  "timestamp": "2026-09-18T15:33:10.389559703Z",
+  "model": "glm-5.3"
+}

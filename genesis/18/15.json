@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 18:15",
+  "book": "genesis",
+  "lang": "xh",
+  "chapter": 18,
+  "translation": "USara wala wathi: “Andihlekanga,” kuba wayesoyika; wathi: “Hayi, kodwa udle uhleka.”",
+  "tokens": [
+    {
+      "surface": "ותכחש",
+      "gloss": "wala"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "uSara"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hayi\/andi-"
+    },
+    {
+      "surface": "צחקתי",
+      "gloss": "hlekanga"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "wayesoyika"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hayi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kodwa"
+    },
+    {
+      "surface": "צחקת",
+      "gloss": "udle uhleka"
+    }
+  ],
+  "timestamp": "2026-09-18T05:15:32.046035823Z",
+  "model": "glm-5.3"
+}

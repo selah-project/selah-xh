@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 10:2",
+  "book": "deuteronomy",
+  "lang": "xh",
+  "chapter": 10,
+  "translation": "Ndiza kubhala kwamacwecwe ⟨את⟩ amagama awayekwikwecwecwe zokuqala, owo wazitshabalalisa; uzibeka kwiarki.”",
+  "tokens": [
+    {
+      "surface": "ואכתב",
+      "gloss": "Ndiza kubhala"
+    },
+    {
+      "surface": "על",
+      "gloss": "kwi-"
+    },
+    {
+      "surface": "הלחת",
+      "gloss": "amacwecwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amagama"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "amagama"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "היו",
+      "gloss": "awaye"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu"
+    },
+    {
+      "surface": "הלחת",
+      "gloss": "kwamacwecwe"
+    },
+    {
+      "surface": "הראשנים",
+      "gloss": "zokuqala"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "owo"
+    },
+    {
+      "surface": "שברת",
+      "gloss": "wazitshabalalisa"
+    },
+    {
+      "surface": "ושמתם",
+      "gloss": "uzibeka"
+    },
+    {
+      "surface": "בארון",
+      "gloss": "kwiarki"
+    }
+  ],
+  "timestamp": "2026-09-18T17:26:08.318217672Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 4:16",
+  "book": "leviticus",
+  "lang": "xh",
+  "chapter": 4,
+  "translation": "Umpristi othanjisiweyo uza kungenisa elo ligazi lenkunzi, aye kuhema yomdibaniso.",
+  "tokens": [
+    {
+      "surface": "והביא",
+      "gloss": "uza kungenisa"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "umpristi"
+    },
+    {
+      "surface": "המשיח",
+      "gloss": "othanjisiweyo"
+    },
+    {
+      "surface": "מדם",
+      "gloss": "elo ligazi"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "lenkunzi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "aye"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "kuhema"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "yomdibaniso"
+    }
+  ],
+  "timestamp": "2026-09-18T06:38:47.232096636Z",
+  "model": "glm-5.3"
+}

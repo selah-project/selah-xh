@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 2:7",
+  "book": "genesis",
+  "lang": "xh",
+  "chapter": 2,
+  "translation": "Waza uYahwe uElohim wadala ⟨את⟩ umntu ngomhlaba othwalini womhlaba, waza wamphefumla emimpumleni yakhe umphefumlo wobomi, waba yumphefumlo ophilayo umntu.",
+  "tokens": [
+    {
+      "surface": "וייצר",
+      "gloss": "wadala"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umntu"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "umntu"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "othwalini"
+    },
+    {
+      "surface": "מן",
+      "gloss": "wo-"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "mhlabeni"
+    },
+    {
+      "surface": "ויפח",
+      "gloss": "wamphefumla"
+    },
+    {
+      "surface": "באפיו",
+      "gloss": "emimpumleni yakhe"
+    },
+    {
+      "surface": "נשמת",
+      "gloss": "umphefumlo"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "wobomi"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "waba"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "umntu"
+    },
+    {
+      "surface": "לנפש",
+      "gloss": "yumphefumlo"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "ophilayo"
+    }
+  ],
+  "timestamp": "2026-09-18T05:07:26.008433435Z",
+  "model": "glm-5.3"
+}

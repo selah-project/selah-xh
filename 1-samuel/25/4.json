@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 25:4",
+  "book": "1-samuel",
+  "lang": "xh",
+  "chapter": 25,
+  "translation": "Wava uDavide elanhlebethweni ukuba uNabhali uguba ⟨את⟩ iimvu zakhe.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "Wava"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "uDavide"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "elanhlebethweni"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ukuba"
+    },
+    {
+      "surface": "גזז",
+      "gloss": "uguba"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "uNabhali"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iimvu zakhe"
+    },
+    {
+      "surface": "צאנו",
+      "gloss": "iimvu zakhe"
+    }
+  ],
+  "timestamp": "2026-09-18T09:37:12.804135499Z",
+  "model": "glm-5.3"
+}

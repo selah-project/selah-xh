@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 27:13",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 27,
+  "translation": "Ububanzi begadiya ngaselicala langaphambili, ngasempuma, ngamakhubha angamashumi amahlanu.",
+  "tokens": [
+    {
+      "surface": "ורחב",
+      "gloss": "ububanzi"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "begadiya"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "ngaselicala"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "elicala langaphambili"
+    },
+    {
+      "surface": "מזרחה",
+      "gloss": "ngasempuma"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "amashumi amahlanu"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "amakhubha"
+    }
+  ],
+  "timestamp": "2026-09-18T06:13:23.300683768Z",
+  "model": "glm-5.3"
+}

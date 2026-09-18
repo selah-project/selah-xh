@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 139:23",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 139,
+  "translation": "Ndikhangaele, u-El, uwaze intliziyo yam; undivavanye, uwaze iingcinga zam.",
+  "tokens": [
+    {
+      "surface": "חקרני",
+      "gloss": "Ndikhangaele"
+    },
+    {
+      "surface": "אל",
+      "gloss": "u-El"
+    },
+    {
+      "surface": "ודע",
+      "gloss": "uwaze"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "intliziyo yam"
+    },
+    {
+      "surface": "בחנני",
+      "gloss": "undivavanye"
+    },
+    {
+      "surface": "ודע",
+      "gloss": "uwaze"
+    },
+    {
+      "surface": "שרעפי",
+      "gloss": "iingcinga zam"
+    }
+  ],
+  "timestamp": "2026-09-18T15:30:51.795113674Z",
+  "model": "glm-5.3"
+}

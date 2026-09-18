@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 16:6",
+  "book": "leviticus",
+  "lang": "xh",
+  "chapter": 16,
+  "translation": "U-Aharon uza kuzisa ⟨את⟩ inkunzi yenxeba eleyakhe, aze axolelanise ngenxa yakhe nangenxa yendlu yakhe.",
+  "tokens": [
+    {
+      "surface": "והקריב",
+      "gloss": "uza kuzisa"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "u-Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "inkunzi yenxeba"
+    },
+    {
+      "surface": "פר",
+      "gloss": "inkunzi"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "yenxeba"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ele-"
+    },
+    {
+      "surface": "לו",
+      "gloss": "yakhe"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "aze axolelanise"
+    },
+    {
+      "surface": "בעדו",
+      "gloss": "ngenxa yakhe"
+    },
+    {
+      "surface": "ובעד",
+      "gloss": "nangenxa"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "yendlu yakhe"
+    }
+  ],
+  "timestamp": "2026-09-18T06:53:50.464073913Z",
+  "model": "glm-5.3"
+}

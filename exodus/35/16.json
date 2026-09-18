@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 35:16",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 35,
+  "translation": "⟨את⟩ ialtare yomnikelo omtshisiweyo, no⟨את⟩ igrile yomzinga, elo nalo, ⟨את⟩ iibhadi zayo, no⟨את⟩ zonke iinto zayo, ⟨את⟩ ingxowa yokuhlambulula, no⟨את⟩ isiseko sayo.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ialtare yomnikelo omtshisiweyo"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "ialtare"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "yomnikelo omtshisiweyo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "no⟨את⟩",
+      "marks": "igrile yomzinga"
+    },
+    {
+      "surface": "מכבר",
+      "gloss": "igrile"
+    },
+    {
+      "surface": "הנחשת",
+      "gloss": "yomzinga"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "elo"
+    },
+    {
+      "surface": "לו",
+      "gloss": "nalo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iibhadi zayo"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "iibhadi zayo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "no⟨את⟩",
+      "marks": "zonke iinto zayo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zonke"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "iinto zayo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ingxowa yokuhlambulula"
+    },
+    {
+      "surface": "הכיר",
+      "gloss": "ingxowa yokuhlambulula"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "no⟨את⟩",
+      "marks": "isiseko sayo"
+    },
+    {
+      "surface": "כנו",
+      "gloss": "isiseko sayo"
+    }
+  ],
+  "timestamp": "2026-09-18T06:23:25.770724843Z",
+  "model": "glm-5.3"
+}

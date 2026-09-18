@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 22:20",
+  "book": "2-kings",
+  "lang": "xh",
+  "chapter": 22,
+  "translation": "Ngoko, nanku Mna ndiza kudibanisa wena kooyihlo zakho, uza kudityaniswa kwamangcwaba yakho ngoxolo, yaye amehlo akho akayi kubona yonke inkohlakalo endiza kuletha kule ndawo. Bashiyela ⟨את⟩ inkosi indaba.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "ngoko"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "nanku Mna"
+    },
+    {
+      "surface": "אספך",
+      "gloss": "ndiza kudibanisa wena"
+    },
+    {
+      "surface": "על",
+      "gloss": "ko-"
+    },
+    {
+      "surface": "אבתיך",
+      "gloss": "ooyihlo zakho"
+    },
+    {
+      "surface": "ונאספת",
+      "gloss": "uza kudityaniswa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa-"
+    },
+    {
+      "surface": "קברתיך",
+      "gloss": "amangcwaba yakho"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "ngoxolo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "yaye hayi"
+    },
+    {
+      "surface": "תראינה",
+      "gloss": "ziza kubona"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "amehlo akho"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "yonke"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "inkohlakalo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oko"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mna"
+    },
+    {
+      "surface": "מביא",
+      "gloss": "ndiza kuletha"
+    },
+    {
+      "surface": "על",
+      "gloss": "kule"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "ndawo"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "le"
+    },
+    {
+      "surface": "וישיבו",
+      "gloss": "bashiyela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "inkosi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "inkosi"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "indaba"
+    }
+  ],
+  "timestamp": "2026-09-18T10:58:35.077900499Z",
+  "model": "glm-5.3"
+}

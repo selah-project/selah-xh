@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 23:15",
+  "book": "1-samuel",
+  "lang": "xh",
+  "chapter": 23,
+  "translation": "UDavide wabona ukuba uShawuli uphumile ukuzingela ⟨את⟩ umphefumlo wakhe; uDavide ⟨wayes⟩esintlankatheni saseZifi, eHoreshe.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "wabona"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "uDavide"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ukuba"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "uphumile"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "uShawuli"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "ukuzingela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umphefumlo wakhe"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "umphefumlo wakhe"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "uDavide"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "esintlankatheni"
+    },
+    {
+      "surface": "זיף",
+      "gloss": "saseZifi"
+    },
+    {
+      "surface": "בחרשה",
+      "gloss": "eHoreshe"
+    }
+  ],
+  "timestamp": "2026-09-18T09:34:42.762911667Z",
+  "model": "glm-5.3"
+}

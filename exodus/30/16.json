@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 30:16",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 30,
+  "translation": "Uza kuluthatha ⟨את⟩ imali yokukhululeka, ⟨את⟩ ukusuka kwabantwana bakaSirayeli, kwaye uza kuyibeka kwinkonzo yetenti yomdibano; iya kuba ngabantwana bakaSirayeli ligqibezelo phambi koYahwe, ukwenza ukhululeko oomphefumlo benu.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "Uza kuluthatha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "imali yokukhululeka"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "imali"
+    },
+    {
+      "surface": "הכפרים",
+      "gloss": "yokukhululeka"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩ ukusuka"
+    },
+    {
+      "surface": "בני",
+      "gloss": "kwabantwana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "bakaSirayeli"
+    },
+    {
+      "surface": "ונתת",
+      "gloss": "kwaye uza kuyibeka"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "imali yokukhululeka"
+    },
+    {
+      "surface": "על",
+      "gloss": "kwi"
+    },
+    {
+      "surface": "עבדת",
+      "gloss": "nkonzo"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "yetenti"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "yomdibano"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "iya kuba"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ngabantwana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "bakaSirayeli"
+    },
+    {
+      "surface": "לזכרון",
+      "gloss": "ligqibezelo"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "phambi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "koYahwe"
+    },
+    {
+      "surface": "לכפר",
+      "gloss": "ukwenza ukhululeko"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "נפשתיכם",
+      "gloss": "oomphefumlo benu"
+    }
+  ],
+  "timestamp": "2026-09-18T06:19:29.990042490Z",
+  "model": "glm-5.3"
+}

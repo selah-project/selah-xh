@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "joel 1:1",
+  "book": "joel",
+  "lang": "xh",
+  "chapter": 1,
+  "translation": "Ilizwi likaYahwe elalizakuvela kuYooweli, unyana kaPethuweyeli.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "Ilizwi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "likaYahwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "eli"
+    },
+    {
+      "surface": "היה",
+      "gloss": "elalizakuvela"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "יואל",
+      "gloss": "Yooweli"
+    },
+    {
+      "surface": "בן",
+      "gloss": "unyana"
+    },
+    {
+      "surface": "פתואל",
+      "gloss": "kaPethuweyeli"
+    }
+  ],
+  "timestamp": "2026-09-18T17:41:46.604136929Z",
+  "model": "glm-5.3"
+}

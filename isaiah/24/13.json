@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 24:13",
+  "book": "isaiah",
+  "lang": "xh",
+  "chapter": 24,
+  "translation": "Kuba kujalo kuya kuba sekuhlaleni komhlaba, phakathi kwabantu, njengokutyabuka komoliwe, njengoko kushiyeke iindlebe emva kokuba isivuno seesilevu siphelelile.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "כה",
+      "gloss": "kujalo"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "kuya kuba"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "ekuhlaleni kwe-"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "umhlaba"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "phakathi kwe-"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "כנקף",
+      "gloss": "njengokutyabuka"
+    },
+    {
+      "surface": "זית",
+      "gloss": "omoliwe"
+    },
+    {
+      "surface": "כעוללת",
+      "gloss": "njengoko kushiyeke iindlebe"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kunene"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "siphelelile"
+    },
+    {
+      "surface": "בציר",
+      "gloss": "isivuno seesilevu"
+    }
+  ],
+  "timestamp": "2026-09-18T11:19:24.486497194Z",
+  "model": "glm-5.3"
+}

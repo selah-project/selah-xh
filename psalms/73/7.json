@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 73:7",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 73,
+  "translation": "Amehlo abo aphuma ngenxa yamafutha; iimbono zentliziyo zabo zidli ibala lizonqulayo ezidlula iindawo zonqulayo.",
+  "tokens": [
+    {
+      "surface": "יצא",
+      "gloss": "aphuma"
+    },
+    {
+      "surface": "מחלב",
+      "gloss": "ngenxa yamafutha"
+    },
+    {
+      "surface": "עינמו",
+      "gloss": "amehlo abo"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "zidli ibala lizonqulayo ezidlula"
+    },
+    {
+      "surface": "משכיות",
+      "gloss": "iimbono"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "zentliziyo zabo"
+    }
+  ],
+  "timestamp": "2026-09-18T15:00:11.235929119Z",
+  "model": "glm-5.3"
+}

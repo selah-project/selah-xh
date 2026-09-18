@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 20:8",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 20,
+  "translation": "Ezi ⟨ziyathembela⟩ kwiiwarha, ezi kwiihashe; thina siyazikhumbula ngesiGama sikaYahwe uElohim wethu.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Ezi"
+    },
+    {
+      "surface": "ברכב",
+      "gloss": "kwiiwarha"
+    },
+    {
+      "surface": "ואלה",
+      "gloss": "ezi"
+    },
+    {
+      "surface": "בסוסים",
+      "gloss": "kwiihashe"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "thina"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "ngesiGama"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "sikaYahwe"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "uElohim wethu"
+    },
+    {
+      "surface": "נזכיר",
+      "gloss": "siyazikhumbula"
+    }
+  ],
+  "timestamp": "2026-09-18T14:35:09.351384237Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 9:7",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 9,
+  "translation": "Umchasi ugqibile; iindawo ezilahlayo zingunaphakade; imizi uye wayisusa; inkumbulo yazo yahamba nabo bona.",
+  "tokens": [
+    {
+      "surface": "האויב",
+      "gloss": "Umchasi"
+    },
+    {
+      "surface": "תמו",
+      "gloss": "ugqibile"
+    },
+    {
+      "surface": "חרבות",
+      "gloss": "iindawo ezilahlayo"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "zingunaphakade"
+    },
+    {
+      "surface": "וערים",
+      "gloss": "imizi"
+    },
+    {
+      "surface": "נתשת",
+      "gloss": "uye wayisusa"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "yahamba"
+    },
+    {
+      "surface": "זכרם",
+      "gloss": "inkumbulo yazo"
+    },
+    {
+      "surface": "המה",
+      "gloss": "nabo bona"
+    }
+  ],
+  "timestamp": "2026-09-18T14:30:41.795888596Z",
+  "model": "glm-5.3"
+}

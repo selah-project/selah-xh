@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "2-kings 4:28",
+  "book": "2-kings",
+  "lang": "xh",
+  "chapter": 4,
+  "translation": "Wathi yena: “Ndicelile na unyana ⟨מאת⟩ iNkosi yam? Anditsho na andathi: Musa ukundikhohlisa?”",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "Wathi"
+    },
+    {
+      "surface": "השאלתי",
+      "gloss": "Ndicelile"
+    },
+    {
+      "surface": "בן",
+      "gloss": "unyana"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "iNkosi yam"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "Anditsho na"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "andathi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Musa ukun-"
+    },
+    {
+      "surface": "תשלה",
+      "gloss": "dhikholisa"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "mna (ndi-)"
+    }
+  ],
+  "timestamp": "2026-09-18T10:40:58.332814047Z",
+  "model": "glm-5.3"
+}

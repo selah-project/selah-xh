@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "judges 3:4",
+  "book": "judges",
+  "lang": "xh",
+  "chapter": 3,
+  "translation": "Zazingekhona ukuvavanya ngazo ⟨את⟩ i-Israel, ukwazi ukuba baza kulalela ⟨את⟩ imiyalelo kaYahwe awayalele ⟨את⟩ ooyihlo babo ngesandla soMoshe.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "Zazingekhona"
+    },
+    {
+      "surface": "לנסות",
+      "gloss": "ukuvavanya"
+    },
+    {
+      "surface": "בם",
+      "gloss": "ngazo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i-Israel"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "i-Israel"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "ukwazi"
+    },
+    {
+      "surface": "הישמעו",
+      "gloss": "ukuba baza kulalela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "imiyalelo kaYahwe"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "imiyalelo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kaYahwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨awayalele⟩"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "awayalele"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ooyihlo babo"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "ooyihlo babo"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ngesandla"
+    },
+    {
+      "surface": "משה",
+      "gloss": "soMoshe"
+    }
+  ],
+  "timestamp": "2026-09-18T08:50:16.617567266Z",
+  "model": "glm-5.3"
+}

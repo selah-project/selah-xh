@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-kings 17:14",
+  "book": "2-kings",
+  "lang": "xh",
+  "chapter": 17,
+  "translation": "Kodwa abazanga bamve; benza ubunzima bekhanda njengokwenza ooyihlo abo, abo abangenanga kuYahwe uElohim wabo.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "abazanga"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "bamve"
+    },
+    {
+      "surface": "ויקשו",
+      "gloss": "benza ubunzima bekhanda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amakhanda abo"
+    },
+    {
+      "surface": "ערפם",
+      "gloss": "intloko yabo"
+    },
+    {
+      "surface": "כערף",
+      "gloss": "njengentloko"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "yooyihlo abo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "abo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "abangenanga"
+    },
+    {
+      "surface": "האמינו",
+      "gloss": "bakholwa"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "kuYahwe"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "uElohim wabo"
+    }
+  ],
+  "timestamp": "2026-09-18T10:54:03.905339572Z",
+  "model": "glm-5.3"
+}

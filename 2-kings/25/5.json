@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 25:5",
+  "book": "2-kings",
+  "lang": "xh",
+  "chapter": 25,
+  "translation": "Kwaye umkhosi wamaKashdim wamlandela inkosi, wamfumana ⟨את⟩ kwiindawo ezilulo zaseYeriho; wonke umkhosi wakhe wachithwa kude naye.",
+  "tokens": [
+    {
+      "surface": "וירדפו",
+      "gloss": "wamlandela"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "umkhosi"
+    },
+    {
+      "surface": "כשדים",
+      "gloss": "wamaKashdim"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "emva"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "inkosi"
+    },
+    {
+      "surface": "וישגו",
+      "gloss": "wamfumana"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ um",
+      "marks": "kwiindawo ezilulo zaseYeriho"
+    },
+    {
+      "surface": "בערבות",
+      "gloss": "kwiindawo ezilulo"
+    },
+    {
+      "surface": "ירחו",
+      "gloss": "zaseYeriho"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "wonke"
+    },
+    {
+      "surface": "חילו",
+      "gloss": "umkhosi wakhe"
+    },
+    {
+      "surface": "נפצו",
+      "gloss": "wachithwa"
+    },
+    {
+      "surface": "מעליו",
+      "gloss": "kude naye"
+    }
+  ],
+  "timestamp": "2026-09-18T11:00:47.016318696Z",
+  "model": "glm-5.3"
+}

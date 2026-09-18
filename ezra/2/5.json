@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezra 2:5",
+  "book": "ezra",
+  "lang": "xh",
+  "chapter": 2,
+  "translation": "Amakwa-u-Araj: amakhulu asixhenxe elinamashumi amahlanu anesixhenxe.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "amakwa-"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "u-Araj"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "asixhenxe"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "amakhulu"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "elinamashumi amahlanu"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "anesixhenxe"
+    }
+  ],
+  "timestamp": "2026-09-18T16:38:10.144598393Z",
+  "model": "glm-5.3"
+}

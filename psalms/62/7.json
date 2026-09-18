@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 62:7",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 62,
+  "translation": "Kuphela nguYe ilitye lam nesiphephelo sam, indawo yam ephezulu; andinyukuzeki.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "kuphela"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "nguYe"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "ilitye lam"
+    },
+    {
+      "surface": "וישועתי",
+      "gloss": "nesiphephelo sam"
+    },
+    {
+      "surface": "משגבי",
+      "gloss": "indawo yam ephezulu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "andi-"
+    },
+    {
+      "surface": "אמוט",
+      "gloss": "nyukuzeki"
+    }
+  ],
+  "timestamp": "2026-09-18T14:54:29.244388228Z",
+  "model": "glm-5.3"
+}

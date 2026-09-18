@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 34:3",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 34,
+  "translation": "KuYahwe idumisa umphefumlo wam; abathobileyo baliva, bajabule.",
+  "tokens": [
+    {
+      "surface": "ביהוה",
+      "gloss": "KuYahwe"
+    },
+    {
+      "surface": "תתהלל",
+      "gloss": "idumisa"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "umphefumlo wam"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "baliva"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "abathobileyo"
+    },
+    {
+      "surface": "וישמחו",
+      "gloss": "bajabule"
+    }
+  ],
+  "timestamp": "2026-09-18T14:40:56.983365775Z",
+  "model": "glm-5.3"
+}

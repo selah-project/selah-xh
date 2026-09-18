@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 19:7",
+  "book": "leviticus",
+  "lang": "xh",
+  "chapter": 19,
+  "translation": "Ukuba ithiywa ngokwenene ngumhla wesithathu, yinto enuka amabele engcwabile; ayinakwamkelwa.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Ukuba"
+    },
+    {
+      "surface": "האכל",
+      "gloss": "ithiywa ngokwenene"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "idliwa"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ngumhla"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "wesithathu"
+    },
+    {
+      "surface": "פגול",
+      "gloss": "yinto enuka amabele engcwabile"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yona"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ayinakwamkelwa — akukho"
+    },
+    {
+      "surface": "ירצה",
+      "gloss": "wamkelwa"
+    }
+  ],
+  "timestamp": "2026-09-18T06:55:06.715602071Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 12:3",
+  "book": "leviticus",
+  "lang": "xh",
+  "chapter": 12,
+  "translation": "Kwaye ngosuku lwesibhozo inyama yoxinano olungalosokwanga iya kusokwa.",
+  "tokens": [
+    {
+      "surface": "וביום",
+      "gloss": "Kwaye ngosuku"
+    },
+    {
+      "surface": "השמיני",
+      "gloss": "lwesibhozo"
+    },
+    {
+      "surface": "ימול",
+      "gloss": "iya kusokwa"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "inyama"
+    },
+    {
+      "surface": "ערלתו",
+      "gloss": "yoxinano olungalosokwanga"
+    }
+  ],
+  "timestamp": "2026-09-18T06:44:41.212426274Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 36:10",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 36,
+  "translation": "Wadibanisa ⟨את⟩ iirithi ezintlanu, enye kwenye; waza iirithi ezintlanu wazidibanisa enye kwenye.",
+  "tokens": [
+    {
+      "surface": "ויחבר",
+      "gloss": "wadibanisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iirithi ezintlanu"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "ezintlanu"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "iirithi"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "enye"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwenye"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "enye"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "waza ezintlanu"
+    },
+    {
+      "surface": "יריעת",
+      "gloss": "iirithi"
+    },
+    {
+      "surface": "חבר",
+      "gloss": "wazidibanisa"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "enye"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwenye"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "enye"
+    }
+  ],
+  "timestamp": "2026-09-18T06:27:51.803548521Z",
+  "model": "glm-5.3"
+}

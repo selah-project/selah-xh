@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 8:6",
+  "book": "numbers",
+  "lang": "xh",
+  "chapter": 8,
+  "translation": "“Thabatha ⟨את⟩ iiLevi phakathi kwabantwana baka-Israel, uhlanze ⟨אתם⟩.",
+  "tokens": [
+    {
+      "surface": "קח",
+      "gloss": "Thabatha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iiLevi"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "iiLevi"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "phakathi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abantwana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ka-Israel"
+    },
+    {
+      "surface": "וטהרת",
+      "gloss": "uhlanze"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "iiLevi"
+    }
+  ],
+  "timestamp": "2026-09-18T07:21:19.426356060Z",
+  "model": "glm-5.3"
+}

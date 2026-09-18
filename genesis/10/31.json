@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 10:31",
+  "book": "genesis",
+  "lang": "xh",
+  "chapter": 10,
+  "translation": "Abaya ngamadodana kaShemu, ngokwabazalwane babo, ngolwimi lwabo, emhlabeni wabo, ngokweelwazi zabo.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Abaya"
+    },
+    {
+      "surface": "בני",
+      "gloss": "amadodana"
+    },
+    {
+      "surface": "שם",
+      "gloss": "kaShemu"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "ngokwabazalwane babo"
+    },
+    {
+      "surface": "ללשנתם",
+      "gloss": "ngolwimi lwabo"
+    },
+    {
+      "surface": "בארצתם",
+      "gloss": "emhlabeni wabo"
+    },
+    {
+      "surface": "לגויהם",
+      "gloss": "ngokweelwazi zabo"
+    }
+  ],
+  "timestamp": "2026-09-18T05:11:47.212020879Z",
+  "model": "glm-5.3"
+}

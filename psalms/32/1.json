@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 32:1",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 32,
+  "translation": "Isigqibo sikaDavidi. Zilungile iindaba zalowo uphehliswe ubandlululo, icala lakhe eligquniwe.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "sikaDavidi"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "Isigqibo"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "Zilungile iindaba zalowo"
+    },
+    {
+      "surface": "נשוי",
+      "gloss": "uphehliswe"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "ubandlululo"
+    },
+    {
+      "surface": "כסוי",
+      "gloss": "eligquniwe"
+    },
+    {
+      "surface": "חטאה",
+      "gloss": "icala lakhe"
+    }
+  ],
+  "timestamp": "2026-09-18T14:41:38.937783106Z",
+  "model": "glm-5.3"
+}

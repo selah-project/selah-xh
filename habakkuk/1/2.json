@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "habakkuk 1:2",
+  "book": "habakkuk",
+  "lang": "xh",
+  "chapter": 1,
+  "translation": "Kuze kube nini, Yahwe, ndiza kukhala kodwa awuvi? Ndiza kukhala kuwe ngenkohlakalo, kodwa awusindi?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "kuze kube"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "nini"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "שועתי",
+      "gloss": "ndiza kukhala"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kodwa awuvi"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "awuvi"
+    },
+    {
+      "surface": "אזעק",
+      "gloss": "ndiza kukhala"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kuwe"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "ngenkohlakalo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kodwa awusindi"
+    },
+    {
+      "surface": "תושיע",
+      "gloss": "awusindi"
+    }
+  ],
+  "timestamp": "2026-09-18T14:06:55.897921875Z",
+  "model": "glm-5.3"
+}

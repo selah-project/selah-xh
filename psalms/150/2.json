@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 150:2",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 150,
+  "translation": "Dumani ngoYahwe ngenkonzo yakhe enamandla; dumani ngoYahwe ngokobukhulu bakhe obukhulu.",
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "dumani ngoYahwe"
+    },
+    {
+      "surface": "בגבורתיו",
+      "gloss": "ngenkonzo yakhe enamandla"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "dumani ngoYahwe"
+    },
+    {
+      "surface": "כרב",
+      "gloss": "ngokobukhulu"
+    },
+    {
+      "surface": "גדלו",
+      "gloss": "bakhe obukhulu"
+    }
+  ],
+  "timestamp": "2026-09-18T15:33:10.389384457Z",
+  "model": "glm-5.3"
+}

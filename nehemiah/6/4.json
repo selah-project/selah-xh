@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "nehemiah 6:4",
+  "book": "nehemiah",
+  "lang": "xh",
+  "chapter": 6,
+  "translation": "Bathuma kum ngalo mzobo amaxesha amane; mna ndabaphendula ⟨את⟩ ngalo mzobo ofanayo.",
+  "tokens": [
+    {
+      "surface": "וישלחו",
+      "gloss": "Bathuma"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kum"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "ngalo mzobo"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "li"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "amane"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "amaxesha"
+    },
+    {
+      "surface": "ואשיב",
+      "gloss": "ndabaphendula"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "ngabo"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "ngalo mzobo"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ofanayo"
+    }
+  ],
+  "timestamp": "2026-09-18T16:46:39.160579750Z",
+  "model": "glm-5.3"
+}

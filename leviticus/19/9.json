@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 19:9",
+  "book": "leviticus",
+  "lang": "xh",
+  "chapter": 19,
+  "translation": "Kananjalo, xa nithoba ⟨את⟩ isiqobo sehlabathi lenu, musa ukutshikila ngokupheleleyo umda wefulethu lakho xa uthoba, nalintsalela yesiqobo sakho musa ukuyiqokelela.",
+  "tokens": [
+    {
+      "surface": "ובקצרכם",
+      "gloss": "xa nithoba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isiqobo"
+    },
+    {
+      "surface": "קציר",
+      "gloss": "isiqobo"
+    },
+    {
+      "surface": "ארצכם",
+      "gloss": "sehlabathi lenu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "musa"
+    },
+    {
+      "surface": "תכלה",
+      "gloss": "ukutshikila ngokupheleleyo"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "umda"
+    },
+    {
+      "surface": "שדך",
+      "gloss": "weful ethu lakho"
+    },
+    {
+      "surface": "לקצר",
+      "gloss": "xa uthoba"
+    },
+    {
+      "surface": "ולקט",
+      "gloss": "nalintsalela"
+    },
+    {
+      "surface": "קצירך",
+      "gloss": "yesiqobo sakho"
+    },
+    {
+      "surface": "לא",
+      "gloss": "musa"
+    },
+    {
+      "surface": "תלקט",
+      "gloss": "ukuyiqokelela"
+    }
+  ],
+  "timestamp": "2026-09-18T06:54:26.982251709Z",
+  "model": "glm-5.3"
+}

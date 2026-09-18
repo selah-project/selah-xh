@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 23:5",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 23,
+  "translation": "Ukuba ubona idongwe lomdie wakho licambulalile ngaphantsi komthwalo waso, musa ukulushiya; ushiye ngokwenene kunye naye.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ukuba"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "ubona"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "idongwe"
+    },
+    {
+      "surface": "שנאך",
+      "gloss": "lomdie wakho"
+    },
+    {
+      "surface": "רבץ",
+      "gloss": "licambulalile"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ngaphantsi"
+    },
+    {
+      "surface": "משאו",
+      "gloss": "komthwalo waso"
+    },
+    {
+      "surface": "וחדלת",
+      "gloss": "musa ukulushiya"
+    },
+    {
+      "surface": "מעזב",
+      "gloss": "ukulushiya"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kuwo"
+    },
+    {
+      "surface": "עזב",
+      "gloss": "ushiye"
+    },
+    {
+      "surface": "תעזב",
+      "gloss": "ushiye ngokwenene"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "kunye naye"
+    }
+  ],
+  "timestamp": "2026-09-18T06:08:51.565772985Z",
+  "model": "glm-5.3"
+}

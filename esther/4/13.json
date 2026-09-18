@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "esther 4:13",
+  "book": "esther",
+  "lang": "xh",
+  "chapter": 4,
+  "translation": "Wathi uMordokhayi ukubuyisela kuEstere: “Musa ukucinga ngomphefumlo wakho ukuba uza kubalekiswa endlwini yenkosi, ngaphezu kwazo onke amaYuda.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "uMordokhayi"
+    },
+    {
+      "surface": "להשיב",
+      "gloss": "ukubuyisela"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "uEstere"
+    },
+    {
+      "surface": "אל",
+      "gloss": "musa"
+    },
+    {
+      "surface": "תדמי",
+      "gloss": "ukucinga"
+    },
+    {
+      "surface": "בנפשך",
+      "gloss": "ngomphefumlo wakho"
+    },
+    {
+      "surface": "להמלט",
+      "gloss": "ukubalekiswa"
+    },
+    {
+      "surface": "בית",
+      "gloss": "endlwini"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "yenkosi"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "ngaphezu kwazo onke"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "amaYuda"
+    }
+  ],
+  "timestamp": "2026-09-18T16:27:55.577418023Z",
+  "model": "glm-5.3"
+}

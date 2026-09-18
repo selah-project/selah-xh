@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 4:4",
+  "book": "isaiah",
+  "lang": "xh",
+  "chapter": 4,
+  "translation": "Xa u-Adonayi esula ⟨את⟩ inkunkuma yeentombi zaseTsiyoni, ⟨את⟩ ngegazi leYerushalayimi elisusa esiphakameni sayo, ngomoya womgwebo nangomoya otshisa.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "xa"
+    },
+    {
+      "surface": "רחץ",
+      "gloss": "esula"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "u-Adonayi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "inkunkuma yeentombi zaseTsiyoni"
+    },
+    {
+      "surface": "צאת",
+      "gloss": "inkunkuma"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "yeentombi"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "zaseTsiyoni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "igazi leYerushalayimi"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "igazi"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "leYerushalayimi"
+    },
+    {
+      "surface": "ידיח",
+      "gloss": "lisusa"
+    },
+    {
+      "surface": "מקרבה",
+      "gloss": "esiphakameni sayo"
+    },
+    {
+      "surface": "ברוח",
+      "gloss": "ngomoya"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "womgwebo"
+    },
+    {
+      "surface": "וברוח",
+      "gloss": "nangomoya"
+    },
+    {
+      "surface": "בער",
+      "gloss": "otshisa"
+    }
+  ],
+  "timestamp": "2026-09-18T11:05:48.750582342Z",
+  "model": "glm-5.3"
+}

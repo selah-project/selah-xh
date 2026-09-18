@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 16:20",
+  "book": "deuteronomy",
+  "lang": "xh",
+  "chapter": 16,
+  "translation": "Ubulungisa, ubulungisa kulandelwe, ukuze uphile, uze ulingcime ⟨את⟩ umhlaba uYahwe uElohim wakho akunika wona.",
+  "tokens": [
+    {
+      "surface": "צדק",
+      "gloss": "Ubulungisa"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "ubulungisa"
+    },
+    {
+      "surface": "תרדף",
+      "gloss": "kulandelwe"
+    },
+    {
+      "surface": "למען",
+      "gloss": "ukuze"
+    },
+    {
+      "surface": "תחיה",
+      "gloss": "uphile"
+    },
+    {
+      "surface": "וירשת",
+      "gloss": "uze ulingcime"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umhlaba"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "umhlaba"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "owa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "uElohim wakho"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "akunika"
+    },
+    {
+      "surface": "לך",
+      "gloss": "wona"
+    }
+  ],
+  "timestamp": "2026-09-18T08:09:03.786157957Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 1:10",
+  "book": "ecclesiastes",
+  "lang": "xh",
+  "chapter": 1,
+  "translation": "Kukho into enokuthiwa ngayo: ‘Jonga le, intsha yile!’ sele ibikho kwiindidi ezidlulileyo, ezazisoloko zingaphambili kwethu.",
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "kukho"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "into"
+    },
+    {
+      "surface": "שיאמר",
+      "gloss": "enokuthiwa ngayo"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "jonga"
+    },
+    {
+      "surface": "זה",
+      "gloss": "le"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "intsha"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yile"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "sele"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ibikho"
+    },
+    {
+      "surface": "לעלמים",
+      "gloss": "kwiindidi ezidlulileyo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "eza"
+    },
+    {
+      "surface": "היה",
+      "gloss": "zazisoloko"
+    },
+    {
+      "surface": "מלפננו",
+      "gloss": "zingaphambili kwethu"
+    }
+  ],
+  "timestamp": "2026-09-18T16:23:29.445753992Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-kings 13:22",
+  "book": "2-kings",
+  "lang": "xh",
+  "chapter": 13,
+  "translation": "Kwaye uKhazaeli, inkosi yaseArami, wacinezela ⟨את⟩ uYisrayeli onke iintsuku zikaYehoahazi.",
+  "tokens": [
+    {
+      "surface": "וחזאל",
+      "gloss": "Kwaye uKhazaeli"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "inkosi"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "yaseArami"
+    },
+    {
+      "surface": "לחץ",
+      "gloss": "wacinezela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uYisrayeli"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "uYisrayeli"
+    },
+    {
+      "surface": "כל",
+      "gloss": "onke"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "iintsuku zi"
+    },
+    {
+      "surface": "יהואחז",
+      "gloss": "kaYehoahazi"
+    }
+  ],
+  "timestamp": "2026-09-18T10:47:35.305700537Z",
+  "model": "glm-5.3"
+}

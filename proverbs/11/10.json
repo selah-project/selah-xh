@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 11:10",
+  "book": "proverbs",
+  "lang": "xh",
+  "chapter": 11,
+  "translation": "Kulungile kwabalungileyo, isixeko siyoyisa; ekutshonalaleni kweenkohlakalo kukho ummnandi-mnandi.",
+  "tokens": [
+    {
+      "surface": "בטוב",
+      "gloss": "kulungile"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "abalungileyo"
+    },
+    {
+      "surface": "תעלץ",
+      "gloss": "siyoyisa"
+    },
+    {
+      "surface": "קריה",
+      "gloss": "isixeko"
+    },
+    {
+      "surface": "ובאבד",
+      "gloss": "ekutshonalaleni"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "iinkohlakalo"
+    },
+    {
+      "surface": "רנה",
+      "gloss": "ummnandi-mnandi"
+    }
+  ],
+  "timestamp": "2026-09-18T15:43:02.483002711Z",
+  "model": "glm-5.3"
+}

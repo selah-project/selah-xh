@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 27:8",
+  "book": "leviticus",
+  "lang": "xh",
+  "chapter": 27,
+  "translation": "Kodwa ukuba uyamswakama <unk>ngakumbi<\/unk> kunokuqwalaselwa kwakho, uya kumisela <unk>yena<\/unk> phambi kweekhosi, khona ikhosi iya kumqwalasela ⟨את⟩; ngokwako okokuba isandla somniko singasifumana, khona ikhosi iya kumqwalasela.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Kodwa ukuba"
+    },
+    {
+      "surface": "מך",
+      "gloss": "uyamswakama"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yena"
+    },
+    {
+      "surface": "מערכך",
+      "gloss": "ngakumbi kunokuqwalaselwa kwakho"
+    },
+    {
+      "surface": "והעמידו",
+      "gloss": "uya kumisela"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "phambi kwe"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "eekhosi"
+    },
+    {
+      "surface": "והעריך",
+      "gloss": "iya kumqwalasela"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "yena (umntu oqwalaselwayo)"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ekhosi"
+    },
+    {
+      "surface": "על",
+      "gloss": "Ngokwako"
+    },
+    {
+      "surface": "פי",
+      "gloss": "oko"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "okokuba"
+    },
+    {
+      "surface": "תשיג",
+      "gloss": "singasifumana"
+    },
+    {
+      "surface": "יד",
+      "gloss": "isandla"
+    },
+    {
+      "surface": "הנדר",
+      "gloss": "somniko"
+    },
+    {
+      "surface": "יעריכנו",
+      "gloss": "iya kumqwalasela"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ekhosi"
+    }
+  ],
+  "timestamp": "2026-09-18T07:08:20.508719177Z",
+  "model": "glm-5.3"
+}

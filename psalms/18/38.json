@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "psalms 18:38",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 18,
+  "translation": "Ndibalele iintshaba zam, ndizifumene, kwaye andibuyanga de ndizigqibile.",
+  "tokens": [
+    {
+      "surface": "ארדוף",
+      "gloss": "Ndibalele"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "iintshaba zam"
+    },
+    {
+      "surface": "ואשיגם",
+      "gloss": "ndizifumene"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kwaye andi-"
+    },
+    {
+      "surface": "אשוב",
+      "gloss": "buyanga"
+    },
+    {
+      "surface": "עד",
+      "gloss": "de"
+    },
+    {
+      "surface": "כלותם",
+      "gloss": "ndizigqibile"
+    }
+  ],
+  "timestamp": "2026-09-18T14:33:33.643549287Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,121 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 1:10",
+  "book": "2-kings",
+  "lang": "xh",
+  "chapter": 1,
+  "translation": "Waphendula u-Eliya wathetha kumlawuli wamashumi amahlanu: “Ukuba mntu kaElohim ndinguye, makhwehle umlilo ezulwini, adle ⟨את⟩ wena ⟨ואת⟩ amashumi akho amahlanu.” Wakhe wakhwehla umlilo ezulwini, wadla ⟨את⟩ yena ⟨ואת⟩ amashumi akhe amahlanu.",
+  "tokens": [
+    {
+      "surface": "ויענה",
+      "gloss": "waphendula"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "u-Eliya"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "wathetha"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "שר",
+      "gloss": "umlawuli"
+    },
+    {
+      "surface": "החמשים",
+      "gloss": "wamashumi amahlanu"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "Ukuba"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mntu"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "kaElohim"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ndinguye"
+    },
+    {
+      "surface": "תרד",
+      "gloss": "makhwehle"
+    },
+    {
+      "surface": "אש",
+      "gloss": "umlilo"
+    },
+    {
+      "surface": "מן",
+      "gloss": "e-"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "zulwini"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "adle"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "wena"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "amashumi akho amahlanu"
+    },
+    {
+      "surface": "חמשיך",
+      "gloss": "amashumi akho amahlanu"
+    },
+    {
+      "surface": "ותרד",
+      "gloss": "wakhwehla"
+    },
+    {
+      "surface": "אש",
+      "gloss": "umlilo"
+    },
+    {
+      "surface": "מן",
+      "gloss": "e-"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "zulwini"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "wadla"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "yena"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "amashumi akhe amahlanu"
+    },
+    {
+      "surface": "חמשיו",
+      "gloss": "amashumi akhe amahlanu"
+    }
+  ],
+  "timestamp": "2026-09-18T10:37:48.814010404Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 8:1",
+  "book": "isaiah",
+  "lang": "xh",
+  "chapter": 8,
+  "translation": "Wathi uYahwe kum: “Thatha ukwakho itafile enkulu yobhalo, yibhale kuyo ngepeni yomntu: uMaher-Shalal-Hash-Bazi.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Wathi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kum"
+    },
+    {
+      "surface": "קח",
+      "gloss": "Thatha"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ukwakho"
+    },
+    {
+      "surface": "גליון",
+      "gloss": "itafile enkulu yobhalo"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "enkulu"
+    },
+    {
+      "surface": "וכתב",
+      "gloss": "yibhale"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "kuyo"
+    },
+    {
+      "surface": "בחרט",
+      "gloss": "ngepeni"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "yomntu"
+    },
+    {
+      "surface": "למהר",
+      "gloss": "uMaher-"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "-Shalal-"
+    },
+    {
+      "surface": "חש",
+      "gloss": "-Hash-"
+    },
+    {
+      "surface": "בז",
+      "gloss": "-Bazi"
+    }
+  ],
+  "timestamp": "2026-09-18T11:05:42.562502435Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "deuteronomy 28:30",
+  "book": "deuteronomy",
+  "lang": "xh",
+  "chapter": 28,
+  "translation": "Umfazi uza kucingwa, omnye umntu uza kuhlala naye; indlu uza kwakha, ungayi kuhlala kuyo; isidiliya uza kulima, ungazi kuyisebenzisa.",
+  "tokens": [
+    {
+      "surface": "אשה",
+      "gloss": "umfazi"
+    },
+    {
+      "surface": "תארש",
+      "gloss": "uza kucingwa"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "kwaye umntu"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "omnye"
+    },
+    {
+      "surface": "ישגלנה",
+      "gloss": "uza kuhlala naye"
+    },
+    {
+      "surface": "בית",
+      "gloss": "indlu"
+    },
+    {
+      "surface": "תבנה",
+      "gloss": "uza kwakha"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kwaye akukho"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "uhlala"
+    },
+    {
+      "surface": "בו",
+      "gloss": "kuyo"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "isidiliya"
+    },
+    {
+      "surface": "תטע",
+      "gloss": "uza kulima"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kwaye awukho"
+    },
+    {
+      "surface": "תחללנו",
+      "gloss": "uyisebenzisa"
+    }
+  ],
+  "timestamp": "2026-09-18T08:21:01.047746792Z",
+  "model": "glm-5.3"
+}

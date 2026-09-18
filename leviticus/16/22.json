@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 16:22",
+  "book": "leviticus",
+  "lang": "xh",
+  "chapter": 16,
+  "translation": "Isilisi-bhokhwe siza kuthwala phezu kwaso ⟨את⟩ zonke iziphoso zabo, isiye kumhlaba othe wahlukaniswa; asikhuphele isilisi-bhokhwe kulintlango.",
+  "tokens": [
+    {
+      "surface": "ונשא",
+      "gloss": "siza kuthwala"
+    },
+    {
+      "surface": "השעיר",
+      "gloss": "isilisi-bhokhwe"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "phezu kwaso"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zonke iziphoso zabo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zonke"
+    },
+    {
+      "surface": "עונתם",
+      "gloss": "izophoso zabo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "umhlaba"
+    },
+    {
+      "surface": "גזרה",
+      "gloss": "othe wahlukaniswa"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "asikhuphele"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isilisi-bhokhwe"
+    },
+    {
+      "surface": "השעיר",
+      "gloss": "isilisi-bhokhwe"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "kulintlango"
+    }
+  ],
+  "timestamp": "2026-09-18T06:55:43.366540592Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 17:4",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 17,
+  "translation": "Yaye uMoshe wakhalcela kuYahwe, ethi: “Ndiza kwenza ntoni kuleli ntlu? Kusakuba libuthathaka, bayakuthepha ndam ngamatye.”",
+  "tokens": [
+    {
+      "surface": "ויצעק",
+      "gloss": "wakhalcela"
+    },
+    {
+      "surface": "משה",
+      "gloss": "uMoshe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ethi"
+    },
+    {
+      "surface": "מה",
+      "gloss": "nton"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "ndiza kuwenza"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "kuleli ntlu"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "eli"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "kusakuba"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "libuthathaka"
+    },
+    {
+      "surface": "וסקלני",
+      "gloss": "bayakuthepha ndam ngamatye"
+    }
+  ],
+  "timestamp": "2026-09-18T06:06:37.050410783Z",
+  "model": "glm-5.3"
+}

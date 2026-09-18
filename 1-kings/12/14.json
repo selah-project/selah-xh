@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 12:14",
+  "book": "1-kings",
+  "lang": "xh",
+  "chapter": 12,
+  "translation": "Wathetha kubo njengecebo leentsana, esithi: Ubawo wenzisa ubunzima ⟨את⟩ ithoni yenu, mna ndiza kongeza phezu kwethoni yenu; ubawo wanilahlula ngeeswati, mna ndiza kunilahlula ngeeskorpioni.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "wathetha"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "kubo"
+    },
+    {
+      "surface": "כעצת",
+      "gloss": "njengecebo"
+    },
+    {
+      "surface": "הילדים",
+      "gloss": "leentsana"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "esithi"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "ubawo"
+    },
+    {
+      "surface": "הכביד",
+      "gloss": "wenzisa ubunzima"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ithoni yenu"
+    },
+    {
+      "surface": "עלכם",
+      "gloss": "ithoni yenu"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "mna"
+    },
+    {
+      "surface": "אסיף",
+      "gloss": "ndiza kongeza"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu kwe-"
+    },
+    {
+      "surface": "עלכם",
+      "gloss": "ethoni yenu"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "ubawo"
+    },
+    {
+      "surface": "יסר",
+      "gloss": "wanilahlula"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "ngeeswati"
+    },
+    {
+      "surface": "בשוטים",
+      "gloss": "ngeeswati"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "mna"
+    },
+    {
+      "surface": "איסר",
+      "gloss": "ndiza kunilahlula"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "ngeeskorpioni"
+    },
+    {
+      "surface": "בעקרבים",
+      "gloss": "ngeeskorpioni"
+    }
+  ],
+  "timestamp": "2026-09-18T10:26:34.870307733Z",
+  "model": "glm-5.3"
+}

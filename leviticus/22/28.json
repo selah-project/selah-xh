@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "leviticus 22:28",
+  "book": "leviticus",
+  "lang": "xh",
+  "chapter": 22,
+  "translation": "Kananjalo inkomo okanye isigu, ⟨את⟩ yona kunye ⟨את⟩ nanylana yayo, ningazibulali zombini ngosuku olunye.",
+  "tokens": [
+    {
+      "surface": "ושור",
+      "gloss": "Kananjalo inkomo"
+    },
+    {
+      "surface": "או",
+      "gloss": "okanye"
+    },
+    {
+      "surface": "שה",
+      "gloss": "isigu"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "yona (inkomo okanye isigu)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "nanylana yayo"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "nanylana yayo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ningazibulali"
+    },
+    {
+      "surface": "תשחטו",
+      "gloss": "zombini"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ngosuku"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "olunye"
+    }
+  ],
+  "timestamp": "2026-09-18T06:59:05.554584651Z",
+  "model": "glm-5.3"
+}

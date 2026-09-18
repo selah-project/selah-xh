@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "leviticus 18:27",
+  "book": "leviticus",
+  "lang": "xh",
+  "chapter": 18,
+  "translation": "Kuba abantu belizwe aba phambi kwenu benza ⟨את⟩ zonke ezi zinto eziyimiqondiso emibi, yaye umhlaba wazitywina.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kuba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zonke ezi zinto eziyimiqondiso emibi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zonke"
+    },
+    {
+      "surface": "התועבת",
+      "gloss": "ezinto eziyimiqondiso emibi"
+    },
+    {
+      "surface": "האל",
+      "gloss": "ezi"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "benza"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "belizwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aba"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "phambi kwenu"
+    },
+    {
+      "surface": "ותטמא",
+      "gloss": "wazitywina"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "umhlaba"
+    }
+  ],
+  "timestamp": "2026-09-18T06:53:14.562439850Z",
+  "model": "glm-5.3"
+}

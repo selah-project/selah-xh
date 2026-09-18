@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 143:6",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 143,
+  "translation": "Ndandule izandla zam kuwe; umphefumlo wam ⟨njengomhlaba⟩ odiniweyo kuwe. iSelah.",
+  "tokens": [
+    {
+      "surface": "פרשתי",
+      "gloss": "Ndandule"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "izandla zam"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kuwe"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "umphefumlo wam"
+    },
+    {
+      "surface": "כארץ",
+      "gloss": "njengomhlaba"
+    },
+    {
+      "surface": "עיפה",
+      "gloss": "odiniweyo"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kuwe"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "iSelah"
+    }
+  ],
+  "timestamp": "2026-09-18T15:32:43.097431163Z",
+  "model": "glm-5.3"
+}

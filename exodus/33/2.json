@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 33:2",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 33,
+  "translation": "Ndiza kuthumela isithunywa phambi kwakho, ndidala ndiza kuxosha ⟨את⟩ abaKhenani, abaEmori, abaHithi, abaPerizi, abaHiwi nababeBusi.",
+  "tokens": [
+    {
+      "surface": "ושלחתי",
+      "gloss": "Ndiza kuthumela"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "phambi kwakho"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "isithunywa"
+    },
+    {
+      "surface": "וגרשתי",
+      "gloss": "ndidala ndiza kuxosha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abaKhenani"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "abaKhenani"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "abaEmori"
+    },
+    {
+      "surface": "והחתי",
+      "gloss": "abaHithi"
+    },
+    {
+      "surface": "והפרזי",
+      "gloss": "abaPerizi"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "abaHiwi"
+    },
+    {
+      "surface": "והיבוסי",
+      "gloss": "nababeBusi"
+    }
+  ],
+  "timestamp": "2026-09-18T06:24:57.465604811Z",
+  "model": "glm-5.3"
+}

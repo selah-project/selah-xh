@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 81:10",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 81,
+  "translation": "Akumele ube no-El ongasemzini kuni, ungazithobi phambi ko-El ongasemzini.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Akumele"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ube nokhoyo"
+    },
+    {
+      "surface": "בך",
+      "gloss": "kuni"
+    },
+    {
+      "surface": "אל",
+      "gloss": "u-El"
+    },
+    {
+      "surface": "זר",
+      "gloss": "ongasemzini"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ungazithobi"
+    },
+    {
+      "surface": "תשתחוה",
+      "gloss": "ukuzithoba"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "phambi ko-El"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "ongasemzini"
+    }
+  ],
+  "timestamp": "2026-09-18T15:04:06.354783841Z",
+  "model": "glm-5.3"
+}

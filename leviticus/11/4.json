@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 11:4",
+  "book": "leviticus",
+  "lang": "xh",
+  "chapter": 11,
+  "translation": "Kodwa le ⟨את⟩ angayidla kwezo ziphakamisa i-cud nakwezo zehlazahlazayo: ingcamel — kuba iphakamisa i-cud, kodwa ayihlahli ihlazi; ingcangatale yona kuni.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Kodwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le (into engayidliwayo)"
+    },
+    {
+      "surface": "זה",
+      "gloss": "le"
+    },
+    {
+      "surface": "לא",
+      "gloss": "anga"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "yidla"
+    },
+    {
+      "surface": "ממעלי",
+      "gloss": "kwezo ziphakamisa"
+    },
+    {
+      "surface": "הגרה",
+      "gloss": "i-cud"
+    },
+    {
+      "surface": "וממפריסי",
+      "gloss": "nakwezo zehlazahlazayo"
+    },
+    {
+      "surface": "הפרסה",
+      "gloss": "ihlazi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ingcamel"
+    },
+    {
+      "surface": "הגמל",
+      "gloss": "ingcamel"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "מעלה",
+      "gloss": "iphakamisa"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "i-cud"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yona"
+    },
+    {
+      "surface": "ופרסה",
+      "gloss": "kodwa ihlazi"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "ayihlahli"
+    },
+    {
+      "surface": "מפריס",
+      "gloss": "ihlazahlazi"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "ingcangatale"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yona"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kuni"
+    }
+  ],
+  "timestamp": "2026-09-18T06:42:52.296257079Z",
+  "model": "glm-5.3"
+}

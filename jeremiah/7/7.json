@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 7:7",
+  "book": "jeremiah",
+  "lang": "xh",
+  "chapter": 7,
+  "translation": "ndiza kunenza ⟨את⟩ nina nidwe kule ndawo, emhlabeni endinike wona ooyihlo benu, ukusuka kudala ukuya kube phakade.",
+  "tokens": [
+    {
+      "surface": "ושכנתי",
+      "gloss": "ndiza kunenza nidwe"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "nina"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "kule ndawo"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "le"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "emhlabeni"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "endinike"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "endinike"
+    },
+    {
+      "surface": "לאבותיכם",
+      "gloss": "ooyihlo benu"
+    },
+    {
+      "surface": "למן",
+      "gloss": "ukusuka"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "kudala"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ukuya kube"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "phakade"
+    }
+  ],
+  "timestamp": "2026-09-18T11:57:42.491588042Z",
+  "model": "glm-5.3"
+}

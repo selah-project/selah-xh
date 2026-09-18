@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 10:6",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 10,
+  "translation": "Wathi entliziyweni yakhe: “Andiza kuzinza; kwisizukulwana nasizukulwana andingabi bububi.”",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "Wathi"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "entliziyweni yakhe"
+    },
+    {
+      "surface": "בל",
+      "gloss": "andi-"
+    },
+    {
+      "surface": "אמוט",
+      "gloss": "kuzinza"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "kwisizukulwana"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "nasizukulwana"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "לא",
+      "gloss": "andi-"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "ngabi bububi"
+    }
+  ],
+  "timestamp": "2026-09-18T14:31:46.303464347Z",
+  "model": "glm-5.3"
+}

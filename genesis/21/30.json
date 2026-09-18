@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 21:30",
+  "book": "genesis",
+  "lang": "xh",
+  "chapter": 21,
+  "translation": "Wathi ⟨u-Avraham⟩: “Ukuba ⟨את⟩ amawulu asixhenxe uza kuwamkela esandleni sam, ukuze kube kum ingqina ukuba mna ndidibile ⟨את⟩ lo mthombo.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Wathi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "Ukuba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amawulu asixhenxe"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "asixhenxe"
+    },
+    {
+      "surface": "כבשת",
+      "gloss": "amawulu"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "uza kuwamkela"
+    },
+    {
+      "surface": "מידי",
+      "gloss": "esandleni sam"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "ukuze"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "kube"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kum"
+    },
+    {
+      "surface": "לעדה",
+      "gloss": "ingqina"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ukuba"
+    },
+    {
+      "surface": "חפרתי",
+      "gloss": "ndidibile"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lo mthombo"
+    },
+    {
+      "surface": "הבאר",
+      "gloss": "umthombo"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "lo"
+    }
+  ],
+  "timestamp": "2026-09-18T05:18:57.875707176Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "song-of-songs 7:10",
+  "book": "song-of-songs",
+  "lang": "xh",
+  "chapter": 7,
+  "translation": "Nolwelwesi lwakho lunjengewayini elilungileyo, elihamba ngokucocekileyo eliya kumthandana wam, elicuphisa iilomo zabasileyo.",
+  "tokens": [
+    {
+      "surface": "וחכך",
+      "gloss": "ulwelwesi lwakho"
+    },
+    {
+      "surface": "כיין",
+      "gloss": "njengewayini"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "elilungileyo"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "elihamba"
+    },
+    {
+      "surface": "לדודי",
+      "gloss": "eliya kumthandana wam"
+    },
+    {
+      "surface": "למישרים",
+      "gloss": "ngokucocekileyo"
+    },
+    {
+      "surface": "דובב",
+      "gloss": "elicuphisa"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "iilomo"
+    },
+    {
+      "surface": "ישנים",
+      "gloss": "zabasileyo"
+    }
+  ],
+  "timestamp": "2026-09-18T16:18:24.207326755Z",
+  "model": "glm-5.3"
+}

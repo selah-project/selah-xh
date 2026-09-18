@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 4:16",
+  "book": "joshua",
+  "lang": "xh",
+  "chapter": 4,
+  "translation": "Yalela ⟨את⟩ abapristi abathwala iarde yengqiniso, mabanyuke esiYardenini.",
+  "tokens": [
+    {
+      "surface": "צוה",
+      "gloss": "yalela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abapristi"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "abapristi"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "abathwala"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "iarde"
+    },
+    {
+      "surface": "העדות",
+      "gloss": "yengqiniso"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "mabanyuke"
+    },
+    {
+      "surface": "מן",
+      "gloss": "esi"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "iYardeni"
+    }
+  ],
+  "timestamp": "2026-09-18T08:27:59.000007661Z",
+  "model": "glm-5.3"
+}

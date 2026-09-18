@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ezra 6:16",
+  "book": "ezra",
+  "lang": "xh",
+  "chapter": 6,
+  "translation": "Yaye abantwana bakwa-Israyeli, abapristi, amaLevi, noku sele kubantwana bokuthinjwa, benza inkonzo yokungcwaliswa kwale ndlu kaElohim ngovuyo.",
+  "tokens": [
+    {
+      "surface": "ועבדו",
+      "gloss": "benza"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abantwana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "bakwa-Israyeli"
+    },
+    {
+      "surface": "כהניא",
+      "gloss": "abapristi"
+    },
+    {
+      "surface": "ולויא",
+      "gloss": "amaLevi"
+    },
+    {
+      "surface": "ושאר",
+      "gloss": "noku sele"
+    },
+    {
+      "surface": "בני",
+      "gloss": "kubantwana"
+    },
+    {
+      "surface": "גלותא",
+      "gloss": "bokuthinjwa"
+    },
+    {
+      "surface": "חנכת",
+      "gloss": "inkonzo yokungcwaliswa"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ndlu"
+    },
+    {
+      "surface": "אלהא",
+      "gloss": "kaElohim"
+    },
+    {
+      "surface": "דנה",
+      "gloss": "le"
+    },
+    {
+      "surface": "בחדוה",
+      "gloss": "ngovuyo"
+    }
+  ],
+  "timestamp": "2026-09-18T16:40:06.544713569Z",
+  "model": "glm-5.3"
+}

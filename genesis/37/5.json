@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 37:5",
+  "book": "genesis",
+  "lang": "xh",
+  "chapter": 37,
+  "translation": "U-Yosef waphupha iphupha, wayixelela abafowabo, kwaye bamongeza ukuzonda ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ויחלם",
+      "gloss": "waphupha"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "u-Yosef"
+    },
+    {
+      "surface": "חלום",
+      "gloss": "iphupha"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "wayixelela"
+    },
+    {
+      "surface": "לאחיו",
+      "gloss": "abafowabo"
+    },
+    {
+      "surface": "ויוספו",
+      "gloss": "bamongeza"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ngakumbi"
+    },
+    {
+      "surface": "שנא",
+      "gloss": "ukuzonda"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "uYosefu (yena)"
+    }
+  ],
+  "timestamp": "2026-09-18T05:34:39.069924077Z",
+  "model": "glm-5.3"
+}

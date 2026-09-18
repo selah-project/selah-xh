@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 21:8",
+  "book": "1-chronicles",
+  "lang": "xh",
+  "chapter": 21,
+  "translation": "UDavide wathetha kuElohim: “Ndione kakhulu engulfundisi yendlela endiyenzileyo ⟨את⟩ le nto; ngoko nangoko nceda ususe ⟨את⟩ isono sekhazi lakho, kuba ndenze ngobuwula obukhulu.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wathetha"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "uDavide"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "ndione"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "kakhulu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "okokuba"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "ndiyenzileyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le nto"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "le nto"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "le"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "ngoko nangoko"
+    },
+    {
+      "surface": "העבר",
+      "gloss": "ususe"
+    },
+    {
+      "surface": "נא",
+      "gloss": "nceda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isono"
+    },
+    {
+      "surface": "עוון",
+      "gloss": "isono"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "sekhazi lakho"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "נסכלתי",
+      "gloss": "ndenze ngobuwula"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "obukhulu"
+    }
+  ],
+  "timestamp": "2026-09-18T16:57:29.103214056Z",
+  "model": "glm-5.3"
+}

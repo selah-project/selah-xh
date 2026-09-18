@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 107:31",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 107,
+  "translation": "Makabonge kuYahwe ngeKhesedi lakhe, nangezimangaliso zakhe kubantwana babantu.",
+  "tokens": [
+    {
+      "surface": "יודו",
+      "gloss": "makabonge"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kuYahwe"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ikhesedi lakhe"
+    },
+    {
+      "surface": "ונפלאותיו",
+      "gloss": "nezimangaliso zakhe"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "kubantwana"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "babantu"
+    }
+  ],
+  "timestamp": "2026-09-18T15:19:16.152206473Z",
+  "model": "glm-5.3"
+}

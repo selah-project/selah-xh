@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 19:15",
+  "book": "isaiah",
+  "lang": "xh",
+  "chapter": 19,
+  "translation": "Kwaye akayi kubakho msebenzi kuMitsrayim, onokwenziwa bubukhulu okanye bubuncinci, ligatya lepalma okanye iqhagi.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "kwaye akayi kubakho"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "kubakho"
+    },
+    {
+      "surface": "למצרים",
+      "gloss": "kuMitsrayim"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "msebenzi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "onokwenziwa"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "wenziwa"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "ubukhulu"
+    },
+    {
+      "surface": "וזנב",
+      "gloss": "okanye bubuncinci"
+    },
+    {
+      "surface": "כפה",
+      "gloss": "ligatya lepalma"
+    },
+    {
+      "surface": "ואגמון",
+      "gloss": "okanye iqhagi"
+    }
+  ],
+  "timestamp": "2026-09-18T11:14:20.285691806Z",
+  "model": "glm-5.3"
+}

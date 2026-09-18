@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 36:11",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 36,
+  "translation": "Yandisa ikhesedi yakho kubazi bakho, nobulungisa bakho kubalungileyo ngenhliziyo.",
+  "tokens": [
+    {
+      "surface": "משך",
+      "gloss": "Yandisa"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "ikhesedi yakho"
+    },
+    {
+      "surface": "לידעיך",
+      "gloss": "kubazi bakho"
+    },
+    {
+      "surface": "וצדקתך",
+      "gloss": "nobulungisa bakho"
+    },
+    {
+      "surface": "לישרי",
+      "gloss": "kubalungileyo"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ngenhliziyo"
+    }
+  ],
+  "timestamp": "2026-09-18T14:39:51.027497585Z",
+  "model": "glm-5.3"
+}

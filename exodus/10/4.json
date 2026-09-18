@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 10:4",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 10,
+  "translation": "Kuba ukuba wazila ukuthuma ⟨את⟩ abantu bam, yeha, ndiza kuzisa ngomso inyeji emida yakho.”",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ukuba"
+    },
+    {
+      "surface": "מאן",
+      "gloss": "wazila"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "לשלח",
+      "gloss": "ukuthuma"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abantu bam"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "abantu bam"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "yeha"
+    },
+    {
+      "surface": "מביא",
+      "gloss": "ndiza kuzisa"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "ngomso"
+    },
+    {
+      "surface": "ארבה",
+      "gloss": "inyeji"
+    },
+    {
+      "surface": "בגבלך",
+      "gloss": "emida yakho"
+    }
+  ],
+  "timestamp": "2026-09-18T05:57:57.702399325Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-kings 8:14",
+  "book": "2-kings",
+  "lang": "xh",
+  "chapter": 8,
+  "translation": "Wahamba ku-⟨את⟩ u-Elisha, wafika kunkosi yakhe; yathi kuye: “Ntoni na wakutshela u-Elisha?” Wathi: “Wanditshela ukuba uya kuphila, uza kuphila.”",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "wahamba"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "ku- ⟨את⟩"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "u-Elisha"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "wafika"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "nkosi yakhe"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "yathi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kuye"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ntoni na"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "wakutshela"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kuwe"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "u-Elisha"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "wanditshela"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kum"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "uya kuphila"
+    },
+    {
+      "surface": "תחיה",
+      "gloss": "uza kuphila"
+    }
+  ],
+  "timestamp": "2026-09-18T10:45:13.670964420Z",
+  "model": "glm-5.3"
+}

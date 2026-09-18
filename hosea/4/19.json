@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "hosea 4:19",
+  "book": "hosea",
+  "lang": "xh",
+  "chapter": 4,
+  "translation": "Umoya umnyanzelele wamdibanisa ngamaphiko ayo; baza kuthuka ngenxa yezibingelelo zabo.",
+  "tokens": [
+    {
+      "surface": "צרר",
+      "gloss": "umnyanzelele wamdibanisa"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "Umoya"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩",
+      "marks": "yena"
+    },
+    {
+      "surface": "בכנפיה",
+      "gloss": "ngamaphiko ayo"
+    },
+    {
+      "surface": "ויבשו",
+      "gloss": "baza kuthuka"
+    },
+    {
+      "surface": "מזבחותם",
+      "gloss": "ngenxa yezibingelelo zabo"
+    }
+  ],
+  "timestamp": "2026-09-18T13:40:52.732638813Z",
+  "model": "glm-5.3"
+}

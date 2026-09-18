@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 22:4",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 22,
+  "translation": "Wena ungcwele, uhlalele phakathi kweendumiso zikaIsrayeli.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Wena"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "ungcwele"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "uhlalele"
+    },
+    {
+      "surface": "תהלות",
+      "gloss": "phakathi kweendumiso"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "zikaIsrayeli"
+    }
+  ],
+  "timestamp": "2026-09-18T14:35:36.090576942Z",
+  "model": "glm-5.3"
+}

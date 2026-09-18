@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 10:8",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 10,
+  "translation": "Wabuyisela ⟨את⟩ uMoshe ⟨את⟩ no-Aharon kuParo; wathi kubo: Hambani, nzebenzelani uYahwe uElohim wenu — ngubani nabani na abahambayo?",
+  "tokens": [
+    {
+      "surface": "ויושב",
+      "gloss": "Wabuyisela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uMoshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "uMoshe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "u-Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "u-Aharon"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "uParo"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "kubo"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "Hambani"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "nzenbenzelani"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uYahwe uElohim wenu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "uElohim wenu"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ngubani"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "nabani na"
+    },
+    {
+      "surface": "ההלכים",
+      "gloss": "abahambayo"
+    }
+  ],
+  "timestamp": "2026-09-18T05:58:51.654970403Z",
+  "model": "glm-5.3"
+}

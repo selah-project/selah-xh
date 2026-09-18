@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 28:24",
+  "book": "deuteronomy",
+  "lang": "xh",
+  "chapter": 28,
+  "translation": "UYahwe uza kunikela ⟨את⟩ imvula yomhlaba wakho ibe yumpu nothuli; ivela ezulwini iyehla phezu kwakho, kuze utshatyalaliswe.",
+  "tokens": [
+    {
+      "surface": "יתן",
+      "gloss": "uza kunikela"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "imvula yomhlaba wakho"
+    },
+    {
+      "surface": "מטר",
+      "gloss": "imvula"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "yomhlaba wakho"
+    },
+    {
+      "surface": "אבק",
+      "gloss": "yumpu"
+    },
+    {
+      "surface": "ועפר",
+      "gloss": "nothuli"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ivela"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ezulwini"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "iyehla"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "phezu kwakho"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kuze"
+    },
+    {
+      "surface": "השמדך",
+      "gloss": "utshatyalaliswe"
+    }
+  ],
+  "timestamp": "2026-09-18T08:20:05.752657805Z",
+  "model": "glm-5.3"
+}

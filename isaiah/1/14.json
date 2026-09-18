@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 1:14",
+  "book": "isaiah",
+  "lang": "xh",
+  "chapter": 1,
+  "translation": "Iinyanga zenu namaxesha enu anqwalelekileyo umphefumlo wam uyayizonda; abe ngumthwalo phezu kwam; ndidiniwe ukuthwala.",
+  "tokens": [
+    {
+      "surface": "חדשיכם",
+      "gloss": "iinyanga zenu"
+    },
+    {
+      "surface": "ומועדיכם",
+      "gloss": "namaxesha enu anqwalelekileyo"
+    },
+    {
+      "surface": "שנאה",
+      "gloss": "uyayizonda"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "umphefumlo wam"
+    },
+    {
+      "surface": "היו",
+      "gloss": "abe"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "phezu kwam"
+    },
+    {
+      "surface": "לטרח",
+      "gloss": "ngumthwalo"
+    },
+    {
+      "surface": "נלאיתי",
+      "gloss": "ndidiniwe"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "ukuthwala"
+    }
+  ],
+  "timestamp": "2026-09-18T11:01:17.607420234Z",
+  "model": "glm-5.3"
+}

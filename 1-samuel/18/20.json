@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 18:20",
+  "book": "1-samuel",
+  "lang": "xh",
+  "chapter": 18,
+  "translation": "UMikali, intombi kaSawuli, wamthanda ⟨את⟩ uDavide; baze bayixela uSawuli, loo nto yamkeleka emehlweni akhe.",
+  "tokens": [
+    {
+      "surface": "ותאהב",
+      "gloss": "wamthanda"
+    },
+    {
+      "surface": "מיכל",
+      "gloss": "uMikali"
+    },
+    {
+      "surface": "בת",
+      "gloss": "intombi"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "kaSawuli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uDavide"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "uDavide"
+    },
+    {
+      "surface": "ויגדו",
+      "gloss": "baze bayixela"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "uSawuli"
+    },
+    {
+      "surface": "וישר",
+      "gloss": "yamkeleka"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "loo nto"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "emehlweni akhe"
+    }
+  ],
+  "timestamp": "2026-09-18T09:32:33.721080427Z",
+  "model": "glm-5.3"
+}

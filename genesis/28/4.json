@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 28:4",
+  "book": "genesis",
+  "lang": "xh",
+  "chapter": 28,
+  "translation": "“Aze akunike ⟨את⟩ ingciso ka-Avraham, kuwe nakwindla yakho ⟨את⟩ ikunye nawe, ukuba ulawule ⟨את⟩ umhlaba wokuhlala kwakho njengomhambi, owanika uElohim u-Avraham.”",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "Aze akunike"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kuwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ingciso ka-Avraham"
+    },
+    {
+      "surface": "ברכת",
+      "gloss": "ingciso"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "ka-Avraham"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kuwe"
+    },
+    {
+      "surface": "ולזרעך",
+      "gloss": "nakwindla yakho"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ ikunye nawe"
+    },
+    {
+      "surface": "לרשתך",
+      "gloss": "ukuba ulawule"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umhlaba"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "umhlaba"
+    },
+    {
+      "surface": "מגריך",
+      "gloss": "wokuhlala kwakho njengomhambi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "o"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "wanika"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "u-Avraham"
+    }
+  ],
+  "timestamp": "2026-09-18T05:27:09.808414944Z",
+  "model": "glm-5.3"
+}

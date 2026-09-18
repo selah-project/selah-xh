@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "zechariah 2:16",
+  "book": "zechariah",
+  "lang": "xh",
+  "chapter": 2,
+  "translation": "uYahwe unza ukuba uYehuda abe lilifa ⟨את⟩ — inxalenye yakhe — emhlabeni oyingcwele, uza kukhetha iYerushalayimi kwakhona.",
+  "tokens": [
+    {
+      "surface": "ונחל",
+      "gloss": "unza ukuba... abe lilifa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uYehuda"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "uYehuda"
+    },
+    {
+      "surface": "חלקו",
+      "gloss": "inxalenye yakhe"
+    },
+    {
+      "surface": "על",
+      "gloss": "emhlabeni"
+    },
+    {
+      "surface": "אדמת",
+      "gloss": "emhlabeni"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "oyingcwele"
+    },
+    {
+      "surface": "ובחר",
+      "gloss": "uza kukhetha"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "kwakhona"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "iYerushalayimi"
+    }
+  ],
+  "timestamp": "2026-09-18T14:17:13.985374079Z",
+  "model": "glm-5.3"
+}

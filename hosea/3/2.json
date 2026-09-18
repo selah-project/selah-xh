@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "hosea 3:2",
+  "book": "hosea",
+  "lang": "xh",
+  "chapter": 3,
+  "translation": "Ndamthenga yena ndim ngeelwana zesiliva ezilishumi elinesihlanu, kunye ne-homer yeebarli, kunye ne-lethech yeebarli.",
+  "tokens": [
+    {
+      "surface": "ואכרה",
+      "gloss": "Ndamthenga"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ndim"
+    },
+    {
+      "surface": "בחמשה",
+      "gloss": "ezihlanu"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "elishumi"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "isiliva"
+    },
+    {
+      "surface": "וחמר",
+      "gloss": "ne-homer"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "yeebarli"
+    },
+    {
+      "surface": "ולתך",
+      "gloss": "ne-lethech"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "yeebarli"
+    }
+  ],
+  "timestamp": "2026-09-18T13:43:49.660117066Z",
+  "model": "glm-5.3"
+}

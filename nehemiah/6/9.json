@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "nehemiah 6:9",
+  "book": "nehemiah",
+  "lang": "xh",
+  "chapter": 6,
+  "translation": "Kuba bonke babesoyikisa, besithi: “Izandla zabo ziya kuthamba kumsebenzi, ungabi nekwenziwa.” Kodwa ngoku, qinisa ⟨את⟩ izandla zam.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "bonke"
+    },
+    {
+      "surface": "מיראים",
+      "gloss": "babesoyikisa"
+    },
+    {
+      "surface": "אותנו",
+      "gloss": "⟨את⟩",
+      "marks": "thina (isiphumo sokoyikisa)"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "besithi"
+    },
+    {
+      "surface": "ירפו",
+      "gloss": "ziya kuthamba"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "izandla zabo"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "המלאכה",
+      "gloss": "kumsebenzi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kodwa ungabi"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "nekwenziwa"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "kodwa ngoku"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "qinisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izandla zam"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "izandla zam"
+    }
+  ],
+  "timestamp": "2026-09-18T16:45:03.387347530Z",
+  "model": "glm-5.3"
+}

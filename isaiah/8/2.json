@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 8:2",
+  "book": "isaiah",
+  "lang": "xh",
+  "chapter": 8,
+  "translation": "Ndiza kuqinisekisa kum iingqina ezithembekileyo: ⟨את⟩ u-Uriya umpristi, n⟨את⟩ uZekharyahu unyana kaYeverekhayahu.",
+  "tokens": [
+    {
+      "surface": "ואעידה",
+      "gloss": "Ndiza kuqinisekisa"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kum"
+    },
+    {
+      "surface": "עדים",
+      "gloss": "iingqina"
+    },
+    {
+      "surface": "נאמנים",
+      "gloss": "ezithembekileyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "u-Uriya umpristi"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "u-Uriya"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "umpristi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "n⟨את⟩",
+      "marks": "uZekharyahu unyana kaYeverekhayahu"
+    },
+    {
+      "surface": "זכריהו",
+      "gloss": "uZekharyahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "unyana"
+    },
+    {
+      "surface": "יברכיהו",
+      "gloss": "kaYeverekhayahu"
+    }
+  ],
+  "timestamp": "2026-09-18T11:05:42.562795235Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 65:1",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 65,
+  "translation": "Kumlawuli. Ikhomelo likaDavide. Iculo.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Kumlawuli"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "ikhomelo"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "likaDavide"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "iculo"
+    }
+  ],
+  "timestamp": "2026-09-18T14:55:54.239299693Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 9:14",
+  "book": "leviticus",
+  "lang": "xh",
+  "chapter": 9,
+  "translation": "Wayehlamba ⟨את⟩ izitho zangaphakathi ⟨את⟩ neelenyawo, waza watshisa phezu kwezithotho, phezu kwe-altare.",
+  "tokens": [
+    {
+      "surface": "וירחץ",
+      "gloss": "wayehlamba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izitho zangaphakathi"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "izitho zangaphakathi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "neelenyawo"
+    },
+    {
+      "surface": "הכרעים",
+      "gloss": "neelenyawo"
+    },
+    {
+      "surface": "ויקטר",
+      "gloss": "watshisa"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu kwe-"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "zithotho"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "altare"
+    }
+  ],
+  "timestamp": "2026-09-18T06:41:17.198839914Z",
+  "model": "glm-5.3"
+}

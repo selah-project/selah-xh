@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 56:4",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 56,
+  "translation": "Ngosuku ndoyika, mna, ndithembela kuwe.",
+  "tokens": [
+    {
+      "surface": "יום",
+      "gloss": "Ngosuku"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "ndoyika"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mna"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kuwe"
+    },
+    {
+      "surface": "אבטח",
+      "gloss": "ndithembela"
+    }
+  ],
+  "timestamp": "2026-09-18T14:51:17.922627299Z",
+  "model": "glm-5.3"
+}

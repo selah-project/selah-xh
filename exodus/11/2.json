@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 11:2",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 11,
+  "translation": "Thetha nje ezindlebeni zoluntu, mababuze: umntu ku⟨את⟩ ummelwane wakhe, nomfazi ku⟨את⟩ ummelwane wakhe, izixhobo zesilivere nezixhobo zegolide.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "Thetha"
+    },
+    {
+      "surface": "נא",
+      "gloss": "nje"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "ezindlebeni"
+    },
+    {
+      "surface": "העם",
+      "gloss": "zoluntu"
+    },
+    {
+      "surface": "וישאלו",
+      "gloss": "mababuze"
+    },
+    {
+      "surface": "איש",
+      "gloss": "umntu"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "ku⟨את⟩",
+      "marks": "kummelwane wakhe"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "kummelwane wakhe"
+    },
+    {
+      "surface": "ואשה",
+      "gloss": "nomfazi"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "ku⟨את⟩",
+      "marks": "kummelwane wakhe"
+    },
+    {
+      "surface": "רעותה",
+      "gloss": "kummelwane wakhe"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "izixhobo"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "zesilivere"
+    },
+    {
+      "surface": "וכלי",
+      "gloss": "nezixhobo"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "zegolide"
+    }
+  ],
+  "timestamp": "2026-09-18T05:58:19.019239659Z",
+  "model": "glm-5.3"
+}

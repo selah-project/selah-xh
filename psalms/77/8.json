@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 77:8",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 77,
+  "translation": "Ngaba u-Adonayi uza kuzalahla kuze kube phakade? Ngaba akayi kukwamkela kwakhona?",
+  "tokens": [
+    {
+      "surface": "הלעולמים",
+      "gloss": "kuze kube phakade"
+    },
+    {
+      "surface": "יזנח",
+      "gloss": "uza kuzalahla"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "u-Adonayi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "hayi"
+    },
+    {
+      "surface": "יסיף",
+      "gloss": "akayi kuzelela"
+    },
+    {
+      "surface": "לרצות",
+      "gloss": "ukwamkela\/ukuthanda"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "kwakhona"
+    }
+  ],
+  "timestamp": "2026-09-18T15:00:43.136082837Z",
+  "model": "glm-5.3"
+}

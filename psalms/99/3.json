@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 99:3",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 99,
+  "translation": "Mababonge igama lakho — elikhulu neloyikisayo; ingcwele ⟨nguYahwe⟩.",
+  "tokens": [
+    {
+      "surface": "יודו",
+      "gloss": "mababonge"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "igama lakho"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "elikhulu"
+    },
+    {
+      "surface": "ונורא",
+      "gloss": "eloyikisayo"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "ingcwele"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yena"
+    }
+  ],
+  "timestamp": "2026-09-18T15:13:47.772805595Z",
+  "model": "glm-5.3"
+}

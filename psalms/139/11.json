@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 139:11",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 139,
+  "translation": "Ndathi: “Kuphela ubumnyama buya kundizimelisa,” kodwa ubusuku bubukhanya kum.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "Ndathi"
+    },
+    {
+      "surface": "אך",
+      "gloss": "kuphela"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "ubumnyama"
+    },
+    {
+      "surface": "ישופני",
+      "gloss": "buya kundizimelisa"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "kodwa ubusuku"
+    },
+    {
+      "surface": "אור",
+      "gloss": "bubukhanya"
+    },
+    {
+      "surface": "בעדני",
+      "gloss": "kum"
+    }
+  ],
+  "timestamp": "2026-09-18T15:30:39.215928757Z",
+  "model": "glm-5.3"
+}

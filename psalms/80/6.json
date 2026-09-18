@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 80:6",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 80,
+  "translation": "Uzenzele ukutya isonka seminyezo, wabaselisa ngeminyezo ezintathu.",
+  "tokens": [
+    {
+      "surface": "האכלתם",
+      "gloss": "Uzenzele ukutya"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "isonka"
+    },
+    {
+      "surface": "דמעה",
+      "gloss": "seminyezo"
+    },
+    {
+      "surface": "ותשקמו",
+      "gloss": "wabaselisa"
+    },
+    {
+      "surface": "בדמעות",
+      "gloss": "ngeminyezo"
+    },
+    {
+      "surface": "שליש",
+      "gloss": "ezintathu"
+    }
+  ],
+  "timestamp": "2026-09-18T15:05:10.438429833Z",
+  "model": "glm-5.3"
+}

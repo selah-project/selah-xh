@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 4:12",
+  "book": "job",
+  "lang": "xh",
+  "chapter": 4,
+  "translation": "Kwaye kum ilizwi lalizisa ngasese, indlebe yam yamkela isibanexo salo.",
+  "tokens": [
+    {
+      "surface": "ואלי",
+      "gloss": "kwaye kum"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ilizwi"
+    },
+    {
+      "surface": "יגנב",
+      "gloss": "lalizisa ngasese"
+    },
+    {
+      "surface": "ותקח",
+      "gloss": "yamkela"
+    },
+    {
+      "surface": "אזני",
+      "gloss": "indlebe yam"
+    },
+    {
+      "surface": "שמץ",
+      "gloss": "isibanexo"
+    },
+    {
+      "surface": "מנהו",
+      "gloss": "salo"
+    }
+  ],
+  "timestamp": "2026-09-18T15:59:55.657231129Z",
+  "model": "glm-5.3"
+}

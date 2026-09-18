@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "judges 7:1",
+  "book": "judges",
+  "lang": "xh",
+  "chapter": 7,
+  "translation": "Wavuka ekuseni uYerubbaali, yena nguGidhoni, kunye nabantu bonke ababe ⟨את⟩ naye, baza bahlala ngaseMthombo weCharodi; umkhosi weMidyani wawusiseMantla kuye, etyeni leGibheyathi yaMoreri, embindini.",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "wavuka ekuseni"
+    },
+    {
+      "surface": "ירבעל",
+      "gloss": "uYerubbaali"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yena"
+    },
+    {
+      "surface": "גדעון",
+      "gloss": "nguGidhoni"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "kunye nabantu bonke"
+    },
+    {
+      "surface": "העם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aba-"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ naye",
+      "marks": "naye"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "baza bahlala"
+    },
+    {
+      "surface": "על",
+      "gloss": "ngase-"
+    },
+    {
+      "surface": "עין",
+      "gloss": "Mthombo"
+    },
+    {
+      "surface": "חרד",
+      "gloss": "weCharodi"
+    },
+    {
+      "surface": "ומחנה",
+      "gloss": "umkhosi"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "weMidyani"
+    },
+    {
+      "surface": "היה",
+      "gloss": "wawu-"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kuye"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "iseMantla"
+    },
+    {
+      "surface": "מגבעת",
+      "gloss": "etyeni"
+    },
+    {
+      "surface": "המורה",
+      "gloss": "leMoreri"
+    },
+    {
+      "surface": "בעמק",
+      "gloss": "embindini"
+    }
+  ],
+  "timestamp": "2026-09-18T08:56:44.989904229Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 9:1",
+  "book": "1-kings",
+  "lang": "xh",
+  "chapter": 9,
+  "translation": "Kwathi-ke, xa uShelomoh esiqibile ukwakha ⟨את⟩ indlu kaYahwe ⟨את⟩ nendlu yenkosi, kunye ⟨את⟩ nakho konke ukhetho lukaShelomoh anokuthanda ukukwenzela:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Kwathi-ke"
+    },
+    {
+      "surface": "ככלות",
+      "gloss": "xa esiqibile"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "uShelomoh"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "ukwakha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "indlu kaYahwe"
+    },
+    {
+      "surface": "בית",
+      "gloss": "indlu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kaYahwe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kunye ⟨את⟩",
+      "marks": "indlu yenkosi"
+    },
+    {
+      "surface": "בית",
+      "gloss": "indlu"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "yenkosi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kunye ⟨את⟩",
+      "marks": "konke ukhetho"
+    },
+    {
+      "surface": "כל",
+      "gloss": "konke"
+    },
+    {
+      "surface": "חשק",
+      "gloss": "ukhetho"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "lukaShelomoh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "athanda"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "ukukwenzela"
+    }
+  ],
+  "timestamp": "2026-09-18T10:21:51.707050357Z",
+  "model": "glm-5.3"
+}

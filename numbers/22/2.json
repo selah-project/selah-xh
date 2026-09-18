@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 22:2",
+  "book": "numbers",
+  "lang": "xh",
+  "chapter": 22,
+  "translation": "UBalaki unyana kaTsipho wabona ⟨את⟩ konke okwakwenziwa yiYisrayeli kumaEmori.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "wabona"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "uBalaki"
+    },
+    {
+      "surface": "בן",
+      "gloss": "unyana"
+    },
+    {
+      "surface": "צפור",
+      "gloss": "kaTsipho"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "konke"
+    },
+    {
+      "surface": "כל",
+      "gloss": "konke"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oko"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "kwakwenziwa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "yiYisrayeli"
+    },
+    {
+      "surface": "לאמרי",
+      "gloss": "kumaEmori"
+    }
+  ],
+  "timestamp": "2026-09-18T07:34:34.537655918Z",
+  "model": "glm-5.3"
+}

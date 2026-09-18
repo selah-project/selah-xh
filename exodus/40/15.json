@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 40:15",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 40,
+  "translation": "Ubathanjise ⟨את⟩ njengoko wathanjisa ⟨את⟩ uyise wabo, basebenze njengesibingeleli kum; ukuthanjiswa kwabo kuya kubakho kubo ngokubizwa ngokungcwele kobubingeleli ngonaphakade, kwiizizukulwana zabo.",
+  "tokens": [
+    {
+      "surface": "ומשחת",
+      "gloss": "ubathanjise"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "bona"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "njengoko"
+    },
+    {
+      "surface": "משחת",
+      "gloss": "wathanjisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uyise wabo"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "uyise wabo"
+    },
+    {
+      "surface": "וכהנו",
+      "gloss": "basebenze njengesibingeleli"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kum"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "kuya kubakho"
+    },
+    {
+      "surface": "להית",
+      "gloss": "ukuba"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kubo"
+    },
+    {
+      "surface": "משחתם",
+      "gloss": "ukuthanjiswa kwabo"
+    },
+    {
+      "surface": "לכהנת",
+      "gloss": "ngokubingelela"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ngonaphakade"
+    },
+    {
+      "surface": "לדרתם",
+      "gloss": "kwiizizukulwana zabo"
+    }
+  ],
+  "timestamp": "2026-09-18T06:32:18.254123013Z",
+  "model": "glm-5.3"
+}

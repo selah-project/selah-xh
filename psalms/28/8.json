@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 28:8",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 28,
+  "translation": "uYahwe nguwo amandla abo, yaye ⟨nguye⟩ isixeko sobulumko kukaMashiya wakhe.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "עז",
+      "gloss": "nguwo amandla"
+    },
+    {
+      "surface": "למו",
+      "gloss": "abo"
+    },
+    {
+      "surface": "ומעוז",
+      "gloss": "yaye ⟨nguye⟩ isixeko"
+    },
+    {
+      "surface": "ישועות",
+      "gloss": "sobulumko"
+    },
+    {
+      "surface": "משיחו",
+      "gloss": "kukaMashiya wakhe"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨nguye⟩"
+    }
+  ],
+  "timestamp": "2026-09-18T14:37:51.805228955Z",
+  "model": "glm-5.3"
+}

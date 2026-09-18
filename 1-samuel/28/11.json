@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 28:11",
+  "book": "1-samuel",
+  "lang": "xh",
+  "chapter": 28,
+  "translation": "Wathetha umfazi: “⟨את⟩ Ngubani na endingamnyusela kuwe?” Wathi: “⟨את⟩ uShemuweli — mnyusele kum.”",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "wathetha"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "umfazi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ngubani"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ngubani"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "endingamnyusela"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kuwe"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uShemuweli"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "uShemuweli"
+    },
+    {
+      "surface": "העלי",
+      "gloss": "mnyusele"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kum"
+    }
+  ],
+  "timestamp": "2026-09-18T09:38:42.742291840Z",
+  "model": "glm-5.3"
+}

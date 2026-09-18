@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 31:4",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 31,
+  "translation": "Kuba wena ulilitye lam elinamandla nesixeko sam esiqinileyo; nangenxa yegama lakho undikhokhele, undiqhuba.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kuba"
+    },
+    {
+      "surface": "סלעי",
+      "gloss": "ulilitye lam elinamandla"
+    },
+    {
+      "surface": "ומצודתי",
+      "gloss": "nesixeko sam esiqinileyo"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "ולמען",
+      "gloss": "nangenxa"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "yegama lakho"
+    },
+    {
+      "surface": "תנחני",
+      "gloss": "undikhokhele"
+    },
+    {
+      "surface": "ותנהלני",
+      "gloss": "undiqhuba"
+    }
+  ],
+  "timestamp": "2026-09-18T14:38:48.976198575Z",
+  "model": "glm-5.3"
+}

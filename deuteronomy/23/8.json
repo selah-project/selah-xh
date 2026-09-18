@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 23:8",
+  "book": "deuteronomy",
+  "lang": "xh",
+  "chapter": 23,
+  "translation": "Ungazondi uMdomi, kuba ngumzakwo yena; ungazondi umMitsrayim, kuba wawungumngeni elizweni lakhe.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "hayi"
+    },
+    {
+      "surface": "תתעב",
+      "gloss": "ungazondi"
+    },
+    {
+      "surface": "אדמי",
+      "gloss": "uMdomi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "ngumzakwo"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yena"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hayi"
+    },
+    {
+      "surface": "תתעב",
+      "gloss": "ungazondi"
+    },
+    {
+      "surface": "מצרי",
+      "gloss": "umMitsrayim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "גר",
+      "gloss": "umngeni"
+    },
+    {
+      "surface": "היית",
+      "gloss": "wawungu"
+    },
+    {
+      "surface": "בארצו",
+      "gloss": "elizweni lakhe"
+    }
+  ],
+  "timestamp": "2026-09-18T08:14:21.047641878Z",
+  "model": "glm-5.3"
+}

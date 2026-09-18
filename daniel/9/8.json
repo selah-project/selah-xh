@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "daniel 9:8",
+  "book": "daniel",
+  "lang": "xh",
+  "chapter": 9,
+  "translation": "uYahwe, kuthi kukho iintlonzi zobuso — iinkosi zethu, abaphathi bethu, ngooyise bethu — kuba sonile kuwe.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "kuthi"
+    },
+    {
+      "surface": "בשת",
+      "gloss": "iintlonzi"
+    },
+    {
+      "surface": "הפנים",
+      "gloss": "zobuso"
+    },
+    {
+      "surface": "למלכינו",
+      "gloss": "iinkosi zethu"
+    },
+    {
+      "surface": "לשרינו",
+      "gloss": "abaphathi bethu"
+    },
+    {
+      "surface": "ולאבתינו",
+      "gloss": "ngooyise bethu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "חטאנו",
+      "gloss": "sonile"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kuwe"
+    }
+  ],
+  "timestamp": "2026-09-18T16:36:19.299683326Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 29:4",
+  "book": "2-chronicles",
+  "lang": "xh",
+  "chapter": 29,
+  "translation": "Waza wazisa ⟨את⟩ abapristi n⟨את⟩ amaLevi, waza wagcinwa aze ahlanganisela kwindawo etyebileyo empuma.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "wazisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abapristi"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "abapristi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "n⟨את⟩",
+      "marks": "amaLevi"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "amaLevi"
+    },
+    {
+      "surface": "ויאספם",
+      "gloss": "waza wagcinwa aze ahlanganisela"
+    },
+    {
+      "surface": "לרחוב",
+      "gloss": "kwindawo etyebileyo"
+    },
+    {
+      "surface": "המזרח",
+      "gloss": "empuma"
+    }
+  ],
+  "timestamp": "2026-09-18T17:13:26.963717640Z",
+  "model": "glm-5.3"
+}

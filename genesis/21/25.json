@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 21:25",
+  "book": "genesis",
+  "lang": "xh",
+  "chapter": 21,
+  "translation": "Yaye u-Avraham wamangalisa ⟨את⟩ u-Abimelekhi ngeendaba zedada lamazi elawudlulisela ngamabom abancedi benkosi ka-Abimelekhi.",
+  "tokens": [
+    {
+      "surface": "והוכח",
+      "gloss": "wamangalisa"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "u-Avraham"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "u-Abimelekhi"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "u-Abimelekhi"
+    },
+    {
+      "surface": "על",
+      "gloss": "ngeendaba"
+    },
+    {
+      "surface": "אדות",
+      "gloss": "zeendaba"
+    },
+    {
+      "surface": "באר",
+      "gloss": "idada"
+    },
+    {
+      "surface": "המים",
+      "gloss": "lamazi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "elawudlulisela"
+    },
+    {
+      "surface": "גזלו",
+      "gloss": "ngamabom"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "abancedi"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "benkosi ka-Abimelekhi"
+    }
+  ],
+  "timestamp": "2026-09-18T05:18:00.283117249Z",
+  "model": "glm-5.3"
+}

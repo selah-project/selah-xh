@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 78:30",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 78,
+  "translation": "Babengasuki kumfuno wabo; utya lwabo busengamile emlonyeni wabo.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "hayi"
+    },
+    {
+      "surface": "זרו",
+      "gloss": "azanga asuke"
+    },
+    {
+      "surface": "מתאותם",
+      "gloss": "kumfuno wabo"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "esengaphelelanga"
+    },
+    {
+      "surface": "אכלם",
+      "gloss": "utya lwabo"
+    },
+    {
+      "surface": "בפיהם",
+      "gloss": "emlonyeni wabo"
+    }
+  ],
+  "timestamp": "2026-09-18T15:03:14.142210536Z",
+  "model": "glm-5.3"
+}

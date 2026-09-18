@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 149:8",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 149,
+  "translation": "Ukubopha iinkosi zabo ngeziqendu, nezikhulu zabo ngeentambo zentsimbi.",
+  "tokens": [
+    {
+      "surface": "לאסר",
+      "gloss": "ukubopha"
+    },
+    {
+      "surface": "מלכיהם",
+      "gloss": "iinkosi zabo"
+    },
+    {
+      "surface": "בזקים",
+      "gloss": "ngeziqendu"
+    },
+    {
+      "surface": "ונכבדיהם",
+      "gloss": "nezikhulu zabo"
+    },
+    {
+      "surface": "בכבלי",
+      "gloss": "ngeentambo"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "zentsimbi"
+    }
+  ],
+  "timestamp": "2026-09-18T15:34:24.724644506Z",
+  "model": "glm-5.3"
+}

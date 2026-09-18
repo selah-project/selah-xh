@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 16:2",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 16,
+  "translation": "Ilwa yonke i-assembly yabantwana bakaSirayeli ngoMoshe nango-Aharon elangeni.",
+  "tokens": [
+    {
+      "surface": "וילינו",
+      "gloss": "Ilwa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yonke"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "i-assembly"
+    },
+    {
+      "surface": "בני",
+      "gloss": "yabantwana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "bakaSirayeli"
+    },
+    {
+      "surface": "על",
+      "gloss": "ngo- (ngokuchasene)"
+    },
+    {
+      "surface": "משה",
+      "gloss": "uMoshe"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "nango-"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "u-Aharon"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "elangeni"
+    }
+  ],
+  "timestamp": "2026-09-18T06:02:57.698444237Z",
+  "model": "glm-5.3"
+}

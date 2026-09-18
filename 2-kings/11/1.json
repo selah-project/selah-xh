@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 11:1",
+  "book": "2-kings",
+  "lang": "xh",
+  "chapter": 11,
+  "translation": "U-Athaliya, unina ka-Akhaziyahu, wabona ukuba unyana wakhe wafe, wavuka, waza watshabalalisa ⟨את⟩ onke umbumbu wombuso.",
+  "tokens": [
+    {
+      "surface": "ועתליה",
+      "gloss": "U-Athaliya"
+    },
+    {
+      "surface": "אם",
+      "gloss": "unina"
+    },
+    {
+      "surface": "אחזיהו",
+      "gloss": "ka-Akhaziyahu"
+    },
+    {
+      "surface": "וראתה",
+      "gloss": "wabona"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ukuba"
+    },
+    {
+      "surface": "מת",
+      "gloss": "wafe"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "unyana wakhe"
+    },
+    {
+      "surface": "ותקם",
+      "gloss": "wavuka"
+    },
+    {
+      "surface": "ותאבד",
+      "gloss": "watshabalalisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "onke umbumbu wombuso"
+    },
+    {
+      "surface": "כל",
+      "gloss": "onke"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "umbumbu"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "wombuso"
+    }
+  ],
+  "timestamp": "2026-09-18T10:47:29.659081660Z",
+  "model": "glm-5.3"
+}

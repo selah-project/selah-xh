@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 147:17",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 147,
+  "translation": "Uyalahla umkhenkce wakhe njengamacebesi; phambi kobuzaza bakhe ngubani oza kumi?",
+  "tokens": [
+    {
+      "surface": "משליך",
+      "gloss": "Uyalahla"
+    },
+    {
+      "surface": "קרחו",
+      "gloss": "umkhenkce wakhe"
+    },
+    {
+      "surface": "כפתים",
+      "gloss": "njengamacebesi"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "phambi"
+    },
+    {
+      "surface": "קרתו",
+      "gloss": "kobuzaza bakhe"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ngubani"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "oza kumi"
+    }
+  ],
+  "timestamp": "2026-09-18T15:34:26.210183566Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 94:23",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 94,
+  "translation": "Wabuyisela phezu kwabo ⟨את⟩ ububi babo, yaye ngokubi babo ubabhubhisa ngokupheleleyo; uYahwe uElohim wethu ubabhubhisa ngokupheleleyo.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "wabuyisela"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "phezu kwabo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ububi babo"
+    },
+    {
+      "surface": "אונם",
+      "gloss": "ububi babo"
+    },
+    {
+      "surface": "וברעתם",
+      "gloss": "yaye ngokubi babo"
+    },
+    {
+      "surface": "יצמיתם",
+      "gloss": "ubabhubhisa ngokupheleleyo"
+    },
+    {
+      "surface": "יצמיתם",
+      "gloss": "ubabhubhisa ngokupheleleyo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "uElohim wethu"
+    }
+  ],
+  "timestamp": "2026-09-18T15:09:46.280325149Z",
+  "model": "glm-5.3"
+}

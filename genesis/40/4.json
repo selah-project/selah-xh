@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 40:4",
+  "book": "genesis",
+  "lang": "xh",
+  "chapter": 40,
+  "translation": "Intloko yamajoni yamisela ⟨את⟩ uYosef ⟨את⟩ ukuba abe nabo, wayesebenzela ⟨את⟩ bona; bahlala iintsuku ezithile ebugcwalufeni.",
+  "tokens": [
+    {
+      "surface": "ויפקד",
+      "gloss": "yamisela"
+    },
+    {
+      "surface": "שר",
+      "gloss": "Intloko"
+    },
+    {
+      "surface": "הטבחים",
+      "gloss": "yamajoni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uYosef"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "uYosef"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ nabo"
+    },
+    {
+      "surface": "וישרת",
+      "gloss": "wayesebenzela"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "bona"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "bahlala"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "iintsuku"
+    },
+    {
+      "surface": "במשמר",
+      "gloss": "ebugcwalufeni"
+    }
+  ],
+  "timestamp": "2026-09-18T05:38:41.905629435Z",
+  "model": "glm-5.3"
+}

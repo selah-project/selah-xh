@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "judges 1:18",
+  "book": "judges",
+  "lang": "xh",
+  "chapter": 1,
+  "translation": "Wathabatha uYehudah ⟨את⟩ iAzza nomda wayo, ⟨את⟩ nakuAshkelon nomda wayo, ⟨את⟩ nakuEkron nomda wayo.",
+  "tokens": [
+    {
+      "surface": "וילכד",
+      "gloss": "wathabatha"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "uYehudah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iAzza"
+    },
+    {
+      "surface": "עזה",
+      "gloss": "iAzza"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "nomda wayo (iAzza)"
+    },
+    {
+      "surface": "גבולה",
+      "gloss": "nomda wayo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Ashkelon"
+    },
+    {
+      "surface": "אשקלון",
+      "gloss": "Ashkelon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "nomda wayo (Ashkelon)"
+    },
+    {
+      "surface": "גבולה",
+      "gloss": "nomda wayo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Ekron"
+    },
+    {
+      "surface": "עקרון",
+      "gloss": "Ekron"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "nomda wayo (Ekron)"
+    },
+    {
+      "surface": "גבולה",
+      "gloss": "nomda wayo"
+    }
+  ],
+  "timestamp": "2026-09-18T08:49:13.555749325Z",
+  "model": "glm-5.3"
+}

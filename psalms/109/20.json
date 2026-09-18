@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 109:20",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 109,
+  "translation": "Olu lulwazi lwezenzo zabantu abanxolisayo ovela ⟨את⟩ kuYahwe, nabo bathetha okungcolileyo ngaphezu komphefumlo wam.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "Olu"
+    },
+    {
+      "surface": "פעלת",
+      "gloss": "ulwazi lwezenzo"
+    },
+    {
+      "surface": "שטני",
+      "gloss": "abanxolisayo (abam)"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "ovelá kuYahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kuYahwe"
+    },
+    {
+      "surface": "והדברים",
+      "gloss": "nabo bathetha"
+    },
+    {
+      "surface": "רע",
+      "gloss": "okungcolileyo"
+    },
+    {
+      "surface": "על",
+      "gloss": "ngaphezu kwa-"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "omphefumlo wam"
+    }
+  ],
+  "timestamp": "2026-09-18T15:20:45.160556088Z",
+  "model": "glm-5.3"
+}

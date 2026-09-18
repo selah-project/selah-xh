@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 16:10",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 16,
+  "translation": "Kuba awusiyo kuyekela umphefumlo wam kwiSheol, awusiyo kunika ⟨את⟩ inkcwele yakho ukubona umngxuma.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "לא",
+      "gloss": "awusiyo"
+    },
+    {
+      "surface": "תעזב",
+      "gloss": "kuyekela"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "umphefumlo wam"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "kwiSheol"
+    },
+    {
+      "surface": "לא",
+      "gloss": "awusiyo"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "kunika"
+    },
+    {
+      "surface": "חסידך",
+      "gloss": "inkcwele yakho"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "ukubona"
+    },
+    {
+      "surface": "שחת",
+      "gloss": "umngxuma"
+    }
+  ],
+  "timestamp": "2026-09-18T14:30:04.390877581Z",
+  "model": "glm-5.3"
+}

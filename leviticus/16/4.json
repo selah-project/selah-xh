@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 16:4",
+  "book": "leviticus",
+  "lang": "xh",
+  "chapter": 16,
+  "translation": "Ituniki engcwele yelineni uza kuyigqoka, izikhaka zelineni ziya kuba phezu komzimba wakhe, uza kuzibamba ngebhande yelineni, aze agqoke isigqoko selineni; ezi ngubo zingcwele; uza kuhlamba ⟨את⟩ umzimba wakhe ngamanzi, azigqoke.",
+  "tokens": [
+    {
+      "surface": "כתנת",
+      "gloss": "Ituniki"
+    },
+    {
+      "surface": "בד",
+      "gloss": "yelineni"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "engcwele"
+    },
+    {
+      "surface": "ילבש",
+      "gloss": "uza kuyigqoka"
+    },
+    {
+      "surface": "ומכנסי",
+      "gloss": "izikhaka"
+    },
+    {
+      "surface": "בד",
+      "gloss": "zelineni"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "ziya kuba"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu kwe"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "omzimba wakhe"
+    },
+    {
+      "surface": "ובאבנט",
+      "gloss": "ngebhande"
+    },
+    {
+      "surface": "בד",
+      "gloss": "yelineni"
+    },
+    {
+      "surface": "יחגר",
+      "gloss": "uza kuzibamba"
+    },
+    {
+      "surface": "ובמצנפת",
+      "gloss": "isigqoko"
+    },
+    {
+      "surface": "בד",
+      "gloss": "selineni"
+    },
+    {
+      "surface": "יצנף",
+      "gloss": "agqoke"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "ngubo"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "zingcwele"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ezi"
+    },
+    {
+      "surface": "ורחץ",
+      "gloss": "uza kuhlamba"
+    },
+    {
+      "surface": "במים",
+      "gloss": "ngamanzi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umzimba wakhe"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "omzimba wakhe"
+    },
+    {
+      "surface": "ולבשם",
+      "gloss": "azigqoke"
+    }
+  ],
+  "timestamp": "2026-09-18T06:56:53.361508649Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "micah 1:10",
+  "book": "micah",
+  "lang": "xh",
+  "chapter": 1,
+  "translation": "KwiGat musani ukuxelela; musani ukukhala; kwiBeyit le-Afara, zityhubani ngomhlaba.",
+  "tokens": [
+    {
+      "surface": "בגת",
+      "gloss": "kwiGat"
+    },
+    {
+      "surface": "אל",
+      "gloss": "musa"
+    },
+    {
+      "surface": "תגידו",
+      "gloss": "ukuxelela"
+    },
+    {
+      "surface": "בכו",
+      "gloss": "ukukhala"
+    },
+    {
+      "surface": "אל",
+      "gloss": "musa"
+    },
+    {
+      "surface": "תבכו",
+      "gloss": "ukukhala"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "kwiBeyit"
+    },
+    {
+      "surface": "לעפרה",
+      "gloss": "le-Afara"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "ngomhlaba"
+    },
+    {
+      "surface": "התפלשתי",
+      "gloss": "zityhubani"
+    }
+  ],
+  "timestamp": "2026-09-18T14:01:23.026726686Z",
+  "model": "glm-5.3"
+}

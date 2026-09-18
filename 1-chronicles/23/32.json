@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-chronicles 23:32",
+  "book": "1-chronicles",
+  "lang": "xh",
+  "chapter": 23,
+  "translation": "Baligcina ⟨את⟩ isigunjana sentente yokudibana, baligcina ⟨את⟩ isigunjana seNgcwele, nesigunjana sabantwana baka-Aharon abakhulu babo, kumsebenzi wendlu kaYahwe.",
+  "tokens": [
+    {
+      "surface": "ושמרו",
+      "gloss": "baligcina"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isigunjana sentente yokudibana"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "isigunjana"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "intente"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "yokudibana"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "isigunjana seNgcwele"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "isigunjana"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "iNgcwele"
+    },
+    {
+      "surface": "ומשמרת",
+      "gloss": "nesigunjana"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abantwana"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "u-Aharon"
+    },
+    {
+      "surface": "אחיהם",
+      "gloss": "abakhulu babo"
+    },
+    {
+      "surface": "לעבדת",
+      "gloss": "kumsebenzi"
+    },
+    {
+      "surface": "בית",
+      "gloss": "wendlu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kaYahwe"
+    }
+  ],
+  "timestamp": "2026-09-18T17:51:44.132416214Z",
+  "model": "glm-5.3"
+}

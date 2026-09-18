@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 147:15",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 147,
+  "translation": "Othumela ilizwi lakhe emhlabeni, ilizwi lakhe libaleka ngokukhawulezi.",
+  "tokens": [
+    {
+      "surface": "השלח",
+      "gloss": "Othumela"
+    },
+    {
+      "surface": "אמרתו",
+      "gloss": "ilizwi lakhe"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "emhlabeni"
+    },
+    {
+      "surface": "עד",
+      "gloss": "de"
+    },
+    {
+      "surface": "מהרה",
+      "gloss": "ngokukhawulezi"
+    },
+    {
+      "surface": "ירוץ",
+      "gloss": "libaleka"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "ilizwi lakhe"
+    }
+  ],
+  "timestamp": "2026-09-18T15:34:54.736474440Z",
+  "model": "glm-5.3"
+}

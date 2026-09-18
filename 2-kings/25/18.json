@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-kings 25:18",
+  "book": "2-kings",
+  "lang": "xh",
+  "chapter": 25,
+  "translation": "Inkosi yabasiki yathatha ⟨את⟩ u-Serayahah, umkhonzi osemqoka, no⟨את⟩ u-Tsefanyah, umkhonzi wesibini, no⟨את⟩ abathathu abalindi wesango.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "wathatha"
+    },
+    {
+      "surface": "רב",
+      "gloss": "inkosi"
+    },
+    {
+      "surface": "טבחים",
+      "gloss": "yabasiki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "u-Serayahah"
+    },
+    {
+      "surface": "שריה",
+      "gloss": "u-Serayahah"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "umkhonzi"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "osemqoka"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "u-Tsefanyah"
+    },
+    {
+      "surface": "צפניהו",
+      "gloss": "u-Tsefanyah"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "umkhonzi"
+    },
+    {
+      "surface": "משנה",
+      "gloss": "wesibini"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "abathathu abalindi"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "abathathu"
+    },
+    {
+      "surface": "שמרי",
+      "gloss": "abalindi"
+    },
+    {
+      "surface": "הסף",
+      "gloss": "wesango"
+    }
+  ],
+  "timestamp": "2026-09-18T11:03:22.230986373Z",
+  "model": "glm-5.3"
+}

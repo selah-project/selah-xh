@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 69:15",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 69,
+  "translation": "Ndikhuphe kumdaka, undonksi; ndiphephuke kubohatyo bami, kwaye kwiindawo ezinzulu zamanzi.",
+  "tokens": [
+    {
+      "surface": "הצילני",
+      "gloss": "Ndikhuphe"
+    },
+    {
+      "surface": "מטיט",
+      "gloss": "kumdaka"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "musa"
+    },
+    {
+      "surface": "אטבעה",
+      "gloss": "ndonksi"
+    },
+    {
+      "surface": "אנצלה",
+      "gloss": "ndiphephuke"
+    },
+    {
+      "surface": "משנאי",
+      "gloss": "kubohatyo bami"
+    },
+    {
+      "surface": "וממעמקי",
+      "gloss": "kwaye kwiindawo ezinzulu"
+    },
+    {
+      "surface": "מים",
+      "gloss": "zamanzi"
+    }
+  ],
+  "timestamp": "2026-09-18T14:56:41.412770986Z",
+  "model": "glm-5.3"
+}

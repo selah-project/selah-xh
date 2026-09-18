@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 108:5",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 108,
+  "translation": "Kuba inkulu ngaphezu kwamazulu ikhesedi yakho, nangaphezu kwamafu inyaniso yakho.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "inkulu"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "ngaphezu"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "amazulu"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "ikhesedi yakho"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "nangaphezu"
+    },
+    {
+      "surface": "שחקים",
+      "gloss": "amafu"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "inyaniso yakho"
+    }
+  ],
+  "timestamp": "2026-09-18T15:20:08.122403347Z",
+  "model": "glm-5.3"
+}

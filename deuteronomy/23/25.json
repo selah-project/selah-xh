@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 23:25",
+  "book": "deuteronomy",
+  "lang": "xh",
+  "chapter": 23,
+  "translation": "Xa ungena esivini somhlobo wakho, udla iinthoni kwakunenele, ngokunqwenela kwakho; kodwa awubeki nto esityeni sakho.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "xa"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "ungena"
+    },
+    {
+      "surface": "בכרם",
+      "gloss": "esivini"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "somhlobo wakho"
+    },
+    {
+      "surface": "ואכלת",
+      "gloss": "udla"
+    },
+    {
+      "surface": "ענבים",
+      "gloss": "iinthoni"
+    },
+    {
+      "surface": "כנפשך",
+      "gloss": "ngokunqwenela kwakho"
+    },
+    {
+      "surface": "שבעך",
+      "gloss": "kwakunenele"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "kodwa e-"
+    },
+    {
+      "surface": "כליך",
+      "gloss": "esityeni sakho"
+    },
+    {
+      "surface": "לא",
+      "gloss": "awu-"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "beki nto"
+    }
+  ],
+  "timestamp": "2026-09-18T08:13:51.761285521Z",
+  "model": "glm-5.3"
+}

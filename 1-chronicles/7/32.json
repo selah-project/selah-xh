@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-chronicles 7:32",
+  "book": "1-chronicles",
+  "lang": "xh",
+  "chapter": 7,
+  "translation": "UKheber wazala ⟨את⟩ uYafleti, ⟨את⟩ uShomere, ⟨את⟩ uKhotham, noTshuwa, umtalikazi wabo.",
+  "tokens": [
+    {
+      "surface": "וחבר",
+      "gloss": "UKheber"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "wazala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uYafleti"
+    },
+    {
+      "surface": "יפלט",
+      "gloss": "uYafleti"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "uShomere"
+    },
+    {
+      "surface": "שומר",
+      "gloss": "uShomere"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "uKhotham"
+    },
+    {
+      "surface": "חותם",
+      "gloss": "uKhotham"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "noTshuwa"
+    },
+    {
+      "surface": "שועא",
+      "gloss": "noTshuwa"
+    },
+    {
+      "surface": "אחותם",
+      "gloss": "umtalikazi wabo"
+    }
+  ],
+  "timestamp": "2026-09-18T17:50:35.032809752Z",
+  "model": "glm-5.3"
+}

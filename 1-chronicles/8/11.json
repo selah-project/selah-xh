@@ -1,0 +1,39 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 8:11",
+  "book": "1-chronicles",
+  "lang": "xh",
+  "chapter": 8,
+  "translation": "Nangaphezulu nakuKhusimi wazala u-Avitubhu no-Eliphalu.",
+  "tokens": [
+    {
+      "surface": "ומחשים",
+      "gloss": "nakuKhusimi"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "wazala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "u-Avitubhu"
+    },
+    {
+      "surface": "אביטוב",
+      "gloss": "u-Avitubhu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "u-Eliphalu"
+    },
+    {
+      "surface": "אלפעל",
+      "gloss": "u-Eliphalu"
+    }
+  ],
+  "timestamp": "2026-09-18T16:52:21.670059966Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 107:25",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 107,
+  "translation": "Wathetha, waza wamisa umoya wentwugo, waza wowusa amaza ⟨aze⟩ enyukela phezulu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wathetha"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "waza wamisa"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "umoya"
+    },
+    {
+      "surface": "סערה",
+      "gloss": "wentwugo"
+    },
+    {
+      "surface": "ותרומם",
+      "gloss": "waza wowusa phezulu"
+    },
+    {
+      "surface": "גליו",
+      "gloss": "amaza awo"
+    }
+  ],
+  "timestamp": "2026-09-18T15:19:06.280137784Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 25:9",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 25,
+  "translation": "Uyahola oothobekileyo ngokulungileyo, waza wafundisa oothobekileyo indlela yakhe.",
+  "tokens": [
+    {
+      "surface": "ידרך",
+      "gloss": "uyahola"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "oothobekileyo"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "ngokulungileyo"
+    },
+    {
+      "surface": "וילמד",
+      "gloss": "wafundisa"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "oothobekileyo"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "indlela yakhe"
+    }
+  ],
+  "timestamp": "2026-09-18T14:36:54.354942717Z",
+  "model": "glm-5.3"
+}

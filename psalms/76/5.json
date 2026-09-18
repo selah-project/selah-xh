@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 76:5",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 76,
+  "translation": "Wena ukhanyile, ungumkhulu ngakumbi kuneeNtaba zokutyaliweyo.",
+  "tokens": [
+    {
+      "surface": "נאור",
+      "gloss": "ukhanyile"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "אדיר",
+      "gloss": "ungumkhulu ngakumbi"
+    },
+    {
+      "surface": "מהררי",
+      "gloss": "kuneeNtaba"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "zokutyaliweyo"
+    }
+  ],
+  "timestamp": "2026-09-18T15:01:18.914289123Z",
+  "model": "glm-5.3"
+}

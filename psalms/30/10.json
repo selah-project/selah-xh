@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 30:10",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 30,
+  "translation": "Intoni inzuzo egazini lam, xa ndehla kumngxuma? Ingaba uthuli lunokudumisa? Ingaba lunokubhengeza inyaniso yakho?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Intoni"
+    },
+    {
+      "surface": "בצע",
+      "gloss": "inzuzo"
+    },
+    {
+      "surface": "בדמי",
+      "gloss": "egazini lam"
+    },
+    {
+      "surface": "ברדתי",
+      "gloss": "xa ndehla"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "שחת",
+      "gloss": "umngxumeni"
+    },
+    {
+      "surface": "היודך",
+      "gloss": "uza kukudumisa"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "uthuli"
+    },
+    {
+      "surface": "היגיד",
+      "gloss": "uza kubhengeza"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "inyaniso yakho"
+    }
+  ],
+  "timestamp": "2026-09-18T14:37:44.237118539Z",
+  "model": "glm-5.3"
+}

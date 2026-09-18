@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 34:16",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 34,
+  "translation": "waze wathabatha kwiintombi zakhe ukwenzela oonyana bakho, iintombi zakhe zize zigabadelise ngoothixo zazo, zize zenze oonyana bakho ⟨את⟩ ukuba bagabadelise ngoothixo zazo.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "waze wathabatha"
+    },
+    {
+      "surface": "מבנתיו",
+      "gloss": "kwiintombi zakhe"
+    },
+    {
+      "surface": "לבניך",
+      "gloss": "ukwenzela oonyana bakho"
+    },
+    {
+      "surface": "וזנו",
+      "gloss": "zize zigabadelise"
+    },
+    {
+      "surface": "בנתיו",
+      "gloss": "iintombi zakhe"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "nga-"
+    },
+    {
+      "surface": "אלהיהן",
+      "gloss": "oothixo zazo"
+    },
+    {
+      "surface": "והזנו",
+      "gloss": "zize zenze ukuba bagabadelise"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oonyana bakho"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "oonyana bakho"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "nga-"
+    },
+    {
+      "surface": "אלהיהן",
+      "gloss": "oothixo zazo"
+    }
+  ],
+  "timestamp": "2026-09-18T06:22:54.560790517Z",
+  "model": "glm-5.3"
+}

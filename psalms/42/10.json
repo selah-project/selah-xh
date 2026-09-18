@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 42:10",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 42,
+  "translation": "Ndiya kuthetha ku-El, isampu sam: Lundini undilahile? Lundini ndihamba ndisindile ngenxa yokucinezela kwesitha?",
+  "tokens": [
+    {
+      "surface": "אומרה",
+      "gloss": "ndiya kuthetha"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "ku-El"
+    },
+    {
+      "surface": "סלעי",
+      "gloss": "isampu sam"
+    },
+    {
+      "surface": "למה",
+      "gloss": "Lundini"
+    },
+    {
+      "surface": "שכחתני",
+      "gloss": "undilahile"
+    },
+    {
+      "surface": "למה",
+      "gloss": "Lundini"
+    },
+    {
+      "surface": "קדר",
+      "gloss": "ndihamba ndisindile"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "ndihamba"
+    },
+    {
+      "surface": "בלחץ",
+      "gloss": "ngenxa yokucinezela"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "kwesitha"
+    }
+  ],
+  "timestamp": "2026-09-18T14:44:36.962927225Z",
+  "model": "glm-5.3"
+}

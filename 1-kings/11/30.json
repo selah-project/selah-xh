@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 11:30",
+  "book": "1-kings",
+  "lang": "xh",
+  "chapter": 11,
+  "translation": "U-Axiya wabamba isinxibo esitsha esaye asinxibe, wasihlaba zaba ziqhekezu ezilishumi elinambini.",
+  "tokens": [
+    {
+      "surface": "ויתפש",
+      "gloss": "wabamba"
+    },
+    {
+      "surface": "אחיה",
+      "gloss": "u-Axiya"
+    },
+    {
+      "surface": "בשלמה",
+      "gloss": "isinxibo"
+    },
+    {
+      "surface": "החדשה",
+      "gloss": "esitsha"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oko"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "kuye"
+    },
+    {
+      "surface": "ויקרעה",
+      "gloss": "wasihlaba"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ezimbini"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ishumi"
+    },
+    {
+      "surface": "קרעים",
+      "gloss": "ziqhekezu"
+    }
+  ],
+  "timestamp": "2026-09-18T10:25:02.183950573Z",
+  "model": "glm-5.3"
+}

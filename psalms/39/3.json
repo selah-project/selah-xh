@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 39:3",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 39,
+  "translation": "Ndathulela, ndingathethi nto; ndathule ndikude nokulungileyo, ubuhlungu bam bavuthuza.",
+  "tokens": [
+    {
+      "surface": "נאלמתי",
+      "gloss": "Ndathulela"
+    },
+    {
+      "surface": "דומיה",
+      "gloss": "ndingathethi nto"
+    },
+    {
+      "surface": "החשיתי",
+      "gloss": "ndathule"
+    },
+    {
+      "surface": "מטוב",
+      "gloss": "ndikude nokulungileyo"
+    },
+    {
+      "surface": "וכאבי",
+      "gloss": "ubuhlungu bam"
+    },
+    {
+      "surface": "נעכר",
+      "gloss": "bavuthuza"
+    }
+  ],
+  "timestamp": "2026-09-18T14:44:30.226986247Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 103:6",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 103,
+  "translation": "uYahwe wenza ubulungisa nemigwebo kwabaninzi abadlushwayo.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "wenza"
+    },
+    {
+      "surface": "צדקות",
+      "gloss": "ubulungisa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "ומשפטים",
+      "gloss": "nemigwebo"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "kwabaninzi"
+    },
+    {
+      "surface": "עשוקים",
+      "gloss": "abadlushwayo"
+    }
+  ],
+  "timestamp": "2026-09-18T15:12:47.598773844Z",
+  "model": "glm-5.3"
+}

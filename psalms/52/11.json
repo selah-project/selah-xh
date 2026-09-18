@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 52:11",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 52,
+  "translation": "Ndiza kukudumisa kuze kuhamba ixesha, kuba wenze oku; ndilindele igama lakho, kuba lilungile phambi koobangozi bakho abathembekileyo.",
+  "tokens": [
+    {
+      "surface": "אודך",
+      "gloss": "Ndiza kukudumisa"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "kuze kuhamba ixesha"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "wenze"
+    },
+    {
+      "surface": "ואקוה",
+      "gloss": "ndilindele"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "igama lakho"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "lilungile"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "phambi"
+    },
+    {
+      "surface": "חסידיך",
+      "gloss": "koobangozi bakho abathembekileyo"
+    }
+  ],
+  "timestamp": "2026-09-18T14:49:46.169524610Z",
+  "model": "glm-5.3"
+}

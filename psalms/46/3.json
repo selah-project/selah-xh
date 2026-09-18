@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 46:3",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 46,
+  "translation": "Ngenxa yoko asoyiki xa umhlaba utshintshwa, naxa iintaba zisuselwa zisiwa entliziyweni yolwandle.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "Ngenxa"
+    },
+    {
+      "surface": "כן",
+      "gloss": "yoko"
+    },
+    {
+      "surface": "לא",
+      "gloss": "asi-"
+    },
+    {
+      "surface": "נירא",
+      "gloss": "soyiki"
+    },
+    {
+      "surface": "בהמיר",
+      "gloss": "utshintshwa"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "umhlaba"
+    },
+    {
+      "surface": "ובמוט",
+      "gloss": "naphazamiseko"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "iintaba"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "entliziyweni"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "yolwandle"
+    }
+  ],
+  "timestamp": "2026-09-18T14:47:14.786296030Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 65:3",
+  "book": "isaiah",
+  "lang": "xh",
+  "chapter": 65,
+  "translation": "Abantu abondinukisayo ⟨את⟩ rhoqo phambi kobuso bam; abathisa ezisigadini, batshisa impepho ngaphezu kwezitena.",
+  "tokens": [
+    {
+      "surface": "העם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "המכעיסים",
+      "gloss": "abandinukisayo"
+    },
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩",
+      "marks": "mna"
+    },
+    {
+      "surface": "על",
+      "gloss": "phambi kwa"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ubuso bam"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "rhoqo"
+    },
+    {
+      "surface": "זבחים",
+      "gloss": "abathisa"
+    },
+    {
+      "surface": "בגנות",
+      "gloss": "ezisigadini"
+    },
+    {
+      "surface": "ומקטרים",
+      "gloss": "batshisa impepho"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu kwe"
+    },
+    {
+      "surface": "הלבנים",
+      "gloss": "izitena"
+    }
+  ],
+  "timestamp": "2026-09-18T11:50:40.578856921Z",
+  "model": "glm-5.3"
+}

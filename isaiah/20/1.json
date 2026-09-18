@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 20:1",
+  "book": "isaiah",
+  "lang": "xh",
+  "chapter": 20,
+  "translation": "Ngonyaka owafika khona uTartan eAshdod, xa emthumela uSarhoni, inkosi yaseAshur, wazama eAshdod wayibamba.",
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "Ngonyaka"
+    },
+    {
+      "surface": "בא",
+      "gloss": "owafika khona"
+    },
+    {
+      "surface": "תרתן",
+      "gloss": "uTartan"
+    },
+    {
+      "surface": "אשדודה",
+      "gloss": "eAshdod"
+    },
+    {
+      "surface": "בשלח",
+      "gloss": "xa emthumela"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "uSarhoni"
+    },
+    {
+      "surface": "סרגון",
+      "gloss": "uSarhoni"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "inkosi"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "yaseAshur"
+    },
+    {
+      "surface": "וילחם",
+      "gloss": "wazama"
+    },
+    {
+      "surface": "באשדוד",
+      "gloss": "eAshdod"
+    },
+    {
+      "surface": "וילכדה",
+      "gloss": "wayibamba"
+    }
+  ],
+  "timestamp": "2026-09-18T11:15:51.696857190Z",
+  "model": "glm-5.3"
+}

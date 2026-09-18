@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 14:8",
+  "book": "numbers",
+  "lang": "xh",
+  "chapter": 14,
+  "translation": "Ukuba uYahwe uyakuthanda kuthi, uza kusingenisa ⟨thina⟩ kule mhlaba, aze awusinike — umhlaba ogcwele ubisi nenju.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ukuba"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "uyakuthanda"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "kuthi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "והביא",
+      "gloss": "uza kusingenisa"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩",
+      "marks": "thina"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "le mhlaba"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "le"
+    },
+    {
+      "surface": "ונתנה",
+      "gloss": "aze awusinike"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "thina"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "umhlaba"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "o"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yena"
+    },
+    {
+      "surface": "זבת",
+      "gloss": "ogcwele"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "ubisi"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "nenju"
+    }
+  ],
+  "timestamp": "2026-09-18T07:25:33.438244416Z",
+  "model": "glm-5.3"
+}

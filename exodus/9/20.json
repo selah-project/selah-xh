@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 9:20",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 9,
+  "translation": "Lowo wayesoyika ⟨את⟩ ilizwi likaYahwe phakathi kwabasebenzi bakwaParo, wabalekisa ⟨את⟩ abasebenzi bakhe ⟨את⟩ neziphahlela zakhe wayisa ezindlini.",
+  "tokens": [
+    {
+      "surface": "הירא",
+      "gloss": "Lowo wayesoyika"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ilizwi likaYahwe"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ilizwi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "likaYahwe"
+    },
+    {
+      "surface": "מעבדי",
+      "gloss": "phakathi kwabasebenzi"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "bakwaParo"
+    },
+    {
+      "surface": "הניס",
+      "gloss": "wabalekisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abasebenzi bakhe"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "abasebenzi bakhe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "neziphahlela zakhe"
+    },
+    {
+      "surface": "מקנהו",
+      "gloss": "neziphahlela zakhe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "wayisa"
+    },
+    {
+      "surface": "הבתים",
+      "gloss": "ezindlini"
+    }
+  ],
+  "timestamp": "2026-09-18T05:57:03.145358420Z",
+  "model": "glm-5.3"
+}

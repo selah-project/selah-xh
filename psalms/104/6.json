@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 104:6",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 104,
+  "translation": "Idangatye lokujulileyo uyigubungile njengengubo; amanzi ami phezu kweentaba.",
+  "tokens": [
+    {
+      "surface": "תהום",
+      "gloss": "Idangatye lokujulileyo"
+    },
+    {
+      "surface": "כלבוש",
+      "gloss": "njengengubo"
+    },
+    {
+      "surface": "כסיתו",
+      "gloss": "uyigubungile"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "kweentaba"
+    },
+    {
+      "surface": "יעמדו",
+      "gloss": "ami"
+    },
+    {
+      "surface": "מים",
+      "gloss": "amanzi"
+    }
+  ],
+  "timestamp": "2026-09-18T15:14:43.459364448Z",
+  "model": "glm-5.3"
+}

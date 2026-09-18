@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 36:20",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 36,
+  "translation": "Wenza ⟨את⟩ oonobumba bentente yokholiso, ngapha kwakhiwo elahlekileyo, emile.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Wenza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oonobumba bentente yokholiso"
+    },
+    {
+      "surface": "הקרשים",
+      "gloss": "oonobumba bentente"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "yokholiso"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "ngapha kwakhiwo"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "elahlekileyo"
+    },
+    {
+      "surface": "עמדים",
+      "gloss": "emile"
+    }
+  ],
+  "timestamp": "2026-09-18T06:28:24.707693472Z",
+  "model": "glm-5.3"
+}

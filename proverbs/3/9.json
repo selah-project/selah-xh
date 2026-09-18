@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 3:9",
+  "book": "proverbs",
+  "lang": "xh",
+  "chapter": 3,
+  "translation": "Phakamisa ⟨את⟩ uYahwe ngobutyebi bakho, nangeziqalo zonke iimveliso zakho.",
+  "tokens": [
+    {
+      "surface": "כבד",
+      "gloss": "Phakamisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uYahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "מהונך",
+      "gloss": "ngobutyebi bakho"
+    },
+    {
+      "surface": "ומראשית",
+      "gloss": "nangeziqalo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zonke"
+    },
+    {
+      "surface": "תבואתך",
+      "gloss": "iimveliso zakho"
+    }
+  ],
+  "timestamp": "2026-09-18T15:37:04.368169878Z",
+  "model": "glm-5.3"
+}

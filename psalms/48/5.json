@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 48:5",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 48,
+  "translation": "Kuba, yabona, iinkosi zadibana, zadlula kunye.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "yabona"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "iinkosi"
+    },
+    {
+      "surface": "נועדו",
+      "gloss": "zadibana"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "zadlula"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "kunye"
+    }
+  ],
+  "timestamp": "2026-09-18T14:46:53.643287084Z",
+  "model": "glm-5.3"
+}

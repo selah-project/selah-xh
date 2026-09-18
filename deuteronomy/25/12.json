@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 25:12",
+  "book": "deuteronomy",
+  "lang": "xh",
+  "chapter": 25,
+  "translation": "usike ⟨את⟩ isandla sayo; amehloo akho akabinanceba ngaye.",
+  "tokens": [
+    {
+      "surface": "וקצתה",
+      "gloss": "usike"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isandla sayo"
+    },
+    {
+      "surface": "כפה",
+      "gloss": "isandla sayo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "akabin"
+    },
+    {
+      "surface": "תחוס",
+      "gloss": "anceba"
+    },
+    {
+      "surface": "עינך",
+      "gloss": "amehloo akho"
+    }
+  ],
+  "timestamp": "2026-09-18T08:15:16.500892679Z",
+  "model": "glm-5.3"
+}

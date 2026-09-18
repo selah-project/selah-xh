@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 89:32",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 89,
+  "translation": "Ukuba bachola imithetho yam, bengagcini imiyalelo yam:",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ukuba"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "imithetho yam"
+    },
+    {
+      "surface": "יחללו",
+      "gloss": "bachola"
+    },
+    {
+      "surface": "ומצותי",
+      "gloss": "imiyalelo yam"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hayi"
+    },
+    {
+      "surface": "ישמרו",
+      "gloss": "bangagcini"
+    }
+  ],
+  "timestamp": "2026-09-18T15:08:19.868504983Z",
+  "model": "glm-5.3"
+}

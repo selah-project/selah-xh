@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 72:10",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 72,
+  "translation": "Iinkosi zeTarshishi nendawo zaselwandle ziya kubuyisela isipho; iinkosi zaseSheba naseSeba ziya kuzisa isipho esixabisekileyo.",
+  "tokens": [
+    {
+      "surface": "מלכי",
+      "gloss": "iinkosi"
+    },
+    {
+      "surface": "תרשיש",
+      "gloss": "iTarshishi"
+    },
+    {
+      "surface": "ואיים",
+      "gloss": "nendawo zaselwandle"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "isipho"
+    },
+    {
+      "surface": "ישיבו",
+      "gloss": "ziya kubuyisela"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "iinkosi"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "iSheba"
+    },
+    {
+      "surface": "וסבא",
+      "gloss": "naseSeba"
+    },
+    {
+      "surface": "אשכר",
+      "gloss": "isipho esixabisekileyo"
+    },
+    {
+      "surface": "יקריבו",
+      "gloss": "ziya kuzisa"
+    }
+  ],
+  "timestamp": "2026-09-18T14:56:09.458116821Z",
+  "model": "glm-5.3"
+}

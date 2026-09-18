@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 95:8",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 95,
+  "translation": "Musani ukwenza nanini iintliziyo zenu zibe nzima njengeMeribha, njengosuku lweMasa eliwuhlaleni.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "musani"
+    },
+    {
+      "surface": "תקשו",
+      "gloss": "ukwenza zibe nzima"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "iintliziyo zenu"
+    },
+    {
+      "surface": "כמריבה",
+      "gloss": "njengeMeribha"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "njengosuku"
+    },
+    {
+      "surface": "מסה",
+      "gloss": "lweMasa"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "eliwuhlalena"
+    }
+  ],
+  "timestamp": "2026-09-18T15:12:01.204913355Z",
+  "model": "glm-5.3"
+}

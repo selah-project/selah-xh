@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 49:4",
+  "book": "isaiah",
+  "lang": "xh",
+  "chapter": 49,
+  "translation": "Kodwa mna ndathetha ndithi: “Ngenxa yento yanto ndidinwa ndisebenza, kutyhefu nakusilela nazinzwa namandla am ndiwachithile”; kodwa ngokwenene isigwebo sam sikuYahwe ⟨את⟩, nomsebenzi wam nguwo uElohim wam ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "kodwa mna"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "ndathetha"
+    },
+    {
+      "surface": "לריק",
+      "gloss": "ngenxa yento yanto"
+    },
+    {
+      "surface": "יגעתי",
+      "gloss": "ndidinwa ndisebenza"
+    },
+    {
+      "surface": "לתהו",
+      "gloss": "kutyhefu"
+    },
+    {
+      "surface": "והבל",
+      "gloss": "nakusilela nazinzwa"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "amandla am"
+    },
+    {
+      "surface": "כליתי",
+      "gloss": "ndiwachithile"
+    },
+    {
+      "surface": "אכן",
+      "gloss": "kodwa ngokwenene"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "isigwebo sam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uYahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "ופעלתי",
+      "gloss": "nomsebenzi wam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uElohim wam"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "uElohim wam"
+    }
+  ],
+  "timestamp": "2026-09-18T17:35:38.784703112Z",
+  "model": "glm-5.3"
+}

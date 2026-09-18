@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "psalms 107:40",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 107,
+  "translation": "Uthwalela ukungahlonwa phezu kwabakhulu, abalahlekise kwindawo engenamthwango, engenendlela.",
+  "tokens": [
+    {
+      "surface": "שפך",
+      "gloss": "Uthwalela"
+    },
+    {
+      "surface": "בוז",
+      "gloss": "ukungahlonwa"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu kwa-"
+    },
+    {
+      "surface": "נדיבים",
+      "gloss": "abakhulu"
+    },
+    {
+      "surface": "ויתעם",
+      "gloss": "abalahlekise"
+    },
+    {
+      "surface": "בתהו",
+      "gloss": "kwindawo engenamthwango"
+    },
+    {
+      "surface": "לא",
+      "gloss": "akukho"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "indlela"
+    }
+  ],
+  "timestamp": "2026-09-18T15:18:57.515068030Z",
+  "model": "glm-5.3"
+}

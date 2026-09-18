@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 3:8",
+  "book": "genesis",
+  "lang": "xh",
+  "chapter": 3,
+  "translation": "Beva ⟨את⟩ ilizwi likaYahwe uElohim lihamba-hamba edini ngomoya wosuku; wafihla umntu nomfazi wakhe ebusweni bakaYahwe uElohim, phakathi kwezithi zedini.",
+  "tokens": [
+    {
+      "surface": "וישמעו",
+      "gloss": "Beva"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ilizwi"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ilizwi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "likaYahwe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "מתהלך",
+      "gloss": "lihamba-hamba"
+    },
+    {
+      "surface": "בגן",
+      "gloss": "edini"
+    },
+    {
+      "surface": "לרוח",
+      "gloss": "ngomoya"
+    },
+    {
+      "surface": "היום",
+      "gloss": "wosuku"
+    },
+    {
+      "surface": "ויתחבא",
+      "gloss": "wafihla"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "umntu"
+    },
+    {
+      "surface": "ואשתו",
+      "gloss": "nomfazi wakhe"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "ebusweni baka-"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "phakathi kwazo"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "izithi"
+    },
+    {
+      "surface": "הגן",
+      "gloss": "zedini"
+    }
+  ],
+  "timestamp": "2026-09-18T05:08:48.836451814Z",
+  "model": "glm-5.3"
+}

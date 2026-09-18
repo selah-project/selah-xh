@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 59:10",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 59,
+  "translation": "Amandla am, kuwe ndiza kuzingela, kuba uElohim ngusiphephelo sam.",
+  "tokens": [
+    {
+      "surface": "עזו",
+      "gloss": "Amandla am"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kuwe"
+    },
+    {
+      "surface": "אשמרה",
+      "gloss": "ndiza kuzingela"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "משגבי",
+      "gloss": "ngusiphephelo sam"
+    }
+  ],
+  "timestamp": "2026-09-18T14:52:45.843235503Z",
+  "model": "glm-5.3"
+}

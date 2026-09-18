@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 3:15",
+  "book": "leviticus",
+  "lang": "xh",
+  "chapter": 3,
+  "translation": "Kunye nako ⟨את⟩ iintso ezimbini, nengcaphele? — kunye nako ⟨את⟩ amafutha aphezu kwazo, awo, phezu komqolo osezantsi, nengcaphele? ⟩ nalo ⟨את⟩ elingaphezulu kweisibindi, phezu kweentso alisusa.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "kunye nako ⟨את⟩",
+      "marks": "iintso ezimbini"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "ezimbini"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "iintso"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kunye nako ⟨את⟩",
+      "marks": "amafutha"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "amafutha"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "עלהן",
+      "gloss": "phezu kwazo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "okukhoyo"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu"
+    },
+    {
+      "surface": "הכסלים",
+      "gloss": "komqolo osezantsi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "nalo ⟨את⟩",
+      "marks": "elingaphezulu kweisibindi"
+    },
+    {
+      "surface": "היתרת",
+      "gloss": "elingaphezulu"
+    },
+    {
+      "surface": "על",
+      "gloss": "kweisibindi"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "isibindi"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "kweentso"
+    },
+    {
+      "surface": "יסירנה",
+      "gloss": "alisusa"
+    }
+  ],
+  "timestamp": "2026-09-18T06:34:19.290466539Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 66:4",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 66,
+  "translation": "Yonke imihla ngemihla yomhlaba iza kuthoba phambi kwakho, iza kukwazimela; iza kuxelela izibongo zomculo ngegama lakhe. Umkhondo.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "yonke"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "imihla ngemihla yomhlaba"
+    },
+    {
+      "surface": "ישתחוו",
+      "gloss": "iza kuthoba phambi kwakho"
+    },
+    {
+      "surface": "לך",
+      "gloss": "phambi kwakho"
+    },
+    {
+      "surface": "ויזמרו",
+      "gloss": "iza kukwazimela"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kuwe"
+    },
+    {
+      "surface": "יזמרו",
+      "gloss": "iza kuxelela izibongo zomculo"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "ngokwesiKhosi sakho"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Umcelinganisi"
+    }
+  ],
+  "timestamp": "2026-09-18T14:53:33.388323306Z",
+  "model": "glm-5.3"
+}

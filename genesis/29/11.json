@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 29:11",
+  "book": "genesis",
+  "lang": "xh",
+  "chapter": 29,
+  "translation": "uYaaqov wamuncela uRakhel, waphakamisa ⟨את⟩ ilizwi lakhe, wakhala.",
+  "tokens": [
+    {
+      "surface": "וישק",
+      "gloss": "wamuncela"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "uYaaqov"
+    },
+    {
+      "surface": "לרחל",
+      "gloss": "uRakhel"
+    },
+    {
+      "surface": "וישא",
+      "gloss": "waphakamisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ilizwi lakhe"
+    },
+    {
+      "surface": "קלו",
+      "gloss": "ilizwi lakhe"
+    },
+    {
+      "surface": "ויבך",
+      "gloss": "wakhala"
+    }
+  ],
+  "timestamp": "2026-09-18T05:24:57.019418732Z",
+  "model": "glm-5.3"
+}

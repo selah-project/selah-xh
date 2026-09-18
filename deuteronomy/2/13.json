@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 2:13",
+  "book": "deuteronomy",
+  "lang": "xh",
+  "chapter": 2,
+  "translation": "Ngoku sukani, nidlulele nina ⟨את⟩ umfula weZered; sasadlula ⟨את⟩ umfula weZered.",
+  "tokens": [
+    {
+      "surface": "עתה",
+      "gloss": "ngoku"
+    },
+    {
+      "surface": "קמו",
+      "gloss": "sukani"
+    },
+    {
+      "surface": "ועברו",
+      "gloss": "nidlulele"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "nina"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umfula weZered"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "umfula"
+    },
+    {
+      "surface": "זרד",
+      "gloss": "weZered"
+    },
+    {
+      "surface": "ונעבר",
+      "gloss": "sasadlula"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umfula weZered"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "umfula"
+    },
+    {
+      "surface": "זרד",
+      "gloss": "weZered"
+    }
+  ],
+  "timestamp": "2026-09-18T07:51:18.005289439Z",
+  "model": "glm-5.3"
+}

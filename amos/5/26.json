@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "amos 5:26",
+  "book": "amos",
+  "lang": "xh",
+  "chapter": 5,
+  "translation": "Kananjalo nathatha ⟨את⟩ uSikkuthi inkosi yenu no⟨את⟩ uKiyuni izithombe zenu, inkwenkwezi yoothixo benu, enazenzela.",
+  "tokens": [
+    {
+      "surface": "ונשאתם",
+      "gloss": "nathatha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uSikkuthi"
+    },
+    {
+      "surface": "סכות",
+      "gloss": "uSikkuthi"
+    },
+    {
+      "surface": "מלככם",
+      "gloss": "inkosi yenu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "no⟨את⟩",
+      "marks": "uKiyuni"
+    },
+    {
+      "surface": "כיון",
+      "gloss": "uKiyuni"
+    },
+    {
+      "surface": "צלמיכם",
+      "gloss": "izithombe zenu"
+    },
+    {
+      "surface": "כוכב",
+      "gloss": "inkwenkwezi"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "yoothixo benu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ena"
+    },
+    {
+      "surface": "עשיתם",
+      "gloss": "nazenza"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "nani"
+    }
+  ],
+  "timestamp": "2026-09-18T13:55:40.169565450Z",
+  "model": "glm-5.3"
+}

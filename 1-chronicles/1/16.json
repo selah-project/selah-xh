@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 1:16",
+  "book": "1-chronicles",
+  "lang": "xh",
+  "chapter": 1,
+  "translation": "NoArwadi, noTsemari, noHamati.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "iArwadi"
+    },
+    {
+      "surface": "הארודי",
+      "gloss": "iArwadi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "iTsemari"
+    },
+    {
+      "surface": "הצמרי",
+      "gloss": "iTsemari"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "iHamati"
+    },
+    {
+      "surface": "החמתי",
+      "gloss": "iHamati"
+    }
+  ],
+  "timestamp": "2026-09-18T16:50:26.288864130Z",
+  "model": "glm-5.3"
+}

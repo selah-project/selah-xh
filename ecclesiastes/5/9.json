@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 5:9",
+  "book": "ecclesiastes",
+  "lang": "xh",
+  "chapter": 5,
+  "translation": "Othanda imali akazaliswa yimali, nowo othanda ubutyebi akafumeni umvuzo; noku kuphela yiheveli.",
+  "tokens": [
+    {
+      "surface": "אהב",
+      "gloss": "othanda"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "imali"
+    },
+    {
+      "surface": "לא",
+      "gloss": "akazaliswa-"
+    },
+    {
+      "surface": "ישבע",
+      "gloss": "ukuzalwa"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "imali"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "nowo"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "othanda"
+    },
+    {
+      "surface": "בהמון",
+      "gloss": "ubutyebi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "akafumeni-"
+    },
+    {
+      "surface": "תבואה",
+      "gloss": "umvuzo"
+    },
+    {
+      "surface": "גם",
+      "gloss": "noku"
+    },
+    {
+      "surface": "זה",
+      "gloss": "kuphela"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "yiheveli"
+    }
+  ],
+  "timestamp": "2026-09-18T16:25:54.163788829Z",
+  "model": "glm-5.3"
+}

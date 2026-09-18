@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "judges 1:17",
+  "book": "judges",
+  "lang": "xh",
+  "chapter": 1,
+  "translation": "Waya uYehudah noShimoni ⟨את⟩ umnakwabo, babetha ⟨את⟩ uKenaani uhlala iTsefati, bayibhoxisa ngabom ⟨את⟩, bagqiba ⟨את⟩ igama lesixeko libe yiChormah.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "waya"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "uYehudah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ no-",
+      "marks": "noShimoni"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "Shimoni"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "umnakwabo"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "babetha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uKenaani"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "uKenaani"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "uhlala"
+    },
+    {
+      "surface": "צפת",
+      "gloss": "iTsefati"
+    },
+    {
+      "surface": "ויחרימו",
+      "gloss": "bayibhoxisa ngabom"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩",
+      "marks": "isixeko (iTsefati)"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "bagqiba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "igama"
+    },
+    {
+      "surface": "שם",
+      "gloss": "igama"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "lesixeko"
+    },
+    {
+      "surface": "חרמה",
+      "gloss": "yiChormah"
+    }
+  ],
+  "timestamp": "2026-09-18T08:49:13.555441647Z",
+  "model": "glm-5.3"
+}

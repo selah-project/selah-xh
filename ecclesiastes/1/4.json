@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 1:4",
+  "book": "ecclesiastes",
+  "lang": "xh",
+  "chapter": 1,
+  "translation": "Isizukulwana sihamba, isizukulwana siza; umhlaba umi ngonaphakade.",
+  "tokens": [
+    {
+      "surface": "דור",
+      "gloss": "Isizukulwana"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "sihamba"
+    },
+    {
+      "surface": "ודור",
+      "gloss": "isizukulwana"
+    },
+    {
+      "surface": "בא",
+      "gloss": "siza"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "umhlaba"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ngonaphakade"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "umi"
+    }
+  ],
+  "timestamp": "2026-09-18T16:24:02.226070180Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ecclesiastes 7:25",
+  "book": "ecclesiastes",
+  "lang": "xh",
+  "chapter": 7,
+  "translation": "Ndijikelezile mna, nentliziyo yam, ukwazi nokuphonononga, nokukhangela ukhanyiso nencingo, nokwazi ububi bobuzenzakhalalyo, nesithukuthezi sobuhlali.",
+  "tokens": [
+    {
+      "surface": "סבותי",
+      "gloss": "Ndijikelezile"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mna"
+    },
+    {
+      "surface": "ולבי",
+      "gloss": "nentliziyo yam"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "ukwaza"
+    },
+    {
+      "surface": "ולתור",
+      "gloss": "nokuphonononga"
+    },
+    {
+      "surface": "ובקש",
+      "gloss": "nokukhangela"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "ukhanyiso"
+    },
+    {
+      "surface": "וחשבון",
+      "gloss": "nencingo"
+    },
+    {
+      "surface": "ולדעת",
+      "gloss": "nokwaza"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ububi"
+    },
+    {
+      "surface": "כסל",
+      "gloss": "ubuzenzakhalalyo"
+    },
+    {
+      "surface": "והסכלות",
+      "gloss": "nesithukuthezi"
+    },
+    {
+      "surface": "הוללות",
+      "gloss": "sobuhlali"
+    }
+  ],
+  "timestamp": "2026-09-18T16:26:02.591993922Z",
+  "model": "glm-5.3"
+}

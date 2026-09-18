@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 38:9",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 38,
+  "translation": "Ndicimekile ndaza ndaphulwa kakhulu; ndakhala ngokukala ngenxa yobuhlungu bentliziyo yam.",
+  "tokens": [
+    {
+      "surface": "נפוגותי",
+      "gloss": "Ndicimekile"
+    },
+    {
+      "surface": "ונדכיתי",
+      "gloss": "ndaza ndaphulwa"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kude"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "kakhulu"
+    },
+    {
+      "surface": "שאגתי",
+      "gloss": "ndakhala ngokukala"
+    },
+    {
+      "surface": "מנהמת",
+      "gloss": "ngenxa yobuhlungu"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "bentliziyo yam"
+    }
+  ],
+  "timestamp": "2026-09-18T14:43:49.170946785Z",
+  "model": "glm-5.3"
+}

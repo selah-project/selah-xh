@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 14:11",
+  "book": "leviticus",
+  "lang": "xh",
+  "chapter": 14,
+  "translation": "Umpristi ococayo amise ⟨את⟩ lo mntu ococwayo, ⟩nabaphulwa⟨ ngaphambi koYahwe, emnyango wetenti yokudibana.",
+  "tokens": [
+    {
+      "surface": "והעמיד",
+      "gloss": "amise"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "Umpristi"
+    },
+    {
+      "surface": "המטהר",
+      "gloss": "ococayo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lo mntu ococwayo"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "lo mntu"
+    },
+    {
+      "surface": "המטהר",
+      "gloss": "ococwayo"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "⟨את⟩",
+      "marks": "nabaphulwa (izinto zonikelelwayo)"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ngaphambi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "koYahwe"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "emnyango"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "wetenti"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "yokudibana"
+    }
+  ],
+  "timestamp": "2026-09-18T06:49:39.501863587Z",
+  "model": "glm-5.3"
+}

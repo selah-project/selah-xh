@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 56:12",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 56,
+  "translation": "KuElohim ndithembile; andoyiki - umntu unokwenza ntoni kum?",
+  "tokens": [
+    {
+      "surface": "באלהים",
+      "gloss": "KuElohim"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "ndithembile"
+    },
+    {
+      "surface": "לא",
+      "gloss": "andoyiki"
+    },
+    {
+      "surface": "אירא",
+      "gloss": ""
+    },
+    {
+      "surface": "מה",
+      "gloss": "ntoni"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "unokwenza"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "umntu"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kum"
+    }
+  ],
+  "timestamp": "2026-09-18T14:49:33.640666887Z",
+  "model": "glm-5.3"
+}

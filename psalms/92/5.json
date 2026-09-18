@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 92:5",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 92,
+  "translation": "Kuba undonelise ngokwenene, Yahwe, ngenxa yomsebenzi wakho; ngenxa yemisebenzi yezandla zakho ndiya kuhlabelela.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "שמחתני",
+      "gloss": "undonelise"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בפעלך",
+      "gloss": "ngenxa yomsebenzi wakho"
+    },
+    {
+      "surface": "במעשי",
+      "gloss": "ngenxa yemisebenzi"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "yezandla zakho"
+    },
+    {
+      "surface": "ארנן",
+      "gloss": "ndiya kuhlabelela"
+    }
+  ],
+  "timestamp": "2026-09-18T15:11:41.136100712Z",
+  "model": "glm-5.3"
+}

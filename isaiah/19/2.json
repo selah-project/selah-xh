@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 19:2",
+  "book": "isaiah",
+  "lang": "xh",
+  "chapter": 19,
+  "translation": "Ndiza kubangela ukungqubana phakathi koBamaMitsrayim; baza kulwa umntu nomntakwabo, nomntu nomelwane wakhe, isixeko nesixeko, bubukumkani nabubukumkani.",
+  "tokens": [
+    {
+      "surface": "וסכסכתי",
+      "gloss": "Ndiza kubangela ukungqubana"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "uBamaMitsrayim"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "phakathi koBamaMitsrayim"
+    },
+    {
+      "surface": "ונלחמו",
+      "gloss": "baza kulwa"
+    },
+    {
+      "surface": "איש",
+      "gloss": "umntu"
+    },
+    {
+      "surface": "באחיו",
+      "gloss": "nomntakwabo"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "nomntu"
+    },
+    {
+      "surface": "ברעהו",
+      "gloss": "nomelwane wakhe"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "isixeko"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "nesixeko"
+    },
+    {
+      "surface": "ממלכה",
+      "gloss": "bubukumkani"
+    },
+    {
+      "surface": "בממלכה",
+      "gloss": "nabubukumkani"
+    }
+  ],
+  "timestamp": "2026-09-18T11:16:05.450643530Z",
+  "model": "glm-5.3"
+}

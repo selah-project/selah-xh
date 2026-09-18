@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 91:10",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 91,
+  "translation": "Akubuyelwe kakubi kuwe, nesifo lingaqali ententeni yakho.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "akubuyelwe"
+    },
+    {
+      "surface": "תאנה",
+      "gloss": "kubuyelwe"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kuwe"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "kakubi"
+    },
+    {
+      "surface": "ונגע",
+      "gloss": "nesifo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "lingaqali"
+    },
+    {
+      "surface": "יקרב",
+      "gloss": "lingaqali"
+    },
+    {
+      "surface": "באהלך",
+      "gloss": "ententeni yakho"
+    }
+  ],
+  "timestamp": "2026-09-18T15:09:58.399138034Z",
+  "model": "glm-5.3"
+}

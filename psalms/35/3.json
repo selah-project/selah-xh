@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 35:3",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 35,
+  "translation": "Khupha umkhonta, vala indlela phambi kwabalandeli bam; yithi kumphefumlo wam: ‘Ndiyinkululeko yakho.’",
+  "tokens": [
+    {
+      "surface": "והרק",
+      "gloss": "Khupha"
+    },
+    {
+      "surface": "חנית",
+      "gloss": "umkhonta"
+    },
+    {
+      "surface": "וסגר",
+      "gloss": "vala indlela"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "phambi kwa"
+    },
+    {
+      "surface": "רדפי",
+      "gloss": "abalandeli bam"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "yithi"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "kumphefumlo wam"
+    },
+    {
+      "surface": "ישעתך",
+      "gloss": "inkululeko yakho"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Ndiyi"
+    }
+  ],
+  "timestamp": "2026-09-18T14:41:27.166521473Z",
+  "model": "glm-5.3"
+}

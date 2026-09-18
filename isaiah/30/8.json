@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 30:8",
+  "book": "isaiah",
+  "lang": "xh",
+  "chapter": 30,
+  "translation": "Ngoku yiza, yibhale kwitafile ethe nkqo ⟨אתם⟩, yaye ubhale encwadini ihoyiwe; ibe ngumboni weentsuku zokugqibela, ngunaphakade, kuze kube phakade.",
+  "tokens": [
+    {
+      "surface": "עתה",
+      "gloss": "Ngoku"
+    },
+    {
+      "surface": "בוא",
+      "gloss": "yiza"
+    },
+    {
+      "surface": "כתבה",
+      "gloss": "yibhale"
+    },
+    {
+      "surface": "על",
+      "gloss": "kwi"
+    },
+    {
+      "surface": "לוח",
+      "gloss": "tafile"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "ethe nkqo ⟨abantu⟩"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "nakwi"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "ncwadi"
+    },
+    {
+      "surface": "חקה",
+      "gloss": "ihoyiwe"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "ibe"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "weentsuku"
+    },
+    {
+      "surface": "אחרון",
+      "gloss": "zokugqibela"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "ngumboni"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kuze kube"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "phakade"
+    }
+  ],
+  "timestamp": "2026-09-18T11:25:02.310104392Z",
+  "model": "glm-5.3"
+}

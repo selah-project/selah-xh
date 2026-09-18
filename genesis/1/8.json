@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 1:8",
+  "book": "genesis",
+  "lang": "xh",
+  "chapter": 1,
+  "translation": "uElohim wabiza iqaqamba igama lisiBHAKABHAKA. Kwakukho ntambama, kwakukho ekuseni — yIM yesibini.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "wabiza"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "לרקיע",
+      "gloss": "iqaqamba"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "isiBHAKABHAKA"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "kwakukho"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "intambama"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "kwakukho"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "ekuseni"
+    },
+    {
+      "surface": "יום",
+      "gloss": "iYIM"
+    },
+    {
+      "surface": "שני",
+      "gloss": "yesibini"
+    }
+  ],
+  "timestamp": "2026-09-18T05:08:12.224490533Z",
+  "model": "glm-5.3"
+}

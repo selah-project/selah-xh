@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 95:3",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 95,
+  "translation": "Kuba nguYahwe u-El omkhulu, nguMlambedla omkhulu phezu kwazo zonke iithixo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kuba"
+    },
+    {
+      "surface": "אל",
+      "gloss": "u-El"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "omkhulu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "nguYahwe"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "nguMlambedla"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "omkhulu"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu kwa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zonke"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "iithixo"
+    }
+  ],
+  "timestamp": "2026-09-18T15:11:22.197781804Z",
+  "model": "glm-5.3"
+}

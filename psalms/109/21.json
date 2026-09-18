@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 109:21",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 109,
+  "translation": "Kodwa wena, uYahwe u-Adonayi, wenza ⟨את⟩ ndim ngenxa yeGama lakho, kuba ikhesedi yakho ilungile — ndikhulule.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "kodwa wena"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "u-Adonayi"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "wenza"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "ndim"
+    },
+    {
+      "surface": "למען",
+      "gloss": "ngenxa"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "yeGama lakho"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ilungile"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "ikhesedi yakho"
+    },
+    {
+      "surface": "הצילני",
+      "gloss": "ndikhulule"
+    }
+  ],
+  "timestamp": "2026-09-18T17:45:24.732439816Z",
+  "model": "glm-5.3"
+}

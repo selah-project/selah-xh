@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 1:10",
+  "book": "leviticus",
+  "lang": "xh",
+  "chapter": 1,
+  "translation": "Kananjalo, ukuba umnikelo wakhe usuka kumhlambi — usuka kwiimvu okanye kwiibhokhwe — njengomnikelo wokutshiswa, isilisa ongenasiphene uzakungenisa.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Kananjalo, ukuba"
+    },
+    {
+      "surface": "מן",
+      "gloss": "usuka"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "kumhlambi"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "umnikelo wakhe"
+    },
+    {
+      "surface": "מן",
+      "gloss": "usuka"
+    },
+    {
+      "surface": "הכשבים",
+      "gloss": "kwiimvu"
+    },
+    {
+      "surface": "או",
+      "gloss": "okanye"
+    },
+    {
+      "surface": "מן",
+      "gloss": "usuka"
+    },
+    {
+      "surface": "העזים",
+      "gloss": "kwiibhokhwe"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "njengomnikelo wokutshiswa"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "isilisa"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "ongenasiphene"
+    },
+    {
+      "surface": "יקריבנו",
+      "gloss": "uzakungenisa"
+    }
+  ],
+  "timestamp": "2026-09-18T17:21:52.378644268Z",
+  "model": "glm-5.3"
+}

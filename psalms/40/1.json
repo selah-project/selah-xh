@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 40:1",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 40,
+  "translation": "Kumlawuli, ingoma kaDavide.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Kumlawuli"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "kaDavide"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "ingoma"
+    }
+  ],
+  "timestamp": "2026-09-18T14:44:28.128280127Z",
+  "model": "glm-5.3"
+}

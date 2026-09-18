@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 8:15",
+  "book": "1-kings",
+  "lang": "xh",
+  "chapter": 8,
+  "translation": "Wathi: “Makabekho intsikelelo kuYahwe, uElohim kaYisraele, owathetha ngomlomo wakhe ⟨את⟩ kuDawidi ubawo, wayigcwalisa ngesandla sakhe, esithi:",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "makabekho intsikelelo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kuYahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "kaYisraele"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "owo"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "wathetha"
+    },
+    {
+      "surface": "בפיו",
+      "gloss": "ngomlomo wakhe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kuDawidi ubawo"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "kuDawidi"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "ubawo"
+    },
+    {
+      "surface": "ובידו",
+      "gloss": "wayigcwalisa ngesandla sakhe"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "wayigcwalisa"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "esithi"
+    }
+  ],
+  "timestamp": "2026-09-18T10:20:32.129080538Z",
+  "model": "glm-5.3"
+}

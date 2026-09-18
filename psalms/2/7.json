@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 2:7",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 2,
+  "translation": "Ndiya kuxelela isigqibo: uYahwe wathi kum: “Wena unyana wam; mna le mini ndikubele.”",
+  "tokens": [
+    {
+      "surface": "אספרה",
+      "gloss": "ndiya kuxelela"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨ngaye⟩"
+    },
+    {
+      "surface": "חק",
+      "gloss": "isigqibo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kum"
+    },
+    {
+      "surface": "בני",
+      "gloss": "unyana wam"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mna"
+    },
+    {
+      "surface": "היום",
+      "gloss": "le mini"
+    },
+    {
+      "surface": "ילדתיך",
+      "gloss": "ndikuzale"
+    }
+  ],
+  "timestamp": "2026-09-18T14:26:24.090814139Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 105:4",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 105,
+  "translation": "Funani uYahwe namandla akhe; funani ubuso bakhe ngoko nangoko.",
+  "tokens": [
+    {
+      "surface": "דרשו",
+      "gloss": "Funani"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "ועזו",
+      "gloss": "namandla akhe"
+    },
+    {
+      "surface": "בקשו",
+      "gloss": "funani"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "ubuso bakhe"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "ngoko nangoko (ngaphandle kokuphela)"
+    }
+  ],
+  "timestamp": "2026-09-18T15:16:42.395553167Z",
+  "model": "glm-5.3"
+}

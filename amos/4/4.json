@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "amos 4:4",
+  "book": "amos",
+  "lang": "xh",
+  "chapter": 4,
+  "translation": "Yizani eBheti-eli niphambukani; eGiligala phindani ukuphambuka; nizise iziphaluka zenu ekuseni, iithayithe zenu qunge kweentsuku ezintathu.",
+  "tokens": [
+    {
+      "surface": "באו",
+      "gloss": "Yizani"
+    },
+    {
+      "surface": "בית",
+      "gloss": "eBheti-eli"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "ופשעו",
+      "gloss": "niphambukani"
+    },
+    {
+      "surface": "הגלגל",
+      "gloss": "eGiligala"
+    },
+    {
+      "surface": "הרבו",
+      "gloss": "phindani"
+    },
+    {
+      "surface": "לפשע",
+      "gloss": "ukuphambuka"
+    },
+    {
+      "surface": "והביאו",
+      "gloss": "nizise"
+    },
+    {
+      "surface": "לבקר",
+      "gloss": "ekuseni"
+    },
+    {
+      "surface": "זבחיכם",
+      "gloss": "iziphaluka zenu"
+    },
+    {
+      "surface": "לשלשת",
+      "gloss": "kweentsuku"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ezintathu"
+    },
+    {
+      "surface": "מעשרתיכם",
+      "gloss": "iithayithe zenu"
+    }
+  ],
+  "timestamp": "2026-09-18T13:55:17.600992508Z",
+  "model": "glm-5.3"
+}

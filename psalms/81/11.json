@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 81:11",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 81,
+  "translation": "NdinguYahwe uElohim wakho, owakunyusa elizweni laseMitsrayim; vula ngokubanzi umlomo wakho, ndiza kuwuzalisa.",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "Mna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "uElohim wakho"
+    },
+    {
+      "surface": "המעלך",
+      "gloss": "owakunyusa"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "elizweni"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "laseMitsrayim"
+    },
+    {
+      "surface": "הרחב",
+      "gloss": "vula ngokubanzi"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "umlomo wakho"
+    },
+    {
+      "surface": "ואמלאהו",
+      "gloss": "ndiza kuwuzalisa"
+    }
+  ],
+  "timestamp": "2026-09-18T15:04:06.354913198Z",
+  "model": "glm-5.3"
+}

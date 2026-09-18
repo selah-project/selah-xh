@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "psalms 119:43",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 119,
+  "translation": "Musaukutyabula ngokupheleleyo emlonyeni am ilizwi leqiniso, kuba ndilindele imigwebo yakho.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "musa"
+    },
+    {
+      "surface": "תצל",
+      "gloss": "ukutyabula"
+    },
+    {
+      "surface": "מפי",
+      "gloss": "emlonyeni am"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ilizwi"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "leqiniso"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ngokupheleleyo"
+    },
+    {
+      "surface": "מאד",
+      "gloss": ""
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "למשפטך",
+      "gloss": "imigwebo yakho"
+    },
+    {
+      "surface": "יחלתי",
+      "gloss": "ndilindele"
+    }
+  ],
+  "timestamp": "2026-09-18T15:22:52.810233811Z",
+  "model": "glm-5.3"
+}

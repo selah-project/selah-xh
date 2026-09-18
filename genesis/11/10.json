@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 11:10",
+  "book": "genesis",
+  "lang": "xh",
+  "chapter": 11,
+  "translation": "Ezi zidabo zikaSem: uSem wayeneminyaka engama-ikhulu, waza wazala ⟨את⟩ u-Arpakhshadi iminyaka emibini emva kwesichotho.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Ezi"
+    },
+    {
+      "surface": "תולדת",
+      "gloss": "zidabo"
+    },
+    {
+      "surface": "שם",
+      "gloss": "zikaSem"
+    },
+    {
+      "surface": "שם",
+      "gloss": "uSem"
+    },
+    {
+      "surface": "בן",
+      "gloss": "wayeneminyaka (unyana weminyaka)"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "engama-ikhulu"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "iminyaka"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "wazala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "u-Arpakhshadi"
+    },
+    {
+      "surface": "ארפכשד",
+      "gloss": "u-Arpakhshadi"
+    },
+    {
+      "surface": "שנתים",
+      "gloss": "iminyaka emibini"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "emva"
+    },
+    {
+      "surface": "המבול",
+      "gloss": "kwesichotho"
+    }
+  ],
+  "timestamp": "2026-09-18T05:12:17.875108472Z",
+  "model": "glm-5.3"
+}

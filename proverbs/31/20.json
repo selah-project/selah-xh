@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 31:20",
+  "book": "proverbs",
+  "lang": "xh",
+  "chapter": 31,
+  "translation": "Ungcedwe lwakhe waluvulela kumhlwendi, izandla zakhe wazithumela kum mhlwendi.",
+  "tokens": [
+    {
+      "surface": "כפה",
+      "gloss": "Ungcedwe lwakhe"
+    },
+    {
+      "surface": "פרשה",
+      "gloss": "waluvulela"
+    },
+    {
+      "surface": "לעני",
+      "gloss": "kumhlwendi"
+    },
+    {
+      "surface": "וידיה",
+      "gloss": "izandla zakhe"
+    },
+    {
+      "surface": "שלחה",
+      "gloss": "wazithumela"
+    },
+    {
+      "surface": "לאביון",
+      "gloss": "kumhlwendi"
+    }
+  ],
+  "timestamp": "2026-09-18T15:59:17.072261860Z",
+  "model": "glm-5.3"
+}

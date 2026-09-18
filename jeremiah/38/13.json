@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "jeremiah 38:13",
+  "book": "jeremiah",
+  "lang": "xh",
+  "chapter": 38,
+  "translation": "Bamzisa uYirmeyahu ⟨את⟩ ngezintambo, bamkhupha ⟨אתו⟩ emgodini, uYirmeyahu wahlala kwinkundla yasebusokolweni.",
+  "tokens": [
+    {
+      "surface": "וימשכו",
+      "gloss": "bamzisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uYirmeyahu"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "uYirmeyahu"
+    },
+    {
+      "surface": "בחבלים",
+      "gloss": "ngezintambo"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "bamkhupha"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "uYirmeyahu"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ku"
+    },
+    {
+      "surface": "הבור",
+      "gloss": "emgodini"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "wahlala"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "uYirmeyahu"
+    },
+    {
+      "surface": "בחצר",
+      "gloss": "kwinkundla"
+    },
+    {
+      "surface": "המטרה",
+      "gloss": "yasebusokolweni"
+    }
+  ],
+  "timestamp": "2026-09-18T12:31:14.173516877Z",
+  "model": "glm-5.3"
+}

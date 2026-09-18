@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 31:18",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 31,
+  "translation": "uYahwe, mandingabinamahloni, kuba ndikubizile; bayeni mabenamahloni, bathulele kwiSheol.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "musa (mandingabi…)"
+    },
+    {
+      "surface": "אבושה",
+      "gloss": "namahloni"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "קראתיך",
+      "gloss": "ndikubizile"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "mabenamahloni"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "bayeni"
+    },
+    {
+      "surface": "ידמו",
+      "gloss": "bathulele"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "kwiSheol"
+    }
+  ],
+  "timestamp": "2026-09-18T17:42:45.932939807Z",
+  "model": "glm-5.3"
+}

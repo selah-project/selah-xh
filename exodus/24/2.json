@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 24:2",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 24,
+  "translation": "UMoshe wedwa uzakusondela kuYahwe; bona abayi kusondela; abantu abayi kunyuka naye.”",
+  "tokens": [
+    {
+      "surface": "ונגש",
+      "gloss": "uzakusondela"
+    },
+    {
+      "surface": "משה",
+      "gloss": "uMoshe"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "wedwa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "והם",
+      "gloss": "bona"
+    },
+    {
+      "surface": "לא",
+      "gloss": "abayi"
+    },
+    {
+      "surface": "יגשו",
+      "gloss": "kusondela"
+    },
+    {
+      "surface": "והעם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "abayi"
+    },
+    {
+      "surface": "יעלו",
+      "gloss": "kunyuka"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "naye"
+    }
+  ],
+  "timestamp": "2026-09-18T06:10:47.449736978Z",
+  "model": "glm-5.3"
+}

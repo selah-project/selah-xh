@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 18:9",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 18,
+  "translation": "Umutsi wenyukela ezimpumlo zakhe, nomlilo owawuphuma emlonyeni wawutyala; iqaqamba zavuthwa ngawo.",
+  "tokens": [
+    {
+      "surface": "עלה",
+      "gloss": "wenyukela"
+    },
+    {
+      "surface": "עשן",
+      "gloss": "umutsi"
+    },
+    {
+      "surface": "באפו",
+      "gloss": "ezimpumlo zakhe"
+    },
+    {
+      "surface": "ואש",
+      "gloss": "nomlilo"
+    },
+    {
+      "surface": "מפיו",
+      "gloss": "emlonyeni wakhe"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "wawutyala"
+    },
+    {
+      "surface": "גחלים",
+      "gloss": "iqaqamba"
+    },
+    {
+      "surface": "בערו",
+      "gloss": "zavuthwa"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ngawo"
+    }
+  ],
+  "timestamp": "2026-09-18T14:34:03.910043498Z",
+  "model": "glm-5.3"
+}

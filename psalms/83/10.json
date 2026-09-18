@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 83:10",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 83,
+  "translation": "Yenzela bona njengoko wawenzela iMidyani, njengoSisera, njengoYabin, esikweni seKishoni:",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "Yenzela"
+    },
+    {
+      "surface": "להם",
+      "gloss": "bona"
+    },
+    {
+      "surface": "כמדין",
+      "gloss": "njengoko iMidyani"
+    },
+    {
+      "surface": "כסיסרא",
+      "gloss": "njengoSisera"
+    },
+    {
+      "surface": "כיבין",
+      "gloss": "njengoYabin"
+    },
+    {
+      "surface": "בנחל",
+      "gloss": "esikweni"
+    },
+    {
+      "surface": "קישון",
+      "gloss": "seKishoni"
+    }
+  ],
+  "timestamp": "2026-09-18T15:03:54.864176920Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "numbers 35:19",
+  "book": "numbers",
+  "lang": "xh",
+  "chapter": 35,
+  "translation": "Umgcini wegazi yena uza kubulala ⟨את⟩ umbulali; xa emfumana kuye, yena uza kumbulala.",
+  "tokens": [
+    {
+      "surface": "גאל",
+      "gloss": "umgcini"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "wegazi"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yena"
+    },
+    {
+      "surface": "ימית",
+      "gloss": "uza kubulala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umbulali"
+    },
+    {
+      "surface": "הרצח",
+      "gloss": "umbulali"
+    },
+    {
+      "surface": "בפגעו",
+      "gloss": "xa emfumana"
+    },
+    {
+      "surface": "בו",
+      "gloss": "kuye"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yena"
+    },
+    {
+      "surface": "ימיתנו",
+      "gloss": "uza kumbulala"
+    }
+  ],
+  "timestamp": "2026-09-18T17:24:50.256445876Z",
+  "model": "glm-5.3"
+}

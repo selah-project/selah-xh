@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-kings 21:9",
+  "book": "1-kings",
+  "lang": "xh",
+  "chapter": 21,
+  "translation": "Wabhala eziiweni esithi: “Memeleni ukuzila, nize nibambele ethunjini ⟨את⟩ uNavoti loluntu.”",
+  "tokens": [
+    {
+      "surface": "ותכתב",
+      "gloss": "Wabhala"
+    },
+    {
+      "surface": "בספרים",
+      "gloss": "eziiweni"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "esithi"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "Memeleni"
+    },
+    {
+      "surface": "צום",
+      "gloss": "ukuzila"
+    },
+    {
+      "surface": "והושיבו",
+      "gloss": "nize nibambele"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uNavoti"
+    },
+    {
+      "surface": "נבות",
+      "gloss": "uNavoti"
+    },
+    {
+      "surface": "בראש",
+      "gloss": "ethunjini"
+    },
+    {
+      "surface": "העם",
+      "gloss": "loluntu"
+    }
+  ],
+  "timestamp": "2026-09-18T10:32:27.600724421Z",
+  "model": "glm-5.3"
+}

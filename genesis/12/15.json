@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 12:15",
+  "book": "genesis",
+  "lang": "xh",
+  "chapter": 12,
+  "translation": "Abaphathi kaParo bayabona ⟨את⟩ yena, bamdumisa ⟨את⟩ kuParo; umfazi wathathwa endlwini kaParo.",
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "bayabona"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "yena (umfazi)"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "abaphathi"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "kaParo"
+    },
+    {
+      "surface": "ויהללו",
+      "gloss": "bamdumisa"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "yena (umfazi)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "ותקח",
+      "gloss": "wathathwa"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "umfazi"
+    },
+    {
+      "surface": "בית",
+      "gloss": "endlwini"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "kaParo"
+    }
+  ],
+  "timestamp": "2026-09-18T05:12:46.026808125Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 41:20",
+  "book": "isaiah",
+  "lang": "xh",
+  "chapter": 41,
+  "translation": "Ukuze babone, bazi, bacinge, baze baqonde kunye, ukuba isandla sikaYahwe senzile oku, noYisosile oyingcwele wadala oku.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "Ukuze"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "babone"
+    },
+    {
+      "surface": "וידעו",
+      "gloss": "bazi"
+    },
+    {
+      "surface": "וישימו",
+      "gloss": "bacinge"
+    },
+    {
+      "surface": "וישכילו",
+      "gloss": "baqonde"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "kunye"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ukuba"
+    },
+    {
+      "surface": "יד",
+      "gloss": "isandla"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kaYahwe"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "senzile"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "oku"
+    },
+    {
+      "surface": "וקדוש",
+      "gloss": "oyingcwele"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "uYisosile"
+    },
+    {
+      "surface": "בראה",
+      "gloss": "wadala"
+    }
+  ],
+  "timestamp": "2026-09-18T17:34:58.560890300Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 57:10",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 57,
+  "translation": "Ndiza kukubulela kuwe, u-Adonayi, phakathi kwabemi; ndiza kukuhlabelela phakathi kweelwimi.",
+  "tokens": [
+    {
+      "surface": "אודך",
+      "gloss": "ndiza kukubulela kuwe"
+    },
+    {
+      "surface": "בעמים",
+      "gloss": "phakathi kwabemi"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "u-Adonayi"
+    },
+    {
+      "surface": "אזמרך",
+      "gloss": "ndiza kukuhlabelela"
+    },
+    {
+      "surface": "בל",
+      "gloss": "phakathi kweelwimi"
+    },
+    {
+      "surface": "אמים",
+      "gloss": "⟨kwelwimi⟩"
+    }
+  ],
+  "timestamp": "2026-09-18T14:50:13.716513166Z",
+  "model": "glm-5.3"
+}

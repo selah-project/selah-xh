@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "zechariah 8:16",
+  "book": "zechariah",
+  "lang": "xh",
+  "chapter": 8,
+  "translation": "Ezi ngamagama eniza kuwenza: thethani inyaniso, umntu loncedo-mlongo wakhe; inyaniso nolwahlulo lolwazi lwilizwe lipheleleyo, nikwahlule kwiingcango zenu.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "ezi"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "ngamagama"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "eniza kuwenza"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "niwenze"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "thethani"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "inyaniso"
+    },
+    {
+      "surface": "איש",
+      "gloss": "umntu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oncedo-mlongo wakhe"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "loncedo-mlongo wakhe"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "inyaniso"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "nolwahlulo lolwazi lwilizwe"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "lwilizwe lipheleleyo"
+    },
+    {
+      "surface": "שפטו",
+      "gloss": "nikwahlule"
+    },
+    {
+      "surface": "בשעריכם",
+      "gloss": "kwiingcango zenu"
+    }
+  ],
+  "timestamp": "2026-09-18T14:20:26.941983110Z",
+  "model": "glm-5.3"
+}

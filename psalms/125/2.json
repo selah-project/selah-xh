@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 125:2",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 125,
+  "translation": "IYerushalayimi — iintaba zizingezela ngakuzalana; uYahwe uluzele abantu bakhe, ukususela ngoku ukusa ngunaphakade.",
+  "tokens": [
+    {
+      "surface": "ירושלם",
+      "gloss": "IYerushalayimi"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "iintaba"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "zizingezela"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ngakuzalana"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "luzele"
+    },
+    {
+      "surface": "לעמו",
+      "gloss": "abantu bakhe"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "ukususela ngoku"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ukusa"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ngunaphakade"
+    }
+  ],
+  "timestamp": "2026-09-18T15:28:33.692328578Z",
+  "model": "glm-5.3"
+}

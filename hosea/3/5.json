@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 3:5",
+  "book": "hosea",
+  "lang": "xh",
+  "chapter": 3,
+  "translation": "Emva koko abantwana bakaYisrayeli baza kubuyela, baza kufuna uYahwe uElohim wabo noDawidi inkosi yabo, baza koyika kuYahwe nakulungisa lwakhe ekupheleni kwamaxesha.",
+  "tokens": [
+    {
+      "surface": "אחר",
+      "gloss": "emva koko"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "baza kubuyela"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abantwana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "bakaYisrayeli"
+    },
+    {
+      "surface": "ובקשו",
+      "gloss": "baza kufuna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uYahwe uElohim wabo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "uElohim wabo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "uDawidi inkosi yabo"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "uDawidi"
+    },
+    {
+      "surface": "מלכם",
+      "gloss": "inkosi yabo"
+    },
+    {
+      "surface": "ופחדו",
+      "gloss": "baza koyika"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "naku"
+    },
+    {
+      "surface": "טובו",
+      "gloss": "ulungisa lwakhe"
+    },
+    {
+      "surface": "באחרית",
+      "gloss": "ekupheleni"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "kwamaxesha"
+    }
+  ],
+  "timestamp": "2026-09-18T13:40:36.555311838Z",
+  "model": "glm-5.3"
+}

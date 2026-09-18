@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 22:16",
+  "book": "genesis",
+  "lang": "xh",
+  "chapter": 22,
+  "translation": "Wathi: “Ndingathembisile ⟨ngokwam⟩, kukho uYahwe: kuba, ngenxa yokuba wenzile ⟨את⟩ loo nto, ungazibambelelanga ⟨את⟩ unyana wakhe, ⟨את⟩ unyana wakhe oyedwa —",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ngokwam"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "ndingathembisile"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "kukho (isalathiso)"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "יען",
+      "gloss": "ngenhla yokuba"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "okokuba"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "wenzile"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "loo nto"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "loo nto"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "le"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "wanga"
+    },
+    {
+      "surface": "חשכת",
+      "gloss": "uzibambelelanga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "unyana wakhe"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "unyana wakhe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "unyana wakhe oyedwa"
+    },
+    {
+      "surface": "יחידך",
+      "gloss": "unyana wakhe oyedwa"
+    }
+  ],
+  "timestamp": "2026-09-18T05:20:10.712087923Z",
+  "model": "glm-5.3"
+}

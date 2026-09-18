@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 21:11",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 21,
+  "translation": "Kodwa ukuba ezi zintathu angazenzi kuye, makaphume mahala, ngaphandle ⟨kwe⟩silivere.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "kodwa ukuba"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "zintathu"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ezi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "angazenzi"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "enzi"
+    },
+    {
+      "surface": "לה",
+      "gloss": "kuye"
+    },
+    {
+      "surface": "ויצאה",
+      "gloss": "makaphume"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "mahala"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ngaphandle"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "silivere"
+    }
+  ],
+  "timestamp": "2026-09-18T06:08:01.014982384Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 7:5",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 7,
+  "translation": "Kwaye iMitsrayim iya kwazi ukuba mna ndinguYahwe, xa ndityhalela ⟨את⟩ isandla sam phezu kweMitsrayim, ndaze ndakhupha ⟨את⟩ abantwana bakwaYisraeli phakathi kwabo.",
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "iya kwazi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "iMitsrayim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ukuba"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ndinguYahwe"
+    },
+    {
+      "surface": "בנטתי",
+      "gloss": "xa ndityhalela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isandla sam"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "isandla sam"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu kwe-"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "iMitsrayim"
+    },
+    {
+      "surface": "והוצאתי",
+      "gloss": "ndaze ndakhupha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abantwana bakwaYisraeli"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abantwana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "bakwaYisraeli"
+    },
+    {
+      "surface": "מתוכם",
+      "gloss": "phakathi kwabo"
+    }
+  ],
+  "timestamp": "2026-09-18T05:51:32.534111315Z",
+  "model": "glm-5.3"
+}

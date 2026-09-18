@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 120:7",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 120,
+  "translation": "Ndingowoxolo; kodwa xa ndithetha, bona beli kumfazwe.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Mna"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "ndingowoxolo"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "kodwa xa"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "ndithetha"
+    },
+    {
+      "surface": "המה",
+      "gloss": "bona"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "beli kumfazwe"
+    }
+  ],
+  "timestamp": "2026-09-18T15:26:11.670860078Z",
+  "model": "glm-5.3"
+}

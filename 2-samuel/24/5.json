@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 24:5",
+  "book": "2-samuel",
+  "lang": "xh",
+  "chapter": 24,
+  "translation": "Bawela ⟨את⟩ uYardene, bahlala e-Aroer, ngasekunene kwesixeko esisezantsi komthombo woGadi, baya kuYazeri.",
+  "tokens": [
+    {
+      "surface": "ויעברו",
+      "gloss": "bawela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uYardene"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "uYardene"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "bahlala"
+    },
+    {
+      "surface": "בערוער",
+      "gloss": "e-Aroer"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "ngasekunene"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "kwesixeko"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "eso"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "esisezantsi"
+    },
+    {
+      "surface": "הנחל",
+      "gloss": "komthombo"
+    },
+    {
+      "surface": "הגד",
+      "gloss": "woGadi"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "baya"
+    },
+    {
+      "surface": "יעזר",
+      "gloss": "kuYazeri"
+    }
+  ],
+  "timestamp": "2026-09-18T10:05:24.895524970Z",
+  "model": "glm-5.3"
+}

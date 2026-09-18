@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 73:2",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 73,
+  "translation": "Kodwa mna, iinyawo zam zazisukele kancinci; amanyathelo zam zachithwa, njengokuba zingekho.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Kodwa mna"
+    },
+    {
+      "surface": "כמעט",
+      "gloss": "kancinci"
+    },
+    {
+      "surface": "נטוי",
+      "gloss": "zazisukele"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "iinyawo zam"
+    },
+    {
+      "surface": "כאין",
+      "gloss": "njengokuba zingekho"
+    },
+    {
+      "surface": "שפכה",
+      "gloss": "zachithwa"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "amanyathelo zam"
+    }
+  ],
+  "timestamp": "2026-09-18T14:58:58.282951077Z",
+  "model": "glm-5.3"
+}

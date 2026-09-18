@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 18:3",
+  "book": "leviticus",
+  "lang": "xh",
+  "chapter": 18,
+  "translation": "Njengokwenziwa kwelaseMitsrayim apho nahlala khona, aniwenze; njengokwenziwa kwelaseKenaan, apho ndinithisa ⟨את⟩ nina khuya, aniwenze; nakwiimigaqo zabo musa ukuhamba kuzo.",
+  "tokens": [
+    {
+      "surface": "כמעשה",
+      "gloss": "njengokwenziwa"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "kelase-"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "apho"
+    },
+    {
+      "surface": "ישבתם",
+      "gloss": "nahlala"
+    },
+    {
+      "surface": "בה",
+      "gloss": "khona"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ani-"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "-wenze"
+    },
+    {
+      "surface": "וכמעשה",
+      "gloss": "kananjalo njengokwenziwa"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "kelase-"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "apho"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ndi-"
+    },
+    {
+      "surface": "מביא",
+      "gloss": "-nithisa"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ nina",
+      "marks": "nina"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "khuya"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ani-"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "-wenze"
+    },
+    {
+      "surface": "ובחקתיהם",
+      "gloss": "kananjalo nakwiimigaqo zabo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "musa"
+    },
+    {
+      "surface": "תלכו",
+      "gloss": "ukuhamba"
+    }
+  ],
+  "timestamp": "2026-09-18T17:22:30.835307551Z",
+  "model": "glm-5.3"
+}

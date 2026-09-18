@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 1:11",
+  "book": "ecclesiastes",
+  "lang": "xh",
+  "chapter": 1,
+  "translation": "Akukho kukhumbuleka kwezangaphambili; kananjalo kwangaba zangemva ezizayo, akusayi kubakho kukhumbuleka kwazo phakathi kwabo abaza kuzalandela.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "akukho"
+    },
+    {
+      "surface": "זכרון",
+      "gloss": "kukhumbuleka"
+    },
+    {
+      "surface": "לראשנים",
+      "gloss": "kwezangaphambili"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "kananjalo"
+    },
+    {
+      "surface": "לאחרנים",
+      "gloss": "kwangaba zangemva"
+    },
+    {
+      "surface": "שיהיו",
+      "gloss": "ezizayo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "akusayi"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "kubakho"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kwazo"
+    },
+    {
+      "surface": "זכרון",
+      "gloss": "kukhumbuleka"
+    },
+    {
+      "surface": "עם",
+      "gloss": "phakathi"
+    },
+    {
+      "surface": "שיהיו",
+      "gloss": "kwabo abaza kuzalandela"
+    },
+    {
+      "surface": "לאחרנה",
+      "gloss": "emva"
+    }
+  ],
+  "timestamp": "2026-09-18T16:23:29.445906678Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 55:12",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 55,
+  "translation": "Ukunakala kuphakathi kwayo, ingcindezelo nembulo azisiyi kushiya iindawo zayo ezibanzi.",
+  "tokens": [
+    {
+      "surface": "הוות",
+      "gloss": "ukunakala"
+    },
+    {
+      "surface": "בקרבה",
+      "gloss": "kuphakathi kwayo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "azisiyi"
+    },
+    {
+      "surface": "ימיש",
+      "gloss": "kushiya"
+    },
+    {
+      "surface": "מרחבה",
+      "gloss": "iindawo zayo ezibanzi"
+    },
+    {
+      "surface": "תך",
+      "gloss": "ingcindezelo"
+    },
+    {
+      "surface": "ומרמה",
+      "gloss": "nembulo"
+    }
+  ],
+  "timestamp": "2026-09-18T14:50:07.163159543Z",
+  "model": "glm-5.3"
+}

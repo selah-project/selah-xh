@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 23:5",
+  "book": "genesis",
+  "lang": "xh",
+  "chapter": 23,
+  "translation": "Oonyana baKhet baphendula ⟨את⟩ u-Avraham, besithi kuye:",
+  "tokens": [
+    {
+      "surface": "ויענו",
+      "gloss": "baphendula"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oonyana"
+    },
+    {
+      "surface": "חת",
+      "gloss": "baKhet"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "u-Avraham"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "u-Avraham"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "besithi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kuye"
+    }
+  ],
+  "timestamp": "2026-09-18T05:20:03.836698744Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 115:5",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 115,
+  "translation": "Umlomo unawo kodwa akathethi; amehlo anawo kodwa akaboni.",
+  "tokens": [
+    {
+      "surface": "פה",
+      "gloss": "umlomo"
+    },
+    {
+      "surface": "להם",
+      "gloss": "unawo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kodwa akathethi"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "akathethi"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "amehlo"
+    },
+    {
+      "surface": "להם",
+      "gloss": "anawo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kodwa akaboni"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "akaboni"
+    }
+  ],
+  "timestamp": "2026-09-18T15:21:04.205213853Z",
+  "model": "glm-5.3"
+}

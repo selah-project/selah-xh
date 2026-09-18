@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 41:8",
+  "book": "isaiah",
+  "lang": "xh",
+  "chapter": 41,
+  "translation": "Wena ke, uYisraele, nknceba yam, uYaakobu endikhethele yena, imbewu ka-Avraham othandwa kwam —",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Wena ke"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "uYisraele"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "inknceba yam"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "uYaakobu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "endikhethele"
+    },
+    {
+      "surface": "בחרתיך",
+      "gloss": "khethele yena"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "imbewu"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "ka-Avraham"
+    },
+    {
+      "surface": "אהבי",
+      "gloss": "othandwa kwam"
+    }
+  ],
+  "timestamp": "2026-09-18T11:30:23.182819156Z",
+  "model": "glm-5.3"
+}

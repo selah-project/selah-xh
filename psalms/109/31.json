@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 109:31",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 109,
+  "translation": "Kuba uza kumila ngasekunene kolahlwa yinto, ukumsindisa kumahluleyo umphefumlo wakhe.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kuba"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "uza kumila"
+    },
+    {
+      "surface": "לימין",
+      "gloss": "ngasekunene kwe"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "ulahlwa yinto"
+    },
+    {
+      "surface": "להושיע",
+      "gloss": "ukumsindisa kweso"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "kumahluleyo"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "umphefumlo wakhe"
+    }
+  ],
+  "timestamp": "2026-09-18T15:20:04.676399468Z",
+  "model": "glm-5.3"
+}

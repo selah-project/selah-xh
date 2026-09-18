@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 4:3",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 4,
+  "translation": "Wathi: “Yithule emhlabeni.” Wayithula emhlabeni, yaba yinyoka; wabaleka uMoshe phambi kwayo.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "השליכהו",
+      "gloss": "yithule"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "emhlabeni"
+    },
+    {
+      "surface": "וישליכהו",
+      "gloss": "wayithula"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "emhlabeni"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "yaba"
+    },
+    {
+      "surface": "לנחש",
+      "gloss": "yinyoka"
+    },
+    {
+      "surface": "וינס",
+      "gloss": "wabaleka"
+    },
+    {
+      "surface": "משה",
+      "gloss": "uMoshe"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "phambi kwayo"
+    }
+  ],
+  "timestamp": "2026-09-18T05:51:18.694022548Z",
+  "model": "glm-5.3"
+}

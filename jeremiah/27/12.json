@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 27:12",
+  "book": "jeremiah",
+  "lang": "xh",
+  "chapter": 27,
+  "translation": "Ndathetha nakwiTsidkiya, inkosi yeYuda, ngokwezono la mazwi, ndithi: “Ngenisani ⟨את⟩ iintamo zenu ngaphantsi kwesibhamu senkosi yeBhabheli, mkhonzeni ⟨את⟩ yena nabantu bakhe, niphile.”",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "naku-"
+    },
+    {
+      "surface": "צדקיה",
+      "gloss": "uTsidkiya"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "inkosi"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "yeYuda"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "ndathetha"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "ngokwezono"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "amazwi"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "la"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ndithi"
+    },
+    {
+      "surface": "הביאו",
+      "gloss": "ngenisani"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iintamo zenu"
+    },
+    {
+      "surface": "צואריכם",
+      "gloss": "iintamo zenu"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "ngaphantsi kwesibhamu se-"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "inkosi"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "yeBhabheli"
+    },
+    {
+      "surface": "ועבדו",
+      "gloss": "mkhonzeni"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ yena",
+      "marks": "yena (inkosi yeBhabheli)"
+    },
+    {
+      "surface": "ועמו",
+      "gloss": "nabantu bakhe"
+    },
+    {
+      "surface": "וחיו",
+      "gloss": "niphile"
+    }
+  ],
+  "timestamp": "2026-09-18T12:16:55.067364426Z",
+  "model": "glm-5.3"
+}

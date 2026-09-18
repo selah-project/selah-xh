@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 23:9",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 23,
+  "translation": "Kananjalo musa ukucinezela isihambi, kuba nina niyazi ⟨את⟩ ubomi besihambi, kuba nina naba yizihambi elwaseMitsrayim.",
+  "tokens": [
+    {
+      "surface": "וגר",
+      "gloss": "Kananjalo isihambi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "musa"
+    },
+    {
+      "surface": "תלחץ",
+      "gloss": "ukucinezela"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "nina"
+    },
+    {
+      "surface": "ידעתם",
+      "gloss": "niyazi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ubomi besihambi"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "ubomi"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "besihambi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "גרים",
+      "gloss": "izihambi"
+    },
+    {
+      "surface": "הייתם",
+      "gloss": "naba yi"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "elwase"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-09-18T06:09:38.977076450Z",
+  "model": "glm-5.3"
+}

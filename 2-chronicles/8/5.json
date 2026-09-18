@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 8:5",
+  "book": "2-chronicles",
+  "lang": "xh",
+  "chapter": 8,
+  "translation": "Wawakha ⟨את⟩ iBheyithi-Horoni ephezulu n⟨את⟩ iBheyithi-Horoni ezantsi, iindawo zokinzo, ngoothango, ngamanyangelo nemiqobo.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "wawakha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iBheyithi-Horoni ephezulu"
+    },
+    {
+      "surface": "בית",
+      "gloss": "iBheyithi"
+    },
+    {
+      "surface": "חורון",
+      "gloss": "iHoroni"
+    },
+    {
+      "surface": "העליון",
+      "gloss": "ephezulu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "n⟨את⟩",
+      "marks": "iBheyithi-Horoni ezantsi"
+    },
+    {
+      "surface": "בית",
+      "gloss": "iBheyithi"
+    },
+    {
+      "surface": "חורון",
+      "gloss": "iHoroni"
+    },
+    {
+      "surface": "התחתון",
+      "gloss": "ezantsi"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "iindawo"
+    },
+    {
+      "surface": "מצור",
+      "gloss": "zokinzo"
+    },
+    {
+      "surface": "חומות",
+      "gloss": "ngoothango"
+    },
+    {
+      "surface": "דלתים",
+      "gloss": "ngamanyangelo"
+    },
+    {
+      "surface": "ובריח",
+      "gloss": "nemiqobo"
+    }
+  ],
+  "timestamp": "2026-09-18T17:06:24.344975148Z",
+  "model": "glm-5.3"
+}

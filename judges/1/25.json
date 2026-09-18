@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "judges 1:25",
+  "book": "judges",
+  "lang": "xh",
+  "chapter": 1,
+  "translation": "Wababonisa ⟨את⟩ ukungena kwedolophu; yabulala ⟨את⟩ idolophu ngomlomo wekrele; yaye lo mntu nakulo lonke usapho lwakhe, bamshiya ahambe.",
+  "tokens": [
+    {
+      "surface": "ויראם",
+      "gloss": "wababonisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ukungena"
+    },
+    {
+      "surface": "מבוא",
+      "gloss": "ukungena"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "kwedolophu"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "yabulala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "idolophu"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "idolophu"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "ngomlomo"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "wekrele"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "lo mntu"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "lo mntu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "usapho lwakhe lonke"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nakulo lonke"
+    },
+    {
+      "surface": "משפחתו",
+      "gloss": "usapho lwakhe"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "bamshiya"
+    }
+  ],
+  "timestamp": "2026-09-18T08:49:57.386464872Z",
+  "model": "glm-5.3"
+}

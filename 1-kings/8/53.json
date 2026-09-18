@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "1-kings 8:53",
+  "book": "1-kings",
+  "lang": "xh",
+  "chapter": 8,
+  "translation": "Kuba wena wabahlula ukuba babe ngumnqophiso wakho, phakathi kwazo zonke iintlanga zomhlaba, njengoko wathetha ngesandla sikaMoshe incebenza yakho, xa wakhipha ⟨את⟩ ooyihlo bethu eMitsrayim, wena u-Adonayi uYahwe.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "הבדלתם",
+      "gloss": "wabahlula"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ukuba babe (kulungisele wena)"
+    },
+    {
+      "surface": "לנחלה",
+      "gloss": "ngumnqophiso"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "phakathi kwazo zonke"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "iintlanga"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zomhlaba"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "njengoko"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "wathetha"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ngesandla"
+    },
+    {
+      "surface": "משה",
+      "gloss": "uMoshe"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "incebenza yakho"
+    },
+    {
+      "surface": "בהוציאך",
+      "gloss": "xa wakhipha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ooyihlo bethu"
+    },
+    {
+      "surface": "אבתינו",
+      "gloss": "ooyihlo bethu"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "eMitsrayim"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "u-Adonayi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    }
+  ],
+  "timestamp": "2026-09-18T10:22:12.939453413Z",
+  "model": "glm-5.3"
+}

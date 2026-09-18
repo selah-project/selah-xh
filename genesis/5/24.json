@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 5:24",
+  "book": "genesis",
+  "lang": "xh",
+  "chapter": 5,
+  "translation": "Wahamba ngeendlela uKhanokh eduze ⟨את⟩ kaElohim, wasuka angasekho, kuba uElohim wamthabatha.",
+  "tokens": [
+    {
+      "surface": "ויתהלך",
+      "gloss": "wahamba ngeendlela"
+    },
+    {
+      "surface": "חנוך",
+      "gloss": "uKhanokh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaElohim"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "kaElohim"
+    },
+    {
+      "surface": "ואיננו",
+      "gloss": "wasuka angasekho"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "wamthabatha"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ yena",
+      "marks": "uKhanokh"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "uElohim"
+    }
+  ],
+  "timestamp": "2026-09-18T05:09:02.350647994Z",
+  "model": "glm-5.3"
+}

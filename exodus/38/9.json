@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 38:9",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 38,
+  "translation": "Waza wakha ⟨את⟩ iendlu yangasese ngasentshona ngasemzantsi; amagoduso endlu yangasese yayiluxhatho lwasentsimbi ethe tyaba, elingenantongo, amakhulu amabini angamakhongozana;",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "wakha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iendlu yangasese"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "iendlu yangasese"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "ngasentshona"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "emzantsi"
+    },
+    {
+      "surface": "תימנה",
+      "gloss": "ngasemzantsi"
+    },
+    {
+      "surface": "קלעי",
+      "gloss": "amagoduso"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "endlu yangasese"
+    },
+    {
+      "surface": "שש",
+      "gloss": "luxhatho lwasentsimbi ethe tyaba"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "elingenantongo"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "amakhulu amabini"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "angamakhongozana"
+    }
+  ],
+  "timestamp": "2026-09-18T06:27:26.086661541Z",
+  "model": "glm-5.3"
+}

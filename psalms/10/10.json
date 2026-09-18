@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 10:10",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 10,
+  "translation": "Ukhathele — wothoba, wawa abalahlwa ngamandla akhe.",
+  "tokens": [
+    {
+      "surface": "ודכה",
+      "gloss": "ukhathele"
+    },
+    {
+      "surface": "ישח",
+      "gloss": "wothoba"
+    },
+    {
+      "surface": "ונפל",
+      "gloss": "wawa"
+    },
+    {
+      "surface": "בעצומיו",
+      "gloss": "ngamandla akhe"
+    },
+    {
+      "surface": "חלכאים",
+      "gloss": "abalahlwa"
+    }
+  ],
+  "timestamp": "2026-09-18T14:29:58.960843418Z",
+  "model": "glm-5.3"
+}

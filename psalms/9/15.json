@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 9:15",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 9,
+  "translation": "Ukuze ndibalise konke ukudumisa kwakho emasangweni entombi kaTsiyoni, ndivuyiswe ngsindiso yakho.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "Ukuze"
+    },
+    {
+      "surface": "אספרה",
+      "gloss": "ndibalise"
+    },
+    {
+      "surface": "כל",
+      "gloss": "konke"
+    },
+    {
+      "surface": "תהלתיך",
+      "gloss": "ukudumisa kwakho"
+    },
+    {
+      "surface": "בשערי",
+      "gloss": "emasangweni"
+    },
+    {
+      "surface": "בת",
+      "gloss": "intombi"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "kaTsiyoni"
+    },
+    {
+      "surface": "אגילה",
+      "gloss": "ndivuyiswe"
+    },
+    {
+      "surface": "בישועתך",
+      "gloss": "ngsindiso yakho"
+    }
+  ],
+  "timestamp": "2026-09-18T14:30:52.235490366Z",
+  "model": "glm-5.3"
+}

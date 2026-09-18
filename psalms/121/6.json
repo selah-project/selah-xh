@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 121:6",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 121,
+  "translation": "Ngemini ilanga alayi kukubetha, inyanga yaye ebusuku.",
+  "tokens": [
+    {
+      "surface": "יומם",
+      "gloss": "ngemini"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "ilanga"
+    },
+    {
+      "surface": "לא",
+      "gloss": "alayi"
+    },
+    {
+      "surface": "יככה",
+      "gloss": "kukubetha"
+    },
+    {
+      "surface": "וירח",
+      "gloss": "inenyanga"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "ebusuku"
+    }
+  ],
+  "timestamp": "2026-09-18T15:26:27.220130510Z",
+  "model": "glm-5.3"
+}

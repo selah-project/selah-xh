@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 38:6",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 38,
+  "translation": "Zinuka kakubi iintshumba zam, zibolile ngenxa yobuhanxhaxha bam.",
+  "tokens": [
+    {
+      "surface": "הבאישו",
+      "gloss": "zinuka kakubi"
+    },
+    {
+      "surface": "נמקו",
+      "gloss": "zibolile"
+    },
+    {
+      "surface": "חבורתי",
+      "gloss": "iintshumba zam"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "ngenxa ye-"
+    },
+    {
+      "surface": "אולתי",
+      "gloss": "yobuhanxhaxha bam"
+    }
+  ],
+  "timestamp": "2026-09-18T14:43:22.644390209Z",
+  "model": "glm-5.3"
+}

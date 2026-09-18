@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-samuel 22:26",
+  "book": "2-samuel",
+  "lang": "xh",
+  "chapter": 22,
+  "translation": "Kum one-ikhesedi uzibonakalisa unenkhesedi; kum qhawe elicocekileyo uzibonakalisa usacocokekile.",
+  "tokens": [
+    {
+      "surface": "עם",
+      "gloss": "kum"
+    },
+    {
+      "surface": "חסיד",
+      "gloss": "one-ikhesedi"
+    },
+    {
+      "surface": "תתחסד",
+      "gloss": "uzibonakalisa unenkhesedi"
+    },
+    {
+      "surface": "עם",
+      "gloss": "kum"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "qhawe"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "elicocekileyo"
+    },
+    {
+      "surface": "תתמם",
+      "gloss": "uzibonakalisa usacocokekile"
+    }
+  ],
+  "timestamp": "2026-09-18T10:04:46.533550607Z",
+  "model": "glm-5.3"
+}

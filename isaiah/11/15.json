@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 11:15",
+  "book": "isaiah",
+  "lang": "xh",
+  "chapter": 11,
+  "translation": "UYahwe uza kutyisa ngokupheleleyo ulwimi lolwandle lweMitsrayim, aze awavulele amahlahla aby inyawo yakhe emlanjeni ngenxa yomoya opholileyo; aze awaqhubelela kwi milambo esixhenxe, abantu basebenze ngokuhamba ngezihlangu.",
+  "tokens": [
+    {
+      "surface": "והחרים",
+      "gloss": "uza kutyisa ngokupheleleyo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "UYahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ulwimi lolwandle lweMitsrayim"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "ulwimi"
+    },
+    {
+      "surface": "ים",
+      "gloss": "lolwandle"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "lweMitsrayim"
+    },
+    {
+      "surface": "והניף",
+      "gloss": "aze awavulele amahlahla aby"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "inyawo yakhe"
+    },
+    {
+      "surface": "על",
+      "gloss": "emlanjeni"
+    },
+    {
+      "surface": "הנהר",
+      "gloss": "emlanjeni omkhulu"
+    },
+    {
+      "surface": "בעים",
+      "gloss": "ngenxa"
+    },
+    {
+      "surface": "רוחו",
+      "gloss": "yomoya opholileyo wakhe"
+    },
+    {
+      "surface": "והכהו",
+      "gloss": "aze awaqhubelela"
+    },
+    {
+      "surface": "לשבעה",
+      "gloss": "kwi milambo esixhenxe"
+    },
+    {
+      "surface": "נחלים",
+      "gloss": "kwi milambo"
+    },
+    {
+      "surface": "והדריך",
+      "gloss": "abantu basebenze ngokuhamba"
+    },
+    {
+      "surface": "בנעלים",
+      "gloss": "ngezihlangu"
+    }
+  ],
+  "timestamp": "2026-09-18T11:11:35.231159701Z",
+  "model": "glm-5.3"
+}

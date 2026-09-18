@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 10:2",
+  "book": "numbers",
+  "lang": "xh",
+  "chapter": 10,
+  "translation": "Yenza ipepha elinezixhobo ezimbini zesilivere; ngomsebenzi owosiweyo uza kuzenza; kwaye ziya kuba zakho ukubizela umanyano lweqela, nakukuhamba kweezindlu zomkhosi.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "Yenza"
+    },
+    {
+      "surface": "לך",
+      "gloss": "zakho"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "ezimbini"
+    },
+    {
+      "surface": "חצוצרת",
+      "gloss": "iitrampeti"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "zesilivere"
+    },
+    {
+      "surface": "מקשה",
+      "gloss": "ngomsebenzi owosiweyo"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "uza kuzenza"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "iitrampeti ezimbini zesilivere"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "ziya kuba"
+    },
+    {
+      "surface": "לך",
+      "gloss": "zakho"
+    },
+    {
+      "surface": "למקרא",
+      "gloss": "ukubizela umanyano"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "lweqela"
+    },
+    {
+      "surface": "ולמסע",
+      "gloss": "nakukuhamba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iindlu zomkhosi"
+    },
+    {
+      "surface": "המחנות",
+      "gloss": "kweezindlu zomkhosi"
+    }
+  ],
+  "timestamp": "2026-09-18T07:21:37.456166338Z",
+  "model": "glm-5.3"
+}

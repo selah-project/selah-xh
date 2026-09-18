@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 73:19",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 73,
+  "translation": "Banjani ukutshatayaliswa, nangomzuzwana! Bapheliswa, batshatyaliswa ngokoyika.",
+  "tokens": [
+    {
+      "surface": "איך",
+      "gloss": "banjani"
+    },
+    {
+      "surface": "היו",
+      "gloss": "⟨banjani⟩"
+    },
+    {
+      "surface": "לשמה",
+      "gloss": "ukutshatayaliswa"
+    },
+    {
+      "surface": "כרגע",
+      "gloss": "nangomzuzwana"
+    },
+    {
+      "surface": "ספו",
+      "gloss": "bapheliswa"
+    },
+    {
+      "surface": "תמו",
+      "gloss": "batshatyaliswa"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ngoku-"
+    },
+    {
+      "surface": "בלהות",
+      "gloss": "koyika"
+    }
+  ],
+  "timestamp": "2026-09-18T15:00:01.029675493Z",
+  "model": "glm-5.3"
+}

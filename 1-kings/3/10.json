@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 3:10",
+  "book": "1-kings",
+  "lang": "xh",
+  "chapter": 3,
+  "translation": "Into yalunga emehlweni ka-Adonayi, kuba uShelomoh wayicela ⟨את⟩ le nto.",
+  "tokens": [
+    {
+      "surface": "וייטב",
+      "gloss": "walunga"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "into"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "emehlweni ka-"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "u-Adonayi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "wayicela"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "uShelomoh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le nto"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "le nto"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "le"
+    }
+  ],
+  "timestamp": "2026-09-18T10:09:23.914958031Z",
+  "model": "glm-5.3"
+}

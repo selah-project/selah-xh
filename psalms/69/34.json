@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "psalms 69:34",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 69,
+  "translation": "Kuba uYahwe uyeva abahlwempu, kwaye ⟨את⟩ ababantshunqiweyo bakhe akabahloyi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "uyeva"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨ku⟩"
+    },
+    {
+      "surface": "אביונים",
+      "gloss": "abahlwempu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ababantshunqiweyo bakhe"
+    },
+    {
+      "surface": "אסיריו",
+      "gloss": "ababantshunqiweyo bakhe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "akalunganga-"
+    },
+    {
+      "surface": "בזה",
+      "gloss": "abahloyi"
+    }
+  ],
+  "timestamp": "2026-09-18T14:56:35.677615398Z",
+  "model": "glm-5.3"
+}

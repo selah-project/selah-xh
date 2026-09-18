@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 23:12",
+  "book": "1-samuel",
+  "lang": "xh",
+  "chapter": 23,
+  "translation": "UDavide wathi: “Abanini baQeilah bazakundinikela mna ⟨אתי⟩ kunye nabantu bam ⟨את⟩ ezandleni zikaShawuli na?” UYahweh wathi: “Bayakunika.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "UDavide"
+    },
+    {
+      "surface": "היסגרו",
+      "gloss": "bazakunikela na"
+    },
+    {
+      "surface": "בעלי",
+      "gloss": "Abanini ba-"
+    },
+    {
+      "surface": "קעילה",
+      "gloss": "-Qeilah"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨אתי⟩",
+      "marks": "mna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "abantu bam"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "abantu bam"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ezandleni za-"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "-kaShawuli"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "UYahweh"
+    },
+    {
+      "surface": "יסגירו",
+      "gloss": "Bayakunika"
+    }
+  ],
+  "timestamp": "2026-09-18T09:33:43.112808948Z",
+  "model": "glm-5.3"
+}

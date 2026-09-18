@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 66:7",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 66,
+  "translation": "Ubusa ngeenkonono zakhe ixesha elingunaphakade; amehlo akhe ayabheka kumazwe; abaphikisi mabangaziphakamisi. Selah.",
+  "tokens": [
+    {
+      "surface": "משל",
+      "gloss": "Ubusa"
+    },
+    {
+      "surface": "בגבורתו",
+      "gloss": "ngeenkonono zakhe"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ixesha elingunaphakade"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "amehlo akhe"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "kumazwe"
+    },
+    {
+      "surface": "תצפינה",
+      "gloss": "ayabheka"
+    },
+    {
+      "surface": "הסוררים",
+      "gloss": "abaphikisi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "maba-nga-"
+    },
+    {
+      "surface": "ירימו",
+      "gloss": "phakamisi"
+    },
+    {
+      "surface": "למו",
+      "gloss": "ukuziphakamisa"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-18T14:55:04.193537742Z",
+  "model": "glm-5.3"
+}

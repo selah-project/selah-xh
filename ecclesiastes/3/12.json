@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 3:12",
+  "book": "ecclesiastes",
+  "lang": "xh",
+  "chapter": 3,
+  "translation": "Ndiyazi ukuba akukho lungile kubo, ngaphandle kokuvuya nokwenza okulungileyo ebomini bakhe.",
+  "tokens": [
+    {
+      "surface": "ידעתי",
+      "gloss": "Ndiyazi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ukuba"
+    },
+    {
+      "surface": "אין",
+      "gloss": "akukho"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "lungile"
+    },
+    {
+      "surface": "בם",
+      "gloss": "kubo"
+    },
+    {
+      "surface": "כי",
+      "gloss": ""
+    },
+    {
+      "surface": "אם",
+      "gloss": "ngaphandle koko"
+    },
+    {
+      "surface": "לשמוח",
+      "gloss": "ukuvuya"
+    },
+    {
+      "surface": "ולעשות",
+      "gloss": "nokwenza"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "okulungileyo"
+    },
+    {
+      "surface": "בחייו",
+      "gloss": "ebomini bakhe"
+    }
+  ],
+  "timestamp": "2026-09-18T16:23:54.925647580Z",
+  "model": "glm-5.3"
+}

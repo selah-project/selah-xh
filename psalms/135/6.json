@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 135:6",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 135,
+  "translation": "Konke oko uYahwe akuthandileyo, wakwenza ezulwini nasemhlabeni, elwandle nakuzo zonke iimfumfu.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Konke"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oko"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "akuthandileyo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "wakwenza"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "ezulwini"
+    },
+    {
+      "surface": "ובארץ",
+      "gloss": "nasemhlabeni"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "elwandle"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "naku-"
+    },
+    {
+      "surface": "תהומות",
+      "gloss": "zo zonke iimfumfu"
+    }
+  ],
+  "timestamp": "2026-09-18T15:29:15.695463659Z",
+  "model": "glm-5.3"
+}

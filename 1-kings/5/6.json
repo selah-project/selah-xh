@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 5:6",
+  "book": "1-kings",
+  "lang": "xh",
+  "chapter": 5,
+  "translation": "Kwaba kukho kuShelomoh amawaka amane ezibaya zamahashe okuza nezinqweloiompi zakhe, namawaka amabini anesibini abahambi ngehashe.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Kwaba kukho"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "kuShelomoh"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "ane (kwamawaka amane)"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "amawaka"
+    },
+    {
+      "surface": "ארות",
+      "gloss": "ezibaya"
+    },
+    {
+      "surface": "סוסים",
+      "gloss": "zamahashe"
+    },
+    {
+      "surface": "למרכבו",
+      "gloss": "ezinqweloiompi zakhe"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "namawaka amabini ne-"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "nesibini"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "amawaka"
+    },
+    {
+      "surface": "פרשים",
+      "gloss": "abahambi ngehashe"
+    }
+  ],
+  "timestamp": "2026-09-18T10:13:41.117688936Z",
+  "model": "glm-5.3"
+}

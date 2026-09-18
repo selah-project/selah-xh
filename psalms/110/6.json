@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 110:6",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 110,
+  "translation": "Uzakugweba kumazwe; uzalisa izidumbu; waphula ngamandla intloko phezu komhlaba omkhulu.",
+  "tokens": [
+    {
+      "surface": "ידין",
+      "gloss": "uzakugweba"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "kumazwe"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "uzalisa"
+    },
+    {
+      "surface": "גויות",
+      "gloss": "izidumbu"
+    },
+    {
+      "surface": "מחץ",
+      "gloss": "waphula ngamandla"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "intloko"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "komhlaba"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "omkhulu"
+    }
+  ],
+  "timestamp": "2026-09-18T15:20:37.617311225Z",
+  "model": "glm-5.3"
+}

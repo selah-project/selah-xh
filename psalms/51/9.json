@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 51:9",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 51,
+  "translation": "Ndihlambule nge-ezovu kwaye ndiya kuhamba-cocekileyo; ndihlambe, kwaye ndiza kungakhaluphi kuneqhwa.",
+  "tokens": [
+    {
+      "surface": "תחטאני",
+      "gloss": "ndihlambule (ungenze ndicoceke)"
+    },
+    {
+      "surface": "באזוב",
+      "gloss": "nge-ezovu"
+    },
+    {
+      "surface": "ואטהר",
+      "gloss": "kwaye ndiya kuhamba-cocekileyo"
+    },
+    {
+      "surface": "תכבסני",
+      "gloss": "ndihlambe"
+    },
+    {
+      "surface": "ומשלג",
+      "gloss": "kunegqhwa (kungakhaluphi)"
+    },
+    {
+      "surface": "אלבין",
+      "gloss": "ndiza kungakhaluphi"
+    }
+  ],
+  "timestamp": "2026-09-18T14:49:20.224805736Z",
+  "model": "glm-5.3"
+}

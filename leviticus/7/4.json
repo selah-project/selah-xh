@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 7:4",
+  "book": "leviticus",
+  "lang": "xh",
+  "chapter": 7,
+  "translation": "Kananjalo ⟨את⟩ iintso ezimbini, namarha ⟨את⟩ amafutha akhe phezu kwazo, ake phezu kweminqolo, namarha ⟨את⟩ ulobo oluphezu kwesibindi — phezu kweentso uza kususa.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "kananjalo ⟨את⟩",
+      "marks": "iintso ezimbini"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "ezimbini"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "iintso"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "namarha ⟨את⟩",
+      "marks": "amafutha"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "amafutha"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ake"
+    },
+    {
+      "surface": "עליהן",
+      "gloss": "phezu kwazo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ake"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu kwe-"
+    },
+    {
+      "surface": "הכסלים",
+      "gloss": "iminqolo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "namarha ⟨את⟩",
+      "marks": "ulobo oluphezu kwesibindi"
+    },
+    {
+      "surface": "היתרת",
+      "gloss": "ulobo"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu kwe-"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "isibindi"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu kwe-"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "iintso"
+    },
+    {
+      "surface": "יסירנה",
+      "gloss": "uza kususa"
+    }
+  ],
+  "timestamp": "2026-09-18T06:37:05.749710964Z",
+  "model": "glm-5.3"
+}

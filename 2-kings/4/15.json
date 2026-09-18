@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 4:15",
+  "book": "2-kings",
+  "lang": "xh",
+  "chapter": 4,
+  "translation": "Wathi: “Mmemela.” Wamkelelw' ummemele, yena wema emsiziweni.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Wathi"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "Mmemela"
+    },
+    {
+      "surface": "לה",
+      "gloss": "kuye"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "Wammemele"
+    },
+    {
+      "surface": "לה",
+      "gloss": "kuye"
+    },
+    {
+      "surface": "ותעמד",
+      "gloss": "wema"
+    },
+    {
+      "surface": "בפתח",
+      "gloss": "emsiziweni"
+    }
+  ],
+  "timestamp": "2026-09-18T10:39:55.008811263Z",
+  "model": "glm-5.3"
+}

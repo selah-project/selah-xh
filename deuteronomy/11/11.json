@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 11:11",
+  "book": "deuteronomy",
+  "lang": "xh",
+  "chapter": 11,
+  "translation": "Kodwa umhlaba eniya kuwudlula kuwo ukuwulwahlula nguwona — umhlaba weentaba nasezithuba, ungamanzu okwahezulu evela kulo phezulu aphefumla amanzi:",
+  "tokens": [
+    {
+      "surface": "והארץ",
+      "gloss": "kodwa umhlaba"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "o-"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "ni-"
+    },
+    {
+      "surface": "עברים",
+      "gloss": "niya kuwudlula"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "kuwo"
+    },
+    {
+      "surface": "לרשתה",
+      "gloss": "ukuwulwahlula"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "umhlaba"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "weentaba"
+    },
+    {
+      "surface": "ובקעת",
+      "gloss": "nasezithuba"
+    },
+    {
+      "surface": "למטר",
+      "gloss": "okwahezulu"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ezulu"
+    },
+    {
+      "surface": "תשתה",
+      "gloss": "ungamanzu aphefumla"
+    },
+    {
+      "surface": "מים",
+      "gloss": "amanzi"
+    }
+  ],
+  "timestamp": "2026-09-18T08:01:12.581475810Z",
+  "model": "glm-5.3"
+}

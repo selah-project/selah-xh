@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 60:9",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 60,
+  "translation": "iGiladi ⟨yeyam⟩, iMenashhe ⟨yeyam⟩ nayo; ngu-Efrayim ulwazi lokhuselo olusemantlokozi am; nguYuda umthethisi wam.",
+  "tokens": [
+    {
+      "surface": "לי",
+      "gloss": "yeyam (kum)"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "iGiladi"
+    },
+    {
+      "surface": "ולי",
+      "gloss": "nayo yeyam (kananjalo kum)"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "iMenashhe"
+    },
+    {
+      "surface": "ואפרים",
+      "gloss": "kananjalo ngu-Efrayim"
+    },
+    {
+      "surface": "מעוז",
+      "gloss": "ulwazi lokhuselo"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "olusemantlokozi am"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "nguYuda"
+    },
+    {
+      "surface": "מחקקי",
+      "gloss": "umthethisi wam"
+    }
+  ],
+  "timestamp": "2026-09-18T14:52:46.648851253Z",
+  "model": "glm-5.3"
+}

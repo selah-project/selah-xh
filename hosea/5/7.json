@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "hosea 5:7",
+  "book": "hosea",
+  "lang": "xh",
+  "chapter": 5,
+  "translation": "KuYahwe bagxothile, kuba bazalele abantwana basemzini; ngoku inyanga iya kubatya ⟨את⟩ amabelo abo.",
+  "tokens": [
+    {
+      "surface": "ביהוה",
+      "gloss": "kuYahwe"
+    },
+    {
+      "surface": "בגדו",
+      "gloss": "bagxothile"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "abantwana"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "basemzini"
+    },
+    {
+      "surface": "ילדו",
+      "gloss": "bazalele"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "ngoku"
+    },
+    {
+      "surface": "יאכלם",
+      "gloss": "iya kubatya"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "inyanga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amabelo abo"
+    },
+    {
+      "surface": "חלקיהם",
+      "gloss": "amabelo abo"
+    }
+  ],
+  "timestamp": "2026-09-18T13:43:51.772574808Z",
+  "model": "glm-5.3"
+}

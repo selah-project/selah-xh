@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "isaiah 29:24",
+  "book": "isaiah",
+  "lang": "xh",
+  "chapter": 29,
+  "translation": "Kwaye abalahlekileyo ngomoya baya kuqonda, kwaye abakholelwana baya kufunda imfundiso.",
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "baya kuqonda"
+    },
+    {
+      "surface": "תעי",
+      "gloss": "abalahlekileyo"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ngomoya"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "ukuqonda"
+    },
+    {
+      "surface": "ורוגנים",
+      "gloss": "abakholelwana"
+    },
+    {
+      "surface": "ילמדו",
+      "gloss": "baya kufunda"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "imfundiso"
+    }
+  ],
+  "timestamp": "2026-09-18T11:22:27.498576119Z",
+  "model": "glm-5.3"
+}

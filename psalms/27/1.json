@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 27:1",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 27,
+  "translation": "KaDavide. uYahwe ngukukhanya kwam nokusindisa kwam — ndimoyike bani? uYahwe ngusika-mlindo wobomi bam — ndoyike bani?",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "KaDavide"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אורי",
+      "gloss": "ngukukhanya kwam"
+    },
+    {
+      "surface": "וישעי",
+      "gloss": "nokusindisa kwam"
+    },
+    {
+      "surface": "ממי",
+      "gloss": "bani"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "ndimoyike"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "מעוז",
+      "gloss": "ngusika-mlindo"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "wobomi bam"
+    },
+    {
+      "surface": "ממי",
+      "gloss": "bani"
+    },
+    {
+      "surface": "אפחד",
+      "gloss": "ndoyike"
+    }
+  ],
+  "timestamp": "2026-09-18T14:38:59.607663982Z",
+  "model": "glm-5.3"
+}

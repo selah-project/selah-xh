@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 101:2",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 101,
+  "translation": "Ndiza kuqwalasela indlela ethe tye; nini uza kundiza kum? Ndiza kuhamba ngenyaniso yentliziyo yam, phakathi kwendlu yam.",
+  "tokens": [
+    {
+      "surface": "אשכילה",
+      "gloss": "Ndiza kuqwalasela"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "indlela"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "ethe tye"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "nini"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "uza kuza"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kum"
+    },
+    {
+      "surface": "אתהלך",
+      "gloss": "Ndiza kuhamba"
+    },
+    {
+      "surface": "בתם",
+      "gloss": "ngenyaniso"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "yentliziyo yam"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "phakathi"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "kwendlu yam"
+    }
+  ],
+  "timestamp": "2026-09-18T15:14:31.032417992Z",
+  "model": "glm-5.3"
+}

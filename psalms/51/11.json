@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 51:11",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 51,
+  "translation": "Zifihle ubuso bakho ezoni zam; uzitshube zonke iziphambuko zam.",
+  "tokens": [
+    {
+      "surface": "הסתר",
+      "gloss": "zifihle"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ubuso bakho"
+    },
+    {
+      "surface": "מחטאי",
+      "gloss": "ezoni zam"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "zonke"
+    },
+    {
+      "surface": "עונתי",
+      "gloss": "iziphambuko zam"
+    },
+    {
+      "surface": "מחה",
+      "gloss": "uzitshube"
+    }
+  ],
+  "timestamp": "2026-09-18T14:49:20.225162725Z",
+  "model": "glm-5.3"
+}

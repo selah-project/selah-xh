@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 23:4",
+  "book": "isaiah",
+  "lang": "xh",
+  "chapter": 23,
+  "translation": "Coyizwa, Tsidoni, kuba lithethe ulwandle, isixhaso solwandle, sithi: Andivuvukelanga, andizalanga, andikhulisanga amakhwenkwe, andazisanga amantombazana akwisidima.",
+  "tokens": [
+    {
+      "surface": "בושי",
+      "gloss": "Coyizwa"
+    },
+    {
+      "surface": "צידון",
+      "gloss": "Tsidoni"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "lithethe"
+    },
+    {
+      "surface": "ים",
+      "gloss": "ulwandle"
+    },
+    {
+      "surface": "מעוז",
+      "gloss": "isixhaso"
+    },
+    {
+      "surface": "הים",
+      "gloss": "solwandle"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sithi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "andi"
+    },
+    {
+      "surface": "חלתי",
+      "gloss": "vuvukelanga"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "andi"
+    },
+    {
+      "surface": "ילדתי",
+      "gloss": "zalanga"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "andikhulisanga"
+    },
+    {
+      "surface": "גדלתי",
+      "gloss": "andikhulisanga"
+    },
+    {
+      "surface": "בחורים",
+      "gloss": "amakhwenkwe"
+    },
+    {
+      "surface": "רוממתי",
+      "gloss": "andazisanga"
+    },
+    {
+      "surface": "בתולות",
+      "gloss": "amantombazana"
+    }
+  ],
+  "timestamp": "2026-09-18T11:19:24.369119588Z",
+  "model": "glm-5.3"
+}

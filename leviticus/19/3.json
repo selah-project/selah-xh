@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 19:3",
+  "book": "leviticus",
+  "lang": "xh",
+  "chapter": 19,
+  "translation": "Umntu ngamnye makuoyike unina noyise; izabatha zam zizigcade; mna ndinguYahwe uElohim wenu.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "Umntu ngamnye"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "unina"
+    },
+    {
+      "surface": "ואביו",
+      "gloss": "noyise"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "makuoyike"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "izabatha zam"
+    },
+    {
+      "surface": "שבתתי",
+      "gloss": "izabatha zam"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "zizigcade"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ndinguYahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "uElohim wenu"
+    }
+  ],
+  "timestamp": "2026-09-18T06:56:07.743430933Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 5:10",
+  "book": "leviticus",
+  "lang": "xh",
+  "chapter": 5,
+  "translation": "Owesibini yena uza kuwenzela ⟨את⟩ njengomnikelo wotshiso njengokumiselweyo; umpritshi uza kumxolela ngesono yakhe awayenzayo, aye axolelwa.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "owesibini"
+    },
+    {
+      "surface": "השני",
+      "gloss": "owesibini"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "uza kuwenzela"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "njengomnikelo wotshiso"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "njengokumiselweyo"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "uza kumxolela"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "yena"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "umpritshi"
+    },
+    {
+      "surface": "מחטאתו",
+      "gloss": "ngesono yakhe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "awayenzayo"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "wayenza ubugwenxa"
+    },
+    {
+      "surface": "ונסלח",
+      "gloss": "axelelwa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "yena"
+    }
+  ],
+  "timestamp": "2026-09-18T06:37:12.886061195Z",
+  "model": "glm-5.3"
+}

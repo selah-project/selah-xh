@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 31:30",
+  "book": "genesis",
+  "lang": "xh",
+  "chapter": 31,
+  "translation": "Kanjani ngoku, wathi wahamba kuba ubukhangelela ukuya kwikhaya likayihlo; ukutheni utyibile ⟨את⟩ oothixo bam?",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "kanjani ngoku"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "ngempela"
+    },
+    {
+      "surface": "הלכת",
+      "gloss": "wahamba"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "נכסף",
+      "gloss": "ubukhangelela"
+    },
+    {
+      "surface": "נכספתה",
+      "gloss": "ukhangelela ngokunzulu"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "ukuya kwikhaya"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "likayihlo"
+    },
+    {
+      "surface": "למה",
+      "gloss": "ukutheni"
+    },
+    {
+      "surface": "גנבת",
+      "gloss": "utyibile"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oothixo bam"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "oothixo bam"
+    }
+  ],
+  "timestamp": "2026-09-18T05:29:35.539056182Z",
+  "model": "glm-5.3"
+}

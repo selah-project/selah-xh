@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 14:15",
+  "book": "deuteronomy",
+  "lang": "xh",
+  "chapter": 14,
+  "translation": "kunye ⟨את⟩ intombi yeenkosiyeenoxhweshe ezinkulu, ⟨את⟩ i-tachmasi, ⟨את⟩ i-shachafi, kunye ⟨את⟩ i-netzi ngohlobo lawo;",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "kunye ⟨את⟩",
+      "marks": "intombi yeenkosiyeenoxhweshe ezinkulu"
+    },
+    {
+      "surface": "בת",
+      "gloss": "intombi"
+    },
+    {
+      "surface": "היענה",
+      "gloss": "inkosiyeenoxhweshe enkulu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "i-tachmasi"
+    },
+    {
+      "surface": "התחמס",
+      "gloss": "i-tachmasi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "i-shachafi"
+    },
+    {
+      "surface": "השחף",
+      "gloss": "i-shachafi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kunye ⟨את⟩",
+      "marks": "i-netzi"
+    },
+    {
+      "surface": "הנץ",
+      "gloss": "i-netzi"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "ngohlobo lawo"
+    }
+  ],
+  "timestamp": "2026-09-18T08:05:34.212249917Z",
+  "model": "glm-5.3"
+}

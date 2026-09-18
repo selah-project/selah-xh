@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 6:15",
+  "book": "2-kings",
+  "lang": "xh",
+  "chapter": 6,
+  "translation": "Umkhonzi womntu kaElohim wavuka ekuseni ukuphuma, waphuma, yabonakala — bona — umkhosi uziwisele isixeko ⟨את⟩, kunye namahashe neenqwelo. Wathi umfana wakhe kuye: “Awwu, nkosi yam, siza kusenza njani?”",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "wavuka ekuseni"
+    },
+    {
+      "surface": "משרת",
+      "gloss": "Umkhonzi"
+    },
+    {
+      "surface": "איש",
+      "gloss": "womntu"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "kaElohim"
+    },
+    {
+      "surface": "לקום",
+      "gloss": "ukuvuka"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "waphuma"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "bona"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "umkhosi"
+    },
+    {
+      "surface": "סובב",
+      "gloss": "uziwisele"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isixeko"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "isixeko"
+    },
+    {
+      "surface": "וסוס",
+      "gloss": "amahashe"
+    },
+    {
+      "surface": "ורכב",
+      "gloss": "neenqwelo"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Wathi"
+    },
+    {
+      "surface": "נערו",
+      "gloss": "umfana wakhe"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kuye"
+    },
+    {
+      "surface": "אהה",
+      "gloss": "Awwu"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "nkosi yam"
+    },
+    {
+      "surface": "איכה",
+      "gloss": "njani"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "enza"
+    }
+  ],
+  "timestamp": "2026-09-18T10:41:57.776145782Z",
+  "model": "glm-5.3"
+}

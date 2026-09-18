@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 122:1",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 122,
+  "translation": "ICulo leenyuko, lukaDawidi. Ndibe ndivuyile kubani bethi kum: “Ake siye endlwini kaYahwe.”",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "ICulo"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "leenyuko"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "lukaDawidi"
+    },
+    {
+      "surface": "שמחתי",
+      "gloss": "Ndibe ndivuyile"
+    },
+    {
+      "surface": "באמרים",
+      "gloss": "kubani bethi"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kum"
+    },
+    {
+      "surface": "בית",
+      "gloss": "endlwini"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kaYahwe"
+    },
+    {
+      "surface": "נלך",
+      "gloss": "ake siye"
+    }
+  ],
+  "timestamp": "2026-09-18T15:28:19.851722056Z",
+  "model": "glm-5.3"
+}

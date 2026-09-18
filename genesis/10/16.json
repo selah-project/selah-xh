@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 10:16",
+  "book": "genesis",
+  "lang": "xh",
+  "chapter": 10,
+  "translation": "⟨ואת⟩ abaYevusi, ⟨ואת⟩ abaEmori, ⟨ואת⟩ abaGirgashi.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨ואת⟩",
+      "marks": "abaYevusi"
+    },
+    {
+      "surface": "היבוסי",
+      "gloss": "abaYevusi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨ואת⟩",
+      "marks": "abaEmori"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "abaEmori"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨ואת⟩",
+      "marks": "abaGirgashi"
+    },
+    {
+      "surface": "הגרגשי",
+      "gloss": "abaGirgashi"
+    }
+  ],
+  "timestamp": "2026-09-18T05:11:45.946797844Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 104:11",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 104,
+  "translation": "Zisela zonke izilwanyana zasemahlathini; iinqhwale zicima thambazo.",
+  "tokens": [
+    {
+      "surface": "ישקו",
+      "gloss": "zisela"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zonke"
+    },
+    {
+      "surface": "חיתו",
+      "gloss": "izilwanyana"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "zasemahlathini"
+    },
+    {
+      "surface": "ישברו",
+      "gloss": "zicima"
+    },
+    {
+      "surface": "פראים",
+      "gloss": "iinqhwale"
+    },
+    {
+      "surface": "צמאם",
+      "gloss": "thambazo"
+    }
+  ],
+  "timestamp": "2026-09-18T15:12:57.764225037Z",
+  "model": "glm-5.3"
+}

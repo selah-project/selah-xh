@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 112:2",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 112,
+  "translation": "Inkululekana kuza kubakho inzala yakhe; intsapho yabanye balungileyo iza kusikelelwa.",
+  "tokens": [
+    {
+      "surface": "גבור",
+      "gloss": "Inkululekana"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "kuza kubakho"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "iza kuba"
+    },
+    {
+      "surface": "זרעו",
+      "gloss": "inzala yakhe"
+    },
+    {
+      "surface": "דור",
+      "gloss": "intsapho"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "yabanye balungileyo"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "iza kusikelelwa"
+    }
+  ],
+  "timestamp": "2026-09-18T15:19:46.570205235Z",
+  "model": "glm-5.3"
+}

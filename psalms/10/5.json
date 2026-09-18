@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 10:5",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 10,
+  "translation": "Iindlela zakhe ziyaphumelela ngalo lonke ixesha; iintleko zakho ziphezulu, zikude ⟨kumehlo⟩ akhe; bonke abachasi bakhe, uqhumsha ⟨kuwo⟩.",
+  "tokens": [
+    {
+      "surface": "יחילו",
+      "gloss": "ziyaphumelela"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "iindlela zakhe"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ngalo lonke"
+    },
+    {
+      "surface": "עת",
+      "gloss": "ixesha"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "ziphezulu"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "iintleko zakho"
+    },
+    {
+      "surface": "מנגדו",
+      "gloss": "zikude ⟨kumehlo⟩ akhe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bonke"
+    },
+    {
+      "surface": "צורריו",
+      "gloss": "abachasi bakhe"
+    },
+    {
+      "surface": "יפיח",
+      "gloss": "uqhumsha"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "⟨kuwo⟩"
+    }
+  ],
+  "timestamp": "2026-09-18T14:31:46.303228473Z",
+  "model": "glm-5.3"
+}

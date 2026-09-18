@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 122:9",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 122,
+  "translation": "Ngenxa yendlu kaYahwe uElohim wethu, ndiza kufuna ilungelo kuwe.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "Ngenxa"
+    },
+    {
+      "surface": "בית",
+      "gloss": "yendlu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kaYahwe"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "uElohim wethu"
+    },
+    {
+      "surface": "אבקשה",
+      "gloss": "ndiza kufuna"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ilungelo (okulungileyo)"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kuwe"
+    }
+  ],
+  "timestamp": "2026-09-18T15:26:07.732510855Z",
+  "model": "glm-5.3"
+}

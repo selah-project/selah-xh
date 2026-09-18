@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 3:25",
+  "book": "proverbs",
+  "lang": "xh",
+  "chapter": 3,
+  "translation": "Musa ukoyika ukoyika olwenzekayo ngokukhawuleza, nokutshatyalaliswa kwabenzi bobubi, xa kufika.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Musa"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "ukoyika"
+    },
+    {
+      "surface": "מפחד",
+      "gloss": "ukoyika (olwenzekayo)"
+    },
+    {
+      "surface": "פתאם",
+      "gloss": "ngokukhawuleza"
+    },
+    {
+      "surface": "ומשאת",
+      "gloss": "nokutshatyalaliswa"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "kwabenzi bobubi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "xa"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "kufika"
+    }
+  ],
+  "timestamp": "2026-09-18T15:38:40.665167740Z",
+  "model": "glm-5.3"
+}

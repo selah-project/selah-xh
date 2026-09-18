@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 13:1",
+  "book": "isaiah",
+  "lang": "xh",
+  "chapter": 13,
+  "translation": "Umthwam weBhabheli, olo uYesha'yahu unyana kaAmotse alubonayo.",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "umthwam"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "weBhabheli"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "olo"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "alubonayo"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "uYesha'yahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "unyana"
+    },
+    {
+      "surface": "אמוץ",
+      "gloss": "kaAmotse"
+    }
+  ],
+  "timestamp": "2026-09-18T11:12:41.649401320Z",
+  "model": "glm-5.3"
+}

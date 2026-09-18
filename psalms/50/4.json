@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 50:4",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 50,
+  "translation": "Uyabizela amazulu ukusuka phezulu, nangomhlaba, ukuze aligweba abantu bakhe.",
+  "tokens": [
+    {
+      "surface": "יקרא",
+      "gloss": "uyabizela"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "השמים",
+      "gloss": "amazulu"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "ukusuka phezulu"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "nange-"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "umhlaba"
+    },
+    {
+      "surface": "לדין",
+      "gloss": "ukuze aligweba"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "abantu bakhe"
+    }
+  ],
+  "timestamp": "2026-09-18T14:48:52.092988076Z",
+  "model": "glm-5.3"
+}

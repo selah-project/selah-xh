@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 47:3",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 47,
+  "translation": "Kuba uYahwe uPhakamileyo uyamoyika; ⟨uYahwe⟩ yinkosi enkulu phezu kwomhlaba wonke.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kuba"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "uPhakamileyo"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "uyamoyika"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "yinkosi"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "enkulu"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wonke"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "komhlaba"
+    }
+  ],
+  "timestamp": "2026-09-18T14:48:02.562006965Z",
+  "model": "glm-5.3"
+}

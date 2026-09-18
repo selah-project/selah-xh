@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 10:2",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 10,
+  "translation": "Kwaye ukuze uxelele kwindlebe zonyana wakho nonyana wonyana wakho ndimze njani iMitsrayim, nee⟨את⟩ phawu zam endizibeke kubo; nithi niyakwazi ukuba ndinguYahwe.”",
+  "tokens": [
+    {
+      "surface": "ולמען",
+      "gloss": "ukuze"
+    },
+    {
+      "surface": "תספר",
+      "gloss": "uxelele"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "kwindlebe"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "zonyana wakho"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "nonyana"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "wonyana wakho"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oko ndimze njani iMitsrayim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oko"
+    },
+    {
+      "surface": "התעללתי",
+      "gloss": "ndimze njani"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "iMitsrayim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "nee⟨את⟩",
+      "marks": "phawu zam"
+    },
+    {
+      "surface": "אתתי",
+      "gloss": "phawu zam"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "endizibeke"
+    },
+    {
+      "surface": "שמתי",
+      "gloss": "ndizibeke"
+    },
+    {
+      "surface": "בם",
+      "gloss": "kubo"
+    },
+    {
+      "surface": "וידעתם",
+      "gloss": "niyakwazi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ukuba"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ndingu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    }
+  ],
+  "timestamp": "2026-09-18T05:57:57.701970184Z",
+  "model": "glm-5.3"
+}

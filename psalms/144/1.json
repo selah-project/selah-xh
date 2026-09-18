@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 144:1",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 144,
+  "translation": "KuDavide. Mabusisiwe uYahwe, uryothi wam, olundisa izandla zam ekulweni, iminwe yam emfazweni.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "KuDavide"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "Mabusisiwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "uryothi wam"
+    },
+    {
+      "surface": "המלמד",
+      "gloss": "olundisa"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "izandla zam"
+    },
+    {
+      "surface": "לקרב",
+      "gloss": "ekulweni"
+    },
+    {
+      "surface": "אצבעותי",
+      "gloss": "iminwe yam"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "emfazweni"
+    }
+  ],
+  "timestamp": "2026-09-18T15:32:30.587371212Z",
+  "model": "glm-5.3"
+}

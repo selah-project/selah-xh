@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 19:11",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 19,
+  "translation": "Zifuneka kakhulu kunegolide, ewe, kunegegolide eninzi ecococekileyo; zimnandi kunukaneksi nangonxweme lwezitya.",
+  "tokens": [
+    {
+      "surface": "הנחמדים",
+      "gloss": "zifuneka kakhulu"
+    },
+    {
+      "surface": "מזהב",
+      "gloss": "kunegolide"
+    },
+    {
+      "surface": "ומפז",
+      "gloss": "kunegegolide ecococekileyo"
+    },
+    {
+      "surface": "רב",
+      "gloss": "eninzi"
+    },
+    {
+      "surface": "ומתוקים",
+      "gloss": "zimnandi"
+    },
+    {
+      "surface": "מדבש",
+      "gloss": "kunukaneksi"
+    },
+    {
+      "surface": "ונפת",
+      "gloss": "nangonxweme"
+    },
+    {
+      "surface": "צופים",
+      "gloss": "lwezitya"
+    }
+  ],
+  "timestamp": "2026-09-18T14:33:44.084605369Z",
+  "model": "glm-5.3"
+}

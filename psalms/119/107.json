@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 107,
+  "ref": "psalms 119:107",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 119,
+  "translation": "Ndiye ndaphathwa kakubi kakhulu; uYahwe, ndiphe ubomi ngokwelizwi lakho.",
+  "tokens": [
+    {
+      "surface": "נעניתי",
+      "gloss": "Ndiye ndaphathwa kakubi"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kude"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "kakhulu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "חיני",
+      "gloss": "ndiphe ubomi"
+    },
+    {
+      "surface": "כדברך",
+      "gloss": "ngokwelizwi lakho"
+    }
+  ],
+  "timestamp": "2026-09-18T15:23:58.730041522Z",
+  "model": "glm-5.3"
+}

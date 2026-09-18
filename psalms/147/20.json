@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 147:20",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 147,
+  "translation": "Akazange enjenjalo nakweliphi ilizwe; ngomigalelo yona abayazi. Danku uYah!",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Akazange"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "enjenjalo"
+    },
+    {
+      "surface": "כן",
+      "gloss": "njalo"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "nakweliphi"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "ilizwe"
+    },
+    {
+      "surface": "ומשפטים",
+      "gloss": "ngomigalelo"
+    },
+    {
+      "surface": "בל",
+      "gloss": "yonke"
+    },
+    {
+      "surface": "ידעום",
+      "gloss": "abayazi"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "Danku"
+    },
+    {
+      "surface": "יה",
+      "gloss": "uYah"
+    }
+  ],
+  "timestamp": "2026-09-18T15:34:26.210715242Z",
+  "model": "glm-5.3"
+}

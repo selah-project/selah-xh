@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 8:15",
+  "book": "job",
+  "lang": "xh",
+  "chapter": 8,
+  "translation": "Uthembela endlwini yakhe, yaye ayimi; uyayibamba, yaye ayivukeli.",
+  "tokens": [
+    {
+      "surface": "ישען",
+      "gloss": "uthembela"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "endlwini yakhe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "yaye ayi-"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "mi"
+    },
+    {
+      "surface": "יחזיק",
+      "gloss": "uyayibamba"
+    },
+    {
+      "surface": "בו",
+      "gloss": "yona"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "yaye ayi-"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "vukeli"
+    }
+  ],
+  "timestamp": "2026-09-18T16:01:50.482256783Z",
+  "model": "glm-5.3"
+}

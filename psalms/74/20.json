@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 74:20",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 74,
+  "translation": "Jonga umnqophiso wakho, kuba iindawo ezimnyama zomhlaba zigcwele iindawo zodlolo.",
+  "tokens": [
+    {
+      "surface": "הבט",
+      "gloss": "Jonga"
+    },
+    {
+      "surface": "לברית",
+      "gloss": "umnqophiso wakho"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "מלאו",
+      "gloss": "zigcwele"
+    },
+    {
+      "surface": "מחשכי",
+      "gloss": "iindawo ezimnyama"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "zomhlaba"
+    },
+    {
+      "surface": "נאות",
+      "gloss": "iindawo"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "zodlolo"
+    }
+  ],
+  "timestamp": "2026-09-18T15:00:58.198604772Z",
+  "model": "glm-5.3"
+}

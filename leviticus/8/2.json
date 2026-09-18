@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 8:2",
+  "book": "leviticus",
+  "lang": "xh",
+  "chapter": 8,
+  "translation": "“Thatha ⟨את⟩ u-Aharon, ⟨את⟩ nabantwana bakhe kunye ⟨את⟩ naye, ⟨את⟩ neempahla, ⟨את⟩ noolioyile yokugcoba, ⟨את⟩ nenkunzi yesono, ⟨את⟩ nama┘",
+  "tokens": [
+    {
+      "surface": "קח",
+      "gloss": "Thatha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "u-Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "u-Aharon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ na-",
+      "marks": "abantwana bakhe"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "abantwana bakhe"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "kunye ⟨את⟩ naye"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ ne-",
+      "marks": "iimpahla"
+    },
+    {
+      "surface": "הבגדים",
+      "gloss": "iimpahla"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ noo-",
+      "marks": "ioyile yokugcoba"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "ioyile"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "yokugcoba"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ ne-",
+      "marks": "inkunzi yesono"
+    },
+    {
+      "surface": "פר",
+      "gloss": "inkunzi"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "yesono"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ nama-",
+      "marks": "amarham ebini"
+    },
+    {
+      "surface": "שני",
+      "gloss": "ebini"
+    },
+    {
+      "surface": "האילים",
+      "gloss": "amarham"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ ne-",
+      "marks": "isilk seenkcushe"
+    },
+    {
+      "surface": "סל",
+      "gloss": "isilk"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "seenkcushe"
+    }
+  ],
+  "timestamp": "2026-09-18T06:40:00.075079222Z",
+  "model": "glm-5.3"
+}

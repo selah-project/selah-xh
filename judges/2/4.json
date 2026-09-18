@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "judges 2:4",
+  "book": "judges",
+  "lang": "xh",
+  "chapter": 2,
+  "translation": "Kwathi, xa isithunywa sikaYahwe selithe ⟨את⟩ le miqulu le yonke kooonyana bakaSirayeli, abantu baliphakamisela ⟨את⟩ ilizwi labo, bakhala.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "kwathi"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "xa selithe"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "isithunywa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le miqulu le yonke"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "le miqulu"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "le"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yonke"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ooonyana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "bakaSirayeli"
+    },
+    {
+      "surface": "וישאו",
+      "gloss": "baliphakamisela"
+    },
+    {
+      "surface": "העם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ilizwi labo"
+    },
+    {
+      "surface": "קולם",
+      "gloss": "ilizwi labo"
+    },
+    {
+      "surface": "ויבכו",
+      "gloss": "bakhala"
+    }
+  ],
+  "timestamp": "2026-09-18T08:50:28.532331667Z",
+  "model": "glm-5.3"
+}

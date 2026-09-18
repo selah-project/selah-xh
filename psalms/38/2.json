@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 38:2",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 38,
+  "translation": "uYahwe, ngolaka lwakho musa ⟨ndigxeki⟩, ngentlakaxesha yakho musa ⟨ndilumasa⟩.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "musa"
+    },
+    {
+      "surface": "בקצפך",
+      "gloss": "ngolaka lwakho"
+    },
+    {
+      "surface": "תוכיחני",
+      "gloss": "⟨ndigxeki⟩"
+    },
+    {
+      "surface": "ובחמתך",
+      "gloss": "nenthalakaxesha yakho"
+    },
+    {
+      "surface": "תיסרני",
+      "gloss": "⟨ndilumasa⟩"
+    }
+  ],
+  "timestamp": "2026-09-18T14:43:54.107390004Z",
+  "model": "glm-5.3"
+}

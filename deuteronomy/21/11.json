@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 21:11",
+  "book": "deuteronomy",
+  "lang": "xh",
+  "chapter": 21,
+  "translation": "Ubona phakathi kwezigxeki umfazi welumbo oluhle, umthandayo, umthabathela yena njengomfazi.",
+  "tokens": [
+    {
+      "surface": "וראית",
+      "gloss": "ubona"
+    },
+    {
+      "surface": "בשביה",
+      "gloss": "phakathi kwezigxeki"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "umfazi"
+    },
+    {
+      "surface": "יפת",
+      "gloss": "welumbo oluhle"
+    },
+    {
+      "surface": "תאר",
+      "gloss": "welumbo"
+    },
+    {
+      "surface": "וחשקת",
+      "gloss": "umthandayo"
+    },
+    {
+      "surface": "בה",
+      "gloss": "yena"
+    },
+    {
+      "surface": "ולקחת",
+      "gloss": "wathabathela"
+    },
+    {
+      "surface": "לך",
+      "gloss": "yena"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "njengomfazi"
+    }
+  ],
+  "timestamp": "2026-09-18T08:10:11.367063906Z",
+  "model": "glm-5.3"
+}

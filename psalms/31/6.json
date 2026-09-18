@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 31:6",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 31,
+  "translation": "Esandleni sakho ndibekela iruwakh yam; undikhululile, uYahwe, u-El weqiniso.",
+  "tokens": [
+    {
+      "surface": "בידך",
+      "gloss": "Esandleni sakho"
+    },
+    {
+      "surface": "אפקיד",
+      "gloss": "ndibekela"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "iruwakh yam"
+    },
+    {
+      "surface": "פדיתה",
+      "gloss": "undikhululile"
+    },
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩",
+      "marks": "undikhululile (min)"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "u-El"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "weqiniso"
+    }
+  ],
+  "timestamp": "2026-09-18T14:38:53.039722951Z",
+  "model": "glm-5.3"
+}

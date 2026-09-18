@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 31:9",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 31,
+  "translation": "ne-altari yomnikelo oshisiweyo nanazo ⟨את⟩ zonke iintoro zayo, nesitya sokuhlamba ⟨את⟩ nesisiseko salo ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "i-altari yomnikelo oshisiweyo"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "i-altari"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "yomnikelo oshisiweyo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "zonke iintoro zayo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zonke"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "iintoro zayo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "isitya sokuhlamba"
+    },
+    {
+      "surface": "הכיור",
+      "gloss": "isitya sokuhlamba"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "isisiseko salo"
+    },
+    {
+      "surface": "כנו",
+      "gloss": "isisiseko salo"
+    }
+  ],
+  "timestamp": "2026-09-18T06:17:12.740236446Z",
+  "model": "glm-5.3"
+}

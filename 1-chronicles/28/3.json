@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 28:3",
+  "book": "1-chronicles",
+  "lang": "xh",
+  "chapter": 28,
+  "translation": "Kodwa uElohim wathi kum: “Awuzi ukwakha indlu eliGama lam, kuba wena ungumntu weemfazwe, ugazile igazi.”",
+  "tokens": [
+    {
+      "surface": "והאלהים",
+      "gloss": "Kodwa uElohim"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kum"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Awuzi"
+    },
+    {
+      "surface": "תבנה",
+      "gloss": "ukwakha"
+    },
+    {
+      "surface": "בית",
+      "gloss": "indlu"
+    },
+    {
+      "surface": "לשמי",
+      "gloss": "eliGama lam"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ungumntu"
+    },
+    {
+      "surface": "מלחמות",
+      "gloss": "weemfazwe"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "ודמים",
+      "gloss": "igazi"
+    },
+    {
+      "surface": "שפכת",
+      "gloss": "ugazile"
+    }
+  ],
+  "timestamp": "2026-09-18T17:02:06.843337527Z",
+  "model": "glm-5.3"
+}

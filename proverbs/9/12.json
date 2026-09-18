@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 9:12",
+  "book": "proverbs",
+  "lang": "xh",
+  "chapter": 9,
+  "translation": "Ukuba ulumele, ulumele ngokwakho; ukuba ugxeze, wedwa uza kuthwala.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ukuba"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "ulumele"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "ulumele"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ngokwakho"
+    },
+    {
+      "surface": "ולצת",
+      "gloss": "ugxeze"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "wedwa"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "uza kuthwala"
+    }
+  ],
+  "timestamp": "2026-09-18T15:40:11.280010106Z",
+  "model": "glm-5.3"
+}

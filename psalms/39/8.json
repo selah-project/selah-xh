@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 39:8",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 39,
+  "translation": "Ngoku ke, ndilindele ntoni? U-Adonayi, ithemba lam nguwe yilo.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Ngoku ke"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ntoni"
+    },
+    {
+      "surface": "קויתי",
+      "gloss": "ndilindele"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "u-Adonayi"
+    },
+    {
+      "surface": "תוחלתי",
+      "gloss": "ithemba lam"
+    },
+    {
+      "surface": "לך",
+      "gloss": "nguwe"
+    },
+    {
+      "surface": "היא",
+      "gloss": "yilo"
+    }
+  ],
+  "timestamp": "2026-09-18T14:45:00.309064132Z",
+  "model": "glm-5.3"
+}

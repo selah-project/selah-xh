@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 8:3",
+  "book": "leviticus",
+  "lang": "xh",
+  "chapter": 8,
+  "translation": "kananjalo uqokelele ⟨את⟩ wonke iqela ngaphezu komnyango wetenti yomdibano.”",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "wonke iqela"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wonke"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "iqela"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "uqokelele"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ngaphezu kwa-"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "umnyango"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "wetenti"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "yomdibano"
+    }
+  ],
+  "timestamp": "2026-09-18T06:40:00.075365943Z",
+  "model": "glm-5.3"
+}

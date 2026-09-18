@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 29:12",
+  "book": "deuteronomy",
+  "lang": "xh",
+  "chapter": 29,
+  "translation": "ukuze angakumisela ⟨את⟩ wena namhlanje ukuba ubesisizwe sakhe, yena enobe nguElohim kuwe, njengokuba wakuthetha wena, njengokuba naye afungile kookhokho bakho, ku-Avraham, ku-Itshaka, nakwiYakobi.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "ukuze"
+    },
+    {
+      "surface": "הקים",
+      "gloss": "angakumisela"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "wena"
+    },
+    {
+      "surface": "היום",
+      "gloss": "namhlanje"
+    },
+    {
+      "surface": "לו",
+      "gloss": "yena"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "ukuba ubesisizwe sakhe"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "yena"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "enobe"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kuwe"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "nguElohim"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "njengokuba"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "wakuthetha"
+    },
+    {
+      "surface": "לך",
+      "gloss": "wena"
+    },
+    {
+      "surface": "וכאשר",
+      "gloss": "njengokuba naye"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "afungile"
+    },
+    {
+      "surface": "לאבתיך",
+      "gloss": "kookhokho bakho"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "ku-Avraham"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "ku-Itshaka"
+    },
+    {
+      "surface": "וליעקב",
+      "gloss": "nakwiYakobi"
+    }
+  ],
+  "timestamp": "2026-09-18T08:19:07.928254984Z",
+  "model": "glm-5.3"
+}

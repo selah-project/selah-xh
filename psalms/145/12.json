@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 145:12",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 145,
+  "translation": "ukwazisa abantwana babantu amandla akhe, nobeko oluhle lobukumkani bakhe.",
+  "tokens": [
+    {
+      "surface": "להודיע",
+      "gloss": "ukwazisa"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "abantwana"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "babantu"
+    },
+    {
+      "surface": "גבורתיו",
+      "gloss": "amandla akhe"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "nobeko"
+    },
+    {
+      "surface": "הדר",
+      "gloss": "oluhle"
+    },
+    {
+      "surface": "מלכותו",
+      "gloss": "lobukumkani bakhe"
+    }
+  ],
+  "timestamp": "2026-09-18T17:45:47.641620045Z",
+  "model": "glm-5.3"
+}

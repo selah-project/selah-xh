@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 19:8",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 19,
+  "translation": "ITora kaYahwe iphelele, ibuyisela umphefumlo; ubungqina bukaYahwe bunyanisekile, isenza olingeleyo ukuba babe nobulumko.",
+  "tokens": [
+    {
+      "surface": "תורת",
+      "gloss": "iTora"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kaYahwe"
+    },
+    {
+      "surface": "תמימה",
+      "gloss": "iphelele"
+    },
+    {
+      "surface": "משיבת",
+      "gloss": "ibuyisela"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "umphefumlo"
+    },
+    {
+      "surface": "עדות",
+      "gloss": "ubungqina"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "bukaYahwe"
+    },
+    {
+      "surface": "נאמנה",
+      "gloss": "bunyanisekile"
+    },
+    {
+      "surface": "מחכימת",
+      "gloss": "isenza ukuba babe nobulumko"
+    },
+    {
+      "surface": "פתי",
+      "gloss": "olingeleyo"
+    }
+  ],
+  "timestamp": "2026-09-18T14:36:11.948183173Z",
+  "model": "glm-5.3"
+}

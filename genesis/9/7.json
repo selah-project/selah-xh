@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 9:7",
+  "book": "genesis",
+  "lang": "xh",
+  "chapter": 9,
+  "translation": "Nina ke, zamani, nande; phuhlisani emhlabeni, nande kulo.",
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "Nina ke"
+    },
+    {
+      "surface": "פרו",
+      "gloss": "zamani"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "nande"
+    },
+    {
+      "surface": "שרצו",
+      "gloss": "phuhlisani"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "emhlabeni"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "nande"
+    },
+    {
+      "surface": "בה",
+      "gloss": "kulo"
+    }
+  ],
+  "timestamp": "2026-09-18T05:09:29.807022843Z",
+  "model": "glm-5.3"
+}

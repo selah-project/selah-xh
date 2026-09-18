@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 124:6",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 124,
+  "translation": "Makabe lulonwabe uYahwe, osingaziniki thina into ebulalayo ezindlebeni zabo.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "makabe lulonwabe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "שלא",
+      "gloss": "osingaziniki"
+    },
+    {
+      "surface": "נתננו",
+      "gloss": "thina"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "into ebulalwayo"
+    },
+    {
+      "surface": "לשניהם",
+      "gloss": "ezindlebeni zabo"
+    }
+  ],
+  "timestamp": "2026-09-18T15:29:20.918332560Z",
+  "model": "glm-5.3"
+}

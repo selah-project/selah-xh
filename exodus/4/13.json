@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 4:13",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 4,
+  "translation": "Wathi: “Ndicela, u-Adonayi, thuma nceda ngesandla ⟨lowo⟩ oza kuthuma.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ndicela"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "u-Adonayi"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "thuma"
+    },
+    {
+      "surface": "נא",
+      "gloss": "nceda"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ngesandla"
+    },
+    {
+      "surface": "תשלח",
+      "gloss": "oza kuthuma"
+    }
+  ],
+  "timestamp": "2026-09-18T05:51:26.257158841Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 14:7",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 14,
+  "translation": "Ewu, ngubani onika ukusindwa kukaSirayeli eTsiyoni? Xa uYahwe ebuyisa ukuthunjwa kwabantu bakhe, uYakobi uza kuvuyiswa, uSirayeli uza kuvuyiswa.",
+  "tokens": [
+    {
+      "surface": "מִ֥י",
+      "gloss": "ngubani"
+    },
+    {
+      "surface": "יִתֵּ֣ן",
+      "gloss": "onika"
+    },
+    {
+      "surface": "מִצִּיּ֣וֹן",
+      "gloss": "eTsiyoni"
+    },
+    {
+      "surface": "יְשׁ֥וּעַ֪ת",
+      "gloss": "ukusindwa"
+    },
+    {
+      "surface": "יִשְׂרָאֵ֥ל",
+      "gloss": "kukaSirayeli"
+    },
+    {
+      "surface": "בְּשׁ֣וּב",
+      "gloss": "xa ebuyisa"
+    },
+    {
+      "surface": "יְהוָָ֭ה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "שְׁב֣וּת",
+      "gloss": "ukuthunjwa"
+    },
+    {
+      "surface": "עַמּ֑וֹ",
+      "gloss": "kwabantu bakhe"
+    },
+    {
+      "surface": "יָגֵ֥ל",
+      "gloss": "uza kuvuyiswa"
+    },
+    {
+      "surface": "יַעֲקֹ֗ב",
+      "gloss": "uYakobi"
+    },
+    {
+      "surface": "יִשְׂמַ֥ח",
+      "gloss": "uza kuvuyiswa"
+    },
+    {
+      "surface": "יִשְׂרָאֵֽל",
+      "gloss": "uSirayeli"
+    }
+  ],
+  "timestamp": "2026-09-18T14:31:12.472447474Z",
+  "model": "glm-5.3"
+}

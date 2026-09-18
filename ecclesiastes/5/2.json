@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 5:2",
+  "book": "ecclesiastes",
+  "lang": "xh",
+  "chapter": 5,
+  "translation": "Kuba iphupho liza ngenxa yobuninzi bemisebenzi, nelizwi lesigwala liza phakathi kwamazwi amaninzi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "בא",
+      "gloss": "liza"
+    },
+    {
+      "surface": "החלום",
+      "gloss": "iphupho"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "ngenxa yobuninzi"
+    },
+    {
+      "surface": "ענין",
+      "gloss": "bemisebenzi"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "nelizwi"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "lesigwala"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "phakathi kobuninzi"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "kwamazwi"
+    }
+  ],
+  "timestamp": "2026-09-18T16:24:42.330224413Z",
+  "model": "glm-5.3"
+}

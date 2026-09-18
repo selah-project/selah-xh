@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 21:6",
+  "book": "1-chronicles",
+  "lang": "xh",
+  "chapter": 21,
+  "translation": "Kodwa uLevi noBhenyamini abababalwanga phakathi kwabo, kuba lamandla enkosi yayintlwaelo kuYowabhi.",
+  "tokens": [
+    {
+      "surface": "ולוי",
+      "gloss": "uLevi"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "noBhenyamini"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hayi"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "wabala"
+    },
+    {
+      "surface": "בתוכם",
+      "gloss": "phakathi kwabo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "נתעב",
+      "gloss": "yayintlwaelo"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "lamandla enkosi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "enkosi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uYowabhi"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "kuYowabhi"
+    }
+  ],
+  "timestamp": "2026-09-18T16:57:29.102871946Z",
+  "model": "glm-5.3"
+}

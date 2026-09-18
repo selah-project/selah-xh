@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "numbers 34:18",
+  "book": "numbers",
+  "lang": "xh",
+  "chapter": 34,
+  "translation": "Nithabathe isikhulu esinye, isikhulu esinye, kwisizwe ngasinye, ukulifa ⟨את⟩ ⟨the⟩ umhlaba.",
+  "tokens": [
+    {
+      "surface": "ונשיא",
+      "gloss": "isikhulu esinye"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "esinye"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "isikhulu"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "esinye"
+    },
+    {
+      "surface": "ממטה",
+      "gloss": "kwisizwe ngasinye"
+    },
+    {
+      "surface": "תקחו",
+      "gloss": "nithabathe"
+    },
+    {
+      "surface": "לנחל",
+      "gloss": "ukulifa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umhlaba"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "umhlaba"
+    }
+  ],
+  "timestamp": "2026-09-18T07:48:52.771074184Z",
+  "model": "glm-5.3"
+}

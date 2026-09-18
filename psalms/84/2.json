@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 84:2",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 84,
+  "translation": "Mazithande kangakanani iindawo zakho zokuhlala, uYahwe Tsebhayoti!",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "kangakanani"
+    },
+    {
+      "surface": "ידידות",
+      "gloss": "zithande"
+    },
+    {
+      "surface": "משכנותיך",
+      "gloss": "iindawo zakho zokuhlala"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsebhayoti"
+    }
+  ],
+  "timestamp": "2026-09-18T15:09:02.112220191Z",
+  "model": "glm-5.3"
+}

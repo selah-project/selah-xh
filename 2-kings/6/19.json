@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-kings 6:19",
+  "book": "2-kings",
+  "lang": "xh",
+  "chapter": 6,
+  "translation": "U-Elishe wathetha kubo: “Ayilendlela le, yaye ayiloo sixeko; landelani ndi, ndiza kuninikhokela ⟨kunini⟩ kumntu nimfuna.” Wabakhokelela eShomrona.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wathetha"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "kubo"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "u-Elishe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hayi"
+    },
+    {
+      "surface": "זה",
+      "gloss": "le"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "lendlela"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "yaye hayi"
+    },
+    {
+      "surface": "זה",
+      "gloss": "loo"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "sixeko"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "landelani"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "ndi"
+    },
+    {
+      "surface": "ואוליכה",
+      "gloss": "ndiza kuninikhokela"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨אתכם⟩",
+      "marks": "ninikhokela"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "umntu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "owo"
+    },
+    {
+      "surface": "תבקשון",
+      "gloss": "nimfuna"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "wabakhokelela"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ ⟨אותם⟩",
+      "marks": "Wabakhokelela"
+    },
+    {
+      "surface": "שמרונה",
+      "gloss": "eShomrona"
+    }
+  ],
+  "timestamp": "2026-09-18T17:32:26.556950258Z",
+  "model": "glm-5.3"
+}

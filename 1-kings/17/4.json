@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 17:4",
+  "book": "1-kings",
+  "lang": "xh",
+  "chapter": 17,
+  "translation": "Izakuba uzakusela kwelo nxweme, ndimisele ⟨את⟩ amagogorho ukuba akondle ngapho.”",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Izakuba"
+    },
+    {
+      "surface": "מהנחל",
+      "gloss": "kwelo nxweme"
+    },
+    {
+      "surface": "תשתה",
+      "gloss": "uzakusela"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "amagogorho"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "amagogorho"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "ndimisele"
+    },
+    {
+      "surface": "לכלכלך",
+      "gloss": "ukukondla"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ngapho"
+    }
+  ],
+  "timestamp": "2026-09-18T10:29:17.939245873Z",
+  "model": "glm-5.3"
+}

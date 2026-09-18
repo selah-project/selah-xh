@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 37:3",
+  "book": "genesis",
+  "lang": "xh",
+  "chapter": 37,
+  "translation": "UIsrayeli wamthanda uYosefu ngaphezu kwazo zonke iindodana zakhe, kuba yena wayengumntwana wobudala bakhe; wamenzela ingubo yeempasim.",
+  "tokens": [
+    {
+      "surface": "וישראל",
+      "gloss": "UIsrayeli"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "wamthanda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uYosefu"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "uYosefu"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "ngaphezu kwazo zonke"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "iindodana zakhe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "בן",
+      "gloss": "umntwana"
+    },
+    {
+      "surface": "זקנים",
+      "gloss": "wobudala"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yena"
+    },
+    {
+      "surface": "לו",
+      "gloss": "-akhe"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "wamenzela"
+    },
+    {
+      "surface": "לו",
+      "gloss": "-m-"
+    },
+    {
+      "surface": "כתנת",
+      "gloss": "ingubo"
+    },
+    {
+      "surface": "פסים",
+      "gloss": "yeempasim"
+    }
+  ],
+  "timestamp": "2026-09-18T05:34:47.136753408Z",
+  "model": "glm-5.3"
+}

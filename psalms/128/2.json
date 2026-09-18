@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 128:2",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 128,
+  "translation": "Uza kutya umsebenzi wezandla zakho; ulanga makube kuwe, kakuhle makube kuwe.",
+  "tokens": [
+    {
+      "surface": "יגיע",
+      "gloss": "umsebenzi"
+    },
+    {
+      "surface": "כפיך",
+      "gloss": "wezandla zakho"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨kuba⟩"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "uza kutya"
+    },
+    {
+      "surface": "אשריך",
+      "gloss": "ulanga makube kuwe"
+    },
+    {
+      "surface": "וטוב",
+      "gloss": "kakuhle"
+    },
+    {
+      "surface": "לך",
+      "gloss": "makube kuwe"
+    }
+  ],
+  "timestamp": "2026-09-18T15:27:05.150358466Z",
+  "model": "glm-5.3"
+}

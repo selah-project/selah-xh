@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "judges 4:8",
+  "book": "judges",
+  "lang": "xh",
+  "chapter": 4,
+  "translation": "Wathi uBaraki kuye: Ukuba uya kuhamba nam, ndiya kuhamba; kodwa ukuba awuhambi nam, andihambi.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Wathi"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "kuye"
+    },
+    {
+      "surface": "ברק",
+      "gloss": "uBaraki"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Ukuba"
+    },
+    {
+      "surface": "תלכי",
+      "gloss": "uya kuhamba"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "nam"
+    },
+    {
+      "surface": "והלכתי",
+      "gloss": "ndiya kuhamba"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "kodwa ukuba"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hayi"
+    },
+    {
+      "surface": "תלכי",
+      "gloss": "awuhambi"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "nam"
+    },
+    {
+      "surface": "לא",
+      "gloss": "andihambi-hayi"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "andihambi"
+    }
+  ],
+  "timestamp": "2026-09-18T17:28:04.519989934Z",
+  "model": "glm-5.3"
+}

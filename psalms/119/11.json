@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 119:11",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 119,
+  "translation": "Entliziyweni yam ndifihle izwi lakho, ukuze ndingoni kuwe.",
+  "tokens": [
+    {
+      "surface": "בלבי",
+      "gloss": "Entliziyweni yam"
+    },
+    {
+      "surface": "צפנתי",
+      "gloss": "ndifihle"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "izwi lakho"
+    },
+    {
+      "surface": "למען",
+      "gloss": "ukuze"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hayi"
+    },
+    {
+      "surface": "אחטא",
+      "gloss": "ndingoni"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kuwe"
+    }
+  ],
+  "timestamp": "2026-09-18T15:24:08.057065495Z",
+  "model": "glm-5.3"
+}

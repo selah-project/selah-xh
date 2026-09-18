@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 5:3",
+  "book": "deuteronomy",
+  "lang": "xh",
+  "chapter": 5,
+  "translation": "Hayi ⟨את⟩ ooyihlo kwakungasiki uYahwe ⟨את⟩ lo mnqophiso, koko ⟨את⟩ nathi thina, apha namhlanje, sonke siphefumlayo.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Hayi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ooyihlo"
+    },
+    {
+      "surface": "אבתינו",
+      "gloss": "ooyihlo"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "kwakungasiki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lo mnqophiso"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "lo mnqophiso"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "lo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "koko"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ nathi"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "thina"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ngaba"
+    },
+    {
+      "surface": "פה",
+      "gloss": "apha"
+    },
+    {
+      "surface": "היום",
+      "gloss": "namhlanje"
+    },
+    {
+      "surface": "כלנו",
+      "gloss": "sonke"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "siphefumlayo"
+    }
+  ],
+  "timestamp": "2026-09-18T07:58:14.362672055Z",
+  "model": "glm-5.3"
+}

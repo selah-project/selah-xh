@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 30:13",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 30,
+  "translation": "Ukuze ingqumbo yakho iguqulele indumiso kuwe, ingathuleli: uYahwe, uElohim wam, ndiza kukubulela kuwe kuixesha elingapheliyo.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "ukuze"
+    },
+    {
+      "surface": "יזמרך",
+      "gloss": "iguqulele indumiso kuwe"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "ingqumbo yakho"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "inga-"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "thuleli"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "uElohim wam"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "kuixesha elingapheliyo"
+    },
+    {
+      "surface": "אודך",
+      "gloss": "ndiza kukubulela kuwe"
+    }
+  ],
+  "timestamp": "2026-09-18T14:36:24.587240371Z",
+  "model": "glm-5.3"
+}

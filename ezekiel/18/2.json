@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 18:2",
+  "book": "ezekiel",
+  "lang": "xh",
+  "chapter": 18,
+  "translation": "Nitheni nina, nisebenzisa ⟨את⟩ eli qhalo ngomhlaba weYisrayeli, ndithi: Ooyise batyela amagilebhisi angavuthanga, amazinyo ke oonyana akhaliphala?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "nitheni"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "nina"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "nina"
+    },
+    {
+      "surface": "משלים",
+      "gloss": "nisebenzisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "eli qhalo"
+    },
+    {
+      "surface": "המשל",
+      "gloss": "iqhalo"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "eli"
+    },
+    {
+      "surface": "על",
+      "gloss": "ngo-"
+    },
+    {
+      "surface": "אדמת",
+      "gloss": "umhlaba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "weYisrayeli"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ndithi"
+    },
+    {
+      "surface": "אבות",
+      "gloss": "ooyise"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "batyela"
+    },
+    {
+      "surface": "בסר",
+      "gloss": "amagilebhisi angavuthanga"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "amazinyo"
+    },
+    {
+      "surface": "הבנים",
+      "gloss": "oonyana"
+    },
+    {
+      "surface": "תקהינה",
+      "gloss": "akhaliphala"
+    }
+  ],
+  "timestamp": "2026-09-18T13:06:37.368870695Z",
+  "model": "glm-5.3"
+}

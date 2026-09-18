@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 21:2",
+  "book": "numbers",
+  "lang": "xh",
+  "chapter": 21,
+  "translation": "Yaye iYisrayeli yenza isithembiso kuYahwe, yathi: Ukuba uza kunika ngokwenene ⟨את⟩ abantu aba esandleni sam, ndiza kutshatyalalisa ngokupheleleyo ⟨את⟩ iidolophu zazo.",
+  "tokens": [
+    {
+      "surface": "וידר",
+      "gloss": "yenza isithembiso"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "iYisrayeli"
+    },
+    {
+      "surface": "נדר",
+      "gloss": "isithembiso"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kuYahwe"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "yathi"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ukuba"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "kunika"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "ngokwenene"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abantu aba"
+    },
+    {
+      "surface": "העם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "aba"
+    },
+    {
+      "surface": "בידי",
+      "gloss": "esandleni sam"
+    },
+    {
+      "surface": "והחרמתי",
+      "gloss": "ndiza kutshatyalalisa ngokupheleleyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iidolophu zazo"
+    },
+    {
+      "surface": "עריהם",
+      "gloss": "iidolophu zazo"
+    }
+  ],
+  "timestamp": "2026-09-18T07:32:42.701651920Z",
+  "model": "glm-5.3"
+}

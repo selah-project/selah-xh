@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 10:6",
+  "book": "ecclesiastes",
+  "lang": "xh",
+  "chapter": 10,
+  "translation": "usizi lubekwe ezindaweni eziphezulu ezininzi, abatyebi bahlala ezindaweni ezisezantsi.",
+  "tokens": [
+    {
+      "surface": "נתן",
+      "gloss": "lubekwe"
+    },
+    {
+      "surface": "הסכל",
+      "gloss": "usizi"
+    },
+    {
+      "surface": "במרומים",
+      "gloss": "ezindaweni eziphezulu"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "ezininzi"
+    },
+    {
+      "surface": "ועשירים",
+      "gloss": "abatimba"
+    },
+    {
+      "surface": "בשפל",
+      "gloss": "ezindaweni ezisezantsi"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "bahlala"
+    }
+  ],
+  "timestamp": "2026-09-18T16:25:07.408216349Z",
+  "model": "glm-5.3"
+}

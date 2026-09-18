@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 33:2",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 33,
+  "translation": "Dumisani kuYahwe ngekhinora; ngengevela yamashumi ezintsinga culani kuye.",
+  "tokens": [
+    {
+      "surface": "הודו",
+      "gloss": "Dumisani"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kuYahwe"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "ngekhinora"
+    },
+    {
+      "surface": "בנבל",
+      "gloss": "ngengevela"
+    },
+    {
+      "surface": "עשור",
+      "gloss": "yamashumi ezintsinga"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "culani"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kuye"
+    }
+  ],
+  "timestamp": "2026-09-18T14:41:25.866134213Z",
+  "model": "glm-5.3"
+}

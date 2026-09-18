@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 9:8",
+  "book": "ezekiel",
+  "lang": "xh",
+  "chapter": 9,
+  "translation": "Kwathi sasibabetha bona, ndasala ndedwa; ndawa ngobuso, ndadankisa, ndathi: “Yhoo! u-Adonayi uYahwe, ngokutshisa ngokwenu konke okuseleyo kukaSirayeli, na, ngokuthulisa ulwalelwakho phezu kweYerushalayimi?”",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "kwathi"
+    },
+    {
+      "surface": "כהכותם",
+      "gloss": "sasibabetha"
+    },
+    {
+      "surface": "ונאשאר",
+      "gloss": "ndasala"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ndedwa"
+    },
+    {
+      "surface": "ואפלה",
+      "gloss": "ndawa"
+    },
+    {
+      "surface": "על",
+      "gloss": "nge-"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ubuso"
+    },
+    {
+      "surface": "ואזעק",
+      "gloss": "ndadankisa"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "ndathi"
+    },
+    {
+      "surface": "אהה",
+      "gloss": "Yhoo!"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "u-Adonayi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "המשחית",
+      "gloss": "ngokutshisa"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ngokwenu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "konke okuseleyo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "konke"
+    },
+    {
+      "surface": "שארית",
+      "gloss": "okuseleyo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ukaSirayeli"
+    },
+    {
+      "surface": "בשפכך",
+      "gloss": "ngokuthulisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ulwalelwakho"
+    },
+    {
+      "surface": "חמתך",
+      "gloss": "ulwalelwakho"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu kwa-"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "eYerushalayimi"
+    }
+  ],
+  "timestamp": "2026-09-18T13:01:02.430399698Z",
+  "model": "glm-5.3"
+}

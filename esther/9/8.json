@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "esther 9:8",
+  "book": "esther",
+  "lang": "xh",
+  "chapter": 9,
+  "translation": "Nango u-Porata, nango u-Adaliya, nango u-Aridata;",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "u-Porata"
+    },
+    {
+      "surface": "פורתא",
+      "gloss": "u-Porata"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "u-Adaliya"
+    },
+    {
+      "surface": "אדליא",
+      "gloss": "u-Adaliya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "u-Aridata"
+    },
+    {
+      "surface": "ארידתא",
+      "gloss": "u-Aridata"
+    }
+  ],
+  "timestamp": "2026-09-18T16:29:21.562818135Z",
+  "model": "glm-5.3"
+}

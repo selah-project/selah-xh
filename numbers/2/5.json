@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 2:5",
+  "book": "numbers",
+  "lang": "xh",
+  "chapter": 2,
+  "translation": "Abaqampela kum acingwe laseYissaskhar, inkunzi yamadodana kaYissaskhar yingowama uNetaneli unyana kaTsuari.",
+  "tokens": [
+    {
+      "surface": "והחנים",
+      "gloss": "Abaqampela"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "kum"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "acingwe"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "laseYissaskhar"
+    },
+    {
+      "surface": "ונשיא",
+      "gloss": "inkunzi"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "yamadodana"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "kaYissaskhar"
+    },
+    {
+      "surface": "נתנאל",
+      "gloss": "uNetaneli"
+    },
+    {
+      "surface": "בן",
+      "gloss": "unyana"
+    },
+    {
+      "surface": "צוער",
+      "gloss": "kaTsuari"
+    }
+  ],
+  "timestamp": "2026-09-18T07:10:12.355469290Z",
+  "model": "glm-5.3"
+}

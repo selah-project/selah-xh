@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 23:1",
+  "book": "2-kings",
+  "lang": "xh",
+  "chapter": 23,
+  "translation": "Inkosi yathumela, babuthelwa kuye bonke oodala beYuda naseYerushalayimi.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "yathumela"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "inkosi"
+    },
+    {
+      "surface": "ויאספו",
+      "gloss": "babuthelwa"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kuye"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bonke"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "oodala"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "beYuda"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "naseYerushalayimi"
+    }
+  ],
+  "timestamp": "2026-09-18T10:59:20.939447082Z",
+  "model": "glm-5.3"
+}

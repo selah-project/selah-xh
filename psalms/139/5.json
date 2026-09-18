@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 139:5",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 139,
+  "translation": "Ngemva kangaphambili undingelezile, walela phezu kwam isandla sakho.",
+  "tokens": [
+    {
+      "surface": "אחור",
+      "gloss": "ngemva"
+    },
+    {
+      "surface": "וקדם",
+      "gloss": "kangaphambili"
+    },
+    {
+      "surface": "צרתני",
+      "gloss": "undingelezile"
+    },
+    {
+      "surface": "ותשת",
+      "gloss": "walela"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "phezu kwam"
+    },
+    {
+      "surface": "כפכה",
+      "gloss": "isandla sakho"
+    }
+  ],
+  "timestamp": "2026-09-18T15:30:18.636697181Z",
+  "model": "glm-5.3"
+}

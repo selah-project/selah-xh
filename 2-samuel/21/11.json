@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-samuel 21:11",
+  "book": "2-samuel",
+  "lang": "xh",
+  "chapter": 21,
+  "translation": "Kwazisiwa kuDawidi ⟨את⟩ oko akwenzileyo uRitspa intombi ka-Aiya, unyazi kaShawuli.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "kwazisiwa"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "kuDawidi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oko"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oko"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "akwenzileyo"
+    },
+    {
+      "surface": "רצפה",
+      "gloss": "uRitspa"
+    },
+    {
+      "surface": "בת",
+      "gloss": "intombi"
+    },
+    {
+      "surface": "איה",
+      "gloss": "ka-Aiya"
+    },
+    {
+      "surface": "פלגש",
+      "gloss": "unyazi"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "kaShawuli"
+    }
+  ],
+  "timestamp": "2026-09-18T10:03:16.567979822Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ezra 6:19",
+  "book": "ezra",
+  "lang": "xh",
+  "chapter": 6,
+  "translation": "Kwaza kwaba yiloo mini, abantwana bokuthunyelwa benza ⟨את⟩ iPesach ngomhla we-14, ngenyanga yokuqala.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "benza"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abantwana"
+    },
+    {
+      "surface": "הגולה",
+      "gloss": "bokuthunyelwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iPesach"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "iPesach"
+    },
+    {
+      "surface": "בארבעה",
+      "gloss": "we-14"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "eshumi nane"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "ngenyanga"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "yokuqala"
+    }
+  ],
+  "timestamp": "2026-09-18T16:39:57.216594701Z",
+  "model": "glm-5.3"
+}

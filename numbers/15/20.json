@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 15:20",
+  "book": "numbers",
+  "lang": "xh",
+  "chapter": 15,
+  "translation": "Ekuqaleni komdoko wenu, ikeyiki, niphakamise isipho sokuphakamisa; njengesipho senqaba yengqolowa, ngokunjalo niya kusiphakamisa ⟨את⟩ sona.",
+  "tokens": [
+    {
+      "surface": "ראשית",
+      "gloss": "ekuqaleni"
+    },
+    {
+      "surface": "ערסתכם",
+      "gloss": "umdoko wenu"
+    },
+    {
+      "surface": "חלה",
+      "gloss": "ikeyiki"
+    },
+    {
+      "surface": "תרימו",
+      "gloss": "niphakamise"
+    },
+    {
+      "surface": "תרומה",
+      "gloss": "isipho sokuphakamisa"
+    },
+    {
+      "surface": "כתרומת",
+      "gloss": "njengesipho"
+    },
+    {
+      "surface": "גרן",
+      "gloss": "senqaba yengqolowa"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ngokunjalo"
+    },
+    {
+      "surface": "תרימו",
+      "gloss": "niya kusiphakamisa"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "sona (ikeyiki)"
+    }
+  ],
+  "timestamp": "2026-09-18T07:28:12.278653035Z",
+  "model": "glm-5.3"
+}

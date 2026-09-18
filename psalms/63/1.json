@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 63:1",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 63,
+  "translation": "Umzimelo kaDavide, kwixesha lokuba eseleyiseleweni saseYehuda.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Umzimelo"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "kaDavide"
+    },
+    {
+      "surface": "בהיותו",
+      "gloss": "kwixesha lokuba ese"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "leyiseleweni"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "saseYehuda"
+    }
+  ],
+  "timestamp": "2026-09-18T14:55:22.723286206Z",
+  "model": "glm-5.3"
+}

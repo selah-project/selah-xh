@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 133:2",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 133,
+  "translation": "Njengomhlambi ogqwesileyo ophezu kweentloko, othehla phezu kwiintsimba, intsimba ka-Aharon, othehla phezu komphetho wempahla yakhe.",
+  "tokens": [
+    {
+      "surface": "כשמן",
+      "gloss": "Njengomhlambi"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "ogqwesileyo"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "kweentloko"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "othehla"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu"
+    },
+    {
+      "surface": "הזקן",
+      "gloss": "kwiintsimba"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "intsimba"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "ka-Aharon"
+    },
+    {
+      "surface": "שירד",
+      "gloss": "othehla"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu"
+    },
+    {
+      "surface": "פי",
+      "gloss": "komphetho"
+    },
+    {
+      "surface": "מדותיו",
+      "gloss": "wempahla yakhe"
+    }
+  ],
+  "timestamp": "2026-09-18T15:27:15.907084166Z",
+  "model": "glm-5.3"
+}

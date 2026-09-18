@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 40:8",
+  "book": "isaiah",
+  "lang": "xh",
+  "chapter": 40,
+  "translation": "Utyani uyawoma, intyatyambo iyatshona, kodwa ilizwi likaElohim wethu luya kumi kuze kube phakade.",
+  "tokens": [
+    {
+      "surface": "יבש",
+      "gloss": "uyawoma"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "utyani"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "iyatshona"
+    },
+    {
+      "surface": "ציץ",
+      "gloss": "intyatyambo"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "kodwa ilizwi"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "likaElohim wethu"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "luya kumi"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "kuze kube phakade"
+    }
+  ],
+  "timestamp": "2026-09-18T11:30:26.399516788Z",
+  "model": "glm-5.3"
+}

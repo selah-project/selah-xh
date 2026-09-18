@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 78:15",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 78,
+  "translation": "Wadandulula iindwenge kwintlanti, wabananelisa njengamanzulu amakhulu.",
+  "tokens": [
+    {
+      "surface": "יבקע",
+      "gloss": "Wadandulula"
+    },
+    {
+      "surface": "צרים",
+      "gloss": "iindwenge"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "kwintlanti"
+    },
+    {
+      "surface": "וישק",
+      "gloss": "wabananelisa"
+    },
+    {
+      "surface": "כתהמות",
+      "gloss": "njengamanzulu"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "amakhulu"
+    }
+  ],
+  "timestamp": "2026-09-18T15:01:58.000293151Z",
+  "model": "glm-5.3"
+}

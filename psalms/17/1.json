@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 17:1",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 17,
+  "translation": "Ithandazelo likaDavide. Yiva, uYahwe, ilungelo; qaphela idabi lam; lentulela ithandazelo lam, engenazindebe zokhohliso.",
+  "tokens": [
+    {
+      "surface": "תפלה",
+      "gloss": "Ithandazelo"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "likaDavide"
+    },
+    {
+      "surface": "שמעה",
+      "gloss": "Yiva"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "ilungelo"
+    },
+    {
+      "surface": "הקשיבה",
+      "gloss": "qaphela"
+    },
+    {
+      "surface": "רנתי",
+      "gloss": "idabi lam"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "lentulela"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "ithandazelo lam"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "ingenazo"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "izindebe"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "zokhohliso"
+    }
+  ],
+  "timestamp": "2026-09-18T14:32:28.599252662Z",
+  "model": "glm-5.3"
+}

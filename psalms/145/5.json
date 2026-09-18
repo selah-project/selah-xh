@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 145:5",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 145,
+  "translation": "Ubukhulu bezazise zobukhosi bakho, neendaba zakho ezimangalisayo ndiza kucinga ngazo.",
+  "tokens": [
+    {
+      "surface": "הדר",
+      "gloss": "ubukhulu"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "bezazise"
+    },
+    {
+      "surface": "הודך",
+      "gloss": "zobukhosi bakho"
+    },
+    {
+      "surface": "ודברי",
+      "gloss": "neendaba"
+    },
+    {
+      "surface": "נפלאותיך",
+      "gloss": "zakho ezimangalisayo"
+    },
+    {
+      "surface": "אשיחה",
+      "gloss": "ndiza kucinga ngazo"
+    }
+  ],
+  "timestamp": "2026-09-18T17:45:44.294748933Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "joshua 23:11",
+  "book": "joshua",
+  "lang": "xh",
+  "chapter": 23,
+  "translation": "Yibani nolumko olukhulu ngeemphefumlo zenu, ukuthanda ⟨את⟩ uYahwe uElohim wenu.",
+  "tokens": [
+    {
+      "surface": "ונשמרתם",
+      "gloss": "Yibani nolumko"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "olukhulu"
+    },
+    {
+      "surface": "לנפשתיכם",
+      "gloss": "ngeemphefumlo zenu"
+    },
+    {
+      "surface": "לאהבה",
+      "gloss": "ukuthanda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uYahwe uElohim wenu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "uElohim wenu"
+    }
+  ],
+  "timestamp": "2026-09-18T08:46:29.345549941Z",
+  "model": "glm-5.3"
+}

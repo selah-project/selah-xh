@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 44:6",
+  "book": "genesis",
+  "lang": "xh",
+  "chapter": 44,
+  "translation": "Wabafumana waza wathetha kubo ⟨את⟩ le miyalelo.",
+  "tokens": [
+    {
+      "surface": "וישגם",
+      "gloss": "wabafumana"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "wathetha"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "kubo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le miyalelo"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "le miyalelo"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "le"
+    }
+  ],
+  "timestamp": "2026-09-18T05:42:15.223598664Z",
+  "model": "glm-5.3"
+}

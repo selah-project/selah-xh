@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 11:8",
+  "book": "leviticus",
+  "lang": "xh",
+  "chapter": 11,
+  "translation": "Ekunyameni kwazo ngingekutyi, nasezidumbini zawo ungazichukumisi; zingcolile kuni.",
+  "tokens": [
+    {
+      "surface": "מבשרם",
+      "gloss": "ekunyameni kwazo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ngingeku"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "tyi"
+    },
+    {
+      "surface": "ובנבלתם",
+      "gloss": "nasezidumbini zawo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "unga"
+    },
+    {
+      "surface": "תגעו",
+      "gloss": "zichukumisi"
+    },
+    {
+      "surface": "טמאים",
+      "gloss": "zingcolile"
+    },
+    {
+      "surface": "הם",
+      "gloss": "zona"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kuni"
+    }
+  ],
+  "timestamp": "2026-09-18T06:42:09.767226655Z",
+  "model": "glm-5.3"
+}

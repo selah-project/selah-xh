@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 8:7",
+  "book": "leviticus",
+  "lang": "xh",
+  "chapter": 8,
+  "translation": "Wafakela phezu kwakhe ⟨את⟩ isingcingi, wamzinga ngesixa, wambathisa ⟨את⟩ ngengubo engaphandle, wafakela phezu kwakhe ⟨את⟩ i-efode, wamzinga ngesixa se-efode elorhiweyo, wayibophelela kuye ngaso.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "Wafakela phezu"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "phezu kwakhe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isingcingi"
+    },
+    {
+      "surface": "הכתנת",
+      "gloss": "isingcingi"
+    },
+    {
+      "surface": "ויחגר",
+      "gloss": "wamzinga"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "ngesisixa"
+    },
+    {
+      "surface": "באבנט",
+      "gloss": "ngesisixa"
+    },
+    {
+      "surface": "וילבש",
+      "gloss": "wambathisa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "ngengubo engaphandle"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ingubo engaphandle"
+    },
+    {
+      "surface": "המעיל",
+      "gloss": "ingubo engaphandle"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "wafakela phezu"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "phezu kwakhe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i-efode"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "i-efode"
+    },
+    {
+      "surface": "ויחגר",
+      "gloss": "wamzinga"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "ngesisixa se-efode elorhiweyo"
+    },
+    {
+      "surface": "בחשב",
+      "gloss": "ngesisixa elorhiweyo"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "se-efode"
+    },
+    {
+      "surface": "ויאפד",
+      "gloss": "wayibophelela"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kuye"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ngaso"
+    }
+  ],
+  "timestamp": "2026-09-18T06:44:14.378661901Z",
+  "model": "glm-5.3"
+}

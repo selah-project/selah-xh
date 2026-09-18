@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 9:1",
+  "book": "genesis",
+  "lang": "xh",
+  "chapter": 9,
+  "translation": "uElohim wabusisa uNokhe nabonyana bakhe, wathi kubo: “Zalani, nandiphe, nizalise ⟨את⟩ umhlaba.”",
+  "tokens": [
+    {
+      "surface": "ויברך",
+      "gloss": "wabusisa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uNokhe"
+    },
+    {
+      "surface": "נח",
+      "gloss": "uNokhe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "abonyana bakhe"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "nabonyana bakhe"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kubo"
+    },
+    {
+      "surface": "פרו",
+      "gloss": "Zalani"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "nandiphe"
+    },
+    {
+      "surface": "ומלאו",
+      "gloss": "nizalise"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umhlaba"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "umhlaba"
+    }
+  ],
+  "timestamp": "2026-09-18T05:10:31.330704444Z",
+  "model": "glm-5.3"
+}

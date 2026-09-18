@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 129:6",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 129,
+  "translation": "Mabe ngabe njengotye olusentanteni, olusempuma phambi kokutsalwa phandle komile.",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "Mabe ngabe"
+    },
+    {
+      "surface": "כחציר",
+      "gloss": "njengotye"
+    },
+    {
+      "surface": "גגות",
+      "gloss": "olusentanteni"
+    },
+    {
+      "surface": "שקדמת",
+      "gloss": "olusempuma phambi"
+    },
+    {
+      "surface": "שלף",
+      "gloss": "kokutsalwa phandle"
+    },
+    {
+      "surface": "יבש",
+      "gloss": "komile"
+    }
+  ],
+  "timestamp": "2026-09-18T15:27:34.881748717Z",
+  "model": "glm-5.3"
+}

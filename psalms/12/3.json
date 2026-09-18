@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 12:3",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 12,
+  "translation": "Bathetha ubuxoki, umntu ⟨את⟩ umhlobo wakhe; ngomlomo oqhwafelayo, entliziyweni nangentliziyo, bathetha.",
+  "tokens": [
+    {
+      "surface": "שוא",
+      "gloss": "ubuxoki"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "Bathetha"
+    },
+    {
+      "surface": "איש",
+      "gloss": "umntu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umhlobo wakhe"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "umhlobo wakhe"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "ngomlomo"
+    },
+    {
+      "surface": "חלקות",
+      "gloss": "oqhwafelayo"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "entliziyweni"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "nangentliziyo"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "bathetha"
+    }
+  ],
+  "timestamp": "2026-09-18T14:30:46.523087337Z",
+  "model": "glm-5.3"
+}

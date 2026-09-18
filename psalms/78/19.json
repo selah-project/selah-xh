@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 78:19",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 78,
+  "translation": "Bathetha ngokuchasene noElohim, bathi: “Ngaba u-El unako ukulungisa itafile elandle?”",
+  "tokens": [
+    {
+      "surface": "וידברו",
+      "gloss": "Bathetha"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "ngokuchasene noElohim"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "bathi"
+    },
+    {
+      "surface": "היוכל",
+      "gloss": "Ngaba … unako"
+    },
+    {
+      "surface": "אל",
+      "gloss": "u-El"
+    },
+    {
+      "surface": "לערך",
+      "gloss": "ukulungisa"
+    },
+    {
+      "surface": "שלחן",
+      "gloss": "itafile"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "elandle"
+    }
+  ],
+  "timestamp": "2026-09-18T17:44:40.378837136Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 64:11",
+  "book": "isaiah",
+  "lang": "xh",
+  "chapter": 64,
+  "translation": "Ingaba ngezi zinto uza kuzibambelela, uYahwe? Uza kuthula ubusihluphe kakhulu na?",
+  "tokens": [
+    {
+      "surface": "העל",
+      "gloss": "Ingaba ngenxa"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "yezi zinto"
+    },
+    {
+      "surface": "תתאפק",
+      "gloss": "uza kuzibambelela"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "תחשה",
+      "gloss": "uza kuthula"
+    },
+    {
+      "surface": "ותעננו",
+      "gloss": "ubusihluphe"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kude"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "kakhulu"
+    }
+  ],
+  "timestamp": "2026-09-18T11:49:24.058969451Z",
+  "model": "glm-5.3"
+}

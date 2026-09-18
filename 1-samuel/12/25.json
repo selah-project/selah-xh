@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-samuel 12:25",
+  "book": "1-samuel",
+  "lang": "xh",
+  "chapter": 12,
+  "translation": "Kodwa ukuba niya kuqhubeka nenza okungalunganga, nini kananjalo nenkosi yenu niya kutshatyalaliswa.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "kodwa ukuba"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "okungalunganga"
+    },
+    {
+      "surface": "תרעו",
+      "gloss": "niya kuqhubeka nenza"
+    },
+    {
+      "surface": "גם",
+      "gloss": "nini"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "kananjalo"
+    },
+    {
+      "surface": "גם",
+      "gloss": "nakananjalo"
+    },
+    {
+      "surface": "מלככם",
+      "gloss": "nenkosi yenu"
+    },
+    {
+      "surface": "תספו",
+      "gloss": "niya kutshatyalaliswa"
+    }
+  ],
+  "timestamp": "2026-09-18T09:19:09.588273501Z",
+  "model": "glm-5.3"
+}

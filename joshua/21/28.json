@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "joshua 21:28",
+  "book": "joshua",
+  "lang": "xh",
+  "chapter": 21,
+  "translation": "Kwaye kwisithwalo somthwalo wocawayo kaYissaskari: ⟨את⟩ iKishiyoni nangenxa ⟨את⟩ iindawo zayo zokutyisa imfuyo, ⟨את⟩ iDabherathi nangenxa ⟨את⟩ iindawo zayo zokutyisa imfuyo.",
+  "tokens": [
+    {
+      "surface": "וממטה",
+      "gloss": "kwisithwalo somthwalo wocawayo"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "kaYissaskara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iKishiyoni"
+    },
+    {
+      "surface": "קשיון",
+      "gloss": "iKishiyoni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ nangenxa",
+      "marks": "iindawo zayo zokutyisa imfuyo"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "iindawo zayo zokutyisa imfuyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iDabherathi"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "iDabherathi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ nangenxa",
+      "marks": "iindawo zayo zokutyisa imfuyo"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "iindawo zayo zokutyisa imfuyo"
+    }
+  ],
+  "timestamp": "2026-09-18T08:43:38.244924093Z",
+  "model": "glm-5.3"
+}

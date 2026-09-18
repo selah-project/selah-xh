@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 107:17",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 107,
+  "translation": "Abenzi bubhanxa ngenxa yendlela yokuphambuka kwabo, nangenxa wobugwenxa babo babanjwe kukrwela.",
+  "tokens": [
+    {
+      "surface": "אולים",
+      "gloss": "abenzi bubhanxa"
+    },
+    {
+      "surface": "מדרך",
+      "gloss": "ngenxa yendlela"
+    },
+    {
+      "surface": "פשעם",
+      "gloss": "yokuphambuka kwabo"
+    },
+    {
+      "surface": "ומעונתיהם",
+      "gloss": "nangenxa wobugwenxa babo"
+    },
+    {
+      "surface": "יתענו",
+      "gloss": "babanjwe kukrwela"
+    }
+  ],
+  "timestamp": "2026-09-18T15:18:24.861171984Z",
+  "model": "glm-5.3"
+}

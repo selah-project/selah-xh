@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 67:2",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 67,
+  "translation": "uElohim mabanenceba kuthi, masibusise, aze ubuso bakhe bukhanye phezu kwethu ⟨את⟩ nathi. Selah.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "יחננו",
+      "gloss": "mabanenceba kuthi"
+    },
+    {
+      "surface": "ויברכנו",
+      "gloss": "masibusise"
+    },
+    {
+      "surface": "יאר",
+      "gloss": "bukhanye"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "ubuso bakhe"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ nathi",
+      "marks": "nathi"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah."
+    }
+  ],
+  "timestamp": "2026-09-18T14:54:42.419636634Z",
+  "model": "glm-5.3"
+}

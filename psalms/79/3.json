@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 79:3",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 79,
+  "translation": "Bachithe igazi labo njengamanzi ajikeleze iYerushalayimi, yaye akukho mbazi.",
+  "tokens": [
+    {
+      "surface": "שפכו",
+      "gloss": "Bachithe"
+    },
+    {
+      "surface": "דמם",
+      "gloss": "igazi labo"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "njengamanzi"
+    },
+    {
+      "surface": "סביבות",
+      "gloss": "ajikeleze"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "iYerushalayimi"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "yaye akukho"
+    },
+    {
+      "surface": "קובר",
+      "gloss": "mbazi"
+    }
+  ],
+  "timestamp": "2026-09-18T15:06:08.834534668Z",
+  "model": "glm-5.3"
+}

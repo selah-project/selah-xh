@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 8:12",
+  "book": "1-kings",
+  "lang": "xh",
+  "chapter": 8,
+  "translation": "Ngoko uShelomoh wathetha: UYahwe uthi uza kuhlala ekumnyameni okumxinwa.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "Ngoko"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "wathetha"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "uShelomoh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "uthi"
+    },
+    {
+      "surface": "לשכן",
+      "gloss": "uhlale"
+    },
+    {
+      "surface": "בערפל",
+      "gloss": "ekumnyameni okumxinwa"
+    }
+  ],
+  "timestamp": "2026-09-18T10:20:22.933908535Z",
+  "model": "glm-5.3"
+}

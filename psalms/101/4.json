@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 101:4",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 101,
+  "translation": "Intliziyo eqhosholiweyo iza kundityabula kum; ububi andazi.",
+  "tokens": [
+    {
+      "surface": "לבב",
+      "gloss": "Intliziyo"
+    },
+    {
+      "surface": "עקש",
+      "gloss": "eqhosholiweyo"
+    },
+    {
+      "surface": "יסור",
+      "gloss": "iza kundityabula"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "kum"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ububi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "anda-"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "zi"
+    }
+  ],
+  "timestamp": "2026-09-18T15:14:31.032684738Z",
+  "model": "glm-5.3"
+}

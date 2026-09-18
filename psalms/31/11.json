@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 31:11",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 31,
+  "translation": "Kuba ubomi bam buya butyaleleliswa bubuhlungu, iminyaka yam ngokukhalipha; amandla am ayagoduka ngobubi bam, namathambo am aphelile.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kuba"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "buya butyaleleliswa"
+    },
+    {
+      "surface": "ביגון",
+      "gloss": "ubuhlungu"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "ubomi bam"
+    },
+    {
+      "surface": "ושנותי",
+      "gloss": "iminyaka yam"
+    },
+    {
+      "surface": "באנחה",
+      "gloss": "ngokukhalipha"
+    },
+    {
+      "surface": "כשל",
+      "gloss": "ayagoduka"
+    },
+    {
+      "surface": "בעוני",
+      "gloss": "ngobubi bam"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "amandla am"
+    },
+    {
+      "surface": "ועצמי",
+      "gloss": "namathambo am"
+    },
+    {
+      "surface": "עששו",
+      "gloss": "aphelile"
+    }
+  ],
+  "timestamp": "2026-09-18T14:37:40.084721092Z",
+  "model": "glm-5.3"
+}

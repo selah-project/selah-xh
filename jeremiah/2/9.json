@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 2:9",
+  "book": "jeremiah",
+  "lang": "xh",
+  "chapter": 2,
+  "translation": "Ngoko ndiza kuphikisana nani kwakhona, uthe la uYahwe, ndiza kuphikisana ⟨את⟩ noonawo boonyana benu.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "Ngoko"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "kwakhona"
+    },
+    {
+      "surface": "אריב",
+      "gloss": "ndiza kuphikisana"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "nani ⟨את⟩",
+      "marks": "nani"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "ute la"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "noonawo booonyana benu"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ooonyana b-"
+    },
+    {
+      "surface": "בניכם",
+      "gloss": "benu"
+    },
+    {
+      "surface": "אריב",
+      "gloss": "ndiza kuphikisana"
+    }
+  ],
+  "timestamp": "2026-09-18T11:48:57.345974446Z",
+  "model": "glm-5.3"
+}

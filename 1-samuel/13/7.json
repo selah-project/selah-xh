@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 13:7",
+  "book": "1-samuel",
+  "lang": "xh",
+  "chapter": 13,
+  "translation": "AmaIvrim aqhubeka adlula ⟨את⟩ iYardeni, aya elweni lakwaGadi nakwaGileyadi; uShawuli wayesakhona eGilgali, yaye abantu bonke bamlandela beduduma ngoyika.",
+  "tokens": [
+    {
+      "surface": "ועברים",
+      "gloss": "amaIvrim"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "aqhubeka adlula"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iYardeni"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "iYardeni"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "elweni"
+    },
+    {
+      "surface": "גד",
+      "gloss": "lakwaGadi"
+    },
+    {
+      "surface": "וגלעד",
+      "gloss": "nakwaGileyadi"
+    },
+    {
+      "surface": "ושאול",
+      "gloss": "uShawuli"
+    },
+    {
+      "surface": "עודנו",
+      "gloss": "wayesakhona"
+    },
+    {
+      "surface": "בגלגל",
+      "gloss": "eGilgali"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "bonke"
+    },
+    {
+      "surface": "העם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "חרדו",
+      "gloss": "bamlandela beduduma"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "kuye"
+    }
+  ],
+  "timestamp": "2026-09-18T09:20:55.365829Z",
+  "model": "glm-5.3"
+}

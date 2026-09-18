@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 111,
+  "ref": "psalms 119:111",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 119,
+  "translation": "Ndifumene iziqiniseko zakho njengesabelo<br>okwenani, kuba zona zonwabisa intliziyo yam.",
+  "tokens": [
+    {
+      "surface": "נחלתי",
+      "gloss": "ndifumene njengesabelo"
+    },
+    {
+      "surface": "עדותיך",
+      "gloss": "iziqiniseko zakho"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "okwenani"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "ששון",
+      "gloss": "zonwabisa (uvuyo)"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "intliziyo yam"
+    },
+    {
+      "surface": "המה",
+      "gloss": "zona"
+    }
+  ],
+  "timestamp": "2026-09-18T15:25:47.935770032Z",
+  "model": "glm-5.3"
+}

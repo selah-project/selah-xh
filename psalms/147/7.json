@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 147:7",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 147,
+  "translation": "Culani kuYahwe ngubulelo, dlalani iingoma kuElohim wethu ngekhinoro.",
+  "tokens": [
+    {
+      "surface": "ענו",
+      "gloss": "Culani"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kuYahwe"
+    },
+    {
+      "surface": "בתודה",
+      "gloss": "ngubulelo"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "dlalani iingoma"
+    },
+    {
+      "surface": "לאלהינו",
+      "gloss": "kuElohim wethu"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "ngekhinoro"
+    }
+  ],
+  "timestamp": "2026-09-18T15:34:55.679997760Z",
+  "model": "glm-5.3"
+}

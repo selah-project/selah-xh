@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 22:23",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 22,
+  "translation": "ulaka lwam luya kuvutha, ndiza kunibulala ngekrele, nabafazi bakenu baya kuba ngamafelokazi, nabantwana bakenu betandane.",
+  "tokens": [
+    {
+      "surface": "וחרה",
+      "gloss": "luya kuvutha"
+    },
+    {
+      "surface": "אפי",
+      "gloss": "ulaka lwam"
+    },
+    {
+      "surface": "והרגתי",
+      "gloss": "ndiza kunibulala"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ nina"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "ngekrele"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "baya kuba"
+    },
+    {
+      "surface": "נשיכם",
+      "gloss": "abafazi bakenu"
+    },
+    {
+      "surface": "אלמנות",
+      "gloss": "ngamafelokazi"
+    },
+    {
+      "surface": "ובניכם",
+      "gloss": "nabantwana bakenu"
+    },
+    {
+      "surface": "יתמים",
+      "gloss": "betandane"
+    }
+  ],
+  "timestamp": "2026-09-18T06:08:45.612680814Z",
+  "model": "glm-5.3"
+}

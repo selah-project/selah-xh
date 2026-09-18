@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 6:10",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 6,
+  "translation": "Uahwe wauva isicelo sam; uYahwe uza kwamkela thandazo yam.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "wauva"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "תחנתי",
+      "gloss": "isicelo sam"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "ithandazo yam"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "uza kwamkela"
+    }
+  ],
+  "timestamp": "2026-09-18T14:24:45.387711090Z",
+  "model": "glm-5.3"
+}

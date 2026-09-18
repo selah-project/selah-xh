@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 8:21",
+  "book": "isaiah",
+  "lang": "xh",
+  "chapter": 8,
+  "translation": "Bayadlula ngayo, bazinze nendlala; kuya kwenzeka ukuba xa belamba baze baphukwa yininhlwa, baqalele kukumkani wabo nakuElohim wabo, bajonge phezulu.",
+  "tokens": [
+    {
+      "surface": "ועבר",
+      "gloss": "bayadlula"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ngayo"
+    },
+    {
+      "surface": "נקשה",
+      "gloss": "bazinze"
+    },
+    {
+      "surface": "ורעב",
+      "gloss": "nendlala"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "kuya kwenzeka"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ukuba"
+    },
+    {
+      "surface": "ירעב",
+      "gloss": "xa belamba"
+    },
+    {
+      "surface": "והתקצף",
+      "gloss": "baze baphukwa yininhlwa"
+    },
+    {
+      "surface": "וקלל",
+      "gloss": "baqalele"
+    },
+    {
+      "surface": "במלכו",
+      "gloss": "kukumkani wabo"
+    },
+    {
+      "surface": "ובאלהיו",
+      "gloss": "nakuElohim wabo"
+    },
+    {
+      "surface": "ופנה",
+      "gloss": "bajonge"
+    },
+    {
+      "surface": "למעלה",
+      "gloss": "phezulu"
+    }
+  ],
+  "timestamp": "2026-09-18T11:05:26.057060277Z",
+  "model": "glm-5.3"
+}

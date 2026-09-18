@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 10:8",
+  "book": "1-chronicles",
+  "lang": "xh",
+  "chapter": 10,
+  "translation": "Kwaba ngomso, kwafika amaFilisti ukuzambukla ⟨את⟩ abafiweyo; kwafumana uShawuli ⟨את⟩ noonyana bakhe bephantsi entabeni iGilbowa.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Kwaba"
+    },
+    {
+      "surface": "ממחרת",
+      "gloss": "ngomso"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "kwafika"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "amaFilisti"
+    },
+    {
+      "surface": "לפשט",
+      "gloss": "ukuzambukla"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abafiweyo"
+    },
+    {
+      "surface": "החללים",
+      "gloss": "abafiweyo"
+    },
+    {
+      "surface": "וימצאו",
+      "gloss": "kwafumana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uShawuli"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "uShawuli"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "noonyana bakhe"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "noonyana bakhe"
+    },
+    {
+      "surface": "נפלים",
+      "gloss": "bephantsi"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "entabeni"
+    },
+    {
+      "surface": "גלבע",
+      "gloss": "iGilbowa"
+    }
+  ],
+  "timestamp": "2026-09-18T17:51:37.946255048Z",
+  "model": "glm-5.3"
+}

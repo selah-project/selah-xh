@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 34:4",
+  "book": "genesis",
+  "lang": "xh",
+  "chapter": 34,
+  "translation": "UShekemi wathetha noKhamori utata wake, wathi: “Thatha ndithhele ⟨את⟩ le ntombi ibe ngumfazi.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wathetha"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "uShekemi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "no"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "Khamori"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "utata wake"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "קח",
+      "gloss": "Thatha"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ndithhele"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le ntombi"
+    },
+    {
+      "surface": "הילדה",
+      "gloss": "le ntombi"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "le"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "ibe ngumfazi"
+    }
+  ],
+  "timestamp": "2026-09-18T05:33:14.538270885Z",
+  "model": "glm-5.3"
+}

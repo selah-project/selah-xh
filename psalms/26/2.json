@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 26:2",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 26,
+  "translation": "Ndivavanye, uYahwe, uze undilinge; coca iintsoho zam nentliziyo yam.",
+  "tokens": [
+    {
+      "surface": "בחנני",
+      "gloss": "Ndivavanye"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "ונסני",
+      "gloss": "uze undilinge"
+    },
+    {
+      "surface": "צרופה",
+      "gloss": "coca"
+    },
+    {
+      "surface": "כליותי",
+      "gloss": "iintsoho zam"
+    },
+    {
+      "surface": "ולבי",
+      "gloss": "nentliziyo yam"
+    }
+  ],
+  "timestamp": "2026-09-18T14:38:43.064795546Z",
+  "model": "glm-5.3"
+}

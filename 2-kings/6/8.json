@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 6:8",
+  "book": "2-kings",
+  "lang": "xh",
+  "chapter": 6,
+  "translation": "Inkosi yeAram yayilwa ngeYisrael; waza wabanikele isicwangciso neenkonza zakhe, esithi: “Kwindawo ethile-nje kuya kubakho inkampu yam.”",
+  "tokens": [
+    {
+      "surface": "ומלך",
+      "gloss": "inkosi"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "yeAram"
+    },
+    {
+      "surface": "היה",
+      "gloss": "yayi"
+    },
+    {
+      "surface": "נלחם",
+      "gloss": "yayilwa"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "ngeYisrael"
+    },
+    {
+      "surface": "ויועץ",
+      "gloss": "wabanikele isicwangciso"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "eenkonza zakhe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "esithi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "indawo"
+    },
+    {
+      "surface": "פלני",
+      "gloss": "ethile-nje"
+    },
+    {
+      "surface": "אלמני",
+      "gloss": "nakwenye"
+    },
+    {
+      "surface": "תחנתי",
+      "gloss": "inkampu yam"
+    }
+  ],
+  "timestamp": "2026-09-18T10:40:05.158184293Z",
+  "model": "glm-5.3"
+}

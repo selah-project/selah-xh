@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 37:2",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 37,
+  "translation": "Wayizehlisa ngegolide ecocekileyo ngaphakathi nangaphandle, wayenzela isangqasegolide ejikelezileyo.",
+  "tokens": [
+    {
+      "surface": "ויצפהו",
+      "gloss": "wayizehlisa ngegolide"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "(nge)golide"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "ecocekileyo"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "ngaphakathi"
+    },
+    {
+      "surface": "ומחוץ",
+      "gloss": "nangaphandle"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "wayenzela"
+    },
+    {
+      "surface": "לו",
+      "gloss": "(yona)"
+    },
+    {
+      "surface": "זר",
+      "gloss": "isangqase"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "segolide"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ejikelezileyo"
+    }
+  ],
+  "timestamp": "2026-09-18T06:28:55.638087961Z",
+  "model": "glm-5.3"
+}

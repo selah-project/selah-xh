@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 26:10",
+  "book": "leviticus",
+  "lang": "xh",
+  "chapter": 26,
+  "translation": "Niya kutya okudala eqhekekileyo, nidale okudala phambi kwentsha niyibeke ecaleni.",
+  "tokens": [
+    {
+      "surface": "ואכלתם",
+      "gloss": "Niya kutya"
+    },
+    {
+      "surface": "ישן",
+      "gloss": "okudala"
+    },
+    {
+      "surface": "נושן",
+      "gloss": "eqhekekileyo"
+    },
+    {
+      "surface": "וישן",
+      "gloss": "okudala"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "phambi kwe-"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "intsha"
+    },
+    {
+      "surface": "תוציאו",
+      "gloss": "niya kukhupha"
+    }
+  ],
+  "timestamp": "2026-09-18T07:05:57.245637321Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 23:6",
+  "book": "1-samuel",
+  "lang": "xh",
+  "chapter": 23,
+  "translation": "Kwathi xa u-Evyatar unyana ka-Ahimelekhi ebalekela uDawidi eKeyila, i-efodi yehla esandleni sakhe.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "kwathi"
+    },
+    {
+      "surface": "בברח",
+      "gloss": "xa ebalekela"
+    },
+    {
+      "surface": "אביתר",
+      "gloss": "u-Evyatar"
+    },
+    {
+      "surface": "בן",
+      "gloss": "unyana"
+    },
+    {
+      "surface": "אחימלך",
+      "gloss": "ka-Ahimelekhi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "uDawidi"
+    },
+    {
+      "surface": "קעילה",
+      "gloss": "eKeyila"
+    },
+    {
+      "surface": "אפוד",
+      "gloss": "i-efodi"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "yehla"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "esandleni sakhe"
+    }
+  ],
+  "timestamp": "2026-09-18T09:34:05.712652776Z",
+  "model": "glm-5.3"
+}

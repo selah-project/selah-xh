@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 49:3",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 49,
+  "translation": "Nabantwana babantu, nabantwana bemizi, ngokufanayo, intyeba nengcakaza.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Na"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abantwana ba"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "גם",
+      "gloss": "nabantwana ba"
+    },
+    {
+      "surface": "בני",
+      "gloss": "emizi"
+    },
+    {
+      "surface": "איש",
+      "gloss": "abantwana"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "ngokufanayo"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "intyeba"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "nengcakaza"
+    }
+  ],
+  "timestamp": "2026-09-18T14:47:24.813860936Z",
+  "model": "glm-5.3"
+}

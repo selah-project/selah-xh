@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 11:17",
+  "book": "leviticus",
+  "lang": "xh",
+  "chapter": 11,
+  "translation": "neno ⟨את⟩ isikhova esincinci, neno ⟨את⟩ inqwangqa, neno ⟨את⟩ isikhova esikhulu,",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "neno ⟨את⟩",
+      "marks": "isikhova esincinci"
+    },
+    {
+      "surface": "הכוס",
+      "gloss": "isikhova esincinci"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "neno ⟨את⟩",
+      "marks": "inqwangqa"
+    },
+    {
+      "surface": "השלך",
+      "gloss": "inqwangqa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "neno ⟨את⟩",
+      "marks": "isikhova esikhulu"
+    },
+    {
+      "surface": "הינשוף",
+      "gloss": "isikhova esikhulu"
+    }
+  ],
+  "timestamp": "2026-09-18T06:43:03.147967878Z",
+  "model": "glm-5.3"
+}

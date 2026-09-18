@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 15:19",
+  "book": "genesis",
+  "lang": "xh",
+  "chapter": 15,
+  "translation": "⟨את⟩ uKheni, kwaye ⟨את⟩ uKhenizi, kwaye ⟨את⟩ uKhadmoni.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uKheni"
+    },
+    {
+      "surface": "הקיני",
+      "gloss": "uKheni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kwaye ⟨את⟩",
+      "marks": "uKhenizi"
+    },
+    {
+      "surface": "הקנזי",
+      "gloss": "uKhenizi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kwaye ⟨את⟩",
+      "marks": "uKhadmoni"
+    },
+    {
+      "surface": "הקדמני",
+      "gloss": "uKhadmoni"
+    }
+  ],
+  "timestamp": "2026-09-18T05:14:57.272864372Z",
+  "model": "glm-5.3"
+}

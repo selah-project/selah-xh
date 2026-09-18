@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 14:5",
+  "book": "2-samuel",
+  "lang": "xh",
+  "chapter": 14,
+  "translation": "Inkosi yathi kuye: “Kutheni na?” Wathi: “Ngunene mfazi ndiligusha, indoda yam ifile.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "לה",
+      "gloss": "kuye"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "inkosi"
+    },
+    {
+      "surface": "מה",
+      "gloss": "kutheni"
+    },
+    {
+      "surface": "לך",
+      "gloss": "na"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "אבל",
+      "gloss": "ngunene"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "mfazi"
+    },
+    {
+      "surface": "אלמנה",
+      "gloss": "iligusha"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ndi-"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "ifile"
+    },
+    {
+      "surface": "אישי",
+      "gloss": "indoda yam"
+    }
+  ],
+  "timestamp": "2026-09-18T09:54:08.797596375Z",
+  "model": "glm-5.3"
+}

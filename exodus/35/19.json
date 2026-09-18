@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 35:19",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 35,
+  "translation": "⟨את⟩ iimpahla zokukhonza ukukhonza ⟨endaweni engcwele⟩, ⟨את⟩ iimpahla ez ingcwele zika-Aharon umpristi, kunye ⟨את⟩ neempahla zabantwana bakhe, ukubanabapristi.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iimpahla zokukhonza"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "iimpahla"
+    },
+    {
+      "surface": "השרד",
+      "gloss": "zokukhonza"
+    },
+    {
+      "surface": "לשרת",
+      "gloss": "ukukhonza"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "endaweni engcwele"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iimpahla ez ingcwele"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "iimpahla"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "ez ingcwele"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "zika-Aharon"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "umpristi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "iimpahla zabantwana bakhe"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "iimpahla"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "abantwana bakhe"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "ukubanabapristi"
+    }
+  ],
+  "timestamp": "2026-09-18T06:23:54.711603976Z",
+  "model": "glm-5.3"
+}

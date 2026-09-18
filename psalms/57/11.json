@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 57:11",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 57,
+  "translation": "Kuba ikhesedi yakho inkulu, ide ithi yakufikelela ⟨ezulwini⟩; inyaniso yakho ide ithi yakufikelela esibhakabhakeni.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "גדל",
+      "gloss": "inkulu"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ide"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "ezulwini"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "ikhesedi yakho"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "nade"
+    },
+    {
+      "surface": "שחקים",
+      "gloss": "esibhakabhakeni"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "inyaniso yakho"
+    }
+  ],
+  "timestamp": "2026-09-18T14:50:13.716651324Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 78:22",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 78,
+  "translation": "kuba abenakholo kuElohim, benabuthembeli nakwisindiso sakhe;",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "לא",
+      "gloss": "abena-"
+    },
+    {
+      "surface": "האמינו",
+      "gloss": "kholo"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "kuElohim"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "benabu-"
+    },
+    {
+      "surface": "בטחו",
+      "gloss": "thembeli"
+    },
+    {
+      "surface": "בישועתו",
+      "gloss": "nakwisindiso sakhe"
+    }
+  ],
+  "timestamp": "2026-09-18T15:01:35.145887564Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 21:8",
+  "book": "leviticus",
+  "lang": "xh",
+  "chapter": 21,
+  "translation": "Umngcwelise, kuba nguye ozisa ⟨את⟩ okokutya kukaElohim wakho; makabe ngcwele kuwe, kuba mna, uYahwe ondingcwelisa, ndingcwele.",
+  "tokens": [
+    {
+      "surface": "וקדשתו",
+      "gloss": "umngcwelise"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "okokutya"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "okokutya"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "kukaElohim wakho"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yena"
+    },
+    {
+      "surface": "מקריב",
+      "gloss": "ozisa"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "makabe ngcwele"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "makabe"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kuwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "ndingcwele"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "מקדשכם",
+      "gloss": "ondingcwelisa"
+    }
+  ],
+  "timestamp": "2026-09-18T07:00:24.745573465Z",
+  "model": "glm-5.3"
+}

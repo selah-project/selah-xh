@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 51:20",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 51,
+  "translation": "Yenzel into elungileyo ngokwethando kwakhe iTsiyoni ⟨את⟩; wakha iindonga zeYerushalayimi.",
+  "tokens": [
+    {
+      "surface": "היטיבה",
+      "gloss": "Yenzel into elungileyo"
+    },
+    {
+      "surface": "ברצונך",
+      "gloss": "ngokwethando kwakhe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iTsiyoni"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "iTsiyoni"
+    },
+    {
+      "surface": "תבנה",
+      "gloss": "wakha"
+    },
+    {
+      "surface": "חומות",
+      "gloss": "iindonga"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "zeYerushalayimi"
+    }
+  ],
+  "timestamp": "2026-09-18T14:49:22.046050449Z",
+  "model": "glm-5.3"
+}

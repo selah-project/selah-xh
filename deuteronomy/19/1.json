@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 19:1",
+  "book": "deuteronomy",
+  "lang": "xh",
+  "chapter": 19,
+  "translation": "Xa uYahwe uElohim wakho esusa ⟨את⟩ iintlanga uYahwe uElohim wakho aninikela ⟨את⟩ umhlaba wazo, uza kuwuthoba uhlale kwiiseki zawo nakwiindlu zawo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "xa"
+    },
+    {
+      "surface": "יכרית",
+      "gloss": "esusa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "uElohim wakho"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iintlanga"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "iintlanga"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ezi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "uElohim wakho"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "aninikela"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kuwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umhlaba wazo"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "umhlaba wazo"
+    },
+    {
+      "surface": "וירשתם",
+      "gloss": "uza kuwuthoba"
+    },
+    {
+      "surface": "וישבת",
+      "gloss": "uhlale"
+    },
+    {
+      "surface": "בעריהם",
+      "gloss": "kwiiseki zawo"
+    },
+    {
+      "surface": "ובבתיהם",
+      "gloss": "nakwiindlu zawo"
+    }
+  ],
+  "timestamp": "2026-09-18T08:11:33.638336636Z",
+  "model": "glm-5.3"
+}

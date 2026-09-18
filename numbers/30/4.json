@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 30:4",
+  "book": "numbers",
+  "lang": "xh",
+  "chapter": 30,
+  "translation": "Yaye umfazi ukuba ethembisa isithembiso kuYahwe, abophe isibopho endlwini kayise, ebuntwaneni bakhe.",
+  "tokens": [
+    {
+      "surface": "ואשה",
+      "gloss": "yaye umfazi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ukuba"
+    },
+    {
+      "surface": "תדר",
+      "gloss": "ethembisa"
+    },
+    {
+      "surface": "נדר",
+      "gloss": "isithembiso"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kuYahwe"
+    },
+    {
+      "surface": "ואסרה",
+      "gloss": "abophe"
+    },
+    {
+      "surface": "אסר",
+      "gloss": "isibopho"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "endlwini"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "kayise"
+    },
+    {
+      "surface": "בנעריה",
+      "gloss": "ebuntwaneni bakhe"
+    }
+  ],
+  "timestamp": "2026-09-18T07:44:47.210460056Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 4:5",
+  "book": "ecclesiastes",
+  "lang": "xh",
+  "chapter": 4,
+  "translation": "Isidenge sibamba ⟨את⟩ izandla zawo, sidla ⟨את⟩ inyama yaso.",
+  "tokens": [
+    {
+      "surface": "הכסיל",
+      "gloss": "isidenge"
+    },
+    {
+      "surface": "חבק",
+      "gloss": "sibamba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izandla zawo"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "izandla zawo"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "sidla"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "inyama yaso"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "inyama yaso"
+    }
+  ],
+  "timestamp": "2026-09-18T16:25:07.311764596Z",
+  "model": "glm-5.3"
+}

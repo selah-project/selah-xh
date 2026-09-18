@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 3:2",
+  "book": "ecclesiastes",
+  "lang": "xh",
+  "chapter": 3,
+  "translation": "Ixesha lokuzalwa, nexesha lokufa; ixesha lokutyalwa, nexesha lokutshonwa kwetyaliweyo.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "ixesha"
+    },
+    {
+      "surface": "ללדת",
+      "gloss": "lokuzalwa"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "nexesha"
+    },
+    {
+      "surface": "למות",
+      "gloss": "lokufa"
+    },
+    {
+      "surface": "עת",
+      "gloss": "ixesha"
+    },
+    {
+      "surface": "לטעת",
+      "gloss": "lokutyalwa"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "nexesha"
+    },
+    {
+      "surface": "לעקור",
+      "gloss": "lokutshonwa"
+    },
+    {
+      "surface": "נטוע",
+      "gloss": "kwetyaliweyo"
+    }
+  ],
+  "timestamp": "2026-09-18T16:24:02.623827457Z",
+  "model": "glm-5.3"
+}

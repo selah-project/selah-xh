@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 4:5",
+  "book": "genesis",
+  "lang": "xh",
+  "chapter": 4,
+  "translation": "Kodwa kuKayin nakunikelo yakhe akabukanga; wathukuthela uKayin kakhulu, ubuso bakhe bawa.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "kodwa ku"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Kayin"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "naku"
+    },
+    {
+      "surface": "מנחתו",
+      "gloss": "nikelo yakhe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "akha"
+    },
+    {
+      "surface": "שעה",
+      "gloss": "bukanga"
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "wathukuthela"
+    },
+    {
+      "surface": "לקין",
+      "gloss": "uKayin"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "kakhulu"
+    },
+    {
+      "surface": "ויפלו",
+      "gloss": "bawa"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "ubuso bakhe"
+    }
+  ],
+  "timestamp": "2026-09-18T05:09:08.187399670Z",
+  "model": "glm-5.3"
+}

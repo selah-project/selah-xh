@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 20:5",
+  "book": "leviticus",
+  "lang": "xh",
+  "chapter": 20,
+  "translation": "Mna ndiza kumisela ubuso bam kuwo loo mntu nakwisapho lakhe, ndiza kumchitha yena ⟨את⟩ nabo bonke abazenzisayo emva kwakhe ⟨את⟩, ukuzenzisa emva koMolekhi, ephakathi kwabantu babo.",
+  "tokens": [
+    {
+      "surface": "ושמתי",
+      "gloss": "ndiza kumisela"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ubuso bam"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ubuso bam"
+    },
+    {
+      "surface": "באיש",
+      "gloss": "kuwo loo mntu"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "loo"
+    },
+    {
+      "surface": "ובמשפחתו",
+      "gloss": "nakwisapho lakhe"
+    },
+    {
+      "surface": "והכרתי",
+      "gloss": "ndiza kumchitha"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "yena"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "bonke abazenzisayo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bonke"
+    },
+    {
+      "surface": "הזנים",
+      "gloss": "abazenzisayo"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "emva kwakhe"
+    },
+    {
+      "surface": "לזנות",
+      "gloss": "ukuzenzisa"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "emva kuka"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "uMolekhi"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "ephakathi kwabaphuma kwi"
+    },
+    {
+      "surface": "עמם",
+      "gloss": "abantu babo"
+    }
+  ],
+  "timestamp": "2026-09-18T06:58:32.065909112Z",
+  "model": "glm-5.3"
+}

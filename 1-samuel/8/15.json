@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 8:15",
+  "book": "1-samuel",
+  "lang": "xh",
+  "chapter": 8,
+  "translation": "Kananjalo isivuno sembewu zenu nezeleya zenu uza kuthabatha ishumi lethuba, anike amagcawu akhe neenkonqobo zakhe.",
+  "tokens": [
+    {
+      "surface": "וזרעיכם",
+      "gloss": "imbewu zenu"
+    },
+    {
+      "surface": "וכרמיכם",
+      "gloss": "iileya zenu"
+    },
+    {
+      "surface": "יעשר",
+      "gloss": "uza kuthabatha ishumi lethuba"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "anike"
+    },
+    {
+      "surface": "לסריסיו",
+      "gloss": "amagcawu akhe"
+    },
+    {
+      "surface": "ולעבדיו",
+      "gloss": "neenkonqobo zakhe"
+    }
+  ],
+  "timestamp": "2026-09-18T09:15:11.316417399Z",
+  "model": "glm-5.3"
+}

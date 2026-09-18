@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 135:7",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 135,
+  "translation": "Ukhwesela amafu aphakamileyo ukusuka ekupheleni komhlaba, enza amabhanabhana ngomvula, ekhupha umoya kwizigcino zakhe.",
+  "tokens": [
+    {
+      "surface": "מעלה",
+      "gloss": "Ukhwesela... aphakamileyo"
+    },
+    {
+      "surface": "נשאים",
+      "gloss": "amafu"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "ekupheleni"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "komhlaba"
+    },
+    {
+      "surface": "ברקים",
+      "gloss": "amabhanabhana"
+    },
+    {
+      "surface": "למטר",
+      "gloss": "ngomvula"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "enza"
+    },
+    {
+      "surface": "מוצא",
+      "gloss": "ekhupha"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "umoya"
+    },
+    {
+      "surface": "מאוצרותיו",
+      "gloss": "kwizigcino zakhe"
+    }
+  ],
+  "timestamp": "2026-09-18T15:29:15.695666774Z",
+  "model": "glm-5.3"
+}

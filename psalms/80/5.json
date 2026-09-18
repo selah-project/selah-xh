@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 80:5",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 80,
+  "translation": "uYahwe, uElohim Tsebhayoti, de kube nini na uza kutshisa ngokuthandazo lwabantu bakho?",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsebhayoti"
+    },
+    {
+      "surface": "עד",
+      "gloss": "de kube"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "nini na"
+    },
+    {
+      "surface": "עשנת",
+      "gloss": "uza kutshisa"
+    },
+    {
+      "surface": "בתפלת",
+      "gloss": "ngokuthandazo"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "lwabantu bakho"
+    }
+  ],
+  "timestamp": "2026-09-18T15:05:10.438206113Z",
+  "model": "glm-5.3"
+}

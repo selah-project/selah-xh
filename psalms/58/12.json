@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 58:12",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 58,
+  "translation": "Umntu uza kuthetha: “Inene kukho isiqhamo sokulunga; inene kukho uElohim oyahlulela ehlabathini.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "uza kuthetha"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "umntu"
+    },
+    {
+      "surface": "אך",
+      "gloss": "inene"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "isiqhamo"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "sokulunga"
+    },
+    {
+      "surface": "אך",
+      "gloss": "inene"
+    },
+    {
+      "surface": "יש",
+      "gloss": "kukho"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "שפטים",
+      "gloss": "oyahlulela"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ehlabathini"
+    }
+  ],
+  "timestamp": "2026-09-18T14:50:29.928976586Z",
+  "model": "glm-5.3"
+}

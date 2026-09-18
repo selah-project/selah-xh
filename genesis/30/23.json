@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 30:23",
+  "book": "genesis",
+  "lang": "xh",
+  "chapter": 30,
+  "translation": "Wakhulelwa wazala unyana, wathetha esithi: uElohim wuthabathe ⟨את⟩ ihlazo lam.",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "wakhulelwa"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "wazala"
+    },
+    {
+      "surface": "בן",
+      "gloss": "unyana"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "wathetha esithi"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "wuthabathe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "makes": "ihlazo lam",
+      "marks": "ihlazo lam"
+    },
+    {
+      "surface": "חרפתי",
+      "gloss": "ihlazo lam"
+    }
+  ],
+  "timestamp": "2026-09-18T05:26:13.399818675Z",
+  "model": "glm-5.3"
+}

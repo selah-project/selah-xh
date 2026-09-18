@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 1:7",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 1,
+  "translation": "Abantwana bakwaYisrayeli bazala, basele, banda, bamandla kakhulu ngakumbi ngakumbi; umhlaba wazalisa ngabo ⟨אתם⟩.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "abantwana baka-"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrayeli"
+    },
+    {
+      "surface": "פרו",
+      "gloss": "bazala"
+    },
+    {
+      "surface": "וישרצו",
+      "gloss": "basele"
+    },
+    {
+      "surface": "וירבו",
+      "gloss": "banda"
+    },
+    {
+      "surface": "ויעצמו",
+      "gloss": "bamandla"
+    },
+    {
+      "surface": "במאד",
+      "gloss": "kakhulu"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ngakumbi"
+    },
+    {
+      "surface": "ותמלא",
+      "gloss": "wazalisa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "umhlaba"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "abo (abantwana bakwaYisrayeli)"
+    }
+  ],
+  "timestamp": "2026-09-18T05:47:17.049988836Z",
+  "model": "glm-5.3"
+}

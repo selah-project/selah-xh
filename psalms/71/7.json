@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 71:7",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 71,
+  "translation": "Ndaba njengophawu olumangalisa kubaninzi; kodwa wena ungukhuseleko lwam olunamandla.",
+  "tokens": [
+    {
+      "surface": "כמופת",
+      "gloss": "njengophawu olumangalisa"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "Ndaba"
+    },
+    {
+      "surface": "לרבים",
+      "gloss": "kubaninzi"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "kodwa wena"
+    },
+    {
+      "surface": "מחסי",
+      "gloss": "ungukhuseleko lwam"
+    },
+    {
+      "surface": "עז",
+      "gloss": "olunamandla"
+    }
+  ],
+  "timestamp": "2026-09-18T14:55:58.607915605Z",
+  "model": "glm-5.3"
+}

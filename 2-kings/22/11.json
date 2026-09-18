@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-kings 22:11",
+  "book": "2-kings",
+  "lang": "xh",
+  "chapter": 22,
+  "translation": "Kwathi xa inkosi iyevalwa ⟨את⟩ amazwi encwadi yeTora, yadabula ⟨את⟩ impahla yayo.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Kwathi"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "xa iyevalwa"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "inkosi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amazwi"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "amazwi"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "encwadi"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "yeTora"
+    },
+    {
+      "surface": "ויקרע",
+      "gloss": "yadabula"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "impahla yayo"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "impahla yayo"
+    }
+  ],
+  "timestamp": "2026-09-18T10:56:26.034641382Z",
+  "model": "glm-5.3"
+}

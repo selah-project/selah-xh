@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 1:9",
+  "book": "deuteronomy",
+  "lang": "xh",
+  "chapter": 1,
+  "translation": "Ndawathetha kuni ngexesha elo ndithi: Andinakuthwala ngedwa ubunzima benu ⟨אתכם⟩.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "ndawathetha"
+    },
+    {
+      "surface": "אלכם",
+      "gloss": "kuni"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "ngexesha"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "elo"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ndithi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hayi\/andi-"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "nakuthwala"
+    },
+    {
+      "surface": "לבדי",
+      "gloss": "ngedwa"
+    },
+    {
+      "surface": "שאת",
+      "gloss": "ukuthwala"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨אתכם⟩",
+      "marks": "ubunzima benu"
+    }
+  ],
+  "timestamp": "2026-09-18T07:50:53.318981708Z",
+  "model": "glm-5.3"
+}

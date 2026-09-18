@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 3:20",
+  "book": "deuteronomy",
+  "lang": "xh",
+  "chapter": 3,
+  "translation": "De uYahwe enike uludo bazalwana benu njengani nabo, baze balithwalele nabo ⟨את⟩ ilizwe elo uYahwe uElohim wenu enike zona ngaphaya koMlambo iYordan; nize nibuyele umntu ngamnye kumhlaba wakhe endininike wona.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "de"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ukuba"
+    },
+    {
+      "surface": "יניח",
+      "gloss": "enike uludo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "לאחיכם",
+      "gloss": "bazalwana benu"
+    },
+    {
+      "surface": "ככם",
+      "gloss": "njengani"
+    },
+    {
+      "surface": "וירשו",
+      "gloss": "baze balithwalele"
+    },
+    {
+      "surface": "גם",
+      "gloss": "nakanjalo"
+    },
+    {
+      "surface": "הם",
+      "gloss": "nabo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ilizwe"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ilizwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "elo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "uElohim wenu"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "enike"
+    },
+    {
+      "surface": "להם",
+      "gloss": "zona"
+    },
+    {
+      "surface": "בעבר",
+      "gloss": "ngaphaya"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "koMlambo iYordan"
+    },
+    {
+      "surface": "ושבתם",
+      "gloss": "nize nibuyele"
+    },
+    {
+      "surface": "איש",
+      "gloss": "umntu ngamnye"
+    },
+    {
+      "surface": "לירשתו",
+      "gloss": "kumhlaba wakhe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "endininike"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "ndinike"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "wona"
+    }
+  ],
+  "timestamp": "2026-09-18T07:53:51.786263049Z",
+  "model": "glm-5.3"
+}

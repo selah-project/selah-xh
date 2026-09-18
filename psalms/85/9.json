@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 85:9",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 85,
+  "translation": "Ndiza kuva okokuba u-El uYahwe aza kukuthetha; kuba uza kuthetha uxolo ebantini bakhe nakwabangcwele bakhe; bangabuyi ebuhlalini.",
+  "tokens": [
+    {
+      "surface": "אשמעה",
+      "gloss": "Ndiza kuva"
+    },
+    {
+      "surface": "מה",
+      "gloss": "okokuba"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "aza kukuthetha"
+    },
+    {
+      "surface": "האל",
+      "gloss": "u-El"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "uza kuthetha"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "uxolo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "abantu bakhe"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "naku-"
+    },
+    {
+      "surface": "חסידיו",
+      "gloss": "abangcwele bakhe"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "banga-"
+    },
+    {
+      "surface": "ישובו",
+      "gloss": "buyi"
+    },
+    {
+      "surface": "לכסלה",
+      "gloss": "ebuhlalini"
+    }
+  ],
+  "timestamp": "2026-09-18T15:07:19.555608227Z",
+  "model": "glm-5.3"
+}

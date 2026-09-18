@@ -1,0 +1,109 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-kings 2:2",
+  "book": "2-kings",
+  "lang": "xh",
+  "chapter": 2,
+  "translation": "U-Eliyahu wathetha ku-Elishea: “Hlala nje apha, kuba uYahwe undithumele koBhayit-El.” U-Elishea wathi: “NguYahwe ophilileyo, njengokuphila kwemphefumlo yakho, ukuba ndisa kushiya.” Batyalela eBhayit-El.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wathetha"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "u-Eliyahu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku-Elishea kunye naye"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "u-Elishea"
+    },
+    {
+      "surface": "שב",
+      "gloss": "hlala"
+    },
+    {
+      "surface": "נא",
+      "gloss": "nje ndicela"
+    },
+    {
+      "surface": "פה",
+      "gloss": "apha"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "שלחני",
+      "gloss": "undithumele"
+    },
+    {
+      "surface": "עד",
+      "gloss": "de ko-"
+    },
+    {
+      "surface": "בית",
+      "gloss": "iBhayit-"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "u-Elishea"
+    },
+    {
+      "surface": "חי",
+      "gloss": "ophilileyo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "וחי",
+      "gloss": "njengokuphila"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "kwemphefumlo yakho"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ukuba"
+    },
+    {
+      "surface": "אעזבך",
+      "gloss": "ndisa kushiya"
+    },
+    {
+      "surface": "וירדו",
+      "gloss": "batyalela"
+    },
+    {
+      "surface": "בית",
+      "gloss": "eBhayit-"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    }
+  ],
+  "timestamp": "2026-09-18T10:38:53.822994204Z",
+  "model": "glm-5.3"
+}

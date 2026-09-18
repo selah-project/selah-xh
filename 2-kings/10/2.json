@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-kings 10:2",
+  "book": "2-kings",
+  "lang": "xh",
+  "chapter": 10,
+  "translation": "Kwaye ngoku, apho le ncwadi ifikela kuni, nani nayo ⟨את⟩ iinyana zookhokela benu, nani nayo ⟨את⟩ iidolophu zempi, nahhashi, nedolophu eqinisiweyo, neempahla zokulwa:",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "kwaye ngoku"
+    },
+    {
+      "surface": "כבא",
+      "gloss": "apho ifikela"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "le ncwadi"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "le"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "kuni"
+    },
+    {
+      "surface": "ואתכם",
+      "gloss": "⟨את⟩ nani nayo",
+      "marks": "iinyana zookhokela benu"
+    },
+    {
+      "surface": "בני",
+      "gloss": "iinyana"
+    },
+    {
+      "surface": "אדניכם",
+      "gloss": "zookhokela benu"
+    },
+    {
+      "surface": "ואתכם",
+      "gloss": "⟨את⟩ nani nayo",
+      "marks": "iidolophu zempi, hhashi, dolophu eqinisiweyo, neempahla zokulwa"
+    },
+    {
+      "surface": "הרכב",
+      "gloss": "iidolophu zempi"
+    },
+    {
+      "surface": "והסוסים",
+      "gloss": "nahhashi"
+    },
+    {
+      "surface": "ועיר",
+      "gloss": "nedolophu"
+    },
+    {
+      "surface": "מבצר",
+      "gloss": "eqinisiweyo"
+    },
+    {
+      "surface": "והנשק",
+      "gloss": "neempahla zokulwa"
+    }
+  ],
+  "timestamp": "2026-09-18T10:44:50.267971788Z",
+  "model": "glm-5.3"
+}

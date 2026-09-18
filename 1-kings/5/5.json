@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 5:5",
+  "book": "1-kings",
+  "lang": "xh",
+  "chapter": 5,
+  "translation": "Wayehlala uYehudah noIsrayeli ngokhuseleko, umntu ngamnye phantsi komdiliya wakhe naphantsi komfuyi wakhe, ukusuka eDan de kube yiBhere-Sheva, yonke imihla kaShelomoh.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "Wayehlala"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "uYehudah"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "noIsrayeli"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "ngokhuseleko"
+    },
+    {
+      "surface": "איש",
+      "gloss": "umntu ngamnye"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "phantsi"
+    },
+    {
+      "surface": "גפנו",
+      "gloss": "komdiliya wakhe"
+    },
+    {
+      "surface": "ותחת",
+      "gloss": "naphantsi"
+    },
+    {
+      "surface": "תאנתו",
+      "gloss": "komfuyi wakhe"
+    },
+    {
+      "surface": "מדן",
+      "gloss": "ukusuka eDan"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "de kube"
+    },
+    {
+      "surface": "באר",
+      "gloss": "eBhere-"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Sheva"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yonke"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "imihla"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "kaShelomoh"
+    }
+  ],
+  "timestamp": "2026-09-18T10:13:41.117409548Z",
+  "model": "glm-5.3"
+}

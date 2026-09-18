@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 18:1",
+  "book": "1-chronicles",
+  "lang": "xh",
+  "chapter": 18,
+  "translation": "Emva kwezi zinto uDavidi wabhula ⟨את⟩ iFilistim, wabanqabela, waza wathabatha ⟨את⟩ iGati neendawo zayo esandleni seFilistim.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "kwenzekile"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "emva"
+    },
+    {
+      "surface": "כן",
+      "gloss": "oko"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "wabhula"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "uDavidi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iFilistim"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "iFilistim"
+    },
+    {
+      "surface": "ויכניעם",
+      "gloss": "wabanqabela"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "wathabatha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iGati"
+    },
+    {
+      "surface": "גת",
+      "gloss": "iGati"
+    },
+    {
+      "surface": "ובנתיה",
+      "gloss": "neendawo zayo"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "esandleni"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "seFilistim"
+    }
+  ],
+  "timestamp": "2026-09-18T16:57:48.928535491Z",
+  "model": "glm-5.3"
+}

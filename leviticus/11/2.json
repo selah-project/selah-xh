@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 11:2",
+  "book": "leviticus",
+  "lang": "xh",
+  "chapter": 11,
+  "translation": "Thethani kubantwana besirayeli, nithi: Le yinkomo eni mayiditye kuzo zonke iinkomo ezingaphezu komhlaba.",
+  "tokens": [
+    {
+      "surface": "דברו",
+      "gloss": "Thethani"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abantwana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "besirayeli"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nithi"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "Le"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "yinkomo eni mayiditye"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ezo"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "ni mayiditye"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "kuzo zonke"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "iinkomo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ezi"
+    },
+    {
+      "surface": "על",
+      "gloss": "zingaphezu"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "komhlaba"
+    }
+  ],
+  "timestamp": "2026-09-18T06:42:52.295895691Z",
+  "model": "glm-5.3"
+}

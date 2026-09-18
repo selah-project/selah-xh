@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 33:3",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 33,
+  "translation": "kumhlaba ogeleza ubisi kunobusi; kuba andizi kwenyuka phakathi kwakho, kuba uluntu olunzima okhohlo ungulo wena, hleze ndingakutya endleleni.”",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "umhlaba"
+    },
+    {
+      "surface": "זבת",
+      "gloss": "ogeleza"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "ubisi"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "kunobusi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "לא",
+      "gloss": "andi-"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "ndiza kwenyuka"
+    },
+    {
+      "surface": "בקרבך",
+      "gloss": "phakathi kwakho"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "עם",
+      "gloss": "uluntu"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "olunzima"
+    },
+    {
+      "surface": "ערף",
+      "gloss": "okhohlo"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ungulo wena"
+    },
+    {
+      "surface": "פן",
+      "gloss": "hleze"
+    },
+    {
+      "surface": "אכלך",
+      "gloss": "ndingakutya"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "endleleni"
+    }
+  ],
+  "timestamp": "2026-09-18T06:24:57.465807228Z",
+  "model": "glm-5.3"
+}

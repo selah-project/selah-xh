@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 3:8",
+  "book": "2-kings",
+  "lang": "xh",
+  "chapter": 3,
+  "translation": "Wathi: “Sinya ngaphi na le ndlela?” Wathi: “Indlela yentlango yakwa-Edomu.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Wathi"
+    },
+    {
+      "surface": "אי",
+      "gloss": "ngaphi na"
+    },
+    {
+      "surface": "זה",
+      "gloss": "le"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "ndlela"
+    },
+    {
+      "surface": "נעלה",
+      "gloss": "Sinya kunyuka"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Wathi"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "Indlela"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "yentlango"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "yakwa-Edomu"
+    }
+  ],
+  "timestamp": "2026-09-18T10:38:53.457331268Z",
+  "model": "glm-5.3"
+}

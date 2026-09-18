@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "exodus 29:44",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 29,
+  "translation": "Yaye ndiza kungcwalatisa ⟨את⟩ itenti yokudibana nengezibini lokutshisa; ⟨את⟩ u-Aharon kunye ⟨את⟩ nabantwana bake ndiya kungcwalatisa ukuba babe ngabakhonzi bangcwele kum.",
+  "tokens": [
+    {
+      "surface": "וקדשתי",
+      "gloss": "Yaye ndiza kungcwalatisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "itenti yokudibana"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "itenti"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "yokudibana"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "indawo yokutshisa"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "indawo yokutshisa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "u-Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "u-Aharon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "abantwana bake"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "abantwana bake"
+    },
+    {
+      "surface": "אקדש",
+      "gloss": "ndiya kungcwalatisa"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "ukuba babe ngabakhonzi bangcwele"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kum"
+    }
+  ],
+  "timestamp": "2026-09-18T06:17:11.802159472Z",
+  "model": "glm-5.3"
+}

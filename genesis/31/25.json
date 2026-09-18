@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 31:25",
+  "book": "genesis",
+  "lang": "xh",
+  "chapter": 31,
+  "translation": "Wamphangela uLavan ⟨את⟩ uYa'akov; uYa'akov wamisa ⟨את⟩ itenti yakhe entabeni; uLavan wamisa ⟨את⟩ abantakwabo entabeni yaseGil'adi.",
+  "tokens": [
+    {
+      "surface": "וישג",
+      "gloss": "wamphangela"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "uLavan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uYa'akov"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "uYa'akov"
+    },
+    {
+      "surface": "ויעקב",
+      "gloss": "uYa'akov"
+    },
+    {
+      "surface": "תקע",
+      "gloss": "wamisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "itenti yakhe"
+    },
+    {
+      "surface": "אהלו",
+      "gloss": "itenti yakhe"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "entabeni"
+    },
+    {
+      "surface": "ולבן",
+      "gloss": "uLavan"
+    },
+    {
+      "surface": "תקע",
+      "gloss": "wamisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abantakwabo"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "abantakwabo"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "entabeni"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "yaseGil'adi"
+    }
+  ],
+  "timestamp": "2026-09-18T05:30:12.888265215Z",
+  "model": "glm-5.3"
+}

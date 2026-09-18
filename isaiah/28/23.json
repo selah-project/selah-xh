@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "isaiah 28:23",
+  "book": "isaiah",
+  "lang": "xh",
+  "chapter": 28,
+  "translation": "Nizweleni nindlebe, nilale ilizwi lam; nibeke iindlebe, nilale okuthethwayo ndithetha.",
+  "tokens": [
+    {
+      "surface": "האזינו",
+      "gloss": "nizweleni nindlebe"
+    },
+    {
+      "surface": "ושמעו",
+      "gloss": "nilale"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "ilizwi lam"
+    },
+    {
+      "surface": "הקשיבו",
+      "gloss": "nibeke iindlebe"
+    },
+    {
+      "surface": "ושמעו",
+      "gloss": "nilale"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "okuthethwayo ndithetha"
+    }
+  ],
+  "timestamp": "2026-09-18T11:21:17.146995048Z",
+  "model": "glm-5.3"
+}

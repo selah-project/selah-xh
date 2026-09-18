@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 67:4",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 67,
+  "translation": "Amaxwenkwe akudumisa uElohim, amaxwenkwe onke akudumisa.",
+  "tokens": [
+    {
+      "surface": "יודוך",
+      "gloss": "Amaxwenkwe akudumisa"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "amaxwenkwe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "יודוך",
+      "gloss": "akudumisa"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "amaxwenkwe"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "onke"
+    }
+  ],
+  "timestamp": "2026-09-18T14:54:42.419906942Z",
+  "model": "glm-5.3"
+}

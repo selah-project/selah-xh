@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 77:5",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 77,
+  "translation": "Wabamba iiluvo zamehlo am; ndanyakaziswa, ndingathethanga.",
+  "tokens": [
+    {
+      "surface": "אחזת",
+      "gloss": "Wabamba"
+    },
+    {
+      "surface": "שמרות",
+      "gloss": "iiluvo"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "zamehlo am"
+    },
+    {
+      "surface": "נפעמתי",
+      "gloss": "ndanyakaziswa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "hayi"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "ndithetha"
+    }
+  ],
+  "timestamp": "2026-09-18T15:00:43.135702450Z",
+  "model": "glm-5.3"
+}

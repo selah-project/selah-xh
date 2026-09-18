@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 10:20",
+  "book": "numbers",
+  "lang": "xh",
+  "chapter": 10,
+  "translation": "Yaye phezu komkhosi wesizwe sabantwana bakwaGadi kwakunguElyasafu unyana kaDeueli.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "yaye phezu ko-"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "mkhosi"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "wesizwe"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sabantwana ba-"
+    },
+    {
+      "surface": "גד",
+      "gloss": "kwaGadi"
+    },
+    {
+      "surface": "אליסף",
+      "gloss": "uElyasafu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "unyana ka-"
+    },
+    {
+      "surface": "דעואל",
+      "gloss": "uDeueli"
+    }
+  ],
+  "timestamp": "2026-09-18T07:21:18.381474038Z",
+  "model": "glm-5.3"
+}

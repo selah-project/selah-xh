@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "zechariah 11:3",
+  "book": "zechariah",
+  "lang": "xh",
+  "chapter": 11,
+  "translation": "Kukho izwi lekukala kwabusi, kuba ubukhosi babo buhlakazekile; kukho izwi lokukhala kweengonyama ezincinci, kuba ubukrwele beYordan buhlakazekile.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "Kukho izwi"
+    },
+    {
+      "surface": "יללת",
+      "gloss": "lekukala"
+    },
+    {
+      "surface": "הרעים",
+      "gloss": "kwabusi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "שדדה",
+      "gloss": "buhlakazekile"
+    },
+    {
+      "surface": "אדרתם",
+      "gloss": "ubukhosi babo"
+    },
+    {
+      "surface": "קול",
+      "gloss": "izwi"
+    },
+    {
+      "surface": "שאגת",
+      "gloss": "lokukhala"
+    },
+    {
+      "surface": "כפירים",
+      "gloss": "kweengonyama ezincinci"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "שדד",
+      "gloss": "buhlakazekile"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "ubukrwele"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "beYordan"
+    }
+  ],
+  "timestamp": "2026-09-18T14:21:15.169567652Z",
+  "model": "glm-5.3"
+}

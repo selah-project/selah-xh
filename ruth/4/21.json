@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ruth 4:21",
+  "book": "ruth",
+  "lang": "xh",
+  "chapter": 4,
+  "translation": "uSalmoni wazala ⟨את⟩ uBoazi, kananjalo uBoazi wazala ⟨את⟩ uOvedi.",
+  "tokens": [
+    {
+      "surface": "ושלמון",
+      "gloss": "uSalmoni"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "wazala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uBoazi"
+    },
+    {
+      "surface": "בעז",
+      "gloss": "uBoazi"
+    },
+    {
+      "surface": "ובעז",
+      "gloss": "kananjalo uBoazi"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "wazala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uOvedi"
+    },
+    {
+      "surface": "עובד",
+      "gloss": "uOvedi"
+    }
+  ],
+  "timestamp": "2026-09-18T16:17:52.851566678Z",
+  "model": "glm-5.3"
+}

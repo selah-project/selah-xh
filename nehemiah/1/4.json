@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "nehemiah 1:4",
+  "book": "nehemiah",
+  "lang": "xh",
+  "chapter": 1,
+  "translation": "Kwenzeka xa ndivele ⟨את⟩ la mazwi, ndahlala ndalila, ndazila iintsuku, ndandizila ukutya ndithandaza phambi koElohim wamazulu.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "kwenzeka"
+    },
+    {
+      "surface": "כשמעי",
+      "gloss": "xa ndivele"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la mazwi"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "la mazwi"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "la"
+    },
+    {
+      "surface": "ישבתי",
+      "gloss": "ndahlala"
+    },
+    {
+      "surface": "ואבכה",
+      "gloss": "ndalila"
+    },
+    {
+      "surface": "ואתאבלה",
+      "gloss": "ndazila"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "iintsuku"
+    },
+    {
+      "surface": "ואהי",
+      "gloss": "ndandili-"
+    },
+    {
+      "surface": "צם",
+      "gloss": "ukuzila ukutya"
+    },
+    {
+      "surface": "ומתפלל",
+      "gloss": "ndithandaza"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "phambi"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "koElohim"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "wamazulu"
+    }
+  ],
+  "timestamp": "2026-09-18T16:43:57.792234557Z",
+  "model": "glm-5.3"
+}

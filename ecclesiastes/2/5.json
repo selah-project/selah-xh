@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 2:5",
+  "book": "ecclesiastes",
+  "lang": "xh",
+  "chapter": 2,
+  "translation": "Ndazenzela iigadi kunye neepharadise, ndazityalela kuzo imithi yazo zonke iintlobo zeziqhamo.",
+  "tokens": [
+    {
+      "surface": "עשיתי",
+      "gloss": "Ndazenzela"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ndazenzela"
+    },
+    {
+      "surface": "גנות",
+      "gloss": "iigadi"
+    },
+    {
+      "surface": "ופרדסים",
+      "gloss": "kunye neepharadise"
+    },
+    {
+      "surface": "ונטעתי",
+      "gloss": "ndazityalela"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "kuzo"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "imithi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zonke iintlobo"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "izesiqhamo"
+    }
+  ],
+  "timestamp": "2026-09-18T16:24:07.664931910Z",
+  "model": "glm-5.3"
+}

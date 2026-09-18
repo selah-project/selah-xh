@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 3:4",
+  "book": "1-kings",
+  "lang": "xh",
+  "chapter": 3,
+  "translation": "Inkosi yahamba iye eGibhoni ukutya ukhothamo ngaphaya kwezi ndawo ziphakamileyo zonke; ngenxa yokuba le ndawo yayinkulu kunene. UShelomoh watyisa isigidi seentsimi zokwenzelwa ukutshiswa phezu kolwabiwo-mali lowo.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "yahamba"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "Inkosi"
+    },
+    {
+      "surface": "גבענה",
+      "gloss": "iye eGibhoni"
+    },
+    {
+      "surface": "לזבח",
+      "gloss": "ukutya ukhothamo"
+    },
+    {
+      "surface": "שם",
+      "gloss": "khona"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngenxa yokuba"
+    },
+    {
+      "surface": "היא",
+      "gloss": "yona"
+    },
+    {
+      "surface": "הבמה",
+      "gloss": "le ndawo iphakamileyo"
+    },
+    {
+      "surface": "הגדולה",
+      "gloss": "inkulu"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "isigidi"
+    },
+    {
+      "surface": "עלות",
+      "gloss": "iintsimi zokutshiswa"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "watyisela phezulu"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "UShelomoh"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "kolwabiwo-mali"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "lowo"
+    }
+  ],
+  "timestamp": "2026-09-18T10:10:32.734588077Z",
+  "model": "glm-5.3"
+}

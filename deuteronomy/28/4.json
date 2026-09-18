@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 28:4",
+  "book": "deuteronomy",
+  "lang": "xh",
+  "chapter": 28,
+  "translation": "Usikelelwe umnxeba wesisu sakho, nomnxeba womhlaba wakho, nomnxeba weenkomo zakho, iintsana zamakhaka wakho neentsana zezimvu zakho.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Usikelelwe"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "umnxeba"
+    },
+    {
+      "surface": "בטנך",
+      "gloss": "wesisu sakho"
+    },
+    {
+      "surface": "ופרי",
+      "gloss": "nomnxeba"
+    },
+    {
+      "surface": "אדמתך",
+      "gloss": "womhlaba wakho"
+    },
+    {
+      "surface": "ופרי",
+      "gloss": "nomnxeba"
+    },
+    {
+      "surface": "בהמתך",
+      "gloss": "weenkomo zakho"
+    },
+    {
+      "surface": "שגר",
+      "gloss": "iintsana"
+    },
+    {
+      "surface": "אלפיך",
+      "gloss": "zamakhaka wakho"
+    },
+    {
+      "surface": "ועשתרות",
+      "gloss": "neentsana"
+    },
+    {
+      "surface": "צאנך",
+      "gloss": "zezimvu zakho"
+    }
+  ],
+  "timestamp": "2026-09-18T08:19:36.929265867Z",
+  "model": "glm-5.3"
+}

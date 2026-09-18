@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 68:11",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 68,
+  "translation": "Ibikhosi lakho lihlala kuyo; ngesibonelelo sakho ulungiselela isweli, uElohim.",
+  "tokens": [
+    {
+      "surface": "חיתך",
+      "gloss": "ibikhosi lakho"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "lihlala"
+    },
+    {
+      "surface": "בה",
+      "gloss": "kuyo"
+    },
+    {
+      "surface": "תכין",
+      "gloss": "ulungiselela"
+    },
+    {
+      "surface": "בטובתך",
+      "gloss": "ngesibonelelo sakho"
+    },
+    {
+      "surface": "לעני",
+      "gloss": "isweli"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "uElohim"
+    }
+  ],
+  "timestamp": "2026-09-18T14:56:10.233792499Z",
+  "model": "glm-5.3"
+}

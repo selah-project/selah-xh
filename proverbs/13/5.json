@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 13:5",
+  "book": "proverbs",
+  "lang": "xh",
+  "chapter": 13,
+  "translation": "Ilizwi lobuxoki ulungileyo ulukranela, kodila owoni uyadinda, adaniswa.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "ilizwi"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "lobuxoki"
+    },
+    {
+      "surface": "ישנא",
+      "gloss": "ulukranela"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ulungileyo"
+    },
+    {
+      "surface": "ורשע",
+      "gloss": "kodila owoni"
+    },
+    {
+      "surface": "יבאיש",
+      "gloss": "uyadinda"
+    },
+    {
+      "surface": "ויחפיר",
+      "gloss": "adaniswa"
+    }
+  ],
+  "timestamp": "2026-09-18T15:43:29.526538488Z",
+  "model": "glm-5.3"
+}

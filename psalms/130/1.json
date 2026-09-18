@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 130:1",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 130,
+  "translation": "Iculo lokunyuka. Kwiindawo ezinzulu ndakubiza, uYahwe.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Iculo"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "lokunyuka"
+    },
+    {
+      "surface": "ממעמקים",
+      "gloss": "Kwiindawo ezinzulu"
+    },
+    {
+      "surface": "קראתיך",
+      "gloss": "ndakubiza"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    }
+  ],
+  "timestamp": "2026-09-18T15:27:13.754097062Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezra 3:4",
+  "book": "ezra",
+  "lang": "xh",
+  "chapter": 3,
+  "translation": "Benza ⟨את⟩ umkhosi weentente njengokubhaliweyo, nesipho esitshisiweyo somhla ngomhla ngokobani, njengomthetho womcimbi womhla ngomhla wawo.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "benza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umkhosi weentente"
+    },
+    {
+      "surface": "חג",
+      "gloss": "umkhosi"
+    },
+    {
+      "surface": "הסכות",
+      "gloss": "weentente"
+    },
+    {
+      "surface": "ככתוב",
+      "gloss": "njengokubhaliweyo"
+    },
+    {
+      "surface": "ועלת",
+      "gloss": "nesipho esitshisiweyo"
+    },
+    {
+      "surface": "יום",
+      "gloss": "somhla"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ngomhla"
+    },
+    {
+      "surface": "במספר",
+      "gloss": "ngokobani"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "njengomthetho"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "womcimbi"
+    },
+    {
+      "surface": "יום",
+      "gloss": "womhla"
+    },
+    {
+      "surface": "ביומו",
+      "gloss": "ngomhla wawo"
+    }
+  ],
+  "timestamp": "2026-09-18T16:40:07.354708527Z",
+  "model": "glm-5.3"
+}

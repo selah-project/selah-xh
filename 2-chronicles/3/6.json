@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 3:6",
+  "book": "2-chronicles",
+  "lang": "xh",
+  "chapter": 3,
+  "translation": "Wayihombisa ⟨את⟩ indlu ngamatye alixabisekileyo ngobuhle, yaye igolide yayiligolide lePharwayimi.",
+  "tokens": [
+    {
+      "surface": "ויצף",
+      "gloss": "wayihombisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "indlu"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "indlu"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "ngamatye"
+    },
+    {
+      "surface": "יקרה",
+      "gloss": "alixabisekileyo"
+    },
+    {
+      "surface": "לתפארת",
+      "gloss": "ngobuhle"
+    },
+    {
+      "surface": "והזהב",
+      "gloss": "yaye igolide"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "yayiligolide"
+    },
+    {
+      "surface": "פרוים",
+      "gloss": "lePharwayimi"
+    }
+  ],
+  "timestamp": "2026-09-18T17:03:23.362653976Z",
+  "model": "glm-5.3"
+}

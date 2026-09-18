@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 46:1",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 46,
+  "translation": "Kumlawuli, ngoonyana bakaKorachi, ngokwee-alamothi, iculo.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Kumlawuli"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ngoonyana baka-"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korachi"
+    },
+    {
+      "surface": "על",
+      "gloss": "nge-"
+    },
+    {
+      "surface": "עלמות",
+      "gloss": "ee-alamothi"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "iculo"
+    }
+  ],
+  "timestamp": "2026-09-18T14:47:14.785946376Z",
+  "model": "glm-5.3"
+}

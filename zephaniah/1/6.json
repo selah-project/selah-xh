@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "zephaniah 1:6",
+  "book": "zephaniah",
+  "lang": "xh",
+  "chapter": 1,
+  "translation": "Kwaye ⟨את⟩ abo bacinga umva bukaYahwe, nangabo abanga funa ⟨את⟩ uYahwe, bengeke bamfunisisa.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "abo bacinga umva"
+    },
+    {
+      "surface": "הנסוגים",
+      "gloss": "abo bacinga umva"
+    },
+    {
+      "surface": "מאחרי",
+      "gloss": "buka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "nangabo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "anga"
+    },
+    {
+      "surface": "בקשו",
+      "gloss": "bafuna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uYahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "bengeke"
+    },
+    {
+      "surface": "דרשהו",
+      "gloss": "bamfunisisa"
+    }
+  ],
+  "timestamp": "2026-09-18T14:13:25.188078226Z",
+  "model": "glm-5.3"
+}

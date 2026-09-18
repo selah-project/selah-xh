@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "joshua 21:21",
+  "book": "joshua",
+  "lang": "xh",
+  "chapter": 21,
+  "translation": "Banika ikwahlwa elidolophu yokubalekela yombulali, iShekhem nemiyezo yayo, entabeni ye-Efrayim, kunye neGezer nemiyezo yayo.",
+  "tokens": [
+    {
+      "surface": "ויתנו",
+      "gloss": "banika"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ikwahlwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "idolophu"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "idolophu"
+    },
+    {
+      "surface": "מקלט",
+      "gloss": "yokubalekela"
+    },
+    {
+      "surface": "הרצח",
+      "gloss": "yombulali"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iShekhem"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "iShekhem"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kunye ⟨neאת⟩",
+      "marks": "miyezo"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "nemiyezo yayo"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "entabeni"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "ye-Efrayim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kunye ⟨neאת⟩",
+      "marks": "iGezer"
+    },
+    {
+      "surface": "גזר",
+      "gloss": "neGezer"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kunye ⟨neאת⟩",
+      "marks": "miyezo"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "nemiyezo yayo"
+    }
+  ],
+  "timestamp": "2026-09-18T08:42:35.791259895Z",
+  "model": "glm-5.3"
+}

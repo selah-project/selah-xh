@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 25:2",
+  "book": "genesis",
+  "lang": "xh",
+  "chapter": 25,
+  "translation": "Wamzala uZimran ⟨את⟩ noYokshani ⟨את⟩ noMedani ⟨את⟩ noMidiyani ⟨את⟩ noYishibhaki ⟨את⟩ noShuwakhi ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "wamzala"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kuye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uZimran"
+    },
+    {
+      "surface": "זמרן",
+      "gloss": "uZimran"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "noYokshani"
+    },
+    {
+      "surface": "יקשן",
+      "gloss": "noYokshani"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "noMedani"
+    },
+    {
+      "surface": "מדן",
+      "gloss": "noMedani"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "noMidiyani"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "noMidiyani"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "noYishibhaki"
+    },
+    {
+      "surface": "ישבק",
+      "gloss": "noYishibhaki"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "noShuwakhi"
+    },
+    {
+      "surface": "שוח",
+      "gloss": "noShuwakhi"
+    }
+  ],
+  "timestamp": "2026-09-18T05:22:54.116371033Z",
+  "model": "glm-5.3"
+}

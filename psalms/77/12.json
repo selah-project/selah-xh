@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 77:12",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 77,
+  "translation": "N diza kukhumbula iintsebenzi zikaYah; kuba ndiza kukhumbula imimangaliso yakho yasendulo.",
+  "tokens": [
+    {
+      "surface": "אזכיר",
+      "gloss": "ndiza kukhumbula"
+    },
+    {
+      "surface": "מעללי",
+      "gloss": "iintsebenzi"
+    },
+    {
+      "surface": "יה",
+      "gloss": "zikaYah"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "אזכרה",
+      "gloss": "ndiza kukhumbula"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "yasendulo"
+    },
+    {
+      "surface": "פלאך",
+      "gloss": "imimangaliso yakho"
+    }
+  ],
+  "timestamp": "2026-09-18T15:00:43.123728989Z",
+  "model": "glm-5.3"
+}

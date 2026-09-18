@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 7:1",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 7,
+  "translation": "iShigayoni kaDavide, alayishela kuYahwe ngeendaba zikaKushi unyana kaYemini.",
+  "tokens": [
+    {
+      "surface": "שגיון",
+      "gloss": "iShigayoni"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "kaDavide"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "o"
+    },
+    {
+      "surface": "שר",
+      "gloss": "alayishela"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kuYahwe"
+    },
+    {
+      "surface": "על",
+      "gloss": "nge"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "iindaba"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "zikaKushi"
+    },
+    {
+      "surface": "בן",
+      "gloss": "unyana"
+    },
+    {
+      "surface": "ימיני",
+      "gloss": "kaYemini"
+    }
+  ],
+  "timestamp": "2026-09-18T14:27:26.691885085Z",
+  "model": "glm-5.3"
+}

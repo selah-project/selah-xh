@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 45:4",
+  "book": "isaiah",
+  "lang": "xh",
+  "chapter": 45,
+  "translation": "Ngenxa yesevakile yam uYakobu, neYisrayeli okhethekileyo kwam, ndakubiza wena ngegama lakho, ndakunika isikhewu, kodwa awundazanga mna.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "ngenxa ye-"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "isevakile yam"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "uYakobu"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "neYisrayeli"
+    },
+    {
+      "surface": "בחירי",
+      "gloss": "okhethekileyo kwam"
+    },
+    {
+      "surface": "ואקרא",
+      "gloss": "ndakubiza"
+    },
+    {
+      "surface": "לך",
+      "gloss": "wena"
+    },
+    {
+      "surface": "בשמך",
+      "gloss": "ngegama lakho"
+    },
+    {
+      "surface": "אכנך",
+      "gloss": "ndakunika isikhewu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kodwa awu-"
+    },
+    {
+      "surface": "ידעתני",
+      "gloss": "ndazanga"
+    }
+  ],
+  "timestamp": "2026-09-18T11:38:23.003014794Z",
+  "model": "glm-5.3"
+}

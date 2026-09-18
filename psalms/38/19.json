@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 38:19",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 38,
+  "translation": "Kuba ndiza kwazisa isogetho sam; ndikhathazekile ngenxa yesono sam.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "עוני",
+      "gloss": "isogetho sam"
+    },
+    {
+      "surface": "אגיד",
+      "gloss": "ndiza kwazisa"
+    },
+    {
+      "surface": "אדאג",
+      "gloss": "ndikhathazekile"
+    },
+    {
+      "surface": "מחטאתי",
+      "gloss": "ngenxa yesono sam"
+    }
+  ],
+  "timestamp": "2026-09-18T14:43:45.985077885Z",
+  "model": "glm-5.3"
+}

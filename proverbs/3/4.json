@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 3:4",
+  "book": "proverbs",
+  "lang": "xh",
+  "chapter": 3,
+  "translation": "Uza kufumana ububele nokuqonda okuhle emehlweni kaElohim nomntu.",
+  "tokens": [
+    {
+      "surface": "ומצא",
+      "gloss": "Uza kufumana"
+    },
+    {
+      "surface": "חן",
+      "gloss": "ububele"
+    },
+    {
+      "surface": "ושכל",
+      "gloss": "nokuqonda"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "okuhle"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "emehlweni"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "kaElohim"
+    },
+    {
+      "surface": "ואדם",
+      "gloss": "nomntu"
+    }
+  ],
+  "timestamp": "2026-09-18T15:38:31.455817697Z",
+  "model": "glm-5.3"
+}

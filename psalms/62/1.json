@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 62:1",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 62,
+  "translation": "Kumlawuli, ngeYeduthuni; umculo kaDawidi.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Kumlawuli"
+    },
+    {
+      "surface": "על",
+      "gloss": "nge-"
+    },
+    {
+      "surface": "ידותון",
+      "gloss": "Yeduthuni"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "umculo"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "kaDawidi"
+    }
+  ],
+  "timestamp": "2026-09-18T14:54:16.230836752Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 49:10",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 49,
+  "translation": "Uhlale ephila ngonaphakade, angaboni umjuma.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "uhlale ephila"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "uhlale"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "ngonaphakade"
+    },
+    {
+      "surface": "לא",
+      "gloss": "anga-"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "aboni"
+    },
+    {
+      "surface": "השחת",
+      "gloss": "umjuma"
+    }
+  ],
+  "timestamp": "2026-09-18T14:47:02.715625690Z",
+  "model": "glm-5.3"
+}

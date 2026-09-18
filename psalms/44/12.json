@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 44:12",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 44,
+  "translation": "Umisile njengokutya kwezimvu, wasisasaza phakathi kwezizwe.",
+  "tokens": [
+    {
+      "surface": "תתננו",
+      "gloss": "Umisile"
+    },
+    {
+      "surface": "כצאן",
+      "gloss": "kwezimvu"
+    },
+    {
+      "surface": "מאכל",
+      "gloss": "njengokutya"
+    },
+    {
+      "surface": "ובגוים",
+      "gloss": "phakathi kwezizwe"
+    },
+    {
+      "surface": "זריתנו",
+      "gloss": "wasisasaza"
+    }
+  ],
+  "timestamp": "2026-09-18T14:45:59.665979815Z",
+  "model": "glm-5.3"
+}

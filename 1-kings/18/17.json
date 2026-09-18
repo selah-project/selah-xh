@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 18:17",
+  "book": "1-kings",
+  "lang": "xh",
+  "chapter": 18,
+  "translation": "Kwathi xa u-Achabi wabona ⟨את⟩ u-Eliyahu, u-Achabi wathi kuye: “Ngaba wena unguye lo uyayiphazamisayo iYisra’eli?”",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "kwathi"
+    },
+    {
+      "surface": "כראות",
+      "gloss": "xa wabona"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "u-Achabi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "u-Eliyahu"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "u-Eliyahu"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "u-Achabi"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kuye"
+    },
+    {
+      "surface": "האתה",
+      "gloss": "ngaba wena"
+    },
+    {
+      "surface": "זה",
+      "gloss": "unguye lo"
+    },
+    {
+      "surface": "עכר",
+      "gloss": "uyayiphazamisayo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "iYisra’eli"
+    }
+  ],
+  "timestamp": "2026-09-18T10:31:30.630581941Z",
+  "model": "glm-5.3"
+}

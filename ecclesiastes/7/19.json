@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ecclesiastes 7:19",
+  "book": "ecclesiastes",
+  "lang": "xh",
+  "chapter": 7,
+  "translation": "Ulwazi ludla ngamandla kulo kulwazi ngaphezu kwabashumi abalawulayo ababeseydolophini.",
+  "tokens": [
+    {
+      "surface": "החכמה",
+      "gloss": "ulwazi"
+    },
+    {
+      "surface": "תעז",
+      "gloss": "ludla ngamandla"
+    },
+    {
+      "surface": "לחכם",
+      "gloss": "kulwazi — (okhaliphileyo)"
+    },
+    {
+      "surface": "מעשרה",
+      "gloss": "ngaphezu kwabashumi"
+    },
+    {
+      "surface": "שליטים",
+      "gloss": "abalawulayo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ababeseydolophini — (ab)"
+    },
+    {
+      "surface": "היו",
+      "gloss": "babese-"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "dolophini"
+    }
+  ],
+  "timestamp": "2026-09-18T16:26:05.037144332Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 140:4",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 140,
+  "translation": "Balime iilwimi zabo njengenyoka; ubutyhefu benyoka esingcubeni phantsi kwezindebe zabo. Selah.",
+  "tokens": [
+    {
+      "surface": "שננו",
+      "gloss": "Balime"
+    },
+    {
+      "surface": "לשונם",
+      "gloss": "iilwimi zabo"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "njenge-"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "nyoka"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "ubutyhefu"
+    },
+    {
+      "surface": "עכשוב",
+      "gloss": "benyoka esingcubeni"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "phantsi"
+    },
+    {
+      "surface": "שפתימו",
+      "gloss": "kwezindebe zabo"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-18T15:31:28.945835817Z",
+  "model": "glm-5.3"
+}

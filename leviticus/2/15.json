@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 2:15",
+  "book": "leviticus",
+  "lang": "xh",
+  "chapter": 2,
+  "translation": "Kwaye uza kubeka phezu kwayo ioyile, kwaye uza kubeka phezu kwayo ilebhone; isiphe ⟨is⟩ yiso.",
+  "tokens": [
+    {
+      "surface": "ונתת",
+      "gloss": "uza kubeka"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "phezu kwayo"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "ioyile"
+    },
+    {
+      "surface": "ושמת",
+      "gloss": "kwaye uza kubeka"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "phezu kwayo"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "ilebhone"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "isiphe"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yiso"
+    }
+  ],
+  "timestamp": "2026-09-18T06:32:49.733691097Z",
+  "model": "glm-5.3"
+}

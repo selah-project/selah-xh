@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 40:8",
+  "book": "genesis",
+  "lang": "xh",
+  "chapter": 40,
+  "translation": "Bamthethela bathi: Siphuphe iphupha, kodwa akukho mtoliki ⟨את⟩ waliphupha. U-Yosefu wathi kubo: Ingaba ukutolikwa akukwabuhlela-ke kuElohim na? Xelelani nje kum.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "bamthethela"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kuye"
+    },
+    {
+      "surface": "חלום",
+      "gloss": "iphupha"
+    },
+    {
+      "surface": "חלמנו",
+      "gloss": "siphuphe"
+    },
+    {
+      "surface": "ופתר",
+      "gloss": "kodwa ukutolikwa"
+    },
+    {
+      "surface": "אין",
+      "gloss": "akukho"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "iphupha (waliphupha)"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "kubo"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "uYosefu"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "ingaba... na"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "kuElohim"
+    },
+    {
+      "surface": "פתרנים",
+      "gloss": "ukutolikwa"
+    },
+    {
+      "surface": "ספרו",
+      "gloss": "xelelani"
+    },
+    {
+      "surface": "נא",
+      "gloss": "nje"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kum"
+    }
+  ],
+  "timestamp": "2026-09-18T05:36:20.450842417Z",
+  "model": "glm-5.3"
+}

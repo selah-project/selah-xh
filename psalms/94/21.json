@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 94:21",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 94,
+  "translation": "Baqunduxela ngokuchasene nomphefumlo wolungileyo, yaye igazi elingenamcala bayasola ngobubi.",
+  "tokens": [
+    {
+      "surface": "יגודו",
+      "gloss": "baqunduxela"
+    },
+    {
+      "surface": "על",
+      "gloss": "ngokuchasene"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "umphefumlo"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "wolungileyo"
+    },
+    {
+      "surface": "ודם",
+      "gloss": "yaye igazi"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "elingenamcala"
+    },
+    {
+      "surface": "ירשיעו",
+      "gloss": "bayasola ngobubi"
+    }
+  ],
+  "timestamp": "2026-09-18T15:09:46.279849351Z",
+  "model": "glm-5.3"
+}

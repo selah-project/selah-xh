@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 29:1",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 29,
+  "translation": "Ipsalma kaDavide. Nikani uYahwe, oonyana baka-El, nikani uYahwe ubukhosi namandla.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Ipsalma"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "kaDavide"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "Nikani"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oonyana"
+    },
+    {
+      "surface": "אלים",
+      "gloss": "baka-El"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "nikani"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "ubukhosi"
+    },
+    {
+      "surface": "ועז",
+      "gloss": "namandla"
+    }
+  ],
+  "timestamp": "2026-09-18T14:38:04.277658357Z",
+  "model": "glm-5.3"
+}

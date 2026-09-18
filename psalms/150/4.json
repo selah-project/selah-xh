@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 150:4",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 150,
+  "translation": "Dumani ngoYahwe ngetafula lomculo nangomtshato wokudansa; dumani ngoYahwe neziqhongo ezinesiphiwo, nange-ugavhi.",
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "dumani ngoYahwe"
+    },
+    {
+      "surface": "בתף",
+      "gloss": "ngetafula lomculo"
+    },
+    {
+      "surface": "ומחול",
+      "gloss": "nangomtshato wokudansa"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "dumani ngoYahwe"
+    },
+    {
+      "surface": "במנים",
+      "gloss": "neziqhongo ezinesiphiwo"
+    },
+    {
+      "surface": "ועוגב",
+      "gloss": "nange-ugavhi"
+    }
+  ],
+  "timestamp": "2026-09-18T15:33:10.389751573Z",
+  "model": "glm-5.3"
+}

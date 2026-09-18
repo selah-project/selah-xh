@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 89:8",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 89,
+  "translation": "U-El owesabeka kakhulu emthunyelweni wabangcwele, oyinto eyesabekayo phezu kwabo bonke abazingela kwakhe.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "U-El"
+    },
+    {
+      "surface": "נערץ",
+      "gloss": "owesabeka kakhulu"
+    },
+    {
+      "surface": "בסוד",
+      "gloss": "emthunyelweni"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "wabangcwele"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "kakhulu"
+    },
+    {
+      "surface": "ונורא",
+      "gloss": "oyinto eyesabekayo"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kwabo bonke"
+    },
+    {
+      "surface": "סביביו",
+      "gloss": "abazingela kwakhe"
+    }
+  ],
+  "timestamp": "2026-09-18T15:07:56.239327286Z",
+  "model": "glm-5.3"
+}

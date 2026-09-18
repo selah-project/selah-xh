@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "leviticus 25:27",
+  "book": "leviticus",
+  "lang": "xh",
+  "chapter": 25,
+  "translation": "abale ⟨את⟩ iminyaka yotengiso lwalo mnqophiso, abuyisele ⟨את⟩ okuseleyo kumntu owayuthengisele, aze abuyele kumnqophiso wakhe.",
+  "tokens": [
+    {
+      "surface": "וחשב",
+      "gloss": "abale"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iminyaka yotengiso lwalo mnqophiso"
+    },
+    {
+      "surface": "שני",
+      "gloss": "iminyaka"
+    },
+    {
+      "surface": "ממכרו",
+      "gloss": "yotengiso lwalo mnqophiso"
+    },
+    {
+      "surface": "והשיב",
+      "gloss": "abuyisele"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "okuseleyo"
+    },
+    {
+      "surface": "העדף",
+      "gloss": "okuseleyo"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "kumntu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "o-"
+    },
+    {
+      "surface": "מכר",
+      "gloss": "owayuthengisa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "(kuye)"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "aze abuyele"
+    },
+    {
+      "surface": "לאחזתו",
+      "gloss": "kumnqophiso wakhe"
+    }
+  ],
+  "timestamp": "2026-09-18T07:06:49.130008297Z",
+  "model": "glm-5.3"
+}

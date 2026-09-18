@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "jeremiah 2:30",
+  "book": "jeremiah",
+  "lang": "xh",
+  "chapter": 2,
+  "translation": "Ngento engasebenzanga ndibethe ⟨את⟩ oonyana benu; abamamkeliyo isohlwayo: inkemba yenu idlile abaprofeti benu, njengengonyama enyanisela ukutshabalalisa.",
+  "tokens": [
+    {
+      "surface": "לשוא",
+      "gloss": "Ngento engasebenzanga"
+    },
+    {
+      "surface": "הכיתי",
+      "gloss": "ndibethe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oonyana benu"
+    },
+    {
+      "surface": "בניכם",
+      "gloss": "oonyana benu"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "isohlwayo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hayi"
+    },
+    {
+      "surface": "לקחו",
+      "gloss": "abamamkeliyo"
+    },
+    {
+      "surface": "אכלה",
+      "gloss": "idlile"
+    },
+    {
+      "surface": "חרבכם",
+      "gloss": "inkemba yenu"
+    },
+    {
+      "surface": "נביאיכם",
+      "gloss": "abaprofeti benu"
+    },
+    {
+      "surface": "כאריה",
+      "gloss": "njengengonyama"
+    },
+    {
+      "surface": "משחית",
+      "gloss": "enyanisela ukutshabalalisa"
+    }
+  ],
+  "timestamp": "2026-09-18T11:51:03.178224832Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 5:4",
+  "book": "ecclesiastes",
+  "lang": "xh",
+  "chapter": 5,
+  "translation": "Kungcono oku ungathembisanga, kunokuba uthembisa ungagqibezeli.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "kungcona"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oku"
+    },
+    {
+      "surface": "לא",
+      "gloss": "unga"
+    },
+    {
+      "surface": "תדר",
+      "gloss": "thembisanga"
+    },
+    {
+      "surface": "משתדור",
+      "gloss": "kunokuba uthembisa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "unga"
+    },
+    {
+      "surface": "תשלם",
+      "gloss": "gqibezeli"
+    }
+  ],
+  "timestamp": "2026-09-18T16:24:42.330523358Z",
+  "model": "glm-5.3"
+}

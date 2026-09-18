@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 16:6",
+  "book": "deuteronomy",
+  "lang": "xh",
+  "chapter": 16,
+  "translation": "kodwa kuphela kwindawo uYahwe uElohim wakho ayikhethayo ukuhlalisa igama lakhe khona; apho uza kuncamisa ⟨את⟩ iPesaka ngokuhlwa, njengokutshona kwelanga, ngexesha lokuphuma kwakho eMitsrayim.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kodwa"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kuphela"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwi"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "indawo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "eyi"
+    },
+    {
+      "surface": "יבחר",
+      "gloss": "ayikhetha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "uElohim wakho"
+    },
+    {
+      "surface": "לשכן",
+      "gloss": "ukuhlalisa"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "igama lakhe"
+    },
+    {
+      "surface": "שם",
+      "gloss": "khona"
+    },
+    {
+      "surface": "תזבח",
+      "gloss": "uza kuncamisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iPesaka"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "iPesaka"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "ngokuhlwa"
+    },
+    {
+      "surface": "כבוא",
+      "gloss": "njengokutshona"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "elanga"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "exesha elichaziweyo"
+    },
+    {
+      "surface": "צאתך",
+      "gloss": "lokuphuma kwakho"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "eMitsrayim"
+    }
+  ],
+  "timestamp": "2026-09-18T08:09:11.551394322Z",
+  "model": "glm-5.3"
+}

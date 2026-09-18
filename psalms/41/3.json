@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 41:3",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 41,
+  "translation": "UYahwe uza kumkhusela, amphilise; uza kumenza atyhale kakuhle emhlabeni; wena musa ukumnika esandleni soochwephesha bam chatha — akamniki kwisiphelo soothando bakhe.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "UYahwe"
+    },
+    {
+      "surface": "ישמרהו",
+      "gloss": "uza kumkhusela"
+    },
+    {
+      "surface": "ויחיהו",
+      "gloss": "amphilise"
+    },
+    {
+      "surface": "יאשר",
+      "gloss": "uza kumenza atyhale kakuhle"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "emhlabeni"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "musa"
+    },
+    {
+      "surface": "תתנהו",
+      "gloss": "ukumnika"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "kwindebe yam chatha (isifiso)"
+    },
+    {
+      "surface": "איביו",
+      "gloss": "oothando bakhe"
+    }
+  ],
+  "timestamp": "2026-09-18T14:44:26.896327494Z",
+  "model": "glm-5.3"
+}

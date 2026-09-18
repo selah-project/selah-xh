@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 73:13",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 73,
+  "translation": "Inene, ndihlambulule ngenathingo intliziyo yam, ndahlamba izandla zam ngococolo.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Inene"
+    },
+    {
+      "surface": "ריק",
+      "gloss": "ngenathingo"
+    },
+    {
+      "surface": "זכיתי",
+      "gloss": "ndihlambulule"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "intliziyo yam"
+    },
+    {
+      "surface": "וארחץ",
+      "gloss": "ndahlamba"
+    },
+    {
+      "surface": "בנקיון",
+      "gloss": "ngococolo"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "izandla zam"
+    }
+  ],
+  "timestamp": "2026-09-18T15:00:17.300892920Z",
+  "model": "glm-5.3"
+}

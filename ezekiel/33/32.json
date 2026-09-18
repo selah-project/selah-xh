@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "ezekiel 33:32",
+  "book": "ezekiel",
+  "lang": "xh",
+  "chapter": 33,
+  "translation": "Kwaye bhonakalile, wena ungakubo njengesiingoma zothando, ilizwi elihle, nomdlali odlala kakuhle kwesixhobo; basiva ⟨את⟩ amazwi akho, kwaye benza ⟨את⟩ — hayi lutho.",
+  "tokens": [
+    {
+      "surface": "והנך",
+      "gloss": "kwaye bhonakalile, wena"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ungakubo"
+    },
+    {
+      "surface": "כשיר",
+      "gloss": "njengesiingoma"
+    },
+    {
+      "surface": "עגבים",
+      "gloss": "zothando"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "elihle"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ilizwi"
+    },
+    {
+      "surface": "ומטב",
+      "gloss": "nokudlala kakuhle"
+    },
+    {
+      "surface": "נגן",
+      "gloss": "omdlali wesixhobo"
+    },
+    {
+      "surface": "ושמעו",
+      "gloss": "basiva"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amazwi akho"
+    },
+    {
+      "surface": "דבריך",
+      "gloss": "amazwi akho"
+    },
+    {
+      "surface": "ועשים",
+      "gloss": "kwaye benza"
+    },
+    {
+      "surface": "אינם",
+      "gloss": "hayi lutho"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "mazwi akho (oko bayivileyo)"
+    }
+  ],
+  "timestamp": "2026-09-18T17:39:52.320574239Z",
+  "model": "glm-5.3"
+}

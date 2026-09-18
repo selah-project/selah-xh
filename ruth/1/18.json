@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ruth 1:18",
+  "book": "ruth",
+  "lang": "xh",
+  "chapter": 1,
+  "translation": "Yabona ukuba yenzela isigqibo esomeleleyo ukuhamba ⟨את⟩ naye, yayeka ukuthetha kuye.",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "yabona"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ukuba"
+    },
+    {
+      "surface": "מתאמצת",
+      "gloss": "yenzela isigqibo esomeleleyo"
+    },
+    {
+      "surface": "היא",
+      "gloss": "yena"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "ukuhamba"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "naye (uNomi, lowo beya kuhamba naye)"
+    },
+    {
+      "surface": "ותחדל",
+      "gloss": "yayeka"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "ukuthetha"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "kuye"
+    }
+  ],
+  "timestamp": "2026-09-18T16:19:47.365293026Z",
+  "model": "glm-5.3"
+}

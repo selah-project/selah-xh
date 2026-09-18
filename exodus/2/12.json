@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 2:12",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 2,
+  "translation": "Wajonga ngecala le nangecala le, wabona ukuba akukho mntu, wayibulala ⟨את⟩ iMitsrayim, wamfihla esikalini.",
+  "tokens": [
+    {
+      "surface": "ויפן",
+      "gloss": "wajonga"
+    },
+    {
+      "surface": "כה",
+      "gloss": "ngecala le"
+    },
+    {
+      "surface": "וכה",
+      "gloss": "nangecala le"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "wabona"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ukuba"
+    },
+    {
+      "surface": "אין",
+      "gloss": "akukho"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mntu"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "wayibulala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iMitsrayim"
+    },
+    {
+      "surface": "המצרי",
+      "gloss": "iMitsrayim"
+    },
+    {
+      "surface": "ויטמנהו",
+      "gloss": "wamfihla"
+    },
+    {
+      "surface": "בחול",
+      "gloss": "esikalini"
+    }
+  ],
+  "timestamp": "2026-09-18T05:48:38.094559840Z",
+  "model": "glm-5.3"
+}

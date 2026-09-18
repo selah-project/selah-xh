@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 22:11",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 22,
+  "translation": "Kuwe ndazityalwa ukusuka esiswini sokuzala; ukusuka esiswini somama wam, u-El wam nguye wena.",
+  "tokens": [
+    {
+      "surface": "עליך",
+      "gloss": "Kuwe"
+    },
+    {
+      "surface": "השלכתי",
+      "gloss": "ndazityalwa"
+    },
+    {
+      "surface": "מרחם",
+      "gloss": "esiswini sokuzala"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "esiswini"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "somama wam"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "u-El wam"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "nguye wena"
+    }
+  ],
+  "timestamp": "2026-09-18T14:34:37.865380524Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 15:11",
+  "book": "deuteronomy",
+  "lang": "xh",
+  "chapter": 15,
+  "translation": "Kuba umtywumbe akayi kupheleka emhlabeni; ngoko Mna ndikuyalela, ndithi: Vula isandla sakho ⟨את⟩ kumzalwane wakho, kumfumana wakho nakumtywumbe wakho, emhlabeni wakho.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "לא",
+      "gloss": "akayi"
+    },
+    {
+      "surface": "יחדל",
+      "gloss": "kupheleka"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "umtywumbe"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "aphakathi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "omhlaba"
+    },
+    {
+      "surface": "על",
+      "gloss": "ngenxa"
+    },
+    {
+      "surface": "כן",
+      "gloss": "yoko"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "Mna"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "ndikuyalela"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ndithi"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "vula"
+    },
+    {
+      "surface": "תפתח",
+      "gloss": "isandla sakho ngokupheleleyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isandla sakho"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "isandla sakho"
+    },
+    {
+      "surface": "לאחיך",
+      "gloss": "kumzalwane wakho"
+    },
+    {
+      "surface": "לעניך",
+      "gloss": "kumfumana wakho"
+    },
+    {
+      "surface": "ולאבינך",
+      "gloss": "nakumtywumbe wakho"
+    },
+    {
+      "surface": "בארצך",
+      "gloss": "emhlabeni wakho"
+    }
+  ],
+  "timestamp": "2026-09-18T08:07:26.236248532Z",
+  "model": "glm-5.3"
+}

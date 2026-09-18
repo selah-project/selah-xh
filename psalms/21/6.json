@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 21:6",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 21,
+  "translation": "Uzuko lwakhe llukhulu entlungweni yakho yokusindisa; uhle nobukhosi ububezele phezu kwakhe.",
+  "tokens": [
+    {
+      "surface": "גדול",
+      "gloss": "llukhulu"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "uzuko lwakhe"
+    },
+    {
+      "surface": "בישועתך",
+      "gloss": "entlungweni yakho yokusindisa"
+    },
+    {
+      "surface": "הוד",
+      "gloss": "uhle"
+    },
+    {
+      "surface": "והדר",
+      "gloss": "nobukhosi"
+    },
+    {
+      "surface": "תשוה",
+      "gloss": "ububezele"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "phezu kwakhe"
+    }
+  ],
+  "timestamp": "2026-09-18T14:35:09.304432268Z",
+  "model": "glm-5.3"
+}

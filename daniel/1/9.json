@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "daniel 1:9",
+  "book": "daniel",
+  "lang": "xh",
+  "chapter": 1,
+  "translation": "uElohim wamnika ⟨את⟩ uDaniyeli ikhesedi nenceba phambi kosenkosi yeziwonkuluma-kazi zengonyama.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "wamnika"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uDaniyeli"
+    },
+    {
+      "surface": "דניאל",
+      "gloss": "uDaniyeli"
+    },
+    {
+      "surface": "לחסד",
+      "gloss": "ikhesedi"
+    },
+    {
+      "surface": "ולרחמים",
+      "gloss": "ninceba"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "phambi kwa-"
+    },
+    {
+      "surface": "שר",
+      "gloss": "senkosi"
+    },
+    {
+      "surface": "הסריסים",
+      "gloss": "yeziwonkuluma-kazi zengonyama"
+    }
+  ],
+  "timestamp": "2026-09-18T16:30:04.086339574Z",
+  "model": "glm-5.3"
+}

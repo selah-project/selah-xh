@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 21:10",
+  "book": "isaiah",
+  "lang": "xh",
+  "chapter": 21,
+  "translation": "Intsinbo yam, unyana weganga lam lokucheba: oko ndivile ⟨את⟩ kuYahwe Tsebhayoti, uElohim wakwa-Israyeli, ndakudalazela kuni.",
+  "tokens": [
+    {
+      "surface": "מדושתי",
+      "gloss": "Intsinbo yam"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "unyana"
+    },
+    {
+      "surface": "גרני",
+      "gloss": "weganga lam lokucheba"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oko"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "ndivile"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "kuYahwe Tsebhayoti, uElohim wakwa-Israyeli"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsebhayoti"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "wakwa-Israyeli"
+    },
+    {
+      "surface": "הגדתי",
+      "gloss": "ndakudalazela"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kuni"
+    }
+  ],
+  "timestamp": "2026-09-18T11:13:32.677310234Z",
+  "model": "glm-5.3"
+}

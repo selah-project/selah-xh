@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 94:15",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 94,
+  "translation": "Kuba umgwebo uza kubuyela kwilungelo, bonke abalungileyo ngenhliziyo baye bamlаndela.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kuba"
+    },
+    {
+      "surface": "עד",
+      "gloss": "uze"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "kwilungelo"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "uza kubuyela"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "umgwebo"
+    },
+    {
+      "surface": "ואחריו",
+      "gloss": "baye bаmlandela"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bonke"
+    },
+    {
+      "surface": "ישרי",
+      "gloss": "abalungileyo"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ngenhliziyo"
+    }
+  ],
+  "timestamp": "2026-09-18T15:11:24.764383620Z",
+  "model": "glm-5.3"
+}

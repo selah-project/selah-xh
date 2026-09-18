@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 80:13",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 80,
+  "translation": "Kutheni ubudilize iintanda zayo, ukuze ibe yintlanzi yonke <s>abadlula indlela?<\/s>",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "kutheni"
+    },
+    {
+      "surface": "פרצת",
+      "gloss": "ubudilize"
+    },
+    {
+      "surface": "גדריה",
+      "gloss": "iintanda zayo"
+    },
+    {
+      "surface": "וארוה",
+      "gloss": "ukube yintlanzi bayityabukile"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bonke"
+    },
+    {
+      "surface": "עברי",
+      "gloss": "abadlula"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "indlela"
+    }
+  ],
+  "timestamp": "2026-09-18T17:44:20.791970660Z",
+  "model": "glm-5.3"
+}

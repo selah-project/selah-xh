@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "1-chronicles 2:41",
+  "book": "1-chronicles",
+  "lang": "xh",
+  "chapter": 2,
+  "translation": "Kananjalo uShalum wazala ⟨את⟩ uYekamya, uYekamya wazala ⟨את⟩ u-Elishama.",
+  "tokens": [
+    {
+      "surface": "ושלום",
+      "gloss": "Kananjalo uShalum"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "wazala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uYekamya"
+    },
+    {
+      "surface": "יקמיה",
+      "gloss": "uYekamya"
+    },
+    {
+      "surface": "ויקמיה",
+      "gloss": "uYekamya"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "wazala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "u-Elishama"
+    },
+    {
+      "surface": "אלישמע",
+      "gloss": "u-Elishama"
+    }
+  ],
+  "timestamp": "2026-09-18T16:50:05.022984215Z",
+  "model": "glm-5.3"
+}

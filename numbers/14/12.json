@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 14:12",
+  "book": "numbers",
+  "lang": "xh",
+  "chapter": 14,
+  "translation": "Ndiza kubabetha ngesifo ndibazimele, ndiyakwenza ⟨את⟩ wena sisizwe esikhulu nesinamandla kunaso.",
+  "tokens": [
+    {
+      "surface": "אכנו",
+      "gloss": "ndiza kubabetha"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "ngesifo"
+    },
+    {
+      "surface": "ואורשנו",
+      "gloss": "ndibazimele"
+    },
+    {
+      "surface": "ואעשה",
+      "gloss": "ndiyakwenza"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "wena (sisizwe)"
+    },
+    {
+      "surface": "לגוי",
+      "gloss": "sisizwe"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "esikhulu"
+    },
+    {
+      "surface": "ועצום",
+      "gloss": "nesinamandla"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "kunaso"
+    }
+  ],
+  "timestamp": "2026-09-18T07:25:52.331294179Z",
+  "model": "glm-5.3"
+}

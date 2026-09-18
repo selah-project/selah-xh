@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 118,
+  "ref": "psalms 119:118",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 119,
+  "translation": "Ubugxothile bonke abahambahambayo kwimimiselo yakho, kuba ubuxoki bulilodwa bukhohlakele babo.",
+  "tokens": [
+    {
+      "surface": "סלית",
+      "gloss": "ubugxothile"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bonke"
+    },
+    {
+      "surface": "שוגים",
+      "gloss": "abahambahambayo"
+    },
+    {
+      "surface": "מחקיך",
+      "gloss": "kwimimiselo yakho"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "ubuxoki"
+    },
+    {
+      "surface": "תרמיתם",
+      "gloss": "bukhohlakele babo"
+    }
+  ],
+  "timestamp": "2026-09-18T15:24:59.497151485Z",
+  "model": "glm-5.3"
+}

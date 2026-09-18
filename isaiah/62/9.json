@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 62:9",
+  "book": "isaiah",
+  "lang": "xh",
+  "chapter": 62,
+  "translation": "Kuba abo bayibuthileyo baya kuyitya, baza kukudumisa ⟨את⟩ uYahwe; abo bayiqokelelayo baya kuyisela kwiintsimi zangcwele zam.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "מאספיו",
+      "gloss": "abo bayibuthileyo"
+    },
+    {
+      "surface": "יאכלהו",
+      "gloss": "baya kuyitya"
+    },
+    {
+      "surface": "והללו",
+      "gloss": "baza kukudumisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uYahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "ומקבציו",
+      "gloss": "abo bayiqokelelayo"
+    },
+    {
+      "surface": "ישתהו",
+      "gloss": "baya kuyisela"
+    },
+    {
+      "surface": "בחצרות",
+      "gloss": "kwiintsimi"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "zangcwele zam"
+    }
+  ],
+  "timestamp": "2026-09-18T11:46:22.186226024Z",
+  "model": "glm-5.3"
+}

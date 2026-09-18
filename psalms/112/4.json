@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 112:4",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 112,
+  "translation": "Ukhanya kuvuka esibhakabhakeni ekumnyameni, kukunene okukhoyo, kwabanyal' abaninzi neenhliziyo zam, abalungileyo.",
+  "tokens": [
+    {
+      "surface": "זרח",
+      "gloss": "kuvuka esibhakabhakeni"
+    },
+    {
+      "surface": "בחשך",
+      "gloss": "ekumnyameni"
+    },
+    {
+      "surface": "אור",
+      "gloss": "Ukhanya"
+    },
+    {
+      "surface": "לישרים",
+      "gloss": "kukunene okukhoyo, kwabanyal' abaninzi neenhliziyo zam"
+    },
+    {
+      "surface": "חנון",
+      "gloss": "onenceba"
+    },
+    {
+      "surface": "ורחום",
+      "gloss": "nonesihawu"
+    },
+    {
+      "surface": "וצדיק",
+      "gloss": "nalungileyo"
+    }
+  ],
+  "timestamp": "2026-09-18T15:19:46.570527299Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 10:1",
+  "book": "2-chronicles",
+  "lang": "xh",
+  "chapter": 10,
+  "translation": "Waya uRehavuhami eShekhem, kuba eShekhem yayifikelele yonke iYisrayeli ukumenza inkosi.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "waya"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "uRehavuhami"
+    },
+    {
+      "surface": "שכמה",
+      "gloss": "eShekhem"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "eShekhem"
+    },
+    {
+      "surface": "באו",
+      "gloss": "yayifikelele"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yonke"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "iYisrayeli"
+    },
+    {
+      "surface": "להמליך",
+      "gloss": "ukumenza inkosi"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "yena (uRehavuhami)"
+    }
+  ],
+  "timestamp": "2026-09-18T17:06:32.184441251Z",
+  "model": "glm-5.3"
+}

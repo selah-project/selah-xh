@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 44:7",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 44,
+  "translation": "Kuba andithembeli ⟨etyhongweni⟩ lam, isizekile sam asisindi mna.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kuba"
+    },
+    {
+      "surface": "לא",
+      "gloss": "akukho"
+    },
+    {
+      "surface": "בקשתי",
+      "gloss": "utyhongo lwam"
+    },
+    {
+      "surface": "אבטח",
+      "gloss": "ndithembela"
+    },
+    {
+      "surface": "וחרבי",
+      "gloss": "isikhali sam"
+    },
+    {
+      "surface": "לא",
+      "gloss": "asisi"
+    },
+    {
+      "surface": "תושיעני",
+      "gloss": "sindisi mna"
+    }
+  ],
+  "timestamp": "2026-09-18T14:45:10.133474714Z",
+  "model": "glm-5.3"
+}

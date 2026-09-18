@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 13:4",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 13,
+  "translation": "Ndibukisele, ndiphendule, uYahwe, uElohim wam; venelisa amehlo am, ukuba ndingalala ndife.",
+  "tokens": [
+    {
+      "surface": "הביטה",
+      "gloss": "Ndibukisele"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "ndiphendule"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "uElohim wam"
+    },
+    {
+      "surface": "האירה",
+      "gloss": "venelisa"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "amehlo am"
+    },
+    {
+      "surface": "פן",
+      "gloss": "ukuba"
+    },
+    {
+      "surface": "אישן",
+      "gloss": "ndingalala"
+    },
+    {
+      "surface": "המות",
+      "gloss": "ndife"
+    }
+  ],
+  "timestamp": "2026-09-18T14:32:12.756455903Z",
+  "model": "glm-5.3"
+}

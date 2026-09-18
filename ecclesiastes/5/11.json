@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 5:11",
+  "book": "ecclesiastes",
+  "lang": "xh",
+  "chapter": 5,
+  "translation": "Kumandi ukulala komsebenzi, nokuba utya kancinci nokuba utya uninzi; kodwa ukuhlangabezana kolutyebi akumvumeli ukuba alale.",
+  "tokens": [
+    {
+      "surface": "מתוקה",
+      "gloss": "kumandi"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "ukulala"
+    },
+    {
+      "surface": "העבד",
+      "gloss": "komsebenzi"
+    },
+    {
+      "surface": "אם",
+      "gloss": "nokuba"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "kancinci"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "nokuba"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "uninzi"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "utya"
+    },
+    {
+      "surface": "והשבע",
+      "gloss": "ukuhlangabezana kolutyebi"
+    },
+    {
+      "surface": "לעשיר",
+      "gloss": "-lolutyebi"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "akumvumeli"
+    },
+    {
+      "surface": "מניח",
+      "gloss": "ukuba"
+    },
+    {
+      "surface": "לו",
+      "gloss": "m"
+    },
+    {
+      "surface": "לישון",
+      "gloss": "alale"
+    }
+  ],
+  "timestamp": "2026-09-18T16:25:54.164241647Z",
+  "model": "glm-5.3"
+}

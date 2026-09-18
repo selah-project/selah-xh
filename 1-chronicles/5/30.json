@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 5:30",
+  "book": "1-chronicles",
+  "lang": "xh",
+  "chapter": 5,
+  "translation": "U-Elazari wazala ⟨את⟩ u-Pinchasi; u-Pinchasi wazala ⟨את⟩ u-Abishua.",
+  "tokens": [
+    {
+      "surface": "אלעזר",
+      "gloss": "U-Elazari"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "wazala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "u-Pinchasi"
+    },
+    {
+      "surface": "פינחס",
+      "gloss": "u-Pinchasi"
+    },
+    {
+      "surface": "פינחס",
+      "gloss": "u-Pinchasi"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "wazala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "u-Abishua"
+    },
+    {
+      "surface": "אבישוע",
+      "gloss": "u-Abishua"
+    }
+  ],
+  "timestamp": "2026-09-18T16:51:32.933744059Z",
+  "model": "glm-5.3"
+}

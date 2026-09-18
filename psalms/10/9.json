@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 10:9",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 10,
+  "translation": "Ulindela ekwindweni efihlakeleyo njengengonyama kwisuka yakhe; ulindela ukubamba umpofu; ubambe umpofu ngokumtyhalela esebeni yakhe.",
+  "tokens": [
+    {
+      "surface": "יארב",
+      "gloss": "ulindela"
+    },
+    {
+      "surface": "במסתר",
+      "gloss": "ekwindweni efihlakeleyo"
+    },
+    {
+      "surface": "כאריה",
+      "gloss": "njengengonyama"
+    },
+    {
+      "surface": "בסכה",
+      "gloss": "kwisuka yakhe"
+    },
+    {
+      "surface": "יארב",
+      "gloss": "ulindela"
+    },
+    {
+      "surface": "לחטוף",
+      "gloss": "ukubamba"
+    },
+    {
+      "surface": "עני",
+      "gloss": "umpofu"
+    },
+    {
+      "surface": "יחטף",
+      "gloss": "ubambe"
+    },
+    {
+      "surface": "עני",
+      "gloss": "umpofu"
+    },
+    {
+      "surface": "במשכו",
+      "gloss": "ngokumtyhalela"
+    },
+    {
+      "surface": "ברשתו",
+      "gloss": "esebeni yakhe"
+    }
+  ],
+  "timestamp": "2026-09-18T14:29:58.960603702Z",
+  "model": "glm-5.3"
+}

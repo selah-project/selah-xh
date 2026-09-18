@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 63:4",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 63,
+  "translation": "Kuba ikhesedi yakho ingcono wobomi, milomo yam iza kukudunyisa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kuba"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ingcono"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "ikhesedi yakho"
+    },
+    {
+      "surface": "מחיים",
+      "gloss": "wobomi"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "milomo yam"
+    },
+    {
+      "surface": "ישבחונך",
+      "gloss": "iza kukudunyisa"
+    }
+  ],
+  "timestamp": "2026-09-18T14:55:22.723790432Z",
+  "model": "glm-5.3"
+}

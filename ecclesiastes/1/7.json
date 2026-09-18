@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 1:7",
+  "book": "ecclesiastes",
+  "lang": "xh",
+  "chapter": 1,
+  "translation": "Iimilambo zonke zihamba ziya elwandle, kodwa ilwandle alizalisi; kwindawo apho iimilambo zihamba khona, apho ziphindela khona ukuhamba.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "zonke"
+    },
+    {
+      "surface": "הנחלים",
+      "gloss": "iimilambo"
+    },
+    {
+      "surface": "הלכים",
+      "gloss": "zihamba"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ziya"
+    },
+    {
+      "surface": "הים",
+      "gloss": "elwandle"
+    },
+    {
+      "surface": "והים",
+      "gloss": "kodwa ilwandle"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "ali-"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "-zalisi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kw-"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "-ndaweni"
+    },
+    {
+      "surface": "שהנחלים",
+      "gloss": "apho iimilambo"
+    },
+    {
+      "surface": "הלכים",
+      "gloss": "zihamba"
+    },
+    {
+      "surface": "שם",
+      "gloss": "khona"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ziphindela"
+    },
+    {
+      "surface": "שבים",
+      "gloss": "baphinda"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "ukuhamba"
+    }
+  ],
+  "timestamp": "2026-09-18T17:49:05.784250940Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 8:6",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 8,
+  "translation": "Wathi: “Ngomso.” Wathi: “Njengokulithiyo lakho, ukuze wazi ukuba akukho nanye njengoYahwe uElohim wethu.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "למחר",
+      "gloss": "ngomso"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "כדברך",
+      "gloss": "njengokulithiyo lakho"
+    },
+    {
+      "surface": "למען",
+      "gloss": "ukuze"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "wazi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ukuba"
+    },
+    {
+      "surface": "אין",
+      "gloss": "akukho"
+    },
+    {
+      "surface": "כיהוה",
+      "gloss": "njengoYahwe"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "uElohim wethu"
+    }
+  ],
+  "timestamp": "2026-09-18T05:55:39.205581803Z",
+  "model": "glm-5.3"
+}

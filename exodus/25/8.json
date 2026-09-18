@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 25:8",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 25,
+  "translation": "Kwaye bendenzele mandlu angcwele, ndiza kuhla phakathi kwabo",
+  "tokens": [
+    {
+      "surface": "ועשו",
+      "gloss": "bendenze"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ele"
+    },
+    {
+      "surface": "מקדש",
+      "gloss": "indlu engcwele"
+    },
+    {
+      "surface": "ושכנתי",
+      "gloss": "ndiza kuhla"
+    },
+    {
+      "surface": "בתוכם",
+      "gloss": "phakathi kwabo"
+    }
+  ],
+  "timestamp": "2026-09-18T06:11:32.793667473Z",
+  "model": "glm-5.3"
+}

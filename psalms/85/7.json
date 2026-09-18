@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 85:7",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 85,
+  "translation": "Awesabi na ukubuyela uvuse ubomi kwethu, ukuze abantu bakho bayonwabe ngawe?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "awesabi na"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "ukubuyela"
+    },
+    {
+      "surface": "תחינו",
+      "gloss": "uvuse ubomi kwethu"
+    },
+    {
+      "surface": "ועמך",
+      "gloss": "abantu bakho"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "bayonwabe"
+    },
+    {
+      "surface": "בך",
+      "gloss": "ngawe"
+    }
+  ],
+  "timestamp": "2026-09-18T15:07:08.295909717Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ecclesiastes 9:14",
+  "book": "ecclesiastes",
+  "lang": "xh",
+  "chapter": 9,
+  "translation": "Kukho isixeko esincinci, namadoda amancinci kuso; kwaye weza kuso iinkosi enkulu, wazingqonga ⟨את⟩ loo nto, wakha phezu kwaso iizixhobo ezinkulu zokusingatha.",
+  "tokens": [
+    {
+      "surface": "עיר",
+      "gloss": "isixeko"
+    },
+    {
+      "surface": "קטנה",
+      "gloss": "esincinci"
+    },
+    {
+      "surface": "ואנשים",
+      "gloss": "namadoda"
+    },
+    {
+      "surface": "בה",
+      "gloss": "kuso"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "amancinci"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "weza"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "kuso"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "inkosi"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "enkulu"
+    },
+    {
+      "surface": "וסבב",
+      "gloss": "wazingqonga"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "loo nto (isixeko)"
+    },
+    {
+      "surface": "ובנה",
+      "gloss": "wakha"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "phezu kwaso"
+    },
+    {
+      "surface": "מצודים",
+      "gloss": "iizixhobo zokusingatha"
+    },
+    {
+      "surface": "גדלים",
+      "gloss": "ezinkulu"
+    }
+  ],
+  "timestamp": "2026-09-18T16:25:54.322969982Z",
+  "model": "glm-5.3"
+}

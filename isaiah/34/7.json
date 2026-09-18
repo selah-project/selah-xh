@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 34:7",
+  "book": "isaiah",
+  "lang": "xh",
+  "chapter": 34,
+  "translation": "Iibhokhwe ezidla ngamabom ziya kwehla kunye nabo, neenkunzi ezincinane kunye neezimandla; umhlaba wabo uza kuthamba ngegazi, nobuthuli balo bunamathelisa amafutha.",
+  "tokens": [
+    {
+      "surface": "ורירדו וירדו",
+      "gloss": "ziya kwehla"
+    },
+    {
+      "surface": "ראמים",
+      "gloss": "iibhokhwe ezidla ngamabom"
+    },
+    {
+      "surface": "עמם",
+      "gloss": "kunye nabo"
+    },
+    {
+      "surface": "ופרים",
+      "gloss": "neenkunzi ezincinane"
+    },
+    {
+      "surface": "עם",
+      "gloss": "kunye"
+    },
+    {
+      "surface": "אבירים",
+      "gloss": "neezimandla"
+    },
+    {
+      "surface": "ורותה",
+      "gloss": "uza kuthamba"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "umhlaba wabo"
+    },
+    {
+      "surface": "מדם",
+      "gloss": "ngegazi"
+    },
+    {
+      "surface": "ועפרם",
+      "gloss": "nobuthuli balo"
+    },
+    {
+      "surface": "מחלב",
+      "gloss": "amafutha"
+    },
+    {
+      "surface": "ידשן",
+      "gloss": "bunamathelisa"
+    }
+  ],
+  "timestamp": "2026-09-18T11:27:34.366506625Z",
+  "model": "glm-5.3"
+}

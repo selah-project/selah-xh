@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jonah 1:4",
+  "book": "jonah",
+  "lang": "xh",
+  "chapter": 1,
+  "translation": "Ukuba uYahwe walahla umoya omkhulu olwandle, kwaba khona isichotho esikhulu olwandle, inqanawa yayicinga ukuba iza kutshatyalala.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "Ukuba uYahwe"
+    },
+    {
+      "surface": "הטיל",
+      "gloss": "walahla"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "umoya"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "omkhulu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "הים",
+      "gloss": "olwandle"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "kwaba khona"
+    },
+    {
+      "surface": "סער",
+      "gloss": "isichotho"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "esikhulu"
+    },
+    {
+      "surface": "בים",
+      "gloss": "olwandle"
+    },
+    {
+      "surface": "והאניה",
+      "gloss": "inqanawa"
+    },
+    {
+      "surface": "חשבה",
+      "gloss": "yayicinga"
+    },
+    {
+      "surface": "להשבר",
+      "gloss": "ukuba iza kutshatyalala"
+    }
+  ],
+  "timestamp": "2026-09-18T14:02:31.486661746Z",
+  "model": "glm-5.3"
+}

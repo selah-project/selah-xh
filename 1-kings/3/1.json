@@ -1,0 +1,122 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 3:1",
+  "book": "1-kings",
+  "lang": "xh",
+  "chapter": 3,
+  "translation": "UShelomoh wadibana ngomtshato noParo, inkosi yeMitsrayim, wathabatha unyana wo mfazi kaParo, wamzisa elidolophini likaDawidi, de agqibe ukwakha indlu yakhe nendlu kaYahwe nomgangatho weYerushalayimi wo mxholo.",
+  "tokens": [
+    {
+      "surface": "ויתחתן",
+      "gloss": "wadibana ngumtshato"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "UShelomoh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uParo"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "noParo"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "inkosi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "yeMitsrayim"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "wathabatha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "unyana womfazi kaParo"
+    },
+    {
+      "surface": "בת",
+      "gloss": "unyana womfazi"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "kaParo"
+    },
+    {
+      "surface": "ויביאה",
+      "gloss": "wamzisa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e-"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "elidolophini"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "likaDawidi"
+    },
+    {
+      "surface": "עד",
+      "gloss": "de"
+    },
+    {
+      "surface": "כלתו",
+      "gloss": "agqibe"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "ukwakha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "indlu yakhe"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "indlu yakhe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kunye no ⟨את⟩",
+      "marks": "indlu kaYahwe"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nendlu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kaYahwe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kunye no ⟨את⟩",
+      "marks": "umgangatho weYerushalayimi"
+    },
+    {
+      "surface": "חומת",
+      "gloss": "nomgangatho"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "weYerushalayimi"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "wo mxholo"
+    }
+  ],
+  "timestamp": "2026-09-18T10:10:32.733953587Z",
+  "model": "glm-5.3"
+}

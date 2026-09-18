@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 21:10",
+  "book": "genesis",
+  "lang": "xh",
+  "chapter": 21,
+  "translation": "Wathi ku-Avraham: “Xosha le nkonceki ⟨את⟩ unyana yayo, kuba unyana wale nkonceki akayi kuthatha ilifa kunye nonyana wam, ngoYitshaki.”",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "Wathi"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "ku-Avraham"
+    },
+    {
+      "surface": "גרש",
+      "gloss": "Xosha"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "le nkonceki"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "le"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "unyana yayo"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "unyana yayo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "לא",
+      "gloss": "akayi"
+    },
+    {
+      "surface": "יירש",
+      "gloss": "kuthatha ilifa"
+    },
+    {
+      "surface": "בן",
+      "gloss": "unyana"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "wale nkonceki"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "le"
+    },
+    {
+      "surface": "עם",
+      "gloss": "kunye"
+    },
+    {
+      "surface": "בני",
+      "gloss": "nonyana wam"
+    },
+    {
+      "surface": "עם",
+      "gloss": "kunye"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "ngoYitshaki"
+    }
+  ],
+  "timestamp": "2026-09-18T05:18:36.696394207Z",
+  "model": "glm-5.3"
+}

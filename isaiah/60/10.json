@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 60:10",
+  "book": "isaiah",
+  "lang": "xh",
+  "chapter": 60,
+  "translation": "Abantwana bezizwe zendalo baza kwakhisa iindonga zakho, iinkosi zabo ziya kukhonza kuwe; kuba ngoluka lwam ndakubetha, kodwa ngokwamkela kwam ndaba nanceba kuwe.",
+  "tokens": [
+    {
+      "surface": "ובנו",
+      "gloss": "baza kwakhisa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abantwana"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "bezizwe zendalo"
+    },
+    {
+      "surface": "חמתיך",
+      "gloss": "iindonga zakho"
+    },
+    {
+      "surface": "ומלכיהם",
+      "gloss": "iinkosi zabo"
+    },
+    {
+      "surface": "ישרתונך",
+      "gloss": "ziya kukhonza kuwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "בקצפי",
+      "gloss": "ngoluka lwam"
+    },
+    {
+      "surface": "הכיתיך",
+      "gloss": "ndakubetha"
+    },
+    {
+      "surface": "וברצוני",
+      "gloss": "kodwa ngokwamkela kwam"
+    },
+    {
+      "surface": "רחמתיך",
+      "gloss": "ndaba nanceba kuwe"
+    }
+  ],
+  "timestamp": "2026-09-18T11:45:37.257074839Z",
+  "model": "glm-5.3"
+}

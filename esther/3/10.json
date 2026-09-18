@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "esther 3:10",
+  "book": "esther",
+  "lang": "xh",
+  "chapter": 3,
+  "translation": "Ke inkosi yakha isusa ⟨את⟩ isikhonkwane sayo esandleni sayo, yasinika uHaman unyana kaMedatha, iAgagi, intshabalalo yamaYuda.",
+  "tokens": [
+    {
+      "surface": "ויסר",
+      "gloss": "yakha isusa"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "inkosi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isikhonkwane sayo"
+    },
+    {
+      "surface": "טבעתו",
+      "gloss": "isikhonkwane sayo"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "kusuka"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "esandleni sayo"
+    },
+    {
+      "surface": "ויתנה",
+      "gloss": "yasinika"
+    },
+    {
+      "surface": "להמן",
+      "gloss": "uHaman"
+    },
+    {
+      "surface": "בן",
+      "gloss": "unyana ka"
+    },
+    {
+      "surface": "המדתא",
+      "gloss": "Medatha"
+    },
+    {
+      "surface": "האגגי",
+      "gloss": "iAgagi"
+    },
+    {
+      "surface": "צרר",
+      "gloss": "intshabalalo"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "yamaYuda"
+    }
+  ],
+  "timestamp": "2026-09-18T16:28:10.153074358Z",
+  "model": "glm-5.3"
+}

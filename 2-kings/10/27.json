@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "2-kings 10:27",
+  "book": "2-kings",
+  "lang": "xh",
+  "chapter": 10,
+  "translation": "Wayazichitha ⟨את⟩ iintsika zikaBhali, wachitha ⟨את⟩ indlu kaBhali, wayenzela yona indlu yokukhulula indle, yada kule mihla.",
+  "tokens": [
+    {
+      "surface": "ויתצו",
+      "gloss": "Wayazichitha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iintsika zikaBhali"
+    },
+    {
+      "surface": "מצבת",
+      "gloss": "iintsika zikaBhali"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "zikaBhali"
+    },
+    {
+      "surface": "ויתצו",
+      "gloss": "wachitha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "indlu kaBhali"
+    },
+    {
+      "surface": "בית",
+      "gloss": "indlu"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "kaBhali"
+    },
+    {
+      "surface": "וישמהו",
+      "gloss": "wayenzela yona"
+    },
+    {
+      "surface": "למחראות",
+      "gloss": "indlu yokukhulula indle"
+    },
+    {
+      "surface": "עד",
+      "gloss": "yada"
+    },
+    {
+      "surface": "היום",
+      "gloss": "kule mihla"
+    }
+  ],
+  "timestamp": "2026-09-18T10:43:23.531400913Z",
+  "model": "glm-5.3"
+}

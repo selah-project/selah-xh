@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 19:12",
+  "book": "deuteronomy",
+  "lang": "xh",
+  "chapter": 19,
+  "translation": "abadala bedolophu yakhe basuke bamthabathe apho, bamnika ⟨את⟩ esandleni somhlawuli wegazi, afe.",
+  "tokens": [
+    {
+      "surface": "ושלחו",
+      "gloss": "basuke"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "abadala"
+    },
+    {
+      "surface": "עירו",
+      "gloss": "bedolophu yakhe"
+    },
+    {
+      "surface": "ולקחו",
+      "gloss": "bamthabathe"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "yena"
+    },
+    {
+      "surface": "משם",
+      "gloss": "apho"
+    },
+    {
+      "surface": "ונתנו",
+      "gloss": "bamnika"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "yena"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "esandleni sa-"
+    },
+    {
+      "surface": "גאל",
+      "gloss": "somhlawuli"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "wegazi"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "afe"
+    }
+  ],
+  "timestamp": "2026-09-18T08:11:27.929711619Z",
+  "model": "glm-5.3"
+}

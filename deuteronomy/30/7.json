@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 30:7",
+  "book": "deuteronomy",
+  "lang": "xh",
+  "chapter": 30,
+  "translation": "uYahwe uElohim wakho uza kubeka ⟨את⟩ iziqalekiso zonke ezi kwizitha zakho, nakubathiyayo bakho abakulandelayo.",
+  "tokens": [
+    {
+      "surface": "ונתן",
+      "gloss": "uza kubeka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "uElohim wakho"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iziqalekiso zonke ezi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zonke"
+    },
+    {
+      "surface": "האלות",
+      "gloss": "iziqalekiso"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ezi"
+    },
+    {
+      "surface": "על",
+      "gloss": "kwi"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "izitha zakho"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "naku"
+    },
+    {
+      "surface": "שנאיך",
+      "gloss": "abakuthiyayo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aba"
+    },
+    {
+      "surface": "רדפוך",
+      "gloss": "bakulandelayo"
+    }
+  ],
+  "timestamp": "2026-09-18T08:21:36.834342970Z",
+  "model": "glm-5.3"
+}

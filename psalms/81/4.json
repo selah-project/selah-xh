@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 81:4",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 81,
+  "translation": "Dlalisani isiphongo kwinyanga entsha, kwinyanga egcweleyo, ngosuku lwestile yethu.",
+  "tokens": [
+    {
+      "surface": "תקעו",
+      "gloss": "Dlalisani isiphongo"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "kwinyanga entsha"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "isiphongo"
+    },
+    {
+      "surface": "בכסה",
+      "gloss": "kwinyanga egcweleyo"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "ngosuku"
+    },
+    {
+      "surface": "חגנו",
+      "gloss": "lwestile yethu"
+    }
+  ],
+  "timestamp": "2026-09-18T15:05:09.852640257Z",
+  "model": "glm-5.3"
+}

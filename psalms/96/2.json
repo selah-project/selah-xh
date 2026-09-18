@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 96:2",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 96,
+  "translation": "Culani kuYahwe, bongani igama lakhe; shumayela iindaba ezimnandi zentsindiso yakhe usuku ngosuku.",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "Culani"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kuYahwe"
+    },
+    {
+      "surface": "ברכו",
+      "gloss": "bongani"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "igama lakhe"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "shumayela iindaba ezimnandi"
+    },
+    {
+      "surface": "מיום",
+      "gloss": "usuku"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "ngusuku"
+    },
+    {
+      "surface": "ישועתו",
+      "gloss": "zentsindiso yakhe"
+    }
+  ],
+  "timestamp": "2026-09-18T15:10:25.581172072Z",
+  "model": "glm-5.3"
+}

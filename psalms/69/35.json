@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 69:35",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 69,
+  "translation": "Mazimdumise izulu nomhlaba, ulwandle nako konke eshukumayo kuzo.",
+  "tokens": [
+    {
+      "surface": "יהללוהו",
+      "gloss": "mazimdumise"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "izulu"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "nomhlaba"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ulwandle"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "nako konke"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "eshukumayo"
+    },
+    {
+      "surface": "בם",
+      "gloss": "kuzo"
+    }
+  ],
+  "timestamp": "2026-09-18T14:56:35.677774020Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 73:6",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 73,
+  "translation": "Ngoko ukuzikhukhumza kubambelela kubo njengeedangatye, ubundlobongela zawathunga njengesinxibo.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "ngoko"
+    },
+    {
+      "surface": "ענקתמו",
+      "gloss": "kubambelela kubo njengeedangatye"
+    },
+    {
+      "surface": "גאוה",
+      "gloss": "ukuzikhukhumza"
+    },
+    {
+      "surface": "יעטף",
+      "gloss": "zawathunya"
+    },
+    {
+      "surface": "שית",
+      "gloss": "njengesinxibo"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "ubundlobongela"
+    },
+    {
+      "surface": "למו",
+      "gloss": "zona"
+    }
+  ],
+  "timestamp": "2026-09-18T15:00:11.235761626Z",
+  "model": "glm-5.3"
+}

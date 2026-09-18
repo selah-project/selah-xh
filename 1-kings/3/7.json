@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-kings 3:7",
+  "book": "1-kings",
+  "lang": "xh",
+  "chapter": 3,
+  "translation": "“Kananjalo ngoku, Yahwe Elohim wam, wena wamisela ⟨את⟩ usicaka wakho njengokumkani esikhundleni sikaDawidi ubawo; mna ndingumntwana omncinane, andazi ukuphuma nokungena.”",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Kananjalo ngoku"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim wam"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "המלכת",
+      "gloss": "wamisela njengokumkani"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "usicaka wakho"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "usicaka wakho"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "esikhundleni sika"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "uDawidi"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "ubawo"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "mna"
+    },
+    {
+      "surface": "נער",
+      "gloss": "ngumntwana"
+    },
+    {
+      "surface": "קטן",
+      "gloss": "omncinane"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hayi"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "ndazi"
+    },
+    {
+      "surface": "צאת",
+      "gloss": "ukuphuma"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "nokungena"
+    }
+  ],
+  "timestamp": "2026-09-18T10:10:56.139455345Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 89:6",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 89,
+  "translation": "Izulu liza kukudumisa iimangalisa zakho, Yahwe, nokuthembeka kwakho phakathi kokudibana kwabangcwele.",
+  "tokens": [
+    {
+      "surface": "ויודו",
+      "gloss": "liza kukudumisa"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "izulu"
+    },
+    {
+      "surface": "פלאך",
+      "gloss": "iimangalisa zakho"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אף",
+      "gloss": "nokuthembeka kwakho"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "nokuthembeka kwakho"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "phakathi kokudibana"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "abangcwele"
+    }
+  ],
+  "timestamp": "2026-09-18T15:07:56.239034417Z",
+  "model": "glm-5.3"
+}

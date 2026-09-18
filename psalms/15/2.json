@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 15:2",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 15,
+  "translation": "Oyahamba ngokupheleleyo, ozenza ulungelo, othetha inyaniso entliziyweni yakhe.",
+  "tokens": [
+    {
+      "surface": "הולך",
+      "gloss": "oyahamba"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "ngokupheleleyo"
+    },
+    {
+      "surface": "ופעל",
+      "gloss": "ozenza"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "ulungelo"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "othetha"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "inyaniso"
+    },
+    {
+      "surface": "בלבבו",
+      "gloss": "entliziyweni yakhe"
+    }
+  ],
+  "timestamp": "2026-09-18T14:31:59.414787833Z",
+  "model": "glm-5.3"
+}

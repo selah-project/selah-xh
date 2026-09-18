@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 49:1",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 49,
+  "translation": "Kumlawuli womculo, kwiiNyana zikaKorah, umculo onesiXhaso.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Kumlawuli womculo"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "kwiiNyana za"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "uKorah"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "umculo onesiXhaso"
+    }
+  ],
+  "timestamp": "2026-09-18T14:47:24.813435078Z",
+  "model": "glm-5.3"
+}

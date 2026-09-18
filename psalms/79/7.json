@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 79:7",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 79,
+  "translation": "Kuba badlile ⟨את⟩ uYakobi, baza kutshatyalalisa ⟨את⟩ ikhaya lakhe.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kuba"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "badlile"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uYakobi"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "uYakobi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ikhaya lakhe"
+    },
+    {
+      "surface": "נוהו",
+      "gloss": "ikhaya lakhe"
+    },
+    {
+      "surface": "השמו",
+      "gloss": "baza kutshatyalalisa"
+    }
+  ],
+  "timestamp": "2026-09-18T15:05:32.458577288Z",
+  "model": "glm-5.3"
+}

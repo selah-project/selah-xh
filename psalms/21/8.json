@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 21:8",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 21,
+  "translation": "Kuba inkosi ithembile kuYahwe, nangekhesedi lwe-Elyon akayi kutyabuka.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "inkosi"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "ithembile"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "kuYahwe"
+    },
+    {
+      "surface": "ובחסד",
+      "gloss": "nangekhesedi"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "lwe-Elyon"
+    },
+    {
+      "surface": "בל",
+      "gloss": "akayi"
+    },
+    {
+      "surface": "ימוט",
+      "gloss": "kutyabuka"
+    }
+  ],
+  "timestamp": "2026-09-18T14:35:09.304726046Z",
+  "model": "glm-5.3"
+}

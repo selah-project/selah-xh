@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 5:7",
+  "book": "1-chronicles",
+  "lang": "xh",
+  "chapter": 5,
+  "translation": "Kwaye ababo bobume babo, ekubalweni kwamakhaya ezizukulwana zabo, abaphezulu babenguYeyiyeli noZekariya.",
+  "tokens": [
+    {
+      "surface": "ואחיו",
+      "gloss": "Kwaye ababo bobume babo"
+    },
+    {
+      "surface": "למשפחתיו",
+      "gloss": "ngokweenkcubede zabo"
+    },
+    {
+      "surface": "בהתיחש",
+      "gloss": "ekubalweni kwamakhaya ezizukulwana zabo"
+    },
+    {
+      "surface": "לתלדותם",
+      "gloss": "ngokwezizukulwana zabo"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "abaphezulu"
+    },
+    {
+      "surface": "יעיאל",
+      "gloss": "babenguYeyiyeli"
+    },
+    {
+      "surface": "וזכריהו",
+      "gloss": "noZekariya"
+    }
+  ],
+  "timestamp": "2026-09-18T16:51:22.269657043Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 45:9",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 45,
+  "translation": "Imyele, nomhlonyane, neqatsiya — zonke iingubo zakho; zivela kwiipalasi zeenyanga zendlovu, izixhobo ezinetambo zakuthokoza.",
+  "tokens": [
+    {
+      "surface": "מר",
+      "gloss": "imyele"
+    },
+    {
+      "surface": "ואהלות",
+      "gloss": "nomhlonyane"
+    },
+    {
+      "surface": "קציעות",
+      "gloss": "neqatsiya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zonke"
+    },
+    {
+      "surface": "בגדתיך",
+      "gloss": "iingubo zakho"
+    },
+    {
+      "surface": "מן",
+      "gloss": "zivela"
+    },
+    {
+      "surface": "היכלי",
+      "gloss": "iipalasi"
+    },
+    {
+      "surface": "שן",
+      "gloss": "zeenyanga zendlovu"
+    },
+    {
+      "surface": "מני",
+      "gloss": "izixhobo ezinetambo"
+    },
+    {
+      "surface": "שמחוך",
+      "gloss": "zakuthokoza"
+    }
+  ],
+  "timestamp": "2026-09-18T17:43:07.572008160Z",
+  "model": "glm-5.3"
+}

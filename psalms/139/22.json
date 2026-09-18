@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 139:22",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 139,
+  "translation": "Ngokuzonda okupheleleyo ndibazondile; batsho ukuba bangabanqangi bam.",
+  "tokens": [
+    {
+      "surface": "תכלית",
+      "gloss": "okupheleleyo"
+    },
+    {
+      "surface": "שנאה",
+      "gloss": "kokuzonda"
+    },
+    {
+      "surface": "שנאתים",
+      "gloss": "ndibazondile"
+    },
+    {
+      "surface": "לאויבים",
+      "gloss": "bangabanqangi"
+    },
+    {
+      "surface": "היו",
+      "gloss": "batsho ukuba"
+    },
+    {
+      "surface": "לי",
+      "gloss": "bam"
+    }
+  ],
+  "timestamp": "2026-09-18T15:30:51.794976285Z",
+  "model": "glm-5.3"
+}

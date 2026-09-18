@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 97:4",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 97,
+  "translation": "Umbane wakhe wakhanyisa ihlabathi; umhlaba wabona, woyika.",
+  "tokens": [
+    {
+      "surface": "האירו",
+      "gloss": "wakhanyisa"
+    },
+    {
+      "surface": "ברקיו",
+      "gloss": "umbane wakhe"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "ihlabathi"
+    },
+    {
+      "surface": "ראתה",
+      "gloss": "wabona"
+    },
+    {
+      "surface": "ותחל",
+      "gloss": "woyika"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "umhlaba"
+    }
+  ],
+  "timestamp": "2026-09-18T15:11:44.014054750Z",
+  "model": "glm-5.3"
+}

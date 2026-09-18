@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 11:3",
+  "book": "1-kings",
+  "lang": "xh",
+  "chapter": 11,
+  "translation": "Wabanjalo waba nabafazi iinkosazana elingamakhulu ali-700, nabaqhotsokazi elingamakhulu ali-300; kwaza ke abafazi bakhe batshintsha ⟨את⟩ intliziyo yakhe.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "wabanjalo"
+    },
+    {
+      "surface": "לו",
+      "gloss": "waba"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "abafazi"
+    },
+    {
+      "surface": "שרות",
+      "gloss": "iinkosazana"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "esisixhenxe"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "amakhulu"
+    },
+    {
+      "surface": "ופלגשים",
+      "gloss": "nabaqhotsokazi"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "esithathu"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "amakhulu"
+    },
+    {
+      "surface": "ויטו",
+      "gloss": "batshintsha"
+    },
+    {
+      "surface": "נשיו",
+      "gloss": "abafazi bakhe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "intliziyo yakhe"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "intliziyo yakhe"
+    }
+  ],
+  "timestamp": "2026-09-18T17:31:26.217940394Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 35:20",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 35,
+  "translation": "Kuba abathethi uxolo; phezu kwabathuleyo bomhlaba bacebisa amagama okhohliso.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hayi"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "uxolo"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "abathethi"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "phezu kwa"
+    },
+    {
+      "surface": "רגעי",
+      "gloss": "abathuleyo"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "bomhlaba"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "amagama"
+    },
+    {
+      "surface": "מרמות",
+      "gloss": "okhohliso"
+    },
+    {
+      "surface": "יחשבון",
+      "gloss": "bacebisa"
+    }
+  ],
+  "timestamp": "2026-09-18T14:41:26.346855675Z",
+  "model": "glm-5.3"
+}

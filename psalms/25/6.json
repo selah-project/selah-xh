@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 25:6",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 25,
+  "translation": "Khumbula iirhami zakho, uYahwe, nezikhesedi zakho, kuba zisukela kudala zazikhona.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "Khumbula"
+    },
+    {
+      "surface": "רחמיך",
+      "gloss": "iirhami zakho"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "וחסדיך",
+      "gloss": "nezikhesedi zakho"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "מעולם",
+      "gloss": "kusukela kudala"
+    },
+    {
+      "surface": "המה",
+      "gloss": "zazikhona"
+    }
+  ],
+  "timestamp": "2026-09-18T14:37:23.850744973Z",
+  "model": "glm-5.3"
+}

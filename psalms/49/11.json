@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 49:11",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 49,
+  "translation": "Kuba ubona ukuba abahlakaniphi bafa; ndawonye nesiphukuphuku nesibhanxa bazimhlabela, bashiya ubutyebi babo kubanye.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "ubona ukuba"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "abahlakaniphi"
+    },
+    {
+      "surface": "ימותו",
+      "gloss": "bafa"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "ndawonye"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "nesiphukuphuku"
+    },
+    {
+      "surface": "ובער",
+      "gloss": "nesibhanxa"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "bazimhlabela"
+    },
+    {
+      "surface": "ועזבו",
+      "gloss": "bashiya"
+    },
+    {
+      "surface": "לאחרים",
+      "gloss": "kubanye"
+    },
+    {
+      "surface": "חילם",
+      "gloss": "ubutyebi babo"
+    }
+  ],
+  "timestamp": "2026-09-18T14:47:02.715766012Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 103:15",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 103,
+  "translation": "Umntu, iintsuku zakhe njengotye; njengentyatyambo yasimahlwa, njalo uyaqhumisa.",
+  "tokens": [
+    {
+      "surface": "אנוש",
+      "gloss": "umntu"
+    },
+    {
+      "surface": "כחציר",
+      "gloss": "njengotye"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "iintsuku zakhe"
+    },
+    {
+      "surface": "כציץ",
+      "gloss": "njengentyatyambo"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "yasimahlwa"
+    },
+    {
+      "surface": "כן",
+      "gloss": "njalo"
+    },
+    {
+      "surface": "יציץ",
+      "gloss": "uyaqhumisa"
+    }
+  ],
+  "timestamp": "2026-09-18T15:13:28.384000588Z",
+  "model": "glm-5.3"
+}

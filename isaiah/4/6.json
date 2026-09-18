@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 4:6",
+  "book": "isaiah",
+  "lang": "xh",
+  "chapter": 4,
+  "translation": "Kwaye isikhongozeli siza kuba ngumthunzi emini, ekubalekeni obushushu, nasiphephelo nendawo yokuzifihla esiphephweni nasemvuleni.",
+  "tokens": [
+    {
+      "surface": "וסכה",
+      "gloss": "isikhongozeli"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "siza kuba"
+    },
+    {
+      "surface": "לצל",
+      "gloss": "ngumthunzi"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "emini"
+    },
+    {
+      "surface": "מחרב",
+      "gloss": "obushushu"
+    },
+    {
+      "surface": "ולמחסה",
+      "gloss": "nasiphephelo"
+    },
+    {
+      "surface": "ולמסתור",
+      "gloss": "nendawo yokuzifihla"
+    },
+    {
+      "surface": "מזרם",
+      "gloss": "isiphepho"
+    },
+    {
+      "surface": "וממטר",
+      "gloss": "nasemvuleni"
+    }
+  ],
+  "timestamp": "2026-09-18T11:04:18.778286597Z",
+  "model": "glm-5.3"
+}

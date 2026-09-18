@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 102:4",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 102,
+  "translation": "Kuba iintsuku zam ziphele njengomsi, kunye namathambo am ashisa njengesixokelelo somlilo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kuba"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "ziphele"
+    },
+    {
+      "surface": "בעשן",
+      "gloss": "njengomsi"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "iintsuku zam"
+    },
+    {
+      "surface": "ועצמותי",
+      "gloss": "kunye namathambo am"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "njenge"
+    },
+    {
+      "surface": "קד",
+      "gloss": "isixokelelo somlilo"
+    },
+    {
+      "surface": "נחרו",
+      "gloss": "ashisa"
+    }
+  ],
+  "timestamp": "2026-09-18T15:14:42.203527396Z",
+  "model": "glm-5.3"
+}

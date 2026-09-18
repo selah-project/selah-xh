@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-kings 10:24",
+  "book": "1-kings",
+  "lang": "xh",
+  "chapter": 10,
+  "translation": "Kwaye onke umhlaba babefuna ⟨את⟩ ubuso bukaShelomoh, ukuziva ⟨את⟩ ubuchule bakhe, elo uElohim abunike entliziyweni yakhe.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "Kwaye onke"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "umhlaba"
+    },
+    {
+      "surface": "מבקשים",
+      "gloss": "babefuna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ubuso bukaShelomoh"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ubuso"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "bukaShelomoh"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "ukuziva"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ubuchule bakhe"
+    },
+    {
+      "surface": "חכמתו",
+      "gloss": "ubuchule bakhe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "elo"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "abunike"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "entliziyweni yakhe"
+    }
+  ],
+  "timestamp": "2026-09-18T10:19:35.617283150Z",
+  "model": "glm-5.3"
+}

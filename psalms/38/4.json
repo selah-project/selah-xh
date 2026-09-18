@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 38:4",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 38,
+  "translation": "Akukho mpiliswano enyameni yam ngenxa yolaka lwakho, akukho xolo kumathambo am ngenxa yesono sam.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "Akukho"
+    },
+    {
+      "surface": "מתם",
+      "gloss": "mpiliswano"
+    },
+    {
+      "surface": "בבשרי",
+      "gloss": "enyameni yam"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "ngenxa yo"
+    },
+    {
+      "surface": "זעמך",
+      "gloss": "laka lwakho"
+    },
+    {
+      "surface": "אין",
+      "gloss": "akukho"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "xolo"
+    },
+    {
+      "surface": "בעצמי",
+      "gloss": "kumathambo am"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "ngenxa ye"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "sono sam"
+    }
+  ],
+  "timestamp": "2026-09-18T14:43:54.107657938Z",
+  "model": "glm-5.3"
+}

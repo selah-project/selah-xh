@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 35:1",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 35,
+  "translation": "UMoshe wayebutha ⟨את⟩ lonke iqela leenkwenkwezi zika-Israeli, wathetha kuthi: ezi ngamazwi uYahwe awawaleleyo ukwenziwa ⟨את⟩ kwawo.",
+  "tokens": [
+    {
+      "surface": "ויקהל",
+      "gloss": "wayebutha"
+    },
+    {
+      "surface": "משה",
+      "gloss": "uMoshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lonke iqela leenkwenkwezi zika-Israeli"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lonke"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "iqela"
+    },
+    {
+      "surface": "בני",
+      "gloss": "eenkwenkwezi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "uka-Israeli"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "wathetha"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "kuthi"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ezi"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "ngamazwi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a-"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "awaleleyo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "לעשת",
+      "gloss": "ukwenziwa"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ kwawo"
+    }
+  ],
+  "timestamp": "2026-09-18T06:24:55.431323517Z",
+  "model": "glm-5.3"
+}

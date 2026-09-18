@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 6:16",
+  "book": "2-kings",
+  "lang": "xh",
+  "chapter": 6,
+  "translation": "Wathi: “Ungoyiki, kuba baninzi abakuthi ⟨את⟩ nathi kunoko abakuthi ⟨את⟩ nabo.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Wathi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "musa"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "ukoyika"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "baninzi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aba-"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ nathi"
+    },
+    {
+      "surface": "מאשר",
+      "gloss": "kunoko aba-"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": ""
+    }
+  ],
+  "timestamp": "2026-09-18T10:41:57.776318514Z",
+  "model": "glm-5.3"
+}

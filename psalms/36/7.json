@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 36:7",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 36,
+  "translation": "Ubulungisa bakho bujengamazintaba ka-El; izigwebo zakho zilulwizi olunzulu olunenkulu; umntu nesisipheki uwasindisa, uYahwe.",
+  "tokens": [
+    {
+      "surface": "צדקתך",
+      "gloss": "ubulungisa bakho"
+    },
+    {
+      "surface": "כהררי",
+      "gloss": "bujenga ezintabeni"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka-El"
+    },
+    {
+      "surface": "משפטך",
+      "gloss": "izigwebo zakho"
+    },
+    {
+      "surface": "תהום",
+      "gloss": "ilulwizi"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "olunenkulu"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "umntu"
+    },
+    {
+      "surface": "ובהמה",
+      "gloss": "nesisipheki"
+    },
+    {
+      "surface": "תושיע",
+      "gloss": "uwasindisa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    }
+  ],
+  "timestamp": "2026-09-18T14:41:43.839118190Z",
+  "model": "glm-5.3"
+}

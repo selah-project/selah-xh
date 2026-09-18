@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 107:1",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 107,
+  "translation": "Yibani ngabuleli kuYahwe, kuba ⟨ungu⟩ olungileyo, kuba ikhesedi yakhe ihleli kuze kube phakade.",
+  "tokens": [
+    {
+      "surface": "הדו",
+      "gloss": "Yibani ngabuleli"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kuYahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "⟨ungu⟩ olungileyo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "kuze kube phakade"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ikhesedi yakhe"
+    }
+  ],
+  "timestamp": "2026-09-18T15:17:56.086121133Z",
+  "model": "glm-5.3"
+}

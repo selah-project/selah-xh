@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 3:25",
+  "book": "deuteronomy",
+  "lang": "xh",
+  "chapter": 3,
+  "translation": "Ndicelwe ndidlule, ndize ndibone ⟨את⟩ umhlaba olungileyo owungaphesheya koMlambo iYardeni, le ntaba ilungileyo, neLebanoni.",
+  "tokens": [
+    {
+      "surface": "אעברה",
+      "gloss": "ndicelwe ndidlule"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ndicelwe"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "ndize ndibone"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umhlaba olungileyo"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "umhlaba"
+    },
+    {
+      "surface": "הטובה",
+      "gloss": "olungileyo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "o"
+    },
+    {
+      "surface": "בעבר",
+      "gloss": "owungaphesheya ko"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "iMlambo iYardeni"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "le ntaba"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "ilungileyo"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "le"
+    },
+    {
+      "surface": "והלבנון",
+      "gloss": "neLebanoni"
+    }
+  ],
+  "timestamp": "2026-09-18T07:54:19.439426004Z",
+  "model": "glm-5.3"
+}

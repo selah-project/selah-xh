@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 17:15",
+  "book": "numbers",
+  "lang": "xh",
+  "chapter": 17,
+  "translation": "U-Aharon wabuyela kuMoshe, emnyangweni wesitya somdibaniso, yaye indyebelwane yayingekiwa.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "wabuyela"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "u-Aharon"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "משה",
+      "gloss": "uMoshe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e-"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "mnyangweni"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "esitya"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "somdibaniso"
+    },
+    {
+      "surface": "והמגפה",
+      "gloss": "yaye indyebelwane"
+    },
+    {
+      "surface": "נעצרה",
+      "gloss": "yayingekiwa"
+    }
+  ],
+  "timestamp": "2026-09-18T07:28:26.424340164Z",
+  "model": "glm-5.3"
+}

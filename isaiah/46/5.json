@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 46:5",
+  "book": "isaiah",
+  "lang": "xh",
+  "chapter": 46,
+  "translation": "Kulweni niyakundifanisa, niyakulinganisa, niyakundithelekisa, ukuze sidingane?",
+  "tokens": [
+    {
+      "surface": "למי",
+      "gloss": "Kulweni"
+    },
+    {
+      "surface": "תדמיוני",
+      "gloss": "niyakundifanisa"
+    },
+    {
+      "surface": "ותשוו",
+      "gloss": "niyakulinganisa"
+    },
+    {
+      "surface": "ותמשלוני",
+      "gloss": "niyakundithelekisa"
+    },
+    {
+      "surface": "ונדמה",
+      "gloss": "ukuze sidingane"
+    }
+  ],
+  "timestamp": "2026-09-18T11:36:00.524168578Z",
+  "model": "glm-5.3"
+}

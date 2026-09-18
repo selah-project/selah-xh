@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 3:8",
+  "book": "ecclesiastes",
+  "lang": "xh",
+  "chapter": 3,
+  "translation": "Ixesha lokuthanda, nexesha lokuzonda; ixesha lemimfazwe, nexesha loxolo.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "ixesha"
+    },
+    {
+      "surface": "לאהב",
+      "gloss": "lokuthanda"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "nexesha"
+    },
+    {
+      "surface": "לשנא",
+      "gloss": "lokuzonda"
+    },
+    {
+      "surface": "עת",
+      "gloss": "ixesha"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "lemimfazwe"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "nexesha"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "loxolo"
+    }
+  ],
+  "timestamp": "2026-09-18T16:23:29.706653154Z",
+  "model": "glm-5.3"
+}

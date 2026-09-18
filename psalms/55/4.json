@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 55:4",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 55,
+  "translation": "Ngenxa yelizwi lochaso, ngenxa yokucinezela komgabi: kuba bayatshisa ububi phezu kwam, kwaye ngoluka bayandizonda.",
+  "tokens": [
+    {
+      "surface": "מקול",
+      "gloss": "Ngenxa yelizwi"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "lochaso"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "ngenxa"
+    },
+    {
+      "surface": "עקת",
+      "gloss": "yokucinezela"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "komgabi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "ימיטו",
+      "gloss": "bayatshisa"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "phezu kwam"
+    },
+    {
+      "surface": "און",
+      "gloss": "ububi"
+    },
+    {
+      "surface": "ובאף",
+      "gloss": "ngoluka"
+    },
+    {
+      "surface": "ישטמוני",
+      "gloss": "bayandizonda"
+    }
+  ],
+  "timestamp": "2026-09-18T14:51:20.950833032Z",
+  "model": "glm-5.3"
+}

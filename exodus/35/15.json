@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 35:15",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 35,
+  "translation": "no⟨את⟩ ialtare yomkhundanisi, no⟨את⟩ iibhadi zayo, no⟨את⟩ ioyile yokutsalwa, no⟨את⟩ umkhundanisi wezimuncu, no⟨את⟩ iredhi yomnyango phambi komnyango wetabhinakle;",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "no⟨את⟩",
+      "marks": "ialtare yomkhundanisi"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "ialtare"
+    },
+    {
+      "surface": "הקטרת",
+      "gloss": "yomkhundanisi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "no⟨את⟩",
+      "marks": "iibhadi zayo"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "iibhadi zayo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "no⟨את⟩",
+      "marks": "ioyile yokutsalwa"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "ioyile"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "yokutsalwa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "no⟨את⟩",
+      "marks": "umkhundanisi wezimuncu"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "umkhundanisi"
+    },
+    {
+      "surface": "הסמים",
+      "gloss": "wezimuncu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "no⟨את⟩",
+      "marks": "iredhi yomnyango"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "iredhi"
+    },
+    {
+      "surface": "הפתח",
+      "gloss": "yomnyango"
+    },
+    {
+      "surface": "לפתח",
+      "gloss": "phambi komnyango"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "wetabhinakle"
+    }
+  ],
+  "timestamp": "2026-09-18T06:23:25.770517607Z",
+  "model": "glm-5.3"
+}

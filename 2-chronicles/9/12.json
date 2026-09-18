@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-chronicles 9:12",
+  "book": "2-chronicles",
+  "lang": "xh",
+  "chapter": 9,
+  "translation": "Inkosi uShelomoh yamnika inkosi yaseSheba ⟨את⟩ konke okwakuthandwa yileyo ayicela ngaphandle kwezo yayizile nazo kunkosi; waza wabuya waya elizweni lakhe yena namakhoboka akhe.",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "Inkosi"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "uShelomoh"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "yamnika"
+    },
+    {
+      "surface": "למלכת",
+      "gloss": "inkosi"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "yaseSheba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "konke okwakuthandwa yileyo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "konke"
+    },
+    {
+      "surface": "חפצה",
+      "gloss": "okwakuthandwa yileyo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ayicela"
+    },
+    {
+      "surface": "שאלה",
+      "gloss": "ayicela"
+    },
+    {
+      "surface": "מלבד",
+      "gloss": "ngaphandle kwezo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yayizile nazo"
+    },
+    {
+      "surface": "הביאה",
+      "gloss": "yayizile nazo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kunkosi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kunkosi"
+    },
+    {
+      "surface": "ותהפך",
+      "gloss": "wabuya"
+    },
+    {
+      "surface": "ותלך",
+      "gloss": "waya"
+    },
+    {
+      "surface": "לארצה",
+      "gloss": "elizweni lakhe"
+    },
+    {
+      "surface": "היא",
+      "gloss": "yena"
+    },
+    {
+      "surface": "ועבדיה",
+      "gloss": "namakhoboka akhe"
+    }
+  ],
+  "timestamp": "2026-09-18T17:06:00.782010835Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 31:20",
+  "book": "genesis",
+  "lang": "xh",
+  "chapter": 31,
+  "translation": "Yaye uYakob wazimba ⟨את⟩ intliziyo yeLabani uMramu, ngokungazixeli ukuba ubalekile.",
+  "tokens": [
+    {
+      "surface": "ויגנב",
+      "gloss": "wazimba"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "uYakob"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "intliziyo yeLabani"
+    },
+    {
+      "surface": "לב",
+      "gloss": "intliziyo"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "yeLabani"
+    },
+    {
+      "surface": "הארמי",
+      "gloss": "uMramu"
+    },
+    {
+      "surface": "על",
+      "gloss": "ngoku-"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "kungazixeli"
+    },
+    {
+      "surface": "הגיד",
+      "gloss": "zixeli"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kuye"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ukuba"
+    },
+    {
+      "surface": "ברח",
+      "gloss": "ubalekile"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yena"
+    }
+  ],
+  "timestamp": "2026-09-18T05:27:53.892695368Z",
+  "model": "glm-5.3"
+}

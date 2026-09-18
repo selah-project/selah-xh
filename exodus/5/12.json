@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 5:12",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 5,
+  "translation": "Ilizwe lasazeka kulo lonke ilizwe leMitsrayim, ukuzingela uphoko njengokhuni.",
+  "tokens": [
+    {
+      "surface": "ויפץ",
+      "gloss": "lasazeka"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ilizwe"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "kulo lonke"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ilizwe le-"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "iMitsrayim"
+    },
+    {
+      "surface": "לקשש",
+      "gloss": "ukuzingela"
+    },
+    {
+      "surface": "קש",
+      "gloss": "uphoko"
+    },
+    {
+      "surface": "לתבן",
+      "gloss": "njengokhuni"
+    }
+  ],
+  "timestamp": "2026-09-18T05:51:22.226379334Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "genesis 49:33",
+  "book": "genesis",
+  "lang": "xh",
+  "chapter": 49,
+  "translation": "Waza uYaakov ewela ekumisela ⟨את⟩ oonyana bakhe, waya kudibanisa iinyawo zakhe emthagweni, wafa, wadityaniswa nabantu bakhe.",
+  "tokens": [
+    {
+      "surface": "ויכל",
+      "gloss": "wewela"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "uYaakov"
+    },
+    {
+      "surface": "לצות",
+      "gloss": "ekumisela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oonyana bakhe"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "oonyana bakhe"
+    },
+    {
+      "surface": "ויאסף",
+      "gloss": "waya kudibanisa"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "iinyawo zakhe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwi-"
+    },
+    {
+      "surface": "המטה",
+      "gloss": "emthagweni"
+    },
+    {
+      "surface": "ויגוע",
+      "gloss": "wafa"
+    },
+    {
+      "surface": "ויאסף",
+      "gloss": "wadityaniswa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa-"
+    },
+    {
+      "surface": "עמיו",
+      "gloss": "abantu bakhe"
+    }
+  ],
+  "timestamp": "2026-09-18T05:46:01.942464318Z",
+  "model": "glm-5.3"
+}

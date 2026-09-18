@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 1:16",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 1,
+  "translation": "Yathithi: “Xa niza kuzala abaseBhrayeli ⟨את⟩, nibone ⟨unina⟩ phezu kwamatye okubeletha; ukuba ngumntwana oyinkwenkwe, mmbulaleni ⟨אתו⟩; ukuba ngumntwana oyintombazana, isuke iphile.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "בילדכן",
+      "gloss": "xa niza kuzala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abaseBhrayeli"
+    },
+    {
+      "surface": "העבריות",
+      "gloss": "abaseBhrayeli"
+    },
+    {
+      "surface": "וראיתן",
+      "gloss": "nibone"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "kwamatye okubeletha"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ukuba"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ngumntwana oyinkwenkwe"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ngu-"
+    },
+    {
+      "surface": "והמתן",
+      "gloss": "mmbulaleni"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "yena (inkwenkwe)"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "ukuba"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ngumntwana oyintombazana"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ngu-"
+    },
+    {
+      "surface": "וחיה",
+      "gloss": "isuke iphile"
+    }
+  ],
+  "timestamp": "2026-09-18T05:48:41.036368048Z",
+  "model": "glm-5.3"
+}

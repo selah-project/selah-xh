@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 32:20",
+  "book": "genesis",
+  "lang": "xh",
+  "chapter": 32,
+  "translation": "Wazalela kananjalo ⟨את⟩ owesibini, kananjalo ⟨את⟩ owesithathu, kananjalo ⟨את⟩ bonke abahamba emva kweebhungu, wathi: “Nguvelwano lolu niza kuthetha ku-Esav xa nimfumana ⟨אתו⟩.”",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "wazalela"
+    },
+    {
+      "surface": "גם",
+      "gloss": "kananjalo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "owesibini"
+    },
+    {
+      "surface": "השני",
+      "gloss": "owesibini"
+    },
+    {
+      "surface": "גם",
+      "gloss": "kananjalo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "owesithathu"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "owesithathu"
+    },
+    {
+      "surface": "גם",
+      "gloss": "kananjalo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bonke"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bonke"
+    },
+    {
+      "surface": "ההלכים",
+      "gloss": "abahamba"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "emva kwe"
+    },
+    {
+      "surface": "העדרים",
+      "gloss": "iibhungu"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "nguvelwano"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "lolu"
+    },
+    {
+      "surface": "תדברון",
+      "gloss": "niza kuthetha"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "u-Esav"
+    },
+    {
+      "surface": "במצאכם",
+      "gloss": "xa nimfumana"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "yena (u-Esav)"
+    }
+  ],
+  "timestamp": "2026-09-18T05:30:01.127747226Z",
+  "model": "glm-5.3"
+}

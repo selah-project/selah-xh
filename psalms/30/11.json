@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 30:11",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 30,
+  "translation": "Yiva, uYahwe, kwaye undinakele; uYahwe, yiba ngumncedi wam.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "Yiva"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "וחנני",
+      "gloss": "kwaye undinakele"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "היה",
+      "gloss": "yiba"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "ngumncedi"
+    },
+    {
+      "surface": "לי",
+      "gloss": "wam"
+    }
+  ],
+  "timestamp": "2026-09-18T14:37:44.237226872Z",
+  "model": "glm-5.3"
+}

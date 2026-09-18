@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "nahum 1:10",
+  "book": "nahum",
+  "lang": "xh",
+  "chapter": 1,
+  "translation": "Kuba xa betyeenezelwe njengobuquni, baze njengokusela kwabo, batyatywa njengengca yomileyo egcwele.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "עד",
+      "gloss": "xa"
+    },
+    {
+      "surface": "סירים",
+      "gloss": "obuquni"
+    },
+    {
+      "surface": "סבכים",
+      "gloss": "betyeenezelwe"
+    },
+    {
+      "surface": "וכסבאם",
+      "gloss": "nangokusela kwabo"
+    },
+    {
+      "surface": "סבואים",
+      "gloss": "baze"
+    },
+    {
+      "surface": "אכלו",
+      "gloss": "batyatywa"
+    },
+    {
+      "surface": "כקש",
+      "gloss": "njengengca"
+    },
+    {
+      "surface": "יבש",
+      "gloss": "yomileyo"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "egcwele"
+    }
+  ],
+  "timestamp": "2026-09-18T14:05:11.317473686Z",
+  "model": "glm-5.3"
+}

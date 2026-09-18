@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 63:3",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 63,
+  "translation": "Njengoko ndakubona kwindawo engcwele, ukubona amandla akho nesidima sakho.",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "Njengoko"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "kwindawo engcwele"
+    },
+    {
+      "surface": "חזיתיך",
+      "gloss": "ndakubona"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "ukubona"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "amandla akho"
+    },
+    {
+      "surface": "וכבודך",
+      "gloss": "nesidima sakho"
+    }
+  ],
+  "timestamp": "2026-09-18T14:55:22.723683007Z",
+  "model": "glm-5.3"
+}

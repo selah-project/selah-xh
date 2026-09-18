@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 9:11",
+  "book": "leviticus",
+  "lang": "xh",
+  "chapter": 9,
+  "translation": "Kwaye ⟨את⟩ inyama no⟨את⟩ isikhumba wawutshisa ngomlilo ngaphandle enkampwini.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "inyama"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "inyama"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "isikhumba"
+    },
+    {
+      "surface": "העור",
+      "gloss": "isikhumba"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "wawutshisa"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ngomlilo"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "ngaphandle"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "enkampwini"
+    }
+  ],
+  "timestamp": "2026-09-18T06:41:31.889538437Z",
+  "model": "glm-5.3"
+}

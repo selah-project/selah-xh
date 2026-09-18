@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 7:12",
+  "book": "1-chronicles",
+  "lang": "xh",
+  "chapter": 7,
+  "translation": "Kwaye uShuphimi noKhuphimi bengabantwana bakha-Iri; uKhushimi bengabantwana baka-Akheri.",
+  "tokens": [
+    {
+      "surface": "ושפם",
+      "gloss": "kwaye uShuphimi"
+    },
+    {
+      "surface": "וחפם",
+      "gloss": "noKhuphimi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bantwana bakha-Iri"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "(bakha-Iri)"
+    },
+    {
+      "surface": "חשם",
+      "gloss": "uKhushimi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bantwana baka-Akheri"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "(baka-Akheri)"
+    }
+  ],
+  "timestamp": "2026-09-18T16:52:44.057805002Z",
+  "model": "glm-5.3"
+}

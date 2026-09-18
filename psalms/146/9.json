@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 146:9",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 146,
+  "translation": "uYahwe ugcinela abasondlayo ⟨את⟩; umntwini wasemva nolonxwaba uwasabela, indlela yababi yayigalela ngcakaza.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "ugcinela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abasondlayo"
+    },
+    {
+      "surface": "גרים",
+      "gloss": "abasondlayo"
+    },
+    {
+      "surface": "יתום",
+      "gloss": "umntwini wasemva"
+    },
+    {
+      "surface": "ואלמנה",
+      "gloss": "nolonxwaba"
+    },
+    {
+      "surface": "יעודד",
+      "gloss": "uwasabela"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "indlela"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "yababi"
+    },
+    {
+      "surface": "יעות",
+      "gloss": "wayigalela ngcakaza"
+    }
+  ],
+  "timestamp": "2026-09-18T15:33:01.315641514Z",
+  "model": "glm-5.3"
+}

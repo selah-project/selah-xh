@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 140:11",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 140,
+  "translation": "Amatye-mlilo makawelele phezu kwabo; abaswele ngomlilo, bawisele emigodini engaphelelanga — bangavuki nakanye.",
+  "tokens": [
+    {
+      "surface": "ימיטו",
+      "gloss": "makawelele"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "phezu kwabo"
+    },
+    {
+      "surface": "גחלים",
+      "gloss": "amatye-mlilo"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ngomlilo"
+    },
+    {
+      "surface": "יפלם",
+      "gloss": "bawisele"
+    },
+    {
+      "surface": "במהמרות",
+      "gloss": "emigodini engaphelelanga"
+    },
+    {
+      "surface": "בל",
+      "gloss": "nakanye"
+    },
+    {
+      "surface": "יקומו",
+      "gloss": "bangavuki"
+    }
+  ],
+  "timestamp": "2026-09-18T15:30:42.296567068Z",
+  "model": "glm-5.3"
+}

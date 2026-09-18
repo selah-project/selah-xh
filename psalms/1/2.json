@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 1:2",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 1,
+  "translation": "Kodwa uvuma kwakhe kukwiTora kaYahwe, ngeTora yakhe ucinga emini nasebusuku.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kodwa"
+    },
+    {
+      "surface": "אם",
+      "gloss": "⟨uvuma kukwi-⟩"
+    },
+    {
+      "surface": "בתורת",
+      "gloss": "kwiiTora ka-"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "חפצו",
+      "gloss": "okwakhe\/uvuma kwakhe"
+    },
+    {
+      "surface": "ובתורתו",
+      "gloss": "ngeTora yakhe"
+    },
+    {
+      "surface": "יהגה",
+      "gloss": "ucinga"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "emini"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "nasebusuku"
+    }
+  ],
+  "timestamp": "2026-09-18T14:28:03.597856956Z",
+  "model": "glm-5.3"
+}

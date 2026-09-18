@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 4:4",
+  "book": "genesis",
+  "lang": "xh",
+  "chapter": 4,
+  "translation": "UHebhere none wazisa naye iindawo zokuqala zeerham zim zakhe nasamafutha azo; uYahwe wabukela ngekhaya kuHebhere nakumnqophiso wakhe.",
+  "tokens": [
+    {
+      "surface": "והבל",
+      "gloss": "UHebhere none"
+    },
+    {
+      "surface": "הביא",
+      "gloss": "wazisa"
+    },
+    {
+      "surface": "גם",
+      "gloss": "naye"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yena"
+    },
+    {
+      "surface": "מבכרות",
+      "gloss": "iindawo zokuqala"
+    },
+    {
+      "surface": "צאנו",
+      "gloss": "zeerham zim zakhe"
+    },
+    {
+      "surface": "ומחלבהן",
+      "gloss": "nasamafutha azo"
+    },
+    {
+      "surface": "וישע",
+      "gloss": "wabukela ngekhaya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "Hebhere"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "naku-"
+    },
+    {
+      "surface": "מנחתו",
+      "gloss": "mnqophiso wakhe"
+    }
+  ],
+  "timestamp": "2026-09-18T17:17:47.303388437Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 138:4",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 138,
+  "translation": "Baya kukudumba, wena uYahwe, onke amakhosi omhlaba, kuba baye bava amagama omlomo wakho.",
+  "tokens": [
+    {
+      "surface": "יודוך",
+      "gloss": "baya kukudumba"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "onke"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "amakhosi"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "omhlaba"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "baye bava"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "amagama"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "omlomo wakho"
+    }
+  ],
+  "timestamp": "2026-09-18T15:31:15.028732666Z",
+  "model": "glm-5.3"
+}

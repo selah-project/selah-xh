@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 80:1",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 80,
+  "translation": "Kumlawuli weqela lomculo, ngokwe-Shoshannim-Eduth, ingqina lika-Asafu, incwadi yengoma.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Kumlawuli weqela lomculo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ngokwe-"
+    },
+    {
+      "surface": "ששנים",
+      "gloss": "Shoshannim"
+    },
+    {
+      "surface": "עדות",
+      "gloss": "Eduth, ingqina"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "lika-Asafu"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "incwadi yengoma"
+    }
+  ],
+  "timestamp": "2026-09-18T17:44:42.181430242Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 95:9",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 95,
+  "translation": "Apho ookhokho benu bandivavanya, bandilinganisela, yaye babona umsebenzi wam.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "apho"
+    },
+    {
+      "surface": "נסוני",
+      "gloss": "bandivavanya"
+    },
+    {
+      "surface": "אבותיכם",
+      "gloss": "ookhokho benu"
+    },
+    {
+      "surface": "בחנוני",
+      "gloss": "bandilinganisela"
+    },
+    {
+      "surface": "גם",
+      "gloss": "yaye"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "babona"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "umsebenzi wam"
+    }
+  ],
+  "timestamp": "2026-09-18T15:09:53.820017618Z",
+  "model": "glm-5.3"
+}

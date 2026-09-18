@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 21:9",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 21,
+  "translation": "Ukuba amthwela ⟨את⟩ kunyana wakhe, ngokomthetho weentombi makwenze ⟨kuye⟩.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ukuba"
+    },
+    {
+      "surface": "לבנו",
+      "gloss": "kunyana wakhe"
+    },
+    {
+      "surface": "ייעדנה",
+      "gloss": "amthwela"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "ngokomthetho"
+    },
+    {
+      "surface": "הבנות",
+      "gloss": "weentombi"
+    },
+    {
+      "surface": "ייעדנה",
+      "gloss": "makwenze"
+    },
+    {
+      "surface": "לה",
+      "gloss": "kuye"
+    }
+  ],
+  "timestamp": "2026-09-18T06:08:01.014467821Z",
+  "model": "glm-5.3"
+}

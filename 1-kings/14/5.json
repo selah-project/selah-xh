@@ -1,0 +1,109 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 14:5",
+  "book": "1-kings",
+  "lang": "xh",
+  "chapter": 14,
+  "translation": "Wathi uYahwe ku-Ahiyahu: “Yabona, umfazi kaYarobeam uyeza ukufuna ilizwi kuwe ngezonyana wakhe, kuba ugula; kanjalo nokanjalo uthethe kuye. Kwaye kuya kuba njalo, ekungeneni kwakhe, uza kuzifihla njengomfokazi.”",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "Wathi uYahwe"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "wathetha"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "אחיהו",
+      "gloss": "u-Ahiyahu"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "yabona"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "umfazi"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "kaYarobeam"
+    },
+    {
+      "surface": "באה",
+      "gloss": "uyeza"
+    },
+    {
+      "surface": "לדרש",
+      "gloss": "ukufuna"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ilizwi"
+    },
+    {
+      "surface": "מעמך",
+      "gloss": "kuwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nge"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "onyana wakhe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "חלה",
+      "gloss": "ugula"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yena"
+    },
+    {
+      "surface": "כזה",
+      "gloss": "kanjalo"
+    },
+    {
+      "surface": "וכזה",
+      "gloss": "nokanjalo"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "uthethe"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "kuye"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "kuya kuba njalo"
+    },
+    {
+      "surface": "כבאה",
+      "gloss": "ekungeneni kwakhe"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "yena"
+    },
+    {
+      "surface": "מתנכרה",
+      "gloss": "uza kuzifihla njengomfokazi"
+    }
+  ],
+  "timestamp": "2026-09-18T10:27:07.312211013Z",
+  "model": "glm-5.3"
+}

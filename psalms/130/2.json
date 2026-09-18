@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 130:2",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 130,
+  "translation": "u-Adonayi, mamele ilizwi lam; makube zindleve zakho ezilumkileyo kwilizwi leesicelo zam.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "u-Adonayi"
+    },
+    {
+      "surface": "שמעה",
+      "gloss": "mamele"
+    },
+    {
+      "surface": "בקולי",
+      "gloss": "ilizwi lam"
+    },
+    {
+      "surface": "תהיינה",
+      "gloss": "makube"
+    },
+    {
+      "surface": "אזניך",
+      "gloss": "zindleve zakho"
+    },
+    {
+      "surface": "קשבות",
+      "gloss": "ezilumkileyo"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "kwilizwi"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "leesicelo zam"
+    }
+  ],
+  "timestamp": "2026-09-18T15:27:13.754441408Z",
+  "model": "glm-5.3"
+}

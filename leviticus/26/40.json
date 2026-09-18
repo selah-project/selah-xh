@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "leviticus 26:40",
+  "book": "leviticus",
+  "lang": "xh",
+  "chapter": 26,
+  "translation": "Baya kuvuma iinkohlakalo zabo ⟨את⟩, neenkohlakalo ⟨את⟩ zooyise babo, ngedyala abo abalidalele ngalo kum; nangokuba bahamba ndichasana nabo ngobundlovu.",
+  "tokens": [
+    {
+      "surface": "והתודו",
+      "gloss": "baya kuvuma"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iinkohlakalo zabo"
+    },
+    {
+      "surface": "עונם",
+      "gloss": "iinkohlakalo zabo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "iinkohlakalo zooyise babo"
+    },
+    {
+      "surface": "עון",
+      "gloss": "iinkohlakalo"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "zooyise babo"
+    },
+    {
+      "surface": "במעלם",
+      "gloss": "ngedyala abo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "abo"
+    },
+    {
+      "surface": "מעלו",
+      "gloss": "abalidalele ngalo"
+    },
+    {
+      "surface": "בי",
+      "gloss": "kum"
+    },
+    {
+      "surface": "ואף",
+      "gloss": "nangokuba"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "-"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "bahamba"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ndichasana nabo"
+    },
+    {
+      "surface": "בקרי",
+      "gloss": "ngobundlovu"
+    }
+  ],
+  "timestamp": "2026-09-18T07:07:32.309884929Z",
+  "model": "glm-5.3"
+}

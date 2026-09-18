@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 37:1",
+  "book": "ezekiel",
+  "lang": "xh",
+  "chapter": 37,
+  "translation": "Isandla sikaYahwe sabekwa phezu kwam, wandikhupha ngomoya kaYahwe, wandibeka phakathi kwe⟨the⟩ntlamba, yaye yona yayizaliswe ngamathambo.",
+  "tokens": [
+    {
+      "surface": "היתה",
+      "gloss": "yaba"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "phezu kwam"
+    },
+    {
+      "surface": "יד",
+      "gloss": "isandla"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kaYahwe"
+    },
+    {
+      "surface": "ויוצאני",
+      "gloss": "wandikhupha"
+    },
+    {
+      "surface": "ברוח",
+      "gloss": "ngomoya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kaYahwe"
+    },
+    {
+      "surface": "ויניחני",
+      "gloss": "wandibeka"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "phakathi kwe-"
+    },
+    {
+      "surface": "הבקעה",
+      "gloss": "intlamba"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "yaye yona"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "yayizaliswe"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "ngamathambo"
+    }
+  ],
+  "timestamp": "2026-09-18T13:27:41.338924503Z",
+  "model": "glm-5.3"
+}

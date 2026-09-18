@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 6:13",
+  "book": "deuteronomy",
+  "lang": "xh",
+  "chapter": 6,
+  "translation": "⟨את⟩ uYahwe uElohim wakho uza koyika, yaye ⟨את⟩ yena uza kumkhonza, nangesiGama sakhe uza kukungca.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uYahwe uElohim wakho"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "uElohim wakho"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "uza koyika"
+    },
+    {
+      "surface": "ואתו",
+      "gloss": "yaye ⟨את⟩ yena"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "uza kumkhonza"
+    },
+    {
+      "surface": "ובשמו",
+      "gloss": "nangesiGama sakhe"
+    },
+    {
+      "surface": "תשבע",
+      "gloss": "uza kukungca"
+    }
+  ],
+  "timestamp": "2026-09-18T07:58:11.871424440Z",
+  "model": "glm-5.3"
+}

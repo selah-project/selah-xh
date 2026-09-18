@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 25:22",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 25,
+  "translation": "Sikhulule, nguElohim, iYisrayeli ⟨את⟩ kwiingxaki zakhe zonke.",
+  "tokens": [
+    {
+      "surface": "פדה",
+      "gloss": "Sikhulule"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "nguElohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iYisrayeli"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "iYisrayeli"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "kwii… zonke"
+    },
+    {
+      "surface": "צרותיו",
+      "gloss": "ngxaki zakhe"
+    }
+  ],
+  "timestamp": "2026-09-18T14:36:37.283290753Z",
+  "model": "glm-5.3"
+}

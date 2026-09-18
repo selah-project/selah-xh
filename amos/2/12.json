@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "amos 2:12",
+  "book": "amos",
+  "lang": "xh",
+  "chapter": 2,
+  "translation": "Nina nawanisela ⟨את⟩ abaNaziri iwini, nanaba profeti ngeMyalelo ukuthi: Musa ukuprophetha.",
+  "tokens": [
+    {
+      "surface": "ותשקו",
+      "gloss": "nawanisela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abaNaziri"
+    },
+    {
+      "surface": "הנזרים",
+      "gloss": "abaNaziri"
+    },
+    {
+      "surface": "יין",
+      "gloss": "iwini"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "nakwi"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "profeti"
+    },
+    {
+      "surface": "צויתם",
+      "gloss": "nanike ilayisenko"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ukuthi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Musa"
+    },
+    {
+      "surface": "תנבאו",
+      "gloss": "ukuprophetha"
+    }
+  ],
+  "timestamp": "2026-09-18T13:50:18.271326720Z",
+  "model": "glm-5.3"
+}

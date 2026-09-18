@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 78:11",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 78,
+  "translation": "Balibala imisebenzi yakhe, nemimangaliso yakhe awayebonakalisa kubo.",
+  "tokens": [
+    {
+      "surface": "וישכחו",
+      "gloss": "balibala"
+    },
+    {
+      "surface": "עלילותיו",
+      "gloss": "imisebenzi yakhe"
+    },
+    {
+      "surface": "ונפלאותיו",
+      "gloss": "nemimangaliso yakhe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "away"
+    },
+    {
+      "surface": "הראם",
+      "gloss": "ebonakalisa kubo"
+    }
+  ],
+  "timestamp": "2026-09-18T15:01:59.295537677Z",
+  "model": "glm-5.3"
+}

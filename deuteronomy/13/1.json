@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 13:1",
+  "book": "deuteronomy",
+  "lang": "xh",
+  "chapter": 13,
+  "translation": "⟨את⟩ elidanyana lonke endinikelayo ndilayela nina, ⟨את⟩ lona niya kulilingeza ukulisebenzisa; akukho nto niza kongeza phezu kwalo, kananjalo akukho nto niza kunciphisa kuwo.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "elidanyana lonke"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lonke"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "elidanyana"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "endinikelayo"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "mna"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "ndilayela"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "nina"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "lona"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "niya kulilingeza"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "ukulisebenzisa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "akukho nto"
+    },
+    {
+      "surface": "תסף",
+      "gloss": "niza kongeza"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "phezu kwalo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kananjalo akukho nto"
+    },
+    {
+      "surface": "תגרע",
+      "gloss": "niza kunciphisa"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "kuwo"
+    }
+  ],
+  "timestamp": "2026-09-18T08:08:17.826042048Z",
+  "model": "glm-5.3"
+}

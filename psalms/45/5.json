@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 45:5",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 45,
+  "translation": "Kubukhosi bakho yiphumelele, yikhwele ngenxa yenyaniso nokuthobeka nokulungile; isandla sakho sokunene siza kukufundisa izinto ezoyikisayo.",
+  "tokens": [
+    {
+      "surface": "והדרך",
+      "gloss": "kubukhosi bakho"
+    },
+    {
+      "surface": "צלח",
+      "gloss": "iphumelele"
+    },
+    {
+      "surface": "רכב",
+      "gloss": "yikhwele"
+    },
+    {
+      "surface": "על",
+      "gloss": "ngenxa"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "⟨ilizwi⟩"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "yenyaniso"
+    },
+    {
+      "surface": "וענוה",
+      "gloss": "nokuthobeka"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "nokulungile"
+    },
+    {
+      "surface": "ותורך",
+      "gloss": "siza kukufundisa"
+    },
+    {
+      "surface": "נוראות",
+      "gloss": "izinto ezoyikisayo"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "isandla sakho sokunene"
+    }
+  ],
+  "timestamp": "2026-09-18T14:48:41.308263976Z",
+  "model": "glm-5.3"
+}

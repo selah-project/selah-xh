@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 1:18",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 1,
+  "translation": "Inkosi yaseMitsrayim yabiza abasizi bezalisa, yathi kubo: Nitheni ukuba nenze le nto, niphilisa ⟨את⟩ abantwana?",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "yabiza"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "inkosi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "yaseMitsrayim"
+    },
+    {
+      "surface": "למילדת",
+      "gloss": "abasizi bezalisa"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "yathi"
+    },
+    {
+      "surface": "להן",
+      "gloss": "kubo"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "nitheni"
+    },
+    {
+      "surface": "עשיתן",
+      "gloss": "nenze"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "le nto"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "le"
+    },
+    {
+      "surface": "ותחיין",
+      "gloss": "niphilisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abantwana"
+    },
+    {
+      "surface": "הילדים",
+      "gloss": "abantwana"
+    }
+  ],
+  "timestamp": "2026-09-18T05:48:58.981278170Z",
+  "model": "glm-5.3"
+}

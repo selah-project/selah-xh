@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 18:4",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 18,
+  "translation": "igama lomnye nanguEliyere, kuba uElohim kayise ubengumsizi wam, wandicima esixhobeni sikaParo.",
+  "tokens": [
+    {
+      "surface": "ושם",
+      "gloss": "igama"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "lomnye"
+    },
+    {
+      "surface": "אליעזר",
+      "gloss": "nanguEliyere"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "kayise"
+    },
+    {
+      "surface": "בעזרי",
+      "gloss": "ubengumsizi wam"
+    },
+    {
+      "surface": "ויצלני",
+      "gloss": "wandicima"
+    },
+    {
+      "surface": "מחרב",
+      "gloss": "esisixhobeni"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "sikaParo"
+    }
+  ],
+  "timestamp": "2026-09-18T06:07:03.162910239Z",
+  "model": "glm-5.3"
+}

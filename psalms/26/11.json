@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 26:11",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 26,
+  "translation": "Kananjalo mna ndiza kuhamba ngokungcola okungekho, ndikhulule waba nommeso kum;",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "kananjalo mna"
+    },
+    {
+      "surface": "בתמי",
+      "gloss": "ngokungcola okungakhalazwanga"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "ndiza kuhamba"
+    },
+    {
+      "surface": "פדני",
+      "gloss": "ndikhulule"
+    },
+    {
+      "surface": "וחנני",
+      "gloss": "waba nommeso kum"
+    }
+  ],
+  "timestamp": "2026-09-18T14:36:41.203833119Z",
+  "model": "glm-5.3"
+}

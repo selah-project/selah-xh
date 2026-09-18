@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "haggai 2:6",
+  "book": "haggai",
+  "lang": "xh",
+  "chapter": 2,
+  "translation": "Kuba uthe uYahwe Tsebhayoti: Kubesinye ixesha, licincaneleyo, mna ndiza kudukisa ⟨את⟩ amazulu ⟨את⟩ nomhlaba ⟨את⟩ nelwandle ⟨את⟩ nendle elomileyo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "כה",
+      "gloss": "uthe"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "uthe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsebhayoti"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "kubesinye"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "ixesha"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "licincaneleyo"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨is⟩"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "mna"
+    },
+    {
+      "surface": "מרעיש",
+      "gloss": "ndiza kudukisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amazulu"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "amazulu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ no-",
+      "marks": "umhlaba"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "umhlaba"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ ne-",
+      "marks": "ilwandle"
+    },
+    {
+      "surface": "הים",
+      "gloss": "ilwandle"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ ne-",
+      "marks": "indle elomileyo"
+    },
+    {
+      "surface": "החרבה",
+      "gloss": "indle elomileyo"
+    }
+  ],
+  "timestamp": "2026-09-18T14:13:51.823122974Z",
+  "model": "glm-5.3"
+}

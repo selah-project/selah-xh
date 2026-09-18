@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 26:6",
+  "book": "2-chronicles",
+  "lang": "xh",
+  "chapter": 26,
+  "translation": "Waphuma walwa nabaseFilisti, waza wayaphula ⟨את⟩ udonga lweGath, no⟨את⟩ udonga lweYabhne, no⟨את⟩ udonga lweAshdodi; waza wakha iindawo eAshdodi nakwaFilisti.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "waphuma"
+    },
+    {
+      "surface": "וילחם",
+      "gloss": "walwa"
+    },
+    {
+      "surface": "בפלשתים",
+      "gloss": "nabaseFilisti"
+    },
+    {
+      "surface": "ויפרץ",
+      "gloss": "waza wayaphula"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "udonga lweGath"
+    },
+    {
+      "surface": "חומת",
+      "gloss": "udonga"
+    },
+    {
+      "surface": "גת",
+      "gloss": "lweGath"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "udonga lweYabhne"
+    },
+    {
+      "surface": "חומת",
+      "gloss": "udonga"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "lweYabhne"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "udonga lweAshdodi"
+    },
+    {
+      "surface": "חומת",
+      "gloss": "udonga"
+    },
+    {
+      "surface": "אשדוד",
+      "gloss": "lweAshdodi"
+    },
+    {
+      "surface": "ויבנה",
+      "gloss": "waza wakha"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "iindawo"
+    },
+    {
+      "surface": "באשדוד",
+      "gloss": "eAshdodi"
+    },
+    {
+      "surface": "ובפלשתים",
+      "gloss": "nakwaFilisti"
+    }
+  ],
+  "timestamp": "2026-09-18T17:12:05.410267344Z",
+  "model": "glm-5.3"
+}

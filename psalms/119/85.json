@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 85,
+  "ref": "psalms 119:85",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 119,
+  "translation": "Abadukileyo bashicilela iingcango ⟨kum⟩, ezingekho ngokweTora yakho.",
+  "tokens": [
+    {
+      "surface": "כרו",
+      "gloss": "bashicilela"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kum"
+    },
+    {
+      "surface": "זדים",
+      "gloss": "abadukileyo"
+    },
+    {
+      "surface": "שיחות",
+      "gloss": "iingcango"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ezingo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hayi"
+    },
+    {
+      "surface": "כתורתך",
+      "gloss": "ngokweTora yakho"
+    }
+  ],
+  "timestamp": "2026-09-18T15:25:43.262422707Z",
+  "model": "glm-5.3"
+}

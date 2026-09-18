@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 45:6",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 45,
+  "translation": "Iintolo zakho ezibukhali ziyawisa amazwe phantsi kwakwe; zibamba phakathi kwenhliziyo yezitha zenkosi.",
+  "tokens": [
+    {
+      "surface": "חציך",
+      "gloss": "iintolo zakho"
+    },
+    {
+      "surface": "שנונים",
+      "gloss": "ezibukhali"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "amazwe"
+    },
+    {
+      "surface": "תחתיך",
+      "gloss": "phantsi kwakwe"
+    },
+    {
+      "surface": "יפלו",
+      "gloss": "ziyawisa"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "phakathi kwenhliziyo"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "yezitha"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "zenkosi"
+    }
+  ],
+  "timestamp": "2026-09-18T14:48:41.308540431Z",
+  "model": "glm-5.3"
+}

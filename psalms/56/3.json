@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 56:3",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 56,
+  "translation": "Abachasi bam bendigudisa ixesha lonke, kuba baninzi abalwa nam, ndithi, Wena uPhakamileyo.",
+  "tokens": [
+    {
+      "surface": "שאפו",
+      "gloss": "bendigudisa"
+    },
+    {
+      "surface": "שוררי",
+      "gloss": "abachasi bam"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lonke"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ixesha"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "baninzi"
+    },
+    {
+      "surface": "לחמים",
+      "gloss": "abalwa"
+    },
+    {
+      "surface": "לי",
+      "gloss": "nam"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "Wena uPhakamileyo"
+    }
+  ],
+  "timestamp": "2026-09-18T14:51:17.922508349Z",
+  "model": "glm-5.3"
+}

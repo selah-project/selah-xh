@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 27:11",
+  "book": "leviticus",
+  "lang": "xh",
+  "chapter": 27,
+  "translation": "Kwaye ukuba yimfuyo engcolileyo engeke ungeniswe ngayo isipho kuYahwe, uza kumisela ⟨את⟩ le mfuyo phambi komphostile.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "kwaye ukuba"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nakuphi"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "imfuyo"
+    },
+    {
+      "surface": "טמאה",
+      "gloss": "engcolileyo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "engeke"
+    },
+    {
+      "surface": "לא",
+      "gloss": "akayeki"
+    },
+    {
+      "surface": "יקריבו",
+      "gloss": "ungeniswe"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "ngayo"
+    },
+    {
+      "surface": "קרבן",
+      "gloss": "isipho"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kuYahwe"
+    },
+    {
+      "surface": "והעמיד",
+      "gloss": "umisele"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "imfuyo"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "le mfuyo"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "phambi"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "komphostile"
+    }
+  ],
+  "timestamp": "2026-09-18T07:08:51.270310034Z",
+  "model": "glm-5.3"
+}

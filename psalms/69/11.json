@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 69:11",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 69,
+  "translation": "Ndililela xa umphefumlo wam ezila ukutya, yaza yaba sisithuko kum.",
+  "tokens": [
+    {
+      "surface": "ואבכה",
+      "gloss": "Ndililela"
+    },
+    {
+      "surface": "בצום",
+      "gloss": "ezila ukutya"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "umphefumlo wam"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "yaba"
+    },
+    {
+      "surface": "לחרפות",
+      "gloss": "sisithuko"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kum"
+    }
+  ],
+  "timestamp": "2026-09-18T14:56:16.059149738Z",
+  "model": "glm-5.3"
+}

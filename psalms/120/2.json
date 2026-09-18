@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 120:2",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 120,
+  "translation": "uYahwe, sindisa umphefumlo wam emlonyeni wamanga, nilwimi lokhwelisa.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "הצילה",
+      "gloss": "sindisa"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "umphefumlo wam"
+    },
+    {
+      "surface": "משפת",
+      "gloss": "emlonyeni"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "wamanga"
+    },
+    {
+      "surface": "מלשון",
+      "gloss": "nilwimi"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "lokhwelisa"
+    }
+  ],
+  "timestamp": "2026-09-18T15:26:24.662189854Z",
+  "model": "glm-5.3"
+}

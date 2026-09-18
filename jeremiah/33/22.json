@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "jeremiah 33:22",
+  "book": "jeremiah",
+  "lang": "xh",
+  "chapter": 33,
+  "translation": "Njengoko imikhosi yamazulu ingenakubalwa, namazibulo olwandle engenakulinganiswa, ndiza kwanqamela ngokunjalo ⟨את⟩ inzala kaDavide, inceku yam, ⟨את⟩ neLeviyim abancedisi bam ⟨את⟩ kum.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "njengoko"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ingena"
+    },
+    {
+      "surface": "יספר",
+      "gloss": "kubalwa"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "imikhosi"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "yamazulu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "nayingena"
+    },
+    {
+      "surface": "ימד",
+      "gloss": "kulinganiswa"
+    },
+    {
+      "surface": "חול",
+      "gloss": "amazibulo"
+    },
+    {
+      "surface": "הים",
+      "gloss": "olwandle"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ngokunjalo"
+    },
+    {
+      "surface": "ארבה",
+      "gloss": "ndiza kwanqamela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "inzala kaDavide"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "inzala"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "kaDavide"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "inceku yam"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "iLeviyim"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "iLeviyim"
+    },
+    {
+      "surface": "משרתי",
+      "gloss": "abancedisi bam"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ kum"
+    }
+  ],
+  "timestamp": "2026-09-18T12:24:34.643466875Z",
+  "model": "glm-5.3"
+}

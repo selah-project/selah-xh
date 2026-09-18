@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 86:1",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 86,
+  "translation": "Uthandazelo lukaDavide. Tihla ungenele indlebe yakho, uYahwe, undiphendule, kuba mna ndingumfundi ndingumnini-swela.",
+  "tokens": [
+    {
+      "surface": "תפלה",
+      "gloss": "Uthandazelo"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "lukaDavide"
+    },
+    {
+      "surface": "הטה",
+      "gloss": "Tihla ungenele"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "indlebe yakho"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "undiphendule"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "עני",
+      "gloss": "ndingumfundi"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "ndingumnini-swela"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mna"
+    }
+  ],
+  "timestamp": "2026-09-18T15:09:02.997311908Z",
+  "model": "glm-5.3"
+}

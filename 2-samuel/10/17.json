@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-samuel 10:17",
+  "book": "2-samuel",
+  "lang": "xh",
+  "chapter": 10,
+  "translation": "Kwaye kwaziselwa kuDawide; wadiwanisa ⟨את⟩ yonke iYisirayeli, wadlula ⟨את⟩ uYordanisi, waya eKhelamu. Kwaye uAram zawezele ukudibana noDawide, zalwa naye.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "kwaziselwa"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "kuDawide"
+    },
+    {
+      "surface": "ויאסף",
+      "gloss": "wadiwanisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yonke iYisirayeli"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yonke"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "iYisirayeli"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "wadlula"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uYordanisi"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "uYordanisi"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "waya"
+    },
+    {
+      "surface": "חלאמה",
+      "gloss": "eKhelamu"
+    },
+    {
+      "surface": "ויערכו",
+      "gloss": "zawezele"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "uAram"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "ukudibana no-"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "uDawide"
+    },
+    {
+      "surface": "וילחמו",
+      "gloss": "zalwa"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "naye"
+    }
+  ],
+  "timestamp": "2026-09-18T09:51:05.508065642Z",
+  "model": "glm-5.3"
+}

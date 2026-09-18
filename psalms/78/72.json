@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 72,
+  "ref": "psalms 78:72",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 78,
+  "translation": "Walusa ngobungendeleyo benhliziyo yakhe, wabakhokelela nangeengqondo ezilungileyo zezandla zakhe.",
+  "tokens": [
+    {
+      "surface": "וירעם",
+      "gloss": "walusa"
+    },
+    {
+      "surface": "כתם",
+      "gloss": "ngobungendeleyo"
+    },
+    {
+      "surface": "לבבו",
+      "gloss": "benhliziyo yakhe"
+    },
+    {
+      "surface": "ובתבונות",
+      "gloss": "nangeengqondo"
+    },
+    {
+      "surface": "כפיו",
+      "gloss": "zezandla zakhe"
+    },
+    {
+      "surface": "ינחם",
+      "gloss": "wabakhokelela"
+    }
+  ],
+  "timestamp": "2026-09-18T15:02:53.877684947Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 46:4",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 46,
+  "translation": "Amanzi awo enza umsindo, avuthula, iintaba zithuthumela ngekuko kwawo. Selah.",
+  "tokens": [
+    {
+      "surface": "יהמו",
+      "gloss": "enza umsindo"
+    },
+    {
+      "surface": "יחמרו",
+      "gloss": "avuthula"
+    },
+    {
+      "surface": "מימיו",
+      "gloss": "amanzi awo"
+    },
+    {
+      "surface": "ירעשו",
+      "gloss": "zithuthumela"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "iintaba"
+    },
+    {
+      "surface": "בגאותו",
+      "gloss": "ngekuko kwawo"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-18T14:47:14.786419939Z",
+  "model": "glm-5.3"
+}

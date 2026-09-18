@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 139:14",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 139,
+  "translation": "Ndiyakudumisa, kuba ndenziwe ngokoyikisayo, ndihlukanisiwe; imisebenzi yakho imangalisa, nomphefumlo wam uyayazi oko kakuhle.",
+  "tokens": [
+    {
+      "surface": "אודך",
+      "gloss": "ndiyakudumisa"
+    },
+    {
+      "surface": "על",
+      "gloss": ""
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "נוראות",
+      "gloss": "ngokoyikisayo"
+    },
+    {
+      "surface": "נפליתי",
+      "gloss": "ndihlukanisiwe"
+    },
+    {
+      "surface": "נפלאים",
+      "gloss": "imangalisa"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "imisebenzi yakho"
+    },
+    {
+      "surface": "ונפשי",
+      "gloss": "nomphefumlo wam"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "uyayazi"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "kakuhle kakhulu"
+    }
+  ],
+  "timestamp": "2026-09-18T15:31:30.045573036Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-kings 21:13",
+  "book": "2-kings",
+  "lang": "xh",
+  "chapter": 21,
+  "translation": "Ndiza kutyheba phezu kweYerushalayimi ⟨את⟩ umtya weShomron, no⟨את⟩ ilinga lendlu ka-Ahab; ndiza kucima iYerushalayimi njengokuba umntu esacima isitya, elicima, alijinge phezu kobuso baso.",
+  "tokens": [
+    {
+      "surface": "ונטיתי",
+      "gloss": "ndiza kutyheba"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "kweYerushalayimi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umtya weShomron"
+    },
+    {
+      "surface": "קו",
+      "gloss": "umtya"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "weShomron"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "no⟨את⟩",
+      "marks": "ilinga lendlu ka-Ahab"
+    },
+    {
+      "surface": "משקלת",
+      "gloss": "ilinga"
+    },
+    {
+      "surface": "בית",
+      "gloss": "lendlu"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "ka-Ahab"
+    },
+    {
+      "surface": "ומחיתי",
+      "gloss": "ndiza kucima"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iYerushalayimi"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "iYerushalayimi"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "njengokuba"
+    },
+    {
+      "surface": "ימחה",
+      "gloss": "esacima"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isitya"
+    },
+    {
+      "surface": "הצלחת",
+      "gloss": "isitya"
+    },
+    {
+      "surface": "מחה",
+      "gloss": "elicima"
+    },
+    {
+      "surface": "והפך",
+      "gloss": "alijinge"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu"
+    },
+    {
+      "surface": "פניה",
+      "gloss": "ubuso baso"
+    }
+  ],
+  "timestamp": "2026-09-18T10:57:08.864529985Z",
+  "model": "glm-5.3"
+}

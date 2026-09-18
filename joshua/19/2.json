@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joshua 19:2",
+  "book": "joshua",
+  "lang": "xh",
+  "chapter": 19,
+  "translation": "Yaye kwaba thina kwisabelo sabo: iBher-Sheva, iSheva, neMolada.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "yaye kwaba"
+    },
+    {
+      "surface": "להם",
+      "gloss": "thina"
+    },
+    {
+      "surface": "בנחלתם",
+      "gloss": "kwisabelo sabo"
+    },
+    {
+      "surface": "באר",
+      "gloss": "iBher-"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Sheva"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "iSheva"
+    },
+    {
+      "surface": "ומולדה",
+      "gloss": "neMolada"
+    }
+  ],
+  "timestamp": "2026-09-18T08:41:26.474513208Z",
+  "model": "glm-5.3"
+}

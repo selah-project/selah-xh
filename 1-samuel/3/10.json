@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 3:10",
+  "book": "1-samuel",
+  "lang": "xh",
+  "chapter": 3,
+  "translation": "Wafika uYahwe, wama ngqo, wabiza njengexesha nelixa: “Shemuel, Shemuel.” Wathi uShemuel: “Thetha, kuba ulalele ⟨inkonzi yakho⟩.”",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "Wafika"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "ויתיצב",
+      "gloss": "wama ngqo"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "wabiza"
+    },
+    {
+      "surface": "כפעם",
+      "gloss": "njengexesha"
+    },
+    {
+      "surface": "בפעם",
+      "gloss": "nelixa"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuel"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuel"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Wathi"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "uShemuel"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "Thetha"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ulalele"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "⟨inkonzi yakho⟩"
+    }
+  ],
+  "timestamp": "2026-09-18T09:15:14.868791986Z",
+  "model": "glm-5.3"
+}

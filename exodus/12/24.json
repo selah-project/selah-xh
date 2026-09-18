@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 12:24",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 12,
+  "translation": "Niza kugcina ⟨את⟩ le ndaba njengomthetho osisigxina kuwe nakwiinyana zakho kuinkalakuli.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "Niza kugcina"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le ndaba"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "le"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ndaba"
+    },
+    {
+      "surface": "לחק",
+      "gloss": "njengomthetho osisigxina"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kuwe"
+    },
+    {
+      "surface": "ולבניך",
+      "gloss": "nakwiinyana zakho"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ku"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "inkalakuli"
+    }
+  ],
+  "timestamp": "2026-09-18T17:20:34.587573052Z",
+  "model": "glm-5.3"
+}

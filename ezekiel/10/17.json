@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ezekiel 10:17",
+  "book": "ezekiel",
+  "lang": "xh",
+  "chapter": 10,
+  "translation": "Xa zimile, zayima; xa zanyukile, zanyuka ⟨nazo⟩; kuba umoya wesidalwa esiphilayo yayikuzo.",
+  "tokens": [
+    {
+      "surface": "בעמדם",
+      "gloss": "xa zimile"
+    },
+    {
+      "surface": "יעמדו",
+      "gloss": "zayima"
+    },
+    {
+      "surface": "וברומם",
+      "gloss": "xa zanyukile"
+    },
+    {
+      "surface": "ירומו",
+      "gloss": "zanyuka"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "nazo — iilangabi ezinyukayo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "umoya"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "wesidalwa esiphilayo"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "yayikuzo"
+    }
+  ],
+  "timestamp": "2026-09-18T12:58:36.566649904Z",
+  "model": "glm-5.3"
+}

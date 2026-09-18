@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 50:1",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 50,
+  "translation": "Ipsaluma ka-Asaf: u-El, uElohim, uYahwe wathetha, wabizela ⟨את⟩ umhlaba, ukusuka empumalanga yelanga ukuya kum Boyo wawo entshonalanga.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "ipsaluma"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "ka-Asaf"
+    },
+    {
+      "surface": "אל",
+      "gloss": "u-El"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "wathetha"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "wabizela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umhlaba"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "umhlaba"
+    },
+    {
+      "surface": "ממזרח",
+      "gloss": "ukusuka empumalanga"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "yelanga"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ukuya"
+    },
+    {
+      "surface": "מבאו",
+      "gloss": "kum Boyo wawo entshonalanga"
+    }
+  ],
+  "timestamp": "2026-09-18T14:48:52.092524780Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 11:4",
+  "book": "proverbs",
+  "lang": "xh",
+  "chapter": 11,
+  "translation": "Ubutyebi abunancedo ngosuku lolaka, kodwa ulungelo lusindisa ekufeni.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "hayi (abu-)"
+    },
+    {
+      "surface": "יועיל",
+      "gloss": "abunancedo"
+    },
+    {
+      "surface": "הון",
+      "gloss": "ubutyebi"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ngosuku"
+    },
+    {
+      "surface": "עברה",
+      "gloss": "lolaka"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "kodwa ulungelo"
+    },
+    {
+      "surface": "תציל",
+      "gloss": "lusindisa"
+    },
+    {
+      "surface": "ממות",
+      "gloss": "ekufeni"
+    }
+  ],
+  "timestamp": "2026-09-18T15:45:18.161723932Z",
+  "model": "glm-5.3"
+}

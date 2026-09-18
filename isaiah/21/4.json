@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 21:4",
+  "book": "isaiah",
+  "lang": "xh",
+  "chapter": 21,
+  "translation": "Intliziyo yam idukile, ukoyika kundoyikisile; ⟨את⟩ isithunzi sebusuku esindithabisayo sindenzela ibe kukhalipha.",
+  "tokens": [
+    {
+      "surface": "תעה",
+      "gloss": "idukile"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "Intliziyo yam"
+    },
+    {
+      "surface": "פלצות",
+      "gloss": "ukoyika"
+    },
+    {
+      "surface": "בעתתני",
+      "gloss": "kundoyikisile"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isithunzi sebusuku esindithabisayo"
+    },
+    {
+      "surface": "נשף",
+      "gloss": "isithunzi sebusuku"
+    },
+    {
+      "surface": "חשקי",
+      "gloss": "esindithabisayo"
+    },
+    {
+      "surface": "שם",
+      "gloss": "sindenzela"
+    },
+    {
+      "surface": "לי",
+      "gloss": "-ndi-"
+    },
+    {
+      "surface": "לחרדה",
+      "gloss": "ibe kukhalipha"
+    }
+  ],
+  "timestamp": "2026-09-18T11:15:05.335737773Z",
+  "model": "glm-5.3"
+}

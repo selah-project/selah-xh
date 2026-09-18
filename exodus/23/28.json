@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 23:28",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 23,
+  "translation": "Ndiza kuthumela ⟨את⟩ iTsireha phambi kwakho, yaza yagxotha ⟨את⟩ iHiwi, ⟨את⟩ iKhenani, ⟨את⟩ neHithi phambi kwakho.",
+  "tokens": [
+    {
+      "surface": "ושלחתי",
+      "gloss": "ndiza kuthumela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iTsireha"
+    },
+    {
+      "surface": "הצרעה",
+      "gloss": "iTsireha"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "phambi kwakho"
+    },
+    {
+      "surface": "וגרשה",
+      "gloss": "yaza yagxotha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iHiwi"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "iHiwi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iKhenani"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "iKhenani"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "iHithi"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "iHithi"
+    },
+    {
+      "surface": "מלפניך",
+      "gloss": "phambi kwakho"
+    }
+  ],
+  "timestamp": "2026-09-18T06:10:54.578508602Z",
+  "model": "glm-5.3"
+}

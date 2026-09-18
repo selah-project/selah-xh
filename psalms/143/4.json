@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 143:4",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 143,
+  "translation": "Umoya wam wabuthathaka phezu kwam; intliziyo yam ngaphakathi iyazila.",
+  "tokens": [
+    {
+      "surface": "ותתעטף",
+      "gloss": "wabuthathaka"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "phezu kwam"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "umoya wam"
+    },
+    {
+      "surface": "בתוכי",
+      "gloss": "ngaphakathi"
+    },
+    {
+      "surface": "ישתומם",
+      "gloss": "iyazila"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "intliziyo yam"
+    }
+  ],
+  "timestamp": "2026-09-18T15:32:13.811087285Z",
+  "model": "glm-5.3"
+}

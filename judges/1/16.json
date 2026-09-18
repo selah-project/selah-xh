@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "judges 1:16",
+  "book": "judges",
+  "lang": "xh",
+  "chapter": 1,
+  "translation": "Oonyana bakwaKeni, umkhwe kaMoshe, banyuka esuka kwisixeko seziinkozo ⟨את⟩ oonyana bakwaYuda, bayisele iintlango yakwaYuda, elikwiNgeve yakwaAradi; baya ke bahlala kunye ⟨את⟩ abantu.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "oonyana"
+    },
+    {
+      "surface": "קיני",
+      "gloss": "bakwaKeni"
+    },
+    {
+      "surface": "חתן",
+      "gloss": "umkhwe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "kaMoshe"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "banyuka"
+    },
+    {
+      "surface": "מעיר",
+      "gloss": "esuka kwisixeko"
+    },
+    {
+      "surface": "התמרים",
+      "gloss": "seziinkozo"
+    },
+    {
+      "surface": "את",
+      "gloss": "kunye ⟨את⟩",
+      "marks": "oonyana bakwaYuda"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oonyana"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "bakwaYuda"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "iintlango"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "yakwaYuda"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "eli"
+    },
+    {
+      "surface": "בנגב",
+      "gloss": "kwiNgeve"
+    },
+    {
+      "surface": "ערד",
+      "gloss": "yakwaAradi"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "baya"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "bahlala"
+    },
+    {
+      "surface": "את",
+      "gloss": "kunye ⟨את⟩",
+      "marks": "abantu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "abantu"
+    }
+  ],
+  "timestamp": "2026-09-18T08:50:23.822317022Z",
+  "model": "glm-5.3"
+}

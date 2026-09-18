@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 101:3",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 101,
+  "translation": "Andizi kubeka phambi kwamehlo am into engenamsoco; umsebenzi wabatshabhaleyo ndiwanyelele; ayidibiki kum.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Andizi"
+    },
+    {
+      "surface": "אשית",
+      "gloss": "kubeka"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "phambi kwa"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "amehlo am"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "into"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "engenamsoco"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "umsebenzi"
+    },
+    {
+      "surface": "סטים",
+      "gloss": "wabatshabhaleyo"
+    },
+    {
+      "surface": "שנאתי",
+      "gloss": "ndiwanyelele"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ayi-"
+    },
+    {
+      "surface": "ידבק",
+      "gloss": "dibiki"
+    },
+    {
+      "surface": "בי",
+      "gloss": "kum"
+    }
+  ],
+  "timestamp": "2026-09-18T15:14:31.032577872Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 3:2",
+  "book": "numbers",
+  "lang": "xh",
+  "chapter": 3,
+  "translation": "Ezi ngamagama oonyana ka-Aharon: umsunguli wakhe uNadab, no-Abihuyu, u-Elazara, no-Itamara.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Ezi"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "ngamagama"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oonyana"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "ka-Aharon"
+    },
+    {
+      "surface": "הבכור",
+      "gloss": "umsunguli wakhe"
+    },
+    {
+      "surface": "נדב",
+      "gloss": "uNadab"
+    },
+    {
+      "surface": "ואביהוא",
+      "gloss": "no-Abihuyu"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "u-Elazara"
+    },
+    {
+      "surface": "ואיתמר",
+      "gloss": "no-Itamara"
+    }
+  ],
+  "timestamp": "2026-09-18T07:13:01.396681886Z",
+  "model": "glm-5.3"
+}

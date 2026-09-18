@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ecclesiastes 1:17",
+  "book": "ecclesiastes",
+  "lang": "xh",
+  "chapter": 1,
+  "translation": "Yaye ndanika inhliziyo yam ukwazi ukuhlakanipa, nokwazi ukuziphambanisa nobuwula; ndayazi kuba nakuba oku ⟨yilo⟩ ukulangazelela umoya.",
+  "tokens": [
+    {
+      "surface": "ואתנה",
+      "gloss": "yaye ndanika"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "inhliziyo yam"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "ukwazi"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "ukuhlakanipa"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "nokwazi"
+    },
+    {
+      "surface": "הוללות",
+      "gloss": "ukuziphambanisa"
+    },
+    {
+      "surface": "ושכלות",
+      "gloss": "nobuwula"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "ndayazi"
+    },
+    {
+      "surface": "שגם",
+      "gloss": "kuba nakuba"
+    },
+    {
+      "surface": "זה",
+      "gloss": "oku"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yilo"
+    },
+    {
+      "surface": "רעיון",
+      "gloss": "ukulangazelela"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "umoya"
+    }
+  ],
+  "timestamp": "2026-09-18T16:23:18.461329010Z",
+  "model": "glm-5.3"
+}

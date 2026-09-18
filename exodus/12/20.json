@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 12:20",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 12,
+  "translation": "Nantoni na exwexiweyo aniyi kuyitya; kuzo zonke iindawo enihlala kuzo nitya iimatswa.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Nantoni na"
+    },
+    {
+      "surface": "מחמצת",
+      "gloss": "exwexiweyo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "a(niyi)"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "kuyitya"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "kuzo zonke"
+    },
+    {
+      "surface": "מושבתיכם",
+      "gloss": "iindawo enihlala kuzo"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "nitya"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "iimatswa"
+    }
+  ],
+  "timestamp": "2026-09-18T06:00:37.868212511Z",
+  "model": "glm-5.3"
+}

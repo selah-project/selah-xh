@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 1:21",
+  "book": "numbers",
+  "lang": "xh",
+  "chapter": 1,
+  "translation": "Abaqwalaselwa kwabo, betribhu likaRuvheni, babe ngamashumi amane anesithandathu eliwaka namakhulu amahlanu.",
+  "tokens": [
+    {
+      "surface": "פקדיהם",
+      "gloss": "ababhalwa phantsi kwabo (okuqwalaselwayo kwabo)"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "betribhu"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "likaRuvheni"
+    },
+    {
+      "surface": "ששה",
+      "gloss": "neesithandathu"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "nangamashumi amane anesine"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "eliwaka"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "namakhulu"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "amahlanu"
+    }
+  ],
+  "timestamp": "2026-09-18T07:09:53.963149693Z",
+  "model": "glm-5.3"
+}

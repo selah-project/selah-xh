@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-kings 16:9",
+  "book": "2-kings",
+  "lang": "xh",
+  "chapter": 16,
+  "translation": "Inkosi yaseAshur yamva; inkosi yaseAshur yenyukela eDamesheki, wayibamba, wadlulisa abantu bayo batyunyjwa eKiri, uRetsini wambulala.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "yamva"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kuye"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "inkosi"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "yaseAshur"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "yenyukela"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "inkosi"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "yaseAshur"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "eDamesheki"
+    },
+    {
+      "surface": "ויתפשה",
+      "gloss": "wayibamba"
+    },
+    {
+      "surface": "ויגלה",
+      "gloss": "wadlulisa abantu bayo batyunyjwa"
+    },
+    {
+      "surface": "קירה",
+      "gloss": "eKiri"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "uRetsini"
+    },
+    {
+      "surface": "רצין",
+      "gloss": "uRetsini"
+    },
+    {
+      "surface": "המית",
+      "gloss": "wambulala"
+    }
+  ],
+  "timestamp": "2026-09-18T10:51:42.191947006Z",
+  "model": "glm-5.3"
+}

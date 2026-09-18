@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "hosea 4:7",
+  "book": "hosea",
+  "lang": "xh",
+  "chapter": 4,
+  "translation": "Njengokwandiswa kwabo, ngokunjalo bazona kuM; isidima sabo ndiza kulutshintsha lube sisihlazweni.",
+  "tokens": [
+    {
+      "surface": "כרבם",
+      "gloss": "njengokwandiswa kwabo"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ngokunjalo"
+    },
+    {
+      "surface": "חטאו",
+      "gloss": "bazona"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kuM"
+    },
+    {
+      "surface": "כבודם",
+      "gloss": "isidima sabo"
+    },
+    {
+      "surface": "בקלון",
+      "gloss": "sisihlazweni"
+    },
+    {
+      "surface": "אמיר",
+      "gloss": "ndiza kulutshintsha"
+    }
+  ],
+  "timestamp": "2026-09-18T13:43:35.005334048Z",
+  "model": "glm-5.3"
+}

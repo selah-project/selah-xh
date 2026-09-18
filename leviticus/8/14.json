@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 8:14",
+  "book": "leviticus",
+  "lang": "xh",
+  "chapter": 8,
+  "translation": "Waza wazisa ⟨את⟩ inkunzi yenkonzo yesono, u-Aharon noonyana bakhe bacinezela ⟨את⟩ iints zabo phezu kweentloko zenkunzi yenkonzo yesono.",
+  "tokens": [
+    {
+      "surface": "ויגש",
+      "gloss": "wazisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "inkunzi yenkonzo yesono"
+    },
+    {
+      "surface": "פר",
+      "gloss": "inkunzi"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "yenkonzo yesono"
+    },
+    {
+      "surface": "ויסמך",
+      "gloss": "bacinezela"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "u-Aharon"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "noonyana bakhe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iints zabo"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "iints zabo"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "kweentloko"
+    },
+    {
+      "surface": "פר",
+      "gloss": "yenkunzi"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "yenkonzo yesono"
+    }
+  ],
+  "timestamp": "2026-09-18T06:44:46.067251095Z",
+  "model": "glm-5.3"
+}

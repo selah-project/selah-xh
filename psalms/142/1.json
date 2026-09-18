@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 142:1",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 142,
+  "translation": "Isifundo sikaDavide, esexesheni awayengusezangweni ngaso; umthandazo.",
+  "tokens": [
+    {
+      "surface": "משכיל",
+      "gloss": "Isifundo"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "sikaDavide"
+    },
+    {
+      "surface": "בהיותו",
+      "gloss": "esexesheni awayengu-"
+    },
+    {
+      "surface": "במערה",
+      "gloss": "usezangweni"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "umthandazo"
+    }
+  ],
+  "timestamp": "2026-09-18T15:31:05.109392035Z",
+  "model": "glm-5.3"
+}

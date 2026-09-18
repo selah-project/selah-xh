@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 45:8",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 45,
+  "translation": "Wazithanda ukulungile, wazithiyа ububi; ngenxa yoko uElohim, uElohim wakho, wakuthanjisa ngooyile wovuyo ngaphezu kwabahlobo bakho.",
+  "tokens": [
+    {
+      "surface": "אהבת",
+      "gloss": "wazithanda"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "ukulungile"
+    },
+    {
+      "surface": "ותשנא",
+      "gloss": "wazithiyа"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ububi"
+    },
+    {
+      "surface": "על",
+      "gloss": "ngenxa"
+    },
+    {
+      "surface": "כן",
+      "gloss": "yoko"
+    },
+    {
+      "surface": "משחך",
+      "gloss": "wakuthanjisa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "uElohim wakho"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "ngooyile"
+    },
+    {
+      "surface": "ששון",
+      "gloss": "wovuyo"
+    },
+    {
+      "surface": "מחבריך",
+      "gloss": "ngaphezu kwabahlobo bakho"
+    }
+  ],
+  "timestamp": "2026-09-18T14:48:41.308818003Z",
+  "model": "glm-5.3"
+}

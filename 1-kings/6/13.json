@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-kings 6:13",
+  "book": "1-kings",
+  "lang": "xh",
+  "chapter": 6,
+  "translation": "Ndiza kuhlala phakathi kwabantwana baseSirayeli, ndingasiyi kukuyeka abantu bam uSirayeli.",
+  "tokens": [
+    {
+      "surface": "ושכנתי",
+      "gloss": "Ndiza kuhlala"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "phakathi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "kwabantwana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "baseSirayeli"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ndingasiyi"
+    },
+    {
+      "surface": "אעזב",
+      "gloss": "kukuyeka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abantu bam"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "abantu bam"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "uSirayeli"
+    }
+  ],
+  "timestamp": "2026-09-18T10:16:13.613879209Z",
+  "model": "glm-5.3"
+}

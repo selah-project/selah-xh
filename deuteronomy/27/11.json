@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 27:11",
+  "book": "deuteronomy",
+  "lang": "xh",
+  "chapter": 27,
+  "translation": "UMoshe wayalela ⟨את⟩ uluntu ngaloo mini, esithi:",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "wayalela"
+    },
+    {
+      "surface": "משה",
+      "gloss": "uMoshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uluntu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "uluntu"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ngaloo mini"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "le"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "esithi"
+    }
+  ],
+  "timestamp": "2026-09-18T08:15:14.923286481Z",
+  "model": "glm-5.3"
+}

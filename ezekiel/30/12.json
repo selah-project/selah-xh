@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ezekiel 30:12",
+  "book": "ezekiel",
+  "lang": "xh",
+  "chapter": 30,
+  "translation": "Ndiza kwenza imilambo yomileyo, ndiza kuthengisa ⟨את⟩ ilizwe esandleni sababi, ndiza kutshabalalisa ilizwe nogcwaliso lwaso esandleni sabasemzini; mna uYahwe ndithethile.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "Ndiza kwenza"
+    },
+    {
+      "surface": "יארים",
+      "gloss": "imilambo"
+    },
+    {
+      "surface": "חרבה",
+      "gloss": "yomileyo"
+    },
+    {
+      "surface": "ומכרתי",
+      "gloss": "ndiza kuthengisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ilizwe"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ilizwe"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "esandleni sa-"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "babi"
+    },
+    {
+      "surface": "והשמתי",
+      "gloss": "ndiza kutshabalalisa"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ilizwe"
+    },
+    {
+      "surface": "ומלאה",
+      "gloss": "nogcwaliso lwaso"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "esandleni sa-"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "basemzini"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "ndithethile"
+    }
+  ],
+  "timestamp": "2026-09-18T13:18:33.526559221Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 1:3",
+  "book": "deuteronomy",
+  "lang": "xh",
+  "chapter": 1,
+  "translation": "Kwasekubeni kwiminyaka engamashumi amane, ngenyanga yeshumi elinanye, ngomhla weyokuqala wenyanga, wathetha uMoshe kubantwana bakwaIsrayeli, ngokuko konke okwayalele uYahwe ⟨kuye⟩ ngabo.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Kwasekubeni"
+    },
+    {
+      "surface": "בארבעים",
+      "gloss": "kwiminyaka engamashumi amane"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "yonyaka"
+    },
+    {
+      "surface": "בעשתי",
+      "gloss": "ngenya"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ngeshumi elinanye"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "unyanga"
+    },
+    {
+      "surface": "באחד",
+      "gloss": "ngomhla weyokuqala"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "wenyanga"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "wathetha"
+    },
+    {
+      "surface": "משה",
+      "gloss": "uMoshe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bantwana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "bakwaIsrayeli"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "ngokuko konke"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oku"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "wayalela"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "kuye"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "ngabo"
+    }
+  ],
+  "timestamp": "2026-09-18T07:55:39.471095495Z",
+  "model": "glm-5.3"
+}

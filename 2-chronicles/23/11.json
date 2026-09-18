@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-chronicles 23:11",
+  "book": "2-chronicles",
+  "lang": "xh",
+  "chapter": 23,
+  "translation": "Bakhipha ⟨את⟩ unyana wokumkani, bambeka phezu kwakhe ⟨את⟩ ikhorona kunye ⟨את⟩ nobungqina, bamenza ukumkani; bamthanjisa u-Yehoyada nabantwana bakhe, bathi: “Maphile ukumkani!”",
+  "tokens": [
+    {
+      "surface": "ויוציאו",
+      "gloss": "Bakhipha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "unyana wokumkani"
+    },
+    {
+      "surface": "בן",
+      "gloss": "unyana"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "wokumkani"
+    },
+    {
+      "surface": "ויתנו",
+      "gloss": "bambeka"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "phezu kwakhe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ikhorona"
+    },
+    {
+      "surface": "הנזר",
+      "gloss": "ikhorona"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "nobungqina"
+    },
+    {
+      "surface": "העדות",
+      "gloss": "nobungqina"
+    },
+    {
+      "surface": "וימליכו",
+      "gloss": "bamenza ukumkani"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "yena"
+    },
+    {
+      "surface": "וימשחהו",
+      "gloss": "bamthanjisa"
+    },
+    {
+      "surface": "יהוידע",
+      "gloss": "uYehoyada"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "nabantwana bakhe"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "bathi"
+    },
+    {
+      "surface": "יחי",
+      "gloss": "Maphile"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ukumkani"
+    }
+  ],
+  "timestamp": "2026-09-18T17:10:56.914065108Z",
+  "model": "glm-5.3"
+}

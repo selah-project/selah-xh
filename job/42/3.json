@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 42:3",
+  "book": "job",
+  "lang": "xh",
+  "chapter": 42,
+  "translation": "Ngubani lo uzifihla icebo ngaphandle kolwazi? Ngoko ndithethile nto endingayiqondiyo — izinto ezimangalisayo kum, endingazaziyo.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "ngubani"
+    },
+    {
+      "surface": "זה",
+      "gloss": "lo"
+    },
+    {
+      "surface": "מעלים",
+      "gloss": "uzifihla"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "icebo"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "ngaphandle"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "kolwazi"
+    },
+    {
+      "surface": "לכן",
+      "gloss": "ngoko"
+    },
+    {
+      "surface": "הגדתי",
+      "gloss": "ndithethile"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "endinga-"
+    },
+    {
+      "surface": "אבין",
+      "gloss": "-yiqondiyo"
+    },
+    {
+      "surface": "נפלאות",
+      "gloss": "izinto ezimangalisayo"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "kum"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "endinga-"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "-zaziyo"
+    }
+  ],
+  "timestamp": "2026-09-18T16:15:40.071721606Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 94:8",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 94,
+  "translation": "Qaphelani, nina abangenangqondo phakathi kwabantu; nina sukwala, nini na uza kuqonda?",
+  "tokens": [
+    {
+      "surface": "בינו",
+      "gloss": "Qaphelani \/ qondani"
+    },
+    {
+      "surface": "בערים",
+      "gloss": "nina abangenangqondo (abasindwa ngendlala-engqondo)"
+    },
+    {
+      "surface": "בעם",
+      "gloss": "phakathi kwabantu"
+    },
+    {
+      "surface": "וכסילים",
+      "gloss": "nina sukwala"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "nini na"
+    },
+    {
+      "surface": "תשכילו",
+      "gloss": "uza kuqonda (ukuziphatha ngolwazi)"
+    }
+  ],
+  "timestamp": "2026-09-18T17:44:20.232119794Z",
+  "model": "glm-5.3"
+}

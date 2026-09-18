@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 2:3",
+  "book": "proverbs",
+  "lang": "xh",
+  "chapter": 2,
+  "translation": "kuba ukuba ubiza ukuqonda, unamse izwi lakho phezulu ngesiqondiso;",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ukuba"
+    },
+    {
+      "surface": "לבינה",
+      "gloss": "ukuqonda"
+    },
+    {
+      "surface": "תקרא",
+      "gloss": "ubiza"
+    },
+    {
+      "surface": "לתבונה",
+      "gloss": "ngesiqondiso"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "unamse phezulu"
+    },
+    {
+      "surface": "קולך",
+      "gloss": "izwi lakho"
+    }
+  ],
+  "timestamp": "2026-09-18T15:39:16.511387361Z",
+  "model": "glm-5.3"
+}

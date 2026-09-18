@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 36:3",
+  "book": "genesis",
+  "lang": "xh",
+  "chapter": 36,
+  "translation": "No⟨את⟩ uBhasemati, unyana kaYishmayeli, udade wakwaNebayothi.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "no⟨את⟩",
+      "marks": "uBhasemati"
+    },
+    {
+      "surface": "בשמת",
+      "gloss": "uBhasemati"
+    },
+    {
+      "surface": "בת",
+      "gloss": "unyana"
+    },
+    {
+      "surface": "ישמעאל",
+      "gloss": "kaYishmayeli"
+    },
+    {
+      "surface": "אחות",
+      "gloss": "udade"
+    },
+    {
+      "surface": "נביות",
+      "gloss": "wakwaNebayothi"
+    }
+  ],
+  "timestamp": "2026-09-18T05:32:23.383162001Z",
+  "model": "glm-5.3"
+}

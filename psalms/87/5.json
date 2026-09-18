@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 87:5",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 87,
+  "translation": "NgeTsiyoni kuya kuthiwa: umntu, nangomnye umntu, wazalwa kuyo; yaye yena uza kuyimisela ⟨yedwa⟩ — uElyoni.",
+  "tokens": [
+    {
+      "surface": "ולציון",
+      "gloss": "ngeTsiyoni"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "kuya kuthiwa"
+    },
+    {
+      "surface": "איש",
+      "gloss": "umntu"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "nangomnye umntu"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "wazalwa"
+    },
+    {
+      "surface": "בה",
+      "gloss": "kuyo"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "yaye yena"
+    },
+    {
+      "surface": "יכוננה",
+      "gloss": "uza kuyimisela"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "uElyoni"
+    }
+  ],
+  "timestamp": "2026-09-18T15:07:20.908579812Z",
+  "model": "glm-5.3"
+}

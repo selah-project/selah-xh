@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 18:3",
+  "book": "1-kings",
+  "lang": "xh",
+  "chapter": 18,
+  "translation": "U-Ahabi wabiza u-Obadyahu, lowo wayengaphezu kendlu; u-Obadyahu wayeyomoya uYahwe ⟨את⟩ kakhulu.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "wabiza"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "U-Ahabi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "עבדיהו",
+      "gloss": "-Obadyahu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "lowo"
+    },
+    {
+      "surface": "על",
+      "gloss": "engaphezu"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "kendlu"
+    },
+    {
+      "surface": "ועבדיהו",
+      "gloss": "u-Obadyahu"
+    },
+    {
+      "surface": "היה",
+      "gloss": "wayeyomoya"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "wayeyomoya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uYahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "kakhulu"
+    }
+  ],
+  "timestamp": "2026-09-18T10:30:38.881557124Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 69:9",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 69,
+  "translation": "Ndaba ngumntu ongaziwa kubafowethu, ndaba ngumntu wasemzini kubantwana benina yam.",
+  "tokens": [
+    {
+      "surface": "מוזר",
+      "gloss": "ngumntu ongaziwa"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "ndaba"
+    },
+    {
+      "surface": "לאחי",
+      "gloss": "kubafowethu"
+    },
+    {
+      "surface": "ונכרי",
+      "gloss": "ngumntu wasemzini"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "kubantwana"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "benina yam"
+    }
+  ],
+  "timestamp": "2026-09-18T14:56:16.058795823Z",
+  "model": "glm-5.3"
+}

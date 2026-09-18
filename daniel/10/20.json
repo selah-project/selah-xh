@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "daniel 10:20",
+  "book": "daniel",
+  "lang": "xh",
+  "chapter": 10,
+  "translation": "Waza wathetha wathi: “Uyazi ndifikela ntoni kuwe? Kwaye ngoku ndibuyela ukulwa neneNkosi yelizwe iParas; ndithi ndisaphuma, yabona, iNkosi yelizwe iYavani iyeza.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Waza wathetha wathi"
+    },
+    {
+      "surface": "הידעת",
+      "gloss": "Uyazi"
+    },
+    {
+      "surface": "למה",
+      "gloss": "ntoni"
+    },
+    {
+      "surface": "באתי",
+      "gloss": "ndifikela"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kuwe"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "Kwaye ngoku"
+    },
+    {
+      "surface": "אשוב",
+      "gloss": "ndibuyela"
+    },
+    {
+      "surface": "להלחם",
+      "gloss": "ukulwa"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ne-"
+    },
+    {
+      "surface": "שר",
+      "gloss": "iNkosi yelizwe"
+    },
+    {
+      "surface": "פרס",
+      "gloss": "iParas"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "ndi-"
+    },
+    {
+      "surface": "יוצא",
+      "gloss": "thi ndisaphuma"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "yabona"
+    },
+    {
+      "surface": "שר",
+      "gloss": "iNkosi yelizwe"
+    },
+    {
+      "surface": "יון",
+      "gloss": "iYavani"
+    },
+    {
+      "surface": "בא",
+      "gloss": "iyeza"
+    }
+  ],
+  "timestamp": "2026-09-18T16:37:59.403324730Z",
+  "model": "glm-5.3"
+}

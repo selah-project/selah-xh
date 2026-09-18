@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joshua 21:3",
+  "book": "joshua",
+  "lang": "xh",
+  "chapter": 21,
+  "translation": "Abantuwana bakwaIsrayeli banika abaLevi, kulwabo lwabo olwalufunyanwe, ngomlomo kaYahwe, ⟨את⟩ e Mazwe laa mazwe kunye ⟨את⟩ neendawo zawo ezilungele iinkomo.",
+  "tokens": [
+    {
+      "surface": "ויתנו",
+      "gloss": "banika"
+    },
+    {
+      "surface": "בני",
+      "gloss": "Abantuwana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "bakwaIsrayeli"
+    },
+    {
+      "surface": "ללוים",
+      "gloss": "abaLevi"
+    },
+    {
+      "surface": "מנחלתם",
+      "gloss": "kulwabo lwabo olwalufunyanwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ngo-"
+    },
+    {
+      "surface": "פי",
+      "gloss": "mlomo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kaYahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aa mazwe"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "e Mazwe"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "laa mazwe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kunye ⟨את⟩ ne",
+      "marks": "neendawo zawo ezilungele iinkomo"
+    },
+    {
+      "surface": "מגרשיהן",
+      "gloss": "neendawo zawo ezilungele iinkomo"
+    }
+  ],
+  "timestamp": "2026-09-18T08:43:23.583107091Z",
+  "model": "glm-5.3"
+}

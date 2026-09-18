@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 7:5",
+  "book": "numbers",
+  "lang": "xh",
+  "chapter": 7,
+  "translation": "Thabatha ku⟨את⟩bo ukuze zisetyenziswe kwisebenzi letenti yomnyhadala, uzenike ⟨את⟩ amaLevi, umntu ngamntu ngokomlomo wesebenzi yakhe.",
+  "tokens": [
+    {
+      "surface": "קח",
+      "gloss": "Thabatha"
+    },
+    {
+      "surface": "מאתם",
+      "gloss": "ku⟨את⟩bo"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "ukuze zisetyenziswe"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "kwisebenzi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isebenzi"
+    },
+    {
+      "surface": "עבדת",
+      "gloss": "letenti"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "itenti"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "yomnyhadala"
+    },
+    {
+      "surface": "ונתתה",
+      "gloss": "uzenike"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ ezona",
+      "marks": "amaLevi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "amaLevi"
+    },
+    {
+      "surface": "איש",
+      "gloss": "umntu ngamntu"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "ngokomlomo"
+    },
+    {
+      "surface": "עבדתו",
+      "gloss": "wesebenzi yakhe"
+    }
+  ],
+  "timestamp": "2026-09-18T07:15:01.012559124Z",
+  "model": "glm-5.3"
+}

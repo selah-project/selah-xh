@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 90:12",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 90,
+  "translation": "Ukuze sibale iintsuku zethu ngokulunga, yazisa; size sinike ilifu ingqondo yezenzululwazi.",
+  "tokens": [
+    {
+      "surface": "למנות",
+      "gloss": "ukuze sibale"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "iintsuku zethu"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ngokulunga"
+    },
+    {
+      "surface": "הודע",
+      "gloss": "yazisa"
+    },
+    {
+      "surface": "ונבא",
+      "gloss": "size sinike"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "ilifu"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "ingqondo yezenzululwazi"
+    }
+  ],
+  "timestamp": "2026-09-18T17:44:38.930436442Z",
+  "model": "glm-5.3"
+}

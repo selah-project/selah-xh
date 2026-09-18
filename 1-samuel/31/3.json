@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 31:3",
+  "book": "1-samuel",
+  "lang": "xh",
+  "chapter": 31,
+  "translation": "Imfazwe yabanda kuShawuli; abadubuli bamfumana — amadoda anendukuthu — wahlupheka kakhulu ngenxa yabadubuli.",
+  "tokens": [
+    {
+      "surface": "ותכבד",
+      "gloss": "yabanda"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "imfazwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "uShawuli"
+    },
+    {
+      "surface": "וימצאהו",
+      "gloss": "bamfumana"
+    },
+    {
+      "surface": "המורים",
+      "gloss": "abadubuli"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "amadoda"
+    },
+    {
+      "surface": "בקשת",
+      "gloss": "anendukuthu"
+    },
+    {
+      "surface": "ויחל",
+      "gloss": "wahlupheka"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "kakhulu"
+    },
+    {
+      "surface": "מהמורים",
+      "gloss": "ngenxa yabadubuli"
+    }
+  ],
+  "timestamp": "2026-09-18T09:43:53.355991172Z",
+  "model": "glm-5.3"
+}

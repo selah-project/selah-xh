@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 27:3",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 27,
+  "translation": "Nokuba isiphondo sibekela ichibi ngokuchasene nam, intliziyo yam ayisayi koyika; nokuba imfazwe ivuka ngokuchasene nam, kulesi ndithembile.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Nokuba"
+    },
+    {
+      "surface": "תחנה",
+      "gloss": "sibekela ichibi"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ngokuchasene nam"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "isiphondo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ayisayi"
+    },
+    {
+      "surface": "יירא",
+      "gloss": "koyika"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "intliziyo yam"
+    },
+    {
+      "surface": "אם",
+      "gloss": "nokuba"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "ivuka"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ngokuchasene nam"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "imfazwe"
+    },
+    {
+      "surface": "בזאת",
+      "gloss": "kulesi"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ndi-"
+    },
+    {
+      "surface": "בוטח",
+      "gloss": "thembile"
+    }
+  ],
+  "timestamp": "2026-09-18T14:38:59.608045417Z",
+  "model": "glm-5.3"
+}

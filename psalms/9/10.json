@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 9:10",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 9,
+  "translation": "Uza kuba nguYahwe isiphephelo sabaxhasweyo, isiphephelo ngamaxesha entlungwini.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "uza kuba"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "nguYahwe"
+    },
+    {
+      "surface": "משגב",
+      "gloss": "isiphephelo"
+    },
+    {
+      "surface": "לדך",
+      "gloss": "sabaxhasweyo"
+    },
+    {
+      "surface": "משגב",
+      "gloss": "isiphephelo"
+    },
+    {
+      "surface": "לעתות",
+      "gloss": "ngamaxesha"
+    },
+    {
+      "surface": "בצרה",
+      "gloss": "entlungwini"
+    }
+  ],
+  "timestamp": "2026-09-18T14:30:20.105955643Z",
+  "model": "glm-5.3"
+}

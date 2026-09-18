@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 89:42",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 89,
+  "translation": "Bamtyabuka bonke abadlula umendo; waba yisiphumo-senxeba kubakhelweye bakhe.",
+  "tokens": [
+    {
+      "surface": "שסהו",
+      "gloss": "bamtyabuka"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bonke"
+    },
+    {
+      "surface": "עברי",
+      "gloss": "abadlula"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "umendo"
+    },
+    {
+      "surface": "היה",
+      "gloss": "waba"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "yisiphumo-senxeba"
+    },
+    {
+      "surface": "לשכניו",
+      "gloss": "kubakhelweye bakhe"
+    }
+  ],
+  "timestamp": "2026-09-18T15:07:35.026617904Z",
+  "model": "glm-5.3"
+}

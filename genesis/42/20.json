@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 42:20",
+  "book": "genesis",
+  "lang": "xh",
+  "chapter": 42,
+  "translation": "Nomntakwenu owincinane ⟨את⟩ nize nimnise kum; amagama enu aza kuqinisekiswa, nize ningafi.” Bayenzela njalo.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "umntakwenu owincinane"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "umntakwenu"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "owincinane"
+    },
+    {
+      "surface": "תביאו",
+      "gloss": "nize nimnise"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kum"
+    },
+    {
+      "surface": "ויאמנו",
+      "gloss": "aza kuqinisekiswa"
+    },
+    {
+      "surface": "דבריכם",
+      "gloss": "amagama enu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "nize ninga"
+    },
+    {
+      "surface": "תמותו",
+      "gloss": "fi"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "bayenzela"
+    },
+    {
+      "surface": "כן",
+      "gloss": "njalo"
+    }
+  ],
+  "timestamp": "2026-09-18T05:40:23.550325446Z",
+  "model": "glm-5.3"
+}

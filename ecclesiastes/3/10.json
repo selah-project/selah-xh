@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 3:10",
+  "book": "ecclesiastes",
+  "lang": "xh",
+  "chapter": 3,
+  "translation": "Ndwendwela ndibonile ⟨את⟩ umzambo uElohim awunike abantwana bomntu, ukuba bachithwe kuwo.",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "ndibonile"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umzambo"
+    },
+    {
+      "surface": "הענין",
+      "gloss": "umzambo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "נתן",
+      "gloss": "awunike"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "abantwana bomntu"
+    },
+    {
+      "surface": "האדם",
+      "gloss": ""
+    },
+    {
+      "surface": "לענות",
+      "gloss": "ukuba bachithwe"
+    },
+    {
+      "surface": "בו",
+      "gloss": "kuwo"
+    }
+  ],
+  "timestamp": "2026-09-18T16:23:54.925222421Z",
+  "model": "glm-5.3"
+}

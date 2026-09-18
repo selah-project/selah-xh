@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 28:9",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 28,
+  "translation": "Uza kutabatha ⟨את⟩ amabini amatye eshoham, uze uchithe phezu kwawo amagama amadodana kaYisra'el;",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "uza kutabatha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amabini amatye eshoham"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "amabini"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "amatye"
+    },
+    {
+      "surface": "שהם",
+      "gloss": "eshoham"
+    },
+    {
+      "surface": "ופתחת",
+      "gloss": "uze uchithe"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "phezu kwawo"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "amagama"
+    },
+    {
+      "surface": "בני",
+      "gloss": "amadodana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "kaYisra'el"
+    }
+  ],
+  "timestamp": "2026-09-18T06:14:21.424432635Z",
+  "model": "glm-5.3"
+}

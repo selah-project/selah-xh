@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 15:24",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 15,
+  "translation": "Uluntu lwakhala ngokuchasene noMoshe, luthi: “Siza kusela ntoni?”",
+  "tokens": [
+    {
+      "surface": "וילנו",
+      "gloss": "lwakhala"
+    },
+    {
+      "surface": "העם",
+      "gloss": "uluntu"
+    },
+    {
+      "surface": "על",
+      "gloss": "ngokuchasene"
+    },
+    {
+      "surface": "משה",
+      "gloss": "noMoshe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "luthi"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ntoni"
+    },
+    {
+      "surface": "נשתה",
+      "gloss": "siza kusela"
+    }
+  ],
+  "timestamp": "2026-09-18T06:00:27.235823776Z",
+  "model": "glm-5.3"
+}

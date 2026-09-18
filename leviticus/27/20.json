@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 27:20",
+  "book": "leviticus",
+  "lang": "xh",
+  "chapter": 27,
+  "translation": "Kodwa ukuba angarhukusi ⟨את⟩ umhlaba, okanye ukuba uthengele ⟨את⟩ umhlaba kumntu omnye, awusayi kurhukuswa kwakhona.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Kodwa ukuba"
+    },
+    {
+      "surface": "לא",
+      "gloss": "anga-"
+    },
+    {
+      "surface": "יגאל",
+      "gloss": "rhukusi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umhlaba"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "umhlaba"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "okanye ukuba"
+    },
+    {
+      "surface": "מכר",
+      "gloss": "uthengele"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umhlaba"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "umhlaba"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "kumntu"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "omnye"
+    },
+    {
+      "surface": "לא",
+      "gloss": "awusayi"
+    },
+    {
+      "surface": "יגאל",
+      "gloss": "kurhukuswa"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "kwakhona"
+    }
+  ],
+  "timestamp": "2026-09-18T07:09:19.433490715Z",
+  "model": "glm-5.3"
+}

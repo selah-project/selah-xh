@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 55:10",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 55,
+  "translation": "Tiba, u-Adonayi, ahlule ulwimi lwabo, kuba ndibonile ubundlobongela nokuxabana kwisixeko.",
+  "tokens": [
+    {
+      "surface": "בלע",
+      "gloss": "tiba"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "u-Adonayi"
+    },
+    {
+      "surface": "פלג",
+      "gloss": "ahlule"
+    },
+    {
+      "surface": "לשונם",
+      "gloss": "ulwimi lwabo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "ndibonile"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "ubundlobongela"
+    },
+    {
+      "surface": "וריב",
+      "gloss": "nokuxabana"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "kwisixeko"
+    }
+  ],
+  "timestamp": "2026-09-18T14:50:07.162887419Z",
+  "model": "glm-5.3"
+}

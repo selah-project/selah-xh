@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 55,
+  "ref": "1-kings 8:55",
+  "book": "1-kings",
+  "lang": "xh",
+  "chapter": 8,
+  "translation": "Wamile wabanusela ⟨את⟩ iqela lonke laseYisraeli ngelizwi elikhulu, wathi:",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "Wamile"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "wabanusela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iqela lonke laseYisraeli"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lonke"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "iqela"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "laseYisraeli"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ngelizwi"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "elikhulu"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "wathi"
+    }
+  ],
+  "timestamp": "2026-09-18T10:22:12.939911400Z",
+  "model": "glm-5.3"
+}

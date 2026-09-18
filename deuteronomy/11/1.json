@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 11:1",
+  "book": "deuteronomy",
+  "lang": "xh",
+  "chapter": 11,
+  "translation": "Uthande uYahwe ⟨את⟩ uElohim wakho, ugcinile umgcino wakhe, nemigaqo yakhe, nemigwebo yakhe, nemiyalelo yakhe, yonke imihla.",
+  "tokens": [
+    {
+      "surface": "ואהבת",
+      "gloss": "uthande"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uYahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "uElohim wakho"
+    },
+    {
+      "surface": "ושמרת",
+      "gloss": "ugcinile"
+    },
+    {
+      "surface": "משמרתו",
+      "gloss": "umgcino wakhe"
+    },
+    {
+      "surface": "וחקתיו",
+      "gloss": "nemigaqo yakhe"
+    },
+    {
+      "surface": "ומשפטיו",
+      "gloss": "nemigwebo yakhe"
+    },
+    {
+      "surface": "ומצותיו",
+      "gloss": "nemiyalelo yakhe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yonke"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "imihla"
+    }
+  ],
+  "timestamp": "2026-09-18T08:04:10.269598837Z",
+  "model": "glm-5.3"
+}

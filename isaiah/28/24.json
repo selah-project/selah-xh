@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "isaiah 28:24",
+  "book": "isaiah",
+  "lang": "xh",
+  "chapter": 28,
+  "translation": "Ingaba umlimi ulima yonke imini ukuze atyalise? Ingaba uvula uhlambulula umhlaba wakhe?",
+  "tokens": [
+    {
+      "surface": "הכל",
+      "gloss": "yonke"
+    },
+    {
+      "surface": "היום",
+      "gloss": "imini"
+    },
+    {
+      "surface": "יחרש",
+      "gloss": "ulima"
+    },
+    {
+      "surface": "החרש",
+      "gloss": "umlimi"
+    },
+    {
+      "surface": "לזרע",
+      "gloss": "ukuze atyalise"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "uvula"
+    },
+    {
+      "surface": "וישדד",
+      "gloss": "uhlambulula"
+    },
+    {
+      "surface": "אדמתו",
+      "gloss": "umhlaba wakhe"
+    }
+  ],
+  "timestamp": "2026-09-18T11:21:17.147123916Z",
+  "model": "glm-5.3"
+}

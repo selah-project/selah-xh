@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 25:9",
+  "book": "proverbs",
+  "lang": "xh",
+  "chapter": 25,
+  "translation": "Lwela inkcaso yakho ⟨את⟩ noqhagalasi wakho; imfihlo yenye musa ukutyhila.",
+  "tokens": [
+    {
+      "surface": "ריבך",
+      "gloss": "inkcaso yakho"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "lwela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "noqhagalasi wakho"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "noqhagalasi wakho"
+    },
+    {
+      "surface": "וסוד",
+      "gloss": "imfihlo"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "yenye"
+    },
+    {
+      "surface": "אל",
+      "gloss": "musa"
+    },
+    {
+      "surface": "תגל",
+      "gloss": "ukutyhila"
+    }
+  ],
+  "timestamp": "2026-09-18T15:54:23.239865239Z",
+  "model": "glm-5.3"
+}

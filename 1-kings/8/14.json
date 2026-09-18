@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 8:14",
+  "book": "1-kings",
+  "lang": "xh",
+  "chapter": 8,
+  "translation": "Inkosi yajikeleza ubuso bayo, yaba nentsikelelo ⟨את⟩ wonke iqela lakaYisraele; yaye wonke iqela lakaYisraele lalimi.",
+  "tokens": [
+    {
+      "surface": "ויסב",
+      "gloss": "yajikeleza"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "inkosi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ubuso bayo"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "ubuso bayo"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "yaba nentsikelelo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wonke iqela lakaYisraele"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wonke"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "iqela"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "lakaYisraele"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "yaye wonke"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "iqela"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "lakaYisraele"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "lalimi"
+    }
+  ],
+  "timestamp": "2026-09-18T10:20:32.128904454Z",
+  "model": "glm-5.3"
+}

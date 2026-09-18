@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 19:5",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 19,
+  "translation": "Kulo lonke ihlabathi uphuma ulayini wawo, kwaye kwiindawo zokugqibela zelizwe amagama awo; ngelanga wabeka itenti kuzo.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "kulo lonke"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ihlabathi"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "uphuma"
+    },
+    {
+      "surface": "קום",
+      "gloss": "ulayini wawo"
+    },
+    {
+      "surface": "ובקצה",
+      "gloss": "kwaye kwiindawo zokugqibela"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "ihlabathi elihlaliweyo"
+    },
+    {
+      "surface": "מליהם",
+      "gloss": "amagama awo"
+    },
+    {
+      "surface": "לשמש",
+      "gloss": "ngelanga"
+    },
+    {
+      "surface": "שם",
+      "gloss": "wabeka"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "itenti"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "kuzo"
+    }
+  ],
+  "timestamp": "2026-09-18T14:36:11.947657643Z",
+  "model": "glm-5.3"
+}

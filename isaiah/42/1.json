@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 42:1",
+  "book": "isaiah",
+  "lang": "xh",
+  "chapter": 42,
+  "translation": "Bhekani, isicaka sam, ndimsolisa; okukhethiweyo kwam, umphefumlo wam wavuma kuye; ndibekile umoya wam phezu kwakhe; igwebo kwiiintlanga uza kukhupha.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Bhekani"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "isicaka sam"
+    },
+    {
+      "surface": "אתמך",
+      "gloss": "ndimsolisa"
+    },
+    {
+      "surface": "בו",
+      "gloss": "kuye"
+    },
+    {
+      "surface": "בחירי",
+      "gloss": "okukhethiweyo kwam"
+    },
+    {
+      "surface": "רצתה",
+      "gloss": "wavuma"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "umphefumlo wam"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "ndibekile"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "umoya wam"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "phezu kwakhe"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "igwebo"
+    },
+    {
+      "surface": "לגוים",
+      "gloss": "kwiiintlanga"
+    },
+    {
+      "surface": "יוציא",
+      "gloss": "uza kukhupha"
+    }
+  ],
+  "timestamp": "2026-09-18T11:33:32.160905536Z",
+  "model": "glm-5.3"
+}

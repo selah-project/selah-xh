@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "psalms 106:48",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 106,
+  "translation": "Makabusisiwe uYahwe, uElohim kaYisrael, usuka kudala ukuya kudala; abantu bonke mabathi: Amen. Dudusani uYah!",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Makabusisiwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "uElohim ka-"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "kaYisrael"
+    },
+    {
+      "surface": "מן",
+      "gloss": "usuka"
+    },
+    {
+      "surface": "העולם",
+      "gloss": "kudala"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ukuya"
+    },
+    {
+      "surface": "העולם",
+      "gloss": "kudala"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "mabathi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bonke"
+    },
+    {
+      "surface": "העם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Amen"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "Dudusani"
+    },
+    {
+      "surface": "יה",
+      "gloss": "uYah"
+    }
+  ],
+  "timestamp": "2026-09-18T15:17:53.867554990Z",
+  "model": "glm-5.3"
+}

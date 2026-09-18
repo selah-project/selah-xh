@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 109:11",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 109,
+  "translation": "Mthathele ngekhonkco konke anelako untyaleli-mali, abanzi baphange izinto azisebenzeleyo.",
+  "tokens": [
+    {
+      "surface": "ינקש",
+      "gloss": "mthathele ngekhonkco"
+    },
+    {
+      "surface": "נושה",
+      "gloss": "untyaleli-mali"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "konke"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oko"
+    },
+    {
+      "surface": "לו",
+      "gloss": "anelako"
+    },
+    {
+      "surface": "ויבזו",
+      "gloss": "baphange"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "abanzi"
+    },
+    {
+      "surface": "יגיעו",
+      "gloss": "izinto azisebenzeleyo"
+    }
+  ],
+  "timestamp": "2026-09-18T15:20:00.910869306Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 59:12",
+  "book": "isaiah",
+  "lang": "xh",
+  "chapter": 59,
+  "translation": "Kuba ukukreza kwethu kuyanda phambi kwakho, kananjalo izono zethu zithetha ngokuchasene nathi; kuba ukukreza kwethu ⟨את⟩ kuthi, kananjalo ubugwenxa bethu siyabazi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "kuyanda"
+    },
+    {
+      "surface": "פשעינו",
+      "gloss": "ukukreza kwethu"
+    },
+    {
+      "surface": "נגדך",
+      "gloss": "phambi kwakho"
+    },
+    {
+      "surface": "וחטאותינו",
+      "gloss": "kananjalo izono zethu"
+    },
+    {
+      "surface": "ענתה",
+      "gloss": "zithetha ngokuchasene"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "nathi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "פשעינו",
+      "gloss": "ukukreza kwethu"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ kuthi",
+      "marks": "ukukreza kwethu"
+    },
+    {
+      "surface": "ועונתינו",
+      "gloss": "kananjalo ubugwenxa bethu"
+    },
+    {
+      "surface": "ידענום",
+      "gloss": "siyabazi"
+    }
+  ],
+  "timestamp": "2026-09-18T11:45:02.950700136Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 33:4",
+  "book": "ezekiel",
+  "lang": "xh",
+  "chapter": 33,
+  "translation": "lowo evayo ⟨את⟩ isandi sesipuku sempembele angamoyikanga, inkanku iza yamthabatha: igazi lakhe liya kuba phezu kwentloko yakhe.",
+  "tokens": [
+    {
+      "surface": "ושמע",
+      "gloss": "lowo evayo"
+    },
+    {
+      "surface": "השמע",
+      "gloss": "oyo evayo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isandi sesipuku"
+    },
+    {
+      "surface": "קול",
+      "gloss": "isandi"
+    },
+    {
+      "surface": "השופר",
+      "gloss": "sesipuku"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "anga"
+    },
+    {
+      "surface": "נזהר",
+      "gloss": "moyikanga"
+    },
+    {
+      "surface": "ותבוא",
+      "gloss": "iza"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "inkanku"
+    },
+    {
+      "surface": "ותקחהו",
+      "gloss": "yamthabatha"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "igazi lakhe"
+    },
+    {
+      "surface": "בראשו",
+      "gloss": "phezu kwentloko yakhe"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "liya kuba"
+    }
+  ],
+  "timestamp": "2026-09-18T13:22:37.033158324Z",
+  "model": "glm-5.3"
+}

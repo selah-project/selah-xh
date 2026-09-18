@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 8:9",
+  "book": "1-chronicles",
+  "lang": "xh",
+  "chapter": 8,
+  "translation": "Wazala ngoKodeshi unyana wakhe uYovavu noTsivya noMeyisha noMalkamu.",
+  "tokens": [
+    {
+      "surface": "ויולד",
+      "gloss": "wazala"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ngo-"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "uKodeshi"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "unyana wakhe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uYovavu"
+    },
+    {
+      "surface": "יובב",
+      "gloss": "uYovavu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "uTsivya"
+    },
+    {
+      "surface": "צביא",
+      "gloss": "uTsivya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "uMeyisha"
+    },
+    {
+      "surface": "מישא",
+      "gloss": "uMeyisha"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "uMalkamu"
+    },
+    {
+      "surface": "מלכם",
+      "gloss": "uMalkamu"
+    }
+  ],
+  "timestamp": "2026-09-18T16:52:21.669674062Z",
+  "model": "glm-5.3"
+}

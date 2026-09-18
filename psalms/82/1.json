@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 82:1",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 82,
+  "translation": "Ingoma ka-Asafi. uElohim umi etlanganisweni lika-El, phakathi koothixo ugweba isigwebo.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Ingoma"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "ka-Asafi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "נצב",
+      "gloss": "umi"
+    },
+    {
+      "surface": "בעדת",
+      "gloss": "etlanganisweni"
+    },
+    {
+      "surface": "אל",
+      "gloss": "lika-El"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "phakathi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "koothixo"
+    },
+    {
+      "surface": "ישפט",
+      "gloss": "ugweba isigwebo"
+    }
+  ],
+  "timestamp": "2026-09-18T15:04:24.198658392Z",
+  "model": "glm-5.3"
+}

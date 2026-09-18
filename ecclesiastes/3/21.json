@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ecclesiastes 3:21",
+  "book": "ecclesiastes",
+  "lang": "xh",
+  "chapter": 3,
+  "translation": "Ngubani owaziyo ukuba umoya wabantwana bomntu uyanyuka ngaphezulu, yaye umoya welwanyane uyehla ngaphantsi emhlabeni?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Ngubani"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "owaziyo"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "umoya"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wabantwana"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "bomntu"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "uyanyuka"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨yena⟩"
+    },
+    {
+      "surface": "למעלה",
+      "gloss": "ngaphezulu"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "yaye umoya"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "welwanyane"
+    },
+    {
+      "surface": "הירדת",
+      "gloss": "uyehla"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨yena⟩"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "ngaphantsi"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "emhlabeni"
+    }
+  ],
+  "timestamp": "2026-09-18T16:23:40.476224296Z",
+  "model": "glm-5.3"
+}

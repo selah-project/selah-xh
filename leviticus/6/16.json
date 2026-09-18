@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 6:16",
+  "book": "leviticus",
+  "lang": "xh",
+  "chapter": 6,
+  "translation": "Yonke imnikelo yomkhosi iyonke makutshiswe ngokupheleleyo; ayiditywa.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "yonke"
+    },
+    {
+      "surface": "מנחת",
+      "gloss": "imnikelo"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "yomkhosi"
+    },
+    {
+      "surface": "כליל",
+      "gloss": "iyonke makutshiswe ngokupheleleyo"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "⟨makube⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ayi"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "ditywa"
+    }
+  ],
+  "timestamp": "2026-09-18T06:37:34.178338954Z",
+  "model": "glm-5.3"
+}

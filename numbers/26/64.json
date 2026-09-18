@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 64,
+  "ref": "numbers 26:64",
+  "book": "numbers",
+  "lang": "xh",
+  "chapter": 26,
+  "translation": "Kulaba akukho mntu wayekhona lowo waba kubalwa nguMoshe noka-Aroni umngcwele-inkonzo, ababalisayo ⟨את⟩ oonyana bakaSirayeli entlango-ntle yaseSinayi.",
+  "tokens": [
+    {
+      "surface": "ובאלה",
+      "gloss": "kulaba"
+    },
+    {
+      "surface": "לא",
+      "gloss": "akukho"
+    },
+    {
+      "surface": "היה",
+      "gloss": "wayekhona"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mntu"
+    },
+    {
+      "surface": "מפקודי",
+      "gloss": "lowo waba kubalwa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "nguMoshe"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "noka-Aroni"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "umngcwele-inkonzo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ababalisayo"
+    },
+    {
+      "surface": "פקדו",
+      "gloss": "babalisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "gloss_note": "",
+      "marks": "oonyana bakaSirayeli"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oonyana baka-"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Sirayeli"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "entlango-ntle yase-"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Sinayi"
+    }
+  ],
+  "timestamp": "2026-09-18T07:40:32.695452135Z",
+  "model": "glm-5.3"
+}

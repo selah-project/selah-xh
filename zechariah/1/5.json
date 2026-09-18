@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "zechariah 1:5",
+  "book": "zechariah",
+  "lang": "xh",
+  "chapter": 1,
+  "translation": "Ooyihlo baphi na? Ngenxa yoko, iiprofeti ziza kuphila ngonaphakade na?",
+  "tokens": [
+    {
+      "surface": "אבותיכם",
+      "gloss": "ooyihlo"
+    },
+    {
+      "surface": "איה",
+      "gloss": "baphi na"
+    },
+    {
+      "surface": "הם",
+      "gloss": "nguwo"
+    },
+    {
+      "surface": "והנבאים",
+      "gloss": "kwaye iiprofeti"
+    },
+    {
+      "surface": "הלעולם",
+      "gloss": "ngonaphakade na"
+    },
+    {
+      "surface": "יחיו",
+      "gloss": "ziza kuphila"
+    }
+  ],
+  "timestamp": "2026-09-18T14:15:25.201125691Z",
+  "model": "glm-5.3"
+}

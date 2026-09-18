@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 9:15",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 9,
+  "translation": "kuba ngoku ndanditheyile ⟨את⟩ isandla sam, ndandiza kukubetha wena ⟨את⟩ nabantu bakho ⟨את⟩ ngendwane, wawusingaselwa umhlabeni.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "ngoku"
+    },
+    {
+      "surface": "שלחתי",
+      "gloss": "ndanditheyile"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isandla sam"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "isandla sam"
+    },
+    {
+      "surface": "ואך",
+      "gloss": "wawundiza"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩",
+      "marks": "wena"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "abantu bakho"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "abantu bakho"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "ngendwane"
+    },
+    {
+      "surface": "ותכחד",
+      "gloss": "wawusingaselwa"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ku"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "umhlabeni"
+    }
+  ],
+  "timestamp": "2026-09-18T05:55:49.634239434Z",
+  "model": "glm-5.3"
+}

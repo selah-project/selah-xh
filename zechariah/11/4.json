@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "zechariah 11:4",
+  "book": "zechariah",
+  "lang": "xh",
+  "chapter": 11,
+  "translation": "Njalo uthi uYahwe uElohim wam: Yalisa ⟨את⟩ imu yombulalo.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Njalo"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "uthi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "uElohim wam"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "Yalisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "imu yombulalo"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "imu"
+    },
+    {
+      "surface": "ההרגה",
+      "gloss": "yombulalo"
+    }
+  ],
+  "timestamp": "2026-09-18T14:21:15.169695542Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 26:10",
+  "book": "deuteronomy",
+  "lang": "xh",
+  "chapter": 26,
+  "translation": "Kananjalo ngoku, yabonani, ndizilethe ⟨את⟩ izibulo zemveliso yomhlaba ondinike khona, wena uYahwe; uza kuzibeka phambi koYahwe uElohim wakho, uze ukhohombe phambi koYahwe uElohim wakho.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Kananjalo ngoku"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "yabonani"
+    },
+    {
+      "surface": "הבאתי",
+      "gloss": "ndizilethe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izibulo zemveliso yomhlaba"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "izibulo"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "imveliso"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "yomhlaba"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oni-"
+    },
+    {
+      "surface": "נתתה",
+      "gloss": "ondinike"
+    },
+    {
+      "surface": "לי",
+      "gloss": "khona"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "והנחתו",
+      "gloss": "uza kuzibeka"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "phambi kwa-"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "uElohim wakho"
+    },
+    {
+      "surface": "והשתחוית",
+      "gloss": "uze ukhohombe"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "phambi kwa-"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "uElohim wakho"
+    }
+  ],
+  "timestamp": "2026-09-18T08:16:06.950822556Z",
+  "model": "glm-5.3"
+}

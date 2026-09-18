@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 36:5",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 36,
+  "translation": "Bathetha kuMoshe, bathi: Abantu baninzi ekuletheni — ngakumbi kunokwaneleyo inkonzo yomsebenzi lowu uYahwe awalelayo ukuba uwenziwe ⟨את⟩ yena.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "Bathetha"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "משה",
+      "gloss": "uMoshe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "bathi"
+    },
+    {
+      "surface": "מרבים",
+      "gloss": "baninzi"
+    },
+    {
+      "surface": "העם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "להביא",
+      "gloss": "ekuletheni"
+    },
+    {
+      "surface": "מדי",
+      "gloss": "ngakumbi kunokwaneleyo"
+    },
+    {
+      "surface": "העבדה",
+      "gloss": "inkonzo"
+    },
+    {
+      "surface": "למלאכה",
+      "gloss": "yomsebenzi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "lowu"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "awalelayo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "לעשת",
+      "gloss": "ukuzwenza"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "yena (umsebenzi)"
+    }
+  ],
+  "timestamp": "2026-09-18T06:30:06.962466105Z",
+  "model": "glm-5.3"
+}

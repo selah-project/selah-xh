@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 22:10",
+  "book": "genesis",
+  "lang": "xh",
+  "chapter": 22,
+  "translation": "U-Avraham walulisa isandla sakhe, wathabatha ⟨את⟩ imela ukurhaxa ⟨את⟩ unyana wakhe.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "walulisa isandla"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "u-Avraham"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isandla sakhe"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "isandla sakhe"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "wathabatha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "imela"
+    },
+    {
+      "surface": "המאכלת",
+      "gloss": "imela"
+    },
+    {
+      "surface": "לשחט",
+      "gloss": "ukurhaxa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "unyana wakhe"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "unyana wakhe"
+    }
+  ],
+  "timestamp": "2026-09-18T17:18:06.700673656Z",
+  "model": "glm-5.3"
+}

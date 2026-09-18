@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 146:6",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 146,
+  "translation": "OWenza amazulu nomhlaba, ⟨את⟩ ilwandle nako konke oko kukulo, uMgcini weqiniso ku-phakade.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "OWenza"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "amazulu"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "nomhlaba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ilwandle"
+    },
+    {
+      "surface": "הים",
+      "gloss": "ilwandle"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "konke oko kukulo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "konke"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oko"
+    },
+    {
+      "surface": "בם",
+      "gloss": "kukulo"
+    },
+    {
+      "surface": "השמר",
+      "gloss": "uMgcini"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "weqiniso"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ku-phakade"
+    }
+  ],
+  "timestamp": "2026-09-18T15:35:26.782058645Z",
+  "model": "glm-5.3"
+}

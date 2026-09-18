@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 42:20",
+  "book": "isaiah",
+  "lang": "xh",
+  "chapter": 42,
+  "translation": "⟨U⟩bona izinto ezininzi, kodwa ⟨wena⟩ ungazigcini; ⟨ukuvulwa⟩ kwamadlebe, kodwaungaluv.",
+  "tokens": [
+    {
+      "surface": "ראית",
+      "gloss": "ubona"
+    },
+    {
+      "surface": "רבות",
+      "gloss": "izinto ezininzi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kodwa akugcinanga"
+    },
+    {
+      "surface": "תשמר",
+      "gloss": "ungazigcini"
+    },
+    {
+      "surface": "פקוח",
+      "gloss": "ukuvulwa"
+    },
+    {
+      "surface": "אזנים",
+      "gloss": "kwamadlebe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kodwa akuluvanga"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "ungaluv"
+    }
+  ],
+  "timestamp": "2026-09-18T17:34:55.289851610Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 3:10",
+  "book": "genesis",
+  "lang": "xh",
+  "chapter": 3,
+  "translation": "Wathi: “⟨את⟩ ilizwi lakho ndiluvile emthini wosindiso, ndoyike, kuba ndimdaka ndingane, ndazithumba.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ilizwi lakho"
+    },
+    {
+      "surface": "קלך",
+      "gloss": "ilizwi lakho"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "ndiluvile"
+    },
+    {
+      "surface": "בגן",
+      "gloss": "emthini wosindiso"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "ndoyike"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "עירם",
+      "gloss": "ndimdaka"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ndingane"
+    },
+    {
+      "surface": "ואחבא",
+      "gloss": "ndazithumba"
+    }
+  ],
+  "timestamp": "2026-09-18T17:17:53.394539230Z",
+  "model": "glm-5.3"
+}

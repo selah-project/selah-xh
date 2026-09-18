@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "leviticus 16:33",
+  "book": "leviticus",
+  "lang": "xh",
+  "chapter": 16,
+  "translation": "Wenza ukhutshelwano ⟨את⟩ lwendawo engcwele engcweleyo, ⟨את⟩ itenti yendibano, ⟨את⟩ neguqo wakhutshela; wakhutshela abapristi nakuwo onke amabantu eqela.",
+  "tokens": [
+    {
+      "surface": "וכפר",
+      "gloss": "wenza ukhutshelwano"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "indawo engcwele engcweleyo"
+    },
+    {
+      "surface": "מקדש",
+      "gloss": "indawo engcwele"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "engcweleyo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "itenti yendibano"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "itenti"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "yendibano"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "iguqo"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "iguqo"
+    },
+    {
+      "surface": "יכפר",
+      "gloss": "wakhutshela"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "nge-"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "abapristi"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "na-"
+    },
+    {
+      "surface": "כל",
+      "gloss": "onke"
+    },
+    {
+      "surface": "עם",
+      "gloss": "amabantu"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "eqela"
+    },
+    {
+      "surface": "יכפר",
+      "gloss": "wakhutshela"
+    }
+  ],
+  "timestamp": "2026-09-18T06:53:10.410328772Z",
+  "model": "glm-5.3"
+}

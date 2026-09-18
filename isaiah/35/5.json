@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 35:5",
+  "book": "isaiah",
+  "lang": "xh",
+  "chapter": 35,
+  "translation": "Ngelo xesha amehlo abafama aza kuvuleka, iindlebe zabathuli ziza kuvuleka.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "ngelo xesha"
+    },
+    {
+      "surface": "תפקחנה",
+      "gloss": "aza kuvuleka"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "amehlo"
+    },
+    {
+      "surface": "עורים",
+      "gloss": "abafama"
+    },
+    {
+      "surface": "ואזני",
+      "gloss": "iindlebe"
+    },
+    {
+      "surface": "חרשים",
+      "gloss": "abathuli"
+    },
+    {
+      "surface": "תפתחנה",
+      "gloss": "ziza kuvuleka"
+    }
+  ],
+  "timestamp": "2026-09-18T11:28:51.708500555Z",
+  "model": "glm-5.3"
+}

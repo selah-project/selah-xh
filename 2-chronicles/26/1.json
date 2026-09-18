@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 26:1",
+  "book": "2-chronicles",
+  "lang": "xh",
+  "chapter": 26,
+  "translation": "Yaye abantu bonke baseYehudah bathabatha ⟨את⟩ u-Uziyahu, enengubo elishumi elinesithandathu, bamisa ukuba abe yinkosi endaweni katata wakhe u-Amatsiyahu.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "bathabatha"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bonke"
+    },
+    {
+      "surface": "עם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "aseYehudah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "u-Uziyahu"
+    },
+    {
+      "surface": "עזיהו",
+      "gloss": "u-Uziyahu"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "ena"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ingubo"
+    },
+    {
+      "surface": "שש",
+      "gloss": "elinesithandathu"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "elishumi"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "iminyaka"
+    },
+    {
+      "surface": "וימליכו",
+      "gloss": "bamisa ukuba abe yinkosi"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "yena"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "endaweni"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "katata wakhe"
+    },
+    {
+      "surface": "אמציהו",
+      "gloss": "u-Amatsiyahu"
+    }
+  ],
+  "timestamp": "2026-09-18T17:11:26.986021349Z",
+  "model": "glm-5.3"
+}

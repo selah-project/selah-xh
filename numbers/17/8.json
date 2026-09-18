@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 17:8",
+  "book": "numbers",
+  "lang": "xh",
+  "chapter": 17,
+  "translation": "Yaye uMoshe no-Aharon bafika phambi kwetenti yokudibana.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "bafika"
+    },
+    {
+      "surface": "משה",
+      "gloss": "uMoshe"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "no-Aharon"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "פני",
+      "gloss": "phambi kwe-"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "itenti"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "yokudibana"
+    }
+  ],
+  "timestamp": "2026-09-18T07:27:57.575743804Z",
+  "model": "glm-5.3"
+}

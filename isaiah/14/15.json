@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 14:15",
+  "book": "isaiah",
+  "lang": "xh",
+  "chapter": 14,
+  "translation": "Kodwa ku-iSheol uza kwehliswa, kwiindawo ezikude zomgodu.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Kodwa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "iSheol"
+    },
+    {
+      "surface": "תורד",
+      "gloss": "uza kwehliswa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwiindawo"
+    },
+    {
+      "surface": "ירכתי",
+      "gloss": "ezikude"
+    },
+    {
+      "surface": "בור",
+      "gloss": "zomgodu"
+    }
+  ],
+  "timestamp": "2026-09-18T11:10:40.508786874Z",
+  "model": "glm-5.3"
+}

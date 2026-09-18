@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 11:6",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 11,
+  "translation": "Kwaye iza kubakho ukukhalisa okukhulu lonke elizweni laseMitsrayim, okungekho okunjalo okwenzekiyo, nokungekho okunjalo okuzongezwa.",
+  "tokens": [
+    {
+      "surface": "והיתה",
+      "gloss": "kwaye iza kubakho"
+    },
+    {
+      "surface": "צעקה",
+      "gloss": "ukukhalisa"
+    },
+    {
+      "surface": "גדלה",
+      "gloss": "okukhulu"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "lonke"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "elizweni"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "laseMitsrayim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oka"
+    },
+    {
+      "surface": "כמהו",
+      "gloss": "okunjalo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "akukho"
+    },
+    {
+      "surface": "נהיתה",
+      "gloss": "okwenzekiyo"
+    },
+    {
+      "surface": "וכמהו",
+      "gloss": "nokungekho okunjalo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "akukho"
+    },
+    {
+      "surface": "תסף",
+      "gloss": "okuzongezwa"
+    }
+  ],
+  "timestamp": "2026-09-18T05:57:44.221080913Z",
+  "model": "glm-5.3"
+}

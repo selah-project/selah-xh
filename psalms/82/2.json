@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 82:2",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 82,
+  "translation": "Niza kugweba nini ngobugwenxa? Nobuso babagwenxa niyabuphakamisa? Selah.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "Niza kugweba nini"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "nini"
+    },
+    {
+      "surface": "תשפטו",
+      "gloss": "nigweba"
+    },
+    {
+      "surface": "עול",
+      "gloss": "ngobugwenxa"
+    },
+    {
+      "surface": "ופני",
+      "gloss": "nobuso"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "babagwenxa"
+    },
+    {
+      "surface": "תשאו",
+      "gloss": "niyabuphakamisa"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-18T15:04:24.198872613Z",
+  "model": "glm-5.3"
+}

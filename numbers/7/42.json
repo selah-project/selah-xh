@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "numbers 7:42",
+  "book": "numbers",
+  "lang": "xh",
+  "chapter": 7,
+  "translation": "Ngemini yesithandathu, inkosi yamadoda yabantwana baGadi, uEliyasaph unyana kaDeuweli;",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "ngemini"
+    },
+    {
+      "surface": "הששי",
+      "gloss": "yesithandathu"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "inkosi yamadoda"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "yabantwana ba-"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Gadi"
+    },
+    {
+      "surface": "אליסף",
+      "gloss": "uEliyasaph"
+    },
+    {
+      "surface": "בן",
+      "gloss": "unyana ka-"
+    },
+    {
+      "surface": "דעואל",
+      "gloss": "Deuweli"
+    }
+  ],
+  "timestamp": "2026-09-18T07:16:06.094063270Z",
+  "model": "glm-5.3"
+}

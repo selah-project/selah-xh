@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 140:10",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 140,
+  "translation": "Intloko yalabo abandungeleyo, ubunzima bezande zabo mabuzibambele.",
+  "tokens": [
+    {
+      "surface": "ראש",
+      "gloss": "intloko"
+    },
+    {
+      "surface": "מסבי",
+      "gloss": "yabadungeleyo"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "ubunzima"
+    },
+    {
+      "surface": "שפתימו",
+      "gloss": "bezande zabo"
+    },
+    {
+      "surface": "יכסומו",
+      "gloss": "mabuzibambele"
+    }
+  ],
+  "timestamp": "2026-09-18T15:30:42.296418224Z",
+  "model": "glm-5.3"
+}

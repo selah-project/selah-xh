@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "nehemiah 8:1",
+  "book": "nehemiah",
+  "lang": "xh",
+  "chapter": 8,
+  "translation": "Yaza onke abantu baqokelelana njengomntu omnye esitaladini elise phambi kwesango lamanzi, bathi ku-Ezra umbhali, makazise ⟨את⟩ incwadi yeTora kaMoshe, la uYahwe wayalela ⟨את⟩ u-Israel.",
+  "tokens": [
+    {
+      "surface": "ויאספו",
+      "gloss": "baqokelelana"
+    },
+    {
+      "surface": "כל",
+      "gloss": "onke"
+    },
+    {
+      "surface": "העם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "כאיש",
+      "gloss": "njengomntu"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "omnye"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "הרחוב",
+      "gloss": "esitaladini"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ela"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "phambi kwe-"
+    },
+    {
+      "surface": "שער",
+      "gloss": "isango"
+    },
+    {
+      "surface": "המים",
+      "gloss": "lamanzi"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "bathi"
+    },
+    {
+      "surface": "לעזרא",
+      "gloss": "ku-Ezra"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "umbhali"
+    },
+    {
+      "surface": "להביא",
+      "gloss": "ukuzisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "incwadi yeTora kaMoshe"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "incwadi"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "yeTora"
+    },
+    {
+      "surface": "משה",
+      "gloss": "kaMoshe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "la"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "wayalela"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "u-Israel"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "u-Israel"
+    }
+  ],
+  "timestamp": "2026-09-18T16:48:35.219778560Z",
+  "model": "glm-5.3"
+}

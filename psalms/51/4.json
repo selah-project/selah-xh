@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 51:4",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 51,
+  "translation": "Hlamba ndi kakade ubugwenxa bam, undicocele kwiisono zam.",
+  "tokens": [
+    {
+      "surface": "הרבה",
+      "gloss": "kakade"
+    },
+    {
+      "surface": "כבסני",
+      "gloss": "Hlamba ndi"
+    },
+    {
+      "surface": "מעוני",
+      "gloss": "ubugwenxa bam"
+    },
+    {
+      "surface": "ומחטאתי",
+      "gloss": "kwiisono zam"
+    },
+    {
+      "surface": "טהרני",
+      "gloss": "undicocele"
+    }
+  ],
+  "timestamp": "2026-09-18T14:49:24.143442051Z",
+  "model": "glm-5.3"
+}

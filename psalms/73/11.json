@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 73:11",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 73,
+  "translation": "Bathi: “U-El uyayazi njani? Ngaba kukho ulwazi kwi-Elyoni?”",
+  "tokens": [
+    {
+      "surface": "ואמרו",
+      "gloss": "Bathi"
+    },
+    {
+      "surface": "איכה",
+      "gloss": "njani"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "uyayazi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "u-El"
+    },
+    {
+      "surface": "ויש",
+      "gloss": "kukho"
+    },
+    {
+      "surface": "דעה",
+      "gloss": "ulwazi"
+    },
+    {
+      "surface": "בעליון",
+      "gloss": "kwi-Elyoni"
+    }
+  ],
+  "timestamp": "2026-09-18T14:59:56.718278898Z",
+  "model": "glm-5.3"
+}

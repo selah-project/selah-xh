@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 5:4",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 5,
+  "translation": "Wathi kubo inkosi yeMitsrayim: “Kutheni, uMoshe no-Aharoni, nikhulula ⟨את⟩ abantu ekumsebenzi wawo? Yiyani kumthwalo wenu.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "kubo"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "inkosi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "yeMitsrayim"
+    },
+    {
+      "surface": "למה",
+      "gloss": "kutheni"
+    },
+    {
+      "surface": "משה",
+      "gloss": "uMoshe"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "no-Aharoni"
+    },
+    {
+      "surface": "תפריעו",
+      "gloss": "nikhulula"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abantu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "ממעשיו",
+      "gloss": "ekumsebenzi wawo"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "yiyani"
+    },
+    {
+      "surface": "לסבלתיכם",
+      "gloss": "kumthwalo wenu"
+    }
+  ],
+  "timestamp": "2026-09-18T05:54:20.488340843Z",
+  "model": "glm-5.3"
+}

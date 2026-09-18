@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-samuel 20:4",
+  "book": "2-samuel",
+  "lang": "xh",
+  "chapter": 20,
+  "translation": "Inkosi yathi ku-Amasha: “Biza kum amadoda akwaYuda, ubuncinci iintsuku ezintathu, wena uze apha uzinze.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "yathi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "inkosi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "עמשא",
+      "gloss": "Amasha"
+    },
+    {
+      "surface": "הזעק",
+      "gloss": "biza"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kum"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amadoda akwaYuda"
+    },
+    {
+      "surface": "איש",
+      "gloss": "amadoda"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "akwaYuda"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "ubuncinci iintsuku"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ezintathu"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "wena uze"
+    },
+    {
+      "surface": "פה",
+      "gloss": "apha"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "uzinze"
+    }
+  ],
+  "timestamp": "2026-09-18T10:01:36.862233735Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "song-of-songs 1:12",
+  "book": "song-of-songs",
+  "lang": "xh",
+  "chapter": 1,
+  "translation": "Xa inkosi ihleli kwisihlalo sayo semveliso, inadid yam inike umphefumlo wayo.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "xa"
+    },
+    {
+      "surface": "שהמלך",
+      "gloss": "inkosi ihleli"
+    },
+    {
+      "surface": "במסבו",
+      "gloss": "kwisihlalo sayo semveliso"
+    },
+    {
+      "surface": "נרדי",
+      "gloss": "inadid yam"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "inike"
+    },
+    {
+      "surface": "ריחו",
+      "gloss": "umphefumlo wayo"
+    }
+  ],
+  "timestamp": "2026-09-18T16:15:25.252131159Z",
+  "model": "glm-5.3"
+}

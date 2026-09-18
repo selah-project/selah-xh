@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-kings 19:17",
+  "book": "2-kings",
+  "lang": "xh",
+  "chapter": 19,
+  "translation": "Inyaniso, uYahwe, iinkosi zaseAshuru zatshabalalisa ⟨את⟩ amazwe ⟨את⟩ nomhlaba wawo.",
+  "tokens": [
+    {
+      "surface": "אמנם",
+      "gloss": "Inyaniso"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "החריבו",
+      "gloss": "zatshabalalisa"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "iinkosi"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "zaseAshuru"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amazwe"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "amazwe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "nomhlaba wawo"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "nomhlaba wawo"
+    }
+  ],
+  "timestamp": "2026-09-18T10:55:15.595026339Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 14:1",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 14,
+  "translation": "Kumlawuli-weendumiso. NgokukaDawidi. Umntwana willahlekileyo uthethe ntliziyo yakhe: akakho uElohim. Banakile, benze izenzo eziyinyanyeko; akukho mntu wenza okulungileyo.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Kumlawuli-weendumiso"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "NgokukaDawidi"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "uthethe"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "umntwana willahlekileyo"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "ntliziyo yakhe"
+    },
+    {
+      "surface": "אין",
+      "gloss": "akakho"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "השחיתו",
+      "gloss": "banakile"
+    },
+    {
+      "surface": "התעיבו",
+      "gloss": "benze izenzo eziyinyanyeko"
+    },
+    {
+      "surface": "עלילה",
+      "gloss": "izenzo"
+    },
+    {
+      "surface": "אין",
+      "gloss": "akukho"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "mntu wenza"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "okulungileyo"
+    }
+  ],
+  "timestamp": "2026-09-18T14:31:27.577204977Z",
+  "model": "glm-5.3"
+}

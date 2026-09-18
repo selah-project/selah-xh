@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 16:12",
+  "book": "1-kings",
+  "lang": "xh",
+  "chapter": 16,
+  "translation": "Ngoko uZimri watshabalalisa ⟨את⟩ wonke umzi kaBhasha, njengokwelizwi kaYahwe awalithethayo kuBhasha ngesandla sikaYehu umprofeti.",
+  "tokens": [
+    {
+      "surface": "וישמד",
+      "gloss": "watshabalalisa"
+    },
+    {
+      "surface": "זמרי",
+      "gloss": "uZimri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wonke umzi kaBhasha"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wonke"
+    },
+    {
+      "surface": "בית",
+      "gloss": "umzi"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "kaBhasha"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "njengokwelizwi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kaYahwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "awayelithethayo"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "elithethayo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Bhasha"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ngesandla"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "sikaYehu"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "umprofeti"
+    }
+  ],
+  "timestamp": "2026-09-18T10:28:12.146326998Z",
+  "model": "glm-5.3"
+}

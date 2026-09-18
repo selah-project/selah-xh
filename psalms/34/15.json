@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 34:15",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 34,
+  "translation": "Suka kwibi, yenza okulungileyo; funa uxolo, lulandele.",
+  "tokens": [
+    {
+      "surface": "סור",
+      "gloss": "Suka"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "kwibi"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "yenza"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "okulungileyo"
+    },
+    {
+      "surface": "בקש",
+      "gloss": "funa"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "uxolo"
+    },
+    {
+      "surface": "ורדפהו",
+      "gloss": "lulandele"
+    }
+  ],
+  "timestamp": "2026-09-18T14:40:38.022728523Z",
+  "model": "glm-5.3"
+}

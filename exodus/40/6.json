@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 40:6",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 40,
+  "translation": "Uza kubeka ⟨את⟩ i-altare yomnikelo oshisiweyo phambi komnyango wehema, itenti yomdibaniso.",
+  "tokens": [
+    {
+      "surface": "ונתתה",
+      "gloss": "uza kubeka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i-altare yomnikelo oshisiweyo"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "i-altare"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "yomnikelo oshisiweyo"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "phambi kwe"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "umnyango"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "wehema"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "itenti"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "yomdibaniso"
+    }
+  ],
+  "timestamp": "2026-09-18T06:31:35.283846756Z",
+  "model": "glm-5.3"
+}

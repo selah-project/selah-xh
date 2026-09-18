@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "jeremiah 46:18",
+  "book": "jeremiah",
+  "lang": "xh",
+  "chapter": 46,
+  "translation": "Ndiphilile, isalathiso seNkosi, uYahwe Tsebhayoti ligama layo: kuba njengeTabor phakathi kweentaba, kananjalo njengeKarmeli olwandle, uza kufika.",
+  "tokens": [
+    {
+      "surface": "חי",
+      "gloss": "Ndiphilile"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mna"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "isalathiso"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "seNkosi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsebhayoti"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ligama layo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "כתבור",
+      "gloss": "njengeTabor"
+    },
+    {
+      "surface": "בהרים",
+      "gloss": "phakathi kweentaba"
+    },
+    {
+      "surface": "וככרמל",
+      "gloss": "kananjalo njengeKarmeli"
+    },
+    {
+      "surface": "בים",
+      "gloss": "olwandle"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "uza kufika"
+    }
+  ],
+  "timestamp": "2026-09-18T12:35:17.522618354Z",
+  "model": "glm-5.3"
+}

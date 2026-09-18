@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 24:4",
+  "book": "leviticus",
+  "lang": "xh",
+  "chapter": 24,
+  "translation": "Phezu kombane occecekileyo uza kulungiselela ⟨את⟩ iithumba phambi koYahwe ngokungapheliyo.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "Phezu"
+    },
+    {
+      "surface": "המנרה",
+      "gloss": "kombane"
+    },
+    {
+      "surface": "הטהרה",
+      "gloss": "occecekileyo"
+    },
+    {
+      "surface": "יערך",
+      "gloss": "uza kulungiselela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iithumba"
+    },
+    {
+      "surface": "הנרות",
+      "gloss": "iithumba"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "phambi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "koYahwe"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "ngokungapheliyo"
+    }
+  ],
+  "timestamp": "2026-09-18T07:05:19.492824225Z",
+  "model": "glm-5.3"
+}

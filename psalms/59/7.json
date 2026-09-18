@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 59:7",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 59,
+  "translation": "Bayabuya ebugxileni, badelela njengenja, baze bajikeleza ngakumbhalo wasomzi.",
+  "tokens": [
+    {
+      "surface": "ישובו",
+      "gloss": "bayabuya"
+    },
+    {
+      "surface": "לערב",
+      "gloss": "ebugxileni"
+    },
+    {
+      "surface": "יהמו",
+      "gloss": "badelela"
+    },
+    {
+      "surface": "ככלב",
+      "gloss": "njengenja"
+    },
+    {
+      "surface": "ויסובבו",
+      "gloss": "baze bajikeleza"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "umzi"
+    }
+  ],
+  "timestamp": "2026-09-18T17:44:24.173804699Z",
+  "model": "glm-5.3"
+}

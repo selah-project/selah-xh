@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-chronicles 7:16",
+  "book": "2-chronicles",
+  "lang": "xh",
+  "chapter": 7,
+  "translation": "Kananjalo ngoku ndakhethile, ndayisingcwalelisa indlu le, ukuze igama lam libe khona kuze kube phakade, amehlo am nen tliziyo yam ibe khona yonke imihla.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "kananjalo ngoku"
+    },
+    {
+      "surface": "בחרתי",
+      "gloss": "ndakhethile"
+    },
+    {
+      "surface": "והקדשתי",
+      "gloss": "ndayisingcwalelisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "indlu le"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "indlu"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "le"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "ukuze ibe"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "igama lam"
+    },
+    {
+      "surface": "שם",
+      "gloss": "khona"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kuze kube"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "phakade"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "ibe"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "amehlo am"
+    },
+    {
+      "surface": "ולבי",
+      "gloss": "intliziyo yam"
+    },
+    {
+      "surface": "שם",
+      "gloss": "khona"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yonke"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "imihla"
+    }
+  ],
+  "timestamp": "2026-09-18T17:06:30.212703057Z",
+  "model": "glm-5.3"
+}

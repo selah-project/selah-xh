@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 85:2",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 85,
+  "translation": "Wawuthanda uYahwe ⟨את⟩ ilizwe lakho, wabuyisa ukuthunyelwa kukaYaaqov.",
+  "tokens": [
+    {
+      "surface": "רצית",
+      "gloss": "Wawuthanda"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "ilizwe lakho"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "wabuyisa"
+    },
+    {
+      "surface": "שבות",
+      "gloss": "ukuthunyelwa"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "kukaYaaqov"
+    }
+  ],
+  "timestamp": "2026-09-18T15:07:08.339038802Z",
+  "model": "glm-5.3"
+}

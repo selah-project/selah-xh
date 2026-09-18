@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 61:7",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 61,
+  "translation": "Wongeze iintsuku phezu kweentsuku zenkosi, iminyaka yakhe ibe njengesizukulwana nesizukulwana.",
+  "tokens": [
+    {
+      "surface": "ימים",
+      "gloss": "iintsuku"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "kweentsuku"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "inkosi"
+    },
+    {
+      "surface": "תוסיף",
+      "gloss": "Wongeze"
+    },
+    {
+      "surface": "שנותיו",
+      "gloss": "iminyaka yakhe"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "njenge"
+    },
+    {
+      "surface": "דר",
+      "gloss": "isizukulwana"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "nesizukulwana"
+    }
+  ],
+  "timestamp": "2026-09-18T14:54:22.554254814Z",
+  "model": "glm-5.3"
+}

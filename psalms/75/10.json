@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 75:10",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 75,
+  "translation": "Mna ndiza kubhengeza kuze kube phakade; ndiya kukhalimela kuElohim kaYaakov.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Mna"
+    },
+    {
+      "surface": "אגיד",
+      "gloss": "ndiza kubhengeza"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "kuze kube phakade"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "ndiya kukhalimela"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "kuElohim"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "kaYaakov"
+    }
+  ],
+  "timestamp": "2026-09-18T15:00:12.084269227Z",
+  "model": "glm-5.3"
+}

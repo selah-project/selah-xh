@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 37:10",
+  "book": "isaiah",
+  "lang": "xh",
+  "chapter": 37,
+  "translation": "Njalo nithi kuHizikiya, inkosi yaseYuda, nithi: musa ukuba akukhohlise uElohim wakho, lowo uthelekile kuye, uthi: iYerushalayimi ayiza kunikwa esandleni senkosi yaseAshuru.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "njalo"
+    },
+    {
+      "surface": "תאמרון",
+      "gloss": "nithi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "uHizikiya"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "inkosi"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "yaseYuda"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nithi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "musa"
+    },
+    {
+      "surface": "ישאך",
+      "gloss": "ukuba akukhohlise"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "uElohim wakho"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "lowo"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "בוטח",
+      "gloss": "uthelekile"
+    },
+    {
+      "surface": "בו",
+      "gloss": "kuye"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "uthi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ayiza"
+    },
+    {
+      "surface": "תנתן",
+      "gloss": "kunikwa"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "iYerushalayimi"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "esandleni"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "senkosi"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "yaseAshuru"
+    }
+  ],
+  "timestamp": "2026-09-18T11:26:06.966695154Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 1:1",
+  "book": "numbers",
+  "lang": "xh",
+  "chapter": 1,
+  "translation": "UYawhe wathetha kuMoshe easentlango yaseSinayi, ehemeni yokudibana, ngomhla wokuqala kwinyanga yesibini, kunyaka wesibini emva kokuba baphume elwazwe laseMitsrayim, ethi:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "wathetha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "משה",
+      "gloss": "uMoshe"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "easentlango"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "yaseSinayi"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "ehemeni"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "yokudibana"
+    },
+    {
+      "surface": "באחד",
+      "gloss": "ngomhla wokuqala"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "kwinyanga"
+    },
+    {
+      "surface": "השני",
+      "gloss": "yesibini"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "kunyaka"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "wesibini"
+    },
+    {
+      "surface": "לצאתם",
+      "gloss": "emva kokuba baphume"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "elwazwe"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "laseMitsrayim"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ethi"
+    }
+  ],
+  "timestamp": "2026-09-18T07:10:14.915309787Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 33:5",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 33,
+  "translation": "Uthanda ulungelo nobulungisa; yikhesedi kaYahwe ihlabathi elizele ngayo.",
+  "tokens": [
+    {
+      "surface": "אהב",
+      "gloss": "Uthanda"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "ulungelo"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "nobulungisa"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "ikhesedi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kaYahwe"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "elizele"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ihlabathi"
+    }
+  ],
+  "timestamp": "2026-09-18T14:39:58.060053503Z",
+  "model": "glm-5.3"
+}

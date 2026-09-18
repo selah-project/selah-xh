@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 25:3",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 25,
+  "translation": "Kananjalo bonke abalindileyo kuwe abayi kudideka; badidekile, badidekile abangathembekanga ngaphandle kwesizathu.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Kananjalo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bonke"
+    },
+    {
+      "surface": "קויך",
+      "gloss": "abalindileyo kuwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "abayi kudideka"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "badidekile"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "badidekile"
+    },
+    {
+      "surface": "הבוגדים",
+      "gloss": "abangathembekanga"
+    },
+    {
+      "surface": "ריקם",
+      "gloss": "ngaphandle kwesizathu"
+    }
+  ],
+  "timestamp": "2026-09-18T14:37:42.070063708Z",
+  "model": "glm-5.3"
+}

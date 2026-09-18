@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 18:8",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 18,
+  "translation": "Umhlaba waduduma, waza warhazulwa; iisiseko zoothaboo zakhathazeka, zaza zarhazulwa, kuba utshwina babulala yena.",
+  "tokens": [
+    {
+      "surface": "ותגעש",
+      "gloss": "warhazulwa"
+    },
+    {
+      "surface": "ותרעש",
+      "gloss": "waduduma"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "umhlaba"
+    },
+    {
+      "surface": "ומוסדי",
+      "gloss": "iisiseko"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "zoothaboo"
+    },
+    {
+      "surface": "ירגזו",
+      "gloss": "zakhathazeka"
+    },
+    {
+      "surface": "ויתגעשו",
+      "gloss": "zaza zarhazulwa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "חרה",
+      "gloss": "utshwina babulala"
+    },
+    {
+      "surface": "לו",
+      "gloss": "yena"
+    }
+  ],
+  "timestamp": "2026-09-18T14:34:18.924133752Z",
+  "model": "glm-5.3"
+}

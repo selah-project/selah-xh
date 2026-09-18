@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 110:2",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 110,
+  "translation": "Intonga yamandla akho uYahwe uyithumela usuka kwiTsiyoni: “Lawula phakathi kweentshaba zakho.”",
+  "tokens": [
+    {
+      "surface": "מטה",
+      "gloss": "intonga"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "yamandla akho"
+    },
+    {
+      "surface": "ישלח",
+      "gloss": "uyithumela"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "מציון",
+      "gloss": "usuka kwiTsiyoni"
+    },
+    {
+      "surface": "רדה",
+      "gloss": "Lawula"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "phakathi"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "kweentshaba zakho"
+    }
+  ],
+  "timestamp": "2026-09-18T15:21:37.783922754Z",
+  "model": "glm-5.3"
+}

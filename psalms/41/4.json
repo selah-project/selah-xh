@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 41:4",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 41,
+  "translation": "UYahwe uza kumsasaza embindini wokugula kwakhe; wonke ubhedu wakhe wena uwutshintshe ekubetheni kwakhe.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "UYahwe"
+    },
+    {
+      "surface": "יסעדנו",
+      "gloss": "uza kumsasaza"
+    },
+    {
+      "surface": "על",
+      "gloss": "embindini"
+    },
+    {
+      "surface": "ערש",
+      "gloss": "wokugula kwakhe"
+    },
+    {
+      "surface": "דוי",
+      "gloss": "ubhedu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wonke"
+    },
+    {
+      "surface": "משכבו",
+      "gloss": "wakhe"
+    },
+    {
+      "surface": "הפכת",
+      "gloss": "wena uwutshintshe"
+    },
+    {
+      "surface": "בחליו",
+      "gloss": "ekubetheni kwakhe"
+    }
+  ],
+  "timestamp": "2026-09-18T14:44:26.896451543Z",
+  "model": "glm-5.3"
+}

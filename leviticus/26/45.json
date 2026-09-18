@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "leviticus 26:45",
+  "book": "leviticus",
+  "lang": "xh",
+  "chapter": 26,
+  "translation": "Ndiza kukhumbula ngabo umnqophiso wakudala, obaphuma ngawo ⟨אתם⟩ eMitsrayim phambi kwamehlo ⟨the⟩ amazwe, ukuba ndibe nguElohim wabo; ndinguYahwe.",
+  "tokens": [
+    {
+      "surface": "וזכרתי",
+      "gloss": "Ndiza kukhumbula"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ngabo"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "umnqophiso"
+    },
+    {
+      "surface": "ראשנים",
+      "gloss": "wakudala"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "obo"
+    },
+    {
+      "surface": "הוצאתי",
+      "gloss": "obaphuma ngawo"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "bona (abantwana bakwa-Israyeli)"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "e"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "phambi kwamehlo"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "amazwe"
+    },
+    {
+      "surface": "להית",
+      "gloss": "ukuba ndibe"
+    },
+    {
+      "surface": "להם",
+      "gloss": "wabo"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "nguElohim"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ndi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "nguYahwe"
+    }
+  ],
+  "timestamp": "2026-09-18T07:06:44.165766196Z",
+  "model": "glm-5.3"
+}

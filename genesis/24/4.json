@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 24:4",
+  "book": "genesis",
+  "lang": "xh",
+  "chapter": 24,
+  "translation": "“kodwa ewe elundweni lwam nakubuzalwana bam uya kuya, uthabathe umfazi kunyana wam uYitshaka.”",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kodwa ewe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e-"
+    },
+    {
+      "surface": "ארצי",
+      "gloss": "elundweni lwam"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "nakwi-"
+    },
+    {
+      "surface": "מולדתי",
+      "gloss": "buzalwana bam"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "uya kuya"
+    },
+    {
+      "surface": "ולקחת",
+      "gloss": "uthabathe"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "umfazi"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "kunyana wam"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "uYitshaka"
+    }
+  ],
+  "timestamp": "2026-09-18T05:20:22.976495009Z",
+  "model": "glm-5.3"
+}

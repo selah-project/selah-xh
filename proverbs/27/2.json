@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 27:2",
+  "book": "proverbs",
+  "lang": "xh",
+  "chapter": 27,
+  "translation": "Makakudunyise umngxameli, hayi umlomo wakho; mntu wasemzini, hayi milomo yakho.",
+  "tokens": [
+    {
+      "surface": "יהללך",
+      "gloss": "makakudunyise"
+    },
+    {
+      "surface": "זר",
+      "gloss": "umngxameli"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "hayi"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "umlomo wakho"
+    },
+    {
+      "surface": "נכרי",
+      "gloss": "mntu wasemzini"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "hayi"
+    },
+    {
+      "surface": "שפתיך",
+      "gloss": "milomo yakho"
+    }
+  ],
+  "timestamp": "2026-09-18T15:57:03.466245754Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "hosea 1:4",
+  "book": "hosea",
+  "lang": "xh",
+  "chapter": 1,
+  "translation": "Wathi uYahwe kuye: “Biza igama lakhe uYizreeli, kuba ngokukhawuleza ndiza kubizela ⟨את⟩ igazi leYizreeli phezu kweekaYehu, ndiza kumisa ubukhosi belo laseYisrayeli.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kuye"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "biza"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "igama lakhe"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "uYizreeli"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ngokukhawuleza"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "sikangakanani"
+    },
+    {
+      "surface": "ופקדתי",
+      "gloss": "ndiza kubizela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "igazi leYizreeli"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "igazi"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "leYizreeli"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu kwe"
+    },
+    {
+      "surface": "בית",
+      "gloss": "lo luka"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "uYehu"
+    },
+    {
+      "surface": "והשבתי",
+      "gloss": "ndiza kumisa"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "ubukhosi"
+    },
+    {
+      "surface": "בית",
+      "gloss": "belo lase"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrayeli"
+    }
+  ],
+  "timestamp": "2026-09-18T17:40:57.551094850Z",
+  "model": "glm-5.3"
+}

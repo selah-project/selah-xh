@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 104:16",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 104,
+  "translation": "Zanelisekile iinkuni zikaYahwe, iedarhu zeLebanoni anizihlakileyo.",
+  "tokens": [
+    {
+      "surface": "ישבעו",
+      "gloss": "Zanelisekile"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "iinkuni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "zikaYahwe"
+    },
+    {
+      "surface": "ארזי",
+      "gloss": "iedarhu"
+    },
+    {
+      "surface": "לבנון",
+      "gloss": "zeLebanoni"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oku"
+    },
+    {
+      "surface": "נטע",
+      "gloss": "anizihlakileyo"
+    }
+  ],
+  "timestamp": "2026-09-18T17:45:37.151267317Z",
+  "model": "glm-5.3"
+}

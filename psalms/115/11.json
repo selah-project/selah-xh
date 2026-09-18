@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 115:11",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 115,
+  "translation": "Nina eniyamoyikayo uYahwe, thembelani kuYahwe: nguye uncedo lwabo nesikhoki sabo.",
+  "tokens": [
+    {
+      "surface": "יראי",
+      "gloss": "Nina eniyamoyikayo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "בטחו",
+      "gloss": "thembelani"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "kuYahwe"
+    },
+    {
+      "surface": "עזרם",
+      "gloss": "uncedo lwabo"
+    },
+    {
+      "surface": "ומגנם",
+      "gloss": "nesikhoki sabo"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "nguye"
+    }
+  ],
+  "timestamp": "2026-09-18T15:22:04.609437709Z",
+  "model": "glm-5.3"
+}

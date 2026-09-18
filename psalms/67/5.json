@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 67:5",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 67,
+  "translation": "Makuvuye makudumalale iilwimi, kuba uza kugweba abantu ngokulunga, waza iilwimi ezihlabathini uza kuzikhokhela. Selah.",
+  "tokens": [
+    {
+      "surface": "ישמחו",
+      "gloss": "makuvuye"
+    },
+    {
+      "surface": "וירננו",
+      "gloss": "makudumalale"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "iilwimi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "תשפט",
+      "gloss": "uza kugweba"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "מישור",
+      "gloss": "ngokulunga"
+    },
+    {
+      "surface": "ולאמים",
+      "gloss": "waza iilwimi"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ezihlabathini"
+    },
+    {
+      "surface": "תנחם",
+      "gloss": "uza kuzikhokhela"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-18T14:54:12.500401340Z",
+  "model": "glm-5.3"
+}

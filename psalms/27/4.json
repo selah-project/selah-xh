@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 27:4",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 27,
+  "translation": "Enye into ndiyicela kuYahwe ⟨מאת⟩; ⟨את⟩ yona ndiyifuna: ukuhlala endlwini kaYahwe yonke imihla yobomi bam, ukubona ubumnandi bukaYahwe, nokutyelela kuseni ethempeleni lakhe.",
+  "tokens": [
+    {
+      "surface": "אחת",
+      "gloss": "Enye"
+    },
+    {
+      "surface": "שאלתי",
+      "gloss": "ndiyicela"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "kuYahwe ⟨את⟩",
+      "marks": "kuYahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩ yona"
+    },
+    {
+      "surface": "אבקש",
+      "gloss": "ndiyifuna"
+    },
+    {
+      "surface": "שבתי",
+      "gloss": "ukuhlala"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "endlwini"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kaYahwe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yonke"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "imihla"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "yobomi bam"
+    },
+    {
+      "surface": "לחזות",
+      "gloss": "ukubona"
+    },
+    {
+      "surface": "בנעם",
+      "gloss": "ubumnandi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "bukaYahwe"
+    },
+    {
+      "surface": "ולבקר",
+      "gloss": "nokutyelela kuseni"
+    },
+    {
+      "surface": "בהיכלו",
+      "gloss": "ethempeleni lakhe"
+    }
+  ],
+  "timestamp": "2026-09-18T14:38:59.608274446Z",
+  "model": "glm-5.3"
+}

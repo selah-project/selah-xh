@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 5:10",
+  "book": "ecclesiastes",
+  "lang": "xh",
+  "chapter": 5,
+  "translation": "Ekwandiseni kolungileyo abadli bayo bayanda; yintoni inzuzo kumnikazi wayo, ngaphandle kokubona ngamehlo akhe?",
+  "tokens": [
+    {
+      "surface": "ברבות",
+      "gloss": "ekwandiseni"
+    },
+    {
+      "surface": "הטובה",
+      "gloss": "kolungileyo"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "bayanda"
+    },
+    {
+      "surface": "אוכליה",
+      "gloss": "abadli bayo"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "yintoni"
+    },
+    {
+      "surface": "כשרון",
+      "gloss": "inzuzo"
+    },
+    {
+      "surface": "לבעליה",
+      "gloss": "kumnikazi wayo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngaphandle"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kokukhona-"
+    },
+    {
+      "surface": "ראית",
+      "gloss": "ukubona"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "namehlo akhe"
+    }
+  ],
+  "timestamp": "2026-09-18T16:25:54.164045517Z",
+  "model": "glm-5.3"
+}

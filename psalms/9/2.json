@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 9:2",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 9,
+  "translation": "Ndiya kudumisa uYahwe ngentliziyo yam yonke; ndiza kubalisa ⟨ngo⟩ iimimangaliso zakho zonke.",
+  "tokens": [
+    {
+      "surface": "אודה",
+      "gloss": "ndiya kudumisa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ngayo yonke"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "intliziyo yam"
+    },
+    {
+      "surface": "אספרה",
+      "gloss": "ndiza kubalisa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zonke"
+    },
+    {
+      "surface": "נפלאותיך",
+      "gloss": "iimimangaliso zakho"
+    }
+  ],
+  "timestamp": "2026-09-18T14:32:13.132823138Z",
+  "model": "glm-5.3"
+}

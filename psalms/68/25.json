@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 68:25",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 68,
+  "translation": "Babona ⟨amanyathelo⟩ ako, uElohim, ⟨amanyathelo⟩ ka-El wam, inkosi yam, kwisigodlo.",
+  "tokens": [
+    {
+      "surface": "ראו",
+      "gloss": "babona"
+    },
+    {
+      "surface": "הליכותיך",
+      "gloss": "amanyathelo ako"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "הליכות",
+      "gloss": "amanyathelo"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ka-El wam"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "inkosi yam"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "kwisigodlo"
+    }
+  ],
+  "timestamp": "2026-09-18T17:44:54.996521103Z",
+  "model": "glm-5.3"
+}

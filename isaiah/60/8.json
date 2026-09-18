@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 60:8",
+  "book": "isaiah",
+  "lang": "xh",
+  "chapter": 60,
+  "translation": "Ngaba ngabo aba njengenephemhe bayazibhabhela, njengamajuba aza kwiifestile zawo?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "ngaba ngabo"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "aba"
+    },
+    {
+      "surface": "כעב",
+      "gloss": "njenegenephemhe"
+    },
+    {
+      "surface": "תעופינה",
+      "gloss": "bayazibhabhela"
+    },
+    {
+      "surface": "וכיונים",
+      "gloss": "njengamajuba"
+    },
+    {
+      "surface": "אל",
+      "gloss": "aza"
+    },
+    {
+      "surface": "ארבתיהם",
+      "gloss": "kwiifestile zawo"
+    }
+  ],
+  "timestamp": "2026-09-18T11:44:57.842078029Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 116:17",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 116,
+  "translation": "Kuwe ndiza kunikela umnikelo wokubulela, kwaye ngeGama likaYahwe ndiza kubiza.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "Kuwe"
+    },
+    {
+      "surface": "אזבח",
+      "gloss": "ndiza kunikela"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "umnikelo"
+    },
+    {
+      "surface": "תודה",
+      "gloss": "wokubulela"
+    },
+    {
+      "surface": "ובשם",
+      "gloss": "kwaye ngeGama"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "likaYahwe"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "ndiza kubiza"
+    }
+  ],
+  "timestamp": "2026-09-18T15:22:11.146755879Z",
+  "model": "glm-5.3"
+}

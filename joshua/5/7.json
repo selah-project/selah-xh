@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "joshua 5:7",
+  "book": "joshua",
+  "lang": "xh",
+  "chapter": 5,
+  "translation": "Kwaye ⟨את⟩ oonyana babo wabavusa endaweni yabo; ⟨את⟩ bona uYehoshuwa watyunjisa ⟨abatyunjisa⟩; kuba bebengatyunjiwe, kuba abazitunjanga endleleni.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "kwaye ⟨את⟩",
+      "marks": "oonyana babo"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "oonyana babo"
+    },
+    {
+      "surface": "הקים",
+      "gloss": "wabavusa"
+    },
+    {
+      "surface": "תחתם",
+      "gloss": "endaweni yabo"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ bona",
+      "marks": "abatyunjisa"
+    },
+    {
+      "surface": "מל",
+      "gloss": "watyunjisa"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "uYehoshuwa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "ערלים",
+      "gloss": "bebengatyunjiwe"
+    },
+    {
+      "surface": "היו",
+      "gloss": "bebé"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "לא",
+      "gloss": "a-"
+    },
+    {
+      "surface": "מלו",
+      "gloss": "-bazitunjanga"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ bona",
+      "marks": "endleleni"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "endleleni"
+    }
+  ],
+  "timestamp": "2026-09-18T08:29:50.407764868Z",
+  "model": "glm-5.3"
+}

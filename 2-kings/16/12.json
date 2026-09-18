@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 16:12",
+  "book": "2-kings",
+  "lang": "xh",
+  "chapter": 16,
+  "translation": "Inkosi yafika eDamesheki; inkosi yabona ⟨את⟩ ialtari; inkosi yasondela kwealtari, yenza umnikelo phezu kwayo.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "yafika"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "inkosi"
+    },
+    {
+      "surface": "מדמשק",
+      "gloss": "eDamesheki"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "yabona"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "inkosi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ialtari"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "ialtari"
+    },
+    {
+      "surface": "ויקרב",
+      "gloss": "yasondela"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "inkosi"
+    },
+    {
+      "surface": "על",
+      "gloss": "kwi-"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altari"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "yenza umnikelo"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "phezu kwayo"
+    }
+  ],
+  "timestamp": "2026-09-18T10:51:42.192623334Z",
+  "model": "glm-5.3"
+}

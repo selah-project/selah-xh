@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 54:4",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 54,
+  "translation": "uElohim, yiva ithandazo lam, ube nendlebe kwimizwa yomlomo wam.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "yiva"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "ithandazo lam"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "ube nendlebe"
+    },
+    {
+      "surface": "לאמרי",
+      "gloss": "kwimizwa"
+    },
+    {
+      "surface": "פי",
+      "gloss": "yomlomo wam"
+    }
+  ],
+  "timestamp": "2026-09-18T14:50:10.715153319Z",
+  "model": "glm-5.3"
+}

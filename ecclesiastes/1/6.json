@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 1:6",
+  "book": "ecclesiastes",
+  "lang": "xh",
+  "chapter": 1,
+  "translation": "Uhamba aya emazantsi, ajikelela aya emantla; ejikeleza, ejikeleza, uhamba umoya, kwaye kwiijikelele zalo umoya ubuyela.",
+  "tokens": [
+    {
+      "surface": "הולך",
+      "gloss": "uhamba"
+    },
+    {
+      "surface": "אל",
+      "gloss": "aya"
+    },
+    {
+      "surface": "דרום",
+      "gloss": "amazantsi"
+    },
+    {
+      "surface": "וסובב",
+      "gloss": "ajikelela"
+    },
+    {
+      "surface": "אל",
+      "gloss": "aya"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "amantla"
+    },
+    {
+      "surface": "סובב",
+      "gloss": "ejikeleza"
+    },
+    {
+      "surface": "סבב",
+      "gloss": "ejikeleza"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "uhamba"
+    },
+    {
+      "surface": "הרוח",
+      "gloss": "umoya"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "kwii-"
+    },
+    {
+      "surface": "סביבתיו",
+      "gloss": "ijikelele zalo"
+    },
+    {
+      "surface": "שב",
+      "gloss": "ubuyela"
+    },
+    {
+      "surface": "הרוח",
+      "gloss": "umoya"
+    }
+  ],
+  "timestamp": "2026-09-18T17:49:15.043096967Z",
+  "model": "glm-5.3"
+}

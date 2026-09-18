@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 43:8",
+  "book": "genesis",
+  "lang": "xh",
+  "chapter": 43,
+  "translation": "UYehuda wathi kuYisraele utata wakhe: “Msuthe lo mntwana ade ⟨את⟩ nam, sivuke sihambe, siphile singafi — thina, wena, neentsana zethu.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wathetha"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "uYehuda"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "uYisraele"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "utata wakhe"
+    },
+    {
+      "surface": "שלחה",
+      "gloss": "msuthe"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "lo mntwana"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ nam",
+      "marks": "lo mntwana ade nam"
+    },
+    {
+      "surface": "ונקומה",
+      "gloss": "sivuke"
+    },
+    {
+      "surface": "ונלכה",
+      "gloss": "sihambe"
+    },
+    {
+      "surface": "ונחיה",
+      "gloss": "siphile"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "singa-"
+    },
+    {
+      "surface": "נמות",
+      "gloss": "fi"
+    },
+    {
+      "surface": "גם",
+      "gloss": "nathi"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "thina"
+    },
+    {
+      "surface": "גם",
+      "gloss": "nawe"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "גם",
+      "gloss": "nane"
+    },
+    {
+      "surface": "טפנו",
+      "gloss": "iintsana zethu"
+    }
+  ],
+  "timestamp": "2026-09-18T05:43:12.791748744Z",
+  "model": "glm-5.3"
+}

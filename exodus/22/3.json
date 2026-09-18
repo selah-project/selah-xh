@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 22:3",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 22,
+  "translation": "Ukuba into esetyuliweyo ifunyanwe esandleni sakhe ephilileyo, ukusuka kwenkomo ukuya kwingamila ukuya kwigusha, uya kuhlawulela ngokuphindwe kabini.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Ukuba"
+    },
+    {
+      "surface": "המצא",
+      "gloss": "ifunyanwe"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "ngokwenene"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "esandleni sakhe"
+    },
+    {
+      "surface": "הגנבה",
+      "gloss": "into esetyuliweyo"
+    },
+    {
+      "surface": "משור",
+      "gloss": "kwenkomo"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ukusuka"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "kwingamila"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ukuya"
+    },
+    {
+      "surface": "שה",
+      "gloss": "kwigusha"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "ephilileyo"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ngokuphindwe kabini"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "uya kuhlawulela"
+    }
+  ],
+  "timestamp": "2026-09-18T06:10:48.004277075Z",
+  "model": "glm-5.3"
+}

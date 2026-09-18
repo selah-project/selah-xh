@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 100:1",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 100,
+  "translation": "Incwadi yesihobe sokubulela. Yibalani ngokuzama kuYahwe, lonke ihlabathi.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Incwadi yesihobe"
+    },
+    {
+      "surface": "לתודה",
+      "gloss": "sokubulela"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "Yibalani ngokuzama"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kuYahwe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lonke"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ihlabathi"
+    }
+  ],
+  "timestamp": "2026-09-18T15:14:14.804180605Z",
+  "model": "glm-5.3"
+}

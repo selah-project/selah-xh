@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 136:23",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 136,
+  "translation": "Owakhumbula thina ekuthotyeni kwethu, kuba ikhesedi yakhe ihlala phakade.",
+  "tokens": [
+    {
+      "surface": "שבשפלנו",
+      "gloss": "ekuthotyeni kwethu"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "Owakhumbula"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "thina"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ihlala phakade"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ikhesedi yakhe"
+    }
+  ],
+  "timestamp": "2026-09-18T15:29:45.335255032Z",
+  "model": "glm-5.3"
+}

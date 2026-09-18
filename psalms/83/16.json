@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 83:16",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 83,
+  "translation": "Njalo bazalaze ngesichotho sakho, ubahluphe ngesiphephu sakho.",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "njalo"
+    },
+    {
+      "surface": "תרדפם",
+      "gloss": "bazalaze"
+    },
+    {
+      "surface": "בסערך",
+      "gloss": "ngesichotho sakho"
+    },
+    {
+      "surface": "ובסופתך",
+      "gloss": "ngesiphephu sakho"
+    },
+    {
+      "surface": "תבהלם",
+      "gloss": "ubahluphe"
+    }
+  ],
+  "timestamp": "2026-09-18T15:04:24.038409921Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 27:7",
+  "book": "jeremiah",
+  "lang": "xh",
+  "chapter": 27,
+  "translation": "Zonke iintlanga ziya kumkhonza, kunye ne⟨את⟩ unyana wakhe kunye ne⟨את⟩ unyana wonyana wakhe, de kube kufike ixesha lolwakhe lwakhe nalo; iintlanga ezininzi neenkosi ezinkulu ziya kumkhonza yena.",
+  "tokens": [
+    {
+      "surface": "ועבדו",
+      "gloss": "ziya kumkhonza"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ yena",
+      "marks": "yena (uNevukhadnetsar)"
+    },
+    {
+      "surface": "כל",
+      "gloss": "Zonke"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "iintlanga"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kunye ne⟨את⟩",
+      "marks": "unyana wakhe"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "unyana wakhe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kunye ne⟨את⟩",
+      "marks": "unyana wonyana wakhe"
+    },
+    {
+      "surface": "בן",
+      "gloss": "unyana"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "wonyana wakhe"
+    },
+    {
+      "surface": "עד",
+      "gloss": "de kube"
+    },
+    {
+      "surface": "בא",
+      "gloss": "kufike"
+    },
+    {
+      "surface": "עת",
+      "gloss": "ixesha"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "lolwakhe lwakhe"
+    },
+    {
+      "surface": "גם",
+      "gloss": "nalo"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ngokwalo"
+    },
+    {
+      "surface": "ועבדו",
+      "gloss": "ziya kumkhonza"
+    },
+    {
+      "surface": "בו",
+      "gloss": "yena"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "iintlanga"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "ezininzi"
+    },
+    {
+      "surface": "ומלכים",
+      "gloss": "neenkosi"
+    },
+    {
+      "surface": "גדלים",
+      "gloss": "ezinkulu"
+    }
+  ],
+  "timestamp": "2026-09-18T12:17:31.378005157Z",
+  "model": "glm-5.3"
+}

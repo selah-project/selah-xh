@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 12:12",
+  "book": "genesis",
+  "lang": "xh",
+  "chapter": 12,
+  "translation": "Kwaye kuya kwaba njalo: xa amadoda aseMitsrayim ebona ⟨את⟩ wena, bathi: “Ngumfazi wale lo,” baze bandibulala ⟨את⟩ ndim, wena bakugcina ubomi.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "kwaye kuya kwaba njalo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "xa"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "ebona"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "wena"
+    },
+    {
+      "surface": "המצרים",
+      "gloss": "amadoda aseMitsrayim"
+    },
+    {
+      "surface": "ואמרו",
+      "gloss": "bathi"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "umfazi wakhe"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "lo"
+    },
+    {
+      "surface": "והרגו",
+      "gloss": "bandibulala"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "ndim"
+    },
+    {
+      "surface": "ואתך",
+      "gloss": "⟨את⟩",
+      "marks": "wena"
+    },
+    {
+      "surface": "יחיו",
+      "gloss": "bakugcina ubomi"
+    }
+  ],
+  "timestamp": "2026-09-18T05:13:09.386252582Z",
+  "model": "glm-5.3"
+}

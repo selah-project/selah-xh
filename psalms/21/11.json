@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 21:11",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 21,
+  "translation": "Umveliso wabo uza kuwutshabalalisa emhlabeni, nembewu yabo phakathi kwabantu.",
+  "tokens": [
+    {
+      "surface": "פרימו",
+      "gloss": "umveliso wabo"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "emhlabeni"
+    },
+    {
+      "surface": "תאבד",
+      "gloss": "uza kuwutshabalalisa"
+    },
+    {
+      "surface": "וזרעם",
+      "gloss": "nembewu yabo"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "phakathi kwabantwana"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "babantu"
+    }
+  ],
+  "timestamp": "2026-09-18T14:33:25.976712281Z",
+  "model": "glm-5.3"
+}

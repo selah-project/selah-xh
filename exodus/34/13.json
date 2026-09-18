@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 34:13",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 34,
+  "translation": "kuba iialtari zabo uza kuzidiliza ⟨את⟩ iialtari zabo, uza kuziphula ⟨את⟩ iipilara zabo, uza kuzisika ⟨את⟩ iiAshera zawo —",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iialtari zabo"
+    },
+    {
+      "surface": "מזבחתם",
+      "gloss": "iialtari zabo"
+    },
+    {
+      "surface": "תתצון",
+      "gloss": "uza kuzidiliza"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "iipilara zabo"
+    },
+    {
+      "surface": "מצבתם",
+      "gloss": "iipilara zabo"
+    },
+    {
+      "surface": "תשברון",
+      "gloss": "uza kuziphula"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "iiAshera zawo"
+    },
+    {
+      "surface": "אשריו",
+      "gloss": "iiAshera zawo"
+    },
+    {
+      "surface": "תכרתון",
+      "gloss": "uza kuzisika"
+    }
+  ],
+  "timestamp": "2026-09-18T06:22:54.560170974Z",
+  "model": "glm-5.3"
+}

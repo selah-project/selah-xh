@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 58:10",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 58,
+  "translation": "Phambi kokuba iinkomfa zenu zizaziwe amaqwili, njengenyama ekrwada njengenthalo evuthuzelayo, ⟨uza kuyikhuphela⟩ ngesiphephelo sokwenzakala.",
+  "tokens": [
+    {
+      "surface": "בטרם",
+      "gloss": "phambi kokuba"
+    },
+    {
+      "surface": "יבינו",
+      "gloss": "zizaziwe"
+    },
+    {
+      "surface": "סירתיכם",
+      "gloss": "iinkomfa zenu"
+    },
+    {
+      "surface": "אטד",
+      "gloss": "amaqwili"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "njenge"
+    },
+    {
+      "surface": "חי",
+      "gloss": "ekrwada"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "njenge"
+    },
+    {
+      "surface": "חרון",
+      "gloss": "evuthuzelayo"
+    },
+    {
+      "surface": "ישערנו",
+      "gloss": "uza kuyikhuphela"
+    }
+  ],
+  "timestamp": "2026-09-18T14:50:29.928642368Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "lamentations 3:7",
+  "book": "lamentations",
+  "lang": "xh",
+  "chapter": 3,
+  "translation": "Wandivalele ngodonga, ndingakwazi ukuphuma; wabenzisa intambo yam yethusi yanzima.",
+  "tokens": [
+    {
+      "surface": "גדר",
+      "gloss": "Wandivalele ngodonga"
+    },
+    {
+      "surface": "בעדי",
+      "gloss": ""
+    },
+    {
+      "surface": "ולא",
+      "gloss": "hayi"
+    },
+    {
+      "surface": "אצא",
+      "gloss": "ukuphuma"
+    },
+    {
+      "surface": "הכביד",
+      "gloss": "wabenzisa...yanzima"
+    },
+    {
+      "surface": "נחשתי",
+      "gloss": "intambo yam yethusi"
+    }
+  ],
+  "timestamp": "2026-09-18T16:20:32.260491780Z",
+  "model": "glm-5.3"
+}

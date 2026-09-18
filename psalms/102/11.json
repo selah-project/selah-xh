@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 102:11",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 102,
+  "translation": "Ngenxa yokrwada lwakho nolaka lwakho, kuba undiphakamisile, undalahlile.",
+  "tokens": [
+    {
+      "surface": "מפני",
+      "gloss": "Ngenxa yo-"
+    },
+    {
+      "surface": "זעמך",
+      "gloss": "krwada lwakho"
+    },
+    {
+      "surface": "וקצפך",
+      "gloss": "nolaka lwakho"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "נשאתני",
+      "gloss": "undiphakamisile"
+    },
+    {
+      "surface": "ותשליכני",
+      "gloss": "undalahlile"
+    }
+  ],
+  "timestamp": "2026-09-18T15:12:55.562024551Z",
+  "model": "glm-5.3"
+}

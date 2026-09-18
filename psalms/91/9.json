@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 91:9",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 91,
+  "translation": "Kuba wena, uYahwe, ungumkhosi wam; u-Elyoni wenzile indawo yakho yokuhlala.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kuba"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "מחסי",
+      "gloss": "ungumkhosi wam"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "u-Elyoni"
+    },
+    {
+      "surface": "שמת",
+      "gloss": "wenzile"
+    },
+    {
+      "surface": "מעונך",
+      "gloss": "indawo yakho yokuhlala"
+    }
+  ],
+  "timestamp": "2026-09-18T15:09:58.398852289Z",
+  "model": "glm-5.3"
+}

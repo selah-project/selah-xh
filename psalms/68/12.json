@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 68:12",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 68,
+  "translation": "U-Adonayi unika izwi; abazisa iindaba ⟨abasetyhini⟩ yimikhosi engenakubalwa.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "u-Adonayi"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "unika"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "izwi"
+    },
+    {
+      "surface": "המבשרות",
+      "gloss": "abazisa iindaba ⟨abasetyhini⟩"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "imikhosi"
+    },
+    {
+      "surface": "רב",
+      "gloss": "engenakubalwa"
+    }
+  ],
+  "timestamp": "2026-09-18T14:56:10.233924091Z",
+  "model": "glm-5.3"
+}

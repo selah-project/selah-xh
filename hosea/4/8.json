@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "hosea 4:8",
+  "book": "hosea",
+  "lang": "xh",
+  "chapter": 4,
+  "translation": "Isono sabantu bam bayasidla, yaye singengcolakho yabo bayaphakamisa umphefumlo wawo.",
+  "tokens": [
+    {
+      "surface": "חטאת",
+      "gloss": "isono"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "sabantu bam"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "bayasidla"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "yaye kwi-"
+    },
+    {
+      "surface": "עונם",
+      "gloss": "ingcolakho yabo"
+    },
+    {
+      "surface": "ישאו",
+      "gloss": "bayaphakamisa"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "umphefumlo wawo"
+    }
+  ],
+  "timestamp": "2026-09-18T13:43:35.005466478Z",
+  "model": "glm-5.3"
+}

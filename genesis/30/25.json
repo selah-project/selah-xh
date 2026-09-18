@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 30:25",
+  "book": "genesis",
+  "lang": "xh",
+  "chapter": 30,
+  "translation": "Waba ukuba uRakhel wazala ⟨את⟩ u-Yosef, u-Yaakov wathi kuLavan: “Ndithumele, ndiye kwindawo yam nakwilizwe lam.”",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Waba"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ukuba"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "wazala"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "uRakhel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "u-Yosef"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "u-Yosef"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "u-Yaakov"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "uLavan"
+    },
+    {
+      "surface": "שלחני",
+      "gloss": "Ndithumele"
+    },
+    {
+      "surface": "ואלכה",
+      "gloss": "ndiye"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwi"
+    },
+    {
+      "surface": "מקומי",
+      "gloss": "indawo yam"
+    },
+    {
+      "surface": "ולארצי",
+      "gloss": "nakwilizwe lam"
+    }
+  ],
+  "timestamp": "2026-09-18T05:27:17.593287694Z",
+  "model": "glm-5.3"
+}

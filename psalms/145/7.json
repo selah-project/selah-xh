@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 145:7",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 145,
+  "translation": "Ukukhumbula kobuninzi bobulungisa bakho baza kukuzalisa ngamazwi, ngobulungisa bakho baza kukucula ngentshabalala yoyolo.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "ukukhumbula"
+    },
+    {
+      "surface": "רב",
+      "gloss": "obuninzi"
+    },
+    {
+      "surface": "טובך",
+      "gloss": "bobulungisa bakho"
+    },
+    {
+      "surface": "יביעו",
+      "gloss": "baza kukuzalisa ngamazwi"
+    },
+    {
+      "surface": "וצדקתך",
+      "gloss": "ngobulungisa bakho"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "baza kukucula"
+    }
+  ],
+  "timestamp": "2026-09-18T17:45:54.182743315Z",
+  "model": "glm-5.3"
+}

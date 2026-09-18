@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 143:11",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 143,
+  "translation": "Ngenxa yegama lakho, uYahwe, ndiphe ubomi; ekulungenweni kwakho khuphela umphefumlo wam esixekexekeni.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "ngenxa"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "yegama lakho"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "תחיני",
+      "gloss": "ndiphe ubomi"
+    },
+    {
+      "surface": "בצדקתך",
+      "gloss": "ekulungenweni kwakho"
+    },
+    {
+      "surface": "תוציא",
+      "gloss": "khuphela"
+    },
+    {
+      "surface": "מצרה",
+      "gloss": "esixekexekeni"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "umphefumlo wam"
+    }
+  ],
+  "timestamp": "2026-09-18T17:45:21.099526218Z",
+  "model": "glm-5.3"
+}

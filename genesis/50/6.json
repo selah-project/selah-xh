@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 50:6",
+  "book": "genesis",
+  "lang": "xh",
+  "chapter": 50,
+  "translation": "Wathi uParo: “Nyuka, uzike ubawo, njengoko bakufungisela.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Wathi"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "uParo"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "Nyuka"
+    },
+    {
+      "surface": "וקבר",
+      "gloss": "uzike"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ubawo"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "ubawo"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "njengoko"
+    },
+    {
+      "surface": "השביעך",
+      "gloss": "bakufungisela"
+    }
+  ],
+  "timestamp": "2026-09-18T05:47:17.542746897Z",
+  "model": "glm-5.3"
+}

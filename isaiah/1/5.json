@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 1:5",
+  "book": "isaiah",
+  "lang": "xh",
+  "chapter": 1,
+  "translation": "Kutheni naqhubeka niyezelwa? Niyakongeza ukuphambuka: intloko yonke igula, intliziyo yonke indinala.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "kutheni"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ngowuphi"
+    },
+    {
+      "surface": "תכו",
+      "gloss": "niyezelwa"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "kananjalo"
+    },
+    {
+      "surface": "תוסיפו",
+      "gloss": "niyakongeza"
+    },
+    {
+      "surface": "סרה",
+      "gloss": "ukuphambuka"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yonke"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "intloko"
+    },
+    {
+      "surface": "לחלי",
+      "gloss": "igula"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "kwaye yonke"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "intliziyo"
+    },
+    {
+      "surface": "דוי",
+      "gloss": "indinala"
+    }
+  ],
+  "timestamp": "2026-09-18T11:00:53.517718107Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 55:6",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 55,
+  "translation": "Ukoyika nokududuma kungena kum, yaye ndaza ndagqunywa kukoyikiswa.",
+  "tokens": [
+    {
+      "surface": "יראה",
+      "gloss": "ukoyika"
+    },
+    {
+      "surface": "ורעד",
+      "gloss": "nokududuma"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "kungena"
+    },
+    {
+      "surface": "בי",
+      "gloss": "kum"
+    },
+    {
+      "surface": "ותכסני",
+      "gloss": "yaye ndagqunywa"
+    },
+    {
+      "surface": "פלצות",
+      "gloss": "kukoyikiswa"
+    }
+  ],
+  "timestamp": "2026-09-18T14:49:53.067381040Z",
+  "model": "glm-5.3"
+}

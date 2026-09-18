@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 40:3",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 40,
+  "translation": "Wandikhupha emgodini wengxwabo, emdabini wecacala; wamisa iinyawo zam sele, wazinza iindlela zam.",
+  "tokens": [
+    {
+      "surface": "ויעלני",
+      "gloss": "Wandikhupha"
+    },
+    {
+      "surface": "מבור",
+      "gloss": "emgodini"
+    },
+    {
+      "surface": "שאון",
+      "gloss": "wengxwabo"
+    },
+    {
+      "surface": "מטיט",
+      "gloss": "emdabini"
+    },
+    {
+      "surface": "היון",
+      "gloss": "wecacala"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "wamisa"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu"
+    },
+    {
+      "surface": "סלע",
+      "gloss": "kwisele"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "iinyawo zam"
+    },
+    {
+      "surface": "כונן",
+      "gloss": "wazinza"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "iindlela zam"
+    }
+  ],
+  "timestamp": "2026-09-18T14:44:28.128728406Z",
+  "model": "glm-5.3"
+}

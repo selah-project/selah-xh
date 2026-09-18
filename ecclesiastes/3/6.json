@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 3:6",
+  "book": "ecclesiastes",
+  "lang": "xh",
+  "chapter": 3,
+  "translation": "Ixesha lokufuna, nexesha lokulahla; ixesha lokugcina, nexesha lokutshoza.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "ixesha"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "lokufuna"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "nexesha"
+    },
+    {
+      "surface": "לאבד",
+      "gloss": "lokulahla"
+    },
+    {
+      "surface": "עת",
+      "gloss": "ixesha"
+    },
+    {
+      "surface": "לשמור",
+      "gloss": "lokugcina"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "nexesha"
+    },
+    {
+      "surface": "להשליך",
+      "gloss": "lokutshoza"
+    }
+  ],
+  "timestamp": "2026-09-18T16:23:29.706354558Z",
+  "model": "glm-5.3"
+}

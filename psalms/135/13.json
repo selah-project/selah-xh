@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 135:13",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 135,
+  "translation": "uYahwe, igama lakho lihlala ixesha elingaphelelanga; uYahwe, isikhumbuzo sakho sisele kwiinxaluphe nakwiinxaluphe.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "igama lakho"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ixesha elingaphelelanga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "זכרך",
+      "gloss": "isikhumbuzo sakho"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "kwiinxaluphe"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "nakwiinxaluphe"
+    }
+  ],
+  "timestamp": "2026-09-18T15:28:30.395709507Z",
+  "model": "glm-5.3"
+}

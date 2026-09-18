@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 17:12",
+  "book": "proverbs",
+  "lang": "xh",
+  "chapter": 17,
+  "translation": "Kudibane ibhere eshiyiwe yintsana yayo nomntu, ⟨kune⟩ ukudibana nesiphukuphukuni esibuhlalwini.",
+  "tokens": [
+    {
+      "surface": "פגוש",
+      "gloss": "ukudibana"
+    },
+    {
+      "surface": "דב",
+      "gloss": "ibhere"
+    },
+    {
+      "surface": "שכול",
+      "gloss": "eshiyiwe yintsana"
+    },
+    {
+      "surface": "באיש",
+      "gloss": "nomntu"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "kune"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "nesiphukuphukuni"
+    },
+    {
+      "surface": "באולתו",
+      "gloss": "esibuhlalwini"
+    }
+  ],
+  "timestamp": "2026-09-18T15:47:13.545596679Z",
+  "model": "glm-5.3"
+}

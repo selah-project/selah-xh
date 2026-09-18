@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 42:12",
+  "book": "genesis",
+  "lang": "xh",
+  "chapter": 42,
+  "translation": "Wathi kubo: “Hayi; nina niza ukubona ukungagqibekanga komhlaba.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "kubo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hayi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kunoko"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "ukungagqibekanga"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "komhlaba"
+    },
+    {
+      "surface": "באתם",
+      "gloss": "niza"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "ukubona"
+    }
+  ],
+  "timestamp": "2026-09-18T05:39:33.256559915Z",
+  "model": "glm-5.3"
+}

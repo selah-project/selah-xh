@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 3:12",
+  "book": "2-kings",
+  "lang": "xh",
+  "chapter": 3,
+  "translation": "Wathi uYehoshafati: “ILizwi likaYahwe likuye.” Bathe bathabatha umkhosi wakwaSirayeli noYehoshafati nomkumkani wakwaEdomu, bathabathela yena bathi behla baya kuye.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "uYehoshafati"
+    },
+    {
+      "surface": "יש",
+      "gloss": "likuye"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩",
+      "marks": "ilizwi"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ilizwi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "likaYahwe"
+    },
+    {
+      "surface": "וירדו",
+      "gloss": "bathe behla baya"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kuye"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ukumkani"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "wakwaSirayeli"
+    },
+    {
+      "surface": "ויהושפט",
+      "gloss": "noYehoshafati"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "nomkumkani"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "wakwaEdomu"
+    }
+  ],
+  "timestamp": "2026-09-18T10:37:35.649283828Z",
+  "model": "glm-5.3"
+}

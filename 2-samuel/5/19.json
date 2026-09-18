@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-samuel 5:19",
+  "book": "2-samuel",
+  "lang": "xh",
+  "chapter": 5,
+  "translation": "UDawidi wabuzisa kuYahwe, wathi: Ndingenela phezulu kumaFilisti, uzakunika into ezandleni zam? UYahwe wathi kuDawidi: Yingenela, kuba ndinika, ndiza kunika ⟨את⟩ amaFilisti ezandleni zakho.",
+  "tokens": [
+    {
+      "surface": "וישאל",
+      "gloss": "wabuzisa"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "uDawidi"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "kuYahwe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "האעלה",
+      "gloss": "ndingenela phezulu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "amaFilisti"
+    },
+    {
+      "surface": "התתנם",
+      "gloss": "uzakunika into"
+    },
+    {
+      "surface": "בידי",
+      "gloss": "ezandleni zam"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "uDawidi"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "yingenela"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ndinika"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "ndiza kunika"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amaFilisti"
+    },
+    {
+      "surface": "הפלשתים",
+      "gloss": "amaFilisti"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "ezandleni zakho"
+    }
+  ],
+  "timestamp": "2026-09-18T09:48:25.137999455Z",
+  "model": "glm-5.3"
+}

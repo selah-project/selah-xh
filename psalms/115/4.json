@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 115:4",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 115,
+  "translation": "Ezikhothamlilo zabo zingasilivere negolide, umsebenzi wezandla zabantu.",
+  "tokens": [
+    {
+      "surface": "עצביהם",
+      "gloss": "ezikhothamlilo zabo"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "silivere"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "negolide"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "umsebenzi"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "wezandla"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "zabantu"
+    }
+  ],
+  "timestamp": "2026-09-18T15:21:02.704146400Z",
+  "model": "glm-5.3"
+}

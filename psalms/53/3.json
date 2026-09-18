@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 53:3",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 53,
+  "translation": "U-Elohim usuka ezulwini wajongela ⟨phezu⟩ kwabantwana bomntu, ukubona ukuba ngaba kukho ulumkileyo, ozingela ⟨את⟩ uElohim.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "U-Elohim"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "usuka ezulwini"
+    },
+    {
+      "surface": "השקיף",
+      "gloss": "wajongela"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨phezu⟩"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abantwana"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "bomntu"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "ukubona"
+    },
+    {
+      "surface": "היש",
+      "gloss": "ukuba ngaba kukho"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "ulumkileyo"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "ozingela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uElohim"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "uElohim"
+    }
+  ],
+  "timestamp": "2026-09-18T14:50:18.077779374Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "deuteronomy 1:30",
+  "book": "deuteronomy",
+  "lang": "xh",
+  "chapter": 1,
+  "translation": "uYahwe uElohim wenu, ohamba phambi kwenu, yena uza kulwela nina, njengako konke anenzileyo ⟨את⟩ nini eMitsrayim emehweni enu;",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "uElohim wenu"
+    },
+    {
+      "surface": "ההלך",
+      "gloss": "ohamba"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "phambi kwenu"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yena"
+    },
+    {
+      "surface": "ילחם",
+      "gloss": "uza kulwela"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "nina"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "njengako konke"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oko"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "anenzileyo"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ nina"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "eMitsrayim"
+    },
+    {
+      "surface": "לעיניכם",
+      "gloss": "emehweni enu"
+    }
+  ],
+  "timestamp": "2026-09-18T07:52:02.504564022Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 1:10",
+  "book": "1-kings",
+  "lang": "xh",
+  "chapter": 1,
+  "translation": "kodwa ⟨את⟩ uNatani umprofethisi, noBenayahu, ⟨את⟩ amadoda enamandla, no⟨את⟩ uShelomo umnakwabo, akabizwanga.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "uNatani umprofethisi"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "uNatani"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "umprofethisi"
+    },
+    {
+      "surface": "ובניהו",
+      "gloss": "noBenayahu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "amadoda enamandla"
+    },
+    {
+      "surface": "הגבורים",
+      "gloss": "amadoda enamandla"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "uShelomo umnakwabo"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "uShelomo"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "umnakwabo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "akha-"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "-bizwanga"
+    }
+  ],
+  "timestamp": "2026-09-18T10:06:38.802879038Z",
+  "model": "glm-5.3"
+}

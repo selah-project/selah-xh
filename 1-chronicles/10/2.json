@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 10:2",
+  "book": "1-chronicles",
+  "lang": "xh",
+  "chapter": 10,
+  "translation": "Kwaza iPelishtim yamlandela ngokunzima uShawuli nakubantwana bakhe, kwaza iPelishtim yabetha ⟨את⟩ uYonathani ⟨ואת⟩ u-Avinadhabhi ⟨ואת⟩ uMalkishuha, oonyana kaShawuli.",
+  "tokens": [
+    {
+      "surface": "וידבקו",
+      "gloss": "yamlandela ngokunzima"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "iPelishtim"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "emva"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "uShawuli"
+    },
+    {
+      "surface": "ואחרי",
+      "gloss": "nakumva"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "bantwana bakhe"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "yabetha"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "iPelishtim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uYonathani"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "uYonathani"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "u-Avinadhabhi"
+    },
+    {
+      "surface": "אבינדב",
+      "gloss": "u-Avinadhabhi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "uMalkishuha"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "uMalki-"
+    },
+    {
+      "surface": "שוע",
+      "gloss": "-shuha"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oonyana"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "kaShawuli"
+    }
+  ],
+  "timestamp": "2026-09-18T16:54:45.134339019Z",
+  "model": "glm-5.3"
+}

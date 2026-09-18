@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 56:10",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 56,
+  "translation": "Ngoko iintshaba zam ziya kubuyela emva ngelixa ndibiza; oku ndiyakwazi, ukuba uElohim ngowam.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "ngoko"
+    },
+    {
+      "surface": "ישובו",
+      "gloss": "ziya kubuyela"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "iintshaba zam"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "emva"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ngelixa"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "ndibiza"
+    },
+    {
+      "surface": "זה",
+      "gloss": "oku"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "ndiyakwazi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ukuba"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ngowam"
+    }
+  ],
+  "timestamp": "2026-09-18T14:49:33.640311645Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "joshua 21:18",
+  "book": "joshua",
+  "lang": "xh",
+  "chapter": 21,
+  "translation": "⟨את⟩ i-Anathothi namasimi ayo, ⟨את⟩ i-Almoni namasimi ayo — iidolophu ezine.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i-Anathothi"
+    },
+    {
+      "surface": "ענתות",
+      "gloss": "i-Anathothi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ kwakunye",
+      "marks": "namasimi ayo"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "namasimi ayo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ kwakunye",
+      "marks": "i-Almoni"
+    },
+    {
+      "surface": "עלמון",
+      "gloss": "i-Almoni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ kwakunye",
+      "marks": "namasimi ayo"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "namasimi ayo"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "iidolophu"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "ezine"
+    }
+  ],
+  "timestamp": "2026-09-18T08:43:17.334350776Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 19:13",
+  "book": "leviticus",
+  "lang": "xh",
+  "chapter": 19,
+  "translation": "Ungazenzakalisi umakhwela wakho, ungazibi; umsebenzi womqeshiwa ungawenze ungahlali kuwe de ekuseni.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "unga-"
+    },
+    {
+      "surface": "תעשק",
+      "gloss": "zenzakalisi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umakhwela wakho"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "umakhwela wakho"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "uze ungazibi"
+    },
+    {
+      "surface": "תגזל",
+      "gloss": "zibi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "unga-"
+    },
+    {
+      "surface": "תלין",
+      "gloss": "enze ungahlali"
+    },
+    {
+      "surface": "פעלת",
+      "gloss": "umsebenzi"
+    },
+    {
+      "surface": "שכיר",
+      "gloss": "womqeshiwa"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ kuwe"
+    },
+    {
+      "surface": "עד",
+      "gloss": "de"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "ekuseni"
+    }
+  ],
+  "timestamp": "2026-09-18T06:57:43.309937971Z",
+  "model": "glm-5.3"
+}

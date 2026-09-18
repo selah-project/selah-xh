@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 13:21",
+  "book": "numbers",
+  "lang": "xh",
+  "chapter": 13,
+  "translation": "Bakhwela baye batyelela ⟨את⟩ umhlaba, ukusuka elaseTsin de kube kukuRejeb, ekungenweni kweKhamathi.",
+  "tokens": [
+    {
+      "surface": "ויעלו",
+      "gloss": "bakhwela"
+    },
+    {
+      "surface": "ויתרו",
+      "gloss": "batyelela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umhlaba"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "umhlaba"
+    },
+    {
+      "surface": "ממדבר",
+      "gloss": "elaseTsin"
+    },
+    {
+      "surface": "צן",
+      "gloss": "iTsin"
+    },
+    {
+      "surface": "עד",
+      "gloss": "de kube ku"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "kuRejeb"
+    },
+    {
+      "surface": "לבא",
+      "gloss": "ekungenweni"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "iKhamathi"
+    }
+  ],
+  "timestamp": "2026-09-18T17:23:47.090921980Z",
+  "model": "glm-5.3"
+}

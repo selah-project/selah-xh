@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 10:12",
+  "book": "genesis",
+  "lang": "xh",
+  "chapter": 10,
+  "translation": "⟨את⟩ noReseni, phakathi kweNinive nakweKelahi; le ⟨is⟩ idolophu enkulu.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "noReseni"
+    },
+    {
+      "surface": "רסן",
+      "gloss": "noReseni"
+    },
+    {
+      "surface": "בין",
+      "gloss": "phakathi kwe-"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "iNinive"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "nakwe-"
+    },
+    {
+      "surface": "כלח",
+      "gloss": "Kelahi"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "le"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "idolophu"
+    },
+    {
+      "surface": "הגדלה",
+      "gloss": "enkulu"
+    }
+  ],
+  "timestamp": "2026-09-18T05:11:46.515271424Z",
+  "model": "glm-5.3"
+}

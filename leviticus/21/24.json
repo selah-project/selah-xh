@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "leviticus 21:24",
+  "book": "leviticus",
+  "lang": "xh",
+  "chapter": 21,
+  "translation": "UMoshe wathetha ku-Aharon, nakubantwana bakhe, nakubo bonke abantwana bakwaYisra'el.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "wathetha"
+    },
+    {
+      "surface": "משה",
+      "gloss": "uMoshe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "naku"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "bantwana bakhe"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "nakubo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bonke"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abantwana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "bakwaYisra'el"
+    }
+  ],
+  "timestamp": "2026-09-18T07:00:24.080740494Z",
+  "model": "glm-5.3"
+}

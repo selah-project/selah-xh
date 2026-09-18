@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 7:15",
+  "book": "1-samuel",
+  "lang": "xh",
+  "chapter": 7,
+  "translation": "Kwaye uShemueli wagweba uSirayeli lonke imihla yokuphila kwakhe.",
+  "tokens": [
+    {
+      "surface": "וישפט",
+      "gloss": "wagweba"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "uShemueli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uSirayeli"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "uSirayeli"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lonke"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "imihla"
+    },
+    {
+      "surface": "חייו",
+      "gloss": "yokuphila kwakhe"
+    }
+  ],
+  "timestamp": "2026-09-18T09:15:59.991702592Z",
+  "model": "glm-5.3"
+}

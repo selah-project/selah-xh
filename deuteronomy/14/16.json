@@ -1,0 +1,35 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 14:16",
+  "book": "deuteronomy",
+  "lang": "xh",
+  "chapter": 14,
+  "translation": "⟨את⟩ i-kosi, ⟨את⟩ i-yanshufi, kunye ne-tinshemeti;",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i-kosi"
+    },
+    {
+      "surface": "הכוס",
+      "gloss": "i-kosi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "i-yanshufi"
+    },
+    {
+      "surface": "הינשוף",
+      "gloss": "i-yanshufi"
+    },
+    {
+      "surface": "והתנשמת",
+      "gloss": "kunye ne-tinshemeti"
+    }
+  ],
+  "timestamp": "2026-09-18T08:05:34.212470633Z",
+  "model": "glm-5.3"
+}

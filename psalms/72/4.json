@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 72:4",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 72,
+  "translation": "Agwebe abaswel' amehl' abantu, asindise abantwana basemva kolwandle kunye nabaswelayo, adabukise umgxabi.",
+  "tokens": [
+    {
+      "surface": "ישפט",
+      "gloss": "agwebe"
+    },
+    {
+      "surface": "עניי",
+      "gloss": "abaswel' amehl'"
+    },
+    {
+      "surface": "עם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "יושיע",
+      "gloss": "asindise"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "abantwana"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "abaswelayo"
+    },
+    {
+      "surface": "וידכא",
+      "gloss": "adabukise"
+    },
+    {
+      "surface": "עושק",
+      "gloss": "umgxabi"
+    }
+  ],
+  "timestamp": "2026-09-18T14:58:51.651941056Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 47:3",
+  "book": "isaiah",
+  "lang": "xh",
+  "chapter": 47,
+  "translation": "Ubutyoki bakho buya kumbonakala, nakwisithuko sakho siza kubonakala; ndiza kuthabatha ukuziphindela, andisayi kudibana nomntu.",
+  "tokens": [
+    {
+      "surface": "תגל",
+      "gloss": "kumbonakala"
+    },
+    {
+      "surface": "ערותך",
+      "gloss": "ubutyoki bakho"
+    },
+    {
+      "surface": "גם",
+      "gloss": "naki"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "kubonakala"
+    },
+    {
+      "surface": "חרפתך",
+      "gloss": "isithuko sakho"
+    },
+    {
+      "surface": "נקם",
+      "gloss": "ukuziphindela"
+    },
+    {
+      "surface": "אקח",
+      "gloss": "ndiza kuthabatha"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "andisayi"
+    },
+    {
+      "surface": "אפגע",
+      "gloss": "kudibana"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "nomntu"
+    }
+  ],
+  "timestamp": "2026-09-18T11:37:14.583522898Z",
+  "model": "glm-5.3"
+}

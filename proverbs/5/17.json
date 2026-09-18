@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 5:17",
+  "book": "proverbs",
+  "lang": "xh",
+  "chapter": 5,
+  "translation": "Makube ngowakho wedwa, kwaye makungabi nabangelani ⟨את⟩ kuwe.",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "makube"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ngowakho"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "wedwa"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "kwaye makungabi"
+    },
+    {
+      "surface": "לזרים",
+      "gloss": "nabangelani"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ kuwe",
+      "marks": "kuwe"
+    }
+  ],
+  "timestamp": "2026-09-18T15:38:30.876389850Z",
+  "model": "glm-5.3"
+}

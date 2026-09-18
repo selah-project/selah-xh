@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "joshua 9:20",
+  "book": "joshua",
+  "lang": "xh",
+  "chapter": 9,
+  "translation": "Oku kwenza kubo: siza kubaphilisa ⟨את⟩, ukuze ulweso lungabi phezu kethu ngenxa yesifungo esazifungela kubo.”",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "Oku"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "kwenza"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kubo"
+    },
+    {
+      "surface": "והחיה",
+      "gloss": "siza kubaphilisa"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "bona (abaGivhoni)"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "lungabi"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "—"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "phezu kethu"
+    },
+    {
+      "surface": "קצף",
+      "gloss": "ulweso"
+    },
+    {
+      "surface": "על",
+      "gloss": "ngenxa"
+    },
+    {
+      "surface": "השבועה",
+      "gloss": "yesifungo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "esa"
+    },
+    {
+      "surface": "נשבענו",
+      "gloss": "zifungela"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kubo"
+    }
+  ],
+  "timestamp": "2026-09-18T08:32:34.654661970Z",
+  "model": "glm-5.3"
+}

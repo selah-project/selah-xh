@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 37:20",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 37,
+  "translation": "Kuba amashologwa aya kutshononxa, yaye oorhanyelwa bukaYahwe njengobukhosi beewulu bathe mba — njengomusi bathe mba.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kuba"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "amashologwa"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "aya kutshononxa"
+    },
+    {
+      "surface": "ואיבי",
+      "gloss": "yaye oorhanyelwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "bukaYahwe"
+    },
+    {
+      "surface": "כיקר",
+      "gloss": "njengobukhosi"
+    },
+    {
+      "surface": "כרים",
+      "gloss": "beewulu"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "bathe mba"
+    },
+    {
+      "surface": "בעשן",
+      "gloss": "njengomusi"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "bathe mba"
+    }
+  ],
+  "timestamp": "2026-09-18T14:43:13.651159757Z",
+  "model": "glm-5.3"
+}

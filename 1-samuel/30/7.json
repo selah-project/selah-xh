@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 30:7",
+  "book": "1-samuel",
+  "lang": "xh",
+  "chapter": 30,
+  "translation": "UDawidi wathetha ku-Abiyathar umbingeleli, unyana ka-Ahimelekhi, wathi: “Ndiyacela zisa kum ⟨the⟩ i-efodi.” U-Abiyathar wasisa ⟨את⟩ i-efodi kuDawidi.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wathetha"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "uDawidi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "אביתר",
+      "gloss": "u-Abiyathar"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "umbingeleli"
+    },
+    {
+      "surface": "בן",
+      "gloss": "unyana"
+    },
+    {
+      "surface": "אחימלך",
+      "gloss": "ka-Ahimelekhi"
+    },
+    {
+      "surface": "הגישה",
+      "gloss": "zisa"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ndiyacela"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kum"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "i-efodi"
+    },
+    {
+      "surface": "ויגש",
+      "gloss": "wasisa"
+    },
+    {
+      "surface": "אביתר",
+      "gloss": "u-Abiyathar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i-efodi"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "i-efodi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "uDawidi"
+    }
+  ],
+  "timestamp": "2026-09-18T09:39:32.809973926Z",
+  "model": "glm-5.3"
+}

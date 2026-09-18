@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 38:16",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 38,
+  "translation": "Kuba kuwe, uYahwe, ndilindele; nguwe uza kuphendula, u-Adonayi uElohim wam.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kuba"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kuwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "הוחלתי",
+      "gloss": "ndilindele"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "nguwe"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "uza kuphendula"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "u-Adonayi"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "uElohim wam"
+    }
+  ],
+  "timestamp": "2026-09-18T14:44:04.426671629Z",
+  "model": "glm-5.3"
+}

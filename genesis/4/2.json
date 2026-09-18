@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 4:2",
+  "book": "genesis",
+  "lang": "xh",
+  "chapter": 4,
+  "translation": "Wongeze ukuzala umnakwabo uHevel; waba uHevel umalusi wezimvu, yaye uKayin wayengumlimi womhlaba.",
+  "tokens": [
+    {
+      "surface": "ותסף",
+      "gloss": "wongeze"
+    },
+    {
+      "surface": "ללדת",
+      "gloss": "ukuzala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umnakwabo"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "umnakwabo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uHevel"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "uHevel"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "waba"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "uHevel"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "umalusi"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "wezimvu"
+    },
+    {
+      "surface": "וקין",
+      "gloss": "yaye uKayin"
+    },
+    {
+      "surface": "היה",
+      "gloss": "wayengu-"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "umlimi"
+    },
+    {
+      "surface": "אדמה",
+      "gloss": "womhlaba"
+    }
+  ],
+  "timestamp": "2026-09-18T05:08:18.819433901Z",
+  "model": "glm-5.3"
+}

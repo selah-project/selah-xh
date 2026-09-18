@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-kings 9:9",
+  "book": "2-kings",
+  "lang": "xh",
+  "chapter": 9,
+  "translation": "Ndiza kwenza ⟨את⟩ indlu kaAhab njengendlu kaYarobam unyana kaNebat, najengendlu kaBaasha unyana kaAhiya.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "ndiza kwenza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "indlu kaAhab"
+    },
+    {
+      "surface": "בית",
+      "gloss": "indlu"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "kaAhab"
+    },
+    {
+      "surface": "כבית",
+      "gloss": "njengendlu"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "kaYarobam"
+    },
+    {
+      "surface": "בן",
+      "gloss": "unyana"
+    },
+    {
+      "surface": "נבט",
+      "gloss": "kaNebat"
+    },
+    {
+      "surface": "וכבית",
+      "gloss": "najengendlu"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "kaBaasha"
+    },
+    {
+      "surface": "בן",
+      "gloss": "unyana"
+    },
+    {
+      "surface": "אחיה",
+      "gloss": "kaAhiya"
+    }
+  ],
+  "timestamp": "2026-09-18T10:45:08.664306334Z",
+  "model": "glm-5.3"
+}

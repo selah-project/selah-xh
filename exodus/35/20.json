@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 35:20",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 35,
+  "translation": "Yaphuma yonke iqela labantwana bakwa-Israyeli phambi koMoshe.",
+  "tokens": [
+    {
+      "surface": "ויצאו",
+      "gloss": "yaphuma"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yonke"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "iqela"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abantwana bakwa-"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israyeli"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "phambi ko-"
+    },
+    {
+      "surface": "משה",
+      "gloss": "uMoshe"
+    }
+  ],
+  "timestamp": "2026-09-18T06:23:54.711837474Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 9:11",
+  "book": "isaiah",
+  "lang": "xh",
+  "chapter": 9,
+  "translation": "IAram ngasempuma, neFulishtim ngasemva; batya ⟨את⟩ uIsrayeli ngomlomo wonke. Nangako konke ulaka lwakhe alubuyanga, kodwa isandla sakhe sichaziwe kananjalo.",
+  "tokens": [
+    {
+      "surface": "ארם",
+      "gloss": "iAram"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "ngasempuma"
+    },
+    {
+      "surface": "ופלשתים",
+      "gloss": "neFulishtim"
+    },
+    {
+      "surface": "מאחור",
+      "gloss": "ngasemva"
+    },
+    {
+      "surface": "ויאכלו",
+      "gloss": "batya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uIsrayeli"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "uIsrayeli"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ngomlomo wonke"
+    },
+    {
+      "surface": "פה",
+      "gloss": "ngomlomo wonke"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "nangako konke"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "nangako konke"
+    },
+    {
+      "surface": "לא",
+      "gloss": "alubuyanga"
+    },
+    {
+      "surface": "שב",
+      "gloss": "alubuyanga"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "ulaka lwakhe"
+    },
+    {
+      "surface": "ועוד",
+      "gloss": "kananjalo"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "isandla sakhe"
+    },
+    {
+      "surface": "נטויה",
+      "gloss": "sichaziwe"
+    }
+  ],
+  "timestamp": "2026-09-18T11:09:52.612189373Z",
+  "model": "glm-5.3"
+}

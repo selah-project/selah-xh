@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "esther 8:6",
+  "book": "esther",
+  "lang": "xh",
+  "chapter": 8,
+  "translation": "kuba ndingakwazi njani ukubona imbi engagala kubantu bakam? yaye ndingakwazi njani ukubona ukutshatyalaliswa kolwaphelwano lwam?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "איככה",
+      "gloss": "njani"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "ndingakwazi"
+    },
+    {
+      "surface": "וראיתי",
+      "gloss": "ukubona"
+    },
+    {
+      "surface": "ברעה",
+      "gloss": "imbi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "engagala"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "ifumana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isizwe sam"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "isizwe sam"
+    },
+    {
+      "surface": "ואיככה",
+      "gloss": "yaye njani"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "ndingakwazi"
+    },
+    {
+      "surface": "וראיתי",
+      "gloss": "ukubona"
+    },
+    {
+      "surface": "באבדן",
+      "gloss": "ukutshatyalaliswa"
+    },
+    {
+      "surface": "מולדתי",
+      "gloss": "ulwaphelwano lwam"
+    }
+  ],
+  "timestamp": "2026-09-18T16:31:03.095200019Z",
+  "model": "glm-5.3"
+}

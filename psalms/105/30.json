@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 105:30",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 105,
+  "translation": "Umhlaba wabo wazala ngokuninzi iintulube, nakwiigumbi zamakhosi abo.",
+  "tokens": [
+    {
+      "surface": "שרץ",
+      "gloss": "wazala ngokuninzi"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "umhlaba wabo"
+    },
+    {
+      "surface": "צפרדעים",
+      "gloss": "iintulube"
+    },
+    {
+      "surface": "בחדרי",
+      "gloss": "nakwiigumbi"
+    },
+    {
+      "surface": "מלכיהם",
+      "gloss": "zamakhosi abo"
+    }
+  ],
+  "timestamp": "2026-09-18T15:18:24.777390800Z",
+  "model": "glm-5.3"
+}

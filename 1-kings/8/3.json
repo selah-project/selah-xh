@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 8:3",
+  "book": "1-kings",
+  "lang": "xh",
+  "chapter": 8,
+  "translation": "Baza befika onke oodala bakaYisrayeli, baza bethwala abapristi ⟨את⟩ iarke.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "baza befika"
+    },
+    {
+      "surface": "כל",
+      "gloss": "onke"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "oodala"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "bakaYisrayeli"
+    },
+    {
+      "surface": "וישאו",
+      "gloss": "baza bethwala"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "abapristi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iarke"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "iarke"
+    }
+  ],
+  "timestamp": "2026-09-18T10:19:01.535957955Z",
+  "model": "glm-5.3"
+}

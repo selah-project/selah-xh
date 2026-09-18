@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 13:15",
+  "book": "2-kings",
+  "lang": "xh",
+  "chapter": 13,
+  "translation": "Wathi u-Elisha kuye: “Thabatha isiphepho neentolo.” Wathabathela yena isiphepho neentolo.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Wathi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kuye"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "u-Elisha"
+    },
+    {
+      "surface": "קח",
+      "gloss": "Thabatha"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "isiphepho"
+    },
+    {
+      "surface": "וחצים",
+      "gloss": "neentolo"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "Wathabathela"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kuye"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "isiphepho"
+    },
+    {
+      "surface": "וחצים",
+      "gloss": "neentolo"
+    }
+  ],
+  "timestamp": "2026-09-18T10:47:55.090930608Z",
+  "model": "glm-5.3"
+}

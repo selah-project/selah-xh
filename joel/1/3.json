@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joel 1:3",
+  "book": "joel",
+  "lang": "xh",
+  "chapter": 1,
+  "translation": "Malunga nayo niiyalele kwiinanakazi zenu, iinanakazi zenu mazidlulisele kwiinanakazi zazo, iinanakazi zabo kwolo lakwenzelwalo.",
+  "tokens": [
+    {
+      "surface": "עליה",
+      "gloss": "malunga nayo"
+    },
+    {
+      "surface": "לבניכם",
+      "gloss": "kwiinanakazi zenu"
+    },
+    {
+      "surface": "ספרו",
+      "gloss": "niiyalele"
+    },
+    {
+      "surface": "ובניכם",
+      "gloss": "iinanakazi zenu"
+    },
+    {
+      "surface": "לבניהם",
+      "gloss": "kwiinanakazi zazo"
+    },
+    {
+      "surface": "ובניהם",
+      "gloss": "iinanakazi zabo"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "kwo"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "lakwenzelwalo"
+    }
+  ],
+  "timestamp": "2026-09-18T17:41:57.494409651Z",
+  "model": "glm-5.3"
+}

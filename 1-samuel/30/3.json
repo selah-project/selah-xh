@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 30:3",
+  "book": "1-samuel",
+  "lang": "xh",
+  "chapter": 30,
+  "translation": "Wafika uDavide namadoda aye emzini, waza wathi nathi, wawutshixelwe ngumhlilo; abafazi abo, oonyana babo neentombi babo babethwa ngobunhlobo.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "Wafika"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "uDavide"
+    },
+    {
+      "surface": "ואנשיו",
+      "gloss": "namadoda aye"
+    },
+    {
+      "surface": "אל",
+      "gloss": "emzini"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "(umzi)"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "waza wathi nathi"
+    },
+    {
+      "surface": "שרופה",
+      "gloss": "wawutshixelwe"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ngumhlilo"
+    },
+    {
+      "surface": "ונשיהם",
+      "gloss": "abafazi abo"
+    },
+    {
+      "surface": "ובניהם",
+      "gloss": "oonyana babo"
+    },
+    {
+      "surface": "ובנתיהם",
+      "gloss": "neentombi babo"
+    },
+    {
+      "surface": "נשבו",
+      "gloss": "babethwa ngobunhlobo"
+    }
+  ],
+  "timestamp": "2026-09-18T09:40:31.990033653Z",
+  "model": "glm-5.3"
+}

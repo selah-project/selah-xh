@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 105:35",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 105,
+  "translation": "Zatya utyani bonke elizweni labo, zatya isiqhamo solo hlabathini lwabo.",
+  "tokens": [
+    {
+      "surface": "ויאכל",
+      "gloss": "zatya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bonke"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "utyani"
+    },
+    {
+      "surface": "בארצם",
+      "gloss": "elizweni labo"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "zatya"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "isiqhamo"
+    },
+    {
+      "surface": "אדמתם",
+      "gloss": "solo hlabathini lwabo"
+    }
+  ],
+  "timestamp": "2026-09-18T15:16:17.163375473Z",
+  "model": "glm-5.3"
+}

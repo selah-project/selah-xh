@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 32:1",
+  "book": "isaiah",
+  "lang": "xh",
+  "chapter": 32,
+  "translation": "Yabonani, ikumkani ngobulungisa iya kubusa, nabalawuli ngokwahlulela baza kubusa.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Yabonani"
+    },
+    {
+      "surface": "לצדק",
+      "gloss": "ngobulungisa"
+    },
+    {
+      "surface": "ימלך",
+      "gloss": "iya kubusa"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ikumkani"
+    },
+    {
+      "surface": "ולשרים",
+      "gloss": "nabalawuli"
+    },
+    {
+      "surface": "למשפט",
+      "gloss": "ngokwahlulela"
+    },
+    {
+      "surface": "ישרו",
+      "gloss": "baza kubusa"
+    }
+  ],
+  "timestamp": "2026-09-18T11:21:39.247734279Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 12:14",
+  "book": "genesis",
+  "lang": "xh",
+  "chapter": 12,
+  "translation": "Kwathi xa u-Avraham efika eMitsrayim, amaMitsrayim abona ⟨את⟩ ⟨the⟩ umfazi, kuba yena uhle kakhulu.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "kwathi"
+    },
+    {
+      "surface": "כבוא",
+      "gloss": "xa efika"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "u-Avraham"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "eMitsrayim"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "abona"
+    },
+    {
+      "surface": "המצרים",
+      "gloss": "amaMitsrayim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umfazi"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "umfazi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "uhle"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yena"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "kakhulu"
+    }
+  ],
+  "timestamp": "2026-09-18T05:12:46.026617303Z",
+  "model": "glm-5.3"
+}

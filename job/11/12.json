@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 11:12",
+  "book": "job",
+  "lang": "xh",
+  "chapter": 11,
+  "translation": "Kodwa umntu ogcweleize ⟨esingenanto⟩ uza kutbalulela; xa inane yenkonyane yendle ilizalelwa umntu.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "kodwa umntu"
+    },
+    {
+      "surface": "נבוב",
+      "gloss": "esingenanto ngaphakathi"
+    },
+    {
+      "surface": "ילבב",
+      "gloss": "uza kutbalulela"
+    },
+    {
+      "surface": "ועיר",
+      "gloss": "inane"
+    },
+    {
+      "surface": "פרא",
+      "gloss": "yenkonyane yendle"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "umntu"
+    },
+    {
+      "surface": "יולד",
+      "gloss": "ilizalelwa"
+    }
+  ],
+  "timestamp": "2026-09-18T16:03:26.784310541Z",
+  "model": "glm-5.3"
+}

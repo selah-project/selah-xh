@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 23:1",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 23,
+  "translation": "Ingoma kaDawide. uYahwe ngumalusi wam; andiyi kuswela.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "ingoma"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "kaDawide"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "רעי",
+      "gloss": "ngumalusi wam"
+    },
+    {
+      "surface": "לא",
+      "gloss": "andi"
+    },
+    {
+      "surface": "אחסר",
+      "gloss": "yi kuswela"
+    }
+  ],
+  "timestamp": "2026-09-18T14:35:59.449926598Z",
+  "model": "glm-5.3"
+}

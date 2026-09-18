@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 117:2",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 117,
+  "translation": "Kuba ikhesedi lakhe yomelele ngaphezu kwethu, inyaniso kaYahwe ithi hayi isoze iphele. Dumisani uYah.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kuba"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "yomelele"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "ngaphezu kwethu"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ikhesedi lakhe"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "inyaniso"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kaYahwe"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "phakade"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "Dumisani"
+    },
+    {
+      "surface": "יה",
+      "gloss": "uYah"
+    }
+  ],
+  "timestamp": "2026-09-18T15:21:41.428283587Z",
+  "model": "glm-5.3"
+}

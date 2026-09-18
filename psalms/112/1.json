@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 112:1",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 112,
+  "translation": "Dumisani uYah! Ulonwabo lumhlabathi umntu oyesaba uYahwe, othanda kakhulu imiyalelo yakhe.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Dumisani"
+    },
+    {
+      "surface": "יה",
+      "gloss": "uYah"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "Ulonwabo lumhlabathi"
+    },
+    {
+      "surface": "איש",
+      "gloss": "umntu"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "oyesaba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uYahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "במצותיו",
+      "gloss": "imiyalelo yakhe"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "othanda"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "kakhulu"
+    }
+  ],
+  "timestamp": "2026-09-18T15:19:46.569942191Z",
+  "model": "glm-5.3"
+}

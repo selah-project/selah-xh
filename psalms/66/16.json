@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 66:16",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 66,
+  "translation": "Yizani, nivule amadlebe, nonke enoyilelo kuElohim, ndiza kunixelela oko awenzela umphefumlo wam.",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "Yizani"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "nivule amadlebe"
+    },
+    {
+      "surface": "ואספרה",
+      "gloss": "ndiza kunixelela"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nonke"
+    },
+    {
+      "surface": "יראי",
+      "gloss": "enoyilelo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "kuElohim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oko"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "awenzela"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "umphefumlo wam"
+    }
+  ],
+  "timestamp": "2026-09-18T14:53:59.943592427Z",
+  "model": "glm-5.3"
+}

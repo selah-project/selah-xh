@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 25:31",
+  "book": "genesis",
+  "lang": "xh",
+  "chapter": 25,
+  "translation": "Wathi uYa'akov: “Thengisa namhlanje ⟨את⟩ ilungelo lokuzalwa kuqala kum.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "uYa'akov"
+    },
+    {
+      "surface": "מכרה",
+      "gloss": "thengisa"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "namhlanje"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ilungelo lokuzalwa kuqala"
+    },
+    {
+      "surface": "בכרתך",
+      "gloss": "ilungelo lokuzalwa kuqala"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kum"
+    }
+  ],
+  "timestamp": "2026-09-18T05:23:04.059416232Z",
+  "model": "glm-5.3"
+}

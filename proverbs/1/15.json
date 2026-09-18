@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 1:15",
+  "book": "proverbs",
+  "lang": "xh",
+  "chapter": 1,
+  "translation": "Mntanam, musa ukuhamba ⟨את⟩ nabo endleleni yabo; thintela unyawo lwakho ekumendeni wabo:",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Mntanam"
+    },
+    {
+      "surface": "אל",
+      "gloss": "musa"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "ukuhamba"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "endleleni"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ nabo",
+      "marks": "nabo"
+    },
+    {
+      "surface": "מנע",
+      "gloss": "thintela"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "unyawo lwakho"
+    },
+    {
+      "surface": "מנתיבתם",
+      "gloss": "ekumendeni wabo"
+    }
+  ],
+  "timestamp": "2026-09-18T15:35:38.112291127Z",
+  "model": "glm-5.3"
+}

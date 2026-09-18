@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "joshua 21:36",
+  "book": "joshua",
+  "lang": "xh",
+  "chapter": 21,
+  "translation": "Kwaye ukusuka komthetho wesizwe sikaReuvhene: ⟨את⟩ iBetseri kunye ⟨את⟩ nemigresha yayo, ⟨את⟩ iYahatsa kunye ⟨את⟩ nemigresha yayo.",
+  "tokens": [
+    {
+      "surface": "וממטה",
+      "gloss": "kwaye ukusuka komthetho wesizwe"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "sikaReuvhene"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iBetseri"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "iBetseri"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kunye ⟨את⟩ ne-",
+      "marks": "imigresha yayo"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "imigresha yayo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kunye ⟨את⟩ ne-",
+      "marks": "iYahatsa"
+    },
+    {
+      "surface": "יהצה",
+      "gloss": "iYahatsa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kunye ⟨את⟩ ne-",
+      "marks": "imigresha yayo"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "imigresha yayo"
+    }
+  ],
+  "timestamp": "2026-09-18T08:42:45.680366860Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-kings 9:14",
+  "book": "2-kings",
+  "lang": "xh",
+  "chapter": 9,
+  "translation": "Wacwangcisa uYehu, unyana kaYehoshafati, unyana kaNimshi, ngokuchasene noYowrami; uYowlami waye egcina iRamothi yaseGileyadi, yena nabo bonke abakwaSirayeli, ngenxa yasekuChazaeli, inkosi kaAram.",
+  "tokens": [
+    {
+      "surface": "ויתקשר",
+      "gloss": "wacwangcisa"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "uYehu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "unyana"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "kaYehoshafati"
+    },
+    {
+      "surface": "בן",
+      "gloss": "unyana"
+    },
+    {
+      "surface": "נמשי",
+      "gloss": "kaNimshi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ngokuchasene no-"
+    },
+    {
+      "surface": "יורם",
+      "gloss": "uYowrami"
+    },
+    {
+      "surface": "ויורם",
+      "gloss": "uYowlami"
+    },
+    {
+      "surface": "היה",
+      "gloss": "waye"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "egcina"
+    },
+    {
+      "surface": "ברמת",
+      "gloss": "iRamothi"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "yaseGileyadi"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yena"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "nabo bonke"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "abakwaSirayeli"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "ngenxa yase-"
+    },
+    {
+      "surface": "חזאל",
+      "gloss": "kuChazaeli"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "inkosi"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "kaAram"
+    }
+  ],
+  "timestamp": "2026-09-18T10:45:27.891555441Z",
+  "model": "glm-5.3"
+}

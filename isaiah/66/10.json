@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 66:10",
+  "book": "isaiah",
+  "lang": "xh",
+  "chapter": 66,
+  "translation": "Vuyani ⟨את⟩ iYerushalayimi, nivakalise ulonwabo ngayo, onke abayithandayo; vuyani ⟨את⟩ yona ngovuyo, onke abalila ngayo.",
+  "tokens": [
+    {
+      "surface": "שמחו",
+      "gloss": "Vuyani"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iYerushalayimi"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "iYerushalayimi"
+    },
+    {
+      "surface": "וגילו",
+      "gloss": "nivakalise ulonwabo"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ngayo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "onke"
+    },
+    {
+      "surface": "אהביה",
+      "gloss": "abayithandayo"
+    },
+    {
+      "surface": "שישו",
+      "gloss": "vuyani"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ yona"
+    },
+    {
+      "surface": "משוש",
+      "gloss": "ngovuyo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "onke"
+    },
+    {
+      "surface": "המתאבלים",
+      "gloss": "abalila"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "ngayo"
+    }
+  ],
+  "timestamp": "2026-09-18T11:49:47.205643888Z",
+  "model": "glm-5.3"
+}

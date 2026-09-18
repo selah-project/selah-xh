@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 23:16",
+  "book": "deuteronomy",
+  "lang": "xh",
+  "chapter": 23,
+  "translation": "Musa ukuzisela isicaka kuNkosi yaso, osindile waza kuwe, eqhamsha kwiNkosi yaso.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "musa"
+    },
+    {
+      "surface": "תסגיר",
+      "gloss": "ukuzisela"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "isicaka"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "Nkosi yaso"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "olo"
+    },
+    {
+      "surface": "ינצל",
+      "gloss": "osindile"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kuwe"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "eqhamsha"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "Nkosi yaso"
+    }
+  ],
+  "timestamp": "2026-09-18T08:15:39.691764351Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 37:12",
+  "book": "genesis",
+  "lang": "xh",
+  "chapter": 37,
+  "translation": "Aza ke umakhwabo bahambele ukusingela ⟨את⟩ iinkomo zikayise eShekhem.",
+  "tokens": [
+    {
+      "surface": "וילכו",
+      "gloss": "bahambele"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "umakhwabo"
+    },
+    {
+      "surface": "לרעות",
+      "gloss": "ukusingela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iinkomo"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "iinkomo"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "zikayise"
+    },
+    {
+      "surface": "בשכם",
+      "gloss": "eShekhem"
+    }
+  ],
+  "timestamp": "2026-09-18T05:32:35.196525714Z",
+  "model": "glm-5.3"
+}

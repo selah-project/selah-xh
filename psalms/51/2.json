@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 51:2",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 51,
+  "translation": "Xa uNatane, umprofeti, efika kuye, emva kokuba engene kum kaBhati-Shewa.",
+  "tokens": [
+    {
+      "surface": "בבוא",
+      "gloss": "Xa...efika"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kuye"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "uNatane"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "umprofeti"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "emva kokuba"
+    },
+    {
+      "surface": "בא",
+      "gloss": "engene"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "בת",
+      "gloss": "um kaBhati"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "-Shewa"
+    }
+  ],
+  "timestamp": "2026-09-18T14:49:24.143189414Z",
+  "model": "glm-5.3"
+}

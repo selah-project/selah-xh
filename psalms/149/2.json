@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 149:2",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 149,
+  "translation": "IYisrayeli makhazululi kuMenzi waso, oonyana beTsiyoni machume kukumkani wabo.",
+  "tokens": [
+    {
+      "surface": "ישמח",
+      "gloss": "makhazululi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "IYisrayeli"
+    },
+    {
+      "surface": "בעשיו",
+      "gloss": "kuMenzi waso"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oonyana"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "beTsiyoni"
+    },
+    {
+      "surface": "יגילו",
+      "gloss": "machume"
+    },
+    {
+      "surface": "במלכם",
+      "gloss": "kukumkani wabo"
+    }
+  ],
+  "timestamp": "2026-09-18T17:46:26.296202108Z",
+  "model": "glm-5.3"
+}

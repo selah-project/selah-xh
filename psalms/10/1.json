@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 10:1",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 10,
+  "translation": "Kutheni uYahwe ⟨wena⟩ umi kude, uzithule ngeexesha zentlungwini?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "Kutheni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "תעמד",
+      "gloss": "umi"
+    },
+    {
+      "surface": "ברחוק",
+      "gloss": "kude"
+    },
+    {
+      "surface": "תעלים",
+      "gloss": "uzithule"
+    },
+    {
+      "surface": "לעתות",
+      "gloss": "ngeexesha"
+    },
+    {
+      "surface": "בצרה",
+      "gloss": "zentlungwini"
+    }
+  ],
+  "timestamp": "2026-09-18T14:32:19.934301796Z",
+  "model": "glm-5.3"
+}

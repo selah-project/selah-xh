@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 88:2",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 88,
+  "translation": "uYahwe, uElohim wentsindiso yam, ndiza kukhala imihla le, ebusuku, phambi kwakho.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "uElohim wa"
+    },
+    {
+      "surface": "ישועתי",
+      "gloss": "ntsindiso yam"
+    },
+    {
+      "surface": "יום",
+      "gloss": "imihla le"
+    },
+    {
+      "surface": "צעקתי",
+      "gloss": "ndiza kukhala"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "ebusuku"
+    },
+    {
+      "surface": "נגדך",
+      "gloss": "phambi kwakho"
+    }
+  ],
+  "timestamp": "2026-09-18T15:06:36.651192708Z",
+  "model": "glm-5.3"
+}

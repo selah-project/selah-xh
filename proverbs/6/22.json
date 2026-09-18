@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 6:22",
+  "book": "proverbs",
+  "lang": "xh",
+  "chapter": 6,
+  "translation": "Ekuhambeni kwakho ⟨iya ku⟩khokela ⟨את⟩ wena; ekulaleni kwakho ⟨iya ku⟩londa; ekuvukeni kwakho yona iya kuthetha nawe.",
+  "tokens": [
+    {
+      "surface": "בהתהלכך",
+      "gloss": "ekuhambeni kwakho"
+    },
+    {
+      "surface": "תנחה",
+      "gloss": "⟨iya ku⟩khokela"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "wena"
+    },
+    {
+      "surface": "בשכבך",
+      "gloss": "ekulaleni kwakho"
+    },
+    {
+      "surface": "תשמר",
+      "gloss": "⟨iya ku⟩londa"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "kuwena"
+    },
+    {
+      "surface": "והקיצות",
+      "gloss": "ekuvukeni kwakho"
+    },
+    {
+      "surface": "היא",
+      "gloss": "yona"
+    },
+    {
+      "surface": "תשיחך",
+      "gloss": "iya kuthetha nawe"
+    }
+  ],
+  "timestamp": "2026-09-18T15:40:06.647774156Z",
+  "model": "glm-5.3"
+}

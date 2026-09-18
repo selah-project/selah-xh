@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "judges 1:30",
+  "book": "judges",
+  "lang": "xh",
+  "chapter": 1,
+  "translation": "IZevuluni akalahlanga ⟨את⟩ abahlali beKitroni, nokuba ⟨את⟩ abahlali beNahalali; uMkanani wahlala phakathi kwakhe, waba ngumthwaleli-ukhwezo.",
+  "tokens": [
+    {
+      "surface": "זבולן",
+      "gloss": "IZevuluni"
+    },
+    {
+      "surface": "לא",
+      "gloss": "akalahlanga"
+    },
+    {
+      "surface": "הוריש",
+      "gloss": "ukulahla"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abahlali beKitroni"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "abahlali"
+    },
+    {
+      "surface": "קטרון",
+      "gloss": "iKitroni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "nokuba ⟨את⟩",
+      "marks": "abahlali beNahalali"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "abahlali"
+    },
+    {
+      "surface": "נהלל",
+      "gloss": "iNahalali"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "wahlala"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "uMkanani"
+    },
+    {
+      "surface": "בקרבו",
+      "gloss": "phakathi kwakhe"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "waba"
+    },
+    {
+      "surface": "למס",
+      "gloss": "ngumthwaleli-ukhwezo"
+    }
+  ],
+  "timestamp": "2026-09-18T08:48:06.013005596Z",
+  "model": "glm-5.3"
+}

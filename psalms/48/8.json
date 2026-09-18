@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 48:8",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 48,
+  "translation": "Ngumoya wasempuma watshabalalisa iinqwelo zaselwandle zaseTarshishi.",
+  "tokens": [
+    {
+      "surface": "ברוח",
+      "gloss": "ngumoya"
+    },
+    {
+      "surface": "קדים",
+      "gloss": "wasempuma"
+    },
+    {
+      "surface": "תשבר",
+      "gloss": "watshabalalisa"
+    },
+    {
+      "surface": "אניות",
+      "gloss": "iinqwelo zaselwandle"
+    },
+    {
+      "surface": "תרשיש",
+      "gloss": "zaseTarshishi"
+    }
+  ],
+  "timestamp": "2026-09-18T14:46:53.643783068Z",
+  "model": "glm-5.3"
+}

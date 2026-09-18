@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 37:10",
+  "book": "jeremiah",
+  "lang": "xh",
+  "chapter": 37,
+  "translation": "Kuba nangaba nibethe wonke umkhosi wamaKashdi olwa ⟨את⟩ nani, kade kungaphelela kubo amadoda ezilimeleyo, umntu ngamnye etentini yakhe, uza kuvuka aze atshise ⟨את⟩ le sixeko ngomlilo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kuba"
+    },
+    {
+      "surface": "אם",
+      "gloss": "nangaba"
+    },
+    {
+      "surface": "הכיתם",
+      "gloss": "nibethe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wonke"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "umkhosi"
+    },
+    {
+      "surface": "כשדים",
+      "gloss": "wamaKashdi"
+    },
+    {
+      "surface": "הנלחמים",
+      "gloss": "olwa"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ nani"
+    },
+    {
+      "surface": "ונשארו",
+      "gloss": "kungaphelela"
+    },
+    {
+      "surface": "בם",
+      "gloss": "kubo"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "amadoda"
+    },
+    {
+      "surface": "מדקרים",
+      "gloss": "ezilimeleyo"
+    },
+    {
+      "surface": "איש",
+      "gloss": "umntu ngamnye"
+    },
+    {
+      "surface": "באהלו",
+      "gloss": "etentini yakhe"
+    },
+    {
+      "surface": "יקומו",
+      "gloss": "uza kuvuka"
+    },
+    {
+      "surface": "ושרפו",
+      "gloss": "aze atshise"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le sixeko"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "le sixeko"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "le"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ngomlilo"
+    }
+  ],
+  "timestamp": "2026-09-18T12:28:14.201627140Z",
+  "model": "glm-5.3"
+}

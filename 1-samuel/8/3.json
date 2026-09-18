@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 8:3",
+  "book": "1-samuel",
+  "lang": "xh",
+  "chapter": 8,
+  "translation": "Kodwa amadodana akhe azihambanga ngeendlela zakhe; batshikilela emva kwenzuzo engalunganga, bathabatha iinkozo, batshikilela umgwebo.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "kodwa azihambanga"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "azihambanga"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "amadodana akhe"
+    },
+    {
+      "surface": "בדרכו",
+      "gloss": "ngeendlela zakhe"
+    },
+    {
+      "surface": "ויטו",
+      "gloss": "batshikilela"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "emva kwa-"
+    },
+    {
+      "surface": "הבצע",
+      "gloss": "inzuzo engalunganga"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "bathabatha"
+    },
+    {
+      "surface": "שחד",
+      "gloss": "iinkozo"
+    },
+    {
+      "surface": "ויטו",
+      "gloss": "batshikilela"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "umgwebo"
+    }
+  ],
+  "timestamp": "2026-09-18T09:16:37.580118529Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "esther 7:1",
+  "book": "esther",
+  "lang": "xh",
+  "chapter": 7,
+  "translation": "Inkosi yafika, naye uHamani, ukusela kunye no-Ester inkosikazi.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "yafika"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "inkosi"
+    },
+    {
+      "surface": "והמן",
+      "gloss": "naye uHamani"
+    },
+    {
+      "surface": "לשתות",
+      "gloss": "ukusela"
+    },
+    {
+      "surface": "עם",
+      "gloss": "kunye"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "no-Ester"
+    },
+    {
+      "surface": "המלכה",
+      "gloss": "inkosikazi"
+    }
+  ],
+  "timestamp": "2026-09-18T16:29:52.580880819Z",
+  "model": "glm-5.3"
+}

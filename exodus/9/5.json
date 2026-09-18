@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 9:5",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 9,
+  "translation": "UYahwe wabeka ixesha elicwangqisiweyo, wathi: “Ngomso uYahwe uza kukwenza eli lizwi kumhlaba.”",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "wabeka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ixesha elicwangqisiweyo"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "ngomso"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "uza kukwenza"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "eli lizwi"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "eli"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "kumhlaba"
+    }
+  ],
+  "timestamp": "2026-09-18T05:57:25.038133172Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 8:15",
+  "book": "numbers",
+  "lang": "xh",
+  "chapter": 8,
+  "translation": "Emva koko amaLevi aza kungena ukukhonza ⟨את⟩ itenti yokudibana; uza kubahlamba ⟨אתם⟩, uza kubanyusa ⟨אתם⟩ njengomnikelo wokunyusa.",
+  "tokens": [
+    {
+      "surface": "ואחרי",
+      "gloss": "emva kwa-"
+    },
+    {
+      "surface": "כן",
+      "gloss": "oko"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "aza kungena"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "amaLevi"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "ukukhonza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "itenti yokudibana"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "itenti"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "yokudibana"
+    },
+    {
+      "surface": "וטהרת",
+      "gloss": "uza kubahlamba"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "bona (amaLevi)"
+    },
+    {
+      "surface": "והנפת",
+      "gloss": "uza kubanyusa"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "bona (amaLevi)"
+    },
+    {
+      "surface": "תנופה",
+      "gloss": "njengomnikelo wokunyusa"
+    }
+  ],
+  "timestamp": "2026-09-18T07:22:10.023654614Z",
+  "model": "glm-5.3"
+}

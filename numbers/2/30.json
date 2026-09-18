@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 2:30",
+  "book": "numbers",
+  "lang": "xh",
+  "chapter": 2,
+  "translation": "Nechosi yayo nababalwa baso: amashumi amathathu anamashumi amahlanu ewaka, namakhulu amane.",
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "Nechosi yayo"
+    },
+    {
+      "surface": "ופקדיהם",
+      "gloss": "nababalwa baso"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "amashumi amathathu"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "anamashumi amahlanu"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ewaka"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "namakhulu"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "amane"
+    }
+  ],
+  "timestamp": "2026-09-18T07:10:46.770314943Z",
+  "model": "glm-5.3"
+}

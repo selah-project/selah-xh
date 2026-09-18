@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 4:5",
+  "book": "hosea",
+  "lang": "xh",
+  "chapter": 4,
+  "translation": "Uza kukhubeka emini, iprofeti nayo iza kukhubeka kunye nawe ebusuku, ndiza kutshabalalisa umama wakho.",
+  "tokens": [
+    {
+      "surface": "וכשלת",
+      "gloss": "uza kukhubeka"
+    },
+    {
+      "surface": "היום",
+      "gloss": "emini"
+    },
+    {
+      "surface": "וכשל",
+      "gloss": "kukhubeka"
+    },
+    {
+      "surface": "גם",
+      "gloss": "naye"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "iprofeti"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "kunye nawe"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "ebusuku"
+    },
+    {
+      "surface": "ודמיתי",
+      "gloss": "ndiza kutshabalalisa"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "umama wakho"
+    }
+  ],
+  "timestamp": "2026-09-18T13:43:35.004957363Z",
+  "model": "glm-5.3"
+}

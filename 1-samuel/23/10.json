@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 23:10",
+  "book": "1-samuel",
+  "lang": "xh",
+  "chapter": 23,
+  "translation": "UDavide wathi: “Yahweh, uElohim ka-Israyeli, inkonzi yakho iyive iligama ukuba uShawuli ufunela ukutsho aye eQeilah, ukutshabalalisa le dolophu ngenxa yam.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "UDavide"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "uElohim ka-"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "-Israyeli"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "iyive"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "iligama"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "inkonzi yakho"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ukuba"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "ufunela"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "uShawuli"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "ukutsho aye"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e-"
+    },
+    {
+      "surface": "קעילה",
+      "gloss": "-Qeilah"
+    },
+    {
+      "surface": "לשחת",
+      "gloss": "ukutshabalalisa"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "le dolophu"
+    },
+    {
+      "surface": "בעבורי",
+      "gloss": "ngenxa yam"
+    }
+  ],
+  "timestamp": "2026-09-18T09:33:43.112471168Z",
+  "model": "glm-5.3"
+}

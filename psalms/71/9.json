@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 71:9",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 71,
+  "translation": "Mus’ukundilahla ngexesha lobudala; xeshi amandla am atsalele ekupheleleni, mus’ukundishiya.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "mus’u-"
+    },
+    {
+      "surface": "תשליכני",
+      "gloss": "ndilahla"
+    },
+    {
+      "surface": "לעת",
+      "gloss": "ngexesha"
+    },
+    {
+      "surface": "זקנה",
+      "gloss": "lobudala"
+    },
+    {
+      "surface": "ככלות",
+      "gloss": "xeshi … atsalele ekupheleleni"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "amandla am"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mus’u-"
+    },
+    {
+      "surface": "תעזבני",
+      "gloss": "ndishiya"
+    }
+  ],
+  "timestamp": "2026-09-18T14:56:48.932260656Z",
+  "model": "glm-5.3"
+}

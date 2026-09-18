@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-samuel 19:26",
+  "book": "2-samuel",
+  "lang": "xh",
+  "chapter": 19,
+  "translation": "Kwathi xa efika eYerushalayimi ukudibana nenkosi, inkosi yathi kuye: Kutheni ungahambanga nam, Mefibhoshete?",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Kwathi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "xa"
+    },
+    {
+      "surface": "בא",
+      "gloss": "efika"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "eYerushalayimi"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "ukudibana"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "nenkosi"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "inkosi yathi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kuye"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "inkosi"
+    },
+    {
+      "surface": "למה",
+      "gloss": "Kutheni"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kungahambanga"
+    },
+    {
+      "surface": "הלכת",
+      "gloss": "(u)hamba"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "nam"
+    },
+    {
+      "surface": "מפיבשת",
+      "gloss": "Mefibhoshete"
+    }
+  ],
+  "timestamp": "2026-09-18T10:00:10.346173794Z",
+  "model": "glm-5.3"
+}

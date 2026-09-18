@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 30:21",
+  "book": "genesis",
+  "lang": "xh",
+  "chapter": 30,
+  "translation": "Emva koko wazala intombazana, wayibiza ⟨את⟩ igama layo uDina.",
+  "tokens": [
+    {
+      "surface": "ואחר",
+      "gloss": "emva koko"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "wazala"
+    },
+    {
+      "surface": "בת",
+      "gloss": "intombazana"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "wayibiza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "igama layo"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "igama layo"
+    },
+    {
+      "surface": "דינה",
+      "gloss": "uDina"
+    }
+  ],
+  "timestamp": "2026-09-18T05:26:13.399336731Z",
+  "model": "glm-5.3"
+}

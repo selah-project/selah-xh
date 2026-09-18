@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 27:18",
+  "book": "genesis",
+  "lang": "xh",
+  "chapter": 27,
+  "translation": "Wafika kuyise, wathi: “Bawo wam!” Wathi yena: “Ndilapha. Ungubani na wena, nyana wam?”",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "Wafika"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "yise"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "Bawo wam!"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "wathi yena"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "Ndilapha"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Ungubani na"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "בני",
+      "gloss": "nyana wam"
+    }
+  ],
+  "timestamp": "2026-09-18T05:24:39.005590844Z",
+  "model": "glm-5.3"
+}

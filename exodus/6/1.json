@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 6:1",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 6,
+  "translation": "UYahwe wathetha kuMoshe: “Ngoku uza kubona oko ndiza kukwenza kuParo, kuba ngesandla esinamandla uza kubashiyela, yaye ngesandla esinamandla uza kubabalela elizweni lakhe.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wathetha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "ngoku"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "uza kubona"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oko"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "ndiza kukwenza"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "kuParo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ngesandla"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "esinamandla"
+    },
+    {
+      "surface": "ישלחם",
+      "gloss": "uza kubashiyela"
+    },
+    {
+      "surface": "וביד",
+      "gloss": "yaye ngesandla"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "esinamandla"
+    },
+    {
+      "surface": "יגרשם",
+      "gloss": "uza kubabalela"
+    },
+    {
+      "surface": "מארצו",
+      "gloss": "elizweni lakhe"
+    }
+  ],
+  "timestamp": "2026-09-18T05:52:16.813530389Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 18:23",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 18,
+  "translation": "Ukuba wenze ⟨את⟩ le ndaba, uze ukhokele uElohim, uza kukwazi ukumila, yaye lonke uluntu olu luza kwindawo yalo ngokuthozama.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ukuba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le ndaba"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "le ndaba"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "le"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "wenze"
+    },
+    {
+      "surface": "וצוך",
+      "gloss": "uze ukhokele"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "ויכלת",
+      "gloss": "uza kukwazi"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "ukumila"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "yaye"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lonke"
+    },
+    {
+      "surface": "העם",
+      "gloss": "uluntu"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "olu"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "מקמו",
+      "gloss": "kwindawo yalo"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "luza kuza"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "ngokuthozama"
+    }
+  ],
+  "timestamp": "2026-09-18T06:05:44.985739118Z",
+  "model": "glm-5.3"
+}

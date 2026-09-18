@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 29:5",
+  "book": "genesis",
+  "lang": "xh",
+  "chapter": 29,
+  "translation": "Wathi kubo: Niyamazi uLavan, unyana kaNahori? Bathi: Simazi.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kubo"
+    },
+    {
+      "surface": "הידעתם",
+      "gloss": "niyamazi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uLavan"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "uLavan"
+    },
+    {
+      "surface": "בן",
+      "gloss": "unyana"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "kaNahori"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "bathi"
+    },
+    {
+      "surface": "ידענו",
+      "gloss": "simazi"
+    }
+  ],
+  "timestamp": "2026-09-18T05:25:16.069046630Z",
+  "model": "glm-5.3"
+}

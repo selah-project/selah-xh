@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 58:6",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 58,
+  "translation": "Eso singamameli ilizwi labalumkisi, lolowo ulumkileyo ekudibaniseni imilingo.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "eso"
+    },
+    {
+      "surface": "לא",
+      "gloss": "singa"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "mameli"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "ilizwi"
+    },
+    {
+      "surface": "מלחשים",
+      "gloss": "labalumkisi"
+    },
+    {
+      "surface": "חובר",
+      "gloss": "ekudibaniseni"
+    },
+    {
+      "surface": "חברים",
+      "gloss": "imilingo"
+    },
+    {
+      "surface": "מחכם",
+      "gloss": "ulumkileyo"
+    }
+  ],
+  "timestamp": "2026-09-18T17:43:50.734858209Z",
+  "model": "glm-5.3"
+}

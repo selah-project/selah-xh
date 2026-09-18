@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 1:11",
+  "book": "deuteronomy",
+  "lang": "xh",
+  "chapter": 1,
+  "translation": "uYahwe, uElohim wooBawo benu, anongezelela ngaphezu kwenu njengoko nikhona inkulu amaxesha angamawaka, aninikele ibhlessing ⟨אתכם⟩ njengoko anithethileyo kuni!",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "אבותכם",
+      "gloss": "ooBawo benu"
+    },
+    {
+      "surface": "יסף",
+      "gloss": "anongezelela"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "ngaphezu kwenu"
+    },
+    {
+      "surface": "ככם",
+      "gloss": "njengoko nikhona"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "inkulu\/amawaka"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "amaxesha"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "aninikele ibhlessing"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨אתכם⟩",
+      "marks": "aninikele ibhlessing"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "njengoko"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "anithethileyo"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kuni"
+    }
+  ],
+  "timestamp": "2026-09-18T07:50:53.319397088Z",
+  "model": "glm-5.3"
+}

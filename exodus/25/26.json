@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 25:26",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 25,
+  "translation": "Uza kwenza kuye iindandatho ezine zegolide, uza kubeka ⟨את⟩ iindandatho kwiikona ezine ezikwilinye lezinyawo ezine zayo.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "uza kwenza"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kuye"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "ezine"
+    },
+    {
+      "surface": "טבעת",
+      "gloss": "iindandatho"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "zegolide"
+    },
+    {
+      "surface": "ונתת",
+      "gloss": "uza kubeka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iindandatho"
+    },
+    {
+      "surface": "הטבעת",
+      "gloss": "iindandatho"
+    },
+    {
+      "surface": "על",
+      "gloss": "kwi-"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "ezine"
+    },
+    {
+      "surface": "הפאת",
+      "gloss": "iikona"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ezikwi-"
+    },
+    {
+      "surface": "לארבע",
+      "gloss": "ezine"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "zinyawo zayo"
+    }
+  ],
+  "timestamp": "2026-09-18T06:12:22.158447259Z",
+  "model": "glm-5.3"
+}

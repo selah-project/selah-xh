@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 5:4",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 5,
+  "translation": "UYahwe, ekuseni uza kuva ilizwi lam; ekuseni ndiza kulungiselela kuwe, ndiza kulinda.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "ekuseni"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "uza kuva"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "ilizwi lam"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "ekuseni"
+    },
+    {
+      "surface": "אערך",
+      "gloss": "ndiza kulungiselela"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kuwe"
+    },
+    {
+      "surface": "ואצפה",
+      "gloss": "ndiza kulinda"
+    }
+  ],
+  "timestamp": "2026-09-18T14:26:53.229063422Z",
+  "model": "glm-5.3"
+}

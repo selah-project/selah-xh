@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 81:1",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 81,
+  "translation": "Kumlawuli wecawa, ngegithithi, iculo ka-Asafe.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Kumlawuli wecawa"
+    },
+    {
+      "surface": "על",
+      "gloss": "nge-"
+    },
+    {
+      "surface": "הגתית",
+      "gloss": "githithi"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "ka-Asafe"
+    }
+  ],
+  "timestamp": "2026-09-18T15:05:09.852161176Z",
+  "model": "glm-5.3"
+}

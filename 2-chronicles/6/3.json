@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 6:3",
+  "book": "2-chronicles",
+  "lang": "xh",
+  "chapter": 6,
+  "translation": "Inkosi yajikelezisa ubuso bayo, yabusisa ⟨את⟩ onke amaqela kaSirayeli; onke amaqela kaSirayeli ayele emi.",
+  "tokens": [
+    {
+      "surface": "ויסב",
+      "gloss": "yajikelezisa"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "inkosi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ubuso bayo"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "ubuso bayo"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "yabusisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "onke amaqela kaSirayeli"
+    },
+    {
+      "surface": "כל",
+      "gloss": "onke"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "amaqela"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "kaSirayeli"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "onke"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "amaqela"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "kaSirayeli"
+    },
+    {
+      "surface": "עומד",
+      "gloss": "emi"
+    }
+  ],
+  "timestamp": "2026-09-18T17:03:49.292983345Z",
+  "model": "glm-5.3"
+}

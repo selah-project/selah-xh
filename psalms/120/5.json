@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 120:5",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 120,
+  "translation": "Awini kum, kuba ndihlale iMesheki, ndahlala kunye neententi zikaKedara.",
+  "tokens": [
+    {
+      "surface": "אויה",
+      "gloss": "Awini"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kum"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "גרתי",
+      "gloss": "ndihlale"
+    },
+    {
+      "surface": "משך",
+      "gloss": "iMesheki"
+    },
+    {
+      "surface": "שכנתי",
+      "gloss": "ndahlala"
+    },
+    {
+      "surface": "עם",
+      "gloss": "kunye ne-"
+    },
+    {
+      "surface": "אהלי",
+      "gloss": "neententi"
+    },
+    {
+      "surface": "קדר",
+      "gloss": "zikaKedara"
+    }
+  ],
+  "timestamp": "2026-09-18T15:26:11.670393779Z",
+  "model": "glm-5.3"
+}

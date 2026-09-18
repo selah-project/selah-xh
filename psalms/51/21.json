@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 51:21",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 51,
+  "translation": "Ngoko uza kuthanda iintombo ezilungelelanisiweyo, umnikelo otshisiweyo nomnikelo otshisiweyo ngokupheleleyo; ngoko iinkabi ziya kunyuka phezu kwe-altare yakho.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "Ngoko"
+    },
+    {
+      "surface": "תחפץ",
+      "gloss": "uza kuthanda"
+    },
+    {
+      "surface": "זבחי",
+      "gloss": "iintombo"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "ezilungelelanisiweyo"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "umnikelo otshisiweyo"
+    },
+    {
+      "surface": "וכליל",
+      "gloss": "nomnikelo otshisiweyo ngokupheleleyo"
+    },
+    {
+      "surface": "אז",
+      "gloss": "ngoko"
+    },
+    {
+      "surface": "יעלו",
+      "gloss": "ziya kunyuka"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu"
+    },
+    {
+      "surface": "מזבחך",
+      "gloss": "kwe-altare yakho"
+    },
+    {
+      "surface": "פרים",
+      "gloss": "iinkabi"
+    }
+  ],
+  "timestamp": "2026-09-18T14:49:15.395864262Z",
+  "model": "glm-5.3"
+}

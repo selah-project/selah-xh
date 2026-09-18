@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 16:30",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 16,
+  "translation": "Ke abantu bahlala bephumla ngosuku lwesixhenxe.",
+  "tokens": [
+    {
+      "surface": "וישבתו",
+      "gloss": "bahlala bephumla"
+    },
+    {
+      "surface": "העם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ngosuku"
+    },
+    {
+      "surface": "השבעי",
+      "gloss": "lwesixhenxe"
+    }
+  ],
+  "timestamp": "2026-09-18T06:05:02.192577169Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "1-chronicles 6:40",
+  "book": "1-chronicles",
+  "lang": "xh",
+  "chapter": 6,
+  "translation": "Babanika ⟨את⟩ iKhebroni elizweni likaYehudha, kunye ⟨את⟩ iindawo zangaselwalanga zayo ezikwindawo ezikuzungezileyo.",
+  "tokens": [
+    {
+      "surface": "ויתנו",
+      "gloss": "babanika"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kuwo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iKhebroni"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "iKhebroni"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "elizweni"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "likaYehudha"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kunye ⟨את⟩",
+      "marks": "iindawo zangaselwalanga zayo"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "iindawo zangaselwalanga zayo"
+    },
+    {
+      "surface": "סביבתיה",
+      "gloss": "ezikwindawo ezikuzungezileyo"
+    }
+  ],
+  "timestamp": "2026-09-18T16:52:43.362740148Z",
+  "model": "glm-5.3"
+}

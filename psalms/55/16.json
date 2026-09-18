@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 55:16",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 55,
+  "translation": "Mazibe ziintsalela ezimbi phezu kwabo; bangatshona bayaphila esiSheolini; kuba ubugwenxa bubukho kuzinzo zabo, phakathi kwabo.",
+  "tokens": [
+    {
+      "surface": "ישימות",
+      "gloss": "ziintsalela ezimbi"
+    },
+    {
+      "surface": "עלימו",
+      "gloss": "phezu kwabo"
+    },
+    {
+      "surface": "ירדו",
+      "gloss": "bangatshona"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "esiSheolini"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "bayaphila"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "רעות",
+      "gloss": "ubugwenxa"
+    },
+    {
+      "surface": "במגורם",
+      "gloss": "kuzinzo zabo"
+    },
+    {
+      "surface": "בקרבם",
+      "gloss": "phakathi kwabo"
+    }
+  ],
+  "timestamp": "2026-09-18T14:50:40.563681281Z",
+  "model": "glm-5.3"
+}

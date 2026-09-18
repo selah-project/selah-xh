@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-chronicles 7:24",
+  "book": "1-chronicles",
+  "lang": "xh",
+  "chapter": 7,
+  "translation": "Kwaye intombi yakhe iSheera; yakha ⟨את⟩ iBeyit-Horoni eseNzansi no⟨את⟩ esePhezulu, no⟨את⟩ uZeni-Sheera.",
+  "tokens": [
+    {
+      "surface": "ובתו",
+      "gloss": "intombi yakhe"
+    },
+    {
+      "surface": "שארה",
+      "gloss": "iSheera"
+    },
+    {
+      "surface": "ותבן",
+      "gloss": "yakha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iBeyit-Horoni eseNzansi"
+    },
+    {
+      "surface": "בית",
+      "gloss": "iBeyit-"
+    },
+    {
+      "surface": "חורון",
+      "gloss": "Horoni"
+    },
+    {
+      "surface": "התחתון",
+      "gloss": "eseNzansi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "no⟨את⟩",
+      "marks": "esePhezulu"
+    },
+    {
+      "surface": "העליון",
+      "gloss": "esePhezulu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "no⟨את⟩",
+      "marks": "uZeni-Sheera"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "uZeni-"
+    },
+    {
+      "surface": "שארה",
+      "gloss": "Sheera"
+    }
+  ],
+  "timestamp": "2026-09-18T16:53:10.565399878Z",
+  "model": "glm-5.3"
+}

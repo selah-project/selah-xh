@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 14:5",
+  "book": "1-samuel",
+  "lang": "xh",
+  "chapter": 14,
+  "translation": "Irkhiye elinyo laliminya ngasentshona ngaseMikmashi, kwelinye lalingasentshona ngaseGivha.",
+  "tokens": [
+    {
+      "surface": "השן",
+      "gloss": "irkrhiye"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "elinye"
+    },
+    {
+      "surface": "מצוק",
+      "gloss": "laliminya"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "ngasentshona"
+    },
+    {
+      "surface": "מול",
+      "gloss": "ngase"
+    },
+    {
+      "surface": "מכמש",
+      "gloss": "iMikmashi"
+    },
+    {
+      "surface": "והאחד",
+      "gloss": "kwelinye"
+    },
+    {
+      "surface": "מנגב",
+      "gloss": "lingasentshona"
+    },
+    {
+      "surface": "מול",
+      "gloss": "ngase"
+    },
+    {
+      "surface": "גבע",
+      "gloss": "iGivha"
+    }
+  ],
+  "timestamp": "2026-09-18T09:23:07.364398630Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 102:15",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 102,
+  "translation": "Kuba iinkonzi zakho ziyancoma ⟨את⟩ amatye ayo, ⟨את⟩ nomdaka wayo bayawunela.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kuba"
+    },
+    {
+      "surface": "רצו",
+      "gloss": "ziyancoma"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "iinkonzi zakho"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amatye ayo"
+    },
+    {
+      "surface": "אבניה",
+      "gloss": "amatye ayo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "umdaka wayo"
+    },
+    {
+      "surface": "עפרה",
+      "gloss": "umdaka wayo"
+    },
+    {
+      "surface": "יחננו",
+      "gloss": "bayawunela"
+    }
+  ],
+  "timestamp": "2026-09-18T15:13:48.715779424Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 2:10",
+  "book": "2-kings",
+  "lang": "xh",
+  "chapter": 2,
+  "translation": "Wathi: “Ucele into enzima ukuyala; nangona undibona ⟨את⟩ ndithatywa phakam ⟨את⟩ kwakho, kuya kuba njalo kuwe; kodwa ukuba akunjalo, akusiyo nto.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Wathi"
+    },
+    {
+      "surface": "הקשית",
+      "gloss": "Ucele into enzima"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "ukuyala"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ukuba"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "undibona"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "ndithatywa"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "ndithatywa"
+    },
+    {
+      "surface": "מאתך",
+      "gloss": "phakam ⟨את⟩ kwakho"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "kuya kuba"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kuwe"
+    },
+    {
+      "surface": "כן",
+      "gloss": "njalo"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "kodwa ukuba"
+    },
+    {
+      "surface": "אין",
+      "gloss": "akunjalo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hayi"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "akusiyo nto"
+    }
+  ],
+  "timestamp": "2026-09-18T17:32:03.090542970Z",
+  "model": "glm-5.3"
+}

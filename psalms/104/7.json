@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 104:7",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 104,
+  "translation": "Kwisoyikiso lwakho bayabaleka; kwilizwi lokuduma kwakho bayakhawuleza balele.",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "kwi-"
+    },
+    {
+      "surface": "גערתך",
+      "gloss": "sisoyikiso lwakho"
+    },
+    {
+      "surface": "ינוסון",
+      "gloss": "bayabaleka"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kwi-"
+    },
+    {
+      "surface": "קול",
+      "gloss": "lilizwi"
+    },
+    {
+      "surface": "רעמך",
+      "gloss": "lokuduma kwakho"
+    },
+    {
+      "surface": "יחפזון",
+      "gloss": "bayakhawuleza balele"
+    }
+  ],
+  "timestamp": "2026-09-18T15:14:43.459517063Z",
+  "model": "glm-5.3"
+}

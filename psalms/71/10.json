@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 71:10",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 71,
+  "translation": "Kuba ooyeni bethetha ngam, abaqapheli bomphefumlo wam bacociselana ndawonye,",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "bethetha"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "ooyeni"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ngam"
+    },
+    {
+      "surface": "ושמרי",
+      "gloss": "abaqapheli"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "bomphefumlo wam"
+    },
+    {
+      "surface": "נועצו",
+      "gloss": "bacociselana"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "ndawonye"
+    }
+  ],
+  "timestamp": "2026-09-18T14:56:48.932515947Z",
+  "model": "glm-5.3"
+}

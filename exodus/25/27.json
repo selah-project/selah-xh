@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 25:27",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 25,
+  "translation": "Kufuphi nomda kuzakuba ⟨are⟩ iindandatho, zibe ziindawo zothingo zokuthwala ⟨את⟩ itafile.",
+  "tokens": [
+    {
+      "surface": "לעמת",
+      "gloss": "kufuphi ne-"
+    },
+    {
+      "surface": "המסגרת",
+      "gloss": "umda"
+    },
+    {
+      "surface": "תהיין",
+      "gloss": "kuzakuba ⟨are⟩"
+    },
+    {
+      "surface": "הטבעת",
+      "gloss": "iindandatho"
+    },
+    {
+      "surface": "לבתים",
+      "gloss": "ziindawo zothingo"
+    },
+    {
+      "surface": "לבדים",
+      "gloss": "zothingo"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "zokuthwala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "itafile"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "itafile"
+    }
+  ],
+  "timestamp": "2026-09-18T06:12:22.158622994Z",
+  "model": "glm-5.3"
+}

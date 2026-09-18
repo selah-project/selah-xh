@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 75:7",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 75,
+  "translation": "Kuba ukuphakanyiswa akufuni kumzantsi-mpuma nasemantla-ntshona, akufuni nakwisithili seentaba.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kuba"
+    },
+    {
+      "surface": "לא",
+      "gloss": "akufuni"
+    },
+    {
+      "surface": "ממוצא",
+      "gloss": "kumzantsi-mpuma"
+    },
+    {
+      "surface": "וממערב",
+      "gloss": "nasemantla-ntshona"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "akufuni nakwi"
+    },
+    {
+      "surface": "ממדבר",
+      "gloss": "isithili"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "seentaba"
+    }
+  ],
+  "timestamp": "2026-09-18T15:01:15.920940544Z",
+  "model": "glm-5.3"
+}

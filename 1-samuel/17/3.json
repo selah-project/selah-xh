@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 17:3",
+  "book": "1-samuel",
+  "lang": "xh",
+  "chapter": 17,
+  "translation": "IPelishtim yimile etabatweni ngale, uIsrayeli yena umile etabatweni ngale, umhlaba-ntsime uphehlele phakathi kwabo.",
+  "tokens": [
+    {
+      "surface": "ופלשתים",
+      "gloss": "iPelishtim"
+    },
+    {
+      "surface": "עמדים",
+      "gloss": "yimile"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e-"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "tabatweni"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "ngale"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "uIsrayeli"
+    },
+    {
+      "surface": "עמדים",
+      "gloss": "umile"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e-"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "tabatweni"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "ngale"
+    },
+    {
+      "surface": "והגיא",
+      "gloss": "umhlaba-ntsime"
+    },
+    {
+      "surface": "ביניהם",
+      "gloss": "uphehlele phakathi kwabo"
+    }
+  ],
+  "timestamp": "2026-09-18T09:28:01.536244743Z",
+  "model": "glm-5.3"
+}

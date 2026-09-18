@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 35:6",
+  "book": "isaiah",
+  "lang": "xh",
+  "chapter": 35,
+  "translation": "Ngelo xesha isicebe aza kutsiba njengomvubu, ulwimi lomthuli luya kudumisa; kuba amanzi aphukile entlangweni, nemilambo kwi-Arava.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "ngelo xesha"
+    },
+    {
+      "surface": "ידלג",
+      "gloss": "aza kutsiba"
+    },
+    {
+      "surface": "כאיל",
+      "gloss": "njengomvubu"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "isicebe"
+    },
+    {
+      "surface": "ותרן",
+      "gloss": "luya kudumisa"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "ulwimi"
+    },
+    {
+      "surface": "אלם",
+      "gloss": "lomthuli"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "נבקעו",
+      "gloss": "aphukile"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "entlangweni"
+    },
+    {
+      "surface": "מים",
+      "gloss": "amanzi"
+    },
+    {
+      "surface": "ונחלים",
+      "gloss": "nemilambo"
+    },
+    {
+      "surface": "בערבה",
+      "gloss": "kwi-Arava"
+    }
+  ],
+  "timestamp": "2026-09-18T11:28:51.708787976Z",
+  "model": "glm-5.3"
+}

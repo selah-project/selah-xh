@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 29:15",
+  "book": "isaiah",
+  "lang": "xh",
+  "chapter": 29,
+  "translation": "Yeha kubona abajingela ukufihla icebo elikwaYahwe, imisebenzi yabo isebumnyameni; bathi: “Ngubani osibonayo? ngubani osaziyo?”",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Yeha"
+    },
+    {
+      "surface": "המעמיקים",
+      "gloss": "kubona abajingela"
+    },
+    {
+      "surface": "מיהוה",
+      "gloss": "elikwaYahwe"
+    },
+    {
+      "surface": "לסתר",
+      "gloss": "ukufihla"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "icebo"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "ise"
+    },
+    {
+      "surface": "במחשך",
+      "gloss": "ebumnyameni"
+    },
+    {
+      "surface": "מעשיהם",
+      "gloss": "imisebenzi yabo"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "bathi"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Ngubani"
+    },
+    {
+      "surface": "ראנו",
+      "gloss": "osibonayo"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "ngubani"
+    },
+    {
+      "surface": "יודענו",
+      "gloss": "osaziyo"
+    }
+  ],
+  "timestamp": "2026-09-18T11:23:46.362706174Z",
+  "model": "glm-5.3"
+}

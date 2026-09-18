@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 36:2",
+  "book": "genesis",
+  "lang": "xh",
+  "chapter": 36,
+  "translation": "UEsawu wathabatha ⟨את⟩ abafazi bakhe phakathi kweenyawo zaseKenaana: ⟨את⟩ u-Ada unyana ka-Eyloni uMuheti, no⟨את⟩ u-Oholibama unyana ka-Anahi, unyana ka-Tsibhoni uMuhewi.",
+  "tokens": [
+    {
+      "surface": "עשו",
+      "gloss": "UEsawu"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "wathabatha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abafazi bakhe"
+    },
+    {
+      "surface": "נשיו",
+      "gloss": "abafazi bakhe"
+    },
+    {
+      "surface": "מבנות",
+      "gloss": "phakathi kweenyawo"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "zaseKenaana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "u-Ada"
+    },
+    {
+      "surface": "עדה",
+      "gloss": "u-Ada"
+    },
+    {
+      "surface": "בת",
+      "gloss": "unyana"
+    },
+    {
+      "surface": "אילון",
+      "gloss": "ka-Eyloni"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "uMuheti"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "no⟨את⟩",
+      "marks": "u-Oholibama"
+    },
+    {
+      "surface": "אהליבמה",
+      "gloss": "u-Oholibama"
+    },
+    {
+      "surface": "בת",
+      "gloss": "unyana"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "ka-Anahi"
+    },
+    {
+      "surface": "בת",
+      "gloss": "unyana"
+    },
+    {
+      "surface": "צבעון",
+      "gloss": "ka-Tsibhoni"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "uMuhewi"
+    }
+  ],
+  "timestamp": "2026-09-18T05:32:23.383006871Z",
+  "model": "glm-5.3"
+}

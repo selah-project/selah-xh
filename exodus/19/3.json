@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 19:3",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 19,
+  "translation": "Waza uMoshe wanxwela ku-Elohim, uYahwe wambizela eentabeni, esithi: Njalo uthethe kwisizwe sakwaYakobi, udalazele abantwana bakwaYisra'el:",
+  "tokens": [
+    {
+      "surface": "ומשה",
+      "gloss": "Waza uMoshe"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "wanxwela"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "wambizela"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "m-"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ee-"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "ntabeni"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "esithi"
+    },
+    {
+      "surface": "כה",
+      "gloss": "Njalo"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "uthethe"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "kwisizwe sa-"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "kwaYakobi"
+    },
+    {
+      "surface": "ותגיד",
+      "gloss": "udalazele"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "abantwana ba-"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "kwaYisra'el"
+    }
+  ],
+  "timestamp": "2026-09-18T06:04:54.042663785Z",
+  "model": "glm-5.3"
+}

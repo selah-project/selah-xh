@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 53:5",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 53,
+  "translation": "Awazi na abasebenzi bobubi, abatya abantu bam batya njengesonka? uElohim abam babizanga.",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "na"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "awazi"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "abasebenzi"
+    },
+    {
+      "surface": "און",
+      "gloss": "bobubi"
+    },
+    {
+      "surface": "אכלי",
+      "gloss": "abatya"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "abantu bam"
+    },
+    {
+      "surface": "אכלו",
+      "gloss": "batya"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "esonka"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "abanga"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "babizanga"
+    }
+  ],
+  "timestamp": "2026-09-18T14:50:55.793384269Z",
+  "model": "glm-5.3"
+}

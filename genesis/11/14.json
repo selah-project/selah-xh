@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 11:14",
+  "book": "genesis",
+  "lang": "xh",
+  "chapter": 11,
+  "translation": "Waphila uShelach iminyaka engamashumi amathathu, wazala ⟨את⟩ u-Ever.",
+  "tokens": [
+    {
+      "surface": "ושלח",
+      "gloss": "uShelach"
+    },
+    {
+      "surface": "חי",
+      "gloss": "waphila"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "amashumi amathathu"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "iminyaka"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "wazala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "u-Ever"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "u-Ever"
+    }
+  ],
+  "timestamp": "2026-09-18T05:12:06.381442431Z",
+  "model": "glm-5.3"
+}

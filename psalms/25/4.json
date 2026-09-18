@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 25:4",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 25,
+  "translation": "Iindlela zakho, uYahwe, ndazise; iindlela zakho ezihlala zihamba-hamba zifundise ndakuzifunda.",
+  "tokens": [
+    {
+      "surface": "דרכיך",
+      "gloss": "Iindlela zakho"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "הודיעני",
+      "gloss": "ndazise"
+    },
+    {
+      "surface": "ארחותיך",
+      "gloss": "iindlela zakho ezihlala zihamba-hamba"
+    },
+    {
+      "surface": "למדני",
+      "gloss": "zifundise ndakuzifunda"
+    }
+  ],
+  "timestamp": "2026-09-18T14:37:42.070164637Z",
+  "model": "glm-5.3"
+}

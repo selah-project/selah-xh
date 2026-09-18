@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 3:3",
+  "book": "proverbs",
+  "lang": "xh",
+  "chapter": 3,
+  "translation": "Ikhesedi nenyaniso musa kukushiya; zibophe ⟨kwiintlanzi⟩ zakho, zibhale kwitafile yintliziyo yakho.",
+  "tokens": [
+    {
+      "surface": "חסד",
+      "gloss": "Ikhesedi"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "nenyaniso"
+    },
+    {
+      "surface": "אל",
+      "gloss": "musa"
+    },
+    {
+      "surface": "יעזבך",
+      "gloss": "kukushiya"
+    },
+    {
+      "surface": "קשרם",
+      "gloss": "zibophe"
+    },
+    {
+      "surface": "על",
+      "gloss": "kwi"
+    },
+    {
+      "surface": "גרגרותיך",
+      "gloss": "intlanzi zakho"
+    },
+    {
+      "surface": "כתבם",
+      "gloss": "zibhale"
+    },
+    {
+      "surface": "על",
+      "gloss": "kwi"
+    },
+    {
+      "surface": "לוח",
+      "gloss": "tafile"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "yintliziyo yakho"
+    }
+  ],
+  "timestamp": "2026-09-18T15:38:31.455689039Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezekiel 35:7",
+  "book": "ezekiel",
+  "lang": "xh",
+  "chapter": 35,
+  "translation": "Ndiza kwenza ⟨את⟩ intaba yeSe'iri ibe lilahlileko nentabakude, ndiza kusika kuwo lowo uhamba nembali.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "ndiza kwenza ibe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "intaba yeSe'iri"
+    },
+    {
+      "surface": "הר",
+      "gloss": "intaba"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "yeSe'iri"
+    },
+    {
+      "surface": "לשממה",
+      "gloss": "lilahlileko"
+    },
+    {
+      "surface": "ושממה",
+      "gloss": "nentabakude"
+    },
+    {
+      "surface": "והכרתי",
+      "gloss": "ndiza kusika"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "kuwo"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "lowo uhamba"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "nembali"
+    }
+  ],
+  "timestamp": "2026-09-18T13:26:28.021392817Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 122:8",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 122,
+  "translation": "Ngenxa yabafowethu nabahlobo bethu, ndiza kuthetha ndicela: “Makube luxolo ngaphakathi kuwe.”",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "Ngenxa"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "yabafowethu"
+    },
+    {
+      "surface": "ורעי",
+      "gloss": "nabahlobo"
+    },
+    {
+      "surface": "אדברה",
+      "gloss": "ndiza kuthetha"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ndicela"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "luxolo"
+    },
+    {
+      "surface": "בך",
+      "gloss": "kuwe"
+    }
+  ],
+  "timestamp": "2026-09-18T15:28:23.759753052Z",
+  "model": "glm-5.3"
+}

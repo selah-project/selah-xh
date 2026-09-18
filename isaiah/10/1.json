@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 10:1",
+  "book": "isaiah",
+  "lang": "xh",
+  "chapter": 10,
+  "translation": "Usizi kubo abachula imigaqo yobugwenxa, kunye nababhali bobukrabho abayibhalayo —",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Usizi"
+    },
+    {
+      "surface": "החקקים",
+      "gloss": "kubo abachula"
+    },
+    {
+      "surface": "חקקי",
+      "gloss": "imigaqo"
+    },
+    {
+      "surface": "און",
+      "gloss": "yobugwenxa"
+    },
+    {
+      "surface": "ומכתבים",
+      "gloss": "kunye nababhali"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "bobukrabho"
+    },
+    {
+      "surface": "כתבו",
+      "gloss": "abayibhalayo"
+    }
+  ],
+  "timestamp": "2026-09-18T11:11:44.556371504Z",
+  "model": "glm-5.3"
+}

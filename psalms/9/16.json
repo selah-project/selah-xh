@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 9:16",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 9,
+  "translation": "Amazwe atyhalele embobeni abayenzelayo; kuthotho abazifihlayo inyawo yabo ithathwe.",
+  "tokens": [
+    {
+      "surface": "טבעו",
+      "gloss": "atyhalele"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "Amazwe"
+    },
+    {
+      "surface": "בשחת",
+      "gloss": "embobeni"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "abayenzelayo"
+    },
+    {
+      "surface": "ברשת",
+      "gloss": "kuthotho"
+    },
+    {
+      "surface": "זו",
+      "gloss": "le"
+    },
+    {
+      "surface": "טמנו",
+      "gloss": "abazifihlayo"
+    },
+    {
+      "surface": "נלכדה",
+      "gloss": "ithathwe"
+    },
+    {
+      "surface": "רגלם",
+      "gloss": "inyawo yabo"
+    }
+  ],
+  "timestamp": "2026-09-18T14:30:52.235644170Z",
+  "model": "glm-5.3"
+}

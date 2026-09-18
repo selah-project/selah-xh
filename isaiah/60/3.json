@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 60:3",
+  "book": "isaiah",
+  "lang": "xh",
+  "chapter": 60,
+  "translation": "Iintlanga ziya kuhambla ekukhanyeni kwakho, neenkosi ekukhanyeni kokuvuthuza kwakho.",
+  "tokens": [
+    {
+      "surface": "והלכו",
+      "gloss": "ziya kuhambla"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "Iintlanga"
+    },
+    {
+      "surface": "לאורך",
+      "gloss": "ekukhanyeni kwakho"
+    },
+    {
+      "surface": "ומלכים",
+      "gloss": "neenkosi"
+    },
+    {
+      "surface": "לנגה",
+      "gloss": "ekukhanyeni"
+    },
+    {
+      "surface": "זרחך",
+      "gloss": "kokuvuthuza kwakho"
+    }
+  ],
+  "timestamp": "2026-09-18T11:46:34.900024405Z",
+  "model": "glm-5.3"
+}

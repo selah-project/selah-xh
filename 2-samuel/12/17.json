@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-samuel 12:17",
+  "book": "2-samuel",
+  "lang": "xh",
+  "chapter": 12,
+  "translation": "Aphakamile oomdala bekaya lakhe, bemiswe kuuye ukummusa emhlabeni; yena wala, waza wangatya isonka nabo ⟨אתם⟩.",
+  "tokens": [
+    {
+      "surface": "ויקמו",
+      "gloss": "aphakamile"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "oomdala"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "bekaya lakhe"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "kuuye"
+    },
+    {
+      "surface": "להקימו",
+      "gloss": "ukummusa"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "emhlabeni"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "yena wala"
+    },
+    {
+      "surface": "אבה",
+      "gloss": "wamkela"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "waza wang-"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "-atya"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "nabo"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "isonka"
+    }
+  ],
+  "timestamp": "2026-09-18T09:53:26.171873649Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 39:5",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 39,
+  "translation": "Yandazise, uYahwe, isiphelo sam, nommilinganiso wam wamalanga — yintoni-na? Ndize ndazi ukuba ndiphelile ndini mna.",
+  "tokens": [
+    {
+      "surface": "הודיעני",
+      "gloss": "Yandazise"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "קצי",
+      "gloss": "isiphelo sam"
+    },
+    {
+      "surface": "ומדת",
+      "gloss": "nommilinganiso"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "wamalanga am"
+    },
+    {
+      "surface": "מה",
+      "gloss": "yintoni"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨yena⟩"
+    },
+    {
+      "surface": "אדעה",
+      "gloss": "ndize ndazi"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ukuba"
+    },
+    {
+      "surface": "חדל",
+      "gloss": "ndiphelile"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mna"
+    }
+  ],
+  "timestamp": "2026-09-18T14:45:00.308426288Z",
+  "model": "glm-5.3"
+}

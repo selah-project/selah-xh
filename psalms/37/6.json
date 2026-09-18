@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 37:6",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 37,
+  "translation": "Uza kukhulula ⟨njengekhanda lokukhanya⟩ ulungelo lwakho, nelinga lokwahlula lakho njengaselanga semini.",
+  "tokens": [
+    {
+      "surface": "והוציא",
+      "gloss": "Uza kukhulula"
+    },
+    {
+      "surface": "כאור",
+      "gloss": "njengokukhanya"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "ulungelo lwakho"
+    },
+    {
+      "surface": "ומשפטך",
+      "gloss": "nelinga lokwahlula lakho"
+    },
+    {
+      "surface": "כצהרים",
+      "gloss": "njengaselanga semini"
+    }
+  ],
+  "timestamp": "2026-09-18T14:42:21.087920846Z",
+  "model": "glm-5.3"
+}

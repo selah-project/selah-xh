@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "2-kings 3:23",
+  "book": "2-kings",
+  "lang": "xh",
+  "chapter": 3,
+  "translation": "Bathi: “Yiligazi le! Amakhosi atshatyalaliswe ngokwenene, aye kudabula omnye omnye; ngoko nangoku, kuhlutha, uMowabi!”",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "Bathi"
+    },
+    {
+      "surface": "דם",
+      "gloss": "Yiligazi"
+    },
+    {
+      "surface": "זה",
+      "gloss": "le"
+    },
+    {
+      "surface": "החרב",
+      "gloss": "atshatyalaliswe"
+    },
+    {
+      "surface": "נחרבו",
+      "gloss": "ngokwenene"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "Amakhosi"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "aye kudabula"
+    },
+    {
+      "surface": "איש",
+      "gloss": "omnye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "omnye (umhlobo wakhe)"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "omnye"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "ngoko nangoku"
+    },
+    {
+      "surface": "לשלל",
+      "gloss": "kuhlutha"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "uMowabi"
+    }
+  ],
+  "timestamp": "2026-09-18T10:39:40.790649960Z",
+  "model": "glm-5.3"
+}

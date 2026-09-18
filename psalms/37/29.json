@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "psalms 37:29",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 37,
+  "translation": "Abalungileyo baya kulifa ⟨את⟩ umhlaba, baya kuhlala kuwo ngokuungapheli.",
+  "tokens": [
+    {
+      "surface": "צדיקים",
+      "gloss": "abalungileyo"
+    },
+    {
+      "surface": "יירשו",
+      "gloss": "baya kulifa"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "umhlaba"
+    },
+    {
+      "surface": "וישכנו",
+      "gloss": "baya kuhlala"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "ngokuungapheli"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "kuwo"
+    }
+  ],
+  "timestamp": "2026-09-18T14:42:39.270979099Z",
+  "model": "glm-5.3"
+}

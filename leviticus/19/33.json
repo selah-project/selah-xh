@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "leviticus 19:33",
+  "book": "leviticus",
+  "lang": "xh",
+  "chapter": 19,
+  "translation": "Kwaye ukuba umhambi ahlala nani ⟨אתך⟩ elwini lenu, musani ukumnukubeza ⟨אתו⟩.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "kwaye ukuba"
+    },
+    {
+      "surface": "יגור",
+      "gloss": "ahlala"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨אתך⟩",
+      "marks": "nani"
+    },
+    {
+      "surface": "גר",
+      "gloss": "umhambi"
+    },
+    {
+      "surface": "בארצכם",
+      "gloss": "elwini lenu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "musani"
+    },
+    {
+      "surface": "תונו",
+      "gloss": "ukumnukubeza"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "umhambi"
+    }
+  ],
+  "timestamp": "2026-09-18T06:58:12.779006962Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 57:1",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 57,
+  "translation": "Kumlawuli. ‘Musa ukutshatyalalisa.’ Ipesika kaDavide, umkhitham, ebalekela ubuso bukaShawuli, emgovukeni.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Kumlawuli"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Musa"
+    },
+    {
+      "surface": "תשחת",
+      "gloss": "ukutshatyalalisa"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "kaDavide"
+    },
+    {
+      "surface": "מכתם",
+      "gloss": "umkhitham"
+    },
+    {
+      "surface": "בברחו",
+      "gloss": "ebalekela"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "ubuso buka"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shawuli"
+    },
+    {
+      "surface": "במערה",
+      "gloss": "emgovukeni"
+    }
+  ],
+  "timestamp": "2026-09-18T14:52:02.735803893Z",
+  "model": "glm-5.3"
+}

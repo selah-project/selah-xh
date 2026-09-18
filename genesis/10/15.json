@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 10:15",
+  "book": "genesis",
+  "lang": "xh",
+  "chapter": 10,
+  "translation": "UKhanaana wazala ⟨את⟩ uTsidoni, umntwana wakhe wokuqala, ⟨ואת⟩ uChethi.",
+  "tokens": [
+    {
+      "surface": "וכנען",
+      "gloss": "UKhanaana"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "wazala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uTsidoni"
+    },
+    {
+      "surface": "צידן",
+      "gloss": "uTsidoni"
+    },
+    {
+      "surface": "בכרו",
+      "gloss": "umntwana wakhe wokuqala"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨ואת⟩",
+      "marks": "uChethi"
+    },
+    {
+      "surface": "חת",
+      "gloss": "uChethi"
+    }
+  ],
+  "timestamp": "2026-09-18T05:11:45.946628116Z",
+  "model": "glm-5.3"
+}

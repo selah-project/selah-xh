@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 30:9",
+  "book": "jeremiah",
+  "lang": "xh",
+  "chapter": 30,
+  "translation": "Baza kukhonza ⟨את⟩ uYahwe uElohim wabo, no⟨את⟩ uDawidi inkosi yabo, endiza kumvusa kuwo.",
+  "tokens": [
+    {
+      "surface": "ועבדו",
+      "gloss": "baza kukhonza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uYahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "uElohim wabo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "no⟨את⟩",
+      "marks": "uDawidi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "uDawidi"
+    },
+    {
+      "surface": "מלכם",
+      "gloss": "inkosi yabo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "אקים",
+      "gloss": "endiza kumvusa"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kuwo"
+    }
+  ],
+  "timestamp": "2026-09-18T12:20:06.487266234Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 19:9",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 19,
+  "translation": "Izicwangciso zikaYahwe zilungileyo, ziyaligcoba intliziyo; umyalelo kaYahwe ucocekile, ukhanyisa amehlo.",
+  "tokens": [
+    {
+      "surface": "פקודי",
+      "gloss": "izicwangciso"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ukaYahwe"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "zilungileyo"
+    },
+    {
+      "surface": "משמחי",
+      "gloss": "ziyaligcoba"
+    },
+    {
+      "surface": "לב",
+      "gloss": "intliziyo"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "umyalelo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kaYahwe"
+    },
+    {
+      "surface": "ברה",
+      "gloss": "ucocekile"
+    },
+    {
+      "surface": "מאירת",
+      "gloss": "ukhanyisa"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "amehlo"
+    }
+  ],
+  "timestamp": "2026-09-18T14:33:44.084123214Z",
+  "model": "glm-5.3"
+}

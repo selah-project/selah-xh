@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 28:10",
+  "book": "isaiah",
+  "lang": "xh",
+  "chapter": 28,
+  "translation": "Kuba umyalelo kwangomnye umyalelo, umyalelo kwangomnye umyalelo, umgca kwangomnye umgca, umgca kwangomnye umgca, incinci apha, incinci apha.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "צו",
+      "gloss": "umyalelo"
+    },
+    {
+      "surface": "לצו",
+      "gloss": "kwangomnye umyalelo"
+    },
+    {
+      "surface": "צו",
+      "gloss": "umyalelo"
+    },
+    {
+      "surface": "לצו",
+      "gloss": "kwangomnye umyalelo"
+    },
+    {
+      "surface": "קו",
+      "gloss": "umgca"
+    },
+    {
+      "surface": "לקו",
+      "gloss": "kwangomnye umgca"
+    },
+    {
+      "surface": "קו",
+      "gloss": "umgca"
+    },
+    {
+      "surface": "לקו",
+      "gloss": "kwangomnye umgca"
+    },
+    {
+      "surface": "זעיר",
+      "gloss": "incinci"
+    },
+    {
+      "surface": "שם",
+      "gloss": "apha"
+    },
+    {
+      "surface": "זעיר",
+      "gloss": "incinci"
+    },
+    {
+      "surface": "שם",
+      "gloss": "apha"
+    }
+  ],
+  "timestamp": "2026-09-18T11:19:45.927806933Z",
+  "model": "glm-5.3"
+}

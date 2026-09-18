@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 22:30",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 22,
+  "translation": "Bayakutya bakhothama onke oocebileyo bomhlaba; phambi kwakhe bayakuthothoza onke abahla ngemithutho, yaye umphefumlo ⟨wakhe⟩ awuphili.",
+  "tokens": [
+    {
+      "surface": "אכלו",
+      "gloss": "bayakutya"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "bakhothama"
+    },
+    {
+      "surface": "כל",
+      "gloss": "onke"
+    },
+    {
+      "surface": "דשני",
+      "gloss": "oocebileyo"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "bomhlaba"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "phambi kwakhe"
+    },
+    {
+      "surface": "יכרעו",
+      "gloss": "bayakuthothoza"
+    },
+    {
+      "surface": "כל",
+      "gloss": "onke"
+    },
+    {
+      "surface": "יורדי",
+      "gloss": "abahlayo"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "ngemithutho"
+    },
+    {
+      "surface": "ונפשו",
+      "gloss": "umphefumlo wakhe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "akha- (hayi)"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "uphili"
+    }
+  ],
+  "timestamp": "2026-09-18T14:35:43.817138996Z",
+  "model": "glm-5.3"
+}

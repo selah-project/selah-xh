@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 31:6",
+  "book": "numbers",
+  "lang": "xh",
+  "chapter": 31,
+  "translation": "Umoshe wawathumela, iwaka ngasizwe ngasinye, kwimpi — wona ⟨אתם⟩, noPinechas ⟨ואת⟩ unyana ka-Elazari, ebingeleli, kwimpi; nezixhobo zangokungcwele neetrampeti zokuvakalisa, ezandweni zakhe.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "wawathumela"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "wawathumela (iwaka ngasizwe)"
+    },
+    {
+      "surface": "משה",
+      "gloss": "uMoshe"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "iwaka"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "ngasizwe ngasinye"
+    },
+    {
+      "surface": "לצבא",
+      "gloss": "kwimpi"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "wona"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "noPinechas"
+    },
+    {
+      "surface": "פינחס",
+      "gloss": "uPinechas"
+    },
+    {
+      "surface": "בן",
+      "gloss": "unyana"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "ka-Elazari"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ebingeleli"
+    },
+    {
+      "surface": "לצבא",
+      "gloss": "kwimpi"
+    },
+    {
+      "surface": "וכלי",
+      "gloss": "nezixhobo"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "zangokungcwele"
+    },
+    {
+      "surface": "וחצצרות",
+      "gloss": "neetrampeti"
+    },
+    {
+      "surface": "התרועה",
+      "gloss": "zokuvakalisa"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "ezandweni zakhe"
+    }
+  ],
+  "timestamp": "2026-09-18T07:47:00.977716507Z",
+  "model": "glm-5.3"
+}

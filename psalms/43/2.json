@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 43:2",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 43,
+  "translation": "Kuba wena nguElohim, umgangatho wam oqinileyo; kutheni undishiye? Kutheni ndihamba ndisenzwa ngenxa kokunyathelwa sisitha?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kuba"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "מעוזי",
+      "gloss": "umgangatho wam oqinileyo"
+    },
+    {
+      "surface": "למה",
+      "gloss": "kutheni"
+    },
+    {
+      "surface": "זנחתני",
+      "gloss": "undishiye"
+    },
+    {
+      "surface": "למה",
+      "gloss": "kutheni"
+    },
+    {
+      "surface": "קדר",
+      "gloss": "ndisenzwa"
+    },
+    {
+      "surface": "אתהלך",
+      "gloss": "ndihamba"
+    },
+    {
+      "surface": "בלחץ",
+      "gloss": "ngenxa kokunyathelwa"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "sisitha"
+    }
+  ],
+  "timestamp": "2026-09-18T14:45:38.430136592Z",
+  "model": "glm-5.3"
+}

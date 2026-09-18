@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "joshua 18:20",
+  "book": "joshua",
+  "lang": "xh",
+  "chapter": 18,
+  "translation": "IYordani yamdlobla ngaseMpuma. Le yinxalenye yelifa leSizukulwana sikaBhenyamini, ngemida yayo iyekele, ngokweentsapho zabo.",
+  "tokens": [
+    {
+      "surface": "והירדן",
+      "gloss": "IYordani"
+    },
+    {
+      "surface": "יגבל",
+      "gloss": "yamdlobla"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "yena (umdlobla lowo)"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "ngase-"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "Mpuma"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "Le"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "yinxalenye yelifa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "leSizukulwana"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "sikaBhenyamini"
+    },
+    {
+      "surface": "לגבולתיה",
+      "gloss": "ngemida yayo"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "iyekele"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "ngokweentsapho zabo"
+    }
+  ],
+  "timestamp": "2026-09-18T08:40:25.020436178Z",
+  "model": "glm-5.3"
+}

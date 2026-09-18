@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 83:2",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 83,
+  "translation": "uElohim, musa ukuthula, ungabi nive, ungahlali usesinyanweni, u-El.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "musa"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "ukuthula"
+    },
+    {
+      "surface": "לך",
+      "gloss": "⟨kuwe⟩"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ungabi"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "nive"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ungahlali"
+    },
+    {
+      "surface": "תשקט",
+      "gloss": "sesinyanweni"
+    },
+    {
+      "surface": "אל",
+      "gloss": "u-El"
+    }
+  ],
+  "timestamp": "2026-09-18T15:04:45.573623764Z",
+  "model": "glm-5.3"
+}

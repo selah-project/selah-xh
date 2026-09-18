@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 5:7",
+  "book": "2-samuel",
+  "lang": "xh",
+  "chapter": 5,
+  "translation": "UDavide wayithabatha ⟨את⟩ indawo eqinileyo yeTsiyoni; yona le ⟨yi⟩sixeko sikaDavide.",
+  "tokens": [
+    {
+      "surface": "וילכד",
+      "gloss": "wayithabatha"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "uDavide"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "indawo eqinileyo"
+    },
+    {
+      "surface": "מצדת",
+      "gloss": "indawo eqinileyo"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "yeTsiyoni"
+    },
+    {
+      "surface": "היא",
+      "gloss": "yona le"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "isixeko"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "sikaDavide"
+    }
+  ],
+  "timestamp": "2026-09-18T09:49:43.831343314Z",
+  "model": "glm-5.3"
+}

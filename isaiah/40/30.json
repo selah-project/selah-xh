@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "isaiah 40:30",
+  "book": "isaiah",
+  "lang": "xh",
+  "chapter": 40,
+  "translation": "Amakhwenkwe aya kudinwa, adandatheka; abafana baya kuwela de bengankululekanga.",
+  "tokens": [
+    {
+      "surface": "ויעפו",
+      "gloss": "aya kudinwa"
+    },
+    {
+      "surface": "נערים",
+      "gloss": "amakhwenkwe"
+    },
+    {
+      "surface": "ויגעו",
+      "gloss": "adandatheka"
+    },
+    {
+      "surface": "ובחורים",
+      "gloss": "abafana"
+    },
+    {
+      "surface": "כשול",
+      "gloss": "kuwela"
+    },
+    {
+      "surface": "יכשלו",
+      "gloss": "baya kuwela"
+    }
+  ],
+  "timestamp": "2026-09-18T11:31:02.979163908Z",
+  "model": "glm-5.3"
+}

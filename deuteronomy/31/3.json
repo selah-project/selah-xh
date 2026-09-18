@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 31:3",
+  "book": "deuteronomy",
+  "lang": "xh",
+  "chapter": 31,
+  "translation": "uYahwe, uElohim wakhe, nguye oza kudlula phambi kwakho; yena uza kutshabalalisa ⟨את⟩ ezi ntlanga ezi phambi kwakho, uze uzibambele kuwo; uYehoshuwa nguye oza kudlula phambi kwakho, njengoko wathetha uYahwe.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "uElohim wakho"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "nguye"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "oza kudlula"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "phambi kwakho"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yena"
+    },
+    {
+      "surface": "ישמיד",
+      "gloss": "uza kutshabalalisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ezi ntlanga"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "iintlanga"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ezi"
+    },
+    {
+      "surface": "מלפניך",
+      "gloss": "phambi kwakho"
+    },
+    {
+      "surface": "וירשתם",
+      "gloss": "uze uzibambele kuwo"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "uYehoshuwa"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "nguye"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "oza kudlula"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "phambi kwakho"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "njengoko"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "wathetha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    }
+  ],
+  "timestamp": "2026-09-18T08:25:21.360048311Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jonah 4:3",
+  "book": "jonah",
+  "lang": "xh",
+  "chapter": 4,
+  "translation": "Kuthiwa ngoku, Yahwe, nceda thatha ⟨את⟩ umphefumlo wam kum, kuba ukufa kwam kulungile kunobomi bam.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "kuthiwa ngoku"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "קח",
+      "gloss": "thatha"
+    },
+    {
+      "surface": "נא",
+      "gloss": "nceda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umphefumlo wam"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "umphefumlo wam"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "kum"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "kulungile"
+    },
+    {
+      "surface": "מותי",
+      "gloss": "ukufa kwam"
+    },
+    {
+      "surface": "מחיי",
+      "gloss": "kunobomi bam"
+    }
+  ],
+  "timestamp": "2026-09-18T14:01:20.463951994Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 2:4",
+  "book": "1-chronicles",
+  "lang": "xh",
+  "chapter": 2,
+  "translation": "UThamar, umlombu wakhe, wamzalela uPheretzi noZerahi; onke amabantwana bakaYehuda ayisihlanu.",
+  "tokens": [
+    {
+      "surface": "ותמר",
+      "gloss": "UThamar"
+    },
+    {
+      "surface": "כלתו",
+      "gloss": "umlombu wakhe"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "wamzalela"
+    },
+    {
+      "surface": "לו",
+      "gloss": ""
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uPheretzi"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "uPheretzi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "noZerahi"
+    },
+    {
+      "surface": "זרח",
+      "gloss": "noZerahi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "onke"
+    },
+    {
+      "surface": "בני",
+      "gloss": "amabantwana"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "bakaYehuda"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "ayisihlanu"
+    }
+  ],
+  "timestamp": "2026-09-18T16:50:58.701520092Z",
+  "model": "glm-5.3"
+}

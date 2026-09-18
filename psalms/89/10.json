@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 89:10",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 89,
+  "translation": "Wena ulawula ukuqhushumbeka kolwandle; xa amazaqo alo esenyuka, wena uwayeza.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Wena"
+    },
+    {
+      "surface": "מושל",
+      "gloss": "ulawula"
+    },
+    {
+      "surface": "בגאות",
+      "gloss": "ukwazeya kolwandle"
+    },
+    {
+      "surface": "הים",
+      "gloss": "kolwandle"
+    },
+    {
+      "surface": "בשוא",
+      "gloss": "xa esenyuka"
+    },
+    {
+      "surface": "גליו",
+      "gloss": "amazaqo alo"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "תשבחם",
+      "gloss": "uwayeza"
+    }
+  ],
+  "timestamp": "2026-09-18T15:08:05.022817181Z",
+  "model": "glm-5.3"
+}

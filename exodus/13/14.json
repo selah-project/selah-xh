@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 13:14",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 13,
+  "translation": "Iza kuba njalo: xa unyana wakhu ebuzayo ngomso, ethi: “Kutheni oku?” uya kumthethela ukuba: “Ngamandla esandla uYahwe wasikhupha eMitsrayim, endlwini yamakhoboka.”",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "iza kuba njalo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "xa"
+    },
+    {
+      "surface": "ישאלך",
+      "gloss": "unyana wakhu ebuzayo"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "unyana wakhu"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "ngomso"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ethi"
+    },
+    {
+      "surface": "מה",
+      "gloss": "kutheni"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "oku"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "uya kumthethela"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kuye"
+    },
+    {
+      "surface": "בחזק",
+      "gloss": "ngamandla"
+    },
+    {
+      "surface": "יד",
+      "gloss": "esandla"
+    },
+    {
+      "surface": "הוציאנו",
+      "gloss": "wasikhupha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "eMitsrayim"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "endlwini"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "yamakhoboka"
+    }
+  ],
+  "timestamp": "2026-09-18T06:01:45.427882568Z",
+  "model": "glm-5.3"
+}

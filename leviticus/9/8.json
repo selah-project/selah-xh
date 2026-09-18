@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 9:8",
+  "book": "leviticus",
+  "lang": "xh",
+  "chapter": 9,
+  "translation": "Wasondela u-Aharon etyhubileni, wabulala ⟨את⟩ isana senkomesi yesono elakhe.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "wasondela"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "u-Aharon"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e-"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "tyhubileni"
+    },
+    {
+      "surface": "וישחט",
+      "gloss": "wabulala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isana senkomesi"
+    },
+    {
+      "surface": "עגל",
+      "gloss": "isana senkomesi"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "yesono"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oko"
+    },
+    {
+      "surface": "לו",
+      "gloss": "elakhe"
+    }
+  ],
+  "timestamp": "2026-09-18T06:42:47.839743524Z",
+  "model": "glm-5.3"
+}

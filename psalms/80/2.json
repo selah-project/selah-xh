@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 80:2",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 80,
+  "translation": "Wena umalusi wakwa-Israyeli, ndivulele indlebe; owakhokhelayo uYosef njengeefusi; ehleli phezu kweekherubhim, khanya.",
+  "tokens": [
+    {
+      "surface": "רעה",
+      "gloss": "umalusi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "wakwa-Israyeli"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "ndivulele indlebe"
+    },
+    {
+      "surface": "נהג",
+      "gloss": "owakhokhelayo"
+    },
+    {
+      "surface": "כצאן",
+      "gloss": "njengeefusi"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "uYosef"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "ehleli"
+    },
+    {
+      "surface": "הכרובים",
+      "gloss": "phezu kweekherubhim"
+    },
+    {
+      "surface": "הופיעה",
+      "gloss": "khanya"
+    }
+  ],
+  "timestamp": "2026-09-18T17:44:42.181743716Z",
+  "model": "glm-5.3"
+}

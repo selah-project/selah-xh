@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 103:20",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 103,
+  "translation": "Bulela uYahwe, zithunywa zakhe, anamandlaakhulu (amandla enkosi ethile), azenza ilizwi lakhe, okulalela ilizwi lakhe elizwisayo.",
+  "tokens": [
+    {
+      "surface": "ברכו",
+      "gloss": "Bulela"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "מלאכיו",
+      "gloss": "zithunywa zakhe"
+    },
+    {
+      "surface": "גברי",
+      "gloss": "anamandla (amadoda akreleklele)"
+    },
+    {
+      "surface": "כח",
+      "gloss": "amandla"
+    },
+    {
+      "surface": "עשי",
+      "gloss": "azenza"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "ilizwi lakhe (umthetho wakhe)"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "okulalela"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "ilizwi"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "elivakalayo elivela kuye"
+    }
+  ],
+  "timestamp": "2026-09-18T15:13:24.050588870Z",
+  "model": "glm-5.3"
+}

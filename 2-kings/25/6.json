@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 25:6",
+  "book": "2-kings",
+  "lang": "xh",
+  "chapter": 25,
+  "translation": "Baza bathatha ⟨את⟩ inkosi, bamisa ⟨את⟩ kuNkosi yaseBhabheli, eRiblata; baza bathetha naye ⟨את⟩ ugwebo.",
+  "tokens": [
+    {
+      "surface": "ויתפשו",
+      "gloss": "bathatha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "inkosi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "inkosi"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "bamisa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ yena",
+      "marks": "kuNkosi yaseBhabheli"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "Nkosi"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "yaseBhabheli"
+    },
+    {
+      "surface": "רבלתה",
+      "gloss": "eRiblata"
+    },
+    {
+      "surface": "וידברו",
+      "gloss": "bathetha"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ naye",
+      "marks": "ugwebo"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ugwebo"
+    }
+  ],
+  "timestamp": "2026-09-18T11:00:47.016549610Z",
+  "model": "glm-5.3"
+}

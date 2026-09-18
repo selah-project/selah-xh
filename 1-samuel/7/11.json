@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 7:11",
+  "book": "1-samuel",
+  "lang": "xh",
+  "chapter": 7,
+  "translation": "Aphuma amadoda kaSirayeli avela kwiMitspa, balandela ⟨את⟩ abaFilisti, basibetha kwangangokude kwezantsi kweBheti-Kar.",
+  "tokens": [
+    {
+      "surface": "ויצאו",
+      "gloss": "aphuma"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "amadoda ka"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Sirayeli"
+    },
+    {
+      "surface": "מן",
+      "gloss": "avela kwi"
+    },
+    {
+      "surface": "המצפה",
+      "gloss": "iMitspa"
+    },
+    {
+      "surface": "וירדפו",
+      "gloss": "balandela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abaFilisti"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "abaFilisti"
+    },
+    {
+      "surface": "ויכום",
+      "gloss": "basibetha"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kwangangokude"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "kwezantsi"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "kwiBheti"
+    },
+    {
+      "surface": "כר",
+      "gloss": "Kar"
+    }
+  ],
+  "timestamp": "2026-09-18T09:15:40.955355768Z",
+  "model": "glm-5.3"
+}

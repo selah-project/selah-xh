@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 41:6",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 41,
+  "translation": "Oochasi bam bathetha ububi ngam, bethi: “Nini na aza kufa, negama lakhe liza kutshabalala?”",
+  "tokens": [
+    {
+      "surface": "אויבי",
+      "gloss": "Oochasi bam"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "bathetha"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ububi"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ngam"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "Nini na"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "aza kufa"
+    },
+    {
+      "surface": "ואבד",
+      "gloss": "liza kutshabalala"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "negama lakhe"
+    }
+  ],
+  "timestamp": "2026-09-18T14:44:38.747784719Z",
+  "model": "glm-5.3"
+}

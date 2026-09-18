@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 10:17",
+  "book": "genesis",
+  "lang": "xh",
+  "chapter": 10,
+  "translation": "Naye ⟨את⟩ uHivi, naye ⟨את⟩ uArki, naye ⟨את⟩ uSini,",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "naye ⟨את⟩",
+      "marks": "uHivi"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "uHivi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "naye ⟨את⟩",
+      "marks": "uArki"
+    },
+    {
+      "surface": "הערקי",
+      "gloss": "uArki"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "naye ⟨את⟩",
+      "marks": "uSini"
+    },
+    {
+      "surface": "הסיני",
+      "gloss": "uSini"
+    }
+  ],
+  "timestamp": "2026-09-18T05:11:49.682850032Z",
+  "model": "glm-5.3"
+}

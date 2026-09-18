@@ -1,0 +1,109 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 13:5",
+  "book": "1-samuel",
+  "lang": "xh",
+  "chapter": 13,
+  "translation": "AmaPelishti aqokelelana ukulwa neYisraeli — amakhari amawaka amashumi amathathu, nabahasi amawaka amathandathu, nabantu abanjengesihlabati esikumda wolwandle ngobuninzi; anyuka, ayamisa amatenti eMikmashi, ngasempuma kweBeyit-Aveni.",
+  "tokens": [
+    {
+      "surface": "ופלשתים",
+      "gloss": "amaPelishti"
+    },
+    {
+      "surface": "נאספו",
+      "gloss": "aqokelelana"
+    },
+    {
+      "surface": "להלחם",
+      "gloss": "ukulwa"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ne-"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "iYisraeli"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "amashumi amathathu"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "amawaka"
+    },
+    {
+      "surface": "רכב",
+      "gloss": "amakhari"
+    },
+    {
+      "surface": "וששת",
+      "gloss": "amathandathu"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "amawaka"
+    },
+    {
+      "surface": "פרשים",
+      "gloss": "abahasi"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "nabantu"
+    },
+    {
+      "surface": "כחול",
+      "gloss": "abanjengesihlabati"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "esikumda"
+    },
+    {
+      "surface": "על",
+      "gloss": "wolwandle"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "umda"
+    },
+    {
+      "surface": "הים",
+      "gloss": "lolwandle"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "ngobuninzi"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "anyuka"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "ayamisa amatenti"
+    },
+    {
+      "surface": "במכמש",
+      "gloss": "eMikmashi"
+    },
+    {
+      "surface": "קדמת",
+      "gloss": "ngasempuma"
+    },
+    {
+      "surface": "בית",
+      "gloss": "kweBeyit-"
+    },
+    {
+      "surface": "און",
+      "gloss": "Aveni"
+    }
+  ],
+  "timestamp": "2026-09-18T09:20:55.365214976Z",
+  "model": "glm-5.3"
+}

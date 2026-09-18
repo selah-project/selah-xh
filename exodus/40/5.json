@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 40:5",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 40,
+  "translation": "Uza kubeka ⟨את⟩ i-altare yegolide yemphepho phambi kwebhokhwe yobungqina, uze ubeka ⟨את⟩ ikhathini komnyango wehema.",
+  "tokens": [
+    {
+      "surface": "ונתתה",
+      "gloss": "uza kubeka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i-altare yegolide yemphepho"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "i-altare"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "yegolide"
+    },
+    {
+      "surface": "לקטרת",
+      "gloss": "yemphepho"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "phambi kwe"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "bhokhwe"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "yobungqina"
+    },
+    {
+      "surface": "ושמת",
+      "gloss": "uze ubeka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ikhathini komnyango wehema"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "ikhathini"
+    },
+    {
+      "surface": "הפתח",
+      "gloss": "komnyango"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "wehema"
+    }
+  ],
+  "timestamp": "2026-09-18T06:31:35.283538383Z",
+  "model": "glm-5.3"
+}

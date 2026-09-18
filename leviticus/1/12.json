@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 1:12",
+  "book": "leviticus",
+  "lang": "xh",
+  "chapter": 1,
+  "translation": "Aze ayiceke ngeentshowa zalo, ⟨את⟩ intloko yalo no⟨את⟩ amafutha alo; umpristi uza kuzicwangcisa phezu kwezinti ezikumilio, umilio oselomthendeleko.",
+  "tokens": [
+    {
+      "surface": "ונתח",
+      "gloss": "aze ayiceke"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "iintshowa zalo"
+    },
+    {
+      "surface": "לנתחיו",
+      "gloss": "ngeentshowa zalo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "intloko yalo"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "intloko yalo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "amafutha alo"
+    },
+    {
+      "surface": "פדרו",
+      "gloss": "amafutha alo"
+    },
+    {
+      "surface": "וערך",
+      "gloss": "uza kuzicwangcisa"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "umpristi"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "zona (iintshowa, intloko, amafutha)"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "kwezinti"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ezikumilio"
+    },
+    {
+      "surface": "על",
+      "gloss": "kumilio"
+    },
+    {
+      "surface": "האש",
+      "gloss": "umilio"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "osela"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "omthendeleko"
+    }
+  ],
+  "timestamp": "2026-09-18T17:22:10.779735431Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 33:4",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 33,
+  "translation": "Kuba ilizwi likaYahwe lungeneyo, yaye yonke imisebenzi yakhe ⟨enjalo⟩ ngokuthembeka.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kuba"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "lungeneyo"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ilizwi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ukaYahwe"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "yaye yonke"
+    },
+    {
+      "surface": "מעשהו",
+      "gloss": "imisebenzi yakhe"
+    },
+    {
+      "surface": "באמונה",
+      "gloss": "ngokuthembeka"
+    }
+  ],
+  "timestamp": "2026-09-18T14:41:25.866433717Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 108:3",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 108,
+  "translation": "Vukani, ineveli nekinora; ndiza kuvusa ikusasa.",
+  "tokens": [
+    {
+      "surface": "עורה",
+      "gloss": "Vukani"
+    },
+    {
+      "surface": "הנבל",
+      "gloss": "ineveli"
+    },
+    {
+      "surface": "וכנור",
+      "gloss": "nekinora"
+    },
+    {
+      "surface": "אעירה",
+      "gloss": "ndiza kuvusa"
+    },
+    {
+      "surface": "שחר",
+      "gloss": "ikusasa"
+    }
+  ],
+  "timestamp": "2026-09-18T15:20:17.099456866Z",
+  "model": "glm-5.3"
+}

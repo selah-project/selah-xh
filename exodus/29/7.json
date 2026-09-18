@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 29:7",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 29,
+  "translation": "Uza kutbahath ⟨את⟩ ioyile yokuthanjiswa, uze wayichitha phezu kweentloko zakhe, umze athanjise.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "Uza kutbahath"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ioyile yokuthanjiswa"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "ioyile"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "yokuthanjiswa"
+    },
+    {
+      "surface": "ויצקת",
+      "gloss": "uze wayichitha"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu kwe-"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "iintloko zakhe"
+    },
+    {
+      "surface": "ומשחת",
+      "gloss": "umze athanjise"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "yena"
+    }
+  ],
+  "timestamp": "2026-09-18T17:21:25.270911881Z",
+  "model": "glm-5.3"
+}

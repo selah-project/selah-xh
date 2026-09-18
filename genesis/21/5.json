@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 21:5",
+  "book": "genesis",
+  "lang": "xh",
+  "chapter": 21,
+  "translation": "Wathi u-Avraham eneminyaka engama-leyi anxalenye yesiqingatha senkulungwane ngomhla wokuzalwa kukaYitshaka unyana wakhe.",
+  "tokens": [
+    {
+      "surface": "ואברהם",
+      "gloss": "Wathi u-Avraham"
+    },
+    {
+      "surface": "בן",
+      "gloss": "unyana"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "elixesha leminyaka engama-leyi nxalenye yesiqingatha senkulungwane"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "iminyaka"
+    },
+    {
+      "surface": "בהולד",
+      "gloss": "ngomhla wokuzalwa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kuye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uYitshaka"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "uYitshaka"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "unyana wakhe"
+    }
+  ],
+  "timestamp": "2026-09-18T05:18:04.254359211Z",
+  "model": "glm-5.3"
+}

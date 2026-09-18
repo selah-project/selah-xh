@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 71:16",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 71,
+  "translation": "Ndiza kungena ngamandla ka-Adonayi Yahwe; ndiza kukhankanya ubulungisa bakho, bakho lodwa.",
+  "tokens": [
+    {
+      "surface": "אבוא",
+      "gloss": "ndiza kungena"
+    },
+    {
+      "surface": "בגברות",
+      "gloss": "ngamandla ka"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "u-Adonayi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אזכיר",
+      "gloss": "ndiza kukhankanya"
+    },
+    {
+      "surface": "צדקתך",
+      "gloss": "ubulungisa bakho"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "bakho lodwa"
+    }
+  ],
+  "timestamp": "2026-09-18T14:57:42.737973186Z",
+  "model": "glm-5.3"
+}

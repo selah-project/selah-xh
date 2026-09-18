@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ecclesiastes 2:25",
+  "book": "ecclesiastes",
+  "lang": "xh",
+  "chapter": 2,
+  "translation": "Kuba ngubani oza kutya, ngubani oza kumkhawulezela ngokwezinto ezingaphandle, ngaphezu kwam?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ngubani"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "oza kutya"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "ngubani"
+    },
+    {
+      "surface": "יחוש",
+      "gloss": "oza kumkhawulezela"
+    },
+    {
+      "surface": "חוץ",
+      "gloss": "ezingaphandle"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "ngaphezu kwam"
+    }
+  ],
+  "timestamp": "2026-09-18T16:23:33.138209749Z",
+  "model": "glm-5.3"
+}

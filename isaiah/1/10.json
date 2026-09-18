@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 1:10",
+  "book": "isaiah",
+  "lang": "xh",
+  "chapter": 1,
+  "translation": "Lithweni ilizwi likaYahwe, nina nkomzi zeSodoma; leleni nendlebe iTora kaElohim wethu, bantu baseAmora!",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "lithweni"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ilizwi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "likaYahwe"
+    },
+    {
+      "surface": "קציני",
+      "gloss": "nkomzi"
+    },
+    {
+      "surface": "סדם",
+      "gloss": "zeSodoma"
+    },
+    {
+      "surface": "האזינו",
+      "gloss": "leleni nendlebe"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "iTora"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "kaElohim wethu"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bantu"
+    },
+    {
+      "surface": "עמרה",
+      "gloss": "baseAmora"
+    }
+  ],
+  "timestamp": "2026-09-18T11:00:16.006364547Z",
+  "model": "glm-5.3"
+}

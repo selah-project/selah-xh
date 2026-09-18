@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 1:5",
+  "book": "numbers",
+  "lang": "xh",
+  "chapter": 1,
+  "translation": "Kwaye le ngamaxabiso amagama amadoda aza kumila nani: kuRuwbeni, u-Elitsuri unyana kaShedejuri.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Kwaye le"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "amaxabiso amagama"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "amadoda"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aza"
+    },
+    {
+      "surface": "יעמדו",
+      "gloss": "kumila"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ nani"
+    },
+    {
+      "surface": "לראובן",
+      "gloss": "kuRuwbeni"
+    },
+    {
+      "surface": "אליצור",
+      "gloss": "u-Elitsuri"
+    },
+    {
+      "surface": "בן",
+      "gloss": "unyana"
+    },
+    {
+      "surface": "שדיאור",
+      "gloss": "kaShedejuri"
+    }
+  ],
+  "timestamp": "2026-09-18T07:07:36.955790449Z",
+  "model": "glm-5.3"
+}

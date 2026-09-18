@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "isaiah 48:19",
+  "book": "isaiah",
+  "lang": "xh",
+  "chapter": 48,
+  "translation": "nokuba imbewu yakho ibe njengomhlaba ocwangcisiweyo, iintlanzi eziphuma esiswini sakho zibe njengamathomuncu ayo; igama lakhe lingazingatyiwa, lingaphelelwa phambi kwam.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "nokuba ibe"
+    },
+    {
+      "surface": "כחול",
+      "gloss": "njengomhlaba ocwangcisiweyo"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "imbewu yakho"
+    },
+    {
+      "surface": "וצאצאי",
+      "gloss": "iintlanzi"
+    },
+    {
+      "surface": "מעיך",
+      "gloss": "eziphuma esiswini sakho"
+    },
+    {
+      "surface": "כמעתיו",
+      "gloss": "njengamathomuncu ayo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "linga-"
+    },
+    {
+      "surface": "יכרת",
+      "gloss": "-zingatyiwa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "linga-"
+    },
+    {
+      "surface": "ישמד",
+      "gloss": "-phelelwa"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "igama lakhe"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "phambi kwam"
+    }
+  ],
+  "timestamp": "2026-09-18T11:35:54.572516100Z",
+  "model": "glm-5.3"
+}

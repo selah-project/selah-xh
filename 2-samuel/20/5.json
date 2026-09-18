@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 20:5",
+  "book": "2-samuel",
+  "lang": "xh",
+  "chapter": 20,
+  "translation": "Waye u-Amasha waya ukubiza ⟨את⟩ uYehuda, kodwa watsala ixesha ngaphezu komqolo awaye umisile yena.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "waya"
+    },
+    {
+      "surface": "עמשא",
+      "gloss": "u-Amasha"
+    },
+    {
+      "surface": "להזעיק",
+      "gloss": "ukubiza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uYehuda"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "uYehuda"
+    },
+    {
+      "surface": "וייחר",
+      "gloss": "watsala ixesha"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ngaphezu"
+    },
+    {
+      "surface": "המועד",
+      "gloss": "komqolo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "owaye"
+    },
+    {
+      "surface": "יעדו",
+      "gloss": "umisile"
+    }
+  ],
+  "timestamp": "2026-09-18T10:03:21.233702359Z",
+  "model": "glm-5.3"
+}

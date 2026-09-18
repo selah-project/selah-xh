@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 114:4",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 114,
+  "translation": "Iintaba zadansa njengee-ramu, iinduli njengeelamzu zeflock.",
+  "tokens": [
+    {
+      "surface": "ההרים",
+      "gloss": "iintaba"
+    },
+    {
+      "surface": "רקדו",
+      "gloss": "zadansa"
+    },
+    {
+      "surface": "כאילים",
+      "gloss": "njengee-ramu"
+    },
+    {
+      "surface": "גבעות",
+      "gloss": "iinduli"
+    },
+    {
+      "surface": "כבני",
+      "gloss": "njengeelamzu"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "zeflock"
+    }
+  ],
+  "timestamp": "2026-09-18T17:44:59.812391959Z",
+  "model": "glm-5.3"
+}

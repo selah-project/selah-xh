@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "joshua 10:42",
+  "book": "joshua",
+  "lang": "xh",
+  "chapter": 10,
+  "translation": "No-⟨את⟩ onke la makhosi nange-⟨את⟩ ilizwe lawo uYehoshuwa wayibamba ngexesha elinye, kuba uYahwe uElohim kaSirayeli walwela iSirayeli.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "onke la makhosi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "onke"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "la makhosi"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "la"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ilizwe lawo"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "ilizwe lawo"
+    },
+    {
+      "surface": "לכד",
+      "gloss": "wayibamba"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "uYehoshuwa"
+    },
+    {
+      "surface": "פעם",
+      "gloss": "ngexesha"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "elinye"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "uElohim ka-"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Sirayeli"
+    },
+    {
+      "surface": "נלחם",
+      "gloss": "walwela"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "iSirayeli"
+    }
+  ],
+  "timestamp": "2026-09-18T08:36:15.863452443Z",
+  "model": "glm-5.3"
+}

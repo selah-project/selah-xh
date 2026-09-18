@@ -1,0 +1,120 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 2:3",
+  "book": "1-kings",
+  "lang": "xh",
+  "chapter": 2,
+  "translation": "Ugcinise ⟨את⟩ ukuGcinwa kukaYahwe uElohim wakho, ukuze uhambe ezindleleni zakhe, ukuzigcina imithetho yakhe, imiyalelo yakhe, izigwebo zakhe, neziqinisekiso zakhe, njengoko kubhaliweyo kuTora kaMoshe, ukuze uphumelele ⟨את⟩ yonke into oyenzayo nange⟨את⟩ yonke into ojikelelayo kuyo.",
+  "tokens": [
+    {
+      "surface": "ושמרת",
+      "gloss": "Ugcinise"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ukuGcinwa kukaYahwe"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "ukuGcinwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kaYahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "uElohim wakho"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "ukuze uhambe"
+    },
+    {
+      "surface": "בדרכיו",
+      "gloss": "ezindleleni zakhe"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "ukuzigcina"
+    },
+    {
+      "surface": "חקתיו",
+      "gloss": "imithetho yakhe"
+    },
+    {
+      "surface": "מצותיו",
+      "gloss": "imiyalelo yakhe"
+    },
+    {
+      "surface": "ומשפטיו",
+      "gloss": "izigwebo zakhe"
+    },
+    {
+      "surface": "ועדותיו",
+      "gloss": "neziqinisekiso zakhe"
+    },
+    {
+      "surface": "ככתוב",
+      "gloss": "njengoko kubhaliweyo"
+    },
+    {
+      "surface": "בתורת",
+      "gloss": "kuTora"
+    },
+    {
+      "surface": "משה",
+      "gloss": "kaMoshe"
+    },
+    {
+      "surface": "למען",
+      "gloss": "ukuze"
+    },
+    {
+      "surface": "תשכיל",
+      "gloss": "uphumelele"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yonke into oyenzayo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yonke"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "into"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "oyenzayo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "nange⟨את⟩",
+      "marks": "yonke into ojikelelayo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yonke"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "into"
+    },
+    {
+      "surface": "תפנה",
+      "gloss": "ojikelelayo"
+    },
+    {
+      "surface": "שם",
+      "gloss": "kuyo"
+    }
+  ],
+  "timestamp": "2026-09-18T10:11:32.049993482Z",
+  "model": "glm-5.3"
+}

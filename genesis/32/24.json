@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 32:24",
+  "book": "genesis",
+  "lang": "xh",
+  "chapter": 32,
+  "translation": "Wabathabatha, wabadlulis’ ⟨את⟩ umlambo, waza wadlulisa ⟨את⟩ konke anekhe.",
+  "tokens": [
+    {
+      "surface": "ויקחם",
+      "gloss": "Wabathabatha"
+    },
+    {
+      "surface": "ויעברם",
+      "gloss": "wabadlulisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umlambo"
+    },
+    {
+      "surface": "הנחל",
+      "gloss": "umlambo"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "waza wadlulisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "konke anekhe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "konke"
+    },
+    {
+      "surface": "לו",
+      "gloss": "anekhe"
+    }
+  ],
+  "timestamp": "2026-09-18T05:28:22.282100613Z",
+  "model": "glm-5.3"
+}

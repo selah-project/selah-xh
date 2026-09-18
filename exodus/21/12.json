@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 21:12",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 21,
+  "translation": "Owasela ⟨איש⟩ umntu waza wafa, ngokwenene makabulawe ngefa.",
+  "tokens": [
+    {
+      "surface": "מכה",
+      "gloss": "owasela"
+    },
+    {
+      "surface": "איש",
+      "gloss": "umntu"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "waza wafa"
+    },
+    {
+      "surface": "מות",
+      "gloss": "ngefa"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "makabulawe"
+    }
+  ],
+  "timestamp": "2026-09-18T06:08:01.015138213Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 2:1",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 2,
+  "translation": "Kutheni izizwe zigaqa, kwaye amaxheshe echaza ubuxoki?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "Kutheni"
+    },
+    {
+      "surface": "רגשו",
+      "gloss": "zigaqa"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "izizwe"
+    },
+    {
+      "surface": "ולאמים",
+      "gloss": "kwaye amaxheshe"
+    },
+    {
+      "surface": "יהגו",
+      "gloss": "echaza"
+    },
+    {
+      "surface": "ריק",
+      "gloss": "ubuxoki"
+    }
+  ],
+  "timestamp": "2026-09-18T14:27:16.302938301Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezekiel 3:9",
+  "book": "ezekiel",
+  "lang": "xh",
+  "chapter": 3,
+  "translation": "Njengeshameri, elinamandla ngakumbi kunale flinty elinqamlezolo, ndade ndanikeka intlantla yakho: ungabo baboyikwa, ungaphazamiswa bubuso babo, kuba ngabantu abakhweli-kwelinye ilizwe abangathobanga bayinyaniyane.",
+  "tokens": [
+    {
+      "surface": "כשמיר",
+      "gloss": "njengeshameri"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "elinamandla ngakumbi"
+    },
+    {
+      "surface": "מצר",
+      "gloss": "kunale flinty elinqamlezolo"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "ndade ndanikeka"
+    },
+    {
+      "surface": "מצחך",
+      "gloss": "intlantla yakho"
+    },
+    {
+      "surface": "לא",
+      "gloss": "unga-"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "bo baboyikwa"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "abo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ungaphazamiswa"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "phazamiswa"
+    },
+    {
+      "surface": "מפניהם",
+      "gloss": "bubuso babo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ngabantu abakwakhaya"
+    },
+    {
+      "surface": "מרי",
+      "gloss": "abangathobanga (bakhwela)"
+    },
+    {
+      "surface": "המה",
+      "gloss": "bayinyaniyane"
+    }
+  ],
+  "timestamp": "2026-09-18T12:50:08.139221993Z",
+  "model": "glm-5.3"
+}

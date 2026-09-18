@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 88:3",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 88,
+  "translation": "Maze ifike phambi kwakho thandazo yam; thoba indlebe yakho ekubizeleni kwam.",
+  "tokens": [
+    {
+      "surface": "תבוא",
+      "gloss": "Maze ifike"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "phambi kwakho"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "thandazo yam"
+    },
+    {
+      "surface": "הטה",
+      "gloss": "thoba"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "indlebe yakho"
+    },
+    {
+      "surface": "לרנתי",
+      "gloss": "ekubizeleni kwam"
+    }
+  ],
+  "timestamp": "2026-09-18T15:06:36.651340504Z",
+  "model": "glm-5.3"
+}

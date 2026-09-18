@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 42:5",
+  "book": "genesis",
+  "lang": "xh",
+  "chapter": 42,
+  "translation": "Kwaza abantwana bakwaYisrayeli bafika ukutya okokuthenga phakathi kwabafikayo, kuba indlala yayikulwazi lweKhanana.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "bafika"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abantwana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "bakwaYisrayeli"
+    },
+    {
+      "surface": "לשבר",
+      "gloss": "ukuthenga ukutya"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "phakathi"
+    },
+    {
+      "surface": "הבאים",
+      "gloss": "kwabafikayo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "היה",
+      "gloss": "yayi"
+    },
+    {
+      "surface": "הרעב",
+      "gloss": "indlala"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "kulwazi"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "lweKhanana"
+    }
+  ],
+  "timestamp": "2026-09-18T17:19:44.081816206Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 26:1",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 26,
+  "translation": "NguDavide. Ndigwebe, uYahwe, kuba mna ndihambile ngentlonelo yam, kwaye kuYahwe ndithembile; andizukutyabuka.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "NguDavide"
+    },
+    {
+      "surface": "שפטני",
+      "gloss": "Ndigwebe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mna"
+    },
+    {
+      "surface": "בתמי",
+      "gloss": "ngentlonelo yam"
+    },
+    {
+      "surface": "הלכתי",
+      "gloss": "ndihambile"
+    },
+    {
+      "surface": "וביהוה",
+      "gloss": "kwaye kuYahwe"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "ndithembile"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hayi"
+    },
+    {
+      "surface": "אמעד",
+      "gloss": "andizukutyabuka"
+    }
+  ],
+  "timestamp": "2026-09-18T14:38:43.064582722Z",
+  "model": "glm-5.3"
+}

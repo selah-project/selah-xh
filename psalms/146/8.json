@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 146:8",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 146,
+  "translation": "uYahwe uyavula amehlo ziimfama; uYahwe uyanyusa abaqhothiweyo; uYahwe uthanda abalungileyo.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "פקח",
+      "gloss": "uyavula"
+    },
+    {
+      "surface": "עורים",
+      "gloss": "iimfama"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "זקף",
+      "gloss": "uyanyusa"
+    },
+    {
+      "surface": "כפופים",
+      "gloss": "abaqhothiweyo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "uthanda"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "abalungileyo"
+    }
+  ],
+  "timestamp": "2026-09-18T15:35:26.782353888Z",
+  "model": "glm-5.3"
+}

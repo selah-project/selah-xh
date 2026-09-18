@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 13:22",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 13,
+  "translation": "Umtya wefu awuzange usuke emini, nomtya wolilo awuzange usuke ebusuku, phambi kwabantu.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "awuzange"
+    },
+    {
+      "surface": "ימיש",
+      "gloss": "usuke"
+    },
+    {
+      "surface": "עמוד",
+      "gloss": "umtya"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "wefu"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "emini"
+    },
+    {
+      "surface": "ועמוד",
+      "gloss": "nomtya"
+    },
+    {
+      "surface": "האש",
+      "gloss": "wolilo"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "ebusuku"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "phambi"
+    },
+    {
+      "surface": "העם",
+      "gloss": "kwabantu"
+    }
+  ],
+  "timestamp": "2026-09-18T05:58:23.378355995Z",
+  "model": "glm-5.3"
+}

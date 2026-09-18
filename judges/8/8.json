@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "judges 8:8",
+  "book": "judges",
+  "lang": "xh",
+  "chapter": 8,
+  "translation": "Wayenyuka apho aya ePenueli, wathetha kubo ngokunjalo; amadoda asePenueli amphendula ⟨את⟩ njengokuba amadoda aseSukothi aphendule.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "wayenyuka"
+    },
+    {
+      "surface": "משם",
+      "gloss": "apho"
+    },
+    {
+      "surface": "פנואל",
+      "gloss": "ePenueli"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "wathetha"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "kubo"
+    },
+    {
+      "surface": "כזאת",
+      "gloss": "ngokunjalo"
+    },
+    {
+      "surface": "ויענו",
+      "gloss": "amphendula ⟨את⟩"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩",
+      "marks": "yena (uGidhoni)"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "amadoda"
+    },
+    {
+      "surface": "פנואל",
+      "gloss": "asePenueli"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "njengokuba"
+    },
+    {
+      "surface": "ענו",
+      "gloss": "aphendule"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "amadoda"
+    },
+    {
+      "surface": "סכות",
+      "gloss": "aseSukothi"
+    }
+  ],
+  "timestamp": "2026-09-18T08:56:22.586569164Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 136:1",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 136,
+  "translation": "Nibuleleni uYahwe, kuba ⟨nguye⟩ ulungileyo, kuba ikhesedi yakhe ihleli kuze kube phakade.",
+  "tokens": [
+    {
+      "surface": "הודו",
+      "gloss": "Nibuleleni"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ulungileyo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "kuze kube phakade"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ikhesedi yakhe"
+    }
+  ],
+  "timestamp": "2026-09-18T15:30:12.677564130Z",
+  "model": "glm-5.3"
+}

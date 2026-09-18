@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 4:2",
+  "book": "isaiah",
+  "lang": "xh",
+  "chapter": 4,
+  "translation": "Ngalo mlha umthubi kaYahwe uza kuba lungile nolungelezweni, kwaye iziqhamo zelizwe ziza kuba kukuphakama nokuhle kwabasindileyo baseYisrayeli.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "ngalo mlha"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "lo"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "uza kuba"
+    },
+    {
+      "surface": "צמח",
+      "gloss": "umthubi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kaYahwe"
+    },
+    {
+      "surface": "לצבי",
+      "gloss": "lungile"
+    },
+    {
+      "surface": "ולכבוד",
+      "gloss": "nolungelezweni"
+    },
+    {
+      "surface": "ופרי",
+      "gloss": "iziqhamo"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zelizwe"
+    },
+    {
+      "surface": "לגאון",
+      "gloss": "kukuphakama"
+    },
+    {
+      "surface": "ולתפארת",
+      "gloss": "nokuhle"
+    },
+    {
+      "surface": "לפליטת",
+      "gloss": "kwabasindileyo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "baseYisrayeli"
+    }
+  ],
+  "timestamp": "2026-09-18T11:05:48.750221650Z",
+  "model": "glm-5.3"
+}

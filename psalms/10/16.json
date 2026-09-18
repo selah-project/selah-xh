@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 10:16",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 10,
+  "translation": "uYahwe nguYinkosi ngunaphakade nangaphelelanga; iintlanga zimanyelwe emhlabeni wakhe.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "inkosi"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ngunaphakade"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "nangaphelelanga"
+    },
+    {
+      "surface": "אבדו",
+      "gloss": "zimanyelwe"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "iintlanga"
+    },
+    {
+      "surface": "מארצו",
+      "gloss": "emhlabeni wakhe"
+    }
+  ],
+  "timestamp": "2026-09-18T14:31:03.867849336Z",
+  "model": "glm-5.3"
+}

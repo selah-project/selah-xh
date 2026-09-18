@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 145:21",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 145,
+  "translation": "Umlomo wam uza kuthetha udumo lukaYahwe, yaye ⟨zonke⟩ inyama mazidunyise igama lakhe elingcwele kuapho-napho nakaphakade.",
+  "tokens": [
+    {
+      "surface": "תהלת",
+      "gloss": "udumo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "lukaYahwe"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "uza kuthetha"
+    },
+    {
+      "surface": "פי",
+      "gloss": "umlomo wam"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "yaye mazidunyise"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zonke"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "inyama"
+    },
+    {
+      "surface": "שם",
+      "gloss": "igama"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "elingcwele"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "kuapho-napho"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "nakaphakade"
+    }
+  ],
+  "timestamp": "2026-09-18T15:32:49.856990562Z",
+  "model": "glm-5.3"
+}

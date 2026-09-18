@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 64:5",
+  "book": "isaiah",
+  "lang": "xh",
+  "chapter": 64,
+  "translation": "Saba ngaba-ongcolileyo sonke, yaye izenzo zethu zonke zokulunga zenje ngengubo yengcoliso yexesha; saphela njengelishwa sonke, yaye iingozi zethu, njengomoya, zisithabatha.",
+  "tokens": [
+    {
+      "surface": "ונהי",
+      "gloss": "saba"
+    },
+    {
+      "surface": "כטמא",
+      "gloss": "ngaba-ongcolileyo"
+    },
+    {
+      "surface": "כלנו",
+      "gloss": "sonke"
+    },
+    {
+      "surface": "וכבגד",
+      "gloss": "yaye zenje ngengubo"
+    },
+    {
+      "surface": "עדים",
+      "gloss": "yengcoliso yexesha"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zonke"
+    },
+    {
+      "surface": "צדקתינו",
+      "gloss": "izenzo zethu zokulunga"
+    },
+    {
+      "surface": "ונבל",
+      "gloss": "yaye saphela"
+    },
+    {
+      "surface": "כעלה",
+      "gloss": "njengelishwa"
+    },
+    {
+      "surface": "כלנו",
+      "gloss": "sonke"
+    },
+    {
+      "surface": "ועוננו",
+      "gloss": "yaye iingozi zethu"
+    },
+    {
+      "surface": "כרוח",
+      "gloss": "njengomoya"
+    },
+    {
+      "surface": "ישאנו",
+      "gloss": "zisithabatha"
+    }
+  ],
+  "timestamp": "2026-09-18T11:47:45.393718013Z",
+  "model": "glm-5.3"
+}

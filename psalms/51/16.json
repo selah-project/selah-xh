@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 51:16",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 51,
+  "translation": "Ndikhulule egazini elingcolileyo, uElohim, uElohim wentsindiso yam, Ulwimi lwam luya kudumisa intsindiso yakho elungileyo.",
+  "tokens": [
+    {
+      "surface": "הצילני",
+      "gloss": "ndikhulule"
+    },
+    {
+      "surface": "מדמים",
+      "gloss": "egazini elingcolileyo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "uElohim we-"
+    },
+    {
+      "surface": "תשועתי",
+      "gloss": "ntsindiso yam"
+    },
+    {
+      "surface": "תרנן",
+      "gloss": "luya kudumisa"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "ulwimi lwam"
+    },
+    {
+      "surface": "צדקתך",
+      "gloss": "intsindiso yakho elungileyo"
+    }
+  ],
+  "timestamp": "2026-09-18T17:42:57.706069776Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 10:7",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 10,
+  "translation": "Ukutyalela-tsela kuzala umlomo wakhe, kunye neqhosa nobuqhetseba; ngaphantsi kolwimi lwakhe kukho ubunzima nobugwenxa.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "ukutyalela-tsela"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "umlomo wakhe"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "kuzala"
+    },
+    {
+      "surface": "ומרמות",
+      "gloss": "kunye neqhosa"
+    },
+    {
+      "surface": "ותך",
+      "gloss": "nobuqhetseba"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ngaphantsi"
+    },
+    {
+      "surface": "לשונו",
+      "gloss": "kulwimi lwakhe"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "ubunzima"
+    },
+    {
+      "surface": "ואון",
+      "gloss": "nobugwenxa"
+    }
+  ],
+  "timestamp": "2026-09-18T14:31:46.303737589Z",
+  "model": "glm-5.3"
+}

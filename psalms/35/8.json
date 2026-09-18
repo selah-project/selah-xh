@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 35:8",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 35,
+  "translation": "Mafike kuye inkangca angayazi; kwaye intengo yakhe ayifihle ayibambe; ongcakunywa angawi kuyo.",
+  "tokens": [
+    {
+      "surface": "תבואהו",
+      "gloss": "mafike kuye"
+    },
+    {
+      "surface": "שואה",
+      "gloss": "inkangca"
+    },
+    {
+      "surface": "לא",
+      "gloss": "angayazi (hayi)"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "azi"
+    },
+    {
+      "surface": "ורשתו",
+      "gloss": "kwaye intengo yakhe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ayifihle (oko)"
+    },
+    {
+      "surface": "טמן",
+      "gloss": "fihla"
+    },
+    {
+      "surface": "תלכדו",
+      "gloss": "ayibambe"
+    },
+    {
+      "surface": "בשואה",
+      "gloss": "ongcakunywa"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "awi"
+    },
+    {
+      "surface": "בה",
+      "gloss": "kuyo"
+    }
+  ],
+  "timestamp": "2026-09-18T14:40:29.538533930Z",
+  "model": "glm-5.3"
+}

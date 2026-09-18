@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 5:16",
+  "book": "numbers",
+  "lang": "xh",
+  "chapter": 5,
+  "translation": "Umpristi umzisa ⟨את⟩ eduze, amisele phambi kuYahwe.",
+  "tokens": [
+    {
+      "surface": "והקריב",
+      "gloss": "umzisa eduze"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "yena (umfazi)"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "umpristi"
+    },
+    {
+      "surface": "והעמדה",
+      "gloss": "amisele"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "phambi ko"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    }
+  ],
+  "timestamp": "2026-09-18T07:18:06.937934412Z",
+  "model": "glm-5.3"
+}

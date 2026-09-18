@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 148:5",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 148,
+  "translation": "Mabadumise ⟨את⟩ igama likaYahwe, kuba nguye wayalele, kwaza kwadalwa.",
+  "tokens": [
+    {
+      "surface": "יהללו",
+      "gloss": "Mabadumise"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "igama"
+    },
+    {
+      "surface": "שם",
+      "gloss": "igama"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "likaYahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "nguye"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "wayalele"
+    },
+    {
+      "surface": "ונבראו",
+      "gloss": "kwaza kwadalwa"
+    }
+  ],
+  "timestamp": "2026-09-18T15:35:11.142010034Z",
+  "model": "glm-5.3"
+}

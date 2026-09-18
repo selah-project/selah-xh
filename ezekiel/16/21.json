@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ezekiel 16:21",
+  "book": "ezekiel",
+  "lang": "xh",
+  "chapter": 16,
+  "translation": "Wabulala ⟨את⟩ abantwana bam, wazinikeza ngokuzidlulisa ⟨את⟩ kuwo.",
+  "tokens": [
+    {
+      "surface": "ותשחטי",
+      "gloss": "wabulala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abantwana bam"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abantwana bam"
+    },
+    {
+      "surface": "ותתנים",
+      "gloss": "wazinikeza"
+    },
+    {
+      "surface": "בהעביר",
+      "gloss": "ngokuzidlulisa"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "kuwo"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kuwo"
+    }
+  ],
+  "timestamp": "2026-09-18T13:03:23.111905313Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 40:5",
+  "book": "isaiah",
+  "lang": "xh",
+  "chapter": 40,
+  "translation": "Uzuko lukaYahwe luya kubonakala, yonke inyama iya kulubona ndawonye, kuba umlomo kaYahwe nguwena owathetha ⟨oko⟩.",
+  "tokens": [
+    {
+      "surface": "ונגלה",
+      "gloss": "luya kubonakala"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "uzuko"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "וראו",
+      "gloss": "iya kulubona"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yonke"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "inyama"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "ndawonye"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "פי",
+      "gloss": "umlomo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "wathetha"
+    }
+  ],
+  "timestamp": "2026-09-18T11:30:26.398633502Z",
+  "model": "glm-5.3"
+}

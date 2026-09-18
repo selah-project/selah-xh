@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 9:4",
+  "book": "2-kings",
+  "lang": "xh",
+  "chapter": 9,
+  "translation": "Intsana, intsana yeprofita, yahamba yaya eRamoti-Gileadi.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "yahamba"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "Intsana"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "intsana"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "yeprofita"
+    },
+    {
+      "surface": "רמת",
+      "gloss": "eRamoti-"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Gileadi"
+    }
+  ],
+  "timestamp": "2026-09-18T10:43:19.012850708Z",
+  "model": "glm-5.3"
+}

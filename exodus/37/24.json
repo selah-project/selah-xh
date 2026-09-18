@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 37:24",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 37,
+  "translation": "Ngentalente yegolide elicocekileyo wayenzela ngayo ⟨את⟩, kunye no⟨את⟩ konke izixhobo zayo.",
+  "tokens": [
+    {
+      "surface": "ככר",
+      "gloss": "Ngentalente"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "yegolide"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "elicocekileyo"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "wayenzela"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ngayo (isibane-nqamlezo)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kunye no⟨את⟩",
+      "marks": "konke izixhobo zayo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "konke"
+    },
+    {
+      "surface": "כליה",
+      "gloss": "izixhobo zayo"
+    }
+  ],
+  "timestamp": "2026-09-18T06:27:04.978935699Z",
+  "model": "glm-5.3"
+}

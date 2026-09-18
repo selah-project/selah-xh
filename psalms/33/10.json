@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 33:10",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 33,
+  "translation": "uYahwe wakrazulula icebo leentlanga, waphazamisa iingcingo zabantu.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "הפיר",
+      "gloss": "wakrazulula"
+    },
+    {
+      "surface": "עצת",
+      "gloss": "icebo"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "leentlanga"
+    },
+    {
+      "surface": "הניא",
+      "gloss": "waphazamisa"
+    },
+    {
+      "surface": "מחשבות",
+      "gloss": "iingcingo"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "zabantu"
+    }
+  ],
+  "timestamp": "2026-09-18T14:39:52.455403634Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "joshua 10:25",
+  "book": "joshua",
+  "lang": "xh",
+  "chapter": 10,
+  "translation": "Wathetha kubo uYehoshuwa esithi: “Musani ukoyika, ningabinakho lukhathazeko; yimbambani ngamandla, nibenamandla, kuba ngokunjalo uYahwe uza kukwenza kuzo zonke iintshaba zenu enilwa ⟨nazo⟩.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wathetha"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "kubo"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "uYehoshuwa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "musani"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "ukoyika"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ningabinakho"
+    },
+    {
+      "surface": "תחתו",
+      "gloss": "lukhathazeko"
+    },
+    {
+      "surface": "חזקו",
+      "gloss": "yimbambani ngamandla"
+    },
+    {
+      "surface": "ואמצו",
+      "gloss": "nibenamandla"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "ככה",
+      "gloss": "ngokunjalo"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "uza kukwenza"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "kuzo zonke"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "iintshaba zenu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "eni"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "ni-"
+    },
+    {
+      "surface": "נלחמים",
+      "gloss": "lwa"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "nazo (iintshaba zenu)"
+    }
+  ],
+  "timestamp": "2026-09-18T08:35:38.866379234Z",
+  "model": "glm-5.3"
+}

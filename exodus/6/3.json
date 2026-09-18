@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 6:3",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 6,
+  "translation": "Ndazibonakalisa ku-Avraham, kuYitshaki, nakuyaYaqobe, ndingu-El Shadayi, kodwa igama lam uYahwe alazanga ndazaziwa kubo.",
+  "tokens": [
+    {
+      "surface": "וארא",
+      "gloss": "ndazibonakalisa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "-Avraham"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitshaki"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "nakuya"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaqobe"
+    },
+    {
+      "surface": "באל",
+      "gloss": "ndingu-El"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Shadayi"
+    },
+    {
+      "surface": "ושמי",
+      "gloss": "kodwa igama lam"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "alazanga"
+    },
+    {
+      "surface": "נודעתי",
+      "gloss": "ndazaziwa"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kubo"
+    }
+  ],
+  "timestamp": "2026-09-18T05:52:16.813972171Z",
+  "model": "glm-5.3"
+}

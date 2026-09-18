@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "numbers 1:49",
+  "book": "numbers",
+  "lang": "xh",
+  "chapter": 1,
+  "translation": "Kodwa isizwe samaLevi ungawubali ⟨את⟩, ubuninzi babo ungabunamiseli phakathi kwabantwana bakaSirayeli.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "kodwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isizwe samaLevi"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "isizwe"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "uLevi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mus."
+    },
+    {
+      "surface": "תפקד",
+      "gloss": "ungawubali"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ubuninzi babo"
+    },
+    {
+      "surface": "ראשם",
+      "gloss": "ubuninzi babo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mus."
+    },
+    {
+      "surface": "תשא",
+      "gloss": "ungabunamiseli"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "phakathi kwa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abantwana baka"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Sirayeli"
+    }
+  ],
+  "timestamp": "2026-09-18T07:09:57.282197794Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 73:12",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 73,
+  "translation": "Yabona aba ngabayeni bobugwenxa; abazolileyo ngokuphakade baze bandisa ubutyebi.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Yabona"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "aba"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ngabayeni bobugwenxa"
+    },
+    {
+      "surface": "ושלוי",
+      "gloss": "abazolileyo"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ngokuphakade"
+    },
+    {
+      "surface": "השגו",
+      "gloss": "baze bandisa"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "ubutyebi"
+    }
+  ],
+  "timestamp": "2026-09-18T14:59:56.718414331Z",
+  "model": "glm-5.3"
+}

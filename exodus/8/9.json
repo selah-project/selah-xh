@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 8:9",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 8,
+  "translation": "UYahwe wenza ngokwelizwi lukaMoshe; iintuli zafa kwiindlu, kwiigadi, nakwiintsimi.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "wenza"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "ngokwelizwi"
+    },
+    {
+      "surface": "משה",
+      "gloss": "lukaMoshe"
+    },
+    {
+      "surface": "וימתו",
+      "gloss": "zafa"
+    },
+    {
+      "surface": "הצפרדעים",
+      "gloss": "iintuli"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kwi-"
+    },
+    {
+      "surface": "הבתים",
+      "gloss": "iindlu"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kwi-"
+    },
+    {
+      "surface": "החצרת",
+      "gloss": "iigadi"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "naki-"
+    },
+    {
+      "surface": "השדת",
+      "gloss": "iintsimi"
+    }
+  ],
+  "timestamp": "2026-09-18T05:55:43.996406034Z",
+  "model": "glm-5.3"
+}

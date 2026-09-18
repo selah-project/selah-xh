@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 4:6",
+  "book": "1-chronicles",
+  "lang": "xh",
+  "chapter": 4,
+  "translation": "UNaarahi wamzalela uAkhuzamu ⟨את⟩, uKhefer ⟨את⟩, uTemeni ⟨את⟩, noAkhahashtari ⟨את⟩; abo bangoonyana baNaarahi.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "wamzalela"
+    },
+    {
+      "surface": "לו",
+      "gloss": "-m-"
+    },
+    {
+      "surface": "נערה",
+      "gloss": "uNaarahi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uAkhuzamu"
+    },
+    {
+      "surface": "אחזם",
+      "gloss": "uAkhuzamu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "uKhefer"
+    },
+    {
+      "surface": "חפר",
+      "gloss": "uKhefer"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "uTemeni"
+    },
+    {
+      "surface": "תימני",
+      "gloss": "uTemeni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "noAkhahashtari"
+    },
+    {
+      "surface": "האחשתרי",
+      "gloss": "noAkhahashtari"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "abo"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bangoonyana"
+    },
+    {
+      "surface": "נערה",
+      "gloss": "baNaarahi"
+    }
+  ],
+  "timestamp": "2026-09-18T16:51:20.549039447Z",
+  "model": "glm-5.3"
+}

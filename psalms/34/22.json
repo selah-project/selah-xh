@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 34:22",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 34,
+  "translation": "Ububi budala ukufa kolwaphalayo, abo batchwayo ngumngeni baza kubekwa esweni.",
+  "tokens": [
+    {
+      "surface": "תמותת",
+      "gloss": "budala ukufa"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "olwaphalayo"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "Ububi"
+    },
+    {
+      "surface": "ושנאי",
+      "gloss": "abo batchwayo"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ngumngeni"
+    },
+    {
+      "surface": "יאשמו",
+      "gloss": "baza kubekwa esweni"
+    }
+  ],
+  "timestamp": "2026-09-18T14:39:19.735925053Z",
+  "model": "glm-5.3"
+}

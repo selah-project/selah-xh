@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 18:20",
+  "book": "leviticus",
+  "lang": "xh",
+  "chapter": 18,
+  "translation": "Nomfazi womlingane wakho awumniki ukulala kwakhu ukutyalwa kwembewu, ukungcoliswa ngaye.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "umfazi"
+    },
+    {
+      "surface": "עמיתך",
+      "gloss": "womlingane wakho"
+    },
+    {
+      "surface": "לא",
+      "gloss": "awu- (hayi)"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "umniki"
+    },
+    {
+      "surface": "שכבתך",
+      "gloss": "ukulala kwakho"
+    },
+    {
+      "surface": "לזרע",
+      "gloss": "ukutyalwa kwembewu"
+    },
+    {
+      "surface": "לטמאה",
+      "gloss": "ukungcoliswa"
+    },
+    {
+      "surface": "בה",
+      "gloss": "nguye"
+    }
+  ],
+  "timestamp": "2026-09-18T06:54:00.481129231Z",
+  "model": "glm-5.3"
+}

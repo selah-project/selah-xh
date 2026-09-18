@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 31:10",
+  "book": "numbers",
+  "lang": "xh",
+  "chapter": 31,
+  "translation": "⟨את⟩ Zonke iidorobo zabo apho babehlala khona, no⟨את⟩ zombane zabo zonke, bazitshisa ngomlilo.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "zonke iidorobo zabo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zonke"
+    },
+    {
+      "surface": "עריהם",
+      "gloss": "iidorobo zabo"
+    },
+    {
+      "surface": "במושבתם",
+      "gloss": "apho babehlala khona"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "zombane zabo zonke"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zonke"
+    },
+    {
+      "surface": "טירתם",
+      "gloss": "zombane zabo"
+    },
+    {
+      "surface": "שרפו",
+      "gloss": "bazitshisa"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ngomlilo"
+    }
+  ],
+  "timestamp": "2026-09-18T07:44:30.662629504Z",
+  "model": "glm-5.3"
+}

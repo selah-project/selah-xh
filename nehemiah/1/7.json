@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "nehemiah 1:7",
+  "book": "nehemiah",
+  "lang": "xh",
+  "chapter": 1,
+  "translation": "Sakhohlakala ngokwedlulela kuwe, asigcinanga ⟨את⟩ imiyalelo, kunye ⟨את⟩ iimigaqo kunye ⟨את⟩ imimiselo oyalele ngayo uMoshe, inceku yakho.",
+  "tokens": [
+    {
+      "surface": "חבל",
+      "gloss": "kakhulu"
+    },
+    {
+      "surface": "חבלנו",
+      "gloss": "sakhohlakala"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kuwe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "hayi"
+    },
+    {
+      "surface": "שמרנו",
+      "gloss": "asigcinanga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "imiyalelo"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "imiyalelo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kunye ⟨את⟩",
+      "marks": "iimigaqo"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "iimigaqo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kunye ⟨את⟩",
+      "marks": "imimiselo"
+    },
+    {
+      "surface": "המשפטים",
+      "gloss": "imimiselo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyalele"
+    },
+    {
+      "surface": "צוית",
+      "gloss": "ngayo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uMoshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "uMoshe"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "inceku yakho"
+    }
+  ],
+  "timestamp": "2026-09-18T16:43:53.784920284Z",
+  "model": "glm-5.3"
+}

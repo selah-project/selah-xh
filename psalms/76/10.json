@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 76:10",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 76,
+  "translation": "Ekuvukeni uElohim ukwenza ⟨את⟩ umgwebo, ukusindisa onke abathobekileyo bomhlaba. Selah.",
+  "tokens": [
+    {
+      "surface": "בקום",
+      "gloss": "Ekuvukeni"
+    },
+    {
+      "surface": "למשפט",
+      "gloss": "ukwenza umgwebo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "להושיע",
+      "gloss": "ukusindisa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "onke"
+    },
+    {
+      "surface": "ענוי",
+      "gloss": "abathobekileyo"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "bomhlaba"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-18T17:44:10.529139090Z",
+  "model": "glm-5.3"
+}

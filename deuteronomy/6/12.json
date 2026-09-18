@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 6:12",
+  "book": "deuteronomy",
+  "lang": "xh",
+  "chapter": 6,
+  "translation": "Zisikele ungalibali ⟨את⟩ uYahwe owakhipha wena elawo yaseMitsrayim, kwisiko leenkonzi.",
+  "tokens": [
+    {
+      "surface": "השמר",
+      "gloss": "Zisikele"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ungalibali"
+    },
+    {
+      "surface": "פן",
+      "gloss": "ukuba ungabi"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "ungalibali"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uYahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "owa-"
+    },
+    {
+      "surface": "הוציאך",
+      "gloss": "wakhipha wena"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "elawo yase-"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "kwisiko le-"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "ienkonzi"
+    }
+  ],
+  "timestamp": "2026-09-18T07:59:06.598988327Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "1-kings 20:42",
+  "book": "1-kings",
+  "lang": "xh",
+  "chapter": 20,
+  "translation": "Wathi kuye: Uza kutsho uYahwe: Ngenxa yokuba wamkhulula ⟨את⟩ indoda endiyichubekelayo ukutshatyalalisa, esandleni sakhe, bomi bakho buza kuba ngaphantsi kobomi bakhe, nabantu bakho ngaphantsi kwabantu bakhe.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kuye"
+    },
+    {
+      "surface": "כה",
+      "gloss": "uza kutsho"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "utsho"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "יען",
+      "gloss": "ngenxa yokuba"
+    },
+    {
+      "surface": "שלחת",
+      "gloss": "wamkhulula"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "indoda endiyichubekelayo ukutshatyalalisa"
+    },
+    {
+      "surface": "איש",
+      "gloss": "indoda"
+    },
+    {
+      "surface": "חרמי",
+      "gloss": "endiyichubekelayo ukutshatyalalisa"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "esandleni sakhe"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "buza kuba"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "bomi bakho (inefeshi yakho)"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ngaphantsi"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "ubomi bakhe"
+    },
+    {
+      "surface": "ועמך",
+      "gloss": "nabantu bakho"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ngaphantsi"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "abantu bakhe"
+    }
+  ],
+  "timestamp": "2026-09-18T10:31:32.020089414Z",
+  "model": "glm-5.3"
+}

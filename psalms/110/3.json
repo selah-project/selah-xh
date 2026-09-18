@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 110:3",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 110,
+  "translation": "Abantu bakho ⟨zi⟩ziinkabelo ezizithandayo ngelanga lamandla akho, ngokuhle okwangcwele; usuka embenyeni wokusa, ikhowudi yobutsha bakho ilinqu kuwe.",
+  "tokens": [
+    {
+      "surface": "עמך",
+      "gloss": "Abantu bakho"
+    },
+    {
+      "surface": "נדבת",
+      "gloss": "ziinkabelo ezizithandayo"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ngelanga"
+    },
+    {
+      "surface": "חילך",
+      "gloss": "lamandla akho"
+    },
+    {
+      "surface": "בהדרי",
+      "gloss": "ngokuhle"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "okwangcwele"
+    },
+    {
+      "surface": "מרחם",
+      "gloss": "usuka embenyeni"
+    },
+    {
+      "surface": "משחר",
+      "gloss": "wokusa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kuwe"
+    },
+    {
+      "surface": "טל",
+      "gloss": "ikhowudi"
+    },
+    {
+      "surface": "ילדתיך",
+      "gloss": "yobutsha bakho"
+    }
+  ],
+  "timestamp": "2026-09-18T15:21:37.784072366Z",
+  "model": "glm-5.3"
+}

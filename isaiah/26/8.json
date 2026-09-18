@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 26:8",
+  "book": "isaiah",
+  "lang": "xh",
+  "chapter": 26,
+  "translation": "Ewe, kwindlela yokuwa kwakho, uYahwe, thina silindele Wena; egameni lakho nasekumbuzweni lwakho kuliwo inkcnasa yomphefumlo.",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "Ewe"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "kwindlela"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "yokuwa kwakho"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "קוינוך",
+      "gloss": "thina silindele Wena"
+    },
+    {
+      "surface": "לשמך",
+      "gloss": "egameni lakho"
+    },
+    {
+      "surface": "ולזכרך",
+      "gloss": "nasekumbuzweni lwakho"
+    },
+    {
+      "surface": "תאות",
+      "gloss": "inkcnasa"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "yomphefumlo"
+    }
+  ],
+  "timestamp": "2026-09-18T11:17:48.962774862Z",
+  "model": "glm-5.3"
+}

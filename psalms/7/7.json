@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 7:7",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 7,
+  "translation": "Vuka, uYahwe, ngolaka lwakho, nyuka ngenxa yentshukumo yezitha zam, ndivuse ngenxa yesigwebo osiwudalele.",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "Vuka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "באפך",
+      "gloss": "ngolaka lwakho"
+    },
+    {
+      "surface": "הנשא",
+      "gloss": "nyuka"
+    },
+    {
+      "surface": "בעברות",
+      "gloss": "ngenxa yentshukumo"
+    },
+    {
+      "surface": "צוררי",
+      "gloss": "yezitha zam"
+    },
+    {
+      "surface": "ועורה",
+      "gloss": "ndivuse"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ngenxa yam"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "yesigwebo"
+    },
+    {
+      "surface": "צוית",
+      "gloss": "osiwudalele"
+    }
+  ],
+  "timestamp": "2026-09-18T14:27:59.162461473Z",
+  "model": "glm-5.3"
+}

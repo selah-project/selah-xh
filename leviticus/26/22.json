@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 26:22",
+  "book": "leviticus",
+  "lang": "xh",
+  "chapter": 26,
+  "translation": "Ndiza kuthumela kuni ⟨את⟩ imilwane yaselivini; leyo isiza kunikrizela, isiza kunisusa ⟨את⟩ iinkomo zenu, isiza kuninciphisa; iindlela zenu ziya kwenziwa zize.",
+  "tokens": [
+    {
+      "surface": "והשלחתי",
+      "gloss": "ndiza kuthumela"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "kuni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "imilwane yaselivini"
+    },
+    {
+      "surface": "חית",
+      "gloss": "imilwane"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "yaselivini"
+    },
+    {
+      "surface": "ושכלה",
+      "gloss": "isiza kunikrizela"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ nina"
+    },
+    {
+      "surface": "והכריתה",
+      "gloss": "isiza kunisusa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iinkomo zenu"
+    },
+    {
+      "surface": "בהמתכם",
+      "gloss": "iinkomo zenu"
+    },
+    {
+      "surface": "והמעיטה",
+      "gloss": "isiza kuninciphisa"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ nina"
+    },
+    {
+      "surface": "ונשמו",
+      "gloss": "ziya kwenziwa zize"
+    },
+    {
+      "surface": "דרכיכם",
+      "gloss": "iindlela zenu"
+    }
+  ],
+  "timestamp": "2026-09-18T07:07:35.882723377Z",
+  "model": "glm-5.3"
+}

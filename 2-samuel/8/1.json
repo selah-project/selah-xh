@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 8:1",
+  "book": "2-samuel",
+  "lang": "xh",
+  "chapter": 8,
+  "translation": "Emva koko kwaba sekwenzeke ukuba uDawidi wabetha iFilisthim, wabanisa phantsi; uDawidi wathabatha ⟨את⟩ isixhobo sokutyhalela esaseMamre ⟨כן ebalwe njengendawo engcwele⟩ esandleni seFilisthim.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "kwaba sekwenzeke"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "emva"
+    },
+    {
+      "surface": "כן",
+      "gloss": "oko"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "wabetha"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "uDawidi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iFilisthim"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "iFilisthim"
+    },
+    {
+      "surface": "ויכניעם",
+      "gloss": "wabanisa phantsi"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "wathabatha"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "uDawidi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isixhobo sokutyhalela"
+    },
+    {
+      "surface": "מתג",
+      "gloss": "isixhobo sokutyhalela"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "eseMamre"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "esandleni"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "seFilisthim"
+    }
+  ],
+  "timestamp": "2026-09-18T09:49:35.824845175Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 41:2",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 41,
+  "translation": "Uloyiso lolowo enolwazi oluchanekileyo ngabampofu; ngeyentsasa embi uYahwe uza kumsindisa.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Uloyiso"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "lolowo enolwazi oluchanekileyo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nga-"
+    },
+    {
+      "surface": "דל",
+      "gloss": "abampofu"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ngeyentsasa"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "embi"
+    },
+    {
+      "surface": "ימלטהו",
+      "gloss": "uza kumsindisa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    }
+  ],
+  "timestamp": "2026-09-18T14:44:26.896200582Z",
+  "model": "glm-5.3"
+}

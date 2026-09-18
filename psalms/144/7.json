@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 144:7",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 144,
+  "translation": "Thumela izandla zakho phezulu; ndikhulule undincedise kwiiwotye ezininzi, esandleni seenkwane zangaphandle —",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "thumela"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "izandla zakho"
+    },
+    {
+      "surface": "ממרום",
+      "gloss": "phezulu"
+    },
+    {
+      "surface": "פצני",
+      "gloss": "ndikhulule"
+    },
+    {
+      "surface": "והצילני",
+      "gloss": "undincedise"
+    },
+    {
+      "surface": "ממים",
+      "gloss": "kwiiwotye"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "ezininzi"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "esandleni"
+    },
+    {
+      "surface": "בני",
+      "gloss": "seenkwane"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "zangaphandle"
+    }
+  ],
+  "timestamp": "2026-09-18T15:33:54.004889814Z",
+  "model": "glm-5.3"
+}

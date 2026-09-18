@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 103:21",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 103,
+  "translation": "Bulisela uYahwe, yonke Tsebhayoti yakhe; abakhonzi bakhe, abenziwentando yakhe.",
+  "tokens": [
+    {
+      "surface": "ברכו",
+      "gloss": "Bulisela"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yonke"
+    },
+    {
+      "surface": "צבאיו",
+      "gloss": "Tsebhayoti yakhe"
+    },
+    {
+      "surface": "משרתיו",
+      "gloss": "abakhonzi bakhe"
+    },
+    {
+      "surface": "עשי",
+      "gloss": "abenzi"
+    },
+    {
+      "surface": "רצונו",
+      "gloss": "wentando yakhe"
+    }
+  ],
+  "timestamp": "2026-09-18T15:12:29.838762309Z",
+  "model": "glm-5.3"
+}

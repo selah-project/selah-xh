@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "exodus 12:51",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 12,
+  "translation": "Yaye kwaba yilelona langa lolo uYahwe wakhupha ⟨את⟩ abantwana bakaSirayeli elweni laseMitsrayim, ngemiqobo yabo.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "yaye kwaba"
+    },
+    {
+      "surface": "בעצם",
+      "gloss": "yilelona"
+    },
+    {
+      "surface": "היום",
+      "gloss": "langa lolo"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "lolo"
+    },
+    {
+      "surface": "הוציא",
+      "gloss": "wakhupha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abantwana bakaSirayeli"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abantwana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "bakaSirayeli"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "elweni"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "laseMitsrayim"
+    },
+    {
+      "surface": "על",
+      "gloss": "nge-"
+    },
+    {
+      "surface": "צבאתם",
+      "gloss": "miqobo yabo"
+    }
+  ],
+  "timestamp": "2026-09-18T17:20:05.229412171Z",
+  "model": "glm-5.3"
+}

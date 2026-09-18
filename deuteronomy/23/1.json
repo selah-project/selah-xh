@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 23:1",
+  "book": "deuteronomy",
+  "lang": "xh",
+  "chapter": 23,
+  "translation": "Umntu akayi kuthabatha ⟨את⟩ umfazi kaye, akayi kuvula isiphelo sikayise.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "akayi"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "kuthabatha"
+    },
+    {
+      "surface": "איש",
+      "gloss": "umntu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umfazi kaye"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "umfazi"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "kaye"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "akayi"
+    },
+    {
+      "surface": "יגלה",
+      "gloss": "kuvula"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "isiphelo"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "sikayise"
+    }
+  ],
+  "timestamp": "2026-09-18T17:25:42.450072549Z",
+  "model": "glm-5.3"
+}

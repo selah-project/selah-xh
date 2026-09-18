@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 97:5",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 97,
+  "translation": "Iintaba zanyibilika njengedonkwe phambi koYahwe, phambi ko-Adonayi womhlaba wonke.",
+  "tokens": [
+    {
+      "surface": "הרים",
+      "gloss": "iintaba"
+    },
+    {
+      "surface": "כדונג",
+      "gloss": "njengedonkwe"
+    },
+    {
+      "surface": "נמסו",
+      "gloss": "zanyibilika"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "phambi ko-"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "phambi ko-"
+    },
+    {
+      "surface": "אדון",
+      "gloss": "u-Adonayi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wonke"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "umhlaba"
+    }
+  ],
+  "timestamp": "2026-09-18T15:12:21.925233622Z",
+  "model": "glm-5.3"
+}

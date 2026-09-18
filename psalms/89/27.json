@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 89:27",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 89,
+  "translation": "Yena undibiza ngokutsho: “Wena ubawo wam, u-El wam, lilitye lesiphephelo sam.”",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "Yena"
+    },
+    {
+      "surface": "יקראני",
+      "gloss": "undibiza"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "ubawo wam"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Wena"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "u-El wam"
+    },
+    {
+      "surface": "וצור",
+      "gloss": "lilitye"
+    },
+    {
+      "surface": "ישועתי",
+      "gloss": "lesiphephelo sam"
+    }
+  ],
+  "timestamp": "2026-09-18T15:07:11.009602767Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 8:3",
+  "book": "job",
+  "lang": "xh",
+  "chapter": 8,
+  "translation": "Ngaba u-El uza kukruquka ⟨את⟩ isigwebo, okanye uShadayi uza kukruquka ⟨את⟩ ulungelo?",
+  "tokens": [
+    {
+      "surface": "האל",
+      "gloss": "u-El"
+    },
+    {
+      "surface": "יעות",
+      "gloss": "uza kukruquka"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "isigwebo"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "okanye"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "uShadayi"
+    },
+    {
+      "surface": "יעות",
+      "gloss": "uza kukruquka"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "ulungelo"
+    }
+  ],
+  "timestamp": "2026-09-18T16:02:09.864400124Z",
+  "model": "glm-5.3"
+}

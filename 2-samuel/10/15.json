@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 10:15",
+  "book": "2-samuel",
+  "lang": "xh",
+  "chapter": 10,
+  "translation": "I-Aram yabona ukuba iye yoyiswa phambi kukaSirayeli, yaza yaqokelelwa ndawonye.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "yabona"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "I-Aram"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ukuba"
+    },
+    {
+      "surface": "נגף",
+      "gloss": "iye yoyiswa"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "phambi kuka-"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Sirayeli"
+    },
+    {
+      "surface": "ויאספו",
+      "gloss": "yaza yaqokelelwa"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "ndawonye"
+    }
+  ],
+  "timestamp": "2026-09-18T09:51:06.623619366Z",
+  "model": "glm-5.3"
+}

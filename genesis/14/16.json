@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 14:16",
+  "book": "genesis",
+  "lang": "xh",
+  "chapter": 14,
+  "translation": "Waza wabuyisela ⟨את⟩ yonke impahla, nakuni ⟨את⟩ uLoti umzalwane wakhe nempahla yakhe wayibuyisela, nakuni ⟨את⟩ abafazi nakuni ⟨את⟩ abantu.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "wabuyisela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yonke impahla"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yonke"
+    },
+    {
+      "surface": "הרכש",
+      "gloss": "impahla"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "nakuni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uLoti"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "uLoti"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "umzalwane wakhe"
+    },
+    {
+      "surface": "ורכשו",
+      "gloss": "nempahla yakhe"
+    },
+    {
+      "surface": "השיב",
+      "gloss": "wayibuyisela"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "nakuni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abafazi"
+    },
+    {
+      "surface": "הנשים",
+      "gloss": "abafazi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "abantu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "abantu"
+    }
+  ],
+  "timestamp": "2026-09-18T05:14:14.861285145Z",
+  "model": "glm-5.3"
+}

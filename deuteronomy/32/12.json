@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 32:12",
+  "book": "deuteronomy",
+  "lang": "xh",
+  "chapter": 32,
+  "translation": "uYahwe yedwa wamkhokela, yaye akukho thixo lasemzini lanye naye.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "בדד",
+      "gloss": "yedwa"
+    },
+    {
+      "surface": "ינחנו",
+      "gloss": "wamkhokela"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "yaye akukho"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "lanye naye"
+    },
+    {
+      "surface": "אל",
+      "gloss": "thixo"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "lasemzini"
+    }
+  ],
+  "timestamp": "2026-09-18T08:22:54.193225491Z",
+  "model": "glm-5.3"
+}

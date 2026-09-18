@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "deuteronomy 32:35",
+  "book": "deuteronomy",
+  "lang": "xh",
+  "chapter": 32,
+  "translation": "Kum kukho ukuziphindiselela nokuvisisa; ngeixa iinyawo zabo eziza kududelwa; kuba kufuphi umhla wosizi lwabo, yaye ekhawuleza izinto ezilungilelwe abo.",
+  "tokens": [
+    {
+      "surface": "לי",
+      "gloss": "kum"
+    },
+    {
+      "surface": "נקם",
+      "gloss": "ukuziphindiselela"
+    },
+    {
+      "surface": "ושלם",
+      "gloss": "nokuvisisa"
+    },
+    {
+      "surface": "לעת",
+      "gloss": "ngeixa"
+    },
+    {
+      "surface": "תמוט",
+      "gloss": "izadudelwa"
+    },
+    {
+      "surface": "רגלם",
+      "gloss": "iinyawo zabo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "kufuphi"
+    },
+    {
+      "surface": "יום",
+      "gloss": "umhla"
+    },
+    {
+      "surface": "אידם",
+      "gloss": "wosizi lwabo"
+    },
+    {
+      "surface": "וחש",
+      "gloss": "yaye ekhawuleza"
+    },
+    {
+      "surface": "עתדת",
+      "gloss": "izinto ezilungilelwe"
+    },
+    {
+      "surface": "למו",
+      "gloss": "abo"
+    }
+  ],
+  "timestamp": "2026-09-18T08:23:19.499088469Z",
+  "model": "glm-5.3"
+}

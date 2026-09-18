@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 28:11",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 28,
+  "translation": "Ngomsebenzi wokhweni weentyatyambo, ukuchithwa komfuziselo, uza kuchitha ⟨את⟩ amatye amabini ngokwamagama amadodana kaYisra'el; zisonga-zibambe kwiindawo zokusingathwa zegaladi mza uzenze ⟨אתם⟩.",
+  "tokens": [
+    {
+      "surface": "מעשה",
+      "gloss": "ngomsebenzi"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "wokhweni weentyatyambo"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "(weentyatyambo)"
+    },
+    {
+      "surface": "פתוחי",
+      "gloss": "ukuchithwa"
+    },
+    {
+      "surface": "חתם",
+      "gloss": "ngomfuziselo"
+    },
+    {
+      "surface": "תפתח",
+      "gloss": "uza kuchitha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amatye amabini"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "amabini"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "amatye"
+    },
+    {
+      "surface": "על",
+      "gloss": "ngokwa-"
+    },
+    {
+      "surface": "שמת",
+      "gloss": "amagama"
+    },
+    {
+      "surface": "בני",
+      "gloss": "amadodana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "kaYisra'el"
+    },
+    {
+      "surface": "מסבת",
+      "gloss": "zisonga-zibambe"
+    },
+    {
+      "surface": "משבצות",
+      "gloss": "kwiindawo zokusingathwa"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "zegaladi"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "mza uzenze"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": ""
+    }
+  ],
+  "timestamp": "2026-09-18T06:14:21.426502411Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 80:10",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 80,
+  "translation": "Wenzile indawo phambi kwayo, yahlisisa iingcambu zayo, yazalisa ⟨i⟩umhlaba.",
+  "tokens": [
+    {
+      "surface": "פנית",
+      "gloss": "wenzile indawo"
+    },
+    {
+      "surface": "לפניה",
+      "gloss": "phambi kwayo"
+    },
+    {
+      "surface": "ותשרש",
+      "gloss": "yahlisisa"
+    },
+    {
+      "surface": "שרשיה",
+      "gloss": "iingcambu zayo"
+    },
+    {
+      "surface": "ותמלא",
+      "gloss": "yazalisa"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "umhlaba"
+    }
+  ],
+  "timestamp": "2026-09-18T15:04:36.891699198Z",
+  "model": "glm-5.3"
+}

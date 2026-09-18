@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "judges 6:20",
+  "book": "judges",
+  "lang": "xh",
+  "chapter": 6,
+  "translation": "Isithunywa sikaElohim sathi kuye: “Thatha ⟨את⟩ inyama ⟨את⟩ nemigaqwe engenasiphelo, uzibeke lelintshi phantsi komthi omkhulu wedwa — ⟨את⟩ umhluzi umthelele.” Wenza njalo.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "sathi"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kuye"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "Isithunywa"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "sikaElohim"
+    },
+    {
+      "surface": "קח",
+      "gloss": "Thatha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "inyama"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "inyama"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "imigaqwe engenasiphelo"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "nemigaqwe engenasiphelo"
+    },
+    {
+      "surface": "והנח",
+      "gloss": "uzibeke"
+    },
+    {
+      "surface": "אל",
+      "gloss": "phantsi"
+    },
+    {
+      "surface": "הסלע",
+      "gloss": "komthi omkhulu wedwa"
+    },
+    {
+      "surface": "הלז",
+      "gloss": "lelintshi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "umhluzi"
+    },
+    {
+      "surface": "המרק",
+      "gloss": "umhluzi"
+    },
+    {
+      "surface": "שפוך",
+      "gloss": "umthelele"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "Wenza"
+    },
+    {
+      "surface": "כן",
+      "gloss": "njalo"
+    }
+  ],
+  "timestamp": "2026-09-18T08:55:14.013946893Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 102:14",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 102,
+  "translation": "Wena uza kuvuka, uza kunela iZiyoni, kuba ifike ixesha lokunela yona, kuba ixesha elichaziweyo lifike.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Wena"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "uza kuvuka"
+    },
+    {
+      "surface": "תרחם",
+      "gloss": "uza kunela"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "iZiyoni"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "עת",
+      "gloss": "ixesha"
+    },
+    {
+      "surface": "לחננה",
+      "gloss": "lokunela yona"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "בא",
+      "gloss": "lifike"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ixesha elichaziweyo"
+    }
+  ],
+  "timestamp": "2026-09-18T15:13:48.715650556Z",
+  "model": "glm-5.3"
+}

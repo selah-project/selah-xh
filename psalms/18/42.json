@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 18:42",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 18,
+  "translation": "Baya kudanga kodwa akukho msindisi, kuYahwe, waza akabaphenduli.",
+  "tokens": [
+    {
+      "surface": "ישועו",
+      "gloss": "Baya kudanga"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "kodwa akukho"
+    },
+    {
+      "surface": "מושיע",
+      "gloss": "msindisi"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "waza aka"
+    },
+    {
+      "surface": "ענם",
+      "gloss": "-baphenduli"
+    }
+  ],
+  "timestamp": "2026-09-18T17:42:45.911263702Z",
+  "model": "glm-5.3"
+}

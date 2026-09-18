@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 63:11",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 63,
+  "translation": "Baza kuchithwa ngesixhobo sokutyumba; baza kuba yinxalenye yejacals.",
+  "tokens": [
+    {
+      "surface": "יגירהו",
+      "gloss": "baza kuchithwa (baza kutsaliwe)"
+    },
+    {
+      "surface": "על",
+      "gloss": "ngesixhobo (phezu)"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "— (amandla)"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "sokutyumba"
+    },
+    {
+      "surface": "מנת",
+      "gloss": "yinxalenye (uluhlu)"
+    },
+    {
+      "surface": "שעלים",
+      "gloss": "yejacals"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "baza kuba"
+    }
+  ],
+  "timestamp": "2026-09-18T14:53:07.757795062Z",
+  "model": "glm-5.3"
+}

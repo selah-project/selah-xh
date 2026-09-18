@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 36:3",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 36,
+  "translation": "Kuba lisuthela kuye kumehlo akhe, ukufumana ububi bakhe ukubuzonda.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kuba"
+    },
+    {
+      "surface": "החליק",
+      "gloss": "lisuthela"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kuye"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "kumehlo akhe"
+    },
+    {
+      "surface": "למצא",
+      "gloss": "ukufumana"
+    },
+    {
+      "surface": "עונו",
+      "gloss": "ububi bakhe"
+    },
+    {
+      "surface": "לשנא",
+      "gloss": "ukubuzonda"
+    }
+  ],
+  "timestamp": "2026-09-18T14:41:20.065342283Z",
+  "model": "glm-5.3"
+}

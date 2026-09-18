@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 24:9",
+  "book": "deuteronomy",
+  "lang": "xh",
+  "chapter": 24,
+  "translation": "Khumbula ⟨את⟩ oko wakwenzayo uYahwe, uElohim wakho, kuMiriyamu, endleleni, ngephuphu kwenu eMitsrayim.",
+  "tokens": [
+    {
+      "surface": "זכור",
+      "gloss": "Khumbula"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oko"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oko"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "wakwenzayo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "uElohim wakho"
+    },
+    {
+      "surface": "למרים",
+      "gloss": "kuMiriyamu"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "endleleni"
+    },
+    {
+      "surface": "בצאתכם",
+      "gloss": "ngephuphu kwenu"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "eMitsrayim"
+    }
+  ],
+  "timestamp": "2026-09-18T08:14:28.319353079Z",
+  "model": "glm-5.3"
+}

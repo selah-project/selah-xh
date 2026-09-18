@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 37:33",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 37,
+  "translation": "uYahwe akamshiya esandleni sakhe, akamgwebi ngexa lokwahlulelwa kwakhe.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "akamshiya (hayi)"
+    },
+    {
+      "surface": "יעזבנו",
+      "gloss": "akamshiya"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "esandleni sakhe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "akamgwebi (hayi)"
+    },
+    {
+      "surface": "ירשיענו",
+      "gloss": "akamgwebi"
+    },
+    {
+      "surface": "בהשפטו",
+      "gloss": "ngexa lokwahlulelwa kwakhe"
+    }
+  ],
+  "timestamp": "2026-09-18T14:43:05.981773497Z",
+  "model": "glm-5.3"
+}

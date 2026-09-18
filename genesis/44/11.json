@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 44:11",
+  "book": "genesis",
+  "lang": "xh",
+  "chapter": 44,
+  "translation": "Bakhawuleza, yaye yilowo nalowa wehlisa ⟨את⟩ isikrwada sayo emhlabeni, yaye yilowo nalowa wavula isikrwada sayo.",
+  "tokens": [
+    {
+      "surface": "וימהרו",
+      "gloss": "bakhawuleza"
+    },
+    {
+      "surface": "ויורדו",
+      "gloss": "wehlisa"
+    },
+    {
+      "surface": "איש",
+      "gloss": "yilowo nalowa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isikrwada sayo"
+    },
+    {
+      "surface": "אמתחתו",
+      "gloss": "isikrwada sayo"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "emhlabeni"
+    },
+    {
+      "surface": "ויפתחו",
+      "gloss": "wavula"
+    },
+    {
+      "surface": "איש",
+      "gloss": "yilowo nalowa"
+    },
+    {
+      "surface": "אמתחתו",
+      "gloss": "isikrwada sayo"
+    }
+  ],
+  "timestamp": "2026-09-18T05:41:02.031829744Z",
+  "model": "glm-5.3"
+}

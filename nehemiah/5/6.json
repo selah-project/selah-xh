@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "nehemiah 5:6",
+  "book": "nehemiah",
+  "lang": "xh",
+  "chapter": 5,
+  "translation": "Yaye ndachukutiswa kakhulu xa ndive ⟨את⟩ isikhalo sabo nange ⟨את⟩ ezi ndaba.",
+  "tokens": [
+    {
+      "surface": "ויחר",
+      "gloss": "ndachukutiswa"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mna"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "kakhulu"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "xa"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "ndive"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isikhalo sabo"
+    },
+    {
+      "surface": "זעקתם",
+      "gloss": "isikhalo sabo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "nange ⟨את⟩",
+      "marks": "ezi ndaba"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "ezi ndaba"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ela"
+    }
+  ],
+  "timestamp": "2026-09-18T16:46:16.953322608Z",
+  "model": "glm-5.3"
+}

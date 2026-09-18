@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 55:17",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 55,
+  "translation": "Mna, kuYahwe — hayi, ndiza kubiza uElohim, uYahwe uza kundisindisa.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Mna"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "ndiza kubiza"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "יושיעני",
+      "gloss": "uza kundisindisa"
+    }
+  ],
+  "timestamp": "2026-09-18T14:51:20.444880720Z",
+  "model": "glm-5.3"
+}

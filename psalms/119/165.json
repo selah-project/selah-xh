@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 165,
+  "ref": "psalms 119:165",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 119,
+  "translation": "UXolo olukhulu lungele abo bakthanda iTora yakho, yaye akukho nto ibakhubazisa.",
+  "tokens": [
+    {
+      "surface": "שלום",
+      "gloss": "uxolo"
+    },
+    {
+      "surface": "רב",
+      "gloss": "olukhulu"
+    },
+    {
+      "surface": "לאהבי",
+      "gloss": "ngele abo bakthanda"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "iTora yakho"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "yaye akukho nto"
+    },
+    {
+      "surface": "למו",
+      "gloss": "kuwo"
+    },
+    {
+      "surface": "מכשול",
+      "gloss": "ibakhubazisa"
+    }
+  ],
+  "timestamp": "2026-09-18T15:25:22.294096711Z",
+  "model": "glm-5.3"
+}

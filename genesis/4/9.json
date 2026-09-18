@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 4:9",
+  "book": "genesis",
+  "lang": "xh",
+  "chapter": 4,
+  "translation": "Wathi uYahwe kuKayini: “Aphi uHeveli umnakwenu?” Wathi ⟨yena⟩: “Andazi; ingaba mna ndingumkhuseli womnakwenu?”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "קין",
+      "gloss": "uKayini"
+    },
+    {
+      "surface": "אי",
+      "gloss": "aphi"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "uHeveli"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "umnakwenu"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "andazi ⟨hayi⟩"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "ndazi"
+    },
+    {
+      "surface": "השמר",
+      "gloss": "ingaba ndingumkhuseli"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "womnakwenu"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "mna"
+    }
+  ],
+  "timestamp": "2026-09-18T05:07:37.188372710Z",
+  "model": "glm-5.3"
+}

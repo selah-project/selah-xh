@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 83:1",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 83,
+  "translation": "Ingoma, idumiso, lika-Asafu.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "ingoma"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "idumiso"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "lika-Asafu"
+    }
+  ],
+  "timestamp": "2026-09-18T15:04:45.573374480Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 11:1",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 11,
+  "translation": "Wathi uYahwe kuMoshe: Ndiza kuletha ngesinye isibetho phezu koParo naphezu kweMitsrayim; emva koko uza kuthumla ⟨את⟩nina ndapha; akalibeki nje, uza kunixhaphaza ⟨את⟩nina ndapha ngokupheleleyo.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Wathi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "משה",
+      "gloss": "uMoshe"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ngokongezeleleyo"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "isibetho"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "esisinye"
+    },
+    {
+      "surface": "אביא",
+      "gloss": "Ndiza kuliletha"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "koParo"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "naphezu"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "kweMitsrayim"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "emva"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ngoko"
+    },
+    {
+      "surface": "ישלח",
+      "gloss": "uza kuthumla"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩nina",
+      "marks": "nina"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "ndapha"
+    },
+    {
+      "surface": "כשלחו",
+      "gloss": "akalibeki"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "ngokupheleleyo"
+    },
+    {
+      "surface": "גרש",
+      "gloss": "uza kunixhaphaza"
+    },
+    {
+      "surface": "יגרש",
+      "gloss": "ngokwenene"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩nina",
+      "marks": "nina"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "ndapha"
+    }
+  ],
+  "timestamp": "2026-09-18T05:58:19.018954333Z",
+  "model": "glm-5.3"
+}

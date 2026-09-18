@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 74:6",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 74,
+  "translation": "Kwaye ngoku iintsalusi zayo zonke ndawonye zidilizwa ngesembe nasemba elincinci.",
+  "tokens": [
+    {
+      "surface": "ועת",
+      "gloss": "kwaye ngoku"
+    },
+    {
+      "surface": "פתוחיה",
+      "gloss": "iintsalusi zayo"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "zonke ndawonye"
+    },
+    {
+      "surface": "בכשיל",
+      "gloss": "ngesembe"
+    },
+    {
+      "surface": "וכילפת",
+      "gloss": "nasemba elincinci"
+    },
+    {
+      "surface": "יהלמון",
+      "gloss": "zidilizwa"
+    }
+  ],
+  "timestamp": "2026-09-18T15:01:09.795467017Z",
+  "model": "glm-5.3"
+}

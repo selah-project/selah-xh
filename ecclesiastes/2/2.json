@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 2:2",
+  "book": "ecclesiastes",
+  "lang": "xh",
+  "chapter": 2,
+  "translation": "Ngekuhleka ndathi: Ubulali; ngonwabo: Yintoni enokuyenza lo?",
+  "tokens": [
+    {
+      "surface": "לשחוק",
+      "gloss": "ngekuhleka"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "ndathi"
+    },
+    {
+      "surface": "מהולל",
+      "gloss": "ubulali"
+    },
+    {
+      "surface": "ולשמחה",
+      "gloss": "ngonwabo"
+    },
+    {
+      "surface": "מה",
+      "gloss": "yintoni"
+    },
+    {
+      "surface": "זה",
+      "gloss": "lo"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "enokuyenza"
+    }
+  ],
+  "timestamp": "2026-09-18T16:24:44.029840424Z",
+  "model": "glm-5.3"
+}

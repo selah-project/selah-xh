@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "esther 6:4",
+  "book": "esther",
+  "lang": "xh",
+  "chapter": 6,
+  "translation": "Wathi ikumkani: “Ngubani ekwindlu enkundleni?” Yaye uHamana wayengenele enkundleni yendlu yokumkani engaphandle, ukuzakuvisisa kukumkani ukumisa uMordekayi kulo mqamzela awayelungiselela yena.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ikumkani"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ngubani"
+    },
+    {
+      "surface": "בחצר",
+      "gloss": "enkundleni"
+    },
+    {
+      "surface": "והמן",
+      "gloss": "uHamana"
+    },
+    {
+      "surface": "בא",
+      "gloss": "wayengenele"
+    },
+    {
+      "surface": "לחצר",
+      "gloss": "enkundleni"
+    },
+    {
+      "surface": "בית",
+      "gloss": "endlu"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "yokumkani"
+    },
+    {
+      "surface": "החיצונה",
+      "gloss": "engaphandle"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ukuzakuvisisa"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "kukumkani"
+    },
+    {
+      "surface": "לתלות",
+      "gloss": "ukumisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uMordekayi"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "uMordekayi"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "lomqamzela"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "awayelungiselela"
+    },
+    {
+      "surface": "הכין",
+      "gloss": "ukulungiselela"
+    },
+    {
+      "surface": "לו",
+      "gloss": "yena"
+    }
+  ],
+  "timestamp": "2026-09-18T16:29:10.941656412Z",
+  "model": "glm-5.3"
+}

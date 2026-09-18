@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 8:11",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 8,
+  "translation": "UParo wabona ukuba bekukho ithuba, wanzisa ⟨את⟩ inhliziyo yakhe, walalelanga kubo, njengoko uYahwe awathethileyo.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "wabona"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "uParo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ukuba"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "bekukho"
+    },
+    {
+      "surface": "הרוחה",
+      "gloss": "ithuba"
+    },
+    {
+      "surface": "והכבד",
+      "gloss": "wanzisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "inhliziyo yakhe"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "inhliziyo yakhe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ukulalela"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "kubo"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "njengoko"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "wathetha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    }
+  ],
+  "timestamp": "2026-09-18T05:55:43.996877852Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 70:6",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 70,
+  "translation": "Mna ndingumfama ndingumahlwempuzelo; uElohim, khawundikawulele; wena ungumncedi wam nosindisi wam; uYahwe, musa ukulibazisa.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "mna"
+    },
+    {
+      "surface": "עני",
+      "gloss": "ndingumfama"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "ndingumahlwempuzelo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "חושה",
+      "gloss": "khawundikawulele"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ndi-"
+    },
+    {
+      "surface": "עזרי",
+      "gloss": "umncedi wam"
+    },
+    {
+      "surface": "ומפלטי",
+      "gloss": "nosindisi wam"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "musa"
+    },
+    {
+      "surface": "תאחר",
+      "gloss": "ukulibazisa"
+    }
+  ],
+  "timestamp": "2026-09-18T14:55:31.342774618Z",
+  "model": "glm-5.3"
+}

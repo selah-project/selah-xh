@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 7:1",
+  "book": "1-kings",
+  "lang": "xh",
+  "chapter": 7,
+  "translation": "Wase wakha ⟨את⟩ indlu yakhe uShelomoh, iminyaka elishumi elinanthathu, waza wagqibiza ⟨את⟩ yonke indlu yakhe.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "indlu yakhe"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "indlu yakhe"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "wakha"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "uShelomoh"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "elishumi elinanthathu"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": ""
+    },
+    {
+      "surface": "שנה",
+      "gloss": "iminyaka"
+    },
+    {
+      "surface": "ויכל",
+      "gloss": "wagqibiza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yonke indlu yakhe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yonke"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "indlu yakhe"
+    }
+  ],
+  "timestamp": "2026-09-18T10:16:24.158404855Z",
+  "model": "glm-5.3"
+}

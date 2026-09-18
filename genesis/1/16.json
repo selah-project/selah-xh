@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 1:16",
+  "book": "genesis",
+  "lang": "xh",
+  "chapter": 1,
+  "translation": "uElohim wenza ⟨את⟩ izibane ezimbini ezinkulu: ⟨את⟩ isibane esikhulu ukulawula imini, no⟨את⟩ isibane esincinci ukulawula ubusuku, no⟨את⟩ iinkwenkwezi.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "wenza"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izibane ezimbini ezinkulu"
+    },
+    {
+      "surface": "שני",
+      "gloss": "ezimbini"
+    },
+    {
+      "surface": "המארת",
+      "gloss": "izibane"
+    },
+    {
+      "surface": "הגדלים",
+      "gloss": "ezinkulu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isibane esikhulu"
+    },
+    {
+      "surface": "המאור",
+      "gloss": "isibane"
+    },
+    {
+      "surface": "הגדל",
+      "gloss": "esikhulu"
+    },
+    {
+      "surface": "לממשלת",
+      "gloss": "ukulawula"
+    },
+    {
+      "surface": "היום",
+      "gloss": "imini"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "no⟨את⟩",
+      "marks": "isibane esincinci"
+    },
+    {
+      "surface": "המאור",
+      "gloss": "isibane"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "esincinci"
+    },
+    {
+      "surface": "לממשלת",
+      "gloss": "ukulawula"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "ubusuku"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "no⟨את⟩",
+      "marks": "iinkwenkwezi"
+    },
+    {
+      "surface": "הכוכבים",
+      "gloss": "iinkwenkwezi"
+    }
+  ],
+  "timestamp": "2026-09-18T05:07:31.876438072Z",
+  "model": "glm-5.3"
+}

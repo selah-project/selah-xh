@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-samuel 11:18",
+  "book": "2-samuel",
+  "lang": "xh",
+  "chapter": 11,
+  "translation": "Wathi uYowabhe wathumela, wayexeza kuDawide ⟨את⟩ onke amagama omlo.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "wathumela"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "uYowabhe"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "wayexeza"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "kuDawide"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "onke amagama omlo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "onke"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "amagama"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "omlo"
+    }
+  ],
+  "timestamp": "2026-09-18T09:51:27.482762430Z",
+  "model": "glm-5.3"
+}

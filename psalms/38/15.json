@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 38:15",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 38,
+  "translation": "Ndaba njengomntu ◊ongavayo◊, engenazityholo ⟨zokusola⟩ emlomyeni wakhe.",
+  "tokens": [
+    {
+      "surface": "ואהי",
+      "gloss": "Ndaba njengomntu"
+    },
+    {
+      "surface": "כאיש",
+      "gloss": "njengomntu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "◦ (ongavayo)"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hayi"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "oyiva"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "engenalutho"
+    },
+    {
+      "surface": "בפיו",
+      "gloss": "emlomyeni wakhe"
+    },
+    {
+      "surface": "תוכחות",
+      "gloss": "izityholo zokusola"
+    }
+  ],
+  "timestamp": "2026-09-18T14:44:04.426558896Z",
+  "model": "glm-5.3"
+}

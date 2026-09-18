@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 4:6",
+  "book": "leviticus",
+  "lang": "xh",
+  "chapter": 4,
+  "translation": "Yaye ipristi uza kutyela ⟨את⟩ umnwe wakhe egazini, aze achithe ngelo gazi amaxesha aisixhenxe phambi koYahwe, phambi kobuso beParokheti engcwele.",
+  "tokens": [
+    {
+      "surface": "וטבל",
+      "gloss": "uza kutyela"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ipristi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umnwe wakhe"
+    },
+    {
+      "surface": "אצבעו",
+      "gloss": "umnwe wakhe"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "egazini"
+    },
+    {
+      "surface": "והזה",
+      "gloss": "achithe"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ngelo"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "gazi"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "kwisixhenxe"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "amaxesha"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "phambi kwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ phambi kwe"
+    },
+    {
+      "surface": "פני",
+      "gloss": "obuso"
+    },
+    {
+      "surface": "פרכת",
+      "gloss": "beParokheti"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "engcwele"
+    }
+  ],
+  "timestamp": "2026-09-18T06:40:00.585143457Z",
+  "model": "glm-5.3"
+}

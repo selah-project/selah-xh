@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "leviticus 26:35",
+  "book": "leviticus",
+  "lang": "xh",
+  "chapter": 26,
+  "translation": "Yonke imihla yokutshona kwawo uza kuphumla ⟨את⟩ oko akazanga akuphumle kwiisabatha zenu, ngesithuba sokuhlala kwenu phezu kwawo.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "yonke"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "imihla"
+    },
+    {
+      "surface": "השמה",
+      "gloss": "yokutshona kwawo"
+    },
+    {
+      "surface": "תשבת",
+      "gloss": "uza kuphumla"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oko (akazanga akuphumle)"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oko"
+    },
+    {
+      "surface": "לא",
+      "gloss": "akazanga"
+    },
+    {
+      "surface": "שבתה",
+      "gloss": "akuphumle"
+    },
+    {
+      "surface": "בשבתתיכם",
+      "gloss": "kwiisabatha zenu"
+    },
+    {
+      "surface": "בשבתכם",
+      "gloss": "xesha lokuhlala kwenu"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "phezu kwawo"
+    }
+  ],
+  "timestamp": "2026-09-18T07:07:46.584839318Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 1:16",
+  "book": "leviticus",
+  "lang": "xh",
+  "chapter": 1,
+  "translation": "Aze asuse ⟨את⟩ umkhombe wawo ngeenothi zawo, awuphose ⟨את⟩ ecaleni kwe-altare, ngasempuma, kwindawo yomlahla.",
+  "tokens": [
+    {
+      "surface": "והסיר",
+      "gloss": "aze asuse"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umkhombe wawo"
+    },
+    {
+      "surface": "מראתו",
+      "gloss": "umkhombe wawo"
+    },
+    {
+      "surface": "בנצתה",
+      "gloss": "ngeenothi zawo"
+    },
+    {
+      "surface": "והשליך",
+      "gloss": "awuphose"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "umkhombe wawo (owaphosiweyo)"
+    },
+    {
+      "surface": "אצל",
+      "gloss": "ecaleni"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "kwe-altare"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "ngasempuma"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwi-"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "ndawo"
+    },
+    {
+      "surface": "הדשן",
+      "gloss": "yomlahla"
+    }
+  ],
+  "timestamp": "2026-09-18T06:34:10.317326375Z",
+  "model": "glm-5.3"
+}

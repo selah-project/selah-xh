@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "2-kings 19:27",
+  "book": "2-kings",
+  "lang": "xh",
+  "chapter": 19,
+  "translation": "Ndikwazi ukuhlala kwakho, ukuphuma kwakho nokungena kwakho, ndikwazi ⟨את⟩ ukugabhadiela kwakho kum.",
+  "tokens": [
+    {
+      "surface": "ושבתך",
+      "gloss": "ukuhlala kwakho"
+    },
+    {
+      "surface": "וצאתך",
+      "gloss": "ukuphuma kwakho"
+    },
+    {
+      "surface": "ובאך",
+      "gloss": "nokungena kwakho"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "ndikwazi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ukugabhadiela kwakho"
+    },
+    {
+      "surface": "התרגזך",
+      "gloss": "ukugabhadiela kwakho"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kum"
+    }
+  ],
+  "timestamp": "2026-09-18T10:56:00.068860625Z",
+  "model": "glm-5.3"
+}

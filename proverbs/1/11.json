@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 1:11",
+  "book": "proverbs",
+  "lang": "xh",
+  "chapter": 1,
+  "translation": "Ukuba bathi: “Woza ⟨את⟩ nathi, silindele igazi, sicengelele abangekwenziyo cala ngaphandle kwesizathu—”",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ukuba"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "bathi"
+    },
+    {
+      "surface": "לכה",
+      "gloss": "woza"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ nathi",
+      "marks": "nathi"
+    },
+    {
+      "surface": "נארבה",
+      "gloss": "silindele"
+    },
+    {
+      "surface": "לדם",
+      "gloss": "igazi"
+    },
+    {
+      "surface": "נצפנה",
+      "gloss": "sicengelele"
+    },
+    {
+      "surface": "לנקי",
+      "gloss": "abangekwenziyo cala"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "ngaphandle kwesizathu"
+    }
+  ],
+  "timestamp": "2026-09-18T15:35:15.062275535Z",
+  "model": "glm-5.3"
+}

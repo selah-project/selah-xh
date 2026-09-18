@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 86:10",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 86,
+  "translation": "Kuba ungumkhulu, wenza izimangaliso; wena unguye uElohim wedwa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "ungumkhulu"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "wenza"
+    },
+    {
+      "surface": "נפלאות",
+      "gloss": "izimangaliso"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "wedwa"
+    }
+  ],
+  "timestamp": "2026-09-18T15:06:51.046958428Z",
+  "model": "glm-5.3"
+}

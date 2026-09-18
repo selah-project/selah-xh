@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "judges 12:8",
+  "book": "judges",
+  "lang": "xh",
+  "chapter": 12,
+  "translation": "Emva kwakhe walawula ⟨את⟩ u-Israeli u-Ibtsani waseBhetlehema.",
+  "tokens": [
+    {
+      "surface": "וישפט",
+      "gloss": "walawula (wanikelela isigwebo)"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "Emva kwakhe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "u-Israeli"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "u-Israeli"
+    },
+    {
+      "surface": "אבצן",
+      "gloss": "u-Ibtsani"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "wase-"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "Bhetlehema"
+    }
+  ],
+  "timestamp": "2026-09-18T09:03:16.229002461Z",
+  "model": "glm-5.3"
+}

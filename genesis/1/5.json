@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 1:5",
+  "book": "genesis",
+  "lang": "xh",
+  "chapter": 1,
+  "translation": "uElohim wabiza ukukhanya igama linguYIM; umnyama wabiza igama linguBUSUKU. Kwakukho ntambama, kwakukho ekuseni — yIM enye.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "wabiza"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "לאור",
+      "gloss": "ukukhanya"
+    },
+    {
+      "surface": "יום",
+      "gloss": "iYIM"
+    },
+    {
+      "surface": "ולחשך",
+      "gloss": "umnyama"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "wabiza"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "iBUSUKU"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "kwakukho"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "intambama"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "kwakukho"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "ekuseni"
+    },
+    {
+      "surface": "יום",
+      "gloss": "iYIM"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "enye"
+    }
+  ],
+  "timestamp": "2026-09-18T05:08:12.223380036Z",
+  "model": "glm-5.3"
+}

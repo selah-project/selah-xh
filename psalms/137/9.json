@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 137:9",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 137,
+  "translation": "Usikelelekile lowo uzakubamba ⟨את⟩ abantwana bakho abancinci, wabachitha elityeni.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Usikelelekile"
+    },
+    {
+      "surface": "שיאחז",
+      "gloss": "lowo uzakubamba"
+    },
+    {
+      "surface": "ונפץ",
+      "gloss": "wabachitha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abantwana bakho abancinci"
+    },
+    {
+      "surface": "עלליך",
+      "gloss": "abantwana bakho abancinci"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e-"
+    },
+    {
+      "surface": "הסלע",
+      "gloss": "lityeni"
+    }
+  ],
+  "timestamp": "2026-09-18T15:29:46.478820084Z",
+  "model": "glm-5.3"
+}

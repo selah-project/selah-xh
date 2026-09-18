@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "song-of-songs 3:3",
+  "book": "song-of-songs",
+  "lang": "xh",
+  "chapter": 3,
+  "translation": "Abamlindileyo abadidayo sixhole esidolophini bandifumana: “Niyambonile na ⟨את⟩ lowo amthandayo umphefumlo wam?”",
+  "tokens": [
+    {
+      "surface": "מצאוני",
+      "gloss": "bandifumana"
+    },
+    {
+      "surface": "השמרים",
+      "gloss": "abamlindileyo"
+    },
+    {
+      "surface": "הסבבים",
+      "gloss": "abadidayo sixhole"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "esidolophini"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lowo amthandayo umphefumlo wam"
+    },
+    {
+      "surface": "שאהבה",
+      "gloss": "lowo amthandayo"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "umphefumlo wam"
+    },
+    {
+      "surface": "ראיתם",
+      "gloss": "Niyambonile na"
+    }
+  ],
+  "timestamp": "2026-09-18T16:16:28.428046099Z",
+  "model": "glm-5.3"
+}

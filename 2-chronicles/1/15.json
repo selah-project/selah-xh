@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 1:15",
+  "book": "2-chronicles",
+  "lang": "xh",
+  "chapter": 1,
+  "translation": "Inkosi yenza isilivere negolide eYerushalayimi ibenjengamatye, iidedari yazenzenjengezikhamanga ezikwiShifela, ngenxa yobukhulu bezityalo.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "yenza"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "inkosi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isilivere"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "isilivere"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "igolide"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "negolide"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "eYerushalayimi"
+    },
+    {
+      "surface": "כאבנים",
+      "gloss": "ibenjengamatye"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "iidedari"
+    },
+    {
+      "surface": "הארזים",
+      "gloss": "iidedari"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "yazenza"
+    },
+    {
+      "surface": "כשקמים",
+      "gloss": "njengezikhamanga"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ezi"
+    },
+    {
+      "surface": "בשפלה",
+      "gloss": "zikwiShifela"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "ngenxa yobukhulu bezityalo"
+    }
+  ],
+  "timestamp": "2026-09-18T17:02:00.353355132Z",
+  "model": "glm-5.3"
+}

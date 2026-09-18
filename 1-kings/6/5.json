@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 6:5",
+  "book": "1-kings",
+  "lang": "xh",
+  "chapter": 6,
+  "translation": "Wawakha oludonga lwendlu isakhiwo, ejikelezileyo ⟨את⟩ iindonga zendlu, ejikelezileyo, zeheikhala nededbhiri; wawenza iindawo eziseceleni ezijikelezileyo.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "wawakha"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu"
+    },
+    {
+      "surface": "קיר",
+      "gloss": "koludonga"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "lwendlu"
+    },
+    {
+      "surface": "יצוע",
+      "gloss": "isakhiwo esijikelezayo"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ejikelezileyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iindonga zendlu"
+    },
+    {
+      "surface": "קירות",
+      "gloss": "iindonga"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "lwendlu"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ejikelezileyo"
+    },
+    {
+      "surface": "להיכל",
+      "gloss": "zeheikhala"
+    },
+    {
+      "surface": "ולדביר",
+      "gloss": "nededbhiri"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "wawenza"
+    },
+    {
+      "surface": "צלעות",
+      "gloss": "iindawo eziseceleni"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ezijikelezileyo"
+    }
+  ],
+  "timestamp": "2026-09-18T10:15:44.961583902Z",
+  "model": "glm-5.3"
+}

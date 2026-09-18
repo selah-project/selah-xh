@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 72:7",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 72,
+  "translation": "Kwimihla yakhe uyavutha ulungile, kwaye ubuninzi boxolo, de inyanga ingabikho.",
+  "tokens": [
+    {
+      "surface": "יפרח",
+      "gloss": "uyavutha"
+    },
+    {
+      "surface": "בימיו",
+      "gloss": "kwimihla yakhe"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ulungile"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "ubuninzi"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "boxolo"
+    },
+    {
+      "surface": "עד",
+      "gloss": "de"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "ungabikho"
+    },
+    {
+      "surface": "ירח",
+      "gloss": "inyanga"
+    }
+  ],
+  "timestamp": "2026-09-18T14:58:34.885283441Z",
+  "model": "glm-5.3"
+}

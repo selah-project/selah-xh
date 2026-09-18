@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 38:5",
+  "book": "genesis",
+  "lang": "xh",
+  "chapter": 38,
+  "translation": "Yaza yongeza kwakhona, yaze yalela unyana, yamthiyela igama lakhe uShela; waya kwakhe eKhezibi ngexesha alela ngalo yena.",
+  "tokens": [
+    {
+      "surface": "ותסף",
+      "gloss": "yongeza"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "kwakhona"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "yalela"
+    },
+    {
+      "surface": "בן",
+      "gloss": "unyana"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "yamthiyela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "igama lakhe"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "igama lakhe"
+    },
+    {
+      "surface": "שלה",
+      "gloss": "uShela"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "waya kwakhe"
+    },
+    {
+      "surface": "בכזיב",
+      "gloss": "eKhezibi"
+    },
+    {
+      "surface": "בלדתה",
+      "gloss": "ngexesha alela ngalo"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "yena"
+    }
+  ],
+  "timestamp": "2026-09-18T05:35:22.324581968Z",
+  "model": "glm-5.3"
+}

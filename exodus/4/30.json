@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 4:30",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 4,
+  "translation": "Wathetha u-Aharoni ⟨את⟩ onke amagama awawathe uYahwe kuMoshe, waza wentza iimpawu phambi kwamehlo abantu.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "wathetha"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "u-Aharoni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "onke amagama"
+    },
+    {
+      "surface": "כל",
+      "gloss": "onke"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "amagama"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "awawathe"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "wawuthetha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "משה",
+      "gloss": "uMoshe"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "wentza"
+    },
+    {
+      "surface": "האתת",
+      "gloss": "iimpawu"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "phambi kwamehlo"
+    },
+    {
+      "surface": "העם",
+      "gloss": "abantu"
+    }
+  ],
+  "timestamp": "2026-09-18T05:50:26.134192296Z",
+  "model": "glm-5.3"
+}

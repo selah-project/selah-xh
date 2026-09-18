@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "hosea 7:7",
+  "book": "hosea",
+  "lang": "xh",
+  "chapter": 7,
+  "translation": "Bonke bafudumele njengesitofu, batye ⟨את⟩ abahluleli babo; zonke iinkosi zabo ziwile; akukho mntu obizayo kum kubo.",
+  "tokens": [
+    {
+      "surface": "כלם",
+      "gloss": "bonke"
+    },
+    {
+      "surface": "יחמו",
+      "gloss": "bafudumele"
+    },
+    {
+      "surface": "כתנור",
+      "gloss": "njengesitofu"
+    },
+    {
+      "surface": "ואכלו",
+      "gloss": "batye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abahluleli babo"
+    },
+    {
+      "surface": "שפטיהם",
+      "gloss": "abahluleli babo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zonke"
+    },
+    {
+      "surface": "מלכיהם",
+      "gloss": "iinkosi zabo"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "ziwile"
+    },
+    {
+      "surface": "אין",
+      "gloss": "akukho"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "obizayo"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "kubo"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kum"
+    }
+  ],
+  "timestamp": "2026-09-18T17:41:37.655768291Z",
+  "model": "glm-5.3"
+}

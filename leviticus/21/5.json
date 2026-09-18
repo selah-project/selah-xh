@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 21:5",
+  "book": "leviticus",
+  "lang": "xh",
+  "chapter": 21,
+  "translation": "Abayenzi ukwalisa entlokweni yabo, umda webhudulu yabo bengawushavi, emzimbeni wabo bengazibi sisicabha.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "abayenzi"
+    },
+    {
+      "surface": "יקרחה",
+      "gloss": "ukwalisa"
+    },
+    {
+      "surface": "קרחה",
+      "gloss": "ukwalisa (entlokweni)"
+    },
+    {
+      "surface": "בראשם",
+      "gloss": "entlokweni yabo"
+    },
+    {
+      "surface": "ופאת",
+      "gloss": "umda we-"
+    },
+    {
+      "surface": "זקנם",
+      "gloss": "bhudulu yabo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "bengawushavi"
+    },
+    {
+      "surface": "יגלחו",
+      "gloss": "bengawushavi"
+    },
+    {
+      "surface": "ובבשרם",
+      "gloss": "emzimbeni wabo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "bengazibi"
+    },
+    {
+      "surface": "ישרטו",
+      "gloss": "bengazibi sisicabha"
+    },
+    {
+      "surface": "שרטת",
+      "gloss": "sisicabha"
+    }
+  ],
+  "timestamp": "2026-09-18T07:00:24.744852226Z",
+  "model": "glm-5.3"
+}

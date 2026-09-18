@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 123:1",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 123,
+  "translation": "Umculo wokunyuka. Kuwe ndiphakamisile ⟨את⟩ amehlo am, wena uhlalelayo ezulwini.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Umculo"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "wokunyuka"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "Kuwe"
+    },
+    {
+      "surface": "נשאתי",
+      "gloss": "ndiphakamisile"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amehlo am"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "amehlo am"
+    },
+    {
+      "surface": "הישבי",
+      "gloss": "uhlalelayo"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "ezulwini"
+    }
+  ],
+  "timestamp": "2026-09-18T15:29:12.813964588Z",
+  "model": "glm-5.3"
+}

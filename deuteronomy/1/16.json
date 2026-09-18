@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 1:16",
+  "book": "deuteronomy",
+  "lang": "xh",
+  "chapter": 1,
+  "translation": "Ndawalela ⟨את⟩ abagwebi benu ngelo xesha, ndithi: Livumeleni apho kuxabene khona izelwane zenu, nigwebe ngokulunga phakathi komntu nakwakwakhe nakumrhambophelele wakhe.",
+  "tokens": [
+    {
+      "surface": "ואצוה",
+      "gloss": "ndawalela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abagwebi benu"
+    },
+    {
+      "surface": "שפטיכם",
+      "gloss": "abagwebi benu"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "ngelo xesha"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "elo"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ndithi"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "livumeleni"
+    },
+    {
+      "surface": "בין",
+      "gloss": "phakathi"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "kwizelwane zenu"
+    },
+    {
+      "surface": "ושפטתם",
+      "gloss": "nigwebe"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "ngokulunga"
+    },
+    {
+      "surface": "בין",
+      "gloss": "phakathi"
+    },
+    {
+      "surface": "איש",
+      "gloss": "komntu"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "nakwa"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "zelwane lakhe"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "nakuma"
+    },
+    {
+      "surface": "גרו",
+      "gloss": "rhambophelele wakhe"
+    }
+  ],
+  "timestamp": "2026-09-18T07:53:23.678464614Z",
+  "model": "glm-5.3"
+}

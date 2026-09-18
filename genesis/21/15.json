@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 21:15",
+  "book": "genesis",
+  "lang": "xh",
+  "chapter": 21,
+  "translation": "Amanzi athe awa edlelwini, yamisa ⟨את⟩ unyana ngaphantsi kwenye yee-shrubhu.",
+  "tokens": [
+    {
+      "surface": "ויכלו",
+      "gloss": "athe awa"
+    },
+    {
+      "surface": "המים",
+      "gloss": "amanzi"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kusuka"
+    },
+    {
+      "surface": "החמת",
+      "gloss": "edlelwini"
+    },
+    {
+      "surface": "ותשלך",
+      "gloss": "yamisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "unyana"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "unyana"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ngaphantsi"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "kwenye"
+    },
+    {
+      "surface": "השיחם",
+      "gloss": "yee-shrubhu"
+    }
+  ],
+  "timestamp": "2026-09-18T05:19:16.846570467Z",
+  "model": "glm-5.3"
+}

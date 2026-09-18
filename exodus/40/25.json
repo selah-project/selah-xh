@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 40:25",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 40,
+  "translation": "Wamisa iibhayibhile eziqhubekayo phambi koYahwe, njengoko uYahwe wayalele uMoshe.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "wamisa (wazisa entanyeni) iibhayibhile eziqhubekayo"
+    },
+    {
+      "surface": "הנרת",
+      "gloss": "iibhayibhile eziqhubekayo"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "phambi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "koYahwe"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "njengoko"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "wayalele"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uMoshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "uMoshe"
+    }
+  ],
+  "timestamp": "2026-09-18T06:31:52.510239590Z",
+  "model": "glm-5.3"
+}

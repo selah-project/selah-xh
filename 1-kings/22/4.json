@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 22:4",
+  "book": "1-kings",
+  "lang": "xh",
+  "chapter": 22,
+  "translation": "Wathi kuYehoshuwa: “Uza kuhamba nham ⟨את⟩ ukulwa imfazwe yaseRamoto yaseGileyadi?” UYehoshuwa wathi kwenkosi yaseYisrayeli: “Ndingathi wena; abantu bam ngabantu bakho; amahashe am ngamahashe akho.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Wathi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "uYehoshuwa"
+    },
+    {
+      "surface": "התלך",
+      "gloss": "Uza kuhamba na"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ nham"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "ukulwa imfazwe"
+    },
+    {
+      "surface": "רמת",
+      "gloss": "yaseRamoto"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "yaseGileyadi"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "UYehoshuwa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "inkosi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "yaseYisrayeli"
+    },
+    {
+      "surface": "כמוני",
+      "gloss": "Ndingathi"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "wena"
+    },
+    {
+      "surface": "כעמי",
+      "gloss": "abantu bam"
+    },
+    {
+      "surface": "כעמך",
+      "gloss": "abantu bakho"
+    },
+    {
+      "surface": "כסוסי",
+      "gloss": "amahashe am"
+    },
+    {
+      "surface": "כסוסיך",
+      "gloss": "amahashe akho"
+    }
+  ],
+  "timestamp": "2026-09-18T10:37:11.936011434Z",
+  "model": "glm-5.3"
+}

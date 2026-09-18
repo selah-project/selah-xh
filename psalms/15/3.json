@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 15:3",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 15,
+  "translation": "Ungaqathi ngolwimi lwakhe,ungenzi okungalunganga kumhlobo wakhe, intlekisa akayiphakamisi ngaphezu komakhwaba wakhe.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "akazange (akayi)"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "aqathe"
+    },
+    {
+      "surface": "על",
+      "gloss": "ngalo"
+    },
+    {
+      "surface": "לשנו",
+      "gloss": "ulwimi lwakhe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "akazange"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "enze"
+    },
+    {
+      "surface": "לרעהו",
+      "gloss": "kumhlobo wakhe"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "okungalunganga"
+    },
+    {
+      "surface": "וחרפה",
+      "gloss": "intlekisa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "akazange"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "ayiphakamisi"
+    },
+    {
+      "surface": "על",
+      "gloss": "ngaphezu"
+    },
+    {
+      "surface": "קרבו",
+      "gloss": "komakhwaba wakhe"
+    }
+  ],
+  "timestamp": "2026-09-18T14:31:59.414939471Z",
+  "model": "glm-5.3"
+}

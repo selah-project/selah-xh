@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 20:1",
+  "book": "1-kings",
+  "lang": "xh",
+  "chapter": 20,
+  "translation": "Kwaye uBen-Hadadi, inkosi yaseAram, waqokelela ⟨את⟩ onke amabutho akhe; kwaye amashumi amathathu anesibini ookumkani babengasesandleni sakhe, neehashi neenqwelo zempi; wanyuka, wazinzelela iShomroni, walwa nayo.",
+  "tokens": [
+    {
+      "surface": "ובן",
+      "gloss": "Kwaye uBen-Hadadi"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "uBen-Hadadi"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "inkosi"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "yaseAram"
+    },
+    {
+      "surface": "קבץ",
+      "gloss": "waqokelela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "onke amabutho akhe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "onke"
+    },
+    {
+      "surface": "חילו",
+      "gloss": "amabutho akhe"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "kwaye amashumi amathathu"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "anesibini"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ookumkani"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ kanye naye",
+      "marks": "ookumkani abangasesandleni sakhe"
+    },
+    {
+      "surface": "וסוס",
+      "gloss": "neehashi"
+    },
+    {
+      "surface": "ורכב",
+      "gloss": "neenqwelo zempi"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "wanyuka"
+    },
+    {
+      "surface": "ויצר",
+      "gloss": "wazinzelela"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu kwe-"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "iShomroni"
+    },
+    {
+      "surface": "וילחם",
+      "gloss": "walwa"
+    },
+    {
+      "surface": "בה",
+      "gloss": "nayo"
+    }
+  ],
+  "timestamp": "2026-09-18T10:33:51.292022438Z",
+  "model": "glm-5.3"
+}

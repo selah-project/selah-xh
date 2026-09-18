@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 139:1",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 139,
+  "translation": "Kumlawuli. Iingoma kaDawidi. uYahwe, undingezisile, undazi.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Kumlawuli"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "kaDawidi"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "iingoma"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "חקרתני",
+      "gloss": "undingezisile"
+    },
+    {
+      "surface": "ותדע",
+      "gloss": "undazi"
+    }
+  ],
+  "timestamp": "2026-09-18T15:30:39.342872063Z",
+  "model": "glm-5.3"
+}

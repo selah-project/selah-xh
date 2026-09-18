@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 147:8",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 147,
+  "translation": "Ovala amazulu ngamafu, olungisela umhlaba imvula, okhulisela iintaba utshani.",
+  "tokens": [
+    {
+      "surface": "המכסה",
+      "gloss": "Ovala"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "amazulu"
+    },
+    {
+      "surface": "בעבים",
+      "gloss": "ngamafu"
+    },
+    {
+      "surface": "המכין",
+      "gloss": "olungisela"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "umhlaba"
+    },
+    {
+      "surface": "מטר",
+      "gloss": "imvula"
+    },
+    {
+      "surface": "המצמיח",
+      "gloss": "okhulisela"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "iintaba"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "utshani"
+    }
+  ],
+  "timestamp": "2026-09-18T15:34:55.680174333Z",
+  "model": "glm-5.3"
+}

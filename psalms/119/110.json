@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 110,
+  "ref": "psalms 119:110",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 119,
+  "translation": "Abalungisi bambele inkonkxo kuM, kodwa imiyalelo yakho andiyikukhohlisi ndingaqhakamsheli.",
+  "tokens": [
+    {
+      "surface": "נתנו",
+      "gloss": "bambele"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "abalungisi"
+    },
+    {
+      "surface": "פח",
+      "gloss": "inkonkxo"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kuM"
+    },
+    {
+      "surface": "ומפקודיך",
+      "gloss": "kodwa imiyalelo yakho"
+    },
+    {
+      "surface": "לא",
+      "gloss": "andiyiku-"
+    },
+    {
+      "surface": "תעיתי",
+      "gloss": "khohlisi ngokuhamba ndingaqhakamsheli"
+    }
+  ],
+  "timestamp": "2026-09-18T15:25:47.935647310Z",
+  "model": "glm-5.3"
+}

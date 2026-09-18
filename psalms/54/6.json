@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 54:6",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 54,
+  "translation": "Yabona, uElohim ngumncedi wam; u-Adonayi unobani abamelayo umphefumlo wam.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Yabona"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "ngumncedi"
+    },
+    {
+      "surface": "לי",
+      "gloss": "wam"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "u-Adonayi"
+    },
+    {
+      "surface": "בסמכי",
+      "gloss": "unobani abamelayo"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "umphefumlo wam"
+    }
+  ],
+  "timestamp": "2026-09-18T14:50:42.245806120Z",
+  "model": "glm-5.3"
+}

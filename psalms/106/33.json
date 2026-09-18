@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 106:33",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 106,
+  "translation": "Kuba bamzeza ubuhlungu umoya wakhe, wathetha ngokungaqondanga ngeyona zakhe.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "המרו",
+      "gloss": "bamzeza ubuhlungu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umoya wakhe"
+    },
+    {
+      "surface": "רוחו",
+      "gloss": "umoya wakhe"
+    },
+    {
+      "surface": "ויבטא",
+      "gloss": "wathetha ngokungaqondanga"
+    },
+    {
+      "surface": "בשפתיו",
+      "gloss": "ngeyona zakhe"
+    }
+  ],
+  "timestamp": "2026-09-18T15:17:17.707627201Z",
+  "model": "glm-5.3"
+}

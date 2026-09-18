@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 18:4",
+  "book": "deuteronomy",
+  "lang": "xh",
+  "chapter": 18,
+  "translation": "Izivuno zokuqala zokwetya kwakho, iwayini yakho, nooyile wakho, nolusu olokuqala lwezimvu zakho, umnika yena.",
+  "tokens": [
+    {
+      "surface": "ראשית",
+      "gloss": "Izivuno zokuqala"
+    },
+    {
+      "surface": "דגנך",
+      "gloss": "zokwetya kwakho"
+    },
+    {
+      "surface": "תירשך",
+      "gloss": "iwayini yakho"
+    },
+    {
+      "surface": "ויצהרך",
+      "gloss": "nooyile wakho"
+    },
+    {
+      "surface": "וראשית",
+      "gloss": "nolusu olokuqala"
+    },
+    {
+      "surface": "גז",
+      "gloss": "lolusu"
+    },
+    {
+      "surface": "צאנך",
+      "gloss": "lwezimvu zakho"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "umnika"
+    },
+    {
+      "surface": "לו",
+      "gloss": "yena"
+    }
+  ],
+  "timestamp": "2026-09-18T08:11:53.759826869Z",
+  "model": "glm-5.3"
+}

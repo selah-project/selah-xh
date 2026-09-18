@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 16:7",
+  "book": "proverbs",
+  "lang": "xh",
+  "chapter": 16,
+  "translation": "Xa iindlela zomntu zime kakuhle kuYahwe, yena uthintela nabathinzi bakhe ukuba babenoxolo ⟨צמאדע⟩.",
+  "tokens": [
+    {
+      "surface": "ברצות",
+      "gloss": "Xa... zime kakuhle"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kuYahwe"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "iindlela"
+    },
+    {
+      "surface": "איש",
+      "gloss": "zomntu"
+    },
+    {
+      "surface": "גם",
+      "gloss": "nabathinzi"
+    },
+    {
+      "surface": "אויביו",
+      "gloss": "bakhe"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "uthintela... ukuba babeinoxolo"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "yena (umntu)"
+    }
+  ],
+  "timestamp": "2026-09-18T15:47:06.298845357Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 37:18",
+  "book": "isaiah",
+  "lang": "xh",
+  "chapter": 37,
+  "translation": "Inyaniso, Yahwe, iinkosi zaseAshuru zabhubhisa ⟨את⟩ onke amazwe ⟨את⟩ namazwe wawo.",
+  "tokens": [
+    {
+      "surface": "אמנם",
+      "gloss": "Inyaniso"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "החריבו",
+      "gloss": "zabhubhisa"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "iinkosi"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "zaseAshuru"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "onke amazwe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "onke"
+    },
+    {
+      "surface": "הארצות",
+      "gloss": "amazwe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "amazwe wawo"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "amazwe wawo"
+    }
+  ],
+  "timestamp": "2026-09-18T11:28:07.320053461Z",
+  "model": "glm-5.3"
+}

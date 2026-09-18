@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 19:3",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 19,
+  "translation": "Imini kumini iphefumla intetho, ebusuku kubusuku kubonakalisa ulwazi.",
+  "tokens": [
+    {
+      "surface": "יום",
+      "gloss": "Imini"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "kumini"
+    },
+    {
+      "surface": "יביע",
+      "gloss": "iphefumla"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "intetho"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "ebusuku"
+    },
+    {
+      "surface": "ללילה",
+      "gloss": "kubusuku"
+    },
+    {
+      "surface": "יחוה",
+      "gloss": "kubonakalisa"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "ulwazi"
+    }
+  ],
+  "timestamp": "2026-09-18T14:35:37.239427755Z",
+  "model": "glm-5.3"
+}

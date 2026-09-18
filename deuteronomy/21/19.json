@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 21:19",
+  "book": "deuteronomy",
+  "lang": "xh",
+  "chapter": 21,
+  "translation": "uthi abawo nomhlogua wakhe baza kumbamba, baza kumsusa ⟨אתו⟩ baya koozelamani besixeko sakhe, nasentlangweni yendawo yakhe;",
+  "tokens": [
+    {
+      "surface": "ותפשו",
+      "gloss": "baza kumbamba"
+    },
+    {
+      "surface": "בו",
+      "gloss": "lo"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "abawo wakhe"
+    },
+    {
+      "surface": "ואמו",
+      "gloss": "nomhlogua wakhe"
+    },
+    {
+      "surface": "והוציאו",
+      "gloss": "baza kumsusa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "lo (lowana oluchaziweyo)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "oozelamani"
+    },
+    {
+      "surface": "עירו",
+      "gloss": "besixeko sakhe"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "nase"
+    },
+    {
+      "surface": "שער",
+      "gloss": "entlangweni"
+    },
+    {
+      "surface": "מקמו",
+      "gloss": "yendawo yakhe"
+    }
+  ],
+  "timestamp": "2026-09-18T17:25:23.781910375Z",
+  "model": "glm-5.3"
+}

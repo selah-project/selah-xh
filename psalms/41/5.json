@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 41:5",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 41,
+  "translation": "Mna ndathetha: “uYahwe, ndinike ikhesedi, philisa inefeshi yam, kuba ndonile kuwe.”",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Mna"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "ndathetha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "ndinike ikhesedi"
+    },
+    {
+      "surface": "רפאה",
+      "gloss": "philisa"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "inefeshi yam"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "ndonile"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kuwe"
+    }
+  ],
+  "timestamp": "2026-09-18T14:44:38.747533269Z",
+  "model": "glm-5.3"
+}

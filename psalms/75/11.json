@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 75:11",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 75,
+  "translation": "Zonke iimpondo zezigebenga ndiza kuzisika; iimpondo zolungileyo ziya kuphakamiswa.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "Zonke"
+    },
+    {
+      "surface": "קרני",
+      "gloss": "iimpondo"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "zezigebenga"
+    },
+    {
+      "surface": "אגדע",
+      "gloss": "ndiza kuzisika"
+    },
+    {
+      "surface": "תרוממנה",
+      "gloss": "ziya kuphakamiswa"
+    },
+    {
+      "surface": "קרנות",
+      "gloss": "iimpondo"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "zolungileyo"
+    }
+  ],
+  "timestamp": "2026-09-18T15:00:12.084558254Z",
+  "model": "glm-5.3"
+}

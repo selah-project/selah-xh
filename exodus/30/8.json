@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 30:8",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 30,
+  "translation": "Kwaye xa u-Aharon ekhwelisa ⟨את⟩ iilampu phakathi kweentsimbi zokuhlwela, uyitshisa; i-incense eqhubekayo phambi koYahwe, kwiimvelakazi zenu.",
+  "tokens": [
+    {
+      "surface": "ובהעלת",
+      "gloss": "kwaye xa ekhwelisa"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "u-Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iilampu"
+    },
+    {
+      "surface": "הנרת",
+      "gloss": "iilampu"
+    },
+    {
+      "surface": "בין",
+      "gloss": "phakathi"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "kweentsimbi zokuhlwela"
+    },
+    {
+      "surface": "יקטירנה",
+      "gloss": "uyitshisa"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "i-incense"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "eqhubekayo"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "phambi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "koYahwe"
+    },
+    {
+      "surface": "לדרתיכם",
+      "gloss": "kwiimvelakazi zenu"
+    }
+  ],
+  "timestamp": "2026-09-18T06:16:23.575065919Z",
+  "model": "glm-5.3"
+}

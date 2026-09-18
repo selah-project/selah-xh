@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 124:4",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 124,
+  "translation": "amanaya ayesiya kusithela, umthombo wo mlando wawuya kudlula phezu kweephefumlo zethu;",
+  "tokens": [
+    {
+      "surface": "אזי",
+      "gloss": "ayesiya kusithela"
+    },
+    {
+      "surface": "המים",
+      "gloss": "amanaya"
+    },
+    {
+      "surface": "שטפונו",
+      "gloss": "kusithela"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "umthombo wo mlando"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "wawuya kudlula"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu kwee-"
+    },
+    {
+      "surface": "נפשנו",
+      "gloss": "phefumlo zethu"
+    }
+  ],
+  "timestamp": "2026-09-18T15:28:04.329950402Z",
+  "model": "glm-5.3"
+}

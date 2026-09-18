@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 11:14",
+  "book": "1-kings",
+  "lang": "xh",
+  "chapter": 11,
+  "translation": "UYahwe wamisa isichasisi kuShelomoh: ⟨את⟩ uHadadi, woMEdomi, owasezelweni likankosi — yena ngokwakhe inEdom.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "wamisa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "שטן",
+      "gloss": "isichasisi"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "kuShelomoh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uHadadi woMEdomi"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "uHadadi"
+    },
+    {
+      "surface": "האדמי",
+      "gloss": "woMEdomi"
+    },
+    {
+      "surface": "מזרע",
+      "gloss": "owasezelweni"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "likankosi"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yena ngokwakhe"
+    },
+    {
+      "surface": "באדום",
+      "gloss": "inEdom"
+    }
+  ],
+  "timestamp": "2026-09-18T10:23:52.136258717Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 16:16",
+  "book": "1-kings",
+  "lang": "xh",
+  "chapter": 16,
+  "translation": "Abantu abasakhambeleyo bayeva bethiwa: “UZimri undiele, waza kwakhona wabetha ⟨את⟩ ukumkani.” Waza wonke umntu wakwaYisra'eli wamenza ukumkani uOmri ⟨את⟩, umlawuli wemikhosi, phezu kwaYisra'eli, ngalo mlonjana lo, emkhosini.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "bayeva"
+    },
+    {
+      "surface": "העם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "החנים",
+      "gloss": "abasakhambele"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "bethiwa"
+    },
+    {
+      "surface": "קשר",
+      "gloss": "undiele"
+    },
+    {
+      "surface": "זמרי",
+      "gloss": "uZimri"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "waza kwakhona"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "wabetha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ukumkani"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ukumkani"
+    },
+    {
+      "surface": "וימלכו",
+      "gloss": "wamenza ukumkani"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wonke umntu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "wakwaYisra'eli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uOmri"
+    },
+    {
+      "surface": "עמרי",
+      "gloss": "uOmri"
+    },
+    {
+      "surface": "שר",
+      "gloss": "umlawuli"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "wemikhosi"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu kwa-"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'eli"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ngalo mlonjana"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "lo"
+    },
+    {
+      "surface": "במחנה",
+      "gloss": "emkhosini"
+    }
+  ],
+  "timestamp": "2026-09-18T10:30:18.491117601Z",
+  "model": "glm-5.3"
+}

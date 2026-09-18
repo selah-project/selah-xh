@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 35:7",
+  "book": "numbers",
+  "lang": "xh",
+  "chapter": 35,
+  "translation": "Zonke ezixeko eniza kuzinika kwabaLevi, amashumi amane nesibhozo ziixeko; ⟨את⟩ zona kwaye ⟨את⟩ amadlelo awo.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "zonke"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "ezixeko"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "azo"
+    },
+    {
+      "surface": "תתנו",
+      "gloss": "eniza kuzinika"
+    },
+    {
+      "surface": "ללוים",
+      "gloss": "kwabaLevi"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "amashumi amane"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "nesibhozo"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "ziixeko"
+    },
+    {
+      "surface": "אתהן",
+      "gloss": "⟨את⟩",
+      "marks": "zona"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "amadlelo awo"
+    },
+    {
+      "surface": "מגרשיהן",
+      "gloss": "amadlelo awo"
+    }
+  ],
+  "timestamp": "2026-09-18T07:49:50.609704613Z",
+  "model": "glm-5.3"
+}

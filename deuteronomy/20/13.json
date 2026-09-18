@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 20:13",
+  "book": "deuteronomy",
+  "lang": "xh",
+  "chapter": 20,
+  "translation": "uYahwe uElohim wakho uza kuyinika esandleni sakho, uze ubethe ⟨את⟩ bonke ulilunu lolwazi-lwedoda lwakulo, ngomlomo welwesi.",
+  "tokens": [
+    {
+      "surface": "ונתנה",
+      "gloss": "uza kuyinika"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "uElohim wakho"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "esandleni sakho"
+    },
+    {
+      "surface": "והכית",
+      "gloss": "uze ubethe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bonke ulilunu lolwazi-lwedoda"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bonke"
+    },
+    {
+      "surface": "זכורה",
+      "gloss": "ulilunu lolwazi-lwedoda lwakulo"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "ngomlomo"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "welwesi"
+    }
+  ],
+  "timestamp": "2026-09-18T08:10:56.183842220Z",
+  "model": "glm-5.3"
+}

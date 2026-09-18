@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 19:11",
+  "book": "genesis",
+  "lang": "xh",
+  "chapter": 19,
+  "translation": "Bathi ⟨את⟩ abantu abasesangweni sendlu batsalele ngezikhubekileyo, kwabaŋakanani nangamakhulu, baza bakhathaza ukufumana isango.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "abantu"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aba-"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "asesangweni"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "sendlu"
+    },
+    {
+      "surface": "הכו",
+      "gloss": "batsalele"
+    },
+    {
+      "surface": "בסנורים",
+      "gloss": "ngezikhubekileyo"
+    },
+    {
+      "surface": "מקטן",
+      "gloss": "kwabaŋakanani"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "nanga-"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "amakhulu"
+    },
+    {
+      "surface": "וילאו",
+      "gloss": "baza bakhathaza"
+    },
+    {
+      "surface": "למצא",
+      "gloss": "ukufumana"
+    },
+    {
+      "surface": "הפתח",
+      "gloss": "isango"
+    }
+  ],
+  "timestamp": "2026-09-18T05:15:34.225283750Z",
+  "model": "glm-5.3"
+}

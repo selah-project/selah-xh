@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 29:9",
+  "book": "proverbs",
+  "lang": "xh",
+  "chapter": 29,
+  "translation": "Umntu olumileyo xa echasiswa nomntu oyisiwuti — uzithukuthelisa, uhleka, kwaye akukho xolo.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "umntu"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "olumileyo"
+    },
+    {
+      "surface": "נשפט",
+      "gloss": "xa echasiswa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nomntu oyisiwuti"
+    },
+    {
+      "surface": "איש",
+      "gloss": "nomntu"
+    },
+    {
+      "surface": "אויל",
+      "gloss": "oyisiwuti"
+    },
+    {
+      "surface": "ורגז",
+      "gloss": "uzithukuthelisa"
+    },
+    {
+      "surface": "ושחק",
+      "gloss": "uhleka"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "akukho"
+    },
+    {
+      "surface": "נחת",
+      "gloss": "xolo"
+    }
+  ],
+  "timestamp": "2026-09-18T15:56:25.318687913Z",
+  "model": "glm-5.3"
+}

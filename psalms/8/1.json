@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 8:1",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 8,
+  "translation": "Kumlawuli weqela lomculo, ngeGithithi, umdzelelo kaDavide.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Kumlawuli weqela lomculo"
+    },
+    {
+      "surface": "על",
+      "gloss": "nge"
+    },
+    {
+      "surface": "הגתית",
+      "gloss": "iGithithi"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "umdzelelo"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "kaDavide"
+    }
+  ],
+  "timestamp": "2026-09-18T14:28:21.644075589Z",
+  "model": "glm-5.3"
+}

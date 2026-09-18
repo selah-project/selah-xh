@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 8:4",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 8,
+  "translation": "Xa ndijonga amazulu akho, izenzo zeminwe yakho, inyanga neenkwenkwezi ezuzisele,",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Xa"
+    },
+    {
+      "surface": "אראה",
+      "gloss": "ndijonga"
+    },
+    {
+      "surface": "שמיך",
+      "gloss": "amazulu akho"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "izenzo"
+    },
+    {
+      "surface": "אצבעתיך",
+      "gloss": "zeminwe yakho"
+    },
+    {
+      "surface": "ירח",
+      "gloss": "inyanga"
+    },
+    {
+      "surface": "וכוכבים",
+      "gloss": "neenkwenkwezi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ezu"
+    },
+    {
+      "surface": "כוננתה",
+      "gloss": "zisele"
+    }
+  ],
+  "timestamp": "2026-09-18T14:28:21.644709175Z",
+  "model": "glm-5.3"
+}

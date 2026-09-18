@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 7:4",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 7,
+  "translation": "uYahwe uElohim wam, ukuba ndenze oku, ukuba kukho ubugwenxa ezandleni zam;",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "uElohim wam"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ukuba"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "ndenze"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "oku"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ukuba"
+    },
+    {
+      "surface": "יש",
+      "gloss": "kukho"
+    },
+    {
+      "surface": "עול",
+      "gloss": "ubugwenxa"
+    },
+    {
+      "surface": "בכפי",
+      "gloss": "ezandleni zam"
+    }
+  ],
+  "timestamp": "2026-09-18T14:27:26.692321841Z",
+  "model": "glm-5.3"
+}

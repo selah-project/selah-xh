@@ -1,0 +1,121 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 14:7",
+  "book": "deuteronomy",
+  "lang": "xh",
+  "chapter": 14,
+  "translation": "Kodwa kuphela oku ningeke nidle, kwezo zinokunyusa ilaysha nakwezo zinomkhondo ohlulahlulayo: ⟨את⟩ ihameli, ⟨ואת⟩ umvundla, ⟨ואת⟩ ishafani, kuba zinokunyusa ilaysha kodwa azinahluli umkhondo; zingcolileyo zizo kuni.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "kodwa kuphela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oku"
+    },
+    {
+      "surface": "זה",
+      "gloss": "oku"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ngeke"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "nidle"
+    },
+    {
+      "surface": "ממעלי",
+      "gloss": "kwezo zinokunyusa"
+    },
+    {
+      "surface": "הגרה",
+      "gloss": "ilaysha"
+    },
+    {
+      "surface": "וממפריסי",
+      "gloss": "nakwezo zinahlulayo"
+    },
+    {
+      "surface": "הפרסה",
+      "gloss": "umkhondo"
+    },
+    {
+      "surface": "השסועה",
+      "gloss": "ohlulahlulayo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ihameli"
+    },
+    {
+      "surface": "הגמל",
+      "gloss": "ihameli"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "umvundla"
+    },
+    {
+      "surface": "הארנבת",
+      "gloss": "umvundla"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ishafani"
+    },
+    {
+      "surface": "השפן",
+      "gloss": "ishafani"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "מעלה",
+      "gloss": "zinokunyusa"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "ilaysha"
+    },
+    {
+      "surface": "המה",
+      "gloss": "zizo"
+    },
+    {
+      "surface": "ופרסה",
+      "gloss": "nomkhondo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hayi"
+    },
+    {
+      "surface": "הפריסו",
+      "gloss": "azinawuhlulanga"
+    },
+    {
+      "surface": "טמאים",
+      "gloss": "zingcolileyo"
+    },
+    {
+      "surface": "הם",
+      "gloss": "zizo"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kuni"
+    }
+  ],
+  "timestamp": "2026-09-18T08:07:55.709408782Z",
+  "model": "glm-5.3"
+}

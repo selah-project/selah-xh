@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "proverbs 3:31",
+  "book": "proverbs",
+  "lang": "xh",
+  "chapter": 3,
+  "translation": "Musa ukwenzela umntu wedinga indyebo, musa ukukhetha nanye kweendlela zakhe zonke.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "musa"
+    },
+    {
+      "surface": "תקנא",
+      "gloss": "ukwenzela indyebo"
+    },
+    {
+      "surface": "באיש",
+      "gloss": "umntu"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "wedinga"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "kwaye musa"
+    },
+    {
+      "surface": "תבחר",
+      "gloss": "ukukhetha"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "zonke"
+    },
+    {
+      "surface": "דרכיו",
+      "gloss": "iindlela zakhe"
+    }
+  ],
+  "timestamp": "2026-09-18T17:46:31.519615118Z",
+  "model": "glm-5.3"
+}

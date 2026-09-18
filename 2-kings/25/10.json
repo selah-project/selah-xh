@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 25:10",
+  "book": "2-kings",
+  "lang": "xh",
+  "chapter": 25,
+  "translation": "Iindonga zeYerushalayimi ezijikelezileyo ⟨את⟩ wazitshatyalalisa onke amabandla akwaKashdim awaye kukhulu wetabhakha.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "iindonga zeYerushalayimi"
+    },
+    {
+      "surface": "חומת",
+      "gloss": "iindonga"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "zeYerushalayimi"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ezijikelezileyo"
+    },
+    {
+      "surface": "נתצו",
+      "gloss": "wazitshatyalalisa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "onke"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "amabandla"
+    },
+    {
+      "surface": "כשדים",
+      "gloss": "akwaKashdim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "awaye"
+    },
+    {
+      "surface": "רב",
+      "gloss": "kukhulu"
+    },
+    {
+      "surface": "טבחים",
+      "gloss": "wetabhakha"
+    }
+  ],
+  "timestamp": "2026-09-18T11:00:03.644316841Z",
+  "model": "glm-5.3"
+}

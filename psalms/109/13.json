@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 109:13",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 109,
+  "translation": "Makubeisisiphelo sakhe ukucinywa; kwindlela ezayo makucinywe igama labo.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "makube"
+    },
+    {
+      "surface": "אחריתו",
+      "gloss": "isiphelo sakhe"
+    },
+    {
+      "surface": "להכרית",
+      "gloss": "ukucinywa"
+    },
+    {
+      "surface": "בדור",
+      "gloss": "kwizizukulwana"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "ezayo"
+    },
+    {
+      "surface": "ימח",
+      "gloss": "makucinywe"
+    },
+    {
+      "surface": "שמם",
+      "gloss": "igama labo"
+    }
+  ],
+  "timestamp": "2026-09-18T15:20:46.623430546Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "song-of-songs 5:3",
+  "book": "song-of-songs",
+  "lang": "xh",
+  "chapter": 5,
+  "translation": "Ndityule ngengesi yam ⟨את⟩; ndingayibuyisela njani? Ndihlambulule iinyawo zam ⟨את⟩; ndingazinyamalalisa njani?",
+  "tokens": [
+    {
+      "surface": "פשטתי",
+      "gloss": "ndityule"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ngengesi yam"
+    },
+    {
+      "surface": "כתנתי",
+      "gloss": "ngengesi yam"
+    },
+    {
+      "surface": "איככה",
+      "gloss": "njani"
+    },
+    {
+      "surface": "אלבשנה",
+      "gloss": "ndingayibuyisela"
+    },
+    {
+      "surface": "רחצתי",
+      "gloss": "ndihlambulule"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iinyawo zam"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "iinyawo zam"
+    },
+    {
+      "surface": "איככה",
+      "gloss": "njani"
+    },
+    {
+      "surface": "אטנפם",
+      "gloss": "ndingazinyamalalisa"
+    }
+  ],
+  "timestamp": "2026-09-18T16:17:21.096986179Z",
+  "model": "glm-5.3"
+}

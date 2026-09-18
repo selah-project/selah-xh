@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 12:1",
+  "book": "1-kings",
+  "lang": "xh",
+  "chapter": 12,
+  "translation": "Waya uRukhobam eShekhem, kuba iShekhem yayifikelele kuzo zonke iindawo zakwaYisrayeli ukuza kumenza ukuba abe yinkosi. ⟨את⟩",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "waya"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "uRukhobam"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "eShekhem"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "iShekhem"
+    },
+    {
+      "surface": "בא",
+      "gloss": "yayifikelele"
+    },
+    {
+      "surface": "כל",
+      "gloss": "konke"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "uYisrayeli"
+    },
+    {
+      "surface": "להמליך",
+      "gloss": "ukuza kumenza inkosi"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "uRukhobam"
+    }
+  ],
+  "timestamp": "2026-09-18T10:25:56.316305203Z",
+  "model": "glm-5.3"
+}

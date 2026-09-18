@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 147:6",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 147,
+  "translation": "uYahwe uyanyusa abathobekileyo, wehlisa ababalungu ukuya kwiindawo zomhlaba.",
+  "tokens": [
+    {
+      "surface": "מעודד",
+      "gloss": "uyanyusa"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "abathobekileyo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "משפיל",
+      "gloss": "wehlisa"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ababalungu"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "ukuya kwiindawo"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "omhlaba"
+    }
+  ],
+  "timestamp": "2026-09-18T15:34:55.679864561Z",
+  "model": "glm-5.3"
+}

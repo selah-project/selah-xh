@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 27:3",
+  "book": "2-chronicles",
+  "lang": "xh",
+  "chapter": 27,
+  "translation": "Yena wasakha ⟨את⟩ isango esiphakamileyo sendlu kaYahwe, wasakha kakhulu kwidonga le-Ofeli.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "yena"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "wasakha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isango esiphakamileyo sendlu kaYahwe"
+    },
+    {
+      "surface": "שער",
+      "gloss": "isango"
+    },
+    {
+      "surface": "בית",
+      "gloss": "sendlu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kaYahwe"
+    },
+    {
+      "surface": "העליון",
+      "gloss": "esiphakamileyo"
+    },
+    {
+      "surface": "ובחומת",
+      "gloss": "kwidonga"
+    },
+    {
+      "surface": "העפל",
+      "gloss": "le-Ofeli"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "wasakha"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "kakhulu"
+    }
+  ],
+  "timestamp": "2026-09-18T17:11:35.131414432Z",
+  "model": "glm-5.3"
+}

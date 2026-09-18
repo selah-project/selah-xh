@@ -1,0 +1,109 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ecclesiastes 8:14",
+  "book": "ecclesiastes",
+  "lang": "xh",
+  "chapter": 8,
+  "translation": "Kukho ukungabinanto okwenziwa emhlabeni: kukho abalungileyo okufikelela kubo njengokwenzayo kwabakhohlakeleyo, yaye kukho abakhohlakeleyo okufikelela kubo njengokwenzayo kwabalungileyo; ndathi nako oku kukungabinanto.",
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "kukho"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "ukungabinanto"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oko"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "okwenziwa"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "umhlaba"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ukuba"
+    },
+    {
+      "surface": "יש",
+      "gloss": "kukho"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "abalungileyo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "abafikelela"
+    },
+    {
+      "surface": "מגיע",
+      "gloss": "kufikelela"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "kubo"
+    },
+    {
+      "surface": "כמעשה",
+      "gloss": "njengokwenzayo"
+    },
+    {
+      "surface": "הרשעים",
+      "gloss": "kwabakhohlakeleyo"
+    },
+    {
+      "surface": "ויש",
+      "gloss": "yaye kukho"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "abakhohlakeleyo"
+    },
+    {
+      "surface": "שמגיע",
+      "gloss": "abafikelela"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "kubo"
+    },
+    {
+      "surface": "כמעשה",
+      "gloss": "njengokwenzayo"
+    },
+    {
+      "surface": "הצדיקים",
+      "gloss": "kwabalungileyo"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "ndathi"
+    },
+    {
+      "surface": "שגם",
+      "gloss": "ukuba nako"
+    },
+    {
+      "surface": "זה",
+      "gloss": "oku"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "ukungabinanto"
+    }
+  ],
+  "timestamp": "2026-09-18T16:27:08.146300799Z",
+  "model": "glm-5.3"
+}

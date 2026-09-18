@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "deuteronomy 1:38",
+  "book": "deuteronomy",
+  "lang": "xh",
+  "chapter": 1,
+  "translation": "UYehoshuwa unyana kaNuni, ome phambi kwakho, yena uza kungena khona; yena ⟨את⟩ mqinisa, kuba yena uza kuyilisela uSirayeli.",
+  "tokens": [
+    {
+      "surface": "יהושע",
+      "gloss": "uYehoshuwa"
+    },
+    {
+      "surface": "בן",
+      "gloss": "unyana"
+    },
+    {
+      "surface": "נון",
+      "gloss": "kaNuni"
+    },
+    {
+      "surface": "העמד",
+      "gloss": "omi"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "phambi kwakho"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yena"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "uza kungena"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "khona"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "mqinisa — yena (uYehoshuwa)"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "mqinisa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yena"
+    },
+    {
+      "surface": "ינחלנה",
+      "gloss": "uza kuyilisela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uSirayeli"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "uSirayeli"
+    }
+  ],
+  "timestamp": "2026-09-18T07:52:03.262151445Z",
+  "model": "glm-5.3"
+}

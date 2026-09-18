@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-chronicles 23:25",
+  "book": "1-chronicles",
+  "lang": "xh",
+  "chapter": 23,
+  "translation": "Kuba uDawidi wathetha wathi: uYahwe, uElohim kaIsrayeli, wabnika intlanhla abantu bakhe, wahlala eYerushalayimi kuze kube phakade.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "wathetha"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "uDawidi"
+    },
+    {
+      "surface": "הניח",
+      "gloss": "wabnika intlanhla"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "uElohim ka"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israyeli"
+    },
+    {
+      "surface": "לעמו",
+      "gloss": "abantu bakhe"
+    },
+    {
+      "surface": "וישכן",
+      "gloss": "wahlala"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "eYerushalayimi"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kuze kube"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "phakade"
+    }
+  ],
+  "timestamp": "2026-09-18T16:59:42.207746188Z",
+  "model": "glm-5.3"
+}

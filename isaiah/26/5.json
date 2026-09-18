@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 26:5",
+  "book": "isaiah",
+  "lang": "xh",
+  "chapter": 26,
+  "translation": "Kuba wadabulisa abahlali basentla, isixeko esiphakamileyo; wasenza okusezantsi, wasenza okusezantsi de kumhlaba, wamfikelelisa de kuthuli.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kuba"
+    },
+    {
+      "surface": "השח",
+      "gloss": "wadabulisa"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "abahlali"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "basentla"
+    },
+    {
+      "surface": "קריה",
+      "gloss": "isixeko"
+    },
+    {
+      "surface": "נשגבה",
+      "gloss": "esiphakamileyo"
+    },
+    {
+      "surface": "ישפילנה",
+      "gloss": "wasenza okusezantsi"
+    },
+    {
+      "surface": "ישפילה",
+      "gloss": "wasenza okusezantsi"
+    },
+    {
+      "surface": "עד",
+      "gloss": "de"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "kumhlaba"
+    },
+    {
+      "surface": "יגיענה",
+      "gloss": "wamfikelelisa"
+    },
+    {
+      "surface": "עד",
+      "gloss": "de"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "kuthuli"
+    }
+  ],
+  "timestamp": "2026-09-18T11:17:48.962266654Z",
+  "model": "glm-5.3"
+}

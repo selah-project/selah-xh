@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 36:5",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 36,
+  "translation": "Inkohlakalo icwangcisa entulweni yakhe; umise ngokuzinza kwindlela engelilo ilungile; ububi akabunqabi.",
+  "tokens": [
+    {
+      "surface": "און",
+      "gloss": "inkohlakalo"
+    },
+    {
+      "surface": "יחשב",
+      "gloss": "icwangcisa"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "משכבו",
+      "gloss": "entulweni yakhe"
+    },
+    {
+      "surface": "יתיצב",
+      "gloss": "umise ngokuzinza"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "indlela"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hayi"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ilungile"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ububi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "akabu-"
+    },
+    {
+      "surface": "ימאס",
+      "gloss": "nqabi"
+    }
+  ],
+  "timestamp": "2026-09-18T14:41:43.838695196Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "jeremiah 4:17",
+  "book": "jeremiah",
+  "lang": "xh",
+  "chapter": 4,
+  "translation": "Njengabagadi basimama, bazingqinalele kuyo ingqinalele; kuba yona yasiya ⟨את⟩ kum, uthe uYahwe.",
+  "tokens": [
+    {
+      "surface": "כשמרי",
+      "gloss": "njengabagadi basimama"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "basimama"
+    },
+    {
+      "surface": "היו",
+      "gloss": "bazingqinalele"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "kuyo"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "ingqinalele"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "yandiyasiya (kum)"
+    },
+    {
+      "surface": "מרתה",
+      "gloss": "yasiya"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "ute"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    }
+  ],
+  "timestamp": "2026-09-18T11:54:29.020611098Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 18:1",
+  "book": "leviticus",
+  "lang": "xh",
+  "chapter": 18,
+  "translation": "uYahwe wathetha kuMoshe, wathi:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "wathetha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "משה",
+      "gloss": "kuMoshe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "wathi"
+    }
+  ],
+  "timestamp": "2026-09-18T17:22:13.257972847Z",
+  "model": "glm-5.3"
+}

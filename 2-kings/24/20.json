@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 24:20",
+  "book": "2-kings",
+  "lang": "xh",
+  "chapter": 24,
+  "translation": "Kuba ngenxa yolaka lukaYahwe kwenzeke oku eYerushalayimi nakwiYuda, de atshotha ⟨אתם⟩ abo ukusuka ebusweni bakhe; uTsidoqiya waphikisana nenkosi yaseBhabheli.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "על",
+      "gloss": "ngenxa"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ulaka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "lukaYahwe"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "kwenzeke"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "eYerushalayimi"
+    },
+    {
+      "surface": "וביהודה",
+      "gloss": "nakwiYuda"
+    },
+    {
+      "surface": "עד",
+      "gloss": "de"
+    },
+    {
+      "surface": "השלכו",
+      "gloss": "atshotha"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "eYerushalayimi nakwiYuda"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "ukusuka"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "ebusweni bakhe"
+    },
+    {
+      "surface": "וימרד",
+      "gloss": "waphikisana"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "uTsidoqiya"
+    },
+    {
+      "surface": "במלך",
+      "gloss": "nenkosi"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "yaseBhabheli"
+    }
+  ],
+  "timestamp": "2026-09-18T10:59:33.478895579Z",
+  "model": "glm-5.3"
+}

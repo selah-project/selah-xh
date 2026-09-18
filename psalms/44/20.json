@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 44:20",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 44,
+  "translation": "Kodwa wazicimba zonke embindini wamanxada, wazithunga ngomoya wokufa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kodwa"
+    },
+    {
+      "surface": "דכיתנו",
+      "gloss": "wazicimba zonke"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "embindini wa-"
+    },
+    {
+      "surface": "תנים",
+      "gloss": "amanxada"
+    },
+    {
+      "surface": "ותכס",
+      "gloss": "wazithunga ngo-"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "zonke"
+    },
+    {
+      "surface": "בצלמות",
+      "gloss": "umoya wokufa"
+    }
+  ],
+  "timestamp": "2026-09-18T14:45:33.852198167Z",
+  "model": "glm-5.3"
+}

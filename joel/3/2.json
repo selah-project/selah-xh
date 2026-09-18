@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joel 3:2",
+  "book": "joel",
+  "lang": "xh",
+  "chapter": 3,
+  "translation": "Kananjalo pheuka amakhobokhane nakwamakhobakhazi, ngemihla le ndiza kuthathela ⟨את⟩ umoya wam.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "kananjalo"
+    },
+    {
+      "surface": "על",
+      "gloss": "pheuka"
+    },
+    {
+      "surface": "העבדים",
+      "gloss": "amakhobokhane"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "nakwa"
+    },
+    {
+      "surface": "השפחות",
+      "gloss": "amakhobakhazi"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "ngemihla"
+    },
+    {
+      "surface": "ההמה",
+      "gloss": "le"
+    },
+    {
+      "surface": "אשפוך",
+      "gloss": "ndiza kuthathela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umoya wam"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "umoya wam"
+    }
+  ],
+  "timestamp": "2026-09-18T13:52:04.451778854Z",
+  "model": "glm-5.3"
+}

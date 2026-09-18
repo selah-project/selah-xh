@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 51:8",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 51,
+  "translation": "Yabona, iqiniso uyayithanda ezifubeni ⟨ezifihlakeleyo⟩, kwindawo ezifihlakeleyo undizisa ulwazi.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "yabona"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "iqiniso"
+    },
+    {
+      "surface": "חפצת",
+      "gloss": "uyayithanda"
+    },
+    {
+      "surface": "בטחות",
+      "gloss": "ezifubeni"
+    },
+    {
+      "surface": "ובסתם",
+      "gloss": "kwindawo ezifihlakeleyo"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "ulwazi"
+    },
+    {
+      "surface": "תודיעני",
+      "gloss": "undizisa ulwazi"
+    }
+  ],
+  "timestamp": "2026-09-18T14:49:50.528894194Z",
+  "model": "glm-5.3"
+}

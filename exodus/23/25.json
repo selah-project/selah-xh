@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 23:25",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 23,
+  "translation": "Niza kukhonza ⟨את⟩ uYahwe uElohim wenu, wabusisa ⟨את⟩ isonka sakho ⟨את⟩ namanzi akho; ndiza kususa ingculaza phakathi kwenu.",
+  "tokens": [
+    {
+      "surface": "ועבדתם",
+      "gloss": "niza kukhonza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uYahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "uElohim wenu"
+    },
+    {
+      "surface": "וברך",
+      "gloss": "wabusisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isonka sakho"
+    },
+    {
+      "surface": "לחמך",
+      "gloss": "isonka sakho"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "amanzi akho"
+    },
+    {
+      "surface": "מימיך",
+      "gloss": "amanzi akho"
+    },
+    {
+      "surface": "והסרתי",
+      "gloss": "ndiza kususa"
+    },
+    {
+      "surface": "מחלה",
+      "gloss": "ingculaza"
+    },
+    {
+      "surface": "מקרבך",
+      "gloss": "phakathi kwenu"
+    }
+  ],
+  "timestamp": "2026-09-18T06:10:54.577864892Z",
+  "model": "glm-5.3"
+}

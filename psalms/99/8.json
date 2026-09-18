@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 99:8",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 99,
+  "translation": "Yahwe Elohim wethu, wena wabaphendula, u-El othwala izono waba yena kubo, kodwa othabath'ubuntu bubuxoki babo.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim wethu"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "עניתם",
+      "gloss": "wabaphendula"
+    },
+    {
+      "surface": "אל",
+      "gloss": "u-El"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "othwala izono"
+    },
+    {
+      "surface": "היית",
+      "gloss": "waba yena"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kubo"
+    },
+    {
+      "surface": "ונקם",
+      "gloss": "othabath'ubuntu"
+    },
+    {
+      "surface": "על",
+      "gloss": "ubuxoki"
+    },
+    {
+      "surface": "עלילותם",
+      "gloss": "babo"
+    }
+  ],
+  "timestamp": "2026-09-18T15:14:07.684430699Z",
+  "model": "glm-5.3"
+}

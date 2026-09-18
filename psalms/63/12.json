@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 63:12",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 63,
+  "translation": "Kananjalo inkosi iza kuvuyiswa kuElohim; bonke abafungisa ngoYe baza kuziqhenya, kuba umlomo wabo bathetha ubuxoki uza kuvalwa.",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "kananjalo inkosi"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "iza kuvuyiswa"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "kuElohim"
+    },
+    {
+      "surface": "יתהלל",
+      "gloss": "baza kuziqhenya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bonke"
+    },
+    {
+      "surface": "הנשבע",
+      "gloss": "abafungisa"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ngoYe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "יסכר",
+      "gloss": "uza kuvalwa"
+    },
+    {
+      "surface": "פי",
+      "gloss": "umlomo"
+    },
+    {
+      "surface": "דוברי",
+      "gloss": "wabo bathetha (abathethayo)"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "ubuxoki"
+    }
+  ],
+  "timestamp": "2026-09-18T14:53:07.758011099Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 109:6",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 109,
+  "translation": "Misele phezu kwakhe ungalungileyo, isachasi simi ngasekunene kwakhe.",
+  "tokens": [
+    {
+      "surface": "הפקד",
+      "gloss": "misele"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "phezu kwakhe"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ungalungileyo"
+    },
+    {
+      "surface": "ושטן",
+      "gloss": "isachasi"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "simi"
+    },
+    {
+      "surface": "על",
+      "gloss": "ngase-"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "ekunene kwakhe"
+    }
+  ],
+  "timestamp": "2026-09-18T15:19:55.277971286Z",
+  "model": "glm-5.3"
+}

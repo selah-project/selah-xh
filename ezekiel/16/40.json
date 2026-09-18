@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "ezekiel 16:40",
+  "book": "ezekiel",
+  "lang": "xh",
+  "chapter": 16,
+  "translation": "Baza kuzisa umkhosi ⟨wezimoto⟩ phezu kwakho, baza kukugalela ⟨את⟩ wena ngamatye, baze kukucheba ngezikemesthi zawo.",
+  "tokens": [
+    {
+      "surface": "והעלו",
+      "gloss": "Baza kuzisa"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "phezu kwakho"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "umkhosi"
+    },
+    {
+      "surface": "ורגמו",
+      "gloss": "baza kukugalela"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩ wena",
+      "marks": "wena ngamatye"
+    },
+    {
+      "surface": "באבן",
+      "gloss": "ngamatye"
+    },
+    {
+      "surface": "ובתקוך",
+      "gloss": "baze kukucheba"
+    },
+    {
+      "surface": "בחרבותם",
+      "gloss": "ngezikemesthi zawo"
+    }
+  ],
+  "timestamp": "2026-09-18T13:04:42.651131615Z",
+  "model": "glm-5.3"
+}

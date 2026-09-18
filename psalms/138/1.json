@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 138:1",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 138,
+  "translation": "KaDavide. Ndiza kukudumba ngeentliziyo yam yonke; phambi koothixo ndiza kukudanisa ngawe.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "KaDavide"
+    },
+    {
+      "surface": "אודך",
+      "gloss": "ndiza kukudumba"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "nge- yonke"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "intliziyo yam"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "phambi kwa-"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "oothixo"
+    },
+    {
+      "surface": "אזמרך",
+      "gloss": "ndiza kukudanisa ngawe"
+    }
+  ],
+  "timestamp": "2026-09-18T15:31:15.028172004Z",
+  "model": "glm-5.3"
+}

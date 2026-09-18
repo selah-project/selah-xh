@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 13:15",
+  "book": "leviticus",
+  "lang": "xh",
+  "chapter": 13,
+  "translation": "Kwaye uza kujonga umprofethi ⟨את⟩ inyama ephilileyo, aze angcolisa; inyama ephilileyo ingcolile; yona ukugula yileyo.",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "uza kujonga"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "umprofethi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "inyama ephilileyo"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "inyama"
+    },
+    {
+      "surface": "החי",
+      "gloss": "ephilileyo"
+    },
+    {
+      "surface": "וטמאו",
+      "gloss": "aze angcolise"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "inyama"
+    },
+    {
+      "surface": "החי",
+      "gloss": "ephilileyo"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "ingcolile"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yona"
+    },
+    {
+      "surface": "צרעת",
+      "gloss": "ukugula"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yileyo"
+    }
+  ],
+  "timestamp": "2026-09-18T06:47:03.362782017Z",
+  "model": "glm-5.3"
+}

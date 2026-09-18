@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 12:11",
+  "book": "proverbs",
+  "lang": "xh",
+  "chapter": 12,
+  "translation": "Lowo usebenza umhlaba wakhe uzakala ngesonka, kodwa lowo ulandela amahole akanangqiqo.",
+  "tokens": [
+    {
+      "surface": "עבד",
+      "gloss": "lowo usebenza"
+    },
+    {
+      "surface": "אדמתו",
+      "gloss": "umhlaba wakhe"
+    },
+    {
+      "surface": "ישבע",
+      "gloss": "uzakala"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ngesonka"
+    },
+    {
+      "surface": "ומרדף",
+      "gloss": "kodwa lowo ulandela"
+    },
+    {
+      "surface": "ריקים",
+      "gloss": "amahole"
+    },
+    {
+      "surface": "חסר",
+      "gloss": "akanalo"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ingqiqo (intliziyo)"
+    }
+  ],
+  "timestamp": "2026-09-18T15:44:26.232333559Z",
+  "model": "glm-5.3"
+}

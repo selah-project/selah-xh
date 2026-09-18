@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 4:6",
+  "book": "ecclesiastes",
+  "lang": "xh",
+  "chapter": 4,
+  "translation": "Kungcono ukuzala isandla ngokuzola kune ukuzala izandla zombini ngenyameko nokuzingela umoya.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "Kungcono"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "ukuzala"
+    },
+    {
+      "surface": "כף",
+      "gloss": "isandla"
+    },
+    {
+      "surface": "נחת",
+      "gloss": "ukuzola"
+    },
+    {
+      "surface": "ממלא",
+      "gloss": "kune"
+    },
+    {
+      "surface": "חפנים",
+      "gloss": "izandla zombini"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "inyameko"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "nokuzingela"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "umoya"
+    }
+  ],
+  "timestamp": "2026-09-18T16:25:07.312017442Z",
+  "model": "glm-5.3"
+}

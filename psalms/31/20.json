@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 31:20",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 31,
+  "translation": "Mangakanani ukulunga kwakho, okufihlileyo kwabaluselayo kuwe, owenzileyo kwabathathela kukho ubukhuseleko kuwe, phambi kwabantwana babantu!",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Mangakanani"
+    },
+    {
+      "surface": "רב",
+      "gloss": "⟨inokugqitha⟩"
+    },
+    {
+      "surface": "טובך",
+      "gloss": "ukulunga kwakho"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oko"
+    },
+    {
+      "surface": "צפנת",
+      "gloss": "okufihlileyo"
+    },
+    {
+      "surface": "ליראיך",
+      "gloss": "kwabaluselayo kuwe"
+    },
+    {
+      "surface": "פעלת",
+      "gloss": "owenzileyo"
+    },
+    {
+      "surface": "לחסים",
+      "gloss": "kwabathathela kukho ubukhuseleko"
+    },
+    {
+      "surface": "בך",
+      "gloss": "kuwe"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "phambi kwe-"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abantwana"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "babantu"
+    }
+  ],
+  "timestamp": "2026-09-18T17:43:39.140464154Z",
+  "model": "glm-5.3"
+}

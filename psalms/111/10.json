@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 111:10",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 111,
+  "translation": "Ukuqala kolwazi kukuloyika uYahwe; ukuqonda okulungileyo banabo bonke abakwenza udumo lwakhe lumi kuze kube naphakade.",
+  "tokens": [
+    {
+      "surface": "ראשית",
+      "gloss": "ukuqala"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "kolwazi"
+    },
+    {
+      "surface": "יראת",
+      "gloss": "kukuloyika"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "שכל",
+      "gloss": "ukuqonda"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "okulungileyo"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "bonke"
+    },
+    {
+      "surface": "עשיהם",
+      "gloss": "abakwenza"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "udumo lwakhe"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "lumi"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "kuze kube naphakade"
+    }
+  ],
+  "timestamp": "2026-09-18T17:45:34.749113359Z",
+  "model": "glm-5.3"
+}

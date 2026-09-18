@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 11:9",
+  "book": "leviticus",
+  "lang": "xh",
+  "chapter": 11,
+  "translation": "Ezi niyakuzitya kuzo zonke izinto ezikumanzi: yonke into enesisqwiba neengqindili kumanzi, ezilwandle nakumilambo, ⟨את⟩ ezi niyakuzitya.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ezi"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ezi"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "niyakuzitya"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "kuzo zonke"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ezikumanzi (oko)"
+    },
+    {
+      "surface": "במים",
+      "gloss": "kumanzi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yonke"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "into ene- (oko)"
+    },
+    {
+      "surface": "לו",
+      "gloss": "-ne-"
+    },
+    {
+      "surface": "סנפיר",
+      "gloss": "isiqwiba"
+    },
+    {
+      "surface": "וקשקשת",
+      "gloss": "neengqindili"
+    },
+    {
+      "surface": "במים",
+      "gloss": "kumanzi"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "ezilwandle"
+    },
+    {
+      "surface": "ובנחלים",
+      "gloss": "nakumilambo"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ezi"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "niyakuzitya"
+    }
+  ],
+  "timestamp": "2026-09-18T06:41:34.636394832Z",
+  "model": "glm-5.3"
+}

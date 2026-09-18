@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 22:31",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 22,
+  "translation": "Inzala iza kumkhonza; iya kubalwa ngo-Adonayi esizukulwaneni.",
+  "tokens": [
+    {
+      "surface": "זרע",
+      "gloss": "inzala"
+    },
+    {
+      "surface": "יעבדנו",
+      "gloss": "iza kumkhonza"
+    },
+    {
+      "surface": "יספר",
+      "gloss": "iya kubalwa"
+    },
+    {
+      "surface": "לאדני",
+      "gloss": "ngo-Adonayi"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "esizukulwaneni"
+    }
+  ],
+  "timestamp": "2026-09-18T14:35:43.817256758Z",
+  "model": "glm-5.3"
+}

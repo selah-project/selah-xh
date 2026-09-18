@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 3:3",
+  "book": "numbers",
+  "lang": "xh",
+  "chapter": 3,
+  "translation": "Ezi ngamagama oonyana ka-Aharon, ababhikisho abathanjisiweyo, abo ⟨kwazalwa⟩ isandla sabo ukuba basebenze njengababhikisho.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Ezi"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "ngamagama"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oonyana"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "ka-Aharon"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "ababhikisho"
+    },
+    {
+      "surface": "המשחים",
+      "gloss": "abathanjisiweyo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "abo"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "⟨kwazalwa⟩"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "isandla sabo"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "ukuba basebenze njengababhikisho"
+    }
+  ],
+  "timestamp": "2026-09-18T07:13:01.396848191Z",
+  "model": "glm-5.3"
+}

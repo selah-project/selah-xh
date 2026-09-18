@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 39:2",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 39,
+  "translation": "Waza wenza ⟨את⟩ i-efodi: ndeeza, thekilete, we-arigamane, netolati yeshani, nangomthi omhlope onjalo osityiweyo.",
+  "tokens": [
+    {
+      "surface": "וקעש",
+      "gloss": "Waza wenza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i-efodi"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "i-efodi"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ndeeza"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "thekilete"
+    },
+    {
+      "surface": "וארגמן",
+      "gloss": "we-arigamane"
+    },
+    {
+      "surface": "ותולעת",
+      "gloss": "netolati"
+    },
+    {
+      "surface": "שני",
+      "gloss": "yeshani"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "nangomthi omhlope"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "osityiweyo"
+    }
+  ],
+  "timestamp": "2026-09-18T06:29:57.880132948Z",
+  "model": "glm-5.3"
+}

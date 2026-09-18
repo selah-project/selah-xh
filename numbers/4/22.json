@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 4:22",
+  "book": "numbers",
+  "lang": "xh",
+  "chapter": 4,
+  "translation": "Phakamisa ⟨את⟩ intloko yabantwana bakaGeresnoni, nabo bona, ngokwendlu yoobawo bobu, ngokweentsapho zabo.",
+  "tokens": [
+    {
+      "surface": "נשא",
+      "gloss": "Phakamisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "intloko"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "intloko"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abantwana"
+    },
+    {
+      "surface": "גרשון",
+      "gloss": "bakaGeresnoni"
+    },
+    {
+      "surface": "גם",
+      "gloss": "na-"
+    },
+    {
+      "surface": "הם",
+      "gloss": "bo bona"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "ngokwendlu"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "yoobawo bobu"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "ngokweentsapho zabo"
+    }
+  ],
+  "timestamp": "2026-09-18T07:13:36.872674269Z",
+  "model": "glm-5.3"
+}

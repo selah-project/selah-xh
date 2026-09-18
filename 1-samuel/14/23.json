@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-samuel 14:23",
+  "book": "1-samuel",
+  "lang": "xh",
+  "chapter": 14,
+  "translation": "uYahwe wasindisa uSirayeli ngaloo mini, yaye imfazwe yagqithela ⟨את⟩ iBheti-Aveni.",
+  "tokens": [
+    {
+      "surface": "ויושע",
+      "gloss": "wasindisa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ngaloo"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "mini"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uSirayeli"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "uSirayeli"
+    },
+    {
+      "surface": "והמלחמה",
+      "gloss": "yaye imfazwe"
+    },
+    {
+      "surface": "עברה",
+      "gloss": "yagqithela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iBheti-Aveni"
+    },
+    {
+      "surface": "בית",
+      "gloss": "iBheti-"
+    },
+    {
+      "surface": "און",
+      "gloss": "Aveni"
+    }
+  ],
+  "timestamp": "2026-09-18T09:26:15.268058881Z",
+  "model": "glm-5.3"
+}

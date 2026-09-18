@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 127:5",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 127,
+  "translation": "Ukulungileyo kwegama likomnye amadoda, lowo ogcwaliseyo ⟨את⟩ isiphahamiso sakhe ngabo; abayi kudinxeka, kuba baya kuthetha ⟨את⟩ noochaso ngasentsimbi.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Ukulungileyo kwegama likomnye"
+    },
+    {
+      "surface": "הגבר",
+      "gloss": "amadoda"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "lowo"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "ogcwaliseyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isiphahamiso sakhe"
+    },
+    {
+      "surface": "אשפתו",
+      "gloss": "isiphahamiso sakhe"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "ngabo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "akukho"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "bayi kudinxeka"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "baya kuthetha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oochaso"
+    },
+    {
+      "surface": "אויבים",
+      "gloss": "oochaso"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "ngasentsimbi"
+    }
+  ],
+  "timestamp": "2026-09-18T15:26:37.084548448Z",
+  "model": "glm-5.3"
+}

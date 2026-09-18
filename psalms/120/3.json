@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 120:3",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 120,
+  "translation": "Yintoni ekunikelwa kuwe, yaye yintoni ekongezwa kuwe, lwimi lokhwelisa?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Yintoni"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "ekunikelwa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kuwe"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "yaye yintoni"
+    },
+    {
+      "surface": "יסיף",
+      "gloss": "ekongezwa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kuwe"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "lwimi"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "lokhwelisa"
+    }
+  ],
+  "timestamp": "2026-09-18T15:26:24.662332272Z",
+  "model": "glm-5.3"
+}

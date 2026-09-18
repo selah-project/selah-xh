@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 6:6",
+  "book": "2-kings",
+  "lang": "xh",
+  "chapter": 6,
+  "translation": "Waza umntu kaElohim wathi: “Iyawa phi?” Waza wambonisa ⟨את⟩ indawo; wasika inkuni, wayishwankqela khona, waza wenza inkuni yentsimbi ukuba ikhwele.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "waza wathi"
+    },
+    {
+      "surface": "איש",
+      "gloss": "umntu"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "kaElohim"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "phi"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "iyawa"
+    },
+    {
+      "surface": "ויראהו",
+      "gloss": "wambonisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "indawo"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "indawo"
+    },
+    {
+      "surface": "ויקצב",
+      "gloss": "wasika"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "inkuni"
+    },
+    {
+      "surface": "וישלך",
+      "gloss": "wayishwankqela"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "khona"
+    },
+    {
+      "surface": "ויצף",
+      "gloss": "wenza ukuba ikhwele"
+    },
+    {
+      "surface": "הברזל",
+      "gloss": "inkuni yentsimbi"
+    }
+  ],
+  "timestamp": "2026-09-18T10:40:05.157874661Z",
+  "model": "glm-5.3"
+}

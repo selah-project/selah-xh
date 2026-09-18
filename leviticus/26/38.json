@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "leviticus 26:38",
+  "book": "leviticus",
+  "lang": "xh",
+  "chapter": 26,
+  "translation": "Kwaye niza kutshatyalaliswa phakathi kwezizwe, kwaye umhlaba woobutshaba benu uza kunidla ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ואבדתם",
+      "gloss": "niza kutshatyalaliswa"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "phakathi kwezizwe"
+    },
+    {
+      "surface": "ואכלה",
+      "gloss": "uza kunidla"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "nin"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "umhlaba"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "woobutshaba benu"
+    }
+  ],
+  "timestamp": "2026-09-18T07:07:32.309279982Z",
+  "model": "glm-5.3"
+}

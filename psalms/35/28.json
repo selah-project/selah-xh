@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 35:28",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 35,
+  "translation": "Kwaye ulwimi lwam luya kubhala-mbini ulungelo lwakho, usuku lonke ndimbaza yakho.",
+  "tokens": [
+    {
+      "surface": "ולשוני",
+      "gloss": "Kwaye ulwimi lwam"
+    },
+    {
+      "surface": "תהגה",
+      "gloss": "luya kubhala-mbini"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "ulungelo lwakho"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lonke"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ususu"
+    },
+    {
+      "surface": "תהלתך",
+      "gloss": "ndimbaza yakho"
+    }
+  ],
+  "timestamp": "2026-09-18T14:41:49.109522754Z",
+  "model": "glm-5.3"
+}

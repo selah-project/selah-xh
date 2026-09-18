@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 111:6",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 111,
+  "translation": "Amandla emisebenzi yakhe wazisela kubantu bakhe, ekubanikeni ifa leentlanga.",
+  "tokens": [
+    {
+      "surface": "כח",
+      "gloss": "amandla"
+    },
+    {
+      "surface": "מעשיו",
+      "gloss": "emisebenzi yakhe"
+    },
+    {
+      "surface": "הגיד",
+      "gloss": "wazisela"
+    },
+    {
+      "surface": "לעמו",
+      "gloss": "kubantu bakhe"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "ekubanikeni"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kona"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "ifa"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "leentlanga"
+    }
+  ],
+  "timestamp": "2026-09-18T15:20:30.899872540Z",
+  "model": "glm-5.3"
+}

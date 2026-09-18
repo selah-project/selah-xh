@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-kings 15:32",
+  "book": "1-kings",
+  "lang": "xh",
+  "chapter": 15,
+  "translation": "Yaye imfazwe yayikhona phakathi koAsa nanguBaasha, inkosi yakwaSirayeli, yonke imihla yabo.",
+  "tokens": [
+    {
+      "surface": "ומלחמה",
+      "gloss": "Yaye imfazwe"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "yayikhona"
+    },
+    {
+      "surface": "בין",
+      "gloss": "phakathi ko-"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "Asa"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "nangu-"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Baasha"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "inkosi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "yakwaSirayeli"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yonke"
+    },
+    {
+      "surface": "ימיהם",
+      "gloss": "imihla yabo"
+    }
+  ],
+  "timestamp": "2026-09-18T10:29:13.502395476Z",
+  "model": "glm-5.3"
+}

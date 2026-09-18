@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 94:18",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 94,
+  "translation": "Ukuba ndithi, “Iinyawo zam ziyatantyaza,” ikhesedi yakho, Yahwe, iyandixhasa.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ukuba"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "ndithi"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "ziyatantyaza"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "iinyawo zam"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "ikhesedi yakho"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "יסעדני",
+      "gloss": "iyandixhasa"
+    }
+  ],
+  "timestamp": "2026-09-18T15:10:08.229648239Z",
+  "model": "glm-5.3"
+}

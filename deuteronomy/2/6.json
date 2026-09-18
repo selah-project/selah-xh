@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 2:6",
+  "book": "deuteronomy",
+  "lang": "xh",
+  "chapter": 2,
+  "translation": "Ukutya kuthenge ku⟨את⟩bo ngesilivere, niyitye; noko amanzi kuthenge ku⟨את⟩bo ngesilivere, niwasele.",
+  "tokens": [
+    {
+      "surface": "אכל",
+      "gloss": "ukutya"
+    },
+    {
+      "surface": "תשברו",
+      "gloss": "kuthenge"
+    },
+    {
+      "surface": "מאתם",
+      "gloss": "ku⟨את⟩bo",
+      "marks": "ukutya"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "ngesilivere"
+    },
+    {
+      "surface": "ואכלתם",
+      "gloss": "niyitye"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "noko"
+    },
+    {
+      "surface": "מים",
+      "gloss": "amanzi"
+    },
+    {
+      "surface": "תכרו",
+      "gloss": "kuthenge"
+    },
+    {
+      "surface": "מאתם",
+      "gloss": "ku⟨את⟩bo",
+      "marks": "amanzi"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "ngesilivere"
+    },
+    {
+      "surface": "ושתיתם",
+      "gloss": "niwasele"
+    }
+  ],
+  "timestamp": "2026-09-18T07:54:00.753927743Z",
+  "model": "glm-5.3"
+}

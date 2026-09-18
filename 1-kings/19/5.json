@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 19:5",
+  "book": "1-kings",
+  "lang": "xh",
+  "chapter": 19,
+  "translation": "Waalala walele phantsi korhothi elinye, kwaye nanko lo umthunywa echukumisa ⟨yena⟩, wathi kuye: “Vuka, utye.”",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "Waalala"
+    },
+    {
+      "surface": "ויישן",
+      "gloss": "walele"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "phantsi"
+    },
+    {
+      "surface": "רתם",
+      "gloss": "korhothi"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "elinye"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "kwaye nanko"
+    },
+    {
+      "surface": "זה",
+      "gloss": "lo"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "umthunywa"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "echukumisa"
+    },
+    {
+      "surface": "בו",
+      "gloss": "⟨yena⟩"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kuye"
+    },
+    {
+      "surface": "קום",
+      "gloss": "Vuka"
+    },
+    {
+      "surface": "אכול",
+      "gloss": "utye"
+    }
+  ],
+  "timestamp": "2026-09-18T10:32:07.109614617Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 40:5",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 40,
+  "translation": "Ubusisiwe umntu obekhe uYahwe ukhuseleko lwakhe, akajonganga kumzobo, nakwabatshamayo ubuxoki.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Ubusisiwe"
+    },
+    {
+      "surface": "הגבר",
+      "gloss": "umntu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "obekhe"
+    },
+    {
+      "surface": "שם",
+      "gloss": "obekhe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "מבטחו",
+      "gloss": "ukhuseleko lwakhe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "akajonganga"
+    },
+    {
+      "surface": "פנה",
+      "gloss": "akajonganga"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "רהבים",
+      "gloss": "umzobo"
+    },
+    {
+      "surface": "ושטי",
+      "gloss": "nakwabatshamayo"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "ubuxoki"
+    }
+  ],
+  "timestamp": "2026-09-18T14:45:00.277676946Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 11:3",
+  "book": "hosea",
+  "lang": "xh",
+  "chapter": 11,
+  "translation": "Yaye mna ndayifundisa iEfroyim ukuhamba, ndabathatha ngeengalo; kodwa abazanga bakwazi ukuba mna ndabaphilisa.",
+  "tokens": [
+    {
+      "surface": "ואנכי",
+      "gloss": "yaye mna"
+    },
+    {
+      "surface": "תרגלתי",
+      "gloss": "ndayifundisa ukuhamba"
+    },
+    {
+      "surface": "לאפרים",
+      "gloss": "iEfroyim"
+    },
+    {
+      "surface": "קחם",
+      "gloss": "ndabathatha"
+    },
+    {
+      "surface": "על",
+      "gloss": "nge-"
+    },
+    {
+      "surface": "זרועתיו",
+      "gloss": "iingalo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kodwa abazanga"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "bakwazi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ukuba"
+    },
+    {
+      "surface": "רפאתים",
+      "gloss": "ndabaphilisa"
+    }
+  ],
+  "timestamp": "2026-09-18T13:48:20.154921747Z",
+  "model": "glm-5.3"
+}

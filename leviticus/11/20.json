@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 11:20",
+  "book": "leviticus",
+  "lang": "xh",
+  "chapter": 11,
+  "translation": "Konke okunyukubezayo kokundiza, ehamba ngezinyawo ezine, kunyanyekile kuni;",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Konke"
+    },
+    {
+      "surface": "שרץ",
+      "gloss": "okunyukubezayo"
+    },
+    {
+      "surface": "העוף",
+      "gloss": "kokundiza"
+    },
+    {
+      "surface": "ההלך",
+      "gloss": "ehamba"
+    },
+    {
+      "surface": "על",
+      "gloss": "ngezinyawo"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "ezine"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "kunyanyekile"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "kona"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kuni"
+    }
+  ],
+  "timestamp": "2026-09-18T06:43:03.148575895Z",
+  "model": "glm-5.3"
+}

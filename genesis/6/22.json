@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 6:22",
+  "book": "genesis",
+  "lang": "xh",
+  "chapter": 6,
+  "translation": "Waza uNoacha wenza ngokweyonke into awayalela ⟨את⟩ yena uElohim; njalo wenza.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Waza wenza"
+    },
+    {
+      "surface": "נח",
+      "gloss": "uNoacha"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "ngokweyonke into"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oko"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "awayalela"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "yena (uNoacha)"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "כן",
+      "gloss": "njalo"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "wenza"
+    }
+  ],
+  "timestamp": "2026-09-18T05:09:09.152206952Z",
+  "model": "glm-5.3"
+}

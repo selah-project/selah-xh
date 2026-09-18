@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "song-of-songs 1:5",
+  "book": "song-of-songs",
+  "lang": "xh",
+  "chapter": 1,
+  "translation": "Ndimnyama, kodwa ndimhle, ntingase zaseYerushalayimi, njengamatenti akwaKhedari, njengamakhusu kaShelomoh.",
+  "tokens": [
+    {
+      "surface": "שחורה",
+      "gloss": "Ndimgmnyama... ndimnyama"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mna"
+    },
+    {
+      "surface": "ונאוה",
+      "gloss": "kodwa ndimhle"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "ntingase"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "zaseYerushalayimi"
+    },
+    {
+      "surface": "כאהלי",
+      "gloss": "njengamatenti"
+    },
+    {
+      "surface": "קדר",
+      "gloss": "akwaKhedari"
+    },
+    {
+      "surface": "כיריעות",
+      "gloss": "njengamakhusu"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "kaShelomoh"
+    }
+  ],
+  "timestamp": "2026-09-18T16:17:37.384937664Z",
+  "model": "glm-5.3"
+}

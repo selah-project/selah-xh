@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "amos 4:2",
+  "book": "amos",
+  "lang": "xh",
+  "chapter": 4,
+  "translation": "U-Adonayi uYahwe wafungisa ngokungcwele kwakhe: kuba, yabonani, iintsuku ezizayo ziza kufika phezu kwenu, niza kuthathwa ⟨את⟩ nina ngezikhanxa, nenzalo yenu ngezikhonxa zentlanzi.",
+  "tokens": [
+    {
+      "surface": "נשבע",
+      "gloss": "wafungisa"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "U-Adonayi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "בקדשו",
+      "gloss": "ngokungcwele kwakhe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "yabonani"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "iintsuku"
+    },
+    {
+      "surface": "באים",
+      "gloss": "ezizayo"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "phezu kwenu"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "niza kuthathwa"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ nina",
+      "marks": "nina"
+    },
+    {
+      "surface": "בצנות",
+      "gloss": "ngezikhanxa"
+    },
+    {
+      "surface": "ואחריתכן",
+      "gloss": "nenzalo yenu"
+    },
+    {
+      "surface": "בסירות",
+      "gloss": "ngezikhonxa"
+    },
+    {
+      "surface": "דוגה",
+      "gloss": "zentlanzi"
+    }
+  ],
+  "timestamp": "2026-09-18T13:55:17.600709209Z",
+  "model": "glm-5.3"
+}

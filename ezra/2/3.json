@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezra 2:3",
+  "book": "ezra",
+  "lang": "xh",
+  "chapter": 2,
+  "translation": "Abantwana baseParoshi, amawaka amabini, likhulu elinesixhenxe anamashumi amabini anesibini.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Abantwana"
+    },
+    {
+      "surface": "פרעש",
+      "gloss": "aseParoshi"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "amawaka amabini"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "likhulu"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "amashumi amabini anesixhenxe"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "anesibini"
+    }
+  ],
+  "timestamp": "2026-09-18T16:38:55.637777011Z",
+  "model": "glm-5.3"
+}

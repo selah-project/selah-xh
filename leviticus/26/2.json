@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 26:2",
+  "book": "leviticus",
+  "lang": "xh",
+  "chapter": 26,
+  "translation": "⟨את⟩ iisabatha zam niyazigcina, noidendwe lwam ongcwele niyaloyika; ndinguYahwe.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iisabatha zam"
+    },
+    {
+      "surface": "שבתתי",
+      "gloss": "iisabatha zam"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "niyazigcina"
+    },
+    {
+      "surface": "ומקדשי",
+      "gloss": "noidendwe lwam ongcwele"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "niyaloyika"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ndi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    }
+  ],
+  "timestamp": "2026-09-18T07:06:26.876914850Z",
+  "model": "glm-5.3"
+}

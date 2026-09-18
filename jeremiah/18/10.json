@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 18:10",
+  "book": "jeremiah",
+  "lang": "xh",
+  "chapter": 18,
+  "translation": "kwaye yenze okungcolileyo emehlweni am, ukungamameli izwi lam; ndiza kuzisola ngokolungileyo endandithethe ndiza kulungisa ⟨את⟩ yona.",
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "yenze"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "okungcolileyo"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "emehlweni am"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "uku-"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ngamameli"
+    },
+    {
+      "surface": "בקולי",
+      "gloss": "izwi lam"
+    },
+    {
+      "surface": "ונחמתי",
+      "gloss": "ndiza kuzisola"
+    },
+    {
+      "surface": "על",
+      "gloss": "ngo-"
+    },
+    {
+      "surface": "הטובה",
+      "gloss": "okolungileyo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oko"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "ndandithetha"
+    },
+    {
+      "surface": "להיטיב",
+      "gloss": "ndiza kulungisa"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩ yona",
+      "marks": "isizwe esibizwa ngokulungiswa"
+    }
+  ],
+  "timestamp": "2026-09-18T12:09:37.361865665Z",
+  "model": "glm-5.3"
+}

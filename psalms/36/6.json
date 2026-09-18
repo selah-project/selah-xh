@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 36:6",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 36,
+  "translation": "uYahwe, ezulwini likhona ikhesedi yakho; intembeko yakho iye kude kumafu aphezulu.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "בהשמים",
+      "gloss": "ezulwini"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "ikhesedi yakho"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "intembeko yakho"
+    },
+    {
+      "surface": "עד",
+      "gloss": "iye kude ku-"
+    },
+    {
+      "surface": "שחקים",
+      "gloss": "umafu aphezulu"
+    }
+  ],
+  "timestamp": "2026-09-18T14:41:43.838952862Z",
+  "model": "glm-5.3"
+}

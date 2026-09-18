@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "joel 4:7",
+  "book": "joel",
+  "lang": "xh",
+  "chapter": 4,
+  "translation": "Bona, ndiyabavusa evela kwindawo apho nithengise khona ⟨את⟩, ndiza kubuyisela imbuyisezo yenu phezu kweentloko zenu.",
+  "tokens": [
+    {
+      "surface": "הנני",
+      "gloss": "Bona, ndinguye"
+    },
+    {
+      "surface": "מעירם",
+      "gloss": "ndiyabavusa"
+    },
+    {
+      "surface": "מן",
+      "gloss": "evela"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "kwindawo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "apho"
+    },
+    {
+      "surface": "מכרתם",
+      "gloss": "nithengise"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "bona"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "khona"
+    },
+    {
+      "surface": "והשבתי",
+      "gloss": "ndiza kubuyisela"
+    },
+    {
+      "surface": "גמלכם",
+      "gloss": "imbuyisezo yenu"
+    },
+    {
+      "surface": "בראשכם",
+      "gloss": "phezu kweentloko zenu"
+    }
+  ],
+  "timestamp": "2026-09-18T13:51:14.586232040Z",
+  "model": "glm-5.3"
+}

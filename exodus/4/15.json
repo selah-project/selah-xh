@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 4:15",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 4,
+  "translation": "Uza kuthetha kuye, uza kubeka ⟨את⟩ amagama emlonyeni wakhe; mna, ndiza kuba nalom lom wakho, nalom lom wakhe, ndiza kunifundisa ⟨אתכם⟩ ⟨את⟩ oko niza kukwenza.",
+  "tokens": [
+    {
+      "surface": "ודברת",
+      "gloss": "uza kuthetha"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kuye"
+    },
+    {
+      "surface": "ושמת",
+      "gloss": "uza kubeka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amagama"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "amagama"
+    },
+    {
+      "surface": "בפיו",
+      "gloss": "emlonyeni wakhe"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "mna"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "ndiza kuba"
+    },
+    {
+      "surface": "עם",
+      "gloss": "nalom"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "lom wakho"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "nalom"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "lom wakhe"
+    },
+    {
+      "surface": "והוריתי",
+      "gloss": "ndiza kunifundisa"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨אתכם⟩",
+      "marks": "nina"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oko niza kukwenza"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oko"
+    },
+    {
+      "surface": "תעשון",
+      "gloss": "niza kukwenza"
+    }
+  ],
+  "timestamp": "2026-09-18T05:51:26.257665302Z",
+  "model": "glm-5.3"
+}

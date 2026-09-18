@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 8:1",
+  "book": "ecclesiastes",
+  "lang": "xh",
+  "chapter": 8,
+  "translation": "Ngubani onjengomhlahli? Ngubani owaziyo ukutolika kwentoni? Ulwazi lomntu luyenza ukuhamba kwakhe kukhanye, namandla endlweni yakhe aya kutshintshwa.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Ngubani"
+    },
+    {
+      "surface": "כהחכם",
+      "gloss": "onjengomhlahli"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "Ngubani"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "owaziyo"
+    },
+    {
+      "surface": "פשר",
+      "gloss": "ukutolika"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "kwentoni"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "Ulwazi"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "lomntu"
+    },
+    {
+      "surface": "תאיר",
+      "gloss": "luyenza... kukhanye"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "uhamba kwakhe"
+    },
+    {
+      "surface": "ועז",
+      "gloss": "namandla"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "endlweni yakhe"
+    },
+    {
+      "surface": "ישנא",
+      "gloss": "aya kutshintshwa"
+    }
+  ],
+  "timestamp": "2026-09-18T16:25:52.961747356Z",
+  "model": "glm-5.3"
+}

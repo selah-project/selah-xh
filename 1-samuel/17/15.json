@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 17:15",
+  "book": "1-samuel",
+  "lang": "xh",
+  "chapter": 17,
+  "translation": "Yaye uDawidi ehamba abuyela kuShawuli, ukalatha ⟨את⟩ iimvu zikayise eBhetlehemi.",
+  "tokens": [
+    {
+      "surface": "ודוד",
+      "gloss": "Yaye uDawidi"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "ehamba"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "abuyela"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "uShawuli"
+    },
+    {
+      "surface": "לרעות",
+      "gloss": "ukalatha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iimvu"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "iimvu"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "zikayise"
+    },
+    {
+      "surface": "בית",
+      "gloss": "eBhetlehemi"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "eBhetlehemi"
+    }
+  ],
+  "timestamp": "2026-09-18T09:28:27.065787765Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 12:3",
+  "book": "proverbs",
+  "lang": "xh",
+  "chapter": 12,
+  "translation": "Umntu akanakuzinza ngobubi, kodwa ingcambu yolungileyo iya kunganyakaziswa.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "akanaka"
+    },
+    {
+      "surface": "יכון",
+      "gloss": "uzinza"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "umntu"
+    },
+    {
+      "surface": "ברשע",
+      "gloss": "ngobubi"
+    },
+    {
+      "surface": "ושרש",
+      "gloss": "kodwa ingcambu"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "yolungileyo"
+    },
+    {
+      "surface": "בל",
+      "gloss": "iya kun"
+    },
+    {
+      "surface": "ימוט",
+      "gloss": "ganyakaziswa"
+    }
+  ],
+  "timestamp": "2026-09-18T15:45:29.701320802Z",
+  "model": "glm-5.3"
+}

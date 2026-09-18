@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 4:10",
+  "book": "numbers",
+  "lang": "xh",
+  "chapter": 4,
+  "translation": "Baza kuyibeka yona ⟨את⟩ nazonke izitya zayo ⟨את⟩ ngaphakathi kwesigubululo sesikhumba setakhashi, baza kuzibeka phezu komthwamisi;",
+  "tokens": [
+    {
+      "surface": "ונתנו",
+      "gloss": "baza kuyibeka"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ yona",
+      "marks": "yona (imenora)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "nazonke izitya zayo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nazonke"
+    },
+    {
+      "surface": "כליה",
+      "gloss": "izitya zayo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ngaphakathi"
+    },
+    {
+      "surface": "מכסה",
+      "gloss": "kwesigubululo"
+    },
+    {
+      "surface": "עור",
+      "gloss": "sesikhumba"
+    },
+    {
+      "surface": "תחש",
+      "gloss": "setakhashi"
+    },
+    {
+      "surface": "ונתנו",
+      "gloss": "baza kuzibeka"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu"
+    },
+    {
+      "surface": "המוט",
+      "gloss": "komthwamisi"
+    }
+  ],
+  "timestamp": "2026-09-18T07:14:19.094396758Z",
+  "model": "glm-5.3"
+}

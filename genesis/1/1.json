@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 1:1",
+  "book": "genesis",
+  "lang": "xh",
+  "chapter": 1,
+  "translation": "Ekuqaleni uElohim wadala ⟨את⟩ amazulu ⟨את⟩ nomhlaba.",
+  "tokens": [
+    {
+      "surface": "בראשית",
+      "gloss": "Ekuqaleni"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "wadala"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amazulu"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "amazulu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "nomhlaba"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "nomhlaba"
+    }
+  ],
+  "timestamp": "2026-09-18T05:07:56.290152471Z",
+  "model": "glm-5.3"
+}

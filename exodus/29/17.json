@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 29:17",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 29,
+  "translation": "Kananjalo ⟨את⟩ inkunzi yegusha uza kuyiceka ngamacandelo ayo, uhlample izitho zangaphakathi zayo nemilenze yayo, uze ubeke ⟨izo⟩ phezu kwamacandelo ayo nangaphezu kweentloko yayo.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "inkunzi yegusha"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "inkunzi yegusha"
+    },
+    {
+      "surface": "תנתח",
+      "gloss": "uyiceke ngamacandelo"
+    },
+    {
+      "surface": "לנתחיו",
+      "gloss": "ngamacandelo ayo"
+    },
+    {
+      "surface": "ורחצת",
+      "gloss": "uhlample"
+    },
+    {
+      "surface": "קרבו",
+      "gloss": "izitho zangaphakathi zayo"
+    },
+    {
+      "surface": "וכרעיו",
+      "gloss": "nemilenze yayo"
+    },
+    {
+      "surface": "ונתת",
+      "gloss": "uze ubeke"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu"
+    },
+    {
+      "surface": "נתחיו",
+      "gloss": "kwamacandelo ayo"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "nangaphezu"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "kweentloko yayo"
+    }
+  ],
+  "timestamp": "2026-09-18T06:19:03.762958924Z",
+  "model": "glm-5.3"
+}

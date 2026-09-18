@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 1:3",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 1,
+  "translation": "Waza waba njengomthi otywatyweyo emixholweni yamanzi, ovuthisa isiqhamo sakhe exesheni layo, ulamathe lwakhe alomi; konke azenzayo kuzakuphumelela.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "waza waba"
+    },
+    {
+      "surface": "כעץ",
+      "gloss": "njengomthi"
+    },
+    {
+      "surface": "שתול",
+      "gloss": "otywatyweyo"
+    },
+    {
+      "surface": "על",
+      "gloss": "kwi-"
+    },
+    {
+      "surface": "פלגי",
+      "gloss": "emixholweni"
+    },
+    {
+      "surface": "מים",
+      "gloss": "yamanzi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "o-"
+    },
+    {
+      "surface": "פריו",
+      "gloss": "isiqhamo sakhe"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "vuthisa"
+    },
+    {
+      "surface": "בעתו",
+      "gloss": "exesheni layo"
+    },
+    {
+      "surface": "ועלהו",
+      "gloss": "ulamathe lwakhe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "a-"
+    },
+    {
+      "surface": "יבול",
+      "gloss": "-lomi"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "konke"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ezenzayo"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "-zenza"
+    },
+    {
+      "surface": "יצליח",
+      "gloss": "kuzakuphumelela"
+    }
+  ],
+  "timestamp": "2026-09-18T14:28:03.598097930Z",
+  "model": "glm-5.3"
+}

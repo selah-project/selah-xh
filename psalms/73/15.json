@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 73:15",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 73,
+  "translation": "Ukuba ndandithi: “Ndiza kuxelela njengoko,” yabona, bendiphatha ubugwala kwisizukulwana soonyana bakho.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Ukuba"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "ndandithi"
+    },
+    {
+      "surface": "אספרה",
+      "gloss": "Ndiza kuxelela"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "njengoko"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "yabona"
+    },
+    {
+      "surface": "דור",
+      "gloss": "kwisizukulwana"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "soonyana bakho"
+    },
+    {
+      "surface": "בגדתי",
+      "gloss": "bendiphatha ubugwala"
+    }
+  ],
+  "timestamp": "2026-09-18T15:00:17.301235939Z",
+  "model": "glm-5.3"
+}

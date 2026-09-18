@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 6:2",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 6,
+  "translation": "uYahwe, musa ukundigxeka ngolaka lwakho, musa ukundibetha ngumsindo wakho.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "musa"
+    },
+    {
+      "surface": "באפך",
+      "gloss": "ngolaka lwakho"
+    },
+    {
+      "surface": "תוכיחני",
+      "gloss": "ukundigxeka"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "musa"
+    },
+    {
+      "surface": "בחמתך",
+      "gloss": "ngumsindo wakho"
+    },
+    {
+      "surface": "תיסרני",
+      "gloss": "ukundibetha"
+    }
+  ],
+  "timestamp": "2026-09-18T14:26:15.611452231Z",
+  "model": "glm-5.3"
+}

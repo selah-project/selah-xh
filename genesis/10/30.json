@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 10:30",
+  "book": "genesis",
+  "lang": "xh",
+  "chapter": 10,
+  "translation": "Indawo yokuhlala yabo yayisuka kwiMesha, xa kuhamba ngaseCeparhi, intabeni yasempuma.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "yayisuka"
+    },
+    {
+      "surface": "מושבם",
+      "gloss": "indawo yokuhlala yabo"
+    },
+    {
+      "surface": "ממשא",
+      "gloss": "kwiMesha"
+    },
+    {
+      "surface": "באכה",
+      "gloss": "xa kuhamba"
+    },
+    {
+      "surface": "ספרה",
+      "gloss": "ngaseCeparhi"
+    },
+    {
+      "surface": "הר",
+      "gloss": "intabeni"
+    },
+    {
+      "surface": "הקדם",
+      "gloss": "yasempuma"
+    }
+  ],
+  "timestamp": "2026-09-18T05:11:47.211842839Z",
+  "model": "glm-5.3"
+}

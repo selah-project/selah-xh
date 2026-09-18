@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 2:6",
+  "book": "genesis",
+  "lang": "xh",
+  "chapter": 2,
+  "translation": "Kodwa umkhondo wawuphakamla emhlabeni, wawunyathelisa ⟨את⟩ lonke ubuso bomhlaba.",
+  "tokens": [
+    {
+      "surface": "ואד",
+      "gloss": "kodwa umkhondo"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "wawuphakamla"
+    },
+    {
+      "surface": "מן",
+      "gloss": "e-"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "mhlabeni"
+    },
+    {
+      "surface": "והשקה",
+      "gloss": "wawunyathelisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lonke ubuso bomhlaba"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lonke"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ubuso"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "bomhlaba"
+    }
+  ],
+  "timestamp": "2026-09-18T05:07:26.008032653Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-samuel 15:25",
+  "book": "2-samuel",
+  "lang": "xh",
+  "chapter": 15,
+  "translation": "Wathetha inkosi kuTsadok: “Buyisela ⟨את⟩ iAroni likaElohim emzini. Ukuba ndifumene inzwakazi emehlweni kaYahwe, uza kundibuyisela, andibonisa ⟨את⟩ yona no⟨את⟩ undlu yakhe.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wathetha"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "inkosi"
+    },
+    {
+      "surface": "לצדוק",
+      "gloss": "kuTsadok"
+    },
+    {
+      "surface": "השב",
+      "gloss": "buyisela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iAroni likaElohim"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "iAroni"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "likaElohim"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "emzini"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ukuba"
+    },
+    {
+      "surface": "אמצא",
+      "gloss": "ndifumene"
+    },
+    {
+      "surface": "חן",
+      "gloss": "inzwakazi"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "emehlweni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kaYahwe"
+    },
+    {
+      "surface": "והשבני",
+      "gloss": "uza kundibuyisela"
+    },
+    {
+      "surface": "והראני",
+      "gloss": "andibonisa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "yona (iAroni)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "no⟨את⟩",
+      "marks": "undlu yakhe"
+    },
+    {
+      "surface": "נוהו",
+      "gloss": "undlu yakhe"
+    }
+  ],
+  "timestamp": "2026-09-18T09:58:13.100322389Z",
+  "model": "glm-5.3"
+}

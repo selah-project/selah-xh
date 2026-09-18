@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 48:5",
+  "book": "isaiah",
+  "lang": "xh",
+  "chapter": 48,
+  "translation": "Ndandikubhengezela ukusukela ngoko; phambi kokuba kufike, ndakuvumela ukuba uve; ukuze ungathi: isithixo sam senze ezi, nesithombe sam esikhiqiziweyo nesam esincanyaziweyo sawalela.",
+  "tokens": [
+    {
+      "surface": "ואגיד",
+      "gloss": "ndandikubhengezela"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kuwe"
+    },
+    {
+      "surface": "מאז",
+      "gloss": "ukusukela ngoko"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "phambi kokuba"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "kufike"
+    },
+    {
+      "surface": "השמעתיך",
+      "gloss": "ndakuvumela ukuba uve"
+    },
+    {
+      "surface": "פן",
+      "gloss": "ukuze ungathi"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "ungathi"
+    },
+    {
+      "surface": "עצבי",
+      "gloss": "isithixo sam"
+    },
+    {
+      "surface": "עשם",
+      "gloss": "senze ezi"
+    },
+    {
+      "surface": "ופסלי",
+      "gloss": "nesithombe sam esikhiqiziweyo"
+    },
+    {
+      "surface": "ונסכי",
+      "gloss": "nesam esincanyaziweyo"
+    },
+    {
+      "surface": "צום",
+      "gloss": "sawalela"
+    }
+  ],
+  "timestamp": "2026-09-18T11:35:44.864698796Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "jeremiah 25:23",
+  "book": "jeremiah",
+  "lang": "xh",
+  "chapter": 25,
+  "translation": "⟨ואת⟩ noDedanu, ⟨ואת⟩ noThema, ⟨ואת⟩ noBuzi, ⟨ואת⟩ nabani na obalaseleyo ekhonweni (abancibi ikhanda);",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨ואת⟩",
+      "marks": "noDedanu"
+    },
+    {
+      "surface": "דדן",
+      "gloss": "noDedanu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨ואת⟩",
+      "marks": "noThema"
+    },
+    {
+      "surface": "תימא",
+      "gloss": "noThema"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨ואת⟩",
+      "marks": "noBuzi"
+    },
+    {
+      "surface": "בוז",
+      "gloss": "noBuzi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨ואת⟩",
+      "marks": "nabani na obalaseleyo ekhonweni"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nabani na"
+    },
+    {
+      "surface": "קצוצי",
+      "gloss": "obalaseleyo"
+    },
+    {
+      "surface": "פאה",
+      "gloss": "ekhonweni"
+    }
+  ],
+  "timestamp": "2026-09-18T12:12:55.250714136Z",
+  "model": "glm-5.3"
+}

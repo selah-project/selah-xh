@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "judges 7:7",
+  "book": "judges",
+  "lang": "xh",
+  "chapter": 7,
+  "translation": "Wathi uYahwe kuGideyon: Ngekhulu lamakhulu amathathu amadoda aphezu kokunatha ndiza kunisindisa, ndiza kuninika ⟨את⟩ iMidyan esandleni sakho; wonke abantu makabambe umgama, umntu ngamntu aye kwindawo yakhe.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "גדעון",
+      "gloss": "Gideyon"
+    },
+    {
+      "surface": "בשלש",
+      "gloss": "ngelikhulu lamathathu"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "amakhulu"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "amadoda"
+    },
+    {
+      "surface": "המלקקים",
+      "gloss": "aphezu kokunatha"
+    },
+    {
+      "surface": "אושיע",
+      "gloss": "ndiza kunisindisa"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ nin",
+      "marks": "nin"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "ndiza kuninika"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iMidyan"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "iMidyan"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "esandleni sakho"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "wonke"
+    },
+    {
+      "surface": "העם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "makabambe umgama, makaye"
+    },
+    {
+      "surface": "איש",
+      "gloss": "umntu ngamntu"
+    },
+    {
+      "surface": "למקמו",
+      "gloss": "kwindawo yakhe"
+    }
+  ],
+  "timestamp": "2026-09-18T08:56:03.118141810Z",
+  "model": "glm-5.3"
+}

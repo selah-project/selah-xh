@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 18:35",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 18,
+  "translation": "Ufundisa iinketho zam ukulwa, wandihlaziyela ibhogo yomhedhe ngeengalo zam.",
+  "tokens": [
+    {
+      "surface": "מלמד",
+      "gloss": "ufundisa"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "iinketho zam"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "ukulwa"
+    },
+    {
+      "surface": "ונחתה",
+      "gloss": "wandihlaziyela"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "ibhogo"
+    },
+    {
+      "surface": "נחושה",
+      "gloss": "yomhedhe"
+    },
+    {
+      "surface": "זרועתי",
+      "gloss": "ngeengalo zam"
+    }
+  ],
+  "timestamp": "2026-09-18T14:34:44.598270873Z",
+  "model": "glm-5.3"
+}

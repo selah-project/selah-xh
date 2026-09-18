@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 17:5",
+  "book": "2-chronicles",
+  "lang": "xh",
+  "chapter": 17,
+  "translation": "uYahwe wayenzela ubukhosi ubukho ⟨את⟩ kwisandla sakhe, yaye iYehudha yonke yamnikela intlawulo kuYehoshafati, waba nobutyebi nolwazi ⟦ngobuninzi⟧ oblukuni.",
+  "tokens": [
+    {
+      "surface": "ויכן",
+      "gloss": "wayenzela ubukho"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ubukhosi"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "ubukhosi"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "kwisandla sakhe"
+    },
+    {
+      "surface": "ויתנו",
+      "gloss": "yamnikela"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yonke"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "iYehudha"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "intlawulo"
+    },
+    {
+      "surface": "ליהושפט",
+      "gloss": "kuYehoshafati"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "waba"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kuye"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ubutyebi"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "nolwazi"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "oblukuni"
+    }
+  ],
+  "timestamp": "2026-09-18T17:08:14.039602611Z",
+  "model": "glm-5.3"
+}

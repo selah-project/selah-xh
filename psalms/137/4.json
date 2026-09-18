@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 137:4",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 137,
+  "translation": "Njani na singacula ⟨את⟩ iculo likaYahwe elweni lwangaphandle?",
+  "tokens": [
+    {
+      "surface": "איך",
+      "gloss": "njani na"
+    },
+    {
+      "surface": "נשיר",
+      "gloss": "singacula"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iculo likaYahwe"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "iculo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "likaYahwe"
+    },
+    {
+      "surface": "על",
+      "gloss": "elweni"
+    },
+    {
+      "surface": "אדמת",
+      "gloss": "umhlaba"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "lwangaphandle"
+    }
+  ],
+  "timestamp": "2026-09-18T15:31:10.403175317Z",
+  "model": "glm-5.3"
+}

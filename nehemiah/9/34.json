@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "nehemiah 9:34",
+  "book": "nehemiah",
+  "lang": "xh",
+  "chapter": 9,
+  "translation": "Kwaye iinkosi zethu, izikhokheli zethu, amaxhiba ethu, nabawo bethu azange enze ⟨את⟩ iTora yakho, azange balumamela imiyalelo yakho namangqina akho obufakileyo kubo.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "iinkosi zethu"
+    },
+    {
+      "surface": "מלכינו",
+      "gloss": "iinkosi zethu"
+    },
+    {
+      "surface": "שרינו",
+      "gloss": "izikhokheli zethu"
+    },
+    {
+      "surface": "כהנינו",
+      "gloss": "amaxhiba ethu"
+    },
+    {
+      "surface": "ואבתינו",
+      "gloss": "nabawo bethu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "azange"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "enze"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "iTora yakho"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "azange"
+    },
+    {
+      "surface": "הקשיבו",
+      "gloss": "balumamela"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "imiyalelo yakho"
+    },
+    {
+      "surface": "ולעדותיך",
+      "gloss": "namangqina akho"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "obo"
+    },
+    {
+      "surface": "העידת",
+      "gloss": "wufakileyo"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "kubo"
+    }
+  ],
+  "timestamp": "2026-09-18T16:47:22.422671057Z",
+  "model": "glm-5.3"
+}

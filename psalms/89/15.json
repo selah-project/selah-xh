@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 89:15",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 89,
+  "translation": "Ubulungisa noMgwebo ngumgangatho wesitulo sakho; ikhesedi nenyaniso zihamba phambi kobuso bakho.",
+  "tokens": [
+    {
+      "surface": "צדק",
+      "gloss": "Ubulungisa"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "noMgwebo"
+    },
+    {
+      "surface": "מכון",
+      "gloss": "ngumgangatho"
+    },
+    {
+      "surface": "כסאך",
+      "gloss": "wesitulo sakho"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "ikhesedi"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "nenyaniso"
+    },
+    {
+      "surface": "יקדמו",
+      "gloss": "zihamba phambi"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "kobuso bakho"
+    }
+  ],
+  "timestamp": "2026-09-18T15:08:04.011925556Z",
+  "model": "glm-5.3"
+}

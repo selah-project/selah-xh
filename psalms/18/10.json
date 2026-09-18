@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 18:10",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 18,
+  "translation": "Wancamela ⟨את⟩ amazulu waza wehla, bubumnyama obukhulu phantsi kweenyawo zakhe.",
+  "tokens": [
+    {
+      "surface": "ויט",
+      "gloss": "wancamela"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "amazulu"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "wehla"
+    },
+    {
+      "surface": "וערפל",
+      "gloss": "bubumnyama obukhulu"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "phantsi"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "kweenyawo zakhe"
+    }
+  ],
+  "timestamp": "2026-09-18T14:34:03.910245357Z",
+  "model": "glm-5.3"
+}

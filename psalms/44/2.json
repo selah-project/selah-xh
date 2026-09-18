@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 44:2",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 44,
+  "translation": "uElohim, ngeendlebe zethu sa-⟨kuva⟩; oobawo bethu batshela thina ⟨umsebenzi⟩ owenzileyo kwimihla yabo, kwimihla yakudala.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "באזנינו",
+      "gloss": "ngeendlebe zethu"
+    },
+    {
+      "surface": "שמענו",
+      "gloss": "sa-⟨kuva⟩"
+    },
+    {
+      "surface": "אבותינו",
+      "gloss": "oobawo bethu"
+    },
+    {
+      "surface": "ספרו",
+      "gloss": "batshela"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "thina"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "⟨umsebenzi⟩"
+    },
+    {
+      "surface": "פעלת",
+      "gloss": "owenzileyo"
+    },
+    {
+      "surface": "בימיהם",
+      "gloss": "kwimihla yabo"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "kwimihla"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "yakudala"
+    }
+  ],
+  "timestamp": "2026-09-18T14:45:19.734573512Z",
+  "model": "glm-5.3"
+}

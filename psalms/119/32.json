@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 119:32",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 119,
+  "translation": "Endleleni yeziyalelo zakho ndiya kugijima, kuba undandathulisa intliziyo yam.",
+  "tokens": [
+    {
+      "surface": "דרך",
+      "gloss": "Endleleni"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "yeziyalelo zakho"
+    },
+    {
+      "surface": "ארוץ",
+      "gloss": "ndiya kugijima"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "תרחיב",
+      "gloss": "undandathulisa"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "intliziyo yam"
+    }
+  ],
+  "timestamp": "2026-09-18T15:23:29.849077362Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "hosea 11:1",
+  "book": "hosea",
+  "lang": "xh",
+  "chapter": 11,
+  "translation": "Kuba uYisrayeli wayengumntwana, ndandimthanda, ndambizela unyana wam eMitsrayim.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kuba"
+    },
+    {
+      "surface": "נער",
+      "gloss": "umntwana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "uYisrayeli"
+    },
+    {
+      "surface": "ואהבהו",
+      "gloss": "ndandimthanda"
+    },
+    {
+      "surface": "וממצרים",
+      "gloss": "eMitsrayim"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "ndambizela"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "unyana wam"
+    }
+  ],
+  "timestamp": "2026-09-18T13:48:20.154418779Z",
+  "model": "glm-5.3"
+}

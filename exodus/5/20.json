@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 5:20",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 5,
+  "translation": "Bafumanisa ⟨את⟩ uMoshe no-⟨את⟩ u-Aharon bemile ukubajongana nabo, xeba bebephuma kwi-⟨את⟩ uParo.",
+  "tokens": [
+    {
+      "surface": "ויפגעו",
+      "gloss": "bafumanisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uMoshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "uMoshe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "no⟨את⟩",
+      "marks": "u-Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "u-Aharon"
+    },
+    {
+      "surface": "נצבים",
+      "gloss": "bemile"
+    },
+    {
+      "surface": "לקראתם",
+      "gloss": "ukubajongana nabo"
+    },
+    {
+      "surface": "בצאתם",
+      "gloss": "xeba bebephuma"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "uParo"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "uParo"
+    }
+  ],
+  "timestamp": "2026-09-18T05:53:28.674424345Z",
+  "model": "glm-5.3"
+}

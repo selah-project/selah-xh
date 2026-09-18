@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 146:10",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 146,
+  "translation": "uYahwe uza kubusa kube ngunaphakade, uThixo wakho, ndiZiyon, kwisebelele nesisebelele: dumisani uYah!",
+  "tokens": [
+    {
+      "surface": "ימלך",
+      "gloss": "uza kubusa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "kube ngunaphakade"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "uElohim wakho"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "ndiZiyon"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "kwisebelele"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "nesisebelele"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "dumisani"
+    },
+    {
+      "surface": "יה",
+      "gloss": "uYah"
+    }
+  ],
+  "timestamp": "2026-09-18T15:33:01.315971122Z",
+  "model": "glm-5.3"
+}

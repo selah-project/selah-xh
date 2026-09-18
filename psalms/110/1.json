@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 110:1",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 110,
+  "translation": "Umzeyilo kaDawidi. Isalathiso sikaYahwe: “Hlala ngasekunene kwam, de ndibeke iintshaba zakho zibe yisitebhulo ⟨ngaphantsi kweenyawo zakho⟩.”",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "kaDawidi"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "umzeyilo"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "isalathiso"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "לאדני",
+      "gloss": "ku-Adonayi wam"
+    },
+    {
+      "surface": "שב",
+      "gloss": "Hlala"
+    },
+    {
+      "surface": "לימיני",
+      "gloss": "ngasekunene kwam"
+    },
+    {
+      "surface": "עד",
+      "gloss": "de"
+    },
+    {
+      "surface": "אשית",
+      "gloss": "ndibeke"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "iintshaba zakho"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "isitebhulo"
+    },
+    {
+      "surface": "לרגליך",
+      "gloss": "ngaphantsi kweenyawo zakho"
+    }
+  ],
+  "timestamp": "2026-09-18T15:21:37.783719080Z",
+  "model": "glm-5.3"
+}

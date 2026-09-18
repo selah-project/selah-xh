@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 69:2",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 69,
+  "translation": "Ndisindise, uElohim, kuba amanzi esele afikelela kum.",
+  "tokens": [
+    {
+      "surface": "הושיעני",
+      "gloss": "Ndisindise"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "באו",
+      "gloss": "esele afikelela"
+    },
+    {
+      "surface": "מים",
+      "gloss": "amanzi"
+    },
+    {
+      "surface": "עד",
+      "gloss": "de"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "kum (kwindawo yomphefumlo wam)"
+    }
+  ],
+  "timestamp": "2026-09-18T14:57:43.588959686Z",
+  "model": "glm-5.3"
+}

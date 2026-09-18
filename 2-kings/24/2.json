@@ -1,0 +1,121 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-kings 24:2",
+  "book": "2-kings",
+  "lang": "xh",
+  "chapter": 24,
+  "translation": "UYahwe wathumela ngakuye ⟨את⟩ amabutho amaKasdi n⟨את⟩ amabutho amaAram n⟨את⟩ amabutho amaMowabhu n⟨את⟩ amabutho eeNyana zika-Amoni; wawathumela kuYuda ukuzitshabalalisa, ngokwelizwi likaYahwe elathethwa ngesandla seenkonzi zakhe, ooprofeti.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "wathumela"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "UYahwe"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ngakuye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amabutho amaKasdi"
+    },
+    {
+      "surface": "גדודי",
+      "gloss": "amabutho"
+    },
+    {
+      "surface": "כשדים",
+      "gloss": "amaKasdi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "n⟨את⟩",
+      "marks": "amabutho amaAram"
+    },
+    {
+      "surface": "גדודי",
+      "gloss": "amabutho"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "amaAram"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "n⟨את⟩",
+      "marks": "amabutho amaMowabhu"
+    },
+    {
+      "surface": "גדודי",
+      "gloss": "amabutho"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "amaMowabhu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "n⟨את⟩",
+      "marks": "amabutho eeNyana zika-Amoni"
+    },
+    {
+      "surface": "גדודי",
+      "gloss": "amabutho"
+    },
+    {
+      "surface": "בני",
+      "gloss": "eeNyana"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "zika-Amoni"
+    },
+    {
+      "surface": "וישלחם",
+      "gloss": "wawathumela"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "kuYuda"
+    },
+    {
+      "surface": "להאבידו",
+      "gloss": "ukuzitshabalalisa"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "ngokwelizwi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "likaYahwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ela-"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "athethwa"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ngesandla"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "seenkonzi zakhe"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "ooprofeti"
+    }
+  ],
+  "timestamp": "2026-09-18T11:01:00.338369254Z",
+  "model": "glm-5.3"
+}

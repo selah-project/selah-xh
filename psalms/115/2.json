@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 115:2",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 115,
+  "translation": "Yini abaya kuthi iintlanga: ‘Zikuphi na iithixo zabo?’",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "Yini abaya kuthi"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "kuthi"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "iintlanga"
+    },
+    {
+      "surface": "איה",
+      "gloss": "zikuphi na"
+    },
+    {
+      "surface": "נא",
+      "gloss": "na"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "iithixo zabo"
+    }
+  ],
+  "timestamp": "2026-09-18T15:21:02.703889782Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 9:4",
+  "book": "2-chronicles",
+  "lang": "xh",
+  "chapter": 9,
+  "translation": "Kutya kwetafile yakhe, nokuhlala kweenkonkovi zakhe, nokuma kwabakhonzi bakhe, neempahla zabo; iziselo zakhe nazo, neempahla zabo; nendlela yokunyuka kwakhe awayenyukela ngayo entlungweni kaYahwe — waza wayengasenalo moya.",
+  "tokens": [
+    {
+      "surface": "ומאכל",
+      "gloss": "Kutya"
+    },
+    {
+      "surface": "שלחנו",
+      "gloss": "kwetafile yakhe"
+    },
+    {
+      "surface": "ומושב",
+      "gloss": "nokuhlala"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "kweenkonkovi zakhe"
+    },
+    {
+      "surface": "ומעמד",
+      "gloss": "nokuma"
+    },
+    {
+      "surface": "משרתיו",
+      "gloss": "kwabakhonzi bakhe"
+    },
+    {
+      "surface": "ומלבושיהם",
+      "gloss": "neempahla zabo"
+    },
+    {
+      "surface": "ומשקיו",
+      "gloss": "iziselo zakhe"
+    },
+    {
+      "surface": "ומלבושיהם",
+      "gloss": "neempahla zabo"
+    },
+    {
+      "surface": "ועליתו",
+      "gloss": "nendlela yokunyuka kwakhe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "awayenyukela ngayo"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "awayenyukela"
+    },
+    {
+      "surface": "בית",
+      "gloss": "entlungweni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kaYahwe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "waza...nge-"
+    },
+    {
+      "surface": "היה",
+      "gloss": "wayengasenalo"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ngaphezulu"
+    },
+    {
+      "surface": "בה",
+      "gloss": "-lo"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "moya"
+    }
+  ],
+  "timestamp": "2026-09-18T17:52:26.481388315Z",
+  "model": "glm-5.3"
+}

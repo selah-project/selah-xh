@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 20:15",
+  "book": "jeremiah",
+  "lang": "xh",
+  "chapter": 20,
+  "translation": "Usikiweleyo yena lo mntu otyhilela utata wam, esithi: 'Kuzelwe kwakho unyana oyinkwenkwe,' amdumisayo ngovuyo olukhulu.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "Usikiweleyo"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "lo mntu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "otyhilela"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "otyhilela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "utata wam"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "utata wam"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "esithi"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "Kuzelwe"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kwakho"
+    },
+    {
+      "surface": "בן",
+      "gloss": "unyana"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "oyinkwenkwe"
+    },
+    {
+      "surface": "שמח",
+      "gloss": "amdumisayo"
+    },
+    {
+      "surface": "שמחהו",
+      "gloss": "ngovuyo olukhulu"
+    }
+  ],
+  "timestamp": "2026-09-18T12:08:59.574331549Z",
+  "model": "glm-5.3"
+}

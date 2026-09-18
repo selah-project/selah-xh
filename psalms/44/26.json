@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 44:26",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 44,
+  "translation": "Kuba umphefumlo wethu wothukelele kuthuli, isisu sethu sidibene nomhlaba.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kuba"
+    },
+    {
+      "surface": "שחה",
+      "gloss": "wothukelele"
+    },
+    {
+      "surface": "לעפר",
+      "gloss": "kuthuli"
+    },
+    {
+      "surface": "נפשנו",
+      "gloss": "umphefumlo wethu"
+    },
+    {
+      "surface": "דבקה",
+      "gloss": "sidibene"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "nomhlaba"
+    },
+    {
+      "surface": "בטננו",
+      "gloss": "isisu sethu"
+    }
+  ],
+  "timestamp": "2026-09-18T14:45:35.207234332Z",
+  "model": "glm-5.3"
+}

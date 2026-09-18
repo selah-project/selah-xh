@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 18:3",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 18,
+  "translation": "uYahwe lulitye lam elinzima, lindawo yam etyhalelweyo, umsindisi wam; u-El wam lulitye lam, kuye ndithabatha ukhuseleko; ngumkhosi wam, nesipheko sesindiso sam, lindawo yam ephezulu.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "סלעי",
+      "gloss": "lulitye lam elinzima"
+    },
+    {
+      "surface": "ומצודתי",
+      "gloss": "lindawo yam etyhalelweyo"
+    },
+    {
+      "surface": "ומפלטי",
+      "gloss": "umsindisi wam"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "u-El wam"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "lulitye lam"
+    },
+    {
+      "surface": "אחסה",
+      "gloss": "ndithabatha ukhuseleko"
+    },
+    {
+      "surface": "בו",
+      "gloss": "kuye"
+    },
+    {
+      "surface": "מגני",
+      "gloss": "ngumkhosi wam"
+    },
+    {
+      "surface": "וקרן",
+      "gloss": "nesipheko"
+    },
+    {
+      "surface": "ישעי",
+      "gloss": "sesindiso sam"
+    },
+    {
+      "surface": "משגבי",
+      "gloss": "lindawo yam ephezulu"
+    }
+  ],
+  "timestamp": "2026-09-18T14:33:07.484867745Z",
+  "model": "glm-5.3"
+}

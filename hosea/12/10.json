@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "hosea 12:10",
+  "book": "hosea",
+  "lang": "xh",
+  "chapter": 12,
+  "translation": "Kodwa ndinguYahwe uElohim wakho usuka elwandle laseMitsrayim; ndiza kukuhlalisa kwakhona kwiihema, njengemihla yomnyhadala owumisweyo.",
+  "tokens": [
+    {
+      "surface": "ואנכי",
+      "gloss": "kodwa ndingu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "uElohim wakho"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "usuka elwandle"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "laseMitsrayim"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "kwakhona"
+    },
+    {
+      "surface": "אושיבך",
+      "gloss": "ndiza kukuhlalisa"
+    },
+    {
+      "surface": "באהלים",
+      "gloss": "kwiihema"
+    },
+    {
+      "surface": "כימי",
+      "gloss": "njengemihla"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "yomnyhadala owumisweyo"
+    }
+  ],
+  "timestamp": "2026-09-18T13:47:21.554014137Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "zephaniah 1:5",
+  "book": "zephaniah",
+  "lang": "xh",
+  "chapter": 1,
+  "translation": "Kwaye ⟨את⟩ abo bakhothamela phezu kwezibaya komkhosi wamazulu, nothi ⟨את⟩ abo bakhothamela, abafungisa kuYahwe, nabafungisa ngoMalkham.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "abo bakhothamela"
+    },
+    {
+      "surface": "המשתחוים",
+      "gloss": "abo bakhothamela"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu"
+    },
+    {
+      "surface": "הגגות",
+      "gloss": "kwezibaya"
+    },
+    {
+      "surface": "לצבא",
+      "gloss": "komkhosi"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "wamazulu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "abo bakhothamela"
+    },
+    {
+      "surface": "המשתחוים",
+      "gloss": "othi abo bakhothamela"
+    },
+    {
+      "surface": "הנשבעים",
+      "gloss": "abafungisa"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kuYahwe"
+    },
+    {
+      "surface": "והנשבעים",
+      "gloss": "nabafungisa"
+    },
+    {
+      "surface": "במלכם",
+      "gloss": "ngoMalkham"
+    }
+  ],
+  "timestamp": "2026-09-18T14:13:25.187863866Z",
+  "model": "glm-5.3"
+}

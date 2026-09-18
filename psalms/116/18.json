@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 116:18",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 116,
+  "translation": "Izithembiso zam kuYahwe ndiza kuzifeza ⟨ncedi⟩, phambi kwalo lonke ilizwe lakhe.",
+  "tokens": [
+    {
+      "surface": "נדרי",
+      "gloss": "Izithembiso zam"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kuYahwe"
+    },
+    {
+      "surface": "אשלם",
+      "gloss": "ndiza kuzifeza"
+    },
+    {
+      "surface": "נגדה",
+      "gloss": "phambi"
+    },
+    {
+      "surface": "נא",
+      "gloss": "⟨ncedi⟩"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "kwalo lonke"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ilizwe lakhe"
+    }
+  ],
+  "timestamp": "2026-09-18T15:22:11.147024581Z",
+  "model": "glm-5.3"
+}

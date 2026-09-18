@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 33:15",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 33,
+  "translation": "Nguye owadala iintliziyo zabo zonke, owaqonda onke amacebo abo.",
+  "tokens": [
+    {
+      "surface": "היצר",
+      "gloss": "owadala"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "zonke ndawonye"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "iintliziyo zabo"
+    },
+    {
+      "surface": "המבין",
+      "gloss": "owaqonda"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "כל",
+      "gloss": "onke"
+    },
+    {
+      "surface": "מעשיהם",
+      "gloss": "amacebo abo"
+    }
+  ],
+  "timestamp": "2026-09-18T14:40:31.912730746Z",
+  "model": "glm-5.3"
+}

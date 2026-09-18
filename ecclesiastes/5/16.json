@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ecclesiastes 5:16",
+  "book": "ecclesiastes",
+  "lang": "xh",
+  "chapter": 5,
+  "translation": "Nangaphezu koko, yonke imihla yakhe iyakutya ebumnyameni, nokhathazeko oluninzi, nesigulo sakhe, nelaka.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "nangaphezu koko"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yonke"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "imihla yakhe"
+    },
+    {
+      "surface": "בחשך",
+      "gloss": "ebumnyameni"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "iyakutya"
+    },
+    {
+      "surface": "וכעס",
+      "gloss": "nokhathazeko"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "oluninzi"
+    },
+    {
+      "surface": "וחליו",
+      "gloss": "nesigulo sakhe"
+    },
+    {
+      "surface": "וקצף",
+      "gloss": "nelaka"
+    }
+  ],
+  "timestamp": "2026-09-18T16:25:40.460377212Z",
+  "model": "glm-5.3"
+}

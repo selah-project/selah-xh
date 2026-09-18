@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 88:18",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 88,
+  "translation": "Bazungele ndim njengamanazi lonke ixesha lemini; badibana phezu kwam ngokudibanisa.",
+  "tokens": [
+    {
+      "surface": "סבוני",
+      "gloss": "bazungele ndim"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "njengamanazi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lonke"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ixesha lemini"
+    },
+    {
+      "surface": "הקיפו",
+      "gloss": "badibana phezu"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "kwam"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "ngokudibanisa"
+    }
+  ],
+  "timestamp": "2026-09-18T15:06:38.080337037Z",
+  "model": "glm-5.3"
+}

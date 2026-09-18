@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 91:11",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 91,
+  "translation": "Kuba uya kuyalela oothunywa bakhe ngokwakho, ukukhuselela kuwo onke iindlela zakho.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kuba"
+    },
+    {
+      "surface": "מלאכיו",
+      "gloss": "oothunywa bakhe"
+    },
+    {
+      "surface": "יצוה",
+      "gloss": "uya kuyalela"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ngokwakho"
+    },
+    {
+      "surface": "לשמרך",
+      "gloss": "ukukhuselela"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "kuwo onke"
+    },
+    {
+      "surface": "דרכיך",
+      "gloss": "iindlela zakho"
+    }
+  ],
+  "timestamp": "2026-09-18T15:09:58.399267600Z",
+  "model": "glm-5.3"
+}

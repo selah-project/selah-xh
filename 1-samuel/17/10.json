@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 17:10",
+  "book": "1-samuel",
+  "lang": "xh",
+  "chapter": 17,
+  "translation": "WPelishti wathi: Mna ndihlazile ⟨את⟩ imikhosi yaseYisrayeli namhlanje; nikanina indoda, silwe ndawonye.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "uPelishti"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Mna"
+    },
+    {
+      "surface": "חרפתי",
+      "gloss": "ndihlazile"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "imikhosi yaseYisrayeli"
+    },
+    {
+      "surface": "מערכות",
+      "gloss": "imikhosi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "yaseYisrayeli"
+    },
+    {
+      "surface": "היום",
+      "gloss": "namhlanje"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "nale"
+    },
+    {
+      "surface": "תנו",
+      "gloss": "nikanina"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ndithini"
+    },
+    {
+      "surface": "איש",
+      "gloss": "indoda"
+    },
+    {
+      "surface": "ונלחמה",
+      "gloss": "silwe"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "ndawonye"
+    }
+  ],
+  "timestamp": "2026-09-18T09:27:27.827314020Z",
+  "model": "glm-5.3"
+}

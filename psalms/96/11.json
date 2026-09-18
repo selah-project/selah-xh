@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 96:11",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 96,
+  "translation": "Mazivuywe amazulu, mazinele umhlaba; mazidumise ulwandle nayo yonke into eseen lwalo.",
+  "tokens": [
+    {
+      "surface": "ישמחו",
+      "gloss": "Mazivuywe"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "amazulu"
+    },
+    {
+      "surface": "ותגל",
+      "gloss": "mazinele"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "umhlaba"
+    },
+    {
+      "surface": "ירעם",
+      "gloss": "mazidumise, mazibubube"
+    },
+    {
+      "surface": "הים",
+      "gloss": "ulwandle"
+    },
+    {
+      "surface": "ומלאו",
+      "gloss": "nayo yonke into eseen lwalo"
+    }
+  ],
+  "timestamp": "2026-09-18T15:10:01.581683514Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 18:19",
+  "book": "leviticus",
+  "lang": "xh",
+  "chapter": 18,
+  "translation": "Kumfazi ohlukaniswe ngenchuci yakhe yokungcoceki awusondeli ukudobula isenene sakhe.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "umfazi"
+    },
+    {
+      "surface": "בנדת",
+      "gloss": "ohlukaniswe ngenchuci"
+    },
+    {
+      "surface": "טמאתה",
+      "gloss": "yokungcoceki yakhe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "awu- (hayi)"
+    },
+    {
+      "surface": "תקרב",
+      "gloss": "usondeli"
+    },
+    {
+      "surface": "לגלות",
+      "gloss": "ukudobula"
+    },
+    {
+      "surface": "ערותה",
+      "gloss": "isenene sakhe"
+    }
+  ],
+  "timestamp": "2026-09-18T06:54:00.480864721Z",
+  "model": "glm-5.3"
+}

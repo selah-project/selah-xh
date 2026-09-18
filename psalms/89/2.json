@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 89:2",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 89,
+  "translation": "Ikhesedi kaYahwe ndiza kuyidumela kuze kube phakade; ndiza kwenza kwaziwe ukuthembeka kwakho kwizizukulwana nangezizukulwana, ngomlomo wam.",
+  "tokens": [
+    {
+      "surface": "חסדי",
+      "gloss": "ikhesedi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kaYahwe"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "kuze kube phakade"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "ndiza kuyidumela"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "kwizizukulwana"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "nagezizukulwana"
+    },
+    {
+      "surface": "אודיע",
+      "gloss": "ndiza kwenza kwaziwe"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "ukuthembeka kwakho"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "ngomlomo wam"
+    }
+  ],
+  "timestamp": "2026-09-18T15:08:04.438708333Z",
+  "model": "glm-5.3"
+}

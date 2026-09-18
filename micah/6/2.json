@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "micah 6:2",
+  "book": "micah",
+  "lang": "xh",
+  "chapter": 6,
+  "translation": "Mameleni, iintaba, ⟨את⟩ idinga likaYahwe, nani masisi iisiseko zomhlaba; kuba uYahwe unedinga nabantu bakhe, no-Israel uza kugankula naye.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "Mameleni"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "iintaba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "idinga likaYahwe"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "idinga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "likaYahwe"
+    },
+    {
+      "surface": "והאתנים",
+      "gloss": "nani masisi"
+    },
+    {
+      "surface": "מסדי",
+      "gloss": "iisiseko"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "zomhlaba"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "unedinga"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "עם",
+      "gloss": "na-"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "abantu bakhe"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "no-"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "u-Israel"
+    },
+    {
+      "surface": "יתוכח",
+      "gloss": "uza kugankula naye"
+    }
+  ],
+  "timestamp": "2026-09-18T14:08:52.547277202Z",
+  "model": "glm-5.3"
+}

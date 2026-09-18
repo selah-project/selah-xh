@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 70,
+  "ref": "psalms 119:70",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 119,
+  "translation": "Intliziyo yabo iquatyiwe njengamafutha; mna ndonwabele iTora yakho.",
+  "tokens": [
+    {
+      "surface": "טפש",
+      "gloss": "iquatyiwe"
+    },
+    {
+      "surface": "כחלב",
+      "gloss": "njengamafutha"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "intliziyo yabo"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mna"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "iTora yakho"
+    },
+    {
+      "surface": "שעשעתי",
+      "gloss": "ndonwabele"
+    }
+  ],
+  "timestamp": "2026-09-18T17:45:27.459982893Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 92:4",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 92,
+  "translation": "Ngezintsimbi ezilishumi, nangeze nje ngemibhobho yomculo, nangokudininiza ngesiphango somculo.",
+  "tokens": [
+    {
+      "surface": "עלי",
+      "gloss": "nge-"
+    },
+    {
+      "surface": "עשור",
+      "gloss": "zintsimbi ezilishumi"
+    },
+    {
+      "surface": "ועלי",
+      "gloss": "nange-"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "imibhobho yomculo"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "nange-"
+    },
+    {
+      "surface": "הגיון",
+      "gloss": "ukudininiza"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "ngeziphango somculo"
+    }
+  ],
+  "timestamp": "2026-09-18T15:11:44.829562047Z",
+  "model": "glm-5.3"
+}

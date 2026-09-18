@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 24:5",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 24,
+  "translation": "Uya kuthwala intsikelelo ivela kuYahwe ⟨את⟩, nokulunga ivela kuElohim wokumsindisa.",
+  "tokens": [
+    {
+      "surface": "ישא",
+      "gloss": "uya kuthwala"
+    },
+    {
+      "surface": "ברכה",
+      "gloss": "intsikelelo"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "intsikelelo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kuYahwe"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "nokulunga"
+    },
+    {
+      "surface": "מאלהי",
+      "gloss": "ivela kuElohim"
+    },
+    {
+      "surface": "ישעו",
+      "gloss": "wokumsindisa"
+    }
+  ],
+  "timestamp": "2026-09-18T14:38:54.450284460Z",
+  "model": "glm-5.3"
+}

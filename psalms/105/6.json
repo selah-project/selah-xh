@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 105:6",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 105,
+  "translation": "Nina nzala ka-Avraham, inceba yakhe elingeloyo; oonyana bakaYakobu, abakhethiweyo bakhe.",
+  "tokens": [
+    {
+      "surface": "זרע",
+      "gloss": "Nina nzala"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "ka-Avraham"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "inceba yakhe elingeloyo"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oonyana"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "bakaYakobu"
+    },
+    {
+      "surface": "בחיריו",
+      "gloss": "abakhethiweyo bakhe"
+    }
+  ],
+  "timestamp": "2026-09-18T15:15:57.598439448Z",
+  "model": "glm-5.3"
+}

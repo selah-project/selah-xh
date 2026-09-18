@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "2-kings 6:28",
+  "book": "2-kings",
+  "lang": "xh",
+  "chapter": 6,
+  "translation": "Inkosi yathi kuye: “Kutheni na kuwe?” Wathi loo mfazi: “Lo mfazi uthethe kum, wathi: ‘Nika ⟨את⟩ unyana wakho, ukuze nimtye namhlanje; ⟨את⟩ unyana wam nimtye ngomso.’”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "לה",
+      "gloss": "kuye"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "inkosi"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ntoni"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kuwe"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "loo mfazi"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "le"
+    },
+    {
+      "surface": "אמרה",
+      "gloss": "uthethe"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kum"
+    },
+    {
+      "surface": "תני",
+      "gloss": "nika"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "unyana wakho"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "unyana wakho"
+    },
+    {
+      "surface": "ונאכלנו",
+      "gloss": "ukuze nimtye"
+    },
+    {
+      "surface": "היום",
+      "gloss": "namhlanje"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "unyana wam"
+    },
+    {
+      "surface": "בני",
+      "gloss": "unyana wam"
+    },
+    {
+      "surface": "נאכל",
+      "gloss": "nimtye"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "ngomso"
+    }
+  ],
+  "timestamp": "2026-09-18T17:32:49.931642876Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 5:6",
+  "book": "1-samuel",
+  "lang": "xh",
+  "chapter": 5,
+  "translation": "ISandla likaYahwe saba nzima kubantu baseAshdodi, wabatshabalalisa, wabachaza ngeentuhla ⟨אתם⟩ ezithile, wazibetha iAshdodi ⟨את⟩ nemida yayo ⟨ואת⟩.",
+  "tokens": [
+    {
+      "surface": "ותכבד",
+      "gloss": "saba nzima"
+    },
+    {
+      "surface": "יד",
+      "gloss": "isandla"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "likaYahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "האשדודים",
+      "gloss": "abantu baseAshdodi"
+    },
+    {
+      "surface": "וישמם",
+      "gloss": "wabatshabalalisa"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "wabachaza"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "abantu baseAshdodi"
+    },
+    {
+      "surface": "בעפלים",
+      "gloss": "ngeentuhla ezithile"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iAshdodi"
+    },
+    {
+      "surface": "אשדוד",
+      "gloss": "iAshdodi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨ואת⟩",
+      "marks": "nemida yayo"
+    },
+    {
+      "surface": "גבוליה",
+      "gloss": "imida yayo"
+    }
+  ],
+  "timestamp": "2026-09-18T09:18:25.472947717Z",
+  "model": "glm-5.3"
+}

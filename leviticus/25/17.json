@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 25:17",
+  "book": "leviticus",
+  "lang": "xh",
+  "chapter": 25,
+  "translation": "Musani ukuhlukunyeza umntu ⟨את⟩ omnye wakho, uzoyika uElohim wakho, kuba ndinguYahwe uElohim wenu.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "musani"
+    },
+    {
+      "surface": "תונו",
+      "gloss": "ukuhlukunyeza"
+    },
+    {
+      "surface": "איש",
+      "gloss": "umntu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "omnye wakho"
+    },
+    {
+      "surface": "עמיתו",
+      "gloss": "omnye wakho"
+    },
+    {
+      "surface": "ויראת",
+      "gloss": "uzoyika"
+    },
+    {
+      "surface": "מאלהיך",
+      "gloss": "uElohim wakho"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ndingu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "uElohim wenu"
+    }
+  ],
+  "timestamp": "2026-09-18T07:05:20.498687982Z",
+  "model": "glm-5.3"
+}

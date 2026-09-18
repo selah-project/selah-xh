@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 22:5",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 22,
+  "translation": "Ukuba umlilo uyaphuma, uwafumana amazana, idliwe isitheko seengcali okanye okuzelweyo okanye umhlaba — makabuyisele ngokupheleleyo lowo wavuthaza ⟨את⟩ ukuvuthazwa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ukuba"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "uyaphuma"
+    },
+    {
+      "surface": "אש",
+      "gloss": "umlilo"
+    },
+    {
+      "surface": "ומצאה",
+      "gloss": "uwafumana"
+    },
+    {
+      "surface": "קצים",
+      "gloss": "amazana"
+    },
+    {
+      "surface": "ונאכל",
+      "gloss": "idliwe"
+    },
+    {
+      "surface": "גדיש",
+      "gloss": "isitheko seengcali"
+    },
+    {
+      "surface": "או",
+      "gloss": "okanye"
+    },
+    {
+      "surface": "הקמה",
+      "gloss": "okuzelweyo"
+    },
+    {
+      "surface": "או",
+      "gloss": "okanye"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "umhlaba"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "makabuyisele"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "ngokupheleleyo"
+    },
+    {
+      "surface": "המבער",
+      "gloss": "lowo wavuthaza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ukuvuthazwa"
+    },
+    {
+      "surface": "הבערה",
+      "gloss": "ukuvuthazwa"
+    }
+  ],
+  "timestamp": "2026-09-18T06:10:59.735891377Z",
+  "model": "glm-5.3"
+}

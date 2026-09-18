@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 9:12",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 9,
+  "translation": "Yibhalisela uYahwe, ohleli eTsiyoni; bambisela kumazwe imisebenzi yakhe.",
+  "tokens": [
+    {
+      "surface": "זמרו",
+      "gloss": "yibhalisela"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "ohleli"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "eTsiyoni"
+    },
+    {
+      "surface": "הגידו",
+      "gloss": "bambisela"
+    },
+    {
+      "surface": "בעמים",
+      "gloss": "kumazwe"
+    },
+    {
+      "surface": "עלילותיו",
+      "gloss": "imisebenzi yakhe"
+    }
+  ],
+  "timestamp": "2026-09-18T14:30:20.106269047Z",
+  "model": "glm-5.3"
+}

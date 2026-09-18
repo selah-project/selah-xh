@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ezra 8:25",
+  "book": "ezra",
+  "lang": "xh",
+  "chapter": 8,
+  "translation": "Ndawalinganisa kubo ⟨את⟩ isilivere ⟨את⟩ negolide ⟨את⟩ nezityalo — umnikelo wezikhululo zikaElohim wethu — owawunikelwa yinkosi, nabaphakamisi bayo, nabaphathi bayo, nakuwo onke uIsrayeli ababefunyanweyo.",
+  "tokens": [
+    {
+      "surface": "ואשקולה",
+      "gloss": "ndawalinganisa"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kubo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isilivere"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "isilivere"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "negolide"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "negolide"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "nezityalo"
+    },
+    {
+      "surface": "הכלים",
+      "gloss": "nezityalo"
+    },
+    {
+      "surface": "תרומת",
+      "gloss": "umnikelo"
+    },
+    {
+      "surface": "בית",
+      "gloss": "wezikhululo"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "zikaElohim wethu"
+    },
+    {
+      "surface": "ההרימו",
+      "gloss": "owawunikelwa"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "yinkosi"
+    },
+    {
+      "surface": "ויעציו",
+      "gloss": "nabaphakamisi bayo"
+    },
+    {
+      "surface": "ושריו",
+      "gloss": "nabaphathi bayo"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "nakuwo onke"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "uIsrayeli"
+    },
+    {
+      "surface": "הנמצאים",
+      "gloss": "ababefunyanweyo"
+    }
+  ],
+  "timestamp": "2026-09-18T16:42:28.781326982Z",
+  "model": "glm-5.3"
+}

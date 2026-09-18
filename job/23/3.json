@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 23:3",
+  "book": "job",
+  "lang": "xh",
+  "chapter": 23,
+  "translation": "Ngubani onokunika — ukuba ndandazi, ndimfumane, ndiye kwindawo yakhe esebekiweyo?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Ngubani"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "onokunika"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "ukuba ndandazi"
+    },
+    {
+      "surface": "ואמצאהו",
+      "gloss": "ndimfumane"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "ndiye"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "תכונתו",
+      "gloss": "kwindawo yakhe esebekiweyo"
+    }
+  ],
+  "timestamp": "2026-09-18T16:08:09.442380264Z",
+  "model": "glm-5.3"
+}

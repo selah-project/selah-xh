@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 32:1",
+  "book": "deuteronomy",
+  "lang": "xh",
+  "chapter": 32,
+  "translation": "Nizamkele ngeendlebe, nulwasekuqaleni, ndiza kuthetha; umhlaba mavele eve amazwi omlomo wam.",
+  "tokens": [
+    {
+      "surface": "האזינו",
+      "gloss": "nizamkele ngeendlebe"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "nulwasekuqaleni"
+    },
+    {
+      "surface": "ואדברה",
+      "gloss": "ndiza kuthetha"
+    },
+    {
+      "surface": "ותשמע",
+      "gloss": "mavele eve"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "umhlaba"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "amazwi"
+    },
+    {
+      "surface": "פי",
+      "gloss": "omlomo wam"
+    }
+  ],
+  "timestamp": "2026-09-18T08:24:33.430720652Z",
+  "model": "glm-5.3"
+}

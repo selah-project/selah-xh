@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 48:11",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 48,
+  "translation": "Njengokuba ligama lakho, Elohim, ngolo hlobo ludumo lwakho liye kwiindawo zomhlaba zonke; ulungelo luzalise isandla sakho sokunene.",
+  "tokens": [
+    {
+      "surface": "כשמך",
+      "gloss": "njengokuba ligama lakho"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ngolo hlobo"
+    },
+    {
+      "surface": "תהלתך",
+      "gloss": "ludumo lwakho"
+    },
+    {
+      "surface": "על",
+      "gloss": "liye kwi"
+    },
+    {
+      "surface": "קצוי",
+      "gloss": "iindawo zomhlaba zonke"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "umhlaba"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "ulungelo"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "luzalise"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "isandla sakho sokunene"
+    }
+  ],
+  "timestamp": "2026-09-18T14:46:30.747926380Z",
+  "model": "glm-5.3"
+}

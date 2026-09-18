@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 74:10",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 74,
+  "translation": "De nini, uElohim, umchasane uza kutyhantyaza? umchasi wakho uza kudludla igama lakho kuaphakade?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "De"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "nini"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "יחרף",
+      "gloss": "uza kutyhantyaza"
+    },
+    {
+      "surface": "צר",
+      "gloss": "umchasane"
+    },
+    {
+      "surface": "ינאץ",
+      "gloss": "uza kudludla"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "umchasi wakho"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "igama lakho"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "kuaphakade"
+    }
+  ],
+  "timestamp": "2026-09-18T15:00:06.190462763Z",
+  "model": "glm-5.3"
+}

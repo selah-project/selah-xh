@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 55:8",
+  "book": "isaiah",
+  "lang": "xh",
+  "chapter": 55,
+  "translation": "Kuba akuzizo iingcinga zam iingcinga zenu, yaye akuzizo iindela zenu iindela zam, utsho uYahwe.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kuba"
+    },
+    {
+      "surface": "לא",
+      "gloss": "akuzizo"
+    },
+    {
+      "surface": "מחשבותי",
+      "gloss": "iingcinga zam"
+    },
+    {
+      "surface": "מחשבותיכם",
+      "gloss": "iingcinga zenu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "yaye akuzizo"
+    },
+    {
+      "surface": "דרכיכם",
+      "gloss": "iindela zenu"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "iindela zam"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "utsho"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    }
+  ],
+  "timestamp": "2026-09-18T11:39:36.000407030Z",
+  "model": "glm-5.3"
+}

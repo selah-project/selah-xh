@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 37:11",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 37,
+  "translation": "Wayigubungela ngengcwele-othanga olucocekileyo, waza wenza umdwa wothanga ojikeleze.",
+  "tokens": [
+    {
+      "surface": "ויצף",
+      "gloss": "wayigubungela"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "yona (itafile)"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "othanga"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "olucocekileyo"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "wenza"
+    },
+    {
+      "surface": "לו",
+      "gloss": "yona"
+    },
+    {
+      "surface": "זר",
+      "gloss": "umdwa (womlinganiselo)"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "othanga"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ojikeleze"
+    }
+  ],
+  "timestamp": "2026-09-18T06:26:50.060432632Z",
+  "model": "glm-5.3"
+}

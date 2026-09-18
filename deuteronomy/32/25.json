@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 32:25",
+  "book": "deuteronomy",
+  "lang": "xh",
+  "chapter": 32,
+  "translation": "Ngaphandle intemba iya kutshatyalalisa, kwaye emigqamweni kukho umoyaxiselo; yaye umfana omutsha, nantombi, umncinci kunye nomntu wonyuso.",
+  "tokens": [
+    {
+      "surface": "מחוץ",
+      "gloss": "ngaphandle"
+    },
+    {
+      "surface": "תשכל",
+      "gloss": "iya kutshatyalalisa"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "intemba"
+    },
+    {
+      "surface": "ומחדרים",
+      "gloss": "kwaye emigqamweni"
+    },
+    {
+      "surface": "אימה",
+      "gloss": "umoyaxiselo"
+    },
+    {
+      "surface": "גם",
+      "gloss": "yaye"
+    },
+    {
+      "surface": "בחור",
+      "gloss": "umfana omutsha"
+    },
+    {
+      "surface": "גם",
+      "gloss": "na"
+    },
+    {
+      "surface": "בתולה",
+      "gloss": "intombi"
+    },
+    {
+      "surface": "יונק",
+      "gloss": "umncinci"
+    },
+    {
+      "surface": "עם",
+      "gloss": "kunye"
+    },
+    {
+      "surface": "איש",
+      "gloss": "nomntu"
+    },
+    {
+      "surface": "שיבה",
+      "gloss": "unyuso"
+    }
+  ],
+  "timestamp": "2026-09-18T08:24:53.786609126Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-kings 11:13",
+  "book": "2-kings",
+  "lang": "xh",
+  "chapter": 11,
+  "translation": "Wava u-Athaliya ⟨את⟩ ilizwi abagijimi nabantu, waya kubantu ebethini likaYahwe.",
+  "tokens": [
+    {
+      "surface": "ותשמע",
+      "gloss": "wava"
+    },
+    {
+      "surface": "עתליה",
+      "gloss": "u-Athaliya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ilizwi"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ilizwi"
+    },
+    {
+      "surface": "הרצין",
+      "gloss": "abagijimi"
+    },
+    {
+      "surface": "העם",
+      "gloss": "nabantu"
+    },
+    {
+      "surface": "ותבא",
+      "gloss": "waya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kubantu-"
+    },
+    {
+      "surface": "העם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ebethini"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kaYahwe"
+    }
+  ],
+  "timestamp": "2026-09-18T10:49:15.366328196Z",
+  "model": "glm-5.3"
+}

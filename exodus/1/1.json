@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 1:1",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 1,
+  "translation": "Ezi ngamagama amakhwela kaSirayeli abafikayo eMitsrayim: noYaaqov, umntu kunye nesikhaya sakhe, bafika.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Ezi"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "ngamagama"
+    },
+    {
+      "surface": "בני",
+      "gloss": "amakhwela ka"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Sirayeli"
+    },
+    {
+      "surface": "הבאים",
+      "gloss": "abafikayo"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "eMitsrayim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uYaaqov"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "uYaaqov"
+    },
+    {
+      "surface": "איש",
+      "gloss": "umntu"
+    },
+    {
+      "surface": "וביתו",
+      "gloss": "kunye nesikhaya sakhe"
+    },
+    {
+      "surface": "באו",
+      "gloss": "bafika"
+    }
+  ],
+  "timestamp": "2026-09-18T05:49:02.951046692Z",
+  "model": "glm-5.3"
+}

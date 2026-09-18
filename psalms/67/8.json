@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 67:8",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 67,
+  "translation": "Uza kusibulisa uElohim, zize zonke iindawo zokugqibela komhlaba zoyike yena.",
+  "tokens": [
+    {
+      "surface": "יברכנו",
+      "gloss": "Uza kusibulisa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "וייראו",
+      "gloss": "zoyike"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "zonke iindawo zokugqibela komhlaba"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zonke"
+    },
+    {
+      "surface": "אפסי",
+      "gloss": "iindawo zokugqibela"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "komhlaba"
+    }
+  ],
+  "timestamp": "2026-09-18T14:54:12.500899768Z",
+  "model": "glm-5.3"
+}

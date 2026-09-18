@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 29:2",
+  "book": "proverbs",
+  "lang": "xh",
+  "chapter": 29,
+  "translation": "Xa abalungileyo benyuka, umntu uyavuya; kodwa xa umntu oyinkohlakeayo ulawula, abantu bayazigunyazisa.",
+  "tokens": [
+    {
+      "surface": "ברבות",
+      "gloss": "xa benyuka"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "abalungileyo"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "uyavuya"
+    },
+    {
+      "surface": "העם",
+      "gloss": "umntu"
+    },
+    {
+      "surface": "ובמשל",
+      "gloss": "xa ulawula"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "oyinkohlakeayo"
+    },
+    {
+      "surface": "יאנח",
+      "gloss": "bayazigunyazisa"
+    },
+    {
+      "surface": "עם",
+      "gloss": "abantu"
+    }
+  ],
+  "timestamp": "2026-09-18T15:57:16.756923677Z",
+  "model": "glm-5.3"
+}

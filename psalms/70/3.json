@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 70:3",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 70,
+  "translation": "Baye bahlazwe baze baxhalabe abafuna obomi bam; baye batshona emva baze bathula ⟨abathandeleyo ububi bam⟩.",
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "Baye bahlazwe"
+    },
+    {
+      "surface": "ויחפרו",
+      "gloss": "baze baxhalabe"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "abafuna"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "obomi bam"
+    },
+    {
+      "surface": "יסגו",
+      "gloss": "baye batshona"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "emva"
+    },
+    {
+      "surface": "ויכלמו",
+      "gloss": "baze bathule"
+    },
+    {
+      "surface": "חפצי",
+      "gloss": "⟨abathandeleyo⟩"
+    },
+    {
+      "surface": "רעתי",
+      "gloss": "ububi bam"
+    }
+  ],
+  "timestamp": "2026-09-18T14:56:50.307980731Z",
+  "model": "glm-5.3"
+}

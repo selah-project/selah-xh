@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 37:7",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 37,
+  "translation": "Wenza amakerubu amabini egolide; ngomsebenzi oqhotsiweyo wayenza ⟨את⟩ bona, emiphumeni emibini yekhaporeti.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Wenza"
+    },
+    {
+      "surface": "שני",
+      "gloss": "amabini"
+    },
+    {
+      "surface": "כרבים",
+      "gloss": "amakerubu"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "egolide"
+    },
+    {
+      "surface": "מקשה",
+      "gloss": "ngomsebenzi oqhotsiweyo"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "wayenza"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "amakerubu"
+    },
+    {
+      "surface": "משני",
+      "gloss": "emibini"
+    },
+    {
+      "surface": "קצות",
+      "gloss": "emiphumeni"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "yekhaporeti"
+    }
+  ],
+  "timestamp": "2026-09-18T06:27:00.398724470Z",
+  "model": "glm-5.3"
+}

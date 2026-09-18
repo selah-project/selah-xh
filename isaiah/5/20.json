@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 5:20",
+  "book": "isaiah",
+  "lang": "xh",
+  "chapter": 5,
+  "translation": "Mayini abathethayo ukububi “kulungile”, nakulungile “kububi”; ababeka umnyama njengokukhanya, nokukhanya njengomnyama; ababeka ubuhlungu njengokomnandi, nokomnandi njengobuhlungu!",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Mayini"
+    },
+    {
+      "surface": "האמרים",
+      "gloss": "abathethayo"
+    },
+    {
+      "surface": "לרע",
+      "gloss": "ukububi"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "“kulungile”"
+    },
+    {
+      "surface": "ולטוב",
+      "gloss": "nakulungile"
+    },
+    {
+      "surface": "רע",
+      "gloss": "“kububi”"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "ababeka"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "umnyama"
+    },
+    {
+      "surface": "לאור",
+      "gloss": "njengokukhanya"
+    },
+    {
+      "surface": "ואור",
+      "gloss": "nokukhanya"
+    },
+    {
+      "surface": "לחשך",
+      "gloss": "njengomnyama"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "ababeka"
+    },
+    {
+      "surface": "מר",
+      "gloss": "ubuhlungu"
+    },
+    {
+      "surface": "למתוק",
+      "gloss": "njengokomnandi"
+    },
+    {
+      "surface": "ומתוק",
+      "gloss": "nokomnandi"
+    },
+    {
+      "surface": "למר",
+      "gloss": "njengobuhlungu"
+    }
+  ],
+  "timestamp": "2026-09-18T11:06:43.764620946Z",
+  "model": "glm-5.3"
+}

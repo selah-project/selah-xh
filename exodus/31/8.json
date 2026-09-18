@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 31:8",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 31,
+  "translation": "nethi ⟨את⟩ itafile nezi xhobo zayo, nethi ⟨את⟩ imenora ecocekileyo nazonke izixhobo zayo, nethi ⟨את⟩ i-mizbecha yempepho;",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "nethi ⟨את⟩",
+      "marks": "itafile"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "itafile"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "nethi ⟨את⟩",
+      "marks": "izi xhobo zayo"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "nezi xhobo zayo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "nethi ⟨את⟩",
+      "marks": "imenora ecocekileyo"
+    },
+    {
+      "surface": "המנרה",
+      "gloss": "imenora"
+    },
+    {
+      "surface": "הטהרה",
+      "gloss": "ecocekileyo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "nethi ⟨את⟩",
+      "marks": "zonke izixhobo zayo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nazonke"
+    },
+    {
+      "surface": "כליה",
+      "gloss": "izixhobo zayo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "nethi ⟨את⟩",
+      "marks": "i-mizbecha yempepho"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "i-mizbecha"
+    },
+    {
+      "surface": "הקטרת",
+      "gloss": "yempepho"
+    }
+  ],
+  "timestamp": "2026-09-18T06:20:01.069227652Z",
+  "model": "glm-5.3"
+}

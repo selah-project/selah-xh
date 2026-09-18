@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 2:9",
+  "book": "leviticus",
+  "lang": "xh",
+  "chapter": 2,
+  "translation": "Umkhonzi uza kuthabatha kwimnikelo yengqolowa ⟨את⟩ inxalenye yayo yesikhumbuzo, aze ayitshise kwitafile yokutshisa — imnikelo yomlilo, ivumba elimnandi kuYahwe.",
+  "tokens": [
+    {
+      "surface": "והרים",
+      "gloss": "uza kuthabatha"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "umkhonzi"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kwi-"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "imnikelo yengqolowa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "inxalenye yesikhumbuzo"
+    },
+    {
+      "surface": "אזכרתה",
+      "gloss": "inxalenye yayo yesikhumbuzo"
+    },
+    {
+      "surface": "והקטיר",
+      "gloss": "aze ayitshise"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "kwitafile yokutshisa"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "imnikelo yomlilo"
+    },
+    {
+      "surface": "ריח",
+      "gloss": "ivumba"
+    },
+    {
+      "surface": "ניחח",
+      "gloss": "elimnandi"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kuYahwe"
+    }
+  ],
+  "timestamp": "2026-09-18T06:33:26.268277103Z",
+  "model": "glm-5.3"
+}

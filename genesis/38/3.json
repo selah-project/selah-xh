@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 38:3",
+  "book": "genesis",
+  "lang": "xh",
+  "chapter": 38,
+  "translation": "Wamitha, wazala unyana, wabiza ⟨את⟩ igama lakhe ngu-Er.",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "Wamitha"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "wazala"
+    },
+    {
+      "surface": "בן",
+      "gloss": "unyana"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "wabiza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "igama lakhe"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "igama lakhe"
+    },
+    {
+      "surface": "ער",
+      "gloss": "ngu-Er"
+    }
+  ],
+  "timestamp": "2026-09-18T05:36:26.449959059Z",
+  "model": "glm-5.3"
+}

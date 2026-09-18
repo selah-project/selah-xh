@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 34:17",
+  "book": "genesis",
+  "lang": "xh",
+  "chapter": 34,
+  "translation": "Kodwa ukuba anisindi kuthi ukwenza umtshaniso, siza kuthatha ⟨את⟩ unyana wethu (intombi yethu) size sihambe.”",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "kodwa ukuba"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hayi"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "anisindi"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "kuthi"
+    },
+    {
+      "surface": "להמול",
+      "gloss": "ukwenza umtshaniso"
+    },
+    {
+      "surface": "ולקחנו",
+      "gloss": "siza kuthatha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "unyana wethu (intombi yethu)"
+    },
+    {
+      "surface": "בתנו",
+      "gloss": "unyana wethu (intombi yethu)"
+    },
+    {
+      "surface": "והלכנו",
+      "gloss": "size sihambe"
+    }
+  ],
+  "timestamp": "2026-09-18T05:33:11.504806534Z",
+  "model": "glm-5.3"
+}

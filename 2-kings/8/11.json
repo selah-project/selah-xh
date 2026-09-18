@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-kings 8:11",
+  "book": "2-kings",
+  "lang": "xh",
+  "chapter": 8,
+  "translation": "Wamisela ⟨את⟩ ubuso bakhe, wajonga de waziswela ihlonipho; yintetho yomntu kaElohim ukukhala.",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "wamisela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ubuso bakhe"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "ubuso bakhe"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "wajonga"
+    },
+    {
+      "surface": "עד",
+      "gloss": "de"
+    },
+    {
+      "surface": "בש",
+      "gloss": "waziswela ihlonipho"
+    },
+    {
+      "surface": "ויבך",
+      "gloss": "ukukhala"
+    },
+    {
+      "surface": "איש",
+      "gloss": "yomntu"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "kaElohim"
+    }
+  ],
+  "timestamp": "2026-09-18T10:44:49.086643358Z",
+  "model": "glm-5.3"
+}

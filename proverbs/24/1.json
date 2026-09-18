@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 24:1",
+  "book": "proverbs",
+  "lang": "xh",
+  "chapter": 24,
+  "translation": "Musa ukwanga abantu abenzi bobubi, kananjalo musa ukufisa ukuba nabo ⟨אתם⟩.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "musa"
+    },
+    {
+      "surface": "תקנא",
+      "gloss": "ukwanga"
+    },
+    {
+      "surface": "באנשי",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "abenzi bobubi"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "kananjalo musa"
+    },
+    {
+      "surface": "תתאו",
+      "gloss": "ukufisa"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "ukuba"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "nabo"
+    }
+  ],
+  "timestamp": "2026-09-18T15:54:04.044743877Z",
+  "model": "glm-5.3"
+}

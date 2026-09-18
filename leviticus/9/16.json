@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 9:16",
+  "book": "leviticus",
+  "lang": "xh",
+  "chapter": 9,
+  "translation": "Wazisa ⟨את⟩ isithotho, wenza ngokomthetho wawo.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "wazisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isithotho"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "isithotho"
+    },
+    {
+      "surface": "ויעשה",
+      "gloss": "wenza"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "ngokomthetho wawo"
+    }
+  ],
+  "timestamp": "2026-09-18T06:41:17.199226307Z",
+  "model": "glm-5.3"
+}

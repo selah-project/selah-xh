@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 133:3",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 133,
+  "translation": "Njengokunywela kweHermoni, okuthehla phezu kwezintaba zeTsiyoni; kuba apho uYahwe wayalela ⟨את⟩ isibheno — ubomi kube ngunaphakade.",
+  "tokens": [
+    {
+      "surface": "כטל",
+      "gloss": "Njengokunywela"
+    },
+    {
+      "surface": "חרמון",
+      "gloss": "kweHermoni"
+    },
+    {
+      "surface": "שירד",
+      "gloss": "okuthehla"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu"
+    },
+    {
+      "surface": "הררי",
+      "gloss": "kwezintaba"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "zeTsiyoni"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "שם",
+      "gloss": "apho"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "wayalela"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isibheno"
+    },
+    {
+      "surface": "הברכה",
+      "gloss": "isibheno"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "ubomi"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kube"
+    },
+    {
+      "surface": "העולם",
+      "gloss": "ngunaphakade"
+    }
+  ],
+  "timestamp": "2026-09-18T15:27:15.907247120Z",
+  "model": "glm-5.3"
+}

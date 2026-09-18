@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 2:10",
+  "book": "ecclesiastes",
+  "lang": "xh",
+  "chapter": 2,
+  "translation": "Konke oko amehlo am acebileyo, akazange ndawuncitha kwo; akuzange ndithintele intliziyo yam nasidanyana nasiphi na; kuba intliziyo yam yavuya ngenxa yonke imizamo yam, yaye le yayingumlaba wam onke umzamo wam.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "konke"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oko"
+    },
+    {
+      "surface": "שאלו",
+      "gloss": "acebileyo"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "amehlo am"
+    },
+    {
+      "surface": "לא",
+      "gloss": "akazange"
+    },
+    {
+      "surface": "אצלתי",
+      "gloss": "ndawuncitha"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "kwo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "akuzange"
+    },
+    {
+      "surface": "מנעתי",
+      "gloss": "ndithintele"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "intliziyo yam"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "intliziyo yam"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "nasidanyana nasiphi na"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "sidanyana"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "intliziyo yam"
+    },
+    {
+      "surface": "שמח",
+      "gloss": "yavuya"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "ngenxa yonke"
+    },
+    {
+      "surface": "עמלי",
+      "gloss": "imizamo yam"
+    },
+    {
+      "surface": "וזה",
+      "gloss": "yaye le"
+    },
+    {
+      "surface": "היה",
+      "gloss": "yaying"
+    },
+    {
+      "surface": "חלקי",
+      "gloss": "umlaba wam"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "onke"
+    },
+    {
+      "surface": "עמלי",
+      "gloss": "umzamo wam"
+    }
+  ],
+  "timestamp": "2026-09-18T16:24:04.175597718Z",
+  "model": "glm-5.3"
+}

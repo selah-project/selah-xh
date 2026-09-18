@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 5:6",
+  "book": "ecclesiastes",
+  "lang": "xh",
+  "chapter": 5,
+  "translation": "Kuba kwintanda yamaphupho namanabali namagama amaninzi; kodwa yoyika ⟨את⟩ uElohim.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "kwintanda"
+    },
+    {
+      "surface": "חלמות",
+      "gloss": "amaphupho"
+    },
+    {
+      "surface": "והבלים",
+      "gloss": "amanabali"
+    },
+    {
+      "surface": "ודברים",
+      "gloss": "namagama"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "amaninzi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kodwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uElohim"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "yoyika"
+    }
+  ],
+  "timestamp": "2026-09-18T16:26:34.726044388Z",
+  "model": "glm-5.3"
+}

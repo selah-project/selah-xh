@@ -1,0 +1,35 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 14:17",
+  "book": "deuteronomy",
+  "lang": "xh",
+  "chapter": 14,
+  "translation": "ne-kaathi ⟨את⟩ iRachama, no-⟨את⟩ iShalakh;",
+  "tokens": [
+    {
+      "surface": "והקאת",
+      "gloss": "ne-kaathi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "iRachama"
+    },
+    {
+      "surface": "הרחמה",
+      "gloss": "iRachama"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "no-⟨את⟩",
+      "marks": "iShalakh"
+    },
+    {
+      "surface": "השלך",
+      "gloss": "iShalakh"
+    }
+  ],
+  "timestamp": "2026-09-18T08:05:00.828897647Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 2:1",
+  "book": "ezekiel",
+  "lang": "xh",
+  "chapter": 2,
+  "translation": "Wathi kum: “Unyana womntu, yima emilenzeni yakho, ndiza kuthetha ⟨את⟩ nawe.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kum"
+    },
+    {
+      "surface": "בן",
+      "gloss": "unyana"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "womntu"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "yima"
+    },
+    {
+      "surface": "על",
+      "gloss": "emi"
+    },
+    {
+      "surface": "רגליך",
+      "gloss": "lenzeni yakho"
+    },
+    {
+      "surface": "ואדבר",
+      "gloss": "ndiza kuthetha"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "nawe"
+    }
+  ],
+  "timestamp": "2026-09-18T12:47:22.020941314Z",
+  "model": "glm-5.3"
+}

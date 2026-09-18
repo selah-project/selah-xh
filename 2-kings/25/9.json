@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-kings 25:9",
+  "book": "2-kings",
+  "lang": "xh",
+  "chapter": 25,
+  "translation": "Watshisa ⟨את⟩ indlu kaYahwe, ⟨את⟩ indlu yomlawuli, ne-⟨את⟩ zonke iindlu zeYerushalayimi; yonke indlu enkulu wayitshisa ngomlilo.",
+  "tokens": [
+    {
+      "surface": "וישרף",
+      "gloss": "watshisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "indlu kaYahwe"
+    },
+    {
+      "surface": "בית",
+      "gloss": "indlu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kaYahwe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "indlu yomlawuli"
+    },
+    {
+      "surface": "בית",
+      "gloss": "indlu"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "yomlawuli"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "zonke iindlu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zonke"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "iindlu"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "zeYerushalayimi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "yonke indlu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yonke"
+    },
+    {
+      "surface": "בית",
+      "gloss": "indlu"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "enkulu"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "wayitshisa"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ngomlilo"
+    }
+  ],
+  "timestamp": "2026-09-18T11:00:03.644047511Z",
+  "model": "glm-5.3"
+}

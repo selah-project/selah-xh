@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 11:20",
+  "book": "2-kings",
+  "lang": "xh",
+  "chapter": 11,
+  "translation": "Wonke umntu welizwe wavuya, nasixeko lale ngokuthula; uAthaliya bambulala ngekrele endlwini yenkosi.",
+  "tokens": [
+    {
+      "surface": "וישמח",
+      "gloss": "wavuya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wonke"
+    },
+    {
+      "surface": "עם",
+      "gloss": "umntu"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "welizwe"
+    },
+    {
+      "surface": "והעיר",
+      "gloss": "nasixeko"
+    },
+    {
+      "surface": "שקטה",
+      "gloss": "lale ngokuthula"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "uAthaliya"
+    },
+    {
+      "surface": "עתליהו",
+      "gloss": "uAthaliya"
+    },
+    {
+      "surface": "המיתו",
+      "gloss": "bambulala"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "ngekrele"
+    },
+    {
+      "surface": "בית",
+      "gloss": "endlwini"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "yenkosi"
+    }
+  ],
+  "timestamp": "2026-09-18T10:49:03.104158325Z",
+  "model": "glm-5.3"
+}

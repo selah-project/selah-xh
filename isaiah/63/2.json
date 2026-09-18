@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 63:2",
+  "book": "isaiah",
+  "lang": "xh",
+  "chapter": 63,
+  "translation": "Kutheni ubomvu kwiimpahla zakho, ngeempahla zakho zenjengomtyhali ethangeni lewayini?",
+  "tokens": [
+    {
+      "surface": "מדוע",
+      "gloss": "Kutheni"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ubomvu"
+    },
+    {
+      "surface": "ללבושך",
+      "gloss": "kwiimpahla zakho"
+    },
+    {
+      "surface": "ובגדיך",
+      "gloss": "ngeempahla zakho"
+    },
+    {
+      "surface": "כדרך",
+      "gloss": "zenjengomtyhali"
+    },
+    {
+      "surface": "בגת",
+      "gloss": "ethangeni lewayini"
+    }
+  ],
+  "timestamp": "2026-09-18T11:44:16.772039406Z",
+  "model": "glm-5.3"
+}

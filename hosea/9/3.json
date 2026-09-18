@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 9:3",
+  "book": "hosea",
+  "lang": "xh",
+  "chapter": 9,
+  "translation": "Abayi kuhlala elizweni likaYahwe; u-Efrayim uza kubuyela eMitsrayim, naseAshuru baza kutya into engcolileyo.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "abayi"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "kuhlala"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "elizweni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "likaYahwe"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "uza kubuyela"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "u-Efrayim"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "eMitsrayim"
+    },
+    {
+      "surface": "ובאשור",
+      "gloss": "naseAshuru"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "into engcolileyo"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "baza kutya"
+    }
+  ],
+  "timestamp": "2026-09-18T13:47:57.595562354Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 12:3",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 12,
+  "translation": "Thethani kuwo onke amaqela ka-Israel, esithi: Ngolwesumi lwemini yenyanga le, mabathathe umntu ngamntu iwundlu ngokwendlu yooyise-bawo, iwundlu ngendlu nganye.",
+  "tokens": [
+    {
+      "surface": "דברו",
+      "gloss": "Thethani"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "כל",
+      "gloss": "onke"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "amaqela"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ka-Israel"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "esithi"
+    },
+    {
+      "surface": "בעשר",
+      "gloss": "ngolwesumi"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "yenyanga"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "le"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "mabathathe"
+    },
+    {
+      "surface": "להם",
+      "gloss": "bakhe"
+    },
+    {
+      "surface": "איש",
+      "gloss": "umntu ngamntu"
+    },
+    {
+      "surface": "שה",
+      "gloss": "iwundlu"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "ngokwendlu"
+    },
+    {
+      "surface": "אבת",
+      "gloss": "yooyise-bawo"
+    },
+    {
+      "surface": "שה",
+      "gloss": "iwundlu"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "ngendlu nganye"
+    }
+  ],
+  "timestamp": "2026-09-18T05:58:21.330463538Z",
+  "model": "glm-5.3"
+}

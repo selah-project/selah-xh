@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-kings 18:11",
+  "book": "2-kings",
+  "lang": "xh",
+  "chapter": 18,
+  "translation": "Inkosi yaseAshuru yathutha ⟨את⟩ uYisrael iye eAshuru, yabahlalisa eHalah nakwiHabhori, emlambo weGozan, nasemizini yaseMedi.",
+  "tokens": [
+    {
+      "surface": "ויגל",
+      "gloss": "yathutha"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "Inkosi"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "yaseAshuru"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uYisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "uYisrael"
+    },
+    {
+      "surface": "אשורה",
+      "gloss": "iye eAshuru"
+    },
+    {
+      "surface": "וינחם",
+      "gloss": "yabahlalisa"
+    },
+    {
+      "surface": "בחלח",
+      "gloss": "eHalah"
+    },
+    {
+      "surface": "ובחבור",
+      "gloss": "nakwiHabhori"
+    },
+    {
+      "surface": "נהר",
+      "gloss": "emlambo"
+    },
+    {
+      "surface": "גוזן",
+      "gloss": "weGozan"
+    },
+    {
+      "surface": "וערי",
+      "gloss": "nasemizini"
+    },
+    {
+      "surface": "מדי",
+      "gloss": "yaseMedi"
+    }
+  ],
+  "timestamp": "2026-09-18T10:51:21.171330246Z",
+  "model": "glm-5.3"
+}

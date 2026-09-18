@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 46:10",
+  "book": "isaiah",
+  "lang": "xh",
+  "chapter": 46,
+  "translation": "Ubhengeza isiphelo ukusuka ekuqaleni, nakusukela kudala izinto ezingekabhiwa, esithi: icebo lam liza kuma, yonke into endiyithandayo ndiza kuyenza.",
+  "tokens": [
+    {
+      "surface": "מגיד",
+      "gloss": "Ubhengeza"
+    },
+    {
+      "surface": "מראשית",
+      "gloss": "ukusuka ekuqaleni"
+    },
+    {
+      "surface": "אחרית",
+      "gloss": "isiphelo"
+    },
+    {
+      "surface": "ומקדם",
+      "gloss": "nakusukela kudala"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ezi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "anga"
+    },
+    {
+      "surface": "נעשו",
+      "gloss": "bhiwa"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "esithi"
+    },
+    {
+      "surface": "עצתי",
+      "gloss": "icebo lam"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "liza kuma"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "yonke"
+    },
+    {
+      "surface": "חפצי",
+      "gloss": "into endiyithandayo"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "ndiza kuyenza"
+    }
+  ],
+  "timestamp": "2026-09-18T11:34:24.979950824Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 25:12",
+  "book": "2-kings",
+  "lang": "xh",
+  "chapter": 25,
+  "translation": "Kodwa iindlwana zomhlaba inkulu yetabhakha yazishiya, zabangabalimi bediliya nangabalimi bomhlaba.",
+  "tokens": [
+    {
+      "surface": "ומדלת",
+      "gloss": "iindlwana"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zomhlaba"
+    },
+    {
+      "surface": "השאיר",
+      "gloss": "yazishiya"
+    },
+    {
+      "surface": "רב",
+      "gloss": "inkulu"
+    },
+    {
+      "surface": "טבחים",
+      "gloss": "yetabhakha"
+    },
+    {
+      "surface": "לכרמים",
+      "gloss": "abalimi bediliya"
+    },
+    {
+      "surface": "וליגבים",
+      "gloss": "nabalimi bomhlaba"
+    }
+  ],
+  "timestamp": "2026-09-18T11:00:03.644744305Z",
+  "model": "glm-5.3"
+}

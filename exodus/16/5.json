@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 16:5",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 16,
+  "translation": "Kwaye kuya kwenzeka, ngosuku lwesithandathu, malungisele oloku bazakuletha, kwaye sibe yiphindwe kabini ngaphezu koko baqokelelayo usuku ngalunye.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "kuya kwenzeka"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ngosuku"
+    },
+    {
+      "surface": "הששי",
+      "gloss": "lwesithandathu"
+    },
+    {
+      "surface": "והכינו",
+      "gloss": "malungisele"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oloku bazakuletha"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oloku"
+    },
+    {
+      "surface": "יביאו",
+      "gloss": "bazakuletha"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "sibe"
+    },
+    {
+      "surface": "משנה",
+      "gloss": "yiphindwe kabini"
+    },
+    {
+      "surface": "על",
+      "gloss": "ngaphezu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koko"
+    },
+    {
+      "surface": "ילקטו",
+      "gloss": "baqokelelayo"
+    },
+    {
+      "surface": "יום",
+      "gloss": "usuku"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ngalunye"
+    }
+  ],
+  "timestamp": "2026-09-18T06:06:10.880905515Z",
+  "model": "glm-5.3"
+}

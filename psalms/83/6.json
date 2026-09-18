@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 83:6",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 83,
+  "translation": "Kuba bachulumene nentliziyo yedwa, malunga nawena benza umnqophiso;",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kuba"
+    },
+    {
+      "surface": "נועצו",
+      "gloss": "bachulumene"
+    },
+    {
+      "surface": "לב",
+      "gloss": "nentliziyo"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "yedwa"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "malunga nawena"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "umnqophiso"
+    },
+    {
+      "surface": "יכרתו",
+      "gloss": "benza"
+    }
+  ],
+  "timestamp": "2026-09-18T15:04:38.099685004Z",
+  "model": "glm-5.3"
+}

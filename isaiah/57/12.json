@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 57:12",
+  "book": "isaiah",
+  "lang": "xh",
+  "chapter": 57,
+  "translation": "Mna ndiza kubhengeza obulungisa bakho, kunye no-⟨את⟩ imisebenzi yakho; yaye ayizukunceda.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "mna"
+    },
+    {
+      "surface": "אגיד",
+      "gloss": "ndiza kubhengeza"
+    },
+    {
+      "surface": "צדקתך",
+      "gloss": "obulungisa bakho"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "imisebenzi yakho"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "imisebenzi yakho"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "yaye ayizukunceda"
+    },
+    {
+      "surface": "יועילוך",
+      "gloss": "izakunceda"
+    }
+  ],
+  "timestamp": "2026-09-18T11:42:53.648518050Z",
+  "model": "glm-5.3"
+}

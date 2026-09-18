@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 80:20",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 80,
+  "translation": "Yahwe, uElohim Tsevaote, usibuyisela; ukhanyise ubuso bakho, kwaye siya kusindwa.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaote"
+    },
+    {
+      "surface": "השיבנו",
+      "gloss": "usibuyisela"
+    },
+    {
+      "surface": "האר",
+      "gloss": "ukhanyise"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ubuso bakho"
+    },
+    {
+      "surface": "ונושעה",
+      "gloss": "kwaye siya kusindwa"
+    }
+  ],
+  "timestamp": "2026-09-18T15:05:18.742770285Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 110:5",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 110,
+  "translation": "u-Adonayi ngasekunene kwakho; waphula ngamandla iinkosi ngosuku lolaka lwakhe.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "u-Adonayi"
+    },
+    {
+      "surface": "על",
+      "gloss": "ngase-"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "kunene kwakhe"
+    },
+    {
+      "surface": "מחץ",
+      "gloss": "waphula ngamandla"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ngosuku"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "lolaka lwakhe"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "iinkosi"
+    }
+  ],
+  "timestamp": "2026-09-18T15:20:37.617010952Z",
+  "model": "glm-5.3"
+}

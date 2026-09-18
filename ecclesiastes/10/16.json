@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ecclesiastes 10:16",
+  "book": "ecclesiastes",
+  "lang": "xh",
+  "chapter": 10,
+  "translation": "Yeha kuwe, mhlaba, xa inkosi yakho ingenanalanga, noonkosi zakho betya ekuseni!",
+  "tokens": [
+    {
+      "surface": "אי",
+      "gloss": "yeha"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kuwe"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "mhlaba"
+    },
+    {
+      "surface": "שמלכך",
+      "gloss": "inkosi yakho"
+    },
+    {
+      "surface": "נער",
+      "gloss": "ingenanalanga"
+    },
+    {
+      "surface": "ושריך",
+      "gloss": "noonkosi zakho"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "ekuseni"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "betya"
+    }
+  ],
+  "timestamp": "2026-09-18T16:25:19.329613284Z",
+  "model": "glm-5.3"
+}

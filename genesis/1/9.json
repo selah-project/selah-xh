@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 1:9",
+  "book": "genesis",
+  "lang": "xh",
+  "chapter": 1,
+  "translation": "Wathi uElohim: “Amani angaphantsi kwamazulu aqokelelwe kwindawo enye, kwaye ubonakale umhlaba oomileyo.” Kwaba njalo.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Wathi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "יקוו",
+      "gloss": "aqokelelwe"
+    },
+    {
+      "surface": "המים",
+      "gloss": "amani"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "angaphantsi"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "kwamazulu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "indawo"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "enye"
+    },
+    {
+      "surface": "ותראה",
+      "gloss": "kwaye ubonakale"
+    },
+    {
+      "surface": "היבשה",
+      "gloss": "umhlaba oomileyo"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "Kwaba"
+    },
+    {
+      "surface": "כן",
+      "gloss": "njalo"
+    }
+  ],
+  "timestamp": "2026-09-18T05:08:03.988547571Z",
+  "model": "glm-5.3"
+}

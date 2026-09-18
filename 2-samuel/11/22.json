@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-samuel 11:22",
+  "book": "2-samuel",
+  "lang": "xh",
+  "chapter": 11,
+  "translation": "Yaye umthunywa wahamba, waya, wabhidisa kuDavide ⟨את⟩ konkeoko uYoavhu amthumele wona.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "wahamba"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "umthunywa"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "waya"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "wabhidisa"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "kuDavide"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "konkeoko"
+    },
+    {
+      "surface": "כל",
+      "gloss": "konkeoko"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "amthumele wona"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "uYoavhu"
+    }
+  ],
+  "timestamp": "2026-09-18T09:51:58.010118083Z",
+  "model": "glm-5.3"
+}

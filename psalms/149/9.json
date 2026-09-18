@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 149:9",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 149,
+  "translation": "Ukuzenzela kubo umgangatho obhaliweyo; le yinkcenkcezo yonke engcwele zakhe. Duduzelani uYah!",
+  "tokens": [
+    {
+      "surface": "לעשות",
+      "gloss": "ukuzenzela"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "kubo"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "umgangatho"
+    },
+    {
+      "surface": "כתוב",
+      "gloss": "obhaliweyo"
+    },
+    {
+      "surface": "הדר",
+      "gloss": "inkcenkcezo"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "le"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "yonke"
+    },
+    {
+      "surface": "חסידיו",
+      "gloss": "engcwele zakhe"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "duduzelani"
+    },
+    {
+      "surface": "יה",
+      "gloss": "uYah"
+    }
+  ],
+  "timestamp": "2026-09-18T15:32:46.227652496Z",
+  "model": "glm-5.3"
+}

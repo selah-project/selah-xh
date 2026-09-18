@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-kings 7:11",
+  "book": "2-kings",
+  "lang": "xh",
+  "chapter": 7,
+  "translation": "Abagadi besango babiza, baveza ⟨kwendlwini⟩ yenkosi ngaphakathi.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "babiza"
+    },
+    {
+      "surface": "השערים",
+      "gloss": "abagadi besango"
+    },
+    {
+      "surface": "ויגידו",
+      "gloss": "baveza"
+    },
+    {
+      "surface": "בית",
+      "gloss": "⟨kwendlwini⟩"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "yenkosi"
+    },
+    {
+      "surface": "פנימה",
+      "gloss": "ngaphakathi"
+    }
+  ],
+  "timestamp": "2026-09-18T10:43:58.200861211Z",
+  "model": "glm-5.3"
+}

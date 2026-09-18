@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 1:23",
+  "book": "genesis",
+  "lang": "xh",
+  "chapter": 1,
+  "translation": "Kwaye yaba kusihlwa, kwaye yaba ekuseni: usuku lwesihlanu.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "yaba"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "kusihlwa"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "yaba"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "ekuseni"
+    },
+    {
+      "surface": "יום",
+      "gloss": "usuku"
+    },
+    {
+      "surface": "חמישי",
+      "gloss": "lwesihlanu"
+    }
+  ],
+  "timestamp": "2026-09-18T05:07:52.515845379Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 21:15",
+  "book": "1-samuel",
+  "lang": "xh",
+  "chapter": 21,
+  "translation": "Wathi u-Akishi kwiinkoneli zakhe: “Nangoku niyabona umntu ophuphuthelwe yingqondo; kutheni nimzisa ⟨את⟩ kum?”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Wathi"
+    },
+    {
+      "surface": "אכיש",
+      "gloss": "u-Akishi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "iinkoneli zakhe"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Nangoku"
+    },
+    {
+      "surface": "תראו",
+      "gloss": "niyabona"
+    },
+    {
+      "surface": "איש",
+      "gloss": "umntu"
+    },
+    {
+      "surface": "משתגע",
+      "gloss": "ophuphuthelwe yingqondo"
+    },
+    {
+      "surface": "למה",
+      "gloss": "kutheni"
+    },
+    {
+      "surface": "תביאו",
+      "gloss": "nimzisa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "kum (umntu)"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kum"
+    }
+  ],
+  "timestamp": "2026-09-18T09:34:11.310800046Z",
+  "model": "glm-5.3"
+}

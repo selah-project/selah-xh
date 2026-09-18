@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 10:15",
+  "book": "deuteronomy",
+  "lang": "xh",
+  "chapter": 10,
+  "translation": "Kuphela kwooyihlo uYahwe wadinwa, ukubathanda bona; waze wakhetha imbewu yabo emva kwabo — nina, ngaphezu kwazo zonke iintlanga, njengangalomhla.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "kuphela"
+    },
+    {
+      "surface": "באבתיך",
+      "gloss": "kwooyihlo"
+    },
+    {
+      "surface": "חשק",
+      "gloss": "wadinwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "לאהבה",
+      "gloss": "ukubathanda"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "ooyihlo (ukubathanda bona)"
+    },
+    {
+      "surface": "ויבחר",
+      "gloss": "waze wakhetha"
+    },
+    {
+      "surface": "בזרעם",
+      "gloss": "imbewu yabo"
+    },
+    {
+      "surface": "אחריהם",
+      "gloss": "emva kwabo"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "nina"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "ngaphezu kwazo zonke"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "iintlanga"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "njengangalo"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "mhla"
+    }
+  ],
+  "timestamp": "2026-09-18T08:01:23.735266500Z",
+  "model": "glm-5.3"
+}

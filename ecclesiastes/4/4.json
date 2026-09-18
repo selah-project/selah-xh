@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 4:4",
+  "book": "ecclesiastes",
+  "lang": "xh",
+  "chapter": 4,
+  "translation": "Ndabona ⟨את⟩ umsebenzi wonke, nothelekiso lomsebenzi wonke, kuba kulowo kudityanadbwa umntu nomakhulu waKhe; oku nakoku kokubini bubuvaini nokukhungatheka komoya.",
+  "tokens": [
+    {
+      "surface": "וראיתי",
+      "gloss": "Ndabona"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umsebenzi wonke"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wonke"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "umsebenzi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "thelekiso lomsebenzi wonke"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wonke"
+    },
+    {
+      "surface": "כשרון",
+      "gloss": "thelekiso"
+    },
+    {
+      "surface": "המעשה",
+      "gloss": "lomsebenzi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "היא",
+      "gloss": "kulowo"
+    },
+    {
+      "surface": "קנאת",
+      "gloss": "dityanadbwa"
+    },
+    {
+      "surface": "איש",
+      "gloss": "umntu"
+    },
+    {
+      "surface": "מרעהו",
+      "gloss": "nomakhulu waKhe"
+    },
+    {
+      "surface": "גם",
+      "gloss": "oku nakoku"
+    },
+    {
+      "surface": "זה",
+      "gloss": "kokubini"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "bubuvaini"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "nokukhungatheka"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "komoya"
+    }
+  ],
+  "timestamp": "2026-09-18T16:24:44.933085557Z",
+  "model": "glm-5.3"
+}

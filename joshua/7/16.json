@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 7:16",
+  "book": "joshua",
+  "lang": "xh",
+  "chapter": 7,
+  "translation": "UYehoshuwa wavuka ekuseni ngaphambi kwemini, wasondelelisa ⟨את⟩ iYisrayeli ngeezizwe zawo; wabanjwa isizwe sikaYuda.",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "wavuka ekuseni"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "UYehoshuwa"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "ngemini yasekuseni"
+    },
+    {
+      "surface": "ויקרב",
+      "gloss": "wasondelelisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iYisrayeli"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "iYisrayeli"
+    },
+    {
+      "surface": "לשבטיו",
+      "gloss": "ngeezizwe zawo"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "wabanjwa"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "isizwe"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "sikaYuda"
+    }
+  ],
+  "timestamp": "2026-09-18T08:34:19.191125947Z",
+  "model": "glm-5.3"
+}

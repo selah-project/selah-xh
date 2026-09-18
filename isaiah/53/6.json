@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 53:6",
+  "book": "isaiah",
+  "lang": "xh",
+  "chapter": 53,
+  "translation": "Sonke sadukaduka njengezimvu; umntu ngamnye wajongela kwindlela yakhe; yaye uYahwe wenzise kuye ⟨את⟩ ubugwenxa bonke bethu.",
+  "tokens": [
+    {
+      "surface": "כלנו",
+      "gloss": "sonke"
+    },
+    {
+      "surface": "כצאן",
+      "gloss": "njengezimvu"
+    },
+    {
+      "surface": "תעינו",
+      "gloss": "sadukaduka"
+    },
+    {
+      "surface": "איש",
+      "gloss": "umntu ngamnye"
+    },
+    {
+      "surface": "לדרכו",
+      "gloss": "kwindlela yakhe"
+    },
+    {
+      "surface": "פנינו",
+      "gloss": "wajongela"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "yaye uYahwe"
+    },
+    {
+      "surface": "הפגיע",
+      "gloss": "wenzise"
+    },
+    {
+      "surface": "בו",
+      "gloss": "kuye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ubugwenxa bonke bethu"
+    },
+    {
+      "surface": "עון",
+      "gloss": "ubugwenxa"
+    },
+    {
+      "surface": "כלנו",
+      "gloss": "bonke bethu"
+    }
+  ],
+  "timestamp": "2026-09-18T17:35:00.960724524Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 17:3",
+  "book": "deuteronomy",
+  "lang": "xh",
+  "chapter": 17,
+  "translation": "waya wakhonza oothixo abanye, wakhuhlela kubo, nangelanga okanye ngenyanga okanye nakumkhosi wamazulu wonke, eko ndingayaleli;",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "waya"
+    },
+    {
+      "surface": "ויעבד",
+      "gloss": "wakhonza"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "oothixo"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "abanye"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "wakhuhlela"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kubo"
+    },
+    {
+      "surface": "ולשמש",
+      "gloss": "nangelanga"
+    },
+    {
+      "surface": "או",
+      "gloss": "okanye"
+    },
+    {
+      "surface": "לירח",
+      "gloss": "ngenyanga"
+    },
+    {
+      "surface": "או",
+      "gloss": "okanye"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "nakumkhosi wonke"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "umkhosi"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "wamazulu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "eko"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndinga-"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "yaleli"
+    }
+  ],
+  "timestamp": "2026-09-18T08:13:16.429776430Z",
+  "model": "glm-5.3"
+}

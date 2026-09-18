@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 172,
+  "ref": "psalms 119:172",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 119,
+  "translation": "Ulwimi lwam luvakalise elizini lakho, kuba imiyalelo yakho yonke ⟨ng⟩⁠olungileyo.",
+  "tokens": [
+    {
+      "surface": "תען",
+      "gloss": "luvakalise"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "ulwimi lwam"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "elizini lakho"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yonke"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "imiyalelo yakho"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "⟨ng⟩⁠olungileyo"
+    }
+  ],
+  "timestamp": "2026-09-18T15:25:22.267595764Z",
+  "model": "glm-5.3"
+}

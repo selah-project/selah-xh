@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-kings 4:7",
+  "book": "1-kings",
+  "lang": "xh",
+  "chapter": 4,
+  "translation": "Kwaye uShelomo wayenabamisiweyo abalishumi elinesibini phezu kwayo yonke iYisrayeli, baza bazala ⟨את⟩ inkosi ⟨את⟩ nosaphi lwakhe; inyanga yunyaka iba yomnye wabo ukuzalela.",
+  "tokens": [
+    {
+      "surface": "ולשלמה",
+      "gloss": "Kwaye uShelomo"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "abalishumi elinesibini (ababini)"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "-lishumi"
+    },
+    {
+      "surface": "נצבים",
+      "gloss": "abamisiweyo"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kwayo yonke"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "iYisrayeli"
+    },
+    {
+      "surface": "וכלכלו",
+      "gloss": "baza bazala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "inkosi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "inkosi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "nosaphi lwakhe"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "nosaphi lwakhe"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "inyanga"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "yunyaka"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "iba"
+    },
+    {
+      "surface": "על",
+      "gloss": "yomnye"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "omnye wabo"
+    },
+    {
+      "surface": "לכלכל",
+      "gloss": "ukuzalela"
+    }
+  ],
+  "timestamp": "2026-09-18T10:08:54.037506791Z",
+  "model": "glm-5.3"
+}

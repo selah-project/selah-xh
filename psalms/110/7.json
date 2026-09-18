@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 110:7",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 110,
+  "translation": "Uzasela isikhulukhwe endlwini yokuhamba; ngoko ke uzakuphakamisa intloko.",
+  "tokens": [
+    {
+      "surface": "מנחל",
+      "gloss": "isikhulukhwe"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "endlwini yokuhamba"
+    },
+    {
+      "surface": "ישתה",
+      "gloss": "uzasela"
+    },
+    {
+      "surface": "על",
+      "gloss": "ngoko"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ke"
+    },
+    {
+      "surface": "ירים",
+      "gloss": "uzakuphakamisa"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "intloko"
+    }
+  ],
+  "timestamp": "2026-09-18T15:20:37.617441699Z",
+  "model": "glm-5.3"
+}

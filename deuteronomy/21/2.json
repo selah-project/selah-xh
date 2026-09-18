@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 21:2",
+  "book": "deuteronomy",
+  "lang": "xh",
+  "chapter": 21,
+  "translation": "Amadala akho nabagwebi bakho maphume, balinganise ukuya kwiidolophu ezijikelezile lowo othosiweyo.",
+  "tokens": [
+    {
+      "surface": "ויצאו",
+      "gloss": "maphume"
+    },
+    {
+      "surface": "זקניך",
+      "gloss": "amadala akho"
+    },
+    {
+      "surface": "ושפטיך",
+      "gloss": "nabagwebi bakho"
+    },
+    {
+      "surface": "ומדדו",
+      "gloss": "balinganise"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ukuya ku"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "iidolophu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ezo"
+    },
+    {
+      "surface": "סביבת",
+      "gloss": "ezijikelezile"
+    },
+    {
+      "surface": "החלל",
+      "gloss": "lowo othosiweyo"
+    }
+  ],
+  "timestamp": "2026-09-18T08:13:19.467743078Z",
+  "model": "glm-5.3"
+}

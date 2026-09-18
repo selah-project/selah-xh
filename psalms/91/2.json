@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 91:2",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 91,
+  "translation": "Ndiza kuthetha kuYahwe: “Isiphephelo sam nenqaba yam; uElohim wam, ndiyamthemba kuye.”",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "Ndiza kuthetha"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kuYahwe"
+    },
+    {
+      "surface": "מחסי",
+      "gloss": "Isiphephelo sam"
+    },
+    {
+      "surface": "ומצודתי",
+      "gloss": "nenqaba yam"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "uElohim wam"
+    },
+    {
+      "surface": "אבטח",
+      "gloss": "ndiyamthemba"
+    },
+    {
+      "surface": "בו",
+      "gloss": "kiye"
+    }
+  ],
+  "timestamp": "2026-09-18T17:44:51.306259575Z",
+  "model": "glm-5.3"
+}

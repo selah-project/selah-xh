@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 3:9",
+  "book": "leviticus",
+  "lang": "xh",
+  "chapter": 3,
+  "translation": "Aza kungenisela exinkcenkceneni zezenkomo eziyinene imbeko yomlilo kuYahwe: amafutha ayo, umhlathi opheleleyo, uza kuwukhuphela ngasekhakaḷeni; nangamafutha avela ayo angqangqisa iziqaqamba (wezinkomo ezininzi) kunye nalo, zonke izinto ezivela ⟨את⟩ kuzo, ⟨את⟩ nawo wonke amafutha akho asemazantsi ayo.",
+  "tokens": [
+    {
+      "surface": "וְהִקְרִ֨יב",
+      "gloss": "aza kungenisela exinkcenkceneni"
+    },
+    {
+      "surface": "מִזֶּ֣בַח",
+      "gloss": "imbeko"
+    },
+    {
+      "surface": "הַשְּׁלָמִים֮",
+      "gloss": "ezezinene"
+    },
+    {
+      "surface": "אִשֶּׁ֣ה",
+      "gloss": "yomlilo"
+    },
+    {
+      "surface": "לַיהוָה֒",
+      "gloss": "kuYahwe"
+    },
+    {
+      "surface": "חֶלְבּוֹ֙",
+      "gloss": "amafutha ayo"
+    },
+    {
+      "surface": "הָאַלְיָ֣ה",
+      "gloss": "umhlathi"
+    },
+    {
+      "surface": "תְּמִימָ֔ה",
+      "gloss": "opheleleyo"
+    },
+    {
+      "surface": "לְעֻמַּ֥ת",
+      "gloss": "ngase"
+    },
+    {
+      "surface": "הֶעָצֶ֖ה",
+      "gloss": "khakaḷeni"
+    },
+    {
+      "surface": "יְסִירֶ֑נָּה",
+      "gloss": "uza kuwukhuphela"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ nangama",
+      "marks": "amafutha avela ayo angqangqisa iziqaqamba"
+    },
+    {
+      "surface": "הַחֵ֨לֶב֙",
+      "gloss": "amafutha avela ayo angqangqisa iziqaqamba (wezinkomo ezininzi) kunye nalo"
+    },
+    {
+      "surface": "הַמְכַסֶּ֣ה",
+      "gloss": "ziqinisekisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ kuzo"
+    },
+    {
+      "surface": "הַקֶּ֔רֶב",
+      "gloss": "iziqaqamba (wezinkomo ezininzi) kunye nalo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ nawo"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "zonke"
+    },
+    {
+      "surface": "הַחֵ֔לֶב",
+      "gloss": "amafutha"
+    },
+    {
+      "surface": "אֲשֶׁ֖ר",
+      "gloss": "ezivela kuzo"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "asezantsi"
+    },
+    {
+      "surface": "הַקֶּֽרֶב",
+      "gloss": "eziqaqambeni (wezinkomo ezininzi) kunye nalo"
+    }
+  ],
+  "timestamp": "2026-09-18T06:32:39.209931156Z",
+  "model": "glm-5.3"
+}

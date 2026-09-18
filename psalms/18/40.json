@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "psalms 18:40",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 18,
+  "translation": "Waze undixhobile ngamandla ukulwa, wenza ukuba abangxameleni nam baguqe phantsi kwam.",
+  "tokens": [
+    {
+      "surface": "ותאזרני",
+      "gloss": "Waze undixhobile"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "ngamandla"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "ukulwa"
+    },
+    {
+      "surface": "תכריע",
+      "gloss": "wenza ukuba baguqe"
+    },
+    {
+      "surface": "קמי",
+      "gloss": "abangxameleni nam"
+    },
+    {
+      "surface": "תחתי",
+      "gloss": "phantsi kwam"
+    }
+  ],
+  "timestamp": "2026-09-18T14:33:33.643769516Z",
+  "model": "glm-5.3"
+}

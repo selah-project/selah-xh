@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 33:9",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 33,
+  "translation": "Kuba yena wathetha, yaba khona; yena wayalela, yamile.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yena"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "wathetha"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "yaba khona"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yena"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "wayalela"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "yamile"
+    }
+  ],
+  "timestamp": "2026-09-18T14:39:52.455165455Z",
+  "model": "glm-5.3"
+}

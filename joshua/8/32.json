@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "joshua 8:32",
+  "book": "joshua",
+  "lang": "xh",
+  "chapter": 8,
+  "translation": "Wabhala khona phezu kwamatye ⟨את⟩ ikopi yeTora kaMoshe, owabhala phambi kwabantwana beYisra'el.",
+  "tokens": [
+    {
+      "surface": "ויכתב",
+      "gloss": "wabhala"
+    },
+    {
+      "surface": "שם",
+      "gloss": "khona"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "kwamatye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ikopi yeTora kaMoshe"
+    },
+    {
+      "surface": "משנה",
+      "gloss": "ikopi"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "yeTora"
+    },
+    {
+      "surface": "משה",
+      "gloss": "kaMoshe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "owabhala (omco-)"
+    },
+    {
+      "surface": "כתב",
+      "gloss": "wabhala"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "phambi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "kwabantwana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "beYisra'el"
+    }
+  ],
+  "timestamp": "2026-09-18T08:34:17.908976497Z",
+  "model": "glm-5.3"
+}

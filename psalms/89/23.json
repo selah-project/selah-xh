@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 89:23",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 89,
+  "translation": "Mdlwelo akayi kumlundela; unyana wolungwalo akayi kumcinezela.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "akayi ku-"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "mlundela"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "Mdlwelo"
+    },
+    {
+      "surface": "בו",
+      "gloss": "yena"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "unyana wo-"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "lungwalo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "akayi ku-"
+    },
+    {
+      "surface": "יעננו",
+      "gloss": "mcinezela"
+    }
+  ],
+  "timestamp": "2026-09-18T15:08:38.521602446Z",
+  "model": "glm-5.3"
+}

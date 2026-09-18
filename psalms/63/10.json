@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 63:10",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 63,
+  "translation": "Kananjalo bona bafuna inefeshi yam ukuyitshabalalisa; baza kungena ezantseni komhlaba.",
+  "tokens": [
+    {
+      "surface": "והמה",
+      "gloss": "kananjalo bona"
+    },
+    {
+      "surface": "לשואה",
+      "gloss": "ukuyitshabalalisa (le ntshabalalo)"
+    },
+    {
+      "surface": "יבקשו",
+      "gloss": "bafuna"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "inefeshi yam"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "baza kungena"
+    },
+    {
+      "surface": "בתחתיות",
+      "gloss": "ezantseni (kwiindawo ezingaphantsi)"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "komhlaba"
+    }
+  ],
+  "timestamp": "2026-09-18T14:53:07.757638116Z",
+  "model": "glm-5.3"
+}

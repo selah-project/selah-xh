@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 118:27",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 118,
+  "translation": "u-El nguYahwe, wasikhanyela; zibophele umthendeleko ngeentambo, de nifikelele kwiimbaxa ze-altari.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "u-El"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "nguYahwe"
+    },
+    {
+      "surface": "ויאר",
+      "gloss": "wasikhanyela"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "si"
+    },
+    {
+      "surface": "אסרו",
+      "gloss": "zibophele"
+    },
+    {
+      "surface": "חג",
+      "gloss": "umthendeleko"
+    },
+    {
+      "surface": "בעבתים",
+      "gloss": "ngeentambo"
+    },
+    {
+      "surface": "עד",
+      "gloss": "de nifikelele"
+    },
+    {
+      "surface": "קרנות",
+      "gloss": "kwiimbaxa"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "ze-altari"
+    }
+  ],
+  "timestamp": "2026-09-18T15:22:46.120590755Z",
+  "model": "glm-5.3"
+}

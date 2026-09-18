@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "daniel 1:3",
+  "book": "daniel",
+  "lang": "xh",
+  "chapter": 1,
+  "translation": "Inkosi yathetha ku-Ashpenazi, intloko yeenkonzana zayo (iisarisi), ukuba azise kum abanye abantwana bakwaSirayeli, kwisizukulwana sobukumkani, nakwisizukulwana samaphakathi (iipartemi).",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "yathetha"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "Inkosi"
+    },
+    {
+      "surface": "לאשפנז",
+      "gloss": "ku-Ashpenazi"
+    },
+    {
+      "surface": "רב",
+      "gloss": "intloko"
+    },
+    {
+      "surface": "סריסיו",
+      "gloss": "yeenkonzana zayo"
+    },
+    {
+      "surface": "להביא",
+      "gloss": "ukuba azise kum"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "abantwana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "bakwaSirayeli"
+    },
+    {
+      "surface": "ומזרע",
+      "gloss": "kwisizukulwana"
+    },
+    {
+      "surface": "המלוכה",
+      "gloss": "sobukumkani"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "naki"
+    },
+    {
+      "surface": "הפרתמים",
+      "gloss": "iipartemi (amaphakathi)"
+    }
+  ],
+  "timestamp": "2026-09-18T16:30:56.519038723Z",
+  "model": "glm-5.3"
+}

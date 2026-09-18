@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 77:16",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 77,
+  "translation": "Wakhulula ngingalo yakho abantu bakho, oonyana bakaYakobi noYosef. iSelah.",
+  "tokens": [
+    {
+      "surface": "גאלת",
+      "gloss": "Wakhulula"
+    },
+    {
+      "surface": "בזרוע",
+      "gloss": "ngingalo yakho"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "abantu bakho"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oonyana"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "bakaYakobi"
+    },
+    {
+      "surface": "ויוסף",
+      "gloss": "noYosef"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "iSelah"
+    }
+  ],
+  "timestamp": "2026-09-18T15:00:34.471654440Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-kings 7:13",
+  "book": "1-kings",
+  "lang": "xh",
+  "chapter": 7,
+  "translation": "INkosi uShelomoh yathumela yaza yamkhubeka uKhirame eTsur.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "wathumela"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "inkosi"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "uShelomoh"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "yaza yamkhubeka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uKhirame"
+    },
+    {
+      "surface": "חירם",
+      "gloss": "uKhirame"
+    },
+    {
+      "surface": "מצר",
+      "gloss": "eTsur"
+    }
+  ],
+  "timestamp": "2026-09-18T10:16:28.626731661Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 82:3",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 82,
+  "translation": "Gwebani ubuthathaka nentatana; yenzelani ubulungiswa abahluphekayo nabampofu.",
+  "tokens": [
+    {
+      "surface": "שפטו",
+      "gloss": "Gwebani"
+    },
+    {
+      "surface": "דל",
+      "gloss": "ubuthathaka"
+    },
+    {
+      "surface": "ויתום",
+      "gloss": "nentatana"
+    },
+    {
+      "surface": "עני",
+      "gloss": "abahluphekayo"
+    },
+    {
+      "surface": "ורש",
+      "gloss": "nabampofu"
+    },
+    {
+      "surface": "הצדיקו",
+      "gloss": "yenzelani ubulungiswa"
+    }
+  ],
+  "timestamp": "2026-09-18T15:04:24.199025089Z",
+  "model": "glm-5.3"
+}

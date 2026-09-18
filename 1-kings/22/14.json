@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 22:14",
+  "book": "1-kings",
+  "lang": "xh",
+  "chapter": 22,
+  "translation": "Wathetha uMikayehu: “Kukho uYahwe, ngokuphila; kuba ⟨את⟩ oko uYahwe aza kundithetha ⟨את⟩ khona, ndiza kuthetha.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wathetha"
+    },
+    {
+      "surface": "מיכיהו",
+      "gloss": "uMikayehu"
+    },
+    {
+      "surface": "חי",
+      "gloss": "ngokuphila"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oko uYahwe aza kuthetha"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oko"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "aza kuthetha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kum"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "okuya kuthethwa yim"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "ndiza kuthetha"
+    }
+  ],
+  "timestamp": "2026-09-18T10:36:11.629878327Z",
+  "model": "glm-5.3"
+}

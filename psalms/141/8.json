@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 141:8",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 141,
+  "translation": "Kuba amehlo am akwe kuwe, uYahwe u-Adonayi; kukho ndithembile; musa ukuchitha umphefumlo wam.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kuba"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kuwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "u-Adonayi"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "améhlo am"
+    },
+    {
+      "surface": "בכה",
+      "gloss": "kukho"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "ndithembile"
+    },
+    {
+      "surface": "אל",
+      "gloss": "musa"
+    },
+    {
+      "surface": "תער",
+      "gloss": "ukuchitha"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "umphefumlo wam"
+    }
+  ],
+  "timestamp": "2026-09-18T17:45:27.700238800Z",
+  "model": "glm-5.3"
+}

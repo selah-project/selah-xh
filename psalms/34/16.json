@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 34:16",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 34,
+  "translation": "Amehlo kaYahwe ⟨aku⟩ abalungileyo, nezindlebe zakhe ⟨ziku⟩ isikhwele sabo.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "Amehlo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kaYahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨aku⟩"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "abalungileyo"
+    },
+    {
+      "surface": "ואזניו",
+      "gloss": "nezindlebe zakhe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨ziku⟩"
+    },
+    {
+      "surface": "שועתם",
+      "gloss": "isikhwele sabo"
+    }
+  ],
+  "timestamp": "2026-09-18T14:40:38.022866122Z",
+  "model": "glm-5.3"
+}

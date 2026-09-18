@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 41:12",
+  "book": "isaiah",
+  "lang": "xh",
+  "chapter": 41,
+  "translation": "Uzakubafuna kwaye awuzakubafumana — amadoda olwazwaneni lwakho; bayakuba njengento engenayo kananjalo njengesiphumo esinganto, amadoda imfazwe yakho.",
+  "tokens": [
+    {
+      "surface": "תבקשם",
+      "gloss": "uzakubafuna"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kwaye hayi"
+    },
+    {
+      "surface": "תמצאם",
+      "gloss": "uzakubafumana"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "amadoda"
+    },
+    {
+      "surface": "מצתך",
+      "gloss": "olwazwaneni lwakho"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "bayakuba"
+    },
+    {
+      "surface": "כאין",
+      "gloss": "njengento engenayo"
+    },
+    {
+      "surface": "וכאפס",
+      "gloss": "kananjalo njengesiphumo esinganto"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "amadoda"
+    },
+    {
+      "surface": "מלחמתך",
+      "gloss": "imfazwe yakho"
+    }
+  ],
+  "timestamp": "2026-09-18T11:30:47.959202685Z",
+  "model": "glm-5.3"
+}

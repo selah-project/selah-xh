@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 50:17",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 50,
+  "translation": "Kuba wena uzithiyela imalipho, wawuphosha amazwi am ngasemva kwakho.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "שנאת",
+      "gloss": "uzithiyela"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "imalipho"
+    },
+    {
+      "surface": "ותשלך",
+      "gloss": "wawuphosha"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "amazuli am"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "ngasemva kwakho"
+    }
+  ],
+  "timestamp": "2026-09-18T14:47:54.754385761Z",
+  "model": "glm-5.3"
+}

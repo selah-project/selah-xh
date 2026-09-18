@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 31:16",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 31,
+  "translation": "Ixesha lam lisezandleni zakho; ndikhulule ezandleni zincwadi zezitha zam nakwabalandeli bam.",
+  "tokens": [
+    {
+      "surface": "בידך",
+      "gloss": "lisezandleni zakho"
+    },
+    {
+      "surface": "עתתי",
+      "gloss": "Ixesha lam"
+    },
+    {
+      "surface": "הצילני",
+      "gloss": "ndikhulule"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "ezandleni"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "ezitha zam"
+    },
+    {
+      "surface": "ומרדפי",
+      "gloss": "nabalandeli bam"
+    }
+  ],
+  "timestamp": "2026-09-18T14:38:12.256249807Z",
+  "model": "glm-5.3"
+}

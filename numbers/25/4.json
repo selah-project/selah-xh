@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 25:4",
+  "book": "numbers",
+  "lang": "xh",
+  "chapter": 25,
+  "translation": "Wathi uYahwe kuMoshe: “Thabatha ⟨את⟩ onke amakhosi abantu, uze ubatshonise ⟨את⟩ phambi kuYahwe ngasemva kolanga elibonakalayo, ukuze ubuyele umsindo obukhali kaYahwe kuIsrayeli.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Wathi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "קח",
+      "gloss": "Thabatha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "onke amakhosi abantu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "onke"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "amakhosi"
+    },
+    {
+      "surface": "העם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "והוקע",
+      "gloss": "uzibambebatshonise"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ bona",
+      "marks": "onke amakhosi abantu"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "phambi kuYahwe"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "ngasemva"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "kolanga elibonakalayo"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "ukuze ubuyele"
+    },
+    {
+      "surface": "חרון",
+      "gloss": "obukhali"
+    },
+    {
+      "surface": "אף",
+      "gloss": "umsindo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kaYahwe"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "kuIsrayeli"
+    }
+  ],
+  "timestamp": "2026-09-18T07:37:53.542452249Z",
+  "model": "glm-5.3"
+}

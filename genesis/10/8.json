@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 10:8",
+  "book": "genesis",
+  "lang": "xh",
+  "chapter": 10,
+  "translation": "Kwaye uKushizala ⟨את⟩ uNimrodi; yena waqalisa ukuba yindoda yenamandla elizweni.",
+  "tokens": [
+    {
+      "surface": "וכוש",
+      "gloss": "kwaye uKush"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "izala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uNimrodi"
+    },
+    {
+      "surface": "נמרד",
+      "gloss": "uNimrodi"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yena"
+    },
+    {
+      "surface": "החל",
+      "gloss": "waqalisa"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "ukuba y"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "indoda yenamandla"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "elizweni"
+    }
+  ],
+  "timestamp": "2026-09-18T05:10:11.910003133Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezra 4:4",
+  "book": "ezra",
+  "lang": "xh",
+  "chapter": 4,
+  "translation": "Kwathi abantu bomhlaba bathe bhityisa iisandla zabantu baYuda, kwaye babakhathaza ekwakheni.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "kwathi"
+    },
+    {
+      "surface": "עם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bomhlaba"
+    },
+    {
+      "surface": "מרפים",
+      "gloss": "bathe bhityisa"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "iisandla"
+    },
+    {
+      "surface": "עם",
+      "gloss": "zabantu"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "baYuda"
+    },
+    {
+      "surface": "ומבלהים",
+      "gloss": "kwaye babakhathaza"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "babo (abantu baYuda)"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "ekwakheni"
+    }
+  ],
+  "timestamp": "2026-09-18T16:40:44.295684314Z",
+  "model": "glm-5.3"
+}

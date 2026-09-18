@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 12:20",
+  "book": "genesis",
+  "lang": "xh",
+  "chapter": 12,
+  "translation": "Wayalela ngaye uParo amadoda; basuka bamthumela ⟨את⟩ yena nomfazi wakhe, nako konke anakho.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "Wayalela"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ngaye"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "uParo"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "amadoda"
+    },
+    {
+      "surface": "וישלחו",
+      "gloss": "basuka bamthumela"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "yena (u-Avraham)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "umfazi wakhe"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "nomfazi wakhe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "konke anakho"
+    },
+    {
+      "surface": "כל",
+      "gloss": "konke"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "anakho"
+    },
+    {
+      "surface": "לו",
+      "gloss": "—"
+    }
+  ],
+  "timestamp": "2026-09-18T05:12:25.425163213Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 20:20",
+  "book": "leviticus",
+  "lang": "xh",
+  "chapter": 20,
+  "translation": "Kwaye umntu olala ⟨את⟩ umfazi kamalume wakhe, imfihlo kamalume wakhe uyivule; isono sabo basithwala; bafa bengenabantwana.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "kwaye umntu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oba-"
+    },
+    {
+      "surface": "ישכב",
+      "gloss": "olala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umfazi kamalume wakhe"
+    },
+    {
+      "surface": "דדתו",
+      "gloss": "umfazi kamalume wakhe"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "imfihlo"
+    },
+    {
+      "surface": "דדו",
+      "gloss": "kamalume wakhe"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "uyivule"
+    },
+    {
+      "surface": "חטאם",
+      "gloss": "isono sabo"
+    },
+    {
+      "surface": "ישאו",
+      "gloss": "basithwala"
+    },
+    {
+      "surface": "ערירים",
+      "gloss": "bengenabantwana"
+    },
+    {
+      "surface": "ימתו",
+      "gloss": "bafa"
+    }
+  ],
+  "timestamp": "2026-09-18T07:01:22.949409168Z",
+  "model": "glm-5.3"
+}

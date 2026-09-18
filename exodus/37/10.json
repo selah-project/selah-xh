@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 37:10",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 37,
+  "translation": "Wenze ⟨את⟩ itafile ngamaplanga eshittim: ubude bayo bubuzii-ama zimbini, ububanzi obuzii-ama zinye, ukwakha kwayo bubuzii-ama nangesiqingatha.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "wenze"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "itafile"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "itafile"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "ngamaplanga"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "eshittim"
+    },
+    {
+      "surface": "אמתים",
+      "gloss": "zii-ama zimbini"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "ubude bayo"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "zii-ama zinye"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "ububanzi"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "zii-ama"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "nangesiqingatha"
+    },
+    {
+      "surface": "קמתו",
+      "gloss": "ukwakha kwayo"
+    }
+  ],
+  "timestamp": "2026-09-18T06:26:50.060275057Z",
+  "model": "glm-5.3"
+}

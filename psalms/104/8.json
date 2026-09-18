@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 104:8",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 104,
+  "translation": "Iintaba zenyuka, iigxwala zehla, kule ndawo uzimiseleyo kuzo.",
+  "tokens": [
+    {
+      "surface": "יעלו",
+      "gloss": "zenyuka"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "iintaba"
+    },
+    {
+      "surface": "ירדו",
+      "gloss": "zehla"
+    },
+    {
+      "surface": "בקעות",
+      "gloss": "iigxwala"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "ndawo"
+    },
+    {
+      "surface": "זה",
+      "gloss": "le"
+    },
+    {
+      "surface": "יסדת",
+      "gloss": "uzimiseleyo"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kuzo"
+    }
+  ],
+  "timestamp": "2026-09-18T15:14:43.459652637Z",
+  "model": "glm-5.3"
+}

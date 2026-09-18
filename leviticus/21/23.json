@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "leviticus 21:23",
+  "book": "leviticus",
+  "lang": "xh",
+  "chapter": 21,
+  "translation": "Kodwa kuphela esiphongweni akangenwa, kwitafile yomnikelo akasondeli, kuba impazamisi ikulo; aze angadukisi ⟨את⟩ iindawo zam ezinkcwele; kuba ndinguYahwe oyingcwelelisa.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "kodwa kuphela"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e-"
+    },
+    {
+      "surface": "הפרכת",
+      "gloss": "esiphongweni"
+    },
+    {
+      "surface": "לא",
+      "gloss": "akangenwa"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "akangenwa"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "kwi-"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "itafile yomnikelo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "akasondeli"
+    },
+    {
+      "surface": "יגש",
+      "gloss": "akasondeli"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "מום",
+      "gloss": "impazamisi"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ikulo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "aze angadukisi"
+    },
+    {
+      "surface": "יחלל",
+      "gloss": "angadukisi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iindawo zam ezinkcwele"
+    },
+    {
+      "surface": "מקדשי",
+      "gloss": "iindawo zam ezinkcwele"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ndingu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מקדשם",
+      "gloss": "oyingcwelelisa"
+    }
+  ],
+  "timestamp": "2026-09-18T07:00:24.080609321Z",
+  "model": "glm-5.3"
+}

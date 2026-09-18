@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 112:5",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 112,
+  "translation": "Kulungile ⟨komntu⟩ ozele inceba, anikela; uzalisa izinto zakhe ngobulungisa.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "Kulungile"
+    },
+    {
+      "surface": "איש",
+      "gloss": "komntu"
+    },
+    {
+      "surface": "חונן",
+      "gloss": "ozele inceba"
+    },
+    {
+      "surface": "ומלוה",
+      "gloss": "anikela"
+    },
+    {
+      "surface": "יכלכל",
+      "gloss": "uzalisa"
+    },
+    {
+      "surface": "דבריו",
+      "gloss": "izinto zakhe"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "ngobulungisa"
+    }
+  ],
+  "timestamp": "2026-09-18T15:20:28.070998613Z",
+  "model": "glm-5.3"
+}

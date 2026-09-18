@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 1:12",
+  "book": "isaiah",
+  "lang": "xh",
+  "chapter": 1,
+  "translation": "Xa nisa kubonakala phambi kwam, ngubani ocele oku kuniwenu, ukunyathela iindawo zam?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "xa"
+    },
+    {
+      "surface": "תבאו",
+      "gloss": "nisa"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "ukubonakala"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ubuso bam"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ngubani"
+    },
+    {
+      "surface": "בקש",
+      "gloss": "ocele"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "oku"
+    },
+    {
+      "surface": "מידכם",
+      "gloss": "kuniwenu"
+    },
+    {
+      "surface": "רמס",
+      "gloss": "ukunyathela"
+    },
+    {
+      "surface": "חצרי",
+      "gloss": "iindawo zam"
+    }
+  ],
+  "timestamp": "2026-09-18T11:00:16.006733689Z",
+  "model": "glm-5.3"
+}

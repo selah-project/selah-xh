@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 20:4",
+  "book": "ezekiel",
+  "lang": "xh",
+  "chapter": 20,
+  "translation": "Uza kuwahlulela ⟨את⟩ yini na, unyana womntu, uza kuwahlulela yini? Bazisela ulwazi ngeenyanyeko zookhokho babo.",
+  "tokens": [
+    {
+      "surface": "התשפט",
+      "gloss": "Uza kuwahlulela"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "yini na (abahlulelwayo)"
+    },
+    {
+      "surface": "התשפוט",
+      "gloss": "uza kuwahlulela"
+    },
+    {
+      "surface": "בן",
+      "gloss": "unyana"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "womntu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "eenyanyeko zookhokho babo"
+    },
+    {
+      "surface": "תועבת",
+      "gloss": "eenyanyeko"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "zookhokho babo"
+    },
+    {
+      "surface": "הודיעם",
+      "gloss": "Bazisela ulwazi"
+    }
+  ],
+  "timestamp": "2026-09-18T13:10:25.447347801Z",
+  "model": "glm-5.3"
+}

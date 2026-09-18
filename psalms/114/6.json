@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 114:6",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 114,
+  "translation": "Iintaba, nisagxuma njengeebokhwe ezinkulu; iinduli njengezintwana zegusha?",
+  "tokens": [
+    {
+      "surface": "ההרים",
+      "gloss": "Iintaba"
+    },
+    {
+      "surface": "תרקדו",
+      "gloss": "nisagxuma"
+    },
+    {
+      "surface": "כאילים",
+      "gloss": "njengeebokhwe ezinkulu"
+    },
+    {
+      "surface": "גבעות",
+      "gloss": "iinduli"
+    },
+    {
+      "surface": "כבני",
+      "gloss": "njengezintwana"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "zegusha"
+    }
+  ],
+  "timestamp": "2026-09-18T15:20:29.712988769Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 48:7",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 48,
+  "translation": "Ukudideka kwazibamba khona, ubuhlungu njengomzalisayo.",
+  "tokens": [
+    {
+      "surface": "רעדה",
+      "gloss": "ukudideka"
+    },
+    {
+      "surface": "אחזתם",
+      "gloss": "kwazibamba"
+    },
+    {
+      "surface": "שם",
+      "gloss": "khona"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "ubuhlungu"
+    },
+    {
+      "surface": "כיולדה",
+      "gloss": "njengomzalisayo"
+    }
+  ],
+  "timestamp": "2026-09-18T14:46:53.643682837Z",
+  "model": "glm-5.3"
+}

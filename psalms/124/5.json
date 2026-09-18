@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 124:5",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 124,
+  "translation": "Ngelo xesha amanzi abuhlungu beya udla ingqamle phezu kweephefumlo zethu.",
+  "tokens": [
+    {
+      "surface": "אזי",
+      "gloss": "ngelo xesha"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "beya udla ingqamle"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu kwe-"
+    },
+    {
+      "surface": "נפשנו",
+      "gloss": "iiphefumlo zethu"
+    },
+    {
+      "surface": "המים",
+      "gloss": "amanzi"
+    },
+    {
+      "surface": "הזידונים",
+      "gloss": "abuhlungu"
+    }
+  ],
+  "timestamp": "2026-09-18T15:29:20.918088374Z",
+  "model": "glm-5.3"
+}

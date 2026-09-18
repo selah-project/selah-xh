@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 12:2",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 12,
+  "translation": "Ndikhusele, uYahwe, kuba iphelelwe ihasidi, kuba zamanyamalala amanene kubantwana bomntu.",
+  "tokens": [
+    {
+      "surface": "הושיעה",
+      "gloss": "Ndikhusele"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "iphelelwe"
+    },
+    {
+      "surface": "חסיד",
+      "gloss": "ihasidi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "פסו",
+      "gloss": "zamanyamalala"
+    },
+    {
+      "surface": "אמונים",
+      "gloss": "amanene"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "kubantwana"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "bomntu"
+    }
+  ],
+  "timestamp": "2026-09-18T14:30:46.522925641Z",
+  "model": "glm-5.3"
+}

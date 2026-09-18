@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 44:25",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 44,
+  "translation": "Kutheni ubuso bakho ubucisha, ulibele ukuhlupheka kwethu nokucindezelwa kwethu?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "Kutheni"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ubuso bakho"
+    },
+    {
+      "surface": "תסתיר",
+      "gloss": "ubucisha"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "ulibele"
+    },
+    {
+      "surface": "ענינו",
+      "gloss": "ukuhlupheka kwethu"
+    },
+    {
+      "surface": "ולחצנו",
+      "gloss": "nokucindezelwa kwethu"
+    }
+  ],
+  "timestamp": "2026-09-18T14:45:35.206935666Z",
+  "model": "glm-5.3"
+}

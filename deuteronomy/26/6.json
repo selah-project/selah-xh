@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 26:6",
+  "book": "deuteronomy",
+  "lang": "xh",
+  "chapter": 26,
+  "translation": "Abemi beMitsrayim basenza kakubi ⟨את⟩, basibetha, basibeka phezu kwethu umsebenzi owanzima.",
+  "tokens": [
+    {
+      "surface": "וירעו",
+      "gloss": "basenza kakubi"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩",
+      "marks": "thina (isiphawuli esithetha ngathi)"
+    },
+    {
+      "surface": "המצרים",
+      "gloss": "Abemi beMitsrayim"
+    },
+    {
+      "surface": "ויענונו",
+      "gloss": "basibetha"
+    },
+    {
+      "surface": "ויתנו",
+      "gloss": "basibeka"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "phezu kwethu"
+    },
+    {
+      "surface": "עבדה",
+      "gloss": "umsebenzi"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "owanzima"
+    }
+  ],
+  "timestamp": "2026-09-18T08:15:22.597246888Z",
+  "model": "glm-5.3"
+}

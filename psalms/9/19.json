@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 9:19",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 9,
+  "translation": "Kuba akayi kulibalelwa kube ngunaphakade umfi-swela; isithemba sabaswelileyo asayi kutshabalala ku kube ngunaphakade.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "לא",
+      "gloss": "akayi"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "kube ngunaphakade"
+    },
+    {
+      "surface": "ישכח",
+      "gloss": "kulibalelwa"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "umfi-swela"
+    },
+    {
+      "surface": "תקות",
+      "gloss": "isithemba"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "sabaswelileyo"
+    },
+    {
+      "surface": "תאבד",
+      "gloss": "asayi kutshabalala"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "kube ngunaphakade"
+    }
+  ],
+  "timestamp": "2026-09-18T14:31:15.075438208Z",
+  "model": "glm-5.3"
+}

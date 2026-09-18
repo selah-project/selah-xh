@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 58:4",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 58,
+  "translation": "Abakhohlakeleyo bayekene nasembeleweni; badukile naselwambele, bathetha amanga.",
+  "tokens": [
+    {
+      "surface": "זרו",
+      "gloss": "bayekene"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "Abakhohlakeleyo"
+    },
+    {
+      "surface": "מרחם",
+      "gloss": "nasembeleweni"
+    },
+    {
+      "surface": "תעו",
+      "gloss": "badukile"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "naselwambele"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "bathetha"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "amanga"
+    }
+  ],
+  "timestamp": "2026-09-18T14:52:31.482648553Z",
+  "model": "glm-5.3"
+}

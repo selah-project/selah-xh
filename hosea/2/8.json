@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "hosea 2:8",
+  "book": "hosea",
+  "lang": "xh",
+  "chapter": 2,
+  "translation": "Ngoko-ke, yabona, mna ndiza kutshixa ⟨את⟩ indlela yakhe ngeentlukwana, ndiwakhe ⟨את⟩ udonga, iindlela zakhe angazi kuzifumana.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "Ngoko-ke"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "yabona, mna"
+    },
+    {
+      "surface": "שך",
+      "gloss": "ndiza kutshixa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "indlela yakhe"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "indlela yakhe"
+    },
+    {
+      "surface": "בסירים",
+      "gloss": "ngeentlukwana"
+    },
+    {
+      "surface": "וגדרתי",
+      "gloss": "ndiwakhe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "udonga"
+    },
+    {
+      "surface": "גדרה",
+      "gloss": "udonga"
+    },
+    {
+      "surface": "ונתיבותיה",
+      "gloss": "iindlela zakhe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "angazi"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "kuzifumana"
+    }
+  ],
+  "timestamp": "2026-09-18T13:42:36.043879621Z",
+  "model": "glm-5.3"
+}

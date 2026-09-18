@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 23:10",
+  "book": "joshua",
+  "lang": "xh",
+  "chapter": 23,
+  "translation": "Umntu omnye kuni uza kuzingela iwaka; kuba nguYahwe uElohim wenu ⟨oyo⟩ olwa nini, njengoko anithethileyo kuni.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "umntu"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "omnye"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "kuni"
+    },
+    {
+      "surface": "ירדף",
+      "gloss": "uza kuzingela"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "iwaka"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "uElohim wenu"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "nguye"
+    },
+    {
+      "surface": "הנלחם",
+      "gloss": "olwa"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "nini"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "njengoko"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "anithethileyo"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kuni"
+    }
+  ],
+  "timestamp": "2026-09-18T08:46:29.345390619Z",
+  "model": "glm-5.3"
+}

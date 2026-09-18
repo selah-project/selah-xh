@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-kings 3:25",
+  "book": "1-kings",
+  "lang": "xh",
+  "chapter": 3,
+  "translation": "Wathetha inkosi: “Nitsike ⟨את⟩ umntwana ophilayo zabini, nipe isiqingatha kwenye, kwaye ⟨את⟩ isiqingatha kwenye.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wathetha"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "inkosi"
+    },
+    {
+      "surface": "גזרו",
+      "gloss": "nitsike"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umntwana ophilayo"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "umntwana"
+    },
+    {
+      "surface": "החי",
+      "gloss": "ophilayo"
+    },
+    {
+      "surface": "לשנים",
+      "gloss": "zabini"
+    },
+    {
+      "surface": "ותנו",
+      "gloss": "nipe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isiqingatha"
+    },
+    {
+      "surface": "החצי",
+      "gloss": "isiqingatha"
+    },
+    {
+      "surface": "לאחת",
+      "gloss": "kwenye"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kwaye ⟨את⟩",
+      "marks": "isiqingatha"
+    },
+    {
+      "surface": "החצי",
+      "gloss": "isiqingatha"
+    },
+    {
+      "surface": "לאחת",
+      "gloss": "kwenye"
+    }
+  ],
+  "timestamp": "2026-09-18T17:31:05.245848650Z",
+  "model": "glm-5.3"
+}

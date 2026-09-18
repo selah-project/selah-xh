@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 3:14",
+  "book": "1-kings",
+  "lang": "xh",
+  "chapter": 3,
+  "translation": "Ukuba uya kuhamba ezindleleni zam, uzigcina imithetho yam nemiyalelo yam, njengoko wahamba uDawidi ubawo, ndiza kululekisa ⟨את⟩ imihla yakho.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Ukuba"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "uya kuhamba"
+    },
+    {
+      "surface": "בדרכי",
+      "gloss": "ezindleleni zam"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "uzigcina"
+    },
+    {
+      "surface": "חקי",
+      "gloss": "imithetho yam"
+    },
+    {
+      "surface": "ומצותי",
+      "gloss": "nemiyalelo yam"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "njengoko"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "wahamba"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "uDawidi"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "ubawo yakhe"
+    },
+    {
+      "surface": "והארכתי",
+      "gloss": "ndiza kululekisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "imihla yakho"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "imihla yakho"
+    }
+  ],
+  "timestamp": "2026-09-18T10:09:27.687857218Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 21:20",
+  "book": "genesis",
+  "lang": "xh",
+  "chapter": 21,
+  "translation": "uElohim waba naye ⟨את⟩ umfana; wakhula, wahlala entlangweni, wandile, waba ngusodubula ngebhawu.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "waba"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umfana"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "naye umfana"
+    },
+    {
+      "surface": "ויגדל",
+      "gloss": "wakhula"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "wahlala"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "entlangweni"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "waba"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "wandile"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "ngusodubula ngebhawu"
+    }
+  ],
+  "timestamp": "2026-09-18T05:19:50.999181237Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-kings 13:32",
+  "book": "1-kings",
+  "lang": "xh",
+  "chapter": 13,
+  "translation": "Kuba lizwi elithi ngalo ngelizwi likaYahwe ngaphezu lealtare eliseBhayitele, nangaphezu konke iindlu zeendawo eziphakamileyo ezisezixekweni zaseShomron, ngokwenene liya kwenzeeka.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kuba"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ngokwenene"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "liya kwenzeeka"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "lizwi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "eli"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "elithi ngalo"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "ngelizwi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "likaYahwe"
+    },
+    {
+      "surface": "על",
+      "gloss": "ngaphezu"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "lealtare"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "eli"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "ese"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Bhayitele"
+    },
+    {
+      "surface": "ויהוה-placeholder-ועל",
+      "gloss": "nangaphezu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "konke"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "iindlu"
+    },
+    {
+      "surface": "הבמות",
+      "gloss": "zeendawo eziphakamileyo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ezi"
+    },
+    {
+      "surface": "בערי",
+      "gloss": "ezisezixekweni"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "zaseShomron"
+    }
+  ],
+  "timestamp": "2026-09-18T10:26:55.542454780Z",
+  "model": "glm-5.3"
+}

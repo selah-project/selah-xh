@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 124:1",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 124,
+  "translation": "Icengcelezo ezinyukelayo, likaDavide. Ukuba uYahwe wayengasisi ⟨thi⟩ kuthi, makatsho ngoku uIsraele;",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "icengcelezo"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "ezinyukelayo"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "likaDavide"
+    },
+    {
+      "surface": "לולי",
+      "gloss": "ukuba… wayengasisi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "wayengasisi ⟨thi⟩ kuthi"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "kuthi"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "makatsho"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ngoku"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "uIsraele"
+    }
+  ],
+  "timestamp": "2026-09-18T15:28:04.329408180Z",
+  "model": "glm-5.3"
+}

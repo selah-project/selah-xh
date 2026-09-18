@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 35:16",
+  "book": "numbers",
+  "lang": "xh",
+  "chapter": 35,
+  "translation": "Kodwa ukuba utyhale ngesixhobo sensesi ubulala, yena ungumbulali; umbulala makabulawe ngokungathandabuzekyo.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Kodwa ukuba"
+    },
+    {
+      "surface": "בכלי",
+      "gloss": "ngesixhobo"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "sensesi"
+    },
+    {
+      "surface": "הכהו",
+      "gloss": "utyhale"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "ubulala"
+    },
+    {
+      "surface": "רצח",
+      "gloss": "yena ungumbulali"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yena"
+    },
+    {
+      "surface": "מות",
+      "gloss": "makabulawe"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "ngokungathandabuzekyo"
+    },
+    {
+      "surface": "הרצח",
+      "gloss": "umbulala"
+    }
+  ],
+  "timestamp": "2026-09-18T07:49:27.923155753Z",
+  "model": "glm-5.3"
+}

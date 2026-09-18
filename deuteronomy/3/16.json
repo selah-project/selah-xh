@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 3:16",
+  "book": "deuteronomy",
+  "lang": "xh",
+  "chapter": 3,
+  "translation": "Kwaye kubaRubeni nakubaGadi ndanika ukusuka kwiGiladi ukuya kumlambo uArnon, phakathi komlambo nomda, ukuya kumlambo uYabboki, umda wabantwana bakaAmoni.",
+  "tokens": [
+    {
+      "surface": "ולראובני",
+      "gloss": "Kwaye kubaRubeni"
+    },
+    {
+      "surface": "ולגדי",
+      "gloss": "nakubaGadi"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "ndanika"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ukusuka"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "kwiGiladi"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ukuya"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "kumlambo"
+    },
+    {
+      "surface": "ארנן",
+      "gloss": "uArnon"
+    },
+    {
+      "surface": "תוך",
+      "gloss": "phakathi"
+    },
+    {
+      "surface": "הנחל",
+      "gloss": "komlambo"
+    },
+    {
+      "surface": "וגבל",
+      "gloss": "nomda"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ukuya"
+    },
+    {
+      "surface": "יבק",
+      "gloss": "kuYabboki"
+    },
+    {
+      "surface": "הנחל",
+      "gloss": "umlambo"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "umda"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abantwana"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "bakaAmoni"
+    }
+  ],
+  "timestamp": "2026-09-18T07:53:32.464245828Z",
+  "model": "glm-5.3"
+}

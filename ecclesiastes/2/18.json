@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ecclesiastes 2:18",
+  "book": "ecclesiastes",
+  "lang": "xh",
+  "chapter": 2,
+  "translation": "Ndaza ndazondà naye konke ukhathazo lwam olundululwayo, ok ndiligcinekileyo phantsi kelanga, okuya kundishiya ndakushiya kumntu oza kuba emva kwam.",
+  "tokens": [
+    {
+      "surface": "ושנאתי",
+      "gloss": "ndaza ndazondà"
+    },
+    {
+      "surface": "אני",
+      "gloss": "naye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "konke ukhathazo lwam"
+    },
+    {
+      "surface": "כל",
+      "gloss": "konke"
+    },
+    {
+      "surface": "עמלי",
+      "gloss": "ukhathazo lwam"
+    },
+    {
+      "surface": "שאני",
+      "gloss": "ok ndi"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "iligcinekileyo"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "phantsi"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "kelanga"
+    },
+    {
+      "surface": "שאניחנו",
+      "gloss": "okuya kundishiya"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "kumntu"
+    },
+    {
+      "surface": "שיהיה",
+      "gloss": "oza kuba"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "emva kwam"
+    }
+  ],
+  "timestamp": "2026-09-18T16:24:14.921497984Z",
+  "model": "glm-5.3"
+}

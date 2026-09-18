@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 102:10",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 102,
+  "translation": "Kuba ndityile umlotha njengesonka, ndidibanise isiselo sam nezinyembezi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kuba"
+    },
+    {
+      "surface": "אפר",
+      "gloss": "umlotha"
+    },
+    {
+      "surface": "כלחם",
+      "gloss": "njengesonka"
+    },
+    {
+      "surface": "אכלתי",
+      "gloss": "ndityile"
+    },
+    {
+      "surface": "ושקוי",
+      "gloss": "ndidibanise isiselo sam"
+    },
+    {
+      "surface": "בבכי",
+      "gloss": "nezinyembezi"
+    },
+    {
+      "surface": "מסכתי",
+      "gloss": "ndidibanise"
+    }
+  ],
+  "timestamp": "2026-09-18T15:12:55.561914263Z",
+  "model": "glm-5.3"
+}

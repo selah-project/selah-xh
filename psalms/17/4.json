@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 17:4",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 17,
+  "translation": "Ngezenzo zomntu, ngelizwi lezindebe zakho m ndizigcinile, ndithintele ezindleleni zomntu owohlakalileyo.",
+  "tokens": [
+    {
+      "surface": "לפעלות",
+      "gloss": "Ngezenzo"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "zomntu"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "ngelizwi"
+    },
+    {
+      "surface": "שפתיך",
+      "gloss": "lezindebe zakho"
+    },
+    {
+      "surface": "אני",
+      "gloss": "m"
+    },
+    {
+      "surface": "שמרתי",
+      "gloss": "ndizigcinile"
+    },
+    {
+      "surface": "ארחות",
+      "gloss": "ezindleleni"
+    },
+    {
+      "surface": "פריץ",
+      "gloss": "zomntu owohlakalileyo"
+    }
+  ],
+  "timestamp": "2026-09-18T14:32:28.599801871Z",
+  "model": "glm-5.3"
+}

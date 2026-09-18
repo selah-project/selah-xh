@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 42:3",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 42,
+  "translation": "Umphefumlo wam ukomela kuElohim, ku-El ophilileyo; nini na ndiza kufika, ndibone ubuso bukaElohim?",
+  "tokens": [
+    {
+      "surface": "צמאה",
+      "gloss": "ukomela"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "umphefumlo wam"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "kuElohim"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "ku-El"
+    },
+    {
+      "surface": "חי",
+      "gloss": "ophilileyo"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "nini na"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "ndiza kufika"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "ndibone"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ubuso"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "bukaElohim"
+    }
+  ],
+  "timestamp": "2026-09-18T14:45:29.895021007Z",
+  "model": "glm-5.3"
+}

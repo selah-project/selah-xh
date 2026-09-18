@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 80:16",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 80,
+  "translation": "kunye nesiqu somthi owutyalela yandla yakho oonene, noonyana owamenzela wamenzela womelela kuwe;",
+  "tokens": [
+    {
+      "surface": "וכנה",
+      "gloss": "kunye nesiqu somthi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "owo-"
+    },
+    {
+      "surface": "נטעה",
+      "gloss": "watyalela"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "yandla yakho oonene"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "kunye no-"
+    },
+    {
+      "surface": "בן",
+      "gloss": "unyana"
+    },
+    {
+      "surface": "אמצתה",
+      "gloss": "wamenzela womelela"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kuwe"
+    }
+  ],
+  "timestamp": "2026-09-18T17:44:27.281321739Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 62:6",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 62,
+  "translation": "Kuphela kuElohim thula, mophefumlo wam; kuba kuwo intembelo yam.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "kuphela"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "kuElohim"
+    },
+    {
+      "surface": "דומי",
+      "gloss": "thula"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mophefumlo wam"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "kuwo"
+    },
+    {
+      "surface": "תקותי",
+      "gloss": "intembelo yam"
+    }
+  ],
+  "timestamp": "2026-09-18T14:54:29.244265856Z",
+  "model": "glm-5.3"
+}

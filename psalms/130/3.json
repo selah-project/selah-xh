@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 130:3",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 130,
+  "translation": "Ukuba uzakugcina iintshebezo, wena uYah, u-Adonayi, ngubani oza kumi?",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Ukuba"
+    },
+    {
+      "surface": "עונות",
+      "gloss": "iintshebezo"
+    },
+    {
+      "surface": "תשמר",
+      "gloss": "uzakugcina"
+    },
+    {
+      "surface": "יה",
+      "gloss": "uYah"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "u-Adonayi"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ngubani"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "oza kumi"
+    }
+  ],
+  "timestamp": "2026-09-18T15:27:13.754606876Z",
+  "model": "glm-5.3"
+}

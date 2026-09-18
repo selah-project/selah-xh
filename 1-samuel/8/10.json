@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 8:10",
+  "book": "1-samuel",
+  "lang": "xh",
+  "chapter": 8,
+  "translation": "Wathetha uShemuweli ⟨את⟩ onke amagama kaYahwe kuwo abantu abacela kuye ⟨את⟩ inkosi.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wathetha"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "uShemuweli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "onke amagama"
+    },
+    {
+      "surface": "כל",
+      "gloss": "onke"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "amagama"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kaYahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuwo"
+    },
+    {
+      "surface": "העם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "השאלים",
+      "gloss": "abacela"
+    },
+    {
+      "surface": "מאתו",
+      "gloss": "kuye ⟨את⟩"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "inkosi"
+    }
+  ],
+  "timestamp": "2026-09-18T09:16:57.839552212Z",
+  "model": "glm-5.3"
+}

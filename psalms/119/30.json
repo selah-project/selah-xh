@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 119:30",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 119,
+  "translation": "Indlela yokuthembeka ndikhethile; izigwebo zakho ndizibekile phambi kwam.",
+  "tokens": [
+    {
+      "surface": "דרך",
+      "gloss": "indlela"
+    },
+    {
+      "surface": "אמונה",
+      "gloss": "yokuthembeka"
+    },
+    {
+      "surface": "בחרתי",
+      "gloss": "ndikhethile"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "izigwebo zakho"
+    },
+    {
+      "surface": "שויתי",
+      "gloss": "ndizibekile phambi kwam"
+    }
+  ],
+  "timestamp": "2026-09-18T15:23:29.848722818Z",
+  "model": "glm-5.3"
+}

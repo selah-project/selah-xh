@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 81:9",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 81,
+  "translation": "Mamela, hamba wam, ndiza kungqina kuni; Sukwakwa uYisra'eli, ukuba uzakundimamela;",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "Mamela"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "hamba wam"
+    },
+    {
+      "surface": "ואעידה",
+      "gloss": "ndiza kungqina"
+    },
+    {
+      "surface": "בך",
+      "gloss": "kuni"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "uYisra'eli"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ukuba"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "uzakundimamela"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ndimamela kum"
+    }
+  ],
+  "timestamp": "2026-09-18T15:04:06.354588828Z",
+  "model": "glm-5.3"
+}

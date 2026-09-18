@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 21:10",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 21,
+  "translation": "Uza kubamisa njengesivuthwelo somlilo ngesixa lobuso bakho; uYahwe, engcwabalweni lwakhe uza kubagudla, umlilo uza kubatya.",
+  "tokens": [
+    {
+      "surface": "תשיתמו",
+      "gloss": "uza kubamisa"
+    },
+    {
+      "surface": "כתנור",
+      "gloss": "njengesivuthwelo"
+    },
+    {
+      "surface": "אש",
+      "gloss": "somlilo"
+    },
+    {
+      "surface": "לעת",
+      "gloss": "ngesixa"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "lobuso bakho"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "באפו",
+      "gloss": "engcwabalweni lwakhe"
+    },
+    {
+      "surface": "יבלעם",
+      "gloss": "uza kubagudla"
+    },
+    {
+      "surface": "ותאכלם",
+      "gloss": "uza kubatya"
+    },
+    {
+      "surface": "אש",
+      "gloss": "umlilo"
+    }
+  ],
+  "timestamp": "2026-09-18T14:33:25.976565532Z",
+  "model": "glm-5.3"
+}

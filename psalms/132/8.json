@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 132:8",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 132,
+  "translation": "Vuka, wena uYahwe, uze kwindawo yakho yokuphumla; wena nesityebo sakho samandla.",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "Vuka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "למנוחתך",
+      "gloss": "uze kwindawo yakho yokuphumla"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "וארון",
+      "gloss": "nesityebo sakho"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "samandla"
+    }
+  ],
+  "timestamp": "2026-09-18T15:27:58.567446988Z",
+  "model": "glm-5.3"
+}

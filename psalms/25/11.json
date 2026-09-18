@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 25:11",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 25,
+  "translation": "Ngenxa yegama lakho, Yahwe, uxolele ityala lam, kuba likhulu lona.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "Ngenxa"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "yegama lakho"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "וסלחת",
+      "gloss": "uxolele"
+    },
+    {
+      "surface": "לעוני",
+      "gloss": "ityala lam"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "רב",
+      "gloss": "likhulu"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "lona"
+    }
+  ],
+  "timestamp": "2026-09-18T14:36:54.355323454Z",
+  "model": "glm-5.3"
+}

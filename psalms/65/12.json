@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 65:12",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 65,
+  "translation": "Uzenza idyunye unyaka ngobubele bakho, iindlela zakho zinonela ngobutyebi.",
+  "tokens": [
+    {
+      "surface": "עִטַּרְתָּ",
+      "gloss": "uzenza idyunye"
+    },
+    {
+      "surface": "שָׁנַת",
+      "gloss": "unyaka"
+    },
+    {
+      "surface": "טוּבָתֶךָ",
+      "gloss": "ngobubele bakho"
+    },
+    {
+      "surface": "וּמַעְגָּלֶיךָ",
+      "gloss": "iindlela zakho"
+    },
+    {
+      "surface": "יִרְעֲפוּן",
+      "gloss": "zinonela"
+    },
+    {
+      "surface": "דָּשֶׁן",
+      "gloss": "ngobutyebi"
+    }
+  ],
+  "timestamp": "2026-09-18T14:54:06.674749592Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 29:19",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 29,
+  "translation": "Uze uthabathe ⟨את⟩ inkunzi yegusha yesibini, u-Aharon nabanakwakhe babambe ⟨את⟩ izandla zabo phezu kweentloko yenkunzi yegusha.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "uze uthabathe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "inkunzi yegusha"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "inkunzi yegusha"
+    },
+    {
+      "surface": "השני",
+      "gloss": "yesibini"
+    },
+    {
+      "surface": "וסמך",
+      "gloss": "babambe"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "u-Aharon"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "nabanakwakhe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izandla zabo"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "izandla zabo"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "kweentloko"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "yenkunzi yegusha"
+    }
+  ],
+  "timestamp": "2026-09-18T06:19:03.763457981Z",
+  "model": "glm-5.3"
+}

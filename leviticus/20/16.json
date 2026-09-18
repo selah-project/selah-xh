@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 20:16",
+  "book": "leviticus",
+  "lang": "xh",
+  "chapter": 20,
+  "translation": "Kwaye umfazi xa esondela kulo naluphi na usilwanyene ukuba lilingane naye ⟨את⟩, uza kubulala ⟨את⟩ umfazi no⟨את⟩ esilwanyeni; bayakufa ngokufa; igazi labo liphele kubo.",
+  "tokens": [
+    {
+      "surface": "ואשה",
+      "gloss": "kwaye umfazi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "xa"
+    },
+    {
+      "surface": "תקרב",
+      "gloss": "esondela"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nailuphi na"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "usilwanyene"
+    },
+    {
+      "surface": "לרבעה",
+      "gloss": "ukuba lilingane naye"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "uye"
+    },
+    {
+      "surface": "והרגת",
+      "gloss": "uza kubulala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umfazi"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "umfazi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "no⟨את⟩",
+      "marks": "esilwanyeni"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "esilwanyeni"
+    },
+    {
+      "surface": "מות",
+      "gloss": "bayakufa"
+    },
+    {
+      "surface": "יומתו",
+      "gloss": "ngokufa"
+    },
+    {
+      "surface": "דמיהם",
+      "gloss": "igazi labo"
+    },
+    {
+      "surface": "בם",
+      "gloss": "liphele kubo"
+    }
+  ],
+  "timestamp": "2026-09-18T07:00:24.443922177Z",
+  "model": "glm-5.3"
+}

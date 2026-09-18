@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 84:1",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 84,
+  "translation": "Kumlawuli womculo, ngeGittithi; icule loonyana bakaKorachi.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Kumlawuli womculo"
+    },
+    {
+      "surface": "על",
+      "gloss": "nge-"
+    },
+    {
+      "surface": "הגתית",
+      "gloss": "iGittithi"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "loonyana baka-"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "uKorachi"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "icule"
+    }
+  ],
+  "timestamp": "2026-09-18T15:09:02.112010650Z",
+  "model": "glm-5.3"
+}

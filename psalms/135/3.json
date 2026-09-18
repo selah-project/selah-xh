@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 135:3",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 135,
+  "translation": "Dumani uYah, kuba uYahwe ulungile; ciclani elizweni lakhe, kuba lumnandi.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Dumani"
+    },
+    {
+      "surface": "יה",
+      "gloss": "uYah"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ulungile"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "ciclani"
+    },
+    {
+      "surface": "לשמו",
+      "gloss": "elizweni lakhe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "נעים",
+      "gloss": "lumnandi"
+    }
+  ],
+  "timestamp": "2026-09-18T15:28:47.001992981Z",
+  "model": "glm-5.3"
+}

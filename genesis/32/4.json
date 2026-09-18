@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 32:4",
+  "book": "genesis",
+  "lang": "xh",
+  "chapter": 32,
+  "translation": "uYakob wathumela abathunywa phambi kwakhe, waya ku-Esawu umtakwabo, eselwini laseSirayim, eshishini lase-Edom.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "wathumela"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "uYakob"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "abathunywa"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "phambi kwakhe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "u-Esawu"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "umtakwabo"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "eselwini"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "laseSirayim"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "eshishini"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "lase-Edom"
+    }
+  ],
+  "timestamp": "2026-09-18T05:29:58.441587817Z",
+  "model": "glm-5.3"
+}

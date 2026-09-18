@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 29:1",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 29,
+  "translation": "Kananjalo le yinto oza kuyenza kubo ukubangcwelelisa ⟨אתם⟩ ukuba babe ngababingeleli kum: thatha inkomosi enye, unyana wobubulumko, namaqanda amabini angenade.",
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "kananjalo le"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "yinto"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "azo kuyenza"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "yenza"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kubo"
+    },
+    {
+      "surface": "לקדש",
+      "gloss": "ukubangcwelelisa"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ukubangcwelelisa"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "ukuba babe ngababingeleli"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kum"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "thatha"
+    },
+    {
+      "surface": "פר",
+      "gloss": "inkomosi"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "enye"
+    },
+    {
+      "surface": "בן",
+      "gloss": "unyana"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "wobubulumko"
+    },
+    {
+      "surface": "ואילים",
+      "gloss": "namaqanda"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "amabini"
+    },
+    {
+      "surface": "תמימים",
+      "gloss": "anganade"
+    }
+  ],
+  "timestamp": "2026-09-18T06:18:56.999074028Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 14:16",
+  "book": "1-kings",
+  "lang": "xh",
+  "chapter": 14,
+  "translation": "Aze anikele ngaye ⟨את⟩ uYisrayeli ngenxa yeentlobolo zakaYarobham, ezenzayo, noko wenza uYisrayeli ukuba izidlayo.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "anikele ngaye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uYisrayeli"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "uYisrayeli"
+    },
+    {
+      "surface": "בגלל",
+      "gloss": "ngenxa ye"
+    },
+    {
+      "surface": "חטאות",
+      "gloss": "iintlobolo"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "zakaYarobham"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "eza"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "wazona"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "noko"
+    },
+    {
+      "surface": "החטיא",
+      "gloss": "wenza... ukuba izidlayo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uYisrayeli"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "uYisrayeli"
+    }
+  ],
+  "timestamp": "2026-09-18T10:28:15.474865706Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 52:10",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 52,
+  "translation": "Kananjalo mna ndingomtyu oluhlaza endlwini kaElohim; ndithembile kikhesedi kaElohim, ukuhamba ixesha nakuqhubeka.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Kananjalo mna"
+    },
+    {
+      "surface": "כזית",
+      "gloss": "ndingomtyu"
+    },
+    {
+      "surface": "רענן",
+      "gloss": "oluhlaza"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "endlwini"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "kaElohim"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "ndithembile"
+    },
+    {
+      "surface": "בחסד",
+      "gloss": "kikhesedi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "kaElohim"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ukuhamba ixesha"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "nakuqhubeka"
+    }
+  ],
+  "timestamp": "2026-09-18T14:49:46.169354323Z",
+  "model": "glm-5.3"
+}

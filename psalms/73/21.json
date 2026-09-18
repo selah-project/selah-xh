@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 73:21",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 73,
+  "translation": "Kuba intliziyo yam yavuthuza, kwaye iintso zam zadiniwa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kuba"
+    },
+    {
+      "surface": "יתחמץ",
+      "gloss": "yavuthuza"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "intliziyo yam"
+    },
+    {
+      "surface": "וכליותי",
+      "gloss": "kwaye iintso zam"
+    },
+    {
+      "surface": "אשתונן",
+      "gloss": "zadiniwa"
+    }
+  ],
+  "timestamp": "2026-09-18T14:59:53.045014487Z",
+  "model": "glm-5.3"
+}

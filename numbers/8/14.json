@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 8:14",
+  "book": "numbers",
+  "lang": "xh",
+  "chapter": 8,
+  "translation": "Uza kubahlula ⟨את⟩ amaLevi phakathi kwabantwana bakwaIsrayeli, kwaye amaLevi aza kuba ngabakaYahwe.",
+  "tokens": [
+    {
+      "surface": "והבדלת",
+      "gloss": "uza kubahlula"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amaLevi"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "amaLevi"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "phakathi kwa-"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abantwana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "bakwaIsrayeli"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "kwaye aza kuba"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ngabaka-"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "uYahwe"
+    }
+  ],
+  "timestamp": "2026-09-18T07:22:10.023401489Z",
+  "model": "glm-5.3"
+}

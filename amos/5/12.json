@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "amos 5:12",
+  "book": "amos",
+  "lang": "xh",
+  "chapter": 5,
+  "translation": "Kuba ndiyazazi amaphula-mthetho enu amaninzi, nezoni zenu ezinkulu: nithintela ulungileyo, nithabatha imali yokurhoxisa, niguqula abampesheni emnyango.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "ndiyazazi"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "amaninzi"
+    },
+    {
+      "surface": "פשעיכם",
+      "gloss": "amaphula-mthetho enu"
+    },
+    {
+      "surface": "ועצמים",
+      "gloss": "ezinkulu"
+    },
+    {
+      "surface": "חטאתיכם",
+      "gloss": "nezoni zenu"
+    },
+    {
+      "surface": "צררי",
+      "gloss": "nithintela"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ulungileyo"
+    },
+    {
+      "surface": "לקחי",
+      "gloss": "nithabatha"
+    },
+    {
+      "surface": "כפר",
+      "gloss": "imali yokurhoxisa"
+    },
+    {
+      "surface": "ואביונים",
+      "gloss": "abampesheni"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "emnyango"
+    },
+    {
+      "surface": "הטו",
+      "gloss": "niguqula"
+    }
+  ],
+  "timestamp": "2026-09-18T13:56:42.311758708Z",
+  "model": "glm-5.3"
+}

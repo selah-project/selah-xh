@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 92:6",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 92,
+  "translation": "Mangakanani amagama amakhini omsebenzi wakho, Yahwe; ziinxaxheba kakhulu iingcinga zakho.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "mangakanani"
+    },
+    {
+      "surface": "גדלו",
+      "gloss": "amakhulu kakhulu"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "omsebenzi wakho"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "kakhulu"
+    },
+    {
+      "surface": "עמקו",
+      "gloss": "ziinxaxheba"
+    },
+    {
+      "surface": "מחשבתיך",
+      "gloss": "iingcinga zakho"
+    }
+  ],
+  "timestamp": "2026-09-18T15:11:41.136338262Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 139:9",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 139,
+  "translation": "Ukuba ndithabatha amaphiko ekusa, ndihlale ekupheleni kolwandle,",
+  "tokens": [
+    {
+      "surface": "אשא",
+      "gloss": "ndithabatha"
+    },
+    {
+      "surface": "כנפי",
+      "gloss": "amaphiko"
+    },
+    {
+      "surface": "שחר",
+      "gloss": "ekusa"
+    },
+    {
+      "surface": "אשכנה",
+      "gloss": "ndihlale"
+    },
+    {
+      "surface": "באחרית",
+      "gloss": "ekupheleni"
+    },
+    {
+      "surface": "ים",
+      "gloss": "olwandle"
+    }
+  ],
+  "timestamp": "2026-09-18T15:30:39.215567158Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "leviticus 4:24",
+  "book": "leviticus",
+  "lang": "xh",
+  "chapter": 4,
+  "translation": "Wayebeka isandla sakhe phezu kwentloko yebhokhwe esilisa, wayihlaba ⟨את⟩ kwindawo apho kuhlalwa khona ⟨את⟩ umnikelo wokutshiswa phambi kaYahwe; ngumnikelo wesono.",
+  "tokens": [
+    {
+      "surface": "וסמך",
+      "gloss": "wayebeka"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "isandla sakhe"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "kwentloko"
+    },
+    {
+      "surface": "השעיר",
+      "gloss": "yebhokhwe esilisa"
+    },
+    {
+      "surface": "ושחט",
+      "gloss": "wayihlaba"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "yona (ibhokhwe)"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "kwindawo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "apho"
+    },
+    {
+      "surface": "ישחט",
+      "gloss": "kuhlalwa khona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umnikelo wokutshiswa"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "umnikelo wokutshiswa"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "phambi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kaYahwe"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "umnikelo wesono"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "nguso"
+    }
+  ],
+  "timestamp": "2026-09-18T06:38:41.091936455Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 12:4",
+  "book": "2-kings",
+  "lang": "xh",
+  "chapter": 12,
+  "translation": "Kodwa izibingelelo eziphakamileyo azisuswanga; inene, abantu babesachitha izimbiwa betshisa impepho kwezo ndawo ziphakamileyo.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "kodwa"
+    },
+    {
+      "surface": "הבמות",
+      "gloss": "izibingelelo eziphakamileyo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "azanga"
+    },
+    {
+      "surface": "סרו",
+      "gloss": "zuswa"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "inene, kube sekupheleni"
+    },
+    {
+      "surface": "העם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "מזבחים",
+      "gloss": "bechitha izimbiwa"
+    },
+    {
+      "surface": "ומקטרים",
+      "gloss": "betshisa impepho"
+    },
+    {
+      "surface": "בבמות",
+      "gloss": "kwezo ndawo ziphakamileyo"
+    }
+  ],
+  "timestamp": "2026-09-18T10:48:20.566645451Z",
+  "model": "glm-5.3"
+}

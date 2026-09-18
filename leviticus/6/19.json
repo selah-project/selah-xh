@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 6:19",
+  "book": "leviticus",
+  "lang": "xh",
+  "chapter": 6,
+  "translation": "Umkhosi ochitha ⟨את⟩ uya kuyidla; endaweni engcwele iyakutyiwa, kwisiqingathi sentente yomdibano.",
+  "tokens": [
+    {
+      "surface": "הכהן",
+      "gloss": "umkhosi"
+    },
+    {
+      "surface": "המחטא",
+      "gloss": "ochitha isono"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "isenzo yesono (uyidla)"
+    },
+    {
+      "surface": "יאכלנה",
+      "gloss": "uya kuyidla"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "endaweni"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "engcwele"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "iyakutyiwa"
+    },
+    {
+      "surface": "בחצר",
+      "gloss": "kwisiqingathi"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "sentente"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "yomdibano"
+    }
+  ],
+  "timestamp": "2026-09-18T06:35:37.475708921Z",
+  "model": "glm-5.3"
+}

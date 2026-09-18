@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "hosea 7:10",
+  "book": "hosea",
+  "lang": "xh",
+  "chapter": 7,
+  "translation": "Kwaye ukhukhozi lukaSirayeli lwaluvakalisa ubungqina ebusweni bakhe, kodwa ababuyelanga kuYahwe uElohim wabo, bamfuna ngokungabinanjalo koko kwakuseleyo.",
+  "tokens": [
+    {
+      "surface": "וענה",
+      "gloss": "lwaluvakalisa ubungqina"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "ukhukhozi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ukaSirayeli"
+    },
+    {
+      "surface": "בפניו",
+      "gloss": "ebusweni bakhe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kodwa akuna"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "ababuyelanga"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kuYahwe"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "uElohim wabo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kananjalo akuna"
+    },
+    {
+      "surface": "בקשהו",
+      "gloss": "bamfuna"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ngokungabinanjalo koko"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "kwakuseleyo"
+    }
+  ],
+  "timestamp": "2026-09-18T17:41:36.597011644Z",
+  "model": "glm-5.3"
+}

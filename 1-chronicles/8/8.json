@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 8:8",
+  "book": "1-chronicles",
+  "lang": "xh",
+  "chapter": 8,
+  "translation": "uShaharayimi wazala kwithafa laseMowabhi emva kokubashenxela bona; uHushimi noBaara abengamakhosikazi akhe.",
+  "tokens": [
+    {
+      "surface": "ושחרים",
+      "gloss": "uShaharayimi"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "wazala"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "kwithafa"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "laseMowabhi"
+    },
+    {
+      "surface": "מן",
+      "gloss": "emva"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "kokubashenxela"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "bona (uHushimi noBaara)"
+    },
+    {
+      "surface": "חושים",
+      "gloss": "uHushimi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "noBaara"
+    },
+    {
+      "surface": "בערא",
+      "gloss": "noBaara"
+    },
+    {
+      "surface": "נשיו",
+      "gloss": "abengamakhosikazi akhe"
+    }
+  ],
+  "timestamp": "2026-09-18T16:52:45.530115467Z",
+  "model": "glm-5.3"
+}

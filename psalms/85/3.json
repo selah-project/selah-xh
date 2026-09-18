@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 85:3",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 85,
+  "translation": "Wawuthwala ubugwenxa bentlalo yakho, wawuzifihla zonke iizono zabo. Selah.",
+  "tokens": [
+    {
+      "surface": "נשאת",
+      "gloss": "Wawuthwala"
+    },
+    {
+      "surface": "עון",
+      "gloss": "ubugwenxa"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "bentlalo yakho"
+    },
+    {
+      "surface": "כסית",
+      "gloss": "wawuzifihla"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zonke"
+    },
+    {
+      "surface": "חטאתם",
+      "gloss": "iizono zabo"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-18T15:07:08.339189811Z",
+  "model": "glm-5.3"
+}

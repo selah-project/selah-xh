@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "judges 2:3",
+  "book": "judges",
+  "lang": "xh",
+  "chapter": 2,
+  "translation": "Kananjalo ndithi: andisayi kubakhupha ⟨את⟩ phambi kwenu; baza kuba ngabachasi kuni, nthixo babo baza kuba yisiphazamisi kuni.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "kananjalo"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "ndathi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "andi-"
+    },
+    {
+      "surface": "אגרש",
+      "gloss": "sayi kubakhupha"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "phambi kwenu"
+    },
+    {
+      "surface": "מפניכם",
+      "gloss": "phambi kwenu"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "baza kuba"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kuni"
+    },
+    {
+      "surface": "לצדים",
+      "gloss": "ngabachasi"
+    },
+    {
+      "surface": "ואלהיהם",
+      "gloss": "nthixo babo"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "baza kuba"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kuni"
+    },
+    {
+      "surface": "למוקש",
+      "gloss": "yisiphazamisi"
+    }
+  ],
+  "timestamp": "2026-09-18T08:50:28.532193229Z",
+  "model": "glm-5.3"
+}

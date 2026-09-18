@@ -1,0 +1,113 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 18:5",
+  "book": "2-samuel",
+  "lang": "xh",
+  "chapter": 18,
+  "translation": "Inkosi yathyalela umthetho ku-Yoav, no-Avishayi, no-Ittayi, yathi: ‘Nithobele ngenxa yam ilishwa le, u-Avshalom.’ Yaye onke abantu beyiva inkosi ithatha umthetho kuzo zonke iinkosi-ndenkulu nge-Avshalom.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "yathyalela umthetho"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "inkosi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "u-Yoav"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "u-Yoav"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "u-Avishayi"
+    },
+    {
+      "surface": "אבישי",
+      "gloss": "u-Avishayi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "u-Ittayi"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "u-Ittayi"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "yathi"
+    },
+    {
+      "surface": "לאט",
+      "gloss": "nithobele"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ngenxa yam"
+    },
+    {
+      "surface": "לנער",
+      "gloss": "ilishwa le"
+    },
+    {
+      "surface": "לאבשלום",
+      "gloss": "u-Avshalom"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "yaye onke"
+    },
+    {
+      "surface": "העם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "beyiva"
+    },
+    {
+      "surface": "בצות",
+      "gloss": "ethatha umthetho"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "inkosi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izo zonke iinkosi-ndenkulu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zonke"
+    },
+    {
+      "surface": "השרים",
+      "gloss": "iinkosi-ndenkulu"
+    },
+    {
+      "surface": "על",
+      "gloss": "nge-"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "luthe"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "u-Avshalom"
+    }
+  ],
+  "timestamp": "2026-09-18T09:58:42.871528258Z",
+  "model": "glm-5.3"
+}

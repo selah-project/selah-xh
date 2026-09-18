@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 44:13",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 44,
+  "translation": "Uthengisa abantu bakho ngaphandle kutyebi, akwenzanga ⟨nzuzo⟩ ngamaxabiso abo.",
+  "tokens": [
+    {
+      "surface": "תמכר",
+      "gloss": "uthengisa"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "abantu bakho"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "ngaphandle"
+    },
+    {
+      "surface": "הון",
+      "gloss": "kutyebi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "akwenzanga"
+    },
+    {
+      "surface": "רבית",
+      "gloss": "⟨nzuzo⟩"
+    },
+    {
+      "surface": "במחיריהם",
+      "gloss": "ngamaxabiso abo"
+    }
+  ],
+  "timestamp": "2026-09-18T14:46:15.056489293Z",
+  "model": "glm-5.3"
+}

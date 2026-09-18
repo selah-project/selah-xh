@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 3:3",
+  "book": "isaiah",
+  "lang": "xh",
+  "chapter": 3,
+  "translation": "inkosi yamashumi amahlanu, nowamkelekileyo ngobuso, nomcebisi, nomhlakaniphi wabagcisi, nolwazi lokutshefumla.",
+  "tokens": [
+    {
+      "surface": "שר",
+      "gloss": "inkosi"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "yamashumi amahlanu"
+    },
+    {
+      "surface": "ונשוא",
+      "gloss": "nowamkelekileyo"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "ngobuso"
+    },
+    {
+      "surface": "ויועץ",
+      "gloss": "nomcebisi"
+    },
+    {
+      "surface": "וחכם",
+      "gloss": "nomhlakaniphi"
+    },
+    {
+      "surface": "חרשים",
+      "gloss": "wabagcisi"
+    },
+    {
+      "surface": "ונבון",
+      "gloss": "nokrelekle"
+    },
+    {
+      "surface": "לחש",
+      "gloss": "lokutshefumla"
+    }
+  ],
+  "timestamp": "2026-09-18T11:02:43.792565993Z",
+  "model": "glm-5.3"
+}

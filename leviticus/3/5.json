@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 3:5",
+  "book": "leviticus",
+  "lang": "xh",
+  "chapter": 3,
+  "translation": "Kwaye oonyana baka-Aharon baya kuyitshisa incasa yayo ⟨את⟩ e-altareni, phezu kwe-olah elo phezu kwiinkuni ezilo phezu komlilo — isento somlilo, iphunga elihlaziywayo kuYahwe.",
+  "tokens": [
+    {
+      "surface": "והקטירו",
+      "gloss": "baya kuyitshisa incasa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "incasa yayo"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oonyana"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "ka-Aharon"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "e-altareni"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "kwe-olah"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "elo"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "kwiinkuni"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ezilo"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu"
+    },
+    {
+      "surface": "האש",
+      "gloss": "komlilo"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "isento somlilo"
+    },
+    {
+      "surface": "ריח",
+      "gloss": "iphunga"
+    },
+    {
+      "surface": "ניחח",
+      "gloss": "elihlaziywayo"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kuYahwe"
+    }
+  ],
+  "timestamp": "2026-09-18T06:33:49.830596422Z",
+  "model": "glm-5.3"
+}

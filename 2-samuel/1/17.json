@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-samuel 1:17",
+  "book": "2-samuel",
+  "lang": "xh",
+  "chapter": 1,
+  "translation": "UDawidi walila ngeli lila ⟨את⟩ elidumileyo ngakumbi, ngokushawulayo nakwinkunzi yakhe uYehonathani unyana wakhe.",
+  "tokens": [
+    {
+      "surface": "ויקנן",
+      "gloss": "walila ngeli lila"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "uDawidi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "elidumileyo ngakumbi"
+    },
+    {
+      "surface": "הקינה",
+      "gloss": "elidumileyo ngakumbi"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "eli"
+    },
+    {
+      "surface": "על",
+      "gloss": "nga-"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "uShawuli"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "naku-"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "uYehonathani"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "unyana wakhe"
+    }
+  ],
+  "timestamp": "2026-09-18T09:43:17.456865257Z",
+  "model": "glm-5.3"
+}

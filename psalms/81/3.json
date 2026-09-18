@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 81:3",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 81,
+  "translation": "Phakamisani iculo, thathani idram, iharpu emnandi kunye nizeze.",
+  "tokens": [
+    {
+      "surface": "שאו",
+      "gloss": "Phakamisani"
+    },
+    {
+      "surface": "זמרה",
+      "gloss": "iculo"
+    },
+    {
+      "surface": "ותנו",
+      "gloss": "thathani"
+    },
+    {
+      "surface": "תף",
+      "gloss": "idram"
+    },
+    {
+      "surface": "כנור",
+      "gloss": "iharpu"
+    },
+    {
+      "surface": "נעים",
+      "gloss": "emnandi"
+    },
+    {
+      "surface": "עם",
+      "gloss": "kunye"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "nizeze"
+    }
+  ],
+  "timestamp": "2026-09-18T15:05:09.852523683Z",
+  "model": "glm-5.3"
+}

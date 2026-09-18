@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 104:20",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 104,
+  "translation": "Ubehla ubumnyama, kwaye kubakho ubusuku; kulo kuzula zonke izilwanyana zehlathi.",
+  "tokens": [
+    {
+      "surface": "תשת",
+      "gloss": "Ubehla"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "ubumnyama"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "kubakho"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "ubusuku"
+    },
+    {
+      "surface": "בו",
+      "gloss": "kulo"
+    },
+    {
+      "surface": "תרמש",
+      "gloss": "kuzula"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zonke"
+    },
+    {
+      "surface": "חיתו",
+      "gloss": "izilwanyana"
+    },
+    {
+      "surface": "יער",
+      "gloss": "zehlathi"
+    }
+  ],
+  "timestamp": "2026-09-18T15:15:16.172734855Z",
+  "model": "glm-5.3"
+}

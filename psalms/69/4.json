@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 69:4",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 69,
+  "translation": "Ndiphelwe amandla kukukruga kolwimi lwa⟨m⟩; umqala wam ubholorile; amehlo am aphelelile, ndilindele uElohim wam.",
+  "tokens": [
+    {
+      "surface": "יגעתי",
+      "gloss": "Ndiphelwe amandla"
+    },
+    {
+      "surface": "בקראי",
+      "gloss": "kukukruga kolwimi lwa⟨m⟩"
+    },
+    {
+      "surface": "נחר",
+      "gloss": "ubholorile (ubandayo, ushisiweyo)"
+    },
+    {
+      "surface": "גרוני",
+      "gloss": "umqala wam"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "aphelelile"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "amehlo am"
+    },
+    {
+      "surface": "מיחל",
+      "gloss": "ndilindele"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "uElohim wam"
+    }
+  ],
+  "timestamp": "2026-09-18T14:57:43.589333717Z",
+  "model": "glm-5.3"
+}

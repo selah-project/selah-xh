@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 65:9",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 65,
+  "translation": "Baloyika abemi beendawo ezikude ngeempawu zakho; ungenisa uvuyo ezindleleni zokuphuma kokusa nakudumba, ziyacula ngeenthokozo.",
+  "tokens": [
+    {
+      "surface": "וייראו",
+      "gloss": "baloyika"
+    },
+    {
+      "surface": "יֹשְׁבֵי",
+      "gloss": "abemi"
+    },
+    {
+      "surface": "קְצָוֺת",
+      "gloss": "iindawo ezikude"
+    },
+    {
+      "surface": "מֵאוֹתֹתֶיךָ",
+      "gloss": "ngeempawu zakho"
+    },
+    {
+      "surface": "מוֹצָאֵי",
+      "gloss": "iindlela zokuphuma"
+    },
+    {
+      "surface": "בֹקֶר",
+      "gloss": "kokusa"
+    },
+    {
+      "surface": "וָעֶרֶב",
+      "gloss": "nakudumba"
+    },
+    {
+      "surface": "תַּרְנִין",
+      "gloss": "ziyacula ngeenthokozo"
+    }
+  ],
+  "timestamp": "2026-09-18T14:54:06.674140107Z",
+  "model": "glm-5.3"
+}

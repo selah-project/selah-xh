@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "2-samuel 13:27",
+  "book": "2-samuel",
+  "lang": "xh",
+  "chapter": 13,
+  "translation": "Waza u-Avshalom wamnyanzela, wathumela ⟨את⟩ naye u-Amnon, ne-⟨את⟩ onke oonyana benkosi.",
+  "tokens": [
+    {
+      "surface": "ויפרץ",
+      "gloss": "wamnyanzela"
+    },
+    {
+      "surface": "בו",
+      "gloss": "yena"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "u-Avshalom"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "wathumela"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ naye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "u-Amnon"
+    },
+    {
+      "surface": "אמנון",
+      "gloss": "u-Amnon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kunye ne-⟨את⟩",
+      "marks": "onke oonyana benkosi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "onke"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oonyana"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "benkosi"
+    }
+  ],
+  "timestamp": "2026-09-18T09:54:24.916811216Z",
+  "model": "glm-5.3"
+}

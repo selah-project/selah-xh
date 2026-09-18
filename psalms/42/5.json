@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 42:5",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 42,
+  "translation": "Ezi ndiyazikhumbula, ndichitha inefeshi yam phakathi kwam; kuba bendihamba nenqwelo, ndisiqhuba abantu de sifike endlwini kaElohim, ngesandi leenthokozo nokubulela, nenqwelo yabantu egubuzelela umthendeleko.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Ezi"
+    },
+    {
+      "surface": "אזכרה",
+      "gloss": "ndiyazikhumbula"
+    },
+    {
+      "surface": "ואשפכה",
+      "gloss": "ndichitha"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "phakathi kwam"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "inefeshi yam"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "אעבר",
+      "gloss": "bendihamba"
+    },
+    {
+      "surface": "בסך",
+      "gloss": "nenqwelo"
+    },
+    {
+      "surface": "אדדם",
+      "gloss": "ndisiqhuba abantu"
+    },
+    {
+      "surface": "עד",
+      "gloss": "de"
+    },
+    {
+      "surface": "בית",
+      "gloss": "endlwini"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "kaElohim"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "ngesandi"
+    },
+    {
+      "surface": "רנה",
+      "gloss": "leenthokozo ezivakalisa"
+    },
+    {
+      "surface": "ותודה",
+      "gloss": "nokubulela"
+    },
+    {
+      "surface": "המון",
+      "gloss": "nenqwelo yabantu"
+    },
+    {
+      "surface": "חוגג",
+      "gloss": "egubuzelela umthendeleko"
+    }
+  ],
+  "timestamp": "2026-09-18T14:45:53.083637296Z",
+  "model": "glm-5.3"
+}

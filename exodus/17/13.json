@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 17:13",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 17,
+  "translation": "Woyisa uYehoshuwa ⟨את⟩ i-Amaleki ⟨את⟩ nabantu bakhe ngomlomo welipa.",
+  "tokens": [
+    {
+      "surface": "ויחלש",
+      "gloss": "woyisa"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "uYehoshuwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i-Amaleki"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "i-Amaleki"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "abantu bakhe"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "abantu bakhe"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "ngomlomo"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "welipa"
+    }
+  ],
+  "timestamp": "2026-09-18T06:03:40.738766696Z",
+  "model": "glm-5.3"
+}

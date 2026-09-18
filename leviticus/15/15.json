@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 15:15",
+  "book": "leviticus",
+  "lang": "xh",
+  "chapter": 15,
+  "translation": "Umpristi uza kuzenzela ⟨את⟩ ezimbini: enye isithsibo sesono, enye isithsibo sotshiso; umpristi uza kumxolela phambi koYahwe ngenxa yomthombo wakhe.",
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "uza kuzenzela"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "iintlazi\/amajube ezimbini"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "umpristi"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "enye"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "isithsibo sesono"
+    },
+    {
+      "surface": "והאחד",
+      "gloss": "enye"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "isithsibo sotshiso"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "uza kumxolela"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "yena"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "umpristi"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "phambi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kuYahwe"
+    },
+    {
+      "surface": "מזובו",
+      "gloss": "ngenxa yomthombo wakhe"
+    }
+  ],
+  "timestamp": "2026-09-18T06:55:58.688269755Z",
+  "model": "glm-5.3"
+}

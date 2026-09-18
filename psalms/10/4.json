@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 10:4",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 10,
+  "translation": "Isigxebengu, ngokuphakama kobuso bobulo, akafuni ukufuna; “Akakho uElohim” — yileyo zonke iindlela ezicwangcisiweyo zakhe.",
+  "tokens": [
+    {
+      "surface": "רשע",
+      "gloss": "Isigxebengu"
+    },
+    {
+      "surface": "כגבה",
+      "gloss": "ngokuphakama"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "kobuso bobulo"
+    },
+    {
+      "surface": "בל",
+      "gloss": "akafuni"
+    },
+    {
+      "surface": "ידרש",
+      "gloss": "ukufuna"
+    },
+    {
+      "surface": "אין",
+      "gloss": "Akakho"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zonke"
+    },
+    {
+      "surface": "מזמותיו",
+      "gloss": "iindlela ezicwangcisiweyo zakhe"
+    }
+  ],
+  "timestamp": "2026-09-18T14:32:19.934942784Z",
+  "model": "glm-5.3"
+}

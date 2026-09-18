@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 72:2",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 72,
+  "translation": "Agwebe abantu bakho ngokulunga, nabaswel' amehl' akho ngesigwebo.",
+  "tokens": [
+    {
+      "surface": "ידין",
+      "gloss": "agwebe"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "abantu bakho"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "ngokulunga"
+    },
+    {
+      "surface": "וענייך",
+      "gloss": "nabaswelayo bakho"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "ngesigwebo"
+    }
+  ],
+  "timestamp": "2026-09-18T14:58:51.651618852Z",
+  "model": "glm-5.3"
+}

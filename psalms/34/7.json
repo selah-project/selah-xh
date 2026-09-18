@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 34:7",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 34,
+  "translation": "Lo mhlwempu wabiza, uYahwe weva, wamsindisa kuzo zonke iingxaki zakhe.",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "Lo"
+    },
+    {
+      "surface": "עני",
+      "gloss": "mhlwempu"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "wabiza"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "weva"
+    },
+    {
+      "surface": "ומכל",
+      "gloss": "kuzo zonke"
+    },
+    {
+      "surface": "צרותיו",
+      "gloss": "iingxaki zakhe"
+    },
+    {
+      "surface": "הושיעו",
+      "gloss": "wamsindisa"
+    }
+  ],
+  "timestamp": "2026-09-18T14:39:56.613593281Z",
+  "model": "glm-5.3"
+}

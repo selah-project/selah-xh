@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 6:5",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 6,
+  "translation": "Kananjalo mna ndivile ⟨את⟩ ukukhalazela kwabantwana bakaSirayeli, abo iMitsrayim ibenzela ngobunzungu; ndakhumbula ⟨את⟩ umnqophiso wam.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "Kananjalo"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mna"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "ndivile"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ukukhalazela"
+    },
+    {
+      "surface": "נאקת",
+      "gloss": "ukukhalazela"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abantwana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "bakaSirayeli"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "abo"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "iMitsrayim"
+    },
+    {
+      "surface": "מעבדים",
+      "gloss": "ibenzela"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩"
+    },
+    {
+      "surface": "ואזכר",
+      "gloss": "ndakhumbula"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umnqophiso wam"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "umnqophiso wam"
+    }
+  ],
+  "timestamp": "2026-09-18T05:53:16.997168041Z",
+  "model": "glm-5.3"
+}

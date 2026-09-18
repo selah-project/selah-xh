@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 113:8",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 113,
+  "translation": "Ukuze abahlale phakathi koosilumkoo, phakathi koosilumkoo besizwe sakhe.",
+  "tokens": [
+    {
+      "surface": "להושיבי",
+      "gloss": "Ukuze abahlale"
+    },
+    {
+      "surface": "עם",
+      "gloss": "phakathi kwa"
+    },
+    {
+      "surface": "נדיבים",
+      "gloss": "oosilumkoo"
+    },
+    {
+      "surface": "עם",
+      "gloss": "phakathi kwa"
+    },
+    {
+      "surface": "נדיבי",
+      "gloss": "oosilumkoo"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "besizwe sakhe"
+    }
+  ],
+  "timestamp": "2026-09-18T15:19:34.978140717Z",
+  "model": "glm-5.3"
+}

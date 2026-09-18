@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 4:1",
+  "book": "deuteronomy",
+  "lang": "xh",
+  "chapter": 4,
+  "translation": "Kwaye ngoku, Yisra'eli, thabela kwiiqingqo nakwiigweba endinifundisa ukuzenza zonke, ukuze niphile, ningene nithabathe ⟨את⟩ umhlaba uYahwe uElohim woobawo enu ubunike wona.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "kwaye ngoku"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'eli"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "thabela"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "iiqingqo"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "nakwi"
+    },
+    {
+      "surface": "המשפטים",
+      "gloss": "iigweba"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "endinifundisa"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "mna"
+    },
+    {
+      "surface": "מלמד",
+      "gloss": "-nifundisa"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ ni-"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "ukuzenza"
+    },
+    {
+      "surface": "למען",
+      "gloss": "ukuze"
+    },
+    {
+      "surface": "תחיו",
+      "gloss": "niphile"
+    },
+    {
+      "surface": "ובאתם",
+      "gloss": "ningene"
+    },
+    {
+      "surface": "וירשתם",
+      "gloss": "nithabathe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umhlaba"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "umhlaba"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "elo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "אבתיכם",
+      "gloss": "woobawo enu"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ubunike"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "nona"
+    }
+  ],
+  "timestamp": "2026-09-18T07:57:05.381271895Z",
+  "model": "glm-5.3"
+}

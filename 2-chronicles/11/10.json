@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 11:10",
+  "book": "2-chronicles",
+  "lang": "xh",
+  "chapter": 11,
+  "translation": "kwaye ⟨את⟩ iTsorah, kwaye ⟨את⟩ iAyalon, kwaye ⟨את⟩ iKhebroni, eziseYudha nakwiBhenyamin — iindawo ezisenzelwe ukuzikhusela.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "kwaye ⟨את⟩",
+      "marks": "iTsorah"
+    },
+    {
+      "surface": "צרעה",
+      "gloss": "iTsorah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kwaye ⟨את⟩",
+      "marks": "iAyalon"
+    },
+    {
+      "surface": "אילון",
+      "gloss": "iAyalon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kwaye ⟨את⟩",
+      "marks": "iKhebroni"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "iKhebroni"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ezi"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "eziseYudha"
+    },
+    {
+      "surface": "ובבנימן",
+      "gloss": "nakwiBhenyamin"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "iindawo"
+    },
+    {
+      "surface": "מצרות",
+      "gloss": "ezisenzelwe ukuzikhusela"
+    }
+  ],
+  "timestamp": "2026-09-18T17:05:12.678922949Z",
+  "model": "glm-5.3"
+}

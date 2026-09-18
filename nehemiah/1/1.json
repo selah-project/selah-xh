@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "nehemiah 1:1",
+  "book": "nehemiah",
+  "lang": "xh",
+  "chapter": 1,
+  "translation": "Amazwi kaNehemya unyana kaKhakhaliya. Kwenzeka ewenyangeni iKhisilevu, ngowamashumi amabini umnyaka, mna ndandikwingqaba iShushan.",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "amazwi"
+    },
+    {
+      "surface": "נחמיה",
+      "gloss": "kaNehemya"
+    },
+    {
+      "surface": "בן",
+      "gloss": "unyana"
+    },
+    {
+      "surface": "חכליה",
+      "gloss": "kaKhakhaliya"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "kwenzeka"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "ewenyangeni"
+    },
+    {
+      "surface": "כסלו",
+      "gloss": "iKhisilevu"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "umnyaka"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "owamashumi amabini"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "mna"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "ndandikwi-"
+    },
+    {
+      "surface": "בשושן",
+      "gloss": "iShushan"
+    },
+    {
+      "surface": "הבירה",
+      "gloss": "ingqaba"
+    }
+  ],
+  "timestamp": "2026-09-18T16:43:57.791665724Z",
+  "model": "glm-5.3"
+}

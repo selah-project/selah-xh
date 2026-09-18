@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 39:24",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 39,
+  "translation": "Benza emaphethini esiphuku iigrana zobuhlaza-tsheleti, nembhalasi, netolo ebomvu, zonke ezilotshiweyo.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "Benza"
+    },
+    {
+      "surface": "על",
+      "gloss": "kwi"
+    },
+    {
+      "surface": "שולי",
+      "gloss": "emaphethini"
+    },
+    {
+      "surface": "המעיל",
+      "gloss": "esiphuku"
+    },
+    {
+      "surface": "רמוני",
+      "gloss": "iigrana"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "zobuhlaza-tsheleti"
+    },
+    {
+      "surface": "וארגמן",
+      "gloss": "nembhalasi"
+    },
+    {
+      "surface": "ותולעת",
+      "gloss": "netolo"
+    },
+    {
+      "surface": "שני",
+      "gloss": "ebomvu"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "ezilotshiweyo"
+    }
+  ],
+  "timestamp": "2026-09-18T06:31:47.965681569Z",
+  "model": "glm-5.3"
+}

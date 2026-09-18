@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 7:7",
+  "book": "isaiah",
+  "lang": "xh",
+  "chapter": 7,
+  "translation": "Usho u-Adonayi uYahwe: akusimi nto, akusayi kubakho.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Usho"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "usho"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "u-Adonayi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hayi"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "akusimi nto"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kwaye akusayi"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "kubakho"
+    }
+  ],
+  "timestamp": "2026-09-18T11:04:13.870771964Z",
+  "model": "glm-5.3"
+}

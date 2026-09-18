@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "zechariah 5:8",
+  "book": "zechariah",
+  "lang": "xh",
+  "chapter": 5,
+  "translation": "Wathi: “Le yinkohlakalo.” Wayiphonsa ⟨yena⟩ phakathi kweyifa, waphonsa ⟨את⟩ ilitye letyhali emlonyeni wayo.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "le"
+    },
+    {
+      "surface": "הרשעה",
+      "gloss": "yinkohlakalo"
+    },
+    {
+      "surface": "וישלך",
+      "gloss": "wayiphonsa"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "yena (umfazi)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "phakathi"
+    },
+    {
+      "surface": "תוך",
+      "gloss": "ku"
+    },
+    {
+      "surface": "האיפה",
+      "gloss": "weyifa"
+    },
+    {
+      "surface": "וישלך",
+      "gloss": "waphonsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ilitye letyhali"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "ilitye"
+    },
+    {
+      "surface": "העפרת",
+      "gloss": "letyhali"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "פיה",
+      "gloss": "mlonyeni wayo"
+    }
+  ],
+  "timestamp": "2026-09-18T14:18:47.860450820Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 29:10",
+  "book": "isaiah",
+  "lang": "xh",
+  "chapter": 29,
+  "translation": "Kuba uYahwe wathela phezu kwenu umoya wokulala okuzolileyo, waza wavalile ⟨את⟩ amehlo enu — ⟨את⟩ iiprofeti, nooziqalela zenu, ababoni, wazigquma.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kuba"
+    },
+    {
+      "surface": "נסך",
+      "gloss": "wathela"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "phezu kwenu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "umoya"
+    },
+    {
+      "surface": "תרדמה",
+      "gloss": "wokulala okuzolileyo"
+    },
+    {
+      "surface": "ויעצם",
+      "gloss": "wavalile"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amehlo enu"
+    },
+    {
+      "surface": "עיניכם",
+      "gloss": "amehlo enu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iiprofeti"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "iiprofeti"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ooziqalela zenu"
+    },
+    {
+      "surface": "ראשיכם",
+      "gloss": "ooziqalela zenu"
+    },
+    {
+      "surface": "החזים",
+      "gloss": "ababoni"
+    },
+    {
+      "surface": "כסה",
+      "gloss": "wazigquma"
+    }
+  ],
+  "timestamp": "2026-09-18T11:23:10.932476027Z",
+  "model": "glm-5.3"
+}

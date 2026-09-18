@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezra 3:10",
+  "book": "ezra",
+  "lang": "xh",
+  "chapter": 3,
+  "translation": "Kwathi abakhi bemisa ⟨את⟩ isiseko setempile kaYahwe, babeka abapristi, begqokileyo ngeethrampeti, namaLevi oonyana bakaAsaf ngeetsimbali, ukudumisa ⟨את⟩ uYahwe ngezandla zikaDawidi ukumkani wakwaIsrayeli.",
+  "tokens": [
+    {
+      "surface": "ויסדו",
+      "gloss": "bemisa isiseko"
+    },
+    {
+      "surface": "הבנים",
+      "gloss": "abakhi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isiseko setempile"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "tempile"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kaYahwe"
+    },
+    {
+      "surface": "ויעמידו",
+      "gloss": "babeka"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "abapristi"
+    },
+    {
+      "surface": "מלבשים",
+      "gloss": "begqokileyo"
+    },
+    {
+      "surface": "בחצצרות",
+      "gloss": "ngeethrampeti"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "namaLevi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oonyana"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "bakaAsaf"
+    },
+    {
+      "surface": "במצלתים",
+      "gloss": "ngeetsimbali"
+    },
+    {
+      "surface": "להלל",
+      "gloss": "ukudumisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uYahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "על",
+      "gloss": "nge-"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "zandla zika-"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "uDawidi"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ukumkani"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "wakwaIsrayeli"
+    }
+  ],
+  "timestamp": "2026-09-18T16:41:29.542076639Z",
+  "model": "glm-5.3"
+}

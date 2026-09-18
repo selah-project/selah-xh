@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 79:4",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 79,
+  "translation": "Sibe sisithuko kumakhelwane ethu, ukuhlekiswa nentshutshiso kumajikelezethu.",
+  "tokens": [
+    {
+      "surface": "היינו",
+      "gloss": "Sibe"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "sisithuko"
+    },
+    {
+      "surface": "לשכנינו",
+      "gloss": "kumakhelwane ethu"
+    },
+    {
+      "surface": "לעג",
+      "gloss": "ukuhlekiswa"
+    },
+    {
+      "surface": "וקלס",
+      "gloss": "nentshutshiso"
+    },
+    {
+      "surface": "לסביבותינו",
+      "gloss": "kumajikelezethu"
+    }
+  ],
+  "timestamp": "2026-09-18T15:06:08.834684909Z",
+  "model": "glm-5.3"
+}

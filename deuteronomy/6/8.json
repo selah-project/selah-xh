@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 6:8",
+  "book": "deuteronomy",
+  "lang": "xh",
+  "chapter": 6,
+  "translation": "Uza kuzibopha njengophawu esandleni sakho, zibe ngemiqamelo phakathi kwamehlo akho.",
+  "tokens": [
+    {
+      "surface": "וקשרתם",
+      "gloss": "uza kuzibopha"
+    },
+    {
+      "surface": "לאות",
+      "gloss": "njengophawu"
+    },
+    {
+      "surface": "על",
+      "gloss": "e-"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "sandleni sakho"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "zibe"
+    },
+    {
+      "surface": "לטטפת",
+      "gloss": "ngemiqamelo"
+    },
+    {
+      "surface": "בין",
+      "gloss": "phakathi kwa-"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "mehlo akho"
+    }
+  ],
+  "timestamp": "2026-09-18T07:56:41.247617007Z",
+  "model": "glm-5.3"
+}

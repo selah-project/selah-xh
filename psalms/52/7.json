@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 52:7",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 52,
+  "translation": "Nakanjani ngu-El oza kukutshabalalisa ngonaphakade; uza kukubamba, akukhuphe etendeni lakho, nakhuphele imizi yakho emhlabeni wabaphilayo. Selah.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "nakanjani"
+    },
+    {
+      "surface": "אל",
+      "gloss": "u-El"
+    },
+    {
+      "surface": "יתצך",
+      "gloss": "uza kukutshabalalisa"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "ngonaphakade"
+    },
+    {
+      "surface": "יחתך",
+      "gloss": "uza kukubamba"
+    },
+    {
+      "surface": "ויסחך",
+      "gloss": "akukhuphe"
+    },
+    {
+      "surface": "מאהל",
+      "gloss": "etendeni"
+    },
+    {
+      "surface": "ושרשך",
+      "gloss": "nakhuphele imizi yakho"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "emhlabeni"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "wabaphilayo"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-18T14:51:00.375178445Z",
+  "model": "glm-5.3"
+}

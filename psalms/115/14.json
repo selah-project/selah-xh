@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 115:14",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 115,
+  "translation": "uYahwe wongezelele phezu kwenu, phezu kwenu, nakwiintwana zenu.",
+  "tokens": [
+    {
+      "surface": "יסף",
+      "gloss": "wongezelele"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "phezu kwenu"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "phezu kwenu"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "nakwi"
+    },
+    {
+      "surface": "בניכם",
+      "gloss": "abantwana benu"
+    }
+  ],
+  "timestamp": "2026-09-18T15:22:10.126994230Z",
+  "model": "glm-5.3"
+}

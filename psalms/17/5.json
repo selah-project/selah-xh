@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 17:5",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 17,
+  "translation": "Amanyathelo am azinze kwiindlela zakho; iinyawo zam azukutyheleka.",
+  "tokens": [
+    {
+      "surface": "תמך",
+      "gloss": "azinze"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "amanyathelo am"
+    },
+    {
+      "surface": "במעגלותיך",
+      "gloss": "kwiindlela zakho"
+    },
+    {
+      "surface": "בל",
+      "gloss": "azi-"
+    },
+    {
+      "surface": "נמוטו",
+      "gloss": "tyheleka"
+    },
+    {
+      "surface": "פעמי",
+      "gloss": "iinyawo zam"
+    }
+  ],
+  "timestamp": "2026-09-18T14:31:43.248013857Z",
+  "model": "glm-5.3"
+}

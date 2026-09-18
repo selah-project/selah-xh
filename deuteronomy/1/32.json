@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "deuteronomy 1:32",
+  "book": "deuteronomy",
+  "lang": "xh",
+  "chapter": 1,
+  "translation": "Kodwa kule nto anikholwa kuYahwe uElohim wenu.",
+  "tokens": [
+    {
+      "surface": "ובדבר",
+      "gloss": "kule nto"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "le"
+    },
+    {
+      "surface": "אינכם",
+      "gloss": "ani-"
+    },
+    {
+      "surface": "מאמינם",
+      "gloss": "nikholwa"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "kuYahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "uElohim wenu"
+    }
+  ],
+  "timestamp": "2026-09-18T07:52:02.505019564Z",
+  "model": "glm-5.3"
+}

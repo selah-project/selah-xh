@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 1:2",
+  "book": "deuteronomy",
+  "lang": "xh",
+  "chapter": 1,
+  "translation": "Mihla elishumi elinanye ukusuka kuKhorove, ngendlela yentaba yaseSeiri, ukusa kuKadeshi-Bharneya.",
+  "tokens": [
+    {
+      "surface": "אחד",
+      "gloss": "elinye"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "elishumi"
+    },
+    {
+      "surface": "יום",
+      "gloss": "imihla"
+    },
+    {
+      "surface": "מחרב",
+      "gloss": "ukusuka kuKhorove"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "ngendlela"
+    },
+    {
+      "surface": "הר",
+      "gloss": "yentaba"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "yaseSeiri"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ukusa"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "kuKadeshi"
+    },
+    {
+      "surface": "ברנע",
+      "gloss": "Bharneya"
+    }
+  ],
+  "timestamp": "2026-09-18T07:55:39.470873381Z",
+  "model": "glm-5.3"
+}

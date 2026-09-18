@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 20:4",
+  "book": "deuteronomy",
+  "lang": "xh",
+  "chapter": 20,
+  "translation": "Kuba uYahwe uElohim wenu nguye ehamba kunye nani ukulwela nani ngokuchasene neenzakalo zenu, ukunisindisa ⟨את⟩ nina.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kuba"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "uElohim wenu"
+    },
+    {
+      "surface": "ההלך",
+      "gloss": "nguye ehamba"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "kunye nani"
+    },
+    {
+      "surface": "להלחם",
+      "gloss": "ukulwela"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "nani"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ngokuchasene"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "neenzakalo zenu"
+    },
+    {
+      "surface": "להושיע",
+      "gloss": "ukunisindisa"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "nina"
+    }
+  ],
+  "timestamp": "2026-09-18T08:13:01.121608668Z",
+  "model": "glm-5.3"
+}

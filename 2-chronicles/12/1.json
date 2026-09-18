@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 12:1",
+  "book": "2-chronicles",
+  "lang": "xh",
+  "chapter": 12,
+  "translation": "Kwathi xa ubukumkani bukaRkhabeam bemisiwe, yaye xa enamandla, wayishiya ⟨את⟩ iTora kaYahwe, yena nakuwo wonke uSirayeli kunye naye.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Kwathi"
+    },
+    {
+      "surface": "כהכין",
+      "gloss": "xa bemisiwe"
+    },
+    {
+      "surface": "מלכות",
+      "gloss": "ubukumkani"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "ukaRkhabeam"
+    },
+    {
+      "surface": "וכחזקתו",
+      "gloss": "kwaye xa enamandla"
+    },
+    {
+      "surface": "עזב",
+      "gloss": "wayishiya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iTora"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "iTora"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kaYahwe"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "nakuwo wonke"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "uSirayeli"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "kunye naye"
+    }
+  ],
+  "timestamp": "2026-09-18T17:06:13.822451474Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 89:30",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 89,
+  "translation": "Ndiza kumisela inzala yakhe ngonaphakade, nesitululo sakhe njengeentsuku zezulu.",
+  "tokens": [
+    {
+      "surface": "ושמתי",
+      "gloss": "ndiza kumisela"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "ngonaphakade"
+    },
+    {
+      "surface": "זרעו",
+      "gloss": "inzala yakhe"
+    },
+    {
+      "surface": "וכסאו",
+      "gloss": "nesitululo sakhe"
+    },
+    {
+      "surface": "כימי",
+      "gloss": "njengeentsuku"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "zezuluni"
+    }
+  ],
+  "timestamp": "2026-09-18T15:08:19.868193186Z",
+  "model": "glm-5.3"
+}

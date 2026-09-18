@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 83:14",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 83,
+  "translation": "uElohim wam, bayenze ⟨⟨babengabi⟩⟩ njengento eyisantya esiqhubekayo, njengesiguthi phambi komoya.",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "uElohim wam"
+    },
+    {
+      "surface": "שיתמו",
+      "gloss": "bayenze"
+    },
+    {
+      "surface": "כגלגל",
+      "gloss": "njengento eyisantya esiqhubekayo"
+    },
+    {
+      "surface": "כקש",
+      "gloss": "njengesiguthi"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "phambi"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "komoya"
+    }
+  ],
+  "timestamp": "2026-09-18T15:04:24.038147017Z",
+  "model": "glm-5.3"
+}

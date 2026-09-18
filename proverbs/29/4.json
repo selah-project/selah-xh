@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 29:4",
+  "book": "proverbs",
+  "lang": "xh",
+  "chapter": 29,
+  "translation": "Inkosi ngolulamulo imisa ilizwe; kodwa umntu wamafa akhupha iyayitshabalalisa.",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "inkosi"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "ngolulamulo"
+    },
+    {
+      "surface": "יעמיד",
+      "gloss": "imisa"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ilizwe"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "kodwa umntu"
+    },
+    {
+      "surface": "תרומות",
+      "gloss": "wamafa akhupha"
+    },
+    {
+      "surface": "יהרסנה",
+      "gloss": "iyayitshabalalisa"
+    }
+  ],
+  "timestamp": "2026-09-18T15:57:16.757158013Z",
+  "model": "glm-5.3"
+}

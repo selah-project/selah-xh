@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 15:1",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 15,
+  "translation": "Idumiso likaDavide. UYahwe, ngubani oza kuhlala esitendeni sakho? Ngubani oza kukhaya entabeni ingcwele yakho?",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Idumiso"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "likaDavide"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ngubani"
+    },
+    {
+      "surface": "יגור",
+      "gloss": "oza kuhlala"
+    },
+    {
+      "surface": "באהלך",
+      "gloss": "esitendeni sakho"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ngubani"
+    },
+    {
+      "surface": "ישכן",
+      "gloss": "oza kukhaya"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "entabeni"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "ingcwele yakho"
+    }
+  ],
+  "timestamp": "2026-09-18T14:31:59.414459272Z",
+  "model": "glm-5.3"
+}

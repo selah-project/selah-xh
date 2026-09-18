@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "daniel 10:9",
+  "book": "daniel",
+  "lang": "xh",
+  "chapter": 10,
+  "translation": "Ndawuva ilizwi lamazwi akhe, kwaye xa ndawuva ilizwi lamazwi akhe, mna ndathwalelwa bubuthongo ebusweni bam, ubuso bam bugqibelele emhlabeni.",
+  "tokens": [
+    {
+      "surface": "ואשמע",
+      "gloss": "ndawuva"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ilizwi"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ilizwi"
+    },
+    {
+      "surface": "דבריו",
+      "gloss": "lamazwi akhe"
+    },
+    {
+      "surface": "וכשמעי",
+      "gloss": "kwaye xa ndawuva"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ilizwi"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ilizwi"
+    },
+    {
+      "surface": "דבריו",
+      "gloss": "lamazwi akhe"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "mna"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "ndaba"
+    },
+    {
+      "surface": "נרדם",
+      "gloss": "ndathwalelwa bubuthongo"
+    },
+    {
+      "surface": "על",
+      "gloss": "ebusweni"
+    },
+    {
+      "surface": "פני",
+      "gloss": "bam"
+    },
+    {
+      "surface": "ופני",
+      "gloss": "ubuso bam"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "emhlabeni"
+    }
+  ],
+  "timestamp": "2026-09-18T16:36:52.745911362Z",
+  "model": "glm-5.3"
+}

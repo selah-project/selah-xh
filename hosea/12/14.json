@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "hosea 12:14",
+  "book": "hosea",
+  "lang": "xh",
+  "chapter": 12,
+  "translation": "Ngipprofeti uYahwe wanyakula ⟨את⟩ uYisrayeli eMitsrayim, ngaye profeti uYisrayeli wagcinwa.",
+  "tokens": [
+    {
+      "surface": "ובנביא",
+      "gloss": "Ngipprofeti"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "wanyakula"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uYisrayeli"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "uYisrayeli"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "eMitsrayim"
+    },
+    {
+      "surface": "ובנביא",
+      "gloss": "ngaye profeti"
+    },
+    {
+      "surface": "נשמר",
+      "gloss": "wagcinwa"
+    }
+  ],
+  "timestamp": "2026-09-18T13:45:51.523953536Z",
+  "model": "glm-5.3"
+}

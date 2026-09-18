@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 23:1",
+  "book": "1-chronicles",
+  "lang": "xh",
+  "chapter": 23,
+  "translation": "UDavide wasemdala, wazalisa iintsuku, wamisa uShelomohi unyana wakhe njengenkosi phezu kweSirayeli.",
+  "tokens": [
+    {
+      "surface": "ודויד",
+      "gloss": "UDavide"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "wasemdala"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "wazalisa"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "iintsuku"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "wamisa njengenkosi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uShelomohi"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "uShelomohi"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "unyana wakhe"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu kwe-"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Sirayeli"
+    }
+  ],
+  "timestamp": "2026-09-18T16:59:36.712728135Z",
+  "model": "glm-5.3"
+}

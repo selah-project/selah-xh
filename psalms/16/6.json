@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 16:6",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 16,
+  "translation": "Iintambo zomlinganiselo ziwile kum ezindaweni ezimnandi; ewe, ifa elihle lise phezu kwam.",
+  "tokens": [
+    {
+      "surface": "חבלים",
+      "gloss": "iintambo zomlinganiselo"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "ziwile"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kum"
+    },
+    {
+      "surface": "בנעמים",
+      "gloss": "ezindaweni ezimnandi"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ewe"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "ifa"
+    },
+    {
+      "surface": "שפרה",
+      "gloss": "elihle"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "lise phezu kwam"
+    }
+  ],
+  "timestamp": "2026-09-18T14:32:29.008803584Z",
+  "model": "glm-5.3"
+}

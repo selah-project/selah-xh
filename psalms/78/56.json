@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 56,
+  "ref": "psalms 78:56",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 78,
+  "translation": "Bazama bamphikisa uElohim uPhezulu, yaye iinqobo zakhe azazigcini.",
+  "tokens": [
+    {
+      "surface": "וינסו",
+      "gloss": "Bazama"
+    },
+    {
+      "surface": "וימרו",
+      "gloss": "bamphikisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uElohim uPhezulu"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "uPhezulu"
+    },
+    {
+      "surface": "ועדותיו",
+      "gloss": "iinqobo zakhe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "azange"
+    },
+    {
+      "surface": "שמרו",
+      "gloss": "azigcini"
+    }
+  ],
+  "timestamp": "2026-09-18T15:03:13.717997435Z",
+  "model": "glm-5.3"
+}

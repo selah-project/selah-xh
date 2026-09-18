@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 134:1",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 134,
+  "translation": "Ingoma yokunyuka. Yabonani, bakhenkelse ⟨את⟩ uYahwe, nonke amakhonza kaYahwe, abemi bendlu kaYahwe ebusuku.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Ingoma"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "yokunyuka"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Yabonani"
+    },
+    {
+      "surface": "ברכו",
+      "gloss": "bakhenkelse"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uYahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nonke"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "amakhonza"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kaYahwe"
+    },
+    {
+      "surface": "העמדים",
+      "gloss": "abemi"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "bendlu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kaYahwe"
+    },
+    {
+      "surface": "בלילות",
+      "gloss": "ebusuku"
+    }
+  ],
+  "timestamp": "2026-09-18T15:26:31.642678742Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "joshua 3:6",
+  "book": "joshua",
+  "lang": "xh",
+  "chapter": 3,
+  "translation": "Wathetha uYehoshuwa kwiinkosi-priest, esithi: “Phakamisani ⟨את⟩ isandi somnqophiso, nidlule phambi komntu.” Bamisa ⟨את⟩ isandi somnqophiso, bahamba phambi komntu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Wathetha"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "uYehoshuwa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "iinkosi-priest (abakhonzi)"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "esithi"
+    },
+    {
+      "surface": "שאו",
+      "gloss": "Phakamisani"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isandi somnqophiso"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "isandi (isiyesi)"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "somnqophiso"
+    },
+    {
+      "surface": "ועברו",
+      "gloss": "nidlule"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "phambi kwa"
+    },
+    {
+      "surface": "העם",
+      "gloss": "umntu (abantu)"
+    },
+    {
+      "surface": "וישאו",
+      "gloss": "Bamisa (baphakamisa)"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isandi somnqophiso"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "isandi"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "somnqophiso"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "bahamba"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "phambi kwa"
+    },
+    {
+      "surface": "העם",
+      "gloss": "umntu"
+    }
+  ],
+  "timestamp": "2026-09-18T08:29:03.386646705Z",
+  "model": "glm-5.3"
+}

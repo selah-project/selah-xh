@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 71:17",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 71,
+  "translation": "uElohim, undifundisile ukusukela ebuntwaneni bam, kwaye ukwaze ngoku ndiza kubhengeza iimangaliso zakho.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "למדתני",
+      "gloss": "undifundisile"
+    },
+    {
+      "surface": "מנעורי",
+      "gloss": "ukusukela ebuntwaneni bam"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "kwaye ukwaze"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ngoku"
+    },
+    {
+      "surface": "אגיד",
+      "gloss": "ndiza kubhengeza"
+    },
+    {
+      "surface": "נפלאותיך",
+      "gloss": "iimangaliso zakho"
+    }
+  ],
+  "timestamp": "2026-09-18T14:57:36.660956932Z",
+  "model": "glm-5.3"
+}

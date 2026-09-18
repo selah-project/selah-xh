@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 19:17",
+  "book": "leviticus",
+  "lang": "xh",
+  "chapter": 19,
+  "translation": "Musa ukuzonda ⟨את⟩ umnakwethu entliziyweni yakho; qaqambisa ngokwenene ⟨את⟩ umhlobo wakho, uze ungamthwali kuye ⟨isono⟩.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Musa"
+    },
+    {
+      "surface": "תשנא",
+      "gloss": "ukuzonda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umnakwethu"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "umnakwethu"
+    },
+    {
+      "surface": "בלבבך",
+      "gloss": "entliziyweni yakho"
+    },
+    {
+      "surface": "הוכח",
+      "gloss": "qaqambisa"
+    },
+    {
+      "surface": "תוכיח",
+      "gloss": "ngokwenene"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umhlobo wakho"
+    },
+    {
+      "surface": "עמיתך",
+      "gloss": "umhlobo wakho"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "uze unga-"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "mthwali"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "kuye"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "isonesi"
+    }
+  ],
+  "timestamp": "2026-09-18T06:59:08.779806032Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 15:5",
+  "book": "1-kings",
+  "lang": "xh",
+  "chapter": 15,
+  "translation": "kuba uDawidi wenza ⟨את⟩ okulungileyo emehlweni kaYahwe, waza akatshuki nakutho kunjalo akumyaleleyo, ngeentsuku zonke zobomi bakhe, kuphela kwisigwetsho soUriya uMuhiti.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "wenza"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "uDawidi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "okulungileyo"
+    },
+    {
+      "surface": "הישר",
+      "gloss": "okulungileyo"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "emehlweni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kaYahwe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "waza akatshuki"
+    },
+    {
+      "surface": "סר",
+      "gloss": "akatshuki"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "nakutho"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kunjalo"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "akumyaleleyo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zonke"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ngeentsuku"
+    },
+    {
+      "surface": "חייו",
+      "gloss": "zobomi bakhe"
+    },
+    {
+      "surface": "רק",
+      "gloss": "kuphela"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "kwisigwetsho"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "soUriya"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "uMuhiti"
+    }
+  ],
+  "timestamp": "2026-09-18T10:29:08.271304468Z",
+  "model": "glm-5.3"
+}

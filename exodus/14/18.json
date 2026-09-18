@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 14:18",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 14,
+  "translation": "AbaseMitsrayim baza kwazi ukuba ndinguYahwe, xa ndizidumba ngesidima ngoParo, kwiihari zakhe nabanqushi bezahashi zakhe.",
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "baza kwazi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "AbaseMitsrayim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ukuba"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "בהכבדי",
+      "gloss": "xa ndizidumba ngesidima"
+    },
+    {
+      "surface": "בפרעה",
+      "gloss": "ngoParo"
+    },
+    {
+      "surface": "ברכבו",
+      "gloss": "kwiihari zakhe"
+    },
+    {
+      "surface": "ובפרשיו",
+      "gloss": "nabanqushi bezahashi zakhe"
+    }
+  ],
+  "timestamp": "2026-09-18T06:03:28.046292018Z",
+  "model": "glm-5.3"
+}

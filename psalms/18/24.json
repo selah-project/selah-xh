@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 18:24",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 18,
+  "translation": "Ndandilunganiselele kuye; ndazigcina izandla zam zicolekile ngobubi bam.",
+  "tokens": [
+    {
+      "surface": "ואהי",
+      "gloss": "ndandilunganiselele kuye"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "icolekile"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "kuye"
+    },
+    {
+      "surface": "ואשתמר",
+      "gloss": "ndazigcina"
+    },
+    {
+      "surface": "מעוני",
+      "gloss": "ngobubi bam"
+    }
+  ],
+  "timestamp": "2026-09-18T14:33:08.838346533Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 31:11",
+  "book": "numbers",
+  "lang": "xh",
+  "chapter": 31,
+  "translation": "Bathabatha ⟨את⟩ yonke inkunzi yemfazwe ⟨את⟩ nako konke okuthathweyo ngokunyanzelisa, kubantu nakwimizimba yezilwanyana.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "bathabatha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yonke inkunzi yemfazwe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yonke"
+    },
+    {
+      "surface": "השלל",
+      "gloss": "inkunzi yemfazwe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ko konke okuthathweyo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "konke"
+    },
+    {
+      "surface": "המלקוח",
+      "gloss": "okuthathweyo"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "kubantu"
+    },
+    {
+      "surface": "ובבהמה",
+      "gloss": "nakwimizimba yezilwanyana"
+    }
+  ],
+  "timestamp": "2026-09-18T07:44:30.662818091Z",
+  "model": "glm-5.3"
+}

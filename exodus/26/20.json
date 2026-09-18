@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 26:20",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 26,
+  "translation": "Nakwicala lesibini leMishikana, kumda ongaseMantla: amashumi amabini ⟨את⟩ amaplanga.",
+  "tokens": [
+    {
+      "surface": "ולצלע",
+      "gloss": "nakwicala"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "leMishikana"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "eselesibini"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "kumda"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "ongaseMantla"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "amashumi amabini"
+    },
+    {
+      "surface": "קרש",
+      "gloss": "amaplanga"
+    }
+  ],
+  "timestamp": "2026-09-18T17:21:10.250937815Z",
+  "model": "glm-5.3"
+}

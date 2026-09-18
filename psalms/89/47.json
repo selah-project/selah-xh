@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "psalms 89:47",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 89,
+  "translation": "Kude kube nini, Yahwe, uzifihla kuze kube naphakade? Ingaba lulaka lwakho luya kutsha njengomlilo?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "kude kube"
+    },
+    {
+      "surface": "מה",
+      "gloss": "nini"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "תסתר",
+      "gloss": "uzifihla"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "kuze kube naphakade"
+    },
+    {
+      "surface": "תבער",
+      "gloss": "luya kutsha"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "njenge"
+    },
+    {
+      "surface": "אש",
+      "gloss": "omlilo"
+    },
+    {
+      "surface": "חמתך",
+      "gloss": "lulaka lwakho"
+    }
+  ],
+  "timestamp": "2026-09-18T15:08:13.605763844Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 135:9",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 135,
+  "translation": "Wathumela iimpawu nemangalisa embindini wakho, weMitsrayim, kuParo nakwabo bonke abakhonzi bakhe.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "Wathumela"
+    },
+    {
+      "surface": "אתות",
+      "gloss": "iimpawu"
+    },
+    {
+      "surface": "ומפתים",
+      "gloss": "nemangalisa"
+    },
+    {
+      "surface": "בתוככי",
+      "gloss": "embindini wakho"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "weMitsrayim"
+    },
+    {
+      "surface": "בפרעה",
+      "gloss": "kuParo"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "nakwabo bonke"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "abakhonzi bakhe"
+    }
+  ],
+  "timestamp": "2026-09-18T15:27:53.912365153Z",
+  "model": "glm-5.3"
+}

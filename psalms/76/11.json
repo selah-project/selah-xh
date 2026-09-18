@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 76:11",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 76,
+  "translation": "Kuba ulaka lomntu luya kukudumisa; intsalela yolaka uya kuyinxiba ngesikhaki.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kuba"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "ulaka"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "lomntu"
+    },
+    {
+      "surface": "תודך",
+      "gloss": "luya kukudumisa"
+    },
+    {
+      "surface": "שארית",
+      "gloss": "intsalela"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "yolaka"
+    },
+    {
+      "surface": "תחגר",
+      "gloss": "uya kuyinxiba ngesikhaki"
+    }
+  ],
+  "timestamp": "2026-09-18T17:44:34.276954053Z",
+  "model": "glm-5.3"
+}

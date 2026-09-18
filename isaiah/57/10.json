@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 57:10",
+  "book": "isaiah",
+  "lang": "xh",
+  "chapter": 57,
+  "translation": "Wadinwa ngebuninzi bezindlela zakho, kodwa akuzange uthi akukho themba; wafumana ubomi besandla sakho; ngoko ke awuzange ugule.",
+  "tokens": [
+    {
+      "surface": "ברב",
+      "gloss": "ngebuninzi"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "bezindlela zakho"
+    },
+    {
+      "surface": "יגעת",
+      "gloss": "wadinwa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "akuzange"
+    },
+    {
+      "surface": "אמרת",
+      "gloss": "uthi"
+    },
+    {
+      "surface": "נואש",
+      "gloss": "akukho themba"
+    },
+    {
+      "surface": "חית",
+      "gloss": "ubomi"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "besandla sakho"
+    },
+    {
+      "surface": "מצאת",
+      "gloss": "wafumana"
+    },
+    {
+      "surface": "על",
+      "gloss": "ngoko"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ke"
+    },
+    {
+      "surface": "לא",
+      "gloss": "awuzange"
+    },
+    {
+      "surface": "חלית",
+      "gloss": "ugule"
+    }
+  ],
+  "timestamp": "2026-09-18T11:42:53.648114822Z",
+  "model": "glm-5.3"
+}

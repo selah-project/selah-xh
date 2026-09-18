@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 10:2",
+  "book": "ecclesiastes",
+  "lang": "xh",
+  "chapter": 10,
+  "translation": "Intliziyo yomulumkhi ilele ekunene lakhe, yaye intliziyo yesiphukuphukuni ilele ekhohlo lakhe.",
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "intliziyo"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "yomulumkhi"
+    },
+    {
+      "surface": "לימינו",
+      "gloss": "ekunene lakhe"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "yaye intliziyo"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "yesiphukuphukuni"
+    },
+    {
+      "surface": "לשמאלו",
+      "gloss": "ekhohlo lakhe"
+    }
+  ],
+  "timestamp": "2026-09-18T16:25:40.717228948Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 12:25",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 12,
+  "translation": "Kwaye kuya kwenzeka, xa nifikilela emhlabeni uYahwe aninike wona, njengoko wathetha, niya kugcina ⟨את⟩ le nkonzo.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "kwaye kuya kwenzeka"
+    },
+    {
+      "surface": "כי",
+      "gloss": "xa"
+    },
+    {
+      "surface": "תבאו",
+      "gloss": "nifikilela"
+    },
+    {
+      "surface": "אל",
+      "gloss": "emhlabeni"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "umhlaba"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "woná"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "aninike"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kuni"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "njengoko"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "wathetha"
+    },
+    {
+      "surface": "ושמרתם",
+      "gloss": "niya kugcina"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le nkonzo"
+    },
+    {
+      "surface": "העבדה",
+      "gloss": "inkonzo"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "le"
+    }
+  ],
+  "timestamp": "2026-09-18T06:02:10.490616158Z",
+  "model": "glm-5.3"
+}

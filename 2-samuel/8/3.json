@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 8:3",
+  "book": "2-samuel",
+  "lang": "xh",
+  "chapter": 8,
+  "translation": "UDawidi wabetha ⟨את⟩ uHedadezeri unyana kaRehobhi, inkosi yeTswobha, ehambele ekubuyisela isandla sakhe emlambo.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "wabetha"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "uDawidi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uHedadezeri"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "uHedadezeri"
+    },
+    {
+      "surface": "בן",
+      "gloss": "unyana"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "kaRehobhi"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "inkosi"
+    },
+    {
+      "surface": "צובה",
+      "gloss": "yeTswobha"
+    },
+    {
+      "surface": "בלכתו",
+      "gloss": "ehambele"
+    },
+    {
+      "surface": "להשיב",
+      "gloss": "ukubuyisela"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "isandla sakhe"
+    },
+    {
+      "surface": "בנהר",
+      "gloss": "emlambo"
+    }
+  ],
+  "timestamp": "2026-09-18T09:49:35.825314127Z",
+  "model": "glm-5.3"
+}

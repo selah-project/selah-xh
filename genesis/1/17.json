@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 1:17",
+  "book": "genesis",
+  "lang": "xh",
+  "chapter": 1,
+  "translation": "uElohim wazibeka ezirkhuyeni zwezulu ukwazisa ukhanya emhlabeni.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "wazibeka"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "iilanga ezimbini ezinkulu neenkwenkwezi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "ברקיע",
+      "gloss": "ezirkhuyeni"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "zwezulu"
+    },
+    {
+      "surface": "להאיר",
+      "gloss": "ukwazisa ukhanya"
+    },
+    {
+      "surface": "על",
+      "gloss": "emhlabeni"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "emhlabeni"
+    }
+  ],
+  "timestamp": "2026-09-18T17:17:51.781281510Z",
+  "model": "glm-5.3"
+}

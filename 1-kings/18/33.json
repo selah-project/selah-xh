@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "1-kings 18:33",
+  "book": "1-kings",
+  "lang": "xh",
+  "chapter": 18,
+  "translation": "Wayilungelelanisa ⟨את⟩ iinkuni, wayinqunqa ⟨את⟩ inkabi, wayibeka phezu kweenkuni.",
+  "tokens": [
+    {
+      "surface": "ויערך",
+      "gloss": "wayilungelelanisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iinkuni"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "iinkuni"
+    },
+    {
+      "surface": "וינתח",
+      "gloss": "wayinqunqa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "inkabi"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "inkabi"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "wayibeka"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu kwe-"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "iinkuni"
+    }
+  ],
+  "timestamp": "2026-09-18T10:32:16.689710100Z",
+  "model": "glm-5.3"
+}

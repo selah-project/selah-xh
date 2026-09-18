@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 147:1",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 147,
+  "translation": "Dumisani uYah, kuba kulungile ukucula idumiso kuElohim wethu, kuba kumnandi, ihle idumiso.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Dumisani"
+    },
+    {
+      "surface": "יה",
+      "gloss": "uYah"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "kulungile"
+    },
+    {
+      "surface": "זמרה",
+      "gloss": "ukucula idumiso"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "kuElohim wethu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "נעים",
+      "gloss": "kumnandi"
+    },
+    {
+      "surface": "נאוה",
+      "gloss": "ihle"
+    },
+    {
+      "surface": "תהלה",
+      "gloss": "idumiso"
+    }
+  ],
+  "timestamp": "2026-09-18T15:34:37.895312103Z",
+  "model": "glm-5.3"
+}

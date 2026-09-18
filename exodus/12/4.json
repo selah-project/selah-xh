@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 12:4",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 12,
+  "translation": "Kodwa ukuba indlu incinane ibe ngaphantsi kokuba ibe nolwandle lwewundlu, yena nommelwane wakhe osondeleyo kwendlu yakhe bamthathe ngokwemvelwano yabantu; umntu ngamntu ngokwakhe okutya, nibale ngokwewundlu.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "kodwa ukuba"
+    },
+    {
+      "surface": "ימעט",
+      "gloss": "incinane"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "indlu"
+    },
+    {
+      "surface": "מהית",
+      "gloss": "ibe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ngaphantsi kokulunga newundlu"
+    },
+    {
+      "surface": "ולקח",
+      "gloss": "bamthathe"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yena"
+    },
+    {
+      "surface": "ושכנו",
+      "gloss": "nommelwane wakhe"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "osondeleyo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "kwendlu yakhe"
+    },
+    {
+      "surface": "במכסת",
+      "gloss": "ngokwemvelwano"
+    },
+    {
+      "surface": "נפשת",
+      "gloss": "yabantu (beemphefumlo)"
+    },
+    {
+      "surface": "איש",
+      "gloss": "umntu ngamntu"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "ngokwakhe"
+    },
+    {
+      "surface": "אכלו",
+      "gloss": "okutya"
+    },
+    {
+      "surface": "תכסו",
+      "gloss": "nibale"
+    },
+    {
+      "surface": "על",
+      "gloss": "nge-"
+    },
+    {
+      "surface": "השה",
+      "gloss": "wewundlu"
+    }
+  ],
+  "timestamp": "2026-09-18T05:58:21.330668120Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 103:9",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 103,
+  "translation": "Akalwa kuze kube phakade, akagcini umsindo ngonaphakade.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "akalwa"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "kuze kube phakade"
+    },
+    {
+      "surface": "יריב",
+      "gloss": "ukulwa (ukunxanelana)"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "akagcini"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ngonaphakade"
+    },
+    {
+      "surface": "יטור",
+      "gloss": "ukugcina (umsindo)"
+    }
+  ],
+  "timestamp": "2026-09-18T15:13:12.180365925Z",
+  "model": "glm-5.3"
+}

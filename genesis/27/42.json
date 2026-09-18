@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "genesis 27:42",
+  "book": "genesis",
+  "lang": "xh",
+  "chapter": 27,
+  "translation": "Kwaziswa kuRivka ⟨את⟩ amagama kaEsav unyana waye omkulu; wathumela wabiza uYaakob unyana waye omncinane, wathi kuye: Bona, uEsav umnakwethu uzikhuthuzela ngokwakho ngawe, ukukubulala.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "kwaziswa"
+    },
+    {
+      "surface": "לרבקה",
+      "gloss": "kuRivka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amagama"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "amagama"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "kaEsav"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "unyana waye"
+    },
+    {
+      "surface": "הגדל",
+      "gloss": "omkulu"
+    },
+    {
+      "surface": "ותשלח",
+      "gloss": "wathumela"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "wabiza"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "uYaakob"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "unyana waye"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "omncinane"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kuye"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "bona"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "uEsav"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "umnakwethu"
+    },
+    {
+      "surface": "מתנחם",
+      "gloss": "uzikhuthuzela"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ngakho"
+    },
+    {
+      "surface": "להרגך",
+      "gloss": "ukukubulala"
+    }
+  ],
+  "timestamp": "2026-09-18T05:24:36.903740788Z",
+  "model": "glm-5.3"
+}

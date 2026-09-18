@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 10:10",
+  "book": "1-chronicles",
+  "lang": "xh",
+  "chapter": 10,
+  "translation": "Babeka ⟨את⟩ izikhali zakhe endlwini yoothixo babo, bachitha ⟨את⟩ i-skull yakhe endlwini kaDagon.",
+  "tokens": [
+    {
+      "surface": "וישימו",
+      "gloss": "Babeka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izikhali zakhe"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "izikhali zakhe"
+    },
+    {
+      "surface": "בית",
+      "gloss": "endlwini"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "yoothixo babo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "n⟨את⟩",
+      "marks": "i-skull yakhe"
+    },
+    {
+      "surface": "גלגלתו",
+      "gloss": "i-skull yakhe"
+    },
+    {
+      "surface": "תקעו",
+      "gloss": "bachitha"
+    },
+    {
+      "surface": "בית",
+      "gloss": "endlwini"
+    },
+    {
+      "surface": "דגון",
+      "gloss": "kaDagon"
+    }
+  ],
+  "timestamp": "2026-09-18T16:53:52.434726236Z",
+  "model": "glm-5.3"
+}

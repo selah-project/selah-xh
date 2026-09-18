@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 68:35",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 68,
+  "translation": "Nikezani ⟨i⟩mandla kuElohim; phezu kukaSirayeli kukho ubukhosi bakhe, namandla ake akwizulu.",
+  "tokens": [
+    {
+      "surface": "תנו",
+      "gloss": "Nikezani"
+    },
+    {
+      "surface": "עז",
+      "gloss": "⟨i⟩mandla"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "kuElohim"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu kukaSirayeli kukho"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ukaSirayeli"
+    },
+    {
+      "surface": "גאותו",
+      "gloss": "ubukhosi bakhe"
+    },
+    {
+      "surface": "ועזו",
+      "gloss": "namandla ake"
+    },
+    {
+      "surface": "בשחקים",
+      "gloss": "akwizulu"
+    }
+  ],
+  "timestamp": "2026-09-18T14:57:04.740749099Z",
+  "model": "glm-5.3"
+}

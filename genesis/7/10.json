@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 7:10",
+  "book": "genesis",
+  "lang": "xh",
+  "chapter": 7,
+  "translation": "Kwasekubeni emva kweentsuku ezisixhenxe, amanzi olwandle olungcwele olukhulu aza phezu komhlaba.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Kwasekubeni"
+    },
+    {
+      "surface": "לשבעת",
+      "gloss": "emva kweentsuku ezisixhenxe"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "iintsuku"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "amanzi"
+    },
+    {
+      "surface": "המבול",
+      "gloss": "olwandle olukhulu"
+    },
+    {
+      "surface": "היו",
+      "gloss": "aza"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "komhlaba"
+    }
+  ],
+  "timestamp": "2026-09-18T05:09:09.137001821Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 125:1",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 125,
+  "translation": "ICulo lokwenyuka. Abathembayo kuYahwe banjengentaba iZiyon, ayisayi kudukiswa, ihlala ngonaphakade.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "ICulo"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "lokwenyuka"
+    },
+    {
+      "surface": "הבטחים",
+      "gloss": "Abathembayo"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "kuYahwe"
+    },
+    {
+      "surface": "כהר",
+      "gloss": "banjengentaba"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "iZiyon"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ayi"
+    },
+    {
+      "surface": "ימוט",
+      "gloss": "sayi kudukiswa"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ngonaphakade"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "ihlala"
+    }
+  ],
+  "timestamp": "2026-09-18T15:28:33.692101016Z",
+  "model": "glm-5.3"
+}

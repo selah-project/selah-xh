@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 3:1",
+  "book": "ecclesiastes",
+  "lang": "xh",
+  "chapter": 3,
+  "translation": "Konke unexesha, nexesha lento yonke ethandwayo ngaphansi kwamazulu.",
+  "tokens": [
+    {
+      "surface": "לכל",
+      "gloss": "konke"
+    },
+    {
+      "surface": "זמן",
+      "gloss": "unexesha"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "nexesha"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "yonke"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "into ethandwayo"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ngaphansi"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "kwamazulu"
+    }
+  ],
+  "timestamp": "2026-09-18T16:24:02.623575100Z",
+  "model": "glm-5.3"
+}

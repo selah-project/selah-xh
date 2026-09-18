@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 23:1",
+  "book": "isaiah",
+  "lang": "xh",
+  "chapter": 23,
+  "translation": "Umthwalo weTsori. Zemeleni, iinqwelo zaseTarshishi, kuba ithiwe ngokupheleleyo, ingasekho yindlu, akukho kungena; kwavela kum eveli elizweni lakwaKithim.",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "umthwalo"
+    },
+    {
+      "surface": "צר",
+      "gloss": "weTsori"
+    },
+    {
+      "surface": "הילילו",
+      "gloss": "Zemeleni"
+    },
+    {
+      "surface": "אניות",
+      "gloss": "iinqwelo"
+    },
+    {
+      "surface": "תרשיש",
+      "gloss": "zaseTarshishi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "שדד",
+      "gloss": "ithiwe"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "yindlu"
+    },
+    {
+      "surface": "מבוא",
+      "gloss": "kungena"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "elizweni"
+    },
+    {
+      "surface": "כתים",
+      "gloss": "lakwaKithim"
+    },
+    {
+      "surface": "נגלה",
+      "gloss": "kwavela"
+    },
+    {
+      "surface": "למו",
+      "gloss": "kum"
+    }
+  ],
+  "timestamp": "2026-09-18T11:19:24.368585676Z",
+  "model": "glm-5.3"
+}

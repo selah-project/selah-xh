@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 80:12",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 80,
+  "translation": "Yathumela iintyatyambo zayo zokuvuna ukuya olwandle, naseentyiya zayo za kumlambo.",
+  "tokens": [
+    {
+      "surface": "תשלח",
+      "gloss": "Yathumela"
+    },
+    {
+      "surface": "קצירה",
+      "gloss": "iintyatyambo zayo zokuvuna"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ukuya"
+    },
+    {
+      "surface": "ים",
+      "gloss": "olwandle"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "naku-"
+    },
+    {
+      "surface": "נהר",
+      "gloss": "kumlambo"
+    },
+    {
+      "surface": "יונקותיה",
+      "gloss": "iintyiya zayo"
+    }
+  ],
+  "timestamp": "2026-09-18T15:04:36.891949669Z",
+  "model": "glm-5.3"
+}

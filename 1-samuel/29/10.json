@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 29:10",
+  "book": "1-samuel",
+  "lang": "xh",
+  "chapter": 29,
+  "translation": "Kananjalo ngoku vuka kuseni, wena neenkonzi zenkosi yakho eza ⟨את⟩ nawe; nize nivuke kuseni, nibe kukhanya, nihambeni.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "kananjalo ngoku"
+    },
+    {
+      "surface": "השכם",
+      "gloss": "vuka kuseni"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "ekuseni"
+    },
+    {
+      "surface": "ועבדי",
+      "gloss": "neenkonzi"
+    },
+    {
+      "surface": "אדניך",
+      "gloss": "zenkosi yakho"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ezi"
+    },
+    {
+      "surface": "באו",
+      "gloss": "ezize"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ nawe",
+      "marks": "nawe"
+    },
+    {
+      "surface": "והשכמתם",
+      "gloss": "nize nivuke kuseni"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "ekuseni"
+    },
+    {
+      "surface": "ואור",
+      "gloss": "kubekhanya"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ninike"
+    },
+    {
+      "surface": "ולכו",
+      "gloss": "nihambeni"
+    }
+  ],
+  "timestamp": "2026-09-18T09:38:26.946475202Z",
+  "model": "glm-5.3"
+}

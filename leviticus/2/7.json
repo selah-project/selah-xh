@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 2:7",
+  "book": "leviticus",
+  "lang": "xh",
+  "chapter": 2,
+  "translation": "Ukuba imnikelo yakho yimnikelo esityebeni, malibe ngumgubo ococekileyo othathiweyo ngoyile.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Ukuba"
+    },
+    {
+      "surface": "מנחת",
+      "gloss": "imnikelo"
+    },
+    {
+      "surface": "מרחשת",
+      "gloss": "esityebeni"
+    },
+    {
+      "surface": "קרבנך",
+      "gloss": "yakho"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "umgubo ococekileyo"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "ngoyile"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "malibe"
+    }
+  ],
+  "timestamp": "2026-09-18T06:33:30.214222515Z",
+  "model": "glm-5.3"
+}

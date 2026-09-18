@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 74:11",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 74,
+  "translation": "Kutheni ucisha isandla sakho, nokuba nesandla sakho sokunene? sikhiphe embindini webele zakho, ugqibe ⟨zonzo⟩.",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "Kutheni"
+    },
+    {
+      "surface": "תשיב",
+      "gloss": "ucisha"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "isandla sakho"
+    },
+    {
+      "surface": "וימינך",
+      "gloss": "nokuba nesandla sakho sokunene"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "embindini"
+    },
+    {
+      "surface": "חוקך",
+      "gloss": "webele zakho"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "ugqibe ⟨zonzo⟩"
+    }
+  ],
+  "timestamp": "2026-09-18T15:00:06.190646531Z",
+  "model": "glm-5.3"
+}

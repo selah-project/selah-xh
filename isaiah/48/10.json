@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 48:10",
+  "book": "isaiah",
+  "lang": "xh",
+  "chapter": 48,
+  "translation": "Bhekisa, ndikucoccile, kodwa hayi ngesilivere; ndikhethile wena enxwemeni yokuhlupheka.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "bhekisa"
+    },
+    {
+      "surface": "צרפתיך",
+      "gloss": "ndikucoccile"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kodwa hayi"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "ngesilivere"
+    },
+    {
+      "surface": "בחרתיך",
+      "gloss": "ndikhethile wena"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "enxwemeni"
+    },
+    {
+      "surface": "עני",
+      "gloss": "yokuhlupheka"
+    }
+  ],
+  "timestamp": "2026-09-18T11:34:15.088517506Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 22:2",
+  "book": "1-kings",
+  "lang": "xh",
+  "chapter": 22,
+  "translation": "Kwathi kwangomnyaka wesithathu, uYehoshuwa, inkosi yakwaYuda, wehla waya kwenkosi yaseYisrayeli.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Kwathi"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "kwangomnyaka"
+    },
+    {
+      "surface": "השלישית",
+      "gloss": "wesithathu"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "wehla"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "uYehoshuwa"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "inkosi"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "yakwaYuda"
+    },
+    {
+      "surface": "אל",
+      "gloss": "waya ku-"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "inkosi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "yaseYisrayeli"
+    }
+  ],
+  "timestamp": "2026-09-18T10:37:11.935652001Z",
+  "model": "glm-5.3"
+}

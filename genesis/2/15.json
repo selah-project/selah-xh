@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 2:15",
+  "book": "genesis",
+  "lang": "xh",
+  "chapter": 2,
+  "translation": "UThixa uYahwe wathabatha ⟨את⟩ umntu, wamsembeza esiveni se-Edeni, ukuba asisebenzele sona nasigcine sona.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "wathabatha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "uThixa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umntu"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "umntu"
+    },
+    {
+      "surface": "וינחהו",
+      "gloss": "wamsembeza"
+    },
+    {
+      "surface": "בגן",
+      "gloss": "esiveni"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "i-Edeni"
+    },
+    {
+      "surface": "לעבדה",
+      "gloss": "ukuba asisebenzele"
+    },
+    {
+      "surface": "ולשמרה",
+      "gloss": "nasigcine"
+    }
+  ],
+  "timestamp": "2026-09-18T05:07:55.561643121Z",
+  "model": "glm-5.3"
+}

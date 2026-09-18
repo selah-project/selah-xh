@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 37:4",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 37,
+  "translation": "Wayenza imigangatho yemithi yeakasia, wayizehlisa ngegolide ⟨אתם⟩.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "wayenza"
+    },
+    {
+      "surface": "בדי",
+      "gloss": "imigangatho"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "yemithi"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "yeakasia"
+    },
+    {
+      "surface": "ויצף",
+      "gloss": "wayizehlisa ngegolide"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "imigangatho"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ngegolide"
+    }
+  ],
+  "timestamp": "2026-09-18T06:28:55.638431120Z",
+  "model": "glm-5.3"
+}

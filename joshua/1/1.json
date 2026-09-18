@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "joshua 1:1",
+  "book": "joshua",
+  "lang": "xh",
+  "chapter": 1,
+  "translation": "Kwathi emva kokufa kukaMoshe, nkenceba kaYahwe, uYahwe wathetha kuYehoshuwa, unyana kaNuni, umkhonzi kaMoshe, wathi:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Kwathi"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "emva kokufa"
+    },
+    {
+      "surface": "מות",
+      "gloss": "ukufa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ukaMoshe"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "nkenceba"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kaYahwe"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "wathetha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "uYehoshuwa"
+    },
+    {
+      "surface": "בן",
+      "gloss": "unyana"
+    },
+    {
+      "surface": "נון",
+      "gloss": "kaNuni"
+    },
+    {
+      "surface": "משרת",
+      "gloss": "umkhonzi"
+    },
+    {
+      "surface": "משה",
+      "gloss": "kaMoshe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "wathi"
+    }
+  ],
+  "timestamp": "2026-09-18T17:26:50.880385720Z",
+  "model": "glm-5.3"
+}

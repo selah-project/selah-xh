@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 46:4",
+  "book": "isaiah",
+  "lang": "xh",
+  "chapter": 46,
+  "translation": "Yaye de kube bubudala mna ndinguYe; de kube ukudini mna ndiza kuthwala; mna ndenzile, yaye mna ndiza kunyusa, yaye mna ndiza kuthwala, yaye ndiza kumkhulula.",
+  "tokens": [
+    {
+      "surface": "ועד",
+      "gloss": "yaye de kube"
+    },
+    {
+      "surface": "זקנה",
+      "gloss": "bubudala"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mna"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ndinguYe"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "de kube"
+    },
+    {
+      "surface": "שיבה",
+      "gloss": "ukudini"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mna"
+    },
+    {
+      "surface": "אסבל",
+      "gloss": "ndiza kuthwala"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mna"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "ndenzile"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "yaye mna"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "ndiza kunyusa"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "yaye mna"
+    },
+    {
+      "surface": "אסבל",
+      "gloss": "ndiza kuthwala"
+    },
+    {
+      "surface": "ואמלט",
+      "gloss": "yaye ndiza kumkhulula"
+    }
+  ],
+  "timestamp": "2026-09-18T11:35:59.877261223Z",
+  "model": "glm-5.3"
+}

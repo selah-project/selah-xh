@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 90:9",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 90,
+  "translation": "Kuba onke amaxesha ethu adlula kolwazo lwakho; siphelisa iminyaka yethu njengophazima lokucinga.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "כל",
+      "gloss": "onke"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "amaxesha ethu"
+    },
+    {
+      "surface": "פנו",
+      "gloss": "adlula"
+    },
+    {
+      "surface": "בעברתך",
+      "gloss": "kolwazo lwakho"
+    },
+    {
+      "surface": "כלינו",
+      "gloss": "siphelisa"
+    },
+    {
+      "surface": "שנינו",
+      "gloss": "iminyaka yethu"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "njengo-"
+    },
+    {
+      "surface": "הגה",
+      "gloss": "phazima lokucinga"
+    }
+  ],
+  "timestamp": "2026-09-18T17:44:23.836629459Z",
+  "model": "glm-5.3"
+}

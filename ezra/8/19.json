@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ezra 8:19",
+  "book": "ezra",
+  "lang": "xh",
+  "chapter": 8,
+  "translation": "Kananjalo ⟨את⟩ uChashabhiya, naye ⟨את⟩ uYeshayahi, oonyana bakaMerari, bakhulwana bakhe naboonyana babo, amashumi amabini.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "uChashabhiya"
+    },
+    {
+      "surface": "חשביה",
+      "gloss": "uChashabhiya"
+    },
+    {
+      "surface": "ואתו",
+      "gloss": "naye ⟨את⟩"
+    },
+    {
+      "surface": "ישעיה",
+      "gloss": "uYeshayahi"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "oonyana baka"
+    },
+    {
+      "surface": "מררי",
+      "gloss": "uMerari"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "bakhulwana bakhe"
+    },
+    {
+      "surface": "ובניהם",
+      "gloss": "naboonyana babo"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "amashumi amabini"
+    }
+  ],
+  "timestamp": "2026-09-18T17:50:24.614604810Z",
+  "model": "glm-5.3"
+}

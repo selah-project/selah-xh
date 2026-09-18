@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 94:1",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 94,
+  "translation": "u-El wezindsindo, uYahwe; u-El wezindsindo, zikhanye.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "u-El"
+    },
+    {
+      "surface": "נקמות",
+      "gloss": "wezindsindo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "u-El"
+    },
+    {
+      "surface": "נקמות",
+      "gloss": "wezindsindo"
+    },
+    {
+      "surface": "הופיע",
+      "gloss": "zikhanye"
+    }
+  ],
+  "timestamp": "2026-09-18T15:12:10.050343574Z",
+  "model": "glm-5.3"
+}

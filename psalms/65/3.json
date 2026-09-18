@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 65:3",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 65,
+  "translation": "Okuyiva andandatho, kuwe sonke isinyama siya kuza.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "Okuyiva"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "andandatho"
+    },
+    {
+      "surface": "עדיך",
+      "gloss": "kuwe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sonke"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "isinyama"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "siya kuza"
+    }
+  ],
+  "timestamp": "2026-09-18T14:55:54.239691046Z",
+  "model": "glm-5.3"
+}

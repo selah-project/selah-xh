@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 3:7",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 3,
+  "translation": "Wathi uYahwe: “Ndibonile ndibonile ⟨את⟩ ubunzima babantu bam abaseMitsrayim; ndivile ⟨ואת⟩ ukukhalisa kwabo ngenxa yabaginyi babo, kuba ndiyaziva ⟨את⟩ iintlungu zabo.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Wathi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "ndibonile"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "ndibonile"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ubunzima babantu bam"
+    },
+    {
+      "surface": "עני",
+      "gloss": "ubunzima"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "babantu bam"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aba"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "seMitsrayim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ukukhalisa kwabo"
+    },
+    {
+      "surface": "צעקתם",
+      "gloss": "ukukhalisa kwabo"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "ndivile"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "ngenxa"
+    },
+    {
+      "surface": "נגשיו",
+      "gloss": "yabaginyi babo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "ndiyaziva"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iintlungu zabo"
+    },
+    {
+      "surface": "מכאביו",
+      "gloss": "iintlungu zabo"
+    }
+  ],
+  "timestamp": "2026-09-18T05:50:46.440663009Z",
+  "model": "glm-5.3"
+}

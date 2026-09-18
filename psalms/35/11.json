@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 35:11",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 35,
+  "translation": "Zisukuma iingqina zobundlobongela; into endingayiziyo bayibuzela ndim.",
+  "tokens": [
+    {
+      "surface": "יקומומ",
+      "gloss": "zisukuma"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "iingqina"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "zobundlobongela"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "into e-"
+    },
+    {
+      "surface": "לא",
+      "gloss": "engayi-"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "-ziyo ndi"
+    },
+    {
+      "surface": "ישאלוני",
+      "gloss": "bayibuzela ndim"
+    }
+  ],
+  "timestamp": "2026-09-18T14:40:07.700369074Z",
+  "model": "glm-5.3"
+}

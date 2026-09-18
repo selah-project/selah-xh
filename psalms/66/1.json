@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 66:1",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 66,
+  "translation": "Kumlawuli womculo. Icwecwe, indumiso. Zweni ngesilumkiso kuElohim, yonke imihla ngemihla yomhlaba.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Kumlawuli womculo"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "icwecbe lomculo"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "indumiso enamadinala"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "zweni ngesilumkiso"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "kuElohim"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yonke imihla ngemihla"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yomhlaba"
+    }
+  ],
+  "timestamp": "2026-09-18T14:53:33.387809022Z",
+  "model": "glm-5.3"
+}

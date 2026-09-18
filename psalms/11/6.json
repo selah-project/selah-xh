@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 11:6",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 11,
+  "translation": "Uza kuthisa phezu kwabagebengu iingxangxasi zomlilo neganggokwe-sulfure nomoya ozilimazayo; le yinxalenye yesekhe yabo.",
+  "tokens": [
+    {
+      "surface": "ימטר",
+      "gloss": "uza kuthisa njengemvula"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu kwa"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "abagebengu"
+    },
+    {
+      "surface": "פחים",
+      "gloss": "iingxangxasi"
+    },
+    {
+      "surface": "אש",
+      "gloss": "zomlilo"
+    },
+    {
+      "surface": "וגפרית",
+      "gloss": "neganggokwe-sulfure"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "nomoya"
+    },
+    {
+      "surface": "זלעפות",
+      "gloss": "ozilimazayo"
+    },
+    {
+      "surface": "מנת",
+      "gloss": "yinxalenye"
+    },
+    {
+      "surface": "כוסם",
+      "gloss": "yeseke yabo"
+    }
+  ],
+  "timestamp": "2026-09-18T14:30:46.828076718Z",
+  "model": "glm-5.3"
+}

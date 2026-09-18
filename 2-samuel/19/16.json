@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 19:16",
+  "book": "2-samuel",
+  "lang": "xh",
+  "chapter": 19,
+  "translation": "Inkosi yabuya, yafika ide iYordan; uYuda weza eGilgali ukuya kubuyela— ukudibana nenkosi, ukudlulisa ⟨את⟩ inkosi ⟨את⟩ iYordan.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "yabuya"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "inkosi"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "yafika"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ide"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "iYordan"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "uYuda"
+    },
+    {
+      "surface": "בא",
+      "gloss": "weza"
+    },
+    {
+      "surface": "הגלגלה",
+      "gloss": "eGilgali"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "ukuya"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "ukudibana nenkosi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "inkosi"
+    },
+    {
+      "surface": "להעביר",
+      "gloss": "ukudlulisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "inkosi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "inkosi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iYordan"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "iYordan"
+    }
+  ],
+  "timestamp": "2026-09-18T10:01:11.787459692Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 18:5",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 18,
+  "translation": "Iintambo zokufa zendilele ndingenele, kunye nemilambo yebeliali yandoyisela.",
+  "tokens": [
+    {
+      "surface": "אפפוני",
+      "gloss": "zendilele ndingenele"
+    },
+    {
+      "surface": "חבלי",
+      "gloss": "iintambo"
+    },
+    {
+      "surface": "מות",
+      "gloss": "zokufa"
+    },
+    {
+      "surface": "ונחלי",
+      "gloss": "kunye nemilambo"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "yebeliali"
+    },
+    {
+      "surface": "יבעתוני",
+      "gloss": "yandoyisela"
+    }
+  ],
+  "timestamp": "2026-09-18T14:34:18.923548293Z",
+  "model": "glm-5.3"
+}

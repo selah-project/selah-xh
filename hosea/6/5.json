@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 6:5",
+  "book": "hosea",
+  "lang": "xh",
+  "chapter": 6,
+  "translation": "Ngoko ndatshiza ngenziqa, ndababulala ngeentetho zomlomo wam; namgwebo akho uphuma njengokukhanya.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "kusuka"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ngoko"
+    },
+    {
+      "surface": "חצבתי",
+      "gloss": "ndatshiza"
+    },
+    {
+      "surface": "בנביאים",
+      "gloss": "ngenziqa"
+    },
+    {
+      "surface": "הרגתים",
+      "gloss": "ndababulala"
+    },
+    {
+      "surface": "באמרי",
+      "gloss": "ngeentetho"
+    },
+    {
+      "surface": "פי",
+      "gloss": "zomlomo wam"
+    },
+    {
+      "surface": "ומשפטיך",
+      "gloss": "namgwebo akho"
+    },
+    {
+      "surface": "אור",
+      "gloss": "njengokukhanya"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "uphuma"
+    }
+  ],
+  "timestamp": "2026-09-18T13:41:56.521066561Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 33:7",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 33,
+  "translation": "Uqokelela njengengxangxasi amanzi olwandle, ubeka iintsimbi ezikhothini.",
+  "tokens": [
+    {
+      "surface": "כנס",
+      "gloss": "Uqokelela"
+    },
+    {
+      "surface": "כנד",
+      "gloss": "njengengxangxasi"
+    },
+    {
+      "surface": "מי",
+      "gloss": "amanzi"
+    },
+    {
+      "surface": "הים",
+      "gloss": "olwandle"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ubeka"
+    },
+    {
+      "surface": "באצרות",
+      "gloss": "ezikhothini"
+    },
+    {
+      "surface": "תהומות",
+      "gloss": "iintsimbi"
+    }
+  ],
+  "timestamp": "2026-09-18T14:39:58.060370050Z",
+  "model": "glm-5.3"
+}

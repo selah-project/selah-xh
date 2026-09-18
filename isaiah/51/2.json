@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 51:2",
+  "book": "isaiah",
+  "lang": "xh",
+  "chapter": 51,
+  "translation": "Bukani ku-Avraham uyise, nakwiSara umzala wenu: kuba ndimbidise yedwa, ndimtsalele, ndimzele, ndandise.",
+  "tokens": [
+    {
+      "surface": "הביטו",
+      "gloss": "Bukani"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "u-Avraham"
+    },
+    {
+      "surface": "אביכם",
+      "gloss": "uyise"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "nakwi"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "iSara"
+    },
+    {
+      "surface": "תחוללכם",
+      "gloss": "umzala wenu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "mbidise yedwa"
+    },
+    {
+      "surface": "קראתיו",
+      "gloss": "ndimtsalele"
+    },
+    {
+      "surface": "ואברכהו",
+      "gloss": "ndimzele"
+    },
+    {
+      "surface": "וארבהו",
+      "gloss": "ndandise"
+    }
+  ],
+  "timestamp": "2026-09-18T17:34:48.839505958Z",
+  "model": "glm-5.3"
+}

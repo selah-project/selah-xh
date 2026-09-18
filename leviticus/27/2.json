@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 27:2",
+  "book": "leviticus",
+  "lang": "xh",
+  "chapter": 27,
+  "translation": "Thetha kubantwana baYisraele, uthethe kubo: umntu xa eqamba inazare, ngokwexabiso lakho, yimiphefumlo kuYahwe.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "Thetha"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abantwana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "baYisraele"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "uthethe"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "kubo"
+    },
+    {
+      "surface": "איש",
+      "gloss": "umntu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "xa"
+    },
+    {
+      "surface": "יפלא",
+      "gloss": "eqamba"
+    },
+    {
+      "surface": "נדר",
+      "gloss": "inazare"
+    },
+    {
+      "surface": "בערכך",
+      "gloss": "ngokwexabiso lakho"
+    },
+    {
+      "surface": "נפשת",
+      "gloss": "imiphefumlo"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kuYahwe"
+    }
+  ],
+  "timestamp": "2026-09-18T07:09:13.164221204Z",
+  "model": "glm-5.3"
+}

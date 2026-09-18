@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 40:12",
+  "book": "genesis",
+  "lang": "xh",
+  "chapter": 40,
+  "translation": "UYosef wathi kuye: Le yi⟨nkcazelo⟩ yayo — ziigatya ezintathu ⟨ziyimihla⟩ emithathu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kuye"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "uYosef"
+    },
+    {
+      "surface": "זה",
+      "gloss": "le"
+    },
+    {
+      "surface": "פתרנו",
+      "gloss": "inkcazelo yayo"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "ezintathu"
+    },
+    {
+      "surface": "השרגים",
+      "gloss": "ziigatya"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "emithathu"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "imihla"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ziyi"
+    }
+  ],
+  "timestamp": "2026-09-18T05:37:01.808399886Z",
+  "model": "glm-5.3"
+}

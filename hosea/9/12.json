@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "hosea 9:12",
+  "book": "hosea",
+  "lang": "xh",
+  "chapter": 9,
+  "translation": "Nokuba bakhulisa ⟨את⟩ abantwana babo, ndiza kubatshatshaza, kungabikho ndawo yomntu; kuba inene, huyi kubo xa nditshikile kubo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nokuba"
+    },
+    {
+      "surface": "אם",
+      "gloss": ""
+    },
+    {
+      "surface": "יגדלו",
+      "gloss": "bakhulisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abantwana babo"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "abantwana babo"
+    },
+    {
+      "surface": "ושכלתים",
+      "gloss": "ndiza kubatshatshaza"
+    },
+    {
+      "surface": "מאדם",
+      "gloss": "kungabikho ndawo yomntu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "גם",
+      "gloss": "inene"
+    },
+    {
+      "surface": "אוי",
+      "gloss": "huyi"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kubo"
+    },
+    {
+      "surface": "בשורי",
+      "gloss": "xa nditshikile"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "kubo"
+    }
+  ],
+  "timestamp": "2026-09-18T13:46:06.002795229Z",
+  "model": "glm-5.3"
+}

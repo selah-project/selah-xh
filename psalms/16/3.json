@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 16:3",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 16,
+  "translation": "Kwiingcwele ezikwihlabathi — yizo — nakwizikhulu zonke ⟨eziikhulu⟩; ukuthanda kwam kukubo.",
+  "tokens": [
+    {
+      "surface": "לקדושים",
+      "gloss": "Kwiingcwele"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ezi"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ezikwihlabathi"
+    },
+    {
+      "surface": "המה",
+      "gloss": "yizo"
+    },
+    {
+      "surface": "ואדירי",
+      "gloss": "nakwizikhulu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zonke"
+    },
+    {
+      "surface": "חפצי",
+      "gloss": "ukuthanda kwam"
+    },
+    {
+      "surface": "בם",
+      "gloss": "kukubo"
+    }
+  ],
+  "timestamp": "2026-09-18T14:31:58.392098374Z",
+  "model": "glm-5.3"
+}

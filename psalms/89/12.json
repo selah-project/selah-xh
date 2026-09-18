@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 89:12",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 89,
+  "translation": "Amazulu ngawakho, nomhlaba nangowakho; ihlabathi jikelele negcwaliso lalo, wena uwamisela imisele yawo.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "ngawakho"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "amazulu"
+    },
+    {
+      "surface": "אף",
+      "gloss": "nayo"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ngowakho"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "umhlaba"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "ihlabathi jikelele"
+    },
+    {
+      "surface": "ומלאה",
+      "gloss": "negcwaliso lalo"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "יסדתם",
+      "gloss": "uwamisela imisele yawo"
+    }
+  ],
+  "timestamp": "2026-09-18T15:08:05.023094125Z",
+  "model": "glm-5.3"
+}

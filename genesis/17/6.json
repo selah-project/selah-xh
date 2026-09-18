@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 17:6",
+  "book": "genesis",
+  "lang": "xh",
+  "chapter": 17,
+  "translation": "Ndiza kukwandisa ngokwegqithileyo ⟨את⟩ wena, ndiza kukwenza ube ngumthunywa weentlanga; iinkosi ziza kuphuma kuwe.",
+  "tokens": [
+    {
+      "surface": "והפרתי",
+      "gloss": "Ndiza kukwandisa"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "wena"
+    },
+    {
+      "surface": "במאד",
+      "gloss": "ngokwegqithileyo"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "kakhulu (ukugqithisa)"
+    },
+    {
+      "surface": "ונתתיך",
+      "gloss": "ndiza kukwenza ube"
+    },
+    {
+      "surface": "לגוים",
+      "gloss": "liqela leentlanga"
+    },
+    {
+      "surface": "ומלכים",
+      "gloss": "iinkosi"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "kuwe"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "ziza kuphuma"
+    }
+  ],
+  "timestamp": "2026-09-18T05:17:07.920544385Z",
+  "model": "glm-5.3"
+}

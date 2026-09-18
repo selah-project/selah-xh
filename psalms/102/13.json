@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 102:13",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 102,
+  "translation": "Kodwa wena, uYahwe, uza kuhlala kuze kube phakade, negama lokukhunjulwa lwakho kuzizukulwana nazizukulwana.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Kodwa wena"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "kuze kube phakade"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "uza kuhlala"
+    },
+    {
+      "surface": "וזכרך",
+      "gloss": "negama lokukhunjulwa lwakho"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "kuzizukulwana"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "nazizukulwana"
+    }
+  ],
+  "timestamp": "2026-09-18T15:13:48.715347210Z",
+  "model": "glm-5.3"
+}

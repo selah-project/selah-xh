@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 37:5",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 37,
+  "translation": "Wafaka ⟨את⟩ iingcingo kwiintsimbi ezikumacala esikhongozeli, ukuthwala isikhongozeli.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "Wafaka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iingcingo"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "iingcingo"
+    },
+    {
+      "surface": "בטבעת",
+      "gloss": "kwiintsimbi"
+    },
+    {
+      "surface": "על",
+      "gloss": "kwi"
+    },
+    {
+      "surface": "צלעת",
+      "gloss": "macala"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "esikhongozeli"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "ukuthwala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isikhongozeli"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "isikhongozeli"
+    }
+  ],
+  "timestamp": "2026-09-18T06:27:00.398111074Z",
+  "model": "glm-5.3"
+}

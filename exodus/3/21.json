@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 3:21",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 3,
+  "translation": "Kwaye ndiza kunika ⟨את⟩ ububele bala bantu emehlweni baseMitsrayim; kwaye kuya kubenjalo ukuba nithi nihamba, aniyi kuhamba nize.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "ndiza kunika"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ububele"
+    },
+    {
+      "surface": "חן",
+      "gloss": "ububele"
+    },
+    {
+      "surface": "העם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "bala"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "emehlweni"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "baseMitsrayim"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "kuya kubenjalo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ukuba"
+    },
+    {
+      "surface": "תלכון",
+      "gloss": "nithi nihamba"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hayi"
+    },
+    {
+      "surface": "תלכו",
+      "gloss": "niyi kuhamba"
+    },
+    {
+      "surface": "ריקם",
+      "gloss": "nize"
+    }
+  ],
+  "timestamp": "2026-09-18T05:49:57.866863470Z",
+  "model": "glm-5.3"
+}

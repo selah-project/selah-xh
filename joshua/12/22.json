@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "joshua 12:22",
+  "book": "joshua",
+  "lang": "xh",
+  "chapter": 12,
+  "translation": "inkosi yeKedeshi, enye; inkosi yaYokneami kwiKarmeli, enye;",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "inkosi"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "yeKedeshi"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "enye"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "inkosi"
+    },
+    {
+      "surface": "יקנעם",
+      "gloss": "yaYokneami"
+    },
+    {
+      "surface": "לכרמל",
+      "gloss": "kwiKarmeli"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "enye"
+    }
+  ],
+  "timestamp": "2026-09-18T08:35:55.196344126Z",
+  "model": "glm-5.3"
+}

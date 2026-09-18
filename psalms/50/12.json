@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 50:12",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 50,
+  "translation": "Ukuba ndingalamba, andikuxeleli; kuba ihlabathi lizelam, lizele ngako konke okululo.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ukuba"
+    },
+    {
+      "surface": "ארעב",
+      "gloss": "ndingalamba"
+    },
+    {
+      "surface": "לא",
+      "gloss": "andiku-"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "xeleli"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kuxeleli"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "לי",
+      "gloss": "lizelam"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "ihlabathi"
+    },
+    {
+      "surface": "ומלאה",
+      "gloss": "lizele ngako konke okululo"
+    }
+  ],
+  "timestamp": "2026-09-18T14:46:29.233857845Z",
+  "model": "glm-5.3"
+}

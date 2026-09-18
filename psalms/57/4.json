@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 57:4",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 57,
+  "translation": "Uthumela ezulwini, andisindisa, ulahla lowo ekhohla undihlasela. Selah. uElohim uthumela ikhesedi yakhe nentsikelelo ngesinye inyaniso yakhe.",
+  "tokens": [
+    {
+      "surface": "ישלח",
+      "gloss": "Uthumela"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "ezulwini"
+    },
+    {
+      "surface": "ויושיעני",
+      "gloss": "andisindisa"
+    },
+    {
+      "surface": "חרף",
+      "gloss": "ulahla"
+    },
+    {
+      "surface": "שאפי",
+      "gloss": "lowo ekhohla undihlasela"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    },
+    {
+      "surface": "ישלח",
+      "gloss": "uthumela"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ikhesedi yakhe"
+    },
+    {
+      "surface": "ואמתו",
+      "gloss": "nesithembiso sakhe esinye inyaniso yakhe"
+    }
+  ],
+  "timestamp": "2026-09-18T14:52:02.736355685Z",
+  "model": "glm-5.3"
+}

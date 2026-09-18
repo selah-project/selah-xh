@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-samuel 17:4",
+  "book": "2-samuel",
+  "lang": "xh",
+  "chapter": 17,
+  "translation": "ILizwi lalungile emehlweni ka-Avishalom, nakwamehlo onke amadala akwa-Israyeli.",
+  "tokens": [
+    {
+      "surface": "ויישר",
+      "gloss": "lalungile"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ilizwi"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "emehlweni ka-"
+    },
+    {
+      "surface": "אבשלם",
+      "gloss": "u-Avishalom"
+    },
+    {
+      "surface": "ובעיני",
+      "gloss": "nakwamehlo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "onke"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "amadala"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "akwa-Israyeli"
+    }
+  ],
+  "timestamp": "2026-09-18T17:29:49.805542029Z",
+  "model": "glm-5.3"
+}

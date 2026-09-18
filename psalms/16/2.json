@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 16:2",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 16,
+  "translation": "Ndathetha kuYahwe: “Wena ngu-Adonayi ⟨wam⟩; akukho kulungileyo kwam ngaphandle ⟨komda⟩ wakho.”",
+  "tokens": [
+    {
+      "surface": "אמרת",
+      "gloss": "Ndathetha"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kuYahwe"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "u-Adonayi"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Wena"
+    },
+    {
+      "surface": "טובתי",
+      "gloss": "kulungileyo kwam"
+    },
+    {
+      "surface": "בל",
+      "gloss": "akukho"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "ngaphandle wakho"
+    }
+  ],
+  "timestamp": "2026-09-18T14:31:58.391952044Z",
+  "model": "glm-5.3"
+}

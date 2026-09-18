@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 71:12",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 71,
+  "translation": "uElohim, mus’ukude kum; uElohim wam, khawundinceda ngokukhawuleza.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mus’u-"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "kude"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "kum"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "uElohim wam"
+    },
+    {
+      "surface": "לעזרתי",
+      "gloss": "undinceda"
+    },
+    {
+      "surface": "חישה",
+      "gloss": "ngokukhawuleza"
+    }
+  ],
+  "timestamp": "2026-09-18T14:56:48.932902551Z",
+  "model": "glm-5.3"
+}

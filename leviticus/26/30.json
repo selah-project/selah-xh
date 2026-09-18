@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 26:30",
+  "book": "leviticus",
+  "lang": "xh",
+  "chapter": 26,
+  "translation": "Ndiza kutshabalalisa iindawo zokunyuka eziphakamileyo zenu, ndiza kuzinqwaphula izixhobo zokukhanya zenu, ndiza kubeka lithumba zenu phezu kwezithumba zeziqhwala zenu, umphefumlo wam uza kunicathula ⟨את⟩ nina.",
+  "tokens": [
+    {
+      "surface": "והשמדתי",
+      "gloss": "ndiza kutshabalalisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iindawo zokunyuka eziphakamileyo zenu"
+    },
+    {
+      "surface": "במתיכם",
+      "gloss": "iindawo zokunyuka eziphakamileyo zenu"
+    },
+    {
+      "surface": "והכרתי",
+      "gloss": "ndiza kuzinqwaphula"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izixhobo zokukhanya zenu"
+    },
+    {
+      "surface": "חמניכם",
+      "gloss": "izixhobo zokukhanya zenu"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "ndiza kubeka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lithumba zenu"
+    },
+    {
+      "surface": "פגריכם",
+      "gloss": "lithumba zenu"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu"
+    },
+    {
+      "surface": "פגרי",
+      "gloss": "ezithumba"
+    },
+    {
+      "surface": "גלוליכם",
+      "gloss": "zeziqhwala zenu"
+    },
+    {
+      "surface": "וגעלה",
+      "gloss": "uza kunicathula"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "umphefumlo wam"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ nina"
+    }
+  ],
+  "timestamp": "2026-09-18T07:07:33.277828678Z",
+  "model": "glm-5.3"
+}

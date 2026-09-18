@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 118:28",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 118,
+  "translation": "Wena ngu-El wam, ndiza kukudumisa; nguElohim wam, ndiza kukuphakamisa.",
+  "tokens": [
+    {
+      "surface": "אלי",
+      "gloss": "u-El wam"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "ואודך",
+      "gloss": "ndiza kukudumisa"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "nguElohim wam"
+    },
+    {
+      "surface": "ארוממך",
+      "gloss": "ndiza kukuphakamisa"
+    }
+  ],
+  "timestamp": "2026-09-18T15:22:46.120772427Z",
+  "model": "glm-5.3"
+}

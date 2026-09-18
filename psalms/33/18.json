@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 33:18",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 33,
+  "translation": "Nangu: iliso likaYahwe lisezithabathaba kwabamoyikayo, kwabalindela ikhesedi yakhe.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Nangu"
+    },
+    {
+      "surface": "עין",
+      "gloss": "iliso"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "likaYahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "lijongele"
+    },
+    {
+      "surface": "יראיו",
+      "gloss": "kwabamoyikayo"
+    },
+    {
+      "surface": "למיחלים",
+      "gloss": "kwabalindela"
+    },
+    {
+      "surface": "לחסדו",
+      "gloss": "ikhesedi yakhe"
+    }
+  ],
+  "timestamp": "2026-09-18T14:40:35.935161451Z",
+  "model": "glm-5.3"
+}

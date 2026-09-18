@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 92:1",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 92,
+  "translation": "Umculeli odumisayo, iculo, ngosuku lweSabatha.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "umculeli odumisayo"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "iculo"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "ngosuku"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "lweSabatha"
+    }
+  ],
+  "timestamp": "2026-09-18T15:11:44.829055028Z",
+  "model": "glm-5.3"
+}

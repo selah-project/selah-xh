@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 51:10",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 51,
+  "translation": "Ndivenise ivuyoyo nolonwabo; makuvuye iinthambo ozibhokileyo.",
+  "tokens": [
+    {
+      "surface": "תשמיעני",
+      "gloss": "ndivenise"
+    },
+    {
+      "surface": "ששון",
+      "gloss": "ivuyoyo"
+    },
+    {
+      "surface": "ושמחה",
+      "gloss": "nolonwabo"
+    },
+    {
+      "surface": "תגלנה",
+      "gloss": "makuvuye"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "iinthambo"
+    },
+    {
+      "surface": "דכית",
+      "gloss": "ozibhokileyo"
+    }
+  ],
+  "timestamp": "2026-09-18T14:49:20.225025755Z",
+  "model": "glm-5.3"
+}

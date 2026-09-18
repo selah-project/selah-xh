@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 5:3",
+  "book": "ezekiel",
+  "lang": "xh",
+  "chapter": 5,
+  "translation": "Uthathe apho okuncinane ngokobuninzi, uze ubophe ⟨את⟩ kwiiphini zempahla yakho.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "Uthathe"
+    },
+    {
+      "surface": "משם",
+      "gloss": "apho"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "okuncinane"
+    },
+    {
+      "surface": "במספר",
+      "gloss": "ngokobuninzi"
+    },
+    {
+      "surface": "וצרת",
+      "gloss": "uze ubophe"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "iiphini zempahla yakho"
+    },
+    {
+      "surface": "בכנפיך",
+      "gloss": "kwiiphini zempahla yakho"
+    }
+  ],
+  "timestamp": "2026-09-18T12:53:26.303931752Z",
+  "model": "glm-5.3"
+}

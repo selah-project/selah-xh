@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 84:9",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 84,
+  "translation": "uYahwe, uElohim Tsebhayoti, yiva nthandazo yam; zamle ntle ⟨ndlebe⟩, wena Elohim kaYaakov. Selah.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsebhayoti"
+    },
+    {
+      "surface": "שמעה",
+      "gloss": "yiva"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "nthandazo yam"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "zamle ntle ndlebe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "wena Elohim"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "kaYaakov"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-18T15:07:10.930226558Z",
+  "model": "glm-5.3"
+}

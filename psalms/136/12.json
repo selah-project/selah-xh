@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 136:12",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 136,
+  "translation": "Ngesandla esinamandla nangelungu eluliweyo, kuba ikhesedi yakhe ihlala ingunaphakade.",
+  "tokens": [
+    {
+      "surface": "ביד",
+      "gloss": "Ngesandla"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "esinamandla"
+    },
+    {
+      "surface": "ובזרוע",
+      "gloss": "nangelungu"
+    },
+    {
+      "surface": "נטויה",
+      "gloss": "eluliweyo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ihlala ingunaphakade"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ikhesedi yakhe"
+    }
+  ],
+  "timestamp": "2026-09-18T15:30:00.585761571Z",
+  "model": "glm-5.3"
+}

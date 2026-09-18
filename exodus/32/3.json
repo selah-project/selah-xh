@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 32:3",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 32,
+  "translation": "Abantu bonke bakhipha ⟨את⟩ amaqhina egolide asezindlebeni zabo, bazisa ku-Aharoni.",
+  "tokens": [
+    {
+      "surface": "ויתפרקו",
+      "gloss": "bakhipha"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bonke"
+    },
+    {
+      "surface": "העם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amaqhina egolide"
+    },
+    {
+      "surface": "נזמי",
+      "gloss": "amaqhina"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "egolide"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ase"
+    },
+    {
+      "surface": "באזניהם",
+      "gloss": "ezindlebeni zabo"
+    },
+    {
+      "surface": "ויביאו",
+      "gloss": "bazisa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "u-Aharoni"
+    }
+  ],
+  "timestamp": "2026-09-18T06:23:06.042742706Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 26:7",
+  "book": "isaiah",
+  "lang": "xh",
+  "chapter": 26,
+  "translation": "Indlela yolungileyo ngokwenene isebenzisa ubunzima obulinganileyo; Wena Ololungileyo uhlambulula indlela yolungileyo.",
+  "tokens": [
+    {
+      "surface": "ארח",
+      "gloss": "Indlela"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "yolungileyo"
+    },
+    {
+      "surface": "מישרים",
+      "gloss": "isebenzisa ubunzima obulinganileyo"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "Wena Ololungileyo"
+    },
+    {
+      "surface": "מעגל",
+      "gloss": "indlela"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "yolungileyo"
+    },
+    {
+      "surface": "תפלס",
+      "gloss": "uhlambulula"
+    }
+  ],
+  "timestamp": "2026-09-18T11:17:48.962655842Z",
+  "model": "glm-5.3"
+}

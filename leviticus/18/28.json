@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "leviticus 18:28",
+  "book": "leviticus",
+  "lang": "xh",
+  "chapter": 18,
+  "translation": "Kwehlise umhlaba ukubamisa ⟨את⟩ nina xa nizitywina ⟨את⟩ lona, njengoko wabamisa ⟨את⟩ uluntu olwaluphambi kwenu.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "kwehlise"
+    },
+    {
+      "surface": "תקיא",
+      "gloss": "ukubamisa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "umhlaba"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ nina"
+    },
+    {
+      "surface": "בטמאכם",
+      "gloss": "xa nizitywina"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ lona"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "njengoko"
+    },
+    {
+      "surface": "קאה",
+      "gloss": "wabamisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uluntu"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "uluntu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "olwalu-"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "phambi kwenu"
+    }
+  ],
+  "timestamp": "2026-09-18T06:53:14.562782519Z",
+  "model": "glm-5.3"
+}

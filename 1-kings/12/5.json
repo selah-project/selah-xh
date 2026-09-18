@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 12:5",
+  "book": "1-kings",
+  "lang": "xh",
+  "chapter": 12,
+  "translation": "Wathi kubo: “Hambani ⟨kwangaphezu⟩ iintsuku ezintathu, nize nibuyele kum.” Abantu baya.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Wathi"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "kubo"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "Hambani"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "kwangaphezu"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "ezintathu"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "iintsuku"
+    },
+    {
+      "surface": "ושובו",
+      "gloss": "nize nibuyele"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kum"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "baya"
+    },
+    {
+      "surface": "העם",
+      "gloss": "abantu"
+    }
+  ],
+  "timestamp": "2026-09-18T10:26:18.932976968Z",
+  "model": "glm-5.3"
+}

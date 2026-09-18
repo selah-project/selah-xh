@@ -1,0 +1,116 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 22:3",
+  "book": "genesis",
+  "lang": "xh",
+  "chapter": 22,
+  "translation": "U-Avraham wavuka ekuseni kwenkwenkwezi, wabethela ⟨את⟩ undunwana lwakhe, wathatha ⟨את⟩ amakhwenkwe akhe amabini ⟨את⟩ naye, kunye ⟨את⟩ no-Yitshaki unyana wakhe, wavula iinkuni zomnikelo wokutshisa, wavuka wahamba aya kwindawo uElohim ayimtshela yona.",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "wavuka ekuseni"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "U-Avraham"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "ekuseni"
+    },
+    {
+      "surface": "ויחבש",
+      "gloss": "wabethela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "undunwana lwakhe"
+    },
+    {
+      "surface": "חמרו",
+      "gloss": "undunwana lwakhe"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "wathatha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amakhwenkwe akhe amabini"
+    },
+    {
+      "surface": "שני",
+      "gloss": "amabini"
+    },
+    {
+      "surface": "נעריו",
+      "gloss": "amakhwenkwe akhe"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ naye"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kunye ⟨את⟩",
+      "marks": "u-Yitshaki"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "u-Yitshaki"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "unyana wakhe"
+    },
+    {
+      "surface": "ויבקע",
+      "gloss": "wavula"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "iinkuni"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "zomnikelo wokutshisa"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "wavuka"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "wahamba"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwi"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "indawo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "eyayimtshelwa"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "utsho"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kuye"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "uElohim"
+    }
+  ],
+  "timestamp": "2026-09-18T05:21:04.893461237Z",
+  "model": "glm-5.3"
+}

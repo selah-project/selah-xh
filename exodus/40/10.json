@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 40:10",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 40,
+  "translation": "Uza kuthanjisa ⟨את⟩ ialtare lomnikelo otshiswayo ⟨את⟩ nazo zonke izixhobo zalo, uza kuyingcwelekisa ⟨את⟩ ialtare, yaye ialtare liya kuba yingcwele yeengcwele.",
+  "tokens": [
+    {
+      "surface": "ומשחת",
+      "gloss": "uza kuthanjisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ialtare"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "ialtare"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "lomnikelo otshiswayo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "zonke"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zonke"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "izixhobo zalo"
+    },
+    {
+      "surface": "וקדשת",
+      "gloss": "uza kuyingcwelekisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ialtare"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "ialtare"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "yaye"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "ialtare"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "ingcwele"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "yeengcwele"
+    }
+  ],
+  "timestamp": "2026-09-18T06:31:27.839996414Z",
+  "model": "glm-5.3"
+}

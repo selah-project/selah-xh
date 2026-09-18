@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 10:4",
+  "book": "leviticus",
+  "lang": "xh",
+  "chapter": 10,
+  "translation": "UMoshe wabizela uMishaeli no-Elitsaphani, oonyana baka-Uzzieli, umalume ka-Aharon, wathi kubo: “Sondelani, thathani ⟨את⟩ abazalwana benu ⟨את⟩ ukusuka phambi kwendawo engcwele, niphume nangaphandle kweskempe.”",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "wabizela"
+    },
+    {
+      "surface": "משה",
+      "gloss": "uMoshe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "מישאל",
+      "gloss": "uMishaeli"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "no-"
+    },
+    {
+      "surface": "אלצפן",
+      "gloss": "u-Elitsaphani"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oonyana"
+    },
+    {
+      "surface": "עזיאל",
+      "gloss": "baka-Uzzieli"
+    },
+    {
+      "surface": "דד",
+      "gloss": "umalume"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "ka-Aharon"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "kubo"
+    },
+    {
+      "surface": "קרבו",
+      "gloss": "sondelani"
+    },
+    {
+      "surface": "שאו",
+      "gloss": "thathani"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abazalwana benu"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "abazalwana benu"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩ ukusuka",
+      "marks": "phambi kwendawo engcwele"
+    },
+    {
+      "surface": "פני",
+      "gloss": "phambi"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "kwendawo engcwele"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nge-"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "ngaphandle"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "kweskempe"
+    }
+  ],
+  "timestamp": "2026-09-18T06:45:16.298072488Z",
+  "model": "glm-5.3"
+}

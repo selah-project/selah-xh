@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 119:20",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 119,
+  "translation": "Umphefumlo wam uphukile ngulangazelelo kwimigalelo yakho ngelo xesha lonke.",
+  "tokens": [
+    {
+      "surface": "גרסה",
+      "gloss": "uphukile"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "umphefumlo wam"
+    },
+    {
+      "surface": "לתאבה",
+      "gloss": "ngulangazelelo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwi-"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "imigalelo yakho"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ngelo"
+    },
+    {
+      "surface": "עת",
+      "gloss": "xesha lonke"
+    }
+  ],
+  "timestamp": "2026-09-18T15:23:19.005957925Z",
+  "model": "glm-5.3"
+}

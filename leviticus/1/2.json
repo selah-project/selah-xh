@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 1:2",
+  "book": "leviticus",
+  "lang": "xh",
+  "chapter": 1,
+  "translation": "Thetha kuwanawamakwabo uSirayeli, uthi kubo: Xa umntu kuni enikele ngenkosi-mali kuYahwe, kwiihambe zomhlaba — kwinkomo nakwimvu — nibe nisenikele ngenkosi-mali yenu ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "Thetha"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "בני",
+      "gloss": "kuwanawamakwabo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "uSirayeli"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "uthi"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "kubo"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "umntu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "xa"
+    },
+    {
+      "surface": "יקריב",
+      "gloss": "enikele"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "kuni"
+    },
+    {
+      "surface": "קרבן",
+      "gloss": "nenkosi-mali"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kuYahwe"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kwii"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "zomhlaba"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kwii"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "nkomo"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "nakwii"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "mvu"
+    },
+    {
+      "surface": "תקריבו",
+      "gloss": "nibe nisenikele"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "inkosi-mali yenu"
+    },
+    {
+      "surface": "קרבנכם",
+      "gloss": "inkosi-mali yenu"
+    }
+  ],
+  "timestamp": "2026-09-18T06:33:45.313194144Z",
+  "model": "glm-5.3"
+}

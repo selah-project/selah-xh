@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 11:12",
+  "book": "deuteronomy",
+  "lang": "xh",
+  "chapter": 11,
+  "translation": "Umhlaba uYahwe uThixo wakho eyahla ngayo aze akhangele ⟨את⟩ yona ngokungenamva; amehlo kaYahwe uThixo wakho awo kaloku, ekuqaleni kwonyaka ukuya kwisiwe lokugqibela lonyaka.",
+  "tokens": [
+    {
+      "surface": "ארץ",
+      "gloss": "umhlaba"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "o-"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "uThixo wakho"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "eyahla ngayo aze akhangele"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "yona"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "ngokungenamva"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "amehlo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kaYahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "uThixo wakho"
+    },
+    {
+      "surface": "בה",
+      "gloss": "awo kaloku"
+    },
+    {
+      "surface": "מרשית",
+      "gloss": "ekuqaleni"
+    },
+    {
+      "surface": "השנה",
+      "gloss": "kwonyaka"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ukuya"
+    },
+    {
+      "surface": "אחרית",
+      "gloss": "kwisiwe lokugqibela"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "lonyaka"
+    }
+  ],
+  "timestamp": "2026-09-18T08:01:12.581656644Z",
+  "model": "glm-5.3"
+}

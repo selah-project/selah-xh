@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 66:2",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 66,
+  "translation": "Mbadinise ngesidiniswa sezibongo zakhe, nikenela izibongo zakhe ngobukhali.",
+  "tokens": [
+    {
+      "surface": "זמרו",
+      "gloss": "mbadinise ngesidiniswa"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "ngesidiniswa"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "sezibongo zakhe"
+    },
+    {
+      "surface": "שימו",
+      "gloss": "nikenela"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "ngobukhali"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "izibongo zakhe"
+    }
+  ],
+  "timestamp": "2026-09-18T14:53:33.388043010Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 1:2",
+  "book": "ecclesiastes",
+  "lang": "xh",
+  "chapter": 1,
+  "translation": "Ize yezize, wathi uKuhelethe; ize yezize, konke ⟨ngu⟩ ize.",
+  "tokens": [
+    {
+      "surface": "הבל",
+      "gloss": "Ize"
+    },
+    {
+      "surface": "הבלים",
+      "gloss": "yezize"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "uKuhelethe"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "ize"
+    },
+    {
+      "surface": "הבלים",
+      "gloss": "yezize"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "konke"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "ize"
+    }
+  ],
+  "timestamp": "2026-09-18T16:24:02.225767184Z",
+  "model": "glm-5.3"
+}

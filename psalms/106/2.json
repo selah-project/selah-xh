@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 106:2",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 106,
+  "translation": "Ngubani oza kuxoxa amandla kaYahwe? Ngubani oza kwenza udumo lwakhe lonke ⟨lusive⟩?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Ngubani"
+    },
+    {
+      "surface": "ימלל",
+      "gloss": "oza kuxoxa"
+    },
+    {
+      "surface": "גבורות",
+      "gloss": "amandla"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kaYahwe"
+    },
+    {
+      "surface": "ישמיע",
+      "gloss": "oza kwenza ... lusive"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lonke"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "udumo lwakhe"
+    }
+  ],
+  "timestamp": "2026-09-18T15:17:39.792656009Z",
+  "model": "glm-5.3"
+}

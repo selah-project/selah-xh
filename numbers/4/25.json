@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 4:25",
+  "book": "numbers",
+  "lang": "xh",
+  "chapter": 4,
+  "translation": "Kwaye baza kuthwala ⟨את⟩ iikhethe zendlu yokuhlala, kwaye ⟨את⟩ itente yokudibana, isigqumo sayo, nesigqumo seezitakhashi eso siphezu kwayo phezulu, kwaye ⟨את⟩ isikhuselo somnyango wetente yokudibana.",
+  "tokens": [
+    {
+      "surface": "ונשאו",
+      "gloss": "baza kuthwala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iikhethe zendlu yokuhlala"
+    },
+    {
+      "surface": "יריעת",
+      "gloss": "iikhethe"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "zendlu yokuhlala"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "itente yokudibana"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "itente"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "yokudibana"
+    },
+    {
+      "surface": "מכסהו",
+      "gloss": "isigqumo sayo"
+    },
+    {
+      "surface": "ומכסה",
+      "gloss": "nesigqumo"
+    },
+    {
+      "surface": "התחש",
+      "gloss": "seezitakhashi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "eso"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "siphezu kwayo"
+    },
+    {
+      "surface": "מלמעלה",
+      "gloss": "phezulu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "isikhuselo somnyango"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "isikhuselo"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "somnyango"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "wetente"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "yokudibana"
+    }
+  ],
+  "timestamp": "2026-09-18T07:15:52.728743497Z",
+  "model": "glm-5.3"
+}

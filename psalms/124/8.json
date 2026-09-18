@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 124:8",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 124,
+  "translation": "Iinceba yethu yikho kwiGama likaYahwe, umenzi wezulu nomhlaba.",
+  "tokens": [
+    {
+      "surface": "עזרנו",
+      "gloss": "iinceba yethu"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "kwiGama lika-"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "umenzi we-"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "ezulu"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "nomhlaba"
+    }
+  ],
+  "timestamp": "2026-09-18T15:29:20.918719512Z",
+  "model": "glm-5.3"
+}

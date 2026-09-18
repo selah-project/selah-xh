@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 100:3",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 100,
+  "translation": "Yazini ukuba uYahwe nguye uElohim; yena wasenza thina, asithanga sixhasa; sisipeople sakhe, simfuyo yokwakwisa kwakhe.",
+  "tokens": [
+    {
+      "surface": "דעו",
+      "gloss": "Yazini"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ukuba"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "nguye"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yena"
+    },
+    {
+      "surface": "עשנו",
+      "gloss": "wasenza thina"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "asithanga"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "sixhasa"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "sipeople sakhe"
+    },
+    {
+      "surface": "וצאן",
+      "gloss": "simfuyo"
+    },
+    {
+      "surface": "מרעיתו",
+      "gloss": "yokwakwisa kwakhe"
+    }
+  ],
+  "timestamp": "2026-09-18T15:14:14.804737286Z",
+  "model": "glm-5.3"
+}

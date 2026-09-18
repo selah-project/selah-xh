@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-kings 23:14",
+  "book": "2-kings",
+  "lang": "xh",
+  "chapter": 23,
+  "translation": "Waza watshabalalisa ⟨את⟩ iindonga ezimiyo, wasika phantsi ⟨את⟩ ii-Asherah, wazalisa indawo yazo ngamathambo omntu.",
+  "tokens": [
+    {
+      "surface": "ושבר",
+      "gloss": "watshabalalisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iindonga ezimiyo"
+    },
+    {
+      "surface": "המצבות",
+      "gloss": "iindonga ezimiyo"
+    },
+    {
+      "surface": "ויכרת",
+      "gloss": "wasika phantsi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ii-Asherah"
+    },
+    {
+      "surface": "האשרים",
+      "gloss": "ii-Asherah"
+    },
+    {
+      "surface": "וימלא",
+      "gloss": "wazalisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "indawo yazo"
+    },
+    {
+      "surface": "מקומם",
+      "gloss": "indawo yazo"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "ngamathambo"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "omntu"
+    }
+  ],
+  "timestamp": "2026-09-18T10:59:47.003526741Z",
+  "model": "glm-5.3"
+}

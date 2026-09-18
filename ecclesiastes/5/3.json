@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 5:3",
+  "book": "ecclesiastes",
+  "lang": "xh",
+  "chapter": 5,
+  "translation": "Xa uthembisa isithembiso kuElohim, musa ukulibazisa ukuligqibezela; kuba akukho kulonwazo kumahlakani; ⟨את⟩ oku uthembisileyo, ligqibezela.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "xa"
+    },
+    {
+      "surface": "תדר",
+      "gloss": "uthembisa"
+    },
+    {
+      "surface": "נדר",
+      "gloss": "isithembiso"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "kuElohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "musa"
+    },
+    {
+      "surface": "תאחר",
+      "gloss": "ukulibazisa"
+    },
+    {
+      "surface": "לשלמו",
+      "gloss": "ukuligqibezela"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "אין",
+      "gloss": "akukho"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "kulonwazo"
+    },
+    {
+      "surface": "בכסילים",
+      "gloss": "kumahlakani"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oku uthembisileyo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oku"
+    },
+    {
+      "surface": "תדר",
+      "gloss": "uthembisileyo"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "ligqibezela"
+    }
+  ],
+  "timestamp": "2026-09-18T16:24:42.330371232Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 109:16",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 109,
+  "translation": "Ngenxa yokuba akakhumbulanga ukwenza ikhesedi, wandibalela umntu oswelileyo nongafuniyo, nomcala-hliziyo, ukumbulala.",
+  "tokens": [
+    {
+      "surface": "יען",
+      "gloss": "ngenxa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "okokuba"
+    },
+    {
+      "surface": "לא",
+      "gloss": "akakhumbulanga"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "ukukhumbula"
+    },
+    {
+      "surface": "עשות",
+      "gloss": "ukwenza"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "ikhesedi"
+    },
+    {
+      "surface": "וירדף",
+      "gloss": "wandibalela"
+    },
+    {
+      "surface": "איש",
+      "gloss": "umntu"
+    },
+    {
+      "surface": "עני",
+      "gloss": "oswelileyo"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "nongafuniyo"
+    },
+    {
+      "surface": "ונכאה",
+      "gloss": "nomcala-"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "hliziyo"
+    },
+    {
+      "surface": "למותת",
+      "gloss": "ukumbulala"
+    }
+  ],
+  "timestamp": "2026-09-18T15:20:46.623984713Z",
+  "model": "glm-5.3"
+}

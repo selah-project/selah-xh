@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "1-chronicles 6:43",
+  "book": "1-chronicles",
+  "lang": "xh",
+  "chapter": 6,
+  "translation": "Kunye ⟨את⟩ neKilen kunye ⟨את⟩ neendawo zalo zokusinga, ⟨את⟩ iDebhiri kunye ⟨את⟩ neendawe zalo zokusinga.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "neKilen"
+    },
+    {
+      "surface": "חילז",
+      "gloss": "neKilen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "neendawo zalo zokusinga"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "neendawo zalo zokusinga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iDebhiri"
+    },
+    {
+      "surface": "דביר",
+      "gloss": "iDebhiri"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "neendawe zalo zokusinga"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "neendawe zalo zokusinga"
+    }
+  ],
+  "timestamp": "2026-09-18T16:52:26.572370547Z",
+  "model": "glm-5.3"
+}

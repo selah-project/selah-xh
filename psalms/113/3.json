@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 113:3",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 113,
+  "translation": "Ukusukela ekuvukeni kwelanga ukufikelela ekutyokeni kwako, makudunyiswe igama likaYahwe.",
+  "tokens": [
+    {
+      "surface": "ממזרח",
+      "gloss": "Ukusukela ekuvukeni"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "kwelanga"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ukufikelela"
+    },
+    {
+      "surface": "מבואו",
+      "gloss": "ekutyokeni kwako"
+    },
+    {
+      "surface": "מהלל",
+      "gloss": "makudunyiswe"
+    },
+    {
+      "surface": "שם",
+      "gloss": "igama"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "likaYahwe"
+    }
+  ],
+  "timestamp": "2026-09-18T15:19:56.823098116Z",
+  "model": "glm-5.3"
+}

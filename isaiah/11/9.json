@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 11:9",
+  "book": "isaiah",
+  "lang": "xh",
+  "chapter": 11,
+  "translation": "Hayi ukulimaza, kananjalo hayi ukutshabalalisa, kuyo yonke intaba yam engcwele; kuba umhlaba ugqityiwe ukuzala ulwazi ⟨ngo⟩Yahwe, njengamanzi olwandle esiwafihlayo.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "hayi"
+    },
+    {
+      "surface": "ירעו",
+      "gloss": "ukulimaza"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kananjalo hayi"
+    },
+    {
+      "surface": "ישחיתו",
+      "gloss": "ukutshabalalisa"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "kuyo yonke"
+    },
+    {
+      "surface": "הר",
+      "gloss": "intaba"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "yam engcwele"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "ugqityiwe ukuzala"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "umhlaba"
+    },
+    {
+      "surface": "דעה",
+      "gloss": "ulwazi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uYahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "njengamanzi"
+    },
+    {
+      "surface": "לים",
+      "gloss": "olwandle"
+    },
+    {
+      "surface": "מכסים",
+      "gloss": "esiwafihlayo"
+    }
+  ],
+  "timestamp": "2026-09-18T11:10:30.665707464Z",
+  "model": "glm-5.3"
+}

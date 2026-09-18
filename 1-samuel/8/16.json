@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 8:16",
+  "book": "1-samuel",
+  "lang": "xh",
+  "chapter": 8,
+  "translation": "Kananjalo ⟨את⟩ iinkonqobo zenu zangamadoda, ⟨את⟩ nezicaka zenu zangamakhosikazi, ⟨את⟩ neentshaba zenu ezikhulu eziliwa ngcono, ⟨את⟩ nizibham zenu uza kuthabatha, aze azisebenzise emsebenzini wakhe.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "iinkonqobo zenu zangamadoda"
+    },
+    {
+      "surface": "עבדיכם",
+      "gloss": "iinkonqobo zenu zangamadoda"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "izicaka zenu zangamakhosikazi"
+    },
+    {
+      "surface": "שפחותיכם",
+      "gloss": "izicaka zenu zangamakhosikazi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "neentshaba zenu eziliwa ngcono"
+    },
+    {
+      "surface": "בחוריכם",
+      "gloss": "neentshaba zenu"
+    },
+    {
+      "surface": "הטובים",
+      "gloss": "eziliwa ngcono"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "nizibham zenu"
+    },
+    {
+      "surface": "חמוריכם",
+      "gloss": "nizibham zenu"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "uza kuthabatha"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "aze azisebenzise"
+    },
+    {
+      "surface": "למלאכתו",
+      "gloss": "emsebenzini wakhe"
+    }
+  ],
+  "timestamp": "2026-09-18T09:15:11.316588664Z",
+  "model": "glm-5.3"
+}

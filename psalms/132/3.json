@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 132:3",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 132,
+  "translation": "“Ukuba ndingena etendeni yendlu yam, ukuba ndinyuka phezu kobhede lokulala kwam —",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ukuba"
+    },
+    {
+      "surface": "אבא",
+      "gloss": "ndingena"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "etendeni"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "yendlu yam"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ukuba"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "ndinyuka"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu"
+    },
+    {
+      "surface": "ערש",
+      "gloss": "kobhede"
+    },
+    {
+      "surface": "יצועי",
+      "gloss": "lokulala kwam"
+    }
+  ],
+  "timestamp": "2026-09-18T15:27:27.680395991Z",
+  "model": "glm-5.3"
+}

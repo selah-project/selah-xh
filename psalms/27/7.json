@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 27:7",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 27,
+  "translation": "Yiva, Yahwe, ilizwi lam xa ndisibiza; ndincebele, kananjalo undiphendule.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "Yiva"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "ilizwi lam"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "xa ndisibiza"
+    },
+    {
+      "surface": "וחנני",
+      "gloss": "ndincebele"
+    },
+    {
+      "surface": "וענני",
+      "gloss": "kananjalo undiphendule"
+    }
+  ],
+  "timestamp": "2026-09-18T14:39:06.458971286Z",
+  "model": "glm-5.3"
+}

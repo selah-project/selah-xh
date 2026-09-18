@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 22:25",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 22,
+  "translation": "Ukuba njengesinxibelelo uthatha ingubo yokunene yakho, de ilanga lingene uza kuyibuyisela kuye.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ukuba"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "njengesinxibelelo"
+    },
+    {
+      "surface": "תחבל",
+      "gloss": "uthatha"
+    },
+    {
+      "surface": "שלמת",
+      "gloss": "ingubo"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "yokunene yakho"
+    },
+    {
+      "surface": "עד",
+      "gloss": "de"
+    },
+    {
+      "surface": "בא",
+      "gloss": "lingene"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "ilanga"
+    },
+    {
+      "surface": "תשיבנו",
+      "gloss": "uza kuyibuyisela"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kuye"
+    }
+  ],
+  "timestamp": "2026-09-18T06:08:14.766787883Z",
+  "model": "glm-5.3"
+}

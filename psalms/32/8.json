@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 32:8",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 32,
+  "translation": "Ndiza kukhokhela ngolwazi, ndiza kukhokhela endleleni ehle uya kuhamba ngayo; ndiza kukucebisa, amehlo am aphelele kuwe.",
+  "tokens": [
+    {
+      "surface": "אשכילך",
+      "gloss": "ndiza kukhokhela ngolwazi"
+    },
+    {
+      "surface": "ו אורך",
+      "gloss": "ndiza kukhokhela"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "endleweni"
+    },
+    {
+      "surface": "זו",
+      "gloss": "ehle"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "uya kuhamba"
+    },
+    {
+      "surface": "איעצה",
+      "gloss": "ndiza kukucebisa"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "kuwe"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "amehlo am aphelele"
+    }
+  ],
+  "timestamp": "2026-09-18T14:42:18.085167187Z",
+  "model": "glm-5.3"
+}

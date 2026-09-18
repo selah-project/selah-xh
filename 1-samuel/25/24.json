@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-samuel 25:24",
+  "book": "1-samuel",
+  "lang": "xh",
+  "chapter": 25,
+  "translation": "Waza wawela phanzi kweenyawo zakhe, wathetha wathi: Nkosi yam, kum ingcali yonke; nondibethele, nkosi, lanto yakho, eendlebe zakho; kakho uluvakalisi malunga neentshuba zento yakho.",
+  "tokens": [
+    {
+      "surface": "ותפל",
+      "gloss": "wawela phansi"
+    },
+    {
+      "surface": "על",
+      "gloss": "kwi-"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "nyawo zakhe"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "wathetha"
+    },
+    {
+      "surface": "בי",
+      "gloss": "Nkosi yam"
+    },
+    {
+      "surface": "אני",
+      "gloss": "kum"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "nkosi yam"
+    },
+    {
+      "surface": "העון",
+      "gloss": "ingcali yonke"
+    },
+    {
+      "surface": "ותדבר",
+      "gloss": "undibethele"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ndicela"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "lanto yakho"
+    },
+    {
+      "surface": "באזניך",
+      "gloss": "eendlebe zakho"
+    },
+    {
+      "surface": "ושמע",
+      "gloss": "kakho uluvakalisi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iintsuba"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "iintsuba"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "zento yakho"
+    }
+  ],
+  "timestamp": "2026-09-18T09:35:11.857740322Z",
+  "model": "glm-5.3"
+}

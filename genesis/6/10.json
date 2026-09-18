@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 6:10",
+  "book": "genesis",
+  "lang": "xh",
+  "chapter": 6,
+  "translation": "UNosi wazala abantwana abathathu: uShemu, uKhami, noYefeti.",
+  "tokens": [
+    {
+      "surface": "ויולד",
+      "gloss": "wazala"
+    },
+    {
+      "surface": "נח",
+      "gloss": "uNosi"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "abathathu"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "abantwana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uShemu"
+    },
+    {
+      "surface": "שם",
+      "gloss": "uShemu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uKhami"
+    },
+    {
+      "surface": "חם",
+      "gloss": "uKhami"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "no⟨את⟩",
+      "marks": "uYefeti"
+    },
+    {
+      "surface": "יפת",
+      "gloss": "uYefeti"
+    }
+  ],
+  "timestamp": "2026-09-18T05:09:28.824529542Z",
+  "model": "glm-5.3"
+}

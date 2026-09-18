@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 124:7",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 124,
+  "translation": "Iiphefumlo zethu ziphumele ekuthabaleni njengentshuntshe yezinyoni, isithwebuli siphelelwe amandla, singawabambi abaentshuntshe, yaye thina siphelele ekuthabaleni.",
+  "tokens": [
+    {
+      "surface": "נפשנו",
+      "gloss": "iiphefumlo zethu"
+    },
+    {
+      "surface": "כצפור",
+      "gloss": "njengentshuntshe yezinyoni"
+    },
+    {
+      "surface": "נמלטה",
+      "gloss": "ziphumele ekuthabaleni"
+    },
+    {
+      "surface": "מפח",
+      "gloss": "isithwebuli"
+    },
+    {
+      "surface": "יוקשים",
+      "gloss": "singawabambi abaentshuntshe"
+    },
+    {
+      "surface": "הפח",
+      "gloss": "isithwebuli"
+    },
+    {
+      "surface": "נשבר",
+      "gloss": "siphelelwe amandla"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "yaye thina"
+    },
+    {
+      "surface": "נמלטנו",
+      "gloss": "siphelele ekuthabaleni"
+    }
+  ],
+  "timestamp": "2026-09-18T15:29:20.918583520Z",
+  "model": "glm-5.3"
+}

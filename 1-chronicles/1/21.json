@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-chronicles 1:21",
+  "book": "1-chronicles",
+  "lang": "xh",
+  "chapter": 1,
+  "translation": "nayo ⟨את⟩ iHadoram, nayo ⟨את⟩ i-Uzali, nayo ⟨את⟩ iDiklahi.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "iHadoram"
+    },
+    {
+      "surface": "הדורם",
+      "gloss": "iHadoram"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "i-Uzali"
+    },
+    {
+      "surface": "אוזל",
+      "gloss": "i-Uzali"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "iDiklahi"
+    },
+    {
+      "surface": "דקלה",
+      "gloss": "iDiklahi"
+    }
+  ],
+  "timestamp": "2026-09-18T16:49:52.835773998Z",
+  "model": "glm-5.3"
+}

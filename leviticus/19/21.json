@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 19:21",
+  "book": "leviticus",
+  "lang": "xh",
+  "chapter": 19,
+  "translation": "Waza wazisa ⟨את⟩ asham yakhe kuYahwe, kumnyango wetentsi yokudibana, iramu ye-asham.",
+  "tokens": [
+    {
+      "surface": "והביא",
+      "gloss": "wazisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "asham yakhe"
+    },
+    {
+      "surface": "אשמו",
+      "gloss": "asham yakhe"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kuYahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "kumnyango"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "wetentsi"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "yokudibana"
+    },
+    {
+      "surface": "איל",
+      "gloss": "iramu"
+    },
+    {
+      "surface": "אשם",
+      "gloss": "ye-asham"
+    }
+  ],
+  "timestamp": "2026-09-18T06:58:36.666582917Z",
+  "model": "glm-5.3"
+}

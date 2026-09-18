@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 6:2",
+  "book": "genesis",
+  "lang": "xh",
+  "chapter": 6,
+  "translation": "Abantwana bakwaElohim babona ⟨את⟩ iintombi zabantu ukuba zintle, basazithatha abafazi kwazo zonke ababaziqwalaselayo.",
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "babona"
+    },
+    {
+      "surface": "בני",
+      "gloss": "Abantwana"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "bakwaElohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iintombi zabantu"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "iintombi"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "zabantu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ukuba"
+    },
+    {
+      "surface": "טבת",
+      "gloss": "zintle"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "zi"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "basazithatha"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kuzo"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "abafazi"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "kwazo zonke"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aba"
+    },
+    {
+      "surface": "בחרו",
+      "gloss": "ziqwalaselayo"
+    }
+  ],
+  "timestamp": "2026-09-18T05:11:19.441490930Z",
+  "model": "glm-5.3"
+}

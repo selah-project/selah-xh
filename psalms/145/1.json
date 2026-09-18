@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 145:1",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 145,
+  "translation": "Iidumiso kaDavide. Ndiza kukuzisa phezulu, u-Eloha wam, ⟨inkosi⟩, ndiza kukubusisa igama lakho kuze kube phakade naphakade.",
+  "tokens": [
+    {
+      "surface": "תהלה",
+      "gloss": "Iidumiso"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "kaDavide"
+    },
+    {
+      "surface": "ארוממך",
+      "gloss": "Ndiza kukuzisa phezulu"
+    },
+    {
+      "surface": "אלוהי",
+      "gloss": "u-Eloha wam"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "⟨inkosi⟩"
+    },
+    {
+      "surface": "ואברכה",
+      "gloss": "ndiza kukubusisa"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "igama lakho"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "kuze kube phakade"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "naphakade"
+    }
+  ],
+  "timestamp": "2026-09-18T15:34:09.572605745Z",
+  "model": "glm-5.3"
+}

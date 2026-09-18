@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 140:9",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 140,
+  "translation": "Musa ukunika, uYahwe, iinkanuko zomntu olwazi-olubi; musa ukuphumeza icebo lakhe, ukuze bangazikhulusa. Selah.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "musa"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "ukunika"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "מאויי",
+      "gloss": "iinkanuko"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "zelwazi-olubi"
+    },
+    {
+      "surface": "זממו",
+      "gloss": "icebo lakhe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "musa"
+    },
+    {
+      "surface": "תפק",
+      "gloss": "ukuphumeza"
+    },
+    {
+      "surface": "ירומו",
+      "gloss": "ukuzikhulusa"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-18T15:30:42.296212664Z",
+  "model": "glm-5.3"
+}

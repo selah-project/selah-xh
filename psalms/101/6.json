@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 101:6",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 101,
+  "translation": "Amehlo am ajonge abakholeleyo bomhlaba, ukuba bahlale ncam ndi; lowo uhamba ngendlela engenantlekelo, yena uza kundikhonza.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "amehlo am"
+    },
+    {
+      "surface": "בנאמני",
+      "gloss": "abakholeleyo"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "bomhlaba"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "ukuba bahlale"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "ncam ndi"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "lowo uhamba"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "ngendlela"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "engenantlekelo"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yena"
+    },
+    {
+      "surface": "ישרתני",
+      "gloss": "uza kundikhonza"
+    }
+  ],
+  "timestamp": "2026-09-18T15:15:18.476715274Z",
+  "model": "glm-5.3"
+}

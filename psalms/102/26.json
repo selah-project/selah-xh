@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 102:26",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 102,
+  "translation": "Kudala wamisela isiseko somhlaba, kwaye amazulu ngumsebenzo wezandla zakho.",
+  "tokens": [
+    {
+      "surface": "לפנים",
+      "gloss": "Kudala"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "umhlaba"
+    },
+    {
+      "surface": "יסדת",
+      "gloss": "wamisela isiseko"
+    },
+    {
+      "surface": "ומעשה",
+      "gloss": "kwaye ngumsebenzo"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "wezandla zakho"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "amazulu"
+    }
+  ],
+  "timestamp": "2026-09-18T15:14:22.349607890Z",
+  "model": "glm-5.3"
+}

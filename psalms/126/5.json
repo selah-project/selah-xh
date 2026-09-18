@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 126:5",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 126,
+  "translation": "Abatyalayo ngeenyembezi baza kukhohla ngeentoko.",
+  "tokens": [
+    {
+      "surface": "הזרעים",
+      "gloss": "abatyalayo"
+    },
+    {
+      "surface": "בדמעה",
+      "gloss": "ngeenyembezi"
+    },
+    {
+      "surface": "ברנה",
+      "gloss": "ngeentoko"
+    },
+    {
+      "surface": "יקצרו",
+      "gloss": "baza kukhohla"
+    }
+  ],
+  "timestamp": "2026-09-18T15:27:27.449176840Z",
+  "model": "glm-5.3"
+}

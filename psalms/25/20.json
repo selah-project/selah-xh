@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 25:20",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 25,
+  "translation": "Mgcinе umphefumlo wam undikhulule; musa ndenze ndide ngiye ndiphazamiseke, kuba ndithathe khuseleko kuwe.",
+  "tokens": [
+    {
+      "surface": "שמרה",
+      "gloss": "Mgcine"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "umphefumlo wam"
+    },
+    {
+      "surface": "והצילני",
+      "gloss": "undikhulule"
+    },
+    {
+      "surface": "אל",
+      "gloss": "musa ndenze"
+    },
+    {
+      "surface": "אבוש",
+      "gloss": "ndide ngiye ndiphazamiseke"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "ndithathe khuseleko"
+    },
+    {
+      "surface": "בך",
+      "gloss": "kuwe"
+    }
+  ],
+  "timestamp": "2026-09-18T14:37:01.809047828Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "lamentations 4:8",
+  "book": "lamentations",
+  "lang": "xh",
+  "chapter": 4,
+  "translation": "Umbono wabo wadinxwa mdaka ngaphezu kokumnyama; ababonakali emigwaqeni; isikhumba sabo sanamathisele kwiindumbu zabo, somile, saba njengesiqu somthi.",
+  "tokens": [
+    {
+      "surface": "חשך",
+      "gloss": "wadinxwa mdaka"
+    },
+    {
+      "surface": "משחור",
+      "gloss": "ngaphezu kokumnyama"
+    },
+    {
+      "surface": "תארם",
+      "gloss": "umbono wabo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "akwa-"
+    },
+    {
+      "surface": "נכרו",
+      "gloss": "ababonakali"
+    },
+    {
+      "surface": "בחוצות",
+      "gloss": "emigwaqeni"
+    },
+    {
+      "surface": "צפד",
+      "gloss": "sanamathisele"
+    },
+    {
+      "surface": "עורם",
+      "gloss": "isikhumba sabo"
+    },
+    {
+      "surface": "על",
+      "gloss": "kwi"
+    },
+    {
+      "surface": "עצמם",
+      "gloss": "iindumbu zabo"
+    },
+    {
+      "surface": "יבש",
+      "gloss": "somile"
+    },
+    {
+      "surface": "היה",
+      "gloss": "saba"
+    },
+    {
+      "surface": "כעץ",
+      "gloss": "njengesiqu somthi"
+    }
+  ],
+  "timestamp": "2026-09-18T16:21:59.939687044Z",
+  "model": "glm-5.3"
+}

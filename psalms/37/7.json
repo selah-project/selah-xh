@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 37:7",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 37,
+  "translation": "Thula kuYahwe ulindele yena; musa ukuvutha umsindo ngenxa yolowo uphumelela endleleni yakhe, ngenxa yomntu ozenza izicwangciso ezimbi.",
+  "tokens": [
+    {
+      "surface": "דום",
+      "gloss": "Thula"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kuYahwe"
+    },
+    {
+      "surface": "והתחולל",
+      "gloss": "ulindele"
+    },
+    {
+      "surface": "לו",
+      "gloss": "yena"
+    },
+    {
+      "surface": "אל",
+      "gloss": "musa"
+    },
+    {
+      "surface": "תתחר",
+      "gloss": "ukuvutha umsindo"
+    },
+    {
+      "surface": "במצליח",
+      "gloss": "ngenxa yolowo uphumelela"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "endleleni yakhe"
+    },
+    {
+      "surface": "באיש",
+      "gloss": "ngenxa yomntu"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ozenza"
+    },
+    {
+      "surface": "מזמות",
+      "gloss": "izicwangciso ezimbi"
+    }
+  ],
+  "timestamp": "2026-09-18T14:42:21.088080447Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 45:2",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 45,
+  "translation": "Intliziyo yam igalela indaba entle; ndithetha imisebenzi yam ngenkosi; ulwimi lwam luphahle lombhali okhawulezayo.",
+  "tokens": [
+    {
+      "surface": "רחש",
+      "gloss": "igalela"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "intliziyo yam"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "indaba"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "entle"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ndithetha"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mna"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "imisebenzi yam"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "ngenkosi"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "ulwimi lwam"
+    },
+    {
+      "surface": "עט",
+      "gloss": "iphahle"
+    },
+    {
+      "surface": "סופר",
+      "gloss": "lombhali"
+    },
+    {
+      "surface": "מהיר",
+      "gloss": "okhawulezayo"
+    }
+  ],
+  "timestamp": "2026-09-18T14:48:13.003000300Z",
+  "model": "glm-5.3"
+}

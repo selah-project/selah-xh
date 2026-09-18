@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 24:1",
+  "book": "2-samuel",
+  "lang": "xh",
+  "chapter": 24,
+  "translation": "Intlinda kaYahwe yongeze ukutsale umsindo kuSirayeli, wamchukumisa ⟨את⟩ uDawid kubo, esithi: “Yiya, bala ⟨את⟩ uSirayeli no⟨את⟩ uYuda.”",
+  "tokens": [
+    {
+      "surface": "ויסף",
+      "gloss": "yongeze"
+    },
+    {
+      "surface": "אף",
+      "gloss": "intlinda"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "לחרות",
+      "gloss": "ukutsale umsindo"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "kuSirayeli"
+    },
+    {
+      "surface": "ויסת",
+      "gloss": "wamchukumisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uDawid"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "uDawid"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "kubo"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "esithi"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Yiya"
+    },
+    {
+      "surface": "מנה",
+      "gloss": "bala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uSirayeli"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "uSirayeli"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "no⟨את⟩",
+      "marks": "uYuda"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "uYuda"
+    }
+  ],
+  "timestamp": "2026-09-18T10:06:38.268047176Z",
+  "model": "glm-5.3"
+}

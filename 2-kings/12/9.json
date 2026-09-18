@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-kings 12:9",
+  "book": "2-kings",
+  "lang": "xh",
+  "chapter": 12,
+  "translation": "Abapristi bavuma ukungathathi isiliva ⟨את⟩ kwabantu, nokungazilungezi ⟨את⟩ iindawo zonakeleyo zendlu.",
+  "tokens": [
+    {
+      "surface": "ויאתו",
+      "gloss": "bavuma"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "abapristi"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "ukunga"
+    },
+    {
+      "surface": "קחת",
+      "gloss": "thathi"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "isiliva"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "kwabantu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "ולבלתי",
+      "gloss": "nokunga"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "zilungezi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iindawo zonakeleyo"
+    },
+    {
+      "surface": "בדק",
+      "gloss": "iindawo zonakeleyo"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "zendlu"
+    }
+  ],
+  "timestamp": "2026-09-18T10:49:42.243916392Z",
+  "model": "glm-5.3"
+}

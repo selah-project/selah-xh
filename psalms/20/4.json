@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 20:4",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 20,
+  "translation": "Makakhumbula zonke iimnikelo zakho, itholoji yakho makidlise ibha yomlilo. Selah.",
+  "tokens": [
+    {
+      "surface": "יזכר",
+      "gloss": "makakhumbula"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zonke"
+    },
+    {
+      "surface": "מנחתך",
+      "gloss": "iimnikelo zakho"
+    },
+    {
+      "surface": "ועולתך",
+      "gloss": "itholoji yakho"
+    },
+    {
+      "surface": "ידשנה",
+      "gloss": "makidlise ibha yomlilo"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-18T14:34:44.300760792Z",
+  "model": "glm-5.3"
+}

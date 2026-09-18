@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 24:5",
+  "book": "proverbs",
+  "lang": "xh",
+  "chapter": 24,
+  "translation": "Umntu oohlakaniphileyo unamandla, yaye umntu wolwazi uyaqinisa amandla.",
+  "tokens": [
+    {
+      "surface": "גבר",
+      "gloss": "umntu"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "oohlakaniphileyo"
+    },
+    {
+      "surface": "בעוז",
+      "gloss": "ngamandla"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "yaye umntu"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "wolwazi"
+    },
+    {
+      "surface": "מאמץ",
+      "gloss": "uyaqinisa"
+    },
+    {
+      "surface": "כח",
+      "gloss": "amandla"
+    }
+  ],
+  "timestamp": "2026-09-18T15:53:02.809071344Z",
+  "model": "glm-5.3"
+}

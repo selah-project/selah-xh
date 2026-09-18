@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 4:17",
+  "book": "leviticus",
+  "lang": "xh",
+  "chapter": 4,
+  "translation": "Umfundisi uza kutyhomba umnwe wakhe egazini, achithe ixhenxe amaxesha phambi koYahwe, phambi ⟨את⟩ ubuso besiphango.",
+  "tokens": [
+    {
+      "surface": "וטבל",
+      "gloss": "uza kutyhomba"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "umfundisi"
+    },
+    {
+      "surface": "אצבעו",
+      "gloss": "umnwe wakhe"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "igazi"
+    },
+    {
+      "surface": "והזה",
+      "gloss": "achithe"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "ixhenxe"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "amaxesha"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "phambi kwa-"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ubuso besiphango"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ubuso"
+    },
+    {
+      "surface": "הפרכת",
+      "gloss": "besiphango"
+    }
+  ],
+  "timestamp": "2026-09-18T06:35:57.880270579Z",
+  "model": "glm-5.3"
+}

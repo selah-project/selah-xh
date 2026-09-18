@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 72:9",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 72,
+  "translation": "Phambi kwakhe ziya kuthothoza abahlali basentlango, kananjalo izitha zakhe umhlaba ziya kuncamla.",
+  "tokens": [
+    {
+      "surface": "לפניו",
+      "gloss": "phambi kwakhe"
+    },
+    {
+      "surface": "יכרעו",
+      "gloss": "ziya kuthothoza"
+    },
+    {
+      "surface": "ציים",
+      "gloss": "abahlali basentlango"
+    },
+    {
+      "surface": "ואיביו",
+      "gloss": "kananjalo izitha zakhe"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "umhlaba"
+    },
+    {
+      "surface": "ילחכו",
+      "gloss": "ziya kuncamla"
+    }
+  ],
+  "timestamp": "2026-09-18T14:56:09.457771427Z",
+  "model": "glm-5.3"
+}

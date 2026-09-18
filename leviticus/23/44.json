@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "leviticus 23:44",
+  "book": "leviticus",
+  "lang": "xh",
+  "chapter": 23,
+  "translation": "Wathetha uMoshe ⟨את⟩ amaxesha obizwanxa kaYahwe kwabantwana baka-Israel.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "wathetha"
+    },
+    {
+      "surface": "משה",
+      "gloss": "uMoshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amaxesha obizwanxa kaYahwe"
+    },
+    {
+      "surface": "מעדי",
+      "gloss": "amaxesha obizwanxa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kaYahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abantwana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "baka-Israel"
+    }
+  ],
+  "timestamp": "2026-09-18T07:02:59.986431800Z",
+  "model": "glm-5.3"
+}

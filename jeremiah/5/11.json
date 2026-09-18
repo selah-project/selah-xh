@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 5:11",
+  "book": "jeremiah",
+  "lang": "xh",
+  "chapter": 5,
+  "translation": "Kuba ngokwenene bandula okwenene kum abantu bakwaYisrayeli, abantu bakwaYuda — ishwele uYahwe.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "בגוד",
+      "gloss": "ngokwenene"
+    },
+    {
+      "surface": "בגדו",
+      "gloss": "bandula okwenene"
+    },
+    {
+      "surface": "בי",
+      "gloss": "kum"
+    },
+    {
+      "surface": "בית",
+      "gloss": "abantu baka-"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrayeli"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "abantu baka-"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yuda"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "ishwele"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    }
+  ],
+  "timestamp": "2026-09-18T11:55:26.045932733Z",
+  "model": "glm-5.3"
+}

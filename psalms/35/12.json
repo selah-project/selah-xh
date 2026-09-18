@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 35:12",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 35,
+  "translation": "Bayandibuyisela okubi endaweni yeokolungileyo, ukufiwelelwa kolwazi kwumphefumlo wam.",
+  "tokens": [
+    {
+      "surface": "ישלמוני",
+      "gloss": "bayandibuyisela"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "okubi"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "endaweni ye-"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "okolungileyo"
+    },
+    {
+      "surface": "שכול",
+      "gloss": "ukufiwelelwa"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "kwumphefumlo wam"
+    }
+  ],
+  "timestamp": "2026-09-18T14:40:07.700493751Z",
+  "model": "glm-5.3"
+}

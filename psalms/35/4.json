@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 35:4",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 35,
+  "translation": "Mabanaxabisize, mabazinze abafuna umphefumlo wam; mababuyela emva, mabahlekweke abacwangcisa ububi bam.",
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "Mabanaxabisize"
+    },
+    {
+      "surface": "ויכלמו",
+      "gloss": "mabazinze"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "abafuna"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "umphefumlo wam"
+    },
+    {
+      "surface": "יסגו",
+      "gloss": "mababuyela"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "emva"
+    },
+    {
+      "surface": "ויחפרו",
+      "gloss": "mabahlekweke"
+    },
+    {
+      "surface": "חשבי",
+      "gloss": "abacwangcisa"
+    },
+    {
+      "surface": "רעתי",
+      "gloss": "ububi bam"
+    }
+  ],
+  "timestamp": "2026-09-18T14:41:27.166702377Z",
+  "model": "glm-5.3"
+}

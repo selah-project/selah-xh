@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 69:32",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 69,
+  "translation": "Kwaye iya kuthandeka kuYahwe ngaphezu kwenkomo yenkabi enamakhumsha eneenyawo eziqumla.",
+  "tokens": [
+    {
+      "surface": "ותיטב",
+      "gloss": "Kwaye iya kuthandeka"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kuYahwe"
+    },
+    {
+      "surface": "משור",
+      "gloss": "ngaphezu kwenkomo"
+    },
+    {
+      "surface": "פר",
+      "gloss": "yenkabi"
+    },
+    {
+      "surface": "מקרן",
+      "gloss": "enamakhumsha"
+    },
+    {
+      "surface": "מפריס",
+      "gloss": "eneenyawo eziqumla"
+    }
+  ],
+  "timestamp": "2026-09-18T14:58:50.756171850Z",
+  "model": "glm-5.3"
+}

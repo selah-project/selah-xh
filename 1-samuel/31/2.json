@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 31:2",
+  "book": "1-samuel",
+  "lang": "xh",
+  "chapter": 31,
+  "translation": "AmaFilisti anamathela ngoShawuli noonyana bakhe; amaFilisti abetha ⟨את⟩ uYehonatan ⟨את⟩ no-Avinadab ⟨את⟩ noMalkishuwa, oonyana bakaShawuli.",
+  "tokens": [
+    {
+      "surface": "וידבקו",
+      "gloss": "anamathela"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "amaFilisti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uShawuli"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "uShawuli"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "oonyana bakhe"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "noonyana bakhe"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "abetha"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "amaFilisti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uYehonatan"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "uYehonatan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "u-Avinadab"
+    },
+    {
+      "surface": "אבינדב",
+      "gloss": "u-Avinadab"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "uMalkishuwa"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "uMalki-"
+    },
+    {
+      "surface": "שוע",
+      "gloss": "-shuwa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oonyana"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "bakaShawuli"
+    }
+  ],
+  "timestamp": "2026-09-18T09:43:53.355833457Z",
+  "model": "glm-5.3"
+}

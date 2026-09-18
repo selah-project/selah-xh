@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 34:6",
+  "book": "genesis",
+  "lang": "xh",
+  "chapter": 34,
+  "translation": "UKhamori utata kaShekhem waphuma waya kuYaakov ukudibanisa naye ⟨אתו⟩.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "waphuma"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "uKhamori"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "utata ka-"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "uShekhem"
+    },
+    {
+      "surface": "אל",
+      "gloss": "waya ku-"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "uYaakov"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "ukudibanisa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ naye",
+      "marks": "uYaakov"
+    }
+  ],
+  "timestamp": "2026-09-18T05:34:01.772928225Z",
+  "model": "glm-5.3"
+}

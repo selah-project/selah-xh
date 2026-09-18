@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 7:5",
+  "book": "jeremiah",
+  "lang": "xh",
+  "chapter": 7,
+  "translation": "Kuba ukuba nilungisa ngokupheleleyo ⟨את⟩ iindlela zenu kunye ⟨את⟩ nemisebenzi yenu, ukuba niyenza ngokupheleleyo umgwebo phakathi komntu nomhlobo wakhe,",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kuba"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ukuba"
+    },
+    {
+      "surface": "היטיב",
+      "gloss": "ngokupheleleyo"
+    },
+    {
+      "surface": "תיטיבו",
+      "gloss": "nilungisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iindlewa zenu",
+      "note": "gloss marks: iindlela zenu"
+    },
+    {
+      "surface": "דרכיכם",
+      "gloss": "iindlela zenu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kunye ⟨את⟩",
+      "marks": "nemisebenzi yenu"
+    },
+    {
+      "surface": "מעלליכם",
+      "gloss": "nemisebenzi yenu"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ukuba"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ngokupheleleyo"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "niyenza"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "umgwebo"
+    },
+    {
+      "surface": "בין",
+      "gloss": "phakathi"
+    },
+    {
+      "surface": "איש",
+      "gloss": "komntu"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "kunye"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "nomhlobo wakhe"
+    }
+  ],
+  "timestamp": "2026-09-18T11:57:42.491176223Z",
+  "model": "glm-5.3"
+}

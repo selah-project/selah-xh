@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 41:10",
+  "book": "isaiah",
+  "lang": "xh",
+  "chapter": 41,
+  "translation": "Ungayoyiki, kuba ndikunye; musa ukujongela udevu, kuba ndingu-Elohim wakho; ndakomezela, ewe ndakunceda, ewe ndakuxhasa ngesandla sam sokunene solungiselelo lwam.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "unga-"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "yoyiki"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ndikunye"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mna"
+    },
+    {
+      "surface": "אל",
+      "gloss": "musa ukujongela"
+    },
+    {
+      "surface": "תשתע",
+      "gloss": "udevu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mna"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "ngu-Elohim wakho"
+    },
+    {
+      "surface": "אמצתיך",
+      "gloss": "ndakomezela"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ewe"
+    },
+    {
+      "surface": "עזרתיך",
+      "gloss": "ndakunceda"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ewe"
+    },
+    {
+      "surface": "תמכתיך",
+      "gloss": "ndakuxhasa"
+    },
+    {
+      "surface": "בימין",
+      "gloss": "ngesandla sokunene"
+    },
+    {
+      "surface": "צדקי",
+      "gloss": "solungiselelo lwam"
+    }
+  ],
+  "timestamp": "2026-09-18T11:30:47.958843042Z",
+  "model": "glm-5.3"
+}

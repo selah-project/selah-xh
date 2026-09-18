@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 128:5",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 128,
+  "translation": "Makasikelele uYahwe ovela kwiTsiyoni, ubone ⟨את⟩ ulungileyo lweYerushalayimi yonke imihla yobomi bakho.",
+  "tokens": [
+    {
+      "surface": "יברכך",
+      "gloss": "Makasikelele"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "מציון",
+      "gloss": "ovela kwiTsiyoni"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "ubone"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "ulungileyo"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "lweYerushalayimi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yonke"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "imihla"
+    },
+    {
+      "surface": "חייך",
+      "gloss": "yobomi bakho"
+    }
+  ],
+  "timestamp": "2026-09-18T15:26:30.250989249Z",
+  "model": "glm-5.3"
+}

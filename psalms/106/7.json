@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 106:7",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 106,
+  "translation": "Ooyihlo bethu, eMitsrayim, abazange baqonde iimangaliso zakho; abazange bakhumbule ubukhulu beekhesedi zakho, kodwa bashukunyisa ukuchasana olwandle, elwandle lwe-Sufi.",
+  "tokens": [
+    {
+      "surface": "אבותינו",
+      "gloss": "Ooyihlo bethu"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "eMitsrayim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "abazange"
+    },
+    {
+      "surface": "השכילו",
+      "gloss": "baqonde"
+    },
+    {
+      "surface": "נפלאותיך",
+      "gloss": "iimangaliso zakho"
+    },
+    {
+      "surface": "לא",
+      "gloss": "abazange"
+    },
+    {
+      "surface": "זכרו",
+      "gloss": "bakhumbule"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ubukhulu beekhesedi zakho"
+    },
+    {
+      "surface": "רב",
+      "gloss": "ubukhulu"
+    },
+    {
+      "surface": "חסדיך",
+      "gloss": "beekhesedi zakho"
+    },
+    {
+      "surface": "וימרו",
+      "gloss": "bashukunyisa ukuchasana"
+    },
+    {
+      "surface": "על",
+      "gloss": "chasanana"
+    },
+    {
+      "surface": "ים",
+      "gloss": "olwandle"
+    },
+    {
+      "surface": "בים",
+      "gloss": "elwandle"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "lwe-Sufi"
+    }
+  ],
+  "timestamp": "2026-09-18T15:16:42.025994467Z",
+  "model": "glm-5.3"
+}

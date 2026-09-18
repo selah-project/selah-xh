@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 68:8",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 68,
+  "translation": "uElohim, xa ubuphuma phambi kwabantu bakho, xa ubuhamba ngamanyathelo elintlangojeni; Selah.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "בצאתך",
+      "gloss": "xa ubuphuma"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "phambi"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "kwabantu bakho"
+    },
+    {
+      "surface": "בצעדך",
+      "gloss": "xa ubuhamba ngamanyathelo"
+    },
+    {
+      "surface": "בישימון",
+      "gloss": "elintlangojeni"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-18T14:56:35.638822831Z",
+  "model": "glm-5.3"
+}

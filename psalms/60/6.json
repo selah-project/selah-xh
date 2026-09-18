@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 60:6",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 60,
+  "translation": "Unike isikhombi abakholo, bakujoyika, ukuba siphakamiswe ngenxa yeqiniso. Selah.",
+  "tokens": [
+    {
+      "surface": "נתתה",
+      "gloss": "Unike"
+    },
+    {
+      "surface": "ליראיך",
+      "gloss": "abakholo, bakujoyika"
+    },
+    {
+      "surface": "נס",
+      "gloss": "isikhombi"
+    },
+    {
+      "surface": "להתנוסס",
+      "gloss": "ukuba siphakamiswe"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "ngenxa ye"
+    },
+    {
+      "surface": "קשט",
+      "gloss": "iqiniso"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-18T14:53:47.225501141Z",
+  "model": "glm-5.3"
+}

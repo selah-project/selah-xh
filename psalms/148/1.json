@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 148:1",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 148,
+  "translation": "Dumani uYah; dumani ⟨את⟩ uYahwe ezulwini, dumani kuye kumthunjana osezulu.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Dumani"
+    },
+    {
+      "surface": "יה",
+      "gloss": "uYah"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "dumani"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uYahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ezi"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "zulwini"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "dumani kuye"
+    },
+    {
+      "surface": "במרומים",
+      "gloss": "kumthunjana osezulu"
+    }
+  ],
+  "timestamp": "2026-09-18T15:34:18.339857471Z",
+  "model": "glm-5.3"
+}

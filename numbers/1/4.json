@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 1:4",
+  "book": "numbers",
+  "lang": "xh",
+  "chapter": 1,
+  "translation": "Kwaye kunye nani ⟨את⟩ kuya kubakho umntu ngamntu ngowesebe ngalinye, umntu elintloko yendlu yooyise mkhulu; yena.",
+  "tokens": [
+    {
+      "surface": "ואתכם",
+      "gloss": "kunye nani ⟨את⟩"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "kuya kubakho"
+    },
+    {
+      "surface": "איש",
+      "gloss": "umntu"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ngamntu"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "ngowesebe ngalinye"
+    },
+    {
+      "surface": "איש",
+      "gloss": "umntu"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "elintloko"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "yendlu"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "yooyise mkhulu"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yena"
+    }
+  ],
+  "timestamp": "2026-09-18T07:10:14.915953777Z",
+  "model": "glm-5.3"
+}

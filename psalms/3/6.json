@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 3:6",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 3,
+  "translation": "Mna ndalala, ndatilele, ndavuka, kuba uYahwe undixhasa.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Mna"
+    },
+    {
+      "surface": "שכבתי",
+      "gloss": "ndalala"
+    },
+    {
+      "surface": "ואישנה",
+      "gloss": "ndatilele"
+    },
+    {
+      "surface": "הקיצותי",
+      "gloss": "ndavuka"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "יסמכני",
+      "gloss": "undixhasa"
+    }
+  ],
+  "timestamp": "2026-09-18T14:26:41.779430994Z",
+  "model": "glm-5.3"
+}

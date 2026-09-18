@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 25:20",
+  "book": "2-kings",
+  "lang": "xh",
+  "chapter": 25,
+  "translation": "Wathatha ⟨אתם⟩ uNevuzaradan, inkosi yabasiki, waza wabayisa ⟨אתם⟩ kumkani waseBhabheli, eRivlahah.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "wathatha"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "abo bathathwayo (oonogqeba)"
+    },
+    {
+      "surface": "נבוזראדן",
+      "gloss": "uNevuzaradan"
+    },
+    {
+      "surface": "רב",
+      "gloss": "inkosi"
+    },
+    {
+      "surface": "טבחים",
+      "gloss": "yabasiki"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "waza wabayisa"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "abo bathathwayo"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kumkani"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "waseBhabheli"
+    },
+    {
+      "surface": "רבלתה",
+      "gloss": "eRivlahah"
+    }
+  ],
+  "timestamp": "2026-09-18T11:03:22.231352723Z",
+  "model": "glm-5.3"
+}

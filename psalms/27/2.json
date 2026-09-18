@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 27:2",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 27,
+  "translation": "Xa abenzi bobubi besondela kum ukutya ⟨את⟩ inyama yam — abachasi bam nabatshaba bam abangokwam — ngabo bathambekile bawa.",
+  "tokens": [
+    {
+      "surface": "בקרב",
+      "gloss": "Xa... besondela"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "kum"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "abenzi bobubi"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "ukutya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "inyama yam"
+    },
+    {
+      "surface": "בשרי",
+      "gloss": "inyama yam"
+    },
+    {
+      "surface": "צרי",
+      "gloss": "abachasi bam"
+    },
+    {
+      "surface": "ואיבי",
+      "gloss": "nabatshaba bam"
+    },
+    {
+      "surface": "לי",
+      "gloss": "abangokwam"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ngabo"
+    },
+    {
+      "surface": "כשלו",
+      "gloss": "bathambekile"
+    },
+    {
+      "surface": "ונפלו",
+      "gloss": "bawa"
+    }
+  ],
+  "timestamp": "2026-09-18T14:38:59.607911380Z",
+  "model": "glm-5.3"
+}

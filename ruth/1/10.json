@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ruth 1:10",
+  "book": "ruth",
+  "lang": "xh",
+  "chapter": 1,
+  "translation": "Zathi kuyena: Kuba nani ⟨את⟩ siza kubuyela kwabantu bakho.",
+  "tokens": [
+    {
+      "surface": "ותאמרנה",
+      "gloss": "Zathi"
+    },
+    {
+      "surface": "לה",
+      "gloss": "kuyena"
+    },
+    {
+      "surface": "כי",
+      "gloss": "Kuba"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "nani ⟨את⟩",
+      "marks": "ubuyelo kwabantu bakho"
+    },
+    {
+      "surface": "נשוב",
+      "gloss": "siza kubuyela"
+    },
+    {
+      "surface": "לעמך",
+      "gloss": "kwabantu bakho"
+    }
+  ],
+  "timestamp": "2026-09-18T16:18:29.775959994Z",
+  "model": "glm-5.3"
+}

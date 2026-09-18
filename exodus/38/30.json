@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 38:30",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 38,
+  "translation": "Wenza ngayo ⟨את⟩ iiseko zomnyango wententi yokudibana, no⟨את⟩ ialtari yothusi, no⟨את⟩ isihluzi salthusi esasinikelwe yona, naku⟨את⟩ zonke izixhobo ze-altari.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Wenza"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ngayo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iiseko zomnyango wententi yokudibana"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "iiseko"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "umnyango"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "wententi"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "yokudibana"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "no⟨את⟩",
+      "marks": "ialtari yothusi"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "ialtari"
+    },
+    {
+      "surface": "הנחשת",
+      "gloss": "yothusi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "no⟨את⟩",
+      "marks": "isihluzi salthusi"
+    },
+    {
+      "surface": "מכבר",
+      "gloss": "isihluzi"
+    },
+    {
+      "surface": "הנחשת",
+      "gloss": "salthusi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "esa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "sinikelwe yona"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "naku⟨את⟩",
+      "marks": "zonke izixhobo ze-altari"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zonke"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "izixhobo"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "ze-altari"
+    }
+  ],
+  "timestamp": "2026-09-18T17:21:44.900981556Z",
+  "model": "glm-5.3"
+}

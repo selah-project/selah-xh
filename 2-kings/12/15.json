@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 12:15",
+  "book": "2-kings",
+  "lang": "xh",
+  "chapter": 12,
+  "translation": "Kuba bayayinika abenzi bomsebenzi, yaye bayayiqinisa ngayo ⟨את⟩ indlu kaYahwe.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kuba"
+    },
+    {
+      "surface": "לעשי",
+      "gloss": "abenzi"
+    },
+    {
+      "surface": "המלאכה",
+      "gloss": "bomsebenzi"
+    },
+    {
+      "surface": "יתנהו",
+      "gloss": "bayayinika"
+    },
+    {
+      "surface": "וחזקו",
+      "gloss": "yaye bayayiqinisa"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ngayo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "indlu kaYahwe"
+    },
+    {
+      "surface": "בית",
+      "gloss": "indlu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kaYahwe"
+    }
+  ],
+  "timestamp": "2026-09-18T10:48:40.856126727Z",
+  "model": "glm-5.3"
+}

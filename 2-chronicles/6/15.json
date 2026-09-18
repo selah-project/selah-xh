@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 6:15",
+  "book": "2-chronicles",
+  "lang": "xh",
+  "chapter": 6,
+  "translation": "ongcinelelo koze kumkhonza wakho uDawidi ubawo wam ⟨את⟩ oko wawuthethile kuye; wena uwuthethile ngomlomo wakho, uwugcwalisile ngesandla sakho, njengangolu lwesi.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "ongcinelelo oze"
+    },
+    {
+      "surface": "שמרת",
+      "gloss": "ongcinele"
+    },
+    {
+      "surface": "לעבדך",
+      "gloss": "kumkhonza wakho"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "uDawidi"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "ubawo wam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oko wawuthethile kuye"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oko"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "wawuthethile"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kuye"
+    },
+    {
+      "surface": "ותדבר",
+      "gloss": "uwuthethile"
+    },
+    {
+      "surface": "בפיך",
+      "gloss": "ngomlomo wakho"
+    },
+    {
+      "surface": "ובידך",
+      "gloss": "nangesandla sakho"
+    },
+    {
+      "surface": "מלאת",
+      "gloss": "uwugcwalisile"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "njengangolu"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "lwesi"
+    }
+  ],
+  "timestamp": "2026-09-18T17:03:54.957984932Z",
+  "model": "glm-5.3"
+}

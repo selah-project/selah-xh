@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 26:15",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 26,
+  "translation": "Uza kukwenza ⟨את⟩ iindonga zeMishkane, ngomthi weshitim ezime ngqo.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "Uza kukwenza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iindonga"
+    },
+    {
+      "surface": "הקרשים",
+      "gloss": "iindonga"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "zeMishkane"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "omthi"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "weshitim"
+    },
+    {
+      "surface": "עמדים",
+      "gloss": "ezime ngqo"
+    }
+  ],
+  "timestamp": "2026-09-18T06:13:47.472225772Z",
+  "model": "glm-5.3"
+}

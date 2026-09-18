@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 60,
+  "ref": "1-chronicles 6:60",
+  "book": "1-chronicles",
+  "lang": "xh",
+  "chapter": 6,
+  "translation": "NoHukhoki ⟨את⟩ kunye nemimandla yayo eyiyo, noRehobhi ⟨את⟩ kunye nemimandla yayo eyiyo.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "uHukhoki"
+    },
+    {
+      "surface": "חוקק",
+      "gloss": "uHukhoki"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "imimandla yayo eyiyo"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "kunye nemimandla yayo eyiyo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "uRehobhi"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "uRehobhi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "imimandla yayo eyiyo"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "kunye nemimandla yayo eyiyo"
+    }
+  ],
+  "timestamp": "2026-09-18T16:52:28.626029026Z",
+  "model": "glm-5.3"
+}

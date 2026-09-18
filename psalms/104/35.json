@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 104:35",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 104,
+  "translation": "Masingabi kukho aboni emhlabeni, ke kananjalo abalungileyo ababe kukho ngakumbi. Bendla, mpendulo yam, uYahwe; dumisani uYah.",
+  "tokens": [
+    {
+      "surface": "יתמו",
+      "gloss": "masingabi kukho"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "aboni"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "umhlabeni"
+    },
+    {
+      "surface": "ורשעים",
+      "gloss": "ke abalungileyo"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ngakumbi"
+    },
+    {
+      "surface": "אינם",
+      "gloss": "ababe kukho"
+    },
+    {
+      "surface": "ברכי",
+      "gloss": "bendla"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mpendulo yam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uYahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "dumisani"
+    },
+    {
+      "surface": "יה",
+      "gloss": "uYah"
+    }
+  ],
+  "timestamp": "2026-09-18T17:45:01.187912840Z",
+  "model": "glm-5.3"
+}

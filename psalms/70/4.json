@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 70:4",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 70,
+  "translation": "Mababuyele emva ngenxa yentloni yabo abathi: “Aha, aha!”",
+  "tokens": [
+    {
+      "surface": "ישובו",
+      "gloss": "Mababuyele"
+    },
+    {
+      "surface": "על",
+      "gloss": "ngenxa"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "ye"
+    },
+    {
+      "surface": "בשתם",
+      "gloss": "yentloni yabo"
+    },
+    {
+      "surface": "האמרים",
+      "gloss": "abathi"
+    },
+    {
+      "surface": "האח",
+      "gloss": "Aha"
+    },
+    {
+      "surface": "האח",
+      "gloss": "aha"
+    }
+  ],
+  "timestamp": "2026-09-18T14:56:50.308113650Z",
+  "model": "glm-5.3"
+}

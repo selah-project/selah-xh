@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 68:1",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 68,
+  "translation": "Kumlawuli wedumiso. Indumiso kaDavide, ingoma.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Kumlawuli wedumiso"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "kaDavide"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "indumiso"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "ingoma"
+    }
+  ],
+  "timestamp": "2026-09-18T14:55:11.497166767Z",
+  "model": "glm-5.3"
+}

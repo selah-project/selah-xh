@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 119:6",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 119,
+  "translation": "Azo ndingazingcamli xa ndijonge kwo onke imiyalelo yakho.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "Azo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hayi"
+    },
+    {
+      "surface": "אבוש",
+      "gloss": "ndingazingcamli"
+    },
+    {
+      "surface": "בהביטי",
+      "gloss": "xa ndijonge"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "onke"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "imiyalelo yakho"
+    }
+  ],
+  "timestamp": "2026-09-18T15:22:46.489213994Z",
+  "model": "glm-5.3"
+}

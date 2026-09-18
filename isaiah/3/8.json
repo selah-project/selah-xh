@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 3:8",
+  "book": "isaiah",
+  "lang": "xh",
+  "chapter": 3,
+  "translation": "Kuba iYerushalayimi yadilika, yaye uYehudha yawile; kuba ulwimi lwabo nemisebenzi yabo ngokuchasene noYahwe, ukuvusa iliso lesidima sakhe.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kuba"
+    },
+    {
+      "surface": "כשלה",
+      "gloss": "yadilika"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "iYerushalayimi"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "yaye uYehudha"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "yawile"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "לשונם",
+      "gloss": "ulwimi lwabo"
+    },
+    {
+      "surface": "ומעלליהם",
+      "gloss": "nemisebenzi yabo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ngokuchasene"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "noYahwe"
+    },
+    {
+      "surface": "למרות",
+      "gloss": "ukuvusa"
+    },
+    {
+      "surface": "עני",
+      "gloss": "iliso"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "lesidima sakhe"
+    }
+  ],
+  "timestamp": "2026-09-18T11:03:11.246587082Z",
+  "model": "glm-5.3"
+}

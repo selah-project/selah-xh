@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 12:5",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 12,
+  "translation": "Igusha epheleleyo, esilisa, unyana wolunyaka, ibe yenu; kwiigusha okanye kwiibhokhwe niyakuthatha.",
+  "tokens": [
+    {
+      "surface": "שה",
+      "gloss": "igusha"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "epheleleyo"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "esilisa"
+    },
+    {
+      "surface": "בן",
+      "gloss": "unyana"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "wolunyaka"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ibe"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "yenu"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kwi-"
+    },
+    {
+      "surface": "הכבשים",
+      "gloss": "iigusha"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "okanye kwi-"
+    },
+    {
+      "surface": "העזים",
+      "gloss": "iibhokhwe"
+    },
+    {
+      "surface": "תקחו",
+      "gloss": "niyakuthatha"
+    }
+  ],
+  "timestamp": "2026-09-18T05:59:52.449274313Z",
+  "model": "glm-5.3"
+}

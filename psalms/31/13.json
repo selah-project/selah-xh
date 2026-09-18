@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 31:13",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 31,
+  "translation": "Ndiyakhohliwa njengomfi esahlukanenyo nentliziyo; ndandilolu ⟨njenge⟩ isitya eliphukileyo.",
+  "tokens": [
+    {
+      "surface": "נשכחתי",
+      "gloss": "Ndiyakhohliwa"
+    },
+    {
+      "surface": "כמת",
+      "gloss": "njengomfi"
+    },
+    {
+      "surface": "מלב",
+      "gloss": "ahlukanenyo nentliziyo"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "ndandilolu"
+    },
+    {
+      "surface": "ככלי",
+      "gloss": "njenge⟨isitya⟩"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "eliphukileyo"
+    }
+  ],
+  "timestamp": "2026-09-18T14:38:12.255703323Z",
+  "model": "glm-5.3"
+}

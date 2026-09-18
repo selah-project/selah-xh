@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 14:4",
+  "book": "genesis",
+  "lang": "xh",
+  "chapter": 14,
+  "translation": "Iminyaka elishumi elinesibini bamkhonza ⟨את⟩ uKedarlaomere, kwangokumnyaka wethashu elinesithathu bamvukela.",
+  "tokens": [
+    {
+      "surface": "שתים",
+      "gloss": "elinesibini"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "elishumi"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "iminyaka"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "bamkhonza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uKedarlaomere"
+    },
+    {
+      "surface": "כדרלעמר",
+      "gloss": "uKedarlaomere"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "wethashu"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "elishumi"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "umnyaka"
+    },
+    {
+      "surface": "מרדו",
+      "gloss": "bamvukela"
+    }
+  ],
+  "timestamp": "2026-09-18T05:14:08.800970761Z",
+  "model": "glm-5.3"
+}

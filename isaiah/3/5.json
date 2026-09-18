@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 3:5",
+  "book": "isaiah",
+  "lang": "xh",
+  "chapter": 3,
+  "translation": "Ilizwe liya kucinezela: umntu ngomnye, yaye umntu ngomakhelwane wakhe; intsha iya kuziphakamisa ngaphezu komdala, yaye ophantsi ngaphezu wolungeleyo.",
+  "tokens": [
+    {
+      "surface": "ונגש",
+      "gloss": "liya kucinezela"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ilizwe"
+    },
+    {
+      "surface": "איש",
+      "gloss": "umntu"
+    },
+    {
+      "surface": "באיש",
+      "gloss": "ngomnye"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "yaye umntu"
+    },
+    {
+      "surface": "ברעהו",
+      "gloss": "ngomakhelwane wakhe"
+    },
+    {
+      "surface": "ירהבו",
+      "gloss": "iya kuziphakamisa"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "intsha"
+    },
+    {
+      "surface": "בזקן",
+      "gloss": "ngaphezu komdala"
+    },
+    {
+      "surface": "והנקלה",
+      "gloss": "yaye ophantsi"
+    },
+    {
+      "surface": "בנכבד",
+      "gloss": "ngaphezu wolungeleyo"
+    }
+  ],
+  "timestamp": "2026-09-18T11:03:11.246036474Z",
+  "model": "glm-5.3"
+}

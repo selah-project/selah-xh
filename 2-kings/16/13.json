@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-kings 16:13",
+  "book": "2-kings",
+  "lang": "xh",
+  "chapter": 16,
+  "translation": "Wathabatha idini lakhe lokunyuswa ⟨את⟩ nesipho sakhe ⟨את⟩, wathela iselo esinikelwayo sakhe ⟨את⟩, wachitha igazi lezidini zoxolo ezazikuye ⟨את⟩ phezu kwe-altare.",
+  "tokens": [
+    {
+      "surface": "ויקטר",
+      "gloss": "wathabatha (idini)"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "idini lakhe lokunyuswa"
+    },
+    {
+      "surface": "עלתו",
+      "gloss": "idini lakhe lokunyuswa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "nesipho sakhe"
+    },
+    {
+      "surface": "מנחתו",
+      "gloss": "isipho sakhe"
+    },
+    {
+      "surface": "ויסך",
+      "gloss": "wathela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iselo esinikelwayo sakhe"
+    },
+    {
+      "surface": "נסכו",
+      "gloss": "iselo esinikelwayo sakhe"
+    },
+    {
+      "surface": "ויזרק",
+      "gloss": "wachitha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "igazi"
+    },
+    {
+      "surface": "דם",
+      "gloss": "igazi"
+    },
+    {
+      "surface": "השלמים",
+      "gloss": "lezidini zoxolo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ezazikuye"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kuye"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "kwe-altare"
+    }
+  ],
+  "timestamp": "2026-09-18T10:52:18.206904443Z",
+  "model": "glm-5.3"
+}

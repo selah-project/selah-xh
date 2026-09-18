@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 17:6",
+  "book": "1-kings",
+  "lang": "xh",
+  "chapter": 17,
+  "translation": "Kwaye iikrooqwebezana bezisa kuye isonka nenyama ekuseni, nesonka nenyama ngokuhlwa; wayesela esikhwehleni.",
+  "tokens": [
+    {
+      "surface": "וְהָעֹרְבִ֗ים",
+      "gloss": "iikrooqwebezana"
+    },
+    {
+      "surface": "מְבִיאִ֨ים",
+      "gloss": "bezisa"
+    },
+    {
+      "surface": "ל֜וֹ",
+      "gloss": "kuye"
+    },
+    {
+      "surface": "לֶ֤חֶם",
+      "gloss": "isonka"
+    },
+    {
+      "surface": "וּבָשָׂר֙",
+      "gloss": "nenyama"
+    },
+    {
+      "surface": "בַּבֹּ֔קֶר",
+      "gloss": "ekuseni"
+    },
+    {
+      "surface": "וְלֶ֥חֶם",
+      "gloss": "nesonka"
+    },
+    {
+      "surface": "וּבָשָׂ֖ר",
+      "gloss": "nenyama"
+    },
+    {
+      "surface": "בָּעָ֑רֶב",
+      "gloss": "ngokuhlwa"
+    },
+    {
+      "surface": "וּמִן",
+      "gloss": "e-"
+    },
+    {
+      "surface": "הַנַּ֖חַל",
+      "gloss": "esikhwehleni"
+    },
+    {
+      "surface": "יִשְׁתֶּֽה",
+      "gloss": "wayesela"
+    }
+  ],
+  "timestamp": "2026-09-18T10:27:30.980130315Z",
+  "model": "glm-5.3"
+}

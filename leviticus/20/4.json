@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 20:4",
+  "book": "leviticus",
+  "lang": "xh",
+  "chapter": 20,
+  "translation": "Ukuba abantu belizwe befihla amehlo ⟨את⟩ abo ukusuka kumlo mntu, xa enika imbewu yakhe uMolekhi, ukuze bangambulali ⟨את⟩ yena:",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Ukuba"
+    },
+    {
+      "surface": "העלם",
+      "gloss": "befihla"
+    },
+    {
+      "surface": "יעלימו",
+      "gloss": "amehlo"
+    },
+    {
+      "surface": "עם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "belizwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amehlo abo"
+    },
+    {
+      "surface": "עיניהם",
+      "gloss": "abo"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ukusuka"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "kumlo mntu"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ndoda"
+    },
+    {
+      "surface": "בתתו",
+      "gloss": "xa enika"
+    },
+    {
+      "surface": "מזרעו",
+      "gloss": "imbewu yakhe"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "uMolekhi"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "ukuze banga-"
+    },
+    {
+      "surface": "המית",
+      "gloss": "mbulali"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "yena"
+    }
+  ],
+  "timestamp": "2026-09-18T07:01:29.473240653Z",
+  "model": "glm-5.3"
+}

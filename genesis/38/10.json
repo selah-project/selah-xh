@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 38:10",
+  "book": "genesis",
+  "lang": "xh",
+  "chapter": 38,
+  "translation": "Kwakubi emehlweni kaYahweoko awenzayo; waza wafa naye ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "וירע",
+      "gloss": "kwakubi"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "emehlweni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kaYahwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oko"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "awenzayo"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "wafa"
+    },
+    {
+      "surface": "גם",
+      "gloss": "naye"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "yena (u-Onani)"
+    }
+  ],
+  "timestamp": "2026-09-18T05:37:04.352941959Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 13:12",
+  "book": "isaiah",
+  "lang": "xh",
+  "chapter": 13,
+  "translation": "Ndiza kumbisa umntu ofayo kune golide elicocekileyo, nomntu kune golide ecwangcisiweyo yeOfiri.",
+  "tokens": [
+    {
+      "surface": "אוקיר",
+      "gloss": "Ndiza kumbisa"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "umntu ofayo"
+    },
+    {
+      "surface": "מפז",
+      "gloss": "kune golide elicocekileyo"
+    },
+    {
+      "surface": "ואדם",
+      "gloss": "nomntu"
+    },
+    {
+      "surface": "מכתם",
+      "gloss": "kune golide ecwangcisiweyo"
+    },
+    {
+      "surface": "אופיר",
+      "gloss": "yeOfiri"
+    }
+  ],
+  "timestamp": "2026-09-18T11:09:27.008370120Z",
+  "model": "glm-5.3"
+}

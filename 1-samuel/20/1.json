@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 20:1",
+  "book": "1-samuel",
+  "lang": "xh",
+  "chapter": 20,
+  "translation": "UDavide wabaleka eManuwati eRama, weza wathetha phambi koYehonatanhe: “Ndenze ntoni? Ngubani ubugwenxa bam, yintoni isono sam phambi kokuyise, ukuba ufuna ⟨את⟩ umphefumlo wam?”",
+  "tokens": [
+    {
+      "surface": "ויברח",
+      "gloss": "wabaleka"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "uDavide"
+    },
+    {
+      "surface": "מנוות",
+      "gloss": "eManuwati"
+    },
+    {
+      "surface": "ברמה",
+      "gloss": "eRama"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "weza"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "wathetha"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "phambi kwa-"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "uYehonatan"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ntoni"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "ndenza"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ngubani"
+    },
+    {
+      "surface": "עוני",
+      "gloss": "ubugwenxa bam"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "yintoni"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "isono sam"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "phambi koku-"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "yise"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ukuba"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "ufuna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umphefumlo wam"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "umphefumlo wam"
+    }
+  ],
+  "timestamp": "2026-09-18T17:29:26.349135345Z",
+  "model": "glm-5.3"
+}

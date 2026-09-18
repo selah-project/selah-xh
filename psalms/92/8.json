@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 92:8",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 92,
+  "translation": "Ekuvuthweni kwababi njengotye, nokuncuma kwazo zonke iintlanga zokungcola — kukho ukuze batshatyalaliswe ngonaphakade de naphakade.",
+  "tokens": [
+    {
+      "surface": "בפרח",
+      "gloss": "Ekuvuthweni"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "kwababi"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "njengo"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "utye"
+    },
+    {
+      "surface": "ויציצו",
+      "gloss": "nokuncuma kwazo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zonke"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "iintlanga zokusebenza"
+    },
+    {
+      "surface": "און",
+      "gloss": "bokungcola"
+    },
+    {
+      "surface": "להשמדם",
+      "gloss": "ukuze batshatyalaliswe"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "ngonaphakade"
+    },
+    {
+      "surface": "עד",
+      "gloss": "de naphakade"
+    }
+  ],
+  "timestamp": "2026-09-18T17:44:02.430209191Z",
+  "model": "glm-5.3"
+}

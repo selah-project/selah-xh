@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 38:3",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 38,
+  "translation": "Kuba iintolo zakho zidinwe kum, waza wandithobela phezu isandla sakho.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kuba"
+    },
+    {
+      "surface": "חציך",
+      "gloss": "iintolo zakho"
+    },
+    {
+      "surface": "נחתו",
+      "gloss": "zidinwe"
+    },
+    {
+      "surface": "בי",
+      "gloss": "kum"
+    },
+    {
+      "surface": "ותנחת",
+      "gloss": "wandithobela"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "phezu"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "isandla sakho"
+    }
+  ],
+  "timestamp": "2026-09-18T14:43:54.107517405Z",
+  "model": "glm-5.3"
+}

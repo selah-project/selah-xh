@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 19:14",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 19,
+  "translation": "UMoshe wehla entabeni waya kubantu, wazingcwalisa ⟨את⟩ abantu, baza balamba iimpahla zabo.",
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "wehla"
+    },
+    {
+      "surface": "משה",
+      "gloss": "uMoshe"
+    },
+    {
+      "surface": "מן",
+      "gloss": "e-"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "ntabeni"
+    },
+    {
+      "surface": "אל",
+      "gloss": "waya ku-"
+    },
+    {
+      "surface": "העם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "ויקדש",
+      "gloss": "wazingcwalisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abantu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "ויכבסו",
+      "gloss": "bahlamba"
+    },
+    {
+      "surface": "שמלתם",
+      "gloss": "iimpahla zabo"
+    }
+  ],
+  "timestamp": "2026-09-18T06:05:00.447919897Z",
+  "model": "glm-5.3"
+}

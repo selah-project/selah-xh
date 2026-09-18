@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "joshua 20:7",
+  "book": "joshua",
+  "lang": "xh",
+  "chapter": 20,
+  "translation": "Baza bayingcwalela ⟨את⟩ iKedeshe eGalili, entabeni yakwaNefthali, no ⟨את⟩ uShekhem entabeni yakwa-Efrayim, no ⟨את⟩ iKiryathi-Arba, yona nguKhebroni, entabeni yakwaYuda.",
+  "tokens": [
+    {
+      "surface": "ויקדשו",
+      "gloss": "baza bayingcwalela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iKedeshe"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "iKedeshe"
+    },
+    {
+      "surface": "בגליל",
+      "gloss": "eGalili"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "entabeni"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "yakwaNefthali"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "no ⟨את⟩",
+      "marks": "uShekhem"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "uShekhem"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "entabeni"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "yakwa-Efrayim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "no ⟨את⟩",
+      "marks": "iKiryathi-Arba"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "iKiryathi"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "Arba"
+    },
+    {
+      "surface": "היא",
+      "gloss": "yona"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "nguKhebroni"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "entabeni"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "yakwaYuda"
+    }
+  ],
+  "timestamp": "2026-09-18T08:45:31.827712914Z",
+  "model": "glm-5.3"
+}

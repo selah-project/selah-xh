@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 89:1",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 89,
+  "translation": "Umqulu wokufundisa, ka-Eytan u-Ezrahite.",
+  "tokens": [
+    {
+      "surface": "משכיל",
+      "gloss": "umqulu wokufundisa"
+    },
+    {
+      "surface": "לאיתן",
+      "gloss": "ka-Eytan"
+    },
+    {
+      "surface": "האזרחי",
+      "gloss": "u-Ezrahite"
+    }
+  ],
+  "timestamp": "2026-09-18T15:08:04.438438863Z",
+  "model": "glm-5.3"
+}

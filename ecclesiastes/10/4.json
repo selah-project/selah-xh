@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 10:4",
+  "book": "ecclesiastes",
+  "lang": "xh",
+  "chapter": 10,
+  "translation": "Ukuba umoya wolawuli uyenyuka ukuchasa wena, musa ukushiya indawo yakho; kuba ubunono buzolisa izono ezinkulu.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ukuba"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "umoya"
+    },
+    {
+      "surface": "המושל",
+      "gloss": "wolawuli"
+    },
+    {
+      "surface": "תעלה",
+      "gloss": "uyenyuka"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "phezu kwakho (ukuchasa wena)"
+    },
+    {
+      "surface": "מקומך",
+      "gloss": "indawo yakho"
+    },
+    {
+      "surface": "אל",
+      "gloss": "musa"
+    },
+    {
+      "surface": "תנח",
+      "gloss": "ukushiya"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "מרפא",
+      "gloss": "ubunono (unyango)"
+    },
+    {
+      "surface": "יניח",
+      "gloss": "buzolisa"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "izono"
+    },
+    {
+      "surface": "גדולים",
+      "gloss": "ezinkulu"
+    }
+  ],
+  "timestamp": "2026-09-18T16:25:40.717600325Z",
+  "model": "glm-5.3"
+}

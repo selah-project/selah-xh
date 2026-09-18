@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ecclesiastes 3:17",
+  "book": "ecclesiastes",
+  "lang": "xh",
+  "chapter": 3,
+  "translation": "Ndandithi entliziyweni yam: uElohim uza kugweba ⟨את⟩ ilungisa ⟨את⟩ nongalungileyo, kuba ixesya likhona kulo lonke into ethandiwayo, nangaphezu kwalo lonke umsebenzi, apho.",
+  "tokens": [
+    {
+      "surface": "אמרתי",
+      "gloss": "ndandithi"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mna"
+    },
+    {
+      "surface": "בלבי",
+      "gloss": "entliziyweni yam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ilungisa"
+    },
+    {
+      "surface": "הצדיק",
+      "gloss": "ilungisa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ongalungileyo"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "ongalungileyo"
+    },
+    {
+      "surface": "ישפט",
+      "gloss": "uza kugweba"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "עת",
+      "gloss": "ixesha"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "kulo lonke"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "into ethandiwayo"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "nangaphezu kwa-"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lonke"
+    },
+    {
+      "surface": "המעשה",
+      "gloss": "umsebenzi"
+    },
+    {
+      "surface": "שם",
+      "gloss": "apho"
+    }
+  ],
+  "timestamp": "2026-09-18T16:24:24.540099027Z",
+  "model": "glm-5.3"
+}

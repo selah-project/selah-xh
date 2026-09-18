@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 89:19",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 89,
+  "translation": "Kuba uYahwe ⟨ngu⟩yena ikhaka lethu, kwaye uOyingcwele wakwa-Israyeli ⟨ngu⟩yena inkosi yethu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kuYahwe"
+    },
+    {
+      "surface": "מגננו",
+      "gloss": "ikhaka lethu"
+    },
+    {
+      "surface": "ולקדוש",
+      "gloss": "kwaye kuOyingcwele"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "wakwa-Israyeli"
+    },
+    {
+      "surface": "מלכנו",
+      "gloss": "inkosi yethu"
+    }
+  ],
+  "timestamp": "2026-09-18T15:08:34.683612634Z",
+  "model": "glm-5.3"
+}

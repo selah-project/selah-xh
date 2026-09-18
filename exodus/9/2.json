@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 9:2",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 9,
+  "translation": "kuba ukuba wena ungaluvumeli ukubatshala, kwaye usakubamba kubo,",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ukuba"
+    },
+    {
+      "surface": "מאן",
+      "gloss": "ungaluvumeli"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "לשלח",
+      "gloss": "ukubatshala"
+    },
+    {
+      "surface": "ועודך",
+      "gloss": "usakubamba"
+    },
+    {
+      "surface": "מחזיק",
+      "gloss": "ukubamba"
+    },
+    {
+      "surface": "בם",
+      "gloss": "kubo"
+    }
+  ],
+  "timestamp": "2026-09-18T05:56:38.383555158Z",
+  "model": "glm-5.3"
+}

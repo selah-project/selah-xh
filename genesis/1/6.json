@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 1:6",
+  "book": "genesis",
+  "lang": "xh",
+  "chapter": 1,
+  "translation": "uElohim wathi: “Makube khona iqaqamba phakathi kwamanzi, lize lahlu ngokwahlukileyo amanzi kwamanzi.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "makube khona"
+    },
+    {
+      "surface": "רקיע",
+      "gloss": "iqaqamba"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "phakathi"
+    },
+    {
+      "surface": "המים",
+      "gloss": "amanzi"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "lize"
+    },
+    {
+      "surface": "מבדיל",
+      "gloss": "lahlu ngokwahlukileyo"
+    },
+    {
+      "surface": "בין",
+      "gloss": "phakathi"
+    },
+    {
+      "surface": "מים",
+      "gloss": "amanzi"
+    },
+    {
+      "surface": "למים",
+      "gloss": "amanzi"
+    }
+  ],
+  "timestamp": "2026-09-18T05:08:12.223839978Z",
+  "model": "glm-5.3"
+}

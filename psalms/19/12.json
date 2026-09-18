@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 19:12",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 19,
+  "translation": "Kananjalo ngazo intonjana yakho iyazisindwa; ekuzigcineni kwoo kumkho umvuzo omkhulu.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "kananjalo"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "intonjana yakho"
+    },
+    {
+      "surface": "נזהר",
+      "gloss": "iyazisindwa"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "ngazo"
+    },
+    {
+      "surface": "בשמרם",
+      "gloss": "ekuzigcineni"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "kumkho"
+    },
+    {
+      "surface": "רב",
+      "gloss": "umvuzo omkhulu"
+    }
+  ],
+  "timestamp": "2026-09-18T14:33:44.084745133Z",
+  "model": "glm-5.3"
+}

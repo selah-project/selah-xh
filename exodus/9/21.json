@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 9:21",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 9,
+  "translation": "Lowo akalibekanga intliziyo yakhe kwilizwi likaYahwe washiya ⟨את⟩ abakhonzi bakhe no⟨את⟩ imfuyo yakhe ensimini.",
+  "tokens": [
+    {
+      "surface": "ואשר",
+      "gloss": "lowo onge"
+    },
+    {
+      "surface": "לא",
+      "gloss": "akalibekanga"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ebekanga"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "intliziyo yakhe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwi-"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ilizwi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "likaYahwe"
+    },
+    {
+      "surface": "ויעזב",
+      "gloss": "washiya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abakhonzi bakhe"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "abakhonzi bakhe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "imfuyo yakhe"
+    },
+    {
+      "surface": "מקנהו",
+      "gloss": "imfuyo yakhe"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "ensimini"
+    }
+  ],
+  "timestamp": "2026-09-18T05:57:48.802684663Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 137:1",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 137,
+  "translation": "Emilambo yeBhabheli, apho sahlala kwaye sakhala, xa sakukhumbula ⟨את⟩ iTsiyoni.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "emi- (phezu kwawo)"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "imilambo"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "yeBhabheli"
+    },
+    {
+      "surface": "שם",
+      "gloss": "apho"
+    },
+    {
+      "surface": "ישבנו",
+      "gloss": "sahlala"
+    },
+    {
+      "surface": "גם",
+      "gloss": "kwaye"
+    },
+    {
+      "surface": "בכינו",
+      "gloss": "sakhala"
+    },
+    {
+      "surface": "בזכרנו",
+      "gloss": "xa sakukhumbula"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iTsiyoni"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "iTsiyoni"
+    }
+  ],
+  "timestamp": "2026-09-18T15:31:10.402643781Z",
+  "model": "glm-5.3"
+}

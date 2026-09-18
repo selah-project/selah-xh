@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 127:3",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 127,
+  "translation": "Bhanini, abantwana ngaba yilifa likaYahwe; isiqhamo sombeleko ngumvuzo.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Bhanini"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "ilifa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "likaYahwe"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "abantwana"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "umvuzo"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "isiqhamo"
+    },
+    {
+      "surface": "הבטן",
+      "gloss": "sombeleko"
+    }
+  ],
+  "timestamp": "2026-09-18T15:28:31.099568330Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 27:12",
+  "book": "leviticus",
+  "lang": "xh",
+  "chapter": 27,
+  "translation": "Uze axabise umphostile ⟨את⟩ le mfuyo, phakathi kwelungileyo nangengetyelelegu; njengokuxabisa kwakho, wena umphostile, njalo makuba njalo.",
+  "tokens": [
+    {
+      "surface": "והעריך",
+      "gloss": "uze axabise"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "umphostile"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "le mfuyo"
+    },
+    {
+      "surface": "בין",
+      "gloss": "phakathi kwe-"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "elungileyo"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "nange-"
+    },
+    {
+      "surface": "רע",
+      "gloss": "engcolileyo"
+    },
+    {
+      "surface": "כערכך",
+      "gloss": "njengokuxabisa kwakho"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "wena umphostile"
+    },
+    {
+      "surface": "כן",
+      "gloss": "njalo"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "makuba njalo"
+    }
+  ],
+  "timestamp": "2026-09-18T07:08:51.271817266Z",
+  "model": "glm-5.3"
+}

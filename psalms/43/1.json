@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 43:1",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 43,
+  "translation": "Ungandilela, uElohim, ulwe idabi lam ngokuchasene sevakala esingabhuti abantu; undikhulule kumntu wenzekelo nocalulo.",
+  "tokens": [
+    {
+      "surface": "שפטני",
+      "gloss": "Ungandilela"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "וריבה",
+      "gloss": "ulwe idabi"
+    },
+    {
+      "surface": "ריבי",
+      "gloss": "lam"
+    },
+    {
+      "surface": "מגוי",
+      "gloss": "ngokuchasene sevakala"
+    },
+    {
+      "surface": "לא",
+      "gloss": "esi"
+    },
+    {
+      "surface": "חסיד",
+      "gloss": "singabhuti abantu"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "kumntu"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "wenzekelo"
+    },
+    {
+      "surface": "ועולה",
+      "gloss": "nocalulo"
+    },
+    {
+      "surface": "תפלטני",
+      "gloss": "undikhulule"
+    }
+  ],
+  "timestamp": "2026-09-18T14:45:38.429904421Z",
+  "model": "glm-5.3"
+}

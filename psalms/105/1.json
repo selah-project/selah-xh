@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 105:1",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 105,
+  "translation": "Ndiyabulela-ni kuYahwe; bizani ngeGama lakhe; yazisani kwiintlanga izenzo zakhe.",
+  "tokens": [
+    {
+      "surface": "הודו",
+      "gloss": "bulelani-ni (ndiyabulela)"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kuYahwe"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "bizani"
+    },
+    {
+      "surface": "בשמו",
+      "gloss": "ngeGama lakhe"
+    },
+    {
+      "surface": "הודיעו",
+      "gloss": "yazisani"
+    },
+    {
+      "surface": "בעמים",
+      "gloss": "kwiintlanga"
+    },
+    {
+      "surface": "עלילותיו",
+      "gloss": "izenzo zakhe"
+    }
+  ],
+  "timestamp": "2026-09-18T15:16:42.395054669Z",
+  "model": "glm-5.3"
+}

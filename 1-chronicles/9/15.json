@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 9:15",
+  "book": "1-chronicles",
+  "lang": "xh",
+  "chapter": 9,
+  "translation": "Kwaye uBakbakkar, uHeresh noGalal, noMatanyah unyana kaMika, unyana kaZikri, unyana kaAsaf;",
+  "tokens": [
+    {
+      "surface": "ובקבקר",
+      "gloss": "Kwaye uBakbakkar"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "uHeresh"
+    },
+    {
+      "surface": "וגלל",
+      "gloss": "noGalal"
+    },
+    {
+      "surface": "ומתניה",
+      "gloss": "noMatanyah"
+    },
+    {
+      "surface": "בן",
+      "gloss": "unyana"
+    },
+    {
+      "surface": "מיכא",
+      "gloss": "kaMika"
+    },
+    {
+      "surface": "בן",
+      "gloss": "unyana"
+    },
+    {
+      "surface": "זכרי",
+      "gloss": "kaZikri"
+    },
+    {
+      "surface": "בן",
+      "gloss": "unyana"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "kaAsaf"
+    }
+  ],
+  "timestamp": "2026-09-18T16:54:07.416437149Z",
+  "model": "glm-5.3"
+}

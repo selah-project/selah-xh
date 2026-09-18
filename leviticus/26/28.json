@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "leviticus 26:28",
+  "book": "leviticus",
+  "lang": "xh",
+  "chapter": 26,
+  "translation": "kwaye ndiya kuhamba nani ngokuthukuthela ngokuchasene, kwaye ndiya kuniqeqesha ⟨אתכם⟩, mna ngedwa, kakwisixhenxe ngenxa yezoni zenu.",
+  "tokens": [
+    {
+      "surface": "והלכתי",
+      "gloss": "kwaye ndiya kuhamba"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "nani"
+    },
+    {
+      "surface": "בחמת",
+      "gloss": "ngokuthukuthela"
+    },
+    {
+      "surface": "קרי",
+      "gloss": "ngokuchasene"
+    },
+    {
+      "surface": "ויסרתי",
+      "gloss": "kwaye ndiya kuniqeqesha"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨אתכם⟩",
+      "marks": "nina"
+    },
+    {
+      "surface": "אף",
+      "gloss": "nako"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mna"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "kakwisixhenxe"
+    },
+    {
+      "surface": "על",
+      "gloss": "ngenxa"
+    },
+    {
+      "surface": "חטאתיכם",
+      "gloss": "yezoni zenu"
+    }
+  ],
+  "timestamp": "2026-09-18T17:23:26.746984556Z",
+  "model": "glm-5.3"
+}

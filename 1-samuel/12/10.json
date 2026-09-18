@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 12:10",
+  "book": "1-samuel",
+  "lang": "xh",
+  "chapter": 12,
+  "translation": "Bamemeza kuYahwe, bathi: “Sonile, kuba silahle uYahwe, sakhonza ⟨את⟩ iiBaali nangeAshtharoth; ngoku ke, sikhusule esandleni zitha zethu, size sikukhonza wena.”",
+  "tokens": [
+    {
+      "surface": "ויזעקו",
+      "gloss": "Bamemeza"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "bathi"
+    },
+    {
+      "surface": "חטאנו",
+      "gloss": "Sonile"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "עזבנו",
+      "gloss": "silahle"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uYahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "ונעבד",
+      "gloss": "sakhonza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iiBaali"
+    },
+    {
+      "surface": "הבעלים",
+      "gloss": "iiBaali"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ngeAshtharoth"
+    },
+    {
+      "surface": "העשתרות",
+      "gloss": "ngeAshtharoth"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "ngoku ke"
+    },
+    {
+      "surface": "הצילנו",
+      "gloss": "sikhusule"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "esandleni"
+    },
+    {
+      "surface": "איבינו",
+      "gloss": "zitha zethu"
+    },
+    {
+      "surface": "ונעבדך",
+      "gloss": "size sikukhonza wena"
+    }
+  ],
+  "timestamp": "2026-09-18T09:20:37.168717445Z",
+  "model": "glm-5.3"
+}

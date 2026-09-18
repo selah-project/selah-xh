@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 128:6",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 128,
+  "translation": "Ubone oonyana baal oonyana bakho; makube uxolo phezu kukaIsrayeli.",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "Ubone"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "oonyana"
+    },
+    {
+      "surface": "לבניך",
+      "gloss": "baal oonyana bakho"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "uxolo"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu ku"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "kaIsrayeli"
+    }
+  ],
+  "timestamp": "2026-09-18T15:26:30.251238184Z",
+  "model": "glm-5.3"
+}

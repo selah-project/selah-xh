@@ -1,0 +1,48 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "exodus 39:36",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 39,
+  "translation": "⟨את⟩ Itafile, ⟨את⟩ yonke izixhobo zayo, kunye ⟨את⟩ nesonka sobuso.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Itafile"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "Itafile"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yonke izixhobo zayo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yonke"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "izixhobo zayo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kunye ⟨את⟩",
+      "marks": "nesonka sobuso"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "isonka"
+    },
+    {
+      "surface": "הפנים",
+      "gloss": "sobuso"
+    }
+  ],
+  "timestamp": "2026-09-18T06:31:21.738013077Z",
+  "model": "glm-5.3"
+}

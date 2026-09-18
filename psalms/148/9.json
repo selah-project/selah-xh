@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 148:9",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 148,
+  "translation": "iintaba kunye nazo zonke iinduli, imithi yeziqhamo kunye nazo zonke iizedari;",
+  "tokens": [
+    {
+      "surface": "ההרים",
+      "gloss": "iintaba"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "kunye nazo zonke"
+    },
+    {
+      "surface": "גבעות",
+      "gloss": "iinduli"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "imithi"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "yeziqhamo"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "kunye nazo zonke"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "iizedari"
+    }
+  ],
+  "timestamp": "2026-09-18T15:33:08.746021175Z",
+  "model": "glm-5.3"
+}

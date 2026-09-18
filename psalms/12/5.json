@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 12:5",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 12,
+  "translation": "abathi: “Nglwethu siza kuqinisa ⟨את⟩; imilethe yethu isiseleyo thina; ngubani na oyinkosi kuthi?”",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "abathi"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "bathi"
+    },
+    {
+      "surface": "ללשננו",
+      "gloss": "nglwethu"
+    },
+    {
+      "surface": "נגביר",
+      "gloss": "siza kuqinisa"
+    },
+    {
+      "surface": "שפתינו",
+      "gloss": "imilethe yethu"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩",
+      "marks": "thina"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ngubani na"
+    },
+    {
+      "surface": "אדון",
+      "gloss": "oyinkosi"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "kuthi"
+    }
+  ],
+  "timestamp": "2026-09-18T14:31:40.390084459Z",
+  "model": "glm-5.3"
+}

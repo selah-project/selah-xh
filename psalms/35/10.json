@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 35:10",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 35,
+  "translation": "Bonke amathambo am athi: uYahwe, ngubani ofana nawe, osindisa umswakama kowomeleleyo kunaye, nomswakama nomwe kumrobhusi lwakhe?",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "bonke"
+    },
+    {
+      "surface": "עצמותי",
+      "gloss": "amathambo am"
+    },
+    {
+      "surface": "תאמרנה",
+      "gloss": "athi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ngubani"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "ofana nawe"
+    },
+    {
+      "surface": "מציל",
+      "gloss": "osindisa"
+    },
+    {
+      "surface": "עני",
+      "gloss": "umswakama"
+    },
+    {
+      "surface": "מחזק",
+      "gloss": "kowomeleleyo"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "kunaye"
+    },
+    {
+      "surface": "ועני",
+      "gloss": "nomswakama"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "nomwe"
+    },
+    {
+      "surface": "מגזלו",
+      "gloss": "kurhweba kwakhe"
+    }
+  ],
+  "timestamp": "2026-09-18T14:40:07.700245584Z",
+  "model": "glm-5.3"
+}

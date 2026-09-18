@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 78:21",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 78,
+  "translation": "Ngoko uYahwe wava, wathukuthuka, kwaye umlilo wavuthela kuYakobi, nokwisinxwalela sanyuka kuSirayeli;",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "Ngoko"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "wava"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "ויתעבר",
+      "gloss": "wathukuthuka"
+    },
+    {
+      "surface": "ואש",
+      "gloss": "kwaye umlilo"
+    },
+    {
+      "surface": "נשקה",
+      "gloss": "wavuthela"
+    },
+    {
+      "surface": "ביעקב",
+      "gloss": "kuYakobi"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "nokwi-"
+    },
+    {
+      "surface": "אף",
+      "gloss": "isinxwalela"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "sanyuka"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "kuSirayeli"
+    }
+  ],
+  "timestamp": "2026-09-18T15:01:35.145646033Z",
+  "model": "glm-5.3"
+}

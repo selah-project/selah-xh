@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 3:5",
+  "book": "1-kings",
+  "lang": "xh",
+  "chapter": 3,
+  "translation": "EGivoni uYahwe wabonakala kuShelomoh ngephupho ebusuku; uElohim wathetha: “Cela — ntoni na ending nikela kuwe?”",
+  "tokens": [
+    {
+      "surface": "בגבעון",
+      "gloss": "EGivoni"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "wabonakala"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "uShelomoh"
+    },
+    {
+      "surface": "בחלום",
+      "gloss": "ngephupho"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "ebusuku"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "wathetha"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "cela"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ntoni"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "ending nikela"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kuwe"
+    }
+  ],
+  "timestamp": "2026-09-18T10:10:56.138897966Z",
+  "model": "glm-5.3"
+}

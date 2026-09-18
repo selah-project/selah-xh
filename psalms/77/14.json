@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 77:14",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 77,
+  "translation": "uElohim, ngokungcwele kukho indlela yakho; ngubani u-El omkhulu njenguElohim?",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "ngokungcwele"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "indlela yakho"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ngubani"
+    },
+    {
+      "surface": "אל",
+      "gloss": "u-El"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "omkhulu"
+    },
+    {
+      "surface": "כאלהים",
+      "gloss": "njenguElohim"
+    }
+  ],
+  "timestamp": "2026-09-18T15:00:34.471391606Z",
+  "model": "glm-5.3"
+}

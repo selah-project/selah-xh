@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 15:3",
+  "book": "leviticus",
+  "lang": "xh",
+  "chapter": 15,
+  "translation": "Yile nto ibe yingcola yakhe kusichitha sakhe: xa umzimba wakhe uchitha ⟨את⟩ isichitha sakhe, okanye xa umzimba wakhe umisiwe wongasachitha — ingcola yakhe yile.",
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "yile nto"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ibe"
+    },
+    {
+      "surface": "טמאתו",
+      "gloss": "yingcola yakhe"
+    },
+    {
+      "surface": "בזובו",
+      "gloss": "kusichitha sakhe"
+    },
+    {
+      "surface": "רר",
+      "gloss": "xa uchitha"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "umzimba wakhe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isichitha sakhe"
+    },
+    {
+      "surface": "זובו",
+      "gloss": "isichitha sakhe"
+    },
+    {
+      "surface": "או",
+      "gloss": "okanye"
+    },
+    {
+      "surface": "החתים",
+      "gloss": "umisiwe"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "umzimba wakhe"
+    },
+    {
+      "surface": "מזובו",
+      "gloss": "wongasachitha usuka kusichitha"
+    },
+    {
+      "surface": "טמאתו",
+      "gloss": "ingcola yakhe"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yile"
+    }
+  ],
+  "timestamp": "2026-09-18T06:51:43.770470601Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "job 13:11",
+  "book": "job",
+  "lang": "xh",
+  "chapter": 13,
+  "translation": "Ingaba ukuzuko kwakhe akukundoyiki na, ⟨את⟩ nina, nokoyika kwakhe kuya kuwehla phezu kwenu?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "Ingaba...na"
+    },
+    {
+      "surface": "שאתו",
+      "gloss": "ukuzuko kwakhe"
+    },
+    {
+      "surface": "תבעת",
+      "gloss": "akukundoyiki"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "nina"
+    },
+    {
+      "surface": "ופחדו",
+      "gloss": "nokoyika kwakhe"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "kuya kuwehla"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "phezu kwenu"
+    }
+  ],
+  "timestamp": "2026-09-18T16:03:31.817612580Z",
+  "model": "glm-5.3"
+}

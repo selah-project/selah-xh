@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 66:14",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 66,
+  "translation": "oku mlomo wam uvule khona, nenlomo yam yathetha ngexesha lokucinzeleka kwam.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "oku"
+    },
+    {
+      "surface": "פצו",
+      "gloss": "uvule"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "mlomo wam"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "yathetha"
+    },
+    {
+      "surface": "פי",
+      "gloss": "enlomo yam"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "ngexesha lokucinzeleka"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kwam"
+    }
+  ],
+  "timestamp": "2026-09-18T14:53:59.943316462Z",
+  "model": "glm-5.3"
+}

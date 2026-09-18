@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 93:1",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 93,
+  "translation": "uYahwe ubusa, wagqokisa ubukhosi, wagqokisa uYahwe amandla, wazingela ngawo; apho umhlaba uqinisiwe, awunakunyuka.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ubusa"
+    },
+    {
+      "surface": "גאות",
+      "gloss": "ubukhosi"
+    },
+    {
+      "surface": "לבש",
+      "gloss": "wagqokisa"
+    },
+    {
+      "surface": "לבש",
+      "gloss": "wagqokisa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "עז",
+      "gloss": "amandla"
+    },
+    {
+      "surface": "התאזר",
+      "gloss": "wazingela ngawo"
+    },
+    {
+      "surface": "אף",
+      "gloss": "apho"
+    },
+    {
+      "surface": "תכון",
+      "gloss": "uqinisiwe"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "umhlaba"
+    },
+    {
+      "surface": "בל",
+      "gloss": "akunanjani"
+    },
+    {
+      "surface": "תמוט",
+      "gloss": "awunakunyuka"
+    }
+  ],
+  "timestamp": "2026-09-18T15:12:04.376703233Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 1:25",
+  "book": "genesis",
+  "lang": "xh",
+  "chapter": 1,
+  "translation": "Wenza uElohim ⟨את⟩ iintaka-zomhlaba ngokweenkomo zazo, ⟨ואת⟩ izilwane ngokweenkomo zazo, ⟨ואת⟩ yonke into eqhwabazelayo yomhlaba ngokweenkomo zayo; wabona uElohim kokuba kulungile.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Wenza"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iintaka-zomhlaba"
+    },
+    {
+      "surface": "חית",
+      "gloss": "iintaka-zomhlaba"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zomhlaba"
+    },
+    {
+      "surface": "למינה",
+      "gloss": "ngokweenkomo zazo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "izilwane"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "izilwane"
+    },
+    {
+      "surface": "למינה",
+      "gloss": "ngokweenkomo zazo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "yonke into eqhwabazelayo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yonke"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "into eqhwabazelayo"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "yomhlaba"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "ngokweenkomo zayo"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "wabona"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kokuba"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "kulungile"
+    }
+  ],
+  "timestamp": "2026-09-18T05:07:48.454035147Z",
+  "model": "glm-5.3"
+}

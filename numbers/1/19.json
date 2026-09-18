@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "numbers 1:19",
+  "book": "numbers",
+  "lang": "xh",
+  "chapter": 1,
+  "translation": "Njengoko uYahwe wayalela ⟨את⟩ uMoshe, wanabala abantu entlangweni yaseSinayi.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "Njengoko"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "wayalela"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uMoshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "uMoshe"
+    },
+    {
+      "surface": "ויפקדם",
+      "gloss": "wanabala abantu"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "entlangweni"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "yaseSinayi"
+    }
+  ],
+  "timestamp": "2026-09-18T07:10:44.644901426Z",
+  "model": "glm-5.3"
+}

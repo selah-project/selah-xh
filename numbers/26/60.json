@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 60,
+  "ref": "numbers 26:60",
+  "book": "numbers",
+  "lang": "xh",
+  "chapter": 26,
+  "translation": "Ku-Aharon kwazalwa ⟨את⟩ uNadabi no-Avihuwi, ⟨את⟩ no-Elazari, ⟨את⟩ no-Itamari.",
+  "tokens": [
+    {
+      "surface": "ויולד",
+      "gloss": "kwazalwa"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "Ku-Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uNadabi"
+    },
+    {
+      "surface": "נדב",
+      "gloss": "uNadabi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "no-Avihuwi"
+    },
+    {
+      "surface": "אביהוא",
+      "gloss": "no-Avihuwi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "no-Elazari"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "no-Elazari"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "no-Itamari"
+    },
+    {
+      "surface": "איתמר",
+      "gloss": "no-Itamari"
+    }
+  ],
+  "timestamp": "2026-09-18T07:40:16.192293140Z",
+  "model": "glm-5.3"
+}

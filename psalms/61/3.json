@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 61:3",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 61,
+  "translation": "Ekupheleni komhlaba ndiza kukubiza; xa intliziyo yam icindezeliwe, undikhokelela elityeni eliphezulu kunandi.",
+  "tokens": [
+    {
+      "surface": "מקצה",
+      "gloss": "Ekupheleni"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "komhlaba"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kuwe"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "ndiza kukubiza"
+    },
+    {
+      "surface": "בעטף",
+      "gloss": "xa intliziyo icindezeliwe"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "intliziyo yam"
+    },
+    {
+      "surface": "בצור",
+      "gloss": "elityeni"
+    },
+    {
+      "surface": "ירום",
+      "gloss": "eliphezulu"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "kunandi"
+    },
+    {
+      "surface": "תנחני",
+      "gloss": "undikhokelela"
+    }
+  ],
+  "timestamp": "2026-09-18T14:53:37.616817848Z",
+  "model": "glm-5.3"
+}

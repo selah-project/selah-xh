@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joshua 9:3",
+  "book": "joshua",
+  "lang": "xh",
+  "chapter": 9,
+  "translation": "Abahlali baseGibeyoni bawa besiva ⟨את⟩ oko uYehoshuwa enzeleyo iYeriyo nase-Ayi,",
+  "tokens": [
+    {
+      "surface": "וישבי",
+      "gloss": "Abahlali"
+    },
+    {
+      "surface": "גבעון",
+      "gloss": "baseGibeyoni"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "bawa besiva"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oko uYehoshuwa enzeleyo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oko"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "enzeleyo"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "uYehoshuwa"
+    },
+    {
+      "surface": "ליריחו",
+      "gloss": "iYeriyo"
+    },
+    {
+      "surface": "ולעי",
+      "gloss": "nase-Ayi"
+    }
+  ],
+  "timestamp": "2026-09-18T08:33:57.807026641Z",
+  "model": "glm-5.3"
+}

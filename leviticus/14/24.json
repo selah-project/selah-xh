@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "leviticus 14:24",
+  "book": "leviticus",
+  "lang": "xh",
+  "chapter": 14,
+  "translation": "Mongameli uthabathe ⟨את⟩ ikeheshi ye-ashame kunye ⟨את⟩ nelogi lamafutha, mongameli uzinikuphakamise njengesiphakamiso phambi kukaYahwe.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "uthabathe"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "Mongameli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ikeheshi ye-ashame"
+    },
+    {
+      "surface": "כבש",
+      "gloss": "ikeheshi"
+    },
+    {
+      "surface": "האשם",
+      "gloss": "ye-ashame"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kunye ⟨את⟩ ne-",
+      "marks": "ilogi lamafutha"
+    },
+    {
+      "surface": "לג",
+      "gloss": "ilogi"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "lamafutha"
+    },
+    {
+      "surface": "והניף",
+      "gloss": "uzinikuphakamise"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ zi-"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "mongameli"
+    },
+    {
+      "surface": "תנופה",
+      "gloss": "njengesiphakamiso"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "phambi kuka-"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    }
+  ],
+  "timestamp": "2026-09-18T06:50:40.304634196Z",
+  "model": "glm-5.3"
+}

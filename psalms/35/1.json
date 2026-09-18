@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 35:1",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 35,
+  "translation": "KukaDavide. Lwela, uYahwe, ⟨את⟩ abachasi bam; yimala ⟨את⟩ abalwa bam.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "KukaDavide"
+    },
+    {
+      "surface": "ריבה",
+      "gloss": "Lwela"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abachasi bam"
+    },
+    {
+      "surface": "יריבי",
+      "gloss": "abachasi bam"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "yimala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abalwa bam"
+    },
+    {
+      "surface": "לחמי",
+      "gloss": "abalwa bam"
+    }
+  ],
+  "timestamp": "2026-09-18T14:41:27.166092472Z",
+  "model": "glm-5.3"
+}

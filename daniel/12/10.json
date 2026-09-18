@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "daniel 12:10",
+  "book": "daniel",
+  "lang": "xh",
+  "chapter": 12,
+  "translation": "Abaninzi aza kucocwa, bahlaziywa, banyuzwa; ababi bazakwenza ububi, yonke into engcolileyo aza kungaqondi; abaqonda phantsi baza kuqonda.",
+  "tokens": [
+    {
+      "surface": "יתבררו",
+      "gloss": "aza kucocwa"
+    },
+    {
+      "surface": "ויתלבנו",
+      "gloss": "bahlaziywa"
+    },
+    {
+      "surface": "ויצרפו",
+      "gloss": "banyuzwa"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "abaninzi"
+    },
+    {
+      "surface": "והרשיעו",
+      "gloss": "bazakwenza ububi"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ababi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "a-"
+    },
+    {
+      "surface": "יבינו",
+      "gloss": "za kungaqondi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yonke into"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "engcolileyo"
+    },
+    {
+      "surface": "והמשכלים",
+      "gloss": "abaqonda phantsi"
+    },
+    {
+      "surface": "יבינו",
+      "gloss": "baza kuqonda"
+    }
+  ],
+  "timestamp": "2026-09-18T16:38:06.639658493Z",
+  "model": "glm-5.3"
+}

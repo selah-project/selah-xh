@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 24:3",
+  "book": "proverbs",
+  "lang": "xh",
+  "chapter": 24,
+  "translation": "Ngobuchule indlu yakhiwa, yaye ngenolwazi olusezantsi lwento imiselwa.",
+  "tokens": [
+    {
+      "surface": "בחכמה",
+      "gloss": "ngobuchule"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "yakhiwa"
+    },
+    {
+      "surface": "בית",
+      "gloss": "indlu"
+    },
+    {
+      "surface": "ובתבונה",
+      "gloss": "yaye ngenolwazi olusezantsi lwento"
+    },
+    {
+      "surface": "יתכונן",
+      "gloss": "imiselwa"
+    }
+  ],
+  "timestamp": "2026-09-18T15:54:04.045138513Z",
+  "model": "glm-5.3"
+}

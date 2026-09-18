@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 91:13",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 91,
+  "translation": "Ingonyama nenene uza kutyhalela ngaphezulu; iingonyama ezincinane nesilwanyana esinobuthi uza kubazinqhotyela.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "ngaphezulu"
+    },
+    {
+      "surface": "שחל",
+      "gloss": "ingonyama"
+    },
+    {
+      "surface": "ופתן",
+      "gloss": "nenene"
+    },
+    {
+      "surface": "תדרך",
+      "gloss": "uza kutyhalela"
+    },
+    {
+      "surface": "תרמס",
+      "gloss": "uza kubazinqhotyela"
+    },
+    {
+      "surface": "כפיר",
+      "gloss": "iingonyama ezincinane"
+    },
+    {
+      "surface": "ותנין",
+      "gloss": "nesilwanyana esinobuthi"
+    }
+  ],
+  "timestamp": "2026-09-18T15:10:57.042979559Z",
+  "model": "glm-5.3"
+}

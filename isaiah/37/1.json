@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 37:1",
+  "book": "isaiah",
+  "lang": "xh",
+  "chapter": 37,
+  "translation": "Kwathi-ke, kwasekuthi uHizqiyahu, inkosi, eyiva loo nto, wazibulela ⟨את⟩ impahla yakhe, wazigubungela ngesaka, wangena endlwini kaYahwe.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Kwathi-ke, kwasekuthi"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "eyiva"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "inkosi"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "uHizqiyahu"
+    },
+    {
+      "surface": "ויקרע",
+      "gloss": "wazibulela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "impahla yakhe"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "impahla yakhe"
+    },
+    {
+      "surface": "ויתכס",
+      "gloss": "wazigubungela"
+    },
+    {
+      "surface": "בשק",
+      "gloss": "ngesaka"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "wangena"
+    },
+    {
+      "surface": "בית",
+      "gloss": "endlwini"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kaYahwe"
+    }
+  ],
+  "timestamp": "2026-09-18T11:28:48.774400328Z",
+  "model": "glm-5.3"
+}

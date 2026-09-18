@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 16:28",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 16,
+  "translation": "Wathi uYahwe kuMoshe: “Kuze nini nala ukugcina imiyalelo yam neTora yam?”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Wathi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "משה",
+      "gloss": "uMoshe"
+    },
+    {
+      "surface": "עד",
+      "gloss": "Kuze"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "nini"
+    },
+    {
+      "surface": "מאנתם",
+      "gloss": "nala"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "ukugcina"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "imiyalelo yam"
+    },
+    {
+      "surface": "ותורתי",
+      "gloss": "neTora yam"
+    }
+  ],
+  "timestamp": "2026-09-18T06:03:08.838992726Z",
+  "model": "glm-5.3"
+}

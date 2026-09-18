@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 1:7",
+  "book": "genesis",
+  "lang": "xh",
+  "chapter": 1,
+  "translation": "uElohim wenza ⟨את⟩ iqaqamba, wahlula phakathi kwamanzi asezantsi komgaqo-sibhakabhaka namanzi aphezulu komgaqo-sibhakabhaka; kwaba njalo.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "wenza"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iqaqamba"
+    },
+    {
+      "surface": "הרקיע",
+      "gloss": "iqaqamba"
+    },
+    {
+      "surface": "ויבדל",
+      "gloss": "wahlula"
+    },
+    {
+      "surface": "בין",
+      "gloss": "phakathi"
+    },
+    {
+      "surface": "המים",
+      "gloss": "amanzi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "njengoko"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "asezantsi"
+    },
+    {
+      "surface": "לרקיע",
+      "gloss": "komgaqo-sibhakabhaka"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "naphakathi"
+    },
+    {
+      "surface": "המים",
+      "gloss": "amanzi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "njengoko"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "aphezulu"
+    },
+    {
+      "surface": "לרקיע",
+      "gloss": "komgaqo-sibhakabhaka"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "kwaba"
+    },
+    {
+      "surface": "כן",
+      "gloss": "njalo"
+    }
+  ],
+  "timestamp": "2026-09-18T05:08:12.224168399Z",
+  "model": "glm-5.3"
+}

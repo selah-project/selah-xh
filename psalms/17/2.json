@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 17:2",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 17,
+  "translation": "Phambi kwakho ugwebo lwam m avela; amehlo akho abona oko kulungileyo.",
+  "tokens": [
+    {
+      "surface": "מלפניך",
+      "gloss": "Phambi kwakho"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "ugwebo lwam"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "mavela"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "amehlo akho"
+    },
+    {
+      "surface": "תחזינה",
+      "gloss": "abona"
+    },
+    {
+      "surface": "מישרים",
+      "gloss": "oko kulungileyo"
+    }
+  ],
+  "timestamp": "2026-09-18T14:32:28.599514868Z",
+  "model": "glm-5.3"
+}

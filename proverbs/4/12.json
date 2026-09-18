@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 4:12",
+  "book": "proverbs",
+  "lang": "xh",
+  "chapter": 4,
+  "translation": "Xa uhamba, amanyathelo akho awuzi kucinezeka; ukuba ugijima, awuzi kutwetwela.",
+  "tokens": [
+    {
+      "surface": "בלכתך",
+      "gloss": "Xa uhamba"
+    },
+    {
+      "surface": "לא",
+      "gloss": "awuzi"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "kucinezeka"
+    },
+    {
+      "surface": "צעדך",
+      "gloss": "amanyathelo akho"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "ukuba"
+    },
+    {
+      "surface": "תרוץ",
+      "gloss": "ugijima"
+    },
+    {
+      "surface": "לא",
+      "gloss": "awuzi"
+    },
+    {
+      "surface": "תכשל",
+      "gloss": "kutwetwela"
+    }
+  ],
+  "timestamp": "2026-09-18T15:37:18.741424574Z",
+  "model": "glm-5.3"
+}

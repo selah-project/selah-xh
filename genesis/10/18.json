@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 10:18",
+  "book": "genesis",
+  "lang": "xh",
+  "chapter": 10,
+  "translation": "naye ⟨את⟩ uArvadi, naye ⟨את⟩ uZemari, naye ⟨את⟩ uHamati; emva koko izizwe zikaKanana zawusasazeka.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "naye ⟨את⟩",
+      "marks": "uArvadi"
+    },
+    {
+      "surface": "הארודי",
+      "gloss": "uArvadi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "naye ⟨את⟩",
+      "marks": "uZemari"
+    },
+    {
+      "surface": "הצמרי",
+      "gloss": "uZemari"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "naye ⟨את⟩",
+      "marks": "uHamati"
+    },
+    {
+      "surface": "החמתי",
+      "gloss": "uHamati"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "emva koko"
+    },
+    {
+      "surface": "נפצו",
+      "gloss": "zawusasazeka"
+    },
+    {
+      "surface": "משפחות",
+      "gloss": "izizwe"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "ukaKanana"
+    }
+  ],
+  "timestamp": "2026-09-18T05:11:49.683139618Z",
+  "model": "glm-5.3"
+}

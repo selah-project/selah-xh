@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 4:10",
+  "book": "ecclesiastes",
+  "lang": "xh",
+  "chapter": 4,
+  "translation": "Kuba ukuba beyawa, omnye uyamiswa ⟨את⟩ umhlala wakhe; kodwa woe kumnye, ukuba ewa, akukho wesibini ukummisa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kuba"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ukuba"
+    },
+    {
+      "surface": "יפלו",
+      "gloss": "beyawa"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "omnye"
+    },
+    {
+      "surface": "יקים",
+      "gloss": "uyamisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umhlala wakhe"
+    },
+    {
+      "surface": "חברו",
+      "gloss": "umhlala wakhe"
+    },
+    {
+      "surface": "ואילו",
+      "gloss": "kodwa"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "kumnye"
+    },
+    {
+      "surface": "שיפול",
+      "gloss": "ukuba ewa"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "akukho"
+    },
+    {
+      "surface": "שני",
+      "gloss": "wesibini"
+    },
+    {
+      "surface": "להקימו",
+      "gloss": "ukummisa"
+    }
+  ],
+  "timestamp": "2026-09-18T16:23:35.087617429Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 40:13",
+  "book": "isaiah",
+  "lang": "xh",
+  "chapter": 40,
+  "translation": "UBani walinganisa ⟨את⟩ umoya kaYahwe, yaye ngubani oyiingcebisi zakhe wamfundisela?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "ubani"
+    },
+    {
+      "surface": "תכן",
+      "gloss": "walinganisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umoya"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "umoya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kaYahwe"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "yaye ngubani"
+    },
+    {
+      "surface": "עצתו",
+      "gloss": "oyiingcebisi zakhe"
+    },
+    {
+      "surface": "יודיענו",
+      "gloss": "wamfundisela"
+    }
+  ],
+  "timestamp": "2026-09-18T11:30:42.967851262Z",
+  "model": "glm-5.3"
+}

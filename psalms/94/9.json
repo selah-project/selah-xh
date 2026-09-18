@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 94:9",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 94,
+  "translation": "Lowo utyale indlebe, akayeva yini na? Lowo udale iliso, akaboni yini na?",
+  "tokens": [
+    {
+      "surface": "הנטע",
+      "gloss": "Lowo utyale"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "indlebe"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "akayeva yini na?"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "akayeva"
+    },
+    {
+      "surface": "אם",
+      "gloss": "na"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "udale"
+    },
+    {
+      "surface": "עין",
+      "gloss": "iliso"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "akaboni yini na?"
+    },
+    {
+      "surface": "יביט",
+      "gloss": "akaboni"
+    }
+  ],
+  "timestamp": "2026-09-18T15:10:05.543329006Z",
+  "model": "glm-5.3"
+}

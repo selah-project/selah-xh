@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 14:3",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 14,
+  "translation": "Bonke batshikile, ndawonye banycwazekile; akukho mntu wenza okulungileyo, akukho nanye.",
+  "tokens": [
+    {
+      "surface": "הכל",
+      "gloss": "Bonke"
+    },
+    {
+      "surface": "סר",
+      "gloss": "batshikile"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "ndawonye"
+    },
+    {
+      "surface": "נאלחו",
+      "gloss": "banycwazekile"
+    },
+    {
+      "surface": "אין",
+      "gloss": "akukho"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "mntu wenza"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "okulungileyo"
+    },
+    {
+      "surface": "אין",
+      "gloss": "akukho"
+    },
+    {
+      "surface": "גם",
+      "gloss": "naye"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "nanye"
+    }
+  ],
+  "timestamp": "2026-09-18T14:31:27.577587460Z",
+  "model": "glm-5.3"
+}

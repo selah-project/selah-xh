@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 17:16",
+  "book": "leviticus",
+  "lang": "xh",
+  "chapter": 17,
+  "translation": "Ukuba akanhlambanga, umzimba wakhe ungezwanga, uza kuthwala ubugwenxa bakhe.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ukuba"
+    },
+    {
+      "surface": "לא",
+      "gloss": "akanhlambanga"
+    },
+    {
+      "surface": "יכבס",
+      "gloss": "anhlambanga"
+    },
+    {
+      "surface": "ובשרו",
+      "gloss": "umzimba wakhe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ungezwanga"
+    },
+    {
+      "surface": "ירחץ",
+      "gloss": "agezwanga"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "uza kuthwala"
+    },
+    {
+      "surface": "עונו",
+      "gloss": "ubugwenxa bakhe"
+    }
+  ],
+  "timestamp": "2026-09-18T06:55:35.305425268Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 59:15",
+  "book": "isaiah",
+  "lang": "xh",
+  "chapter": 59,
+  "translation": "Yaye inyaniso yahamba ilahlekile; lowo uyevala ebubini waba sisabelo sokutyathwa. UYahwe wabona, kwabuhlungu emehlweni akhe, kuba akukho mgwebo.",
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "yaye"
+    },
+    {
+      "surface": "האמת",
+      "gloss": "inyaniso"
+    },
+    {
+      "surface": "נעדרת",
+      "gloss": "yahamba ilahlekile"
+    },
+    {
+      "surface": "וסר",
+      "gloss": "lowo uyevala"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "ebubini"
+    },
+    {
+      "surface": "משתולל",
+      "gloss": "waba sisabelo sokutyathwa"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "wabona"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "וירע",
+      "gloss": "kwabuhlungu"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "emehlweni akhe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "אין",
+      "gloss": "akukho"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "mgwebo"
+    }
+  ],
+  "timestamp": "2026-09-18T17:34:57.842870388Z",
+  "model": "glm-5.3"
+}

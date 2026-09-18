@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 90:7",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 90,
+  "translation": "Kuba siphelile ngelaka lakho, sabhunguka ngentlakahlazo yakho.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "כלינו",
+      "gloss": "siphelile"
+    },
+    {
+      "surface": "באפך",
+      "gloss": "ngelaka lakho"
+    },
+    {
+      "surface": "ובחמתך",
+      "gloss": "ngentlakahlazo yakho"
+    },
+    {
+      "surface": "נבהלנו",
+      "gloss": "sabhunguka"
+    }
+  ],
+  "timestamp": "2026-09-18T15:11:29.929854493Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 1:25",
+  "book": "numbers",
+  "lang": "xh",
+  "chapter": 1,
+  "translation": "Ababalwe abo, kwisizwe sikaGad, babengamawaka amashumi amane anesihlanu, namakhulu amatandathu anamashumi amahlanu.",
+  "tokens": [
+    {
+      "surface": "פקדיהם",
+      "gloss": "ababalwe abo"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "kwisizwe sika"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Gad"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "anesihlanu"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "amashumi amane"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "amawaka"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "namatandathu"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "amakhulu"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "anamashumi amahlanu"
+    }
+  ],
+  "timestamp": "2026-09-18T07:10:04.860062699Z",
+  "model": "glm-5.3"
+}

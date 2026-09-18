@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "isaiah 43:19",
+  "book": "isaiah",
+  "lang": "xh",
+  "chapter": 43,
+  "translation": "Yabona, mna ndiyenzela into entsha; ngoku iyaqhamuka; niyakuyizi na? Ndiya kubeka indlela kumhlaba ongenanto, iimilambo kumhlaba olongolileyo.",
+  "tokens": [
+    {
+      "surface": "הנני",
+      "gloss": "Yabona, mna"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ndiyenzela"
+    },
+    {
+      "surface": "חדשה",
+      "gloss": "into entsha"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "ngoku"
+    },
+    {
+      "surface": "תצמח",
+      "gloss": "iyaqhamuka"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "niyakuyizi na"
+    },
+    {
+      "surface": "תדעוה",
+      "gloss": "niyakuyizi na"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ke"
+    },
+    {
+      "surface": "אשים",
+      "gloss": "ndiya kubeka"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "kumhlaba ongenanto"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "indlela"
+    },
+    {
+      "surface": "בישמון",
+      "gloss": "kumhlaba olongolileyo"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "iimilambo"
+    }
+  ],
+  "timestamp": "2026-09-18T11:32:35.980880226Z",
+  "model": "glm-5.3"
+}

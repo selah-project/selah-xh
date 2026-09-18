@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 15:4",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 15,
+  "translation": "Olingeleyo uyanyanzelwa emehlweni akhe, kodwa ⟨את⟩ ooyika uYahwe uyabazukisa; oathembisile ukwenza okungalunganga akaguquki.",
+  "tokens": [
+    {
+      "surface": "נבזה",
+      "gloss": "uyanyanzelwa"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "emehlweni akhe"
+    },
+    {
+      "surface": "נמאס",
+      "gloss": "olingeleyo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ooyika uYahwe"
+    },
+    {
+      "surface": "יראי",
+      "gloss": "ooyika"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "יכבד",
+      "gloss": "uyabazukisa"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "oathembisile"
+    },
+    {
+      "surface": "להרע",
+      "gloss": "ukwenza okungalunganga"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "akaguquki (cha)"
+    },
+    {
+      "surface": "ימר",
+      "gloss": "aguquki"
+    }
+  ],
+  "timestamp": "2026-09-18T14:31:59.415112273Z",
+  "model": "glm-5.3"
+}

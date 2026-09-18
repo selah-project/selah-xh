@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 57:3",
+  "book": "isaiah",
+  "lang": "xh",
+  "chapter": 57,
+  "translation": "Kodwa nina sondelani apha, amabaniniabenzi bokhozi abantwana bamanundu, inzala yomtshatwe ngokusesikweni, nina nabani na abantwana basesisweni.",
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "kodwa nina"
+    },
+    {
+      "surface": "קרבו",
+      "gloss": "sondelani"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "apha"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abantwana"
+    },
+    {
+      "surface": "עננה",
+      "gloss": "bamanundu"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "inzala"
+    },
+    {
+      "surface": "מנאף",
+      "gloss": "yomtshatwe ngokusesikweni"
+    },
+    {
+      "surface": "ותזנה",
+      "gloss": "nabani na abantwana basesisweni"
+    }
+  ],
+  "timestamp": "2026-09-18T11:42:36.489179366Z",
+  "model": "glm-5.3"
+}

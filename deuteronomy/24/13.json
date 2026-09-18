@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 24:13",
+  "book": "deuteronomy",
+  "lang": "xh",
+  "chapter": 24,
+  "translation": "Ubuyisele ngokwenene ⟨את⟩ isibambelo sakhe ekutyeni kwelanga, aze alale esinxibweni sakhe, ayekucelela; kwaye kuwe kuya kuba lokulungile phambi koYahwe uElohim wakho.",
+  "tokens": [
+    {
+      "surface": "השב",
+      "gloss": "ubuyisele"
+    },
+    {
+      "surface": "תשיב",
+      "gloss": "uya kubuyisela"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kuye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isibambelo"
+    },
+    {
+      "surface": "העבוט",
+      "gloss": "isibambelo"
+    },
+    {
+      "surface": "כבא",
+      "gloss": "ekutyeni"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "elanga"
+    },
+    {
+      "surface": "ושכב",
+      "gloss": "aze alale"
+    },
+    {
+      "surface": "בשלמתו",
+      "gloss": "esinxibweni sakhe"
+    },
+    {
+      "surface": "וברכך",
+      "gloss": "ayekucelela"
+    },
+    {
+      "surface": "ולך",
+      "gloss": "kwaye kuwe"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "kuya kuba"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "lokulungile"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "phambi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "uElohim wakho"
+    }
+  ],
+  "timestamp": "2026-09-18T08:16:36.808126716Z",
+  "model": "glm-5.3"
+}

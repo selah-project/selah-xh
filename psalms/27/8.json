@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 27:8",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 27,
+  "translation": "Kuwe intliziyo yam yathi: “Funani ubuso bam.” ⟨את⟩ ubuso bakho, Yahwe, ndiya kubufuna.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "Kuwe"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "yathi"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "intliziyo yam"
+    },
+    {
+      "surface": "בקשו",
+      "gloss": "Funani"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ubuso bam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ubuso bakho"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ubuso bakho"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אבקש",
+      "gloss": "ndiya kubufuna"
+    }
+  ],
+  "timestamp": "2026-09-18T14:39:06.459096243Z",
+  "model": "glm-5.3"
+}

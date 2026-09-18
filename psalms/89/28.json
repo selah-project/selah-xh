@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 89:28",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 89,
+  "translation": "Mna naye, ndiza kumenza umzalelwa wokuqala, eliphezulu kunamakosi omhlaba.",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "naye"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Mna"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "umzalelwa wokuqala"
+    },
+    {
+      "surface": "אתנהו",
+      "gloss": "ndiza kumenza"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "eliphezulu"
+    },
+    {
+      "surface": "למלכי",
+      "gloss": "kunamakosi"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "omhlaba"
+    }
+  ],
+  "timestamp": "2026-09-18T15:07:11.009708725Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 9:16",
+  "book": "1-kings",
+  "lang": "xh",
+  "chapter": 9,
+  "translation": "UPharo ukumkani weMitsrayim wanyuka, waza wathatha ⟨את⟩ iGezer, wayitshisa ngomlilo, waza wabulala ⟨ואת⟩ uMkanani owayehlala kwisixeko, wayinika yena njengesipho sokushada intombi yakhe, umfazi kaShelomoh.",
+  "tokens": [
+    {
+      "surface": "פרעה",
+      "gloss": "UPharo"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ukumkani"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "weMitsrayim"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "wanyuka"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "waza wathatha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iGezer"
+    },
+    {
+      "surface": "גזר",
+      "gloss": "iGezer"
+    },
+    {
+      "surface": "וישרפה",
+      "gloss": "wayitshisa"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ngomlilo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨ואת⟩",
+      "marks": "uMkanani"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "uMkanani"
+    },
+    {
+      "surface": "הישב",
+      "gloss": "owayehlala"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "kwisixeko"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "wabulala"
+    },
+    {
+      "surface": "ויתנה",
+      "gloss": "wayinika yena"
+    },
+    {
+      "surface": "שלחים",
+      "gloss": "njengesipho sokushada"
+    },
+    {
+      "surface": "לבתו",
+      "gloss": "intombi yakhe"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "umfazi"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "kaShelomoh"
+    }
+  ],
+  "timestamp": "2026-09-18T17:31:32.064951323Z",
+  "model": "glm-5.3"
+}

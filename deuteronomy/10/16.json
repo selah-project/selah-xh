@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 10:16",
+  "book": "deuteronomy",
+  "lang": "xh",
+  "chapter": 10,
+  "translation": "Sikani ⟨את⟩ isiqhinga seentliziyo zenu, kwaye intshiye zenu zingabi zinkqo nakwakhona.",
+  "tokens": [
+    {
+      "surface": "ומלתם",
+      "gloss": "Sikani"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isiqhinga seentliziyo zenu"
+    },
+    {
+      "surface": "ערלת",
+      "gloss": "isiqhinga"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "seentliziyo zenu"
+    },
+    {
+      "surface": "וערפכם",
+      "gloss": "intshiye zenu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hayi (zingabi)"
+    },
+    {
+      "surface": "תקשו",
+      "gloss": "zinkqo"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "nakwakhona"
+    }
+  ],
+  "timestamp": "2026-09-18T08:01:23.735445797Z",
+  "model": "glm-5.3"
+}

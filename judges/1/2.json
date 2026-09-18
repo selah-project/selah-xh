@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "judges 1:2",
+  "book": "judges",
+  "lang": "xh",
+  "chapter": 1,
+  "translation": "Wathi uYahwe: “UYehuda uza kunyuka; yabona, ndinike ⟨את⟩ lo mhlaba esandleni sakhe.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Wathi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "UYehuda"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "uza kunyuka"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "yabona"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "ndinike"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lo mhlaba"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lo mhlaba"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "esandleni sakhe"
+    }
+  ],
+  "timestamp": "2026-09-18T08:48:32.761827669Z",
+  "model": "glm-5.3"
+}

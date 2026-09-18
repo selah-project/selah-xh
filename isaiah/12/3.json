@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 12:3",
+  "book": "isaiah",
+  "lang": "xh",
+  "chapter": 12,
+  "translation": "Niza kutyhata amanzi ngovuyo kwimithombo yeentsindvo.",
+  "tokens": [
+    {
+      "surface": "ושאבתם",
+      "gloss": "niza kutyhata"
+    },
+    {
+      "surface": "מים",
+      "gloss": "amanzi"
+    },
+    {
+      "surface": "בששון",
+      "gloss": "ngovuyo"
+    },
+    {
+      "surface": "ממעיני",
+      "gloss": "kwimithombo"
+    },
+    {
+      "surface": "הישועה",
+      "gloss": "yeentsindvo"
+    }
+  ],
+  "timestamp": "2026-09-18T11:09:44.066943693Z",
+  "model": "glm-5.3"
+}

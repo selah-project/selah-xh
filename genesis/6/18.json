@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 6:18",
+  "book": "genesis",
+  "lang": "xh",
+  "chapter": 6,
+  "translation": "Ndiza kumiswa ⟨את⟩ umnqophiso wam ⟨את⟩ kuwe; wena uza kungena kwisiqhinga, wena noonyana bakho nomfazi wakho nabafazi boonyana bakho ⟨את⟩ kuwe.",
+  "tokens": [
+    {
+      "surface": "והקמתי",
+      "gloss": "Ndiza kumisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umnqophiso wam"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "umnqophiso wam"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ kuwe"
+    },
+    {
+      "surface": "ובאת",
+      "gloss": "uza kungena"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwi-"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "siqhinga"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "ובניך",
+      "gloss": "noonyana bakho"
+    },
+    {
+      "surface": "ואשתך",
+      "gloss": "nomfazi wakho"
+    },
+    {
+      "surface": "ונשי",
+      "gloss": "nabafazi"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "boonyana bakho"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ kuwe"
+    }
+  ],
+  "timestamp": "2026-09-18T05:10:28.708838046Z",
+  "model": "glm-5.3"
+}

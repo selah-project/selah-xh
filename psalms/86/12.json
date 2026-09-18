@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 86:12",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 86,
+  "translation": "Ndiya kukudumisa, u-Adonayi uElohim wam, ngeintliziyo yam yonke; ndiya kukhulisa igama lakho kuaphakade.",
+  "tokens": [
+    {
+      "surface": "אודך",
+      "gloss": "Ndiya kukudumisa"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "u-Adonayi"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "uElohim wam"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "nge… yonke"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "intliziyo yam"
+    },
+    {
+      "surface": "ואכבדה",
+      "gloss": "ndiya kukhulisa"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "igama lakho"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "kuaphakade"
+    }
+  ],
+  "timestamp": "2026-09-18T15:06:51.047193743Z",
+  "model": "glm-5.3"
+}

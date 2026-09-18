@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 78:26",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 78,
+  "translation": "Wamtyhalela ⟨umoya⟩ wasempuma ezulwini, waza ngamandla akhe walawula ⟨umoya⟩ waselizantsi.",
+  "tokens": [
+    {
+      "surface": "יסע",
+      "gloss": "wamtyhalela"
+    },
+    {
+      "surface": "קדים",
+      "gloss": "wasempuma"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "ezulwini"
+    },
+    {
+      "surface": "וינהג",
+      "gloss": "waza walawula"
+    },
+    {
+      "surface": "בעזו",
+      "gloss": "ngamandla akhe"
+    },
+    {
+      "surface": "תימן",
+      "gloss": "waselizantsi"
+    }
+  ],
+  "timestamp": "2026-09-18T15:02:31.099057630Z",
+  "model": "glm-5.3"
+}

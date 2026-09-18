@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "nehemiah 12:1",
+  "book": "nehemiah",
+  "lang": "xh",
+  "chapter": 12,
+  "translation": "Kananjalo aba ngaba babingeleli namaLevi aqhuba noZerubhabheli unyana kaSheyaltiyeli noYeshuwa: uSyeraya, uYirmeya, uEzra.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Kananjalo aba"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "ngaba babingeleli"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "namaLevi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "qhuba"
+    },
+    {
+      "surface": "עם",
+      "gloss": "no-"
+    },
+    {
+      "surface": "זרבבל",
+      "gloss": "uZerubhabheli"
+    },
+    {
+      "surface": "בן",
+      "gloss": "unyana"
+    },
+    {
+      "surface": "שאלתיאל",
+      "gloss": "kaSheyaltiyeli"
+    },
+    {
+      "surface": "וישוע",
+      "gloss": "noYeshuwa"
+    },
+    {
+      "surface": "שריה",
+      "gloss": "uSyeraya"
+    },
+    {
+      "surface": "ירמיה",
+      "gloss": "uYirmeya"
+    },
+    {
+      "surface": "עזרא",
+      "gloss": "uEzra"
+    }
+  ],
+  "timestamp": "2026-09-18T16:48:51.094179356Z",
+  "model": "glm-5.3"
+}

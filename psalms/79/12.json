@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 79:12",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 79,
+  "translation": "Buyisela kumakhaya ethu, ngesixhenxe kwiifuba zabo, intlokothisho yabo abakuchel’ ungulo, wena u-Adonayi.",
+  "tokens": [
+    {
+      "surface": "והשב",
+      "gloss": "buyisela"
+    },
+    {
+      "surface": "לשכנינו",
+      "gloss": "kumakhaya ethu"
+    },
+    {
+      "surface": "שבעתים",
+      "gloss": "ngesixhenxe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwi-"
+    },
+    {
+      "surface": "חיקם",
+      "gloss": "ifuba zabo"
+    },
+    {
+      "surface": "חרפתם",
+      "gloss": "intlokothisho yabo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "abakuchela-"
+    },
+    {
+      "surface": "חרפוך",
+      "gloss": "ungulo"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "u-Adonayi"
+    }
+  ],
+  "timestamp": "2026-09-18T15:04:51.860135080Z",
+  "model": "glm-5.3"
+}

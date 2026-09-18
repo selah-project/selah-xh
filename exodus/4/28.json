@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 4:28",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 4,
+  "translation": "Waxelela uMoshe u-Aharon ⟨את⟩ onke amagama kaYahwe awamthumele ngawo, nange⟨את⟩ onke amaphawu awamtyalela wona.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "Waxelela"
+    },
+    {
+      "surface": "משה",
+      "gloss": "uMoshe"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "u-Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "onke amagama kaYahwe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "onke"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "amagama"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kaYahwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "awa-"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "awamthumele"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "nange⟨את⟩",
+      "marks": "onke amaphawu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "onke"
+    },
+    {
+      "surface": "האתת",
+      "gloss": "amaphawu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "awa-"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "awamtyalela"
+    }
+  ],
+  "timestamp": "2026-09-18T05:51:47.282020381Z",
+  "model": "glm-5.3"
+}

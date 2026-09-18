@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 25:8",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 25,
+  "translation": "Ulungile yaye oqokeleyo uYahwe; ngoko uyalifundisa aboni endleleni.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "Ulungile"
+    },
+    {
+      "surface": "וישר",
+      "gloss": "yaye oqokeleyo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "על",
+      "gloss": "ngenxa-"
+    },
+    {
+      "surface": "כן",
+      "gloss": "yakho"
+    },
+    {
+      "surface": "יורה",
+      "gloss": "uyalifundisa"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "aboni"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "endleleni"
+    }
+  ],
+  "timestamp": "2026-09-18T14:37:23.850983012Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "deuteronomy 11:32",
+  "book": "deuteronomy",
+  "lang": "xh",
+  "chapter": 11,
+  "translation": "Kwaye nizakusingatha ukwenza ⟨את⟩ zonke iimiso kwaye ⟨את⟩ imigwebo endiyibeka phambi kwenu namhlanje.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "nizakusingatha"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "ukwenza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zonke iimiso"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zonke"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "iimiso"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kwaye ⟨את⟩",
+      "marks": "imigwebo"
+    },
+    {
+      "surface": "המשפטים",
+      "gloss": "imigwebo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "endiyibeka"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "mna"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ndiyibeka"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "phambi kwenu"
+    },
+    {
+      "surface": "היום",
+      "gloss": "namhlanje"
+    }
+  ],
+  "timestamp": "2026-09-18T08:04:33.827805939Z",
+  "model": "glm-5.3"
+}

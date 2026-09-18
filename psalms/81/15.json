@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 81:15",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 81,
+  "translation": "Kungekudala bendingacinezelelanga iintshaba zabo, bendiza kujikezisa isandla sam ngokuchasene namachweshwe abo.",
+  "tokens": [
+    {
+      "surface": "כמעט",
+      "gloss": "Kungekudala"
+    },
+    {
+      "surface": "אויביהם",
+      "gloss": "iintshaba zabo"
+    },
+    {
+      "surface": "אכניע",
+      "gloss": "bendingacinezelelanga"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ngokuchasene"
+    },
+    {
+      "surface": "צריהם",
+      "gloss": "namachweshwe abo"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "bendiza kujikezisa"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "isandla sam"
+    }
+  ],
+  "timestamp": "2026-09-18T15:04:43.769105767Z",
+  "model": "glm-5.3"
+}

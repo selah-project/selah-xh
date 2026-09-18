@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 10:15",
+  "book": "ecclesiastes",
+  "lang": "xh",
+  "chapter": 10,
+  "translation": "Umsebenzi wabadenge uyabathatha, kuba akayazi indlela yokuhamba ukuya esixekweni.",
+  "tokens": [
+    {
+      "surface": "עמל",
+      "gloss": "umsebenzi"
+    },
+    {
+      "surface": "הכסילים",
+      "gloss": "wabadenge"
+    },
+    {
+      "surface": "תיגענו",
+      "gloss": "uyabathatha"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "לא",
+      "gloss": "akayizi"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "azi"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "indlela yokuhamba"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ukuya"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "esixekweni"
+    }
+  ],
+  "timestamp": "2026-09-18T16:25:19.329439994Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 6:4",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 6,
+  "translation": "Umphefumlo wam uphehle kakhulu; wena, uYahwe — de kuthini na?",
+  "tokens": [
+    {
+      "surface": "ונפשי",
+      "gloss": "Umphefumlo wam"
+    },
+    {
+      "surface": "נבהלה",
+      "gloss": "uphehle"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "kakhulu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "wena"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "עד",
+      "gloss": "de"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "kuthini na"
+    }
+  ],
+  "timestamp": "2026-09-18T14:26:15.611780093Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 9:8",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 9,
+  "translation": "uYahwe uhlala phakade; wakhe isihlalo sakhe sokugwesa.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "phakade"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "uhlala"
+    },
+    {
+      "surface": "כונן",
+      "gloss": "wakhe"
+    },
+    {
+      "surface": "למשפט",
+      "gloss": "sokugwesa"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "isihlalo sakhe"
+    }
+  ],
+  "timestamp": "2026-09-18T14:30:41.796006848Z",
+  "model": "glm-5.3"
+}

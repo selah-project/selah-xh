@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-kings 16:22",
+  "book": "1-kings",
+  "lang": "xh",
+  "chapter": 16,
+  "translation": "Abantu ababele emva kukaOmri bamenza amandla ⟨את⟩ abantu ababele emva kukaTibni unyana kaGinathi; wafa uTibni, wabusa uOmri.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "bamenza amandla"
+    },
+    {
+      "surface": "העם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ababele"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "emva kuka"
+    },
+    {
+      "surface": "עמרי",
+      "gloss": "uOmri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abantu ababele emva kukaTibni"
+    },
+    {
+      "surface": "העם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ababele"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "emva kuka"
+    },
+    {
+      "surface": "תבני",
+      "gloss": "uTibni"
+    },
+    {
+      "surface": "בן",
+      "gloss": "unyana"
+    },
+    {
+      "surface": "גינת",
+      "gloss": "kaGinathi"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "wafa"
+    },
+    {
+      "surface": "תבני",
+      "gloss": "uTibni"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "wabusa"
+    },
+    {
+      "surface": "עמרי",
+      "gloss": "uOmri"
+    }
+  ],
+  "timestamp": "2026-09-18T10:30:11.429533062Z",
+  "model": "glm-5.3"
+}

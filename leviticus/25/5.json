@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 25:5",
+  "book": "leviticus",
+  "lang": "xh",
+  "chapter": 25,
+  "translation": "⟨את⟩ isivuno esizihlaziyelayo sendima yakho akusokuqokelelwa, kananjalo ⟨את⟩ amagilebhini ezihlahla zakho ezingalunyiwayo akusokuqokelelwa; umnyaka wokuphumla ngokucokisekileyo uya kuba lowomhlaba.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isivuno esizihlaziyelayo sendima yakho"
+    },
+    {
+      "surface": "ספיח",
+      "gloss": "isivuno esizihlaziyelayo"
+    },
+    {
+      "surface": "קצירך",
+      "gloss": "sendima yakho"
+    },
+    {
+      "surface": "לא",
+      "gloss": "akuso"
+    },
+    {
+      "surface": "תקצור",
+      "gloss": "kuqokelelwa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "amagilebhini ezihlahla zakho ezingalunyiwayo"
+    },
+    {
+      "surface": "ענבי",
+      "gloss": "amagilebhini"
+    },
+    {
+      "surface": "נזירך",
+      "gloss": "ezihlahla zakho ezingalunyiwayo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "akuso"
+    },
+    {
+      "surface": "תבצר",
+      "gloss": "kuqokelelwa"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "umnyaka"
+    },
+    {
+      "surface": "שבתון",
+      "gloss": "wokuphumla ngokucokisekileyo"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "uya kuba"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "lowomhlaba"
+    }
+  ],
+  "timestamp": "2026-09-18T07:04:46.863659908Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "hosea 1:7",
+  "book": "hosea",
+  "lang": "xh",
+  "chapter": 1,
+  "translation": "Kodwa ⟨את⟩ ibango likaYehudha ndiza kulunga nalo, ndiza kulusindisa ngoYahwe uElohim wabo; andisuki ndibasindisa ngetoli, nangetyre",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ibango likaYehudha"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ibango"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "likaYehudha"
+    },
+    {
+      "surface": "ארחם",
+      "gloss": "ndiza kulunga nalo"
+    },
+    {
+      "surface": "והושעתים",
+      "gloss": "ndiza kulusindisa"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "ngoYahwe"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "uElohim wabo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "andi"
+    },
+    {
+      "surface": "אושיעם",
+      "gloss": "suki ndibasindisa"
+    },
+    {
+      "surface": "בקשת",
+      "gloss": "ngetoli"
+    },
+    {
+      "surface": "ובחרב",
+      "gloss": "nangetyre"
+    },
+    {
+      "surface": "ובמלחמה",
+      "gloss": "nanangemfazwe"
+    },
+    {
+      "surface": "בסוסים",
+      "gloss": "nangeamahashe"
+    },
+    {
+      "surface": "ובפרשים",
+      "gloss": "nangeabarideri behashe"
+    }
+  ],
+  "timestamp": "2026-09-18T13:44:18.928427812Z",
+  "model": "glm-5.3"
+}

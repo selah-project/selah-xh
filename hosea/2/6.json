@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "hosea 2:6",
+  "book": "hosea",
+  "lang": "xh",
+  "chapter": 2,
+  "translation": "Kwaye ⟨את⟩ abantwana bakhe andiza kubanzelela, kuba ngabantwana bokuziphara ngokwenene abo.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Kwaye ⟨את⟩",
+      "marks": "abantwana bakhe"
+    },
+    {
+      "surface": "בניה",
+      "gloss": "abantwana bakhe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "andi"
+    },
+    {
+      "surface": "ארחם",
+      "gloss": "za kubanzelela"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ngabantwana"
+    },
+    {
+      "surface": "זנונים",
+      "gloss": "bokuziphara"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ngokwenene abo"
+    }
+  ],
+  "timestamp": "2026-09-18T13:42:36.043440143Z",
+  "model": "glm-5.3"
+}

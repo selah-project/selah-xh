@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 28:6",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 28,
+  "translation": "Makabusiseke uYahwe, kuba uyivumile ivo yemikhonzoco yam.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Makabusiseke"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "uyivumile"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ivo"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "yemikhonzoco yam"
+    }
+  ],
+  "timestamp": "2026-09-18T14:37:51.804959485Z",
+  "model": "glm-5.3"
+}

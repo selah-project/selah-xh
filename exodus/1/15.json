@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 1:15",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 1,
+  "translation": "Inkosi yaseMitsrayim yathetha kwiindleli zokuzala zabaseBhrayeli, elinye igama laso linguShifra, elinye igama linguPhuwa.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "yathetha"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "Inkosi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "yaseMitsrayim"
+    },
+    {
+      "surface": "למילדת",
+      "gloss": "kwiindleli zokuzala"
+    },
+    {
+      "surface": "העברית",
+      "gloss": "zabaseBhrayeli"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "uba-"
+    },
+    {
+      "surface": "שם",
+      "gloss": "igama"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "elinye"
+    },
+    {
+      "surface": "שפרה",
+      "gloss": "linguShifra"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "elinye igama"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "elinye"
+    },
+    {
+      "surface": "פועה",
+      "gloss": "linguPhuwa"
+    }
+  ],
+  "timestamp": "2026-09-18T05:48:41.036116669Z",
+  "model": "glm-5.3"
+}

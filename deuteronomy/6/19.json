@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 6:19",
+  "book": "deuteronomy",
+  "lang": "xh",
+  "chapter": 6,
+  "translation": "ukudlalula zonke iintshaba zakho ephambi kwakho, njengoko atshilo uYahwe.",
+  "tokens": [
+    {
+      "surface": "להדף",
+      "gloss": "ukudlalula"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zonke iintshaba zakho"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zonke"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "iintshaba zakho"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "ephambi kwakho"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "njengoko"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "atshilo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    }
+  ],
+  "timestamp": "2026-09-18T17:25:52.687191138Z",
+  "model": "glm-5.3"
+}

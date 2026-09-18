@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 2:8",
+  "book": "genesis",
+  "lang": "xh",
+  "chapter": 2,
+  "translation": "Waza uYahwe uElohim walima idini e-Edeni, empuma, waza wabeka ngaphaya ⟨את⟩ umntu awadalaayo.",
+  "tokens": [
+    {
+      "surface": "ויטע",
+      "gloss": "walima"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "גן",
+      "gloss": "idini"
+    },
+    {
+      "surface": "בעדן",
+      "gloss": "e-Edeni"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "empuma"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "wabeka"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ngaphaya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umntu"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "umntu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a-"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "wadalaayo"
+    }
+  ],
+  "timestamp": "2026-09-18T05:07:26.009012327Z",
+  "model": "glm-5.3"
+}

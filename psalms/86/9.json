@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 86:9",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 86,
+  "translation": "Zonke iintlanga owazenzayo ziya kuza, zithobe phambi kwakho, u-Adonayi, zize kukhulisa igama lakho.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Zonke"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "iintlanga"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ozo"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "owazenzayo"
+    },
+    {
+      "surface": "יבואו",
+      "gloss": "ziya kuza"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "zakuzithoba"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "phambi kwakho"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "u-Adonayi"
+    },
+    {
+      "surface": "ויכבדו",
+      "gloss": "zakukhulisa"
+    },
+    {
+      "surface": "לשמך",
+      "gloss": "igama lakho"
+    }
+  ],
+  "timestamp": "2026-09-18T15:06:51.046745465Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "isaiah 10:30",
+  "book": "isaiah",
+  "lang": "xh",
+  "chapter": 10,
+  "translation": "Yikhale ngelizwi lakho, intombi yaseGalimi; mamela, Layshe; udangele, Anathoth.",
+  "tokens": [
+    {
+      "surface": "צהלי",
+      "gloss": "yikhale ngelizwi"
+    },
+    {
+      "surface": "קולך",
+      "gloss": "izwi lakho"
+    },
+    {
+      "surface": "בת",
+      "gloss": "intombi"
+    },
+    {
+      "surface": "גלים",
+      "gloss": "yaseGalimi"
+    },
+    {
+      "surface": "הקשיבי",
+      "gloss": "mamela"
+    },
+    {
+      "surface": "לישה",
+      "gloss": "Layshe"
+    },
+    {
+      "surface": "עניה",
+      "gloss": "udangele"
+    },
+    {
+      "surface": "ענתות",
+      "gloss": "Anathoth"
+    }
+  ],
+  "timestamp": "2026-09-18T11:11:13.385607593Z",
+  "model": "glm-5.3"
+}

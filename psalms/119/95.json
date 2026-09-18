@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 95,
+  "ref": "psalms 119:95",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 119,
+  "translation": "Abalungi balindele ukunditshabalalisa; iinqobo zakho ndizicinga ngokucokisekileyo.",
+  "tokens": [
+    {
+      "surface": "לי",
+      "gloss": "und"
+    },
+    {
+      "surface": "קוו",
+      "gloss": "balindele"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "abalungi"
+    },
+    {
+      "surface": "לאבדני",
+      "gloss": "ukunditshabalalisa"
+    },
+    {
+      "surface": "עדתיך",
+      "gloss": "iinqobo zakho"
+    },
+    {
+      "surface": "אתבונן",
+      "gloss": "ndizicinga ngokucokisekileyo"
+    }
+  ],
+  "timestamp": "2026-09-18T15:24:20.342473023Z",
+  "model": "glm-5.3"
+}

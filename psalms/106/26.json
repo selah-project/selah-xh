@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 106:26",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 106,
+  "translation": "Waza waphakamisa isandla sakhe ⟨phezu kwawo⟩, ukubawisa ⟨את⟩ entlangeni;",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "waphakamisa"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "isandla sakhe"
+    },
+    {
+      "surface": "להם",
+      "gloss": "phezu kwawo"
+    },
+    {
+      "surface": "להפיל",
+      "gloss": "ukubawisa"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "abo entlangeni"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "entlangeni"
+    }
+  ],
+  "timestamp": "2026-09-18T15:17:40.298766734Z",
+  "model": "glm-5.3"
+}

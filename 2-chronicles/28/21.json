@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-chronicles 28:21",
+  "book": "2-chronicles",
+  "lang": "xh",
+  "chapter": 28,
+  "translation": "Kuba u-Achaz wachitha inxalenye yendlu kaYahwe ⟨את⟩ nendlu yenkosi kunye noonobhulu, wayinike inkosi yaseAshur, kodwa ibingenaluncedo kuye.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "חלק",
+      "gloss": "wachitha inxalenye"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "u-Achaz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "indlu kaYahwe"
+    },
+    {
+      "surface": "בית",
+      "gloss": "indlu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kaYahwe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "indlu yenkosi"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nendlu"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "yenkosi"
+    },
+    {
+      "surface": "והשרים",
+      "gloss": "kunye noonobhulu"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "wayinika"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "inkosi"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "yaseAshur"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kodwa akuzange"
+    },
+    {
+      "surface": "לעזרה",
+      "gloss": "iluncedo"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kuye"
+    }
+  ],
+  "timestamp": "2026-09-18T17:12:09.834804563Z",
+  "model": "glm-5.3"
+}

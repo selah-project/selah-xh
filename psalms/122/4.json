@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 122:4",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 122,
+  "translation": "Kuba apho amaqela enyuka, amaqela kaYah, ngokubungqina bukaIsrayeli, ukubulela igama likaYahwe.",
+  "tokens": [
+    {
+      "surface": "ששם",
+      "gloss": "apho"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "enyuka"
+    },
+    {
+      "surface": "שבטים",
+      "gloss": "amaqela"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "amaqela"
+    },
+    {
+      "surface": "יה",
+      "gloss": "kaYah"
+    },
+    {
+      "surface": "עדות",
+      "gloss": "ngokubungqina"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "bukaIsrayeli"
+    },
+    {
+      "surface": "להדות",
+      "gloss": "ukubulela"
+    },
+    {
+      "surface": "לשם",
+      "gloss": "igama"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "likaYahwe"
+    }
+  ],
+  "timestamp": "2026-09-18T15:28:19.852432191Z",
+  "model": "glm-5.3"
+}

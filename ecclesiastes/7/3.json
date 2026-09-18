@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 7:3",
+  "book": "ecclesiastes",
+  "lang": "xh",
+  "chapter": 7,
+  "translation": "Isixhalo singaphezu kwehleko, kuba ubukrwada bobuso buyalungeza entliziyo.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "singaphezu"
+    },
+    {
+      "surface": "כעס",
+      "gloss": "Isixhalo"
+    },
+    {
+      "surface": "משחק",
+      "gloss": "kwehleko"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "ubukrwada"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "bobuso"
+    },
+    {
+      "surface": "ייטב",
+      "gloss": "buyalungeza"
+    },
+    {
+      "surface": "לב",
+      "gloss": "entliziyo"
+    }
+  ],
+  "timestamp": "2026-09-18T16:26:09.139653095Z",
+  "model": "glm-5.3"
+}

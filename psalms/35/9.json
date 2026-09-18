@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 35:9",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 35,
+  "translation": "Umphefumlo wam uyakuvuyela kuYahwe, uyazonwabela kwintsindiso yakhe.",
+  "tokens": [
+    {
+      "surface": "ונפשי",
+      "gloss": "umphefumlo wam"
+    },
+    {
+      "surface": "תגיל",
+      "gloss": "uyakuvuyela"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "kuYahwe"
+    },
+    {
+      "surface": "תשיש",
+      "gloss": "uyazonwabela"
+    },
+    {
+      "surface": "בישועתו",
+      "gloss": "kwintsindiso yakhe"
+    }
+  ],
+  "timestamp": "2026-09-18T14:40:07.699981562Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 26:11",
+  "book": "isaiah",
+  "lang": "xh",
+  "chapter": 26,
+  "translation": "Yahwe, iphakamile isandla sakho, abayiboni; bayakubona batyeke; isikhwele sabantu, nokoya umlilo wabanakho bakho uza kubatya.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "רמה",
+      "gloss": "iphakamile"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "isandla sakho"
+    },
+    {
+      "surface": "בל",
+      "gloss": "abayiboni"
+    },
+    {
+      "surface": "יחזיון",
+      "gloss": "bayiboni"
+    },
+    {
+      "surface": "יחזו",
+      "gloss": "bayakubona"
+    },
+    {
+      "surface": "ויבשו",
+      "gloss": "batyeke"
+    },
+    {
+      "surface": "קנאת",
+      "gloss": "isikhwele"
+    },
+    {
+      "surface": "עם",
+      "gloss": "sabantu"
+    },
+    {
+      "surface": "אף",
+      "gloss": "nokoya"
+    },
+    {
+      "surface": "אש",
+      "gloss": "umlilo"
+    },
+    {
+      "surface": "צריך",
+      "gloss": "wabanakho bakho"
+    },
+    {
+      "surface": "תאכלם",
+      "gloss": "uza kubatya"
+    }
+  ],
+  "timestamp": "2026-09-18T11:18:29.734408081Z",
+  "model": "glm-5.3"
+}

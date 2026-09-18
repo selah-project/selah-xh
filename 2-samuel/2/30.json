@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-samuel 2:30",
+  "book": "2-samuel",
+  "lang": "xh",
+  "chapter": 2,
+  "translation": "UYowav wabuya emva ko-Abner, wayeqokelela ⟨את⟩ onke abantu; kubalwa kumabandi kaDawid, kwabalahlanga amashumi amathathu anesithoba amadoda, no-Asahel.",
+  "tokens": [
+    {
+      "surface": "ויואב",
+      "gloss": "UYowav"
+    },
+    {
+      "surface": "שב",
+      "gloss": "wabuya"
+    },
+    {
+      "surface": "מאחרי",
+      "gloss": "emva ko-Abner"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "u-Abner"
+    },
+    {
+      "surface": "ויקבץ",
+      "gloss": "wayeqokelela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "onke abantu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "onke"
+    },
+    {
+      "surface": "העם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "ויפקדו",
+      "gloss": "kubalwa"
+    },
+    {
+      "surface": "מעבדי",
+      "gloss": "kumabandi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "kaDawid"
+    },
+    {
+      "surface": "תשעה",
+      "gloss": "isithoba"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "amashumi amathathu anesithoba"
+    },
+    {
+      "surface": "איש",
+      "gloss": "amadoda"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "no-Asahel"
+    },
+    {
+      "surface": "אל",
+      "gloss": "u-Asahel"
+    }
+  ],
+  "timestamp": "2026-09-18T09:45:50.505715780Z",
+  "model": "glm-5.3"
+}

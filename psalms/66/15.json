@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 66:15",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 66,
+  "translation": "Izibingelelo ezinamafutha ndiza kunyukela kuwe, kunye nokutshisa okunuka mnandi bee-rame; ndiza kwenza iinkomo kunye neebhodi. Selah.",
+  "tokens": [
+    {
+      "surface": "עלות",
+      "gloss": "Izibingelelo ezitshisiweyo"
+    },
+    {
+      "surface": "מחים",
+      "gloss": "ezinamafutha"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "ndiza kunyukela"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kuwe"
+    },
+    {
+      "surface": "עם",
+      "gloss": "kunye"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "nokutshisa okunuka mnandi"
+    },
+    {
+      "surface": "אילים",
+      "gloss": "bee-rame"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "ndiza kwenza"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "iinkomo"
+    },
+    {
+      "surface": "עם",
+      "gloss": "kunye"
+    },
+    {
+      "surface": "עתודים",
+      "gloss": "neebhodi"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-18T14:53:59.943454410Z",
+  "model": "glm-5.3"
+}

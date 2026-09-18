@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 135:17",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 135,
+  "translation": "Zindlebe ezinazo kodwa azivali ndlebe; akukho mphefumlo kukho emlonyeni wazo.",
+  "tokens": [
+    {
+      "surface": "אזנים",
+      "gloss": "indlebe"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ezinazo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kodwa azi-"
+    },
+    {
+      "surface": "יאזינו",
+      "gloss": "-vali ndlebe"
+    },
+    {
+      "surface": "אף",
+      "gloss": "akukho"
+    },
+    {
+      "surface": "אין",
+      "gloss": "akukho"
+    },
+    {
+      "surface": "יש",
+      "gloss": "kukho"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "mphefumlo"
+    },
+    {
+      "surface": "בפיהם",
+      "gloss": "emlonyeni wazo"
+    }
+  ],
+  "timestamp": "2026-09-18T15:28:35.511533338Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 132:2",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 132,
+  "translation": "lowo wathisa isifungo kuYahwe, wazibophelela ngothi kuMandla kaYakobi —",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "lowo"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "wathisa isifungo"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kuYahwe"
+    },
+    {
+      "surface": "נדר",
+      "gloss": "wazibophelela ngothi"
+    },
+    {
+      "surface": "לאביר",
+      "gloss": "kuMandla"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "kaYakobi"
+    }
+  ],
+  "timestamp": "2026-09-18T15:27:27.680255668Z",
+  "model": "glm-5.3"
+}

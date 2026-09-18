@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 36:8",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 36,
+  "translation": "Makulu ngakanani ixabiso lekhesedi yakho, uElohim! Ngoko abantwana bomntu bazithwelele emthunzini weziphiko zakho.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "makulu ngakanani"
+    },
+    {
+      "surface": "יקר",
+      "gloss": "ixabiso"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "lekhesedi yakho"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "abantwana ba-"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "omntu"
+    },
+    {
+      "surface": "בצל",
+      "gloss": "emthunzini"
+    },
+    {
+      "surface": "כנפיך",
+      "gloss": "weziphiko zakho"
+    },
+    {
+      "surface": "יחסיון",
+      "gloss": "bazithwelele"
+    }
+  ],
+  "timestamp": "2026-09-18T14:41:43.839271784Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 6:12",
+  "book": "genesis",
+  "lang": "xh",
+  "chapter": 6,
+  "translation": "U-Elohim wabona ⟨את⟩ umhlaba, nanko wonakele; kuba konke inyama yayonakalise indlela yayo phezu komhlaba.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "wabona"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "u-Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umhlaba"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "umhlaba"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "nanko"
+    },
+    {
+      "surface": "נשחתה",
+      "gloss": "wonakele"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "השחית",
+      "gloss": "yayonakalise"
+    },
+    {
+      "surface": "כל",
+      "gloss": "konke"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "inyama"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "indlela yayo"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "indlela yayo"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu ko-"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "umhlaba"
+    }
+  ],
+  "timestamp": "2026-09-18T05:09:28.824887228Z",
+  "model": "glm-5.3"
+}

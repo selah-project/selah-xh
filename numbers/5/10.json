@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 5:10",
+  "book": "numbers",
+  "lang": "xh",
+  "chapter": 5,
+  "translation": "Yaye yindoda nganye ⟨את⟩ izinto zayo ezingcwele — ziya kuba zakhe; yonke into enokunika yindoda umpristi, iya kuba yompristi.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "Yaye yindoda nganye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izinto zayo ezingcwele"
+    },
+    {
+      "surface": "קדשיו",
+      "gloss": "izinto zayo ezingcwele"
+    },
+    {
+      "surface": "לו",
+      "gloss": "zakhe"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "ziya kuba"
+    },
+    {
+      "surface": "איש",
+      "gloss": "yindoda"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "enokunika"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "inika"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "umpristi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "yompristi"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "iya kuba"
+    }
+  ],
+  "timestamp": "2026-09-18T07:15:19.375032375Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 39:10",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 39,
+  "translation": "Ndathula, andivuli mlomye; kuba ⟨wena⟩ wenze loo nto.",
+  "tokens": [
+    {
+      "surface": "נאלמתי",
+      "gloss": "Ndathula"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hayi"
+    },
+    {
+      "surface": "אפתח",
+      "gloss": "andivuli"
+    },
+    {
+      "surface": "פי",
+      "gloss": "mlomye"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "wenze"
+    }
+  ],
+  "timestamp": "2026-09-18T14:43:41.093204115Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 5:15",
+  "book": "ecclesiastes",
+  "lang": "xh",
+  "chapter": 5,
+  "translation": "Yaye oku nakoku bububi obugulayo: konke, njengoko wafika, ngokunjalo uya kuhamba; yintoni inzuzo yakhe ukuba usebenzela umoya?",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "yaye"
+    },
+    {
+      "surface": "זה",
+      "gloss": "oku"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "bububi"
+    },
+    {
+      "surface": "חולה",
+      "gloss": "obugulayo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "konke"
+    },
+    {
+      "surface": "עמת",
+      "gloss": "njengoko"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "wafika"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ngokunjalo"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "uya kuhamba"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "yintoni"
+    },
+    {
+      "surface": "יתרון",
+      "gloss": "inzuzo"
+    },
+    {
+      "surface": "לו",
+      "gloss": "yakhe"
+    },
+    {
+      "surface": "שיעמל",
+      "gloss": "usebenzela"
+    },
+    {
+      "surface": "לרוח",
+      "gloss": "umoya"
+    }
+  ],
+  "timestamp": "2026-09-18T16:25:40.460256237Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "joshua 23:5",
+  "book": "joshua",
+  "lang": "xh",
+  "chapter": 23,
+  "translation": "Kananjalo nguYahwe uElohim wenu oza kubatshatshalalisa <את> abo phambi kwenu, abazele ngokubakhupha phambi kwenu; niza kuzinza <את> umhlaba wabo, njengoko wathetha uYahwe uElohim wenu kuni.",
+  "tokens": [
+    {
+      "surface": "ויהוָה",
+      "gloss": "kananjalo nguYahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "uElohim wenu"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yena"
+    },
+    {
+      "surface": "יהדפם",
+      "gloss": "oza kubatshatshalalisa"
+    },
+    {
+      "surface": "מפניכם",
+      "gloss": "phambi kwenu"
+    },
+    {
+      "surface": "והוריש",
+      "gloss": "abazele ngokubakhupha"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "<את>",
+      "marks": "abo"
+    },
+    {
+      "surface": "מלפניכם",
+      "gloss": "phambi kwenu"
+    },
+    {
+      "surface": "וירשתם",
+      "gloss": "niza kuzinza"
+    },
+    {
+      "surface": "את",
+      "gloss": "<את>",
+      "marks": "umhlaba wabo"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "umhlaba wabo"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "njengoko"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "wathetha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "uElohim wenu"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kuni"
+    }
+  ],
+  "timestamp": "2026-09-18T08:46:22.630610380Z",
+  "model": "glm-5.3"
+}

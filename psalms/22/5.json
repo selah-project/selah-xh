@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 22:5",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 22,
+  "translation": "Kukho wathembela ooyihlo bethu; wathembela, waza uwabasindisa.",
+  "tokens": [
+    {
+      "surface": "בך",
+      "gloss": "kukho"
+    },
+    {
+      "surface": "בטחו",
+      "gloss": "wathembela"
+    },
+    {
+      "surface": "אבתינו",
+      "gloss": "ooyihlo bethu"
+    },
+    {
+      "surface": "בטחו",
+      "gloss": "wathembela"
+    },
+    {
+      "surface": "ותפלטמו",
+      "gloss": "waza uwabasindisa"
+    }
+  ],
+  "timestamp": "2026-09-18T14:33:12.153026467Z",
+  "model": "glm-5.3"
+}

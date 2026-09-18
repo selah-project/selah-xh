@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "joshua 17:12",
+  "book": "joshua",
+  "lang": "xh",
+  "chapter": 17,
+  "translation": "Kodwa amadodana kaManase awakwazanga ukutshabalalisa ⟨את⟩ ezi ndolophu, kwaye amaKhanani aazimisele ukuhlala kule mimandla.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "kodwa awa-"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "-kwazanga"
+    },
+    {
+      "surface": "בני",
+      "gloss": "amadodana"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "kaManase"
+    },
+    {
+      "surface": "להוריש",
+      "gloss": "ukutshabalalisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ezi ndolophu"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "ezi ndolophu"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ezi"
+    },
+    {
+      "surface": "ויואל",
+      "gloss": "aazimisele"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "amaKhanani"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "ukuhlala"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "kule mimandla"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "le"
+    }
+  ],
+  "timestamp": "2026-09-18T08:40:58.002906915Z",
+  "model": "glm-5.3"
+}

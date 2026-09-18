@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-samuel 10:25",
+  "book": "1-samuel",
+  "lang": "xh",
+  "chapter": 10,
+  "translation": "Wadlala-ndithetha uShemueli kulo mzi: wacacisa ⟨את⟩ isigwebo sobukumkani, wabhala incwadini, wazibekela phambi koYahwe; waza uShemueli wathumela ⟨את⟩ umzi wonke umntu ngamnye eseyakhe.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "wathetha"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "uShemueli"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "העם",
+      "gloss": "umzi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isigwebo sobukumkani"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "isigwebo"
+    },
+    {
+      "surface": "המלכה",
+      "gloss": "sobukumkani"
+    },
+    {
+      "surface": "ויכתב",
+      "gloss": "wabhala"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "encwadini"
+    },
+    {
+      "surface": "וינח",
+      "gloss": "wazibekela"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "phambi kwa-"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "wathumela"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "uShemueli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umzi wonke"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wonke"
+    },
+    {
+      "surface": "העם",
+      "gloss": "umzi"
+    },
+    {
+      "surface": "איש",
+      "gloss": "umntu ngamnye"
+    },
+    {
+      "surface": "לביתו",
+      "gloss": "eseyakhe"
+    }
+  ],
+  "timestamp": "2026-09-18T17:28:19.260841333Z",
+  "model": "glm-5.3"
+}

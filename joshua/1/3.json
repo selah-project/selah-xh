@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joshua 1:3",
+  "book": "joshua",
+  "lang": "xh",
+  "chapter": 1,
+  "translation": "Yonke indawo eniya kuyinyathela nganqaba lweenyawo zenu khona, ndinike yona, njengoko ndandithetha kuMoshe.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Yonke"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "indawo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "eniya kuyinyathela"
+    },
+    {
+      "surface": "תדרך",
+      "gloss": "niya kuyinyathela"
+    },
+    {
+      "surface": "כף",
+      "gloss": "nganqaba"
+    },
+    {
+      "surface": "רגלכם",
+      "gloss": "lweenyawo zenu"
+    },
+    {
+      "surface": "בו",
+      "gloss": "khona"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ndinike"
+    },
+    {
+      "surface": "נתתיו",
+      "gloss": "ndinike yona"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "njengoko"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "ndandithetha"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    }
+  ],
+  "timestamp": "2026-09-18T17:26:32.956671194Z",
+  "model": "glm-5.3"
+}

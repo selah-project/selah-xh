@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 95:4",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 95,
+  "translation": "Lowo esandleni sakhe ukujulile kobunzulu bomhlaba, kwaye iintlamvu zeentaba ngezakhe.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "Lowo"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "esandleni sakhe"
+    },
+    {
+      "surface": "מחקרי",
+      "gloss": "ukujulile kobunzulu"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "bomhlaba"
+    },
+    {
+      "surface": "ותועפות",
+      "gloss": "iintlamvu"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "zeentaba"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ngezakhe"
+    }
+  ],
+  "timestamp": "2026-09-18T15:11:22.197926038Z",
+  "model": "glm-5.3"
+}

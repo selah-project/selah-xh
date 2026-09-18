@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 95:2",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 95,
+  "translation": "Masingene phambi kobuso bakhe ngubulelo, ngeengoma silingcelele ⟨kuye⟩.",
+  "tokens": [
+    {
+      "surface": "נקדמה",
+      "gloss": "Masingene phambi"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "ubuso bakhe"
+    },
+    {
+      "surface": "בתודה",
+      "gloss": "ngubulelo"
+    },
+    {
+      "surface": "בזמרות",
+      "gloss": "ngeengoma"
+    },
+    {
+      "surface": "נריע",
+      "gloss": "silingcelele"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨kuye⟩"
+    }
+  ],
+  "timestamp": "2026-09-18T15:11:22.197653495Z",
+  "model": "glm-5.3"
+}

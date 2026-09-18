@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 73:10",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 73,
+  "translation": "Ngoko ke abantu bakhe babuyela apha, kwaye amanzi esikhathe esigcweleyo banunkelwa kubo.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "Ngoko ke"
+    },
+    {
+      "surface": "ישיב",
+      "gloss": "babuyela"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "abantu bakhe"
+    },
+    {
+      "surface": "הלם",
+      "gloss": "apha"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "amanzi"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "esigcweleyo"
+    },
+    {
+      "surface": "ימצו",
+      "gloss": "banunkelwa"
+    },
+    {
+      "surface": "למו",
+      "gloss": "kubo"
+    }
+  ],
+  "timestamp": "2026-09-18T14:59:56.718139972Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 52:9",
+  "book": "jeremiah",
+  "lang": "xh",
+  "chapter": 52,
+  "translation": "Bamthabatha loo mkhosi inkosi, bamisa ngoko uZedekiyahu, bamwandisa unkosi waseBhabheli eRibla, elizweni laseHamat, wayethetha naye ⟨את⟩ izigwebo.",
+  "tokens": [
+    {
+      "surface": "ויתפשו",
+      "gloss": "bamthabatha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "inkosi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "inkosi"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "bamwandisa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "yena"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "unkosi"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "waseBhabheli"
+    },
+    {
+      "surface": "רבלתה",
+      "gloss": "eRibla"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "elizweni"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "laseHamat"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "wayethetha"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ naye"
+    },
+    {
+      "surface": "משפטים",
+      "gloss": "izigwebo"
+    }
+  ],
+  "timestamp": "2026-09-18T12:44:35.529032840Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 119:24",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 119,
+  "translation": "Ewe, amangqina akho ngolonwabo lam, ngamadoda enzelelo yam.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "ewe"
+    },
+    {
+      "surface": "עדתיך",
+      "gloss": "amangqina akho"
+    },
+    {
+      "surface": "שעשעי",
+      "gloss": "ngolonwabo lam"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "amadoda"
+    },
+    {
+      "surface": "עצתי",
+      "gloss": "enzelelo yam"
+    }
+  ],
+  "timestamp": "2026-09-18T15:23:47.866393897Z",
+  "model": "glm-5.3"
+}

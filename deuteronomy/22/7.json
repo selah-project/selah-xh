@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 22:7",
+  "book": "deuteronomy",
+  "lang": "xh",
+  "chapter": 22,
+  "translation": "Musa kumdinekela unina, kodwa thabatha iintsana; ukuze kube lulundo kuwe, kwaye ude wonyuka iintsuku.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "mus' kumdinekela"
+    },
+    {
+      "surface": "תשלח",
+      "gloss": "kumdinekela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "unina"
+    },
+    {
+      "surface": "האם",
+      "gloss": "unina"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kodwa ⟨את⟩",
+      "marks": "iintsana"
+    },
+    {
+      "surface": "הבנים",
+      "gloss": "iintsana"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "thabatha"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kuwe"
+    },
+    {
+      "surface": "למען",
+      "gloss": "ukuze"
+    },
+    {
+      "surface": "ייטב",
+      "gloss": "kube lulundo"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kuwe"
+    },
+    {
+      "surface": "והארכת",
+      "gloss": "kwaye ude wonyuka"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "iintsuku"
+    }
+  ],
+  "timestamp": "2026-09-18T08:11:39.191995913Z",
+  "model": "glm-5.3"
+}

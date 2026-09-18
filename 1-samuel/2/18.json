@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-samuel 2:18",
+  "book": "1-samuel",
+  "lang": "xh",
+  "chapter": 2,
+  "translation": "Yaye uShemueli wayenkonzela ⟨את⟩ phambi koYahwe, engintwenjana exakekile nge-efodi yefayini.",
+  "tokens": [
+    {
+      "surface": "ושמואל",
+      "gloss": "Yaye uShemueli"
+    },
+    {
+      "surface": "משרת",
+      "gloss": "wayenkonzela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "phambi (phanzi)"
+    },
+    {
+      "surface": "פני",
+      "gloss": "phambi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "koYahwe"
+    },
+    {
+      "surface": "נער",
+      "gloss": "engintwenjana"
+    },
+    {
+      "surface": "חגור",
+      "gloss": "exakekile"
+    },
+    {
+      "surface": "אפוד",
+      "gloss": "nge-efodi"
+    },
+    {
+      "surface": "בד",
+      "gloss": "yefayini"
+    }
+  ],
+  "timestamp": "2026-09-18T09:14:37.674473081Z",
+  "model": "glm-5.3"
+}

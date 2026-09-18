@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 4:16",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 4,
+  "translation": "Yena uza kuthethela wena kubantu; kwaye kuya kubenjalo, yena ⟨uza kuba⟩ ngumlomo wakho, wena uza kuba nguElohim kuye.",
+  "tokens": [
+    {
+      "surface": "ודבר",
+      "gloss": "uza kuthethela"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yena"
+    },
+    {
+      "surface": "לך",
+      "gloss": "wena"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bantu"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "kuya kubenjalo"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yena"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "uza kuba"
+    },
+    {
+      "surface": "לך",
+      "gloss": "wakho"
+    },
+    {
+      "surface": "לפה",
+      "gloss": "ngumlomo"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "uza kuba"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kuye"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "nguElohim"
+    }
+  ],
+  "timestamp": "2026-09-18T05:51:26.257810444Z",
+  "model": "glm-5.3"
+}

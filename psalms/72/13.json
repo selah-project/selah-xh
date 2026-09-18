@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 72:13",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 72,
+  "translation": "Uya kuthwasa inceba ngomfundo nakumswakama, iimphefumlo zabaswakama uya kuzisindisa.",
+  "tokens": [
+    {
+      "surface": "יחס",
+      "gloss": "uya kuthwasa inceba"
+    },
+    {
+      "surface": "על",
+      "gloss": "ngo-"
+    },
+    {
+      "surface": "דל",
+      "gloss": "umfundo"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "nakumswakama"
+    },
+    {
+      "surface": "ונפשות",
+      "gloss": "iimphefumlo"
+    },
+    {
+      "surface": "אביונים",
+      "gloss": "zabaswakama"
+    },
+    {
+      "surface": "יושיע",
+      "gloss": "uya kuzisindisa"
+    }
+  ],
+  "timestamp": "2026-09-18T14:58:53.398349050Z",
+  "model": "glm-5.3"
+}

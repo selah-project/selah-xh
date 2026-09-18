@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 4:12",
+  "book": "genesis",
+  "lang": "xh",
+  "chapter": 4,
+  "translation": "Ukuba utyala ⟨את⟩ umhlaba, awusayi kuongezelela ukunika amandla awo kuwe; uza kuba ngumjuki nogxumeka emhlabeni.”",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ukuba"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "utyala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umhlaba"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "umhlaba"
+    },
+    {
+      "surface": "לא",
+      "gloss": "awusayi"
+    },
+    {
+      "surface": "תסף",
+      "gloss": "kuongezelela"
+    },
+    {
+      "surface": "תת",
+      "gloss": "ukunika"
+    },
+    {
+      "surface": "כחה",
+      "gloss": "amandla awo"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kuwe"
+    },
+    {
+      "surface": "נע",
+      "gloss": "ngumjuki"
+    },
+    {
+      "surface": "ונד",
+      "gloss": "nogxumeka"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "uza kuba"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "emhlabeni"
+    }
+  ],
+  "timestamp": "2026-09-18T05:07:37.189964243Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 16:8",
+  "book": "2-kings",
+  "lang": "xh",
+  "chapter": 16,
+  "translation": "U-Akhaz wathabatha ⟨את⟩ isilivere no-⟨את⟩ igolide ebesendlini kaYahwe nakwiindawo zengcinelelo zendlu yenkosi, wayithumela enkosini yase-Ashur njengomnikelo.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "wathabatha"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "u-Akhaz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isilivere"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "isilivere"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "no-⟨את⟩",
+      "marks": "igolide"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "igolide"
+    },
+    {
+      "surface": "הנמצא",
+      "gloss": "ebesendlini"
+    },
+    {
+      "surface": "בית",
+      "gloss": "endl"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kaYahwe"
+    },
+    {
+      "surface": "ובאצרות",
+      "gloss": "nakwiindawo zengcinelelo"
+    },
+    {
+      "surface": "בית",
+      "gloss": "zend"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "lwese"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "wayithumela"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "enkosini"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "yase-Ashur"
+    },
+    {
+      "surface": "שחד",
+      "gloss": "njengomnikelo"
+    }
+  ],
+  "timestamp": "2026-09-18T10:53:05.888715118Z",
+  "model": "glm-5.3"
+}

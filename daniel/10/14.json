@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "daniel 10:14",
+  "book": "daniel",
+  "lang": "xh",
+  "chapter": 10,
+  "translation": "Nandise ndiza kukuqonda ukwenza wazi ⟨את⟩ oko kuya kwenzeka kwabantu bakho kwimihla yokugqibela, kuba kube le nkcazelo yendinyana iye yabetha yathunyelwa imihla.",
+  "tokens": [
+    {
+      "surface": "ובאתי",
+      "gloss": "Nandise ndiza"
+    },
+    {
+      "surface": "להבינך",
+      "gloss": "kukuqonda ukwenza wazi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oko kuya kwenzeka kwabantu bakho"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oko"
+    },
+    {
+      "surface": "יקרה",
+      "gloss": "kuya kwenzeka"
+    },
+    {
+      "surface": "לעמך",
+      "gloss": "kwabantu bakho"
+    },
+    {
+      "surface": "באחרית",
+      "gloss": "kwimihla yokugqibela"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "imihla"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "kube"
+    },
+    {
+      "surface": "חזון",
+      "gloss": "inkcazelo yendinyana"
+    },
+    {
+      "surface": "לימים",
+      "gloss": "imihla"
+    }
+  ],
+  "timestamp": "2026-09-18T16:37:52.922724010Z",
+  "model": "glm-5.3"
+}

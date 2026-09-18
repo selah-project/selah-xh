@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 106:27",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 106,
+  "translation": "nokusitshisa-phantsi imbewu yabo phakathi kweentlanga, nanokusabalalisa abo kumazwe.",
+  "tokens": [
+    {
+      "surface": "ולהפיל",
+      "gloss": "nokusitshisa-phantsi"
+    },
+    {
+      "surface": "זרעם",
+      "gloss": "imbewu yabo"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "phakathi kweentlanga"
+    },
+    {
+      "surface": "ולזרותם",
+      "gloss": "nanokusabalalisa abo"
+    },
+    {
+      "surface": "בארצות",
+      "gloss": "kumazwe"
+    }
+  ],
+  "timestamp": "2026-09-18T15:17:40.298912295Z",
+  "model": "glm-5.3"
+}

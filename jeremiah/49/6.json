@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jeremiah 49:6",
+  "book": "jeremiah",
+  "lang": "xh",
+  "chapter": 49,
+  "translation": "Kwaye emva koko ndiza kubuyisela ⟨את⟩ ubuthinji babantwana baAmoni, utshilo lukaYahwe.",
+  "tokens": [
+    {
+      "surface": "ואחרי",
+      "gloss": "emva"
+    },
+    {
+      "surface": "כן",
+      "gloss": "koko"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "ndiza kubuyisela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ubuthinji"
+    },
+    {
+      "surface": "שבות",
+      "gloss": "ubuthinji"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abantwana"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "baAmoni"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "utshilo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "lukaYahwe"
+    }
+  ],
+  "timestamp": "2026-09-18T12:39:38.862863450Z",
+  "model": "glm-5.3"
+}

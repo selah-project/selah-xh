@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 17:8",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 17,
+  "translation": "Ndingcwalise njengentwana yeliso, emthunzini wamaphiko akho undifihle.",
+  "tokens": [
+    {
+      "surface": "שמרני",
+      "gloss": "Ndingcwalise"
+    },
+    {
+      "surface": "כאישון",
+      "gloss": "njengentwana"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ye-"
+    },
+    {
+      "surface": "עין",
+      "gloss": "eliso"
+    },
+    {
+      "surface": "בצל",
+      "gloss": "emthunzini"
+    },
+    {
+      "surface": "כנפיך",
+      "gloss": "wamaphiko akho"
+    },
+    {
+      "surface": "תסתירני",
+      "gloss": "undifihle"
+    }
+  ],
+  "timestamp": "2026-09-18T14:31:43.248457247Z",
+  "model": "glm-5.3"
+}

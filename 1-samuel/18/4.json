@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 18:4",
+  "book": "1-samuel",
+  "lang": "xh",
+  "chapter": 18,
+  "translation": "UYehonatan wasula ⟨את⟩ isikhakha esasixibileyo, wasinika uDawidi, kunye neengubo zakhe ezinde, nangesixhobo sakhe sokusika, nangesixhobo sakhe sokudubula, nangesesethi yakhe.",
+  "tokens": [
+    {
+      "surface": "ויתפשט",
+      "gloss": "wasula"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "uYehonatan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isikhakha"
+    },
+    {
+      "surface": "המעיל",
+      "gloss": "isikhakha"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "esa"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "sasixibileyo"
+    },
+    {
+      "surface": "ויתנהו",
+      "gloss": "wasinika"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "uDawidi"
+    },
+    {
+      "surface": "ומדיו",
+      "gloss": "kunye neengubo zakhe ezinde"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "nage-"
+    },
+    {
+      "surface": "חרבו",
+      "gloss": "isixhobo sakhe sokusika"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "nage-"
+    },
+    {
+      "surface": "קשתו",
+      "gloss": "isixhobo sakhe sokudubula"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "nage-"
+    },
+    {
+      "surface": "חגרו",
+      "gloss": "isesethi yakhe"
+    }
+  ],
+  "timestamp": "2026-09-18T09:33:01.661805384Z",
+  "model": "glm-5.3"
+}

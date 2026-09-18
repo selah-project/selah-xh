@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "1-kings 8:45",
+  "book": "1-kings",
+  "lang": "xh",
+  "chapter": 8,
+  "translation": "Uzakuva ezulwini ⟨את⟩ ithandazelo labo ⟨את⟩ nencesibo yabo, uze wenze isigwebo sabo.",
+  "tokens": [
+    {
+      "surface": "ושמעת",
+      "gloss": "uzakuva"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ezulwini"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ithandazelo labo"
+    },
+    {
+      "surface": "תפלתם",
+      "gloss": "ithandazelo labo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "incesibo yabo"
+    },
+    {
+      "surface": "תחנתם",
+      "gloss": "incesibo yabo"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "uze wenze"
+    },
+    {
+      "surface": "משפטם",
+      "gloss": "isigwebo sabo"
+    }
+  ],
+  "timestamp": "2026-09-18T10:20:48.762147534Z",
+  "model": "glm-5.3"
+}

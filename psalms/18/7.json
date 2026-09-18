@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 18:7",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 18,
+  "translation": "Ebungoweni bam ndabiza uYahwe, ndaza ndaza ndalila ku-Elohim wam; wava uvakalisi lwam esikhulweni sakhe, ilila lam liza phambi kwakhe, langena kutendele zakhe.",
+  "tokens": [
+    {
+      "surface": "בצר",
+      "gloss": "Ebungoweni"
+    },
+    {
+      "surface": "לי",
+      "gloss": "bam"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "ndabiza"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ndaza"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ku-Elohim"
+    },
+    {
+      "surface": "אשוע",
+      "gloss": "ndalila"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "wava"
+    },
+    {
+      "surface": "מהיכלו",
+      "gloss": "esikhulweni sakhe"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "uvakalisi lwam"
+    },
+    {
+      "surface": "ושועתי",
+      "gloss": "ilila lam"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "phambi kwakhe"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "liza"
+    },
+    {
+      "surface": "באזניו",
+      "gloss": "langena kutendele zakhe"
+    }
+  ],
+  "timestamp": "2026-09-18T14:34:18.923976875Z",
+  "model": "glm-5.3"
+}

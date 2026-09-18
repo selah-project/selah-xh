@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 33:7",
+  "book": "jeremiah",
+  "lang": "xh",
+  "chapter": 33,
+  "translation": "Ndiza kubuyisela ⟨את⟩ ukubanjwa kukaYuda no⟨את⟩ ukubanjwa kukaIsrayeli, ndiza kwakhwa kwabonwa njengasekuqaleni.",
+  "tokens": [
+    {
+      "surface": "והשבתי",
+      "gloss": "ndiza kubuyisela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ukubanjwa kukaYuda"
+    },
+    {
+      "surface": "שבות",
+      "gloss": "ukubanjwa"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ukaYuda"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "no⟨את⟩",
+      "marks": "ukubanjwa kukaIsrayeli"
+    },
+    {
+      "surface": "שבות",
+      "gloss": "ukubanjwa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ukaIsrayeli"
+    },
+    {
+      "surface": "ובנתים",
+      "gloss": "ndiza kwakhwa"
+    },
+    {
+      "surface": "כבראשנה",
+      "gloss": "njengasekuqaleni"
+    }
+  ],
+  "timestamp": "2026-09-18T12:24:09.505412728Z",
+  "model": "glm-5.3"
+}

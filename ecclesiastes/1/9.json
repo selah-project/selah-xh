@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 1:9",
+  "book": "ecclesiastes",
+  "lang": "xh",
+  "chapter": 1,
+  "translation": "Okwakukho yilokho okuya kubakho, noko kwakwenziweyo yilokho okuya kuphinda kwenziwe; kwaye akukho nto ntsha phantsi kwelanga.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "oko"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "kwakukho"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yilo"
+    },
+    {
+      "surface": "שיהיה",
+      "gloss": "okuya kubakho"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "kananjalo oko"
+    },
+    {
+      "surface": "שנעשה",
+      "gloss": "kwakwenziweyo"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yilo"
+    },
+    {
+      "surface": "שיעשה",
+      "gloss": "okuya kuphinda kwenziwe"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "kwaye akukho"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nto"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "ntsha"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "phantsi"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "kwelanga"
+    }
+  ],
+  "timestamp": "2026-09-18T16:23:29.445472997Z",
+  "model": "glm-5.3"
+}

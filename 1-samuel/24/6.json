@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 24:6",
+  "book": "1-samuel",
+  "lang": "xh",
+  "chapter": 24,
+  "translation": "Waza emva koko intliziyo kaDavide yamgxotha ⟨yena⟩ ngenxa yokuba wagawula ⟨את⟩ unguni wegubo elingakaShawuli.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "waza"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "emva"
+    },
+    {
+      "surface": "כן",
+      "gloss": "koko"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "yamgxotha"
+    },
+    {
+      "surface": "לב",
+      "gloss": "intliziyo"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "kaDavide"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "uDavide"
+    },
+    {
+      "surface": "על",
+      "gloss": "ngenxa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yokuba"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "wagawula"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "unguni wegubo"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "unguni"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "elingaka"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "kaShawuli"
+    }
+  ],
+  "timestamp": "2026-09-18T09:34:52.955941092Z",
+  "model": "glm-5.3"
+}

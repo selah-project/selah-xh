@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 102:23",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 102,
+  "translation": "Ekuqokelelweni kwawo amazinga kunye, namamazwe, ukukhonza ⟨את⟩ uYahwe.",
+  "tokens": [
+    {
+      "surface": "בהקבץ",
+      "gloss": "ekuqokelelweni kwawo"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "amazinga"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "kunye"
+    },
+    {
+      "surface": "וממלכות",
+      "gloss": "namamazwe"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "ukukhonza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uYahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    }
+  ],
+  "timestamp": "2026-09-18T17:45:05.891939251Z",
+  "model": "glm-5.3"
+}

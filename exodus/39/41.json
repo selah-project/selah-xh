@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "exodus 39:41",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 39,
+  "translation": "⟨את⟩ iingubo zokukhonza kwisikweni esingcweleyo, ⟨את⟩ iingubo ezingcweleyo zika-Aron umngcedi, kunye ⟨את⟩ neengubo zabantakwabo ukukhonza njengabangcedi.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iingubo zokukhonza"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "iingubo"
+    },
+    {
+      "surface": "השרד",
+      "gloss": "zokukhonza kwisikweni"
+    },
+    {
+      "surface": "לשרת",
+      "gloss": "ukukhonza"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "kwisikweni esingcweleyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iingubo ezingcweleyo"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "iingubo"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "ezingcweleyo"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "zika-Aron"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "umngcedi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kunye ⟨את⟩ ne-",
+      "marks": "iingubo zabantakwabo"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "iingubo"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "zabantakwabo"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "ukukhonza njengabangcedi"
+    }
+  ],
+  "timestamp": "2026-09-18T06:31:01.594100514Z",
+  "model": "glm-5.3"
+}

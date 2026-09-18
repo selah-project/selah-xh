@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 77:11",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 77,
+  "translation": "Ndathi: le ngumatzila wam; kodwa ndiza kukhumbula iminyaka yesandla sokunene sika-Elyoni.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "ndathi"
+    },
+    {
+      "surface": "חלותי",
+      "gloss": "umatzila wam"
+    },
+    {
+      "surface": "היא",
+      "gloss": "le"
+    },
+    {
+      "surface": "שנות",
+      "gloss": "iminyaka"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "yesandla sokunene"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "sika-Elyoni"
+    }
+  ],
+  "timestamp": "2026-09-18T15:00:43.123625615Z",
+  "model": "glm-5.3"
+}

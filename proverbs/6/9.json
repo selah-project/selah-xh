@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 6:9",
+  "book": "proverbs",
+  "lang": "xh",
+  "chapter": 6,
+  "translation": "Kuze nini, msindamsindwa, ulale? Uze nini uvuke ekulaleni kwakho?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "kuze"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "nini"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "msindamsindwa"
+    },
+    {
+      "surface": "תשכב",
+      "gloss": "ulale"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "uze nini"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "uvuke"
+    },
+    {
+      "surface": "משנתך",
+      "gloss": "ekulaleni kwakho"
+    }
+  ],
+  "timestamp": "2026-09-18T15:40:02.776017884Z",
+  "model": "glm-5.3"
+}

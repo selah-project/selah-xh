@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "isaiah 28:28",
+  "book": "isaiah",
+  "lang": "xh",
+  "chapter": 28,
+  "translation": "Ingqolowa yesinkwa iyatyabulwa; kuba lowuthreshayo akayi kuyithresha ngaphakade, kananjalo udengeza iwheel yekaretha yakhe, kunye namahashi akhe awayityabuli.",
+  "tokens": [
+    {
+      "surface": "לחם",
+      "gloss": "ingqolowa yesinkwa"
+    },
+    {
+      "surface": "יודק",
+      "gloss": "iyatyabulwa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hayi"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "ngaphakade"
+    },
+    {
+      "surface": "אדוש",
+      "gloss": "lowuthreshayo"
+    },
+    {
+      "surface": "ידושנו",
+      "gloss": "uyakuthresha"
+    },
+    {
+      "surface": "והמם",
+      "gloss": "udengeza"
+    },
+    {
+      "surface": "גלגל",
+      "gloss": "iwheel"
+    },
+    {
+      "surface": "עגלתו",
+      "gloss": "yekaretha yakhe"
+    },
+    {
+      "surface": "ופרשיו",
+      "gloss": "kunye namahashi akhe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "a-"
+    },
+    {
+      "surface": "ידקנו",
+      "gloss": "wayityabuli"
+    }
+  ],
+  "timestamp": "2026-09-18T11:22:17.435470669Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 7:1",
+  "book": "job",
+  "lang": "xh",
+  "chapter": 7,
+  "translation": "Ingaba akukho xesha lomsebenzi anikwe lona umntu emhlabeni? Yaye njengemihla yomqeshwa ngako iintsuku zakhe?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "ingaba akukho na"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "xesha lomsebenzi"
+    },
+    {
+      "surface": "לאנוש",
+      "gloss": "umntu"
+    },
+    {
+      "surface": "על",
+      "gloss": "emhlabeni"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "umhlaba"
+    },
+    {
+      "surface": "וכימי",
+      "gloss": "yaye njengemihla"
+    },
+    {
+      "surface": "שכיר",
+      "gloss": "yomqeshwa"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "iintsuku zakhe"
+    }
+  ],
+  "timestamp": "2026-09-18T16:02:25.033697064Z",
+  "model": "glm-5.3"
+}

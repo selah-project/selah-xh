@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 88:16",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 88,
+  "translation": "Ndinxaniwe mna, ndifelele, ukusukela entliziyweni yobusha bam; ndazithwala iintlobo zakho zokoyika, ndidinwa.",
+  "tokens": [
+    {
+      "surface": "עני",
+      "gloss": "ndinxaniwe"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mna"
+    },
+    {
+      "surface": "וגוע",
+      "gloss": "ndifelele"
+    },
+    {
+      "surface": "מנער",
+      "gloss": "ukusukela entliziyweni yobusha bam"
+    },
+    {
+      "surface": "נשאתי",
+      "gloss": "ndazithwala"
+    },
+    {
+      "surface": "אמיך",
+      "gloss": "iintlobo zakho zokoyika"
+    },
+    {
+      "surface": "אפונה",
+      "gloss": "ndidinwa"
+    }
+  ],
+  "timestamp": "2026-09-18T15:06:35.232630277Z",
+  "model": "glm-5.3"
+}

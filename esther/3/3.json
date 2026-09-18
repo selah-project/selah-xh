@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "esther 3:3",
+  "book": "esther",
+  "lang": "xh",
+  "chapter": 3,
+  "translation": "Amanqaku amakhosana esizwe ayesesixekweni seNkosi: “Mordekayi, kutheni na ukuba uphula umyalelo weNkosi ⟨את⟩?”",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "amanqaku amakhosana esizwe"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "amakhosana esizwe"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "esizwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ayesesixekweni"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "esesixekweni"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "seNkosi"
+    },
+    {
+      "surface": "למרדכי",
+      "gloss": "kuMordekayi"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "kutheni na"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "עובר",
+      "gloss": "uphula"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umyalelo weNkosi"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "umyalelo"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "weNkosi"
+    }
+  ],
+  "timestamp": "2026-09-18T16:28:31.594127040Z",
+  "model": "glm-5.3"
+}

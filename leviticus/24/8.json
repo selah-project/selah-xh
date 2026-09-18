@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 24:8",
+  "book": "leviticus",
+  "lang": "xh",
+  "chapter": 24,
+  "translation": "Ngosuku lweShabatha, ngosuku lweShabatha lo, uya kulubeka phambi koYahwe ngokusisigxina; usuka ⟨את⟩ kubantwana bakaSirayeli, umnqophiso wonaphakade.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "ngosuku"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "lweShabatha"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ngosuku"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "lweShabatha"
+    },
+    {
+      "surface": "יערכנו",
+      "gloss": "uya kulubeka"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "phambi kwa-"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "ngokusisigxina"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "abantwana bakaSirayeli"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abantwana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "bakaSirayeli"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "umnqophiso"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "wonaphakade"
+    }
+  ],
+  "timestamp": "2026-09-18T07:03:46.107590898Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 1:9",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 1,
+  "translation": "Wathi ebantwini bakhe: “Yabonani, isizwe sabantwana kaYisrael sininzi, nasinamandla kunesi thu.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Wathi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ebantwini"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "bakhe"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Yabonani"
+    },
+    {
+      "surface": "עם",
+      "gloss": "isizwe"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abantwana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "kaYisrael"
+    },
+    {
+      "surface": "רב",
+      "gloss": "sininzi"
+    },
+    {
+      "surface": "ועצום",
+      "gloss": "nasinamandla"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "kunesi thu"
+    }
+  ],
+  "timestamp": "2026-09-18T05:47:54.829963276Z",
+  "model": "glm-5.3"
+}

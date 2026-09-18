@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 31:3",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 31,
+  "translation": "Thoba indlebe yakho kum; ngokukhawuleza undisindise; yiba nguo lilitye lwam elinamandla, nendlu esiqinileyo yokundisindisa.",
+  "tokens": [
+    {
+      "surface": "הטה",
+      "gloss": "Thoba"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kum"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "indlebe yakho"
+    },
+    {
+      "surface": "מהרה",
+      "gloss": "ngokukhawuleza"
+    },
+    {
+      "surface": "הצילני",
+      "gloss": "undisindise"
+    },
+    {
+      "surface": "היה",
+      "gloss": "yiba"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mna"
+    },
+    {
+      "surface": "לצור",
+      "gloss": "njengensitye esinamandla"
+    },
+    {
+      "surface": "מעוז",
+      "gloss": "nangokhuseleko"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "nendlu"
+    },
+    {
+      "surface": "מצודות",
+      "gloss": "esiqinileyo"
+    },
+    {
+      "surface": "להושיעני",
+      "gloss": "yokundisindisa"
+    }
+  ],
+  "timestamp": "2026-09-18T14:38:48.976083607Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 15:30",
+  "book": "leviticus",
+  "lang": "xh",
+  "chapter": 15,
+  "translation": "Umkelane umkumbara ⟨את⟩ enye njengomnikelo wesono, no⟨את⟩ enye njengomnikelo otshiswayo; umkumbara uza kwenza ukubuyisana ngakuye phambi koYahwe ngenxa yokuphuma kokungcoliseko kwakhe.",
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "Umkelane"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "umkumbara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "enye"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "enye"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "njengomnikelo wesono"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "enye"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "enye"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "njengomnikelo otshiswayo"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "uza kwenza ukubuyisana"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "ngakuye"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "umkumbara"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "phambi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "koYahwe"
+    },
+    {
+      "surface": "מזוב",
+      "gloss": "ngenxa yokuphuma"
+    },
+    {
+      "surface": "טמאתה",
+      "gloss": "kokungcoliseko kwakhe"
+    }
+  ],
+  "timestamp": "2026-09-18T06:53:37.509212069Z",
+  "model": "glm-5.3"
+}

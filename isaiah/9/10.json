@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 9:10",
+  "book": "isaiah",
+  "lang": "xh",
+  "chapter": 9,
+  "translation": "UYahwe waphakamisa iintshaba zikaRetsin phezu kwakhe, waza oochwepheshe bakhe wabadibanisa.",
+  "tokens": [
+    {
+      "surface": "וישגב",
+      "gloss": "waphakamisa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iintshaba zikaRetsin"
+    },
+    {
+      "surface": "צרי",
+      "gloss": "iintshaba"
+    },
+    {
+      "surface": "רצין",
+      "gloss": "ukaRetsin"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "phezu kwakhe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "oochwepheshe bakhe"
+    },
+    {
+      "surface": "איביו",
+      "gloss": "oochwepheshe bakhe"
+    },
+    {
+      "surface": "יסכסך",
+      "gloss": "wabadibanisa"
+    }
+  ],
+  "timestamp": "2026-09-18T11:09:52.612004976Z",
+  "model": "glm-5.3"
+}

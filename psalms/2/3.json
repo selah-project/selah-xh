@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 2:3",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 2,
+  "translation": "Masidabule ⟨את⟩ imikhonzo yabo, size ngemikhwa yabo siphandle kuthi:",
+  "tokens": [
+    {
+      "surface": "ננתקה",
+      "gloss": "Masidabule"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "imikhonzo yabo"
+    },
+    {
+      "surface": "מוסרותימו",
+      "gloss": "imikhonzo yabo"
+    },
+    {
+      "surface": "ונשליכה",
+      "gloss": "size siphandle"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "kuthi"
+    },
+    {
+      "surface": "עבתימו",
+      "gloss": "imikhwa yabo"
+    }
+  ],
+  "timestamp": "2026-09-18T14:27:16.303329935Z",
+  "model": "glm-5.3"
+}

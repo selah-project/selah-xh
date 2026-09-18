@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 86:4",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 86,
+  "translation": "Vuyisa umphefumlo weenkonzi yakho, kuba kuwe, u-Adonayi, ndipakamisa umphefumlo wam.",
+  "tokens": [
+    {
+      "surface": "שמח",
+      "gloss": "Vuyisa"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "umphefumlo"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "weenkonzi yakho"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kuwe"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "u-Adonayi"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "umphefumlo wam"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "ndipakamisa"
+    }
+  ],
+  "timestamp": "2026-09-18T15:09:02.997915247Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 2:2",
+  "book": "genesis",
+  "lang": "xh",
+  "chapter": 2,
+  "translation": "U-Elohim wagqiba ngosuku lwesixhenxe umsebenzi wakhe awenzileyo; waphumla ngosuku lwesixhenxe kuso sonke umsebenzi wakhe awenzileyo.",
+  "tokens": [
+    {
+      "surface": "ויכל",
+      "gloss": "wagqiba"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ngosuku"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "lwesixhenxe"
+    },
+    {
+      "surface": "מלאכתו",
+      "gloss": "umsebenzi wakhe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "awenzileyo"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "wenza"
+    },
+    {
+      "surface": "וישבת",
+      "gloss": "waphumla"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ngosuku"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "lwesixhenxe"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "kuso sonke"
+    },
+    {
+      "surface": "מלאכתו",
+      "gloss": "umsebenzi wakhe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "awenzileyo"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "wawenza"
+    }
+  ],
+  "timestamp": "2026-09-18T05:08:45.342658685Z",
+  "model": "glm-5.3"
+}

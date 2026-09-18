@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "psalms 37:40",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 37,
+  "translation": "uYahwe ubanceda abalungileyo, ubakhulula; ubakhulula kwabenzi bobubi, ubasindisa, kuba basindela kuYe.",
+  "tokens": [
+    {
+      "surface": "ויעזרם",
+      "gloss": "ubanceda"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "ויפלטם",
+      "gloss": "ubakhulula"
+    },
+    {
+      "surface": "יפלטם",
+      "gloss": "ubakhulula"
+    },
+    {
+      "surface": "מרשעים",
+      "gloss": "kwabenzi bobubi"
+    },
+    {
+      "surface": "ויושיעם",
+      "gloss": "ubasindisa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "חסו",
+      "gloss": "basindela"
+    },
+    {
+      "surface": "בו",
+      "gloss": "kuYe"
+    }
+  ],
+  "timestamp": "2026-09-18T14:42:58.410100241Z",
+  "model": "glm-5.3"
+}

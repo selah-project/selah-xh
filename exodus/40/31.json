@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 40:31",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 40,
+  "translation": "Bahlambulula kuwo uMoshe no-Aharon nabantwana bakhe ⟨את⟩ izandla zabo n⟨את⟩ iinyawo zabo.",
+  "tokens": [
+    {
+      "surface": "ורחצו",
+      "gloss": "bahlambulula"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "kuwo"
+    },
+    {
+      "surface": "משה",
+      "gloss": "uMoshe"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "no-Aharon"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "nabantwana bakhe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izandla zabo"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "izandla zabo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "iinyawo zabo"
+    },
+    {
+      "surface": "רגליהם",
+      "gloss": "iinyawo zabo"
+    }
+  ],
+  "timestamp": "2026-09-18T06:32:52.900177024Z",
+  "model": "glm-5.3"
+}

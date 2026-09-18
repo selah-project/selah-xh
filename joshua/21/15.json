@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "joshua 21:15",
+  "book": "joshua",
+  "lang": "xh",
+  "chapter": 21,
+  "translation": "kunye ⟨את⟩ iKholoni kunye nengingqi yayo, kunye ⟨את⟩ iDebiri kunye nengingqi yayo.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "kunye ⟨את⟩",
+      "marks": "iKholoni"
+    },
+    {
+      "surface": "חלן",
+      "gloss": "iKholoni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kunye ⟨את⟩",
+      "marks": "nengingqi yayo"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "nengingqi yayo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kunye ⟨את⟩",
+      "marks": "iDebiri"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "iDebiri"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kunye ⟨את⟩",
+      "marks": "nengingqi yayo"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "nengingqi yayo"
+    }
+  ],
+  "timestamp": "2026-09-18T08:43:42.957918930Z",
+  "model": "glm-5.3"
+}

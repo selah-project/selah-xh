@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 43:5",
+  "book": "genesis",
+  "lang": "xh",
+  "chapter": 43,
+  "translation": "Ukuba awumsuthi, asiyi kuhla; kuba lo mntu wathi kuthi: Anisayi kumbona ubuso bakhe, ngaphandle kokuba umtakwenu ⟨את⟩ ukuba eninaye.”",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ukuba"
+    },
+    {
+      "surface": "אינך",
+      "gloss": "awu-"
+    },
+    {
+      "surface": "משלח",
+      "gloss": "umsuthi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hayi"
+    },
+    {
+      "surface": "נרד",
+      "gloss": "asiyi kuhla"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "lo mntu"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "wathetha"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "kuthi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "asiyi"
+    },
+    {
+      "surface": "תראו",
+      "gloss": "nibona"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ubuso bakhe"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "ngaphandle kokuba"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "umtakwenu"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ eninaye",
+      "marks": "umtakwenu eninaye"
+    }
+  ],
+  "timestamp": "2026-09-18T05:43:12.790892351Z",
+  "model": "glm-5.3"
+}

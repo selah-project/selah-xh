@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 60:10",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 60,
+  "translation": "UMowabhi ⟨ngum>>indxili yam yokuhlanzela; phezu koEdomi ndiza kuthrowa isicathulo sam; phezu kwam, Pelesheti, yikhakhele ngenxa yam.",
+  "tokens": [
+    {
+      "surface": "מואב",
+      "gloss": "uMowabhi"
+    },
+    {
+      "surface": "סיר",
+      "gloss": "indxili"
+    },
+    {
+      "surface": "רחצי",
+      "gloss": "yam yokuhlanzela"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu kwa-"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "uEdomi"
+    },
+    {
+      "surface": "אשליך",
+      "gloss": "ndiza kuthrowa"
+    },
+    {
+      "surface": "נעלי",
+      "gloss": "isicathulo sam"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "phezu kwam"
+    },
+    {
+      "surface": "פלשת",
+      "gloss": "Pelesheti"
+    },
+    {
+      "surface": "התרעעי",
+      "gloss": "yikhakhele"
+    }
+  ],
+  "timestamp": "2026-09-18T14:52:46.649174156Z",
+  "model": "glm-5.3"
+}

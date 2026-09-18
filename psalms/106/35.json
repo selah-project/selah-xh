@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 106:35",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 106,
+  "translation": "kodwa badibanisa kunye nezizwe, bafunda imisebenzi yazo;",
+  "tokens": [
+    {
+      "surface": "ויתערבו",
+      "gloss": "badibanisa kunye"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "nezizwe"
+    },
+    {
+      "surface": "וילמדו",
+      "gloss": "bafunda"
+    },
+    {
+      "surface": "מעשיהם",
+      "gloss": "imisebenzi yazo"
+    }
+  ],
+  "timestamp": "2026-09-18T15:17:17.708024980Z",
+  "model": "glm-5.3"
+}

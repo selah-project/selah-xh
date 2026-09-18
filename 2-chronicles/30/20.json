@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-chronicles 30:20",
+  "book": "2-chronicles",
+  "lang": "xh",
+  "chapter": 30,
+  "translation": "uYahwe wamva uYekhiya, waphilisa ⟨את⟩ abantu.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "wamva"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "u-"
+    },
+    {
+      "surface": "יחזקיהו",
+      "gloss": "uYekhiya"
+    },
+    {
+      "surface": "וירפא",
+      "gloss": "waphilisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abantu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "abantu"
+    }
+  ],
+  "timestamp": "2026-09-18T17:14:27.619191479Z",
+  "model": "glm-5.3"
+}

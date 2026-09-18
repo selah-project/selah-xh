@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 3:7",
+  "book": "proverbs",
+  "lang": "xh",
+  "chapter": 3,
+  "translation": "Ungabi ngowulumko emehlweni akho; yoyika ⟨את⟩ uYahwe, kwaye suka kwenkohlakalo.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "musa"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "ungabi"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "ngowulumko"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "emehlweni akho"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "yoyika"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uYahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "וסור",
+      "gloss": "kwaye suka"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "kwenkohlakalo"
+    }
+  ],
+  "timestamp": "2026-09-18T15:38:49.062540978Z",
+  "model": "glm-5.3"
+}

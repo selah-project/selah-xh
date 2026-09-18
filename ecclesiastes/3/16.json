@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ecclesiastes 3:16",
+  "book": "ecclesiastes",
+  "lang": "xh",
+  "chapter": 3,
+  "translation": "Kananjalo ndibonile ngaphantsi kolanga: kwindawo yomgwebo khona bububi, yaye kwindawo yolungisa khona bububi.",
+  "tokens": [
+    {
+      "surface": "ועוד",
+      "gloss": "Kananjalo"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "ndibonile"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ngaphantsi"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "kolanga"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "kwindawo"
+    },
+    {
+      "surface": "המשפט",
+      "gloss": "yomgwebo"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "khona"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "bububi"
+    },
+    {
+      "surface": "ומקום",
+      "gloss": "kwindawo"
+    },
+    {
+      "surface": "הצדק",
+      "gloss": "yolungisa"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "khona"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "bububi"
+    }
+  ],
+  "timestamp": "2026-09-18T16:24:22.383115567Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 107:26",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 107,
+  "translation": "Benyuka ezulwini, batyhona ezinzulwini; umphefumlo wabo waxhuma ngentlungu.",
+  "tokens": [
+    {
+      "surface": "יעלו",
+      "gloss": "benyuka"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "ezulwini"
+    },
+    {
+      "surface": "ירדו",
+      "gloss": "batyhona"
+    },
+    {
+      "surface": "תהומות",
+      "gloss": "ezinzulwini (olunzulu lwamanzi)"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "umphefumlo wabo"
+    },
+    {
+      "surface": "ברעה",
+      "gloss": "ngentlungu"
+    },
+    {
+      "surface": "תתמוגג",
+      "gloss": "waxhuma, wanyamalala"
+    }
+  ],
+  "timestamp": "2026-09-18T15:19:06.280360806Z",
+  "model": "glm-5.3"
+}

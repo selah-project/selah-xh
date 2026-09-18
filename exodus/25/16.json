@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 25:16",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 25,
+  "translation": "Uza kubeka kwi-aron ⟨את⟩ ubungqina endiza kukunika.",
+  "tokens": [
+    {
+      "surface": "ונתת",
+      "gloss": "Uza kubeka"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "i-aron"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ubungqina"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "ubungqina"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "eso"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "ndiza kukunika"
+    }
+  ],
+  "timestamp": "2026-09-18T06:13:34.773138153Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 98:2",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 98,
+  "translation": "U-Yahwe wazisa intsalela yakhe; phambi kwamehlo eenlanga watyhila ubulungisa bakhe.",
+  "tokens": [
+    {
+      "surface": "הודיע",
+      "gloss": "wazisa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "ישועתו",
+      "gloss": "intsalela yakhe"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "phambi kwamehlo"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "eenlanga"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "watyhila"
+    },
+    {
+      "surface": "צדקתו",
+      "gloss": "ubulungisa bakhe"
+    }
+  ],
+  "timestamp": "2026-09-18T15:14:22.349604607Z",
+  "model": "glm-5.3"
+}

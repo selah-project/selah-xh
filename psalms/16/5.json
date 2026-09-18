@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 16:5",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 16,
+  "translation": "uYahwe yingxenye yesabelwano sam kunye nekomityi yam; wena ugcinisa isabelo sam.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "מנת",
+      "gloss": "ingxenye yesabelwano"
+    },
+    {
+      "surface": "חלקי",
+      "gloss": "sam"
+    },
+    {
+      "surface": "וכוסי",
+      "gloss": "kunye nekomityi yam"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "תומיך",
+      "gloss": "ugcinisa"
+    },
+    {
+      "surface": "גורלי",
+      "gloss": "isabelo sam"
+    }
+  ],
+  "timestamp": "2026-09-18T14:32:29.008475023Z",
+  "model": "glm-5.3"
+}

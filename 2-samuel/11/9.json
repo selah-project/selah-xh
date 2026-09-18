@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-samuel 11:9",
+  "book": "2-samuel",
+  "lang": "xh",
+  "chapter": 11,
+  "translation": "U-Uriya wabalala emnyango wentlobo yenkosi, ⟨את⟩ onke amakhoboka enkosi yakhe, kwaye akazange ehlele eya ekhayeni lakhe.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "wabalala"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "u-Uriya"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "emnyango"
+    },
+    {
+      "surface": "בית",
+      "gloss": "wentlobo"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "yenkosi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "onke amakhoboka enkosi yakhe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "onke"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "amakhoboka"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "enkosi yakhe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kwaye akazange"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "ehlele"
+    },
+    {
+      "surface": "אל",
+      "gloss": "eya"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "ekhayeni lakhe"
+    }
+  ],
+  "timestamp": "2026-09-18T09:51:21.705552332Z",
+  "model": "glm-5.3"
+}

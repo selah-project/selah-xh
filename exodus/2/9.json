@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 2:9",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 2,
+  "translation": "Wathetha kunye intombi kaParo: “Thatha ⟨את⟩ umntwana lo, umzelele mna, kwaye mna ndiza kunika ⟨את⟩ umvuzo wakho.” Yaye umfazi wathatha ⟨את⟩ umntwana wamzela.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "wathetha"
+    },
+    {
+      "surface": "לה",
+      "gloss": "kunye"
+    },
+    {
+      "surface": "בת",
+      "gloss": "intombi"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "kaParo"
+    },
+    {
+      "surface": "היליכי",
+      "gloss": "thatha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umntwana lo"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "umntwana"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "lo"
+    },
+    {
+      "surface": "והינקהו",
+      "gloss": "umzelele"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mna"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "kwaye mna"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "ndiza kunika"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umvuzo wakho"
+    },
+    {
+      "surface": "שכרך",
+      "gloss": "umvuzo wakho"
+    },
+    {
+      "surface": "ותקח",
+      "gloss": "wathatha"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "umfazi"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "umntwana"
+    },
+    {
+      "surface": "ותניקהו",
+      "gloss": "wamzela"
+    }
+  ],
+  "timestamp": "2026-09-18T05:48:38.093802559Z",
+  "model": "glm-5.3"
+}

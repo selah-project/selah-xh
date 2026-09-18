@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 43:4",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 43,
+  "translation": "Ndiza kunga esibingelelweni seElohim, ku-El, uvuyo lokuvuya kwam; ndiza kudumisa wena ngesitolotolo, uElohim, uElohim wam.",
+  "tokens": [
+    {
+      "surface": "ואבואה",
+      "gloss": "Ndiza kunga"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "esibingelelweni"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "seElohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "אל",
+      "gloss": "u-El"
+    },
+    {
+      "surface": "שמחת",
+      "gloss": "uvuyo"
+    },
+    {
+      "surface": "גילי",
+      "gloss": "lokuvuya kwam"
+    },
+    {
+      "surface": "ואודך",
+      "gloss": "ndiza kudumisa wena"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "ngesitolotolo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "uElohim wam"
+    }
+  ],
+  "timestamp": "2026-09-18T14:45:38.430440846Z",
+  "model": "glm-5.3"
+}

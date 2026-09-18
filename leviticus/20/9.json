@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 20:9",
+  "book": "leviticus",
+  "lang": "xh",
+  "chapter": 20,
+  "translation": "Kuba umntu wonke, nabani na ochukuchisa ⟨את⟩ ubawo nonina, uya kufa ngenxa yokufa: ubawo nonina wawuchukuchisa; igazi lakhe lise kuye.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "איש",
+      "gloss": "umntu"
+    },
+    {
+      "surface": "איש",
+      "gloss": "wonke"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nabani na"
+    },
+    {
+      "surface": "יקלל",
+      "gloss": "ochukuchisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ubawo"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ubawo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kunye ⟨את⟩",
+      "marks": "unina"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "unina"
+    },
+    {
+      "surface": "מות",
+      "gloss": "ngenxa yokufa"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "uya kufa"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ubawo"
+    },
+    {
+      "surface": "ואמו",
+      "gloss": "kunye nonina"
+    },
+    {
+      "surface": "קלל",
+      "gloss": "wawuchukuchisa"
+    },
+    {
+      "surface": "דמיו",
+      "gloss": "igazi lakhe"
+    },
+    {
+      "surface": "בו",
+      "gloss": "lise kuye"
+    }
+  ],
+  "timestamp": "2026-09-18T06:59:32.443376400Z",
+  "model": "glm-5.3"
+}

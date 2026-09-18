@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 29:12",
+  "book": "jeremiah",
+  "lang": "xh",
+  "chapter": 29,
+  "translation": "Niza kundibiza ⟨את⟩ nihamba nithandaza kum, ndiza kuniva.",
+  "tokens": [
+    {
+      "surface": "וקראתם",
+      "gloss": "Niza kundibiza"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "ndi- (mna)"
+    },
+    {
+      "surface": "והלכתם",
+      "gloss": "nihamba"
+    },
+    {
+      "surface": "והתפללתם",
+      "gloss": "nithandaza"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kum"
+    },
+    {
+      "surface": "ושמעתי",
+      "gloss": "ndiza kuniva"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "⟨kuniva⟩"
+    }
+  ],
+  "timestamp": "2026-09-18T12:18:07.230384570Z",
+  "model": "glm-5.3"
+}

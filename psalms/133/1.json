@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 133:1",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 133,
+  "translation": "Iculo lokwenyuka, likaDavide. Yabonani, kukuhle kanganjani nokumnandi kanganjani ukuhlala kwabazalwana, ndawonye nakanjani!",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Iculo"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "lokwenyuka"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "likaDavide"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Yabonani"
+    },
+    {
+      "surface": "מה",
+      "gloss": "kukanjani"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "kuhle"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "nokukanjani"
+    },
+    {
+      "surface": "נעים",
+      "gloss": "kumnandi"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "ukuhlala"
+    },
+    {
+      "surface": "אחים",
+      "gloss": "kwabazalwana"
+    },
+    {
+      "surface": "גם",
+      "gloss": "nakanjani"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "ndawonye"
+    }
+  ],
+  "timestamp": "2026-09-18T15:27:15.906763638Z",
+  "model": "glm-5.3"
+}

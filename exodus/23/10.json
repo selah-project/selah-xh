@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 23:10",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 23,
+  "translation": "Kwaye iminyaka emithandathu uza kutyalisa ⟨את⟩ umhlaba wakho, kwaye uza kuqokelela ⟨את⟩ umvuno waso.",
+  "tokens": [
+    {
+      "surface": "ושש",
+      "gloss": "Kwaye emithandathu"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "iminyaka"
+    },
+    {
+      "surface": "תזרע",
+      "gloss": "uza kutyalisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umhlaba wakho"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "umhlaba wakho"
+    },
+    {
+      "surface": "ואספת",
+      "gloss": "kwaye uza kuqokelela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umvuno waso"
+    },
+    {
+      "surface": "תבואתה",
+      "gloss": "umvuno waso"
+    }
+  ],
+  "timestamp": "2026-09-18T06:09:38.977343825Z",
+  "model": "glm-5.3"
+}

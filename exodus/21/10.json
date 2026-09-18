@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 21:10",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 21,
+  "translation": "Ukuba athatha ⟨omnye⟩ kuye, ukutya kwakhe, ingubo yakhe, nelungelo langasese lakhe akayi kuzincisha.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ukuba"
+    },
+    {
+      "surface": "אחרת",
+      "gloss": "omnye"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "athatha"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kuye"
+    },
+    {
+      "surface": "שארה",
+      "gloss": "ukutya kwakhe"
+    },
+    {
+      "surface": "כסותה",
+      "gloss": "ingubo yakhe"
+    },
+    {
+      "surface": "וענתה",
+      "gloss": "nelungelo langasese lakhe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "akayi"
+    },
+    {
+      "surface": "יגרע",
+      "gloss": "kuzincisha"
+    }
+  ],
+  "timestamp": "2026-09-18T06:08:01.014784857Z",
+  "model": "glm-5.3"
+}

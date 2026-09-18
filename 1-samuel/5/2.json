@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 5:2",
+  "book": "1-samuel",
+  "lang": "xh",
+  "chapter": 5,
+  "translation": "AmaFilisthi athatha ⟨את⟩ isanduka sikaElohim, balisa ⟨אתו⟩ endlwini kaDagoni, bamisa ⟨אתו⟩ ecaleni kukaDagoni.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "athatha"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "AmaFilisthi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isanduka"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "isanduka"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "sikaElohim"
+    },
+    {
+      "surface": "ויביאו",
+      "gloss": "balisa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "endlwini kaDagoni"
+    },
+    {
+      "surface": "בית",
+      "gloss": "endlwini"
+    },
+    {
+      "surface": "דגון",
+      "gloss": "kaDagoni"
+    },
+    {
+      "surface": "ויציגו",
+      "gloss": "bamisa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ecaleni kukaDagoni"
+    },
+    {
+      "surface": "אצל",
+      "gloss": "ecaleni ku-"
+    },
+    {
+      "surface": "דגון",
+      "gloss": "Dagoni"
+    }
+  ],
+  "timestamp": "2026-09-18T09:18:54.684178684Z",
+  "model": "glm-5.3"
+}

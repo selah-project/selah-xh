@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 13:7",
+  "book": "proverbs",
+  "lang": "xh",
+  "chapter": 13,
+  "translation": "Kukho ozibonisa tyebileyo, engenanto; kukho ozibonisa hlwempuzekileyo, anobutyebi obuninzi.",
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "kukho"
+    },
+    {
+      "surface": "מתעשר",
+      "gloss": "ozibonisa tyebileyo"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "engananto"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nanto"
+    },
+    {
+      "surface": "מתרושש",
+      "gloss": "ozibonisa hlwempuzekileyo"
+    },
+    {
+      "surface": "והון",
+      "gloss": "anobutyebi"
+    },
+    {
+      "surface": "רב",
+      "gloss": "obuninzi"
+    }
+  ],
+  "timestamp": "2026-09-18T15:43:29.526991515Z",
+  "model": "glm-5.3"
+}

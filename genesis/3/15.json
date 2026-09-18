@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 3:15",
+  "book": "genesis",
+  "lang": "xh",
+  "chapter": 3,
+  "translation": "Ndiza kubeka ukunyanzelela phakathi kwakho nelişwa, naphakathi kokutwala kwakho nokutwala kwalo; yena uza kukroba intloko yakho, wena uza kukroba isithende sakhe.”",
+  "tokens": [
+    {
+      "surface": "ואיבה",
+      "gloss": "ukunyanzelela"
+    },
+    {
+      "surface": "אשית",
+      "gloss": "Ndiza kubeka"
+    },
+    {
+      "surface": "בינך",
+      "gloss": "phakathi kwakho"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "naphakathi"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "kuelishwa"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "naphakathi"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "kokutwala kwakho"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "naphakathi"
+    },
+    {
+      "surface": "זרעה",
+      "gloss": "kokutwala kwalo"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yena"
+    },
+    {
+      "surface": "ישופך",
+      "gloss": "uza kukroba"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "intloko yakho"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "תשופנו",
+      "gloss": "uza kumkroba"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "isithende sakhe"
+    }
+  ],
+  "timestamp": "2026-09-18T05:08:46.823465007Z",
+  "model": "glm-5.3"
+}

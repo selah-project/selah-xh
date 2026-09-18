@@ -1,0 +1,48 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 11:6",
+  "book": "2-chronicles",
+  "lang": "xh",
+  "chapter": 11,
+  "translation": "Wakha uRekhavam ⟨את⟩ iBhayitlekhem, ⟨את⟩ iEytamu, ⟨את⟩ iTekowa;",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "wakha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iBhayitlekhem"
+    },
+    {
+      "surface": "בית",
+      "gloss": "iBhayit-"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "-lekhem"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "iEytamu"
+    },
+    {
+      "surface": "עיטם",
+      "gloss": "iEytamu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "iTekowa"
+    },
+    {
+      "surface": "תקוע",
+      "gloss": "iTekowa"
+    }
+  ],
+  "timestamp": "2026-09-18T17:04:49.829243500Z",
+  "model": "glm-5.3"
+}

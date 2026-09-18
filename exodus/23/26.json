@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 23:26",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 23,
+  "translation": "Akuyi kubakho olishayo nomwasile elundweni lwakho; ndiza kuzalisa ⟨את⟩ inani leentsuku zakho.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "akuyi kubakho"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "kubakho"
+    },
+    {
+      "surface": "משכלה",
+      "gloss": "olishayo"
+    },
+    {
+      "surface": "ועקרה",
+      "gloss": "nomwasile"
+    },
+    {
+      "surface": "בארצך",
+      "gloss": "elundweni lwakho"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "inani leentsuku zakho"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "inani"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "leentsuku zakho"
+    },
+    {
+      "surface": "אמלא",
+      "gloss": "ndiza kuzalisa"
+    }
+  ],
+  "timestamp": "2026-09-18T06:10:54.578138692Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 1:15",
+  "book": "2-kings",
+  "lang": "xh",
+  "chapter": 1,
+  "translation": "Wathetha ithonya likaYahwe kuEliya: Yehla naye; musa ukoyika ubuso bakhe. Wavuka, wehla naye, waya kumkani.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "Wathetha"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "ithonya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "likaYahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "uEliya"
+    },
+    {
+      "surface": "רד",
+      "gloss": "Yehla"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩ naye",
+      "marks": "naye"
+    },
+    {
+      "surface": "אל",
+      "gloss": "musa"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "ukoyika"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "ubuso bakhe"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "Wavuka"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "wehla"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩ naye",
+      "marks": "naye"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kumkani"
+    }
+  ],
+  "timestamp": "2026-09-18T10:39:25.242331053Z",
+  "model": "glm-5.3"
+}

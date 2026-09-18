@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 13:22",
+  "book": "leviticus",
+  "lang": "xh",
+  "chapter": 13,
+  "translation": "Kodwa ukuba siyanda kakhulu emkhumbeni, ikohane iya kumbeka engcolileyo ⟨אתו⟩; isifo nguso.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Kodwa ukuba"
+    },
+    {
+      "surface": "פשה",
+      "gloss": "siyanda"
+    },
+    {
+      "surface": "תפשה",
+      "gloss": "kakhulu"
+    },
+    {
+      "surface": "בעור",
+      "gloss": "emkhumbeni"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "iya kumbeka engcolileyo"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ikohane"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "yena (umntu ongcolileyo)"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "isifo"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "nguso"
+    }
+  ],
+  "timestamp": "2026-09-18T06:49:45.526794515Z",
+  "model": "glm-5.3"
+}

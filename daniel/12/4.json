@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "daniel 12:4",
+  "book": "daniel",
+  "lang": "xh",
+  "chapter": 12,
+  "translation": "Wena ke, uDaniyeli, tshixa ⟨את⟩ amagama, kwaye uthyathe ⟨את⟩ incwadi, de kube lithuba lokuphela; abaninzi bayakuzula ukuya naseza, ulwazi ludlula lwanda.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "wena ke"
+    },
+    {
+      "surface": "דניאל",
+      "gloss": "uDaniyeli"
+    },
+    {
+      "surface": "סתם",
+      "gloss": "tshixa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amagama"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "amagama"
+    },
+    {
+      "surface": "וחתם",
+      "gloss": "kwaye uthyathe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "incwadi"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "incwadi"
+    },
+    {
+      "surface": "עד",
+      "gloss": "de kube"
+    },
+    {
+      "surface": "עת",
+      "gloss": "lithuba"
+    },
+    {
+      "surface": "קץ",
+      "gloss": "lokuphela"
+    },
+    {
+      "surface": "ישטטו",
+      "gloss": "bayakuzula ukuya naseza"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "abaninzi"
+    },
+    {
+      "surface": "ותרבה",
+      "gloss": "kwaye ludlula lwanda"
+    },
+    {
+      "surface": "הדעת",
+      "gloss": "ulwazi"
+    }
+  ],
+  "timestamp": "2026-09-18T17:49:22.726922523Z",
+  "model": "glm-5.3"
+}

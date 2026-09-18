@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 36:7",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 36,
+  "translation": "Kwaye umsebenzi wawunele ngokwaneleyo lo wonke umsebenzi ukuzwenza ⟨את⟩ yena, kwaye kwasa kwininzi.",
+  "tokens": [
+    {
+      "surface": "והמלאכה",
+      "gloss": "kwaye umsebenzi"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "wawu"
+    },
+    {
+      "surface": "דים",
+      "gloss": "nele ngokwaneleyo"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "lo wonke"
+    },
+    {
+      "surface": "המלאכה",
+      "gloss": "umsebenzi"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "ukuzwenza"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "yena (umsebenzi)"
+    },
+    {
+      "surface": "והותר",
+      "gloss": "kwaye kwasa kwininzi"
+    }
+  ],
+  "timestamp": "2026-09-18T06:30:06.963048975Z",
+  "model": "glm-5.3"
+}

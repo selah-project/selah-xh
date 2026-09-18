@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 32:5",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 32,
+  "translation": "Idwangi lam ndandalazisa kuwe, ubugwenxa bam andalufihlanga; ndandithi: Ndiza kudankisa ngeziphulomthetho zam kuYahwe; yaye wena uthathe ubugwenxa bodwangi bam. Selah.",
+  "tokens": [
+    {
+      "surface": "חטאתי",
+      "gloss": "idwangi lam"
+    },
+    {
+      "surface": "אודיעך",
+      "gloss": "ndandalazisa kuwe"
+    },
+    {
+      "surface": "ועוני",
+      "gloss": "yaye ubugwenxa bam"
+    },
+    {
+      "surface": "לא",
+      "gloss": "andi-"
+    },
+    {
+      "surface": "כסיתי",
+      "gloss": "-lufihlanga"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "ndandithi"
+    },
+    {
+      "surface": "אודה",
+      "gloss": "ndiza kudankisa"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "nge-"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "-ziphulomthetho zam"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kuYahwe"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "yaye wena"
+    },
+    {
+      "surface": "נשאת",
+      "gloss": "uthathe"
+    },
+    {
+      "surface": "עון",
+      "gloss": "ubugwenxa"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "bodwangi bam"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-18T14:42:18.084615953Z",
+  "model": "glm-5.3"
+}

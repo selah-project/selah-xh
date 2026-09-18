@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 40:12",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 40,
+  "translation": "Wena, uYahwe — musa ukuzintshintsela iinceba zakho kum; ikhesedi yakho nenyaniso yakho ziza kundigcina konke konke.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "musa"
+    },
+    {
+      "surface": "תכלא",
+      "gloss": "ukuzintshintsela"
+    },
+    {
+      "surface": "רחמיך",
+      "gloss": "iinceba zakho"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "kum"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "ikhesedi yakho"
+    },
+    {
+      "surface": "ואמתך",
+      "gloss": "kunye nenyaniso yakho"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "konke konke"
+    },
+    {
+      "surface": "יצרוני",
+      "gloss": "ziza kundigcina"
+    }
+  ],
+  "timestamp": "2026-09-18T14:44:25.941801494Z",
+  "model": "glm-5.3"
+}

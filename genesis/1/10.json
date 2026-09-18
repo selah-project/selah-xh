@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 1:10",
+  "book": "genesis",
+  "lang": "xh",
+  "chapter": 1,
+  "translation": "Wabiza uElohim umhlaba oomileyo ngokuba ngumhlaba, wabiza ke waba ngamanzi okuqokelelweyo ngokuba lulwandle; wabona uElohim ukuba kulungile.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "Wabiza"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "ליבשה",
+      "gloss": "umhlaba oomileyo"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ngumhlaba"
+    },
+    {
+      "surface": "ולמקוה",
+      "gloss": "nokokuqokelelweyo"
+    },
+    {
+      "surface": "המים",
+      "gloss": "amanzi"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "wabiza"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ngolwandle"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "wabona"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ukuba"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "kulungile"
+    }
+  ],
+  "timestamp": "2026-09-18T05:08:03.989054031Z",
+  "model": "glm-5.3"
+}

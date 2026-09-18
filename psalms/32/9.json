@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 32:9",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 32,
+  "translation": "Musa ukuba njengehashe, njengendevu, engenanolwazi; ngesidiki nesibiba, sisihombiso sona, ukuzibamba, ukuze bengafikeleli kufuphi nawe.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Musa"
+    },
+    {
+      "surface": "תהיו",
+      "gloss": "ukuba nibe"
+    },
+    {
+      "surface": "כסוס",
+      "gloss": "njengehashe"
+    },
+    {
+      "surface": "כפרד",
+      "gloss": "njengendevu"
+    },
+    {
+      "surface": "אין",
+      "gloss": "angenanolwazi"
+    },
+    {
+      "surface": "הבין",
+      "gloss": "ukuziqonda"
+    },
+    {
+      "surface": "במתג",
+      "gloss": "ngesidiki"
+    },
+    {
+      "surface": "ורסן",
+      "gloss": "nesibiba"
+    },
+    {
+      "surface": "עדיו",
+      "gloss": "sihombiso sona"
+    },
+    {
+      "surface": "לבלום",
+      "gloss": "ukuzibamba"
+    },
+    {
+      "surface": "בל",
+      "gloss": "bengafikeleli"
+    },
+    {
+      "surface": "קרב",
+      "gloss": "ukufikelela"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kufuphi nawe"
+    }
+  ],
+  "timestamp": "2026-09-18T14:39:59.055812123Z",
+  "model": "glm-5.3"
+}

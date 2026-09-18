@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "leviticus 26:31",
+  "book": "leviticus",
+  "lang": "xh",
+  "chapter": 26,
+  "translation": "Ndiza kwenza iidolophu zenu zibe lithafa, ndiza kutshabalalisa iindawo zangcwele zenu, andizi kunuka ⟨kunjalo⟩ iprofumo enomusa lenu.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "ndiza kwenza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iidolophu zenu"
+    },
+    {
+      "surface": "עריכם",
+      "gloss": "iidolophu zenu"
+    },
+    {
+      "surface": "חרבה",
+      "gloss": "zibe lithafa\/latywa"
+    },
+    {
+      "surface": "והשמותי",
+      "gloss": "ndiza kutshabalalisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iindawo zangcwele zenu"
+    },
+    {
+      "surface": "מקדשיכם",
+      "gloss": "iindawo zangcwele zenu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "hayi\/andizi ku-"
+    },
+    {
+      "surface": "אריח",
+      "gloss": "nunuka"
+    },
+    {
+      "surface": "בריח",
+      "gloss": "iphrofumo"
+    },
+    {
+      "surface": "ניחחכם",
+      "gloss": "enomusa lenu"
+    }
+  ],
+  "timestamp": "2026-09-18T07:07:33.278144457Z",
+  "model": "glm-5.3"
+}

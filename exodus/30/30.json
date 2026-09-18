@@ -1,0 +1,52 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 30:30",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 30,
+  "translation": "Kwaye ⟨את⟩ u-Aharon no⟨את⟩ oonyana bakhe uza kubathanjisa, kwaye ubangcwelekise ⟨את⟩ ukuba bangabapristi kum.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "u-Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "u-Aharon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "oonyana bakhe"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "oonyana bakhe"
+    },
+    {
+      "surface": "תמשח",
+      "gloss": "uza kubathanjisa"
+    },
+    {
+      "surface": "וקדשת",
+      "gloss": "ubangcwelekise"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "u-Aharon noonyana bakhe"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "ukuba bangabapristi"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kum"
+    }
+  ],
+  "timestamp": "2026-09-18T06:19:10.640949581Z",
+  "model": "glm-5.3"
+}

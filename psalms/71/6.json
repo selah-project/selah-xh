@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 71:6",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 71,
+  "translation": "Kuwe ndanamekele ukusukela esibelekweni; wena undikhuphe esisiswini seenkuni zam. Udumo lwam luhlala lunguwe.",
+  "tokens": [
+    {
+      "surface": "עליך",
+      "gloss": "Kuwe"
+    },
+    {
+      "surface": "נסמכתי",
+      "gloss": "ndanamekele"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "ukusukela esibelekweni"
+    },
+    {
+      "surface": "ממעי",
+      "gloss": "esisiswini"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "eenkuni zam"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "גוזי",
+      "gloss": "undikhuphe"
+    },
+    {
+      "surface": "בך",
+      "gloss": "unguwe"
+    },
+    {
+      "surface": "תהלתי",
+      "gloss": "Udumo lwam"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "luhlala"
+    }
+  ],
+  "timestamp": "2026-09-18T14:55:58.607780171Z",
+  "model": "glm-5.3"
+}

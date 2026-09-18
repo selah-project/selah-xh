@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 18:5",
+  "book": "1-samuel",
+  "lang": "xh",
+  "chapter": 18,
+  "translation": "UDavide waphuma kuyo yonke into awayemthumela yona uShawuli, wenza ngobulumko; uShawuli wamisela phezu kwamadoda emfazwe, elo lizwi lalilungile emehlweni awonke abantu, kananjalo emehlweni eeza zikaShawuli.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "waphuma"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "uDavide"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "kuyo yonke"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "into"
+    },
+    {
+      "surface": "ישלחנו",
+      "gloss": "awayemthumela yona"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "uShawuli"
+    },
+    {
+      "surface": "ישכיל",
+      "gloss": "wenza ngobulumko"
+    },
+    {
+      "surface": "וישמהו",
+      "gloss": "wamisela"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "uShawuli"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu kwawo"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "amadoda"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "emfazwe"
+    },
+    {
+      "surface": "וייטב",
+      "gloss": "lalilungile"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "emehlakeni awonke"
+    },
+    {
+      "surface": "כל",
+      "gloss": "awonke"
+    },
+    {
+      "surface": "העם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "kananjalo"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "emehlakeni"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "eeza"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "zikaShawuli"
+    }
+  ],
+  "timestamp": "2026-09-18T09:30:27.019278485Z",
+  "model": "glm-5.3"
+}

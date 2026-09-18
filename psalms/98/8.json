@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 98:8",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 98,
+  "translation": "Milambo makabambise izandla; iintaba makidume kunye zivuye.",
+  "tokens": [
+    {
+      "surface": "נהרות",
+      "gloss": "milambo"
+    },
+    {
+      "surface": "ימחאו",
+      "gloss": "makabambise"
+    },
+    {
+      "surface": "כף",
+      "gloss": "izandla"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "kunye"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "iintaba"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "makidume zivuye"
+    }
+  ],
+  "timestamp": "2026-09-18T15:13:32.953588780Z",
+  "model": "glm-5.3"
+}

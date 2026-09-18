@@ -1,0 +1,39 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 40:14",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 40,
+  "translation": "Uza kudiza ⟨את⟩ oonyana bakhe, ubagqokise ⟨את⟩ iituniki.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "oonyana bakhe"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "oonyana bakhe"
+    },
+    {
+      "surface": "תקריב",
+      "gloss": "uza kudiza"
+    },
+    {
+      "surface": "והלבשת",
+      "gloss": "ubagqokise"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "iituniki"
+    },
+    {
+      "surface": "כתנת",
+      "gloss": "iituniki"
+    }
+  ],
+  "timestamp": "2026-09-18T06:32:18.253712035Z",
+  "model": "glm-5.3"
+}

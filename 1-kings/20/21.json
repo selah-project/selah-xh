@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-kings 20:21",
+  "book": "1-kings",
+  "lang": "xh",
+  "chapter": 20,
+  "translation": "Inkosi yaseYisra'el yaphuma, yabulala ⟨את⟩ amahashi ⟨את⟩ neenqwelo zempi, yaza yasabela u-Aram ngokubethwa okukhulu.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "yaphuma"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "inkosi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "yaseYisra'el"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "yabulala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amahashi"
+    },
+    {
+      "surface": "הסוס",
+      "gloss": "amahashi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "iinqwelo zempi"
+    },
+    {
+      "surface": "הרכב",
+      "gloss": "iinqwelo zempi"
+    },
+    {
+      "surface": "והכה",
+      "gloss": "yasabela"
+    },
+    {
+      "surface": "בארם",
+      "gloss": "u-Aram"
+    },
+    {
+      "surface": "מכה",
+      "gloss": "ngokubethwa"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "okukhulu"
+    }
+  ],
+  "timestamp": "2026-09-18T10:33:21.042310470Z",
+  "model": "glm-5.3"
+}

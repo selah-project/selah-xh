@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 29:11",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 29,
+  "translation": "Uza kuhlaba ⟨את⟩ inkunzi yenkomo phambi kukaYahwe, emnyangweni wetenti yokuqothana.",
+  "tokens": [
+    {
+      "surface": "ושחטת",
+      "gloss": "uza kuhlaba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "inkunzi yenkomo"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "inkunzi yenkomo"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "phambi kuka-"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "emnyangweni"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "wetenti"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "yokuqothana"
+    }
+  ],
+  "timestamp": "2026-09-18T06:16:42.341761124Z",
+  "model": "glm-5.3"
+}

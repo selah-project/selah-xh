@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 3:5",
+  "book": "1-samuel",
+  "lang": "xh",
+  "chapter": 3,
+  "translation": "Wagijima waya ku-Eli wathi: “Ndidle ngoku, kuba wundibizile.” Wathi u-Eli: “Andibizanga; buyela ulale.” Waya walala.",
+  "tokens": [
+    {
+      "surface": "וירץ",
+      "gloss": "wagijima"
+    },
+    {
+      "surface": "אל",
+      "gloss": "waya ku-"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "u-Eli"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "ndidle ngoku"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "קראת",
+      "gloss": "wundibizile"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ndi-"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hayi-"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "andibizanga"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "buyela"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "ulale"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "waya"
+    },
+    {
+      "surface": "וישכב",
+      "gloss": "walala"
+    }
+  ],
+  "timestamp": "2026-09-18T09:15:35.499788723Z",
+  "model": "glm-5.3"
+}

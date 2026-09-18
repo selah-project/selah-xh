@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 42:30",
+  "book": "genesis",
+  "lang": "xh",
+  "chapter": 42,
+  "translation": "UMntu, inkosi yelizwe, wathetha nathi ⟨את⟩ ngobukhali, waza wasisonga njengabahloli bokuhlola ⟨את⟩ ilizwe.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "wathetha"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "uMntu"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "inkosi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yelizwe"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "nathi ⟨את⟩"
+    },
+    {
+      "surface": "קשות",
+      "gloss": "ngobukhali"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "wasisonga"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩",
+      "marks": "njengabahloli"
+    },
+    {
+      "surface": "כמרגלים",
+      "gloss": "njengabahloli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ilizwe"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ilizwe"
+    }
+  ],
+  "timestamp": "2026-09-18T05:42:47.549700492Z",
+  "model": "glm-5.3"
+}

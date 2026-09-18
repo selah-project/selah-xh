@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 5:11",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 5,
+  "translation": "Nina hambani, thathani-ni ukhuni apho nifumana khona, kuba akukho nto ezakuncitshiswa kumsebenzi wenu.",
+  "tokens": [
+    {
+      "surface": "אתם",
+      "gloss": "nina"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "hambani"
+    },
+    {
+      "surface": "קחו",
+      "gloss": "thathani-ni"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "-ni (kuni)"
+    },
+    {
+      "surface": "תבן",
+      "gloss": "ukhuni"
+    },
+    {
+      "surface": "מאשר",
+      "gloss": "apho"
+    },
+    {
+      "surface": "תמצאו",
+      "gloss": "nifumana khona"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "אין",
+      "gloss": "akukho"
+    },
+    {
+      "surface": "נגרע",
+      "gloss": "ezakuncitshiswa"
+    },
+    {
+      "surface": "מעבדתכם",
+      "gloss": "kumsebenzi wenu"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "nto"
+    }
+  ],
+  "timestamp": "2026-09-18T05:51:22.226155824Z",
+  "model": "glm-5.3"
+}

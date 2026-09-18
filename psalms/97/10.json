@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 97:10",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 97,
+  "translation": "Abathandayo uYahwe bayazonda okubi; ⟨yena⟩ ulondoloza iimphefumlo zabakholiweyo ⟨zakhe⟩; esandleni sababi ubasindisa.",
+  "tokens": [
+    {
+      "surface": "אהבי",
+      "gloss": "abathandayo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "שנאו",
+      "gloss": "bayazonda"
+    },
+    {
+      "surface": "רע",
+      "gloss": "okubi"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "ulondoloza"
+    },
+    {
+      "surface": "נפשות",
+      "gloss": "iimphefumlo"
+    },
+    {
+      "surface": "חסידיו",
+      "gloss": "zabakholiweyo"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "esandleni"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "sababi"
+    },
+    {
+      "surface": "יצילם",
+      "gloss": "ubasindisa"
+    }
+  ],
+  "timestamp": "2026-09-18T17:44:14.059911004Z",
+  "model": "glm-5.3"
+}

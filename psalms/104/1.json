@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 104:1",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 104,
+  "translation": "Bulisela, inefeshi yam, uYahwe; uYahwe, uElohim wam, unenkulu ngokugqithisileyo; uzuko nobukhosi ⟨ulwembesile⟩.",
+  "tokens": [
+    {
+      "surface": "ברכי",
+      "gloss": "Bulisela"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "inefeshi yam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uYahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "uElohim wam"
+    },
+    {
+      "surface": "גדלת",
+      "gloss": "unenkulu"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ngokugqithisileyo"
+    },
+    {
+      "surface": "הוד",
+      "gloss": "uzuko"
+    },
+    {
+      "surface": "והדר",
+      "gloss": "nobukhosi"
+    },
+    {
+      "surface": "לבשת",
+      "gloss": "ulwembesile"
+    }
+  ],
+  "timestamp": "2026-09-18T15:15:06.779808612Z",
+  "model": "glm-5.3"
+}

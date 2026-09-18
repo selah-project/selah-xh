@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "daniel 1:12",
+  "book": "daniel",
+  "lang": "xh",
+  "chapter": 1,
+  "translation": "Zama nceda ⟨את⟩ iindlwana zakho iintsuku ezilishumi, bathe benika oku kuthi kwazo imifuno, kwaye sitye; namanzi, kwaye sisele.",
+  "tokens": [
+    {
+      "surface": "נס",
+      "gloss": "zama"
+    },
+    {
+      "surface": "נא",
+      "gloss": "nceda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iindlwana zakho"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "iindlwana zakho"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "iintsuku"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "ezilishumi"
+    },
+    {
+      "surface": "ויתנו",
+      "gloss": "bathe benika"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "oku kuthi"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kwazo"
+    },
+    {
+      "surface": "הזרעים",
+      "gloss": "imifuno"
+    },
+    {
+      "surface": "ונאכלה",
+      "gloss": "kwaye sitye"
+    },
+    {
+      "surface": "ומים",
+      "gloss": "namanzi"
+    },
+    {
+      "surface": "ונשתה",
+      "gloss": "kwaye sisele"
+    }
+  ],
+  "timestamp": "2026-09-18T16:30:04.087058999Z",
+  "model": "glm-5.3"
+}

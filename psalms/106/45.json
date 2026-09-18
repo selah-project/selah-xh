@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "psalms 106:45",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 106,
+  "translation": "Wakhumbula ubunye nabo umnqophiso wakhe, wazola ngokwandla kwekhesedi yakhe.",
+  "tokens": [
+    {
+      "surface": "ויזכר",
+      "gloss": "wakhumbula"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ngenxa yabo"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "umnqophiso wakhe"
+    },
+    {
+      "surface": "וינחם",
+      "gloss": "wazola"
+    },
+    {
+      "surface": "כרב",
+      "gloss": "ngokwandla"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "kwekhesedi yakhe"
+    }
+  ],
+  "timestamp": "2026-09-18T15:17:53.866924830Z",
+  "model": "glm-5.3"
+}

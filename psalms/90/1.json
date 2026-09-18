@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 90:1",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 90,
+  "translation": "Isithandazo sikaMoshe, umntu kaElohim. U-Adonayi, wena ubusenze indawo yokuhlala, kwisizukulwana nakwisizukulwana.",
+  "tokens": [
+    {
+      "surface": "תפלה",
+      "gloss": "Isithandazo"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "sikaMoshe"
+    },
+    {
+      "surface": "איש",
+      "gloss": "umntu"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "kaElohim"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "U-Adonayi"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "indawo yokuhlala"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "היית",
+      "gloss": "ubusenze"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "thi"
+    },
+    {
+      "surface": "בדר",
+      "gloss": "kwisizukulwana"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "nakwisizukulwana"
+    }
+  ],
+  "timestamp": "2026-09-18T15:11:15.853735822Z",
+  "model": "glm-5.3"
+}

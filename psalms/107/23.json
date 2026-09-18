@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 107:23",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 107,
+  "translation": "Abahla phantsi olwandle ngeenqanawa, abasebenza umsebenzi kwimimandla amaninzi.",
+  "tokens": [
+    {
+      "surface": "יורדי",
+      "gloss": "Abahla phantsi"
+    },
+    {
+      "surface": "הים",
+      "gloss": "olwandle"
+    },
+    {
+      "surface": "באניות",
+      "gloss": "ngeenqanawa"
+    },
+    {
+      "surface": "עשי",
+      "gloss": "abasebenza"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "umsebenzi"
+    },
+    {
+      "surface": "במים",
+      "gloss": "kwimimandla amanzi"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "amaninzi"
+    }
+  ],
+  "timestamp": "2026-09-18T15:16:42.932295524Z",
+  "model": "glm-5.3"
+}

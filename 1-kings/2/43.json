@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "1-kings 2:43",
+  "book": "1-kings",
+  "lang": "xh",
+  "chapter": 2,
+  "translation": "Kutheni ngoko ungagcinanga ⟨את⟩ isifungo sikaYahwe, no⟨את⟩ umyalelo endawutyalelayo kuwe?”",
+  "tokens": [
+    {
+      "surface": "ומדוע",
+      "gloss": "Kutheni ngoko"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ungagcinanga (cha)"
+    },
+    {
+      "surface": "שמרת",
+      "gloss": "ungagcinanga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isifungo sikaYahwe"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "isifungo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "sikaYahwe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "no⟨את⟩",
+      "marks": "umyalelo"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "umyalelo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "endawu-"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "-wutyalelayo"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "kuwe"
+    }
+  ],
+  "timestamp": "2026-09-18T10:10:28.574962051Z",
+  "model": "glm-5.3"
+}

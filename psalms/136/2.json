@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 136:2",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 136,
+  "translation": "Nibuleleni uElohim woothixo, kuba ikhesedi yakhe ihleli kuze kube phakade.",
+  "tokens": [
+    {
+      "surface": "הודו",
+      "gloss": "Nibuleleni"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "uElohim wa-"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "oothixo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "kuze kube phakade"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ikhesedi yakhe"
+    }
+  ],
+  "timestamp": "2026-09-18T15:30:12.677772553Z",
+  "model": "glm-5.3"
+}

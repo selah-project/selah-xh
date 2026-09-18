@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 12:7",
+  "book": "ecclesiastes",
+  "lang": "xh",
+  "chapter": 12,
+  "translation": "Uthuli lubuyela emhlabeni njengoko belungako, nomoya ubuyela kuElohim owanika wona.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "lubuyela"
+    },
+    {
+      "surface": "העפר",
+      "gloss": "uthuli"
+    },
+    {
+      "surface": "על",
+      "gloss": "e"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "mhlabeni"
+    },
+    {
+      "surface": "כשהיה",
+      "gloss": "njengoko belungako"
+    },
+    {
+      "surface": "והרוח",
+      "gloss": "nomoya"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "ubuyela"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "owo"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "wanika wona"
+    }
+  ],
+  "timestamp": "2026-09-18T16:27:53.812677697Z",
+  "model": "glm-5.3"
+}

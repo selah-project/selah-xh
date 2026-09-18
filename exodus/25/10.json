@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 25:10",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 25,
+  "translation": "Benza i-arone yomthi weshitim: amatye amabini nesiqingatha ubude bayo, ilitye nesiqingatha ububanzi bayo, ilitye nesiqingatha ubude obuphakamileyo bayo.",
+  "tokens": [
+    {
+      "surface": "ועשו",
+      "gloss": "Benza"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "i-arone"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "yomthi"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "weshitim"
+    },
+    {
+      "surface": "אמתים",
+      "gloss": "amatye amabini"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "nesiqingatha"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "ubude bayo"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "ilitye"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "nesiqingatha"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "ububanzi bayo"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "ilitye"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "nesiqingatha"
+    },
+    {
+      "surface": "קמתו",
+      "gloss": "ukuphakama kwayo"
+    }
+  ],
+  "timestamp": "2026-09-18T06:12:56.694093973Z",
+  "model": "glm-5.3"
+}

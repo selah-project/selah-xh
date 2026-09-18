@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 42:3",
+  "book": "isaiah",
+  "lang": "xh",
+  "chapter": 42,
+  "translation": "Ilinti ephukileyo akayi kuyidila, nalefita elicinela akayi kulicisha; ngenyaniso uza kukhupha igwebo.",
+  "tokens": [
+    {
+      "surface": "קנה",
+      "gloss": "ilinti"
+    },
+    {
+      "surface": "רצוץ",
+      "gloss": "ephukileyo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "akayi"
+    },
+    {
+      "surface": "ישבור",
+      "gloss": "kuyidila"
+    },
+    {
+      "surface": "ופשתה",
+      "gloss": "nalefita"
+    },
+    {
+      "surface": "כהה",
+      "gloss": "elicinela"
+    },
+    {
+      "surface": "לא",
+      "gloss": "akayi"
+    },
+    {
+      "surface": "יכבנה",
+      "gloss": "kulicisha"
+    },
+    {
+      "surface": "לאמת",
+      "gloss": "ngenyaniso"
+    },
+    {
+      "surface": "יוציא",
+      "gloss": "uza kukhupha"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "igwebo"
+    }
+  ],
+  "timestamp": "2026-09-18T11:33:32.161338448Z",
+  "model": "glm-5.3"
+}

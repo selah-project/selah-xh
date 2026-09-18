@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-chronicles 1:13",
+  "book": "1-chronicles",
+  "lang": "xh",
+  "chapter": 1,
+  "translation": "UKhanana wazala uTsidoni wakhe wokuqala noKheti.",
+  "tokens": [
+    {
+      "surface": "וכנען",
+      "gloss": "UKhanana"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "wazala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uTsidoni"
+    },
+    {
+      "surface": "צידון",
+      "gloss": "uTsidoni"
+    },
+    {
+      "surface": "בכרו",
+      "gloss": "wakhe wokuqala"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "uKheti"
+    },
+    {
+      "surface": "חת",
+      "gloss": "uKheti"
+    }
+  ],
+  "timestamp": "2026-09-18T16:50:26.288149945Z",
+  "model": "glm-5.3"
+}

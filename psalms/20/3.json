@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 20:3",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 20,
+  "translation": "Makathumele uncedo lwakho oLwaseNcwadini-ngcwele, kwaye makakuseke kwaTsiyoni.",
+  "tokens": [
+    {
+      "surface": "ישלח",
+      "gloss": "makathumele"
+    },
+    {
+      "surface": "עזרך",
+      "gloss": "uncedo lwakho"
+    },
+    {
+      "surface": "מקדש",
+      "gloss": "oLwaseNcwadini-ngcwele"
+    },
+    {
+      "surface": "ומציון",
+      "gloss": "kwaTsiyoni"
+    },
+    {
+      "surface": "יסעדך",
+      "gloss": "makakuseke"
+    }
+  ],
+  "timestamp": "2026-09-18T14:34:44.300634927Z",
+  "model": "glm-5.3"
+}

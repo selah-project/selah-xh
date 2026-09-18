@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 28:20",
+  "book": "deuteronomy",
+  "lang": "xh",
+  "chapter": 28,
+  "translation": "Uza kuthumela uYahwe kuwe ⟨את⟩ isiqalekiso, ⟨את⟩ inkxwaleko, nange ⟨את⟩ ukutshutshiswa, kwinto yonke ebonyweni besandla sakho oyenzayo, de utshatyaluseke de usweleke ngokukhawuleza, ngenxa yokubi kwezenzo zakho, apho wakundishiya khona.",
+  "tokens": [
+    {
+      "surface": "ישלח",
+      "gloss": "uza kuthumela"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "בך",
+      "gloss": "kuwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isiqalekiso"
+    },
+    {
+      "surface": "המארה",
+      "gloss": "isiqalekiso"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "inkxwaleko"
+    },
+    {
+      "surface": "המהומה",
+      "gloss": "inkxwaleko"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "nange ⟨את⟩",
+      "marks": "ukutshutshiswa"
+    },
+    {
+      "surface": "המגערת",
+      "gloss": "ukutshutshiswa"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "kwinto yonke"
+    },
+    {
+      "surface": "משלח",
+      "gloss": "ebonyweni"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "besandla sakho"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oko"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "oyenzayo"
+    },
+    {
+      "surface": "עד",
+      "gloss": "de"
+    },
+    {
+      "surface": "השמדך",
+      "gloss": "utshatyaluseke"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "de"
+    },
+    {
+      "surface": "אבדך",
+      "gloss": "usweleke"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "ngokukhawuleza"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "ngenxa"
+    },
+    {
+      "surface": "רע",
+      "gloss": "kokubi"
+    },
+    {
+      "surface": "מעלליך",
+      "gloss": "kwezenzo zakho"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "apho"
+    },
+    {
+      "surface": "עזבתני",
+      "gloss": "wakundishiya khona"
+    }
+  ],
+  "timestamp": "2026-09-18T17:25:52.632274178Z",
+  "model": "glm-5.3"
+}

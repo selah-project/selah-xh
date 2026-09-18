@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ezekiel 21:25",
+  "book": "ezekiel",
+  "lang": "xh",
+  "chapter": 21,
+  "translation": "Uza kuwenza indlela yokufika kwenkemba, ⟨את⟩ iRabbah yabantwana baka-Ammon, nakuYuda oseYerushalayimi eqhagelweyo.",
+  "tokens": [
+    {
+      "surface": "דרך",
+      "gloss": "indlela"
+    },
+    {
+      "surface": "תשים",
+      "gloss": "uza kuwenza"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "yokufika"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "inkemba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iRabbah yabantwana baka-Ammon"
+    },
+    {
+      "surface": "רבת",
+      "gloss": "iRabbah"
+    },
+    {
+      "surface": "בני",
+      "gloss": "yabantwana"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "baka-Ammon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "uYuda"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "uYuda"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "oseYerushalayimi"
+    },
+    {
+      "surface": "בצורה",
+      "gloss": "eqhagelweyo"
+    }
+  ],
+  "timestamp": "2026-09-18T13:08:01.005763644Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "leviticus 14:50",
+  "book": "leviticus",
+  "lang": "xh",
+  "chapter": 14,
+  "translation": "Wabulala ⟨את⟩ intaka enye esityeni sobumbi, phezu kwamanzi aphilileyo.",
+  "tokens": [
+    {
+      "surface": "ושחט",
+      "gloss": "wabulala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "intaka enye"
+    },
+    {
+      "surface": "הצפר",
+      "gloss": "intaka"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "enye"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwi"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "isitya"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "sobumbi"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu"
+    },
+    {
+      "surface": "מים",
+      "gloss": "kwamanzi"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "aphilileyo"
+    }
+  ],
+  "timestamp": "2026-09-18T06:47:48.220819896Z",
+  "model": "glm-5.3"
+}

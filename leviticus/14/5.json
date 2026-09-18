@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 14:5",
+  "book": "leviticus",
+  "lang": "xh",
+  "chapter": 14,
+  "translation": "Umfundisi wakhupha umyalelo, yaye kwabulawa ⟨את⟩ intaka enye, esityeni senkuni yomhlaba, phezu kwamanzi aphilayo.",
+  "tokens": [
+    {
+      "surface": "וצוה",
+      "gloss": "wakhupha umyalelo"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "umfundisi"
+    },
+    {
+      "surface": "ושחט",
+      "gloss": "yaye kwabulawa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "intaka enye"
+    },
+    {
+      "surface": "הצפור",
+      "gloss": "intaka"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "enye"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwi"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "esityeni"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "senkuni yomhlaba"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu"
+    },
+    {
+      "surface": "מים",
+      "gloss": "kwamanzi"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "aphilayo"
+    }
+  ],
+  "timestamp": "2026-09-18T06:51:06.379713892Z",
+  "model": "glm-5.3"
+}

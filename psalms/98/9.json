@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 98:9",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 98,
+  "translation": "Phambi kuYahwe, kuba weza ukwahlula ⟨את⟩ umhlaba; uyawahlula ⟨את⟩ ihlabathi ngobulungisa, nayo amazwe ngokulungelelanisa.",
+  "tokens": [
+    {
+      "surface": "לפני",
+      "gloss": "Phambi ku-"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "בא",
+      "gloss": "weza"
+    },
+    {
+      "surface": "לשפט",
+      "gloss": "ukwahlula"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "umhlaba"
+    },
+    {
+      "surface": "ישפט",
+      "gloss": "uyawahlula"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "ihlabathi"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "ngobulungisa"
+    },
+    {
+      "surface": "ועמים",
+      "gloss": "nayo amazwe"
+    },
+    {
+      "surface": "במישרים",
+      "gloss": "ngokulungelelanisa"
+    }
+  ],
+  "timestamp": "2026-09-18T15:12:06.746990147Z",
+  "model": "glm-5.3"
+}

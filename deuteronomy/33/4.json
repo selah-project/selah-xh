@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 33:4",
+  "book": "deuteronomy",
+  "lang": "xh",
+  "chapter": 33,
+  "translation": "iTora wayiyalela thina uMoshe; yingcambu yesizwe sikaYakobi.",
+  "tokens": [
+    {
+      "surface": "תורה",
+      "gloss": "iTora"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "wayiyalela"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "thina"
+    },
+    {
+      "surface": "משה",
+      "gloss": "uMoshe"
+    },
+    {
+      "surface": "מורשה",
+      "gloss": "ingcambu"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "yesizwe"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "sikaYakobi"
+    }
+  ],
+  "timestamp": "2026-09-18T08:23:21.219813092Z",
+  "model": "glm-5.3"
+}

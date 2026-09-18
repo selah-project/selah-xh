@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 7:3",
+  "book": "proverbs",
+  "lang": "xh",
+  "chapter": 7,
+  "translation": "Zibophele kwiminwe yakho, uzibhale kwitafile yentliziyo yakho.",
+  "tokens": [
+    {
+      "surface": "קשרם",
+      "gloss": "zibophele"
+    },
+    {
+      "surface": "על",
+      "gloss": "kwi-"
+    },
+    {
+      "surface": "אצבעתיך",
+      "gloss": "minwe yakho"
+    },
+    {
+      "surface": "כתבם",
+      "gloss": "uzibhale"
+    },
+    {
+      "surface": "על",
+      "gloss": "kwi-"
+    },
+    {
+      "surface": "לוח",
+      "gloss": "itafile"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "yentliziyo yakho"
+    }
+  ],
+  "timestamp": "2026-09-18T17:46:34.214305611Z",
+  "model": "glm-5.3"
+}

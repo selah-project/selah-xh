@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 3:12",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 3,
+  "translation": "Wathi: “Kuba ndiza kuba nawe; yaye le iya kuba yiphawla kuwe lokuba mna ndikuthumele wena: xa wena ukhupha ⟨את⟩ abantu eMitsrayim, niza kunqula ⟨את⟩ uElohim phezu kwale ntaba.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "ndiza kuba"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "nawe"
+    },
+    {
+      "surface": "וזה",
+      "gloss": "yaye le"
+    },
+    {
+      "surface": "לך",
+      "gloss": "iya kuba... kuwe"
+    },
+    {
+      "surface": "האות",
+      "gloss": "yiphawla"
+    },
+    {
+      "surface": "כי",
+      "gloss": "lokuba"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "mna"
+    },
+    {
+      "surface": "שלחתיך",
+      "gloss": "ndikuthumele wena"
+    },
+    {
+      "surface": "בהוציאך",
+      "gloss": "xa wena ukhupha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abantu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "eMitsrayim"
+    },
+    {
+      "surface": "תעבדון",
+      "gloss": "niza kunqula"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uElohim"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu kwa"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "le ntaba"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "le"
+    }
+  ],
+  "timestamp": "2026-09-18T05:52:40.979843961Z",
+  "model": "glm-5.3"
+}

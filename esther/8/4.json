@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "esther 8:4",
+  "book": "esther",
+  "lang": "xh",
+  "chapter": 8,
+  "translation": "Inkosi yotyola kwi-Esther intonga yegolide, uEsther wavuka, wema phambi kwenkosi.",
+  "tokens": [
+    {
+      "surface": "ויושט",
+      "gloss": "yotyola"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "inkosi"
+    },
+    {
+      "surface": "לאסתר",
+      "gloss": "kwi-Esther"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "intonga yegolide"
+    },
+    {
+      "surface": "שרבט",
+      "gloss": "intonga yobukhosi"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "yegolide"
+    },
+    {
+      "surface": "ותקם",
+      "gloss": "wavuka"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "uEsther"
+    },
+    {
+      "surface": "ותעמד",
+      "gloss": "wema"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "phambi kwenkosi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kwenkosi"
+    }
+  ],
+  "timestamp": "2026-09-18T16:30:11.665607688Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "numbers 35:27",
+  "book": "numbers",
+  "lang": "xh",
+  "chapter": 35,
+  "translation": "aze\tlilibalele\tamfumane\tumlawuli wegazi ngaphandle komda wedolophu yakhe yokhuseleko, aze abulale umlawuli wegazi ⟨את⟩ umbulali — akukho igazi kuye.",
+  "tokens": [
+    {
+      "surface": "ומצא",
+      "gloss": "amfumane"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "yena (-m- kuthi kamfumane)"
+    },
+    {
+      "surface": "גאל",
+      "gloss": "umlawuli"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "wegazi"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "ngaphandle"
+    },
+    {
+      "surface": "לגבול",
+      "gloss": "komda"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "wedolophu"
+    },
+    {
+      "surface": "מקלטו",
+      "gloss": "yokhuseleko yakhe"
+    },
+    {
+      "surface": "ורצח",
+      "gloss": "abulale"
+    },
+    {
+      "surface": "גאל",
+      "gloss": "umlawuli"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "wegazi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umbulali"
+    },
+    {
+      "surface": "הרצח",
+      "gloss": "umbulali"
+    },
+    {
+      "surface": "אין",
+      "gloss": "akukho"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kuye"
+    },
+    {
+      "surface": "דם",
+      "gloss": "igazi"
+    }
+  ],
+  "timestamp": "2026-09-18T07:50:36.715710938Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 13:6",
+  "book": "genesis",
+  "lang": "xh",
+  "chapter": 13,
+  "translation": "Kwaye umhlaba awubanga wathwala ⟨את⟩ bona ukuba bahlale kunye, kuba impahla yabo yayininzi, kwaye benganako ukuhlala kunye.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "kwaye awubanga"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "wathwala"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "bona"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "umhlaba"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "ukuba bahlale"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "kunye"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "היה",
+      "gloss": "yayi-"
+    },
+    {
+      "surface": "רכושם",
+      "gloss": "impahla yabo"
+    },
+    {
+      "surface": "רב",
+      "gloss": "ninzi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kwaye benganako"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "benganako"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "ukuhlala"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "kunye"
+    }
+  ],
+  "timestamp": "2026-09-18T05:14:04.094052804Z",
+  "model": "glm-5.3"
+}

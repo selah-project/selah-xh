@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 105:8",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 105,
+  "translation": "Wakhumbula ngonaphakade umnqophiso wakhe, ilizwi alayeleyo kwizizukulwana ezingamawaka.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "Wakhumbula"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ngonaphakade"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "umnqophiso wakhe"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ilizwi"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "alayeleyo"
+    },
+    {
+      "surface": "לאלף",
+      "gloss": "ezingamawaka"
+    },
+    {
+      "surface": "דור",
+      "gloss": "kwizizukulwana"
+    }
+  ],
+  "timestamp": "2026-09-18T15:15:57.598729522Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 78:10",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 78,
+  "translation": "Abaphulanga umnqophiso kaElohim, kwaye bala ukuhamba kuTora yakhe.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "abaphulanga"
+    },
+    {
+      "surface": "שמרו",
+      "gloss": "(abagcini)"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "umnqophiso"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "kaElohim"
+    },
+    {
+      "surface": "ובתורתו",
+      "gloss": "kuTora yakhe"
+    },
+    {
+      "surface": "מאנו",
+      "gloss": "bala"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "ukuhamba"
+    }
+  ],
+  "timestamp": "2026-09-18T15:01:59.295371162Z",
+  "model": "glm-5.3"
+}

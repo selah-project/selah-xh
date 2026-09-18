@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 13:12",
+  "book": "1-chronicles",
+  "lang": "xh",
+  "chapter": 13,
+  "translation": "UDawidi wayesoyika uElohim ngalo lo mzi, wathi: Ndingayisa njani ⟨את⟩ iarki kaElohim kum?",
+  "tokens": [
+    {
+      "surface": "ויירא",
+      "gloss": "wayesoyika"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "uDawidi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uElohim"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ngalo"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "lo"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "היך",
+      "gloss": "njani"
+    },
+    {
+      "surface": "אביא",
+      "gloss": "ndingayisa"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kum"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iarki kaElohim"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "iarki"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "kaElohim"
+    }
+  ],
+  "timestamp": "2026-09-18T16:55:47.235716916Z",
+  "model": "glm-5.3"
+}

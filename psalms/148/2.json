@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 148:2",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 148,
+  "translation": "Dumani kuye onke amathunywa akhe; dumani kuye yonke iyeza lakhe.",
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "Dumani kuye"
+    },
+    {
+      "surface": "כל",
+      "gloss": "onke"
+    },
+    {
+      "surface": "מלאכיו",
+      "gloss": "amathunywa akhe"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "dumani kuye"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yonke"
+    },
+    {
+      "surface": "צבאו",
+      "gloss": "iyeza lakhe"
+    }
+  ],
+  "timestamp": "2026-09-18T15:34:18.340074066Z",
+  "model": "glm-5.3"
+}

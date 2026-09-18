@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 29:6",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 29,
+  "translation": "Uza kubeka umqhele entlokweni yakhe, uza kubeka ⟨את⟩ isiphawuli esingcwele phezu komqhele.",
+  "tokens": [
+    {
+      "surface": "ושמת",
+      "gloss": "uza kubeka"
+    },
+    {
+      "surface": "המצנפת",
+      "gloss": "umqhele"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "entlokweni yakhe"
+    },
+    {
+      "surface": "ונתת",
+      "gloss": "uza kubeka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isiphawuli esingcwele"
+    },
+    {
+      "surface": "נזר",
+      "gloss": "isiphawuli"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "esingcwele"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu"
+    },
+    {
+      "surface": "המצנפת",
+      "gloss": "komqhele"
+    }
+  ],
+  "timestamp": "2026-09-18T17:22:00.235727143Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 12:8",
+  "book": "2-chronicles",
+  "lang": "xh",
+  "chapter": 12,
+  "translation": "Kodwa baza kuba ngamakhoboka kwakuye, ukuze bazikwazi inkonzo yam nankonzo zezibuso zemihlaba.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kodwa (kuba)"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "baza kuba"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kwakuye"
+    },
+    {
+      "surface": "לעבדים",
+      "gloss": "ngamakhoboka"
+    },
+    {
+      "surface": "וידעו",
+      "gloss": "ukuze bazikwazi"
+    },
+    {
+      "surface": "עבודתי",
+      "gloss": "inkonzo yam"
+    },
+    {
+      "surface": "ועבודת",
+      "gloss": "nankonzo"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "zezibuso"
+    },
+    {
+      "surface": "הארצות",
+      "gloss": "zemihlaba"
+    }
+  ],
+  "timestamp": "2026-09-18T17:05:28.651913355Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 26:9",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 26,
+  "translation": "Uza kudibanisa ⟨את⟩ iindawo zokhuselo ezintlanu zodwa, kananjalo ⟨את⟩ ezesithandathu zodwa; uza kuphinda-phinda indawo yokhuselo yesithandathu phambi komphezulu wetenti.",
+  "tokens": [
+    {
+      "surface": "וחברת",
+      "gloss": "uza kudibanisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iindawo zokhuselo ezintlanu"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "ezintlanu"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "iindawo zokhuselo"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "zodwa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kananjalo ⟨את⟩",
+      "marks": "ezesithandathu"
+    },
+    {
+      "surface": "שש",
+      "gloss": "ezesithandathu"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "iindawo zokhuselo"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "zodwa"
+    },
+    {
+      "surface": "וכפלת",
+      "gloss": "uza kuphinda-phinda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "indawo yokhuselo yesithandathu"
+    },
+    {
+      "surface": "היריעה",
+      "gloss": "indawo yokhuselo"
+    },
+    {
+      "surface": "הששית",
+      "gloss": "yesithandathu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwi"
+    },
+    {
+      "surface": "מול",
+      "gloss": "phambi kwe"
+    },
+    {
+      "surface": "פני",
+      "gloss": "umpezulu"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "wetenti"
+    }
+  ],
+  "timestamp": "2026-09-18T06:12:13.319926142Z",
+  "model": "glm-5.3"
+}

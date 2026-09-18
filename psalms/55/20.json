@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 55:20",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 55,
+  "translation": "U-El uza kuva, abaphendule, lowo uhlala kusukela ngamandulo. Selah. Abangenamatshintsho, bangoyiki uElohim.",
+  "tokens": [
+    {
+      "surface": "ישמע",
+      "gloss": "uza kuva"
+    },
+    {
+      "surface": "אל",
+      "gloss": "U-El"
+    },
+    {
+      "surface": "ויענם",
+      "gloss": "abaphendule"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "lowo uhlala"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "kusukela ngamandulo"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨abangenamatshintsho⟩"
+    },
+    {
+      "surface": "אין",
+      "gloss": "angenazo"
+    },
+    {
+      "surface": "חליפות",
+      "gloss": "amatshintsho"
+    },
+    {
+      "surface": "למו",
+      "gloss": "kubo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "banga"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "oyiki"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "uElohim"
+    }
+  ],
+  "timestamp": "2026-09-18T14:51:20.445592881Z",
+  "model": "glm-5.3"
+}

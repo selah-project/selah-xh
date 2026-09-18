@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 25:3",
+  "book": "2-chronicles",
+  "lang": "xh",
+  "chapter": 25,
+  "translation": "Kwathi sakho konke ubukumkani bubuthweswe kuye, wabulala ⟨את⟩ iinkonzi zakhe eza zabulala ⟨את⟩ inkosi uyise.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "kwathi"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sakho"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "sakho konke"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "ubukumkani"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "kuye"
+    },
+    {
+      "surface": "ויהרג",
+      "gloss": "wabulala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iinkonzi zakhe"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "iinkonzi zakhe"
+    },
+    {
+      "surface": "המכים",
+      "gloss": "eza zabulala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "inkosi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "inkosi"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "uyise"
+    }
+  ],
+  "timestamp": "2026-09-18T17:12:37.467647115Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 13:14",
+  "book": "1-chronicles",
+  "lang": "xh",
+  "chapter": 13,
+  "translation": "Iareki kaElohim yahlala nendlu kaObedi-Edomi endlwini yakhe iinyanga ezintathu; uYahwe wabusisa ⟨את⟩ indlu kaObedi-Edomi ⟨ואת⟩ konke okwayakhe.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "yahlala"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "iareki"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "kaElohim"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ne-"
+    },
+    {
+      "surface": "בית",
+      "gloss": "endlu"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "kaObedi-"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Edomi"
+    },
+    {
+      "surface": "בביתו",
+      "gloss": "endlwini yakhe"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "ezintathu"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "iinyanga"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "wabusisa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "indlu kaObedi-Edomi"
+    },
+    {
+      "surface": "בית",
+      "gloss": "indlu"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "kaObedi-"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Edomi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨ואת⟩",
+      "marks": "konke okwayakhe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "konke"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oko"
+    },
+    {
+      "surface": "לו",
+      "gloss": "-akhe"
+    }
+  ],
+  "timestamp": "2026-09-18T16:55:06.308209562Z",
+  "model": "glm-5.3"
+}

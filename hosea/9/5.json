@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 9:5",
+  "book": "hosea",
+  "lang": "xh",
+  "chapter": 9,
+  "translation": "Niya kwenza ntoni ngomhla oqikelelweyo, nangomhla wesika lukaYahwe?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "ntoni"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "niya kwenza"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "ngomhla"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "oqikelelweyo"
+    },
+    {
+      "surface": "וליום",
+      "gloss": "nangomhla"
+    },
+    {
+      "surface": "חג",
+      "gloss": "wesika"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "lukaYahwe"
+    }
+  ],
+  "timestamp": "2026-09-18T17:42:17.126845094Z",
+  "model": "glm-5.3"
+}

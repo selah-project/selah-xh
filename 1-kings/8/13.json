@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-kings 8:13",
+  "book": "1-kings",
+  "lang": "xh",
+  "chapter": 8,
+  "translation": "Ngokwenene ndawakha indlu yokuhlala kuwe, indawo esisigxina sokuhlala kwakho kuixesha elingapheliyo.",
+  "tokens": [
+    {
+      "surface": "בנה",
+      "gloss": "ngokwenene"
+    },
+    {
+      "surface": "בניתי",
+      "gloss": "ndawakha"
+    },
+    {
+      "surface": "בית",
+      "gloss": "indlu"
+    },
+    {
+      "surface": "זבל",
+      "gloss": "yokuhlala"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kuwe"
+    },
+    {
+      "surface": "מכון",
+      "gloss": "indawo esisigxina"
+    },
+    {
+      "surface": "לשבתך",
+      "gloss": "sokuhlala kwakho"
+    },
+    {
+      "surface": "עולמים",
+      "gloss": "kuixesha elingapheliyo"
+    }
+  ],
+  "timestamp": "2026-09-18T10:20:32.128621992Z",
+  "model": "glm-5.3"
+}

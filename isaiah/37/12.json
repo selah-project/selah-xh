@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 37:12",
+  "book": "isaiah",
+  "lang": "xh",
+  "chapter": 37,
+  "translation": "Ngaba oothixo besizwe abo ababamkhuselanga, abo abatshabalalisayo ooyise bam, — ⟨את⟩ iGowzani, ⟨את⟩ neHarani, neRetsef, nabantwana be-Edeni, ababekwiTelashari?",
+  "tokens": [
+    {
+      "surface": "ההצילו",
+      "gloss": "ngaba abamkhuselanga"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "oothixo besizwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "oothixo"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "besizwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "abo"
+    },
+    {
+      "surface": "השחיתו",
+      "gloss": "abatshabalalisayo"
+    },
+    {
+      "surface": "אבותי",
+      "gloss": "ooyise bam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iGowzani"
+    },
+    {
+      "surface": "גוזן",
+      "gloss": "iGowzani"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ ne-",
+      "marks": "iHarani"
+    },
+    {
+      "surface": "חרן",
+      "gloss": "iHarani"
+    },
+    {
+      "surface": "ורצף",
+      "gloss": "neRetsef"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "nabantwana"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "be-Edeni"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "abo"
+    },
+    {
+      "surface": "בתלשר",
+      "gloss": "ababekwiTelashari"
+    }
+  ],
+  "timestamp": "2026-09-18T11:26:06.967026649Z",
+  "model": "glm-5.3"
+}

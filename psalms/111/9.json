@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 111:9",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 111,
+  "translation": "Iintsindiso wazithumela kubantu bakhe; wamisele umnqophiso wakhe kuze kube phakade; ingcwele linamelayo igama lakhe.",
+  "tokens": [
+    {
+      "surface": "פדות",
+      "gloss": "iintsindiso"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "wazithumela"
+    },
+    {
+      "surface": "לעמו",
+      "gloss": "kubantu bakhe"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "wamisele"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "kuze kube phakade"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "umnqophiso wakhe"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "ingcwele"
+    },
+    {
+      "surface": "ונורא",
+      "gloss": "linamelayo"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "igama lakhe"
+    }
+  ],
+  "timestamp": "2026-09-18T17:45:34.748840187Z",
+  "model": "glm-5.3"
+}

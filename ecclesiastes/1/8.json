@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 1:8",
+  "book": "ecclesiastes",
+  "lang": "xh",
+  "chapter": 1,
+  "translation": "Zonke iindaba zidinile; umntu akakwazi ukuzichaza; iliso alikhohlwa ukubona, indlebe ayizalisi ngokuva.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "zonke"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "iindaba"
+    },
+    {
+      "surface": "יגעים",
+      "gloss": "zidinile"
+    },
+    {
+      "surface": "לא",
+      "gloss": "aka-"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "-kwazi"
+    },
+    {
+      "surface": "איש",
+      "gloss": "umntu"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "ukuzichaza"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ali-"
+    },
+    {
+      "surface": "תשבע",
+      "gloss": "-khohlwa"
+    },
+    {
+      "surface": "עין",
+      "gloss": "iliso"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "ukubona"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ayi-"
+    },
+    {
+      "surface": "תמלא",
+      "gloss": "-zalisi"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "indlebe"
+    },
+    {
+      "surface": "משמע",
+      "gloss": "ngokuva"
+    }
+  ],
+  "timestamp": "2026-09-18T17:49:05.784623224Z",
+  "model": "glm-5.3"
+}

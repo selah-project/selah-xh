@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 3:10",
+  "book": "joshua",
+  "lang": "xh",
+  "chapter": 3,
+  "translation": "Wathi uYehoshuwa: Ngesi niya kwazi ukuba u-El ophilileyo ulowo usephakathi kwenu, yaye uza kubazalisa ngokwenene phambi kwenu ⟨את⟩ iKhanani, ⟨ואת⟩ iHithi, ⟨ואת⟩ iHivi, ⟨ואת⟩ iPerizi, ⟨ואת⟩ iGirgashi, noMori noYebusi.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "uYehoshuwa"
+    },
+    {
+      "surface": "בזאת",
+      "gloss": "ngesi"
+    },
+    {
+      "surface": "תדעון",
+      "gloss": "niya kwazi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ukuba"
+    },
+    {
+      "surface": "אל",
+      "gloss": "u-El"
+    },
+    {
+      "surface": "חי",
+      "gloss": "ophilileyo"
+    },
+    {
+      "surface": "בקרבכם",
+      "gloss": "usephakathi kwenu"
+    },
+    {
+      "surface": "והורש",
+      "gloss": "yaye uza kubazalisa"
+    },
+    {
+      "surface": "יוריש",
+      "gloss": "ngokwenene"
+    },
+    {
+      "surface": "מפניכם",
+      "gloss": "phambi kwenu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iKhanani"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "iKhanani"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "iHithi"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "iHithi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "iHivi"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "iHivi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "iPerizi"
+    },
+    {
+      "surface": "הפרזי",
+      "gloss": "iPerizi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "iGirgashi"
+    },
+    {
+      "surface": "הגרגשי",
+      "gloss": "iGirgashi"
+    },
+    {
+      "surface": "והאמרי",
+      "gloss": "noMori"
+    },
+    {
+      "surface": "והיבוסי",
+      "gloss": "noYebusi"
+    }
+  ],
+  "timestamp": "2026-09-18T08:28:06.132745348Z",
+  "model": "glm-5.3"
+}

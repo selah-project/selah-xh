@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-samuel 14:30",
+  "book": "1-samuel",
+  "lang": "xh",
+  "chapter": 14,
+  "translation": "Kutheni nangaphezulu ukuba abantu babetya namhlanje isiny’ tyotyombo sezitha zabo ababufumanaayo — kuba ngoku ibe leyona makha inkulu ayibanga kumva kwiFilisthayim?”",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "kutheni nangaphezulu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ukuba"
+    },
+    {
+      "surface": "לוא",
+      "gloss": "ukuba (ukulangazelela)"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "babetya"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "babetya ngokupheleleyo"
+    },
+    {
+      "surface": "היום",
+      "gloss": "namhlanje"
+    },
+    {
+      "surface": "העם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "משלל",
+      "gloss": "isiny’ tyotyombo"
+    },
+    {
+      "surface": "איביו",
+      "gloss": "sezitha zabo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aba-"
+    },
+    {
+      "surface": "מצא",
+      "gloss": "bafumanaayo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "ngoku"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ibe"
+    },
+    {
+      "surface": "רבתה",
+      "gloss": "inkulu"
+    },
+    {
+      "surface": "מכה",
+      "gloss": "leyona makha"
+    },
+    {
+      "surface": "בפלשתים",
+      "gloss": "kwiFilisthayim"
+    }
+  ],
+  "timestamp": "2026-09-18T09:25:57.278658010Z",
+  "model": "glm-5.3"
+}

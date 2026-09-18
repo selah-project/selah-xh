@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 65:7",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 65,
+  "translation": "Umisela iintaba ngamandla akhe, uzibophele ngamandla amakhulu.",
+  "tokens": [
+    {
+      "surface": "מכין",
+      "gloss": "umisela"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "iintaba"
+    },
+    {
+      "surface": "בכחו",
+      "gloss": "ngamandla akhe"
+    },
+    {
+      "surface": "נאזר",
+      "gloss": "uzibophele"
+    },
+    {
+      "surface": "בגבורה",
+      "gloss": "ngamandla amakhulu"
+    }
+  ],
+  "timestamp": "2026-09-18T14:55:21.156644327Z",
+  "model": "glm-5.3"
+}

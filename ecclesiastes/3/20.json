@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ecclesiastes 3:20",
+  "book": "ecclesiastes",
+  "lang": "xh",
+  "chapter": 3,
+  "translation": "Konke kuya kwindawo enye; konke kwakuthi kusuka ethweni, konke buya kutho.",
+  "tokens": [
+    {
+      "surface": "הכל",
+      "gloss": "konke"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "kuya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwi-"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "ndawo"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "enye"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "konke"
+    },
+    {
+      "surface": "היה",
+      "gloss": "kwakuthi"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kusuka"
+    },
+    {
+      "surface": "העפר",
+      "gloss": "ethweni"
+    },
+    {
+      "surface": "והכל",
+      "gloss": "konke"
+    },
+    {
+      "surface": "שב",
+      "gloss": "buya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "העפר",
+      "gloss": "tho"
+    }
+  ],
+  "timestamp": "2026-09-18T16:24:24.540685532Z",
+  "model": "glm-5.3"
+}

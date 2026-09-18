@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 67:1",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 67,
+  "translation": "Kumlawuli, ngezintsimbi zomculo. Umdumiso, ingle.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Kumlawuli"
+    },
+    {
+      "surface": "בנגינת",
+      "gloss": "ngezintsimbi zomculo"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "Umdumiso"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "ingle"
+    }
+  ],
+  "timestamp": "2026-09-18T14:54:42.419357036Z",
+  "model": "glm-5.3"
+}

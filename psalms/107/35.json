@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 107:35",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 107,
+  "translation": "Wenza intlanga ibe yichibi lamanzi, nomhlaba omomvaleleyo abe neentsiba zamanzi.",
+  "tokens": [
+    {
+      "surface": "ישם",
+      "gloss": "Wenza"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "intlanga"
+    },
+    {
+      "surface": "לאגם",
+      "gloss": "ibe yichibi"
+    },
+    {
+      "surface": "מים",
+      "gloss": "lamanzi"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "nomhlaba"
+    },
+    {
+      "surface": "ציה",
+      "gloss": "omomvaleleyo"
+    },
+    {
+      "surface": "למצאי",
+      "gloss": "abe neentsiba"
+    },
+    {
+      "surface": "מים",
+      "gloss": "zamanzi"
+    }
+  ],
+  "timestamp": "2026-09-18T15:19:16.517616957Z",
+  "model": "glm-5.3"
+}

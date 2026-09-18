@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 3:4",
+  "book": "genesis",
+  "lang": "xh",
+  "chapter": 3,
+  "translation": "Yathi iinyoka kumfazi: “Ningasayi kusafa—kufa nisayi kufa;”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Yathi"
+    },
+    {
+      "surface": "הנחש",
+      "gloss": "iinyoka"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "umfazi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Ningasayi"
+    },
+    {
+      "surface": "מות",
+      "gloss": "kufa"
+    },
+    {
+      "surface": "תמתון",
+      "gloss": "nisayi kufa"
+    }
+  ],
+  "timestamp": "2026-09-18T05:08:14.515372066Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 46:10",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 46,
+  "translation": "Uyamisa iimfazwe ukuya ekupheleni komhlaba; uyatyabula iwaka, wasika umkhonto, iinqwelo zemfazwe uzitshisa ngomlilo.",
+  "tokens": [
+    {
+      "surface": "משבית",
+      "gloss": "Uyamisa"
+    },
+    {
+      "surface": "מלחמות",
+      "gloss": "iimfazwe"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ukuya"
+    },
+    {
+      "surface": "קצה",
+      "gloss": "ekupheleni"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "komhlaba"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "iwaka"
+    },
+    {
+      "surface": "ישבר",
+      "gloss": "uyatyabula"
+    },
+    {
+      "surface": "וקצץ",
+      "gloss": "wasika"
+    },
+    {
+      "surface": "חנית",
+      "gloss": "umkhonto"
+    },
+    {
+      "surface": "עגלות",
+      "gloss": "iinqwelo zemfazwe"
+    },
+    {
+      "surface": "ישרף",
+      "gloss": "uzitshisa"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ngomlilo"
+    }
+  ],
+  "timestamp": "2026-09-18T14:46:42.654368978Z",
+  "model": "glm-5.3"
+}

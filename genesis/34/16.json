@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 34:16",
+  "book": "genesis",
+  "lang": "xh",
+  "chapter": 34,
+  "translation": "Siza kuninika ⟨את⟩ iintombi zethu, kwaye ⟨ואת⟩ iintombi zenu siza kuzithabathela thina, sihlale nani, sibe sisizwe esinye.",
+  "tokens": [
+    {
+      "surface": "ונתנו",
+      "gloss": "siza kuninika"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iintombi zethu"
+    },
+    {
+      "surface": "בנתינו",
+      "gloss": "iintombi zethu"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "nina"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨ואת⟩",
+      "marks": "iintombi zenu"
+    },
+    {
+      "surface": "בנתיכם",
+      "gloss": "iintombi zenu"
+    },
+    {
+      "surface": "נקח",
+      "gloss": "siza kuzithabathela"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "thina"
+    },
+    {
+      "surface": "וישבנו",
+      "gloss": "sihlale"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ nani"
+    },
+    {
+      "surface": "והיינו",
+      "gloss": "sibe"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "sisizwe"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "esinye"
+    }
+  ],
+  "timestamp": "2026-09-18T05:33:25.399854492Z",
+  "model": "glm-5.3"
+}

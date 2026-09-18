@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "exodus 12:33",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 12,
+  "translation": "IseMitsrayim yanyanzeza ulwandle <uluntu> ukuze ikhawuleze ukubashiyela kwindawo <elwazweni>, kuba bethi bona: “Sonke sifile.”",
+  "tokens": [
+    {
+      "surface": "ותחזק",
+      "gloss": "yanyanzeza"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "IseMitsrayim"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "uluntu"
+    },
+    {
+      "surface": "למהר",
+      "gloss": "ukuzikhawulezisa"
+    },
+    {
+      "surface": "לשלחם",
+      "gloss": "ukubashiyela"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kwi-"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "elwazweni"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "bethi"
+    },
+    {
+      "surface": "כלנו",
+      "gloss": "sonke"
+    },
+    {
+      "surface": "מתים",
+      "gloss": "sifile"
+    }
+  ],
+  "timestamp": "2026-09-18T06:00:39.537293483Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "2-kings 18:33",
+  "book": "2-kings",
+  "lang": "xh",
+  "chapter": 18,
+  "translation": "Ngaba oothixo bezizwe, ngamnye wabo, basindisa ⟨את⟩ ilizwe lakhe esandleni sekumkani waseAshuri?",
+  "tokens": [
+    {
+      "surface": "ההצל",
+      "gloss": "ngaba basindisa"
+    },
+    {
+      "surface": "הצילו",
+      "gloss": "basindisa"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "oothixo"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "bezizwe"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ngamnye wabo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ilizwe lakhe"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "ilizwe lakhe"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "esandleni"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "sekumkani"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "waseAshuri"
+    }
+  ],
+  "timestamp": "2026-09-18T10:52:22.498653Z",
+  "model": "glm-5.3"
+}

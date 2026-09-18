@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 106:42",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 106,
+  "translation": "Izitha zabo zaquzulula, kwaye zacothelwa phantsi kwezandla zawo.",
+  "tokens": [
+    {
+      "surface": "וילחצום",
+      "gloss": "zaquzulula"
+    },
+    {
+      "surface": "אויביהם",
+      "gloss": "Izitha zabo"
+    },
+    {
+      "surface": "ויכנעו",
+      "gloss": "zacothelwa"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "phantsi"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "kwezandla zawo"
+    }
+  ],
+  "timestamp": "2026-09-18T15:16:54.792691710Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 132:12",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 132,
+  "translation": "Ukuba oonyana bakho bayigcina umnqophiso wam neziqiniseko zam e ndibafundisa ngazo, oonyana babo naabo, kuze kube phakade nangaphezu kwaphakade, baza kuhlala esidlweni sakho.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Ukuba"
+    },
+    {
+      "surface": "ישמרו",
+      "gloss": "bayigcina"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "oonyana bakho"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "umnqophiso wam"
+    },
+    {
+      "surface": "ועדתי",
+      "gloss": "neziqiniseko zam"
+    },
+    {
+      "surface": "זו",
+      "gloss": "le"
+    },
+    {
+      "surface": "אלמדם",
+      "gloss": "ndibafundisa"
+    },
+    {
+      "surface": "גם",
+      "gloss": "naabo"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "oonyana babo"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "kuze kube phakade"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nangaphezu kwaphakade"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "baza kuhlala"
+    },
+    {
+      "surface": "לכסא",
+      "gloss": "esidlweni"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sakho"
+    }
+  ],
+  "timestamp": "2026-09-18T15:27:30.821970122Z",
+  "model": "glm-5.3"
+}

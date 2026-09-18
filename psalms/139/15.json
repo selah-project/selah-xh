@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 139:15",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 139,
+  "translation": "Iingcangu zam azifihlekanga kuwe, apho ndenziwa ngokufihlakeleyo, ndaqambwa ngeendlela ezizantsi komhlaba.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "azanga"
+    },
+    {
+      "surface": "נכחד",
+      "gloss": "azifihlekanga"
+    },
+    {
+      "surface": "עצמי",
+      "gloss": "iingcangu zam"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "kuwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "apho"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "ndenziwa"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "ngokufihlakeleyo"
+    },
+    {
+      "surface": "רקמתי",
+      "gloss": "ndaqambwa"
+    },
+    {
+      "surface": "בתחתיות",
+      "gloss": "ezizantsi"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "komhlaba"
+    }
+  ],
+  "timestamp": "2026-09-18T15:31:30.045743672Z",
+  "model": "glm-5.3"
+}

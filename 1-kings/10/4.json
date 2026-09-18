@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 10:4",
+  "book": "1-kings",
+  "lang": "xh",
+  "chapter": 10,
+  "translation": "Inkosikazi yaseSheba yabona ⟨את⟩ ubulumko bonke bukaShelomo, nendlu awayeyakha.",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "yabona"
+    },
+    {
+      "surface": "מלכת",
+      "gloss": "inkosikazi"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "yaseSheba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ubulumko bonke bukaShelomo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bonke"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "ubulumko"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "bukaShelomo"
+    },
+    {
+      "surface": "והבית",
+      "gloss": "nendlu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "awayeyakha"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "yakha"
+    }
+  ],
+  "timestamp": "2026-09-18T10:21:20.397525607Z",
+  "model": "glm-5.3"
+}

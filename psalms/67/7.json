@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 67:7",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 67,
+  "translation": "Umhlaba wazinikela umvunelo wawo; uElohim, uElohim wethu, usibulala ngobulungisa.",
+  "tokens": [
+    {
+      "surface": "ארץ",
+      "gloss": "umhlaba"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "wazinikela"
+    },
+    {
+      "surface": "יבולה",
+      "gloss": "umvunelo wawo"
+    },
+    {
+      "surface": "יברכנו",
+      "gloss": "usibulala ngobulungisa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "uElohim wethu"
+    }
+  ],
+  "timestamp": "2026-09-18T14:54:12.500778653Z",
+  "model": "glm-5.3"
+}

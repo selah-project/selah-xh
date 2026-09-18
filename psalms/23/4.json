@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 23:4",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 23,
+  "translation": "Nokuba ndihamba embonjeni wesithuba sokufa, andoyiki okubi, kuba wena ulo ndikuwe; intonga yakho nento yakho yokusekela—zona ziyandithuthuzela.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "na"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ukuba"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "ndihamba"
+    },
+    {
+      "surface": "בגיא",
+      "gloss": "embonjeni"
+    },
+    {
+      "surface": "צלמות",
+      "gloss": "wesithuba sokufa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "andi"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "ndoyiki"
+    },
+    {
+      "surface": "רע",
+      "gloss": "okubi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "ulo ndikuwe"
+    },
+    {
+      "surface": "שבטך",
+      "gloss": "intonga yakho"
+    },
+    {
+      "surface": "ומשענתך",
+      "gloss": "nento yakho yokusekela"
+    },
+    {
+      "surface": "המה",
+      "gloss": "zona"
+    },
+    {
+      "surface": "ינחמני",
+      "gloss": "ziyandithuthuzela"
+    }
+  ],
+  "timestamp": "2026-09-18T14:35:59.450507237Z",
+  "model": "glm-5.3"
+}

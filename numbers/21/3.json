@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 21:3",
+  "book": "numbers",
+  "lang": "xh",
+  "chapter": 21,
+  "translation": "U Yahwe weeva ilizwi leYisrayeli, wanika ⟨את⟩ iKhanani; wayitshatyalalisa ⟨את⟩ bona n⟨את⟩ iidolophu zazo; wagqiba igama leendawo eseleyo liye lithiye yiKhomah.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "weeva"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "ilizwi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "leYisrayeli"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "wanika"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iKhanani"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "iKhanani"
+    },
+    {
+      "surface": "ויחרם",
+      "gloss": "wayitshatyalalisa"
+    },
+    {
+      "surface": "אתהם",
+      "gloss": "⟨את⟩",
+      "marks": "bona"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "n⟨את⟩",
+      "marks": "iidolophu zazo"
+    },
+    {
+      "surface": "עריהם",
+      "gloss": "iidolophu zazo"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "wagqiba igama"
+    },
+    {
+      "surface": "שם",
+      "gloss": "igama"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "leendawo"
+    },
+    {
+      "surface": "חרמה",
+      "gloss": "iKhomah"
+    }
+  ],
+  "timestamp": "2026-09-18T07:32:42.701839179Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 25:4",
+  "book": "deuteronomy",
+  "lang": "xh",
+  "chapter": 25,
+  "translation": "Musa ukuthintela inkunzi umlomo ibetha umbona wayo.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "musa"
+    },
+    {
+      "surface": "תחסם",
+      "gloss": "ukuthintela umlomo"
+    },
+    {
+      "surface": "שור",
+      "gloss": "inkunzi"
+    },
+    {
+      "surface": "בדישו",
+      "gloss": "ibetha umbona wayo"
+    }
+  ],
+  "timestamp": "2026-09-18T08:17:20.469996792Z",
+  "model": "glm-5.3"
+}

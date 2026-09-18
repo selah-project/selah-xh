@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 102:22",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 102,
+  "translation": "Ukubhengeza eTsiyoni iGama likaYahwe, nedumisa lakhe eYerushalayimi;",
+  "tokens": [
+    {
+      "surface": "לספר",
+      "gloss": "ukubhengeza"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "eTsiyoni"
+    },
+    {
+      "surface": "שם",
+      "gloss": "iGama"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "likaYahwe"
+    },
+    {
+      "surface": "ותהלתו",
+      "gloss": "nedumisa lakhe"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "eYerushalayimi"
+    }
+  ],
+  "timestamp": "2026-09-18T17:44:33.258952540Z",
+  "model": "glm-5.3"
+}

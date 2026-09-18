@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 136:11",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 136,
+  "translation": "Wakhupha uYisraele phakathi kwabo, kuba ikhesedi yakhe ihlala ingunaphakade.",
+  "tokens": [
+    {
+      "surface": "ויוצא",
+      "gloss": "Wakhupha"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "uYisraele"
+    },
+    {
+      "surface": "מתוכם",
+      "gloss": "phakathi kwabo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ihlala ingunaphakade"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ikhesedi yakhe"
+    }
+  ],
+  "timestamp": "2026-09-18T15:30:00.585623972Z",
+  "model": "glm-5.3"
+}

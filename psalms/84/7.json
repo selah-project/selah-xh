@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 84:7",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 84,
+  "translation": "Abadlula <kwi>valle iBaka bayenza isiphuzo; kananjalo imvula yokuqala iyayigubungela iintsikelelo.",
+  "tokens": [
+    {
+      "surface": "עברי",
+      "gloss": "abadlula"
+    },
+    {
+      "surface": "בעמק",
+      "gloss": "emthonyameni"
+    },
+    {
+      "surface": "הבכא",
+      "gloss": "iBaka"
+    },
+    {
+      "surface": "מעין",
+      "gloss": "isiphuzo"
+    },
+    {
+      "surface": "ישיתוהו",
+      "gloss": "bayenza (yona)"
+    },
+    {
+      "surface": "גם",
+      "gloss": "kananjalo"
+    },
+    {
+      "surface": "ברכות",
+      "gloss": "iintsikelelo"
+    },
+    {
+      "surface": "יעטה",
+      "gloss": "iyayigubungela"
+    },
+    {
+      "surface": "מורה",
+      "gloss": "imvula yokuqala"
+    }
+  ],
+  "timestamp": "2026-09-18T15:08:59.851375224Z",
+  "model": "glm-5.3"
+}

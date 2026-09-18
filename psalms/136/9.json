@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 136:9",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 136,
+  "translation": "⟨את⟩ inyanga neenkwenkwezi ukulawula ebusuku, kuba ikhesedi yakhe ihlala ingunaphakade.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "inyanga"
+    },
+    {
+      "surface": "הירח",
+      "gloss": "inyanga"
+    },
+    {
+      "surface": "וכוכבים",
+      "gloss": "neenkwenkwezi"
+    },
+    {
+      "surface": "לממשלות",
+      "gloss": "ukulawula"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "ebusuku"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ihlala ingunaphakade"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ikhesedi yakhe"
+    }
+  ],
+  "timestamp": "2026-09-18T15:30:00.585170665Z",
+  "model": "glm-5.3"
+}

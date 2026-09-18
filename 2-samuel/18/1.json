@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 18:1",
+  "book": "2-samuel",
+  "lang": "xh",
+  "chapter": 18,
+  "translation": "UDawidi wabalisa ⟨את⟩ abantu abakunye naye, wabeka phezu kwabo iintloko zamawaka neentloko zamakhulu.",
+  "tokens": [
+    {
+      "surface": "ויפקד",
+      "gloss": "wabalisa"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "uDawidi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abantu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "abo"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ kunye naye"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "wabeka"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "phezu kwabo"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "iintloko zama-"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "waka"
+    },
+    {
+      "surface": "ושרי",
+      "gloss": "neentloko zama-"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "amakhulu"
+    }
+  ],
+  "timestamp": "2026-09-18T09:59:28.276955162Z",
+  "model": "glm-5.3"
+}

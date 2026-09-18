@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 8:15",
+  "book": "2-kings",
+  "lang": "xh",
+  "chapter": 8,
+  "translation": "Kwenzekile ngomuso, wathabatha ingubo ecinileyo, wayicebisa emanzini, wayisasaza phezu kobuso bakhe, wafa; wabusa uChazael endaweni yakhe.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "kwenzekile"
+    },
+    {
+      "surface": "ממחרת",
+      "gloss": "ngomuso"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "wathabatha"
+    },
+    {
+      "surface": "המכבר",
+      "gloss": "ingubo ecinileyo"
+    },
+    {
+      "surface": "ויטבל",
+      "gloss": "wayicebisa"
+    },
+    {
+      "surface": "במים",
+      "gloss": "emanzini"
+    },
+    {
+      "surface": "ויפרש",
+      "gloss": "wayisasaza"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu kwe-"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "buso bakhe"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "wafa"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "wabusa"
+    },
+    {
+      "surface": "חזהאל",
+      "gloss": "uChazael"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "endaweni yakhe"
+    }
+  ],
+  "timestamp": "2026-09-18T10:45:13.671154544Z",
+  "model": "glm-5.3"
+}

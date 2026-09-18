@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 94:2",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 94,
+  "translation": "Nyukela phezulu, wena igqwetha lomhlaba; buyisela umvuzo phezu kwabazikhukhumezayo.",
+  "tokens": [
+    {
+      "surface": "הנשא",
+      "gloss": "Nyukela phezulu"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "igqwetha"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lomhlaba"
+    },
+    {
+      "surface": "השב",
+      "gloss": "buyisela"
+    },
+    {
+      "surface": "גמול",
+      "gloss": "umvuzo"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu"
+    },
+    {
+      "surface": "גאים",
+      "gloss": "kwabazikhukhumezayo"
+    }
+  ],
+  "timestamp": "2026-09-18T15:12:10.050578400Z",
+  "model": "glm-5.3"
+}

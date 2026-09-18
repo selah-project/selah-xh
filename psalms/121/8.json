@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 121:8",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 121,
+  "translation": "uYahwe uza kukugcina ekuphumeni kwakho nasekungenyeni kwakho, ukusuka ngoku uze kube phakade.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "ישמר",
+      "gloss": "uza kukugcina"
+    },
+    {
+      "surface": "צאתך",
+      "gloss": "ekuphumeni kwakho"
+    },
+    {
+      "surface": "ובואך",
+      "gloss": "nasekungenyeni kwakho"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "ukusuka ngoku"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "uze"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "kube phakade"
+    }
+  ],
+  "timestamp": "2026-09-18T15:26:27.220352834Z",
+  "model": "glm-5.3"
+}

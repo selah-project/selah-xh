@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 8:5",
+  "book": "1-kings",
+  "lang": "xh",
+  "chapter": 8,
+  "translation": "Inkosi uShelomoh nayo yonke iqela likaSirayeli, abo babekunye naye phambi kwearoni, besibulala imvubu neenkomo, ezingenakubalwa zingabanjwa ngenxa yokuninzi.",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "Inkosi"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "uShelomoh"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "nayo yonke"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "iqela"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "likaSirayeli"
+    },
+    {
+      "surface": "הנועדים",
+      "gloss": "abo babekunye"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "kuye"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ kunye naye",
+      "marks": "yena (uShelomoh)"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "phambi kwe"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "earoni"
+    },
+    {
+      "surface": "מזבחים",
+      "gloss": "besibulala"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "imvubu"
+    },
+    {
+      "surface": "ובקר",
+      "gloss": "neenkomo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ezi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "zingenaku"
+    },
+    {
+      "surface": "יספרו",
+      "gloss": "kubalwa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "zingabanjwa"
+    },
+    {
+      "surface": "ימנו",
+      "gloss": "ngabanjwa"
+    },
+    {
+      "surface": "מרב",
+      "gloss": "ngenxa yokuninzi"
+    }
+  ],
+  "timestamp": "2026-09-18T10:19:02.158570449Z",
+  "model": "glm-5.3"
+}

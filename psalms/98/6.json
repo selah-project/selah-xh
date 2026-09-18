@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 98:6",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 98,
+  "translation": "Ngeentsuma nangolwazi lweshophara, memezeni phambi kwenkosi, uYahwe.",
+  "tokens": [
+    {
+      "surface": "בחצצרות",
+      "gloss": "ngeentsuma"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "nangolwazi"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "lweshophara"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "memezeni"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "phambi kwe"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "inkosi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    }
+  ],
+  "timestamp": "2026-09-18T15:13:32.953349344Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 68:32",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 68,
+  "translation": "Oohloniphekileyo abazizibini baza kufika avela eMitsrayim; iKushi iza kukhawuleza ukolula izandla zayo kuElohim.",
+  "tokens": [
+    {
+      "surface": "יאתיו",
+      "gloss": "baza kufika"
+    },
+    {
+      "surface": "חשמנים",
+      "gloss": "oohloniphekileyo abazizibini"
+    },
+    {
+      "surface": "מני",
+      "gloss": "avela"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "eMitsrayim"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "iKushi"
+    },
+    {
+      "surface": "תריץ",
+      "gloss": "iza kukhawuleza ukolula"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "izandla zayo"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "kuElohim"
+    }
+  ],
+  "timestamp": "2026-09-18T14:58:56.947309217Z",
+  "model": "glm-5.3"
+}

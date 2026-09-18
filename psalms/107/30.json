@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 107:30",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 107,
+  "translation": "Bayavuya kuba aqhubekile ethule, waza wabakhokela kwisikhululo esithandwa ngabo.",
+  "tokens": [
+    {
+      "surface": "וישמחו",
+      "gloss": "bayavuya"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "ישתקו",
+      "gloss": "aqhubekile ethule"
+    },
+    {
+      "surface": "וינחם",
+      "gloss": "wabakhokela"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwi"
+    },
+    {
+      "surface": "מחוז",
+      "gloss": "isikhululo"
+    },
+    {
+      "surface": "חפצם",
+      "gloss": "esithandwa ngabo"
+    }
+  ],
+  "timestamp": "2026-09-18T15:19:16.152068106Z",
+  "model": "glm-5.3"
+}

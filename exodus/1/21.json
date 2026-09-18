@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 1:21",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 1,
+  "translation": "Kwenzekile ekubeni abelusi-babantwabesifazi baboyika uElohim, waba yenza ukuba babe noko kwakhiweyo ⟨ezindlini⟩.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Kwenzekile"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ekubeni"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "baboyika"
+    },
+    {
+      "surface": "המילדת",
+      "gloss": "abelusi-babantwabesifazi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uElohim"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "waba yenza"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ukuba babe noko"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "kwakhiweyo ezindlini"
+    }
+  ],
+  "timestamp": "2026-09-18T05:46:32.705147651Z",
+  "model": "glm-5.3"
+}

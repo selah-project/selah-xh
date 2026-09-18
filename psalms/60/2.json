@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 60:2",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 60,
+  "translation": "Ekulweni kwakhe ⟨את⟩ iAram-Naharayim ⟨את⟩ nangeAram-Tsowbha, wabuya uYowabhi, wasala ⟨את⟩ iEdom esiXekweni somtyafula — amawaka alishumi elinesibini.",
+  "tokens": [
+    {
+      "surface": "בהצותו",
+      "gloss": "Ekulweni kwakhe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iAram"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "iAram"
+    },
+    {
+      "surface": "נהרים",
+      "gloss": "iNaharayim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ nange",
+      "marks": "iAram"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "iAram"
+    },
+    {
+      "surface": "צובה",
+      "gloss": "iTsowbha"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "wabuya"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "uYowabhi"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "wasala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iEdom"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "iEdom"
+    },
+    {
+      "surface": "בגיא",
+      "gloss": "esiXekweni"
+    },
+    {
+      "surface": "מלח",
+      "gloss": "somtyafula"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "alishumi elinesibini (eshiyeni)"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "(-lishumi)"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "amawaka"
+    }
+  ],
+  "timestamp": "2026-09-18T14:53:27.486821051Z",
+  "model": "glm-5.3"
+}

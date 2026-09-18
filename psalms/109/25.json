@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 109:25",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 109,
+  "translation": "Kananjalo mna ndaba sisihazo kubo; bayabona, bayanyikima iintloko zabo.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Kananjalo mna"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "ndaba"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "sisihazo"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kubo"
+    },
+    {
+      "surface": "יראוני",
+      "gloss": "bayabona"
+    },
+    {
+      "surface": "יניעון",
+      "gloss": "bayanyikima"
+    },
+    {
+      "surface": "ראשם",
+      "gloss": "iintloko zabo"
+    }
+  ],
+  "timestamp": "2026-09-18T15:19:33.470357262Z",
+  "model": "glm-5.3"
+}

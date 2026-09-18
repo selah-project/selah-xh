@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 1:1",
+  "book": "2-kings",
+  "lang": "xh",
+  "chapter": 1,
+  "translation": "IMowabhi yatyeshela iYisrayeli emva kokufa kuka-Ahab.",
+  "tokens": [
+    {
+      "surface": "ויפשע",
+      "gloss": "yatyeshela"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "IMowabhi"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "iYisrayeli"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "emva koku-"
+    },
+    {
+      "surface": "מות",
+      "gloss": "kufa"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "kuka-Ahab"
+    }
+  ],
+  "timestamp": "2026-09-18T10:38:32.416211598Z",
+  "model": "glm-5.3"
+}

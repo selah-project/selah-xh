@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "judges 1:10",
+  "book": "judges",
+  "lang": "xh",
+  "chapter": 1,
+  "translation": "U-Yuda wasuka waya kwiKhanani oohlala eKhebroni — igama leKhebroni kwakungokuqala linguKiriyathi-Arba — wabetha ⟨את⟩ uSheshayi no⟨את⟩ uAkhiman no⟨את⟩ uThalmayi.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "wasuka waya"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "uYuda"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwi"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "Khanani"
+    },
+    {
+      "surface": "היושב",
+      "gloss": "oohlala"
+    },
+    {
+      "surface": "בחברון",
+      "gloss": "eKhebroni"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "igama"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "leKhebroni"
+    },
+    {
+      "surface": "לפנים",
+      "gloss": "kwakungokuqala"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "Kiriyathi"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "Arba"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "wabetha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uSheshayi"
+    },
+    {
+      "surface": "ששי",
+      "gloss": "uSheshayi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "no⟨את⟩",
+      "marks": "uAkhiman"
+    },
+    {
+      "surface": "אחימן",
+      "gloss": "uAkhiman"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "no⟨את⟩",
+      "marks": "uThalmayi"
+    },
+    {
+      "surface": "תלמי",
+      "gloss": "uThalmayi"
+    }
+  ],
+  "timestamp": "2026-09-18T08:47:20.625891753Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 110:4",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 110,
+  "translation": "UYahwe wafunga, akazukuzisola: “Wena ungumpristi kuhonikele, ngokwe-dibrati kaMalki-Tsedeki.”",
+  "tokens": [
+    {
+      "surface": "נשבע",
+      "gloss": "wafunga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "akazukuzisola"
+    },
+    {
+      "surface": "ינחם",
+      "gloss": "⟨uzisola⟩"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Wena"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "ungumpristi"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "kuhonikele"
+    },
+    {
+      "surface": "על",
+      "gloss": "ngokwe-"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "dibrati"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "uMalki-"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "Tsedeki"
+    }
+  ],
+  "timestamp": "2026-09-18T15:21:37.784203329Z",
+  "model": "glm-5.3"
+}

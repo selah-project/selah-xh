@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 89:3",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 89,
+  "translation": "Kuba ndithethe okuthi: kuze kube phakade kuzakwakhiwa ikhesedi; ‏幸鹖 mazulu uza kuzinze ngokuthembeka kwakho kuzo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "ndithethe"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "kuze kube phakade"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "ikhesedi"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "kuzakwakhiwa"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "amazulu"
+    },
+    {
+      "surface": "תכן",
+      "gloss": "uza kuzinze"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "ngokuthembeka kwakho"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "kuzo"
+    }
+  ],
+  "timestamp": "2026-09-18T15:08:04.438853335Z",
+  "model": "glm-5.3"
+}

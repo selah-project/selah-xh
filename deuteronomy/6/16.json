@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 6:16",
+  "book": "deuteronomy",
+  "lang": "xh",
+  "chapter": 6,
+  "translation": "Musani ukuvavanya ⟨את⟩ uYahwe uElohim wenu, njengoko namvavanya eMmasa.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "hayi"
+    },
+    {
+      "surface": "תנסו",
+      "gloss": "musani ukuvavanya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uYahwe uElohim wenu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "uElohim wenu"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "njengoko"
+    },
+    {
+      "surface": "נסיתם",
+      "gloss": "namvavanya"
+    },
+    {
+      "surface": "במסה",
+      "gloss": "eMmasa"
+    }
+  ],
+  "timestamp": "2026-09-18T07:58:11.871972879Z",
+  "model": "glm-5.3"
+}

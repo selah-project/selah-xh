@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 13:3",
+  "book": "isaiah",
+  "lang": "xh",
+  "chapter": 13,
+  "translation": "Mna ndayalele abangcwele bam, ndibizela kwakhona amabutho am aqhotsulayo ekukrofoleni kwam, abajabulayo ngodumo lwam.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Mna"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "ndayalele"
+    },
+    {
+      "surface": "למקדשי",
+      "gloss": "abangcwele bam"
+    },
+    {
+      "surface": "גם",
+      "gloss": "kwakhona"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "ndibizela"
+    },
+    {
+      "surface": "גבורי",
+      "gloss": "amabutho am aqhotsulayo"
+    },
+    {
+      "surface": "לאפי",
+      "gloss": "ekukrofoleni kwam"
+    },
+    {
+      "surface": "עליזי",
+      "gloss": "abajabulayo"
+    },
+    {
+      "surface": "גאותי",
+      "gloss": "ngodumo lwam"
+    }
+  ],
+  "timestamp": "2026-09-18T11:12:41.649939353Z",
+  "model": "glm-5.3"
+}

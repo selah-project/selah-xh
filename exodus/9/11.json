@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 9:11",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 9,
+  "translation": "Abathakathi abanakanga ukuma phambi koMoshe ngenxa yeenkotha, kuba iinkotha zazikho kubathakathi nakuzo onke iMitsrayim.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "anganakanga"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "abanakanga ukuma"
+    },
+    {
+      "surface": "החרטמים",
+      "gloss": "abathakathi"
+    },
+    {
+      "surface": "לעמד",
+      "gloss": "ukuma"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "phambi"
+    },
+    {
+      "surface": "משה",
+      "gloss": "koMoshe"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "ngenxa"
+    },
+    {
+      "surface": "השחין",
+      "gloss": "yeenkotha"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "היה",
+      "gloss": "zazikho"
+    },
+    {
+      "surface": "השחין",
+      "gloss": "iinkotha"
+    },
+    {
+      "surface": "בחרטמם",
+      "gloss": "kubathakathi"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "nakuzo onke"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "iMitsrayim"
+    }
+  ],
+  "timestamp": "2026-09-18T05:55:34.038207390Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 60,
+  "ref": "psalms 119:60",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 119,
+  "translation": "Ndakhawuleza, andizanga ndilibazise, ukulinda imiyalelo yakho.",
+  "tokens": [
+    {
+      "surface": "חשתי",
+      "gloss": "ndakhawuleza"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "andizanga"
+    },
+    {
+      "surface": "התמהמהתי",
+      "gloss": "ndilibazise"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "ukulinda"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "imiyalelo yakho"
+    }
+  ],
+  "timestamp": "2026-09-18T15:23:22.487470718Z",
+  "model": "glm-5.3"
+}

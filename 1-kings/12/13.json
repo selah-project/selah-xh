@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-kings 12:13",
+  "book": "1-kings",
+  "lang": "xh",
+  "chapter": 12,
+  "translation": "IKumkani yaphendula ⟨את⟩ abantu ngobandezi, wayishiya ⟨את⟩ icebo loluntu oludala ababucele lona.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "yaphendula"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "iKumkani"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abantu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "ngobandezi"
+    },
+    {
+      "surface": "ויעזב",
+      "gloss": "wayishiya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "icebo loluntu oludala"
+    },
+    {
+      "surface": "עצת",
+      "gloss": "icebo"
+    },
+    {
+      "surface": "הזקנים",
+      "gloss": "loluntu oludala"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ababucele"
+    },
+    {
+      "surface": "יעצהו",
+      "gloss": "lona"
+    }
+  ],
+  "timestamp": "2026-09-18T10:26:34.870016611Z",
+  "model": "glm-5.3"
+}

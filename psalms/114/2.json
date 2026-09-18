@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 114:2",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 114,
+  "translation": "Yehuda waba yindawo yakhe engcwele, iYisraele waba bubukhosi bakhe.",
+  "tokens": [
+    {
+      "surface": "היתה",
+      "gloss": "waba"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "לקדשו",
+      "gloss": "yindawo yakhe engcwele"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "iYisraele"
+    },
+    {
+      "surface": "ממשלותיו",
+      "gloss": "bubukhosi bakhe"
+    }
+  ],
+  "timestamp": "2026-09-18T17:45:39.326268246Z",
+  "model": "glm-5.3"
+}

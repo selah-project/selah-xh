@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 23:4",
+  "book": "1-samuel",
+  "lang": "xh",
+  "chapter": 23,
+  "translation": "UDawidili wongeza ukubuza kuYahwe kwakhona; uYahwe wamphendula wathi: “Vuka, uhle eKeyila, kuba mna ndizakunika ⟨את⟩ amaPelishti esandleni sakho.”",
+  "tokens": [
+    {
+      "surface": "ויוסף",
+      "gloss": "wongeza"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "kwakhona"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "uDawidili"
+    },
+    {
+      "surface": "לשאל",
+      "gloss": "ukubuza"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "kuYahwe"
+    },
+    {
+      "surface": "ויענהו",
+      "gloss": "wamphendula"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "קום",
+      "gloss": "vuka"
+    },
+    {
+      "surface": "רד",
+      "gloss": "uhle"
+    },
+    {
+      "surface": "קעילה",
+      "gloss": "eKeyila"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mna"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ndizakunika"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amaPelishti"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "amaPelishti"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "esandleni sakho"
+    }
+  ],
+  "timestamp": "2026-09-18T09:35:54.324417888Z",
+  "model": "glm-5.3"
+}

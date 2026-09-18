@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 71:21",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 71,
+  "translation": "Uza kuwandisa ubukhulu bam, uza kubuyela undisolise.",
+  "tokens": [
+    {
+      "surface": "תרב",
+      "gloss": "uza kuwandisa"
+    },
+    {
+      "surface": "גדלתי",
+      "gloss": "ubukhulu bam"
+    },
+    {
+      "surface": "ותסב",
+      "gloss": "uza kubuyela"
+    },
+    {
+      "surface": "תנחמני",
+      "gloss": "undisolise"
+    }
+  ],
+  "timestamp": "2026-09-18T14:56:41.481935358Z",
+  "model": "glm-5.3"
+}

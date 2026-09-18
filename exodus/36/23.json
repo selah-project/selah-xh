@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 36:23",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 36,
+  "translation": "Wenze ⟨את⟩ amaplanga etente: amaplanga angama-20 ngasecala emazantsi, ngasemazantsi.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Wenze"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amaplanga"
+    },
+    {
+      "surface": "הקרשים",
+      "gloss": "amaplanga"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "etente"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "angama-20"
+    },
+    {
+      "surface": "קרשים",
+      "gloss": "amaplanga"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "ngasecala"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "emazantsi"
+    },
+    {
+      "surface": "תימנה",
+      "gloss": "ngasemazantsi"
+    }
+  ],
+  "timestamp": "2026-09-18T06:27:22.079846075Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 2:3",
+  "book": "jeremiah",
+  "lang": "xh",
+  "chapter": 2,
+  "translation": "uYisrayeli ⟨nguye⟩ incwele kuYahwe, ulwandle lweentyalo zokuqala zakhe; bonke abazityiyo bazakwazala, imbi iza kubafikelela, utshilo uYahwe.",
+  "tokens": [
+    {
+      "surface": "קדש",
+      "gloss": "incwele"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "uYisrayeli"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kuYahwe"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "zokuqala"
+    },
+    {
+      "surface": "תבואתה",
+      "gloss": "iintyalo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bonke"
+    },
+    {
+      "surface": "אכליו",
+      "gloss": "abazityiyo"
+    },
+    {
+      "surface": "יאשמו",
+      "gloss": "bazakwazala"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "imbi"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "iza kubafikelela"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "kubo"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "utshilo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    }
+  ],
+  "timestamp": "2026-09-18T11:51:34.576035596Z",
+  "model": "glm-5.3"
+}

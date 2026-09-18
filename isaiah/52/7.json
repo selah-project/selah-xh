@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 52:7",
+  "book": "isaiah",
+  "lang": "xh",
+  "chapter": 52,
+  "translation": "Zintle njani phezu kweentaba iinyawo zomraxwezi weendaba ezilungileyo, ovakalisa uxolo; womraxwezi weendaba ezilungileyo, ovakalisa isindiso, othi kuTsiyoni: “uElohim wakho uyabusa!”",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "njani"
+    },
+    {
+      "surface": "נאוו",
+      "gloss": "zintle"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "kweentaba"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "iinyawo"
+    },
+    {
+      "surface": "מבשר",
+      "gloss": "zomraxwezi weendaba ezilungileyo"
+    },
+    {
+      "surface": "משמיע",
+      "gloss": "ovakalisa"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "uxolo"
+    },
+    {
+      "surface": "מבשר",
+      "gloss": "womraxwezi weendaba ezilungileyo"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ezilungileyo"
+    },
+    {
+      "surface": "משמיע",
+      "gloss": "ovakalisa"
+    },
+    {
+      "surface": "ישועה",
+      "gloss": "isindiso"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "othi"
+    },
+    {
+      "surface": "לציון",
+      "gloss": "kuTsiyoni"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "uyabusa"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "uElohim wakho"
+    }
+  ],
+  "timestamp": "2026-09-18T11:40:45.021549406Z",
+  "model": "glm-5.3"
+}

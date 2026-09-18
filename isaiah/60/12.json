@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 60:12",
+  "book": "isaiah",
+  "lang": "xh",
+  "chapter": 60,
+  "translation": "Kuba isizwe nobukumkani angaba bakukhonza aza kutshabalala; ezizwe zona za kutshatyalaliswa ngokupheleleyo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "isizwe"
+    },
+    {
+      "surface": "והממלכה",
+      "gloss": "nobukumkani"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "le"
+    },
+    {
+      "surface": "לא",
+      "gloss": "anga"
+    },
+    {
+      "surface": "יעבדוך",
+      "gloss": "bakukhonza"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "aza kutshabalala"
+    },
+    {
+      "surface": "והגוים",
+      "gloss": "ezizwe zona"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "kutshatyalaliswa"
+    },
+    {
+      "surface": "יחרבו",
+      "gloss": "za kutshatyalaliswa"
+    }
+  ],
+  "timestamp": "2026-09-18T11:45:37.257372039Z",
+  "model": "glm-5.3"
+}

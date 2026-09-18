@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 21:15",
+  "book": "isaiah",
+  "lang": "xh",
+  "chapter": 21,
+  "translation": "Kuba ngaphambi kwamazembe babaleke, ngaphambi kwesembe esikhululiweyo, nangaphambi kweytyhali eqhotyoshelweyo, nangaphambi kobunzima bemfazwe.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kuba"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "ngaphambi"
+    },
+    {
+      "surface": "חרבות",
+      "gloss": "kwamazembe"
+    },
+    {
+      "surface": "נדדו",
+      "gloss": "babaleke"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "ngaphambi"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "kwesembe"
+    },
+    {
+      "surface": "נטושה",
+      "gloss": "esikhululiweyo"
+    },
+    {
+      "surface": "ומפני",
+      "gloss": "nangaphambi"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "kweytyhali"
+    },
+    {
+      "surface": "דרוכה",
+      "gloss": "eqhotyoshelweyo"
+    },
+    {
+      "surface": "ומפני",
+      "gloss": "nangaphambi"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "ubunzima"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "bemfazwe"
+    }
+  ],
+  "timestamp": "2026-09-18T11:13:33.189045947Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 21:12",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 21,
+  "translation": "Kuba batyekile ububi kuwe; bacwangcisa icebo elibi, kodwa abanako ukulisebenzisa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "נטו",
+      "gloss": "batyekile"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "kuwe"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ububi"
+    },
+    {
+      "surface": "חשבו",
+      "gloss": "bacwangcisa"
+    },
+    {
+      "surface": "מזמה",
+      "gloss": "icebo elibi"
+    },
+    {
+      "surface": "בל",
+      "gloss": "kodwa akukho"
+    },
+    {
+      "surface": "יוכלו",
+      "gloss": "abanako"
+    }
+  ],
+  "timestamp": "2026-09-18T14:33:25.976845898Z",
+  "model": "glm-5.3"
+}

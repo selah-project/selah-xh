@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 10:6",
+  "book": "1-kings",
+  "lang": "xh",
+  "chapter": 10,
+  "translation": "Wathetha <kum>kumkani: “Yaba yinyaniso ilizwi endandilive <ku>lwe lam, malunga namagama akho nangobulumko bakho.”",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "Wathetha"
+    },
+    {
+      "surface": "אל",
+      "gloss": "<ku>"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kumkani"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "yinyaniso"
+    },
+    {
+      "surface": "היה",
+      "gloss": "yaba"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ilizwi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "endandilive"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "ndandilive"
+    },
+    {
+      "surface": "בארצי",
+      "gloss": "<ku>lwe lam"
+    },
+    {
+      "surface": "על",
+      "gloss": "malunga"
+    },
+    {
+      "surface": "דבריך",
+      "gloss": "namagama akho"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "nangoku-"
+    },
+    {
+      "surface": "חכמתך",
+      "gloss": "bumko bakho"
+    }
+  ],
+  "timestamp": "2026-09-18T10:20:25.183933243Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 145:17",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 145,
+  "translation": "Ulilungile uYahwe kuzo zonke iindlela zakhe, kwaye unesikhesedi kuzo zonke izenzo zakhe.",
+  "tokens": [
+    {
+      "surface": "צדיק",
+      "gloss": "Ulilungile"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "kuzo zonke"
+    },
+    {
+      "surface": "דרכיו",
+      "gloss": "iindlela zakhe"
+    },
+    {
+      "surface": "וחסיד",
+      "gloss": "unesikhesedi"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "kuzo zonke"
+    },
+    {
+      "surface": "מעשיו",
+      "gloss": "izenzo zakhe"
+    }
+  ],
+  "timestamp": "2026-09-18T15:34:37.098840077Z",
+  "model": "glm-5.3"
+}

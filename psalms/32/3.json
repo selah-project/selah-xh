@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 32:3",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 32,
+  "translation": "Kuba ndathula, amathambo am aphelelwa yimvela, xa ndidanduluka yonke imini.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kuba"
+    },
+    {
+      "surface": "החרשתי",
+      "gloss": "ndathula"
+    },
+    {
+      "surface": "בלו",
+      "gloss": "aphelelwa yimvela"
+    },
+    {
+      "surface": "עצמי",
+      "gloss": "amathambo am"
+    },
+    {
+      "surface": "בשאגתי",
+      "gloss": "xa ndidanduluka"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yonke"
+    },
+    {
+      "surface": "היום",
+      "gloss": "imini"
+    }
+  ],
+  "timestamp": "2026-09-18T14:41:38.938145542Z",
+  "model": "glm-5.3"
+}

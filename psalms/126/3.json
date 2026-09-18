@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 126:3",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 126,
+  "translation": "UYahwe wenzizezakhe izinto ezinkulu ngathi; saba ngabaqabayo.",
+  "tokens": [
+    {
+      "surface": "הגדיל",
+      "gloss": "wenzizezakhe izinto ezinkulu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "UYahwe"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "ukwenza"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "ngathi"
+    },
+    {
+      "surface": "היינו",
+      "gloss": "saba"
+    },
+    {
+      "surface": "שמחים",
+      "gloss": "ngabaqabayo"
+    }
+  ],
+  "timestamp": "2026-09-18T17:45:12.358612653Z",
+  "model": "glm-5.3"
+}

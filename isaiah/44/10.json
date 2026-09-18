@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 44:10",
+  "book": "isaiah",
+  "lang": "xh",
+  "chapter": 44,
+  "translation": "Ngubani owenza uthixo, wasungula isithombe esityunjiweyo, esingenzela lutho?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "ngubani"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "enza"
+    },
+    {
+      "surface": "אל",
+      "gloss": "uthixo"
+    },
+    {
+      "surface": "ופסל",
+      "gloss": "nesithombe esisikwa"
+    },
+    {
+      "surface": "נסך",
+      "gloss": "etyunjiweyo"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "ukungabi"
+    },
+    {
+      "surface": "הועיל",
+      "gloss": "nanzuzo"
+    }
+  ],
+  "timestamp": "2026-09-18T11:35:16.651769478Z",
+  "model": "glm-5.3"
+}

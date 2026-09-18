@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "leviticus 26:24",
+  "book": "leviticus",
+  "lang": "xh",
+  "chapter": 26,
+  "translation": "Mna, ndiya kuhamba nani ngekeri; mna ndiza kunibetha ⟨את⟩ nina isixhenxe ngenxa yezono zenu.",
+  "tokens": [
+    {
+      "surface": "והלכתי",
+      "gloss": "ndiya kuhamba"
+    },
+    {
+      "surface": "אף",
+      "gloss": "kananjalo mna"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mna"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "nani"
+    },
+    {
+      "surface": "בקרי",
+      "gloss": "ngekeri"
+    },
+    {
+      "surface": "והכיתי",
+      "gloss": "ndiza kunibetha"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "nina"
+    },
+    {
+      "surface": "גם",
+      "gloss": "kananjalo"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mna"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "isixhenxe"
+    },
+    {
+      "surface": "על",
+      "gloss": "ngenxa"
+    },
+    {
+      "surface": "חטאתיכם",
+      "gloss": "yezono zenu"
+    }
+  ],
+  "timestamp": "2026-09-18T07:07:35.883239897Z",
+  "model": "glm-5.3"
+}

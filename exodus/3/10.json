@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 3:10",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 3,
+  "translation": "Kwaye ngoku yiza, ndiza kuthumela wena kuParo, ukuba ungakhupha ⟨את⟩ abantu bam, abantwana bakaSirayeli, eMitsrayim.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "kwaye ngoku"
+    },
+    {
+      "surface": "לכה",
+      "gloss": "yiza"
+    },
+    {
+      "surface": "ואשלחך",
+      "gloss": "ndiza kuthumela wena"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "uParo"
+    },
+    {
+      "surface": "והוצא",
+      "gloss": "ukuba ungakhupha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abantu bam"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "abantu bam"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abantwana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "bakaSirayeli"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "eMitsrayim"
+    }
+  ],
+  "timestamp": "2026-09-18T05:52:40.979399315Z",
+  "model": "glm-5.3"
+}

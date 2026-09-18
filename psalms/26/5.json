@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 26:5",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 26,
+  "translation": "Ndazidela iqela labenzi bobubi, kwaye nababi andingahlali nabo.",
+  "tokens": [
+    {
+      "surface": "שנאתי",
+      "gloss": "Ndazidela"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "iqela"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "labenzi bobubi"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "kwaye na-"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ababi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "andi-"
+    },
+    {
+      "surface": "אשב",
+      "gloss": "hlali"
+    }
+  ],
+  "timestamp": "2026-09-18T17:42:48.889971049Z",
+  "model": "glm-5.3"
+}

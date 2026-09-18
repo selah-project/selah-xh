@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 39:21",
+  "book": "genesis",
+  "lang": "xh",
+  "chapter": 39,
+  "translation": "uYahwe wayenoYosefu, wawolisa ikhesedi kuye, wamnika ububele emehleni wesikhulu sendlu yentolongo.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "waye"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uYosefu"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "noYosefu"
+    },
+    {
+      "surface": "ויט",
+      "gloss": "wawolisa"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kuye"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "ikhesedi"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "wamnika"
+    },
+    {
+      "surface": "חנו",
+      "gloss": "ububele"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "emehleni"
+    },
+    {
+      "surface": "שר",
+      "gloss": "wesikhulu"
+    },
+    {
+      "surface": "בית",
+      "gloss": "sendlu"
+    },
+    {
+      "surface": "הסהר",
+      "gloss": "yentolongo"
+    }
+  ],
+  "timestamp": "2026-09-18T05:36:31.666007340Z",
+  "model": "glm-5.3"
+}

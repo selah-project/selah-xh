@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 2:16",
+  "book": "1-kings",
+  "lang": "xh",
+  "chapter": 2,
+  "translation": "“Ngoku ndicela isicelo esinye ⟨את⟩ kuwe: ungabuyeli umva ⟨את⟩ ubuso bam.” Wathi kuye: “Thetha.”",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "ngoku"
+    },
+    {
+      "surface": "שאלה",
+      "gloss": "isicelo"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "esinye"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "mna"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "ndicela"
+    },
+    {
+      "surface": "מאתך",
+      "gloss": "⟨את⟩ kuwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "unga"
+    },
+    {
+      "surface": "תשבי",
+      "gloss": "buyeli umva"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ubuso bam"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ubuso bam"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kuye"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "thetha"
+    }
+  ],
+  "timestamp": "2026-09-18T10:08:52.523964563Z",
+  "model": "glm-5.3"
+}

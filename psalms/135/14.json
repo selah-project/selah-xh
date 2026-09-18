@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 135:14",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 135,
+  "translation": "Kuba uYahwe uza kugweba abantu bakhe, ngeenkonzi zakhe uza kunceda ngesihlwele.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "ידין",
+      "gloss": "uza kugweba"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "abantu bakhe"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ngeenkonzi zakhe"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "ngeenkonzi zakhe"
+    },
+    {
+      "surface": "יתנחם",
+      "gloss": "uza kunceda ngesihlwele"
+    }
+  ],
+  "timestamp": "2026-09-18T15:28:30.395967872Z",
+  "model": "glm-5.3"
+}

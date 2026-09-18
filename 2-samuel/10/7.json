@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 10:7",
+  "book": "2-samuel",
+  "lang": "xh",
+  "chapter": 10,
+  "translation": "UDavide wakuzwa, wathumela ⟨את⟩ uYowabu no⟨את⟩ wonke amabutho amadoda akhaliphileyo.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "wakuzwa"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "uDavide"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "wathumela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uYowabu"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "uYowabu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "no⟨את⟩",
+      "marks": "wonke amabutho amadoda akhaliphileyo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wonke"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "amabutho"
+    },
+    {
+      "surface": "הגברים",
+      "gloss": "amadoda akhaliphileyo"
+    }
+  ],
+  "timestamp": "2026-09-18T09:50:49.241243312Z",
+  "model": "glm-5.3"
+}

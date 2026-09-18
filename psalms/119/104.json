@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 104,
+  "ref": "psalms 119:104",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 119,
+  "translation": "Kwizikhokelo zako ndifumana ukuqonda; ngoko ndiyidiale yonke indlela yobuxoki.",
+  "tokens": [
+    {
+      "surface": "מפקודיך",
+      "gloss": "kwizikhokelo zako"
+    },
+    {
+      "surface": "אתבונן",
+      "gloss": "ndifumana ukuqonda"
+    },
+    {
+      "surface": "על",
+      "gloss": "nge"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ngoko"
+    },
+    {
+      "surface": "שנאתי",
+      "gloss": "ndiyidiale"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yonke"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "indlela"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "yobuxoki"
+    }
+  ],
+  "timestamp": "2026-09-18T15:24:10.389776454Z",
+  "model": "glm-5.3"
+}

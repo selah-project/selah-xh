@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 42:9",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 42,
+  "translation": "Ngemini uYahwe uya kuyalela ikhesedi lakhe, ebusuku ingoma iya kuba nesi, thandazaku ku-El wobomi bam.",
+  "tokens": [
+    {
+      "surface": "יומם",
+      "gloss": "ngemini"
+    },
+    {
+      "surface": "יצוה",
+      "gloss": "uya kuyalela"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ikhesedi lakhe"
+    },
+    {
+      "surface": "ובלילה",
+      "gloss": "ebusuku"
+    },
+    {
+      "surface": "שירה",
+      "gloss": "ingoma"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "iya kuba nesi"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "thandazaku"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "ku-El"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "wobomi bam"
+    }
+  ],
+  "timestamp": "2026-09-18T14:44:36.962633797Z",
+  "model": "glm-5.3"
+}

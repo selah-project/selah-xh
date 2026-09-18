@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-kings 19:13",
+  "book": "2-kings",
+  "lang": "xh",
+  "chapter": 19,
+  "translation": "Uphi inkosi yeKhamat, nenkosi yeArpad, nenkosi yasedolophini iSefarvayim, iHena naseIva?",
+  "tokens": [
+    {
+      "surface": "איו",
+      "gloss": "uphi"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "inkosi"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "yeKhamat"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "nenkosi"
+    },
+    {
+      "surface": "ארפד",
+      "gloss": "yeArpad"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "nenkosi"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "yasedolophini"
+    },
+    {
+      "surface": "ספרוים",
+      "gloss": "iSefarvayim"
+    },
+    {
+      "surface": "הנע",
+      "gloss": "iHena"
+    },
+    {
+      "surface": "ועוה",
+      "gloss": "naseIva"
+    }
+  ],
+  "timestamp": "2026-09-18T10:54:20.205323477Z",
+  "model": "glm-5.3"
+}

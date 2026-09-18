@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 4:20",
+  "book": "genesis",
+  "lang": "xh",
+  "chapter": 4,
+  "translation": "uAda wazala ⟨את⟩ uYavali; yena wayenguyise wabo ahlala phakathi kweetenti, babethisa imfuyo.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "wazala"
+    },
+    {
+      "surface": "עדה",
+      "gloss": "uAda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uYavali"
+    },
+    {
+      "surface": "יבל",
+      "gloss": "uYavali"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yena"
+    },
+    {
+      "surface": "היה",
+      "gloss": "wayengu-"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "uyise"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "ahlala"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "phakathi kweetenti"
+    },
+    {
+      "surface": "ומקנה",
+      "gloss": "imfuyo"
+    }
+  ],
+  "timestamp": "2026-09-18T05:07:39.319105320Z",
+  "model": "glm-5.3"
+}

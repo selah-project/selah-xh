@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "micah 1:3",
+  "book": "micah",
+  "lang": "xh",
+  "chapter": 1,
+  "translation": "Kuba yabonani, uYahwe uphuma kwindawo yakhe, wayehla wayehamba phezu kweendawo eziphakamileyo zomhlaba.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kuba"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "yabonani"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "uphuma"
+    },
+    {
+      "surface": "ממקומו",
+      "gloss": "kwindawo yakhe"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "wayehla"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "wayehamba phezu"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu kwe"
+    },
+    {
+      "surface": "במותי",
+      "gloss": "kweendawo eziphakamileyo"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "zomhlaba"
+    }
+  ],
+  "timestamp": "2026-09-18T14:03:27.835220112Z",
+  "model": "glm-5.3"
+}

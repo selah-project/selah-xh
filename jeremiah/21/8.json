@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 21:8",
+  "book": "jeremiah",
+  "lang": "xh",
+  "chapter": 21,
+  "translation": "Kwaye kuwo aba abantu uza kuthetha: Kutsho uYahwe: Yabona, mna ndibeka phambi kwenu ⟨את⟩ indlela yobomi ⟨את⟩ nendlela yokufa.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "kuwo"
+    },
+    {
+      "surface": "העם",
+      "gloss": "aba abantu"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "aba"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "uza kuthetha"
+    },
+    {
+      "surface": "כה",
+      "gloss": "kutsho"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "uthe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "mna yabona"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ndibeka"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "phambi kwenu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "indlela yobomi"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "indlela"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "yobomi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "indlela yokufa"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "indlela"
+    },
+    {
+      "surface": "המות",
+      "gloss": "yokufa"
+    }
+  ],
+  "timestamp": "2026-09-18T12:11:43.071222831Z",
+  "model": "glm-5.3"
+}

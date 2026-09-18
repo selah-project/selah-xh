@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 28:16",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 28,
+  "translation": "Iconyeni ezine iya kuba yiphindwe kabini; umlinganiselo wesandla ubude baso, nomlinganiselo wesandla ububanzi baso.",
+  "tokens": [
+    {
+      "surface": "רבוע",
+      "gloss": "Iconyeni ezine"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "iya kuba"
+    },
+    {
+      "surface": "כפול",
+      "gloss": "yiphindwe kabini"
+    },
+    {
+      "surface": "זרת",
+      "gloss": "umlinganiselo wesandla"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "ubude"
+    },
+    {
+      "surface": "וזרת",
+      "gloss": "nomlinganiselo wesandla"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "ububanzi"
+    }
+  ],
+  "timestamp": "2026-09-18T06:15:45.776978416Z",
+  "model": "glm-5.3"
+}

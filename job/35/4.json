@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 35:4",
+  "book": "job",
+  "lang": "xh",
+  "chapter": 35,
+  "translation": "Mna ndiza kubuyisela kuwe amazwi, kunye ⟨ואת⟩ nabahlobo bakho nawe.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Mna"
+    },
+    {
+      "surface": "אשיבך",
+      "gloss": "ndiza kubuyisela kuwe"
+    },
+    {
+      "surface": "מלין",
+      "gloss": "amazwi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "abahlobo bakho"
+    },
+    {
+      "surface": "רעיך",
+      "gloss": "abahlobo bakho"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "nawe"
+    }
+  ],
+  "timestamp": "2026-09-18T17:47:56.598770487Z",
+  "model": "glm-5.3"
+}

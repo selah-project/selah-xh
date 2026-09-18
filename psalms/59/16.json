@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 59:16",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 59,
+  "translation": "Bona baze behamba-hamba betya; ukuba bengakhululekanga, baze belala ubusuku bezikhalaza.",
+  "tokens": [
+    {
+      "surface": "המה",
+      "gloss": "bona"
+    },
+    {
+      "surface": "ינועון",
+      "gloss": "baze behamba-hamba"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "ukutya"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ukuba"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hayi"
+    },
+    {
+      "surface": "ישבעו",
+      "gloss": "bakhululekile"
+    },
+    {
+      "surface": "וילינו",
+      "gloss": "baze belala ubusuku"
+    }
+  ],
+  "timestamp": "2026-09-18T14:53:01.033448592Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 18:2",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 18,
+  "translation": "Wathabatha uYitro, umkhwe kaMoshe, ⟨את⟩ uTsipora, umfazi kaMoshe, emva kokuthunyelwa kwakhe.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "Wathabatha"
+    },
+    {
+      "surface": "יתרו",
+      "gloss": "uYitro"
+    },
+    {
+      "surface": "חתן",
+      "gloss": "umkhwe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "kaMoshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uTsipora"
+    },
+    {
+      "surface": "צפרה",
+      "gloss": "uTsipora"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "umfazi"
+    },
+    {
+      "surface": "משה",
+      "gloss": "kaMoshe"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "emva"
+    },
+    {
+      "surface": "שלוחיה",
+      "gloss": "kokuthunyelwa kwakhe"
+    }
+  ],
+  "timestamp": "2026-09-18T06:07:03.162427177Z",
+  "model": "glm-5.3"
+}

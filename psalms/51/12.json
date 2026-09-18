@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 51:12",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 51,
+  "translation": "Intliziyo ecocekileyo yidalele mna, uElohim; umoya ozinzileyo uwuze kwindawo yam.",
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "intliziyo"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "ecocekileyo"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "yidalele"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mna"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "umoya"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "ozinzileyo"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "uwuze (wenze utsha)"
+    },
+    {
+      "surface": "בקרבי",
+      "gloss": "kwindawo yam (ngaphakathi kwam)"
+    }
+  ],
+  "timestamp": "2026-09-18T14:49:20.225281465Z",
+  "model": "glm-5.3"
+}

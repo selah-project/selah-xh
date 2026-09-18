@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 106:3",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 106,
+  "translation": "Awonwabile abalindi bomgwebo, abenzi wolulunga ngalo lonke ixesha.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Awonwabile"
+    },
+    {
+      "surface": "שמרי",
+      "gloss": "abalindi"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "bomgwebo"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "abenzi"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "wolulunga"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ngalo lonke"
+    },
+    {
+      "surface": "עת",
+      "gloss": "ixesha"
+    }
+  ],
+  "timestamp": "2026-09-18T15:17:39.792791163Z",
+  "model": "glm-5.3"
+}

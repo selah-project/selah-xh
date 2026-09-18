@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 32:4",
+  "book": "job",
+  "lang": "xh",
+  "chapter": 32,
+  "translation": "UElihu ke walinda ⟨את⟩ u-Iyobhu ngamagama, kuba bona badala kunaye ngemihla.",
+  "tokens": [
+    {
+      "surface": "ואליהו",
+      "gloss": "u-Elihu ke"
+    },
+    {
+      "surface": "חכה",
+      "gloss": "walinda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "u-Iyobhu"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "u-Iyobhu"
+    },
+    {
+      "surface": "בדברים",
+      "gloss": "ngamagama"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "זקנים",
+      "gloss": "badala"
+    },
+    {
+      "surface": "המה",
+      "gloss": "bona"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "kunaye"
+    },
+    {
+      "surface": "לימים",
+      "gloss": "ngemihla"
+    }
+  ],
+  "timestamp": "2026-09-18T16:11:41.392288528Z",
+  "model": "glm-5.3"
+}

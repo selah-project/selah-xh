@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "exodus 12:45",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 12,
+  "translation": "Umhlali-ikheshe nomqeshi akayi kukutya kuko.",
+  "tokens": [
+    {
+      "surface": "תושב",
+      "gloss": "umhlali-ikheshe"
+    },
+    {
+      "surface": "ושכיר",
+      "gloss": "nomqeshi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "akayi ku"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "kutya"
+    },
+    {
+      "surface": "בו",
+      "gloss": "kuko"
+    }
+  ],
+  "timestamp": "2026-09-18T05:59:12.535458733Z",
+  "model": "glm-5.3"
+}

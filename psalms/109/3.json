@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 109:3",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 109,
+  "translation": "Yaye amagama okuzonda andizungele, bahlala belwa nam mahala.",
+  "tokens": [
+    {
+      "surface": "ודברי",
+      "gloss": "Yathe… amagama"
+    },
+    {
+      "surface": "שנאה",
+      "gloss": "okuzonda"
+    },
+    {
+      "surface": "סבבוני",
+      "gloss": "andizungele"
+    },
+    {
+      "surface": "וילחמוני",
+      "gloss": "bahlala belwa nam"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "mahala"
+    }
+  ],
+  "timestamp": "2026-09-18T15:21:11.103389946Z",
+  "model": "glm-5.3"
+}

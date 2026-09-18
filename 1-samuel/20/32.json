@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-samuel 20:32",
+  "book": "1-samuel",
+  "lang": "xh",
+  "chapter": 20,
+  "translation": "Waphendula uYehonatani ⟨את⟩ uShawuli uyise, wathi kuye: “Kutheni aza kubulawa? Ubenze ntoni?”",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "waphendula"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "uYehonatani"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uShawuli"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "uShawuli"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "uyise"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kuye"
+    },
+    {
+      "surface": "למה",
+      "gloss": "kutheni"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "aza kubulawa"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ntoni"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ubenzile"
+    }
+  ],
+  "timestamp": "2026-09-18T09:33:14.843924652Z",
+  "model": "glm-5.3"
+}

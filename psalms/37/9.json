@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 37:9",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 37,
+  "translation": "Kuba abenzi bobubi baza kukrazulwa, abalindeleyo uYahwe ngokwabo baya kuzinza umhlaba.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kuba"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "abenzi bobubi"
+    },
+    {
+      "surface": "יכרתון",
+      "gloss": "baza kukrazulwa"
+    },
+    {
+      "surface": "וקוי",
+      "gloss": "abalindeleyo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ngokwabo"
+    },
+    {
+      "surface": "יירשו",
+      "gloss": "baya kuzinza"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "umhlaba"
+    }
+  ],
+  "timestamp": "2026-09-18T14:41:22.500386611Z",
+  "model": "glm-5.3"
+}

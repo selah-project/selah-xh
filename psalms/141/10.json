@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 141:10",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 141,
+  "translation": "Makubale abangcolileyo kwiintambo zabo ndawonye; mna ndide ndidlule.",
+  "tokens": [
+    {
+      "surface": "יפלו",
+      "gloss": "makubale"
+    },
+    {
+      "surface": "במכמריו",
+      "gloss": "kwiintambo zabo"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "abangcolileyo"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "ndawonye"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "mna"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ndide"
+    },
+    {
+      "surface": "אעבור",
+      "gloss": "ndidlule"
+    }
+  ],
+  "timestamp": "2026-09-18T15:29:53.700320193Z",
+  "model": "glm-5.3"
+}

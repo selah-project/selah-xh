@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 34:5",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 34,
+  "translation": "Ndandifuna ⟨את⟩ uYahwe, wandiphendula, wasindisisa kuzo zonke iindoyikiso zam.",
+  "tokens": [
+    {
+      "surface": "דרשתי",
+      "gloss": "Ndandifuna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uYahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "וענני",
+      "gloss": "wandiphendula"
+    },
+    {
+      "surface": "ומכל",
+      "gloss": "kuzo zonke"
+    },
+    {
+      "surface": "מגורותי",
+      "gloss": "iindoyikiso zam"
+    },
+    {
+      "surface": "הצילני",
+      "gloss": "wasindisisa"
+    }
+  ],
+  "timestamp": "2026-09-18T14:39:56.613185234Z",
+  "model": "glm-5.3"
+}

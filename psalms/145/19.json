@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 145:19",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 145,
+  "translation": "Into ayifunayo abamlloyikayo uYahwe uyayenza; isikhalo sabo uyakulibonakalisa ⟨lisiva⟩, abasindisa.",
+  "tokens": [
+    {
+      "surface": "רצון",
+      "gloss": "Into ayifunayo"
+    },
+    {
+      "surface": "יראיו",
+      "gloss": "abamlloyikayo"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "uyayenza"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "isikhalo sabo"
+    },
+    {
+      "surface": "שועתם",
+      "gloss": "isikhalo sabo"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "⟨lisiva⟩"
+    },
+    {
+      "surface": "ויושיעם",
+      "gloss": "abasindisa"
+    }
+  ],
+  "timestamp": "2026-09-18T15:34:37.099292267Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezra 9:3",
+  "book": "ezra",
+  "lang": "xh",
+  "chapter": 9,
+  "translation": "Kwathi ndisiva ⟨את⟩ eli lizwi, ndazityabula ⟨את⟩ ingubo yam nenye yam enkulu, ndatsala iintswele zentloko yam nedyudwane lam, ndaza ndahlala ndimangalelekile.",
+  "tokens": [
+    {
+      "surface": "וכשמעי",
+      "gloss": "Kwathi ndisiva"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "eli lizwi"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "lizwi"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "eli"
+    },
+    {
+      "surface": "קרעתי",
+      "gloss": "ndazityabula"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ingubo yam nenye yam enkulu"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "ingubo yam"
+    },
+    {
+      "surface": "ומעילי",
+      "gloss": "nenye yam enkulu"
+    },
+    {
+      "surface": "ואמרטה",
+      "gloss": "ndatsala"
+    },
+    {
+      "surface": "משער",
+      "gloss": "iintswele"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "zentloko yam"
+    },
+    {
+      "surface": "וזקני",
+      "gloss": "nedyudwane lam"
+    },
+    {
+      "surface": "ואשבה",
+      "gloss": "ndaza ndahlala"
+    },
+    {
+      "surface": "משומם",
+      "gloss": "ndimangalelekile"
+    }
+  ],
+  "timestamp": "2026-09-18T16:44:05.929030646Z",
+  "model": "glm-5.3"
+}

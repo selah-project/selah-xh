@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 136:16",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 136,
+  "translation": "Lowo wayikhokela abantu bakhe kwinkangala, kuba ikhesedi yakhe ihlala ngonaphakade.",
+  "tokens": [
+    {
+      "surface": "למוליך",
+      "gloss": "Lowo wayikhokela"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "abantu bakhe"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "kwinkangala"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ihlala ngonaphakade"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ikhesedi yakhe"
+    }
+  ],
+  "timestamp": "2026-09-18T15:30:06.124601192Z",
+  "model": "glm-5.3"
+}

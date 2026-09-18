@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 91:4",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 91,
+  "translation": "Ngeenlomo zakhe uza kukusikelela, wena uza kuzikhweba phantsi kwezikhwele zakhe; isikhali esikhulu nesincinci sinyaniso yakhe.",
+  "tokens": [
+    {
+      "surface": "באברתו",
+      "gloss": "ngeenlomo zakhe"
+    },
+    {
+      "surface": "יסך",
+      "gloss": "uza kukusikelela"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kuwe"
+    },
+    {
+      "surface": "ותחת",
+      "gloss": "phantsi"
+    },
+    {
+      "surface": "כנפיו",
+      "gloss": "kwezikhwele zakhe"
+    },
+    {
+      "surface": "תחסה",
+      "gloss": "uza kuzikhweba"
+    },
+    {
+      "surface": "צנה",
+      "gloss": "isikhali esikhulu"
+    },
+    {
+      "surface": "וסחרה",
+      "gloss": "nesincinci"
+    },
+    {
+      "surface": "אמתו",
+      "gloss": "inyaniso yakhe"
+    }
+  ],
+  "timestamp": "2026-09-18T17:44:05.870976969Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 111:5",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 111,
+  "translation": "Ukutya wanika abamoyikayo; uya kukhumbula ngonaphakade umnqophiso wakhe.",
+  "tokens": [
+    {
+      "surface": "טרף",
+      "gloss": "ukutya"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "wanika"
+    },
+    {
+      "surface": "ליראיו",
+      "gloss": "abamoyikayo"
+    },
+    {
+      "surface": "יזכר",
+      "gloss": "uya kukhumbula"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ngonaphakade"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "umnqophiso wakhe"
+    }
+  ],
+  "timestamp": "2026-09-18T15:20:30.899604327Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 122:3",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 122,
+  "translation": "IYerushalayimi, eyakhiweyo njengedolophu edityanisiweyo kudibana ndawonye.",
+  "tokens": [
+    {
+      "surface": "ירושלם",
+      "gloss": "IYerushalayimi"
+    },
+    {
+      "surface": "הבנויה",
+      "gloss": "eyakhiweyo"
+    },
+    {
+      "surface": "כעיר",
+      "gloss": "njengedolophu"
+    },
+    {
+      "surface": "שחברה",
+      "gloss": "edityanisiweyo"
+    },
+    {
+      "surface": "לה",
+      "gloss": "kudibana"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "ndawonye"
+    }
+  ],
+  "timestamp": "2026-09-18T15:28:19.852307095Z",
+  "model": "glm-5.3"
+}

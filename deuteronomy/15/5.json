@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 15:5",
+  "book": "deuteronomy",
+  "lang": "xh",
+  "chapter": 15,
+  "translation": "Kuphela ukuba uliva ilizwi likaYahwe uElohim wakho, ukulonda nokwenza ⟨את⟩ umyalelo wonke lo mna ndikuyalelayo namhlanje.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "Kuphela"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ukuba"
+    },
+    {
+      "surface": "שמוע",
+      "gloss": "uyaliva"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "uliva"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "ilizwi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kaYahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "uElohim wakho"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "ukulonda"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "nokwenza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umyalelo wonke"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wonke"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "umyalelo"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "lo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "o"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "mna"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "ndikuyalelayo"
+    },
+    {
+      "surface": "היום",
+      "gloss": "namhlanje"
+    }
+  ],
+  "timestamp": "2026-09-18T08:07:03.189233133Z",
+  "model": "glm-5.3"
+}

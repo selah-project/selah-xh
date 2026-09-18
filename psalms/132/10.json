@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 132:10",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 132,
+  "translation": "Ngenxa kaDawidi, inkonzi yakho, musa ukujika ⟨ubuso bu⟩kaMashiya wakho.",
+  "tokens": [
+    {
+      "surface": "בעבור",
+      "gloss": "Ngenxa ka-"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawidi"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "inkonzi yakho"
+    },
+    {
+      "surface": "אל",
+      "gloss": "musa"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "ukujika"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ubuso bu-"
+    },
+    {
+      "surface": "משיחך",
+      "gloss": "kaMashiya wakho"
+    }
+  ],
+  "timestamp": "2026-09-18T15:27:30.821622075Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 6:13",
+  "book": "leviticus",
+  "lang": "xh",
+  "chapter": 6,
+  "translation": "Le nguveliso ka-Aharon nabadala bakhe, abayiza kuyinikeza kuYahwe ngosuku lokuthanjiswa ⟨את⟩ kwakhe: ishumi lomlinganiselo we-epha yesongwe esicocekileyo — imnikelo esiqhutywayo ingunaphakade; isiqingatha sayo ekuseni, nesiqingatha sayo ngokuhlwa.",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "le"
+    },
+    {
+      "surface": "קרבן",
+      "gloss": "nguveliso"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "ka-Aharon"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "nabadala bakhe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aba"
+    },
+    {
+      "surface": "יקריבו",
+      "gloss": "bayiza kuyinikeza"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kuYahwe"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ngosuku"
+    },
+    {
+      "surface": "המשח",
+      "gloss": "lokuthanjiswa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ kwakhe"
+    },
+    {
+      "surface": "עשירת",
+      "gloss": "ishumi"
+    },
+    {
+      "surface": "האפה",
+      "gloss": "lomlinganiselo we-epha"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "yesongwe esicocekileyo"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "imnikelo"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "ingunaphakade"
+    },
+    {
+      "surface": "מחציתה",
+      "gloss": "isiqingatha sayo"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "ekuseni"
+    },
+    {
+      "surface": "ומחציתה",
+      "gloss": "nesiqingatha sayo"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "ngokuhlwa"
+    }
+  ],
+  "timestamp": "2026-09-18T06:37:34.177665002Z",
+  "model": "glm-5.3"
+}

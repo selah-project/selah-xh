@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "jonah 1:16",
+  "book": "jonah",
+  "lang": "xh",
+  "chapter": 1,
+  "translation": "Abantu bobonakalisa ukoyika okukhulu uYahwe, bachela isindlelo kuYahwe, baza benza izithembiso.",
+  "tokens": [
+    {
+      "surface": "וייראו",
+      "gloss": "bobonakalisa ukoyika"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "ukoyika"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "okukhulu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uYahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "ויזבחו",
+      "gloss": "bachela"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "isindlelo"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kuYahwe"
+    },
+    {
+      "surface": "וידרו",
+      "gloss": "baza benza"
+    },
+    {
+      "surface": "נדרים",
+      "gloss": "izithembiso"
+    }
+  ],
+  "timestamp": "2026-09-18T14:02:08.593876719Z",
+  "model": "glm-5.3"
+}

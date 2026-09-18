@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "numbers 3:42",
+  "book": "numbers",
+  "lang": "xh",
+  "chapter": 3,
+  "translation": "UMoshe wabala, njengoko uYahwe wamtyalela ⟨את⟩ yena, ⟨את⟩ onke ozelwe kuqala kubantwana bakwaSirayeli.",
+  "tokens": [
+    {
+      "surface": "ויפקד",
+      "gloss": "wabala"
+    },
+    {
+      "surface": "משה",
+      "gloss": "uMoshe"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "njengoko"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "wamtyalela"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ yena"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "onke ozelwe kuqala"
+    },
+    {
+      "surface": "כל",
+      "gloss": "onke"
+    },
+    {
+      "surface": "בכר",
+      "gloss": "ozelwe kuqala"
+    },
+    {
+      "surface": "בבני",
+      "gloss": "kubantwana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "bakwaSirayeli"
+    }
+  ],
+  "timestamp": "2026-09-18T07:11:40.375493415Z",
+  "model": "glm-5.3"
+}

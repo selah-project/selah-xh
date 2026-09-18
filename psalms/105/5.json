@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 105:5",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 105,
+  "translation": "Khumbulani iimangaliso zakhe awenzileyo, iimpawu zakhe neendawu zokwahlula zasemlonyeni wakhe.",
+  "tokens": [
+    {
+      "surface": "זכרו",
+      "gloss": "Khumbulani"
+    },
+    {
+      "surface": "נפלאותיו",
+      "gloss": "iimangaliso zakhe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "awenzileyo"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "awenzileyo"
+    },
+    {
+      "surface": "מפתיו",
+      "gloss": "iimpawu zakhe"
+    },
+    {
+      "surface": "ומשפטי",
+      "gloss": "neendawu zokwahlula"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "zasemlonyeni wakhe"
+    }
+  ],
+  "timestamp": "2026-09-18T15:15:57.598208114Z",
+  "model": "glm-5.3"
+}

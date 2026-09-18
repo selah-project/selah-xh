@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 31:5",
+  "book": "deuteronomy",
+  "lang": "xh",
+  "chapter": 31,
+  "translation": "uYahwe uza kubanika phambi kwenu, niza kwenza kubo ngokwe-<the whole> umyalelo ondidalele wona.",
+  "tokens": [
+    {
+      "surface": "ונתנם",
+      "gloss": "uza kubanika"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "phambi kwenu"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "niza kwenza"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kubo"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "ngokweyonke"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "umyalelo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ondidayalele"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "ndidayalele"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ ninze"
+    }
+  ],
+  "timestamp": "2026-09-18T17:26:00.615250484Z",
+  "model": "glm-5.3"
+}

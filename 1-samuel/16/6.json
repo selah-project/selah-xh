@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 16:6",
+  "book": "1-samuel",
+  "lang": "xh",
+  "chapter": 16,
+  "translation": "Kwathi bengena, wabona ⟨את⟩ uEliyabhi, wathi: “Inene, phambi koYahwe ⟨kukho⟩ uMashiya wakhe.”",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Kwathi"
+    },
+    {
+      "surface": "בבואם",
+      "gloss": "bengena"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "wabona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uEliyabhi"
+    },
+    {
+      "surface": "אליאב",
+      "gloss": "uEliyabhi"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "אך",
+      "gloss": "Inene"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "phambi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "koYahwe"
+    },
+    {
+      "surface": "משיחו",
+      "gloss": "uMashiya wakhe"
+    }
+  ],
+  "timestamp": "2026-09-18T09:25:06.596154441Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 11:5",
+  "book": "genesis",
+  "lang": "xh",
+  "chapter": 11,
+  "translation": "Wazela uYahwe ukubona ⟨את⟩ idolophu kunye no⟨את⟩ inkomoshi abayenzayo ukuzakha abantwana babantu.",
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "wazela"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "לראת",
+      "gloss": "ukubona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "idolophu"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "idolophu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "inkomoshi"
+    },
+    {
+      "surface": "המגדל",
+      "gloss": "inkomoshi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "abenza"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ukuzakha"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abantwana"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "abantu"
+    }
+  ],
+  "timestamp": "2026-09-18T05:13:08.868889892Z",
+  "model": "glm-5.3"
+}

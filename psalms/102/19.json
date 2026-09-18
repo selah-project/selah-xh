@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 102:19",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 102,
+  "translation": "Oku kuya kubhalwa kwisizukulwana esizayo, abantu abayakudalwa baya kudumisa uYah.",
+  "tokens": [
+    {
+      "surface": "תכתב",
+      "gloss": "kuya kubhalwa"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "oku"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "kwisizukulwana"
+    },
+    {
+      "surface": "אחרון",
+      "gloss": "esizayo"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "נברא",
+      "gloss": "abayakudalwa"
+    },
+    {
+      "surface": "יהלל",
+      "gloss": "baya kudumisa"
+    },
+    {
+      "surface": "יה",
+      "gloss": "uYah"
+    }
+  ],
+  "timestamp": "2026-09-18T15:13:52.654624965Z",
+  "model": "glm-5.3"
+}

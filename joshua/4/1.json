@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "joshua 4:1",
+  "book": "joshua",
+  "lang": "xh",
+  "chapter": 4,
+  "translation": "Yaye kwenzekile, xa igxatho lonke ligqibile ukudlula ⟨את⟩ uYordan, uYahwe wathetha kuYehoshuwa, esithi:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "kwenzekile"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "xa"
+    },
+    {
+      "surface": "תמו",
+      "gloss": "ligqibile"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lonke"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "igxatho"
+    },
+    {
+      "surface": "לעבור",
+      "gloss": "ukudlula"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uYordan"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "uYordan"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "wathetha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "uYehoshuwa"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "esithi"
+    }
+  ],
+  "timestamp": "2026-09-18T08:29:05.027666262Z",
+  "model": "glm-5.3"
+}

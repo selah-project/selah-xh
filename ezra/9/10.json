@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezra 9:10",
+  "book": "ezra",
+  "lang": "xh",
+  "chapter": 9,
+  "translation": "Kananjalo, nguElohim wethu, sithini emva kokuba nje kukho loku, kuba siyishiyile imiyalelo yakho?",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Kananjalo"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ntoni"
+    },
+    {
+      "surface": "נאמר",
+      "gloss": "sithi"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "uElohim wethu"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "emva kwa-"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "oku"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "עזבנו",
+      "gloss": "siyishiyile"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "imiyalelo yakho"
+    }
+  ],
+  "timestamp": "2026-09-18T16:43:54.380014595Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 7:6",
+  "book": "1-kings",
+  "lang": "xh",
+  "chapter": 7,
+  "translation": "Wenza ⟨את⟩ isango samapila: ubude baso bubengamakhulu amahlanu amakhulu-mitha, ububanzi baso ngamashumi amathathu; kwakunye nesango phambi kwawo, namapila nodaka olunzima phambi kwawo.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "isango samapila"
+    },
+    {
+      "surface": "אולם",
+      "gloss": "isango"
+    },
+    {
+      "surface": "העמודים",
+      "gloss": "samapila"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "wenza"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "amakhulu amahlanu"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "amakhulu-mitha"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "ubude baso"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "ngamashumi amathathu"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "amakhulu-mitha"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "ububanzi baso"
+    },
+    {
+      "surface": "ואולם",
+      "gloss": "nesango"
+    },
+    {
+      "surface": "על",
+      "gloss": "phambi"
+    },
+    {
+      "surface": "פניהם",
+      "gloss": "kwawo"
+    },
+    {
+      "surface": "ועמדים",
+      "gloss": "namapila"
+    },
+    {
+      "surface": "ועב",
+      "gloss": "nodaka olunzima"
+    },
+    {
+      "surface": "על",
+      "gloss": "phambi"
+    },
+    {
+      "surface": "פניהם",
+      "gloss": "kwawo"
+    }
+  ],
+  "timestamp": "2026-09-18T10:16:07.738489502Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 33:14",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 33,
+  "translation": "Ezendlini yakhe yokuhlala waphonononga onke abahlali bomhlaba.",
+  "tokens": [
+    {
+      "surface": "ממכון",
+      "gloss": "eendlwini"
+    },
+    {
+      "surface": "שבתו",
+      "gloss": "yakhe yokuhlala"
+    },
+    {
+      "surface": "השגיח",
+      "gloss": "waphonononga"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "כל",
+      "gloss": "onke"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "abahlali"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bomhlaba"
+    }
+  ],
+  "timestamp": "2026-09-18T14:40:31.912580714Z",
+  "model": "glm-5.3"
+}

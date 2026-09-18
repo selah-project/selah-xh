@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 18:5",
+  "book": "2-kings",
+  "lang": "xh",
+  "chapter": 18,
+  "translation": "Wathembela kuYahwe, kuElohim kaYisrayeli; emva kwakhe akabikho ofana naye kuzo zonke iinkosi zaseYuda, nokubalo babengaphambi kwakwe.",
+  "tokens": [
+    {
+      "surface": "ביהוה",
+      "gloss": "kuYahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "kuElohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "kaYisrayeli"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "wathembela"
+    },
+    {
+      "surface": "ואחריו",
+      "gloss": "emva kwakhe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "akabikho"
+    },
+    {
+      "surface": "היה",
+      "gloss": "⟨waba⟩"
+    },
+    {
+      "surface": "כמהו",
+      "gloss": "ofana naye"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "kuzo zonke"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "iinkosi"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "zaseYuda"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "nokubalo"
+    },
+    {
+      "surface": "היו",
+      "gloss": "babengabani"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "ngaphambi kwakhe"
+    }
+  ],
+  "timestamp": "2026-09-18T10:51:10.238488877Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 92:16",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 92,
+  "translation": "Ukubhengeza ukuba uYahwe ulungile, le yindwane yam, kwaye akukho bulungiswa obungcolileyo kuye.",
+  "tokens": [
+    {
+      "surface": "להגיד",
+      "gloss": "Ukubhengeza"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ukuba"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "ulungile"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "le yindwane yam"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kwaye akukho"
+    },
+    {
+      "surface": "עלתה",
+      "gloss": "bulungiswa obungcolileyo"
+    },
+    {
+      "surface": "בו",
+      "gloss": "kuye"
+    }
+  ],
+  "timestamp": "2026-09-18T17:44:47.923447039Z",
+  "model": "glm-5.3"
+}

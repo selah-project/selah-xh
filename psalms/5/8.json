@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 5:8",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 5,
+  "translation": "Kodwa mna, ngenxa obuninzi beikhesedi yakho, ndiza kungena endlini yakho; ndiza kuzithoba ngasesigodlweni ingcwele yakho ngoboyiko lwakho.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "kodwa mna"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "ngenxa obuninzi"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "beikhesedi yakho"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "ndiza kungena"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "endlini yakho"
+    },
+    {
+      "surface": "אשתחוה",
+      "gloss": "ndiza kuzithoba"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ngase"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "isigodlweni"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "ingcwele yakho"
+    },
+    {
+      "surface": "ביראתך",
+      "gloss": "ngoboyiko lwakho"
+    }
+  ],
+  "timestamp": "2026-09-18T14:26:42.582251566Z",
+  "model": "glm-5.3"
+}

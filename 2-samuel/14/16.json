@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 14:16",
+  "book": "2-samuel",
+  "lang": "xh",
+  "chapter": 14,
+  "translation": "kuba iNkosi iza kulalela ukusindisa ⟨את⟩ umphukane wayo esandleni somntu oza kutshabalalisa ⟨את⟩ mna ne-⟨את⟩ unyana wam ndawonye, kwisizalwa sikaElohim.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "iza kulalela"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "iNkosi"
+    },
+    {
+      "surface": "להציל",
+      "gloss": "ukusindisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umphukane wayo"
+    },
+    {
+      "surface": "אמתו",
+      "gloss": "umphukane wayo"
+    },
+    {
+      "surface": "מכף",
+      "gloss": "esandleni"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "somntu"
+    },
+    {
+      "surface": "להשמיד",
+      "gloss": "oza kutshabalalisa"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "mna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne-⟨את⟩",
+      "marks": "unyana wam"
+    },
+    {
+      "surface": "בני",
+      "gloss": "unyana wam"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "ndawonye"
+    },
+    {
+      "surface": "מנחלת",
+      "gloss": "kwisizalwa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "sikaElohim"
+    }
+  ],
+  "timestamp": "2026-09-18T09:54:37.635706317Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 105:24",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 105,
+  "translation": "Wandisa kakhulu ⟨את⟩ abantu bakhe, wabenza bamande kuneentshaba zawo.",
+  "tokens": [
+    {
+      "surface": "ויפר",
+      "gloss": "wandisa kakhulu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abantu bakhe"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "abantu bakhe"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "kakhulu"
+    },
+    {
+      "surface": "ועצמהו",
+      "gloss": "wabenza bamande"
+    },
+    {
+      "surface": "מצריו",
+      "gloss": "kuneentshaba zawo"
+    }
+  ],
+  "timestamp": "2026-09-18T15:16:07.453545700Z",
+  "model": "glm-5.3"
+}

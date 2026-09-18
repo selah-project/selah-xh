@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 94:22",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 94,
+  "translation": "Waba nguYahwe isiphephelo sam esiphakamileyo, yaye uElohim wam eyingcango eqinileyo yokhuseleko lwam.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "waba"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "nguYahwe"
+    },
+    {
+      "surface": "לי",
+      "gloss": "sam"
+    },
+    {
+      "surface": "למשגב",
+      "gloss": "isiphephelo esiphakamileyo"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "yaye uElohim wam"
+    },
+    {
+      "surface": "לצור",
+      "gloss": "eyingcango eqinileyo"
+    },
+    {
+      "surface": "מחסי",
+      "gloss": "yokhuseleko lwam"
+    }
+  ],
+  "timestamp": "2026-09-18T15:09:46.280163732Z",
+  "model": "glm-5.3"
+}

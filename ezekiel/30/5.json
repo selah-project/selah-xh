@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 30:5",
+  "book": "ezekiel",
+  "lang": "xh",
+  "chapter": 30,
+  "translation": "iKushi, nePuti, neLudi, nabo bonke abantu abaxutyiweyo, neKhubi, kunye nabantwana belizwe lomnqophiso — ⟨את⟩ kunye nabo ngekrele baya kuwela.",
+  "tokens": [
+    {
+      "surface": "כוש",
+      "gloss": "iKushi"
+    },
+    {
+      "surface": "ופוט",
+      "gloss": "nePuti"
+    },
+    {
+      "surface": "ולוד",
+      "gloss": "neLudi"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "nabo bonke"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "abantu abaxutyiweyo"
+    },
+    {
+      "surface": "וכוב",
+      "gloss": "neKhubi"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "abantwana"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "belizwe"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "lomnqophiso"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ kunye nabo",
+      "marks": "abantwana belizwe lomnqophiso"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "ngekrele"
+    },
+    {
+      "surface": "יפלו",
+      "gloss": "baya kuwela"
+    }
+  ],
+  "timestamp": "2026-09-18T13:19:02.398648627Z",
+  "model": "glm-5.3"
+}

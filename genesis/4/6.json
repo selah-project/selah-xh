@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 4:6",
+  "book": "genesis",
+  "lang": "xh",
+  "chapter": 4,
+  "translation": "Wathi uYahwe kuKayin: “Kutheni utshukuthele, kutheni ubuso bakho bwehle?”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Wathi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Kayin"
+    },
+    {
+      "surface": "למה",
+      "gloss": "Kutheni"
+    },
+    {
+      "surface": "חרה",
+      "gloss": "utshukuthele"
+    },
+    {
+      "surface": "לך",
+      "gloss": "wena"
+    },
+    {
+      "surface": "ולמה",
+      "gloss": "kutheni"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "bwehle"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ubuso bakho"
+    }
+  ],
+  "timestamp": "2026-09-18T05:09:08.187718032Z",
+  "model": "glm-5.3"
+}

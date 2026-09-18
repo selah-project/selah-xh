@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 32:3",
+  "book": "isaiah",
+  "lang": "xh",
+  "chapter": 32,
+  "translation": "Kwaye amehlo abo babonayo awasayi kuziswa, amadlelo abo balaleleyo aza kuseka indlebe.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Kwaye awasayi"
+    },
+    {
+      "surface": "תשעינה",
+      "gloss": "kuziswa"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "amehlo"
+    },
+    {
+      "surface": "ראים",
+      "gloss": "abo babonayo"
+    },
+    {
+      "surface": "ואזני",
+      "gloss": "amadlelo"
+    },
+    {
+      "surface": "שמעים",
+      "gloss": "abo balaleleyo"
+    },
+    {
+      "surface": "תקשבנה",
+      "gloss": "aza kuseka indlebe"
+    }
+  ],
+  "timestamp": "2026-09-18T11:21:39.248093922Z",
+  "model": "glm-5.3"
+}

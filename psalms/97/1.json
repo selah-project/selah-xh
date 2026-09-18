@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 97:1",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 97,
+  "translation": "uYahwe wabusa; umhlaba mawuvakalise uvuyo; iintlhasi ezininzi mazidla umdla.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "wabusa"
+    },
+    {
+      "surface": "תגל",
+      "gloss": "mawuvakalise uvuyo"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "umhlaba"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "mazidla umdla"
+    },
+    {
+      "surface": "איים",
+      "gloss": "iintlhasi"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "ezininzi"
+    }
+  ],
+  "timestamp": "2026-09-18T15:11:44.013508407Z",
+  "model": "glm-5.3"
+}

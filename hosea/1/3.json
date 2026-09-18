@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 1:3",
+  "book": "hosea",
+  "lang": "xh",
+  "chapter": 1,
+  "translation": "Waya ke, wathabatha uGomere, intombi kaDibelayim; wathi wakhulelwa, wazala ⟨את⟩ unyana kuye.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "waya ke"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "wathabatha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uGomere"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "uGomere"
+    },
+    {
+      "surface": "בת",
+      "gloss": "intombi"
+    },
+    {
+      "surface": "דבלים",
+      "gloss": "kaDibelayim"
+    },
+    {
+      "surface": "ותהר",
+      "gloss": "wathi wakhulelwa"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "wazala"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kuye"
+    },
+    {
+      "surface": "בן",
+      "gloss": "unyana"
+    }
+  ],
+  "timestamp": "2026-09-18T17:40:57.550611019Z",
+  "model": "glm-5.3"
+}

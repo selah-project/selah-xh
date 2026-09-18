@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 102:25",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 102,
+  "translation": "Ndithi: u-El wam, musa ukundithabatha phakathi kwemihla yam; kwizizukulwana ⟨zesizukulwana⟩ iminyaka yakho ⟨iyahlala⟩.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "Ndithi"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "u-El wam"
+    },
+    {
+      "surface": "אל",
+      "gloss": "musa"
+    },
+    {
+      "surface": "תעלני",
+      "gloss": "ukundithabatha"
+    },
+    {
+      "surface": "בחצי",
+      "gloss": "phakathi"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "kwemihla yam"
+    },
+    {
+      "surface": "בדור",
+      "gloss": "kwizizukulwana"
+    },
+    {
+      "surface": "דורים",
+      "gloss": "⟨zesizukulwana⟩"
+    },
+    {
+      "surface": "שנותיך",
+      "gloss": "iminyaka yakho"
+    }
+  ],
+  "timestamp": "2026-09-18T15:14:22.349332273Z",
+  "model": "glm-5.3"
+}

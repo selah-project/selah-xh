@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 112:9",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 112,
+  "translation": "Wahlakaza, wanika iimfama; ulungile lwakhe lumi kwaphakade; uphondo lwakhe uzakuphakanyiswa ngesidima.",
+  "tokens": [
+    {
+      "surface": "פזר",
+      "gloss": "wahlakaza"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "wanika"
+    },
+    {
+      "surface": "לאביונים",
+      "gloss": "iimfama"
+    },
+    {
+      "surface": "צדקתו",
+      "gloss": "ulungile lwakhe"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "lumi"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "kwaphakade"
+    },
+    {
+      "surface": "קרנו",
+      "gloss": "uphondo lwakhe"
+    },
+    {
+      "surface": "תרום",
+      "gloss": "uzakuphakanyiswa"
+    },
+    {
+      "surface": "בכבוד",
+      "gloss": "ngesidima"
+    }
+  ],
+  "timestamp": "2026-09-18T15:19:15.674896898Z",
+  "model": "glm-5.3"
+}

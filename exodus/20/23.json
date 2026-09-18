@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 20:23",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 20,
+  "translation": "Musa ukwenza ⟨את⟩ nami oothixo besiliva; oothixo begolide musa ukwenza nina.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "musa"
+    },
+    {
+      "surface": "תעשון",
+      "gloss": "ukwenza"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ nami",
+      "marks": "oothixo besiliva"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "oothixo"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "besiliva"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "oothixo"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "begolide"
+    },
+    {
+      "surface": "לא",
+      "gloss": "musa"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "ukwenza"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "nina"
+    }
+  ],
+  "timestamp": "2026-09-18T06:05:05.079537268Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 39:1",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 39,
+  "translation": "Kumlawuli, kuYedhutuni; indumiso kaDavide.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Kumlawuli"
+    },
+    {
+      "surface": "לידיתון",
+      "gloss": "kuYedhutuni"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "indumiso"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "kaDavide"
+    }
+  ],
+  "timestamp": "2026-09-18T14:44:30.226645812Z",
+  "model": "glm-5.3"
+}

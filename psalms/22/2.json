@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 22:2",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 22,
+  "translation": "u-El wam, u-El wam, kungunditshiyela ntoni? Ukude nesindiso lwam, amazwi okhalelwano lwam.",
+  "tokens": [
+    {
+      "surface": "אלי",
+      "gloss": "u-El wam"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "u-El wam"
+    },
+    {
+      "surface": "למה",
+      "gloss": "kunguni"
+    },
+    {
+      "surface": "עזבתני",
+      "gloss": "unditshiye"
+    },
+    {
+      "surface": "רחוק",
+      "gloss": "ukude"
+    },
+    {
+      "surface": "מישועתי",
+      "gloss": "nesindiso lwam"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "amazwi"
+    },
+    {
+      "surface": "שאגתי",
+      "gloss": "okhalelwano lwam"
+    }
+  ],
+  "timestamp": "2026-09-18T14:35:36.090289241Z",
+  "model": "glm-5.3"
+}

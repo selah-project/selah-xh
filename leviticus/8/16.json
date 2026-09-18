@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 8:16",
+  "book": "leviticus",
+  "lang": "xh",
+  "chapter": 8,
+  "translation": "Wathabatha ⟨את⟩ onke amafutha asematumbini, n⟨את⟩ icala lesibindi, n⟨את⟩ iintsoyili ezimbini, n⟨את⟩ amafutha azo; wazitshisa uMoshe phezu kombhobho.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "wathabatha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "onke amafutha"
+    },
+    {
+      "surface": "כל",
+      "gloss": "onke"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "amafutha"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ari"
+    },
+    {
+      "surface": "על",
+      "gloss": "kwi-"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "amatumbu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "icala lesibindi"
+    },
+    {
+      "surface": "יתרת",
+      "gloss": "icala"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "lesibindi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "iintsoyili ezimbini"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "ezimbini"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "iintsoyili"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "amafutha azo"
+    },
+    {
+      "surface": "חלבהן",
+      "gloss": "amafutha azo"
+    },
+    {
+      "surface": "ויקטר",
+      "gloss": "wazitshisa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "uMoshe"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "phezu kombhobho"
+    }
+  ],
+  "timestamp": "2026-09-18T06:44:46.067627220Z",
+  "model": "glm-5.3"
+}

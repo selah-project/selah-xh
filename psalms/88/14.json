@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 88:14",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 88,
+  "translation": "Mna ndiye ndakulunga kuwe, uYahwe, ndakhala; ekuqaleni kombhla ithandazo yam iza kudibana nawe.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "mna"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kuwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "שועתי",
+      "gloss": "ndakhala"
+    },
+    {
+      "surface": "ובבקר",
+      "gloss": "ekuqaleni kombhla"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "ithandazo yam"
+    },
+    {
+      "surface": "תקדמך",
+      "gloss": "iza kudibana nawe"
+    }
+  ],
+  "timestamp": "2026-09-18T15:06:35.232314917Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 1:22",
+  "book": "genesis",
+  "lang": "xh",
+  "chapter": 1,
+  "translation": "Kwaye uElohim wabusisa ⟨את⟩ zona, esithi: ‘Zalani, nandiphe, nilise ⟨את⟩ amanzi ezilwandle; iintaka mazandise emhlabeni.’",
+  "tokens": [
+    {
+      "surface": "ויברך",
+      "gloss": "wabusisa"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ zona"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "esithi"
+    },
+    {
+      "surface": "פרו",
+      "gloss": "Zalani"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "nandiphe"
+    },
+    {
+      "surface": "ומלאו",
+      "gloss": "nilise"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amanzi ezilwandle"
+    },
+    {
+      "surface": "המים",
+      "gloss": "amanzi"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "ezilwandle"
+    },
+    {
+      "surface": "והעוף",
+      "gloss": "iintaka"
+    },
+    {
+      "surface": "ירב",
+      "gloss": "mazandise"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "emhlabeni"
+    }
+  ],
+  "timestamp": "2026-09-18T05:07:52.515283460Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 37:15",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 37,
+  "translation": "Inkemba yabo iza kungena entliziyweni yabo, masiphe abo aza kuqhekeka.",
+  "tokens": [
+    {
+      "surface": "חרבם",
+      "gloss": "inkemba yabo"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "iza kungena"
+    },
+    {
+      "surface": "בלבם",
+      "gloss": "entliziyweni yabo"
+    },
+    {
+      "surface": "וקשתותם",
+      "gloss": "amasiphe abo"
+    },
+    {
+      "surface": "תשברנה",
+      "gloss": "aza kuqhekeka"
+    }
+  ],
+  "timestamp": "2026-09-18T14:42:08.940399810Z",
+  "model": "glm-5.3"
+}

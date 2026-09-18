@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-samuel 7:20",
+  "book": "2-samuel",
+  "lang": "xh",
+  "chapter": 7,
+  "translation": "Yaye yintoni na enokongeza uDawidi ukuthetha kuwe? Kuba wena uyayazi ⟨את⟩ inceku yakho, u-Adonayi Yahwe.",
+  "tokens": [
+    {
+      "surface": "ומה",
+      "gloss": "yaye yintoni"
+    },
+    {
+      "surface": "יוסיף",
+      "gloss": "enokongeza"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "uDawidi"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "kwakhona"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "ukuthetha"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kuwe"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "kuba wena"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "uyayazi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "inceku yakho"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "inceku yakho"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "u-Adonayi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-18T09:48:57.720244103Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 1:15",
+  "book": "deuteronomy",
+  "lang": "xh",
+  "chapter": 1,
+  "translation": "Ndathatha ⟨את⟩ ootha bezizwe zenu, amadoda amaqhabane aziwayo, ndabanika ⟨את⟩ njengootha phezu kwenu: abapathi wezinkulungwane, abapathi wezikhulu, abapathi weshumi elinesihlanu, abapathi welishumi, neeshoteri kwezizwe zakenu.",
+  "tokens": [
+    {
+      "surface": "ואקח",
+      "gloss": "ndathatha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ootha bezizwe zenu"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "ootha"
+    },
+    {
+      "surface": "שבטיכם",
+      "gloss": "bezizwe zenu"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "amadoda"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "amaqhabane"
+    },
+    {
+      "surface": "וידעים",
+      "gloss": "aziwayo"
+    },
+    {
+      "surface": "ואתן",
+      "gloss": "ndabanika"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "njengootha"
+    },
+    {
+      "surface": "ראשים",
+      "gloss": "njengootha"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "phezu kwenu"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "abapathi"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "wezinkulungwane"
+    },
+    {
+      "surface": "ושרי",
+      "gloss": "abapathi"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "wezikhulu"
+    },
+    {
+      "surface": "ושרי",
+      "gloss": "abapathi"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "weshumi elinesihlanu"
+    },
+    {
+      "surface": "ושרי",
+      "gloss": "abapathi"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "welishumi"
+    },
+    {
+      "surface": "ושטרים",
+      "gloss": "neeshoteri"
+    },
+    {
+      "surface": "לשבטיכם",
+      "gloss": "kwezizwe zakenu"
+    }
+  ],
+  "timestamp": "2026-09-18T07:53:23.678264851Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 93:5",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 93,
+  "translation": "Izibizo zakho zinemvisiswano ngokwenene; ukungcwele kuyamgqokisa ⟨indlu⟩ yakho, uYahwe, ukude iintsuku.",
+  "tokens": [
+    {
+      "surface": "עדתיך",
+      "gloss": "izibizo zakho"
+    },
+    {
+      "surface": "נאמנו",
+      "gloss": "zinemvisiswano"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ngokwenene"
+    },
+    {
+      "surface": "לביתך",
+      "gloss": "endlwini yakho"
+    },
+    {
+      "surface": "נאוה",
+      "gloss": "kuyamgqokisa"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "ukungcwele"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "לארך",
+      "gloss": "ukude"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "iintsuku"
+    }
+  ],
+  "timestamp": "2026-09-18T15:09:15.392325781Z",
+  "model": "glm-5.3"
+}

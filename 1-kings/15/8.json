@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 15:8",
+  "book": "1-kings",
+  "lang": "xh",
+  "chapter": 15,
+  "translation": "Waze walala uAbhiyam nooyise bakhe, bamngcwaba ⟨את⟩ esixekwenini sikaDawidi; wabusa uAsa unyana bakhe endaweni yakhe.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "Waze walala"
+    },
+    {
+      "surface": "אבים",
+      "gloss": "uAbhiyam"
+    },
+    {
+      "surface": "עם",
+      "gloss": "no-"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "ooyise bakhe"
+    },
+    {
+      "surface": "ויקברו",
+      "gloss": "bamngcwaba"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "uAbhiyam (lona εshuswa yidativa)"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "esixekwenini"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "sikaDawidi"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "wabusa"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "uAsa"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "unyana bakhe"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "endaweni yakhe"
+    }
+  ],
+  "timestamp": "2026-09-18T10:29:08.271791163Z",
+  "model": "glm-5.3"
+}

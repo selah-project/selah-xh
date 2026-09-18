@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 74:1",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 74,
+  "translation": "Incwadi yolwazi (umaskhili) kaAsaf. Kutheni, uElohim, wasilahla ngonaphakade? kutheni inhlwa yakho iyabhemba phezu kwezimvu zokufuyiswa kwakho?",
+  "tokens": [
+    {
+      "surface": "משכיל",
+      "gloss": "incwadi yolwazi (umaskhili)"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "kaAsaf"
+    },
+    {
+      "surface": "למה",
+      "gloss": "kutheni"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "זנחת",
+      "gloss": "wasilahla"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "ngonaphakade"
+    },
+    {
+      "surface": "יעשן",
+      "gloss": "iyabhemba"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "inhlwa yakho"
+    },
+    {
+      "surface": "בצאן",
+      "gloss": "phezu kwezimvu"
+    },
+    {
+      "surface": "מרעיתך",
+      "gloss": "zokufuyiswa kwakho"
+    }
+  ],
+  "timestamp": "2026-09-18T15:02:04.671766705Z",
+  "model": "glm-5.3"
+}

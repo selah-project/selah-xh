@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "hosea 8:1",
+  "book": "hosea",
+  "lang": "xh",
+  "chapter": 8,
+  "translation": "Kumlomo wakho, isiphoro — njengenkosi-yezulu phezu kabantwana bentlu kaYahwe: kuba bagabadela umnqophiso wam, kwaye ngokuchasene neTora yam bagabadela.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "kwi"
+    },
+    {
+      "surface": "חכך",
+      "gloss": "umlomo wakho"
+    },
+    {
+      "surface": "שפר",
+      "gloss": "isiphoro"
+    },
+    {
+      "surface": "כנשר",
+      "gloss": "njengenkosi-yezulu"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu"
+    },
+    {
+      "surface": "בית",
+      "gloss": "bantwana bentlu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kaYahwe"
+    },
+    {
+      "surface": "יען",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "bagabadela"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "umnqophiso wam"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "kwaye ngokuchasene"
+    },
+    {
+      "surface": "תורתי",
+      "gloss": "iTora yam"
+    },
+    {
+      "surface": "פשעו",
+      "gloss": "bagabadela"
+    }
+  ],
+  "timestamp": "2026-09-18T13:47:04.590597444Z",
+  "model": "glm-5.3"
+}

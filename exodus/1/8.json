@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 1:8",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 1,
+  "translation": "Wavuka inkosi entsha phezu kweMitsrayim, engaziyo ⟨את⟩ uYosef.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "wavuka"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "inkosi"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "entsha"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu kw-"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "iMitsrayim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "engaziyo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hayi"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "azi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uYosef"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "uYosef"
+    }
+  ],
+  "timestamp": "2026-09-18T05:47:17.050165689Z",
+  "model": "glm-5.3"
+}

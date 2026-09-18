@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 18:3",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 18,
+  "translation": "kunye ⟨את⟩ oonyana bakhe ababini, apho igama lomnye nguGershom, kuba wathetha wathi: ndingumangci ndandinguye ezweni elingelilo elam.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "kunye ⟨את⟩"
+    },
+    {
+      "surface": "שני",
+      "gloss": "ababini"
+    },
+    {
+      "surface": "בניה",
+      "gloss": "oonyana bakhe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "apho"
+    },
+    {
+      "surface": "שם",
+      "gloss": "igama"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "lomnye"
+    },
+    {
+      "surface": "גרשם",
+      "gloss": "nguGershom"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "wathetha wathi"
+    },
+    {
+      "surface": "גר",
+      "gloss": "ndingumangci"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "ndandinguye"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ezweni"
+    },
+    {
+      "surface": "נכריה",
+      "gloss": "elingelilo elam"
+    }
+  ],
+  "timestamp": "2026-09-18T06:07:03.162729824Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "leviticus 25:24",
+  "book": "leviticus",
+  "lang": "xh",
+  "chapter": 25,
+  "translation": "Kulo lonke umhlaba wokubamba kwenu, ninika imbuyiselo ⟨ku⟩umhlaba.",
+  "tokens": [
+    {
+      "surface": "ובכל",
+      "gloss": "kulo lonke"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "umhlaba"
+    },
+    {
+      "surface": "אחזתכם",
+      "gloss": "wokubamba kwenu"
+    },
+    {
+      "surface": "גאלה",
+      "gloss": "imbuyiselo"
+    },
+    {
+      "surface": "תתנו",
+      "gloss": "ninika"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "umhlaba"
+    }
+  ],
+  "timestamp": "2026-09-18T07:03:13.891400326Z",
+  "model": "glm-5.3"
+}

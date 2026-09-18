@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "zephaniah 3:15",
+  "book": "zephaniah",
+  "lang": "xh",
+  "chapter": 3,
+  "translation": "UYahwe wasusa izigwebo zakho, waphelisa utshaba lwakho; iKumkani kaIsrayeli, uYahwe, ulapha phakathi kwakho; usayi koyika ububi kwakhona.",
+  "tokens": [
+    {
+      "surface": "הסיר",
+      "gloss": "wasusa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "izigwebo zakho"
+    },
+    {
+      "surface": "פנה",
+      "gloss": "waphelisa"
+    },
+    {
+      "surface": "איבך",
+      "gloss": "utshaba lwakho"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "iKumkani"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "kaIsrayeli"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "בקרבך",
+      "gloss": "ulapha phakathi kwakho"
+    },
+    {
+      "surface": "לא",
+      "gloss": "u-"
+    },
+    {
+      "surface": "תיראי",
+      "gloss": "sayi koyika"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ububi"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "kwakhona"
+    }
+  ],
+  "timestamp": "2026-09-18T14:11:52.995114645Z",
+  "model": "glm-5.3"
+}

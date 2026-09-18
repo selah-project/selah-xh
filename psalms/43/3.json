@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 43:3",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 43,
+  "translation": "Thumela ukhanyo lwakho nenyaniso yakho; zona ziza kundikhokela, zindise entabeni yakho ingcwele nakwiindawo zakho zokuhlala.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "Thumela"
+    },
+    {
+      "surface": "אורך",
+      "gloss": "ukhanyo lwakho"
+    },
+    {
+      "surface": "ואמתך",
+      "gloss": "nenyaniso yakho"
+    },
+    {
+      "surface": "המה",
+      "gloss": "zona"
+    },
+    {
+      "surface": "ינחוני",
+      "gloss": "ziza kundikhokela"
+    },
+    {
+      "surface": "יביאוני",
+      "gloss": "zindise"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "הר",
+      "gloss": "entabeni"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "ingcwele yakho"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "nakwi"
+    },
+    {
+      "surface": "משכנותיך",
+      "gloss": "iindawo zakho zokuhlala"
+    }
+  ],
+  "timestamp": "2026-09-18T14:45:38.430297590Z",
+  "model": "glm-5.3"
+}

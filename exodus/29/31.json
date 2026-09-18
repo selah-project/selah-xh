@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 29:31",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 29,
+  "translation": "Waze uthabathe ⟨את⟩ isila segusha sokuzalisa kwamagama, ubilise inyama yayo ⟨את⟩ endaweni engcwele.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "isila segusha"
+    },
+    {
+      "surface": "איל",
+      "gloss": "isila segusha"
+    },
+    {
+      "surface": "המלאים",
+      "gloss": "sokuzalisa kwamagama"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "uthabathe"
+    },
+    {
+      "surface": "ובשלת",
+      "gloss": "ubilise"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "inyama yayo"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "inyama yayo"
+    },
+    {
+      "surface": "במקם",
+      "gloss": "endaweni"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "engcwele"
+    }
+  ],
+  "timestamp": "2026-09-18T06:17:49.252760613Z",
+  "model": "glm-5.3"
+}

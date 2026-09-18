@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 77:20",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 77,
+  "translation": "Endleleni yakho useselwandle, neendlela zakho ezimanzi amaninzi, kunye namakhonkco ezinyawo zakho awazanga aziwa.",
+  "tokens": [
+    {
+      "surface": "בים",
+      "gloss": "seselwandle"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "Indlela yakho"
+    },
+    {
+      "surface": "ושביליך",
+      "gloss": "neendlela zakho"
+    },
+    {
+      "surface": "במים",
+      "gloss": "ezimanzi"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "amaninzi"
+    },
+    {
+      "surface": "ועקבותיך",
+      "gloss": "kunye namakhonkco ezinyawo zakho"
+    },
+    {
+      "surface": "לא",
+      "gloss": "a-"
+    },
+    {
+      "surface": "נדעו",
+      "gloss": "zanga aziwa"
+    }
+  ],
+  "timestamp": "2026-09-18T15:01:23.742228402Z",
+  "model": "glm-5.3"
+}

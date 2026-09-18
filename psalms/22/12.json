@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 22:12",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 22,
+  "translation": "Musa ukusuka kude kum, kuba ucindezelo lusedu, kuba akukho mncedi.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Musa uku-"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "suka kude"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "kum"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "ucindezelo"
+    },
+    {
+      "surface": "קרובה",
+      "gloss": "lusedu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "אין",
+      "gloss": "akukho"
+    },
+    {
+      "surface": "עוזר",
+      "gloss": "mncedi"
+    }
+  ],
+  "timestamp": "2026-09-18T14:34:37.865528530Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 45:17",
+  "book": "isaiah",
+  "lang": "xh",
+  "chapter": 45,
+  "translation": "IYisrayeli isindiswe kuYahwe, intsindiso yamaxesha amaphakade; aniyi kuziswa intluleko kananjalo aniyi kudideka, kuinkathi zamaphakade.",
+  "tokens": [
+    {
+      "surface": "ישראל",
+      "gloss": "IYisrayeli"
+    },
+    {
+      "surface": "נושע",
+      "gloss": "isindiswe"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "kuYahwe"
+    },
+    {
+      "surface": "תשועת",
+      "gloss": "intsindiso"
+    },
+    {
+      "surface": "עולמים",
+      "gloss": "yamaxesha amaphakade"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ayi"
+    },
+    {
+      "surface": "תבשו",
+      "gloss": "kuziswa intluleko"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kananjalo ayi"
+    },
+    {
+      "surface": "תכלמו",
+      "gloss": "kudideka"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ku"
+    },
+    {
+      "surface": "עולמי",
+      "gloss": "inkathi zamaphakade"
+    },
+    {
+      "surface": "עד",
+      "gloss": "elingapheliyo"
+    }
+  ],
+  "timestamp": "2026-09-18T11:37:17.299930450Z",
+  "model": "glm-5.3"
+}

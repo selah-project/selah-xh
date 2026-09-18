@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 16:30",
+  "book": "leviticus",
+  "lang": "xh",
+  "chapter": 16,
+  "translation": "Kuba ngalolu suku uya kuxolela nina ukucoca ⟨את⟩ nina kuzo zonke izono zenu; phambi kukaYahwe niya kucocwa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ngalolu"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "suku"
+    },
+    {
+      "surface": "יכפר",
+      "gloss": "uya kuxolela"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "nina"
+    },
+    {
+      "surface": "לטהר",
+      "gloss": "ukucoca"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ nina",
+      "marks": "nina"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "kuzo zonke"
+    },
+    {
+      "surface": "חטאתיכם",
+      "gloss": "izono zenu"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "phambi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kukaYahwe"
+    },
+    {
+      "surface": "תטהרו",
+      "gloss": "niya kucocwa"
+    }
+  ],
+  "timestamp": "2026-09-18T06:56:18.243599010Z",
+  "model": "glm-5.3"
+}

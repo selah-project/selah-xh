@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 28:1",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 28,
+  "translation": "KAkaDavide. Kuwe, Yahwe, ndikubiza; idwala lam, musa ukuthula kum, hleze uthule kum, ndifane nabahla emgodini.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "kaDavide"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "Kuwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "ndikubiza"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "idwala lam"
+    },
+    {
+      "surface": "אל",
+      "gloss": "musa"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "ukuthula"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "kungadinga"
+    },
+    {
+      "surface": "פן",
+      "gloss": "hleze"
+    },
+    {
+      "surface": "תחשה",
+      "gloss": "uthule"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "kungadinga"
+    },
+    {
+      "surface": "ונמשלתי",
+      "gloss": "ndifane"
+    },
+    {
+      "surface": "עם",
+      "gloss": "na-"
+    },
+    {
+      "surface": "יורדי",
+      "gloss": "abahla"
+    },
+    {
+      "surface": "בור",
+      "gloss": "emgodini"
+    }
+  ],
+  "timestamp": "2026-09-18T14:39:28.364161109Z",
+  "model": "glm-5.3"
+}

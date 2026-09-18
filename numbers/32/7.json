@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 32:7",
+  "book": "numbers",
+  "lang": "xh",
+  "chapter": 32,
+  "translation": "Kutheni nikhuthazela intliziyo yomnyana kaSirayeli ukungadluli elubhacweni uYahwe anike wona?",
+  "tokens": [
+    {
+      "surface": "ולמה",
+      "gloss": "kutheni"
+    },
+    {
+      "surface": "תנואון",
+      "gloss": "nikhuthazela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "intliziyo yomnyana kaSirayeli"
+    },
+    {
+      "surface": "לב",
+      "gloss": "intliziyo"
+    },
+    {
+      "surface": "בני",
+      "gloss": "yomnyana ka-"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Sirayeli"
+    },
+    {
+      "surface": "מעבר",
+      "gloss": "ukungadluli"
+    },
+    {
+      "surface": "אל",
+      "gloss": "elubhacweni"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "elubhacweni"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ona"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "anike"
+    },
+    {
+      "surface": "להם",
+      "gloss": "wo-"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    }
+  ],
+  "timestamp": "2026-09-18T07:43:57.981711093Z",
+  "model": "glm-5.3"
+}

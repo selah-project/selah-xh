@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 13:10",
+  "book": "job",
+  "lang": "xh",
+  "chapter": 13,
+  "translation": "Uya kusolisa, uya kunika isigwebo ⟨את⟩ nina, ukuba nithatha ubuso ngokufihlakeleyo.",
+  "tokens": [
+    {
+      "surface": "הוכח",
+      "gloss": "uya kusolisa"
+    },
+    {
+      "surface": "יוכיח",
+      "gloss": "uya kunika isigwebo"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "nina"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ukuba"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "ngokufihlakeleyo"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "ubuso"
+    },
+    {
+      "surface": "תשאון",
+      "gloss": "nithatha"
+    }
+  ],
+  "timestamp": "2026-09-18T16:03:31.817464714Z",
+  "model": "glm-5.3"
+}

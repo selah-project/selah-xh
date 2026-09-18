@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 7:2",
+  "book": "deuteronomy",
+  "lang": "xh",
+  "chapter": 7,
+  "translation": "uYahwe uElohim wakho uzinike phambi kwakho, wazibetha; utshatyalalise ngokupheleleyo ⟨אתם⟩ — ungakhi ubumnqophiso kubo, ungabaxoleli.",
+  "tokens": [
+    {
+      "surface": "ונתנם",
+      "gloss": "uzinike"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "uElohim wakho"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "phambi kwakho"
+    },
+    {
+      "surface": "והכיתם",
+      "gloss": "wazibetha"
+    },
+    {
+      "surface": "החרם",
+      "gloss": "utshatyalalise"
+    },
+    {
+      "surface": "תחרים",
+      "gloss": "ngokupheleleyo"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "iintlanga ezikhankanyiweyo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hayi"
+    },
+    {
+      "surface": "תכרת",
+      "gloss": "ungakhi"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kubo"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "ubumnqophiso"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kwaye hayi"
+    },
+    {
+      "surface": "תחנם",
+      "gloss": "ungabaxoleli"
+    }
+  ],
+  "timestamp": "2026-09-18T08:00:30.003128807Z",
+  "model": "glm-5.3"
+}

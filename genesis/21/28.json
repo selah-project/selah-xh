@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 21:28",
+  "book": "genesis",
+  "lang": "xh",
+  "chapter": 21,
+  "translation": "U-Avraham wamisela ehle ⟨את⟩ amakhoswe asixhenxe eziyimvu zodwa.",
+  "tokens": [
+    {
+      "surface": "ויצב",
+      "gloss": "wamisela ehle"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "u-Avraham"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amakhoswe asixhenxe"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "asixhenxe"
+    },
+    {
+      "surface": "כבשת",
+      "gloss": "amakhoswe"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "eziyimvu"
+    },
+    {
+      "surface": "לבדהן",
+      "gloss": "zodwa"
+    }
+  ],
+  "timestamp": "2026-09-18T05:18:00.283727642Z",
+  "model": "glm-5.3"
+}

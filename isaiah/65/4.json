@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 65:4",
+  "book": "isaiah",
+  "lang": "xh",
+  "chapter": 65,
+  "translation": "Abahlala phakathi emangcwaba, balala kwindawo ezivaliweyo; abatya inyama yehagu, nomhluzi wezinto ezingcolileyo ukho kuzo izitya zabo.",
+  "tokens": [
+    {
+      "surface": "הישבים",
+      "gloss": "abahlala"
+    },
+    {
+      "surface": "בקברים",
+      "gloss": "emangcwaba"
+    },
+    {
+      "surface": "ובנצורים",
+      "gloss": "kwindawo ezivaliweyo"
+    },
+    {
+      "surface": "ילינו",
+      "gloss": "balala"
+    },
+    {
+      "surface": "האכלים",
+      "gloss": "abatya"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "inyama"
+    },
+    {
+      "surface": "החזיר",
+      "gloss": "yehagu"
+    },
+    {
+      "surface": "ופרק",
+      "gloss": "nomhluzi"
+    },
+    {
+      "surface": "פגלים",
+      "gloss": "wezinto ezingcolileyo"
+    },
+    {
+      "surface": "כליהם",
+      "gloss": "izitya zabo"
+    }
+  ],
+  "timestamp": "2026-09-18T11:50:40.579085322Z",
+  "model": "glm-5.3"
+}

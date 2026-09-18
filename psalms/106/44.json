@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "psalms 106:44",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 106,
+  "translation": "Wajonga ubunzima babo, kwathi eseva ukukhalisa kwabo ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "Wajonga"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "ubunzima"
+    },
+    {
+      "surface": "להם",
+      "gloss": "babо"
+    },
+    {
+      "surface": "בשמעו",
+      "gloss": "kwathi eseva"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ukukhalisa kwabo"
+    },
+    {
+      "surface": "רנתם",
+      "gloss": "ukukhalisa kwabo"
+    }
+  ],
+  "timestamp": "2026-09-18T15:16:54.792938200Z",
+  "model": "glm-5.3"
+}

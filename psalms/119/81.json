@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 81,
+  "ref": "psalms 119:81",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 119,
+  "translation": "Uphumlelwe kukusindiswa kwakho umphefumlo wam; ngelizwi lakho ndilindele.",
+  "tokens": [
+    {
+      "surface": "כלתה",
+      "gloss": "uphumlelwe"
+    },
+    {
+      "surface": "לתשועתך",
+      "gloss": "ukusindiswa kwakho"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "umphefumlo wam"
+    },
+    {
+      "surface": "לדברך",
+      "gloss": "ngelizwi lakho"
+    },
+    {
+      "surface": "יחלתי",
+      "gloss": "ndilindele"
+    }
+  ],
+  "timestamp": "2026-09-18T17:45:20.520347009Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 18:15",
+  "book": "2-kings",
+  "lang": "xh",
+  "chapter": 18,
+  "translation": "UKhizqiya wakanika ⟨את⟩ isilivere yonke eyayifunyanwe endlwini kaYahwe nakwiindawo zokugcina zendlu yenkosi.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "wakanika"
+    },
+    {
+      "surface": "חזקיה",
+      "gloss": "uKhizqiya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isilivere yonke"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yonke"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "isilivere"
+    },
+    {
+      "surface": "הנמצא",
+      "gloss": "eyayifunyanwe"
+    },
+    {
+      "surface": "בית",
+      "gloss": "endlwini"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kaYahwe"
+    },
+    {
+      "surface": "ובאצרות",
+      "gloss": "nakwiindawo zokugcina"
+    },
+    {
+      "surface": "בית",
+      "gloss": "zendlu"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "yenkosi"
+    }
+  ],
+  "timestamp": "2026-09-18T10:51:47.296085100Z",
+  "model": "glm-5.3"
+}

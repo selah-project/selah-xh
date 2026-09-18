@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 33:9",
+  "book": "isaiah",
+  "lang": "xh",
+  "chapter": 33,
+  "translation": "Izwe liyazila, liyaphela amandla; iLebanoni ihlazekile, yomile; iSharoni yaba njengongcango; iBashani neKarmeli ziyazikhulula iziqhamo.",
+  "tokens": [
+    {
+      "surface": "אבל",
+      "gloss": "liyazila"
+    },
+    {
+      "surface": "אמללה",
+      "gloss": "liyaphela amandla"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "izwe"
+    },
+    {
+      "surface": "החפיר",
+      "gloss": "ihlazekile"
+    },
+    {
+      "surface": "לבנון",
+      "gloss": "iLebanoni"
+    },
+    {
+      "surface": "קמל",
+      "gloss": "yomile"
+    },
+    {
+      "surface": "היה",
+      "gloss": "yaba"
+    },
+    {
+      "surface": "השרון",
+      "gloss": "iSharoni"
+    },
+    {
+      "surface": "כערבה",
+      "gloss": "njengongcango"
+    },
+    {
+      "surface": "ונער",
+      "gloss": "ziyazikhulula"
+    },
+    {
+      "surface": "בשן",
+      "gloss": "iBashani"
+    },
+    {
+      "surface": "וכרמל",
+      "gloss": "neKarmeli"
+    }
+  ],
+  "timestamp": "2026-09-18T11:21:09.536788510Z",
+  "model": "glm-5.3"
+}

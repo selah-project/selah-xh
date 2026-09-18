@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "zechariah 11:8",
+  "book": "zechariah",
+  "lang": "xh",
+  "chapter": 11,
+  "translation": "Ndaza ndazicima ⟨את⟩ abafuyi abathathu ngenyanga enye; umphefumlo wam wakhathala kubo, yaye numphefumlo wabo wawundiqabda mna.",
+  "tokens": [
+    {
+      "surface": "ואכחד",
+      "gloss": "ndaza ndazicima"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abafuyi abathathu"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "abathathu"
+    },
+    {
+      "surface": "הרעים",
+      "gloss": "abafuyi"
+    },
+    {
+      "surface": "בירח",
+      "gloss": "ngenyanga"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "enye"
+    },
+    {
+      "surface": "ותקצר",
+      "gloss": "wakhathala"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "umphefumlo wam"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "kubo"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "yaye na-"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "umphefumlo wabo"
+    },
+    {
+      "surface": "בחלה",
+      "gloss": "wawundiqabda"
+    },
+    {
+      "surface": "בי",
+      "gloss": "mna"
+    }
+  ],
+  "timestamp": "2026-09-18T14:24:18.965342691Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-samuel 30:30",
+  "book": "1-samuel",
+  "lang": "xh",
+  "chapter": 30,
+  "translation": "Nakwabo ababeleKhoruma, nakwabo ababeBor-Ashan, nakwabo ababeAthaki,",
+  "tokens": [
+    {
+      "surface": "ולאשר",
+      "gloss": "nakwabo ababe"
+    },
+    {
+      "surface": "בחרמה",
+      "gloss": "eKhoruma"
+    },
+    {
+      "surface": "ולאשר",
+      "gloss": "nakwabo ababe"
+    },
+    {
+      "surface": "בבור",
+      "gloss": "eBor-"
+    },
+    {
+      "surface": "עשן",
+      "gloss": "Ashan"
+    },
+    {
+      "surface": "ולאשר",
+      "gloss": "nakwabo ababe"
+    },
+    {
+      "surface": "בעתך",
+      "gloss": "eAthaki"
+    }
+  ],
+  "timestamp": "2026-09-18T09:38:04.271418420Z",
+  "model": "glm-5.3"
+}

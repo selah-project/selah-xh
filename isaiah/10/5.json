@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 10:5",
+  "book": "isaiah",
+  "lang": "xh",
+  "chapter": 10,
+  "translation": "Yeha kwiAshuri, intonga yolaka lwam; ithamsanqa elisandleni sabo yindlwalo yam.",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Yeha"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "kwiAshuri"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "intonga"
+    },
+    {
+      "surface": "אפי",
+      "gloss": "yolaka lwam"
+    },
+    {
+      "surface": "ומטה",
+      "gloss": "ithamsanqa"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "eli"
+    },
+    {
+      "surface": "בידם",
+      "gloss": "elisandleni sabo"
+    },
+    {
+      "surface": "זעמי",
+      "gloss": "yindlwalo yam"
+    }
+  ],
+  "timestamp": "2026-09-18T11:09:17.820880074Z",
+  "model": "glm-5.3"
+}

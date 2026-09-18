@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 131:3",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 131,
+  "translation": "Makalinde uSirayeli kuYahwe, ukususela ngoku nangunaphakade.",
+  "tokens": [
+    {
+      "surface": "יחל",
+      "gloss": "Makalinde"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "uSirayeli"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "ukususela ngoku"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "nangu-"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "phakade"
+    }
+  ],
+  "timestamp": "2026-09-18T15:27:12.449003449Z",
+  "model": "glm-5.3"
+}

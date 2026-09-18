@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 146:1",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 146,
+  "translation": "Dumisani uYah; dumisa, moya wam, ⟨את⟩ uYahwe.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Dumisani"
+    },
+    {
+      "surface": "יה",
+      "gloss": "uYah"
+    },
+    {
+      "surface": "הללי",
+      "gloss": "dumisa"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "moya wam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uYahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    }
+  ],
+  "timestamp": "2026-09-18T15:33:40.849037824Z",
+  "model": "glm-5.3"
+}

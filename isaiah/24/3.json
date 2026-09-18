@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 24:3",
+  "book": "isaiah",
+  "lang": "xh",
+  "chapter": 24,
+  "translation": "Ngokutshatyalalisa kupheleleyo ihlabathi, lize lityaxitywe ngokupheleleyo, kuba uYahwe wathetha ⟨את⟩ lo myalelo.",
+  "tokens": [
+    {
+      "surface": "הבוק",
+      "gloss": "Ngokutshatyalalisa"
+    },
+    {
+      "surface": "תבוק",
+      "gloss": "kupheleleyo kutshatyalaliswa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ihlabathi"
+    },
+    {
+      "surface": "והבוז",
+      "gloss": "kwaye ngokutyaxa"
+    },
+    {
+      "surface": "תבוז",
+      "gloss": "kutyaxitywa ngokupheleleyo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "wathetha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lo myalelo"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "lo myalelo"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "lo"
+    }
+  ],
+  "timestamp": "2026-09-18T11:20:14.281692006Z",
+  "model": "glm-5.3"
+}

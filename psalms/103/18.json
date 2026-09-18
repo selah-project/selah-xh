@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 103:18",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 103,
+  "translation": "Kwabo bagcina umnqophiso wakhe, nakwabo kukhumbula iimiyalelo yakhe ukuzisebenzisa ngoko.",
+  "tokens": [
+    {
+      "surface": "לשמרי",
+      "gloss": "kwabo bagcina"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "umnqophiso wakhe"
+    },
+    {
+      "surface": "ולזכרי",
+      "gloss": "nakwabo kukhumbula"
+    },
+    {
+      "surface": "פקדיו",
+      "gloss": "iimiyalelo yakhe"
+    },
+    {
+      "surface": "לעשותם",
+      "gloss": "ukuzisebenzisa"
+    }
+  ],
+  "timestamp": "2026-09-18T15:13:24.050288039Z",
+  "model": "glm-5.3"
+}

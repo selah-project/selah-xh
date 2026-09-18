@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 23:8",
+  "book": "1-samuel",
+  "lang": "xh",
+  "chapter": 23,
+  "translation": "UShawuli wabizela ⟨את⟩ wonke umntu ukuya kwimfazwe, ukwehla iKeyila, ukuzingela uDawidi nabantu bakhe.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "wabizela"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "uShawuli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wonke umntu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wonke"
+    },
+    {
+      "surface": "העם",
+      "gloss": "umntu"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "ukuya kwimfazwe"
+    },
+    {
+      "surface": "לרדת",
+      "gloss": "ukwehla"
+    },
+    {
+      "surface": "קעילה",
+      "gloss": "iKeyila"
+    },
+    {
+      "surface": "לצור",
+      "gloss": "ukuzingela"
+    },
+    {
+      "surface": "אל",
+      "gloss": "u-"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "uDawidi"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "no-"
+    },
+    {
+      "surface": "אנשיו",
+      "gloss": "abantu bakhe"
+    }
+  ],
+  "timestamp": "2026-09-18T09:34:05.712974840Z",
+  "model": "glm-5.3"
+}

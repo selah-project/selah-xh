@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 6:5",
+  "book": "ecclesiastes",
+  "lang": "xh",
+  "chapter": 6,
+  "translation": "Kananjalo ilanga alalibonanga, yaye akazanga alazi: ulwangca ⟨lona⟩ lunokhululeko kunalo lo.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Kananjalo"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "ilanga"
+    },
+    {
+      "surface": "לא",
+      "gloss": "akalibonanga"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "alibonanga"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "yaye akazanga"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "alazi"
+    },
+    {
+      "surface": "נחת",
+      "gloss": "ukhululeko (ulwangca)"
+    },
+    {
+      "surface": "לזה",
+      "gloss": "kunalo lona"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "kunale (lo)"
+    }
+  ],
+  "timestamp": "2026-09-18T16:26:19.599177077Z",
+  "model": "glm-5.3"
+}

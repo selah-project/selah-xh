@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 38:5",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 38,
+  "translation": "Kuba iimphazamo zam zidlule phezu kwentloko yam; njengomthwalo omzito, zinzima ngokwedlula kum.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "עונתי",
+      "gloss": "iimphazamo zam"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "zidlule"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "phezu kwentloko yam"
+    },
+    {
+      "surface": "כמשא",
+      "gloss": "njengomthwalo"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "omzito"
+    },
+    {
+      "surface": "יכבדו",
+      "gloss": "zinzima ngokwedlula"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "kum"
+    }
+  ],
+  "timestamp": "2026-09-18T14:43:22.644173962Z",
+  "model": "glm-5.3"
+}

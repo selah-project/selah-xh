@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 141:5",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 141,
+  "translation": "Makanditshike ulungileyo — yiikhesedi; makandigxeke — yimafutha okhanda; makungawali ukhanda lam; kuba ithandazo yam iyaqhubeka nakwiimbi zabo.",
+  "tokens": [
+    {
+      "surface": "יהלמני",
+      "gloss": "makanditshike"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ulungileyo"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "ikhesedi"
+    },
+    {
+      "surface": "ויוכיחני",
+      "gloss": "makandigxeke"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "mafutha"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "okhanda"
+    },
+    {
+      "surface": "אל",
+      "gloss": "makungaze"
+    },
+    {
+      "surface": "יני",
+      "gloss": "-wali"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "ukhanda lam"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "iyaqhubeka"
+    },
+    {
+      "surface": "ותפלתי",
+      "gloss": "ithandazo yam"
+    },
+    {
+      "surface": "ברעותיהם",
+      "gloss": "nakwiimbi zabo"
+    }
+  ],
+  "timestamp": "2026-09-18T17:45:22.685642973Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 64:1",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 64,
+  "translation": "Kumlawuli: idumi likaDawidi.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Kumlawuli"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "idumi"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "likaDawidi"
+    }
+  ],
+  "timestamp": "2026-09-18T14:54:48.426051099Z",
+  "model": "glm-5.3"
+}

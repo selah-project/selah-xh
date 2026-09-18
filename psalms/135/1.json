@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 135:1",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 135,
+  "translation": "Dumani uYah, dumani ⟨את⟩ igama likaYahwe, dumani, nabenziinkonzo kaYahwe;",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Dumani"
+    },
+    {
+      "surface": "יה",
+      "gloss": "uYah"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "dumani"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "igama"
+    },
+    {
+      "surface": "שם",
+      "gloss": "igama"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "likaYahwe"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "dumani"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "nabenziinkonzo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kaYahwe"
+    }
+  ],
+  "timestamp": "2026-09-18T15:28:47.001621394Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 20:4",
+  "book": "numbers",
+  "lang": "xh",
+  "chapter": 20,
+  "translation": "Kwaye nitheni nisilethe ⟨את⟩ iqela likaYahwe kule wandlala, ukuba sife khona thina neenkomazi zethu?",
+  "tokens": [
+    {
+      "surface": "ולמה",
+      "gloss": "Kwaye nitheni"
+    },
+    {
+      "surface": "הבאתם",
+      "gloss": "nisilethe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iqela likaYahwe"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "iqela"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "likaYahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "le wandlala"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "u"
+    },
+    {
+      "surface": "למות",
+      "gloss": "ukuba sife"
+    },
+    {
+      "surface": "שם",
+      "gloss": "khona"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "thina"
+    },
+    {
+      "surface": "ובעירנו",
+      "gloss": "neenkomazi zethu"
+    }
+  ],
+  "timestamp": "2026-09-18T07:33:44.019457974Z",
+  "model": "glm-5.3"
+}

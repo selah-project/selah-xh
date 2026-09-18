@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 32:2",
+  "book": "genesis",
+  "lang": "xh",
+  "chapter": 32,
+  "translation": "uYakob waya endleleni yakhe, aze adibana naye abathunywa bekaElohim.",
+  "tokens": [
+    {
+      "surface": "ויעקב",
+      "gloss": "uYakob"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "waya"
+    },
+    {
+      "surface": "לדרכו",
+      "gloss": "endleleni yakhe"
+    },
+    {
+      "surface": "ויפגעו",
+      "gloss": "aze adibana naye"
+    },
+    {
+      "surface": "בו",
+      "gloss": "naye"
+    },
+    {
+      "surface": "מלאכי",
+      "gloss": "abathunywa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "kaElohim"
+    }
+  ],
+  "timestamp": "2026-09-18T05:29:58.441029530Z",
+  "model": "glm-5.3"
+}

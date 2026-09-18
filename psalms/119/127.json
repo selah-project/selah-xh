@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 127,
+  "ref": "psalms 119:127",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 119,
+  "translation": "Ngenxa yoko ndithanda imiyalelo yakho ngaphezu kwegolide, ewe, ngaphezu kwegolide ecociweyo.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "ngenxa"
+    },
+    {
+      "surface": "כן",
+      "gloss": "yoko"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "ndithanda"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "imiyalelo yakho"
+    },
+    {
+      "surface": "מזהב",
+      "gloss": "ngaphezu kwegolide"
+    },
+    {
+      "surface": "ומפז",
+      "gloss": "ewe, ngaphezu kwegolide ecociweyo"
+    }
+  ],
+  "timestamp": "2026-09-18T15:25:16.090236932Z",
+  "model": "glm-5.3"
+}

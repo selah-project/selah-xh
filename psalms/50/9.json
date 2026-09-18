@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 50:9",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 50,
+  "translation": "Andizukuthabatha inkunzi yenkomo endlwini yakho, hayi iibhokhwe ezindala ezibolweni zakho.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "hayi"
+    },
+    {
+      "surface": "אקח",
+      "gloss": "andizukuthabatha"
+    },
+    {
+      "surface": "מביתך",
+      "gloss": "endlwini yakho"
+    },
+    {
+      "surface": "פר",
+      "gloss": "inkunzi yenkomo"
+    },
+    {
+      "surface": "ממכלאתיך",
+      "gloss": "ezibolweni zakho"
+    },
+    {
+      "surface": "עתודים",
+      "gloss": "iibhokhwe ezindala"
+    }
+  ],
+  "timestamp": "2026-09-18T14:46:29.233078142Z",
+  "model": "glm-5.3"
+}

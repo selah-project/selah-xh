@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 19:4",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 19,
+  "translation": "Nina nibonile oko bendikwenzile iMitsrayim, naza ndininwusela phezu kweempiko zeziqhinga, ndazisa nina kum.",
+  "tokens": [
+    {
+      "surface": "אתם",
+      "gloss": "Nina"
+    },
+    {
+      "surface": "ראיתם",
+      "gloss": "nibonile"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oko"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "bendikwenzile"
+    },
+    {
+      "surface": "למצרים",
+      "gloss": "iMitsrayim"
+    },
+    {
+      "surface": "ואשא",
+      "gloss": "naza ndininwusela"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "nina"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu kwe-"
+    },
+    {
+      "surface": "כנפי",
+      "gloss": "empiko ze-"
+    },
+    {
+      "surface": "נשרים",
+      "gloss": "ziqhinga"
+    },
+    {
+      "surface": "ואבא",
+      "gloss": "ndazisa"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "nina"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kum"
+    }
+  ],
+  "timestamp": "2026-09-18T06:04:54.042853419Z",
+  "model": "glm-5.3"
+}

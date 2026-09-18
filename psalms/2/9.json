@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 2:9",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 2,
+  "translation": "Uza kubagiba ngesikhuni seitjinsi; njengesitya somdeki uza kubachitha-nqaba.",
+  "tokens": [
+    {
+      "surface": "תרעם",
+      "gloss": "uza kubagiba"
+    },
+    {
+      "surface": "בשבט",
+      "gloss": "ngesikhuni"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "seitjinsi"
+    },
+    {
+      "surface": "ככלי",
+      "gloss": "njengesitya"
+    },
+    {
+      "surface": "יוצר",
+      "gloss": "somdeki"
+    },
+    {
+      "surface": "תנפצם",
+      "gloss": "uza kubachitha-nqaba"
+    }
+  ],
+  "timestamp": "2026-09-18T14:25:28.170907347Z",
+  "model": "glm-5.3"
+}

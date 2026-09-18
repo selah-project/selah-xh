@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 30:2",
+  "book": "1-samuel",
+  "lang": "xh",
+  "chapter": 30,
+  "translation": "Batshatha abasetyhini ababetho, esincinane nangangomkulu; ababulanga mntu, batshatha batya besiya endleleni yabo.",
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "Batshatha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abasetyhini"
+    },
+    {
+      "surface": "הנשים",
+      "gloss": "abasetyhini"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aba-"
+    },
+    {
+      "surface": "בה",
+      "gloss": "tho"
+    },
+    {
+      "surface": "מקטן",
+      "gloss": "esincinane"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "nangangomu-"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "kulu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "akwa-"
+    },
+    {
+      "surface": "המיתו",
+      "gloss": "bulanga"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mntu"
+    },
+    {
+      "surface": "וינהגו",
+      "gloss": "batshatha bekhokhela"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "batya besiya"
+    },
+    {
+      "surface": "לדרכם",
+      "gloss": "endleleni yabo"
+    }
+  ],
+  "timestamp": "2026-09-18T09:40:31.989880060Z",
+  "model": "glm-5.3"
+}

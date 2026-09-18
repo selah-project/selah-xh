@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 19:10",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 19,
+  "translation": "Wathetha uYahwe kuMoshe: “Yiya kubantu, ubangcwele ngamhla namhlanje nangomso, baze batyhapha ingubo zabo.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wathetha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לך",
+      "gloss": "yiya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "העם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "וקדשתם",
+      "gloss": "ubangcwele"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ngamhla namhlanje"
+    },
+    {
+      "surface": "ומחר",
+      "gloss": "nangomso"
+    },
+    {
+      "surface": "וכבסו",
+      "gloss": "baze batyhapha"
+    },
+    {
+      "surface": "שמלתם",
+      "gloss": "ingubo zabo"
+    }
+  ],
+  "timestamp": "2026-09-18T06:03:50.545838858Z",
+  "model": "glm-5.3"
+}

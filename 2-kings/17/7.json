@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 17:7",
+  "book": "2-kings",
+  "lang": "xh",
+  "chapter": 17,
+  "translation": "Yaye kwaba njalo kuba abantwana bakwaSirayeli bazona kuYahwe uElohim wabo, owabanyusa ⟨את⟩ bona usuka elizweni laseMitsrayim, ngaphantsi kwesandla soParo, inkosi yaseMitsrayim, yaye beyoyika oothixo abanye.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Yaye kwaba njalo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "חטאו",
+      "gloss": "bazona"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abantwana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "bakwaSirayeli"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kuYahwe"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "uElohim wabo"
+    },
+    {
+      "surface": "המעלה",
+      "gloss": "owabanyusa"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "bona (abantwana bakwaSirayeli)"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "usuka elizweni"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "laseMitsrayim"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "ngaphantsi"
+    },
+    {
+      "surface": "יד",
+      "gloss": "kwesandla"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "soParo"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "inkosi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "yaseMitsrayim"
+    },
+    {
+      "surface": "וייראו",
+      "gloss": "yaye beyoyika"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "oothixo"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "abanye"
+    }
+  ],
+  "timestamp": "2026-09-18T10:53:12.618819941Z",
+  "model": "glm-5.3"
+}

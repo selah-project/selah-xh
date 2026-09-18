@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 2:20",
+  "book": "1-chronicles",
+  "lang": "xh",
+  "chapter": 2,
+  "translation": "UHuri wazala ⟨את⟩ uUri; uUri wazala ⟨את⟩ uBetsaleli.",
+  "tokens": [
+    {
+      "surface": "וחור",
+      "gloss": "UHuri"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "wazala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uUri"
+    },
+    {
+      "surface": "אורי",
+      "gloss": "uUri"
+    },
+    {
+      "surface": "ואורי",
+      "gloss": "uUri"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "wazala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uBetsaleli"
+    },
+    {
+      "surface": "בצלאל",
+      "gloss": "uBetsaleli"
+    }
+  ],
+  "timestamp": "2026-09-18T16:51:03.164892737Z",
+  "model": "glm-5.3"
+}

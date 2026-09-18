@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 6:21",
+  "book": "leviticus",
+  "lang": "xh",
+  "chapter": 6,
+  "translation": "Kwaye isitya sodonga eso iphekwa ngaso siya kuchithwa; ukuba sipehekwe kwisitya sengqindilili, siya kuhroshwa kwaye siya kuhlambwa ngamanzi.",
+  "tokens": [
+    {
+      "surface": "וכלי",
+      "gloss": "isitya"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "sodonga"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "eso"
+    },
+    {
+      "surface": "תבשל",
+      "gloss": "iphekwa"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ngaso"
+    },
+    {
+      "surface": "ישבר",
+      "gloss": "siya kuchithwa"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "ukuba"
+    },
+    {
+      "surface": "בכלי",
+      "gloss": "kwisitya"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "sengqindilili"
+    },
+    {
+      "surface": "בשלה",
+      "gloss": "sipehekwe"
+    },
+    {
+      "surface": "ומרק",
+      "gloss": "siya kuhroshwa"
+    },
+    {
+      "surface": "ושטף",
+      "gloss": "siya kuhlambwa"
+    },
+    {
+      "surface": "במים",
+      "gloss": "ngamanzi"
+    }
+  ],
+  "timestamp": "2026-09-18T06:35:18.160420902Z",
+  "model": "glm-5.3"
+}

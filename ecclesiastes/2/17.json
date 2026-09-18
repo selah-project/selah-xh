@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ecclesiastes 2:17",
+  "book": "ecclesiastes",
+  "lang": "xh",
+  "chapter": 2,
+  "translation": "Ndaza ndazondà ubomi, kuba kubuhlungu kum umsebenzi owenziweyo phantsi kelanga, kuba konke yihheva nokuqukwana komoya.",
+  "tokens": [
+    {
+      "surface": "ושנאתי",
+      "gloss": "ndaza ndazondà"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ubomi"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "ubomi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "רע",
+      "gloss": "kubuhlungu"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "kum"
+    },
+    {
+      "surface": "המעשה",
+      "gloss": "umsebenzi"
+    },
+    {
+      "surface": "שנעשה",
+      "gloss": "owenziweyo"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "phantsi"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "kelanga"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "konke"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "yihheva"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "nokuqukwana"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "komoya"
+    }
+  ],
+  "timestamp": "2026-09-18T16:24:14.921204626Z",
+  "model": "glm-5.3"
+}

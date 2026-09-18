@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 2:11",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 2,
+  "translation": "Kwathi ngemihla le, uMoshe esekhulile, waphuma kumabakwabo, wabona ukunyanzeliswa kwabo; wabona umntu umMitsrayim eshaya umntu iHebhere, omnye wakwabo.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "kwathi"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "ngemihla"
+    },
+    {
+      "surface": "ההם",
+      "gloss": "le"
+    },
+    {
+      "surface": "ויגדל",
+      "gloss": "esekhulile"
+    },
+    {
+      "surface": "משה",
+      "gloss": "uMoshe"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "waphuma"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "mabakwabo"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "wabona"
+    },
+    {
+      "surface": "בסבלתם",
+      "gloss": "ukunyanzeliswa kwabo"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "wabona"
+    },
+    {
+      "surface": "איש",
+      "gloss": "umntu"
+    },
+    {
+      "surface": "מצרי",
+      "gloss": "umMitsrayim"
+    },
+    {
+      "surface": "מכה",
+      "gloss": "eshaya"
+    },
+    {
+      "surface": "איש",
+      "gloss": "umntu"
+    },
+    {
+      "surface": "עברי",
+      "gloss": "iHebhere"
+    },
+    {
+      "surface": "מאחיו",
+      "gloss": "omnye wakwabo"
+    }
+  ],
+  "timestamp": "2026-09-18T05:48:38.094348762Z",
+  "model": "glm-5.3"
+}

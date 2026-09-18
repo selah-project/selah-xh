@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joshua 11:3",
+  "book": "joshua",
+  "lang": "xh",
+  "chapter": 11,
+  "translation": "NakuKenaani empuma nasentshona, nakuAmori, nakuHeti, nakuPerizi nakuYevusi entabeni, nakuHiwi ngaphantsi kweHermoni, elizweni leMitspa.",
+  "tokens": [
+    {
+      "surface": "הכנעני",
+      "gloss": "uKenaani"
+    },
+    {
+      "surface": "ממזרח",
+      "gloss": "empuma"
+    },
+    {
+      "surface": "ומים",
+      "gloss": "nasentshona"
+    },
+    {
+      "surface": "והאמרי",
+      "gloss": "uAmori"
+    },
+    {
+      "surface": "והחתי",
+      "gloss": "uHeti"
+    },
+    {
+      "surface": "והפרזי",
+      "gloss": "uPerizi"
+    },
+    {
+      "surface": "והיבוסי",
+      "gloss": "uYevusi"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "entabeni"
+    },
+    {
+      "surface": "והחוי",
+      "gloss": "uHiwi"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ngaphantsi"
+    },
+    {
+      "surface": "חרמון",
+      "gloss": "kweHermoni"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "elizweni"
+    },
+    {
+      "surface": "המצפה",
+      "gloss": "leMitspa"
+    }
+  ],
+  "timestamp": "2026-09-18T08:37:51.972456836Z",
+  "model": "glm-5.3"
+}

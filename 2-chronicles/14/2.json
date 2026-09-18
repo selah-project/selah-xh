@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 14:2",
+  "book": "2-chronicles",
+  "lang": "xh",
+  "chapter": 14,
+  "translation": "Wasusa ⟨את⟩ ama-altari okwendalo angaphandle kunye needawoziphakamileyo, watshabalalisa ⟨את⟩ iintsika, wachaba ⟨את⟩ iiAshera.",
+  "tokens": [
+    {
+      "surface": "ויסר",
+      "gloss": "Wasusa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ama-altari okwendalo angaphandle"
+    },
+    {
+      "surface": "מזבחות",
+      "gloss": "ama-altari"
+    },
+    {
+      "surface": "הנכר",
+      "gloss": "okwendalo angaphandle"
+    },
+    {
+      "surface": "והבמות",
+      "gloss": "kunye needawoziphakamileyo"
+    },
+    {
+      "surface": "וישבר",
+      "gloss": "watshabalalisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iintsika"
+    },
+    {
+      "surface": "המצבות",
+      "gloss": "iintsika"
+    },
+    {
+      "surface": "ויגדע",
+      "gloss": "wachaba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iiAshera"
+    },
+    {
+      "surface": "האשרים",
+      "gloss": "iiAshera"
+    }
+  ],
+  "timestamp": "2026-09-18T17:07:41.060138238Z",
+  "model": "glm-5.3"
+}

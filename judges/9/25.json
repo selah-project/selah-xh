@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "judges 9:25",
+  "book": "judges",
+  "lang": "xh",
+  "chapter": 9,
+  "translation": "Oonobhuli baseShekhem babekela kuye abalindi phezu kweentaba, bathabula ⟨את⟩ konke okudlula ngayo ndleleni kubo; kwaxelwa ku-Abimelekhi.",
+  "tokens": [
+    {
+      "surface": "וישימו",
+      "gloss": "babekela"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kuye"
+    },
+    {
+      "surface": "בעלי",
+      "gloss": "oonobhuli"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "baseShekhem"
+    },
+    {
+      "surface": "מארבים",
+      "gloss": "abalindi"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "kweentaba"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "(iintaba)"
+    },
+    {
+      "surface": "ויגזלו",
+      "gloss": "bathabula"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "konke"
+    },
+    {
+      "surface": "כל",
+      "gloss": "konke"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "okudlula"
+    },
+    {
+      "surface": "יעבר",
+      "gloss": "okudlula"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "kubo"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "ndleleni"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "kwaxelwa"
+    },
+    {
+      "surface": "לאבימלך",
+      "gloss": "ku-Abimelekhi"
+    }
+  ],
+  "timestamp": "2026-09-18T08:58:52.733800588Z",
+  "model": "glm-5.3"
+}

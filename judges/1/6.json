@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "judges 1:6",
+  "book": "judges",
+  "lang": "xh",
+  "chapter": 1,
+  "translation": "Wabaleka u-Adoni-Bezek, bamlandela emva kwakhe, bambamba ⟨את⟩ uye, basika ⟨את⟩ iintlongwane zezandla zakhe neenzwane zeenyawo zakhe.",
+  "tokens": [
+    {
+      "surface": "וינס",
+      "gloss": "wabaleka"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "u-Adoni-"
+    },
+    {
+      "surface": "בזק",
+      "gloss": "Bezek"
+    },
+    {
+      "surface": "וירדפו",
+      "gloss": "bamlandela"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "emva kwakhe"
+    },
+    {
+      "surface": "ויאחזו",
+      "gloss": "bambamba"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "uye"
+    },
+    {
+      "surface": "ויקצצו",
+      "gloss": "basika"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iintlongwane"
+    },
+    {
+      "surface": "בהנות",
+      "gloss": "iintlongwane neenzwane"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "zezandla zakhe"
+    },
+    {
+      "surface": "ורגליו",
+      "gloss": "neenzwane zeenyawo zakhe"
+    }
+  ],
+  "timestamp": "2026-09-18T08:48:15.878694637Z",
+  "model": "glm-5.3"
+}

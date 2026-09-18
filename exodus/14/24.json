@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 14:24",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 14,
+  "translation": "Kwenzeka ekusesikweni sasekuseni, uYahwe wajonga ngasese ikampu yaseMitsrayim, ngomtya wolwandle kunye namafu, wasukela nasentsimbi eyayiyindonga yakhe.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Kwenzeka"
+    },
+    {
+      "surface": "באשמרת",
+      "gloss": "ekusesikweni"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "sasekuseni"
+    },
+    {
+      "surface": "וישקף",
+      "gloss": "wajonga ngasese"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nge"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "ikampu"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "yaseMitsrayim"
+    },
+    {
+      "surface": "בעמוד",
+      "gloss": "ngomtya"
+    },
+    {
+      "surface": "אש",
+      "gloss": "wolwandle"
+    },
+    {
+      "surface": "וענן",
+      "gloss": "kunye namafu"
+    },
+    {
+      "surface": "ויהם",
+      "gloss": "wasukela nasentsimbi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ikampu yaseMitsrayim"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "ikampu"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "yaseMitsrayim"
+    }
+  ],
+  "timestamp": "2026-09-18T05:58:50.516688646Z",
+  "model": "glm-5.3"
+}

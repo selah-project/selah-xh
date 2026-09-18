@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 17:11",
+  "book": "genesis",
+  "lang": "xh",
+  "chapter": 17,
+  "translation": "Nitatyelwe ⟨את⟩ onga lenyama yenu; luya kuba ⟨luphawu⟩ lomnqophiso phakathi kwam nakanina.",
+  "tokens": [
+    {
+      "surface": "ונמלתם",
+      "gloss": "Nitatyelwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "onga lenyama yenu"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "inyama"
+    },
+    {
+      "surface": "ערלתכם",
+      "gloss": "onga lenu"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "luya kuba"
+    },
+    {
+      "surface": "לאות",
+      "gloss": "phawu"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "lomnqophiso"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "phakathi kwam"
+    },
+    {
+      "surface": "וביניכם",
+      "gloss": "nakanina"
+    }
+  ],
+  "timestamp": "2026-09-18T05:15:15.575653250Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 82:6",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 82,
+  "translation": "Ndim ndithi: nina oothixo, noonayana baka-El Elyon nonke.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "ndim"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "ndithi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "oothixo"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "nina"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "noonayana"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "ka-El Elyon"
+    },
+    {
+      "surface": "כלכם",
+      "gloss": "nonke"
+    }
+  ],
+  "timestamp": "2026-09-18T15:04:15.373194589Z",
+  "model": "glm-5.3"
+}

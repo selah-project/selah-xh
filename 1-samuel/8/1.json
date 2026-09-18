@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 8:1",
+  "book": "1-samuel",
+  "lang": "xh",
+  "chapter": 8,
+  "translation": "Yaye kwaba njalo, xa uShemuweli esemdala, wabeka ⟨את⟩ amadodana akhe abangagwebi kuYisrayeli.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "kwaba njalo"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "xa"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "esemdala"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "uShemuweli"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "wabeka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amadodana akhe"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "amadodana akhe"
+    },
+    {
+      "surface": "שפטים",
+      "gloss": "abangagwebi"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "kuYisrayeli"
+    }
+  ],
+  "timestamp": "2026-09-18T09:16:37.579677794Z",
+  "model": "glm-5.3"
+}

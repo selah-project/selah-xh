@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 22:24",
+  "book": "genesis",
+  "lang": "xh",
+  "chapter": 22,
+  "translation": "UNgakanani nesinye: inqaba yakhe igama linguRehuma, yona nayo yazala ⟨את⟩ u-Tebahi nangaba ⟨את⟩ u-Gahamu nangaba ⟨את⟩ u-Tahashi nangaba ⟨את⟩ u-Maakha.",
+  "tokens": [
+    {
+      "surface": "ופילגשו",
+      "gloss": "inesinqaba yakhe"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "igama layo"
+    },
+    {
+      "surface": "ראומה",
+      "gloss": "linguRehuma"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "yona nayo yazala"
+    },
+    {
+      "surface": "גם",
+      "gloss": "nayo"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "u-Tebahi"
+    },
+    {
+      "surface": "טבח",
+      "gloss": "u-Tebahi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "nangaba ⟨את⟩",
+      "marks": "u-Gahamu"
+    },
+    {
+      "surface": "גחם",
+      "gloss": "u-Gahamu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "nangaba ⟨את⟩",
+      "marks": "u-Tahashi"
+    },
+    {
+      "surface": "תחש",
+      "gloss": "u-Tahashi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "nangaba ⟨את⟩",
+      "marks": "u-Maakha"
+    },
+    {
+      "surface": "מעכה",
+      "gloss": "u-Maakha"
+    }
+  ],
+  "timestamp": "2026-09-18T05:18:22.386208592Z",
+  "model": "glm-5.3"
+}

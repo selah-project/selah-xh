@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 19:6",
+  "book": "isaiah",
+  "lang": "xh",
+  "chapter": 19,
+  "translation": "Imilambo iya kutshatyatalwa ibe nkundla, imithombo yeMitsrayim iya kudinizela yaye yoma, umquanga nomtywazi baza kukhumlana.",
+  "tokens": [
+    {
+      "surface": "והאזניחו",
+      "gloss": "iya kutshatyatalwa ibe nkundla"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "imilambo"
+    },
+    {
+      "surface": "דללו",
+      "gloss": "iya kudinizela"
+    },
+    {
+      "surface": "וחרבו",
+      "gloss": "yaye yoma"
+    },
+    {
+      "surface": "יארי",
+      "gloss": "imithombo"
+    },
+    {
+      "surface": "מצור",
+      "gloss": "yeMitsrayim"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "umquanga"
+    },
+    {
+      "surface": "וסוף",
+      "gloss": "nomtywazi"
+    },
+    {
+      "surface": "קמלו",
+      "gloss": "baza kukhumlana"
+    }
+  ],
+  "timestamp": "2026-09-18T11:13:46.888226497Z",
+  "model": "glm-5.3"
+}

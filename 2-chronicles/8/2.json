@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 8:2",
+  "book": "2-chronicles",
+  "lang": "xh",
+  "chapter": 8,
+  "translation": "Ezo sixeko u-Khuram awazinika u-Shelomohi, u-Shelomohi wazakha ⟨אתם⟩, waza wenza ⟨את⟩ abantwana bakaIsrayeli ukuhlala khona.",
+  "tokens": [
+    {
+      "surface": "והערים",
+      "gloss": "Ezo sixeko"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "נתן",
+      "gloss": "awazinika"
+    },
+    {
+      "surface": "חורם",
+      "gloss": "u-Khuram"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "u-Shelomohi"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "wazakha"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "u-Shelomohi"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "ezo sixeko"
+    },
+    {
+      "surface": "ויושב",
+      "gloss": "wenza ukuhlala"
+    },
+    {
+      "surface": "שם",
+      "gloss": "khona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abantwana bakaIsrayeli"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abantwana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "bakaIsrayeli"
+    }
+  ],
+  "timestamp": "2026-09-18T17:05:17.979048974Z",
+  "model": "glm-5.3"
+}

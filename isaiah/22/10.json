@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 22:10",
+  "book": "isaiah",
+  "lang": "xh",
+  "chapter": 22,
+  "translation": "Kwaye ⟨את⟩ iindlu zaseYerushalayimi nazazibala, nazabhukula iindlu ukuze kuqinisiswe udonga.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "iindlu zaseYerushalayimi"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "iindlu"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "zaseYerushalayimi"
+    },
+    {
+      "surface": "ספרתם",
+      "gloss": "nazazibala"
+    },
+    {
+      "surface": "ותתצו",
+      "gloss": "nazabhukula"
+    },
+    {
+      "surface": "הבתים",
+      "gloss": "iindlu"
+    },
+    {
+      "surface": "לבצר",
+      "gloss": "ukuze kuqinisiswe"
+    },
+    {
+      "surface": "החומה",
+      "gloss": "udonga"
+    }
+  ],
+  "timestamp": "2026-09-18T17:34:23.034376360Z",
+  "model": "glm-5.3"
+}

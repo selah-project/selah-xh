@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 11:15",
+  "book": "deuteronomy",
+  "lang": "xh",
+  "chapter": 11,
+  "translation": "Ndiza kubeka utyhapha emasimbeni akho eenkomo zakho, uze utye uze uzalile.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "Ndiza kubeka"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "utyhapha"
+    },
+    {
+      "surface": "בשדך",
+      "gloss": "emasimbeni akho"
+    },
+    {
+      "surface": "לבהמתך",
+      "gloss": "eenkomo zakho"
+    },
+    {
+      "surface": "ואכלת",
+      "gloss": "uze utye"
+    },
+    {
+      "surface": "ושבעת",
+      "gloss": "uze uzalile"
+    }
+  ],
+  "timestamp": "2026-09-18T08:04:14.579312579Z",
+  "model": "glm-5.3"
+}

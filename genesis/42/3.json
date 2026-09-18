@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 42:3",
+  "book": "genesis",
+  "lang": "xh",
+  "chapter": 42,
+  "translation": "Yehla ke ishumi labafowabo kaYosefu ukuya kuthenga inkozo eMitsrayim.",
+  "tokens": [
+    {
+      "surface": "וירדו",
+      "gloss": "Yehla ke"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "labafowabo"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "kaYosefu"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "ishumi"
+    },
+    {
+      "surface": "לשבר",
+      "gloss": "ukuya kuthenga"
+    },
+    {
+      "surface": "בר",
+      "gloss": "inkozo"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "eMitsrayim"
+    }
+  ],
+  "timestamp": "2026-09-18T05:41:29.657518619Z",
+  "model": "glm-5.3"
+}

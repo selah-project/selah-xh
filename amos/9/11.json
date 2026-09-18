@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "amos 9:11",
+  "book": "amos",
+  "lang": "xh",
+  "chapter": 9,
+  "translation": "Ngaloo mini ndiza kuyivusa ⟨את⟩ ihempisi kaDawidi eyiweyo, ndiza kuzivala ⟨את⟩ iziphengo zayo; amandlakazi ayo ndiza kuvusa, ndiyakha yaye njengeentsuku zasekuqaleni.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "ngaloo mini"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "eyoo"
+    },
+    {
+      "surface": "אקים",
+      "gloss": "ndiza kuyivusa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ihempisi kaDawidi"
+    },
+    {
+      "surface": "סכת",
+      "gloss": "ihempisi"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "kaDawidi"
+    },
+    {
+      "surface": "הנפלת",
+      "gloss": "eyiweyo"
+    },
+    {
+      "surface": "וגדרתי",
+      "gloss": "ndiza kuzivala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iziphengo zayo"
+    },
+    {
+      "surface": "פרציהן",
+      "gloss": "iziphengo zayo"
+    },
+    {
+      "surface": "והרסתיו",
+      "gloss": "amandlakazi ayo"
+    },
+    {
+      "surface": "אקים",
+      "gloss": "ndiza kuvusa"
+    },
+    {
+      "surface": "ובניתיה",
+      "gloss": "ndiyakha yaye"
+    },
+    {
+      "surface": "כימי",
+      "gloss": "njengeentsuku"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "zasekuqaleni"
+    }
+  ],
+  "timestamp": "2026-09-18T17:41:50.935268160Z",
+  "model": "glm-5.3"
+}

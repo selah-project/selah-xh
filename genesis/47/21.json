@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 47:21",
+  "book": "genesis",
+  "lang": "xh",
+  "chapter": 47,
+  "translation": "Yaye ⟨את⟩ abantu wabadlulisa ⟨אתו⟩ kwiidakawa, ukusuka ekupheleni komda weMitsrayim ukuya ekupheleni kwawo.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Yaye ⟨את⟩",
+      "marks": "abantu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "העביר",
+      "gloss": "wabadlulisa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "iidakawa"
+    },
+    {
+      "surface": "לערים",
+      "gloss": "kwiidakawa"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "ekupheleni"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "umda"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "weMitsrayim"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ukuya"
+    },
+    {
+      "surface": "קצהו",
+      "gloss": "ekupheleni kwawo"
+    }
+  ],
+  "timestamp": "2026-09-18T05:46:03.897626141Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 73:16",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 73,
+  "translation": "Ndacinga ukwazi oku; yiyo into ediniwayo emehlweni am.",
+  "tokens": [
+    {
+      "surface": "ואחשבה",
+      "gloss": "Ndacinga"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "ukwazi"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "oku"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "into ediniwayo"
+    },
+    {
+      "surface": "היא",
+      "gloss": "yiyo"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "emehlweni am"
+    }
+  ],
+  "timestamp": "2026-09-18T15:00:17.301353841Z",
+  "model": "glm-5.3"
+}

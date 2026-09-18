@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 8:7",
+  "book": "1-samuel",
+  "lang": "xh",
+  "chapter": 8,
+  "translation": "Wathi uYahwe kuSamuweli: “Thobela ilizwi lelizwe, ngako konke bakutshoyo kuwe; kuba awananzi wena ⟨את⟩, kodwa ndinanze ndim ⟨את⟩, ukungabusa ndingabi phezulu kwabo.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Wathi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Samuweli"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "Thobela"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "ilizwi"
+    },
+    {
+      "surface": "העם",
+      "gloss": "lelizwe"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ngako konke"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oko"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "bakutshoyo"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kuwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "לא",
+      "gloss": "awananzi"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "wena"
+    },
+    {
+      "surface": "מאסו",
+      "gloss": "ananze"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kodwa"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "ndim"
+    },
+    {
+      "surface": "מאסו",
+      "gloss": "ananze"
+    },
+    {
+      "surface": "ממלך",
+      "gloss": "ukungabusa"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "phezulu kwabo"
+    }
+  ],
+  "timestamp": "2026-09-18T09:16:55.428794274Z",
+  "model": "glm-5.3"
+}

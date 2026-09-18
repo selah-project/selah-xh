@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "esther 4:9",
+  "book": "esther",
+  "lang": "xh",
+  "chapter": 4,
+  "translation": "Wafika uHatakh, waziselela kuEstere ⟨את⟩ amagama kaMordekhayi.",
+  "tokens": [
+    {
+      "surface": "ויבוא",
+      "gloss": "wafika"
+    },
+    {
+      "surface": "התך",
+      "gloss": "uHatakh"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "waziselela"
+    },
+    {
+      "surface": "לאסתר",
+      "gloss": "kuEstere"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amagama kaMordekhayi"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "amagama"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "kaMordekhayi"
+    }
+  ],
+  "timestamp": "2026-09-18T16:27:19.171980363Z",
+  "model": "glm-5.3"
+}

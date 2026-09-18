@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 12:4",
+  "book": "1-samuel",
+  "lang": "xh",
+  "chapter": 12,
+  "translation": "Bathi yabo: “Awusidukanga, awusihlukumezanga, awuso nakuba uthathile nto esandleni somntu.”",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "bathi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "awu-"
+    },
+    {
+      "surface": "עשקתנו",
+      "gloss": "usidukanga"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "awu-"
+    },
+    {
+      "surface": "רצותנו",
+      "gloss": "usihlukumezanga"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "awuso nakuba"
+    },
+    {
+      "surface": "לקחת",
+      "gloss": "uthathile"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "esandleni"
+    },
+    {
+      "surface": "איש",
+      "gloss": "somntu"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "nto"
+    }
+  ],
+  "timestamp": "2026-09-18T09:22:35.387230341Z",
+  "model": "glm-5.3"
+}

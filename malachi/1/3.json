@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "malachi 1:3",
+  "book": "malachi",
+  "lang": "xh",
+  "chapter": 1,
+  "translation": "⟨את⟩ u-Esav ndandimzonda; ndenza iintaba zakhe zitshatyalale, ⟨את⟩ nendlu yokulahlwa kwakhe yaba yindawo yezilo zentlango.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "u-Esav"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "u-Esav"
+    },
+    {
+      "surface": "שנאתי",
+      "gloss": "ndandimzonda"
+    },
+    {
+      "surface": "ואשים",
+      "gloss": "ndenza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iintaba zakhe"
+    },
+    {
+      "surface": "הריו",
+      "gloss": "iintaba zakhe"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "zitshatyalale"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "indlu yokulahlwa kwakhe"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "indlu yokulahlwa kwakhe"
+    },
+    {
+      "surface": "לתנות",
+      "gloss": "yezilo"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "zentlango"
+    }
+  ],
+  "timestamp": "2026-09-18T14:24:32.578077181Z",
+  "model": "glm-5.3"
+}

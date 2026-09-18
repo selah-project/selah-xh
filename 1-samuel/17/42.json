@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "1-samuel 17:42",
+  "book": "1-samuel",
+  "lang": "xh",
+  "chapter": 17,
+  "translation": "Wajonga uPelishti, wabona ⟨את⟩ uDavide, wamchasa, kuba wayengumfana, ebomvu, kunye nokuba umhle ngokubonakala.",
+  "tokens": [
+    {
+      "surface": "ויבט",
+      "gloss": "wajonga"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "uPelishti"
+    },
+    {
+      "surface": "ויראה",
+      "gloss": "wabona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uDavide"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "uDavide"
+    },
+    {
+      "surface": "ויבזהו",
+      "gloss": "wamchasa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "היה",
+      "gloss": "wayengumfana"
+    },
+    {
+      "surface": "נער",
+      "gloss": "umfana"
+    },
+    {
+      "surface": "ואדמני",
+      "gloss": "ebomvu"
+    },
+    {
+      "surface": "עם",
+      "gloss": "kunye nokuba"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "umhle"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "ngokubonakala"
+    }
+  ],
+  "timestamp": "2026-09-18T09:29:29.245774870Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 74:12",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 74,
+  "translation": "Kodwa uElohim nguNkosi yam ukusukela emva kudala, umenzi weentsalela phakathi komhlaba.",
+  "tokens": [
+    {
+      "surface": "ואלהים",
+      "gloss": "Kodwa uElohim"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "nguNkosi yam"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "ukusukela emva kudala"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "umenzi"
+    },
+    {
+      "surface": "ישועות",
+      "gloss": "weentsalela"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "phakathi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "komhlaba"
+    }
+  ],
+  "timestamp": "2026-09-18T15:00:06.190806830Z",
+  "model": "glm-5.3"
+}

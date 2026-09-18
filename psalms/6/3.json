@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 6:3",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 6,
+  "translation": "Ndinakhele inceba, uYahwe, kuba ndiphelile amandla; undilaphe, uYahwe, kuba amathambo am ayaxhalaba.",
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "Ndinakhele inceba"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "אמלל",
+      "gloss": "ndiphelile amandla"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mna"
+    },
+    {
+      "surface": "רפאני",
+      "gloss": "undilaphe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "נבהלו",
+      "gloss": "ayaxhalaba"
+    },
+    {
+      "surface": "עצמי",
+      "gloss": "amathambo am"
+    }
+  ],
+  "timestamp": "2026-09-18T14:26:15.611626569Z",
+  "model": "glm-5.3"
+}

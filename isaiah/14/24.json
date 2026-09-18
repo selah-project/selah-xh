@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "isaiah 14:24",
+  "book": "isaiah",
+  "lang": "xh",
+  "chapter": 14,
+  "translation": "uYahwe Tsebhayoti wafunga, esithi: “Njengoko ndicingile, ngokwenene kungakunjalo; kwaye njengoko ndacecelele, kunjalo kuya kumisela.”",
+  "tokens": [
+    {
+      "surface": "נשבע",
+      "gloss": "wafunga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsebhayoti"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "esithi"
+    },
+    {
+      "surface": "אם",
+      "gloss": "⟨ukuba⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "cha"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "njengoko"
+    },
+    {
+      "surface": "דמיתי",
+      "gloss": "ndacingile"
+    },
+    {
+      "surface": "כן",
+      "gloss": "kungakunjalo"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "kunjalo"
+    },
+    {
+      "surface": "וכאשר",
+      "gloss": "kwaye njengoko"
+    },
+    {
+      "surface": "יעצתי",
+      "gloss": "ndacecelele"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨yona⟩"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "kuya kumisela"
+    }
+  ],
+  "timestamp": "2026-09-18T17:33:06.903593122Z",
+  "model": "glm-5.3"
+}

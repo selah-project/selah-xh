@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 7:7",
+  "book": "2-kings",
+  "lang": "xh",
+  "chapter": 7,
+  "translation": "Basuka, babaleka emvakwemini, bashiyela ⟨את⟩ iihema zawo, yaye ⟨את⟩ amahashi abo, yaye ⟨את⟩ iimbongolo zawo, umkhosi njengoko ewawo; baleka besindisa ubomi bwawo.",
+  "tokens": [
+    {
+      "surface": "ויקומו",
+      "gloss": "Basuka"
+    },
+    {
+      "surface": "וינוסו",
+      "gloss": "babaleka"
+    },
+    {
+      "surface": "בנשף",
+      "gloss": "emvakwemini"
+    },
+    {
+      "surface": "ויעזבו",
+      "gloss": "bashiyela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iihema zawo"
+    },
+    {
+      "surface": "אהליהם",
+      "gloss": "iihema zawo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "yaye ⟨את⟩",
+      "marks": "amahashi abo"
+    },
+    {
+      "surface": "סוסיהם",
+      "gloss": "amahashi abo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "yaye ⟨את⟩",
+      "marks": "iimbongolo zawo"
+    },
+    {
+      "surface": "חמריהם",
+      "gloss": "iimbongolo zawo"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "umkhosi"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "njengoko"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ewawo"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "baleka"
+    },
+    {
+      "surface": "אל",
+      "gloss": "besindisa"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "ubomi bwawo"
+    }
+  ],
+  "timestamp": "2026-09-18T10:43:36.723155798Z",
+  "model": "glm-5.3"
+}

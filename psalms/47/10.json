@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 47:10",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 47,
+  "translation": "Amanene ezizwe aqokelelwe ndawonye, aba ngabantu bakaElohim ka-Avraham; kuba kuElohim ngamakhaka omhlaba; uphakeme kakhulu.",
+  "tokens": [
+    {
+      "surface": "נדיבי",
+      "gloss": "Amanene"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "ezizwe"
+    },
+    {
+      "surface": "נאספו",
+      "gloss": "aqokelelwe ndawonye"
+    },
+    {
+      "surface": "עם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "bakaElohim"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "ka-Avraham"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "kuElohim"
+    },
+    {
+      "surface": "מגני",
+      "gloss": "amakhaka"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "omhlaba"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "kakhulu"
+    },
+    {
+      "surface": "נעלה",
+      "gloss": "uphakeme"
+    }
+  ],
+  "timestamp": "2026-09-18T14:45:31.269403075Z",
+  "model": "glm-5.3"
+}

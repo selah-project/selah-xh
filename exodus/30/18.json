@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 30:18",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 30,
+  "translation": "Uza kukwenza isitya esimbanjeya ngeyentsimbi, nesiqhenga sayo ngeyentsimbi, sokuhlambela; uza kubeka ⟨את⟩ phakathi kwesixephu sothebele nangaphakathi komthiyo, uza kubeka ngaphaya amanzi.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "Uza kukwenza"
+    },
+    {
+      "surface": "כיור",
+      "gloss": "isitya esimbanjeya"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "ngeyentsimbi"
+    },
+    {
+      "surface": "וכנו",
+      "gloss": "nesiqhenga sayo"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "ngeyentsimbi"
+    },
+    {
+      "surface": "לרחצה",
+      "gloss": "sokuhlambela"
+    },
+    {
+      "surface": "ונתת",
+      "gloss": "uza kubeka"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "isitya esimbanjeya"
+    },
+    {
+      "surface": "בין",
+      "gloss": "phakathi kwe-"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "isixephu"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "sothebele"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "nangaphakathi kwe-"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "umthiyo"
+    },
+    {
+      "surface": "ונתת",
+      "gloss": "uza kubeka"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "ngaphaya"
+    },
+    {
+      "surface": "מים",
+      "gloss": "amanzi"
+    }
+  ],
+  "timestamp": "2026-09-18T06:17:20.740986356Z",
+  "model": "glm-5.3"
+}

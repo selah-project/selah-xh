@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 109:15",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 109,
+  "translation": "Makumie phambi koYahwe ngokungapheliyo, adicime inkumbulo yabo emhlabeni.",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "makumie"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "phambi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "koYahwe"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "ngokungapheliyo"
+    },
+    {
+      "surface": "ויכרת",
+      "gloss": "adicime"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "emhlabeni"
+    },
+    {
+      "surface": "זכרם",
+      "gloss": "inkumbulo yabo"
+    }
+  ],
+  "timestamp": "2026-09-18T15:20:46.623821620Z",
+  "model": "glm-5.3"
+}

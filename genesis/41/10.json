@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 41:10",
+  "book": "genesis",
+  "lang": "xh",
+  "chapter": 41,
+  "translation": "UParo wanasela kwiiikhonza zakhe, waza wandinika 《ngaphandle》 endlwini yesibingeleli sabatyabi — mna ⟨את⟩ nendesibingeleli sabaselwa [vela isibini esahlukileyo: '⟨את⟩ mna no-'].",
+  "tokens": [
+    {
+      "surface": "פרעה",
+      "gloss": "uParo"
+    },
+    {
+      "surface": "קצף",
+      "gloss": "wnasela"
+    },
+    {
+      "surface": "על",
+      "gloss": "kwi-"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "iiikhonza zakhe"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "waza wazinika"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "mna"
+    },
+    {
+      "surface": "במשמר",
+      "gloss": "ngendlwini yokubanjwa"
+    },
+    {
+      "surface": "בית",
+      "gloss": "endlwini"
+    },
+    {
+      "surface": "שר",
+      "gloss": "yesibingeleli"
+    },
+    {
+      "surface": "הטבחים",
+      "gloss": "abatyabi"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ mna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "isibingeleli sabaselwa"
+    },
+    {
+      "surface": "שר",
+      "gloss": "isibingeleli"
+    },
+    {
+      "surface": "האפים",
+      "gloss": "sabaselwa"
+    }
+  ],
+  "timestamp": "2026-09-18T05:37:58.553405191Z",
+  "model": "glm-5.3"
+}

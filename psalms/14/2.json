@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 14:2",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 14,
+  "translation": "uYahwe wajonga phantsi ezulwini kwiintcwaitshimi zomntu, ukubona ukuba ngaba likhona elinoqonde, elifuna ⟨את⟩ uElohim.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "ezulwini"
+    },
+    {
+      "surface": "השקיף",
+      "gloss": "wajonga phantsi"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "בני",
+      "gloss": "iintcwaitshimi"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "zomntu"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "ukubona"
+    },
+    {
+      "surface": "היש",
+      "gloss": "ukuba ngaba likhona"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "elinoqonde"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "elifuna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uElohim"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "uElohim"
+    }
+  ],
+  "timestamp": "2026-09-18T14:31:27.577436590Z",
+  "model": "glm-5.3"
+}

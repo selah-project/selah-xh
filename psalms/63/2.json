@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 63:2",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 63,
+  "translation": "uElohim, nguwe u-El wam; ndiza kukufunela kusasa kakhulu; umphefumlo wam uyakoma ngawe, inyama yam iyakhaliphela ngawe, eluhlotyeni olumome noludinile, ngaphandle kwamanzi.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "u-El wam"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "nguwe wena"
+    },
+    {
+      "surface": "אשחרך",
+      "gloss": "ndiza kukufunela kusasa kakhulu"
+    },
+    {
+      "surface": "צמאה",
+      "gloss": "uyakoma"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ngawe"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "umphefumlo wam"
+    },
+    {
+      "surface": "כמה",
+      "gloss": "iyakhaliphela"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ngawe"
+    },
+    {
+      "surface": "בשרי",
+      "gloss": "inyama yam"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "eluhlotyeni"
+    },
+    {
+      "surface": "ציה",
+      "gloss": "olumome"
+    },
+    {
+      "surface": "ועיף",
+      "gloss": "noludinile"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "ngaphandle"
+    },
+    {
+      "surface": "מים",
+      "gloss": "kwamanzi"
+    }
+  ],
+  "timestamp": "2026-09-18T14:55:22.723559099Z",
+  "model": "glm-5.3"
+}

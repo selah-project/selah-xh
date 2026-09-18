@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 7:1",
+  "book": "proverbs",
+  "lang": "xh",
+  "chapter": 7,
+  "translation": "Mntanam, gcina amazwi am, imiyalelo yam uyizisele ⟨את⟩ kuwe.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Mntanam"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "gcina"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "amazwi am"
+    },
+    {
+      "surface": "ומצותי",
+      "gloss": "imiyalelo yam"
+    },
+    {
+      "surface": "תצפן",
+      "gloss": "uyizisele"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ kuwe",
+      "marks": "imiyalelo yam"
+    }
+  ],
+  "timestamp": "2026-09-18T17:46:22.369465034Z",
+  "model": "glm-5.3"
+}

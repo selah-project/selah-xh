@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 21:15",
+  "book": "2-samuel",
+  "lang": "xh",
+  "chapter": 21,
+  "translation": "Kwakukho kwakhona imfazwe yasePelishtiya nakuIsrayeli; wetyhalela ehansi uDawidi nabakhonzi bakhe kunye naye, balwa nePelishtim, uze uDawudi wadiniwa.",
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "kwakukho"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "kwakhona"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "imfazwe"
+    },
+    {
+      "surface": "לפלשתים",
+      "gloss": "yasePelishtiya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uIsrayeli"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "nakuIsrayeli"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "wetyhalela ehansi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "uDawidi"
+    },
+    {
+      "surface": "ועבדיו",
+      "gloss": "nabakhonzi bakhe"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "kunye naye"
+    },
+    {
+      "surface": "וילחמו",
+      "gloss": "balwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "ne ⟨את⟩",
+      "marks": "iPelishtim"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "iPelishtim"
+    },
+    {
+      "surface": "ויעף",
+      "gloss": "wadiniwa"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "uDawudi"
+    }
+  ],
+  "timestamp": "2026-09-18T10:01:57.823327028Z",
+  "model": "glm-5.3"
+}

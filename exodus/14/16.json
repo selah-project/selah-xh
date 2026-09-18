@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 14:16",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 14,
+  "translation": "Wena, nyusa ⟨את⟩ induku yakho, ululule ⟨את⟩ isandla sakho phezu lolwandle, ulwahlule; oonyana bakaYisrael bangena phakathi lolwandle emhlabeni omome.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Wena"
+    },
+    {
+      "surface": "הרם",
+      "gloss": "nyusa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "induku yakho"
+    },
+    {
+      "surface": "מטך",
+      "gloss": "induku yakho"
+    },
+    {
+      "surface": "ונטה",
+      "gloss": "ululule"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isandla sakho"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "isandla sakho"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu"
+    },
+    {
+      "surface": "הים",
+      "gloss": "lolwandle"
+    },
+    {
+      "surface": "ובקעהו",
+      "gloss": "ulwahlule"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "bangena"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oonyana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "bakaYisrael"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "phakathi"
+    },
+    {
+      "surface": "הים",
+      "gloss": "lolwandle"
+    },
+    {
+      "surface": "ביבשה",
+      "gloss": "emhlabeni omome"
+    }
+  ],
+  "timestamp": "2026-09-18T06:01:54.718463532Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 8:10",
+  "book": "isaiah",
+  "lang": "xh",
+  "chapter": 8,
+  "translation": "Cebisanani icebo, liza kudilizwa; nithethe ilizwi, aliza kumila, kuba u-El unathi.",
+  "tokens": [
+    {
+      "surface": "עצו",
+      "gloss": "cebisanani"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "icebo"
+    },
+    {
+      "surface": "ותפר",
+      "gloss": "liza kudilizwa"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "nithethe"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ilizwi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ali"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "za kumila"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "unathi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "u-El"
+    }
+  ],
+  "timestamp": "2026-09-18T11:04:54.211909211Z",
+  "model": "glm-5.3"
+}

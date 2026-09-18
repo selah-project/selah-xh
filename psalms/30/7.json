@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 30:7",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 30,
+  "translation": "Mna ndathi kuxolo lam: Akukho kudangala ndiza kukubona ngesiphakade.",
+  "tokens": [
+    {
+      "surface": "זמרו",
+      "gloss": "",
+      "skip": true
+    },
+    {
+      "surface": "ואני",
+      "gloss": "mna"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "ndathi"
+    },
+    {
+      "surface": "בשלוי",
+      "gloss": "kuxolo lam"
+    },
+    {
+      "surface": "בל",
+      "gloss": "akukho"
+    },
+    {
+      "surface": "אמוט",
+      "gloss": "kudangala"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ngesiphakade"
+    }
+  ],
+  "timestamp": "2026-09-18T14:39:07.190931737Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 28:1",
+  "book": "genesis",
+  "lang": "xh",
+  "chapter": 28,
+  "translation": "Wabiza u-Yitschak u-Yaakob, wamngcisa ⟨אתו⟩, wamyalela, wathi kuye: “Musa ukuthatha umfazi kwiintombi zaseKenaan.”",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "Wabiza"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "u-Yitschak"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "u-Yaakob"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "wamngcisa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "u-Yaakob"
+    },
+    {
+      "surface": "ויצוהו",
+      "gloss": "wamyalela"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kuye"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Musa"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "ukuthatha"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "umfazi"
+    },
+    {
+      "surface": "מבנות",
+      "gloss": "kwiintombi"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "zaseKenaan"
+    }
+  ],
+  "timestamp": "2026-09-18T05:27:09.807635382Z",
+  "model": "glm-5.3"
+}

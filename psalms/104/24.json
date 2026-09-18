@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 104:24",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 104,
+  "translation": "Mangaphi imisebenzi yakho, uYahwe! Zonke uzenzile ngobuchule; umhlaba uzele izidalwa zakho.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Mangaphi"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "azininzi"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "imisebenzi yakho"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "zonke"
+    },
+    {
+      "surface": "בחכמה",
+      "gloss": "ngobuchule"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "uzenzile"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "uzele"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "umhlaba"
+    },
+    {
+      "surface": "קנינך",
+      "gloss": "izidalwa zakho"
+    }
+  ],
+  "timestamp": "2026-09-18T15:13:30.602858618Z",
+  "model": "glm-5.3"
+}

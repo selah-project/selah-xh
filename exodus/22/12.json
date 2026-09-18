@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 22:12",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 22,
+  "translation": "Ukuba iyatyandwa ngokwenene, makayilethe ubungqina; ⟨into etyandiweyo⟩ akayi kuyihlawula.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ukuba"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "ngokwenene"
+    },
+    {
+      "surface": "יטרף",
+      "gloss": "iyatyandwa"
+    },
+    {
+      "surface": "יבאהו",
+      "gloss": "makayilethe"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ubungqina"
+    },
+    {
+      "surface": "הטרפה",
+      "gloss": "into etyandiweyo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "akayi"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "kuyihlawula"
+    }
+  ],
+  "timestamp": "2026-09-18T06:08:07.605128412Z",
+  "model": "glm-5.3"
+}

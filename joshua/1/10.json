@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 1:10",
+  "book": "joshua",
+  "lang": "xh",
+  "chapter": 1,
+  "translation": "UYehoshuwa wayala ⟨את⟩ oolawuli bentlanga ⟨the⟩ abantu, esithi:",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "wayala"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "uYehoshuwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oolawuli bentlanga"
+    },
+    {
+      "surface": "שטרי",
+      "gloss": "oolawuli"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bentlanga abantu"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "esithi"
+    }
+  ],
+  "timestamp": "2026-09-18T08:28:44.376861444Z",
+  "model": "glm-5.3"
+}

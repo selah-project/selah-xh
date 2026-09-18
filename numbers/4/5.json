@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 4:5",
+  "book": "numbers",
+  "lang": "xh",
+  "chapter": 4,
+  "translation": "Kwaye u-Aharon noonyana bakhe baza kungena xa umkhumbi uhamba, baza kwehla ⟨את⟩ icala lephandise, bachaze ngalo ⟨את⟩ isiqhithi sobungqina.",
+  "tokens": [
+    {
+      "surface": "ובא",
+      "gloss": "kwaye baza kungena"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "u-Aharon"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "noonyana bakhe"
+    },
+    {
+      "surface": "בנסע",
+      "gloss": "xa uhamba"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "umkhumbi"
+    },
+    {
+      "surface": "והורדו",
+      "gloss": "baza kwehla"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "icala"
+    },
+    {
+      "surface": "פרכת",
+      "gloss": "icala"
+    },
+    {
+      "surface": "המסך",
+      "gloss": "lephandise"
+    },
+    {
+      "surface": "וכסו",
+      "gloss": "bachaze ngalo"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ngalo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isiqhithi"
+    },
+    {
+      "surface": "ארן",
+      "gloss": "isiqhithi"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "sobungqina"
+    }
+  ],
+  "timestamp": "2026-09-18T07:11:34.236316249Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "2-kings 17:38",
+  "book": "2-kings",
+  "lang": "xh",
+  "chapter": 17,
+  "translation": "Kwaye umnqophiso endawudabula ⟨את⟩ nina, musa ukulibala; kwaye musa ukoyika oothixo abanye.",
+  "tokens": [
+    {
+      "surface": "והברית",
+      "gloss": "Kwaye umnqophiso"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a- (endawudabula)"
+    },
+    {
+      "surface": "כרתי",
+      "gloss": "ndawudabula"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ nina",
+      "marks": "nina"
+    },
+    {
+      "surface": "לא",
+      "gloss": "musa"
+    },
+    {
+      "surface": "תשכחו",
+      "gloss": "ukulibala"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kwaye musa"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "ukoyika"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "oothixo"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "abanye"
+    }
+  ],
+  "timestamp": "2026-09-18T10:51:25.587319599Z",
+  "model": "glm-5.3"
+}

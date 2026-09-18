@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "hosea 9:8",
+  "book": "hosea",
+  "lang": "xh",
+  "chapter": 9,
+  "translation": "Usomlindzi weEfrayimi ulindile noElohim wam; unprofeti ngulutha lomkhwili phezu kwezindlela zakhe zonke, ubuhate busekhaya kwisikhaya sikaElohim yakhe.",
+  "tokens": [
+    {
+      "surface": "צפה",
+      "gloss": "usomlindzi"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "weEfrayimi"
+    },
+    {
+      "surface": "עם",
+      "gloss": "no-"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "uElohim wam"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "unprofeti"
+    },
+    {
+      "surface": "פח",
+      "gloss": "ngulutha"
+    },
+    {
+      "surface": "יקוש",
+      "gloss": "lomkhwili"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zonke"
+    },
+    {
+      "surface": "דרכיו",
+      "gloss": "kwezindlela zakhe"
+    },
+    {
+      "surface": "משטמה",
+      "gloss": "ubuhate"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "busekhaya kwisikhaya"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "sikaElohim yakhe"
+    }
+  ],
+  "timestamp": "2026-09-18T17:42:20.947035284Z",
+  "model": "glm-5.3"
+}

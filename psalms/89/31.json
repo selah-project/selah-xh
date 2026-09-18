@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 89:31",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 89,
+  "translation": "Ukuba abantwana bakhe bashiya iTora yam, bangahambi kwimimiselo yam:",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ukuba"
+    },
+    {
+      "surface": "יעזבו",
+      "gloss": "bashiya"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "abantwana bakhe"
+    },
+    {
+      "surface": "תורתי",
+      "gloss": "iTora yam"
+    },
+    {
+      "surface": "ובמשפטי",
+      "gloss": "kwimimiselo yam"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hayi"
+    },
+    {
+      "surface": "ילכון",
+      "gloss": "bangahambi"
+    }
+  ],
+  "timestamp": "2026-09-18T15:08:19.868355161Z",
+  "model": "glm-5.3"
+}

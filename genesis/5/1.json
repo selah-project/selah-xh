@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 5:1",
+  "book": "genesis",
+  "lang": "xh",
+  "chapter": 5,
+  "translation": "Olu ⟨is⟩ incwadi yezizukulwana zika-Adam. Ngekwanesi uElohim wadala umntu, ngokufana koElohim wawenza ⟨את⟩ yena.",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "Olu"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "incwadi"
+    },
+    {
+      "surface": "תולדת",
+      "gloss": "yezizukulwana"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "zika-Adam"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ngekwanesi"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "wadala"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "umntu"
+    },
+    {
+      "surface": "בדמות",
+      "gloss": "ngokufana"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "koElohim"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "wawenza"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ yena",
+      "marks": "yena (umntu)"
+    }
+  ],
+  "timestamp": "2026-09-18T05:08:39.791995972Z",
+  "model": "glm-5.3"
+}

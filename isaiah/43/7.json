@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 43:7",
+  "book": "isaiah",
+  "lang": "xh",
+  "chapter": 43,
+  "translation": "Bonke abo babizwa ngegama lam, ndibadalile ngenxa yobungcwangu bam; ndibatumba, ewe, ndibenzile.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Bonke"
+    },
+    {
+      "surface": "הנקרא",
+      "gloss": "abo babizwa"
+    },
+    {
+      "surface": "בשמי",
+      "gloss": "ngegama lam"
+    },
+    {
+      "surface": "ולכבודי",
+      "gloss": "ngenxa yobungcwangu bam"
+    },
+    {
+      "surface": "בראתיו",
+      "gloss": "ndibadalile"
+    },
+    {
+      "surface": "יצרתיו",
+      "gloss": "ndibatumba"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ewe"
+    },
+    {
+      "surface": "עשיתיו",
+      "gloss": "ndibenzile"
+    }
+  ],
+  "timestamp": "2026-09-18T11:31:07.916410240Z",
+  "model": "glm-5.3"
+}

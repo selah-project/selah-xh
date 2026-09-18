@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 144:8",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 144,
+  "translation": "abo mlomo wabo uthetha ubuxoki, nesandla labo elisekunene lyesandla lobuxoki.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "abo"
+    },
+    {
+      "surface": "פיהם",
+      "gloss": "mlomo wabo"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "uthetha"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "ubuxoki"
+    },
+    {
+      "surface": "וימינם",
+      "gloss": "nesandla labo elisekunene"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "yesandla"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "lobuxoki"
+    }
+  ],
+  "timestamp": "2026-09-18T15:33:54.005040684Z",
+  "model": "glm-5.3"
+}

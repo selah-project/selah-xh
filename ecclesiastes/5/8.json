@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 5:8",
+  "book": "ecclesiastes",
+  "lang": "xh",
+  "chapter": 5,
+  "translation": "Kwaye inzuzo yomhlaba ngayo yonke into; inkosi yenkonzi yomhlaba olimiweyo.",
+  "tokens": [
+    {
+      "surface": "ויתרון",
+      "gloss": "kwaye inzuzo"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "yomhlaba"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ngayo yonke into"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨yona⟩"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "inkosi"
+    },
+    {
+      "surface": "לשדה",
+      "gloss": "yomhlaba olimiweyo"
+    },
+    {
+      "surface": "נעבד",
+      "gloss": "yenkonzi"
+    }
+  ],
+  "timestamp": "2026-09-18T16:26:34.726380911Z",
+  "model": "glm-5.3"
+}

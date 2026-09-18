@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "1-chronicles 6:45",
+  "book": "1-chronicles",
+  "lang": "xh",
+  "chapter": 6,
+  "translation": "Kwaye kwisiqanga sikaBinjamin: iGeba kunye neemigrashayo, iAlamethe kunye neemigrashayo, iAnathothi kunye neemigrashayo; zonke iindawo zabo, shumi elinesithathu zeendawo, ngokweentsapho zabo.",
+  "tokens": [
+    {
+      "surface": "וממטה",
+      "gloss": "kwisiqanga sika"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Binjamin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iGeba"
+    },
+    {
+      "surface": "גבע",
+      "gloss": "iGeba"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kunye ne⟨את⟩",
+      "marks": "iimigrashayo"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "iimigrashayo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kunye ne⟨את⟩",
+      "marks": "iAlamethe"
+    },
+    {
+      "surface": "עלמת",
+      "gloss": "iAlamethe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kunye ne⟨את⟩",
+      "marks": "iimigrashayo"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "iimigrashayo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kunye ne⟨את⟩",
+      "marks": "iAnathothi"
+    },
+    {
+      "surface": "ענתות",
+      "gloss": "iAnathothi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kunye ne⟨את⟩",
+      "marks": "iimigrashayo"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "iimigrashayo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zonke"
+    },
+    {
+      "surface": "עריהם",
+      "gloss": "iindawo zabo"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "shumi elinesithathu (elithathu)"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "shumi elinesithathu (elishumi)"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "zeendawo"
+    },
+    {
+      "surface": "במשפחותיהם",
+      "gloss": "ngokweentsapho zabo"
+    }
+  ],
+  "timestamp": "2026-09-18T16:52:42.731168214Z",
+  "model": "glm-5.3"
+}

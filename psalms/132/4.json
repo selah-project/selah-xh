@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 132:4",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 132,
+  "translation": "ukuba ndiphe amehlo am ukulala, kwimiphumla yam ubuthongo —",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ukuba"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "ndiphe"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "ukulala"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "amehlo am"
+    },
+    {
+      "surface": "לעפעפי",
+      "gloss": "kwimiphumla yam"
+    },
+    {
+      "surface": "תנומה",
+      "gloss": "ubuthongo"
+    }
+  ],
+  "timestamp": "2026-09-18T15:27:27.680540434Z",
+  "model": "glm-5.3"
+}

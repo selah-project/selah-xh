@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 8:10",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 8,
+  "translation": "Zaqokelela ⟨אתם⟩ zibe yiiduli, iiduli, wabadela umhlaba.",
+  "tokens": [
+    {
+      "surface": "ויצברו",
+      "gloss": "zaqokelela"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "iiduli"
+    },
+    {
+      "surface": "חמרם",
+      "gloss": "iiduli"
+    },
+    {
+      "surface": "חמרם",
+      "gloss": "iiduli"
+    },
+    {
+      "surface": "ותבאש",
+      "gloss": "wabadela"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "umhlaba"
+    }
+  ],
+  "timestamp": "2026-09-18T05:55:43.996700440Z",
+  "model": "glm-5.3"
+}

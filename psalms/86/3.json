@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 86:3",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 86,
+  "translation": "Ndenze isihawu, u-Adonayi, kuba kuwe ndibiza yonke imini.",
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "Ndenze isihawu"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "u-Adonayi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kuwe"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "ndibiza"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yonke"
+    },
+    {
+      "surface": "היום",
+      "gloss": "imini"
+    }
+  ],
+  "timestamp": "2026-09-18T15:09:02.997750827Z",
+  "model": "glm-5.3"
+}

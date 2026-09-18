@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 44:15",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 44,
+  "translation": "Usibeka njengesaci kwiintlanga, njengokutyityiza intloko phakathi kweentlanga.",
+  "tokens": [
+    {
+      "surface": "תשימנו",
+      "gloss": "usibeka"
+    },
+    {
+      "surface": "משל",
+      "gloss": "njengesaci"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "kwiintlanga"
+    },
+    {
+      "surface": "מנוד",
+      "gloss": "njengokutyityiza"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "intloko"
+    },
+    {
+      "surface": "בל",
+      "gloss": "phakathi kweentlanga"
+    },
+    {
+      "surface": "אמים",
+      "gloss": "eentlanga"
+    }
+  ],
+  "timestamp": "2026-09-18T14:46:15.056857597Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 15:8",
+  "book": "deuteronomy",
+  "lang": "xh",
+  "chapter": 15,
+  "translation": "Kuba uya kuyivula ngokupheleleyo ⟨את⟩ isandla sakho kuye, kananjalo uza kumbbolekisa ngokwaneleyo kwintswelo yakhe, oko asweleyo kuye.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kuba"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "ngokupheleleyo vula"
+    },
+    {
+      "surface": "תפתח",
+      "gloss": "uya kuyivula"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isandla sakho"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "isandla sakho"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kuye"
+    },
+    {
+      "surface": "והעבט",
+      "gloss": "kananjalo ubolekise"
+    },
+    {
+      "surface": "תעביטנו",
+      "gloss": "mbolekisa"
+    },
+    {
+      "surface": "די",
+      "gloss": "ngokwaneleyo"
+    },
+    {
+      "surface": "מחסרו",
+      "gloss": "kwintswelo yakhe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oko"
+    },
+    {
+      "surface": "יחסר",
+      "gloss": "asweleyo"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kuye"
+    }
+  ],
+  "timestamp": "2026-09-18T08:07:03.190452312Z",
+  "model": "glm-5.3"
+}

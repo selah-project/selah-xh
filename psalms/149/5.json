@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 149:5",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 149,
+  "translation": "Abathembekileyo bayadansa ngozuko; bayaqhobosha phezu kwemibedeni yabo.",
+  "tokens": [
+    {
+      "surface": "יעלזו",
+      "gloss": "bayadansa"
+    },
+    {
+      "surface": "חסידים",
+      "gloss": "abathembekileyo"
+    },
+    {
+      "surface": "בכבוד",
+      "gloss": "ngozuko"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "bayaqhobosha"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu kwe"
+    },
+    {
+      "surface": "משכבותם",
+      "gloss": "emibedeni yabo"
+    }
+  ],
+  "timestamp": "2026-09-18T15:34:24.724053460Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 107:9",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 107,
+  "translation": "Kuba wasuthisa umphefumlo olambayo owfuna ngamandla, wazalisa ngokulungileyo umphefumlo wolambu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "השביע",
+      "gloss": "wasuthisa"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "umphefumlo"
+    },
+    {
+      "surface": "שקקה",
+      "gloss": "owfuna ngamandla"
+    },
+    {
+      "surface": "ונפש",
+      "gloss": "nomphefumlo"
+    },
+    {
+      "surface": "רעבה",
+      "gloss": "wolambu"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "wazalisa"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ngokulungileyo"
+    }
+  ],
+  "timestamp": "2026-09-18T15:16:53.668784203Z",
+  "model": "glm-5.3"
+}

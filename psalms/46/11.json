@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 46:11",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 46,
+  "translation": "Yekani, nazi ukuba ndinguElohim; ndiza kuphakama kwiintlanga, ndiza kuphakama emhlabeni.",
+  "tokens": [
+    {
+      "surface": "הרפו",
+      "gloss": "Yekani"
+    },
+    {
+      "surface": "ודעו",
+      "gloss": "nazi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ukuba"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ndi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "nguElohim"
+    },
+    {
+      "surface": "ארום",
+      "gloss": "ndiza kuphakama"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "kwiintlanga"
+    },
+    {
+      "surface": "ארום",
+      "gloss": "ndiza kuphakama"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "emhlabeni"
+    }
+  ],
+  "timestamp": "2026-09-18T14:46:42.654503085Z",
+  "model": "glm-5.3"
+}

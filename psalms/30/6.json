@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 30:6",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 30,
+  "translation": "Kuba kukratsa kwakhe kungumzuzwana, ubomi ngokwaneliseyo kwakhe; ebusuku ukukhala kuhlala, ekuseni uvuyo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "רגע",
+      "gloss": "ungumzuzwana"
+    },
+    {
+      "surface": "באפו",
+      "gloss": "kukratsa kwakhe"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "ubomi"
+    },
+    {
+      "surface": "ברצונו",
+      "gloss": "ngokwaneliseyo kwakhe"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "ebusuku"
+    },
+    {
+      "surface": "ילין",
+      "gloss": "kuhlala"
+    },
+    {
+      "surface": "בכי",
+      "gloss": "ukukhala"
+    },
+    {
+      "surface": "ולבקר",
+      "gloss": "ekuseni"
+    },
+    {
+      "surface": "רנה",
+      "gloss": "uvuyo"
+    }
+  ],
+  "timestamp": "2026-09-18T14:39:07.190794487Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 10:2",
+  "book": "leviticus",
+  "lang": "xh",
+  "chapter": 10,
+  "translation": "Waphuma umlilo phambi koYahwe, wawutya ⟨את⟩ abo, baza bafa phambi koYahwe.",
+  "tokens": [
+    {
+      "surface": "ותצא",
+      "gloss": "waphuma"
+    },
+    {
+      "surface": "אש",
+      "gloss": "umlilo"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "phambi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "koYahwe"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "wawutya"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "abo"
+    },
+    {
+      "surface": "וימתו",
+      "gloss": "baza bafa"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "phambi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "koYahwe"
+    }
+  ],
+  "timestamp": "2026-09-18T06:45:16.297674152Z",
+  "model": "glm-5.3"
+}

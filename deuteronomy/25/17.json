@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 25:17",
+  "book": "deuteronomy",
+  "lang": "xh",
+  "chapter": 25,
+  "translation": "Khumbula ⟨את⟩ oko akwenzelayo u-Amaleki, endleleni, ngekuninzi niphuma eMitsrayim.",
+  "tokens": [
+    {
+      "surface": "זכור",
+      "gloss": "Khumbula"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oko akwenzelayo u-Amaleki"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oko"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "akwenzelayo"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kuwe"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "u-Amaleki"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "endleleni"
+    },
+    {
+      "surface": "בצאתכם",
+      "gloss": "ngekuninzi niphuma"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "eMitsrayim"
+    }
+  ],
+  "timestamp": "2026-09-18T08:15:03.603886221Z",
+  "model": "glm-5.3"
+}

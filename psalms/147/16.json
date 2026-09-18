@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 147:16",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 147,
+  "translation": "Onika iqhwa njengoboya, iqhwa elifulele njengomlotha ulasasaza.",
+  "tokens": [
+    {
+      "surface": "הנתן",
+      "gloss": "Onika"
+    },
+    {
+      "surface": "שלג",
+      "gloss": "iqhwa"
+    },
+    {
+      "surface": "כצמר",
+      "gloss": "njengoboya"
+    },
+    {
+      "surface": "כפור",
+      "gloss": "iqhwa elifulele"
+    },
+    {
+      "surface": "כאפר",
+      "gloss": "njengomlotha"
+    },
+    {
+      "surface": "יפזר",
+      "gloss": "ulasasaza"
+    }
+  ],
+  "timestamp": "2026-09-18T15:34:54.736759905Z",
+  "model": "glm-5.3"
+}

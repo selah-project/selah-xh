@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 22:4",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 22,
+  "translation": "Ukuba umntu enza ukuba umhlaba okanye isidiliya sidliwe, athumele ⟨את⟩ iinkomo zakhe, zidityele emhlabeni womnye umntu, uya kuhlawulela ngokweenkcuza zomhlaba wakhe kunye nezentyabethe yakhe.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ukuba"
+    },
+    {
+      "surface": "יבער",
+      "gloss": "enza ukuba ... sidliwe"
+    },
+    {
+      "surface": "איש",
+      "gloss": "umntu"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "umhlaba"
+    },
+    {
+      "surface": "או",
+      "gloss": "okanye"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "isidiliya"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "athumele"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iinkomo zakhe"
+    },
+    {
+      "surface": "בעירה",
+      "gloss": "iinkomo zakhe"
+    },
+    {
+      "surface": "ובער",
+      "gloss": "zidityele"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "emhlabeni"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "womnye umntu"
+    },
+    {
+      "surface": "מיטב",
+      "gloss": "ngokweenkcuza"
+    },
+    {
+      "surface": "שדהו",
+      "gloss": "zomhlaba wakhe"
+    },
+    {
+      "surface": "ומיטב",
+      "gloss": "kunye nezentyabethe yakhe ezingcono"
+    },
+    {
+      "surface": "כרמו",
+      "gloss": "entyabethe yakhe"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "uya kuhlawulela"
+    }
+  ],
+  "timestamp": "2026-09-18T06:10:48.004649290Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 39:12",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 39,
+  "translation": "Ngezintshumayelo ngezonyo ulungelelanisa umntu, uyatshabalalisa njengesenxa into ayiqhenya ngayo; inyaniso, umntu wonke ngumoya odlulayo. Selah.",
+  "tokens": [
+    {
+      "surface": "בתוכחות",
+      "gloss": "Ngezintshumayelo"
+    },
+    {
+      "surface": "על",
+      "gloss": "nge"
+    },
+    {
+      "surface": "עון",
+      "gloss": "izonyo"
+    },
+    {
+      "surface": "יסרת",
+      "gloss": "ulungelelanisa"
+    },
+    {
+      "surface": "איש",
+      "gloss": "umntu"
+    },
+    {
+      "surface": "ותמס",
+      "gloss": "uyatshabalalisa"
+    },
+    {
+      "surface": "כעש",
+      "gloss": "njengesenxa"
+    },
+    {
+      "surface": "חמודו",
+      "gloss": "into ayiqhenya ngayo"
+    },
+    {
+      "surface": "אך",
+      "gloss": "inyaniso"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "ngumoya odlulayo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wonke"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "umntu"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-18T14:43:41.093557820Z",
+  "model": "glm-5.3"
+}

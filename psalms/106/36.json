@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "psalms 106:36",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 106,
+  "translation": "baza benza inkonzo kwiintshobo zazo, ezele zona zaba sisibambelo kubo.",
+  "tokens": [
+    {
+      "surface": "ויעבדו",
+      "gloss": "benza inkonzo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iintshobo zazo"
+    },
+    {
+      "surface": "עצביהם",
+      "gloss": "iintshobo zazo"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "zaba"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kubo"
+    },
+    {
+      "surface": "למוקש",
+      "gloss": "sisibambelo"
+    }
+  ],
+  "timestamp": "2026-09-18T15:17:17.708164465Z",
+  "model": "glm-5.3"
+}

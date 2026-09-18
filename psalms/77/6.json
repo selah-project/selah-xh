@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 77:6",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 77,
+  "translation": "Ndacinga ngeentsuku zakudala, iminyaka yamandulo.",
+  "tokens": [
+    {
+      "surface": "חשבתי",
+      "gloss": "Ndacinga"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "iintsuku"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "zakudala"
+    },
+    {
+      "surface": "שנות",
+      "gloss": "iminyaka"
+    },
+    {
+      "surface": "עולמים",
+      "gloss": "yamandulo"
+    }
+  ],
+  "timestamp": "2026-09-18T15:00:43.135843681Z",
+  "model": "glm-5.3"
+}

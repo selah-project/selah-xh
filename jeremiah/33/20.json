@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 33:20",
+  "book": "jeremiah",
+  "lang": "xh",
+  "chapter": 33,
+  "translation": "Uthi uYahwe: ukuba niyakwazi ukuphula ⟨את⟩ umnqophiso wam wemini kunye no-⟨את⟩ umnqophiso wam wasebusuku, ukuze kungabi khona imini nobusuku ngesikhathi sawo—",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Uthi"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "uYahwe uthi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ukuba"
+    },
+    {
+      "surface": "תפרו",
+      "gloss": "niyakwazi ukuphula"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umnqophiso wam wemini"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "umnqophiso wam"
+    },
+    {
+      "surface": "היום",
+      "gloss": "wemini"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kunye no-⟨את⟩",
+      "marks": "umnqophiso wam wasebusuku"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "umnqophiso wam"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "wasebusuku"
+    },
+    {
+      "surface": "ולבלתי",
+      "gloss": "ukuzinga ukungabi khona"
+    },
+    {
+      "surface": "היות",
+      "gloss": "kungabi khona"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "imini"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "nobusuku"
+    },
+    {
+      "surface": "בעתם",
+      "gloss": "ngesikhathi sawo"
+    }
+  ],
+  "timestamp": "2026-09-18T12:23:39.254438679Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "jeremiah 50:40",
+  "book": "jeremiah",
+  "lang": "xh",
+  "chapter": 50,
+  "translation": "Njengokujika nguElohim ⟨את⟩ iSodoma ⟨את⟩ neGomora ⟨את⟩ nomelwane baso, utshilo uYahwe: akukho mntu uza kuhlala khona, yaye akukho mntwana womntu uza kuhlala kuyo.",
+  "tokens": [
+    {
+      "surface": "כמהפכת",
+      "gloss": "njengokujika"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "nguElohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iSodoma"
+    },
+    {
+      "surface": "סדם",
+      "gloss": "iSodoma"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "iGomora"
+    },
+    {
+      "surface": "עמרה",
+      "gloss": "iGomora"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "abamelwane baso"
+    },
+    {
+      "surface": "שכניה",
+      "gloss": "abamelwane baso"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "utshilo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "akukho"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "uza kuhlala"
+    },
+    {
+      "surface": "שם",
+      "gloss": "khona"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mntu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "yaye akukho"
+    },
+    {
+      "surface": "יגור",
+      "gloss": "uza kuhlala"
+    },
+    {
+      "surface": "בה",
+      "gloss": "kuyo"
+    },
+    {
+      "surface": "בן",
+      "gloss": "umntwana"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "womntu"
+    }
+  ],
+  "timestamp": "2026-09-18T12:41:37.435358525Z",
+  "model": "glm-5.3"
+}

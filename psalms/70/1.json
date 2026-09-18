@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 70:1",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 70,
+  "translation": "Kumqokeleli-womculo, indumiso kaDavide, ukukhumbulisa.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Kumqokeleli-womculo"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "kaDavide"
+    },
+    {
+      "surface": "להזכיר",
+      "gloss": "ukukhumbulisa"
+    }
+  ],
+  "timestamp": "2026-09-18T14:56:50.307615710Z",
+  "model": "glm-5.3"
+}

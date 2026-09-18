@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "jeremiah 33:14",
+  "book": "jeremiah",
+  "lang": "xh",
+  "chapter": 33,
+  "translation": "Yabona, iintsuku ezizayo, utshilo uYahwe, ndiza kwakha ⟨את⟩ ilizwi elilungileyo endilithethileyo kwindlu ka-Israel nakwindlu yakwaYehudha.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Yabona"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "iintsuku"
+    },
+    {
+      "surface": "באים",
+      "gloss": "ezizayo"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "utshilo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "והקמתי",
+      "gloss": "ndiza kwakha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ilizwi"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ilizwi"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "elilungileyo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "elo"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "endilithethileyo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "בית",
+      "gloss": "windlu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ka-Israel"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "nakwi"
+    },
+    {
+      "surface": "בית",
+      "gloss": "windlu"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "yakwaYehudha"
+    }
+  ],
+  "timestamp": "2026-09-18T12:23:36.382870410Z",
+  "model": "glm-5.3"
+}

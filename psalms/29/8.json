@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 29:8",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 29,
+  "translation": "Ilizwi likaYahwe liyayigudumza intlango; uYahwe uyayigudumza intlango yaseKadeshi.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "Ilizwi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "likaYahwe"
+    },
+    {
+      "surface": "יחיל",
+      "gloss": "liyayigudumza"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "intlango"
+    },
+    {
+      "surface": "יחיל",
+      "gloss": "uyayigudumza"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "intlango"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "yaseKadeshi"
+    }
+  ],
+  "timestamp": "2026-09-18T14:37:16.062996920Z",
+  "model": "glm-5.3"
+}

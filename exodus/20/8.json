@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 20:8",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 20,
+  "translation": "Khumbula ⟨את⟩ usuku lweShabathi, lokuliyenza libengcwele.",
+  "tokens": [
+    {
+      "surface": "זכור",
+      "gloss": "Khumbula"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "usuku lweShabathi"
+    },
+    {
+      "surface": "יום",
+      "gloss": "usuku"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "lweShabathi"
+    },
+    {
+      "surface": "לקדשו",
+      "gloss": "lokuliyenza libengcwele"
+    }
+  ],
+  "timestamp": "2026-09-18T06:03:39.193707440Z",
+  "model": "glm-5.3"
+}

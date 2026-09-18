@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "exodus 28:37",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 28,
+  "translation": "Uza kubeka ⟨אתו⟩ kwiritya oluhlaza, lube phezu kwesigqoko; ngaphambili koluso lwesigqoko luya kuba khona.",
+  "tokens": [
+    {
+      "surface": "ושמת",
+      "gloss": "uza kubeka"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ileyile yegolide"
+    },
+    {
+      "surface": "על",
+      "gloss": "kwi-"
+    },
+    {
+      "surface": "פתיל",
+      "gloss": "iritya"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "oluhlaza"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "lube"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu"
+    },
+    {
+      "surface": "המצנפת",
+      "gloss": "kwesigqoko"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "מול",
+      "gloss": "phambili"
+    },
+    {
+      "surface": "פני",
+      "gloss": "uluso"
+    },
+    {
+      "surface": "המצנפת",
+      "gloss": "lwesigqoko"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "luya kuba khona"
+    }
+  ],
+  "timestamp": "2026-09-18T06:19:04.274613394Z",
+  "model": "glm-5.3"
+}

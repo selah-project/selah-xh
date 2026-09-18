@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 85:13",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 85,
+  "translation": "Kananjalo uYahwe uza kunika okulungileyo, umhlaba wethu uza kunika umthwalo wawo.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Kananjalo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "uza kunika"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "okulungileyo"
+    },
+    {
+      "surface": "וארצנו",
+      "gloss": "umhlaba wethu"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "uza kunika"
+    },
+    {
+      "surface": "יבולה",
+      "gloss": "umthwalo wawo"
+    }
+  ],
+  "timestamp": "2026-09-18T15:06:28.140977023Z",
+  "model": "glm-5.3"
+}

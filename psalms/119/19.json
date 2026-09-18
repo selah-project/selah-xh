@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 119:19",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 119,
+  "translation": "NdinguMmangalezo emhlabeni; musa ukufihla imiyalelo yakho kum.",
+  "tokens": [
+    {
+      "surface": "גר",
+      "gloss": "Mmangalezo"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "Ndingu-"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "emhlabeni"
+    },
+    {
+      "surface": "אל",
+      "gloss": "musa uk-"
+    },
+    {
+      "surface": "תסתר",
+      "gloss": "fihla"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "kum"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "imiyalelo yakho"
+    }
+  ],
+  "timestamp": "2026-09-18T15:23:19.005819349Z",
+  "model": "glm-5.3"
+}

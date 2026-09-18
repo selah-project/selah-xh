@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 5:10",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 5,
+  "translation": "Kuba akukho sithembekileyo emlonyeni wabo; ingaphakathi labo ziimbangela zokutshatyalaliswa; iqula labo yingcwaba elivulekileyo; ngolwimi lwabo bayazenz' intende.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "אין",
+      "gloss": "akukho"
+    },
+    {
+      "surface": "בפיהו",
+      "gloss": "emlonyeni wabo"
+    },
+    {
+      "surface": "נכונה",
+      "gloss": "sithembekileyo"
+    },
+    {
+      "surface": "קרבם",
+      "gloss": "ingaphakathi labo"
+    },
+    {
+      "surface": "הוות",
+      "gloss": "ziimbangela zokutshatyalaliswa"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "ingcwaba"
+    },
+    {
+      "surface": "פתוח",
+      "gloss": "elivulekileyo"
+    },
+    {
+      "surface": "גרונם",
+      "gloss": "iqula labo"
+    },
+    {
+      "surface": "לשונם",
+      "gloss": "ulwimi lwabo"
+    },
+    {
+      "surface": "יחליקון",
+      "gloss": "bayazenz' intende"
+    }
+  ],
+  "timestamp": "2026-09-18T14:26:09.588199779Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 55,
+  "ref": "numbers 26:55",
+  "book": "numbers",
+  "lang": "xh",
+  "chapter": 26,
+  "translation": "Kodwa ngelothu ⟨את⟩ umhlaba uya kwahlulwa; ngamagama amasiko ookhokho bawo aza kufumana owawo.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "kodwa"
+    },
+    {
+      "surface": "בגורל",
+      "gloss": "ngelothu"
+    },
+    {
+      "surface": "יחלק",
+      "gloss": "uya kwahlulwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umhlaba"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "umhlaba"
+    },
+    {
+      "surface": "לשמות",
+      "gloss": "ngamagama"
+    },
+    {
+      "surface": "מטות",
+      "gloss": "amasiko"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "ookhokho bawo"
+    },
+    {
+      "surface": "ינחלו",
+      "gloss": "aza kufumana owawo"
+    }
+  ],
+  "timestamp": "2026-09-18T07:40:15.806025075Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 44:6",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 44,
+  "translation": "Kuwena siqhwaba iintsaba zethu; ngeGama lakho sinyathela abasukumelayo ngokuchasene nathi.",
+  "tokens": [
+    {
+      "surface": "בך",
+      "gloss": "Kuwena"
+    },
+    {
+      "surface": "צרינו",
+      "gloss": "iintsaba zethu"
+    },
+    {
+      "surface": "ננגח",
+      "gloss": "siqhwaba"
+    },
+    {
+      "surface": "בשמך",
+      "gloss": "ngeGama lakho"
+    },
+    {
+      "surface": "נבוס",
+      "gloss": "sinyathela"
+    },
+    {
+      "surface": "קמינו",
+      "gloss": "abasukumelayo ngokuchasene nathi"
+    }
+  ],
+  "timestamp": "2026-09-18T14:45:10.133357511Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 107:6",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 107,
+  "translation": "Baza bacula-bemba kuYahwe ekuxineni kwabo, waza kwabasindisa ezinxwemeni zabo.",
+  "tokens": [
+    {
+      "surface": "ויצעקו",
+      "gloss": "baza bacula-bemba"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "ekuxineni"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kwabo"
+    },
+    {
+      "surface": "ממצוקותיהם",
+      "gloss": "ezinxwemeni zabo"
+    },
+    {
+      "surface": "יצילם",
+      "gloss": "wabasindisa"
+    }
+  ],
+  "timestamp": "2026-09-18T15:17:43.109542101Z",
+  "model": "glm-5.3"
+}

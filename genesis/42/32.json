@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 42:32",
+  "book": "genesis",
+  "lang": "xh",
+  "chapter": 42,
+  "translation": "Singabafowabo abalishumi elinesibini, amakhulu oyise mnye: omnye akasekho, yaye omncinane namhlanje ungapelwa ⟨את⟩ uyise, elizweni laseKenaan.",
+  "tokens": [
+    {
+      "surface": "שנים",
+      "gloss": "abalishumi"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "elinesibini"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "thina"
+    },
+    {
+      "surface": "אחים",
+      "gloss": "abafowabo"
+    },
+    {
+      "surface": "בני",
+      "gloss": "amakhulu"
+    },
+    {
+      "surface": "אבינו",
+      "gloss": "oyise"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "omnye"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "akasekho"
+    },
+    {
+      "surface": "והקטן",
+      "gloss": "yaye omncinane"
+    },
+    {
+      "surface": "היום",
+      "gloss": "namhlanje"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kunye noYise"
+    },
+    {
+      "surface": "אבינו",
+      "gloss": "uyise"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "elizweni"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "laseKenaan"
+    }
+  ],
+  "timestamp": "2026-09-18T05:42:47.550793737Z",
+  "model": "glm-5.3"
+}

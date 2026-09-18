@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 27:22",
+  "book": "deuteronomy",
+  "lang": "xh",
+  "chapter": 27,
+  "translation": "Owisiweleyo ngumntu ongcolileyo oqiniselekileyo — uye walala nodade wakhe, unyana womfazi kaYise wakhe okanye unyana womfazi kaMama wakhe; abantu bonke baza kuthi: Amen.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "Owisiweleyo ngumntu ongcolileyo oqiniselekileyo —"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "olala"
+    },
+    {
+      "surface": "עם",
+      "gloss": "kunye"
+    },
+    {
+      "surface": "אחתו",
+      "gloss": "nodade wakhe"
+    },
+    {
+      "surface": "בת",
+      "gloss": "unyana"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "kaYise wakhe"
+    },
+    {
+      "surface": "או",
+      "gloss": "okanye"
+    },
+    {
+      "surface": "בת",
+      "gloss": "unyana"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "kaMama wakhe"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "baza kuthi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bonke"
+    },
+    {
+      "surface": "העם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Amen"
+    }
+  ],
+  "timestamp": "2026-09-18T08:17:42.146629509Z",
+  "model": "glm-5.3"
+}

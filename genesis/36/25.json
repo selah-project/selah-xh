@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 36:25",
+  "book": "genesis",
+  "lang": "xh",
+  "chapter": 36,
+  "translation": "Ezi ngaba ngabantwana baAnahi uDishoni, noAholibamahi intombi kaAnahi.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Ezi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abantwana"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "baAnahi"
+    },
+    {
+      "surface": "דשן",
+      "gloss": "uDishoni"
+    },
+    {
+      "surface": "ואהליבמה",
+      "gloss": "noAholibamahi"
+    },
+    {
+      "surface": "בת",
+      "gloss": "intombi"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "kaAnahi"
+    }
+  ],
+  "timestamp": "2026-09-18T05:32:54.010677523Z",
+  "model": "glm-5.3"
+}

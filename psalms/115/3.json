@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 115:3",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 115,
+  "translation": "Kodwa uElohim wethu usezulwini; yonke into ayithandayo iyenzile.",
+  "tokens": [
+    {
+      "surface": "ואלהינו",
+      "gloss": "Kodwa uElohim wethu"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "usezulwini"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yonke into"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ayithandayo"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "ayithandayo"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "iyenzile"
+    }
+  ],
+  "timestamp": "2026-09-18T15:21:02.704017882Z",
+  "model": "glm-5.3"
+}

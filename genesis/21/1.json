@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 21:1",
+  "book": "genesis",
+  "lang": "xh",
+  "chapter": 21,
+  "translation": "Waza uYahwe wakhangela uSara njengoko wathethileyo, waza uYahwe wenza kuSara njengoko wathethileyo.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "waza uYahwe"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "wakhangela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uSara"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "uSara"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "njengoko"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "wathethileyo"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "waza wenza"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "לשרה",
+      "gloss": "kuSara"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "njengoko"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "wathethileyo"
+    }
+  ],
+  "timestamp": "2026-09-18T05:18:57.859241379Z",
+  "model": "glm-5.3"
+}

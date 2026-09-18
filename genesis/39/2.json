@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 39:2",
+  "book": "genesis",
+  "lang": "xh",
+  "chapter": 39,
+  "translation": "Yaye uYahwe waba ⟨את⟩ uYosef; yaba yindoda eyiphumeleyo; wahlala endlwini yenkosi yakhe, umMitsrayim.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Yaye"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uYosef"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "uYosef"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "yaba"
+    },
+    {
+      "surface": "איש",
+      "gloss": "yindoda"
+    },
+    {
+      "surface": "מצליח",
+      "gloss": "eyiphumeleyo"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "wahlala"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "endlwini"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "yenkosi yakhe"
+    },
+    {
+      "surface": "המצרי",
+      "gloss": "umMitsrayim"
+    }
+  ],
+  "timestamp": "2026-09-18T05:38:34.719690909Z",
+  "model": "glm-5.3"
+}

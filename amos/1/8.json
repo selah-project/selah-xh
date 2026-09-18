@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "amos 1:8",
+  "book": "amos",
+  "lang": "xh",
+  "chapter": 1,
+  "translation": "Ndiza kuchitha umhlali weAshdodi, nobambe isikhuni seAshkeloni; ndiza kuphendula isandla sami phezu kweEkroni, intsalela yamaFilisti aza kutshonalala, uthe u-Adonayi uYahwe.",
+  "tokens": [
+    {
+      "surface": "והכרתי",
+      "gloss": "Ndiza kuchitha"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "umhlali"
+    },
+    {
+      "surface": "מאשדוד",
+      "gloss": "weAshdodi"
+    },
+    {
+      "surface": "ותומך",
+      "gloss": "nobambe"
+    },
+    {
+      "surface": "שבט",
+      " ": "",
+      "gloss": "isikhuni se"
+    },
+    {
+      "surface": "מאשקלון",
+      "gloss": "Ashkeloni"
+    },
+    {
+      "surface": "והשיבותי",
+      "gloss": "ndiza kuphendula"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "isandla sami"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu kwe"
+    },
+    {
+      "surface": "עקרון",
+      "gloss": "Ekroni"
+    },
+    {
+      "surface": "ואבדו",
+      "gloss": "aza kutshonalala"
+    },
+    {
+      "surface": "שארית",
+      "gloss": "intsalela ya"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "maFilisti"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "uthe"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "u-Adonayi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    }
+  ],
+  "timestamp": "2026-09-18T17:41:27.834728460Z",
+  "model": "glm-5.3"
+}

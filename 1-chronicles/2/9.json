@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 2:9",
+  "book": "1-chronicles",
+  "lang": "xh",
+  "chapter": 2,
+  "translation": "Kananjalo amakulu alo uKhetsevroni abazalwayo kuye: uYerakhmele noRamu noKelubhayi.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "Kananjalo amakulu"
+    },
+    {
+      "surface": "חצרון",
+      "gloss": "uKhetsevroni"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aba"
+    },
+    {
+      "surface": "נולד",
+      "gloss": "zalwayo"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kuye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uYerakhmele"
+    },
+    {
+      "surface": "ירחמאל",
+      "gloss": "uYerakhmele"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "uRamu"
+    },
+    {
+      "surface": "רם",
+      "gloss": "uRamu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "noKelubhayi"
+    },
+    {
+      "surface": "כלובי",
+      "gloss": "noKelubhayi"
+    }
+  ],
+  "timestamp": "2026-09-18T16:50:39.346565562Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 27:1",
+  "book": "deuteronomy",
+  "lang": "xh",
+  "chapter": 27,
+  "translation": "UMoshe neenkosi ezidala zikaSirayeli bayalela ⟨את⟩ abantu, besithi: “Zigcine ⟨את⟩ wonke umyalelo endiniwutyalela namhlanje.”",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "bayalela"
+    },
+    {
+      "surface": "משה",
+      "gloss": "uMoshe"
+    },
+    {
+      "surface": "וזקני",
+      "gloss": "neenkosi ezidala"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "zikaSirayeli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abantu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "besithi"
+    },
+    {
+      "surface": "שמור",
+      "gloss": "Zigcine"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wonke umyalelo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wonke"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "umyalelo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "o"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ndi"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "-wutyalela"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ ni"
+    },
+    {
+      "surface": "היום",
+      "gloss": "namhlanje"
+    }
+  ],
+  "timestamp": "2026-09-18T08:17:21.101007938Z",
+  "model": "glm-5.3"
+}

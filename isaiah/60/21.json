@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 60:21",
+  "book": "isaiah",
+  "lang": "xh",
+  "chapter": 60,
+  "translation": "Kwaye abantu bakho bonke ⟨aba⟩ balungileyo, ngonaphakade baza kulifa ⟨את⟩ umhlaba; intshebe yokutyala kwam, umsebenzi wezandla zam, ukuze ndizukiswe.",
+  "tokens": [
+    {
+      "surface": "ועמך",
+      "gloss": "Kwaye abantu bakho"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "bonke"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "balungileyo"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ngonaphakade"
+    },
+    {
+      "surface": "יירשו",
+      "gloss": "baza kulifa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umhlaba"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "umhlaba"
+    },
+    {
+      "surface": "נצר",
+      "gloss": "intshebe"
+    },
+    {
+      "surface": "מטעו",
+      "gloss": "yokutyala kwam"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "umsebenzi"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "wezandla zam"
+    },
+    {
+      "surface": "להתפאר",
+      "gloss": "ukuze ndizukiswe"
+    }
+  ],
+  "timestamp": "2026-09-18T11:43:50.563732280Z",
+  "model": "glm-5.3"
+}

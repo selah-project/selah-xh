@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 12:3",
+  "book": "genesis",
+  "lang": "xh",
+  "chapter": 12,
+  "translation": "Endiza kukutsikelela abo bakutsikelelayo, lowo ukhuphisa umsindo kuwe endiza kumqalela — yaye kuwe kuya kutsikelelwa onke amaphando omhlaba.”",
+  "tokens": [
+    {
+      "surface": "ואברכה",
+      "gloss": "endiza kukutsikelela"
+    },
+    {
+      "surface": "מברכיך",
+      "gloss": "abo bakutsikelelayo"
+    },
+    {
+      "surface": "ומקללך",
+      "gloss": "lowo ukhuphisa umsindo kuwe"
+    },
+    {
+      "surface": "אאר",
+      "gloss": "endiza kumqalela"
+    },
+    {
+      "surface": "ונברכו",
+      "gloss": "kuya kutsikelelwa"
+    },
+    {
+      "surface": "בך",
+      "gloss": "kuwe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "onke"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "amaphando"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "omhlaba"
+    }
+  ],
+  "timestamp": "2026-09-18T05:13:27.706004926Z",
+  "model": "glm-5.3"
+}

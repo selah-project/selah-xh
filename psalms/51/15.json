@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 51:15",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 51,
+  "translation": "Ndiya kufundisa abenzi-bono indlela zakho, kwaye aboni baza kubuyela kuwe.",
+  "tokens": [
+    {
+      "surface": "אלמדה",
+      "gloss": "ndiya kufundisa"
+    },
+    {
+      "surface": "פשעים",
+      "gloss": "abenzi-bono"
+    },
+    {
+      "surface": "דרכיך",
+      "gloss": "indlela zakho"
+    },
+    {
+      "surface": "וחטאים",
+      "gloss": "kwaye aboni"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kuwe"
+    },
+    {
+      "surface": "ישובו",
+      "gloss": "baza kubuyela"
+    }
+  ],
+  "timestamp": "2026-09-18T17:42:57.705822588Z",
+  "model": "glm-5.3"
+}

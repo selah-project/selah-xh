@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-kings 22:11",
+  "book": "1-kings",
+  "lang": "xh",
+  "chapter": 22,
+  "translation": "UTsidkiya unyana kaKenana wazenzela iimpondo zentsimbi, wathi: “Njalo uthe uYahwe: Ngezi uzakuzidubula ⟨את⟩ iAram de igqibe.”",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "wazenzela"
+    },
+    {
+      "surface": "לו",
+      "gloss": "yena"
+    },
+    {
+      "surface": "צדקיה",
+      "gloss": "uTsidkiya"
+    },
+    {
+      "surface": "בן",
+      "gloss": "unyana"
+    },
+    {
+      "surface": "כנענה",
+      "gloss": "kaKenana"
+    },
+    {
+      "surface": "קרני",
+      "gloss": "iimpondo"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "zentsimbi"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "כה",
+      "gloss": "Njalo"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "uthe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "באלה",
+      "gloss": "Ngezi"
+    },
+    {
+      "surface": "תנגח",
+      "gloss": "uzakuzidubula"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iAram"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "iAram"
+    },
+    {
+      "surface": "עד",
+      "gloss": "de"
+    },
+    {
+      "surface": "כלתם",
+      "gloss": "igqibe"
+    }
+  ],
+  "timestamp": "2026-09-18T10:36:19.457719759Z",
+  "model": "glm-5.3"
+}

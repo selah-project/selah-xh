@@ -1,0 +1,52 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "leviticus 19:37",
+  "book": "leviticus",
+  "lang": "xh",
+  "chapter": 19,
+  "translation": "Kwaye niya kugcina ⟨את⟩ zonke iintlawulo zam nange ⟨את⟩ zonke izigwebo zam, kwaye niya kuzenza ⟨את⟩; mna ndinguYahwe.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "kwaye niya kugcina"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zonke iintlawulo zam"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zonke"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "iintlawulo zam"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "nange ⟨את⟩",
+      "marks": "zonke izigwebo zam"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zonke"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "izigwebo zam"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "kwaye niya kuzenza"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "lazo (izonke ezi"
+    }
+  ],
+  "timestamp": "2026-09-18T06:57:13.690768832Z",
+  "model": "glm-5.3"
+}

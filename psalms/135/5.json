@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 135:5",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 135,
+  "translation": "Kuba ndiyazi ukuba uYahwe mkhulu, no-Adonayi wethu ngaphezu kwazo zonke iithixo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kuba"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ndi-"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "ndiyazi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ukuba"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "mkhulu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "ואדנינו",
+      "gloss": "no-Adonayi wethu"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "ngaphezu kwazo zonke"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "iithixo"
+    }
+  ],
+  "timestamp": "2026-09-18T15:29:15.695231278Z",
+  "model": "glm-5.3"
+}

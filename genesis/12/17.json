@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 12:17",
+  "book": "genesis",
+  "lang": "xh",
+  "chapter": 12,
+  "translation": "Watyhalela uYahwe uParo ngamatyhalelo amakhulu, nangapandle kwakhe kwakhalo lweyakhe indlu, ngenxa yoSarayi, umfazi ka-Avraham.",
+  "tokens": [
+    {
+      "surface": "וינגע",
+      "gloss": "Watyhalela"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uParo"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "uParo"
+    },
+    {
+      "surface": "נגעים",
+      "gloss": "ngamatyhalelo"
+    },
+    {
+      "surface": "גדלים",
+      "gloss": "amakhulu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "indlu yakhe"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "kwakhalo lweyakhe indlu"
+    },
+    {
+      "surface": "על",
+      "gloss": "ngenxa"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "yo-"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "oSarayi"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "umfazi"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "ka-Avraham"
+    }
+  ],
+  "timestamp": "2026-09-18T05:12:25.424217205Z",
+  "model": "glm-5.3"
+}

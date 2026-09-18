@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 6:5",
+  "book": "deuteronomy",
+  "lang": "xh",
+  "chapter": 6,
+  "translation": "Uza kuthanda ⟨את⟩ uYahwe uElohim wakho ngentliziyo yakho yonke, nangomphefumlo wakho wonke, nangamandla akho onke.",
+  "tokens": [
+    {
+      "surface": "ואהבת",
+      "gloss": "uza kuthanda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uYahwe uElohim wakho"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "uElohim wakho"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "nge-… yonke"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "ntliziyo yakho"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "nange-… wonke"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "mphefumlo wakho"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "nange-… onke"
+    },
+    {
+      "surface": "מאדך",
+      "gloss": "amandla akho"
+    }
+  ],
+  "timestamp": "2026-09-18T07:56:41.247059628Z",
+  "model": "glm-5.3"
+}

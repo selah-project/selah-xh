@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 12:8",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 12,
+  "translation": "Batya ⟨את⟩ inyama ngobusuku obu, ikosiwe ngomlilo, neesinkwa esingenasiphuncuto; ngetyani obunokrasa bayitya.",
+  "tokens": [
+    {
+      "surface": "ואכלו",
+      "gloss": "batya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "inyama"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "inyama"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "ngobusuku"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "obu"
+    },
+    {
+      "surface": "צלי",
+      "gloss": "ikosiwe"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ngomlilo"
+    },
+    {
+      "surface": "ומצות",
+      "gloss": "neesinkwa esingenasiphuncuto"
+    },
+    {
+      "surface": "על",
+      "gloss": "nge-"
+    },
+    {
+      "surface": "מררים",
+      "gloss": "utyani obunokrasa"
+    },
+    {
+      "surface": "יאכלהו",
+      "gloss": "bayitya"
+    }
+  ],
+  "timestamp": "2026-09-18T05:59:52.451420295Z",
+  "model": "glm-5.3"
+}

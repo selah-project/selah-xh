@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 147:5",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 147,
+  "translation": "Nkulu ngu-Adonayi wethu, unamandla amaninzi; ingqiqo yakhe ayinapalo.",
+  "tokens": [
+    {
+      "surface": "גדול",
+      "gloss": "Nkulu"
+    },
+    {
+      "surface": "אדונינו",
+      "gloss": "u-Adonayi wethu"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "unamandla amaninzi"
+    },
+    {
+      "surface": "כח",
+      "gloss": "amandla"
+    },
+    {
+      "surface": "לתבונתו",
+      "gloss": "ingqiqo yakhe"
+    },
+    {
+      "surface": "אין",
+      "gloss": "akukho"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "palo"
+    }
+  ],
+  "timestamp": "2026-09-18T15:34:55.679620935Z",
+  "model": "glm-5.3"
+}

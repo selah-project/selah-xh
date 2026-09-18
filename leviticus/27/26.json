@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "leviticus 27:26",
+  "book": "leviticus",
+  "lang": "xh",
+  "chapter": 27,
+  "translation": "Kodwa ibekholo, elo libekholwa kuYahwe phakathi kwezilwanyana, akukho mntu uza kulinganisa ⟨את⟩ elo; nokuba yinkomo nokuba yimvu, ikaYahwe ngokwalo.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "kodwa"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "ibekholo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "elo"
+    },
+    {
+      "surface": "יבכר",
+      "gloss": "libekholwa"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kuYahwe"
+    },
+    {
+      "surface": "בבהמה",
+      "gloss": "phakathi kwezilwanyana"
+    },
+    {
+      "surface": "לא",
+      "gloss": "akukho"
+    },
+    {
+      "surface": "יקדיש",
+      "gloss": "uza kulinganisa"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mntu"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "elo (ibekholo)"
+    },
+    {
+      "surface": "אם",
+      "gloss": "nokuba"
+    },
+    {
+      "surface": "שור",
+      "gloss": "yinkomo"
+    },
+    {
+      "surface": "אם",
+      "gloss": "nokuba"
+    },
+    {
+      "surface": "שה",
+      "gloss": "yimvu"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kaYahwe"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ngokwalo"
+    }
+  ],
+  "timestamp": "2026-09-18T07:08:35.208946321Z",
+  "model": "glm-5.3"
+}

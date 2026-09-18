@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 12:1",
+  "book": "proverbs",
+  "lang": "xh",
+  "chapter": 12,
+  "translation": "Othanda uqeqesho uthanda ulwazi, kodwa owuzondayo umgxobhozo uyadumba.",
+  "tokens": [
+    {
+      "surface": "אהב",
+      "gloss": "othanda"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "uqeqesho"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "uthanda"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "ulwazi"
+    },
+    {
+      "surface": "ושנא",
+      "gloss": "kodwa owuzondayo"
+    },
+    {
+      "surface": "תוכחת",
+      "gloss": "umgxobhozo"
+    },
+    {
+      "surface": "בער",
+      "gloss": "uyadumba"
+    }
+  ],
+  "timestamp": "2026-09-18T15:45:29.700747638Z",
+  "model": "glm-5.3"
+}

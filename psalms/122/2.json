@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 122:2",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 122,
+  "translation": "Miwe yemilenze yethu emasangweni akho, iYerushalayimi.",
+  "tokens": [
+    {
+      "surface": "עמדות",
+      "gloss": "Miwe"
+    },
+    {
+      "surface": "היו",
+      "gloss": "ziye"
+    },
+    {
+      "surface": "רגלינו",
+      "gloss": "yemilenze yethu"
+    },
+    {
+      "surface": "בשעריך",
+      "gloss": "emasangweni akho"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "iYerushalayimi"
+    }
+  ],
+  "timestamp": "2026-09-18T15:28:19.852131500Z",
+  "model": "glm-5.3"
+}

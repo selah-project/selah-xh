@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "isaiah 24:19",
+  "book": "isaiah",
+  "lang": "xh",
+  "chapter": 24,
+  "translation": "Yakrazuluka, yakrazuluka ngokupheleleyo umhlaba; yapahlazeka, yaphahlazeka ngokupheleleyo umhlaba; yazikhudlwana, yazikhudlwana ngokupheleleyo umhlaba.",
+  "tokens": [
+    {
+      "surface": "רעה",
+      "gloss": "yakrazuluka"
+    },
+    {
+      "surface": "התרעעה",
+      "gloss": "yakrazuluka ngokupheleleyo"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "umhlaba"
+    },
+    {
+      "surface": "פור",
+      "gloss": "yapahlazeka"
+    },
+    {
+      "surface": "התפוררה",
+      "gloss": "yaphahlazeka ngokupheleleyo"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "umhlaba"
+    },
+    {
+      "surface": "מוט",
+      "gloss": "yazikhudlwana"
+    },
+    {
+      "surface": "התמוטטה",
+      "gloss": "yazikhudlwana ngokupheleleyo"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "umhlaba"
+    }
+  ],
+  "timestamp": "2026-09-18T11:19:08.858877683Z",
+  "model": "glm-5.3"
+}

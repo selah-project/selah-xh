@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "psalms 106:46",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 106,
+  "translation": "Wabanika ⟨את⟩ ukuba baphathwe ngenceba phambi kwabo bonke abababambayo.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "wabanika"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "ukuba baphathwe ngenceba"
+    },
+    {
+      "surface": "לרחמים",
+      "gloss": "ngenceba"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "phambi kwa-"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bonke"
+    },
+    {
+      "surface": "שוביהם",
+      "gloss": "abababambayo"
+    }
+  ],
+  "timestamp": "2026-09-18T15:17:53.867231459Z",
+  "model": "glm-5.3"
+}

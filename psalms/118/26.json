@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 118:26",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 118,
+  "translation": "Ubusikelelwe lowo uza ngeGama likaYahwe; sibusikele nisuka esendlwini kaYahwe.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "ubusikelelwe"
+    },
+    {
+      "surface": "הבא",
+      "gloss": "lowo uza"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "ngeGama"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "likaYahwe"
+    },
+    {
+      "surface": "ברכנוכם",
+      "gloss": "sibusikele ni"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "nisuka esendlwini"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kaYahwe"
+    }
+  ],
+  "timestamp": "2026-09-18T15:22:46.120362704Z",
+  "model": "glm-5.3"
+}

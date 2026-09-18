@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 31:8",
+  "book": "1-samuel",
+  "lang": "xh",
+  "chapter": 31,
+  "translation": "Kwathi ngakusasa amaFilisti afike ukutsala iimpahla kwabafileyo, bafumana ⟨את⟩ uShawuli ⟨את⟩ neenyana zakhe ezintathu ziliwe entabeni iGilbowa.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "kwathi"
+    },
+    {
+      "surface": "ממחרת",
+      "gloss": "ngakusasa"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "afike"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "amaFilisti"
+    },
+    {
+      "surface": "לפשט",
+      "gloss": "ukutsala iimpahla kwabafileyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abafileyo"
+    },
+    {
+      "surface": "החללים",
+      "gloss": "abafileyo"
+    },
+    {
+      "surface": "וימצאו",
+      "gloss": "bafumana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uShawuli"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "uShawuli"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ ne-",
+      "marks": "eenyana zakhe ezintathu"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "ezintathu"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "eenyana zakhe"
+    },
+    {
+      "surface": "נפלים",
+      "gloss": "ziliwe"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "entabeni"
+    },
+    {
+      "surface": "הגלבע",
+      "gloss": "iGilbowa"
+    }
+  ],
+  "timestamp": "2026-09-18T09:43:37.249859595Z",
+  "model": "glm-5.3"
+}

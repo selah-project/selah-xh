@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 82:7",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 82,
+  "translation": "Kodwa njengomntu niya kufa, njengenye yamakhosi niya kuwa.",
+  "tokens": [
+    {
+      "surface": "אכן",
+      "gloss": "kodwa"
+    },
+    {
+      "surface": "כאדם",
+      "gloss": "njengomntu"
+    },
+    {
+      "surface": "תמותון",
+      "gloss": "niya kufa"
+    },
+    {
+      "surface": "וכאחד",
+      "gloss": "njengenye"
+    },
+    {
+      "surface": "השרים",
+      "gloss": "yamakhosi"
+    },
+    {
+      "surface": "תפלו",
+      "gloss": "niya kuwa"
+    }
+  ],
+  "timestamp": "2026-09-18T15:04:15.373342106Z",
+  "model": "glm-5.3"
+}

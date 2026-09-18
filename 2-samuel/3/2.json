@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-samuel 3:2",
+  "book": "2-samuel",
+  "lang": "xh",
+  "chapter": 3,
+  "translation": "Kwaye kwazalwa kuDavidi amakhwenkwe esiKhevroni; waba yinkulu yakhe u-Aminoni, ka-Akhinoami owaseYizreeli.",
+  "tokens": [
+    {
+      "surface": "וילדו",
+      "gloss": "kwazalwa"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "kuDavidi"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "amakhwenkwe"
+    },
+    {
+      "surface": "בחברון",
+      "gloss": "esiKhevroni"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "waba"
+    },
+    {
+      "surface": "בכורו",
+      "gloss": "yinkulu yakhe"
+    },
+    {
+      "surface": "אמנון",
+      "gloss": "u-Aminoni"
+    },
+    {
+      "surface": "לאחינעם",
+      "gloss": "ka-Akhinoami"
+    },
+    {
+      "surface": "היזרעאלת",
+      "gloss": "owaseYizreeli"
+    }
+  ],
+  "timestamp": "2026-09-18T09:44:27.432564766Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 14:19",
+  "book": "leviticus",
+  "lang": "xh",
+  "chapter": 14,
+  "translation": "Umpristi uza kukwenza ⟨את⟩ umnikelo wosono, aze amenzele ubuyisano olowo ucocwayo ngokungcolile kwakhe; emva koko uza kuchola ⟨את⟩ umnikelo wokushiswa.",
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "uza kukwenza"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "Umpristi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umnikelo wosono"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "umnikelo wosono"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "aze amenzele ubuyisano"
+    },
+    {
+      "surface": "על",
+      "gloss": "-"
+    },
+    {
+      "surface": "המטהר",
+      "gloss": "olowo ucocwayo"
+    },
+    {
+      "surface": "מטמאתו",
+      "gloss": "ngokungcolile kwakhe"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "emva koko"
+    },
+    {
+      "surface": "ישחט",
+      "gloss": "uza kuchola"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umnikelo wokushiswa"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "umnikelo wokushiswa"
+    }
+  ],
+  "timestamp": "2026-09-18T06:48:31.653400503Z",
+  "model": "glm-5.3"
+}

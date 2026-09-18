@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 8:7",
+  "book": "job",
+  "lang": "xh",
+  "chapter": 8,
+  "translation": "kananjalo ekuqaleni kwakho kuya kuba butyhalele, kodwa isiphelo sakho siza kukhula kakhulu.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "kuya kubanjalo"
+    },
+    {
+      "surface": "ראשיתך",
+      "gloss": "ekuqaleni kwakho"
+    },
+    {
+      "surface": "מצער",
+      "gloss": "kuya kuba butyhalele"
+    },
+    {
+      "surface": "ואחריתך",
+      "gloss": "kodwa isiphelo sakho"
+    },
+    {
+      "surface": "ישגה",
+      "gloss": "siza kukhula"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "kakhulu"
+    }
+  ],
+  "timestamp": "2026-09-18T16:01:25.242565720Z",
+  "model": "glm-5.3"
+}

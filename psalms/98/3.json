@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 98:3",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 98,
+  "translation": "Wakhumbula ikhesedi lakhe nendithembeko kwakhe kwintsapho yakwaYisraeli; onke amaphethelo omhlaba abonile ⟨את⟩ intsalela kaElohim wethu.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "wakhumbula"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ikhesedi lakhe"
+    },
+    {
+      "surface": "ואמונתו",
+      "gloss": "nendithembeko kwakhe"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "kwintsapho yakwa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "abonile"
+    },
+    {
+      "surface": "כל",
+      "gloss": "onke"
+    },
+    {
+      "surface": "אפסי",
+      "gloss": "amaphethelo"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "omhlaba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "intsalela kaElohim wethu"
+    },
+    {
+      "surface": "ישועת",
+      "gloss": "intsalela"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "kaElohim wethu"
+    }
+  ],
+  "timestamp": "2026-09-18T15:14:22.349770145Z",
+  "model": "glm-5.3"
+}

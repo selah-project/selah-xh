@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 17:3",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 17,
+  "translation": "Yaye abantu bakanga apho amanzi, abantu bakhwankqazela ngoMoshe, bathi: “Ungenisa ntoni apha usisikhuphe eMitsrayim, ukusibulala mna ⟨את⟩ noonyana bam ⟨את⟩ nendlebe yam ⟨את⟩ ngenzala?”",
+  "tokens": [
+    {
+      "surface": "ויצמא",
+      "gloss": "bakanga"
+    },
+    {
+      "surface": "שם",
+      "gloss": "apho"
+    },
+    {
+      "surface": "העם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "למים",
+      "gloss": "amanzi"
+    },
+    {
+      "surface": "וילן",
+      "gloss": "bakhwankqazela"
+    },
+    {
+      "surface": "העם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "על",
+      "gloss": "ngo-"
+    },
+    {
+      "surface": "משה",
+      "gloss": "uMoshe"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "bathi"
+    },
+    {
+      "surface": "למה",
+      "gloss": "ngenisa ntoni"
+    },
+    {
+      "surface": "זה",
+      "gloss": "apha"
+    },
+    {
+      "surface": "העליתנו",
+      "gloss": "usisikhuphe"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "eMitsrayim"
+    },
+    {
+      "surface": "להמית",
+      "gloss": "ukusibulala"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "mna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "noonyana bam"
+    },
+    {
+      "surface": "בני",
+      "gloss": "noonyana bam"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "nendlebe yam"
+    },
+    {
+      "surface": "מקני",
+      "gloss": "nendlebe yam"
+    },
+    {
+      "surface": "בצמא",
+      "gloss": "ngenzala"
+    }
+  ],
+  "timestamp": "2026-09-18T06:06:37.049759669Z",
+  "model": "glm-5.3"
+}

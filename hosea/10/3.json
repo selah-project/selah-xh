@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 10:3",
+  "book": "hosea",
+  "lang": "xh",
+  "chapter": 10,
+  "translation": "Kuba ngoku uza kuthiwa bethi: ‘Asinalo inkosi; kuba asoyikanga ⟨את⟩ uYahwe; inkosi ke iza kusenza ntoni na?’",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "ngoku"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "uza kuthiwa bethi"
+    },
+    {
+      "surface": "אין",
+      "gloss": "asinako"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "inkosi"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "thina"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "לא",
+      "gloss": "asi-"
+    },
+    {
+      "surface": "יראנו",
+      "gloss": "-oyikanga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uYahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "והמלך",
+      "gloss": "inkosi ke"
+    },
+    {
+      "surface": "מה",
+      "gloss": "nton"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "iza kusenza"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "thina"
+    }
+  ],
+  "timestamp": "2026-09-18T13:49:22.476561991Z",
+  "model": "glm-5.3"
+}

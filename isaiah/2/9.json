@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 2:9",
+  "book": "isaiah",
+  "lang": "xh",
+  "chapter": 2,
+  "translation": "Wakhowela umntu, wazithoba umyeni; ungabamzukisi.",
+  "tokens": [
+    {
+      "surface": "וישח",
+      "gloss": "wakhowela"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "umntu"
+    },
+    {
+      "surface": "וישפל",
+      "gloss": "wazithoba"
+    },
+    {
+      "surface": "איש",
+      "gloss": "umyeni"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "unga-"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "bamzukisi"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ba-"
+    }
+  ],
+  "timestamp": "2026-09-18T10:59:13.331593540Z",
+  "model": "glm-5.3"
+}

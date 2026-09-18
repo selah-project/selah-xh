@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 76:2",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 76,
+  "translation": "U-Elohim waziwa kuYuda; igama lakhe likhulu kwaSirayeli.",
+  "tokens": [
+    {
+      "surface": "נודע",
+      "gloss": "waziwa"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "kuYuda"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "U-Elohim"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "kwaSirayeli"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "likhulu"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "igama lakhe"
+    }
+  ],
+  "timestamp": "2026-09-18T15:01:00.901303261Z",
+  "model": "glm-5.3"
+}

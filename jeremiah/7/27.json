@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "jeremiah 7:27",
+  "book": "jeremiah",
+  "lang": "xh",
+  "chapter": 7,
+  "translation": "Uza kuthetha kubo ⟨את⟩ onke la mazwi, kodwa abaza kulalela kuwe; uza kubabiza, kodwa abaza kuphendula.",
+  "tokens": [
+    {
+      "surface": "ודברת",
+      "gloss": "Uza kuthetha"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "kubo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "onke la mazwi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "onke"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "la mazwi"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "la"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kodwa aba-"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "za kulalela"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kuwe"
+    },
+    {
+      "surface": "וקראת",
+      "gloss": "uza kubabiza"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "kubo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kodwa aba-"
+    },
+    {
+      "surface": "יענוכה",
+      "gloss": "za kuphendula"
+    }
+  ],
+  "timestamp": "2026-09-18T12:00:14.569212771Z",
+  "model": "glm-5.3"
+}

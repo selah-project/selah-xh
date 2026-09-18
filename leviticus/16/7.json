@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 16:7",
+  "book": "leviticus",
+  "lang": "xh",
+  "chapter": 16,
+  "translation": "Aze athabathe ⟨את⟩ eentshoci zombini, azimise phambi koYahwe, emnyangweni wohlanga lomdibano.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "aze athabathe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "eentshoci zombini"
+    },
+    {
+      "surface": "שני",
+      "gloss": "zombini"
+    },
+    {
+      "surface": "השעירם",
+      "gloss": "eentshoci"
+    },
+    {
+      "surface": "והעמיד",
+      "gloss": "azimise"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "eentshoci zombini"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "phambi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "koYahwe"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "emnyangweni"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "wohlanga"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "lomdibano"
+    }
+  ],
+  "timestamp": "2026-09-18T06:53:50.464356654Z",
+  "model": "glm-5.3"
+}

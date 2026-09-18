@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 119:17",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 119,
+  "translation": "Zenze ububele kwisezala lwakho, ukuze ndiphile, ndigcine ilizwi lakho.",
+  "tokens": [
+    {
+      "surface": "גמול",
+      "gloss": "Zenze ububele"
+    },
+    {
+      "surface": "על",
+      "gloss": "kwi-"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "isezala lwakho"
+    },
+    {
+      "surface": "אחיה",
+      "gloss": "ukuze ndiphile"
+    },
+    {
+      "surface": "ואשמרה",
+      "gloss": "ndigcine"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "ilizwi lakho"
+    }
+  ],
+  "timestamp": "2026-09-18T15:23:19.005309605Z",
+  "model": "glm-5.3"
+}

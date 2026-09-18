@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 1:24",
+  "book": "deuteronomy",
+  "lang": "xh",
+  "chapter": 1,
+  "translation": "Baza bajika, banyuka entabeni, bafike kwindlela yamanzi ye-Eshkoli, bayihlolile ⟨את⟩ loo ndawo.",
+  "tokens": [
+    {
+      "surface": "ויפנו",
+      "gloss": "bajika"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "banyuka"
+    },
+    {
+      "surface": "ההרה",
+      "gloss": "entabeni"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "bafike"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kwi-"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "indlela yamanzi"
+    },
+    {
+      "surface": "אשכל",
+      "gloss": "ye-Eshkoli"
+    },
+    {
+      "surface": "וירגלו",
+      "gloss": "bayihlolile"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "loo ndawo"
+    }
+  ],
+  "timestamp": "2026-09-18T17:24:02.963230449Z",
+  "model": "glm-5.3"
+}

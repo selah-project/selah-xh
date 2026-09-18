@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 4:5",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 4,
+  "translation": "Thuthumani, ningazi: thathani entliziyweni yenu, emibedeni yenu, nithule. Sehlah.",
+  "tokens": [
+    {
+      "surface": "רגזו",
+      "gloss": "Thuthumani"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ningazi"
+    },
+    {
+      "surface": "תחטאו",
+      "gloss": "⟨ningazi⟩"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "thathani"
+    },
+    {
+      "surface": "בלבבכם",
+      "gloss": "entliziyweni yenu"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨emibedeni yenu⟩"
+    },
+    {
+      "surface": "משכבכם",
+      "gloss": "emibedeni yenu"
+    },
+    {
+      "surface": "ודמו",
+      "gloss": "nithule"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sehlah"
+    }
+  ],
+  "timestamp": "2026-09-18T14:26:32.034010250Z",
+  "model": "glm-5.3"
+}

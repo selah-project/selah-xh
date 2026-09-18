@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "hosea 4:10",
+  "book": "hosea",
+  "lang": "xh",
+  "chapter": 4,
+  "translation": "Baya kutya, kodwa abayi kudinwa; baya kwenza ubufebe, kodwa abayi kukwandiswa; kuba bashiyile ⟨את⟩ uYahwe, ukungamameli.",
+  "tokens": [
+    {
+      "surface": "ואכלו",
+      "gloss": "baya kutya"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kodwa abayi"
+    },
+    {
+      "surface": "ישבעו",
+      "gloss": "kudinwa"
+    },
+    {
+      "surface": "הזנו",
+      "gloss": "baya kwenza ubufebe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kodwa abayi"
+    },
+    {
+      "surface": "יפרצו",
+      "gloss": "kukwandiswa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uYahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "עזבו",
+      "gloss": "bashiyile"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "ukungamameli"
+    }
+  ],
+  "timestamp": "2026-09-18T13:42:08.169586966Z",
+  "model": "glm-5.3"
+}

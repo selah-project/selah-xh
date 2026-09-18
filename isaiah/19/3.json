@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 19:3",
+  "book": "isaiah",
+  "lang": "xh",
+  "chapter": 19,
+  "translation": "UMoya weMitsrayim uza kutshatyalaliswa phakathi kwawo; icebo laso ndiza kuligwiba; baza kufuna kwiithixo zamanga, nakubachasi-milingo, nakubadani, nakubaziimfihlo.",
+  "tokens": [
+    {
+      "surface": "ונבקה",
+      "gloss": "uza kutshatyalaliswa"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "uMoya"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "weMitsrayim"
+    },
+    {
+      "surface": "בקרבו",
+      "gloss": "phakathi kwawo"
+    },
+    {
+      "surface": "ועצתו",
+      "gloss": "icebo laso"
+    },
+    {
+      "surface": "אבלע",
+      "gloss": "ndiza kuligwiba"
+    },
+    {
+      "surface": "ודרשו",
+      "gloss": "baza kufuna"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "האלילים",
+      "gloss": "iithixo zamanga"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "naku-"
+    },
+    {
+      "surface": "האטים",
+      "gloss": "bachasi-milingo"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "naku-"
+    },
+    {
+      "surface": "האבות",
+      "gloss": "badani"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "naku-"
+    },
+    {
+      "surface": "הידענים",
+      "gloss": "baziimfihlo"
+    }
+  ],
+  "timestamp": "2026-09-18T11:16:05.450806902Z",
+  "model": "glm-5.3"
+}

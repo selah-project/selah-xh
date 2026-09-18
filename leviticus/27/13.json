@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 27:13",
+  "book": "leviticus",
+  "lang": "xh",
+  "chapter": 27,
+  "translation": "Ukuba ngokwenene uyakuyikhulula, uza kwongeza ⟨iwesihlanu⟩ yalo phezu kokulinganisa kwakho.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ukuba"
+    },
+    {
+      "surface": "גאל",
+      "gloss": "ukukhulula"
+    },
+    {
+      "surface": "יגאלנה",
+      "gloss": "uyakuyikhulula"
+    },
+    {
+      "surface": "ויסף",
+      "gloss": "uza kwongeza"
+    },
+    {
+      "surface": "חמישתו",
+      "gloss": "iwesihlanu yalo"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu kwe-"
+    },
+    {
+      "surface": "ערכך",
+      "gloss": "kokulinganisa kwakho"
+    }
+  ],
+  "timestamp": "2026-09-18T07:09:05.159747606Z",
+  "model": "glm-5.3"
+}

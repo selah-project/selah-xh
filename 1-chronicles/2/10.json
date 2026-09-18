@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 2:10",
+  "book": "1-chronicles",
+  "lang": "xh",
+  "chapter": 2,
+  "translation": "URamu wazala uAminadhabhi, uAminadhabhi wazala uNakhshoni, intloko yamakulu kaYehudah.",
+  "tokens": [
+    {
+      "surface": "ורם",
+      "gloss": "URamu"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "wazala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uAminadhabhi"
+    },
+    {
+      "surface": "עמינדב",
+      "gloss": "uAminadhabhi"
+    },
+    {
+      "surface": "ועמינדב",
+      "gloss": "uAminadhabhi"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "wazala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uNakhshoni"
+    },
+    {
+      "surface": "נחשון",
+      "gloss": "uNakhshoni"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "intloko"
+    },
+    {
+      "surface": "בני",
+      "gloss": "yamakulu"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "kaYehudah"
+    }
+  ],
+  "timestamp": "2026-09-18T16:50:39.346874425Z",
+  "model": "glm-5.3"
+}

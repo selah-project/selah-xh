@@ -1,0 +1,138 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "joshua 1:15",
+  "book": "joshua",
+  "lang": "xh",
+  "chapter": 1,
+  "translation": "de uYahwe anike abazalwana benu umngeni njengani nina, baze babambelela nabo ⟨את⟩ eli lizwe uYahwe uElohim wenu elinikelayo bona; nibuyele elizweni lefalakho lenu kwaye nilibe nalo, elona uMoshe inkonzi kaYahwe aninike ⟨את⟩ lona ngapheshele kweYoridane, empuma yolanga.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "de"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oko"
+    },
+    {
+      "surface": "יניח",
+      "gloss": "anike umngeni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "לאחיכם",
+      "gloss": "abazalwana benu"
+    },
+    {
+      "surface": "ככם",
+      "gloss": "njengani nina"
+    },
+    {
+      "surface": "וירשו",
+      "gloss": "baze babambelela"
+    },
+    {
+      "surface": "גם",
+      "gloss": "nabo"
+    },
+    {
+      "surface": "המה",
+      "gloss": "bona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "eli lizwe"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "eli lizwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oko"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "uElohim wenu"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "elinikelayo"
+    },
+    {
+      "surface": "להם",
+      "gloss": "bona"
+    },
+    {
+      "surface": "ושבתם",
+      "gloss": "nibuyele"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "elizweni"
+    },
+    {
+      "surface": "ירשתכם",
+      "gloss": "lefalakho lenu"
+    },
+    {
+      "surface": "וירשתם",
+      "gloss": "kwaye nilibe nalo"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩ lona"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "elona"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "aninike"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "nina"
+    },
+    {
+      "surface": "משה",
+      "gloss": "uMoshe"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "inkonzi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kaYahwe"
+    },
+    {
+      "surface": "בעבר",
+      "gloss": "ngapheshele"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "kweYoridane"
+    },
+    {
+      "surface": "מזרח",
+      "gloss": "empuma"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "yolanga"
+    }
+  ],
+  "timestamp": "2026-09-18T08:29:31.941344998Z",
+  "model": "glm-5.3"
+}

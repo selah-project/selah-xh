@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 1:15",
+  "book": "genesis",
+  "lang": "xh",
+  "chapter": 1,
+  "translation": "zibe zizibane ezikhanyisayo emkhathini wezulu, ukukhanyisa phezu komhlaba.” Kwakuthi njalo.",
+  "tokens": [
+    {
+      "surface": "והיו",
+      "gloss": "zibe"
+    },
+    {
+      "surface": "למאורת",
+      "gloss": "zizibane ezikhanyisayo"
+    },
+    {
+      "surface": "ברקיע",
+      "gloss": "emkhathini"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "wezulu"
+    },
+    {
+      "surface": "להאיר",
+      "gloss": "ukukhanyisa"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "komhlaba"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "kwakuthi"
+    },
+    {
+      "surface": "כן",
+      "gloss": "njalo"
+    }
+  ],
+  "timestamp": "2026-09-18T05:07:31.876116776Z",
+  "model": "glm-5.3"
+}

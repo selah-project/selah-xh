@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 37:25",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 37,
+  "translation": "Ndandinengutshana, noko ndandimdala, andazanga ndibone ulungileyo olahliweyo, okanye inzala yakhe icela isonka.",
+  "tokens": [
+    {
+      "surface": "נער",
+      "gloss": "nengutshana"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "ndandi"
+    },
+    {
+      "surface": "גם",
+      "gloss": "noko"
+    },
+    {
+      "surface": "זקנתי",
+      "gloss": "ndandimdala"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "hayi"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "andazanga ndibone"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ulungileyo"
+    },
+    {
+      "surface": "נעזב",
+      "gloss": "olahliweyo"
+    },
+    {
+      "surface": "וזרעו",
+      "gloss": "okanye inzala yakhe"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "icela"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "isonka"
+    }
+  ],
+  "timestamp": "2026-09-18T14:43:42.983861010Z",
+  "model": "glm-5.3"
+}

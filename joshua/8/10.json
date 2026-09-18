@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 8:10",
+  "book": "joshua",
+  "lang": "xh",
+  "chapter": 8,
+  "translation": "UYehoshuwa wavuka kuseni ekuseni, wakhangele ⟨את⟩ abantu, wasuka yena kunye nooninzi bakwaSirayeli ngaphambili kubantu, iye kwiAyi.",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "wavuka kuseni"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "UYehoshuwa"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "ekuseni"
+    },
+    {
+      "surface": "ויפקד",
+      "gloss": "wakhangele (walinganisa)"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abantu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "wasuka (waya phezulu)"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yena"
+    },
+    {
+      "surface": "וזקני",
+      "gloss": "kunye nooninzi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "bakwaSirayeli"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ngaphambili ku"
+    },
+    {
+      "surface": "העם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "העי",
+      "gloss": "iAyi"
+    }
+  ],
+  "timestamp": "2026-09-18T17:26:31.961102890Z",
+  "model": "glm-5.3"
+}

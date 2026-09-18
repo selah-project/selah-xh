@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 104:30",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 104,
+  "translation": "Uthumela umoya wakho, badalwa; uwuvuselela ubuso bomhlaba.",
+  "tokens": [
+    {
+      "surface": "תשלח",
+      "gloss": "Uthumela"
+    },
+    {
+      "surface": "רוחך",
+      "gloss": "umoya wakho"
+    },
+    {
+      "surface": "יבראון",
+      "gloss": "badalwa"
+    },
+    {
+      "surface": "ותחדש",
+      "gloss": "uwuvuselela"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ubuso"
+    },
+    {
+      "surface": "אדמה",
+      "gloss": "bomhlaba"
+    }
+  ],
+  "timestamp": "2026-09-18T17:45:05.084259804Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 32:1",
+  "book": "genesis",
+  "lang": "xh",
+  "chapter": 32,
+  "translation": "ULaban wasivuka ekuseni, wabumba oonyana bakhe nentombazana zakhe, wabarhamza—wabasikelela ⟨את⟩. Waya, uLaban wabuyela kwindawo yakhe.",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "wasivuka ekuseni"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "uLaban"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "ekuseni"
+    },
+    {
+      "surface": "וינשק",
+      "gloss": "wabumba"
+    },
+    {
+      "surface": "לבניו",
+      "gloss": "oonyana bakhe"
+    },
+    {
+      "surface": "ולבנותיו",
+      "gloss": "nentombazana zakhe"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "wabasikelela"
+    },
+    {
+      "surface": "אתהם",
+      "gloss": "⟨את⟩",
+      "marks": "oonyana bakhe nentombazana zakhe"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "waya"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "wabuyela"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "uLaban"
+    },
+    {
+      "surface": "למקמו",
+      "gloss": "kwindawo yakhe"
+    }
+  ],
+  "timestamp": "2026-09-18T05:29:58.440671145Z",
+  "model": "glm-5.3"
+}

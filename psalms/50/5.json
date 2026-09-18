@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 50:5",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 50,
+  "translation": "Qokelezani kum abangcwele bethu, abasikayo umnqophiso wam ngokwentsalela yezibalelo.",
+  "tokens": [
+    {
+      "surface": "אספו",
+      "gloss": "Qokelezani"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kum"
+    },
+    {
+      "surface": "חסידי",
+      "gloss": "abangcwele bethu"
+    },
+    {
+      "surface": "כרתי",
+      "gloss": "abasikayo"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "umnqophiso wam"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ngokwentsalela ye"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "zibalelo"
+    }
+  ],
+  "timestamp": "2026-09-18T14:46:43.739562664Z",
+  "model": "glm-5.3"
+}

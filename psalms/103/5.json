@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 103:5",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 103,
+  "translation": "Ozalisa ngokulunga iimfuno zakho; obutsha bomntwana bakho buvuselelwa njengenkosi ezulwini.",
+  "tokens": [
+    {
+      "surface": "המשביע",
+      "gloss": "Ozalisa"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "ngokulunga"
+    },
+    {
+      "surface": "עדיך",
+      "gloss": "iimfuno zakho"
+    },
+    {
+      "surface": "תתחדש",
+      "gloss": "buvuselelwa"
+    },
+    {
+      "surface": "כנשר",
+      "gloss": "njengenkosi ezulwini"
+    },
+    {
+      "surface": "נעוריכי",
+      "gloss": "obutsha bomntwana bakho"
+    }
+  ],
+  "timestamp": "2026-09-18T15:12:47.598428940Z",
+  "model": "glm-5.3"
+}

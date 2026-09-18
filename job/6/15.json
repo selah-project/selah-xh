@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 6:15",
+  "book": "job",
+  "lang": "xh",
+  "chapter": 6,
+  "translation": "Abakwethu bakhohlise njengomlambo, njengoomkhondo weemlambo abadlula baphela.",
+  "tokens": [
+    {
+      "surface": "אחי",
+      "gloss": "abakwethu"
+    },
+    {
+      "surface": "בגדו",
+      "gloss": "bakhohlise"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "njenga-"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "umlambo"
+    },
+    {
+      "surface": "כאפיק",
+      "gloss": "njengoomkhondo"
+    },
+    {
+      "surface": "נחלים",
+      "gloss": "weemlambo"
+    },
+    {
+      "surface": "יעברו",
+      "gloss": "abadlula baphela"
+    }
+  ],
+  "timestamp": "2026-09-18T16:02:37.247662007Z",
+  "model": "glm-5.3"
+}

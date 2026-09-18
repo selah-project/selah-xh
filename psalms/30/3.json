@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 30:3",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 30,
+  "translation": "UYahwe uElohim wam, ndandibiza kuni, waze undilaphe.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "uElohim wam"
+    },
+    {
+      "surface": "שועתי",
+      "gloss": "ndandibiza"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kuni"
+    },
+    {
+      "surface": "ותרפאני",
+      "gloss": "waze undilaphe"
+    }
+  ],
+  "timestamp": "2026-09-18T14:38:08.349867752Z",
+  "model": "glm-5.3"
+}

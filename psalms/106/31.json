@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 106:31",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 106,
+  "translation": "Yabalelwa kuye njengolungiselelo, kwindla nendla, kuze kube naphakade.",
+  "tokens": [
+    {
+      "surface": "ותחשב",
+      "gloss": "Yabalelwa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kuye"
+    },
+    {
+      "surface": "לצדקה",
+      "gloss": "njengolungiselelo"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "kwindla"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "nendla"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kuze kube"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "naphakade"
+    }
+  ],
+  "timestamp": "2026-09-18T15:17:44.436643468Z",
+  "model": "glm-5.3"
+}

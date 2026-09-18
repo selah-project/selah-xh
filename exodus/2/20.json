@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 2:20",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 2,
+  "translation": "Wathi kwiintombi zakhe: “Uphi na? Kutheni nimshiye ⟨את⟩ indoda? Bizani ⟨umsindisi⟩, athe eth? atye ukutya.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "בנתיו",
+      "gloss": "iintombi zakhe"
+    },
+    {
+      "surface": "ואיו",
+      "gloss": "uphi na"
+    },
+    {
+      "surface": "למה",
+      "gloss": "kutheni"
+    },
+    {
+      "surface": "זה",
+      "gloss": "oku"
+    },
+    {
+      "surface": "עזבתן",
+      "gloss": "nimshiye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "indoda"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "indoda"
+    },
+    {
+      "surface": "קראן",
+      "gloss": "bizani"
+    },
+    {
+      "surface": "לו",
+      "gloss": "yena"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "atye"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ukutya"
+    }
+  ],
+  "timestamp": "2026-09-18T05:49:36.940422746Z",
+  "model": "glm-5.3"
+}

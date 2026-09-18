@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 42:31",
+  "book": "genesis",
+  "lang": "xh",
+  "chapter": 42,
+  "translation": "Sathi kuye: Singabanyanisekileyo; asibanga abahloli.",
+  "tokens": [
+    {
+      "surface": "וואמר",
+      "gloss": "sathi"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kuye"
+    },
+    {
+      "surface": "כנים",
+      "gloss": "ngabanyanisekileyo"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "thina"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hayi"
+    },
+    {
+      "surface": "היינו",
+      "gloss": "asibanga"
+    },
+    {
+      "surface": "מרגלים",
+      "gloss": "abahloli"
+    }
+  ],
+  "timestamp": "2026-09-18T05:42:47.550461615Z",
+  "model": "glm-5.3"
+}

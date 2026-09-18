@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 7:6",
+  "book": "numbers",
+  "lang": "xh",
+  "chapter": 7,
+  "translation": "UMoshe wathabatha ⟨את⟩ iinqwelo no⟨את⟩ iinkabi, wanika ⟨את⟩ ezona kwaLevi.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "wathabatha"
+    },
+    {
+      "surface": "משה",
+      "gloss": "uMoshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iinqwelo"
+    },
+    {
+      "surface": "העגלת",
+      "gloss": "iinqwelo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "no⟨את⟩",
+      "marks": "iinkabi"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "iinkabi"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "wanika"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ ezona",
+      "marks": "kwaLevi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "amaLevi"
+    }
+  ],
+  "timestamp": "2026-09-18T07:15:01.012839211Z",
+  "model": "glm-5.3"
+}

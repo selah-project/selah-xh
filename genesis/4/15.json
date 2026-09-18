@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 4:15",
+  "book": "genesis",
+  "lang": "xh",
+  "chapter": 4,
+  "translation": "Wathi uYahwe kuye: “Ngaloo nto, wonke ombulalayo uQayin uzakuhlwaywa ⟨kabini-phindwe kasixhenxe⟩.” Waza uYahwe wabeka kuQayin uphawu, ukuze wonke umntu ongamfumana angambulali.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kuye"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "לכן",
+      "gloss": "ngaloo nto"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wonke"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "ombulalayo"
+    },
+    {
+      "surface": "קין",
+      "gloss": "uQayin"
+    },
+    {
+      "surface": "שבעתים",
+      "gloss": "⟨phindwe kasixhenxe⟩"
+    },
+    {
+      "surface": "יקם",
+      "gloss": "uzakuhlwaywa"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "wabeka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "לקין",
+      "gloss": "kuQayin"
+    },
+    {
+      "surface": "אות",
+      "gloss": "uphawu"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "ukuze ... anga"
+    },
+    {
+      "surface": "הכות",
+      "gloss": "ambulali"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "wonke umntu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wonke umntu"
+    },
+    {
+      "surface": "מצאו",
+      "gloss": "ongamfumana"
+    }
+  ],
+  "timestamp": "2026-09-18T05:07:56.219632574Z",
+  "model": "glm-5.3"
+}

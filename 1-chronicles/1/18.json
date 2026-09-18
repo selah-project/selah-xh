@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-chronicles 1:18",
+  "book": "1-chronicles",
+  "lang": "xh",
+  "chapter": 1,
+  "translation": "U-Arfakhshadi wazala ⟨את⟩ uShelakhi, uShelakhi wazala ⟨את⟩ u-Everi.",
+  "tokens": [
+    {
+      "surface": "וארפכשד",
+      "gloss": "U-Arfakhshadi"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "wazala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uShelakhi"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "uShelakhi"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "uShelakhi"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "wazala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "u-Everi"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "u-Everi"
+    }
+  ],
+  "timestamp": "2026-09-18T16:50:32.105772746Z",
+  "model": "glm-5.3"
+}

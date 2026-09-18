@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 17:5",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 17,
+  "translation": "Wathetha uYahwe kuMoshe: “Hamba phambi ⟨abantu⟩, thatha nawe ⟨את⟩ kwiziinkulu zikaIsrayeli; nomthi wakho owawubhaxabaxa ngawo ⟨את⟩ umlambo — uwedwa esandleni sakho, uye.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wathetha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "משה",
+      "gloss": "uMoshe"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "hamba"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "phambi"
+    },
+    {
+      "surface": "העם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "וקח",
+      "gloss": "thatha"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "nawe ⟨את⟩"
+    },
+    {
+      "surface": "מזקני",
+      "gloss": "kwiziinkulu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "zikaIsrayeli"
+    },
+    {
+      "surface": "ומטך",
+      "gloss": "nomthi wakho"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "owo"
+    },
+    {
+      "surface": "הכית",
+      "gloss": "owawubhaxabaxa"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ngawo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umlambo"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "umlambo"
+    },
+    {
+      "surface": "קח",
+      "gloss": "thatha uwedwa"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "esandleni sakho"
+    },
+    {
+      "surface": "והלכת",
+      "gloss": "uye"
+    }
+  ],
+  "timestamp": "2026-09-18T06:06:11.033705135Z",
+  "model": "glm-5.3"
+}

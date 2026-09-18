@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 30:15",
+  "book": "deuteronomy",
+  "lang": "xh",
+  "chapter": 30,
+  "translation": "Bona, ndibekile phambi kwakho namhlanje ⟨את⟩ ubomi ⟨את⟩ nokulungileyo, ⟨את⟩ nokufa ⟨את⟩ nokubi.",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "Bona"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "ndibekile"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "phambi kwakho"
+    },
+    {
+      "surface": "היום",
+      "gloss": "namhlanje"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ubomi"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "ubomi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "nokulungileyo"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "nokulungileyo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "nokufa"
+    },
+    {
+      "surface": "המות",
+      "gloss": "nokufa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "nokubi"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "nokubi"
+    }
+  ],
+  "timestamp": "2026-09-18T08:21:52.498232881Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 40:6",
+  "book": "isaiah",
+  "lang": "xh",
+  "chapter": 40,
+  "translation": "Ilizwi lithi: “Yibiza!” Yena wathi: “Ndibize ntoni?” “Yonke inyama ⟨ngu⟩utyani, yonke ikhesedi yayo njengentyatyambo yomhlaba.”",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "ilizwi"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "lithi"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "yibiza"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ntoni"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "ndibize"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yonke"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "inyama"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "utyani"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "yonke"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ikhesedi yayo"
+    },
+    {
+      "surface": "כציץ",
+      "gloss": "njengentyatyambo"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "yomhlaba"
+    }
+  ],
+  "timestamp": "2026-09-18T11:30:26.399127880Z",
+  "model": "glm-5.3"
+}

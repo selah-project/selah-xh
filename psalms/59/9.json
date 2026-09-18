@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 59:9",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 59,
+  "translation": "Wena, uYahwe, uza kwehleka kubo; uza kubahleka ngazo onke amazwe.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Wena"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "תשחק",
+      "gloss": "uza kwehleka"
+    },
+    {
+      "surface": "למו",
+      "gloss": "kubo"
+    },
+    {
+      "surface": "תלעג",
+      "gloss": "uza kubahleka ngazo"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "onke"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "amazwe"
+    }
+  ],
+  "timestamp": "2026-09-18T14:52:45.843050758Z",
+  "model": "glm-5.3"
+}

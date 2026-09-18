@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 40:6",
+  "book": "genesis",
+  "lang": "xh",
+  "chapter": 40,
+  "translation": "U-Yosefu wafika kubo ekuseni, wababona ⟨את⟩ nanko bekhathazekile.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "wafika"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "kubo"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "uYosefu"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "ekuseni"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "wababona"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "beka (bona)"
+    },
+    {
+      "surface": "והנם",
+      "gloss": "nanko"
+    },
+    {
+      "surface": "זעפים",
+      "gloss": "bekhathazekile"
+    }
+  ],
+  "timestamp": "2026-09-18T05:36:20.450432415Z",
+  "model": "glm-5.3"
+}

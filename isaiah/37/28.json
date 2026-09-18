@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "isaiah 37:28",
+  "book": "isaiah",
+  "lang": "xh",
+  "chapter": 37,
+  "translation": "Ndikwazì ukuhlala kwakho, ukuphuma kwakho nokungena kwakho, novakaliso lwakho kuM.",
+  "tokens": [
+    {
+      "surface": "ושבתך",
+      "gloss": "ukuhlala kwakho"
+    },
+    {
+      "surface": "וצאתך",
+      "gloss": "ukuphuma kwakho"
+    },
+    {
+      "surface": "ובואך",
+      "gloss": "nokungena kwakho"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "ndikwazì"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ukuvukela kolaka lwakho"
+    },
+    {
+      "surface": "התרגזך",
+      "gloss": "ukuvukela kolaka lwakho"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kuM"
+    }
+  ],
+  "timestamp": "2026-09-18T11:26:36.933159149Z",
+  "model": "glm-5.3"
+}

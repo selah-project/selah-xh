@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 50:10",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 50,
+  "translation": "Kuba zezam zonke iilwandle zezilwanyana zelihlathi, kunye neenkomo ezintabeni eziliwaka.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "לי",
+      "gloss": "zezam"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zonke"
+    },
+    {
+      "surface": "חיתו",
+      "gloss": "iilwandle zezilwanyana"
+    },
+    {
+      "surface": "יער",
+      "gloss": "zelihlathi"
+    },
+    {
+      "surface": "בהמות",
+      "gloss": "iinkomo"
+    },
+    {
+      "surface": "בהררי",
+      "gloss": "ezintabeni"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "eziliwaka"
+    }
+  ],
+  "timestamp": "2026-09-18T14:46:29.233510146Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 7:16",
+  "book": "2-kings",
+  "lang": "xh",
+  "chapter": 7,
+  "translation": "Abantu waphuma, batyhalela ⟨את⟩ inkundla ka-Aram; kwaba nesaa elinye lomgubo ngeshekele, nezaaesibini zebhuli ngeshekele, njengelizwi likaYahwe.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "waphuma"
+    },
+    {
+      "surface": "העם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "ויבזו",
+      "gloss": "batyhalela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "inkundla ka-Aram"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "inkundla"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "ka-Aram"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "kwaba"
+    },
+    {
+      "surface": "סאה",
+      "gloss": "isaa elinye"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "lomgubo"
+    },
+    {
+      "surface": "בשקל",
+      "gloss": "ngeshekele"
+    },
+    {
+      "surface": "וסאתים",
+      "gloss": "nezaaesibini"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "zebhuli"
+    },
+    {
+      "surface": "בשקל",
+      "gloss": "ngeshekele"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "njengelizwi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "likaYahwe"
+    }
+  ],
+  "timestamp": "2026-09-18T10:46:05.924556104Z",
+  "model": "glm-5.3"
+}

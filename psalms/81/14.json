@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 81:14",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 81,
+  "translation": "Awungabulelwanga! ukuba abantu bam bendiva m, uYisra'eli ubu hamba ezindleleni zam!",
+  "tokens": [
+    {
+      "surface": "לו",
+      "gloss": "Awungabulelwanga!"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "abantu bam"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "bendiva"
+    },
+    {
+      "surface": "לי",
+      "gloss": "m"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "uYisra'eli"
+    },
+    {
+      "surface": "בדרכי",
+      "gloss": "ezindleleni zam"
+    },
+    {
+      "surface": "יהלכו",
+      "gloss": "ubu hamba"
+    }
+  ],
+  "timestamp": "2026-09-18T15:04:43.768968099Z",
+  "model": "glm-5.3"
+}

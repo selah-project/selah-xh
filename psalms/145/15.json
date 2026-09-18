@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 145:15",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 145,
+  "translation": "Amehlo onke ajonge kuwe, yaye wena unika bona ⟨את⟩ ukutya kwabo exesha eliliqela.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "amehlo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "onke"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ajonge kuwe"
+    },
+    {
+      "surface": "ישברו",
+      "gloss": "alinde"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "yaye wena"
+    },
+    {
+      "surface": "נותן",
+      "gloss": "unika"
+    },
+    {
+      "surface": "להם",
+      "gloss": "bona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ukutya kwabo"
+    },
+    {
+      "surface": "אכלם",
+      "gloss": "ukutya kwabo"
+    },
+    {
+      "surface": "בעתו",
+      "gloss": "exesha eliliqela"
+    }
+  ],
+  "timestamp": "2026-09-18T15:33:46.136569656Z",
+  "model": "glm-5.3"
+}

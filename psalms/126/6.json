@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 126:6",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 126,
+  "translation": "Uyahamba ehamba elila, ethwala isiphako setyalo; uza kubuya ngentoko, ethwala iindwendwe zakhe.",
+  "tokens": [
+    {
+      "surface": "הלוך",
+      "gloss": "uyahamba"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "ehamba"
+    },
+    {
+      "surface": "ובכה",
+      "gloss": "elila"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "ethwala"
+    },
+    {
+      "surface": "משך",
+      "gloss": "isiphako setyalo"
+    },
+    {
+      "surface": "הזרע",
+      "gloss": "etyalo"
+    },
+    {
+      "surface": "בא",
+      "gloss": "uza kubuya"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "kubuya"
+    },
+    {
+      "surface": "ברנה",
+      "gloss": "ngentoko"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "ethwala"
+    },
+    {
+      "surface": "אלמתיו",
+      "gloss": "iindwendwe zakhe"
+    }
+  ],
+  "timestamp": "2026-09-18T15:27:27.449428220Z",
+  "model": "glm-5.3"
+}

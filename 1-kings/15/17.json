@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 15:17",
+  "book": "1-kings",
+  "lang": "xh",
+  "chapter": 15,
+  "translation": "Watyhalela phezulu uBaasha, inkosi yakwaSirayeli, kwakwaYehudha, waza wakha iRama, ukuze angabiniki ⟨thina⟩ ndawo yokuphuma nokungena kuAsa, inkosi yakwaYehudha.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "watyhalela phezulu"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "uBaasha"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "inkosi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "yakwaSirayeli"
+    },
+    {
+      "surface": "על",
+      "gloss": "kwakwa-"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudha"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "wakha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iRama"
+    },
+    {
+      "surface": "הרמה",
+      "gloss": "iRama"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "ukuze angabiniki"
+    },
+    {
+      "surface": "תת",
+      "gloss": "⟨binzi⟩"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "ukuphuma"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "nokungena"
+    },
+    {
+      "surface": "לאסא",
+      "gloss": "kuAsa"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "inkosi"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "yakwaYehudha"
+    }
+  ],
+  "timestamp": "2026-09-18T10:30:18.590904463Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 71:15",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 71,
+  "translation": "Umlomo wam uza kuxela ubulungisa bakho, konke imini intsindiso yakho; kuba andazi ukubala kwayo.",
+  "tokens": [
+    {
+      "surface": "פי",
+      "gloss": "umlomo wam"
+    },
+    {
+      "surface": "יסספר",
+      "gloss": "uza kuxela"
+    },
+    {
+      "surface": "צדקתך",
+      "gloss": "ubulungisa bakho"
+    },
+    {
+      "surface": "כל",
+      "gloss": "konke"
+    },
+    {
+      "surface": "היום",
+      "gloss": "imini"
+    },
+    {
+      "surface": "תשועתך",
+      "gloss": "intsindiso yakho"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "לא",
+      "gloss": "andi-"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "ndazi"
+    },
+    {
+      "surface": "ספרות",
+      "gloss": "ukubala kwayo"
+    }
+  ],
+  "timestamp": "2026-09-18T14:57:42.737841384Z",
+  "model": "glm-5.3"
+}

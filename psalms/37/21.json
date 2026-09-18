@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 37:21",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 37,
+  "translation": "Irashwa ithatha ⟨ityala⟩ ayibuyisi; ilungileyo ithobela umusa, inike.",
+  "tokens": [
+    {
+      "surface": "לוה",
+      "gloss": "ithatha ⟨ityala⟩"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "irashwa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ayi-"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "buyisi"
+    },
+    {
+      "surface": "וצדיק",
+      "gloss": "ilungileyo"
+    },
+    {
+      "surface": "חונן",
+      "gloss": "ithobela umusa"
+    },
+    {
+      "surface": "ונותן",
+      "gloss": "inike"
+    }
+  ],
+  "timestamp": "2026-09-18T14:43:00.167687558Z",
+  "model": "glm-5.3"
+}

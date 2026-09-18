@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "joshua 21:35",
+  "book": "joshua",
+  "lang": "xh",
+  "chapter": 21,
+  "translation": "⟨את⟩ iDimna kunye ⟨את⟩ nemigresha yayo, ⟨את⟩ iNahalali kunye ⟨את⟩ nemigresha yayo — iidolophu ezine.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iDimna"
+    },
+    {
+      "surface": "דמנה",
+      "gloss": "iDimna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kunye ⟨את⟩ ne-",
+      "marks": "imigresha yayo"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "imigresha yayo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iNahalali"
+    },
+    {
+      "surface": "נהלל",
+      "gloss": "iNahalali"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kunye ⟨את⟩ ne-",
+      "marks": "imigresha yayo"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "imigresha yayo"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "iidolophu"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "ezine"
+    }
+  ],
+  "timestamp": "2026-09-18T08:42:45.680200624Z",
+  "model": "glm-5.3"
+}

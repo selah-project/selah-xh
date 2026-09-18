@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 26:4",
+  "book": "deuteronomy",
+  "lang": "xh",
+  "chapter": 26,
+  "translation": "Umngcangcatezo uthabathe isikhephe esandleni sakho, asibeke phambi kwesibingelelo soYahwe uElohim wakho.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "uthabathe"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "umngcangcatezo"
+    },
+    {
+      "surface": "הטנא",
+      "gloss": "isikhephe"
+    },
+    {
+      "surface": "מידך",
+      "gloss": "esandleni sakho"
+    },
+    {
+      "surface": "והניחו",
+      "gloss": "asibeke phansi"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "phambi kwe"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "isibingelelo sokunqula"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "uElohim wakho"
+    }
+  ],
+  "timestamp": "2026-09-18T08:17:31.942533288Z",
+  "model": "glm-5.3"
+}

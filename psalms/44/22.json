@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 44:22",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 44,
+  "translation": "Uya kuyihlola le nto uElohim, kuba nguye owaziyo iimfihlelo zentliziyo.",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "uya ku… na"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "יחקר",
+      "gloss": "uyakuhola"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "le nto"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "nguye"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "owaziyo"
+    },
+    {
+      "surface": "תעלמות",
+      "gloss": "iimfihlelo"
+    },
+    {
+      "surface": "לב",
+      "gloss": "zintliziyo"
+    }
+  ],
+  "timestamp": "2026-09-18T14:45:40.082701074Z",
+  "model": "glm-5.3"
+}

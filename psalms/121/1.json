@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 121:1",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 121,
+  "translation": "Ingoma yokunyuka. Ndiyakuphakamisa amehlo am ewintabeni — uncedo lwam luza kufika phi?",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Ingoma"
+    },
+    {
+      "surface": "למעלות",
+      "gloss": "yokunyuka"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "ndiyakuphakamisa"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "amehlo am"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ewi-"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "iintaba"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "phi"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "luza kufika"
+    },
+    {
+      "surface": "עזרי",
+      "gloss": "uncedo lwam"
+    }
+  ],
+  "timestamp": "2026-09-18T15:26:45.398722419Z",
+  "model": "glm-5.3"
+}

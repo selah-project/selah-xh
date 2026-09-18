@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-samuel 8:13",
+  "book": "1-samuel",
+  "lang": "xh",
+  "chapter": 8,
+  "translation": "Kananjalo ⟨את⟩ amakhosikazi enu uza kuwathabatha, ukuba babe ngabakhiqiki benkungu, nabanachokolo, nabapheki.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "amakhosikazi enu"
+    },
+    {
+      "surface": "בנותיכם",
+      "gloss": "amakhosikazi enu"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "uza kuwathabatha"
+    },
+    {
+      "surface": "לרקחות",
+      "gloss": "abakhiqiki benkungu"
+    },
+    {
+      "surface": "ולטבחות",
+      "gloss": "nabanachokolo"
+    },
+    {
+      "surface": "ולאפות",
+      "gloss": "nabapheki"
+    }
+  ],
+  "timestamp": "2026-09-18T09:15:11.316016826Z",
+  "model": "glm-5.3"
+}

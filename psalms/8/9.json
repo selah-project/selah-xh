@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 8:9",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 8,
+  "translation": "Iintaka zamazulu, neentlanzi zolwandle, noko kugqitha kwiindlela zasolwandle.",
+  "tokens": [
+    {
+      "surface": "צפור",
+      "gloss": "iintaka"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "zamazulu"
+    },
+    {
+      "surface": "ודגי",
+      "gloss": "neentlanzi"
+    },
+    {
+      "surface": "הים",
+      "gloss": "zolwandle"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "kugqitha"
+    },
+    {
+      "surface": "ארחות",
+      "gloss": "kwiindlela"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "zasolwandle"
+    }
+  ],
+  "timestamp": "2026-09-18T14:29:29.817018856Z",
+  "model": "glm-5.3"
+}

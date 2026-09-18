@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 21:5",
+  "book": "isaiah",
+  "lang": "xh",
+  "chapter": 21,
+  "translation": "Songa itafile, phapha, mphephezeli; tya, sela: vukani, iinkosi, zithambiseni ngooyile izihlangu.",
+  "tokens": [
+    {
+      "surface": "ערך",
+      "gloss": "Songa"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "itafile"
+    },
+    {
+      "surface": "צפה",
+      "gloss": "phapha"
+    },
+    {
+      "surface": "הצפית",
+      "gloss": "mphephezeli"
+    },
+    {
+      "surface": "אכול",
+      "gloss": "tya"
+    },
+    {
+      "surface": "שתה",
+      "gloss": "sela"
+    },
+    {
+      "surface": "קומו",
+      "gloss": "vukani"
+    },
+    {
+      "surface": "השרים",
+      "gloss": "iinkosi"
+    },
+    {
+      "surface": "משחו",
+      "gloss": "zithambiseni ngooyile"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "izihlangu"
+    }
+  ],
+  "timestamp": "2026-09-18T11:15:09.717169393Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 105:14",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 105,
+  "translation": "Akazange avumele umntu ukuba abacedise, waza wayesolisa iinkosi ngenxa yabo:",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "akazange"
+    },
+    {
+      "surface": "הניח",
+      "gloss": "avumele"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "umntu"
+    },
+    {
+      "surface": "לעשקם",
+      "gloss": "ukuba abacedise"
+    },
+    {
+      "surface": "ויוכח",
+      "gloss": "waza wayesolisa"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "ngenxa yabo"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "iinkosi"
+    }
+  ],
+  "timestamp": "2026-09-18T15:16:29.987962574Z",
+  "model": "glm-5.3"
+}

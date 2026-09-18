@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 42:9",
+  "book": "isaiah",
+  "lang": "xh",
+  "chapter": 42,
+  "translation": "Izinto zokuqala, yabona, zifikile; ezintsha ndizityhila, phambi kokuba zimncuke ndenza ukuba ⟨אתכם⟩ nina niv.",
+  "tokens": [
+    {
+      "surface": "הראשנות",
+      "gloss": "izinto zokuqala"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "yabona"
+    },
+    {
+      "surface": "באו",
+      "gloss": "zifikile"
+    },
+    {
+      "surface": "וחדשות",
+      "gloss": "ezintsha"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ndi-"
+    },
+    {
+      "surface": "מגיד",
+      "gloss": "ndizityhila"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "phambi kokuba"
+    },
+    {
+      "surface": "תצמחנה",
+      "gloss": "zimncuke"
+    },
+    {
+      "surface": "אשמיע",
+      "gloss": "ndenza ukuba...niv"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨אתכם⟩",
+      "marks": "nina"
+    }
+  ],
+  "timestamp": "2026-09-18T11:31:21.865112764Z",
+  "model": "glm-5.3"
+}

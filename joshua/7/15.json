@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "joshua 7:15",
+  "book": "joshua",
+  "lang": "xh",
+  "chapter": 7,
+  "translation": "Kuya kuba njalo: lowo ebambwe nento yokutshatyalaliswa utshatyalaliswe ngomlilo, yena ⟨אתו⟩ nako ⟨ואת⟩ konke anako, kuba waphula ⟨את⟩ umnqophiso kaYahwe, nokuba wenza ubugwenxa kuYisrayeli.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Kuya kuba njalo"
+    },
+    {
+      "surface": "הנלכד",
+      "gloss": "lowo ebambwe"
+    },
+    {
+      "surface": "בחרם",
+      "gloss": "nento yokutshatyalaliswa"
+    },
+    {
+      "surface": "ישרף",
+      "gloss": "utshatyalaliswe"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ngomlilo"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "yena"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨ואת⟩",
+      "marks": "konke"
+    },
+    {
+      "surface": "כל",
+      "gloss": "konke"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "eza"
+    },
+    {
+      "surface": "לו",
+      "gloss": "anako"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "waphula"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umnqophiso"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "umnqophiso"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kaYahwe"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "nokuba"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "wenza"
+    },
+    {
+      "surface": "נבלה",
+      "gloss": "ubugwenxa"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "kuYisrayeli"
+    }
+  ],
+  "timestamp": "2026-09-18T08:34:19.190972632Z",
+  "model": "glm-5.3"
+}

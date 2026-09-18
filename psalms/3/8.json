@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 3:8",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 3,
+  "translation": "Vuka, Yahwe! Ndikhusele, Elohim wam, kuba uthe wakuqhwaba <⟨את⟩> onke iintshaba zam emhlathi wamazinyo, wabhqaqha amazinyo abalungileyo — amazinyo ababi.",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "Vuka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "הושיעני",
+      "gloss": "Ndikhusele"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "uElohim wam"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "הכית",
+      "gloss": "uthe wakuqhwaba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "onke iintshaba zam"
+    },
+    {
+      "surface": "כל",
+      "gloss": "onke"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "iintshaba zam"
+    },
+    {
+      "surface": "לחי",
+      "gloss": "emhlathi"
+    },
+    {
+      "surface": "שני",
+      "gloss": "amazinyo"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "abalungileyo ababi"
+    },
+    {
+      "surface": "שברת",
+      "gloss": "wabhqaqha"
+    }
+  ],
+  "timestamp": "2026-09-18T14:26:41.779884790Z",
+  "model": "glm-5.3"
+}

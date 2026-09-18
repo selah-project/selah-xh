@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "daniel 9:3",
+  "book": "daniel",
+  "lang": "xh",
+  "chapter": 9,
+  "translation": "Ndaza ndazibhekisela ubuso bam ⟨את⟩ ku-Adonayi uElohim, ndicinga uthandazo nezicelo, ngokuzila ukutya, ngeempahla zomhlathi nangumhlaba omdaka.",
+  "tokens": [
+    {
+      "surface": "ואתנה",
+      "gloss": "ndaza ndazibhekisela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ubuso bam"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ubuso bam"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "u-Adonayi"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "ndicinga"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "uthandazo"
+    },
+    {
+      "surface": "ותחנונים",
+      "gloss": "nezicelo"
+    },
+    {
+      "surface": "בצום",
+      "gloss": "ngokuzila ukutya"
+    },
+    {
+      "surface": "ושק",
+      "gloss": "ngeempahla zomhlathi"
+    },
+    {
+      "surface": "ואפר",
+      "gloss": "nangumhlaba omdaka"
+    }
+  ],
+  "timestamp": "2026-09-18T17:49:21.249190106Z",
+  "model": "glm-5.3"
+}

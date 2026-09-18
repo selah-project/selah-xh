@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 10:11",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 10,
+  "translation": "Wathi entliziyweni yakhe: “U-El ulibale; ucashile ubuso bakhe; akayi kubona nangophakade.”",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "entliziyweni yakhe"
+    },
+    {
+      "surface": "שכח",
+      "gloss": "ulibale"
+    },
+    {
+      "surface": "אל",
+      "gloss": "u-El"
+    },
+    {
+      "surface": "הסתיר",
+      "gloss": "ucashile"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "ubuso bakhe"
+    },
+    {
+      "surface": "בל",
+      "gloss": "akayi ku-"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "bona"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "nangophakade"
+    }
+  ],
+  "timestamp": "2026-09-18T14:29:58.960984230Z",
+  "model": "glm-5.3"
+}

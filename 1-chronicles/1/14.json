@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 1:14",
+  "book": "1-chronicles",
+  "lang": "xh",
+  "chapter": 1,
+  "translation": "NoYebhusi, noEmori, noGirgashi.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "iYebhusi"
+    },
+    {
+      "surface": "היבוסי",
+      "gloss": "iYebhusi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "iEmori"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "iEmori"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "iGirgashi"
+    },
+    {
+      "surface": "הגרגשי",
+      "gloss": "iGirgashi"
+    }
+  ],
+  "timestamp": "2026-09-18T16:50:26.288442325Z",
+  "model": "glm-5.3"
+}

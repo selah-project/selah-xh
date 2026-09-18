@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 11:21",
+  "book": "genesis",
+  "lang": "xh",
+  "chapter": 11,
+  "translation": "UR'eu wayephila, emva kokuzala ⟨את⟩ uSerug, iminyaka elishumi elinexesha elisi-7 nangama-200, wazala oonyana neentombi.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "wayephila"
+    },
+    {
+      "surface": "רעו",
+      "gloss": "uR'eu"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "emva koku-"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "zala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uSerug"
+    },
+    {
+      "surface": "שרוג",
+      "gloss": "uSerug"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "isi-7"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "iminyaka"
+    },
+    {
+      "surface": "ומאתים",
+      "gloss": "nangama-200"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "iminyaka"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "wazala"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "oonyana"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "neentombi"
+    }
+  ],
+  "timestamp": "2026-09-18T05:11:45.522047917Z",
+  "model": "glm-5.3"
+}

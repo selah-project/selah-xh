@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 91:16",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 91,
+  "translation": "Ngobude bemihla ndiza kumzalisa, ndimbonisa isindululo sam.",
+  "tokens": [
+    {
+      "surface": "ארך",
+      "gloss": "ubude"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "bemihla"
+    },
+    {
+      "surface": "אשביעהו",
+      "gloss": "ndiza kumzalisa"
+    },
+    {
+      "surface": "ואראהו",
+      "gloss": "ndimbonisa"
+    },
+    {
+      "surface": "בישועתי",
+      "gloss": "isindululo sam"
+    }
+  ],
+  "timestamp": "2026-09-18T15:10:57.043446836Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 55:1",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 55,
+  "translation": "Kumlawuli, ngeziqendu zezixhobo zokuvakalisa, incwadi yolwazi kaDavide.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Kumlawuli"
+    },
+    {
+      "surface": "בנגינת",
+      "gloss": "ngeziqendu zezixhobo zokuvakalisa"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "incwadi yolwazi"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "kaDavide"
+    }
+  ],
+  "timestamp": "2026-09-18T14:51:20.950269087Z",
+  "model": "glm-5.3"
+}

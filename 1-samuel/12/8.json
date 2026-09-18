@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 12:8",
+  "book": "1-samuel",
+  "lang": "xh",
+  "chapter": 12,
+  "translation": "“Xa uYaakov efikelela eMitsrayim, ooyihlo benu bakhalaza kuYahwe, uYahwe wathumela ⟨את⟩ uMoshe ⟨את⟩ no-Aharon; bakhupha ⟨את⟩ ooyihlo benu eMitsrayim, babahlalisa kwindawo le.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "Xa"
+    },
+    {
+      "surface": "בא",
+      "gloss": "efikelela"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "uYaakov"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "eMitsrayim"
+    },
+    {
+      "surface": "ויזעקו",
+      "gloss": "bakhalaza"
+    },
+    {
+      "surface": "אבותיכם",
+      "gloss": "ooyihlo benu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "wathumela"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uMoshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "uMoshe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ no-",
+      "marks": "u-Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "u-Aharon"
+    },
+    {
+      "surface": "ויוציאו",
+      "gloss": "bakhupha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ooyihlo benu"
+    },
+    {
+      "surface": "אבתיכם",
+      "gloss": "ooyihlo benu"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "eMitsrayim"
+    },
+    {
+      "surface": "וישבום",
+      "gloss": "babahlalisa"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "kwindawo"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "le"
+    }
+  ],
+  "timestamp": "2026-09-18T09:22:35.678969893Z",
+  "model": "glm-5.3"
+}

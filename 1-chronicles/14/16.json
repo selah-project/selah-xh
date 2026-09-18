@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 14:16",
+  "book": "1-chronicles",
+  "lang": "xh",
+  "chapter": 14,
+  "translation": "UDawidi wenza njengoko uElohim amthetheleyo, batshaya ⟨את⟩ inkampu yasePelishi ukusuka eGibheyoni ukuya kuGezera.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "wenza"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "UDawidi"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "njengoko"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "amthetheleyo"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "batshaya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "inkampu yasePelishi"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "inkampu"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "yasePelishi"
+    },
+    {
+      "surface": "מגבעון",
+      "gloss": "eGibheyoni"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ukuya ku-"
+    },
+    {
+      "surface": "גזרה",
+      "gloss": "Gezera"
+    }
+  ],
+  "timestamp": "2026-09-18T16:55:39.748684397Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 114:7",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 114,
+  "translation": "Phambi kolusu olungapheleleyo luka-Adonayi, zamaz, mhlaba; phambi ko-Eloha kaYaqobha —",
+  "tokens": [
+    {
+      "surface": "מלפני",
+      "gloss": "Phambi ko-"
+    },
+    {
+      "surface": "אדון",
+      "gloss": "u-Adonayi"
+    },
+    {
+      "surface": "חולי",
+      "gloss": "zamaz"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "mhlaba"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "phambi ko-"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "u-Eloha"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "kaYaqobha"
+    }
+  ],
+  "timestamp": "2026-09-18T15:20:29.713141734Z",
+  "model": "glm-5.3"
+}

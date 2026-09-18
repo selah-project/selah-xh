@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-samuel 24:20",
+  "book": "2-samuel",
+  "lang": "xh",
+  "chapter": 24,
+  "translation": "U-Arawuna wajongela phandle, wabona ⟨את⟩ inkosi kunye ⟨את⟩ iinkonzi zayo ezisiya kuye; waphuma u-Arawuna, waya wothothama phambi kweenkosi, ubuso bakhe bumhlabeni.",
+  "tokens": [
+    {
+      "surface": "וישקף",
+      "gloss": "wajongela phandle"
+    },
+    {
+      "surface": "ארונה",
+      "gloss": "u-Arawuna"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "wabona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "inkosi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "inkosi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kunye ⟨את⟩",
+      "marks": "iinkonzi zayo"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "iinkonzi zayo"
+    },
+    {
+      "surface": "עברים",
+      "gloss": "ezisiya"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "kuye"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "waphuma"
+    },
+    {
+      "surface": "ארונה",
+      "gloss": "u-Arawuna"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "wathothama"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "phambi kweenkosi"
+    },
+    {
+      "surface": "אפיו",
+      "gloss": "ubuso bakhe"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "bumhlabeni"
+    }
+  ],
+  "timestamp": "2026-09-18T17:30:58.391109290Z",
+  "model": "glm-5.3"
+}

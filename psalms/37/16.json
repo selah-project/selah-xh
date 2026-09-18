@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 37:16",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 37,
+  "translation": "Kungcono okuncinane kolungileyo kunobutyebi obuninzi bababi abaninzi.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "kungcono"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "okuncinane"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "kolungileyo"
+    },
+    {
+      "surface": "מהמון",
+      "gloss": "kunobutyebi"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "bababi"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "obuninzi abaninzi"
+    }
+  ],
+  "timestamp": "2026-09-18T14:42:08.940517782Z",
+  "model": "glm-5.3"
+}

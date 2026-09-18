@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 1:20",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 1,
+  "translation": "Kwaye uElohim wenzela okulungileyo abasizi bezalisa; isizwe laanda, laamandla kakhulu.",
+  "tokens": [
+    {
+      "surface": "וייטב",
+      "gloss": "wenzela okulungileyo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "למילדת",
+      "gloss": "abasizi bezalisa"
+    },
+    {
+      "surface": "וירב",
+      "gloss": "laanda"
+    },
+    {
+      "surface": "העם",
+      "gloss": "isizwe"
+    },
+    {
+      "surface": "ויעצמו",
+      "gloss": "laamandla"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "kakhulu"
+    }
+  ],
+  "timestamp": "2026-09-18T05:48:58.981709894Z",
+  "model": "glm-5.3"
+}

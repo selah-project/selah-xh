@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 4:6",
+  "book": "job",
+  "lang": "xh",
+  "chapter": 4,
+  "translation": "Ingaba uloyiko lwakho asilithembiso lakho, yithemba lakho, nokucocekileya kweendlela zakho?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "Ingaba... asi"
+    },
+    {
+      "surface": "יִרְאָתְךָ",
+      "gloss": "uloyiko lwakho"
+    },
+    {
+      "surface": "כִּסְלָתֶךָ",
+      "gloss": "ithembiso lakho"
+    },
+    {
+      "surface": "תִּקְוָתְךָ",
+      "gloss": "ithemba lakho"
+    },
+    {
+      "surface": "וְתֹם",
+      "gloss": "nokucocekileya"
+    },
+    {
+      "surface": "דְּרָכֶיךָ",
+      "gloss": "kweendlela zakho"
+    }
+  ],
+  "timestamp": "2026-09-18T15:59:47.136332286Z",
+  "model": "glm-5.3"
+}

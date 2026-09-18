@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 83:4",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 83,
+  "translation": "Ngokuchaseneyo nabantu bakho bacwangcisa ubugcisa, bathathanaye ngokucwangcisa ngabakufihlileyo.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "ngokuchaseneyo"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "abantu bakho"
+    },
+    {
+      "surface": "יערימו",
+      "gloss": "bacwangcisa ubugcisa"
+    },
+    {
+      "surface": "סוד",
+      "gloss": "⟨ingqungqe⟩"
+    },
+    {
+      "surface": "ויתיעצו",
+      "gloss": "bathathanaye"
+    },
+    {
+      "surface": "על",
+      "gloss": "ngokucwangcisa"
+    },
+    {
+      "surface": "צפוניך",
+      "gloss": "abakufihlileyo"
+    }
+  ],
+  "timestamp": "2026-09-18T15:04:45.573865644Z",
+  "model": "glm-5.3"
+}

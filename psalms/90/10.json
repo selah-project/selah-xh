@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 90:10",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 90,
+  "translation": "Imihla yeminyaka yethu ngamashumi asixhenxe eminyaka; ukuba ngamandla, ngamashumi asibhozo eminyaka; kodwa ukuzikhukhumeza kwawo kungumsebenzi onzima nesigwenxi; kuba kutyalwe ngokukhawuleza, siye kude.",
+  "tokens": [
+    {
+      "surface": "ימי",
+      "gloss": "imihla ye-"
+    },
+    {
+      "surface": "שנותינו",
+      "gloss": "minyaka yethu"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "kuzo"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "ngamashumi asixhenxe"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "eminyaka"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "ukuba"
+    },
+    {
+      "surface": "בגבורת",
+      "gloss": "ngamandla"
+    },
+    {
+      "surface": "שמונים",
+      "gloss": "ngamashumi asibhozo"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "eminyaka"
+    },
+    {
+      "surface": "ורהבם",
+      "gloss": "kodwa ukuzikhukhumeza kwawo"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "ungumsebenzi onzima"
+    },
+    {
+      "surface": "ואון",
+      "gloss": "nesigwenxi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "גז",
+      "gloss": "kutyalwe"
+    },
+    {
+      "surface": "חיש",
+      "gloss": "ngokukhawuleza"
+    },
+    {
+      "surface": "ונעפה",
+      "gloss": "siye kude"
+    }
+  ],
+  "timestamp": "2026-09-18T17:44:23.836866310Z",
+  "model": "glm-5.3"
+}

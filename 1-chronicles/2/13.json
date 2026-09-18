@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-chronicles 2:13",
+  "book": "1-chronicles",
+  "lang": "xh",
+  "chapter": 2,
+  "translation": "uYishayi wazala ⟨את⟩ primogenito lwakhe ⟨את⟩ uEliyabi; kunye no-Abinadabi owesibini, kunye noShimeya owesithathu.",
+  "tokens": [
+    {
+      "surface": "ואישי",
+      "gloss": "uYishayi"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "wazala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "primogenito lwakhe"
+    },
+    {
+      "surface": "בכרו",
+      "gloss": "primogenito lwakhe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uEliyabi"
+    },
+    {
+      "surface": "אליאב",
+      "gloss": "uEliyabi"
+    },
+    {
+      "surface": "ואבינדב",
+      "gloss": "kunye no-Abinadabi"
+    },
+    {
+      "surface": "השני",
+      "gloss": "owesibini"
+    },
+    {
+      "surface": "ושמעא",
+      "gloss": "kunye noShimeya"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "owesithathu"
+    }
+  ],
+  "timestamp": "2026-09-18T16:50:46.081384220Z",
+  "model": "glm-5.3"
+}

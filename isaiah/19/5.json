@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 19:5",
+  "book": "isaiah",
+  "lang": "xh",
+  "chapter": 19,
+  "translation": "Amaza aya kushiyeka kwisiLwandle, umlambo uya kuphelelwa yaye ungunomileyo.",
+  "tokens": [
+    {
+      "surface": "ונשתו",
+      "gloss": "aya kushiyeka"
+    },
+    {
+      "surface": "מים",
+      "gloss": "amaza"
+    },
+    {
+      "surface": "מהים",
+      "gloss": "kwisiLwandle"
+    },
+    {
+      "surface": "ונהר",
+      "gloss": "umlambo"
+    },
+    {
+      "surface": "יחרב",
+      "gloss": "uya kuphelelwa"
+    },
+    {
+      "surface": "ויבש",
+      "gloss": "ungunomileyo"
+    }
+  ],
+  "timestamp": "2026-09-18T11:13:46.887983569Z",
+  "model": "glm-5.3"
+}

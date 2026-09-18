@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 14:3",
+  "book": "job",
+  "lang": "xh",
+  "chapter": 14,
+  "translation": "Kananjalo, phezu kwalo lo mntu uvule amehlo akho, undise ⟨את⟩ kwingxoxo-yocalulo ngame?",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "kananjalo"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu kwa-"
+    },
+    {
+      "surface": "זה",
+      "gloss": "lo mntu"
+    },
+    {
+      "surface": "פקחת",
+      "gloss": "uvule"
+    },
+    {
+      "surface": "עינך",
+      "gloss": "amehlo akho"
+    },
+    {
+      "surface": "ואתי",
+      "gloss": "⟨את⟩",
+      "marks": "undise"
+    },
+    {
+      "surface": "תביא",
+      "gloss": "undise"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "kwingxoxo-yocalulo"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "name"
+    }
+  ],
+  "timestamp": "2026-09-18T16:04:17.963000978Z",
+  "model": "glm-5.3"
+}

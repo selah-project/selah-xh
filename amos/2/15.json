@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "amos 2:15",
+  "book": "amos",
+  "lang": "xh",
+  "chapter": 2,
+  "translation": "Yaye osonga isiphepho akayi kuma, yaye esikhawulelayo ngeenyawo zakhe akayi kusinda, yanye eqhwabene nehhashi akayi kusinda umphefumlo wakhe.",
+  "tokens": [
+    {
+      "surface": "ותפש",
+      "gloss": "osonga"
+    },
+    {
+      "surface": "הקשת",
+      "gloss": "isiphepho"
+    },
+    {
+      "surface": "לא",
+      "gloss": "akayi ku-"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "ma"
+    },
+    {
+      "surface": "וקל",
+      "gloss": "esikhawulelayo"
+    },
+    {
+      "surface": "ברגליו",
+      "gloss": "ngeenyawo zakhe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "akayi ku-"
+    },
+    {
+      "surface": "ימלט",
+      "gloss": "sinda"
+    },
+    {
+      "surface": "ורכב",
+      "gloss": "eqhwabene"
+    },
+    {
+      "surface": "הסוס",
+      "gloss": "nehhashi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "akayi ku-"
+    },
+    {
+      "surface": "ימלט",
+      "gloss": "sinda"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "umphefumlo wakhe"
+    }
+  ],
+  "timestamp": "2026-09-18T13:51:48.153892398Z",
+  "model": "glm-5.3"
+}

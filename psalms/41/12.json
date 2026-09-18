@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 41:12",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 41,
+  "translation": "Ngelesi ndiyazi ukuba undithandeleye, kuba utshaba wam akayi kudanduluka phezu kwam.",
+  "tokens": [
+    {
+      "surface": "בזאת",
+      "gloss": "ngelesi"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "ndiyazi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ukuba"
+    },
+    {
+      "surface": "חפצת",
+      "gloss": "undithandeleye"
+    },
+    {
+      "surface": "בי",
+      "gloss": "kum"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "לא",
+      "gloss": "akayi"
+    },
+    {
+      "surface": "יריע",
+      "gloss": "kudanduluka"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "utshaba wam"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "phezu kwam"
+    }
+  ],
+  "timestamp": "2026-09-18T14:44:09.185466291Z",
+  "model": "glm-5.3"
+}

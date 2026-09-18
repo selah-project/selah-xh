@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 92:7",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 92,
+  "translation": "Umntu osisityebi〈⟨is⟩〉 akazi nto; umvum-eyedwa akayiqondi ⟨את⟩ le nto.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "umntu"
+    },
+    {
+      "surface": "בער",
+      "gloss": "osisityebi (osidenge)"
+    },
+    {
+      "surface": "לא",
+      "gloss": "akazi nto"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "akazi"
+    },
+    {
+      "surface": "וכסיל",
+      "gloss": "umvum-eyedwa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "cha"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "akayiqondi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le nto"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "le nto"
+    }
+  ],
+  "timestamp": "2026-09-18T15:11:41.136502263Z",
+  "model": "glm-5.3"
+}

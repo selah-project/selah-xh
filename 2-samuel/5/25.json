@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-samuel 5:25",
+  "book": "2-samuel",
+  "lang": "xh",
+  "chapter": 5,
+  "translation": "UDavide wenza njalo, njengoko umYalele uYahwe, wabaphalisa iPelishtim ukusuka eGeba ukufikelela ekufikeni kwakho eGezere.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "wenza"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "uDavide"
+    },
+    {
+      "surface": "כן",
+      "gloss": "njalo"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "njengoko"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "umYalele"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "wabaphalisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iPelishtim"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "iPelishtim"
+    },
+    {
+      "surface": "מגבע",
+      "gloss": "ukusuka eGeba"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ukufikelela"
+    },
+    {
+      "surface": "באך",
+      "gloss": "ekufikeni kwakho"
+    },
+    {
+      "surface": "גזר",
+      "gloss": "eGezere"
+    }
+  ],
+  "timestamp": "2026-09-18T09:46:12.835341164Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 8:8",
+  "book": "genesis",
+  "lang": "xh",
+  "chapter": 8,
+  "translation": "Wathumela ⟨את⟩ ijonge ukuba ngaba amaomi anciphile phezu komboniso womhlaba.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Wathumela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ijonge"
+    },
+    {
+      "surface": "היונה",
+      "gloss": "ijonge"
+    },
+    {
+      "surface": "מאתו",
+      "gloss": "⟨את⟩ ovela kuye"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "ukubona ukuba"
+    },
+    {
+      "surface": "הקלו",
+      "gloss": "anciphile"
+    },
+    {
+      "surface": "המים",
+      "gloss": "amaomi"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "phezu"
+    },
+    {
+      "surface": "פני",
+      "gloss": "umboniso"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "womhlaba"
+    }
+  ],
+  "timestamp": "2026-09-18T05:09:51.011494023Z",
+  "model": "glm-5.3"
+}

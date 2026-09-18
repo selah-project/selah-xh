@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 103:17",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 103,
+  "translation": "Ikhesedi likaYahwe liyaphila liphila ukusuka ekuqaleni-okwangunaphakade ukuya kunaphakade phezu kwabamoyikayo, nokulunga kwakhe kwiinkulu zeentsana zabo (kwiintombi ezingekazalwa).",
+  "tokens": [
+    {
+      "surface": "וחסד",
+      "gloss": "ikhesedi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "likaYahwe"
+    },
+    {
+      "surface": "מעולם",
+      "gloss": "ukusuka ekuqaleni-okwangunaphakade"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ukuya ku"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "unaphakade"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu kwa"
+    },
+    {
+      "surface": "יראיו",
+      "gloss": "abamoyikayo"
+    },
+    {
+      "surface": "וצדקתו",
+      "gloss": "nokulunga kwakhe"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "kwiinkulu ze"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "intsana zabo"
+    }
+  ],
+  "timestamp": "2026-09-18T15:13:24.050047346Z",
+  "model": "glm-5.3"
+}

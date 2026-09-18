@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 45:6",
+  "book": "isaiah",
+  "lang": "xh",
+  "chapter": 45,
+  "translation": "Ukuze bazi, ukusuka empuma kwelanga nase ntshona, ukuba akukho <nayiphi na into> ngaphandle kwam; NdinguYahwe, kwaye akukho enye.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "ukuze"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "bazi"
+    },
+    {
+      "surface": "ממזרח",
+      "gloss": "ukusuka empuma"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "kwelanga"
+    },
+    {
+      "surface": "וממערבה",
+      "gloss": "nase ntshona"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ukuba"
+    },
+    {
+      "surface": "אפס",
+      "gloss": "akukho"
+    },
+    {
+      "surface": "בלעדי",
+      "gloss": "ngaphandle kwam"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Ndingu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "kwaye akukho"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "enye"
+    }
+  ],
+  "timestamp": "2026-09-18T11:36:17.385793348Z",
+  "model": "glm-5.3"
+}

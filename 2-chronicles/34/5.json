@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 34:5",
+  "book": "2-chronicles",
+  "lang": "xh",
+  "chapter": 34,
+  "translation": "Kananjalo amathambo oobabi awayesela... wawutshisa emizini yabo yeenkosi, kodwa wawutshisa phezu kweentalari zabo; waza wahlanza ⟨את⟩ uYehuda, waza wahlanza ne⟨את⟩ iYerushalayimi.",
+  "tokens": [
+    {
+      "surface": "ועצמות",
+      "gloss": "Kananjalo amathambo"
+    },
+    {
+      "surface": "כהנים",
+      "gloss": "oobabi basekhaya leenkosi zoMdali - abakhonzi belizwe"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "wawutshisa"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu kwa-"
+    },
+    {
+      "surface": "מזבחותים",
+      "gloss": "iintali zawo zonke"
+    },
+    {
+      "surface": "ויטהר",
+      "gloss": "waza wahlanza ngokupheleleyo ⟨את⟩"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uYehuda"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "uYehuda"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "waza wahlanza ngokupheleleyo ne⟨את⟩"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "iYerushalayimi"
+    }
+  ],
+  "timestamp": "2026-09-18T17:17:09.438679763Z",
+  "model": "glm-5.3"
+}

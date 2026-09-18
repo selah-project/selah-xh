@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 18:12",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 18,
+  "translation": "Wabeka ubumnyama ubuyisiphango sakhe sokufihleka, jikelele kuye intente yakhe; ubumnyama bemanzi, amafu axinene ezulwini.",
+  "tokens": [
+    {
+      "surface": "ישת",
+      "gloss": "wabeka"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "ubumnyama"
+    },
+    {
+      "surface": "סתרו",
+      "gloss": "ubuyisiphango sakhe sokufihlaka"
+    },
+    {
+      "surface": "סביבותיו",
+      "gloss": "jikelele kuye"
+    },
+    {
+      "surface": "סכתו",
+      "gloss": "intente yakhe"
+    },
+    {
+      "surface": "חשכת",
+      "gloss": "ubumnyama"
+    },
+    {
+      "surface": "מים",
+      "gloss": "bemanzana"
+    },
+    {
+      "surface": "עבי",
+      "gloss": "amafu axinene"
+    },
+    {
+      "surface": "שחקים",
+      "gloss": "ezulwini"
+    }
+  ],
+  "timestamp": "2026-09-18T14:34:03.910651588Z",
+  "model": "glm-5.3"
+}

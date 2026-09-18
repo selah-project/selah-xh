@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 125:4",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 125,
+  "translation": "Yenza okulungileyo, uYahwe, kubalungileyo, nakubonene ngeentliziyo zawo.",
+  "tokens": [
+    {
+      "surface": "היטיבה",
+      "gloss": "Yenza okulungileyo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "לטובים",
+      "gloss": "kubalungileyo"
+    },
+    {
+      "surface": "ולישרים",
+      "gloss": "nakubonene"
+    },
+    {
+      "surface": "בלבותם",
+      "gloss": "ngeentliziyo zawo"
+    }
+  ],
+  "timestamp": "2026-09-18T15:28:33.692635067Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "hosea 2:25",
+  "book": "hosea",
+  "lang": "xh",
+  "chapter": 2,
+  "translation": "Ndiza kuyityala kum emhlabeni, ndiza kummesela ⟨את⟩ uLo-Ruhamah, ndiza kuthi kuLo-Ammi: “Wena ungabantu bam,” yena ethi: “NguElohim wam.”",
+  "tokens": [
+    {
+      "surface": "וזרעתיה",
+      "gloss": "Ndiza kuyityala"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kum"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "emhlabeni"
+    },
+    {
+      "surface": "ורחמתי",
+      "gloss": "ndiza kummesela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uLo-Ruhamah"
+    },
+    {
+      "surface": "לא",
+      "gloss": "uLo-"
+    },
+    {
+      "surface": "רחמה",
+      "gloss": "Ruhamah"
+    },
+    {
+      "surface": "ואמרתי",
+      "gloss": "ndiza kuthi"
+    },
+    {
+      "surface": "ללא",
+      "gloss": "kuLo-"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "Ammi"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "abantu bam"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "yena"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "ethi"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "NguElohim wam"
+    }
+  ],
+  "timestamp": "2026-09-18T17:39:50.163069888Z",
+  "model": "glm-5.3"
+}

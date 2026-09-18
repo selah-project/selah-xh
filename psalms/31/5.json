@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 31:5",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 31,
+  "translation": "Ndikhiphe kwinethi ⟨le⟩ abayifihlela mina, kuba wena ungusixhasi wam.",
+  "tokens": [
+    {
+      "surface": "תוציאני",
+      "gloss": "Ndikhiphe"
+    },
+    {
+      "surface": "מרשת",
+      "gloss": "kwinethi"
+    },
+    {
+      "surface": "זו",
+      "gloss": "⟨le⟩"
+    },
+    {
+      "surface": "טמנו",
+      "gloss": "abayifihlela"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mina"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "מעוזי",
+      "gloss": "ungusixhasi wam"
+    }
+  ],
+  "timestamp": "2026-09-18T14:38:53.039395787Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 84:3",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 84,
+  "translation": "Iyabangela kwaye iphelelwa ngamandla umphefumlo wam ngamatyala kaYahwe; intliziyo yam nenyama yam ziyahlabelela ku-El ophilayo.",
+  "tokens": [
+    {
+      "surface": "נכספה",
+      "gloss": "iyabangela"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "kwaye"
+    },
+    {
+      "surface": "כלתה",
+      "gloss": "iphelelwa ngamandla"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "umphefumlo wam"
+    },
+    {
+      "surface": "לחצרות",
+      "gloss": "ngamatyala ka-"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "intliziyo yam"
+    },
+    {
+      "surface": "ובשרי",
+      "gloss": "nenyama yam"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "ziyahlabelela"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "אל",
+      "gloss": "u-El"
+    },
+    {
+      "surface": "חי",
+      "gloss": "ophilayo"
+    }
+  ],
+  "timestamp": "2026-09-18T15:09:02.112353669Z",
+  "model": "glm-5.3"
+}

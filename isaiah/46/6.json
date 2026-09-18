@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 46:6",
+  "book": "isaiah",
+  "lang": "xh",
+  "chapter": 46,
+  "translation": "Bathisa igolide esikwameni, balinganisa isilivere ngomlinganiso, bayalela umenzi wegolide, yaye uyayenza yaba ngu-eli; bathobela, ewe, baguquela phantsi.",
+  "tokens": [
+    {
+      "surface": "הזלים",
+      "gloss": "Bathisa"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "igolide"
+    },
+    {
+      "surface": "מכיס",
+      "gloss": "esikwameni"
+    },
+    {
+      "surface": "וכסף",
+      "gloss": "isilivere"
+    },
+    {
+      "surface": "בקנה",
+      "gloss": "ngomlinganiso"
+    },
+    {
+      "surface": "ישקלו",
+      "gloss": "balinganisa"
+    },
+    {
+      "surface": "ישכרו",
+      "gloss": "bayalela"
+    },
+    {
+      "surface": "צורף",
+      "gloss": "umenzi wegolide"
+    },
+    {
+      "surface": "ועשהו",
+      "gloss": "uyayenza yaba"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ngu-eli"
+    },
+    {
+      "surface": "יסגדו",
+      "gloss": "bathobela"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ewe"
+    },
+    {
+      "surface": "ישתחוו",
+      "gloss": "baguquela phantsi"
+    }
+  ],
+  "timestamp": "2026-09-18T11:36:00.524400680Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 44:9",
+  "book": "genesis",
+  "lang": "xh",
+  "chapter": 44,
+  "translation": "Lowo kweenkonkaba zakho umfunyanwa ⟨את⟩ kuye, afe; kwaye nathi sibe ziinkonkaba zenkosi yam.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "lowo"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "umfunyanwa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "le nto (isikomani) umfunyanwa kuye"
+    },
+    {
+      "surface": "מעבדיך",
+      "gloss": "kweenkonkaba zakho"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "afe"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "kwaye"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "nathi"
+    },
+    {
+      "surface": "נהיה",
+      "gloss": "sibe"
+    },
+    {
+      "surface": "לאדני",
+      "gloss": "zenkosi yam"
+    },
+    {
+      "surface": "לעבדים",
+      "gloss": "ziinkonkaba"
+    }
+  ],
+  "timestamp": "2026-09-18T05:41:02.030516970Z",
+  "model": "glm-5.3"
+}

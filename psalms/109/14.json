@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 109:14",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 109,
+  "translation": "Makhunjulwe okungcolileyo kookhokho bakhe kuYahwe; intsini yenina yakhe musa ukucinywa.",
+  "tokens": [
+    {
+      "surface": "יזכר",
+      "gloss": "makhunjulwe"
+    },
+    {
+      "surface": "עון",
+      "gloss": "okungcolileyo"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "kookhokho bakhe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "וחטאת",
+      "gloss": "nentsini"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "yenina yakhe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "musa"
+    },
+    {
+      "surface": "תמח",
+      "gloss": "ukucinywa"
+    }
+  ],
+  "timestamp": "2026-09-18T15:20:46.623681856Z",
+  "model": "glm-5.3"
+}

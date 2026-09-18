@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 11:16",
+  "book": "leviticus",
+  "lang": "xh",
+  "chapter": 11,
+  "translation": "⟨את⟩ intombi yeYaʼana, ⟨את⟩ iTachmaṣi, ⟨את⟩ iShachafi, ⟨את⟩ neNetṣi ngohlobo lawo.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "intombi yeYaʼana"
+    },
+    {
+      "surface": "בת",
+      "gloss": "intombi"
+    },
+    {
+      "surface": "היענה",
+      "gloss": "yeYaʼana"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "iTachmaṣi"
+    },
+    {
+      "surface": "התחמס",
+      "gloss": "iTachmaṣi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "iShachafi"
+    },
+    {
+      "surface": "השחף",
+      "gloss": "iShachafi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "iNetṣi"
+    },
+    {
+      "surface": "הנץ",
+      "gloss": "iNetṣi"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "ngohlobo lawo"
+    }
+  ],
+  "timestamp": "2026-09-18T06:41:41.884755642Z",
+  "model": "glm-5.3"
+}

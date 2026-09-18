@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 25:3",
+  "book": "genesis",
+  "lang": "xh",
+  "chapter": 25,
+  "translation": "UYokshani wazala ⟨את⟩ uShebha ⟨את⟩ noDedani ⟨את⟩; abantwana bakaDedani babengooAshurim, abeLetushim nababeLeumim.",
+  "tokens": [
+    {
+      "surface": "ויקשן",
+      "gloss": "noYokshani"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "wazala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uShebha"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "uShebha"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "noDedani"
+    },
+    {
+      "surface": "דדן",
+      "gloss": "noDedani"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "abantwana"
+    },
+    {
+      "surface": "דדן",
+      "gloss": "bakaDedani"
+    },
+    {
+      "surface": "היו",
+      "gloss": "babeng"
+    },
+    {
+      "surface": "אשורם",
+      "gloss": "ooAshurim"
+    },
+    {
+      "surface": "ולטושים",
+      "gloss": "abeLetushim"
+    },
+    {
+      "surface": "ולאמים",
+      "gloss": "nababeLeumim"
+    }
+  ],
+  "timestamp": "2026-09-18T05:22:54.116600690Z",
+  "model": "glm-5.3"
+}

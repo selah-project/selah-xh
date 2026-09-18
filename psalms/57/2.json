@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 57:2",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 57,
+  "translation": "Ndincede, uElohim, ndincede, kuba kuwe kukhuselekile umphefumlo wam; ndiza kukhululeka esithunzini seziphoso zakho, de kudlule iingozi.",
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "Ndincede"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "ndincede"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "בך",
+      "gloss": "kuwe"
+    },
+    {
+      "surface": "חסיה",
+      "gloss": "kukhuselekile"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "umphefumlo wam"
+    },
+    {
+      "surface": "ובצל",
+      "gloss": "esithunzini"
+    },
+    {
+      "surface": "כנפיך",
+      "gloss": "seziphoso zakho"
+    },
+    {
+      "surface": "אחסה",
+      "gloss": "ndiza kukhululeka"
+    },
+    {
+      "surface": "עד",
+      "gloss": "de"
+    },
+    {
+      "surface": "יעבר",
+      "gloss": "kudlule"
+    },
+    {
+      "surface": "הוות",
+      "gloss": "iingozi"
+    }
+  ],
+  "timestamp": "2026-09-18T14:52:02.736061978Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 119:25",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 119,
+  "translation": "Inefeshi yam inomathele kumfazana womhlaba; ndiphe ubomi ngokwezwi lakho.",
+  "tokens": [
+    {
+      "surface": "דבקה",
+      "gloss": "inomathele"
+    },
+    {
+      "surface": "לעפר",
+      "gloss": "kumfazana womhlaba"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "inefeshi yam"
+    },
+    {
+      "surface": "חיני",
+      "gloss": "ndiphe ubomi"
+    },
+    {
+      "surface": "כדברך",
+      "gloss": "ngokwezwi lakho"
+    }
+  ],
+  "timestamp": "2026-09-18T15:23:15.678681102Z",
+  "model": "glm-5.3"
+}

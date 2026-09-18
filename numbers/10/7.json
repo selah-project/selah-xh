@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 10:7",
+  "book": "numbers",
+  "lang": "xh",
+  "chapter": 10,
+  "translation": "Kwaye xa niqokelela ⟨את⟩ iqela, nivutha, ningakhwazi.",
+  "tokens": [
+    {
+      "surface": "ובהקהיל",
+      "gloss": "xa niqokelela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iqela"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "iqela"
+    },
+    {
+      "surface": "תתקעו",
+      "gloss": "nivutha"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kwaye hayi"
+    },
+    {
+      "surface": "תריעו",
+      "gloss": "ningakhwazi"
+    }
+  ],
+  "timestamp": "2026-09-18T07:21:58.572891568Z",
+  "model": "glm-5.3"
+}

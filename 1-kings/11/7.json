@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-kings 11:7",
+  "book": "1-kings",
+  "lang": "xh",
+  "chapter": 11,
+  "translation": "Ngelo xesha wakha uShelomoh indawo ephezulu yokunqulela iKemosh, isithuko sawaMowabhi, entabeni ephambi kweYerushalayimi, nendawo yokunqulela uMolekhi, isithuko sabantwana bakaAmmon.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "ngelo xesha"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "wakha"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "uShelomoh"
+    },
+    {
+      "surface": "במה",
+      "gloss": "indawo ephezulu yokunqulela"
+    },
+    {
+      "surface": "לכמוש",
+      "gloss": "iKemosh"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "isithuko"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "sawaMowabhi"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "entabeni"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "e-"
+    },
+    {
+      "surface": "על",
+      "gloss": "e-"
+    },
+    {
+      "surface": "פני",
+      "gloss": "phambi kwe-"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "iYerushalayimi"
+    },
+    {
+      "surface": "ולמלך",
+      "gloss": "nendawo yokunqulela uMolekhi"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "isithuko"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abantwana"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "bakaAmmon"
+    }
+  ],
+  "timestamp": "2026-09-18T10:23:56.169392267Z",
+  "model": "glm-5.3"
+}

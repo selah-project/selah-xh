@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 42:7",
+  "book": "isaiah",
+  "lang": "xh",
+  "chapter": 42,
+  "translation": "ukuvula amehlo okhubekileyo, ukukhupha omlindweleyo evalweni, nabahlala bumnyama baphuma endlwini yasejele;",
+  "tokens": [
+    {
+      "surface": "לפקח",
+      "gloss": "ukuvula"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "amehlo"
+    },
+    {
+      "surface": "עורות",
+      "gloss": "okhubekileyo"
+    },
+    {
+      "surface": "להוציא",
+      "gloss": "ukukhupha"
+    },
+    {
+      "surface": "ממסגר",
+      "gloss": "evalweni"
+    },
+    {
+      "surface": "אסיר",
+      "gloss": "omthwaleli"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "aphuma endlwini"
+    },
+    {
+      "surface": "כלא",
+      "gloss": "yasejele"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "abahlala"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "bumnyama"
+    }
+  ],
+  "timestamp": "2026-09-18T11:30:29.385605619Z",
+  "model": "glm-5.3"
+}

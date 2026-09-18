@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "psalms 107:34",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 107,
+  "translation": "Umhlaba onyama uba ngumhlaba wetityuwa, ngenxa yokubi kwabahlali bakhe.",
+  "tokens": [
+    {
+      "surface": "ארץ",
+      "gloss": "Umhlaba"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "onyama"
+    },
+    {
+      "surface": "למלחה",
+      "gloss": "uba ngumhlaba wetityuwa"
+    },
+    {
+      "surface": "מרעת",
+      "gloss": "ngenxa yokubi"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "kwabahlali"
+    },
+    {
+      "surface": "בה",
+      "gloss": "bakhe"
+    }
+  ],
+  "timestamp": "2026-09-18T15:19:16.517393167Z",
+  "model": "glm-5.3"
+}

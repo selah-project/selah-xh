@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 7:16",
+  "book": "leviticus",
+  "lang": "xh",
+  "chapter": 7,
+  "translation": "Ukuba umnikelo wesabelo sakhe sisithembiso okanye isipho esivolontiya, iya kutyiwa ngolusuku eza kuzisa ngalo ⟨את⟩ umnikelo wakhe; nangomso okuseleyo kuya kutyiwa.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ukuba"
+    },
+    {
+      "surface": "נדר",
+      "gloss": "sisithembiso"
+    },
+    {
+      "surface": "או",
+      "gloss": "okanye"
+    },
+    {
+      "surface": "נדבה",
+      "gloss": "isipho esivolontiya"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "umnikelo"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "wesabelo sakhe"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ngolusuku"
+    },
+    {
+      "surface": "הקריבו",
+      "gloss": "eza kuzisa ngalo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umnikelo wakhe"
+    },
+    {
+      "surface": "זבחו",
+      "gloss": "umnikelo wakhe"
+    },
+    {
+      "surface": "ייאכל",
+      "gloss": "iya kutyiwa"
+    },
+    {
+      "surface": "וממחרת",
+      "gloss": "nangomso"
+    },
+    {
+      "surface": "והנותר",
+      "gloss": "okuseleyo"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "kuyo"
+    },
+    {
+      "surface": "ייאכל",
+      "gloss": "kuya kutyiwa"
+    }
+  ],
+  "timestamp": "2026-09-18T06:37:02.358676373Z",
+  "model": "glm-5.3"
+}

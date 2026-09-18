@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 34:1",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 34,
+  "translation": "KuDavide, ekutshintsheni kwakhe ⟨את⟩ ukuziphatha kwakhe phambi ko-Abimelek, wamgxotha waza waya.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "KuDavide"
+    },
+    {
+      "surface": "בשנותו",
+      "gloss": "ekutshintsheni kwakhe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ukuziphatha kwakhe"
+    },
+    {
+      "surface": "טעמו",
+      "gloss": "ukuziphatha kwakhe"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "phambi"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "u-Abimelek"
+    },
+    {
+      "surface": "ויגרשהו",
+      "gloss": "wamgxotha"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "waya"
+    }
+  ],
+  "timestamp": "2026-09-18T14:40:56.982990626Z",
+  "model": "glm-5.3"
+}

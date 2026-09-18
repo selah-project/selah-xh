@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 64:10",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 64,
+  "translation": "Yaye bonke abantu baza kuwayika, baza kuxela umsebenzi kaElohim, bamqonde isenzo sakhe.",
+  "tokens": [
+    {
+      "surface": "וייראו",
+      "gloss": "baza kuwayika"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bonke"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "ויגידו",
+      "gloss": "baza kuxela"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "umsebenzi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "kaElohim"
+    },
+    {
+      "surface": "ומעשהו",
+      "gloss": "isenzo sakhe"
+    },
+    {
+      "surface": "השכילו",
+      "gloss": "baza kubamqonda"
+    }
+  ],
+  "timestamp": "2026-09-18T14:52:31.675183242Z",
+  "model": "glm-5.3"
+}

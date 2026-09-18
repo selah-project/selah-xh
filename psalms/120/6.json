@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 120:6",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 120,
+  "translation": "IXesha elide inefeshi yam ihlelele kunye nozonda uxolo.",
+  "tokens": [
+    {
+      "surface": "רבת",
+      "gloss": "IXesha elide"
+    },
+    {
+      "surface": "שכנה",
+      "gloss": "ihlelele"
+    },
+    {
+      "surface": "לה",
+      "gloss": "yam"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "inefeshi"
+    },
+    {
+      "surface": "עם",
+      "gloss": "kunye"
+    },
+    {
+      "surface": "שונא",
+      "gloss": "nozonda"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "uxolo"
+    }
+  ],
+  "timestamp": "2026-09-18T15:26:11.670718777Z",
+  "model": "glm-5.3"
+}

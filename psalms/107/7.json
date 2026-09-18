@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 107:7",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 107,
+  "translation": "Waza wabakhokelela endleleni ethe tqaba, ukuze bahambelele kwindawo yokuhlala.",
+  "tokens": [
+    {
+      "surface": "וידריכם",
+      "gloss": "wabakhokelela"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "endleleni"
+    },
+    {
+      "surface": "ישרה",
+      "gloss": "ethe tqaba"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "ukuze bahambelele"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "indawo"
+    },
+    {
+      "surface": "מושב",
+      "gloss": "yokuhlala"
+    }
+  ],
+  "timestamp": "2026-09-18T15:17:43.109697720Z",
+  "model": "glm-5.3"
+}

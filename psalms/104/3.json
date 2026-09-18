@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 104:3",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 104,
+  "translation": "Olwakha izinti zegumbi lakhe phezu kwamanzi, enza iinimbi inqwelo yakhe, ehamba phezu kwamaphiko omoya.",
+  "tokens": [
+    {
+      "surface": "המקרה",
+      "gloss": "Olwakha izinti zegumbi lakhe"
+    },
+    {
+      "surface": "במים",
+      "gloss": "phezu kwamanzi"
+    },
+    {
+      "surface": "עליותיו",
+      "gloss": "egumbini lakhe eliphezulu"
+    },
+    {
+      "surface": "השם",
+      "gloss": "enza"
+    },
+    {
+      "surface": "עבים",
+      "gloss": "iinimbi"
+    },
+    {
+      "surface": "רכובו",
+      "gloss": "inqwelo yakhe"
+    },
+    {
+      "surface": "המהלך",
+      "gloss": "ehamba"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu"
+    },
+    {
+      "surface": "כנפי",
+      "gloss": "kwamaphiko"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "omoya"
+    }
+  ],
+  "timestamp": "2026-09-18T15:15:06.780239359Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "hosea 13:6",
+  "book": "hosea",
+  "lang": "xh",
+  "chapter": 13,
+  "translation": "Kunokulunyelwa kwabo bakhululeka; besutywa, inhliziyo zabo zonyuka; ngoko bandilibalile.",
+  "tokens": [
+    {
+      "surface": "כמרעיתם",
+      "gloss": "kunokulunyelwa kwabo"
+    },
+    {
+      "surface": "וישבעו",
+      "gloss": "bakhululeka"
+    },
+    {
+      "surface": "שבעו",
+      "gloss": "besutywa"
+    },
+    {
+      "surface": "וירם",
+      "gloss": "zonyuka"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "inhliziyo zabo"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨phezu⟩"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ngoko"
+    },
+    {
+      "surface": "שכחוני",
+      "gloss": "bandilibalile"
+    }
+  ],
+  "timestamp": "2026-09-18T13:48:33.892609497Z",
+  "model": "glm-5.3"
+}

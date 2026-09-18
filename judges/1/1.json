@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "judges 1:1",
+  "book": "judges",
+  "lang": "xh",
+  "chapter": 1,
+  "translation": "Kwathi emva kokufa kukaYehoshuwa, abantwana bakaSirayeli babuza kuYahwe, bathi: “Ngubani oza kunyuka <⟨את⟩ nathi> aye kumaKanana kuqala, ukulwa nabo?”",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Kwathi"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "emva koko"
+    },
+    {
+      "surface": "מות",
+      "gloss": "ukufa"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "kukaYehoshuwa"
+    },
+    {
+      "surface": "וישאלו",
+      "gloss": "babuza"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abantwana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "bakaSirayeli"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "kuYahwe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "bathi"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Ngubani"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "oza kunyuka"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "nathi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "aye ku"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "maKanana"
+    },
+    {
+      "surface": "בתחלה",
+      "gloss": "kuqala"
+    },
+    {
+      "surface": "להלחם",
+      "gloss": "ukulwa"
+    },
+    {
+      "surface": "בו",
+      "gloss": "nabo"
+    }
+  ],
+  "timestamp": "2026-09-18T08:48:32.761533821Z",
+  "model": "glm-5.3"
+}

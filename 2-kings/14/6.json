@@ -1,0 +1,125 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 14:6",
+  "book": "2-kings",
+  "lang": "xh",
+  "chapter": 14,
+  "translation": "Kodwa oonyana bababulalayo akababulalanga, njengokubhaliweyo encwadini yeTora kaMoshe, uYahwe awayalela ngokuthi: ‘Malunga abaswele, makabulawanga ngenxa yabantwana, nabantwana makabulawanga ngenxa yoomalume; kodwa lowo mntu makefele sona isono sakhe.’",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Kodwa ⟨את⟩"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oonyana"
+    },
+    {
+      "surface": "המכים",
+      "gloss": "bababulalayo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "akabulalanga"
+    },
+    {
+      "surface": "המית",
+      "gloss": "(pho)"
+    },
+    {
+      "surface": "ככתוב",
+      "gloss": "njengokubhaliweyo"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "encwadini"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "yeTora"
+    },
+    {
+      "surface": "משה",
+      "gloss": "kaMoshe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "eyayiyalelwa"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "wayalela"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ngokuthi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "makabulawanga"
+    },
+    {
+      "surface": "יומתו",
+      "gloss": "babe bulałwa"
+    },
+    {
+      "surface": "אבות",
+      "gloss": "Malunga abaswele"
+    },
+    {
+      "surface": "על",
+      "gloss": "ngenxa"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "yabantwana"
+    },
+    {
+      "surface": "ובנים",
+      "gloss": "nabantwana"
+    },
+    {
+      "surface": "לא",
+      "gloss": "makabulawanga"
+    },
+    {
+      "surface": "יומתו",
+      "gloss": "babe bulawa"
+    },
+    {
+      "surface": "על",
+      "gloss": "ngenxa"
+    },
+    {
+      "surface": "אבות",
+      "gloss": "yoomalume"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kodwa"
+    },
+    {
+      "surface": "אם",
+      "gloss": "nje"
+    },
+    {
+      "surface": "איש",
+      "gloss": "lowo mntu"
+    },
+    {
+      "surface": "בחטאו",
+      "gloss": "isono sakhe"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "akefele"
+    }
+  ],
+  "timestamp": "2026-09-18T17:33:55.930115491Z",
+  "model": "glm-5.3"
+}

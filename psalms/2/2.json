@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 2:2",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 2,
+  "translation": "Iinkosi zomhlaba zizibeka ngqo, nabaphathi bahlangana kunye, ichasene noYahwe noMashiya wakhe:",
+  "tokens": [
+    {
+      "surface": "יתיצבו",
+      "gloss": "zizibeka ngqo"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "iinkosi"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "zomhlaba"
+    },
+    {
+      "surface": "ורוזנים",
+      "gloss": "nabaphathi"
+    },
+    {
+      "surface": "נוסדו",
+      "gloss": "bahlangana kunye"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "kunye"
+    },
+    {
+      "surface": "על",
+      "gloss": "ichasene"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "noYahwe"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "no"
+    },
+    {
+      "surface": "משיחו",
+      "gloss": "uMashiya wakhe"
+    }
+  ],
+  "timestamp": "2026-09-18T14:27:16.303176410Z",
+  "model": "glm-5.3"
+}

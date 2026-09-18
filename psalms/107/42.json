@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 107:42",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 107,
+  "translation": "Abalungileyo bayabona, bayonwaba; yonke ingcala ivale ⟨umlomo wayo⟩.",
+  "tokens": [
+    {
+      "surface": "יראו",
+      "gloss": "bayabona"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "abalungileyo"
+    },
+    {
+      "surface": "וישמחו",
+      "gloss": "bayonwaba"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "yonke"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "ingcala"
+    },
+    {
+      "surface": "קפצה",
+      "gloss": "ivale"
+    },
+    {
+      "surface": "פיה",
+      "gloss": "umlomo wayo"
+    }
+  ],
+  "timestamp": "2026-09-18T15:19:05.474761658Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 13:18",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 13,
+  "translation": "U-Elohim wajikelezisa ⟨את⟩ abantu endleleni yentlango Yam Suf; abantwana bakwaSirayeli banyuka belungele imfazwe belusuka elizweni laseMitsrayim.",
+  "tokens": [
+    {
+      "surface": "ויסב",
+      "gloss": "wajikelezisa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abantu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "endleleni"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "yentlango"
+    },
+    {
+      "surface": "ים",
+      "gloss": "Yam"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "iSuf"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "belungele imfazwe"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "banyuka"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abantwana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "bakwaSirayeli"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "elizweni"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "laseMitsrayim"
+    }
+  ],
+  "timestamp": "2026-09-18T06:02:11.594988934Z",
+  "model": "glm-5.3"
+}

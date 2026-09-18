@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 86:5",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 86,
+  "translation": "Kuba wena, u-Adonayi, ulungile, uxolelayo, unobuninzi beikhesedi kuzo bonke abakubizayo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "u-Adonayi"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ulungile"
+    },
+    {
+      "surface": "וסלח",
+      "gloss": "uxolelayo"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "unobuninzi"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "beikhesedi"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "kuzo bonke"
+    },
+    {
+      "surface": "קראיך",
+      "gloss": "abakubizayo"
+    }
+  ],
+  "timestamp": "2026-09-18T15:07:36.709615318Z",
+  "model": "glm-5.3"
+}

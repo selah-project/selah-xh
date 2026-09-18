@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 10:9",
+  "book": "isaiah",
+  "lang": "xh",
+  "chapter": 10,
+  "translation": "Ingaba akunjalo-na iKalkano njengeKarkemishi? Ingaba iHamati akunjalo-na njenge-Arpadi? Ingaba uShomeroni akunjalo-na njengeDamaseki?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "ingaba akunjalo-na"
+    },
+    {
+      "surface": "ככרכמיש",
+      "gloss": "njengeKarkemishi"
+    },
+    {
+      "surface": "כלנו",
+      "gloss": "iKalkano"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ingaba"
+    },
+    {
+      "surface": "לא",
+      "gloss": "akunjalo-na"
+    },
+    {
+      "surface": "כארפד",
+      "gloss": "njenge-Arpadi"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "iHamati"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ingaba"
+    },
+    {
+      "surface": "לא",
+      "gloss": "akunjalo-na"
+    },
+    {
+      "surface": "כדמשק",
+      "gloss": "njengeDamaseki"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "uShomeroni"
+    }
+  ],
+  "timestamp": "2026-09-18T17:33:12.800421940Z",
+  "model": "glm-5.3"
+}

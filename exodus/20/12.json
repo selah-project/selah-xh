@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 20:12",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 20,
+  "translation": "Hlomla ⟨את⟩ uyise wakho ⟨את⟩ nomama wakho, ukuze iintsuku zakho zidande phezu komhlaba oYahwe uElohim wakho enikhwelayo.",
+  "tokens": [
+    {
+      "surface": "כבד",
+      "gloss": "Hlomla"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uyise wakho"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "uyise wakho"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "nomama wakho"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "nomama wakho"
+    },
+    {
+      "surface": "למען",
+      "gloss": "ukuze"
+    },
+    {
+      "surface": "יארכון",
+      "gloss": "zidande"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "iintsuku zakho"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "komhlaba"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "o"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "uElohim wakho"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "enikhwelayo"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kuwe"
+    }
+  ],
+  "timestamp": "2026-09-18T06:05:49.155847124Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 71:24",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 71,
+  "translation": "Nolwimi lwam, lonke ixesha, luya kukhankanya ulungilelaniso lwakho; kuba bahlotywe, kuba bahlaziywe, abafuna okubi kum.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Na-"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "ulwimi lwam"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lonke"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ixesha"
+    },
+    {
+      "surface": "תהגה",
+      "gloss": "luya kukhankanya"
+    },
+    {
+      "surface": "צדקתך",
+      "gloss": "ulungilelaniso lwakho"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "בשו",
+      "gloss": "bahlotywe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "חפרו",
+      "gloss": "bahlaziywe"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "abafuna"
+    },
+    {
+      "surface": "רעתי",
+      "gloss": "okubi kum"
+    }
+  ],
+  "timestamp": "2026-09-18T14:56:41.482394672Z",
+  "model": "glm-5.3"
+}

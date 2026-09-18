@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 32:10",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 32,
+  "translation": "Iintlungu ezininzi ziya kubakona kulgwenxa; kodwa lowo uthembayo kuYahwe, ikhesedi iya kumzungelela.",
+  "tokens": [
+    {
+      "surface": "רבים",
+      "gloss": "ezininzi"
+    },
+    {
+      "surface": "מכאובים",
+      "gloss": "iintlungu"
+    },
+    {
+      "surface": "לרשע",
+      "gloss": "kulgwenxa"
+    },
+    {
+      "surface": "והבוטח",
+      "gloss": "lowo uthembayo"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "kuYahwe"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "ikhesedi"
+    },
+    {
+      "surface": "יסובבנו",
+      "gloss": "iya kumzungelela"
+    }
+  ],
+  "timestamp": "2026-09-18T14:39:59.056078590Z",
+  "model": "glm-5.3"
+}

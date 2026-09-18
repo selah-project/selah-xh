@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 59:2",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 59,
+  "translation": "Ndikhulule kwiintshaba zam, uElohim wam; kubaso phakamisayo ngam ndipakamise ndize ndikhuseleke.",
+  "tokens": [
+    {
+      "surface": "הצילני",
+      "gloss": "ndikhulule"
+    },
+    {
+      "surface": "מאיבי",
+      "gloss": "kwiintshaba zam"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "uElohim wam"
+    },
+    {
+      "surface": "ממתקוממי",
+      "gloss": "kubaso phakamisayo ngam"
+    },
+    {
+      "surface": "תשגבני",
+      "gloss": "ndipakamise ndize ndikhuseleke"
+    }
+  ],
+  "timestamp": "2026-09-18T14:52:37.457919369Z",
+  "model": "glm-5.3"
+}

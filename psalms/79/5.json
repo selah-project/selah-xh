@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 79:5",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 79,
+  "translation": "Kuze nini, uYahwe? Uza kukratywa ngokungenasiphelo? Isikhwele sakho siza kutsha njengomlilo?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "Kuze nini"
+    },
+    {
+      "surface": "מה",
+      "gloss": "nini"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "תאנף",
+      "gloss": "Uza kukratywa"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "ngokungenasiphelo"
+    },
+    {
+      "surface": "תבער",
+      "gloss": "siza kutsha"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "njenga-"
+    },
+    {
+      "surface": "אש",
+      "gloss": "umlilo"
+    },
+    {
+      "surface": "קנאתך",
+      "gloss": "isikhwele sakho"
+    }
+  ],
+  "timestamp": "2026-09-18T15:05:32.458164212Z",
+  "model": "glm-5.3"
+}

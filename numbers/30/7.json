@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 30:7",
+  "book": "numbers",
+  "lang": "xh",
+  "chapter": 30,
+  "translation": "Kodwa ukuba yayikho ibe kumyeni, iintzwelo zakhe zisengaphezu kwakhe, okanye okushiwo okukhawulezayo lemilomo yakhe oko abophezile phezu komphefumlo wakhe —",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "kodwa ukuba"
+    },
+    {
+      "surface": "היו",
+      "gloss": "yayikho"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ibe"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "kumyeni"
+    },
+    {
+      "surface": "ונדריה",
+      "gloss": "iintzwelo zakhe"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "phezu kwakhe"
+    },
+    {
+      "surface": "או",
+      "gloss": "okanye"
+    },
+    {
+      "surface": "מבטא",
+      "gloss": "okushiwo okukhawulezayo"
+    },
+    {
+      "surface": "שפתיה",
+      "gloss": "lemilomo yakhe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oko"
+    },
+    {
+      "surface": "אסרה",
+      "gloss": "abophezile"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu"
+    },
+    {
+      "surface": "נפשה",
+      "gloss": "komphefumlo wakhe"
+    }
+  ],
+  "timestamp": "2026-09-18T07:46:28.509926773Z",
+  "model": "glm-5.3"
+}

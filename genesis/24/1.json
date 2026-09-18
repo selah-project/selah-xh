@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 24:1",
+  "book": "genesis",
+  "lang": "xh",
+  "chapter": 24,
+  "translation": "U-Avraham waguga, wangena eminxebeni, waye uYahwe wabalessihla u-Avraham ngako konke.",
+  "tokens": [
+    {
+      "surface": "ואברהם",
+      "gloss": "U-Avraham wadla ngoko"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "waguga"
+    },
+    {
+      "surface": "בא",
+      "gloss": "wangena"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "eminxebeni"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "waye uYahwe"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "wabalessihla"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "u-Avraham"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "u-Avraham"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ngako konke"
+    }
+  ],
+  "timestamp": "2026-09-18T05:20:22.975790323Z",
+  "model": "glm-5.3"
+}

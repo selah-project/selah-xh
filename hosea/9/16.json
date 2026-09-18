@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "hosea 9:16",
+  "book": "hosea",
+  "lang": "xh",
+  "chapter": 9,
+  "translation": "U-Efrayim uqhotyiswe; impandla yabo yomile; abayi kuzala isiqhamo; nangona bazala, mna ndiza kubulala oothandekayo besisu sabo.",
+  "tokens": [
+    {
+      "surface": "הכה",
+      "gloss": "uqhotyiswe"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "u-Efrayim"
+    },
+    {
+      "surface": "שרשם",
+      "gloss": "impandla yabo"
+    },
+    {
+      "surface": "יבש",
+      "gloss": "yomile"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "isiqhamo"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "akukho"
+    },
+    {
+      "surface": "יעשון",
+      "gloss": "abayi kuzala"
+    },
+    {
+      "surface": "גם",
+      "gloss": "nangona"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bazala"
+    },
+    {
+      "surface": "ילדון",
+      "gloss": "kweso sizalo"
+    },
+    {
+      "surface": "והמתי",
+      "gloss": "ndiza kubulala"
+    },
+    {
+      "surface": "מחמדי",
+      "gloss": "oothandekayo"
+    },
+    {
+      "surface": "בטנם",
+      "gloss": "besisu sabo"
+    }
+  ],
+  "timestamp": "2026-09-18T13:46:54.507318746Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 9:13",
+  "book": "deuteronomy",
+  "lang": "xh",
+  "chapter": 9,
+  "translation": "Kananjalo uYahwe wathetha kum, esithi: Ndibonile ⟨את⟩ abantu aba, kwaye nanga, luluntu olunzima entanyeni lunjalo.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wathetha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kum"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "esithi"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "Ndibonile"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abantu aba"
+    },
+    {
+      "surface": "העם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "aba"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "kwaye nanga"
+    },
+    {
+      "surface": "עם",
+      "gloss": "luluntu"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "olinzima"
+    },
+    {
+      "surface": "ערף",
+      "gloss": "entanyeni"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "lunjalo"
+    }
+  ],
+  "timestamp": "2026-09-18T08:01:35.952995048Z",
+  "model": "glm-5.3"
+}

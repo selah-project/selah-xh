@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 9:12",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 9,
+  "translation": "UYahwe waqinisa ⟨את⟩ intliziyo kaParo, yaye wangenwa wasamkeli kubo, njengoko uYahwe wakutsho kuMoshe.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "waqinisa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "intliziyo kaParo"
+    },
+    {
+      "surface": "לב",
+      "gloss": "intliziyo"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "kaParo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "wangenwa"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "wasamkeli"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "kubo"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "njengoko"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "wakutsho"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    }
+  ],
+  "timestamp": "2026-09-18T05:55:34.038342753Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 57:2",
+  "book": "isaiah",
+  "lang": "xh",
+  "chapter": 57,
+  "translation": "Ukungcola kuyeza; bazorula emigodlweni yabo, umhambi ajongene naye.",
+  "tokens": [
+    {
+      "surface": "יבוא",
+      "gloss": "uyeza"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "ukungcola"
+    },
+    {
+      "surface": "ינוחו",
+      "gloss": "bazorula"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "משכבותם",
+      "gloss": "emigodlweni yabo"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "umhambi"
+    },
+    {
+      "surface": "נכחו",
+      "gloss": "ajongene naye"
+    }
+  ],
+  "timestamp": "2026-09-18T11:42:36.489014177Z",
+  "model": "glm-5.3"
+}

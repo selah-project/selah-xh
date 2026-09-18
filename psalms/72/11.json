@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 72:11",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 72,
+  "translation": "Onke amakosi aza kuthothoza phambi kwakhe; onke amazwe aza kumkhonza.",
+  "tokens": [
+    {
+      "surface": "וישתחוו",
+      "gloss": "aza kuthothoza"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kuye"
+    },
+    {
+      "surface": "כל",
+      "gloss": "onke"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "amakosi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "onke"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "amazwe"
+    },
+    {
+      "surface": "יעבדוהו",
+      "gloss": "aza kumkhonza"
+    }
+  ],
+  "timestamp": "2026-09-18T14:56:09.458270344Z",
+  "model": "glm-5.3"
+}

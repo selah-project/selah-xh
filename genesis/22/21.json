@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 22:21",
+  "book": "genesis",
+  "lang": "xh",
+  "chapter": 22,
+  "translation": "⟨את⟩ u-Utsi elidala ngakumbi (umntwana wakhe wokuqala), nangaba u-Buzi umnakwabo, nangaba u-Kemueli uyise wase-Arami;",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "u-Utsi"
+    },
+    {
+      "surface": "עוץ",
+      "gloss": "u-Utsi"
+    },
+    {
+      "surface": "בכרו",
+      "gloss": "umntwana wakhe wokuqala"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "nangaba ⟨את⟩",
+      "marks": "u-Buzi"
+    },
+    {
+      "surface": "בוז",
+      "gloss": "u-Buzi"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "umnakwabo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "nangaba ⟨את⟩",
+      "marks": "u-Kemueli"
+    },
+    {
+      "surface": "קמואל",
+      "gloss": "u-Kemueli"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "uyise"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "i-Arami"
+    }
+  ],
+  "timestamp": "2026-09-18T05:18:22.385564882Z",
+  "model": "glm-5.3"
+}

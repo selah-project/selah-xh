@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 30:5",
+  "book": "deuteronomy",
+  "lang": "xh",
+  "chapter": 30,
+  "translation": "uYahwe uElohim wakho uza kukungenisa kumhlaba oobawo bakho bawulawulayo, uze uwulawule; uza kukwenza okuhle, akwandise ngaphezu koobawo bakho.",
+  "tokens": [
+    {
+      "surface": "והביאך",
+      "gloss": "uza kukungenisa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "uElohim wakho"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "umhlaba"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "o"
+    },
+    {
+      "surface": "ירשו",
+      "gloss": "bawulawulayo"
+    },
+    {
+      "surface": "אבתיך",
+      "gloss": "oobawo bakho"
+    },
+    {
+      "surface": "וירשתה",
+      "gloss": "uze uwulawule"
+    },
+    {
+      "surface": "והיטבך",
+      "gloss": "uza kukwenza okuhle"
+    },
+    {
+      "surface": "והרבך",
+      "gloss": "akwandise"
+    },
+    {
+      "surface": "מאבתיך",
+      "gloss": "ngaphezu koobawo bakho"
+    }
+  ],
+  "timestamp": "2026-09-18T08:21:36.833888685Z",
+  "model": "glm-5.3"
+}

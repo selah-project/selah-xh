@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 10:7",
+  "book": "ecclesiastes",
+  "lang": "xh",
+  "chapter": 10,
+  "translation": "Ndibonile iinkonzi ezihamba ngehashe, noonobhiwo behamba njengeenkonzi emhlabeni.",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "Ndibonile"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "iinkonzi"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu"
+    },
+    {
+      "surface": "סוסים",
+      "gloss": "amahashe"
+    },
+    {
+      "surface": "ושרים",
+      "gloss": "noonobhiwo"
+    },
+    {
+      "surface": "הלכים",
+      "gloss": "behamba"
+    },
+    {
+      "surface": "כעבדים",
+      "gloss": "njengeenkonzi"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "omhlaba"
+    }
+  ],
+  "timestamp": "2026-09-18T16:25:07.408354157Z",
+  "model": "glm-5.3"
+}

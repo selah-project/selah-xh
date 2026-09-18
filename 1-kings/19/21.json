@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-kings 19:21",
+  "book": "1-kings",
+  "lang": "xh",
+  "chapter": 19,
+  "translation": "Wabuya emva kwakhe, wathabatha ⟨את⟩ intsimbi yamakhomishi, wayibulala wayizisela ngokuthi ngokwenkosi, wabhema inyama ngamatyholo amakhomishi, wanikeza abantu, batya. Wavuka, wahamba emva kuka-Eliya, wamkhonza.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "Wabuya"
+    },
+    {
+      "surface": "מאחריו",
+      "gloss": "emva kwakhe"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "wathabatha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "intsimbi yamakhomishi"
+    },
+    {
+      "surface": "צמד",
+      "gloss": "intsimbi yamakhomishi"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "amakhomishi"
+    },
+    {
+      "surface": "ויזבחהו",
+      "gloss": "wayibulala ngokwenkosi"
+    },
+    {
+      "surface": "ובכלי",
+      "gloss": "ngamatyholo"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "amakhomishi"
+    },
+    {
+      "surface": "בשלם",
+      "gloss": "wabhema"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "inyama"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "wanikeza"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "ויאכלו",
+      "gloss": "batya"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "Wavuka"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "wahamba"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "emva"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "ka-Eliya"
+    },
+    {
+      "surface": "וישרתהו",
+      "gloss": "wamkhonza"
+    }
+  ],
+  "timestamp": "2026-09-18T10:30:55.491142423Z",
+  "model": "glm-5.3"
+}

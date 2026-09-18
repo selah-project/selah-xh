@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 18:20",
+  "book": "1-kings",
+  "lang": "xh",
+  "chapter": 18,
+  "translation": "U-Achabi wathumela kuzo onke iintsana zamaYisra’eli, wayaqokelela ⟨את⟩ abaprofeti entabeni yeKarmeli.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "wathumela"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "u-Achabi"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "kuzo onke"
+    },
+    {
+      "surface": "בני",
+      "gloss": "iintsana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "zamaYisra’eli"
+    },
+    {
+      "surface": "ויקבץ",
+      "gloss": "wayaqokelela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abaprofeti"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "abaprofeti"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e-"
+    },
+    {
+      "surface": "הר",
+      "gloss": "entabeni"
+    },
+    {
+      "surface": "הכרמל",
+      "gloss": "yeKarmeli"
+    }
+  ],
+  "timestamp": "2026-09-18T10:31:30.631140509Z",
+  "model": "glm-5.3"
+}

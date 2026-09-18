@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 31:1",
+  "book": "deuteronomy",
+  "lang": "xh",
+  "chapter": 31,
+  "translation": "Waya uMoshe, wathetha ⟨את⟩ la magama kuwo onke uYisraele.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "Waya"
+    },
+    {
+      "surface": "משה",
+      "gloss": "uMoshe"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "wathetha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la magama"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "amagama"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "la"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "כל",
+      "gloss": "onke"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "uYisraele"
+    }
+  ],
+  "timestamp": "2026-09-18T08:25:21.359555890Z",
+  "model": "glm-5.3"
+}

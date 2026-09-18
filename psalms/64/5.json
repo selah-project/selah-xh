@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 64:5",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 64,
+  "translation": "Badubula iilwane ezilungileyo ekufihlweni; ngokungazelelisiyo badubula yena, kwaye aboyiki.",
+  "tokens": [
+    {
+      "surface": "לירות",
+      "gloss": "ukudubula"
+    },
+    {
+      "surface": "במסתרים",
+      "gloss": "ekufihlweni"
+    },
+    {
+      "surface": "תם",
+      "gloss": "ilungileyo"
+    },
+    {
+      "surface": "פתאם",
+      "gloss": "ngokungazelelisiyo"
+    },
+    {
+      "surface": "ירהו",
+      "gloss": "badubula yena"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kwaye abo-"
+    },
+    {
+      "surface": "ייראו",
+      "gloss": "-yiki"
+    }
+  ],
+  "timestamp": "2026-09-18T14:54:54.318120467Z",
+  "model": "glm-5.3"
+}

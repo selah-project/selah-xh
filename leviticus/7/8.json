@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 7:8",
+  "book": "leviticus",
+  "lang": "xh",
+  "chapter": 7,
+  "translation": "Kwaye umfundisi oza kukhuphela ⟨את⟩ umnikelo otshiswayo womntu, isikhumba somnikelo otshiswayo anikelayo iya kuba yeyakhe.",
+  "tokens": [
+    {
+      "surface": "והכהן",
+      "gloss": "Kwaye umfundisi"
+    },
+    {
+      "surface": "המקריב",
+      "gloss": "oza kukhuphela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umnikelo otshiswayo"
+    },
+    {
+      "surface": "עלת",
+      "gloss": "umnikelo otshiswayo"
+    },
+    {
+      "surface": "איש",
+      "gloss": "womntu"
+    },
+    {
+      "surface": "עור",
+      "gloss": "isikhumba"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "somnikelo otshiswayo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "elo"
+    },
+    {
+      "surface": "הקריב",
+      "gloss": "anikelayo"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "kumfundisi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kuye"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "iya kuba"
+    }
+  ],
+  "timestamp": "2026-09-18T06:35:57.875036818Z",
+  "model": "glm-5.3"
+}

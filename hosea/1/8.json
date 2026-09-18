@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "hosea 1:8",
+  "book": "hosea",
+  "lang": "xh",
+  "chapter": 1,
+  "translation": "Wathi emva kokuba wamncancisa umva uLo-Rukhamah, wakhulelwa wazala unyana.",
+  "tokens": [
+    {
+      "surface": "ותגמל",
+      "gloss": "wamncancisa umva"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uLo-Rukhamah"
+    },
+    {
+      "surface": "לא",
+      "gloss": "uLo-"
+    },
+    {
+      "surface": "רחמה",
+      "gloss": "Rukhamah"
+    },
+    {
+      "surface": "ותהר",
+      "gloss": "wakhulelwa"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "wazala"
+    },
+    {
+      "surface": "בן",
+      "gloss": "unyana"
+    }
+  ],
+  "timestamp": "2026-09-18T13:44:18.928559544Z",
+  "model": "glm-5.3"
+}

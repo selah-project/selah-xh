@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 4:1",
+  "book": "1-kings",
+  "lang": "xh",
+  "chapter": 4,
+  "translation": "Yaba nguYehowa inkosi uShelomoh, eyayinkosi phezu kwayo yonke i-Israel.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Yaba"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "inkosi"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "uShelomoh"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "eyayinkosi"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu kwa-"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yonke"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "i-Israel"
+    }
+  ],
+  "timestamp": "2026-09-18T10:09:46.866288165Z",
+  "model": "glm-5.3"
+}

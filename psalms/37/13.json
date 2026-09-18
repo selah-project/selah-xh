@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 37:13",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 37,
+  "translation": "u-Adonayi uyahleka kuye, kuba wabona ukuba usuku lwakhe luza kufika.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "u-Adonayi"
+    },
+    {
+      "surface": "ישחק",
+      "gloss": "uyahleka"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kuye"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "wabona"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ukuba"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "luza kufika"
+    },
+    {
+      "surface": "יומו",
+      "gloss": "usuku lwakhe"
+    }
+  ],
+  "timestamp": "2026-09-18T14:42:08.939997491Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 111:1",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 111,
+  "translation": "Dumisani uYah! Ndiya kubulela kuYahwe ngenhliziyo yonke, kwibandla labalungileyo nakwiindibano.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Dumisani"
+    },
+    {
+      "surface": "יה",
+      "gloss": "uYah"
+    },
+    {
+      "surface": "אודה",
+      "gloss": "ndiya kubulela"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kuYahwe"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ngeyakhe yonke"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "inhliziyo"
+    },
+    {
+      "surface": "בסוד",
+      "gloss": "kwibandla"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "labalungileyo"
+    },
+    {
+      "surface": "ועדה",
+      "gloss": "nakwiindibano"
+    }
+  ],
+  "timestamp": "2026-09-18T15:20:54.495002351Z",
+  "model": "glm-5.3"
+}

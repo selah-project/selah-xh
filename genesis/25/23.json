@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 25:23",
+  "book": "genesis",
+  "lang": "xh",
+  "chapter": 25,
+  "translation": "Wathetha uYahwe kuyo: “Zimbini iintlanga ezisisekwini sakho, kwaye zimbini iintlanga ezizakuhlukana azantsi kwisisu sakho; intlanga enye iya kumandla kuneyonke, kananjalo umdala uza kukhonza umncinci.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wathetha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "לה",
+      "gloss": "kuyo"
+    },
+    {
+      "surface": "שני",
+      "gloss": "zimbini"
+    },
+    {
+      "surface": "גיים",
+      "gloss": "iintlanga"
+    },
+    {
+      "surface": "בבטנך",
+      "gloss": "ezisisekwini sakho"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "kwaye zimbini"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "iintlanga"
+    },
+    {
+      "surface": "ממעיך",
+      "gloss": "azantsi kwisisu sakho"
+    },
+    {
+      "surface": "יפרדו",
+      "gloss": "ezizakuhlukana"
+    },
+    {
+      "surface": "ולאם",
+      "gloss": "kananjalo intlanga enye"
+    },
+    {
+      "surface": "מלאם",
+      "gloss": "kuneyonke"
+    },
+    {
+      "surface": "יאמץ",
+      "gloss": "iya kumandla"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "kananjalo umdala"
+    },
+    {
+      "surface": "יעבד",
+      "gloss": "uza kukhonza"
+    },
+    {
+      "surface": "צעיר",
+      "gloss": "umncinci"
+    }
+  ],
+  "timestamp": "2026-09-18T17:17:55.084521396Z",
+  "model": "glm-5.3"
+}

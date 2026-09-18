@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 44:26",
+  "book": "genesis",
+  "lang": "xh",
+  "chapter": 44,
+  "translation": "Sathi: “Asinako ukwehla; kodwa ukuba umtakwethu omncinci ulikhona ⟨את⟩ nathi, siya kuwehla; kuba asinakubona ubuso lomntu loxa umtakwethu wethu omncinci engathi nathi.”",
+  "tokens": [
+    {
+      "surface": "ונאמר",
+      "gloss": "sathi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "asi-"
+    },
+    {
+      "surface": "נוכל",
+      "gloss": "-nako"
+    },
+    {
+      "surface": "לרדת",
+      "gloss": "ukwehla"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ukuba"
+    },
+    {
+      "surface": "יש",
+      "gloss": "ulikhona"
+    },
+    {
+      "surface": "אחינו",
+      "gloss": "umtakwethu wethu"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "omncinci"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ nathi",
+      "marks": "nathi (kuthathwa njengendlela evamileyo)"
+    },
+    {
+      "surface": "וירדנו",
+      "gloss": "siya kuwehla"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "לא",
+      "gloss": "asi-"
+    },
+    {
+      "surface": "נוכל",
+      "gloss": "-nako"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "ukubona"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ubuso"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "lomntu"
+    },
+    {
+      "surface": "ואחינו",
+      "gloss": "loxa umtakwethu wethu"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "omncinci"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "engathi"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ nathi",
+      "marks": "nathi (loxa engathi nathi)"
+    }
+  ],
+  "timestamp": "2026-09-18T05:45:19.624659099Z",
+  "model": "glm-5.3"
+}

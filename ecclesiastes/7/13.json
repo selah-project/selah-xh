@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 7:13",
+  "book": "ecclesiastes",
+  "lang": "xh",
+  "chapter": 7,
+  "translation": "Bukela ⟨את⟩ umsebenzi kaElohim, kuba ngubani unako ukulungelelanisa ⟨את⟩ oko wakugqwesayo?",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "Bukela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umsebenzi kaElohim"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "umsebenzi"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "kaElohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ngubani"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "unako"
+    },
+    {
+      "surface": "לתקן",
+      "gloss": "ukulungelelanisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oko wakugqwesayo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oko"
+    },
+    {
+      "surface": "עותו",
+      "gloss": "wakugqwesayo"
+    }
+  ],
+  "timestamp": "2026-09-18T17:49:44.997223680Z",
+  "model": "glm-5.3"
+}

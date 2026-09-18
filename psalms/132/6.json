@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 132:6",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 132,
+  "translation": "Yabona, siyizwile kwi-Efrata; siyifumene kwiindawana zasehlathini.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Yabona"
+    },
+    {
+      "surface": "שמענוה",
+      "gloss": "siyizwile"
+    },
+    {
+      "surface": "באפרתה",
+      "gloss": "kwi-Efrata"
+    },
+    {
+      "surface": "מצאנוה",
+      "gloss": "siyifumene"
+    },
+    {
+      "surface": "בשדי",
+      "gloss": "kwiindawana"
+    },
+    {
+      "surface": "יער",
+      "gloss": "zasehlathini"
+    }
+  ],
+  "timestamp": "2026-09-18T15:27:58.567213908Z",
+  "model": "glm-5.3"
+}

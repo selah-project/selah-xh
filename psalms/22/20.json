@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 22:20",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 22,
+  "translation": "Wena ke, uYahwe, ungabude uye kude; amandla am, sebenzela ukunceda kwam, khawuleza.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Wena ke"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ungabude"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "uye kude"
+    },
+    {
+      "surface": "אילותי",
+      "gloss": "amandla am"
+    },
+    {
+      "surface": "לעזרתי",
+      "gloss": "ukunceda kwam"
+    },
+    {
+      "surface": "חושה",
+      "gloss": "khawuleza"
+    }
+  ],
+  "timestamp": "2026-09-18T14:35:10.390076315Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 97:6",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 97,
+  "translation": "Amazulu abhengeza intlawulelo yakhe, yaye zonke iintlanga zibona ubukhosi bakhe.",
+  "tokens": [
+    {
+      "surface": "הגידו",
+      "gloss": "abhengeza"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "amazulu"
+    },
+    {
+      "surface": "צדקו",
+      "gloss": "intlawulelo yakhe"
+    },
+    {
+      "surface": "וראו",
+      "gloss": "yaye zibona"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zonke"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "iintlanga"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "ubukhosi bakhe"
+    }
+  ],
+  "timestamp": "2026-09-18T15:12:21.925459856Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "micah 3:1",
+  "book": "micah",
+  "lang": "xh",
+  "chapter": 3,
+  "translation": "Ndathi: “Phulaphulani nje, ziiy intloko zikaYakob, nabaphathi bendlu kaSirayeli — ingaba akunani ukwazi ⟨את⟩ umgwebo?”",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "Ndathi"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "Phulaphulani"
+    },
+    {
+      "surface": "נא",
+      "gloss": "nje"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "iintloko"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "zikaYakob"
+    },
+    {
+      "surface": "וקציני",
+      "gloss": "nabaphathi"
+    },
+    {
+      "surface": "בית",
+      "gloss": "bendlu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "kaSirayeli"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "ingaba akunanjani"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "nani"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "ukwazi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umgwebo"
+    },
+    {
+      "surface": "המשפט",
+      "gloss": "umgwebo"
+    }
+  ],
+  "timestamp": "2026-09-18T14:03:52.489227206Z",
+  "model": "glm-5.3"
+}

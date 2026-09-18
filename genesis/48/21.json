@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 48:21",
+  "book": "genesis",
+  "lang": "xh",
+  "chapter": 48,
+  "translation": "Wathetha uYisraele kuYosef: “Yakho, mna ndisifa; uElohim uza kuba nani, aze anibuyisele ⟨את⟩ nini kumhlaba wooyihlo benu.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wathetha"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "uYisraele"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "uYosef"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "yakho"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "mna"
+    },
+    {
+      "surface": "מת",
+      "gloss": "ndisifa"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "uza kuba"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "nani"
+    },
+    {
+      "surface": "והשיב",
+      "gloss": "aze anibuyisele"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ nini",
+      "marks": "nini"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "umhlaba"
+    },
+    {
+      "surface": "אבתיכם",
+      "gloss": "wooyihlo benu"
+    }
+  ],
+  "timestamp": "2026-09-18T05:46:38.903400673Z",
+  "model": "glm-5.3"
+}

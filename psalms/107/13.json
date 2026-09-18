@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 107:13",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 107,
+  "translation": "Baya kukhala kuYahwe xa bekungcinezelo kubo, wabasindisa kwizinxwaleko zabo.",
+  "tokens": [
+    {
+      "surface": "ויזעקו",
+      "gloss": "Baya kukhala"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "xa bekungcinezelo"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kubo"
+    },
+    {
+      "surface": "ממצקותיהם",
+      "gloss": "kwizinxwaleko zabo"
+    },
+    {
+      "surface": "יושיעם",
+      "gloss": "wabasindisa"
+    }
+  ],
+  "timestamp": "2026-09-18T15:17:51.683852861Z",
+  "model": "glm-5.3"
+}

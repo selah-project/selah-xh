@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 21:7",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 21,
+  "translation": "Kananjalo ukuba umntu uthengisa ⟨את⟩ intombi yakhe ukuba ibe likhadi, akayi kuphuma njengokuphuma kwamakhoboka.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "kananjalo ukuba"
+    },
+    {
+      "surface": "ימכר",
+      "gloss": "uthengisa"
+    },
+    {
+      "surface": "איש",
+      "gloss": "umntu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "intombi yakhe"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "intombi yakhe"
+    },
+    {
+      "surface": "לאמה",
+      "gloss": "ukuba ibe likhadi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "akayi"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "kuphuma"
+    },
+    {
+      "surface": "כצאת",
+      "gloss": "njengokuphuma"
+    },
+    {
+      "surface": "העבדים",
+      "gloss": "kwamakhoboka"
+    }
+  ],
+  "timestamp": "2026-09-18T06:09:43.946971867Z",
+  "model": "glm-5.3"
+}

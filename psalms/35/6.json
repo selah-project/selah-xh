@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 35:6",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 35,
+  "translation": "Maba yindlela yabo umnyama kunye neendlu ezileleyo, kwaye isithunywa sikaYahwe sidlalele phezulu kwabo.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "maba yibe"
+    },
+    {
+      "surface": "דרכם",
+      "gloss": "indlela yabo"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "umnyama"
+    },
+    {
+      "surface": "וחלקלקות",
+      "gloss": "kunye neendlu ezileleyo"
+    },
+    {
+      "surface": "ומלאך",
+      "gloss": "kwaye isithunywa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "sikaYahwe"
+    },
+    {
+      "surface": "רדפם",
+      "gloss": "sidlalele phezulu kwabo"
+    }
+  ],
+  "timestamp": "2026-09-18T14:40:29.538221853Z",
+  "model": "glm-5.3"
+}

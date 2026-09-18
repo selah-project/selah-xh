@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 66:17",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 66,
+  "translation": "Kuye ndandimbiza ngomlomo wam, kwaye udumo lwakhe luhlala phantsi kulwimi lwam.",
+  "tokens": [
+    {
+      "surface": "אליו",
+      "gloss": "Kuye"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ngomlomo wam"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "ndandimbiza"
+    },
+    {
+      "surface": "ורומם",
+      "gloss": "udumo lwakhe"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "phantsi"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "kulwimi lwam"
+    }
+  ],
+  "timestamp": "2026-09-18T14:53:24.420304175Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "judges 21:24",
+  "book": "judges",
+  "lang": "xh",
+  "chapter": 21,
+  "translation": "Abantwana bakwaSirayeli bahamba baphuma apho ngelo xesha, umntu ngamnye esizweni sakhe nakwisapho lakhe; baphuma apho, umntu ngamnye esifa sakhe.",
+  "tokens": [
+    {
+      "surface": "ויתהלכו",
+      "gloss": "bahamba"
+    },
+    {
+      "surface": "משם",
+      "gloss": "apho"
+    },
+    {
+      "surface": "בני",
+      "gloss": "Abantwana bakwa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Sirayeli"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "ngelo xesha"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "lelo"
+    },
+    {
+      "surface": "איש",
+      "gloss": "umntu ngamnye"
+    },
+    {
+      "surface": "לשבטו",
+      "gloss": "esizweni sakhe"
+    },
+    {
+      "surface": "ולמשפחתו",
+      "gloss": "nakwisapho lakhe"
+    },
+    {
+      "surface": "ויצאו",
+      "gloss": "baphuma"
+    },
+    {
+      "surface": "משם",
+      "gloss": "apho"
+    },
+    {
+      "surface": "איש",
+      "gloss": "umntu ngamnye"
+    },
+    {
+      "surface": "לנחלתו",
+      "gloss": "esifa sakhe"
+    }
+  ],
+  "timestamp": "2026-09-18T09:13:44.954038004Z",
+  "model": "glm-5.3"
+}

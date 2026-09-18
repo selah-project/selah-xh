@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 10:24",
+  "book": "genesis",
+  "lang": "xh",
+  "chapter": 10,
+  "translation": "U-Arfakhshadi wazala ⟨את⟩ uShelaxi; uShelaxi wazala ⟨את⟩ uEveri.",
+  "tokens": [
+    {
+      "surface": "וארפכשד",
+      "gloss": "U-Arfakhshadi"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "wazala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uShelaxi"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "uShelaxi"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "uShelaxi"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "wazala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uEveri"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "uEveri"
+    }
+  ],
+  "timestamp": "2026-09-18T05:11:44.647639371Z",
+  "model": "glm-5.3"
+}

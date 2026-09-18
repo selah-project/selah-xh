@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 20:2",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 20,
+  "translation": "Makaphendule uYahwe ngosuku lokubandeziyelo; igama likaElohim kaYaakobh makakuxhese phezulu.",
+  "tokens": [
+    {
+      "surface": "יענך",
+      "gloss": "makaphendule"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ngosuku"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "lokubandeziyelo"
+    },
+    {
+      "surface": "ישגבך",
+      "gloss": "makakuxhese phezulu"
+    },
+    {
+      "surface": "שם",
+      "gloss": "igama"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "likaElohim"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "kaYaakobh"
+    }
+  ],
+  "timestamp": "2026-09-18T14:34:44.300434466Z",
+  "model": "glm-5.3"
+}

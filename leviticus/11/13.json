@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 11:13",
+  "book": "leviticus",
+  "lang": "xh",
+  "chapter": 11,
+  "translation": "Kwaye le zi niyakuzibalekela kwiinyoni; akunakutyiwa: into engcolileyo kuni zile: ⟨את⟩ iNeshere, ⟨את⟩ iPereṣi, ⟨את⟩ neAzniya.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "le zi (ntaka)"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "le zi"
+    },
+    {
+      "surface": "תשקצו",
+      "gloss": "niyakuzibalekela"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kwi"
+    },
+    {
+      "surface": "העוף",
+      "gloss": "iinyoni"
+    },
+    {
+      "surface": "לא",
+      "gloss": "akunaku"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "tyiwa"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "into engcolileyo"
+    },
+    {
+      "surface": "הם",
+      "gloss": "zi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iNeshere"
+    },
+    {
+      "surface": "הנשר",
+      "gloss": "iNeshere"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "iPereṣi"
+    },
+    {
+      "surface": "הפרס",
+      "gloss": "iPereṣi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "iAzniya"
+    },
+    {
+      "surface": "העזניה",
+      "gloss": "iAzniya"
+    }
+  ],
+  "timestamp": "2026-09-18T06:41:41.883963229Z",
+  "model": "glm-5.3"
+}

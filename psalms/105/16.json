@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 105:16",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 105,
+  "translation": "Wabiza indlala phezu komhlaba, wacekisa isikhongozeli yonke yesonka.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "wabiza"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "indlala"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu ko-"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "mhlaba"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yonke"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "isikhongozeli"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "yesonka"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "wacekisa"
+    }
+  ],
+  "timestamp": "2026-09-18T15:16:29.988273603Z",
+  "model": "glm-5.3"
+}

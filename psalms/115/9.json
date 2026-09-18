@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 115:9",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 115,
+  "translation": "I-Israel, thembela kuYahwe: nguye uncedo lwabo nesikhoki sabo.",
+  "tokens": [
+    {
+      "surface": "ישראל",
+      "gloss": "I-Israel"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "thembela"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "kuYahwe"
+    },
+    {
+      "surface": "עזרם",
+      "gloss": "uncedo lwabo"
+    },
+    {
+      "surface": "ומגנם",
+      "gloss": "nesikhoki sabo"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "nguye"
+    }
+  ],
+  "timestamp": "2026-09-18T15:22:04.609120673Z",
+  "model": "glm-5.3"
+}

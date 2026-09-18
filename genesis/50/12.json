@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 50:12",
+  "book": "genesis",
+  "lang": "xh",
+  "chapter": 50,
+  "translation": "Amadodana akhe enza njalo kuye, njengoko wayebalela khona.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "enza"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "amadodana akhe"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kuye"
+    },
+    {
+      "surface": "כן",
+      "gloss": "njalo"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "njengoko"
+    },
+    {
+      "surface": "צום",
+      "gloss": "wayebalela khona"
+    }
+  ],
+  "timestamp": "2026-09-18T05:47:30.680814315Z",
+  "model": "glm-5.3"
+}

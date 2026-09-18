@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 68:23",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 68,
+  "translation": "U-Adonayi wathetha: Ndiza kubuyisa ndivela eBashan, ndiza kubuyisa ndivela ezijongweni zolwandle.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "wathetha"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "U-Adonayi"
+    },
+    {
+      "surface": "מבשן",
+      "gloss": "eBashan"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "Ndiza kubuyisa"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "ndiza kubuyisa"
+    },
+    {
+      "surface": "ממצלות",
+      "gloss": "ezijongweni"
+    },
+    {
+      "surface": "ים",
+      "gloss": "zolwandle"
+    }
+  ],
+  "timestamp": "2026-09-18T14:56:10.076021964Z",
+  "model": "glm-5.3"
+}

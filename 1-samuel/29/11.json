@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 29:11",
+  "book": "1-samuel",
+  "lang": "xh",
+  "chapter": 29,
+  "translation": "Wavuka kuseni uDawidi, yena namadoda akhe, ukuhamba ekuseni ukubuyela kumhlaba wabaFilisti; zabaFilisti ke zanyukela eYizreeli.",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "wavuka kuseni"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "uDawidi"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yena"
+    },
+    {
+      "surface": "ואנשיו",
+      "gloss": "namadoda akhe"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "ukuhamba"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "ekuseni"
+    },
+    {
+      "surface": "לשוב",
+      "gloss": "ukubuyela"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "umhlaba"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "wabaFilisti"
+    },
+    {
+      "surface": "ופלשתים",
+      "gloss": "zabaFilisti ke"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "zanyukela"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "eYizreeli"
+    }
+  ],
+  "timestamp": "2026-09-18T09:38:26.946693823Z",
+  "model": "glm-5.3"
+}

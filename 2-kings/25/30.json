@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-kings 25:30",
+  "book": "2-kings",
+  "lang": "xh",
+  "chapter": 25,
+  "translation": "Nesabelo sakhe — isabelo esiqhubekayo — sanikwa yinkosi ⟨את⟩, umyalezo wosuku ngosuku lwawo, yonke imihla yobomi wakhe.",
+  "tokens": [
+    {
+      "surface": "וארחתו",
+      "gloss": "nesabelo sakhe"
+    },
+    {
+      "surface": "ארחת",
+      "gloss": "isabelo"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "esiqhubekayo"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "sanikwa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "yena"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "kuvela ⟨את⟩",
+      "marks": "inkosi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "yinkosi"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "umyalezo (into)"
+    },
+    {
+      "surface": "יום",
+      "gloss": "wosuku"
+    },
+    {
+      "surface": "ביומו",
+      "gloss": "ngosuku lwawo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yonke"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "imihla"
+    },
+    {
+      "surface": "חיו",
+      "gloss": "yobomi wakhe"
+    }
+  ],
+  "timestamp": "2026-09-18T10:58:45.633067779Z",
+  "model": "glm-5.3"
+}

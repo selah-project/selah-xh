@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 118:17",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 118,
+  "translation": "Andizi kufa, kodwa ndiza kuphila, ndiza kuxela imisebenzi kaYah.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "andi- (hayi)"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "kufa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kodwa"
+    },
+    {
+      "surface": "אחיה",
+      "gloss": "ndiza kuphila"
+    },
+    {
+      "surface": "ואספר",
+      "gloss": "ndiza kuxela"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "imisebenzi"
+    },
+    {
+      "surface": "יה",
+      "gloss": "kaYah"
+    }
+  ],
+  "timestamp": "2026-09-18T15:22:39.425830215Z",
+  "model": "glm-5.3"
+}

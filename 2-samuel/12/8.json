@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-samuel 12:8",
+  "book": "2-samuel",
+  "lang": "xh",
+  "chapter": 12,
+  "translation": "ndandikunika ⟨את⟩ indlu yenkosi yakho, noko ⟨את⟩ amakhosikazi enkosi yakho esiswini sakho; ndandikunika ⟨את⟩ indlu kaIsrayeli nakwaYuda; ukuba oko kungachaneleyo, bendiza kukongeza kuwe izinto ezinjalo nangezinye ezinjalo.",
+  "tokens": [
+    {
+      "surface": "ואתנה",
+      "gloss": "ndandikunika"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kuwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "indlu yenkosi yakho"
+    },
+    {
+      "surface": "בית",
+      "gloss": "indlu"
+    },
+    {
+      "surface": "אדניך",
+      "gloss": "yenkosi yakho"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "noko ⟨את⟩",
+      "marks": "amakhosikazi enkosi yakho"
+    },
+    {
+      "surface": "נשי",
+      "gloss": "amakhosikazi"
+    },
+    {
+      "surface": "אדניך",
+      "gloss": "enkosi yakho"
+    },
+    {
+      "surface": "בחיקך",
+      "gloss": "esiswini sakho"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "ndandikunika"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kuwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "indlu kaIsrayeli nakwaYuda"
+    },
+    {
+      "surface": "בית",
+      "gloss": "indlu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "kaIsrayeli"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "nakwaYuda"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "ukuba"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "kungachaneleyo"
+    },
+    {
+      "surface": "ואספה",
+      "gloss": "bendiza kukongeza"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kuwe"
+    },
+    {
+      "surface": "כהנה",
+      "gloss": "ezinjalo"
+    },
+    {
+      "surface": "וכהנה",
+      "gloss": "nangezinye ezinjalo"
+    }
+  ],
+  "timestamp": "2026-09-18T09:53:11.659696471Z",
+  "model": "glm-5.3"
+}

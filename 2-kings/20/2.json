@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-kings 20:2",
+  "book": "2-kings",
+  "lang": "xh",
+  "chapter": 20,
+  "translation": "Waza uKhizkiya wajonga ubuso bakhe ⟨את⟩ ngaseburhwalini, waza wathandaza kuYahwe, wathi:",
+  "tokens": [
+    {
+      "surface": "ויסב",
+      "gloss": "wajonga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ubuso bakwe"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "ubuso bakhe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ngase-"
+    },
+    {
+      "surface": "הקיר",
+      "gloss": "burhwali"
+    },
+    {
+      "surface": "ויתפלל",
+      "gloss": "wathandaza"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "wathi"
+    }
+  ],
+  "timestamp": "2026-09-18T10:56:03.527712406Z",
+  "model": "glm-5.3"
+}

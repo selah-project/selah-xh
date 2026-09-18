@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "jeremiah 29:13",
+  "book": "jeremiah",
+  "lang": "xh",
+  "chapter": 29,
+  "translation": "Niza kundifuna ⟨את⟩, niza kunifumana, kuba niza kundicinga ngeentliziyo zenu zonke.",
+  "tokens": [
+    {
+      "surface": "ובקשתם",
+      "gloss": "niza kundifuna"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "mna (undifuna)"
+    },
+    {
+      "surface": "ומצאתם",
+      "gloss": "niza kunifumana"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "תדרשני",
+      "gloss": "niza kundicinga"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "zonke"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "intliziyo yenu"
+    }
+  ],
+  "timestamp": "2026-09-18T12:21:39.532779892Z",
+  "model": "glm-5.3"
+}

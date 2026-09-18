@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "micah 3:4",
+  "book": "micah",
+  "lang": "xh",
+  "chapter": 3,
+  "translation": "Ngelo xesha baya kukhala kuYahwe, kodwa akayi kubaphhendula; uza kufihla ubuso bakhe kubo ngelo xesha, ngenxa yokuba izenzo zabo zazimbi.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "Ngelo xesha"
+    },
+    {
+      "surface": "יזעקו",
+      "gloss": "baya kukhala"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kodwa akayi"
+    },
+    {
+      "surface": "יענה",
+      "gloss": "kubaphhendula"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "abakhalayo"
+    },
+    {
+      "surface": "ויסתר",
+      "gloss": "uza kufihla"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "ubuso bakhe"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "kubo"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "ngelo xesha"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "elo"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ngenxa yokuba"
+    },
+    {
+      "surface": "הרעו",
+      "gloss": "zazimbi"
+    },
+    {
+      "surface": "מעלליהם",
+      "gloss": "izenzo zabo"
+    }
+  ],
+  "timestamp": "2026-09-18T14:03:52.489878530Z",
+  "model": "glm-5.3"
+}

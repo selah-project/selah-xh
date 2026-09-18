@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "exodus 25:29",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 25,
+  "translation": "Uza kwenza iindonga zayo, kunye neeceruse zayo, kunye neejaji zayo, kunye neesikozo zayo, eziza kuthathwa ngazo njengenkonzo yamanzi; ngegolide ecocokeleyo uza kuzenza.",
+  "tokens": [
+    {
+      "surface": "וְעָשִׂ֨יתָ",
+      "gloss": "uza kwenza"
+    },
+    {
+      "surface": "קְּעָרֹתָ֜יו",
+      "gloss": "iindonga zayo (iindonga-ityebhu zayo)"
+    },
+    {
+      "surface": "וְכַפֹּתָ֗יו",
+      "gloss": "kunye neeceruse zayo"
+    },
+    {
+      "surface": "וּקְשֹׂתָיו֙",
+      "gloss": "kunye neejaji zayo"
+    },
+    {
+      "surface": "וּמְנַקִּיֹּתָ֔יו",
+      "gloss": "kunye neesikozo zayo"
+    },
+    {
+      "surface": "אֲשֶׁ֥ר",
+      "gloss": "ezo"
+    },
+    {
+      "surface": "יֻסַּ֖ךְ",
+      "gloss": "eza kunikelwa ngazo"
+    },
+    {
+      "surface": "בָּהֵ֑ן",
+      "gloss": "ngazo"
+    },
+    {
+      "surface": "זָהָ֥ב",
+      "gloss": "ngegolide"
+    },
+    {
+      "surface": "טָה֖וֹר",
+      "gloss": "ecocokeleyo"
+    },
+    {
+      "surface": "תַּעֲשֶׂ֥ה",
+      "gloss": "uza kuzenza"
+    },
+    {
+      "surface": "אֹתָֽם",
+      "gloss": "⟨את⟩",
+      "marks": "zona (izitya)"
+    }
+  ],
+  "timestamp": "2026-09-18T06:14:43.683071237Z",
+  "model": "glm-5.3"
+}

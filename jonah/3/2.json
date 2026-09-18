@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jonah 3:2",
+  "book": "jonah",
+  "lang": "xh",
+  "chapter": 3,
+  "translation": "“Vuka, yiya eNinive, le dolophu enkulu, uthethele kuyo ⟨את⟩ isibiziso endithetha ngaso kuni.”",
+  "tokens": [
+    {
+      "surface": "קום",
+      "gloss": "Vuka"
+    },
+    {
+      "surface": "לך",
+      "gloss": "yiya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "Ninive"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "le dolophu"
+    },
+    {
+      "surface": "הגדולה",
+      "gloss": "enkulu"
+    },
+    {
+      "surface": "וקרא",
+      "gloss": "uthethele"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "kuyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isibiziso"
+    },
+    {
+      "surface": "הקריאה",
+      "gloss": "isibiziso"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "endithetha"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ndi"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "-thetha"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kuni"
+    }
+  ],
+  "timestamp": "2026-09-18T14:00:55.851520076Z",
+  "model": "glm-5.3"
+}

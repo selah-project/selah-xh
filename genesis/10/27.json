@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 10:27",
+  "book": "genesis",
+  "lang": "xh",
+  "chapter": 10,
+  "translation": "⟨את⟩ noHadoram, ⟨את⟩ noUzal, ⟨את⟩ neDikla.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "uHadoram"
+    },
+    {
+      "surface": "הדורם",
+      "gloss": "uHadoram"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "uUzal"
+    },
+    {
+      "surface": "אוזל",
+      "gloss": "uUzal"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "iDikla"
+    },
+    {
+      "surface": "דקלה",
+      "gloss": "iDikla"
+    }
+  ],
+  "timestamp": "2026-09-18T05:11:54.914910097Z",
+  "model": "glm-5.3"
+}

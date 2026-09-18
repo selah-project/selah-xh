@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "leviticus 19:18",
+  "book": "leviticus",
+  "lang": "xh",
+  "chapter": 19,
+  "translation": "Musa ukuziphindiselela, musa nogcina inzondo ⟨את⟩ abantwana bentlalo yakho; uthande umakhwabo wakho njengawe; ndinguYahwe.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Musa"
+    },
+    {
+      "surface": "תקם",
+      "gloss": "ukuziphindiselela"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "musa no-"
+    },
+    {
+      "surface": "תטר",
+      "gloss": "gcina inzondo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abantwana bentlalo yakho"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abantwana"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "bentlalo yakho"
+    },
+    {
+      "surface": "ואהבת",
+      "gloss": "uthande"
+    },
+    {
+      "surface": "לרעך",
+      "gloss": "umakhwabo wakho"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "njengawe"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ndi-"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "nguYahwe"
+    }
+  ],
+  "timestamp": "2026-09-18T06:59:08.780155895Z",
+  "model": "glm-5.3"
+}

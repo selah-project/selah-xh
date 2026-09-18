@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 23:30",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 23,
+  "translation": "Ngokuthe chu, ngokuthe chu, ndiza kubaxhotyisa phambi kwakho, de ukhule, uze ulifa ⟨את⟩ umhlaba.",
+  "tokens": [
+    {
+      "surface": "מעט",
+      "gloss": "ngokuthe chu"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "ngokuthe chu"
+    },
+    {
+      "surface": "אגרשנו",
+      "gloss": "ndiza kubaxhotyisa"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "phambi kwakho"
+    },
+    {
+      "surface": "עד",
+      "gloss": "de"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "תפרה",
+      "gloss": "ukhule"
+    },
+    {
+      "surface": "ונחלת",
+      "gloss": "uze ulifa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umhlaba"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "umhlaba"
+    }
+  ],
+  "timestamp": "2026-09-18T17:21:07.108689484Z",
+  "model": "glm-5.3"
+}

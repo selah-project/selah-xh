@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "song-of-songs 4:5",
+  "book": "song-of-songs",
+  "lang": "xh",
+  "chapter": 4,
+  "translation": "Amabele akho amabini anjengamawoni amabini, amawele enkakazana, edla phakathi kweelili.",
+  "tokens": [
+    {
+      "surface": "שני",
+      "gloss": "amabini"
+    },
+    {
+      "surface": "שדיך",
+      "gloss": "amabele akho"
+    },
+    {
+      "surface": "כשני",
+      "gloss": "anjengamabini"
+    },
+    {
+      "surface": "עפרים",
+      "gloss": "amawoni"
+    },
+    {
+      "surface": "תאומי",
+      "gloss": "amawele"
+    },
+    {
+      "surface": "צביה",
+      "gloss": "enkakazana"
+    },
+    {
+      "surface": "הרועים",
+      "gloss": "edla"
+    },
+    {
+      "surface": "בשושנים",
+      "gloss": "phakathi kweelili"
+    }
+  ],
+  "timestamp": "2026-09-18T16:17:05.156284890Z",
+  "model": "glm-5.3"
+}

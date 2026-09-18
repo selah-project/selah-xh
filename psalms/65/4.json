@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 65:4",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 65,
+  "translation": "Imisebenzi yezono yandlula amandla ⟨phezulu⟩ kwam; amaphuko ethu wena uza kucisha.",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "Imisebenzi"
+    },
+    {
+      "surface": "עונת",
+      "gloss": "yezono"
+    },
+    {
+      "surface": "גברו",
+      "gloss": "yandlula amandla"
+    },
+    {
+      "surface": "מני",
+      "gloss": "⟨phezulu⟩ kwam"
+    },
+    {
+      "surface": "פשעינו",
+      "gloss": "amaphuko ethu"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "תכפרם",
+      "gloss": "uza kucisha"
+    }
+  ],
+  "timestamp": "2026-09-18T14:55:54.239820333Z",
+  "model": "glm-5.3"
+}

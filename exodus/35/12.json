@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 35:12",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 35,
+  "translation": "⟨את⟩ Iarki namabha ayo, ⟨את⟩ indawo yokuxolelwa, nangefihleo leslu sivalo.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iarki"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "iarki"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "namabha ayo"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "namabha ayo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "indawo yokuxolelwa"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "indawo yokuxolelwa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ifihleo leslu sivalo"
+    },
+    {
+      "surface": "פרכת",
+      "gloss": "ifihleo"
+    },
+    {
+      "surface": "המסך",
+      "gloss": "leslu sivalo"
+    }
+  ],
+  "timestamp": "2026-09-18T06:21:29.223371941Z",
+  "model": "glm-5.3"
+}

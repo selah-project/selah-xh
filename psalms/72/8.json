@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 72:8",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 72,
+  "translation": "Ubusa ukusuka lulwandle ukuya lulwandle, nakusuka umlambo ukuya kwiindawo zokugqibela zomhlaba.",
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "ubusa"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ukusuka lulwandle"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ukuya"
+    },
+    {
+      "surface": "ים",
+      "gloss": "lulwandle"
+    },
+    {
+      "surface": "ומנהר",
+      "gloss": "nakusuka umlambo"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ukuya"
+    },
+    {
+      "surface": "אפסי",
+      "gloss": "kwiindawo zokugqibela"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "zomhlaba"
+    }
+  ],
+  "timestamp": "2026-09-18T14:58:34.885395965Z",
+  "model": "glm-5.3"
+}

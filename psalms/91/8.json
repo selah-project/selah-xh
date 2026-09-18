@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 91:8",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 91,
+  "translation": "Kuphela ngamehlo akho uza kujongisisa, umvuzo wabangcolileyo uza kuwubona.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "kuphela"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "ngamehlo akho"
+    },
+    {
+      "surface": "תביט",
+      "gloss": "ujongisisa"
+    },
+    {
+      "surface": "ושלמת",
+      "gloss": "umvuzo"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "wabangcolileyo"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "uza kuwubona"
+    }
+  ],
+  "timestamp": "2026-09-18T15:11:11.434681992Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 44:1",
+  "book": "ezekiel",
+  "lang": "xh",
+  "chapter": 44,
+  "translation": "Wandibuyisela ngendlela yesango le-ndawo engcwele elingaphandle, elibheka empuma; yaye laliyavalwe.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "Wandibuyisela"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "mna"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "ngendlela"
+    },
+    {
+      "surface": "שער",
+      "gloss": "yesango"
+    },
+    {
+      "surface": "המקדש",
+      "gloss": "le-ndawo engcwele"
+    },
+    {
+      "surface": "החיצון",
+      "gloss": "elingaphandle"
+    },
+    {
+      "surface": "הפנה",
+      "gloss": "elibheka"
+    },
+    {
+      "surface": "קדים",
+      "gloss": "empuma"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "yaye li-"
+    },
+    {
+      "surface": "סגור",
+      "gloss": "laliyavalwe"
+    }
+  ],
+  "timestamp": "2026-09-18T13:38:14.274504008Z",
+  "model": "glm-5.3"
+}

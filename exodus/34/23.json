@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 34:23",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 34,
+  "translation": "kathathu ngokonyaka, amadoda akho onke aza kubonakala phambi koYahwe, u-Adonay, uElohim kaSirayeli.",
+  "tokens": [
+    {
+      "surface": "שלש",
+      "gloss": "kathathu"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "(iindaba zothando)"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "ngokonyaka"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "aza kubonakala"
+    },
+    {
+      "surface": "כל",
+      "gloss": "onke"
+    },
+    {
+      "surface": "זכורך",
+      "gloss": "amadoda akho"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ubuso"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ubuso"
+    },
+    {
+      "surface": "האדן",
+      "gloss": "ka-Adonay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "uElohim ka"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Sirayeli"
+    }
+  ],
+  "timestamp": "2026-09-18T06:22:20.263423305Z",
+  "model": "glm-5.3"
+}

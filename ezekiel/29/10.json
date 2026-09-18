@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 29:10",
+  "book": "ezekiel",
+  "lang": "xh",
+  "chapter": 29,
+  "translation": "Ngoko nangoko, yabona, ndi ngokuchasene nawe nakwiimilambo yakho, yaye ndiza kwenza ⟨את⟩ umhlaba waseMitsrayim ube ngowotshafileyo owolileyo, owalahlekileyo, usuka kuMigdoli waseSvene de kumda waseKushi.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "Ngoko nangoko"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "yabona, ndi"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ngokuchasene nawe"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "naku"
+    },
+    {
+      "surface": "יאריך",
+      "gloss": "iimilambo yakho"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "ndiza kwenza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umhlaba waseMitsrayim"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "umhlaba"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "waseMitsrayim"
+    },
+    {
+      "surface": "לחרבות",
+      "gloss": "ube ngowotshafileyo"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "owolileyo"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "owlahlekileyo"
+    },
+    {
+      "surface": "ממגדול",
+      "gloss": "usuka kuMigdoli"
+    },
+    {
+      "surface": "סונה",
+      "gloss": "waseSvene"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "de"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "kumda"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "waseKushi"
+    }
+  ],
+  "timestamp": "2026-09-18T13:20:31.020643505Z",
+  "model": "glm-5.3"
+}

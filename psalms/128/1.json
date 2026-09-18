@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 128:1",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 128,
+  "translation": "Ingoma yezinyuko. Ulanga makube kuwo wonke umntu oyesaba uYahwe, ohamba ezindleleni zakhe.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Ingoma"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "yezinyuko"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "Ulanga makube"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kuwo wonke"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "oyesaba"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "ההלך",
+      "gloss": "ohamba"
+    },
+    {
+      "surface": "בדרכיו",
+      "gloss": "ezindleleni zakhe"
+    }
+  ],
+  "timestamp": "2026-09-18T15:27:05.150136143Z",
+  "model": "glm-5.3"
+}

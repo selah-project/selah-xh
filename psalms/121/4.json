@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 121:4",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 121,
+  "translation": "Yabona, akayi kunqumama, akayi kulala, ogcinayo uSirayeli.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Yabona"
+    },
+    {
+      "surface": "לא",
+      "gloss": "akayi kunqumama"
+    },
+    {
+      "surface": "ינום",
+      "gloss": "kunqumama"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "akayi kulala"
+    },
+    {
+      "surface": "יישן",
+      "gloss": "kulala"
+    },
+    {
+      "surface": "שומר",
+      "gloss": "ogcinayo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "uSirayeli"
+    }
+  ],
+  "timestamp": "2026-09-18T15:26:45.399136542Z",
+  "model": "glm-5.3"
+}

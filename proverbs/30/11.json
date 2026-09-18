@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 30:11",
+  "book": "proverbs",
+  "lang": "xh",
+  "chapter": 30,
+  "translation": "⟨Kukho⟩ intsela ehoya ubawo wayo, ⟨את⟩ unina akamzukisi.",
+  "tokens": [
+    {
+      "surface": "דור",
+      "gloss": "intsela"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ubawo wayo"
+    },
+    {
+      "surface": "יקלל",
+      "gloss": "ehoya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "unina"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "unina"
+    },
+    {
+      "surface": "לא",
+      "gloss": "akamzukisi"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "ungamzukisi"
+    }
+  ],
+  "timestamp": "2026-09-18T15:58:27.211622876Z",
+  "model": "glm-5.3"
+}

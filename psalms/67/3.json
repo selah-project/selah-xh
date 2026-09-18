@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 67:3",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 67,
+  "translation": "ukuze indlela yakho iqondeke emhlabeni, intsindiso yakho kwiilwimi zonke.",
+  "tokens": [
+    {
+      "surface": "לדעת",
+      "gloss": "ukuze iqondeke"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "emhlabeni"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "indlela yakho"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "kwiilwimi zonke"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "iilwimi"
+    },
+    {
+      "surface": "ישועתך",
+      "gloss": "intsindiso yakho"
+    }
+  ],
+  "timestamp": "2026-09-18T14:54:42.419790158Z",
+  "model": "glm-5.3"
+}

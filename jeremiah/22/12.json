@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 22:12",
+  "book": "jeremiah",
+  "lang": "xh",
+  "chapter": 22,
+  "translation": "Kuba kwindawo abamjisele kona yena, apho uza kufa; ⟨את⟩ le ndawo akayi kuyibona kwakhona.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "kwindawo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "abamjisele kona"
+    },
+    {
+      "surface": "הגלו",
+      "gloss": "abamjisele"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "yena"
+    },
+    {
+      "surface": "שם",
+      "gloss": "apho"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "uza kufa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "le ndawo"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "le ndawo"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "le"
+    },
+    {
+      "surface": "לא",
+      "gloss": "akayi"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "kuyibona"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "kwakhona"
+    }
+  ],
+  "timestamp": "2026-09-18T12:10:57.664676920Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 119:23",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 119,
+  "translation": "Nangona iinkosi zazihlela zendithetha ngokuchaseneyo, umkhonzi wakho wayecingelela kwiimiso zakho.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "nangona"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "zazihlela"
+    },
+    {
+      "surface": "שרים",
+      "gloss": "iinkosi"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ndi-"
+    },
+    {
+      "surface": "נדברו",
+      "gloss": "zendithetha ngokuchaseneyo"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "umkhonzi wakho"
+    },
+    {
+      "surface": "ישיח",
+      "gloss": "wayecingelela"
+    },
+    {
+      "surface": "בחקיך",
+      "gloss": "kwiimiso zakho"
+    }
+  ],
+  "timestamp": "2026-09-18T15:23:47.866260210Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 79:6",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 79,
+  "translation": "Thela ulaka lwakho kwiiintlanga ezingakwazanga, nakwiimbuso ezingabizanga ngeGama lakho.",
+  "tokens": [
+    {
+      "surface": "שפך",
+      "gloss": "Thela"
+    },
+    {
+      "surface": "חמתך",
+      "gloss": "ulaka lwakho"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "iiintlanga"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ezi-"
+    },
+    {
+      "surface": "לא",
+      "gloss": "zinga-"
+    },
+    {
+      "surface": "ידעוך",
+      "gloss": "kwazanga"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "naku-"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "iimbuso"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ezi-"
+    },
+    {
+      "surface": "בשמך",
+      "gloss": "ngeGama lakho"
+    },
+    {
+      "surface": "לא",
+      "gloss": "zinga-"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "bizanga"
+    }
+  ],
+  "timestamp": "2026-09-18T15:05:32.458425790Z",
+  "model": "glm-5.3"
+}

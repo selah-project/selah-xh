@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 72:5",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 72,
+  "translation": "Bayakoyika uYahwe ngeli langa, nakungaphambili kwenyanga, izizukulwana zobuzukulwana.",
+  "tokens": [
+    {
+      "surface": "ייראוך",
+      "gloss": "bayakoyika uYahwe"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ngeli"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "ilanga"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "nakungaphambili kwe"
+    },
+    {
+      "surface": "ירח",
+      "gloss": "inyanga"
+    },
+    {
+      "surface": "דור",
+      "gloss": "izizukulwana"
+    },
+    {
+      "surface": "דורים",
+      "gloss": "zobuzukulwana"
+    }
+  ],
+  "timestamp": "2026-09-18T14:58:34.884892158Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 63:7",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 63,
+  "translation": "Xa ndikukhumbula wena esithubeni sam lokulala, kwiinxeba zabo zangaphakathi ebusuku ndicingisisa ngawe.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Xa"
+    },
+    {
+      "surface": "זכרתיך",
+      "gloss": "ndikukhumbula wena"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "יצועי",
+      "gloss": "esithubeni sam lokulala"
+    },
+    {
+      "surface": "באשמרות",
+      "gloss": "kwiinxeba zangaphakathi ebusuku"
+    },
+    {
+      "surface": "אהגה",
+      "gloss": "ndicingisisa"
+    },
+    {
+      "surface": "בך",
+      "gloss": "ngawe"
+    }
+  ],
+  "timestamp": "2026-09-18T14:54:38.865677329Z",
+  "model": "glm-5.3"
+}

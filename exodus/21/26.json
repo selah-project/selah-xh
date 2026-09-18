@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 21:26",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 21,
+  "translation": "Ukuba umntu uthe wabetha ⟨את⟩ iliso leenkwaba zakhe okanye ⟨את⟩ iliso lommeli wakhe, walitshabalalisa, makamkhulule engakhululekanga-nyani ngenxa yeliso lakhe.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "Ukuba"
+    },
+    {
+      "surface": "יכה",
+      "gloss": "wabetha"
+    },
+    {
+      "surface": "איש",
+      "gloss": "umntu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iliso"
+    },
+    {
+      "surface": "עין",
+      "gloss": "iliso"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "leenkwaba zakhe"
+    },
+    {
+      "surface": "או",
+      "gloss": "okanye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iliso"
+    },
+    {
+      "surface": "עין",
+      "gloss": "iliso"
+    },
+    {
+      "surface": "אמתו",
+      "gloss": "lommeli wakhe"
+    },
+    {
+      "surface": "ושחתה",
+      "gloss": "walitshabalalisa"
+    },
+    {
+      "surface": "לחפשי",
+      "gloss": "engakhululekileyo"
+    },
+    {
+      "surface": "ישלחנו",
+      "gloss": "makamkhulule"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ngenxa"
+    },
+    {
+      "surface": "עינו",
+      "gloss": "yeliso lakhe"
+    }
+  ],
+  "timestamp": "2026-09-18T06:08:22.771131892Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "joshua 12:12",
+  "book": "joshua",
+  "lang": "xh",
+  "chapter": 12,
+  "translation": "Inkosi yaseEgloni, enye; inkosi yaseGezeri, enye;",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "inkosi"
+    },
+    {
+      "surface": "עגלון",
+      "gloss": "yaseEgloni"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "enye"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "inkosi"
+    },
+    {
+      "surface": "גזר",
+      "gloss": "yaseGezeri"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "enye"
+    }
+  ],
+  "timestamp": "2026-09-18T08:35:51.897310149Z",
+  "model": "glm-5.3"
+}

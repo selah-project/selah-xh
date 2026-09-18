@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 11:7",
+  "book": "ecclesiastes",
+  "lang": "xh",
+  "chapter": 11,
+  "translation": "Kwaye kokumnandi kukukhanya, kokulungileyo kwamehlo ukubona ⟨את⟩ ilanga.",
+  "tokens": [
+    {
+      "surface": "ומתוק",
+      "gloss": "kwaye kokumnandi"
+    },
+    {
+      "surface": "האור",
+      "gloss": "ukukhanya"
+    },
+    {
+      "surface": "וטוב",
+      "gloss": "kokulungileyo"
+    },
+    {
+      "surface": "לעינים",
+      "gloss": "kwamehlo"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "ukubona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ilanga"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "ilanga"
+    }
+  ],
+  "timestamp": "2026-09-18T16:26:57.621749240Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "isaiah 19:22",
+  "book": "isaiah",
+  "lang": "xh",
+  "chapter": 19,
+  "translation": "UYahwe uza kubetha ⟨את⟩ iMitsrayim, ayabetha ayaphilisa; baza kubuyela kuYahwe, yaye uyakuphulaphula wabo, abaphilise.",
+  "tokens": [
+    {
+      "surface": "ונגף",
+      "gloss": "uza kubetha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iMitsrayim"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "iMitsrayim"
+    },
+    {
+      "surface": "נגף",
+      "gloss": "ayabetha"
+    },
+    {
+      "surface": "ורפוא",
+      "gloss": "ayaphilisa"
+    },
+    {
+      "surface": "ושבו",
+      "gloss": "baza kubuyela"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "ונעתר",
+      "gloss": "uyakuphulaphula"
+    },
+    {
+      "surface": "להם",
+      "gloss": "wabo"
+    },
+    {
+      "surface": "ורפאם",
+      "gloss": "abaphilise"
+    }
+  ],
+  "timestamp": "2026-09-18T11:13:43.797594163Z",
+  "model": "glm-5.3"
+}

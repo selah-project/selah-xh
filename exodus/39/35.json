@@ -1,0 +1,44 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "exodus 39:35",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 39,
+  "translation": "⟨את⟩ Isikhongozeli sobungqina namarhabhu ayo, kunye ⟨את⟩ nendawo yokuxolelwa.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Isikhongozeli sobungqina"
+    },
+    {
+      "surface": "ארן",
+      "gloss": "Isikhongozeli"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "sobungqina"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kunye ⟨את⟩",
+      "marks": "namarhabhu ayo"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "amarhabhu ayo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kunye ⟨את⟩",
+      "marks": "nendawo yokuxolelwa"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "nendawo yokuxolelwa"
+    }
+  ],
+  "timestamp": "2026-09-18T06:31:21.737870939Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 5:1",
+  "book": "deuteronomy",
+  "lang": "xh",
+  "chapter": 5,
+  "translation": "Wabizela uMoshe uYisraeli onke, wathi kubo: “Mameleni, Yisraeli, ⟨את⟩ imigaqo ⟨את⟩ nemigwebo endiyithethayo kwiindlebe zenu namhlanje; nize niyifunda, niyazigcina, niyenze.”",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "wabizela"
+    },
+    {
+      "surface": "משה",
+      "gloss": "uMoshe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "כל",
+      "gloss": "onke"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "uYisraeli"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "kubo"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "Mameleni"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "imigaqo"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "imigaqo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ nemigwebo",
+      "marks": "imigwebo"
+    },
+    {
+      "surface": "המשפטים",
+      "gloss": "imigwebo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "endiyithethayo"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ndi-"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "yithethayo"
+    },
+    {
+      "surface": "באזניכם",
+      "gloss": "kwiindlebe zenu"
+    },
+    {
+      "surface": "היום",
+      "gloss": "namhlanje"
+    },
+    {
+      "surface": "ולמדתם",
+      "gloss": "nize niyifunda"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "nize niyifunda"
+    },
+    {
+      "surface": "ושמרתם",
+      "gloss": "niyazigcina"
+    },
+    {
+      "surface": "לעשתם",
+      "gloss": "niyenze"
+    }
+  ],
+  "timestamp": "2026-09-18T07:58:14.362231600Z",
+  "model": "glm-5.3"
+}

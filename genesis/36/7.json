@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 36:7",
+  "book": "genesis",
+  "lang": "xh",
+  "chapter": 36,
+  "translation": "Kuba ubutyebi babo babuninzi kangangokuba benganako ukuhlala kunye, lizwe lokuhlala kwabo ukhangelo belingakwazi ukubathwala, ngenxa yemfuyo yabo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "היה",
+      "gloss": "babu-"
+    },
+    {
+      "surface": "רכושם",
+      "gloss": "ubutyebi babo"
+    },
+    {
+      "surface": "רב",
+      "gloss": "babuninzi kangangokuba"
+    },
+    {
+      "surface": "משבת",
+      "gloss": "ukuhlala"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "kunye"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "lingakwazi"
+    },
+    {
+      "surface": "יכלה",
+      "gloss": "-kwazi"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "lizwe"
+    },
+    {
+      "surface": "מגוריהם",
+      "gloss": "lokuhlala kwabo ukhangelo"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "ukubathwala"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ubutyebi babo"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "ngenxa ye-"
+    },
+    {
+      "surface": "מקניהם",
+      "gloss": "imfuyo yabo"
+    }
+  ],
+  "timestamp": "2026-09-18T05:32:38.390602770Z",
+  "model": "glm-5.3"
+}

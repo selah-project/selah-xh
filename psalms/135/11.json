@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 135:11",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 135,
+  "translation": "USihoni, inkosi yabaEmori, no-Ogi, inkosi yaseBhashani, nakuzo zonke imibuso yaseKhenana;",
+  "tokens": [
+    {
+      "surface": "לסיחון",
+      "gloss": "USihoni"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "inkosi"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "yabaEmori"
+    },
+    {
+      "surface": "ולעוג",
+      "gloss": "no-Ogi"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "inkosi"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "yaseBhashani"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "nakuzo zonke"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "imibuso"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "yaseKhenana"
+    }
+  ],
+  "timestamp": "2026-09-18T15:27:53.912836970Z",
+  "model": "glm-5.3"
+}

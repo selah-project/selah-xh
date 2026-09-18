@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 37:8",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 37,
+  "translation": "Ikerubu elinye ekupheleni kweli cala, ikerubu elinye ekupheleni kwelo cala; avela kwikhaporeti wenza ⟨את⟩ amakerubu emacala amabini ayo.",
+  "tokens": [
+    {
+      "surface": "כרוב",
+      "gloss": "Ikerubu"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "elinye"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "ekupheleni"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "kweli cala"
+    },
+    {
+      "surface": "וכרוב",
+      "gloss": "ikерubu elinye"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "elinye"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "ekupheleni"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "kwelo cala"
+    },
+    {
+      "surface": "מן",
+      "gloss": "avela"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "kwikhaporeti"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "wenza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amakerubu"
+    },
+    {
+      "surface": "הכרבים",
+      "gloss": "amakerubu"
+    },
+    {
+      "surface": "משני",
+      "gloss": "amabini"
+    },
+    {
+      "surface": "קצוותו",
+      "gloss": "emacala ayo"
+    }
+  ],
+  "timestamp": "2026-09-18T06:27:00.398922207Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 1:12",
+  "book": "1-kings",
+  "lang": "xh",
+  "chapter": 1,
+  "translation": "Ngoku ke hamba, ndiza kukucebisa ndicela icebo, uze uphuncule ⟨את⟩ umphefumlo wakho no⟨את⟩ umphefumlo wonyana wakho uShelomo.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "ngoku ke"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "hamba"
+    },
+    {
+      "surface": "איעצך",
+      "gloss": "ndiza kukucebisa"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ndicela"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "icebo"
+    },
+    {
+      "surface": "ומלטי",
+      "gloss": "uze uphuncule"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umphefumlo wakho"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "umphefumlo wakho"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "umphefumlo wonyana wakho"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "umphefumlo"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "wonyana wakho"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "uShelomo"
+    }
+  ],
+  "timestamp": "2026-09-18T10:06:38.803213954Z",
+  "model": "glm-5.3"
+}

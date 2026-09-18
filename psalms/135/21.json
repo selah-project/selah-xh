@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 135:21",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 135,
+  "translation": "Makabe lingcwele uYahwe usuka kwiTsiyoni, ohlela eYerushalayimi. Dankani uYah.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Makabe lingcwele"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "מציון",
+      "gloss": "usuka kwiTsiyoni"
+    },
+    {
+      "surface": "שכן",
+      "gloss": "ohlela"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "eYerushalayimi"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "Dankani"
+    },
+    {
+      "surface": "יה",
+      "gloss": "uYah"
+    }
+  ],
+  "timestamp": "2026-09-18T15:29:30.775638325Z",
+  "model": "glm-5.3"
+}

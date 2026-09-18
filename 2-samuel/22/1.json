@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 22:1",
+  "book": "2-samuel",
+  "lang": "xh",
+  "chapter": 22,
+  "translation": "UDavide wathetha kuYahwe ⟨את⟩ amagama ale ngoma ngedina uYahwe wamkhulula ⟨אתו⟩ esandleni seziphahlisa zonke, nasemandleni kaShawuli.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "wathetha"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "UDavide"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kuYahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amagama ale ngoma"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "amagama"
+    },
+    {
+      "surface": "השירה",
+      "gloss": "ale ngoma"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "le"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ngedina"
+    },
+    {
+      "surface": "הציל",
+      "gloss": "wamkhulula"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "uDavide"
+    },
+    {
+      "surface": "מכף",
+      "gloss": "esandleni seziphahlisa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zonke"
+    },
+    {
+      "surface": "איביו",
+      "gloss": "iintlawa zakhe"
+    },
+    {
+      "surface": "ומכף",
+      "gloss": "nasemandleni seziphahlisa"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "kaShawuli"
+    }
+  ],
+  "timestamp": "2026-09-18T10:03:05.581328212Z",
+  "model": "glm-5.3"
+}

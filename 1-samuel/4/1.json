@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 4:1",
+  "book": "1-samuel",
+  "lang": "xh",
+  "chapter": 4,
+  "translation": "Yaye elizwi lika-Samuweli lafikelela kuwo onke u-Israyeli; yaye u-Israyeli waphuma aya kukumelana neFilisthim enkolini, waza wamisa (ibala lakhe) e-Evene-Ezer, yaye iFilisthim yamisa (ibala layo) e-Afeka.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "yaye"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "elizwi"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "lika-Samuweli"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "kuwo onke"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "u-Israyeli"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "waphuma"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "u-Israyeli"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "aya kukumelana"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "neFilisthim"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "enkolini"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "wamisa (ibala)"
+    },
+    {
+      "surface": "על",
+      "gloss": "e-"
+    },
+    {
+      "surface": "האבן",
+      "gloss": "(intyatyambo)"
+    },
+    {
+      "surface": "העזר",
+      "gloss": "i-Evene-Ezer"
+    },
+    {
+      "surface": "ופלשתים",
+      "gloss": "yaye iFilisthim"
+    },
+    {
+      "surface": "חנו",
+      "gloss": "yamisa (ibala)"
+    },
+    {
+      "surface": "באפק",
+      "gloss": "e-Afeka"
+    }
+  ],
+  "timestamp": "2026-09-18T09:17:20.990765564Z",
+  "model": "glm-5.3"
+}

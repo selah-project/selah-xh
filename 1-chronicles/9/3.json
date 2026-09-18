@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 9:3",
+  "book": "1-chronicles",
+  "lang": "xh",
+  "chapter": 9,
+  "translation": "Yaye eYerushalayimi babehlele abavela konyana kaYehudha, nakwabonyana kaBinyamin, nakwabonyana ka-Efrayim noManasse.",
+  "tokens": [
+    {
+      "surface": "ובירושלם",
+      "gloss": "Yaye eYerushalayimi"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "babehlele"
+    },
+    {
+      "surface": "מן",
+      "gloss": "abavela"
+    },
+    {
+      "surface": "בני",
+      "gloss": "konyana ka-"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudha"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "nakwa-"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bonyana ka-"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Binyamin"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "nakwa-"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bonyana ka-"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    },
+    {
+      "surface": "ומנשה",
+      "gloss": "noManasse"
+    }
+  ],
+  "timestamp": "2026-09-18T16:54:27.403132268Z",
+  "model": "glm-5.3"
+}

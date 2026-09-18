@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ecclesiastes 1:14",
+  "book": "ecclesiastes",
+  "lang": "xh",
+  "chapter": 1,
+  "translation": "Ndandibona ⟨את⟩ zonke iintshukumo ezinziweyo ngaphantsi kwelanga; kwaye, qaphela, konke kuluthelegu nokuzingela umoya.",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "Ndandibona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zonke iintshukumo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zonke"
+    },
+    {
+      "surface": "המעשים",
+      "gloss": "iintshukumo"
+    },
+    {
+      "surface": "שנעשו",
+      "gloss": "ezinziweyo"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ngaphantsi"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "kwelanga"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "kwaye, qaphela"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "konke"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "kuluthelegu"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "nokuzingela"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "umoya"
+    }
+  ],
+  "timestamp": "2026-09-18T16:23:46.760998348Z",
+  "model": "glm-5.3"
+}

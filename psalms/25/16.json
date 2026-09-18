@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 25:16",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 25,
+  "translation": "Jonga kum undincede ngenceba, kuba ndiyedwa, yaye ndiswelekile.",
+  "tokens": [
+    {
+      "surface": "פנה",
+      "gloss": "jonga"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kum"
+    },
+    {
+      "surface": "וחנני",
+      "gloss": "undincede ngenceba"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "יחיד",
+      "gloss": "ndiyedwa"
+    },
+    {
+      "surface": "ועני",
+      "gloss": "yaye ndiswelekile"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mna"
+    }
+  ],
+  "timestamp": "2026-09-18T14:37:33.657312699Z",
+  "model": "glm-5.3"
+}

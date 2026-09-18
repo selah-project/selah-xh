@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 102:18",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 102,
+  "translation": "Wajonga ngamehlo ithandazo yosweleyo, wayengayihoyanga ithandazo yabo.",
+  "tokens": [
+    {
+      "surface": "פנה",
+      "gloss": "wajonga ngamehlo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwakuthi"
+    },
+    {
+      "surface": "תפלת",
+      "gloss": "ithandazo"
+    },
+    {
+      "surface": "הערער",
+      "gloss": "yosweleyo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "wayengayihoyanga"
+    },
+    {
+      "surface": "בזה",
+      "gloss": "-hoya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ithandazo yabo"
+    },
+    {
+      "surface": "תפלתם",
+      "gloss": "ithandazo yabo"
+    }
+  ],
+  "timestamp": "2026-09-18T15:13:52.654431488Z",
+  "model": "glm-5.3"
+}

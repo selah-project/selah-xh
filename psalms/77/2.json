@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 77:2",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 77,
+  "translation": "Ilizwi lam liye kuElohim, ndaza ndakhala; ilizwi lam liye kuElohim, waza wandivulela indlebe.",
+  "tokens": [
+    {
+      "surface": "קולי",
+      "gloss": "Ilizwi lam"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ואצעקה",
+      "gloss": "ndaza ndakhala"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "Ilizwi lam"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "והאזין",
+      "gloss": "waza wandivulela indlebe"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kum"
+    }
+  ],
+  "timestamp": "2026-09-18T15:01:55.654254370Z",
+  "model": "glm-5.3"
+}

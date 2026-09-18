@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 19:15",
+  "book": "1-chronicles",
+  "lang": "xh",
+  "chapter": 19,
+  "translation": "Amaxhosa ka-Amon, esabona ukuba i-Aram ibalekile, nababo babaleka phambi kuAbhishayi umnakwabo, bangena esixekweni; waza uYowavhi wangena eYerushalayimi.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "Amaxhosa ka-"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Amon"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "esabona"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ukuba"
+    },
+    {
+      "surface": "נס",
+      "gloss": "ibalekile"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "i-Aram"
+    },
+    {
+      "surface": "וינוסו",
+      "gloss": "babaleka"
+    },
+    {
+      "surface": "גם",
+      "gloss": "nababo"
+    },
+    {
+      "surface": "הם",
+      "gloss": "bo"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "phambi ku-"
+    },
+    {
+      "surface": "אבשי",
+      "gloss": "Abhishayi"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "umnakwabo"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "bangena"
+    },
+    {
+      "surface": "העירה",
+      "gloss": "esixekweni"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "wangena"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "uYowavhi"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "eYerushalayimi"
+    }
+  ],
+  "timestamp": "2026-09-18T16:57:49.164005536Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 35:1",
+  "book": "isaiah",
+  "lang": "xh",
+  "chapter": 35,
+  "translation": "Iintlaka nendawo etshonileyo za kuvuya; i-araba iza kuvuya, ityale iintyatyambo njengeliliume.",
+  "tokens": [
+    {
+      "surface": "יששום",
+      "gloss": "za kuvuya"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "iintlaka"
+    },
+    {
+      "surface": "וציה",
+      "gloss": "nendawo etshonileyo"
+    },
+    {
+      "surface": "ותגל",
+      "gloss": "iza kuvuya"
+    },
+    {
+      "surface": "ערבה",
+      "gloss": "i-araba"
+    },
+    {
+      "surface": "ותפרח",
+      "gloss": "ityale iintyatyambo"
+    },
+    {
+      "surface": "כחבצלת",
+      "gloss": "njengeliliume"
+    }
+  ],
+  "timestamp": "2026-09-18T11:26:52.838385956Z",
+  "model": "glm-5.3"
+}

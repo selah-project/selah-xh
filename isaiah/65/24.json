@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "isaiah 65:24",
+  "book": "isaiah",
+  "lang": "xh",
+  "chapter": 65,
+  "translation": "Iya kuba njalo: ngaphambi kokuba bambize, mna ndisaphendula; ngelixa besethetha, mna ndisiva.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "iya kuba njalo"
+    },
+    {
+      "surface": "טרם",
+      "gloss": "ngaphambi kokuba"
+    },
+    {
+      "surface": "יקראו",
+      "gloss": "bambize"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "mna"
+    },
+    {
+      "surface": "אענה",
+      "gloss": "ndisaphendula"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ngelixa"
+    },
+    {
+      "surface": "הם",
+      "gloss": "be-"
+    },
+    {
+      "surface": "מדברים",
+      "gloss": "sethetha"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "mna"
+    },
+    {
+      "surface": "אשמע",
+      "gloss": "ndisiva"
+    }
+  ],
+  "timestamp": "2026-09-18T11:49:22.697050606Z",
+  "model": "glm-5.3"
+}

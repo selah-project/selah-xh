@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 9:3",
+  "book": "isaiah",
+  "lang": "xh",
+  "chapter": 9,
+  "translation": "Kuba ⟨את⟩ iyoke yesithwalo sawo, ⟨את⟩ intonga yomqolo wawo — isikhova somcinezeli wawo — uyiphulile njengosuku laseMidiyani.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iyoke yesithwalo sawo"
+    },
+    {
+      "surface": "על",
+      "gloss": "iyoke"
+    },
+    {
+      "surface": "סבלו",
+      "gloss": "yesithwalo sawo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "intonga yomqolo wawo"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "intonga"
+    },
+    {
+      "surface": "שכמו",
+      "gloss": "yomqolo wawo"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "isikhova"
+    },
+    {
+      "surface": "הנגש",
+      "gloss": "somcinezeli"
+    },
+    {
+      "surface": "בו",
+      "gloss": "wawo"
+    },
+    {
+      "surface": "החתת",
+      "gloss": "uyiphulile"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "njengosuku"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "laseMidiyani"
+    }
+  ],
+  "timestamp": "2026-09-18T11:08:02.722062867Z",
+  "model": "glm-5.3"
+}

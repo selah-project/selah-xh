@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 104:22",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 104,
+  "translation": "Ilanga liphuma, iziqokelela, zilala kwiindawo zazo zokuhlala.",
+  "tokens": [
+    {
+      "surface": "תזרח",
+      "gloss": "liphuma (ilanga)"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "ilanga"
+    },
+    {
+      "surface": "יאספון",
+      "gloss": "iziqokelela"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "מעונתם",
+      "gloss": "iindawo zazo zokuhlala"
+    },
+    {
+      "surface": "ירבצון",
+      "gloss": "zilala"
+    }
+  ],
+  "timestamp": "2026-09-18T15:13:30.602558136Z",
+  "model": "glm-5.3"
+}

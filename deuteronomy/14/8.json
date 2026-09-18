@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 14:8",
+  "book": "deuteronomy",
+  "lang": "xh",
+  "chapter": 14,
+  "translation": "No⟨את⟩ ihagu, kuba ihlula umkhondo kodwa ayinam ilaysha, ingcolileyo kuni; enyameni yazo ningeke nidla, nakwizidumbu zawo ningeke nithinte.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ihagu"
+    },
+    {
+      "surface": "החזיר",
+      "gloss": "ihagu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "מפריס",
+      "gloss": "ihlula"
+    },
+    {
+      "surface": "פרסה",
+      "gloss": "umkhondo"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yona"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kodwa ayinam"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "ilaysha"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "ingcolileyo"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yona"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kuni"
+    },
+    {
+      "surface": "מבשרם",
+      "gloss": "enyameni yazo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ngeke"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "nidla"
+    },
+    {
+      "surface": "ובנבלתם",
+      "gloss": "nakwizidumbu zawo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ngeke"
+    },
+    {
+      "surface": "תגעו",
+      "gloss": "nithinte"
+    }
+  ],
+  "timestamp": "2026-09-18T08:07:55.709837014Z",
+  "model": "glm-5.3"
+}

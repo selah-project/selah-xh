@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 5:22",
+  "book": "proverbs",
+  "lang": "xh",
+  "chapter": 5,
+  "translation": "Iziphambeko zakhe zimziba ⟨את⟩ lowo womdiki, yaye ezintambo zeesono zakhe uya kubambelelwa kuzo.",
+  "tokens": [
+    {
+      "surface": "עוונותיו",
+      "gloss": "iziphambeko zakhe"
+    },
+    {
+      "surface": "ילכדנו",
+      "gloss": "zimziba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lowo womdiki"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "lowo womdiki"
+    },
+    {
+      "surface": "ובחבלי",
+      "gloss": "ezintambo"
+    },
+    {
+      "surface": "חטאתו",
+      "gloss": "zeesono zakhe"
+    },
+    {
+      "surface": "יתמך",
+      "gloss": "uya kubambelelwa"
+    }
+  ],
+  "timestamp": "2026-09-18T15:36:51.327232481Z",
+  "model": "glm-5.3"
+}

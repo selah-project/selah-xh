@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 1:1",
+  "book": "deuteronomy",
+  "lang": "xh",
+  "chapter": 1,
+  "translation": "Ezi ngamagama awawuthethileyo uMoshe kuwo onke uIsrayeli ngaphesheya koMlambo iYordan, elangeni, eludakeni, oluthe nkqo kweZibungu, phakathi kweParan nangeTopheli nangeLabani nangeHatsereyi nangeDi-Zahabu.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Ezi"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "ngamagama"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "la"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "awawuthethileyo"
+    },
+    {
+      "surface": "משה",
+      "gloss": "uMoshe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "כל",
+      "gloss": "onke"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "uIsrayeli"
+    },
+    {
+      "surface": "בעבר",
+      "gloss": "ngaphesheya"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "koMlambo iYordan"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "elangeni"
+    },
+    {
+      "surface": "בערבה",
+      "gloss": "eludakeni"
+    },
+    {
+      "surface": "מול",
+      "gloss": "oluthe nkqo"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "kweZibungu"
+    },
+    {
+      "surface": "בין",
+      "gloss": "phakathi"
+    },
+    {
+      "surface": "פארן",
+      "gloss": "kweParan"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "nange"
+    },
+    {
+      "surface": "תפל",
+      "gloss": "iTopheli"
+    },
+    {
+      "surface": "ולבן",
+      "gloss": "nangeLabani"
+    },
+    {
+      "surface": "וחצרת",
+      "gloss": "nangeHatsereyi"
+    },
+    {
+      "surface": "ודי",
+      "gloss": "nangeDi"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "Zahabu"
+    }
+  ],
+  "timestamp": "2026-09-18T07:55:39.470573319Z",
+  "model": "glm-5.3"
+}

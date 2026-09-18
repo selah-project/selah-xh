@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 14:30",
+  "book": "leviticus",
+  "lang": "xh",
+  "chapter": 14,
+  "translation": "Waza uza kukwenzela ⟨את⟩ enye yezintatha okanye enye yezintsana zejoni, kuloo nto isandla sakhe singayifikelela kuyo.",
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "waza uza kukwenzela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "enye (yezintatha okanye iijoni)"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "enye"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ye-"
+    },
+    {
+      "surface": "התרים",
+      "gloss": "zintatha"
+    },
+    {
+      "surface": "או",
+      "gloss": "okanye"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kwe-"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ezintsana ze-"
+    },
+    {
+      "surface": "היונה",
+      "gloss": "joni"
+    },
+    {
+      "surface": "מאשר",
+      "gloss": "kuloo nto"
+    },
+    {
+      "surface": "תשיג",
+      "gloss": "isandla sakhe singayifikelela"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "kuyo"
+    }
+  ],
+  "timestamp": "2026-09-18T06:47:57.448728468Z",
+  "model": "glm-5.3"
+}

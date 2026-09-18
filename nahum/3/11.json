@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "nahum 3:11",
+  "book": "nahum",
+  "lang": "xh",
+  "chapter": 3,
+  "translation": "Nawe uza kudakumba, uza kufihlwa; nawe uza kufuna isikhuseleko ngenxa yomchasi.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "nawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "wena"
+    },
+    {
+      "surface": "תשכרי",
+      "gloss": "uza kudakumba"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "uza kuba"
+    },
+    {
+      "surface": "נעלמה",
+      "gloss": "ufihlwe"
+    },
+    {
+      "surface": "גם",
+      "gloss": "nawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "wena"
+    },
+    {
+      "surface": "תבקשי",
+      "gloss": "uza kufuna"
+    },
+    {
+      "surface": "מעוז",
+      "gloss": "isikhuseleko"
+    },
+    {
+      "surface": "מאויב",
+      "gloss": "ngenxa yomchasi"
+    }
+  ],
+  "timestamp": "2026-09-18T14:06:23.888000678Z",
+  "model": "glm-5.3"
+}

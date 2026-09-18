@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "amos 6:12",
+  "book": "amos",
+  "lang": "xh",
+  "chapter": 6,
+  "translation": "Ingaba amahashe ayagijima ngentaba yodongwe? Ingaba kukho oza kulima ngeenkomo? Kuba niguqule isigwebo laba yiboli, nesiqhamo sobulungisa saba nguwaka.",
+  "tokens": [
+    {
+      "surface": "הירצון",
+      "gloss": "ayagijima na"
+    },
+    {
+      "surface": "בסלע",
+      "gloss": "ngentaba yodongwe"
+    },
+    {
+      "surface": "סוסים",
+      "gloss": "amahashe"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ingaba"
+    },
+    {
+      "surface": "יחרוש",
+      "gloss": "kulima"
+    },
+    {
+      "surface": "בבקרים",
+      "gloss": "ngeenkomo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "הפכתם",
+      "gloss": "niguqule"
+    },
+    {
+      "surface": "לראש",
+      "gloss": "labha yiboli"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "isigwebo"
+    },
+    {
+      "surface": "ופרי",
+      "gloss": "nesiqhamo"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "sobulungisa"
+    },
+    {
+      "surface": "ללענה",
+      "gloss": "saba nguwaka"
+    }
+  ],
+  "timestamp": "2026-09-18T13:56:11.187080044Z",
+  "model": "glm-5.3"
+}

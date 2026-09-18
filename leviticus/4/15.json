@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 4:15",
+  "book": "leviticus",
+  "lang": "xh",
+  "chapter": 4,
+  "translation": "Baza oomkhulu boluntu bobeka iintonga zabo phezu kweentloko yenkunzi, phambi kuYahwe; inkunzi yaza yabulala-wa ⟨את⟩ iye phambi kuYahwe.",
+  "tokens": [
+    {
+      "surface": "וסמכו",
+      "gloss": "bobeka"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "oomkhulu"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "boluntu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iintonga zabo"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "iintonga zabo"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "kweentloko"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "yenkunzi"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "phambi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kuYahwe"
+    },
+    {
+      "surface": "ושחט",
+      "gloss": "yabulala-wa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "inkunzi"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "inkunzi"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "phambi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kuYahwe"
+    }
+  ],
+  "timestamp": "2026-09-18T06:38:47.231925022Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 28:6",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 28,
+  "translation": "Kwaye bazakwenza ⟨את⟩ i-efodi: igolide, itekheleti, iargamani, itolaathi yeshani, nelineni olutsalelweyo olungcamileyo — umsebenzi wokuluka ocwangcisiweyo.",
+  "tokens": [
+    {
+      "surface": "ועשו",
+      "gloss": "bazakwenza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i-efodi"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "i-efodi"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "igolide"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "itekheleti"
+    },
+    {
+      "surface": "וארגמן",
+      "gloss": "iargamani"
+    },
+    {
+      "surface": "תולעת",
+      "gloss": "itolaathi"
+    },
+    {
+      "surface": "שני",
+      "gloss": "yeshani"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "elineni olungcamileyo"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "olutsalelweyo"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "umsebenzi"
+    },
+    {
+      "surface": "חשב",
+      "gloss": "wokuluka ocwangcisiweyo"
+    }
+  ],
+  "timestamp": "2026-09-18T06:15:06.837536459Z",
+  "model": "glm-5.3"
+}

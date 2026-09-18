@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "exodus 12:36",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 12,
+  "translation": "Yaye uYahwe wanikeza uluntu ucumo emehlweni abo baseMitsrayim, yaye bazinceda <abaseMitsrayim> ngokwento abayicelayo; baza ke baphanga kwiMitsrayim ⟨את⟩ <konke okwayo>.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "Yaye uYahwe"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "wanikeza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ucumo"
+    },
+    {
+      "surface": "חן",
+      "gloss": "ucumo"
+    },
+    {
+      "surface": "העם",
+      "gloss": "uluntu"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "emehlweni"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "abo baseMitsrayim"
+    },
+    {
+      "surface": "וישאלום",
+      "gloss": "bazinceda"
+    },
+    {
+      "surface": "וינצלו",
+      "gloss": "baphanga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iMitsrayim"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "kwiMitsrayim"
+    }
+  ],
+  "timestamp": "2026-09-18T06:00:39.538075840Z",
+  "model": "glm-5.3"
+}

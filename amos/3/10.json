@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "amos 3:10",
+  "book": "amos",
+  "lang": "xh",
+  "chapter": 3,
+  "translation": "Abazi ukwenza okulungileyo, uthe uYahwe — abo begcina ubundlobongela nobuthuthwane kwiiqonga zabo.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "A-"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "bazi"
+    },
+    {
+      "surface": "עשות",
+      "gloss": "ukwenza"
+    },
+    {
+      "surface": "נכחה",
+      "gloss": "okulungileyo"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "uthe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "האוצרים",
+      "gloss": "abo begcina"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "ubundlobongela"
+    },
+    {
+      "surface": "ושד",
+      "gloss": "nobuthuthwane"
+    },
+    {
+      "surface": "בארמנותיהם",
+      "gloss": "kwiiqonga zabo"
+    }
+  ],
+  "timestamp": "2026-09-18T13:53:00.059345574Z",
+  "model": "glm-5.3"
+}

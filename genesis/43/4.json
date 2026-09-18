@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 43:4",
+  "book": "genesis",
+  "lang": "xh",
+  "chapter": 43,
+  "translation": "Ukuba uvuma ukuthuma ⟨את⟩ umnakwethu ⟨את⟩ nathi, siya kuthi sibe siphelele ngokuthuthumela kuwe.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ukuba"
+    },
+    {
+      "surface": "ישך",
+      "gloss": "uvuma"
+    },
+    {
+      "surface": "משלח",
+      "gloss": "ukuthuma"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umnakwethu"
+    },
+    {
+      "surface": "אחינו",
+      "gloss": "umnakwethu"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ nathi"
+    },
+    {
+      "surface": "נרדה",
+      "gloss": "siya kuthi sibe siphelele"
+    },
+    {
+      "surface": "ונשברה",
+      "gloss": "ngokuthuthumela"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kuwe"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "ukutya"
+    }
+  ],
+  "timestamp": "2026-09-18T05:40:40.028568636Z",
+  "model": "glm-5.3"
+}

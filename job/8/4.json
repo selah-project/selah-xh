@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 8:4",
+  "book": "job",
+  "lang": "xh",
+  "chapter": 8,
+  "translation": "Ukuba oonyana bakho bamonakalisa ngokwakhe, wabanikele ngesandla sobukrelekrele babo.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ukuba"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "oonyana bakho"
+    },
+    {
+      "surface": "חטאו",
+      "gloss": "bamonakalisa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ngokwakhe"
+    },
+    {
+      "surface": "וישלחם",
+      "gloss": "wabanikele"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ngesandla"
+    },
+    {
+      "surface": "פשעם",
+      "gloss": "sobukrelekrele babo"
+    }
+  ],
+  "timestamp": "2026-09-18T16:02:09.864555114Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 46:7",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 46,
+  "translation": "Iintlanga zakhwaz' ukhwaza, ubukhosi butyabukile; wathi ngesandi lakhe, umhlaba wanyamalala.",
+  "tokens": [
+    {
+      "surface": "המו",
+      "gloss": "zakhwaz' ukhwaza"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "iintlanga"
+    },
+    {
+      "surface": "מטו",
+      "gloss": "butyabukile"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "ubukhosi"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "בקולו",
+      "gloss": "ngesandi lakhe"
+    },
+    {
+      "surface": "תמוג",
+      "gloss": "wanyamalala"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "umhlaba"
+    }
+  ],
+  "timestamp": "2026-09-18T14:47:48.578299029Z",
+  "model": "glm-5.3"
+}

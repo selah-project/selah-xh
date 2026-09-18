@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 11:10",
+  "book": "ezekiel",
+  "lang": "xh",
+  "chapter": 11,
+  "translation": "Ngephepha niya kuwa; emda we-Israel ndiya kunigweba; niza kwazi ukuba mna ndinguYahwe.",
+  "tokens": [
+    {
+      "surface": "בחרב",
+      "gloss": "ngephepha"
+    },
+    {
+      "surface": "תפלו",
+      "gloss": "niya kuwa"
+    },
+    {
+      "surface": "על",
+      "gloss": "e"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "mda"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "we-Israel"
+    },
+    {
+      "surface": "אשפוט",
+      "gloss": "ndiya kunigweba"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "ni"
+    },
+    {
+      "surface": "וידעתם",
+      "gloss": "niza kwazi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ukuba"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ndinguYahwe"
+    }
+  ],
+  "timestamp": "2026-09-18T12:57:25.373154188Z",
+  "model": "glm-5.3"
+}

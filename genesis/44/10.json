@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 44:10",
+  "book": "genesis",
+  "lang": "xh",
+  "chapter": 44,
+  "translation": "Wathi: “Nangoku, ngokwezwi lenu injalo: lowo umfunyanwa ⟨את⟩ kuye, yena uza kuba yinkonkaba yam; nina niyakuba nangenatyala.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "גם",
+      "gloss": "kananjalo"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "nangoku"
+    },
+    {
+      "surface": "כדבריכם",
+      "gloss": "ngokwezwi lenu"
+    },
+    {
+      "surface": "כן",
+      "gloss": "injalo"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yinto enjalo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "lowo"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "umfunyanwa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "le nto (isikomani) umfunyanwa kuye"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "uza kuba"
+    },
+    {
+      "surface": "לי",
+      "gloss": "yam"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "yinkonkaba"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "nina"
+    },
+    {
+      "surface": "תהיו",
+      "gloss": "niyakuba"
+    },
+    {
+      "surface": "נקים",
+      "gloss": "nangenatyala"
+    }
+  ],
+  "timestamp": "2026-09-18T05:41:02.031425400Z",
+  "model": "glm-5.3"
+}

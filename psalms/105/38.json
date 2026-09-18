@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "psalms 105:38",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 105,
+  "translation": "IMitsrayim zavuyiswa ekuphumeni kwabo, kuba ukoyika kwabo kwawe phezu kwabo.",
+  "tokens": [
+    {
+      "surface": "שמח",
+      "gloss": "zavuyiswa"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "iMitsrayim"
+    },
+    {
+      "surface": "בצאתם",
+      "gloss": "ekuphumeni kwabo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "kwawe"
+    },
+    {
+      "surface": "פחדם",
+      "gloss": "ukoyika kwabo"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "phezu kwabo"
+    }
+  ],
+  "timestamp": "2026-09-18T15:15:56.365028256Z",
+  "model": "glm-5.3"
+}

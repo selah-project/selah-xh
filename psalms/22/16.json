@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 22:16",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 22,
+  "translation": "Amandla am omile njengesiqhezu sepoti, ulwam lom lunamathelisele kwiiksi zam; undibekela ⟨othulini⟩ lokufa.",
+  "tokens": [
+    {
+      "surface": "יבש",
+      "gloss": "omile"
+    },
+    {
+      "surface": "כחרש",
+      "gloss": "njengesiqhezu sepoti"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "Amandla am"
+    },
+    {
+      "surface": "ולשוני",
+      "gloss": "ulwam lom"
+    },
+    {
+      "surface": "מדבק",
+      "gloss": "lunamathelisele"
+    },
+    {
+      "surface": "מלקוחי",
+      "gloss": "kwiiksi zam"
+    },
+    {
+      "surface": "ולעפר",
+      "gloss": "⟨othulini⟩"
+    },
+    {
+      "surface": "מות",
+      "gloss": "lokufa"
+    },
+    {
+      "surface": "תשפתני",
+      "gloss": "undibekela"
+    }
+  ],
+  "timestamp": "2026-09-18T14:35:06.615836992Z",
+  "model": "glm-5.3"
+}

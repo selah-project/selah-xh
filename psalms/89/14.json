@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 89:14",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 89,
+  "translation": "Kulowo ⟨⟨igalele⟩⟩ elinamandla; isandla sakho sinamandla, andla lakho olunene luphakamile.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "kulowo"
+    },
+    {
+      "surface": "זרוע",
+      "gloss": "⟨igalele⟩"
+    },
+    {
+      "surface": "עם",
+      "gloss": "elinamandla"
+    },
+    {
+      "surface": "גבורה",
+      "gloss": "(ubukhali)"
+    },
+    {
+      "surface": "תעז",
+      "gloss": "sinamandla"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "isandla sakho"
+    },
+    {
+      "surface": "תרום",
+      "gloss": "luphakamile"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "andla lakho olunene"
+    }
+  ],
+  "timestamp": "2026-09-18T15:08:04.011776293Z",
+  "model": "glm-5.3"
+}

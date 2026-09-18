@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 118:8",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 118,
+  "translation": "Kulungile ukubalekela kuYahwe kunokuthembeka kumntu.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "kulungile"
+    },
+    {
+      "surface": "לחסות",
+      "gloss": "ukubalekela"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "kuYahwe"
+    },
+    {
+      "surface": "מבטח",
+      "gloss": "kunokuthembeka"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "kumntu"
+    }
+  ],
+  "timestamp": "2026-09-18T15:21:59.832798409Z",
+  "model": "glm-5.3"
+}

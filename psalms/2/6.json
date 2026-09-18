@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 2:6",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 2,
+  "translation": "Kodwa mna ndithiyile inkosi yam phezu koTsiyoni, intaba yam engcwele.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "kodwa mna"
+    },
+    {
+      "surface": "נסכתי",
+      "gloss": "ndithiyile"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "inkosi yam"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu ko"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "oTsiyoni"
+    },
+    {
+      "surface": "הר",
+      "gloss": "intaba"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "engcwele yam"
+    }
+  ],
+  "timestamp": "2026-09-18T14:26:24.090686250Z",
+  "model": "glm-5.3"
+}

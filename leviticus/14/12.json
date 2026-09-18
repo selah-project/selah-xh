@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 14:12",
+  "book": "leviticus",
+  "lang": "xh",
+  "chapter": 14,
+  "translation": "Umpristi athabathe ⟨את⟩ enye yale igusha encinane, ayinikele ⟨את⟩ njengomnikelo wokwenziwa ubugwenxa, kunye ⟨את⟩ nelog yoyile, abaphulule ⟨את⟩ njengomnikelo wokuphulula phambi koYahwe.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "athabathe"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "Umpristi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "enye yale igusha encinane"
+    },
+    {
+      "surface": "הכבש",
+      "gloss": "le igusha encinane"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "enye"
+    },
+    {
+      "surface": "והקריב",
+      "gloss": "ayinikele"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "njengomnikelo wokwenziwa ubugwenxa"
+    },
+    {
+      "surface": "לאשם",
+      "gloss": "njengomnikelo wokwenziwa ubugwenxa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ilog yoyile"
+    },
+    {
+      "surface": "לג",
+      "gloss": "ilog"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "yoyile"
+    },
+    {
+      "surface": "והניף",
+      "gloss": "abaphulule"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "njengomnikelo wokuphulula"
+    },
+    {
+      "surface": "תנופה",
+      "gloss": "njengomnikelo wokuphulula"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "phambi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "koYahwe"
+    }
+  ],
+  "timestamp": "2026-09-18T06:49:39.502030730Z",
+  "model": "glm-5.3"
+}

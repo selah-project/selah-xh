@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 88:12",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 88,
+  "translation": "Ingaba ikhesedi yakho iya kuxelwa engcwabeni? Intembiso yakho kwiAvadon?",
+  "tokens": [
+    {
+      "surface": "היספר",
+      "gloss": "ingaba iya kuxelwa"
+    },
+    {
+      "surface": "בקבר",
+      "gloss": "engcwabeni"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "ikhesedi yakho"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "intembiso yakho"
+    },
+    {
+      "surface": "באבדון",
+      "gloss": "kwiAvadon"
+    }
+  ],
+  "timestamp": "2026-09-18T15:07:11.104176786Z",
+  "model": "glm-5.3"
+}

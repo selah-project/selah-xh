@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 28:7",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 28,
+  "translation": "uYahwe ⟨ngu⟩amandla am nokhuseleko lwam; kuye intliziyo yam ithembile, ndincediwe;intliziyo yam iyayidumisa, nangumculo wam ndiya mdbulela.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "עזי",
+      "gloss": "⟨ngu⟩amandla am"
+    },
+    {
+      "surface": "ומגני",
+      "gloss": "nokhuseleko lwam"
+    },
+    {
+      "surface": "בו",
+      "gloss": "kuye"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "ithembile"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "intliziyo yam"
+    },
+    {
+      "surface": "ונעזרתי",
+      "gloss": "ndincediwe"
+    },
+    {
+      "surface": "ויעלז",
+      "gloss": "iyayidumisa"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "intliziyo yam"
+    },
+    {
+      "surface": "ומשירי",
+      "gloss": "nangumculo wam"
+    },
+    {
+      "surface": "אהודנו",
+      "gloss": "ndiya mdbulela"
+    }
+  ],
+  "timestamp": "2026-09-18T14:37:51.805098760Z",
+  "model": "glm-5.3"
+}

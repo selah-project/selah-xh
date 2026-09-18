@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 3:22",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 3,
+  "translation": "Kwaye umfazi ngamnye uza kucela komfaziakhe omelene naye nodwelileyo enyumbeni yakhe izixhobo zesiliva nezixhobo zegolide nezinxibo; niza kuzibeka kwiinyana zenu nakwiintombi zenu; niza kuthabathela ⟨את⟩ iMitsrayim.",
+  "tokens": [
+    {
+      "surface": "ושאלה",
+      "gloss": "uza kucela"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "umfazi"
+    },
+    {
+      "surface": "משכנתה",
+      "gloss": "omelene naye"
+    },
+    {
+      "surface": "ומגרת",
+      "gloss": "nodwelileyo"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "enyumbeni yakhe"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "izixhobo"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "zesiliva"
+    },
+    {
+      "surface": "וכלי",
+      "gloss": "nezixhobo"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "zegolide"
+    },
+    {
+      "surface": "ושמלת",
+      "gloss": "nezinxibo"
+    },
+    {
+      "surface": "ושמתם",
+      "gloss": "niza kuzibeka"
+    },
+    {
+      "surface": "על",
+      "gloss": "kwi-"
+    },
+    {
+      "surface": "בניכם",
+      "gloss": "iinyana zenu"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "nakwi-"
+    },
+    {
+      "surface": "בנתיכם",
+      "gloss": "iintombi zenu"
+    },
+    {
+      "surface": "ונצלתם",
+      "gloss": "niza kuthabathela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iMitsrayim"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "iMitsrayim"
+    }
+  ],
+  "timestamp": "2026-09-18T05:49:57.867236383Z",
+  "model": "glm-5.3"
+}

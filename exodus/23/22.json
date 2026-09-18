@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 23:22",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 23,
+  "translation": "Kodwa ukuba ulalela ngokwenene ilizwi lakhe, wenza konke endikuthethayo, ndiza kubadusha abadushi bakho, ndiza kubazinza abazinza bakho.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kodwa"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ukuba"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ulalela ngokwenene"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "ulalela"
+    },
+    {
+      "surface": "בקלו",
+      "gloss": "ilizwi lakhe"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "wenza"
+    },
+    {
+      "surface": "כל",
+      "gloss": "konke"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oko"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "endikuthethayo"
+    },
+    {
+      "surface": "ואיבתי",
+      "gloss": "ndiza kubadusha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abadushi bakho"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "abadushi bakho"
+    },
+    {
+      "surface": "וצרתי",
+      "gloss": "ndiza kubazinza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abazinza bakho"
+    },
+    {
+      "surface": "צרריך",
+      "gloss": "abazinza bakho"
+    }
+  ],
+  "timestamp": "2026-09-18T06:09:11.143119818Z",
+  "model": "glm-5.3"
+}

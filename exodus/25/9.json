@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 25:9",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 25,
+  "translation": "Njengako konke oko ndikubonisa, ⟨את⟩ umfanekiso wolwakhiwo ⟨את⟩ nomfanekiso wazo zonke izixhobo zawo — ngokunjalo nilokhu niyakwenza.",
+  "tokens": [
+    {
+      "surface": "ככל",
+      "gloss": "Njengako konke"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oko"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ndi"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "kubonisa"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩wena",
+      "marks": "ndikubonisa → wena"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umfanekiso wolwakhiwo"
+    },
+    {
+      "surface": "תבנית",
+      "gloss": "umfanekiso"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "ulwakhiwo (ngokwesandi: umhamzelo)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩no",
+      "marks": "umfanekiso wezixhobo"
+    },
+    {
+      "surface": "תבנית",
+      "gloss": "umfanekiso"
+    },
+    {
+      "surface": "כל",
+      "gloss": "konke"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "izixhobo zawo"
+    },
+    {
+      "surface": "וכן",
+      "gloss": "ngokunjalo"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "niyakwenza"
+    }
+  ],
+  "timestamp": "2026-09-18T06:12:56.693799707Z",
+  "model": "glm-5.3"
+}

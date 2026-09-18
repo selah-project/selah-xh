@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 21:3",
+  "book": "2-samuel",
+  "lang": "xh",
+  "chapter": 21,
+  "translation": "UDavide wathi kumaGibhoni: Ndingathini nina? Ndingenzela nantoni ukuxolelanisa, nize nibusise ifa likaYahwe?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "uDavide"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "הגבענים",
+      "gloss": "amaGibhoni"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ntoni"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "ndingayenza"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "nina"
+    },
+    {
+      "surface": "ובמה",
+      "gloss": "ngeyiphi"
+    },
+    {
+      "surface": "אכפר",
+      "gloss": "ndingaxolelanisa"
+    },
+    {
+      "surface": "וברכו",
+      "gloss": "nibusise"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ifa likaYahwe"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "ifa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "likaYahwe"
+    }
+  ],
+  "timestamp": "2026-09-18T10:03:08.515096271Z",
+  "model": "glm-5.3"
+}

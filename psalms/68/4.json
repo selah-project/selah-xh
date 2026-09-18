@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 68:4",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 68,
+  "translation": "Yaye amalungisa makuvuyise, makuzuze phambi kukaElohim, makudlale ngokuvuyela ngokuvuyo.",
+  "tokens": [
+    {
+      "surface": "וצדיקים",
+      "gloss": "Yaye amalungisa"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "makuvuyise"
+    },
+    {
+      "surface": "יעלצו",
+      "gloss": "makuzuze"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "phambi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "kukaElohim"
+    },
+    {
+      "surface": "וישישו",
+      "gloss": "makudlale ngokuvuyela"
+    },
+    {
+      "surface": "בשמחה",
+      "gloss": "ngokuvuyo"
+    }
+  ],
+  "timestamp": "2026-09-18T14:55:11.497810897Z",
+  "model": "glm-5.3"
+}

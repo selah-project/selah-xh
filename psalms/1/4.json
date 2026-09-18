@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 1:4",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 1,
+  "translation": "Hayi njalo amashologolo, kuba banjengembethe yengqolowa, omdudula ngumoya.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "hayi"
+    },
+    {
+      "surface": "כן",
+      "gloss": "njalo"
+    },
+    {
+      "surface": "הרשעים",
+      "gloss": "amashologolo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ba-"
+    },
+    {
+      "surface": "כמץ",
+      "gloss": "njengembethe yengqolowa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "o-"
+    },
+    {
+      "surface": "תדפנו",
+      "gloss": "mdudula"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ngumoya"
+    }
+  ],
+  "timestamp": "2026-09-18T14:28:03.598245797Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 27:6",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 27,
+  "translation": "Kwaye ngoku intloko yam iza kukhanyiselwa phezulu koonqaba bam abazingela bam; ndiza kudumba iindumba zokhwazimla etentini yakhe; ndiza kucula, ewe, ndiza kudumisa kuYahwe.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Kwaye ngoku"
+    },
+    {
+      "surface": "ירום",
+      "gloss": "iza kukhanyiselwa phezulu"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "intloko yam"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezulu kwe"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "oonqaba bam"
+    },
+    {
+      "surface": "סביבותי",
+      "gloss": "abazingela bam"
+    },
+    {
+      "surface": "ואזבחה",
+      "gloss": "ndiza kudumba"
+    },
+    {
+      "surface": "באהלו",
+      "gloss": "etentini yakhe"
+    },
+    {
+      "surface": "זבחי",
+      "gloss": "iindumba"
+    },
+    {
+      "surface": "תרועה",
+      "gloss": "zokhwazimla"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "ndiza kucula"
+    },
+    {
+      "surface": "ואזמרה",
+      "gloss": "ewe, ndiza kudumisa"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kuYahwe"
+    }
+  ],
+  "timestamp": "2026-09-18T14:39:06.458818950Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 139:7",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 139,
+  "translation": "Ndinga hamba phi ngaphandle komoya wakho? Ndinga balela phi ekuboneni kwakho?",
+  "tokens": [
+    {
+      "surface": "אנה",
+      "gloss": "phi"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "ndinga hamba"
+    },
+    {
+      "surface": "מרוחך",
+      "gloss": "ngaphandle komoya wakho"
+    },
+    {
+      "surface": "ואנה",
+      "gloss": "ndinga balela phi"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "ekuboneni kwakho"
+    },
+    {
+      "surface": "אברח",
+      "gloss": "ndinga balela"
+    }
+  ],
+  "timestamp": "2026-09-18T15:30:18.637100129Z",
+  "model": "glm-5.3"
+}

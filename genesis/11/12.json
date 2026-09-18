@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 11:12",
+  "book": "genesis",
+  "lang": "xh",
+  "chapter": 11,
+  "translation": "U-Arpakhshadi waphila iminyaka engamashumi amathathu anamihlanu, waza wazala ⟨את⟩ uShelachi.",
+  "tokens": [
+    {
+      "surface": "וארפכשד",
+      "gloss": "U-Arpakhshadi"
+    },
+    {
+      "surface": "חי",
+      "gloss": "waphila"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "anamihlanu"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "amashumi amathathu"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "iminyaka"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "wazala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uShelachi"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "uShelachi"
+    }
+  ],
+  "timestamp": "2026-09-18T05:12:17.875500034Z",
+  "model": "glm-5.3"
+}

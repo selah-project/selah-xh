@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 49:5",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 49,
+  "translation": "Ndiya kuthoba indlebe yam komzekelo; ndiza kuvula imfihlakalo yam ngesicingo.",
+  "tokens": [
+    {
+      "surface": "אטה",
+      "gloss": "ndiya kuthoba"
+    },
+    {
+      "surface": "למשל",
+      "gloss": "komzekelo"
+    },
+    {
+      "surface": "אזני",
+      "gloss": "indlebe yam"
+    },
+    {
+      "surface": "אפתח",
+      "gloss": "ndiza kuvula"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "ngesicingo"
+    },
+    {
+      "surface": "חידתי",
+      "gloss": "imfihlakalo yam"
+    }
+  ],
+  "timestamp": "2026-09-18T14:46:20.340950736Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 22:18",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 22,
+  "translation": "Wonke ulalayo nesilwane makafe ngokufa.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "wonke"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "ulalayo"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ne-"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "isilwane"
+    },
+    {
+      "surface": "מות",
+      "gloss": "makafe"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "ngokufa"
+    }
+  ],
+  "timestamp": "2026-09-18T06:09:35.046922450Z",
+  "model": "glm-5.3"
+}

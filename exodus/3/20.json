@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 3:20",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 3,
+  "translation": "Ndiza kulwebisa ⟨את⟩ isandla sam, ndibethe ⟨את⟩ uMitsrayim ngezonakaliso zam zonke endiza kuzenza phakathi kwawo; emva koko uya kunithumela nina.",
+  "tokens": [
+    {
+      "surface": "ושלחתי",
+      "gloss": "Ndiza kulwebisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isandla sam"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "isandla sam"
+    },
+    {
+      "surface": "והכיתי",
+      "gloss": "ndibethe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uMitsrayim"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "uMitsrayim"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ngezo-"
+    },
+    {
+      "surface": "נפלאתי",
+      "gloss": "zonakaliso zam zonke"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "endiza"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "kuzenza"
+    },
+    {
+      "surface": "בקרבו",
+      "gloss": "phakathi kwawo"
+    },
+    {
+      "surface": "ואחרי",
+      "gloss": "emva"
+    },
+    {
+      "surface": "כן",
+      "gloss": "koko"
+    },
+    {
+      "surface": "ישלח",
+      "gloss": "uya kunithumela"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ nina",
+      "marks": "nina"
+    }
+  ],
+  "timestamp": "2026-09-18T05:52:47.184325026Z",
+  "model": "glm-5.3"
+}

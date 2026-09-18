@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 23:3",
+  "book": "1-samuel",
+  "lang": "xh",
+  "chapter": 23,
+  "translation": "Amadoda kaDawidili athi kuye: “Yabona, thina apha kuYuda siyoyika; makuthi ke ngakumbi ukuba sihamba siye eKeyila, kumabande amaPelishti!”",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "athi"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "amadoda"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "kaDawidili"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kuye"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "yabona"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "thina"
+    },
+    {
+      "surface": "פה",
+      "gloss": "apha"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "kuYuda"
+    },
+    {
+      "surface": "יראים",
+      "gloss": "siyoyika"
+    },
+    {
+      "surface": "ואף",
+      "gloss": "makuthi ke ngakumbi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ukuba"
+    },
+    {
+      "surface": "נלך",
+      "gloss": "sihamba siye"
+    },
+    {
+      "surface": "קעלה",
+      "gloss": "eKeyila"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "מערכות",
+      "gloss": "kumabande"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "amaPelishti"
+    }
+  ],
+  "timestamp": "2026-09-18T09:35:54.324229999Z",
+  "model": "glm-5.3"
+}

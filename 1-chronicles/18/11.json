@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 18:11",
+  "book": "1-chronicles",
+  "lang": "xh",
+  "chapter": 18,
+  "translation": "Ezo nazo inkosi uDawidi zazibhengezela kuYahwe, kunye nesiliva negolide awayizisayo kuzo zonke iintlanga — eEdomini nakwiMoab nakubantwana baAmon nakwiFilisti nakwiAmaleki.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "ezo nazo"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ezo (izixhobo zendinyana ephambili)"
+    },
+    {
+      "surface": "הקדיש",
+      "gloss": "zazibhengezela"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "inkosi"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "uDawidi"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kuYahwe"
+    },
+    {
+      "surface": "עם",
+      "gloss": "kunye"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "nesiliva"
+    },
+    {
+      "surface": "והזהב",
+      "gloss": "negolide"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "awayizisayo"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "wayizisa"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "kuzo zonke"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "iintlanga"
+    },
+    {
+      "surface": "מאדום",
+      "gloss": "eEdomini"
+    },
+    {
+      "surface": "וממואב",
+      "gloss": "nakwiMoab"
+    },
+    {
+      "surface": "ומבני",
+      "gloss": "nakubantwana"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "baAmon"
+    },
+    {
+      "surface": "ומפלשתים",
+      "gloss": "nakwiFilisti"
+    },
+    {
+      "surface": "ומעמלק",
+      "gloss": "nakwiAmaleki"
+    }
+  ],
+  "timestamp": "2026-09-18T16:57:40.834946097Z",
+  "model": "glm-5.3"
+}

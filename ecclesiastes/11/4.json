@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 11:4",
+  "book": "ecclesiastes",
+  "lang": "xh",
+  "chapter": 11,
+  "translation": "Umlindi womoya akatyalali, umjonge amafu akavuni.",
+  "tokens": [
+    {
+      "surface": "שמר",
+      "gloss": "Umlindi"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "womoya"
+    },
+    {
+      "surface": "לא",
+      "gloss": "aka- (akatyalali)"
+    },
+    {
+      "surface": "יזרע",
+      "gloss": "akatyalali"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "umjonge"
+    },
+    {
+      "surface": "בעבים",
+      "gloss": "amafu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "aka- (akavuni)"
+    },
+    {
+      "surface": "יקצור",
+      "gloss": "akavuni"
+    }
+  ],
+  "timestamp": "2026-09-18T16:26:39.122982096Z",
+  "model": "glm-5.3"
+}

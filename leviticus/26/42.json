@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "leviticus 26:42",
+  "book": "leviticus",
+  "lang": "xh",
+  "chapter": 26,
+  "translation": "Ndiza kukhumbula ⟨את⟩ umnqophiso wam kaYaakov, kananjalo ⟨את⟩ umnqophiso wam kaYitschak, kananjalo ⟨את⟩ umnqophiso wam no-Avraham ndiza kuwukhumbula; kwaye umhlaba ndiza kuwukhumbula.",
+  "tokens": [
+    {
+      "surface": "וזכרתי",
+      "gloss": "Ndiza kukhumbula"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umnqophiso wam"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "umnqophiso wam"
+    },
+    {
+      "surface": "יעקוב",
+      "gloss": "kaYaakov"
+    },
+    {
+      "surface": "ואף",
+      "gloss": "kananjalo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umnqophiso wam"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "umnqophiso wam"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "kaYitschak"
+    },
+    {
+      "surface": "ואף",
+      "gloss": "kananjalo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umnqophiso wam"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "umnqophiso wam"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "no-Avraham"
+    },
+    {
+      "surface": "אזכר",
+      "gloss": "ndiza kuwukhumbula"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "kwaye umhlaba"
+    },
+    {
+      "surface": "אזכר",
+      "gloss": "ndiza kuwukhumbula"
+    }
+  ],
+  "timestamp": "2026-09-18T07:08:51.449171103Z",
+  "model": "glm-5.3"
+}

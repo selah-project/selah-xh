@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 95:1",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 95,
+  "translation": "Wozani, masidumise ngeengoma kuYahwe, masikhalimele kuLitye lesiphephelo lethu.",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "Wozani"
+    },
+    {
+      "surface": "נרננה",
+      "gloss": "masidumise ngeengoma"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kuYahwe"
+    },
+    {
+      "surface": "נריעה",
+      "gloss": "masikhalimele"
+    },
+    {
+      "surface": "לצור",
+      "gloss": "kuLitye"
+    },
+    {
+      "surface": "ישענו",
+      "gloss": "lesiphephelo lethu"
+    }
+  ],
+  "timestamp": "2026-09-18T15:11:22.197395131Z",
+  "model": "glm-5.3"
+}

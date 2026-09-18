@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 24:8",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 24,
+  "translation": "Ngubani lo ukumkani wuzuko? UYahwe, unamandla onesibindi; uYahwe, onesibindi emfazweni.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Ngubani"
+    },
+    {
+      "surface": "זה",
+      "gloss": "lo"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ukumkani"
+    },
+    {
+      "surface": "הכבוד",
+      "gloss": "wuzuko"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "UYahwe"
+    },
+    {
+      "surface": "עזוז",
+      "gloss": "unamandla"
+    },
+    {
+      "surface": "וגבור",
+      "gloss": "onesibindi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "onesibindi"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "emfazweni"
+    }
+  ],
+  "timestamp": "2026-09-18T14:38:54.450955551Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 50:20",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 50,
+  "translation": "Uhlala uthetha ngokuchaseneyo nomfowethu, unyana wakho unina uwutyhefa.",
+  "tokens": [
+    {
+      "surface": "תשב",
+      "gloss": "Uhlala"
+    },
+    {
+      "surface": "באחיך",
+      "gloss": "nomfowethu"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "uthetha"
+    },
+    {
+      "surface": "בבן",
+      "gloss": "unyana"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "wakho unina"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "unika"
+    },
+    {
+      "surface": "דפי",
+      "gloss": "ityhefu"
+    }
+  ],
+  "timestamp": "2026-09-18T14:47:54.754935806Z",
+  "model": "glm-5.3"
+}

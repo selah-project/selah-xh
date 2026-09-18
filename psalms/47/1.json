@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 47:1",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 47,
+  "translation": "Kumlawuli weengoma, kwiinkulume zikaKorah, umculo.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Kumlawuli weengoma"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "kwiinkulume"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "zikaKorah"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "umculo"
+    }
+  ],
+  "timestamp": "2026-09-18T14:48:02.561472356Z",
+  "model": "glm-5.3"
+}

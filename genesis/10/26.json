@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 10:26",
+  "book": "genesis",
+  "lang": "xh",
+  "chapter": 10,
+  "translation": "Kwaye uYokthan wazala ⟨את⟩ u-Almodadi, ⟨את⟩ noShelef, ⟨את⟩ noChatsarmaveth, ⟨את⟩ noYerach.",
+  "tokens": [
+    {
+      "surface": "ויקטן",
+      "gloss": "uYokthan"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "wazala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "u-Almodadi"
+    },
+    {
+      "surface": "אלמודד",
+      "gloss": "u-Almodadi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "uShelef"
+    },
+    {
+      "surface": "שלף",
+      "gloss": "uShelef"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "uChatsarmaveth"
+    },
+    {
+      "surface": "חצרמות",
+      "gloss": "uChatsarmaveth"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "uYerach"
+    },
+    {
+      "surface": "ירח",
+      "gloss": "uYerach"
+    }
+  ],
+  "timestamp": "2026-09-18T05:11:54.914700766Z",
+  "model": "glm-5.3"
+}

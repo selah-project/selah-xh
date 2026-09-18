@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 58:3",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 58,
+  "translation": "Hayi, niseentliziyweni niyenza ububi; emhlabeni nilinganisa ubundlobongela bezandla zenu.",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "Hayi"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "niseentliziyweni"
+    },
+    {
+      "surface": "עולת",
+      "gloss": "ububi"
+    },
+    {
+      "surface": "תפעלון",
+      "gloss": "niyenza"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "emhlabeni"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "ubundlobongela"
+    },
+    {
+      "surface": "ידיכם",
+      "gloss": "bezandla zenu"
+    },
+    {
+      "surface": "תפלסון",
+      "gloss": "nilinganisa"
+    }
+  ],
+  "timestamp": "2026-09-18T14:52:31.482523597Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 5:5",
+  "book": "isaiah",
+  "lang": "xh",
+  "chapter": 5,
+  "translation": "Kwaye ngoku, nceda, ndiza kunazisa ⟨את⟩ nina ⟨את⟩ oko ndikwenzayo iluswa lam: ndisusa isixhaka salo, liza kuba sedangatweni (lintshiso); ndityabula udonga lalo, liza kuba sisiqhuba-siqhuba (sasindwendwe).",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "kwaye ngoku"
+    },
+    {
+      "surface": "אודיעה",
+      "gloss": "ndiza kunazisa"
+    },
+    {
+      "surface": "נא",
+      "gloss": "nceda"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ nina",
+      "marks": "nina"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oko"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oko"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ndi"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "kwenzayo"
+    },
+    {
+      "surface": "לכרמי",
+      "gloss": "iluswa lam"
+    },
+    {
+      "surface": "הסר",
+      "gloss": "ndisusa"
+    },
+    {
+      "surface": "משוכתו",
+      "gloss": "isixhaka salo"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "liza kuba"
+    },
+    {
+      "surface": "לבער",
+      "gloss": "sedangatweni (lintshiso)"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "ndityabula"
+    },
+    {
+      "surface": "גדרו",
+      "gloss": "udonga lalo"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "liza kuba"
+    },
+    {
+      "surface": "למרמס",
+      "gloss": "sisiqhuba-siqhuba"
+    }
+  ],
+  "timestamp": "2026-09-18T11:07:00.268572177Z",
+  "model": "glm-5.3"
+}

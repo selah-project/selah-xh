@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 115:8",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 115,
+  "translation": "Njengazo ezo zithixo, abenzi zazo baya kuba njalo; nabani na othembele kubo uya kuba njalo.",
+  "tokens": [
+    {
+      "surface": "כמוהם",
+      "gloss": "njengazo ezo zithixo"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "baya kuba njalo"
+    },
+    {
+      "surface": "עשיהם",
+      "gloss": "abenzi zazo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nabani na"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "o-"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "othembele"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "kubo"
+    }
+  ],
+  "timestamp": "2026-09-18T15:21:04.205736170Z",
+  "model": "glm-5.3"
+}

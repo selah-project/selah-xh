@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 29:2",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 29,
+  "translation": "Nangesonka esingaseli, namaqhezu esonka esingaseli exutywe ngooyile, neeza-kraka zesonka esingaseli ezithunjiweyo ngooyile; ngomgubo ogadiiweyo gweleya uza kuwenza ⟨אתם⟩.",
+  "tokens": [
+    {
+      "surface": "ולחם",
+      "gloss": "nangesonka"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "esingaseli"
+    },
+    {
+      "surface": "וחלת",
+      "gloss": "namaqhezu"
+    },
+    {
+      "surface": "מצת",
+      "gloss": "esonka esingaseli"
+    },
+    {
+      "surface": "בלולת",
+      "gloss": "exutywe"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "ngooyile"
+    },
+    {
+      "surface": "ורקיקי",
+      "gloss": "neeza-kraka"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "zesonka esingaseli"
+    },
+    {
+      "surface": "משחים",
+      "gloss": "ezithunjiweyo"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "ngooyile"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "ngomgubo ogadiiweyo"
+    },
+    {
+      "surface": "חטים",
+      "gloss": "gweleya"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "uza kuwenza"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "uza kuwenza"
+    }
+  ],
+  "timestamp": "2026-09-18T06:18:56.999383659Z",
+  "model": "glm-5.3"
+}

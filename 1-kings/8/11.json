@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-kings 8:11",
+  "book": "1-kings",
+  "lang": "xh",
+  "chapter": 8,
+  "translation": "Abapristi ababengakwazi ukuma ukukhonza ngenxa yelo fu, kuba uzuko lukaYahwe lwagcwalisa ⟨את⟩ indlu kaYahwe.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "a-"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "bengakwazi"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "abapristi"
+    },
+    {
+      "surface": "לעמד",
+      "gloss": "ukuma"
+    },
+    {
+      "surface": "לשרת",
+      "gloss": "ukukhonza"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "ngenxa ye-"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "fu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "lwagcwalisa"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "uzuko"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "lukaYahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "indlu kaYahwe"
+    },
+    {
+      "surface": "בית",
+      "gloss": "indlu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kaYahwe"
+    }
+  ],
+  "timestamp": "2026-09-18T10:20:22.933773451Z",
+  "model": "glm-5.3"
+}

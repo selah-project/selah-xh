@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 27:14",
+  "book": "leviticus",
+  "lang": "xh",
+  "chapter": 27,
+  "translation": "Kananjalo umntu, xa ezingcwalisa ⟨את⟩ indlu yakhe ingcwele kuYahwe, umfundisi uza kuyilinganisa, nokuba ilungile okanye imbi; njengoko umfundisi aza kuyilinganisa ⟨את⟩ yena, ngokunjalo iza kumi.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "Kananjalo umntu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "xa"
+    },
+    {
+      "surface": "יקדש",
+      "gloss": "ezingcwalisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "indlu yakhe"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "indlu yakhe"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "ingcwele"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kuYahwe"
+    },
+    {
+      "surface": "והעריכו",
+      "gloss": "uza kuyilinganisa"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "umfundisi"
+    },
+    {
+      "surface": "בין",
+      "gloss": "nokuba"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ilungile"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "okanye"
+    },
+    {
+      "surface": "רע",
+      "gloss": "imbi"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "njengoko"
+    },
+    {
+      "surface": "יעריך",
+      "gloss": "aza kuyilinganisa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "yena (umfundisi)"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "umfundisi"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ngokunjalo"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "iza kumi"
+    }
+  ],
+  "timestamp": "2026-09-18T07:09:05.162030071Z",
+  "model": "glm-5.3"
+}

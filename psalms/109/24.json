@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 109:24",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 109,
+  "translation": "Iindolo zam zikhubukile ngenxa yokuzila ukutya, inyama yam iphelelwe ⟨y⟩amafutha.",
+  "tokens": [
+    {
+      "surface": "ברכי",
+      "gloss": "iindolo zam"
+    },
+    {
+      "surface": "כשלו",
+      "gloss": "zikhubukile"
+    },
+    {
+      "surface": "מצום",
+      "gloss": "ngenxa yokuzila ukutya"
+    },
+    {
+      "surface": "ובשרי",
+      "gloss": "kwaye inyama yam"
+    },
+    {
+      "surface": "כחש",
+      "gloss": "iphelelwe"
+    },
+    {
+      "surface": "משמן",
+      "gloss": "amafutha"
+    }
+  ],
+  "timestamp": "2026-09-18T17:45:08.680848491Z",
+  "model": "glm-5.3"
+}

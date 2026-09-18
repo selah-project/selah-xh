@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 5:4",
+  "book": "isaiah",
+  "lang": "xh",
+  "chapter": 5,
+  "translation": "Yintoni ekufuneka ndenze ngakumbi kwiyeja yam, engandizange ndiyenze kuyo? Kutheni ndilindele ukuba inzale iroyini, yaza yenza iroyini ezimbi?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "yintoni"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "ekufuneka ndenze"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ngakumbi"
+    },
+    {
+      "surface": "לכרמי",
+      "gloss": "kwiyeja yam"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "engandizange"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "ndiyenze"
+    },
+    {
+      "surface": "בו",
+      "gloss": "kuyo"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "kutheni"
+    },
+    {
+      "surface": "קויתי",
+      "gloss": "ndilindele"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "ukuba inzale"
+    },
+    {
+      "surface": "ענבים",
+      "gloss": "iroyini"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "yaza yenza"
+    },
+    {
+      "surface": "באשים",
+      "gloss": "iroyini ezimbi"
+    }
+  ],
+  "timestamp": "2026-09-18T11:08:02.807354918Z",
+  "model": "glm-5.3"
+}

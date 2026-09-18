@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 31:10",
+  "book": "1-samuel",
+  "lang": "xh",
+  "chapter": 31,
+  "translation": "Babeka ⟨את⟩ izikhali zakhe kwisiwele se-Ashtaroth, baza bafaka ngokuqinileyo ⟨את⟩ umzimba wakhe edongeni leBeyit-Shani.",
+  "tokens": [
+    {
+      "surface": "וישמו",
+      "gloss": "babeka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izikhali zakhe"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "izikhali zakhe"
+    },
+    {
+      "surface": "בית",
+      "gloss": "kwisiwele"
+    },
+    {
+      "surface": "עשתרות",
+      "gloss": "se-Ashtaroth"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "baza bafaka ngokuqinileyo ⟨את⟩",
+      "marks": "umzimba wakhe"
+    },
+    {
+      "surface": "גויתו",
+      "gloss": "umzimba wakhe"
+    },
+    {
+      "surface": "תקעו",
+      "gloss": "bafaka ngokuqinileyo"
+    },
+    {
+      "surface": "בחומת",
+      "gloss": "edongeni"
+    },
+    {
+      "surface": "בית",
+      "gloss": "leBeyit-"
+    },
+    {
+      "surface": "שן",
+      "gloss": "Shani"
+    }
+  ],
+  "timestamp": "2026-09-18T09:43:33.040489457Z",
+  "model": "glm-5.3"
+}

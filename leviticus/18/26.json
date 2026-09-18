@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "leviticus 18:26",
+  "book": "leviticus",
+  "lang": "xh",
+  "chapter": 18,
+  "translation": "Nina niligcine ⟨את⟩ iimpošo zam ⟨את⟩ neendawo zokwahlula zam, ningazenzi zonke ezi zinto eziyimiqondiso emibi ⟨ezo⟩, umzalwana nosaziwayo ohlala phakathi kwenu.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "niligcine"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "Nina"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iimpošo zam"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "iimpošo zam"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "neendawo zokwahlula zam"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "neendawo zokwahlula zam"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ningazenzi"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "zenzi"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "zonke"
+    },
+    {
+      "surface": "התועבת",
+      "gloss": "ezinto eziyimiqondiso emibi"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ezi"
+    },
+    {
+      "surface": "האזרח",
+      "gloss": "umzalwana"
+    },
+    {
+      "surface": "והגר",
+      "gloss": "nosaziwayo"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "ohlala"
+    },
+    {
+      "surface": "בתוככם",
+      "gloss": "phakathi kwenu"
+    }
+  ],
+  "timestamp": "2026-09-18T06:53:14.562236526Z",
+  "model": "glm-5.3"
+}

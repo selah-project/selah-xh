@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 26:7",
+  "book": "2-chronicles",
+  "lang": "xh",
+  "chapter": 26,
+  "translation": "Yaye uElohim wamnceda kwabaseFilisti nakwabaArabhu abahlala eGur-Bhali, nakwaMeuni.",
+  "tokens": [
+    {
+      "surface": "ויעזרהו",
+      "gloss": "wamnceda"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "על",
+      "gloss": "kwa-"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "abaseFilisti"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "nakwa-"
+    },
+    {
+      "surface": "הערביים",
+      "gloss": "abaArabhu"
+    },
+    {
+      "surface": "הישבים",
+      "gloss": "abahlala"
+    },
+    {
+      "surface": "בגור",
+      "gloss": "eGur-"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "Bhali"
+    },
+    {
+      "surface": "והמעונים",
+      "gloss": "nakwaMeuni"
+    }
+  ],
+  "timestamp": "2026-09-18T17:12:05.410492531Z",
+  "model": "glm-5.3"
+}

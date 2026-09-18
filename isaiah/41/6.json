@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 41:6",
+  "book": "isaiah",
+  "lang": "xh",
+  "chapter": 41,
+  "translation": "Umntu unceda umngane wakhe ⟨את⟩, yena ethi kumkhwenyana wakhe: “Qina.”",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "umntu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umngane wakhe"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "umngane wakhe"
+    },
+    {
+      "surface": "יעזרו",
+      "gloss": "unceda"
+    },
+    {
+      "surface": "ולאחיו",
+      "gloss": "kumkhwenyana wakhe"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "ethi"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "Qina"
+    }
+  ],
+  "timestamp": "2026-09-18T11:30:23.182427523Z",
+  "model": "glm-5.3"
+}

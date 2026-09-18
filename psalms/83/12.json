@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 83:12",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 83,
+  "translation": "Yenzela abakhulu ‍babo njengoOrevi najengoZeebhi, yonke iinkosi zabo njengoZebhahi najengoTsalmona;",
+  "tokens": [
+    {
+      "surface": "שיתמו",
+      "gloss": "Yenzela"
+    },
+    {
+      "surface": "נדיבמו",
+      "gloss": "abakhulu bawo"
+    },
+    {
+      "surface": "כערב",
+      "gloss": "njengoOrevi"
+    },
+    {
+      "surface": "וכזאב",
+      "gloss": "najengoZeebhi"
+    },
+    {
+      "surface": "וכזבח",
+      "gloss": "njengoZebhahi"
+    },
+    {
+      "surface": "וכצלמנע",
+      "gloss": "najengoTsalmona"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yonke"
+    },
+    {
+      "surface": "נסיכמו",
+      "gloss": "iinkosi zawo"
+    }
+  ],
+  "timestamp": "2026-09-18T15:03:54.864475027Z",
+  "model": "glm-5.3"
+}

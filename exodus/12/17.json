@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 12:17",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 12,
+  "translation": "Niwagcadele iimatswa, kuba ngosuku olunyanye nangaloo mini ndikhuphe ⟨את⟩ imikhosi yenu elizweni laseMitsrayim; niwagcadele lolu suku kwiizidukanya zenu, sisimo saphakade.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "niwagcadele"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iimatswa"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "iimatswa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "בעצם",
+      "gloss": "ngosuku olunyanye nangaloo"
+    },
+    {
+      "surface": "היום",
+      "gloss": "mini"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "lolu"
+    },
+    {
+      "surface": "הוצאתי",
+      "gloss": "ndikhuphe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "imikhosi yenu"
+    },
+    {
+      "surface": "צבאותיכם",
+      "gloss": "imikhosi yenu"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "elizweni"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "laseMitsrayim"
+    },
+    {
+      "surface": "ושמרתם",
+      "gloss": "niwagcadele"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lolu suku"
+    },
+    {
+      "surface": "היום",
+      "gloss": "suku"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "lolu"
+    },
+    {
+      "surface": "לדרתיכם",
+      "gloss": "kwiizidukanya zenu"
+    },
+    {
+      "surface": "חקת",
+      "gloss": "sisimo"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "saphakade"
+    }
+  ],
+  "timestamp": "2026-09-18T06:00:37.867146784Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 31:15",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 31,
+  "translation": "Kodwa mna ndithembile kuwe, Yahwe; ndathethe ndithi: Wena unguthixo wam.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Kodwa mna"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "kuwe"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "ndithembile"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "ndathethe ndithi"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "uthixo wam"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Wena ungu"
+    }
+  ],
+  "timestamp": "2026-09-18T14:38:12.256111300Z",
+  "model": "glm-5.3"
+}

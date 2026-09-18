@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 84,
+  "ref": "psalms 119:84",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 119,
+  "translation": "Zingaphi iintsuku zomkhonzi wakho? Nini uza kwenza ugwebo kubalandeli bam?",
+  "tokens": [
+    {
+      "surface": "כמה",
+      "gloss": "Zingaphi"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "iintsuku"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "zomkhonzi wakho"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "Nini"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "uza kwenza"
+    },
+    {
+      "surface": "ברדפי",
+      "gloss": "kubalandeli bam"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ugwebo"
+    }
+  ],
+  "timestamp": "2026-09-18T17:45:27.665722862Z",
+  "model": "glm-5.3"
+}

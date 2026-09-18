@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 4:5",
+  "book": "leviticus",
+  "lang": "xh",
+  "chapter": 4,
+  "translation": "Kwaye ipristi othanjisiweyo uza kuthabatha egazini lenkunzi, aza kuletha ⟨את⟩ elentendeni lodibano.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "uza kuthabatha"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ipristi"
+    },
+    {
+      "surface": "המשיח",
+      "gloss": "othanjisiweyo"
+    },
+    {
+      "surface": "מדם",
+      "gloss": "egazini"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "lenkunzi"
+    },
+    {
+      "surface": "והביא",
+      "gloss": "aza kuletha"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "elo gazi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "ltende"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "lodibano"
+    }
+  ],
+  "timestamp": "2026-09-18T06:40:00.584450227Z",
+  "model": "glm-5.3"
+}

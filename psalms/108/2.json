@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 108:2",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 108,
+  "translation": "Intliziyo yam ilungisiwe, uElohim; ndiza kucula, ewe, ndiza kudumisa ngomculo, nakuzuko lwam.",
+  "tokens": [
+    {
+      "surface": "נכון",
+      "gloss": "ilungisiwe"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "intliziyo yam"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "ndiza kucula"
+    },
+    {
+      "surface": "ואזמרה",
+      "gloss": "ndiza kudumisa ngomculo"
+    },
+    {
+      "surface": "אף",
+      "gloss": "nakuzuko lwam"
+    },
+    {
+      "surface": "כבודי",
+      "gloss": "nakuzuko lwam"
+    }
+  ],
+  "timestamp": "2026-09-18T15:20:17.099255358Z",
+  "model": "glm-5.3"
+}

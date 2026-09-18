@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 145:20",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 145,
+  "translation": "Ugcinisa uYahwe ⟨את⟩ bonke abathandayo; yaye ⟨את⟩ bonke abenzi bobubi uyakubatshabalalisa.",
+  "tokens": [
+    {
+      "surface": "שומר",
+      "gloss": "Ugcinisa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bonke abathandayo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bonke"
+    },
+    {
+      "surface": "אהביו",
+      "gloss": "abathandayo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "bonke abenzi bobubi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bonke"
+    },
+    {
+      "surface": "הרשעים",
+      "gloss": "abenzi bobubi"
+    },
+    {
+      "surface": "ישמיד",
+      "gloss": "uyakubatshabalalisa"
+    }
+  ],
+  "timestamp": "2026-09-18T15:34:37.099421414Z",
+  "model": "glm-5.3"
+}

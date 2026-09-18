@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 34:13",
+  "book": "genesis",
+  "lang": "xh",
+  "chapter": 34,
+  "translation": "Iidodana zikaYaaqob zaphendula ⟨את⟩ uShekhem ⟨ואת⟩ nanguChamor uyise ngobuxoki, zaza zathetha, kuba utywazile ⟨את⟩ iDina udadewabo.",
+  "tokens": [
+    {
+      "surface": "ויענו",
+      "gloss": "zaphendula"
+    },
+    {
+      "surface": "בני",
+      "gloss": "iidodana"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ukaYaaqob"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uShekhem"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "uShekhem"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨ואת⟩",
+      "marks": "nanguChamor"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "uChamor"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "uyise"
+    },
+    {
+      "surface": "במרמה",
+      "gloss": "ngobuxoki"
+    },
+    {
+      "surface": "וידברו",
+      "gloss": "zaza zathetha"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "utywazile"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iDina"
+    },
+    {
+      "surface": "דינה",
+      "gloss": "iDina"
+    },
+    {
+      "surface": "אחתם",
+      "gloss": "udadewabo"
+    }
+  ],
+  "timestamp": "2026-09-18T05:33:25.399216440Z",
+  "model": "glm-5.3"
+}

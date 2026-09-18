@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 81:6",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 81,
+  "translation": "Uyibekile ngengqina kuYosefu, xa ephuma phezu kwelaseMitsrayim; ulwimi endalungazi, ndaluliva.",
+  "tokens": [
+    {
+      "surface": "עדות",
+      "gloss": "ngengqina"
+    },
+    {
+      "surface": "ביהוסף",
+      "gloss": "kuYosefu"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "uyibekile"
+    },
+    {
+      "surface": "בצאתו",
+      "gloss": "xa ephuma"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu kwe-"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "eli lase-"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "ulwimi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "endalungazi"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "—"
+    },
+    {
+      "surface": "אשמע",
+      "gloss": "ndaluliva"
+    }
+  ],
+  "timestamp": "2026-09-18T15:05:38.581369091Z",
+  "model": "glm-5.3"
+}

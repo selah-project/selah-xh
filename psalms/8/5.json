@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 8:5",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 8,
+  "translation": "Umntu ngumhlab' ⟨ntonina⟩, ukuba umkhumbula; unyana womntu, ukuba umtyelela?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "ntonina"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "umntu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ukuba"
+    },
+    {
+      "surface": "תזכרנו",
+      "gloss": "umkhumbula"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "unyana"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "womntu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ukuba"
+    },
+    {
+      "surface": "תפקדנו",
+      "gloss": "umtyelela"
+    }
+  ],
+  "timestamp": "2026-09-18T14:29:56.119154834Z",
+  "model": "glm-5.3"
+}

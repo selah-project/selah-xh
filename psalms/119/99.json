@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 99,
+  "ref": "psalms 119:99",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 119,
+  "translation": "Kunoobafundisi bam bonke ndiqonde ngakumbi; kuba iinqobo zakho zikucinga lwam.",
+  "tokens": [
+    {
+      "surface": "מכל",
+      "gloss": "kunoobafundisi bam bonke"
+    },
+    {
+      "surface": "מלמדי",
+      "gloss": "⟨oo.abafundisi bam⟩"
+    },
+    {
+      "surface": "השכלתי",
+      "gloss": "ndiqonde ngakumbi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "עדותיך",
+      "gloss": "iinqobo zakho"
+    },
+    {
+      "surface": "שיחה",
+      "gloss": "ukucinga"
+    },
+    {
+      "surface": "לי",
+      "gloss": "lwam"
+    }
+  ],
+  "timestamp": "2026-09-18T15:25:00.276849183Z",
+  "model": "glm-5.3"
+}

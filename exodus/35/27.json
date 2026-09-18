@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 35:27",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 35,
+  "translation": "Kwaye oonobumba bazise ⟨את⟩ iintsheyi zeshohamu ⟨את⟩ neentsheyi ezizaliswayo, zephethe i-epholodi nesoqongo sebarosithi.",
+  "tokens": [
+    {
+      "surface": "והנשאם",
+      "gloss": "oonobumba"
+    },
+    {
+      "surface": "הביאו",
+      "gloss": "bazise"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iintsheyi zeshohamu"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "iintsheyi"
+    },
+    {
+      "surface": "השהם",
+      "gloss": "zeshohamu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "neentsheyi ezizaliswayo"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "neintsheyi"
+    },
+    {
+      "surface": "המלאים",
+      "gloss": "ezizaliswayo"
+    },
+    {
+      "surface": "לאפוד",
+      "gloss": "zephethe i-epholodi"
+    },
+    {
+      "surface": "ולחשן",
+      "gloss": "nesoqongo sebarosithi"
+    }
+  ],
+  "timestamp": "2026-09-18T06:25:19.635007209Z",
+  "model": "glm-5.3"
+}

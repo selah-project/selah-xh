@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 96:3",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 96,
+  "translation": "Shumayela izuko lakhe phakathi kwezizwe, imisebenzi yakhe emangalisayo phakathi kwawo onke amawundi.",
+  "tokens": [
+    {
+      "surface": "ספרו",
+      "gloss": "Shumayela"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "phakathi kwezizwe"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "izuko lakhe"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "phakathi kwawo onke"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "amawundi"
+    },
+    {
+      "surface": "נפלאותיו",
+      "gloss": "imisebenzi yakhe emangalisayo"
+    }
+  ],
+  "timestamp": "2026-09-18T15:10:25.581336212Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 6:7",
+  "book": "deuteronomy",
+  "lang": "xh",
+  "chapter": 6,
+  "translation": "Uza kuzichaza kabini kubantwana bakho, uza kuthetha ngazo xa uhleli emzini wakho, xa uhamba endleleni, xa ulala naxa uvuka.",
+  "tokens": [
+    {
+      "surface": "ושננתם",
+      "gloss": "uza kuzichaza kabini"
+    },
+    {
+      "surface": "לבניך",
+      "gloss": "kubantwana bakho"
+    },
+    {
+      "surface": "ודברת",
+      "gloss": "uza kuthetha"
+    },
+    {
+      "surface": "בם",
+      "gloss": "ngazo"
+    },
+    {
+      "surface": "בשבתך",
+      "gloss": "xa uhleli"
+    },
+    {
+      "surface": "בביתך",
+      "gloss": "emzini wakho"
+    },
+    {
+      "surface": "ובלכתך",
+      "gloss": "xa uhamba"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "endleleni"
+    },
+    {
+      "surface": "ובשכבך",
+      "gloss": "xa ulala"
+    },
+    {
+      "surface": "ובקומך",
+      "gloss": "naxa uvuka"
+    }
+  ],
+  "timestamp": "2026-09-18T07:56:41.247446581Z",
+  "model": "glm-5.3"
+}

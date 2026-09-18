@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 87:3",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 87,
+  "translation": "Izinto ezizukileyo kuthethwa ngazo ngawe, wena mzi kaElohim. iSelah.",
+  "tokens": [
+    {
+      "surface": "נכבדות",
+      "gloss": "izinto ezizukileyo"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "kuthethwa"
+    },
+    {
+      "surface": "בך",
+      "gloss": "ngawe"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "mzi"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "kaElohim"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "iSelah"
+    }
+  ],
+  "timestamp": "2026-09-18T15:07:43.244736814Z",
+  "model": "glm-5.3"
+}

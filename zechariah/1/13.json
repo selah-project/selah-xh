@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "zechariah 1:13",
+  "book": "zechariah",
+  "lang": "xh",
+  "chapter": 1,
+  "translation": "Kananjalo uYahwe waphendula ⟨את⟩ ingelosi ethe ithetha ngam, ngamazwi amahle, amazwi othuthuzelo.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "Kananjalo waphendula"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ingelosi"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "ingelosi"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ethe"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ithetha ngam"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "amazwi"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "amahle"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "amazwi"
+    },
+    {
+      "surface": "נחמים",
+      "gloss": "othuthuzelo"
+    }
+  ],
+  "timestamp": "2026-09-18T14:17:36.611379377Z",
+  "model": "glm-5.3"
+}

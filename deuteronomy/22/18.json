@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 22:18",
+  "book": "deuteronomy",
+  "lang": "xh",
+  "chapter": 22,
+  "translation": "Kananjalo abalawuli bomzi loo mzi baza kuthabatha ⟨את⟩ loo mntu, baza kumlungisa ⟨אתו⟩.",
+  "tokens": [
+    {
+      "surface": "ולקחו",
+      "gloss": "baza kuthabatha"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "abalawuli"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "bomzi"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "loo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "loo mntu"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "loo mntu"
+    },
+    {
+      "surface": "ויסרו",
+      "gloss": "baza kumlungisa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "yena"
+    }
+  ],
+  "timestamp": "2026-09-18T17:25:22.433856421Z",
+  "model": "glm-5.3"
+}

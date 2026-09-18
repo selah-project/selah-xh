@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 31:23",
+  "book": "proverbs",
+  "lang": "xh",
+  "chapter": 31,
+  "translation": "Umyeni wakhe uyaziwa emasangweni, xa ehleli nabadala belizwe.",
+  "tokens": [
+    {
+      "surface": "נודע",
+      "gloss": "uyaziwa"
+    },
+    {
+      "surface": "בשערים",
+      "gloss": "emasangweni"
+    },
+    {
+      "surface": "בעלה",
+      "gloss": "umyeni wakhe"
+    },
+    {
+      "surface": "בשבתו",
+      "gloss": "xa ehleli"
+    },
+    {
+      "surface": "עם",
+      "gloss": "naba-"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "abadala"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "belizwe"
+    }
+  ],
+  "timestamp": "2026-09-18T15:59:14.509109467Z",
+  "model": "glm-5.3"
+}

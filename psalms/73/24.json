@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 73:24",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 73,
+  "translation": "Ngucebo lwakho undikhokela, emva koko undamkela nguzuko.",
+  "tokens": [
+    {
+      "surface": "בעצתך",
+      "gloss": "Ngucebo lwakho"
+    },
+    {
+      "surface": "תנחני",
+      "gloss": "undikhokela"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "emva koko"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "nguzuko"
+    },
+    {
+      "surface": "תקחני",
+      "gloss": "undamkela"
+    }
+  ],
+  "timestamp": "2026-09-18T14:59:53.045594566Z",
+  "model": "glm-5.3"
+}

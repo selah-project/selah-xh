@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 43:3",
+  "book": "isaiah",
+  "lang": "xh",
+  "chapter": 43,
+  "translation": "Kuba mna ndinguYahwe uElohim wakho, uNgcwele wakwa-Israyeli, umKhululi wakho; ndinike iMitsrayim ukhululo lwakho, iKushi neSebhá endaweni yakho.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "uElohim wakho"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "uNgcwele"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "wakwa-Israyeli"
+    },
+    {
+      "surface": "מושיעך",
+      "gloss": "umKhululi wakho"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "ndinike"
+    },
+    {
+      "surface": "כפרך",
+      "gloss": "ukhululo lwakho"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "iMitsrayim"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "iKushi"
+    },
+    {
+      "surface": "וסבא",
+      "gloss": "neSebhá"
+    },
+    {
+      "surface": "תחתיך",
+      "gloss": "endaweni yakho"
+    }
+  ],
+  "timestamp": "2026-09-18T11:32:38.963660448Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 14:4",
+  "book": "2-kings",
+  "lang": "xh",
+  "chapter": 14,
+  "translation": "Kuphela iindawo ziphakamileyo azisuswanga; abantu basayimbelela batshisa impepho kwezo ndawo ziphakamileyo.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "Kuphela"
+    },
+    {
+      "surface": "הבמות",
+      "gloss": "iindawo ziphakamileyo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "azi-"
+    },
+    {
+      "surface": "סרו",
+      "gloss": "suswanga"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "sasa-"
+    },
+    {
+      "surface": "העם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "מזבחים",
+      "gloss": "yimbelela"
+    },
+    {
+      "surface": "ומקטרים",
+      "gloss": "batshisa impepho"
+    },
+    {
+      "surface": "בבמות",
+      "gloss": "kwezo ndawo ziphakamileyo"
+    }
+  ],
+  "timestamp": "2026-09-18T10:49:04.275199786Z",
+  "model": "glm-5.3"
+}

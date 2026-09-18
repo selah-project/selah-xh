@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "genesis 42:33",
+  "book": "genesis",
+  "lang": "xh",
+  "chapter": 42,
+  "translation": "Wathetha kuthi lo mntu, inkosi yomhlaba: Ngezi ndiza kukwazi ukuba ninyanekileyo — shiyani omnye kabafowenu ⟨את⟩ phaya kum, thathani ⟨את⟩ ukutya kolwambazo lwezikaya zenu, nihambe.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wathetha"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "kuthi"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "lo mntu"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "inkosi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yomhlaba"
+    },
+    {
+      "surface": "בזאת",
+      "gloss": "ngezi"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "ndiza kukwazi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ukuba"
+    },
+    {
+      "surface": "כנים",
+      "gloss": "ninyanekileyo"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "ni"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "kabafowenu"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "omnye"
+    },
+    {
+      "surface": "הניחו",
+      "gloss": "shiyani"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ phaya kum",
+      "marks": "omnye kabafowenu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ukutya"
+    },
+    {
+      "surface": "רעבון",
+      "gloss": "kolwambazo"
+    },
+    {
+      "surface": "בתיכם",
+      "gloss": "lwezikaya zenu"
+    },
+    {
+      "surface": "קחו",
+      "gloss": "thathani"
+    },
+    {
+      "surface": "ולכו",
+      "gloss": "nihambe"
+    }
+  ],
+  "timestamp": "2026-09-18T05:41:12.871125096Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 28:4",
+  "book": "1-samuel",
+  "lang": "xh",
+  "chapter": 28,
+  "translation": "AmaFilisti aqokelelana, afika, alwesa iitenti eShunemi; uShawuli waqokelela ⟨את⟩ yonke iSirayeli, balwesa iitenti eGilboya.",
+  "tokens": [
+    {
+      "surface": "ויקבצו",
+      "gloss": "aqokelelana"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "AmaFilisti"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "afika"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "alwesa iitenti"
+    },
+    {
+      "surface": "בשונם",
+      "gloss": "eShunemi"
+    },
+    {
+      "surface": "ויקבץ",
+      "gloss": "waqokelela"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "uShawuli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yonke iSirayeli"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yonke"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "iSirayeli"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "balwesa iitenti"
+    },
+    {
+      "surface": "בגלבע",
+      "gloss": "eGilboya"
+    }
+  ],
+  "timestamp": "2026-09-18T17:30:15.883066279Z",
+  "model": "glm-5.3"
+}

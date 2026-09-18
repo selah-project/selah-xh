@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "joshua 21:14",
+  "book": "joshua",
+  "lang": "xh",
+  "chapter": 21,
+  "translation": "kunye ⟨את⟩ iYatiri kunye nengingqi yayo, kunye ⟨את⟩ i-Eshtemoa kunye nengingqi yayo.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "kunye ⟨את⟩",
+      "marks": "iYatiri"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "iYatiri"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kunye ⟨את⟩",
+      "marks": "nengingqi yayo"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "nengingqi yayo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kunye ⟨את⟩",
+      "marks": "i-Eshtemoa"
+    },
+    {
+      "surface": "אשתמע",
+      "gloss": "i-Eshtemoa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kunye ⟨את⟩",
+      "marks": "nengingqi yayo"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "nengingqi yayo"
+    }
+  ],
+  "timestamp": "2026-09-18T08:43:42.957765197Z",
+  "model": "glm-5.3"
+}

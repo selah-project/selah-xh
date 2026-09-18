@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 78:18",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 78,
+  "translation": "Bavavanya u-El entliziyweni yabo, befuna ukutya okwenzela iintshokovisi zabo.",
+  "tokens": [
+    {
+      "surface": "וינסו",
+      "gloss": "Bavavanya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "u-El"
+    },
+    {
+      "surface": "בלבבם",
+      "gloss": "entliziyweni yabo"
+    },
+    {
+      "surface": "לשאל",
+      "gloss": "befuna"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "ukutya"
+    },
+    {
+      "surface": "לנפשם",
+      "gloss": "okwenzela iintshokovisi zabo"
+    }
+  ],
+  "timestamp": "2026-09-18T17:44:40.378504525Z",
+  "model": "glm-5.3"
+}

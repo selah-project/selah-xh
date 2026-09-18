@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 6:4",
+  "book": "isaiah",
+  "lang": "xh",
+  "chapter": 6,
+  "translation": "Iintsika zomkhondo wokungena zanyakaziswa ngelizwi lommandwa, yondlu yagcwaliswa yuthuthu.",
+  "tokens": [
+    {
+      "surface": "וינעו",
+      "gloss": "zanyakaziswa"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "iintsika"
+    },
+    {
+      "surface": "הספים",
+      "gloss": "zomkhondo wokungena"
+    },
+    {
+      "surface": "מקול",
+      "gloss": "ngelizwi"
+    },
+    {
+      "surface": "הקורא",
+      "gloss": "lommandwa"
+    },
+    {
+      "surface": "והבית",
+      "gloss": "yondlu"
+    },
+    {
+      "surface": "ימלא",
+      "gloss": "yagcwaliswa"
+    },
+    {
+      "surface": "עשן",
+      "gloss": "yuthuthu"
+    }
+  ],
+  "timestamp": "2026-09-18T11:07:38.061622045Z",
+  "model": "glm-5.3"
+}

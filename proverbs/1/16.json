@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 1:16",
+  "book": "proverbs",
+  "lang": "xh",
+  "chapter": 1,
+  "translation": "Kuba iinyawo zabo ziyagijima kolubi, kwaye zikhawuleza ukuchitha igazi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "רגליהם",
+      "gloss": "iinyawo zabo"
+    },
+    {
+      "surface": "לרע",
+      "gloss": "kolubi"
+    },
+    {
+      "surface": "ירוצו",
+      "gloss": "ziyagijima"
+    },
+    {
+      "surface": "וימהרו",
+      "gloss": "kwaye zikhawuleza"
+    },
+    {
+      "surface": "לשפך",
+      "gloss": "ukuchitha"
+    },
+    {
+      "surface": "דם",
+      "gloss": "igazi"
+    }
+  ],
+  "timestamp": "2026-09-18T15:35:38.112405606Z",
+  "model": "glm-5.3"
+}

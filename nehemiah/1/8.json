@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "nehemiah 1:8",
+  "book": "nehemiah",
+  "lang": "xh",
+  "chapter": 1,
+  "translation": "Khumbula nango ⟨את⟩ ilizwi oyalele uMoshe, inceku yakho, uthi: “Nina niya kwenza isiphoso — mna ndiza kunifafazisa phakathi kweentlanga.”",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "Khumbula"
+    },
+    {
+      "surface": "נא",
+      "gloss": "nango"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ilizwi"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ilizwi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "o-"
+    },
+    {
+      "surface": "צוית",
+      "gloss": "yalele"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uMoshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "uMoshe"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "inceku yakho"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "uthi"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "nina"
+    },
+    {
+      "surface": "תמעלו",
+      "gloss": "niya kwenza isiphoso"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mna"
+    },
+    {
+      "surface": "אפיץ",
+      "gloss": "ndiza kunifafazisa"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨אתכם⟩",
+      "marks": "nina"
+    },
+    {
+      "surface": "בעמים",
+      "gloss": "phakathi kweentlanga"
+    }
+  ],
+  "timestamp": "2026-09-18T16:43:53.785061794Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 19:10",
+  "book": "genesis",
+  "lang": "xh",
+  "chapter": 19,
+  "translation": "Ke abantu basolula isandla sabo, baza bemisa uLote ekhaya kubo, yabhanja ⟨את⟩ umnyango.",
+  "tokens": [
+    {
+      "surface": "וישלחו",
+      "gloss": "basolula"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isandla sabo"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "isandla sabo"
+    },
+    {
+      "surface": "ויביאו",
+      "gloss": "baza bemisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uLote"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "uLote"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "ekhaya kubo"
+    },
+    {
+      "surface": "הביתה",
+      "gloss": "ekhaya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "umnyango"
+    },
+    {
+      "surface": "הדלת",
+      "gloss": "umnyango"
+    },
+    {
+      "surface": "סגרו",
+      "gloss": "yabhanja"
+    }
+  ],
+  "timestamp": "2026-09-18T05:15:34.225049903Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 18:18",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 18,
+  "translation": "Wandisindisa kutoo-lutshaba lam, nakubachasi bam, kuba benamandla kuno mna.",
+  "tokens": [
+    {
+      "surface": "יצילני",
+      "gloss": "wandisindisa"
+    },
+    {
+      "surface": "מאיבי",
+      "gloss": "kutoo-lutshaba lam"
+    },
+    {
+      "surface": "עז",
+      "gloss": "olunamandla"
+    },
+    {
+      "surface": "ומשנאי",
+      "gloss": "nakubachasi bam"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "אמצו",
+      "gloss": "benamandla"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "kuno mna"
+    }
+  ],
+  "timestamp": "2026-09-18T14:34:05.878102502Z",
+  "model": "glm-5.3"
+}

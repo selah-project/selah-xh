@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 25:1",
+  "book": "deuteronomy",
+  "lang": "xh",
+  "chapter": 25,
+  "translation": "Xa ingxabano ize phakathi kwamadoda, baze basondela ekwahluleleni, baze bawahlulela; bamangalise ⟨את⟩ ilungisa elilungileyo, bagwetye ngamacala ⟨את⟩ elibi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "xa"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ize"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "ingxabano"
+    },
+    {
+      "surface": "בין",
+      "gloss": "phakathi"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "kwamadoda"
+    },
+    {
+      "surface": "ונגשו",
+      "gloss": "baze basondela"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "המשפט",
+      "gloss": "ekwahluleleni"
+    },
+    {
+      "surface": "ושפטום",
+      "gloss": "bawahlulela"
+    },
+    {
+      "surface": "והצדיקו",
+      "gloss": "bamangalise"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ilungisa elilungileyo"
+    },
+    {
+      "surface": "הצדיק",
+      "gloss": "ilungisa elilungileyo"
+    },
+    {
+      "surface": "והרשיעו",
+      "gloss": "bagwetye ngamacala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "elibi"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "elibi"
+    }
+  ],
+  "timestamp": "2026-09-18T08:17:20.469243004Z",
+  "model": "glm-5.3"
+}

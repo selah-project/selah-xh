@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 32:17",
+  "book": "deuteronomy",
+  "lang": "xh",
+  "chapter": 32,
+  "translation": "Babehlaba iintanda kwiShadim, hayi ku-Eloha; bathembisa koothixo ababaziyo — amasha, aza kufutshane, aooyihlo abawoyikanga.",
+  "tokens": [
+    {
+      "surface": "יזבחו",
+      "gloss": "babehlaba iintanda"
+    },
+    {
+      "surface": "לשדים",
+      "gloss": "kwiShadim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hayi"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ku-Eloha"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "koothixo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ababaziyo (hayi)"
+    },
+    {
+      "surface": "ידעום",
+      "gloss": "ababaziyo"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "amasha"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "kufutshane"
+    },
+    {
+      "surface": "באו",
+      "gloss": "aza"
+    },
+    {
+      "surface": "לא",
+      "gloss": "abawoyikanga (hayi)"
+    },
+    {
+      "surface": "שערום",
+      "gloss": "abawoyikanga"
+    },
+    {
+      "surface": "אבתיכם",
+      "gloss": "aooyihlo"
+    }
+  ],
+  "timestamp": "2026-09-18T08:24:32.449250536Z",
+  "model": "glm-5.3"
+}

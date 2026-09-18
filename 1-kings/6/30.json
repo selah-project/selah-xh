@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 6:30",
+  "book": "1-kings",
+  "lang": "xh",
+  "chapter": 6,
+  "translation": "Waza wagubunga ngegolide ⟨את⟩ umgangatho wendlu, ngaphakathi nangaphandle.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "umgangatho wendlu"
+    },
+    {
+      "surface": "קרקע",
+      "gloss": "umgangatho"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "wendlu"
+    },
+    {
+      "surface": "צפה",
+      "gloss": "wagubunga"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ngegolide"
+    },
+    {
+      "surface": "לפנימה",
+      "gloss": "ngaphakathi"
+    },
+    {
+      "surface": "ולחיצון",
+      "gloss": "nangaphandle"
+    }
+  ],
+  "timestamp": "2026-09-18T10:15:48.237422795Z",
+  "model": "glm-5.3"
+}

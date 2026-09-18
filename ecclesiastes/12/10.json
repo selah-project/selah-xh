@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 12:10",
+  "book": "ecclesiastes",
+  "lang": "xh",
+  "chapter": 12,
+  "translation": "UQoheleth wafuna ukufumana amazwi okwanelisa; nokuba okulotshiweyo kukulungileyo — amazwi eqiniso.",
+  "tokens": [
+    {
+      "surface": "בקש",
+      "gloss": "wafuna"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "uQoheleth"
+    },
+    {
+      "surface": "למצא",
+      "gloss": "ukufumana"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "amazwi"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "okwanelisa"
+    },
+    {
+      "surface": "וכתוב",
+      "gloss": "nokuba okulotshiweyo"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "kukulungileyo"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "amazwi"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "eqiniso"
+    }
+  ],
+  "timestamp": "2026-09-18T16:27:28.779200111Z",
+  "model": "glm-5.3"
+}

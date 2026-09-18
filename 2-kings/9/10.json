@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 9:10",
+  "book": "2-kings",
+  "lang": "xh",
+  "chapter": 9,
+  "translation": "Kwaye ⟨את⟩ iJezebel iinja ziya kuyitya echeleceni leYizreeli, kwaye akukho mthiyo. Wavula ⟨את⟩ umnyango wabaleka.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "iJezebel"
+    },
+    {
+      "surface": "איזבל",
+      "gloss": "iJezebel"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "ziya kuyitya"
+    },
+    {
+      "surface": "הכלבים",
+      "gloss": "iinja"
+    },
+    {
+      "surface": "בחלק",
+      "gloss": "echeleceni"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "leYizreeli"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "kwaye akukho"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "mthiyo"
+    },
+    {
+      "surface": "ויפתח",
+      "gloss": "wavula"
+    },
+    {
+      "surface": "הדלת",
+      "gloss": "umnyango"
+    },
+    {
+      "surface": "וינס",
+      "gloss": "wabaleka"
+    }
+  ],
+  "timestamp": "2026-09-18T10:45:08.664589354Z",
+  "model": "glm-5.3"
+}

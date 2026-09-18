@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 5:5",
+  "book": "genesis",
+  "lang": "xh",
+  "chapter": 5,
+  "translation": "Yaye onke amaxesha obomi ka-Adam awayephila babengamashumi amathathu anesithathu kwiiyaka: waza wafa.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "yaye babeng"
+    },
+    {
+      "surface": "כל",
+      "gloss": "onke"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "amaxesha obomi"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ka-Adam"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "awayephila"
+    },
+    {
+      "surface": "חי",
+      "gloss": "ukuphila"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "isithathu"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "kwiiyaka amashumi amathathu"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "kwiiyaka"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "anesithathu"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "kwiiyaka"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "waza wafa"
+    }
+  ],
+  "timestamp": "2026-09-18T05:08:11.439832450Z",
+  "model": "glm-5.3"
+}

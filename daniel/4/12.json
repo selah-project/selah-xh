@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "daniel 4:12",
+  "book": "daniel",
+  "lang": "xh",
+  "chapter": 4,
+  "translation": "Nangona kunjalo, shiyani isiqinga seengcambu zawo emhlabeni, zibophe ngebhande leentsimbi nobhedu, kutyalweni komhlaba; makubhejiswe ngomsoco wezulu, isizeko sawo sibe nesazo izilwanyana, kutyani komhlaba.",
+  "tokens": [
+    {
+      "surface": "ברם",
+      "gloss": "nangona kunjalo"
+    },
+    {
+      "surface": "עקר",
+      "gloss": "isiqinga"
+    },
+    {
+      "surface": "שרשוהי",
+      "gloss": "seengcambu zawo"
+    },
+    {
+      "surface": "בארעא",
+      "gloss": "emhlabeni"
+    },
+    {
+      "surface": "שבקו",
+      "gloss": "shiyani"
+    },
+    {
+      "surface": "ובאסור",
+      "gloss": "zibophe ngebhande"
+    },
+    {
+      "surface": "די",
+      "gloss": "le-"
+    },
+    {
+      "surface": "פרזל",
+      "gloss": "zeentsimbi"
+    },
+    {
+      "surface": "ונחש",
+      "gloss": "nobhedu"
+    },
+    {
+      "surface": "בדתאא",
+      "gloss": "kutyalweni"
+    },
+    {
+      "surface": "די",
+      "gloss": "ko-"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "mhlaba"
+    },
+    {
+      "surface": "ובטל",
+      "gloss": "makubhejiswe"
+    },
+    {
+      "surface": "שמיא",
+      "gloss": "wezulu"
+    },
+    {
+      "surface": "יצצטבע",
+      "gloss": "ngomsoco"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "sibe ne-"
+    },
+    {
+      "surface": "חיותא",
+      "gloss": "zilwanyana"
+    },
+    {
+      "surface": "חלקה",
+      "gloss": "isizeko sawo"
+    },
+    {
+      "surface": "בעשב",
+      "gloss": "kutyani"
+    },
+    {
+      "surface": "ארעא",
+      "gloss": "komhlaba"
+    }
+  ],
+  "timestamp": "2026-09-18T16:32:52.462749242Z",
+  "model": "glm-5.3"
+}

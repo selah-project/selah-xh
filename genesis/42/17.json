@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 42:17",
+  "book": "genesis",
+  "lang": "xh",
+  "chapter": 42,
+  "translation": "Wabaza ndawonye, wababeka ⟨את⟩ bona endlwini yokugcinwa iintsuku ezintathu.",
+  "tokens": [
+    {
+      "surface": "ויאסף",
+      "gloss": "wabaza ndawonye"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "bona"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwi"
+    },
+    {
+      "surface": "משמר",
+      "gloss": "endlwini yokugcinwa"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "ezintathu"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "iintsuku"
+    }
+  ],
+  "timestamp": "2026-09-18T05:40:23.549286054Z",
+  "model": "glm-5.3"
+}

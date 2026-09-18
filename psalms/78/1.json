@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 78:1",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 78,
+  "translation": "Umyalelo wokufundisa ka-Asafi: Thafun’indlebe, mabhulu aM, iTora yaM; zigobile indlebe zenu kumagama omlomo waM.",
+  "tokens": [
+    {
+      "surface": "משכיל",
+      "gloss": "Umyalelo wokufundisa"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "ka-Asafi"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "Thafun’indlebe"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "mabhulu aM"
+    },
+    {
+      "surface": "תורתי",
+      "gloss": "iTora yaM"
+    },
+    {
+      "surface": "הטו",
+      "gloss": "zigobile"
+    },
+    {
+      "surface": "אזנכם",
+      "gloss": "indlebe zenu"
+    },
+    {
+      "surface": "לאמרי",
+      "gloss": "kumagama"
+    },
+    {
+      "surface": "פי",
+      "gloss": "omlomo waM"
+    }
+  ],
+  "timestamp": "2026-09-18T15:01:56.839207198Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 103:8",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 103,
+  "translation": "Uneceba ngokwenene, uYahwe, unobubele, ulahlekile ukwazikhalaza, uninzi likhesedi nalapho.",
+  "tokens": [
+    {
+      "surface": "רחום",
+      "gloss": "Uneceba ngokwenene"
+    },
+    {
+      "surface": "וחנון",
+      "gloss": "unobubele"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "ulahlekile"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "ukwazikhalaza"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "uninzi"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "likhesedi"
+    }
+  ],
+  "timestamp": "2026-09-18T15:12:47.599008600Z",
+  "model": "glm-5.3"
+}

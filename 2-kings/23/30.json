@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-kings 23:30",
+  "book": "2-kings",
+  "lang": "xh",
+  "chapter": 23,
+  "translation": "Abancedisi bakhe bambeka kwinqwele afile avela eMegido, bamisa eYerushalayimi, bambeka engcwabeni lakhe; abantu bomhlaba bathatha ⟨את⟩ uYehoahaz unyana kaYoshiyahu, bamthanjisa, bamenza ⟨את⟩ inkosi esikhundleni ⟨את⟩ sikayise.",
+  "tokens": [
+    {
+      "surface": "וירכבהו",
+      "gloss": "bambeka kwinqwele"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "abancedisi bakhe"
+    },
+    {
+      "surface": "מת",
+      "gloss": "afile"
+    },
+    {
+      "surface": "ממגדו",
+      "gloss": "avela eMegido"
+    },
+    {
+      "surface": "ויבאהו",
+      "gloss": "bamisa"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "eYerushalayimi"
+    },
+    {
+      "surface": "ויקברהו",
+      "gloss": "bambeka engcwabeni"
+    },
+    {
+      "surface": "בקברתו",
+      "gloss": "engcwabeni lakhe"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "bathatha"
+    },
+    {
+      "surface": "עם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bomhlaba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uYehoahaz"
+    },
+    {
+      "surface": "יהואחז",
+      "gloss": "uYehoahaz"
+    },
+    {
+      "surface": "בן",
+      "gloss": "unyana"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "kaYoshiyahu"
+    },
+    {
+      "surface": "וימשחו",
+      "gloss": "bamthanjisa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "yena (bamthanjisa)"
+    },
+    {
+      "surface": "וימליכו",
+      "gloss": "bamenza inkosi"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "yena (bamenza inkosi)"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "esikhundleni"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "sikayise"
+    }
+  ],
+  "timestamp": "2026-09-18T10:57:40.516314099Z",
+  "model": "glm-5.3"
+}

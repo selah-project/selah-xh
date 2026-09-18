@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 8:14",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 8,
+  "translation": "Bawenza njalo abacholorho ngezimfihlo zawo ukukhupha ⟨את⟩ iikhunxhunxwana, kodwa banganako; kwaba iikhunxhunxwana kumntu nakwiihambo.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "Bawenza"
+    },
+    {
+      "surface": "כן",
+      "gloss": "njalo"
+    },
+    {
+      "surface": "החרטמים",
+      "gloss": "abacholorho"
+    },
+    {
+      "surface": "בלטיהם",
+      "gloss": "ngezimfihlo zawo"
+    },
+    {
+      "surface": "להוציא",
+      "gloss": "ukukhupha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iikhunxhunxwana"
+    },
+    {
+      "surface": "הכנים",
+      "gloss": "iikhunxhunxwana"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kodwa banganako"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "banganako"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "kwaba"
+    },
+    {
+      "surface": "הכנם",
+      "gloss": "iikhunxhunxwana"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "kumntu"
+    },
+    {
+      "surface": "ובבהמה",
+      "gloss": "nakwiihambo"
+    }
+  ],
+  "timestamp": "2026-09-18T05:55:54.809354956Z",
+  "model": "glm-5.3"
+}

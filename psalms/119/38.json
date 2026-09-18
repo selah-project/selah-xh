@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "psalms 119:38",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 119,
+  "translation": "Simisela umkhonza wakho ilizwi lakho, elizophathiswa ngokoyika lwakho.",
+  "tokens": [
+    {
+      "surface": "הקם",
+      "gloss": "Simisela"
+    },
+    {
+      "surface": "לעבדך",
+      "gloss": "umkhonza wakho"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "ilizwi lakho"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "eli"
+    },
+    {
+      "surface": "ליראתך",
+      "gloss": "ngokoyika lwakho"
+    }
+  ],
+  "timestamp": "2026-09-18T15:22:56.003811441Z",
+  "model": "glm-5.3"
+}

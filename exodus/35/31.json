@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 35:31",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 35,
+  "translation": "Wayamzalisa ngomoya kaElohim, ngobuchule, nokuqonda, nolwazi, nakweso nasiphi na umsebenzi wokwenza.",
+  "tokens": [
+    {
+      "surface": "וימלא",
+      "gloss": "wayamzalisa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "umoya kaElohim"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "umoya"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "kaElohim"
+    },
+    {
+      "surface": "בחכמה",
+      "gloss": "ngobuchule"
+    },
+    {
+      "surface": "בתבונה",
+      "gloss": "nokuqonda"
+    },
+    {
+      "surface": "ובדעת",
+      "gloss": "nolwazi"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "nakweso nasiphi na"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "umsebenzi wokwenza"
+    }
+  ],
+  "timestamp": "2026-09-18T06:28:07.457294762Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 6:11",
+  "book": "genesis",
+  "lang": "xh",
+  "chapter": 6,
+  "translation": "Umhlaba wonakalisekile phambi koElohim, umhlaba wazalisa ngobundlobongela.",
+  "tokens": [
+    {
+      "surface": "ותשחת",
+      "gloss": "wonakalisekile"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "umhlaba"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "phambi ko-"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "ותמלא",
+      "gloss": "wazalisa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "umhlaba"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "ngobundlobongela"
+    }
+  ],
+  "timestamp": "2026-09-18T05:09:28.824706464Z",
+  "model": "glm-5.3"
+}

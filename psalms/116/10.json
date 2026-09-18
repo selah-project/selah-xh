@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 116:10",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 116,
+  "translation": "Ndakholiwa, ngoko ndiyathetha; mna, ndakhathazeka kakhulu.",
+  "tokens": [
+    {
+      "surface": "האמנתי",
+      "gloss": "Ndakholiwa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngoko"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "ndiyathetha"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mna"
+    },
+    {
+      "surface": "עניתי",
+      "gloss": "ndakhathazeka"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "kakhulu"
+    }
+  ],
+  "timestamp": "2026-09-18T15:21:48.039368969Z",
+  "model": "glm-5.3"
+}

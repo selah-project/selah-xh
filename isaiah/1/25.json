@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "isaiah 1:25",
+  "book": "isaiah",
+  "lang": "xh",
+  "chapter": 1,
+  "translation": "Ndiza kubuyisela isandla sam phezu kwakho, ndiza kuyitshixa irhasi yakho njengoborakhi, ndiza kususa yonke itin yakho.",
+  "tokens": [
+    {
+      "surface": "ואשיבה",
+      "gloss": "ndiza kubuyisela"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "isandla sam"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "phezu kwakho"
+    },
+    {
+      "surface": "ואצרף",
+      "gloss": "ndiza kuyitshixa"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "njengoborakhi"
+    },
+    {
+      "surface": "סיגיך",
+      "gloss": "irhasi yakho"
+    },
+    {
+      "surface": "ואסירה",
+      "gloss": "ndiza kususa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yonke"
+    },
+    {
+      "surface": "בדיליך",
+      "gloss": "itin yakho"
+    }
+  ],
+  "timestamp": "2026-09-18T11:00:33.944110852Z",
+  "model": "glm-5.3"
+}

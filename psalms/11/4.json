@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 11:4",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 11,
+  "translation": "uYahwe ‎⟨ekhona⟩ ethempeleni ingcwele lakhe; uYahwe, isihlalo sakhe semizulu; amehlo akhe ayabona, amaphephendlela akhe ahlola abantwana babantu.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "בהיכל",
+      "gloss": "ethempeleni"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "ingcwele lakhe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "semizulu"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "isihlalo sakhe"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "amehlo akhe"
+    },
+    {
+      "surface": "יחזו",
+      "gloss": "ayabona"
+    },
+    {
+      "surface": "עפעפיו",
+      "gloss": "amaphephendlela akhe"
+    },
+    {
+      "surface": "יבחנu",
+      "gloss": "ahlola"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abantwana"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "babantu"
+    }
+  ],
+  "timestamp": "2026-09-18T14:32:39.690726213Z",
+  "model": "glm-5.3"
+}

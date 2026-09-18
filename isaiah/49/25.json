@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "isaiah 49:25",
+  "book": "isaiah",
+  "lang": "xh",
+  "chapter": 49,
+  "translation": "Kuba uthe uYahwe: naphefumlo wenkulunkulu uza kutyunyuzwa, nto leyo etyiweyo yomthetho yomkhosi uza kusindwa; ndiza kudibana nabo bakudibanayo, ndiza kusindisa oonyana bakho.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "כה",
+      "gloss": "ngokuthe"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "uthe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "גם",
+      "gloss": "naye"
+    },
+    {
+      "surface": "שבי",
+      "gloss": "isigebenga samabandla"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "wenkulunkulu"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "uza kutyunyuzwa"
+    },
+    {
+      "surface": "ומלקוח",
+      "gloss": "nento etyiweyo yomthetho"
+    },
+    {
+      "surface": "עריץ",
+      "gloss": "yomkhosi"
+    },
+    {
+      "surface": "ימלט",
+      "gloss": "uza kusindwa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "abo bakudibanayo"
+    },
+    {
+      "surface": "יריבך",
+      "gloss": "abakudibanayo"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "mna"
+    },
+    {
+      "surface": "אריב",
+      "gloss": "ndiza kudibana"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "oonyana bakho"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "oonyana bakho"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "mna"
+    },
+    {
+      "surface": "אושיע",
+      "gloss": "ndiza kusindisa"
+    }
+  ],
+  "timestamp": "2026-09-18T11:38:52.970632003Z",
+  "model": "glm-5.3"
+}

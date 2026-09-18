@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-chronicles 5:11",
+  "book": "2-chronicles",
+  "lang": "xh",
+  "chapter": 5,
+  "translation": "Kwaye kwenzeka ekuphumeni kweenkosizendalo endlini engcwele, kuba iinkosizendalo zonke eezikhoyo zichazwe, akukho mntu umgcinisela amaqela.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "kwaye kwenzeka"
+    },
+    {
+      "surface": "בצאת",
+      "gloss": "ekuphumeni"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "iinkosizendalo"
+    },
+    {
+      "surface": "מן",
+      "gloss": "e-"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "endlini engcwele"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zonke"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "iinkosizendalo"
+    },
+    {
+      "surface": "הנמצאים",
+      "gloss": "eezikhoyo"
+    },
+    {
+      "surface": "התקדשו",
+      "gloss": "zichazwe"
+    },
+    {
+      "surface": "אין",
+      "gloss": "akukho mntu"
+    },
+    {
+      "surface": "לשמור",
+      "gloss": "umgcinisela"
+    },
+    {
+      "surface": "למחלקות",
+      "gloss": "amaqela"
+    }
+  ],
+  "timestamp": "2026-09-18T17:03:36.321646675Z",
+  "model": "glm-5.3"
+}

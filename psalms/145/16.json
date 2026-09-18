@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 145:16",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 145,
+  "translation": "Uyavula ⟨את⟩ isandla sakho, uzasela konke okuphila yolonwabo.",
+  "tokens": [
+    {
+      "surface": "פותח",
+      "gloss": "uyavula"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isandla sakho"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "isandla sakho"
+    },
+    {
+      "surface": "ומשביע",
+      "gloss": "uzasela"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "konke"
+    },
+    {
+      "surface": "חי",
+      "gloss": "okuphila"
+    },
+    {
+      "surface": "רצון",
+      "gloss": "yolonwabo"
+    }
+  ],
+  "timestamp": "2026-09-18T15:33:46.136687907Z",
+  "model": "glm-5.3"
+}

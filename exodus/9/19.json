@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 9:19",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 9,
+  "translation": "Kananjalo ngoku yezisa ⟨ngokukhawuleza⟩ ⟨את⟩ iziphahlela zakho ⟨את⟩ nako konke okunalo ensimini; umntu wonke nethole eliya kufumaneka ensimini lingangenwa endlwini — umkrazo uza kwehla phezu kwawo, aze bafa.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Kananjalo ngoku"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "yezisa"
+    },
+    {
+      "surface": "העז",
+      "gloss": "ngokukhawuleza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iziphahlela zakho"
+    },
+    {
+      "surface": "מקנך",
+      "gloss": "iziphahlela zakho"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "nako konke"
+    },
+    {
+      "surface": "כל",
+      "gloss": "konke"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oko"
+    },
+    {
+      "surface": "לך",
+      "gloss": "okunalo"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "ensimini"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wonke"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "umntu"
+    },
+    {
+      "surface": "והבהמה",
+      "gloss": "nethole"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "elo"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "eliya kufumaneka"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "ensimini"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "de lingangenwa"
+    },
+    {
+      "surface": "יאסף",
+      "gloss": "lingenwa"
+    },
+    {
+      "surface": "הביתה",
+      "gloss": "endlwini"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "uza kwehla"
+    },
+    {
+      "surface": "עלהם",
+      "gloss": "phezu kwawo"
+    },
+    {
+      "surface": "הברד",
+      "gloss": "umkrazo"
+    },
+    {
+      "surface": "ומתו",
+      "gloss": "aze bafa"
+    }
+  ],
+  "timestamp": "2026-09-18T05:57:03.145185129Z",
+  "model": "glm-5.3"
+}

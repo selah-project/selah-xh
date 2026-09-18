@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 36:10",
+  "book": "numbers",
+  "lang": "xh",
+  "chapter": 36,
+  "translation": "Njengoko uYahwe wayalela ⟨את⟩ uMoshe, ngokunjalo kwakwenza amakhosikazi kaTslosefada.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "Njengoko"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "wayalela"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uMoshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "uMoshe"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ngokunjalo"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "kwakwenza"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "amakhosikazi ka"
+    },
+    {
+      "surface": "צלפחד",
+      "gloss": "Tslosefada"
+    }
+  ],
+  "timestamp": "2026-09-18T07:51:21.200185648Z",
+  "model": "glm-5.3"
+}

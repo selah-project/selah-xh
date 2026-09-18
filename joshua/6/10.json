@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 6:10",
+  "book": "joshua",
+  "lang": "xh",
+  "chapter": 6,
+  "translation": "U-Yehoshuwa wayalela ⟨את⟩ abantu, esithi: Ningamemezi, ningazi kwazisi ⟨את⟩ izwi lenu, kwaye akukho ligama elingaphuma emlonyeni weni, de kube ngumhla endithi kuni ngawo: Memezani — niza kumemeza.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "abantu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "wayalela"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "U-Yehoshuwa"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "esithi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "musa (ninga-)"
+    },
+    {
+      "surface": "תריעו",
+      "gloss": "ukumemeza"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kwaye musa"
+    },
+    {
+      "surface": "תשמיעו",
+      "gloss": "ukwazisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izwi lenu"
+    },
+    {
+      "surface": "קולכם",
+      "gloss": "izwi lenu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kwaye akukho"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "elingaphuma"
+    },
+    {
+      "surface": "מפיכם",
+      "gloss": "emlonyeni weni"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ligama"
+    },
+    {
+      "surface": "עד",
+      "gloss": "de kube"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ngumhla"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "endithi"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "kuni"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "Memezani"
+    },
+    {
+      "surface": "והריעתם",
+      "gloss": "niza kumemeza"
+    }
+  ],
+  "timestamp": "2026-09-18T08:29:27.501760532Z",
+  "model": "glm-5.3"
+}

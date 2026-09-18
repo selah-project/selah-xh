@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 22:1",
+  "book": "isaiah",
+  "lang": "xh",
+  "chapter": 22,
+  "translation": "Uthwalo lweNtlambo yeMbono. Yintoni eneyingxaki kuwe ngoku, ukuba wenyuke wonke wena phezu kweephahla?",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "Uthwalo"
+    },
+    {
+      "surface": "גיא",
+      "gloss": "lweNtlambo"
+    },
+    {
+      "surface": "חזיון",
+      "gloss": "yeMbono"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Yintoni"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kuwe"
+    },
+    {
+      "surface": "אפוא",
+      "gloss": "ngoku"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ukuba"
+    },
+    {
+      "surface": "עלית",
+      "gloss": "wenyuke"
+    },
+    {
+      "surface": "כלך",
+      "gloss": "wonke wena"
+    },
+    {
+      "surface": "לגגות",
+      "gloss": "phezu kweephahla"
+    }
+  ],
+  "timestamp": "2026-09-18T11:15:59.717561174Z",
+  "model": "glm-5.3"
+}

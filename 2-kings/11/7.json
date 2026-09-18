@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 11:7",
+  "book": "2-kings",
+  "lang": "xh",
+  "chapter": 11,
+  "translation": "Kwaye amacandelo amabini kunina, onke aphumayo ngosuku lweSabatha, balinde ⟨את⟩ ekhuselo yendlu kaYahwe kumlawuli.",
+  "tokens": [
+    {
+      "surface": "ושתי",
+      "gloss": "kwaye amacandelo amabini"
+    },
+    {
+      "surface": "הידות",
+      "gloss": "amacandelo"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "kunina"
+    },
+    {
+      "surface": "כל",
+      "gloss": "onke"
+    },
+    {
+      "surface": "יצאי",
+      "gloss": "aphumayo"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "ngosuku lweSabatha"
+    },
+    {
+      "surface": "ושמרו",
+      "gloss": "balinde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ekhuselo"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "ekhuselo"
+    },
+    {
+      "surface": "בית",
+      "gloss": "yendlu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kaYahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mlawuli"
+    }
+  ],
+  "timestamp": "2026-09-18T10:45:49.329654601Z",
+  "model": "glm-5.3"
+}

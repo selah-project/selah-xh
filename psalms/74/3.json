@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 74:3",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 74,
+  "translation": "Nyusa amanyathelo akho esitshabalalisini esingunaphakade; konke okungalunganga owakwenza umdushi kwindawo engcwele.",
+  "tokens": [
+    {
+      "surface": "הרימה",
+      "gloss": "nyusa"
+    },
+    {
+      "surface": "פעמיך",
+      "gloss": "amanyathelo akho"
+    },
+    {
+      "surface": "למשאות",
+      "gloss": "esitshabalalisini"
+    },
+    {
+      "surface": "נצח",
+      "gloss": "esingunaphakade"
+    },
+    {
+      "surface": "כל",
+      "gloss": "konke"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "okungalunganga"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "umdushi"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "kwindawo engcwele"
+    }
+  ],
+  "timestamp": "2026-09-18T15:02:04.672177895Z",
+  "model": "glm-5.3"
+}

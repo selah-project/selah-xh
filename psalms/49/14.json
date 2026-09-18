@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 49:14",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 49,
+  "translation": "Le yindlela yabo, ubuwisi ⟨kubo⟩; kwangoko abo basemva kwabo bathanda iintetho zabo ngomlomo wabo. Selah.",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "Le"
+    },
+    {
+      "surface": "דרכם",
+      "gloss": "yindlela yabo"
+    },
+    {
+      "surface": "כסל",
+      "gloss": "ubuwisi"
+    },
+    {
+      "surface": "למו",
+      "gloss": "⟨kubo⟩"
+    },
+    {
+      "surface": "ואחריהם",
+      "gloss": "abo basemva kwabo"
+    },
+    {
+      "surface": "בפיהם",
+      "gloss": "ngomlomo wabo"
+    },
+    {
+      "surface": "ירצו",
+      "gloss": "bathanda"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-18T14:47:14.165511825Z",
+  "model": "glm-5.3"
+}

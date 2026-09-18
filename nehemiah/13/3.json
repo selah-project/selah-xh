@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "nehemiah 13:3",
+  "book": "nehemiah",
+  "lang": "xh",
+  "chapter": 13,
+  "translation": "Kwathi xa beyiva ⟨את⟩ iTora, bahlukanisa onke abaxubeneyo kuSirayeli.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Kwathi"
+    },
+    {
+      "surface": "כשמעם",
+      "gloss": "xa beyiva"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iTora"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "iTora"
+    },
+    {
+      "surface": "ויבדילו",
+      "gloss": "bahlukanisa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "onke"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "abaxubeneyo"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "kuSirayeli"
+    }
+  ],
+  "timestamp": "2026-09-18T16:49:56.421788724Z",
+  "model": "glm-5.3"
+}

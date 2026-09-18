@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-samuel 18:25",
+  "book": "1-samuel",
+  "lang": "xh",
+  "chapter": 18,
+  "translation": "USawuli wathi: “Nithi kanje kuDavide: Akukho nto oyintloko ayifunayo yimali yesithsombe, kodwa izikhumba ezizange ziqhawulwe ezili-100 zamaFilisti, ukuziphindisela kumchasi weNkosi.” USawuli wayecinga ukuwisa ⟨את⟩ uDavide esandleni samaFilisti.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "uSawuli"
+    },
+    {
+      "surface": "כה",
+      "gloss": "kanje"
+    },
+    {
+      "surface": "תאמרו",
+      "gloss": "nithi"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "kuDavide"
+    },
+    {
+      "surface": "אין",
+      "gloss": "akukho"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "nto (eyfuniwayo)"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "inkosi"
+    },
+    {
+      "surface": "במהר",
+      "gloss": "yimali yesithsombe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kodwa"
+    },
+    {
+      "surface": "במאה",
+      "gloss": "ezili-100"
+    },
+    {
+      "surface": "ערלות",
+      "gloss": "izikhumba ezizange ziqhawulwe"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "zamaFilisti"
+    },
+    {
+      "surface": "להנקם",
+      "gloss": "ukuziphindisela"
+    },
+    {
+      "surface": "באיבי",
+      "gloss": "kumchasi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "weNkosi"
+    },
+    {
+      "surface": "ושאול",
+      "gloss": "uSawuli"
+    },
+    {
+      "surface": "חשב",
+      "gloss": "wayecinga"
+    },
+    {
+      "surface": "להפיל",
+      "gloss": "ukuwisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uDavide"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "uDavide"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "esandleni"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "samaFilisti"
+    }
+  ],
+  "timestamp": "2026-09-18T09:32:04.012639455Z",
+  "model": "glm-5.3"
+}

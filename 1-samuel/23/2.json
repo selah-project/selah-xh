@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 23:2",
+  "book": "1-samuel",
+  "lang": "xh",
+  "chapter": 23,
+  "translation": "UDawidili wabuza kuYahwe, ethi: “Ndingenisa ukuhamba ndibethe amaPelishti la?” UYahwe wathi kuDawidili: “Hamba, ubethe amaPelishti, usindise ⟨את⟩ iKeyila.”",
+  "tokens": [
+    {
+      "surface": "וישאל",
+      "gloss": "wabuza"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "uDawidili"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "kuYahwe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ethi"
+    },
+    {
+      "surface": "האלך",
+      "gloss": "ndingenisa ukuhamba"
+    },
+    {
+      "surface": "והכיתי",
+      "gloss": "ndibethe"
+    },
+    {
+      "surface": "בפלשתים",
+      "gloss": "amaPelishti"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "la"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "uDawidili"
+    },
+    {
+      "surface": "לך",
+      "gloss": "hamba"
+    },
+    {
+      "surface": "והכית",
+      "gloss": "ubethe"
+    },
+    {
+      "surface": "בפלשתים",
+      "gloss": "amaPelishti"
+    },
+    {
+      "surface": "והושעת",
+      "gloss": "usindise"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iKeyila"
+    },
+    {
+      "surface": "קעילה",
+      "gloss": "iKeyila"
+    }
+  ],
+  "timestamp": "2026-09-18T09:35:54.324045743Z",
+  "model": "glm-5.3"
+}

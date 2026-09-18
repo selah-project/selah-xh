@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 64,
+  "ref": "ezra 2:64",
+  "book": "ezra",
+  "lang": "xh",
+  "chapter": 2,
+  "translation": "Lonke iqela, njengesinye, lalinamashumi amane anamathandathu ezigidi, amawaka amabini, amakhulu amathathu anamashumi amathandathu.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "lonke"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "iqela"
+    },
+    {
+      "surface": "כאחד",
+      "gloss": "njengesinye"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "amashumi amane"
+    },
+    {
+      "surface": "רבוא",
+      "gloss": "ezigidi"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "amawaka amabini"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "amakhulu amathathu"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "amakhulu"
+    },
+    {
+      "surface": "ששים",
+      "gloss": "anamashumi amathandathu"
+    }
+  ],
+  "timestamp": "2026-09-18T16:39:46.938767274Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 1:3",
+  "book": "2-samuel",
+  "lang": "xh",
+  "chapter": 1,
+  "translation": "WDawidi wathi kuye: “Uvelaphi na?” Yena wathi kuye: “Ndiphelele edolopheni yabaseYisrayeli.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kuye"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "uDawidi"
+    },
+    {
+      "surface": "אי",
+      "gloss": "velaphi na"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "apha"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "uza"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kuye"
+    },
+    {
+      "surface": "ממחנה",
+      "gloss": "edolopheni yabase-"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrayeli"
+    },
+    {
+      "surface": "נמלטתי",
+      "gloss": "ndiphelele"
+    }
+  ],
+  "timestamp": "2026-09-18T17:29:54.821657798Z",
+  "model": "glm-5.3"
+}

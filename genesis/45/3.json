@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 45:3",
+  "book": "genesis",
+  "lang": "xh",
+  "chapter": 45,
+  "translation": "Wathi uYosef kubakwabo: “NdinguYosef; ngaba ubawo usaphila?” Bakwabo babengakwazi ukumphendula ⟨את⟩ yena, kuba bathukile phambi kwakhe.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Wathi"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "uYosef"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "bakwabo"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Ndi-"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "nguYosef"
+    },
+    {
+      "surface": "העוד",
+      "gloss": "ngaba usaphila"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "ubawo"
+    },
+    {
+      "surface": "חי",
+      "gloss": "usaphila"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "hayi"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "babengakwazi"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "bakwabo"
+    },
+    {
+      "surface": "לענות",
+      "gloss": "ukumphendula"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ yena",
+      "marks": "ukumphendula yena"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "נבהלו",
+      "gloss": "bathukile"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "phambi kwakhe"
+    }
+  ],
+  "timestamp": "2026-09-18T05:45:25.984095336Z",
+  "model": "glm-5.3"
+}

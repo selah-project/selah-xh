@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 59,
+  "ref": "deuteronomy 28:59",
+  "book": "deuteronomy",
+  "lang": "xh",
+  "chapter": 28,
+  "translation": "ngoko uYahwe uza kwenza ⟨את⟩ ukugula kwakho zimangalisa, nakwiintlekele zako-ntwana bakho — iintlekele ezinkulu nezinamandla, nezigulo ezibi nezinamandla.",
+  "tokens": [
+    {
+      "surface": "והפלא",
+      "gloss": "uza kwenza zimangalisa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ukugula kwakho"
+    },
+    {
+      "surface": "מכתך",
+      "gloss": "ukugula kwakho"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "iintlekele zako-ntwana bakho"
+    },
+    {
+      "surface": "מכות",
+      "gloss": "iintlekele"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "zako-ntwana bakho"
+    },
+    {
+      "surface": "מכות",
+      "gloss": "iintlekele"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "ezinkulu"
+    },
+    {
+      "surface": "ונאמנות",
+      "gloss": "nezinamandla"
+    },
+    {
+      "surface": "וחלים",
+      "gloss": "nezigulo"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "ezibi"
+    },
+    {
+      "surface": "ונאמנים",
+      "gloss": "nezinamandla"
+    }
+  ],
+  "timestamp": "2026-09-18T08:18:44.612712395Z",
+  "model": "glm-5.3"
+}

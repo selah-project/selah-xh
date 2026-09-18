@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "malachi 2:4",
+  "book": "malachi",
+  "lang": "xh",
+  "chapter": 2,
+  "translation": "Kwaye niya kuwazi ukuba mna ndithumele kuni ⟨את⟩ le myalelo, ukuba umnqophiso wam ube ⟨את⟩ noLeyi, uthe uYahwe Tsebhayoti.",
+  "tokens": [
+    {
+      "surface": "וידעתם",
+      "gloss": "Kwaye niya kuwazi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ukuba"
+    },
+    {
+      "surface": "שלחתי",
+      "gloss": "ndithumele"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "kuni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le myalelo"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "le myalelo"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "le"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "ukuba"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "umnqophiso wam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ noLeyi",
+      "marks": "uLeyi"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "uLeyi"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "uthe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsebhayoti"
+    }
+  ],
+  "timestamp": "2026-09-18T14:25:21.630980539Z",
+  "model": "glm-5.3"
+}

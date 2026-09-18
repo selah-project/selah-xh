@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "joshua 24:12",
+  "book": "joshua",
+  "lang": "xh",
+  "chapter": 24,
+  "translation": "Ndathumela phambi kwenu ⟨את⟩ iswazi, sabakhupha phambi kwenu — amakumkani amabini amaEmori; hayi ngesabelwane sakho, nakanye hayi ngesiphephetho sakho.",
+  "tokens": [
+    {
+      "surface": "ואשלח",
+      "gloss": "ndathumela"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "phambi kwenu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iswazi"
+    },
+    {
+      "surface": "הצרעה",
+      "gloss": "iswazi"
+    },
+    {
+      "surface": "ותגרש",
+      "gloss": "sabakhupha"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "amakumkani amabini amaEmori"
+    },
+    {
+      "surface": "מפניכם",
+      "gloss": "phambi kwenu"
+    },
+    {
+      "surface": "שני",
+      "gloss": "amabini"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "amakumkani"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "amaEmori"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hayi"
+    },
+    {
+      "surface": "בחרבך",
+      "gloss": "ngesabelwane sakho"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "nakanye hayi"
+    },
+    {
+      "surface": "בקשתך",
+      "gloss": "ngesiphephetho sakho"
+    }
+  ],
+  "timestamp": "2026-09-18T08:47:02.473544453Z",
+  "model": "glm-5.3"
+}

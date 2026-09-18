@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 144:15",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 144,
+  "translation": "Lusizi oluhle abantu abanako oko; lusizi oluhle abantu aba nguYahwe uElohim wabo.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "lusizi oluhle"
+    },
+    {
+      "surface": "העם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "שככה",
+      "gloss": "abanako oko"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kubo"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "lusizi oluhle"
+    },
+    {
+      "surface": "העם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "שיהוה",
+      "gloss": "aba nguYahwe"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "uElohim wabo"
+    }
+  ],
+  "timestamp": "2026-09-18T15:33:32.210225250Z",
+  "model": "glm-5.3"
+}

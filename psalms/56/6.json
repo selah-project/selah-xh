@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 56:6",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 56,
+  "translation": "Yonke imihla bayatshikila amagama am; imicingwango yabo yonke ichasene nam ngobubi.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Yonke"
+    },
+    {
+      "surface": "היום",
+      "gloss": "imihla"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "amagama am"
+    },
+    {
+      "surface": "יעצבו",
+      "gloss": "bayatshikila"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "kum"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zonke"
+    },
+    {
+      "surface": "מחשבתם",
+      "gloss": "imicingwango yabo"
+    },
+    {
+      "surface": "לרע",
+      "gloss": "ngobubi"
+    }
+  ],
+  "timestamp": "2026-09-18T14:51:20.207745250Z",
+  "model": "glm-5.3"
+}

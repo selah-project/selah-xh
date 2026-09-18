@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 11:6",
+  "book": "1-samuel",
+  "lang": "xh",
+  "chapter": 11,
+  "translation": "Waza umoya kaElohim wam kakuqinisekileyo uShawuli ekuwenza la magama; intukuthzano yakhe yavutha ngamandla.",
+  "tokens": [
+    {
+      "surface": "ותצלח",
+      "gloss": "wam kakuqinisekileyo"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "umoya"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "kaElohim"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "uShawuli"
+    },
+    {
+      "surface": "בשמעו",
+      "gloss": "ekuwenza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la magama"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "amagama"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "la"
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "yavutha"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "intukuthzano yakhe"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ngamandla"
+    }
+  ],
+  "timestamp": "2026-09-18T09:21:48.387760929Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 91:14",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 91,
+  "translation": "Kuba undithandile, ndiza kumkhulula; ndiza kumbeka phezulu, kuba uyayazi igama lam.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kuba"
+    },
+    {
+      "surface": "בי",
+      "gloss": "um"
+    },
+    {
+      "surface": "חשק",
+      "gloss": "undithandile"
+    },
+    {
+      "surface": "ואפלטהו",
+      "gloss": "ndiza kumkhulula"
+    },
+    {
+      "surface": "אשגבהו",
+      "gloss": "ndiza kumbeka phezulu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "uyayazi"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "igama lam"
+    }
+  ],
+  "timestamp": "2026-09-18T15:10:57.043190148Z",
+  "model": "glm-5.3"
+}

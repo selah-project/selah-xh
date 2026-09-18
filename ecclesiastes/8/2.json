@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 8:2",
+  "book": "ecclesiastes",
+  "lang": "xh",
+  "chapter": 8,
+  "translation": "Mna ⟨ndithi⟩: zigcine mlomo wenkosi, nangenxa yesithembiso sikaElohim.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Mna"
+    },
+    {
+      "surface": "פי",
+      "gloss": "mlomo"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "wenkosi"
+    },
+    {
+      "surface": "שמור",
+      "gloss": "zigcine"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "nangenxa ye-"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "ngenxa"
+    },
+    {
+      "surface": "שבועת",
+      "gloss": "yesithembiso"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "sikaElohim"
+    }
+  ],
+  "timestamp": "2026-09-18T16:25:52.961953824Z",
+  "model": "glm-5.3"
+}

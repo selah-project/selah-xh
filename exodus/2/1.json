@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 2:1",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 2,
+  "translation": "Waya umntu wendlu kaLevi, wathatha ⟨את⟩ intombi kaLevi.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "Waya"
+    },
+    {
+      "surface": "איש",
+      "gloss": "umntu"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "wendlu"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "kaLevi"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "wathatha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "intombi kaLevi"
+    },
+    {
+      "surface": "בת",
+      "gloss": "intombi"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "kaLevi"
+    }
+  ],
+  "timestamp": "2026-09-18T05:49:52.250543194Z",
+  "model": "glm-5.3"
+}

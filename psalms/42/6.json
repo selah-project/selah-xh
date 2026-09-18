@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 42:6",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 42,
+  "translation": "Ukungcwinya yini, inefeshi yam, kwaye ukhalazela phakathi kwam? Yiba nethemba kuElohim, kuba ndiza kumdankisa noko; ⟨ngu⟩Yahwe ⟨yedla⟩ iintsindweiso zobuso bakhe.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Yini"
+    },
+    {
+      "surface": "תשתוחחי",
+      "gloss": "ukungcwinya"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "inefeshi yam"
+    },
+    {
+      "surface": "ותהמי",
+      "gloss": "kwaye ukhalazela"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "phakathi kwam"
+    },
+    {
+      "surface": "הוחילי",
+      "gloss": "yiba nethemba"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "kuElohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "noko"
+    },
+    {
+      "surface": "אודנו",
+      "gloss": "ndiza kumdankisa"
+    },
+    {
+      "surface": "ישועות",
+      "gloss": "iintsindweiso"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "zobuso bakhe"
+    }
+  ],
+  "timestamp": "2026-09-18T14:45:53.083912075Z",
+  "model": "glm-5.3"
+}

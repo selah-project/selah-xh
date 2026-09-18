@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 5:10",
+  "book": "1-kings",
+  "lang": "xh",
+  "chapter": 5,
+  "translation": "Ulwazi lukaShelomoh lwagqitha ulwazi lwawo onke abantwana bakaMphuma, nakuwo wonke ulwazi lweMitsrayim.",
+  "tokens": [
+    {
+      "surface": "ותרב",
+      "gloss": "lwagqitha"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "ulwazi"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "lukaShelomoh"
+    },
+    {
+      "surface": "מחכמת",
+      "gloss": "ulwazi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "onke"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abantwana"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "bakaMphuma"
+    },
+    {
+      "surface": "ומכל",
+      "gloss": "nakuwo wonke"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "ulwazi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "lweMitsrayim"
+    }
+  ],
+  "timestamp": "2026-09-18T10:13:18.233614070Z",
+  "model": "glm-5.3"
+}

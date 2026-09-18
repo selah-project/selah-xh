@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 30:1",
+  "book": "1-samuel",
+  "lang": "xh",
+  "chapter": 30,
+  "translation": "Kwathi ekufikeni kukaDavide namadoda aye eTsiklagi, ngomhla wesithathu, ama-Amaleki abo asakazelela elaseNekheba naseTsiklagi, wabetha iTsiklagi wayitshixa ngumhlilo.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Kwathi"
+    },
+    {
+      "surface": "בבא",
+      "gloss": "ekufikeni"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ukaDavide"
+    },
+    {
+      "surface": "ואנשיו",
+      "gloss": "namadoda aye"
+    },
+    {
+      "surface": "צקלג",
+      "gloss": "eTsiklagi"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ngomhla"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "wesithathu"
+    },
+    {
+      "surface": "ועמלקי",
+      "gloss": "ama-Amaleki"
+    },
+    {
+      "surface": "פשטו",
+      "gloss": "asakazelela"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ela-"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "seNekheba"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "nase-"
+    },
+    {
+      "surface": "צקלג",
+      "gloss": "Tsiklagi"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "wabetha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iTsiklagi"
+    },
+    {
+      "surface": "צקלג",
+      "gloss": "iTsiklagi"
+    },
+    {
+      "surface": "וישרפו",
+      "gloss": "wayitshixa"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ yona",
+      "marks": "ngumhlilo"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ngumhlilo"
+    }
+  ],
+  "timestamp": "2026-09-18T09:40:31.989609193Z",
+  "model": "glm-5.3"
+}

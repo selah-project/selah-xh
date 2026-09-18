@@ -1,0 +1,30 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 11:15",
+  "book": "leviticus",
+  "lang": "xh",
+  "chapter": 11,
+  "translation": "⟨את⟩ yonke iOrevi ngohlobo lwayo.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yonke iOrevi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yonke"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "iOrevi"
+    },
+    {
+      "surface": "למינו",
+      "gloss": "ngohlobo lwayo"
+    }
+  ],
+  "timestamp": "2026-09-18T06:41:41.884514600Z",
+  "model": "glm-5.3"
+}

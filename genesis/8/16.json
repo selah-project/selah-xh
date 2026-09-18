@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 8:16",
+  "book": "genesis",
+  "lang": "xh",
+  "chapter": 8,
+  "translation": "“Phuma etywaleni, wena nomfazi wakho nabanakwakho nabafazi abanakwakho ⟨את⟩ wena.”",
+  "tokens": [
+    {
+      "surface": "צא",
+      "gloss": "Phuma"
+    },
+    {
+      "surface": "מן",
+      "gloss": "e"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "tywaleni"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "ואשתך",
+      "gloss": "nomfazi wakho"
+    },
+    {
+      "surface": "ובניך",
+      "gloss": "nabanakwakho"
+    },
+    {
+      "surface": "ונשי",
+      "gloss": "nabafazi"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "abanakwakho"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "wena"
+    }
+  ],
+  "timestamp": "2026-09-18T17:18:26.704557603Z",
+  "model": "glm-5.3"
+}

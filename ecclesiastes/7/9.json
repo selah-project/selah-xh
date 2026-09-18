@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 7:9",
+  "book": "ecclesiastes",
+  "lang": "xh",
+  "chapter": 7,
+  "translation": "Musa ukukhawulela ngomoya wakho ukulwa intlungu, kuba intlungu iphumla esifubeni zeziphukuphukuni.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "musa"
+    },
+    {
+      "surface": "תבהל",
+      "gloss": "ukukhawulela"
+    },
+    {
+      "surface": "ברוחך",
+      "gloss": "ngomoya wakho"
+    },
+    {
+      "surface": "לכעוס",
+      "gloss": "ukulwa intlungu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "כעס",
+      "gloss": "intlungu"
+    },
+    {
+      "surface": "בחיק",
+      "gloss": "esifubeni"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "zeziphukuphukuni"
+    },
+    {
+      "surface": "ינוח",
+      "gloss": "iphumla"
+    }
+  ],
+  "timestamp": "2026-09-18T16:25:23.350250512Z",
+  "model": "glm-5.3"
+}

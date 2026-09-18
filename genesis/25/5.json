@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 25:5",
+  "book": "genesis",
+  "lang": "xh",
+  "chapter": 25,
+  "translation": "U-Avraham wanika uYitschak ⟨את⟩ konke okwayakhe.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "wanika"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "u-Avraham"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "konke"
+    },
+    {
+      "surface": "כל",
+      "gloss": "konke"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oko"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kuye"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "kuYitschak"
+    }
+  ],
+  "timestamp": "2026-09-18T05:21:52.814951680Z",
+  "model": "glm-5.3"
+}

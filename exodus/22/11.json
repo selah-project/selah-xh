@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 22:11",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 22,
+  "translation": "Yaye ukuba ithunjwe ngokwenene kuye, makahlawulele umnikazi wayo.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "yaye ukuba"
+    },
+    {
+      "surface": "גנב",
+      "gloss": "ngokwenene"
+    },
+    {
+      "surface": "יגנב",
+      "gloss": "ithunjwe"
+    },
+    {
+      "surface": "מעמו",
+      "gloss": "kuye"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "makahlawulele"
+    },
+    {
+      "surface": "לבעליו",
+      "gloss": "umnikazi wayo"
+    }
+  ],
+  "timestamp": "2026-09-18T06:08:07.604992281Z",
+  "model": "glm-5.3"
+}

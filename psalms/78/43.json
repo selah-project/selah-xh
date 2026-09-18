@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "psalms 78:43",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 78,
+  "translation": "Xa abeka iimpawu zakhe eMitsrayim, nemangalisa zakhe kwisima saseTsoani.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "xa"
+    },
+    {
+      "surface": "שם",
+      "gloss": "abeka"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "eMitsrayim"
+    },
+    {
+      "surface": "אתותיו",
+      "gloss": "iimpawu zakhe"
+    },
+    {
+      "surface": "ומופתיו",
+      "gloss": "nemangalisa zakhe"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "kwisima"
+    },
+    {
+      "surface": "צען",
+      "gloss": "saseTsoani"
+    }
+  ],
+  "timestamp": "2026-09-18T15:02:59.868699303Z",
+  "model": "glm-5.3"
+}

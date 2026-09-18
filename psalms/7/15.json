@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 7:15",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 7,
+  "translation": "Yabonani, ulwizi lokholo luyakukhwebelela, lumcimbe umgwebo, luzale ubuxoki.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "yabonani"
+    },
+    {
+      "surface": "יחבל",
+      "gloss": "luyakukhwebelela"
+    },
+    {
+      "surface": "און",
+      "gloss": "ulwizi lokholo"
+    },
+    {
+      "surface": "והרה",
+      "gloss": "lumcimbe"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "umgwebo"
+    },
+    {
+      "surface": "וילד",
+      "gloss": "luzale"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "ubuxoki"
+    }
+  ],
+  "timestamp": "2026-09-18T14:25:57.830584954Z",
+  "model": "glm-5.3"
+}

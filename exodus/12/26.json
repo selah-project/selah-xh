@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 12:26",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 12,
+  "translation": "Kwaye kuya kwenzeka, xa oonyana benu besithi kuni: “Yintoni le nkonzo kuni?”",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "kwaye kuya kwenzeka"
+    },
+    {
+      "surface": "כי",
+      "gloss": "xa"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "besithi"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "kuni"
+    },
+    {
+      "surface": "בניכם",
+      "gloss": "oonyana benu"
+    },
+    {
+      "surface": "מה",
+      "gloss": "yintoni"
+    },
+    {
+      "surface": "העבדה",
+      "gloss": "le nkonzo"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "le"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kuni"
+    }
+  ],
+  "timestamp": "2026-09-18T06:02:10.491020852Z",
+  "model": "glm-5.3"
+}

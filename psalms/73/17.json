@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 73:17",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 73,
+  "translation": "Kude ndangena kwiindawo zangcwele zika-El; ndaqonda ⟨okokugqibela⟩ kwabo.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "kude"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "ndangena"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwi"
+    },
+    {
+      "surface": "מקדשי",
+      "gloss": "iindawo zangcwele"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka-El"
+    },
+    {
+      "surface": "אבינה",
+      "gloss": "ndaqonda"
+    },
+    {
+      "surface": "לאחריתם",
+      "gloss": "okokugqibela kwabo"
+    }
+  ],
+  "timestamp": "2026-09-18T15:00:01.029287073Z",
+  "model": "glm-5.3"
+}

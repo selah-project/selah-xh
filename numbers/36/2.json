@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 36:2",
+  "book": "numbers",
+  "lang": "xh",
+  "chapter": 36,
+  "translation": "Zathi: “u-Adonayi wethu, uYahwe wamyalela ukunika ⟨את⟩ umhlaba ngolifa, ngokwahlulwa ngoothambo, abantwana baseYisrayeli; kwaye wena, u-Adonayi wethu, walelelwa nguYahwe ukunika ⟨את⟩ ulifa lweTselofechadi, umnakwethu, kwiintombi zakhe.”",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "Zathi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "u-Adonayi wethu"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "u-Adonayi wethu"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "wamyalela"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "ukunika"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umhlaba"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "umhlaba"
+    },
+    {
+      "surface": "בנחלה",
+      "gloss": "ngolifa"
+    },
+    {
+      "surface": "בגורל",
+      "gloss": "ngokwahlulwa ngoothambo"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "abantwana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "baseYisrayeli"
+    },
+    {
+      "surface": "ואדני",
+      "gloss": "u-Adonayi wethu"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "walelelwa"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "nguYahwe"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "ukunika"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ulifa lweTselofechadi"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "ulifa"
+    },
+    {
+      "surface": "צלפחד",
+      "gloss": "lweTselofechadi"
+    },
+    {
+      "surface": "אחינו",
+      "gloss": "umnakwethu"
+    },
+    {
+      "surface": "לבנתיו",
+      "gloss": "kwiintombi zakhe"
+    }
+  ],
+  "timestamp": "2026-09-18T07:50:50.289163180Z",
+  "model": "glm-5.3"
+}

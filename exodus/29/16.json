@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 29:16",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 29,
+  "translation": "Ubulale ⟨את⟩ iyalah, uthabathe ⟨את⟩ igazi layo, ulichithe phezu kwealtari, jikeleze.",
+  "tokens": [
+    {
+      "surface": "ושחטת",
+      "gloss": "ubulale"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iyalah"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "iyalah"
+    },
+    {
+      "surface": "ולקחת",
+      "gloss": "uthabathe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "igazi layo"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "igazi layo"
+    },
+    {
+      "surface": "וזרקת",
+      "gloss": "ulichithe"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "kwealtari"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "jikeleze"
+    }
+  ],
+  "timestamp": "2026-09-18T06:16:39.431360479Z",
+  "model": "glm-5.3"
+}

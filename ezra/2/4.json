@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezra 2:4",
+  "book": "ezra",
+  "lang": "xh",
+  "chapter": 2,
+  "translation": "Abantwana baseShefatiya, amakhulu amathathu, amashumi amabini anesixhenxe anesibini.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Abantwana"
+    },
+    {
+      "surface": "שפטיה",
+      "gloss": "aseShefatiya"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "amathathu"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "amakhulu"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "amashumi amabini anesixhenxe"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "anesibini"
+    }
+  ],
+  "timestamp": "2026-09-18T16:38:55.637923061Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 15:1",
+  "book": "2-kings",
+  "lang": "xh",
+  "chapter": 15,
+  "translation": "Ngomnyaka wamashumi amabini anesixhenxe kaYarobhe'am, inkosi yakwa-Israyeli, uAzaryaha unyana kaAmatsya waba yinkosi yakwaYuda.",
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "Ngomnyaka"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "amashumi amabini"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "anesixhenxe"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "omnyaka"
+    },
+    {
+      "surface": "לירבעם",
+      "gloss": "kaYarobhe'am"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "inkosi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "yakwa-Israyeli"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "waba yinkosi"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "uAzaryaha"
+    },
+    {
+      "surface": "בן",
+      "gloss": "unyana"
+    },
+    {
+      "surface": "אמציה",
+      "gloss": "kaAmatsya"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "yinkosi"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "yakwaYuda"
+    }
+  ],
+  "timestamp": "2026-09-18T10:49:21.736981405Z",
+  "model": "glm-5.3"
+}

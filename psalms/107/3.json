@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 107:3",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 107,
+  "translation": "wabaqokelela kwii-lamazwe, empuma nakumazantsi entlama-ntla, entla-mpuma nakulwandle.",
+  "tokens": [
+    {
+      "surface": "ומארצות",
+      "gloss": "kwii-lamazwe"
+    },
+    {
+      "surface": "קבצם",
+      "gloss": "wabaqokelela"
+    },
+    {
+      "surface": "ממזרח",
+      "gloss": "empuma"
+    },
+    {
+      "surface": "וממערב",
+      "gloss": "nakumazantsi entlama-ntla"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "entla-mpuma"
+    },
+    {
+      "surface": "ומים",
+      "gloss": "nakulwandle"
+    }
+  ],
+  "timestamp": "2026-09-18T15:17:56.086555093Z",
+  "model": "glm-5.3"
+}

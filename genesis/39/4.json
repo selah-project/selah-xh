@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 39:4",
+  "book": "genesis",
+  "lang": "xh",
+  "chapter": 39,
+  "translation": "uYosef wafumana umusa emehlweni akhe, waza wamkhonza ⟨את⟩; waza wamisela yena phezu kendlu yakhe, yaye konke anako wakunika esandleni sakhe.",
+  "tokens": [
+    {
+      "surface": "וימצא",
+      "gloss": "wafumana"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "uYosef"
+    },
+    {
+      "surface": "חן",
+      "gloss": "umusa"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "emehlweni akhe"
+    },
+    {
+      "surface": "וישרת",
+      "gloss": "wamkhonza"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "yena (uYosef)"
+    },
+    {
+      "surface": "ויפקדהו",
+      "gloss": "wamisela"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "kendlu yakhe"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "konke"
+    },
+    {
+      "surface": "יש",
+      "gloss": "anako"
+    },
+    {
+      "surface": "לו",
+      "gloss": "akhe"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "wanika"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "esandleni sakhe"
+    }
+  ],
+  "timestamp": "2026-09-18T05:38:34.720444628Z",
+  "model": "glm-5.3"
+}

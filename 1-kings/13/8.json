@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 13:8",
+  "book": "1-kings",
+  "lang": "xh",
+  "chapter": 13,
+  "translation": "Umntu kaElohim wathi kinkosi: “Nokuba undinika ⟨את⟩ isiqingatha sendlu yakho, andizi nam; yaye andingatyi isonka, andingaseli amanzi kule ndawo.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "איש",
+      "gloss": "umntu"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "kaElohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "inkosi"
+    },
+    {
+      "surface": "אם",
+      "gloss": "nokuba"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "undinika"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isiqingatha sendlu yakho"
+    },
+    {
+      "surface": "חצי",
+      "gloss": "isiqingatha"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "sendlu yakho"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hayi"
+    },
+    {
+      "surface": "אבא",
+      "gloss": "ndizi"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "nam"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "yaye hayi"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "ndingatyi"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "isonka"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "yande"
+    },
+    {
+      "surface": "אשתה",
+      "gloss": "ndingaseli"
+    },
+    {
+      "surface": "מים",
+      "gloss": "amanzi"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "kule"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ndawo"
+    }
+  ],
+  "timestamp": "2026-09-18T10:26:25.312812600Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 28:8",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 28,
+  "translation": "Kwaye isikhaka somtya se-efodi esikho kuyo, njengomsebenzi wayo, ngokwaso iya kwenziwa ngaso: igolide, itekheleti, iargamani, itolaathi yeshani, nelineni olutsalelweyo.",
+  "tokens": [
+    {
+      "surface": "וחשב",
+      "gloss": "isikhaka sokuluka ocwangcisiweyo"
+    },
+    {
+      "surface": "אפדתו",
+      "gloss": "se-efodi yakhe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "es"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "kuyo"
+    },
+    {
+      "surface": "כמעשהו",
+      "gloss": "njengomsebenzi wayo"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ngokwaso kusuka kuyo"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "iya kwenziwa"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "igolide"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "itekheleti"
+    },
+    {
+      "surface": "וארגמן",
+      "gloss": "iargamani"
+    },
+    {
+      "surface": "ותולעת",
+      "gloss": "itolaathi"
+    },
+    {
+      "surface": "שני",
+      "gloss": "yeshani"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "elineni olungcamileyo"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "olutsalelweyo"
+    }
+  ],
+  "timestamp": "2026-09-18T06:15:06.837999824Z",
+  "model": "glm-5.3"
+}

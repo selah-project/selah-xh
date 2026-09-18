@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 61:5",
+  "book": "isaiah",
+  "lang": "xh",
+  "chapter": 61,
+  "translation": "Kwaye amahlwathi aza kuma, aza kulusa iimvu zenu, madodana amahlwathi aza kuba ngabalimi benu nakwingcali yeediliya zenu.",
+  "tokens": [
+    {
+      "surface": "ועמדו",
+      "gloss": "aza kuma"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "amahlwathi"
+    },
+    {
+      "surface": "ורעו",
+      "gloss": "aza kulusa"
+    },
+    {
+      "surface": "צאנכם",
+      "gloss": "iimvu zenu"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "madodana"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "amahlwathi"
+    },
+    {
+      "surface": "אכריכם",
+      "gloss": "abalimi benu"
+    },
+    {
+      "surface": "וכרמיכם",
+      "gloss": "nakwingcali yeediliya zenu"
+    }
+  ],
+  "timestamp": "2026-09-18T11:47:48.152008252Z",
+  "model": "glm-5.3"
+}

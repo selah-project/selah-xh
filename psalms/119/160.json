@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 160,
+  "ref": "psalms 119:160",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 119,
+  "translation": "Isiqala selizwi lakho yinyaniso, kuze kube phakade yonke imigwebo yolungilelo lwakho.",
+  "tokens": [
+    {
+      "surface": "ראש",
+      "gloss": "Isiqala"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "selizwi lakho"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "yinyaniso"
+    },
+    {
+      "surface": "ולעולם",
+      "gloss": "kuze kube phakade"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yonke"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "imigwebo"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "yolungilelo lwakho"
+    }
+  ],
+  "timestamp": "2026-09-18T15:26:10.123284967Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 16:21",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 16,
+  "translation": "Babutha ⟨את⟩ yona ekuseni ngekusa, umntu ngokwokutya kwakhe; kwafudumeza ilanga, yaye yanyibilika.",
+  "tokens": [
+    {
+      "surface": "וילקטו",
+      "gloss": "babutha"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "yona (ukutya)"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "ekuseni"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "ngekusa"
+    },
+    {
+      "surface": "איש",
+      "gloss": "umntu"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "ngokwokutya"
+    },
+    {
+      "surface": "אכלו",
+      "gloss": "kwakhe wokutya"
+    },
+    {
+      "surface": "וחם",
+      "gloss": "kwafudumeza"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "ilanga"
+    },
+    {
+      "surface": "ונמס",
+      "gloss": "yanyibilika"
+    }
+  ],
+  "timestamp": "2026-09-18T06:03:56.393801021Z",
+  "model": "glm-5.3"
+}

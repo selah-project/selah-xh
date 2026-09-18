@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 26:25",
+  "book": "proverbs",
+  "lang": "xh",
+  "chapter": 26,
+  "translation": "Xa ezenza 〈ngocebiso〉 ilizwi lakhe, ungamkholelwa yena; kuba ukungcatshatsheka okwesixhenxe kukwiintliziyo yakhe.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "xa"
+    },
+    {
+      "surface": "יחנן",
+      "gloss": "ezenza ngocebiso"
+    },
+    {
+      "surface": "קולו",
+      "gloss": "ilizwi lakhe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "unga-"
+    },
+    {
+      "surface": "תאמן",
+      "gloss": "mkholelwa"
+    },
+    {
+      "surface": "בו",
+      "gloss": "yena"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "okwesixhenxe"
+    },
+    {
+      "surface": "תועבות",
+      "gloss": "ukungcatshatsheka"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "kwiintliziyo yakhe"
+    }
+  ],
+  "timestamp": "2026-09-18T15:56:48.670186616Z",
+  "model": "glm-5.3"
+}

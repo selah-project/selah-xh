@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "isaiah 30:30",
+  "book": "isaiah",
+  "lang": "xh",
+  "chapter": 30,
+  "translation": "Uyahwe uza kwenza ukuba udumo lwe⟨את⟩ lizwi lwakhe luviwe, aze abonise ukwehla kwingalo yakhe ngolaka lokratyelwa, nangaselapho somlilo owutshayo — ukutyabuka, isiphepho, namatye omkhenkce.",
+  "tokens": [
+    {
+      "surface": "והשמיע",
+      "gloss": "uza kwenza ukuba luviwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "udumo"
+    },
+    {
+      "surface": "הוד",
+      "gloss": "udumo"
+    },
+    {
+      "surface": "קולו",
+      "gloss": "lizwi lwakhe"
+    },
+    {
+      "surface": "ונחת",
+      "gloss": "ukwehla"
+    },
+    {
+      "surface": "זרועו",
+      "gloss": "kwingalo yakhe"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "aze abonise"
+    },
+    {
+      "surface": "בזעף",
+      "gloss": "ngolaka"
+    },
+    {
+      "surface": "אף",
+      "gloss": "lokratyelwa"
+    },
+    {
+      "surface": "ולהב",
+      "gloss": "nangaselapho"
+    },
+    {
+      "surface": "אש",
+      "gloss": "somlilo"
+    },
+    {
+      "surface": "אוכלה",
+      "gloss": "owutshayo"
+    },
+    {
+      "surface": "נפץ",
+      "gloss": "ukutyabuka"
+    },
+    {
+      "surface": "וזרם",
+      "gloss": "nesiphepho"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "namatye"
+    },
+    {
+      "surface": "ברד",
+      "gloss": "omkhenkce"
+    }
+  ],
+  "timestamp": "2026-09-18T11:24:05.939809663Z",
+  "model": "glm-5.3"
+}

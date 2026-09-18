@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezekiel 5:9",
+  "book": "ezekiel",
+  "lang": "xh",
+  "chapter": 5,
+  "translation": "Ndiza kwenza kuwe ⟨את⟩ oko ndingekwenzanga, no⟨את⟩ oko ndingayi kwenza kwakhona njengako, ngenxa yazo zonke iintloni zakho.",
+  "tokens": [
+    {
+      "surface": "ועשיתי",
+      "gloss": "Ndiza kwenza"
+    },
+    {
+      "surface": "בך",
+      "gloss": "kuwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oko ndingekwenzanga"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oko"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hayi"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "ndingekwenzanga"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "oko ndingayi kwenza kwakhona"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oko"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hayi"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "ndingayi kwenza"
+    },
+    {
+      "surface": "כמהו",
+      "gloss": "njengako"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "kwakhona"
+    },
+    {
+      "surface": "יען",
+      "gloss": "ngenxa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zonke"
+    },
+    {
+      "surface": "תועבתיך",
+      "gloss": "iintloni zakho"
+    }
+  ],
+  "timestamp": "2026-09-18T12:51:35.884931979Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 1:8",
+  "book": "ezekiel",
+  "lang": "xh",
+  "chapter": 1,
+  "translation": "Kwaye izandla zomntu zazisezantsi kwamaphiko abo, kumacala amane abo; amabuso abo namaphiko abo kwabo bonke abane.",
+  "tokens": [
+    {
+      "surface": "וידו",
+      "gloss": "izandla"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "zomntu"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "zazisezantsi"
+    },
+    {
+      "surface": "כנפיהם",
+      "gloss": "kwamaphiko abo"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "ארבעת",
+      "gloss": "amacala amane"
+    },
+    {
+      "surface": "רבעיהם",
+      "gloss": "abo"
+    },
+    {
+      "surface": "ופניהם",
+      "gloss": "amabuso abo"
+    },
+    {
+      "surface": "וכנפיהם",
+      "gloss": "namaphiko abo"
+    },
+    {
+      "surface": "לארבעתם",
+      "gloss": "kwabo bonke abane"
+    }
+  ],
+  "timestamp": "2026-09-18T12:45:48.530588913Z",
+  "model": "glm-5.3"
+}

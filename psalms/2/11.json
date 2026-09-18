@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 2:11",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 2,
+  "translation": "Khonzeni uYahwe ngoyalelo, nivuyisani ngentuleko.",
+  "tokens": [
+    {
+      "surface": "עבדו",
+      "gloss": "khonzeni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uYahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "ביראה",
+      "gloss": "ngoyalelo"
+    },
+    {
+      "surface": "וגילו",
+      "gloss": "nivuyisani"
+    },
+    {
+      "surface": "ברעדה",
+      "gloss": "nentuleko"
+    }
+  ],
+  "timestamp": "2026-09-18T14:25:28.171298909Z",
+  "model": "glm-5.3"
+}

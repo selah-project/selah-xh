@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 18:8",
+  "book": "2-kings",
+  "lang": "xh",
+  "chapter": 18,
+  "translation": "Nguye owabetha ⟨את⟩ amaFilisti ukuya kuAza nangemida yayo, ukusuka kwisikhululo sabagcini ukuya kwindolophu eqinisiweyo.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "Nguye"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "owabetha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amaFilisti"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "amaFilisti"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ukuya"
+    },
+    {
+      "surface": "עזה",
+      "gloss": "kuAza"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "nange⟨את⟩",
+      "marks": "emida yayo"
+    },
+    {
+      "surface": "גבוליה",
+      "gloss": "emida yayo"
+    },
+    {
+      "surface": "ממגדל",
+      "gloss": "ukusuka kwisikhululo"
+    },
+    {
+      "surface": "נוצרים",
+      "gloss": "sabagcini"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ukuya"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "kwindolophu"
+    },
+    {
+      "surface": "מבצר",
+      "gloss": "eqinisiweyo"
+    }
+  ],
+  "timestamp": "2026-09-18T10:51:10.238996735Z",
+  "model": "glm-5.3"
+}

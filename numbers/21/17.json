@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "numbers 21:17",
+  "book": "numbers",
+  "lang": "xh",
+  "chapter": 21,
+  "translation": "Ngelo xesha uIsrayeli wayicula le ngoma: Nyuka, ndawonye, iyikhuthaze: “Vukani, berm, niyiculele yona.”",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "Ngelo xesha"
+    },
+    {
+      "surface": "ישיר",
+      "gloss": "wayicula"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "uIsrayeli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ingoma (le)"
+    },
+    {
+      "surface": "השירה",
+      "gloss": "ingoma"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "le"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Vukani"
+    },
+    {
+      "surface": "באר",
+      "gloss": "berm"
+    },
+    {
+      "surface": "ענו",
+      "gloss": "niyiculele"
+    },
+    {
+      "surface": "לה",
+      "gloss": "yona"
+    }
+  ],
+  "timestamp": "2026-09-18T07:31:52.061355126Z",
+  "model": "glm-5.3"
+}

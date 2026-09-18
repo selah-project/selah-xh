@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 2:18",
+  "book": "deuteronomy",
+  "lang": "xh",
+  "chapter": 2,
+  "translation": "Wena uza kuwudlula namhlanje ⟨את⟩ umda weMowabhi, ⟨את⟩ i-Ari.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Wena"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "uza kuwudlula"
+    },
+    {
+      "surface": "היום",
+      "gloss": "namhlanje"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umda"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "umda"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "weMowabhi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i-Ari"
+    },
+    {
+      "surface": "ער",
+      "gloss": "i-Ari"
+    }
+  ],
+  "timestamp": "2026-09-18T07:51:51.858588156Z",
+  "model": "glm-5.3"
+}

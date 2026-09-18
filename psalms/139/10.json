@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 139:10",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 139,
+  "translation": "nakwelo ndawo isandla lakho liza kundikhokela, ilitye lakhe lokunene liza kundibamba.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "nake"
+    },
+    {
+      "surface": "שם",
+      "gloss": "elo ndawo"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "isandla lakho"
+    },
+    {
+      "surface": "תנחני",
+      "gloss": "liza kundikhokela"
+    },
+    {
+      "surface": "ותאחזני",
+      "gloss": "liza kundibamba"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "ilitye lakhe lokunene"
+    }
+  ],
+  "timestamp": "2026-09-18T15:30:39.215796187Z",
+  "model": "glm-5.3"
+}

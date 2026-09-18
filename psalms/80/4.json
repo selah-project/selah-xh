@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 80:4",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 80,
+  "translation": "uElohim, sibuyisela ngokutsha, wenze ubuso bakho bukhanye, siye siphandelwa ngokutsha.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "השיבנו",
+      "gloss": "sibuyisela"
+    },
+    {
+      "surface": "והאר",
+      "gloss": "wenze bukhanye"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ubuso bakho"
+    },
+    {
+      "surface": "ונושעה",
+      "gloss": "siye siphandelwa"
+    }
+  ],
+  "timestamp": "2026-09-18T17:44:35.940078364Z",
+  "model": "glm-5.3"
+}

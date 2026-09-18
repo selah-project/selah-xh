@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 34:3",
+  "book": "genesis",
+  "lang": "xh",
+  "chapter": 34,
+  "translation": "Umphefumlo wakhe wamnatyelwa kuDina, unyana-womfazi kaYakobi, wamthanda ⟨את⟩ intombi encinane, wathetha nentlizyo yentombi encinane.",
+  "tokens": [
+    {
+      "surface": "ותדבק",
+      "gloss": "wamnatyelwa"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "Umphefumlo wakhe"
+    },
+    {
+      "surface": "בדינה",
+      "gloss": "kuDina"
+    },
+    {
+      "surface": "בת",
+      "gloss": "unyana-womfazi"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "kaYakobi"
+    },
+    {
+      "surface": "ויאהב",
+      "gloss": "wamthanda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "intombi encinane"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "intombi encinane"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "wathetha"
+    },
+    {
+      "surface": "על",
+      "gloss": "nen"
+    },
+    {
+      "surface": "לב",
+      "gloss": "tlizyo"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "yentombi encinane"
+    }
+  ],
+  "timestamp": "2026-09-18T05:33:14.538125813Z",
+  "model": "glm-5.3"
+}

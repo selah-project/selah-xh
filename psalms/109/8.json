@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 109:8",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 109,
+  "translation": "Malibe malini iintsuku zakhe, omnye athathe isikhundla sakhe.",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "malibe"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "iintsuku zakhe"
+    },
+    {
+      "surface": "מעטים",
+      "gloss": "malini"
+    },
+    {
+      "surface": "פקדתו",
+      "gloss": "isikhundla sakhe"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "athathe"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "omnye"
+    }
+  ],
+  "timestamp": "2026-09-18T15:19:55.278217497Z",
+  "model": "glm-5.3"
+}

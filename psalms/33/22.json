@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 33:22",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 33,
+  "translation": "Makube likhesedi lakho, uYahwe, phezu kwethu, njengoko silindele kuwe.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "Makube"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "likhesedi lakho"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "phezu kwethu"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "njengoko"
+    },
+    {
+      "surface": "יחלנו",
+      "gloss": "silindele"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kuwe"
+    }
+  ],
+  "timestamp": "2026-09-18T14:39:15.335771929Z",
+  "model": "glm-5.3"
+}

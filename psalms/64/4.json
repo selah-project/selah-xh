@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 64:4",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 64,
+  "translation": "Abachukulisa ulwimi lwabo njengomkhondo, balungisa imiqolo yabo — ilizwi elibuhlungu.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "aboku-"
+    },
+    {
+      "surface": "שננו",
+      "gloss": "bachukulisa"
+    },
+    {
+      "surface": "כחרב",
+      "gloss": "njengomkhondo"
+    },
+    {
+      "surface": "לשונם",
+      "gloss": "ulwimi lwabo"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "balungisa"
+    },
+    {
+      "surface": "חצם",
+      "gloss": "imiqolo yabo"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ilizwi"
+    },
+    {
+      "surface": "מר",
+      "gloss": "elibuhlungu"
+    }
+  ],
+  "timestamp": "2026-09-18T14:54:48.426522427Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 21:12",
+  "book": "proverbs",
+  "lang": "xh",
+  "chapter": 21,
+  "translation": "Olulungileyo uyahlakanipha ngendlu yomlungu; ususa abalungu kumonakalo.",
+  "tokens": [
+    {
+      "surface": "משכיל",
+      "gloss": "uyahlakanipha"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "Olulungileyo"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "ngendlu"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "yomlungu"
+    },
+    {
+      "surface": "מסלף",
+      "gloss": "ususa"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "abalungu"
+    },
+    {
+      "surface": "לרע",
+      "gloss": "kumonakalo"
+    }
+  ],
+  "timestamp": "2026-09-18T15:50:38.446002662Z",
+  "model": "glm-5.3"
+}

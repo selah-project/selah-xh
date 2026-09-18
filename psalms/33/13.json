@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 33:13",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 33,
+  "translation": "Ezulwini uYahwe wabuka, wabona ⟨את⟩ onke oonyana bomntu.",
+  "tokens": [
+    {
+      "surface": "משמים",
+      "gloss": "ezulwini"
+    },
+    {
+      "surface": "הביט",
+      "gloss": "wabuka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "wabona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "onke oonyana bomntu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "onke"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oonyana"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "bomntu"
+    }
+  ],
+  "timestamp": "2026-09-18T14:40:31.912336459Z",
+  "model": "glm-5.3"
+}

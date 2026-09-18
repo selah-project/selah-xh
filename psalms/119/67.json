@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 67,
+  "ref": "psalms 119:67",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 119,
+  "translation": "Ngaphambi kokuba ndisoshwe, mna ndidadelwe; kodwa ngoku ilizwi lakho ndiligcine.",
+  "tokens": [
+    {
+      "surface": "טרם",
+      "gloss": "ngaphambi kokuba"
+    },
+    {
+      "surface": "אענה",
+      "gloss": "ndisoshwe"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mna"
+    },
+    {
+      "surface": "שגג",
+      "gloss": "ndidadelwe"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "kodwa ngoku"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "ilizwi lakho"
+    },
+    {
+      "surface": "שמרתי",
+      "gloss": "ndiligcine"
+    }
+  ],
+  "timestamp": "2026-09-18T15:24:05.093350374Z",
+  "model": "glm-5.3"
+}

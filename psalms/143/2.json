@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 143:2",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 143,
+  "translation": "Unga ze ungene kwisigwebo ngo ⟨את⟩ izicaka zakho izicaka; kuba akukho ophilayo oza kululunga phambi kwakho.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "unga ze"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "ungene"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "kwisigwebo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izicaka zakho"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "izicaka zakho"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "לא",
+      "gloss": "akukho"
+    },
+    {
+      "surface": "יצדק",
+      "gloss": "oza kululunga"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "phambi kwakho"
+    },
+    {
+      "surface": "כל",
+      "gloss": "onke"
+    },
+    {
+      "surface": "חי",
+      "gloss": "ophilayo"
+    }
+  ],
+  "timestamp": "2026-09-18T15:32:13.810822425Z",
+  "model": "glm-5.3"
+}

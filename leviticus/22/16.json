@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 22:16",
+  "book": "leviticus",
+  "lang": "xh",
+  "chapter": 22,
+  "translation": "banganibeka abo bathwale isono sokutyholwa, xa betya ⟨את⟩ izinto zabo ezincwele; kuba ndinguYahwe, ndingcwelelisa zona.",
+  "tokens": [
+    {
+      "surface": "והשיאו",
+      "gloss": "banganibeka abo bathwale"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "isono sokutyholwa"
+    },
+    {
+      "surface": "עון",
+      "gloss": "isono"
+    },
+    {
+      "surface": "אשמה",
+      "gloss": "sokutyholwa"
+    },
+    {
+      "surface": "באכלם",
+      "gloss": "xa betya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izinto zabo ezincwele"
+    },
+    {
+      "surface": "קדשיהם",
+      "gloss": "izinto zabo ezincwele"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ndingu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מקדשם",
+      "gloss": "ndingcwelelisa zona"
+    }
+  ],
+  "timestamp": "2026-09-18T07:00:05.010912548Z",
+  "model": "glm-5.3"
+}

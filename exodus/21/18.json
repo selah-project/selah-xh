@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 21:18",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 21,
+  "translation": "Kwaye ukuba amadoda eqhudana, indoda isha ⟨את⟩ umhlobo wakhe ngelitye okanye ngesandla esinyelekileyo, ayifi, yawa embizeni.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "kwaye ukuba"
+    },
+    {
+      "surface": "יריבן",
+      "gloss": "eqhudana"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "amadoda"
+    },
+    {
+      "surface": "והכה",
+      "gloss": "isha"
+    },
+    {
+      "surface": "איש",
+      "gloss": "indoda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umhlobo wakhe"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "umhlobo wakhe"
+    },
+    {
+      "surface": "באבן",
+      "gloss": "ngelitye"
+    },
+    {
+      "surface": "או",
+      "gloss": "okanye"
+    },
+    {
+      "surface": "באגרף",
+      "gloss": "ngesandla esinyelekileyo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ayi"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "fi"
+    },
+    {
+      "surface": "ונפל",
+      "gloss": "yawa"
+    },
+    {
+      "surface": "למשכב",
+      "gloss": "embizeni"
+    }
+  ],
+  "timestamp": "2026-09-18T17:20:18.986670512Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 79:13",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 79,
+  "translation": "Kwaye thina, sikuba ngabantu bakho, njengeefolokhwe zendlela yakokhusela, siza kukudumisa kuze kube ngonaphakade, kwisizukulwana nangesizukulwana; siza kubalisa indumiso yakho.",
+  "tokens": [
+    {
+      "surface": "ואנחנו",
+      "gloss": "kwaye thina"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "abantu bakho"
+    },
+    {
+      "surface": "וצאן",
+      "gloss": "njengeefolokhwe"
+    },
+    {
+      "surface": "מרעיתך",
+      "gloss": "zendlela yakokhusela yakho"
+    },
+    {
+      "surface": "נודה",
+      "gloss": "siza kukudumisa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kuwe"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "kuze kube ngonaphakade"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "kwisizukulwana"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "nangesizukulwana"
+    },
+    {
+      "surface": "נספר",
+      "gloss": "siza kubalisa"
+    },
+    {
+      "surface": "תהלתך",
+      "gloss": "indumiso yakho"
+    }
+  ],
+  "timestamp": "2026-09-18T15:03:41.192153785Z",
+  "model": "glm-5.3"
+}

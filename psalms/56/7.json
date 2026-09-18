@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 56:7",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 56,
+  "translation": "Bazungelezana, befihlakele; balindile amanyathelo am, njengoko belindele umphefumlo wam.",
+  "tokens": [
+    {
+      "surface": "יגורו",
+      "gloss": "bazungelezana"
+    },
+    {
+      "surface": "יצפינו",
+      "gloss": "befihlakele"
+    },
+    {
+      "surface": "המה",
+      "gloss": "bona"
+    },
+    {
+      "surface": "עקבי",
+      "gloss": "amanyathelo am"
+    },
+    {
+      "surface": "ישמרו",
+      "gloss": "balindile"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "njengoko"
+    },
+    {
+      "surface": "קוו",
+      "gloss": "belindele"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "umphefumlo wam"
+    }
+  ],
+  "timestamp": "2026-09-18T14:51:20.207913512Z",
+  "model": "glm-5.3"
+}

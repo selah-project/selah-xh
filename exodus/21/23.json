@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 21:23",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 21,
+  "translation": "Ukuba ke kukho okulimazayo, uza kunika umphefumlo esingeneyo yomphefumlo.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Ukuba ke"
+    },
+    {
+      "surface": "אסון",
+      "gloss": "okulimazayo"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "kukho"
+    },
+    {
+      "surface": "ונתתה",
+      "gloss": "uza kunika"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "umphefumlo"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "esingeneyo yo"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "omphefumlo"
+    }
+  ],
+  "timestamp": "2026-09-18T06:07:53.003732991Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 27:5",
+  "book": "numbers",
+  "lang": "xh",
+  "chapter": 27,
+  "translation": "UMoshe wasondezela ⟨את⟩ icala labo phambi koYahwe.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "wasondezela"
+    },
+    {
+      "surface": "משה",
+      "gloss": "UMoshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "icala labo"
+    },
+    {
+      "surface": "משפטן",
+      "gloss": "icala labo"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "phambi kwa-"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    }
+  ],
+  "timestamp": "2026-09-18T07:42:06.576845540Z",
+  "model": "glm-5.3"
+}

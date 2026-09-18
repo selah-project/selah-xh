@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 14:5",
+  "book": "job",
+  "lang": "xh",
+  "chapter": 14,
+  "translation": "Ukuba iintsuku zakhe zicwangciswe, inani leenyanga zalo likunye ⟨את⟩ wena; umda wawo wawumisile, waza awunakuwudlula.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ukuba"
+    },
+    {
+      "surface": "חרוצים",
+      "gloss": "zicwangciswe"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "iintsuku zakhe"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "inani"
+    },
+    {
+      "surface": "חדשיו",
+      "gloss": "leenyanga zalo"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ wena",
+      "marks": "inani leenyanga zalo"
+    },
+    {
+      "surface": "חקו",
+      "gloss": "umda wawo"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "wawumisile"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "waza a-"
+    },
+    {
+      "surface": "יעבור",
+      "gloss": "awunakuwudlula"
+    }
+  ],
+  "timestamp": "2026-09-18T16:04:33.023620981Z",
+  "model": "glm-5.3"
+}

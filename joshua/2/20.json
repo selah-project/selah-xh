@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "joshua 2:20",
+  "book": "joshua",
+  "lang": "xh",
+  "chapter": 2,
+  "translation": "Kodwa ukuba uxela ⟨את⟩ le ndaba yethu, ke thina asinalo tyala komnqophiso wakho owasifundisela ukuwufunga.”",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "kodwa ukuba"
+    },
+    {
+      "surface": "תגידי",
+      "gloss": "uxela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le ndaba yethu"
+    },
+    {
+      "surface": "דברנו",
+      "gloss": "ndaba yethu"
+    },
+    {
+      "surface": "זה",
+      "gloss": "le"
+    },
+    {
+      "surface": "והיינו",
+      "gloss": "ke thina siyakuba"
+    },
+    {
+      "surface": "נקים",
+      "gloss": "asinalo tyala"
+    },
+    {
+      "surface": "משבעתך",
+      "gloss": "komnqophiso wakho"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "o-"
+    },
+    {
+      "surface": "השבעתנו",
+      "gloss": "wasifundisela ukuwufunga"
+    }
+  ],
+  "timestamp": "2026-09-18T08:30:03.627845837Z",
+  "model": "glm-5.3"
+}

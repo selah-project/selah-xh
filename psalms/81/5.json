@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 81:5",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 81,
+  "translation": "Kuba ngumthetho kuIsrayeli yena, sisigqibo sika-Elohim kaYakhobi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "חק",
+      "gloss": "ngumthetho"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "kuIsrayeli"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yena"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "sisigqibo"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "sika-Elohim"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "kaYakhobi"
+    }
+  ],
+  "timestamp": "2026-09-18T15:05:38.581136430Z",
+  "model": "glm-5.3"
+}

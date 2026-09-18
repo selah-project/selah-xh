@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-chronicles 23:21",
+  "book": "2-chronicles",
+  "lang": "xh",
+  "chapter": 23,
+  "translation": "Wavuya wonke umntu woluntu welizwe, kakuhle 𝗋𝖾𝗌𝗍𝖾𝖽 idolophu (was restful); waza ⟨את⟩ u-Atalyahu wambulala ngekalipa. — Iṅgoma yokuqala: Wavuya wonke uluntu belizwe, idolophu yahlala ithulileyo, yaye ⟨את⟩ u-Atalyahu babulule ngekrele.",
+  "tokens": [
+    {
+      "surface": "וישמחו",
+      "gloss": "wavuya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wonke"
+    },
+    {
+      "surface": "עם",
+      "gloss": "uluntu"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "belizwe"
+    },
+    {
+      "surface": "והעיר",
+      "gloss": "kwaye idolophu"
+    },
+    {
+      "surface": "שקטה",
+      "gloss": "yahlala ithulileyo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "u-Atalyahu"
+    },
+    {
+      "surface": "עתליהו",
+      "gloss": "u-Atalyahu"
+    },
+    {
+      "surface": "המיתו",
+      "gloss": "babulule"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "ngekrele"
+    }
+  ],
+  "timestamp": "2026-09-18T17:09:05.807931421Z",
+  "model": "glm-5.3"
+}

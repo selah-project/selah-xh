@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 113:2",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 113,
+  "translation": "Makudunyiswe igama likaYahwe, ukusukela ngoku kunjalo kuze kube naphakade.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "Makube"
+    },
+    {
+      "surface": "שם",
+      "gloss": "igama"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "likaYahwe"
+    },
+    {
+      "surface": "מברך",
+      "gloss": "makudunyiswe"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "ukusukela ngoku"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "kunjalo kuze kube"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "naphakade"
+    }
+  ],
+  "timestamp": "2026-09-18T15:19:56.822986570Z",
+  "model": "glm-5.3"
+}

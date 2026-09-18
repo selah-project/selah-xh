@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 5:1",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 5,
+  "translation": "Kumlawuli, ngeenjongo ze-nehilothi, umzamo kaDawidi.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Kumlawuli"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ngeenjongo ze-"
+    },
+    {
+      "surface": "הנחילות",
+      "gloss": "nehilothi"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "umzamo"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "kaDawidi"
+    }
+  ],
+  "timestamp": "2026-09-18T14:26:53.228458058Z",
+  "model": "glm-5.3"
+}

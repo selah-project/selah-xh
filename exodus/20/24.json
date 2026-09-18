@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 20:24",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 20,
+  "translation": "Ialtare yomhlaba uyayenzela kum; uphelelela phezu kwayo ⟨את⟩ iziqhuma zakho ezitshiswayo kunye ⟨את⟩ nezibingelelo zakho zoxolo, ⟨את⟩ iimvu zakho kunye ⟨את⟩ neenkomo zakho. Kuyo yonke indawo endiza kukhankanya ⟨את⟩ igama lam, ndiza kukufikelela, ndiza kukusikelela.”",
+  "tokens": [
+    {
+      "surface": "מזבח",
+      "gloss": "ialtare"
+    },
+    {
+      "surface": "אדמה",
+      "gloss": "yomhlaba"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "uyayenzela"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kum"
+    },
+    {
+      "surface": "וזבחת",
+      "gloss": "uphelelela"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "phezu kwayo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iziqhuma zakho ezitshiswayo"
+    },
+    {
+      "surface": "עלתיך",
+      "gloss": "iziqhuma zakho ezitshiswayo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "izibingelelo zakho zoxolo"
+    },
+    {
+      "surface": "שלמיך",
+      "gloss": "izibingelelo zakho zoxolo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iimvu zakho"
+    },
+    {
+      "surface": "צאנך",
+      "gloss": "iimvu zakho"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "iinkomo zakho"
+    },
+    {
+      "surface": "בקרך",
+      "gloss": "iinkomo zakho"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "kuyo yonke"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "indawo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "endiza kukhankanya"
+    },
+    {
+      "surface": "אזכיר",
+      "gloss": "endiza kukhankanya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "igama lam"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "igama lam"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "ndiza kukufikelela"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kufikelela kuwe"
+    },
+    {
+      "surface": "וברכתיך",
+      "gloss": "ndiza kukusikelela"
+    }
+  ],
+  "timestamp": "2026-09-18T06:05:05.079779288Z",
+  "model": "glm-5.3"
+}

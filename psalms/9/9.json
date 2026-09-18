@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 9:9",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 9,
+  "translation": "Yaye yena uza kugweba ihlabathi ngobulungisa, uza kugweba amazwe ngokulunga.",
+  "tokens": [
+    {
+      "surface": "והוא",
+      "gloss": "yaye yena"
+    },
+    {
+      "surface": "ישפט",
+      "gloss": "uza kugweba"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "ihlabathi"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "ngobulungisa"
+    },
+    {
+      "surface": "ידין",
+      "gloss": "uza kugweba"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "amazwe"
+    },
+    {
+      "surface": "במישרים",
+      "gloss": "ngokulunga"
+    }
+  ],
+  "timestamp": "2026-09-18T14:30:20.105700141Z",
+  "model": "glm-5.3"
+}

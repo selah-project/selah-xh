@@ -1,0 +1,39 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "psalms 106:37",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 106,
+  "translation": "Baye bachitha ⟨את⟩ oonyana babo nange ⟨את⟩ iintombi zabo kwiishadayim.",
+  "tokens": [
+    {
+      "surface": "ויזבחו",
+      "gloss": "baye bachitha (imihlolongo)"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oonyana babo"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "oonyana babo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "nange ⟨את⟩",
+      "marks": "iintombi zabo"
+    },
+    {
+      "surface": "בנותיהם",
+      "gloss": "iintombi zabo"
+    },
+    {
+      "surface": "לשדים",
+      "gloss": "kwiishadayim"
+    }
+  ],
+  "timestamp": "2026-09-18T15:16:11.609663057Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 32:2",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 32,
+  "translation": "Zilungile iindaba zalomntu uYahwe ambalelayo akabi yena isiphambuko, angekho bukhohlakali kumoya wakhe.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Zilungile iindaba zalomntu"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "⟨alomntu⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "akabi"
+    },
+    {
+      "surface": "יחשב",
+      "gloss": "ambalelayo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "לו",
+      "gloss": "yena"
+    },
+    {
+      "surface": "עון",
+      "gloss": "isiphambuko"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "angekho"
+    },
+    {
+      "surface": "ברוחו",
+      "gloss": "kumoya wakhe"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "bukhohlakali"
+    }
+  ],
+  "timestamp": "2026-09-18T14:41:38.937996768Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 59:5",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 59,
+  "translation": "Ngaphandle kobugwenxa bam baleka, balungiselela; vukela undibambe, uze ubone.",
+  "tokens": [
+    {
+      "surface": "בלי",
+      "gloss": "ngaphandle"
+    },
+    {
+      "surface": "עון",
+      "gloss": "kobugwenxa bam"
+    },
+    {
+      "surface": "ירוצון",
+      "gloss": "baleka"
+    },
+    {
+      "surface": "ויכוננו",
+      "gloss": "balungiselela"
+    },
+    {
+      "surface": "עורה",
+      "gloss": "vukela"
+    },
+    {
+      "surface": "לקראתי",
+      "gloss": "undibambe"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "uze ubone"
+    }
+  ],
+  "timestamp": "2026-09-18T17:44:27.629137120Z",
+  "model": "glm-5.3"
+}

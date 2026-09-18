@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 7:10",
+  "book": "joshua",
+  "lang": "xh",
+  "chapter": 7,
+  "translation": "Wathetha uYahwe kuYehoshuwa, esithi: “Vuka, kutheni wawa ngobuso bakho?”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Wathetha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "uYehoshuwa"
+    },
+    {
+      "surface": "קם",
+      "gloss": "Vuka"
+    },
+    {
+      "surface": "לך",
+      "gloss": "wena"
+    },
+    {
+      "surface": "למה",
+      "gloss": "kutheni"
+    },
+    {
+      "surface": "זה",
+      "gloss": "oku"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "wawa"
+    },
+    {
+      "surface": "על",
+      "gloss": "nge-"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "obuso bakho"
+    }
+  ],
+  "timestamp": "2026-09-18T08:32:45.246724348Z",
+  "model": "glm-5.3"
+}

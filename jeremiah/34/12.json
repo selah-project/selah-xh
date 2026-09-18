@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 34:12",
+  "book": "jeremiah",
+  "lang": "xh",
+  "chapter": 34,
+  "translation": "Yaye kwafika igama likaYahwe kuYirmeyahu, elivela kuYahwe ⟨את⟩, elithi:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "yaye kwafika"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "igama"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "likaYahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuYirmeyahu"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "kuYirmeyahu"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩ elivela",
+      "marks": "uYahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kuYahwe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "elithi"
+    }
+  ],
+  "timestamp": "2026-09-18T12:24:56.014836686Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 10:27",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 10,
+  "translation": "uYahwe womeza ⟨את⟩ intliziyo kaParo, wala ukubakhuphela.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "womeza"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "intliziyo kaParo"
+    },
+    {
+      "surface": "לב",
+      "gloss": "intliziyo"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "kaParo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "אבה",
+      "gloss": "wamkelekanga"
+    },
+    {
+      "surface": "לשלחם",
+      "gloss": "ukubakhuphela"
+    }
+  ],
+  "timestamp": "2026-09-18T05:57:27.447158988Z",
+  "model": "glm-5.3"
+}

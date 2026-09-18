@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 4:4",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 4,
+  "translation": "Kananjalo nazi ukuba uYahwe wahlula ngokukhethekileyo lowo ulungileyo kuYe; uYahwe uya kuva xa ndibiza kuye.",
+  "tokens": [
+    {
+      "surface": "ודעו",
+      "gloss": "Kananjalo nazi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ukuba"
+    },
+    {
+      "surface": "הפלה",
+      "gloss": "wahlula ngokukhethekileyo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "חסיד",
+      "gloss": "lowo ulungileyo"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kuYe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "uya kuva"
+    },
+    {
+      "surface": "בקראי",
+      "gloss": "xa ndibiza"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kuye"
+    }
+  ],
+  "timestamp": "2026-09-18T14:27:19.066291710Z",
+  "model": "glm-5.3"
+}

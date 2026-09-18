@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 37:24",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 37,
+  "translation": "Nangaba ewa, akayi kutyalwa phantsi, kuba uYahwe usixa ngesandla ⟨sakhe⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nangaba"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "ewa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "akayi ku-"
+    },
+    {
+      "surface": "יוטל",
+      "gloss": "tyalwa phantsi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "סומך",
+      "gloss": "usixa ngesandla"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "isandla ⟨lakhe⟩"
+    }
+  ],
+  "timestamp": "2026-09-18T14:43:00.168153159Z",
+  "model": "glm-5.3"
+}

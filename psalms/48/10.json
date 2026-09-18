@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 48:10",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 48,
+  "translation": "Sicinge ngeikhesedi yakho, Elohim, phakathi kwitempile yakho.",
+  "tokens": [
+    {
+      "surface": "דמינו",
+      "gloss": "sicinge nge"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "ikhesedi yakho"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "phakathi kwi"
+    },
+    {
+      "surface": "היכלך",
+      "gloss": "itempile yakho"
+    }
+  ],
+  "timestamp": "2026-09-18T14:46:30.747801773Z",
+  "model": "glm-5.3"
+}

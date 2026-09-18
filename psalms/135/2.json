@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 135:2",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 135,
+  "translation": "Nina emile kwikhaya likaYahwe, kwiiyadi zekhaya likaElohim wethu.",
+  "tokens": [
+    {
+      "surface": "שעמדים",
+      "gloss": "emile"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "kwikhaya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "likaYahwe"
+    },
+    {
+      "surface": "בחצרות",
+      "gloss": "kwiiyadi"
+    },
+    {
+      "surface": "בית",
+      "gloss": "zekhaya"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "likaElohim wethu"
+    }
+  ],
+  "timestamp": "2026-09-18T15:28:47.001861040Z",
+  "model": "glm-5.3"
+}

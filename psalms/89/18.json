@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 89:18",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 89,
+  "translation": "Kuba wena ⟨wena ngu⟩ubuhle bamandla abo, kwaye ngokwenza okuthandwa nguwe uphondo lwethu luphakanyisiwe.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "תפארת",
+      "gloss": "ubuhle"
+    },
+    {
+      "surface": "עזמו",
+      "gloss": "bamandla abo"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "וברצנך",
+      "gloss": "kwaye ngokwenza okuthandwa nguwe"
+    },
+    {
+      "surface": "תרים",
+      "gloss": "luphakanyisiwe"
+    },
+    {
+      "surface": "קרננו",
+      "gloss": "uphondo lwethu"
+    }
+  ],
+  "timestamp": "2026-09-18T15:08:34.683468540Z",
+  "model": "glm-5.3"
+}

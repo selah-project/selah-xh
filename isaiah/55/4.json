@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 55:4",
+  "book": "isaiah",
+  "lang": "xh",
+  "chapter": 55,
+  "translation": "Yabona, ndimninike umngqina kuzo izizwe, umlawuli nomyaleli kuzo izizwe.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Yabona"
+    },
+    {
+      "surface": "עד",
+      "gloss": "umngqina"
+    },
+    {
+      "surface": "לאומים",
+      "gloss": "kuzo izizwe"
+    },
+    {
+      "surface": "נתתיו",
+      "gloss": "ndimninike"
+    },
+    {
+      "surface": "נגיד",
+      "gloss": "umlawuli"
+    },
+    {
+      "surface": "ומצוה",
+      "gloss": "nomyaleli"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "kuzo izizwe"
+    }
+  ],
+  "timestamp": "2026-09-18T11:40:43.755618559Z",
+  "model": "glm-5.3"
+}

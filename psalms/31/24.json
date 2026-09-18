@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 31:24",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 31,
+  "translation": "Thandani ⟨את⟩ uYahwe, onke amakhesedi akhe; uYahwe ugcinisa abathembekileyo, abuye awaphindele ngaphezu kwako ozenza ngokuzikhukhumalela.",
+  "tokens": [
+    {
+      "surface": "אהבו",
+      "gloss": "thandani"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uYahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "onke"
+    },
+    {
+      "surface": "חסידיו",
+      "gloss": "amakhesedi akhe"
+    },
+    {
+      "surface": "אמונים",
+      "gloss": "abathembekileyo"
+    },
+    {
+      "surface": "נצר",
+      "gloss": "ugcinisa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "ומשלם",
+      "gloss": "abuye awaphindele"
+    },
+    {
+      "surface": "על",
+      "gloss": "ngaphezu kwako"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "ngaphezulu"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ozenza"
+    },
+    {
+      "surface": "גאוה",
+      "gloss": "ngokuzikhukhumalela"
+    }
+  ],
+  "timestamp": "2026-09-18T14:39:34.334028661Z",
+  "model": "glm-5.3"
+}

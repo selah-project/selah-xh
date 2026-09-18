@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 8:7",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 8,
+  "translation": "Uyakwenzela ukuba abuse kumisebenzi wezandla zakho; konke ubekile ngaphantsi kweenyawo zakhe.",
+  "tokens": [
+    {
+      "surface": "תמשילהו",
+      "gloss": "abuse"
+    },
+    {
+      "surface": "במעשי",
+      "gloss": "kumisebenzi"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "wezandla zakho"
+    },
+    {
+      "surface": "כל",
+      "gloss": "konke"
+    },
+    {
+      "surface": "שתה",
+      "gloss": "ubekile"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ngaphantsi"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "kweenyawo zakhe"
+    }
+  ],
+  "timestamp": "2026-09-18T14:29:56.119594942Z",
+  "model": "glm-5.3"
+}

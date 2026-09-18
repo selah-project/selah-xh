@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 1:20",
+  "book": "1-samuel",
+  "lang": "xh",
+  "chapter": 1,
+  "translation": "Kwathi ekupheleni kwamax ekseni—emva kweentsuku ezingunobumba—wakhulelwa uHanna, wazala unyana, wambiza ngegama lakhe uShemueli, kuba kuYahwe ndimcele yena.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Kwathi"
+    },
+    {
+      "surface": "לתקפות",
+      "gloss": "ekupheleni"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "kwamax ekseni"
+    },
+    {
+      "surface": "ותהר",
+      "gloss": "wakhulelwa"
+    },
+    {
+      "surface": "חנה",
+      "gloss": "uHanna"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "wazala"
+    },
+    {
+      "surface": "בן",
+      "gloss": "unyana"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "wambiza ngegama"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "igama lakhe uShemueli"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "igama lakhe"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "uShemueli"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "מיהוה",
+      "gloss": "kuYahwe"
+    },
+    {
+      "surface": "שאלתיו",
+      "gloss": "ndimcele yena"
+    }
+  ],
+  "timestamp": "2026-09-18T09:13:35.929219911Z",
+  "model": "glm-5.3"
+}

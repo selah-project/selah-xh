@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 30:5",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 30,
+  "translation": "Qhubani umculo kuYahwe, oohasidi bakhe, ninike udumo olukhumbulweni lobungcwele bakhe.",
+  "tokens": [
+    {
+      "surface": "זמרו",
+      "gloss": "qhubani umculo"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kuYahwe"
+    },
+    {
+      "surface": "חסידיו",
+      "gloss": "oohasidi bakhe"
+    },
+    {
+      "surface": "והודו",
+      "gloss": "ninike udumo"
+    },
+    {
+      "surface": "לזכר",
+      "gloss": "olukhumbulweni"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "lobungcwele bakhe"
+    }
+  ],
+  "timestamp": "2026-09-18T14:39:07.190549603Z",
+  "model": "glm-5.3"
+}

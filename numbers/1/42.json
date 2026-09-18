@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "numbers 1:42",
+  "book": "numbers",
+  "lang": "xh",
+  "chapter": 1,
+  "translation": "Oonyana bakaNaftali, ngesizukulwana sabo, ngeelaphu zabo, ngeendlu zookhokho babo, ngokubalwa kwamagama abo, usuka kwiminyaka engamashumi amabini ukuya phezulu, bonke abakwaziyo ukuphuma emkhosini —",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Oonyana baka"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "Naftali"
+    },
+    {
+      "surface": "תולדתם",
+      "gloss": "ngesizukulwana sabo"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "ngeelaphu zabo"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "ngeendlu"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "zookhokho babo"
+    },
+    {
+      "surface": "במספר",
+      "gloss": "ngokubalwa"
+    },
+    {
+      "surface": "שמת",
+      "gloss": "kwamagama abo"
+    },
+    {
+      "surface": "מבן",
+      "gloss": "usuka kwiminyaka engama-"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "mashumi amabini"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "iminyaka"
+    },
+    {
+      "surface": "ומעלה",
+      "gloss": "ukuya phezulu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bonke"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "abakwaziyo ukuphuma"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "emkhosini"
+    }
+  ],
+  "timestamp": "2026-09-18T07:08:16.820870943Z",
+  "model": "glm-5.3"
+}

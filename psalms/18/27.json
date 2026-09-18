@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 18:27",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 18,
+  "translation": "Kulowo ecwengekileyo uzibonakalisa ngokucwengeka; nakulowo eqhosholiweyo uzibonakalisa ngokudanyaza.",
+  "tokens": [
+    {
+      "surface": "עם",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "נבר",
+      "gloss": "lowo ecwengekileyo"
+    },
+    {
+      "surface": "תתברר",
+      "gloss": "uzibonakalisa ngokucwengeka"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "naku-"
+    },
+    {
+      "surface": "עקש",
+      "gloss": "lowo eqhosholiweyo"
+    },
+    {
+      "surface": "תתפתל",
+      "gloss": "uzibonakalisa ngokudanyaza"
+    }
+  ],
+  "timestamp": "2026-09-18T14:34:37.186361426Z",
+  "model": "glm-5.3"
+}

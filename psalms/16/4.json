@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 16:4",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 16,
+  "translation": "Makwandiswe iintsizi zabo, abo bagxumela emva kolunye; andizukuchitha imibhadane yabo yegazi, kwaye andizukunyusa amagaba abo ⟨את⟩ phezu komlomo wam.",
+  "tokens": [
+    {
+      "surface": "ירבו",
+      "gloss": "Makwandiswe"
+    },
+    {
+      "surface": "עצבותם",
+      "gloss": "iintsizi zabo"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "ulunye"
+    },
+    {
+      "surface": "מהרו",
+      "gloss": "abo bagxumela emva"
+    },
+    {
+      "surface": "בל",
+      "gloss": "andizuku"
+    },
+    {
+      "surface": "אסיך",
+      "gloss": "chitha"
+    },
+    {
+      "surface": "נסכיהם",
+      "gloss": "imibhadane yabo"
+    },
+    {
+      "surface": "מדם",
+      "gloss": "yegazi"
+    },
+    {
+      "surface": "ובל",
+      "gloss": "kwaye andizuku"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "nyusa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amagama abo (שמותם)"
+    },
+    {
+      "surface": "שמותם",
+      "gloss": "amagama abo"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "komlomo wam"
+    }
+  ],
+  "timestamp": "2026-09-18T14:31:58.392244494Z",
+  "model": "glm-5.3"
+}

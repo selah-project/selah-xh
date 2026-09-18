@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 115:1",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 115,
+  "translation": "Hayi kuthi, uYahwe, hayi kuthi, kuba kwiGama lakho nikele ubukhosi-bukhanya, ngezikhesedi zakho, ngezinyaniso zakho.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "hayi"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "kuthi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hayi"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "kuthi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "לשמך",
+      "gloss": "kwiGama lakho"
+    },
+    {
+      "surface": "תן",
+      "gloss": "nikele"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "ubukhosi-bukhanya"
+    },
+    {
+      "surface": "על",
+      "gloss": "nge-"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "ezikhesedi zakho"
+    },
+    {
+      "surface": "על",
+      "gloss": "nge-"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "ezinyaniso zakho"
+    }
+  ],
+  "timestamp": "2026-09-18T15:21:02.703577706Z",
+  "model": "glm-5.3"
+}

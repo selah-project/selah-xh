@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 139:3",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 139,
+  "translation": "Uhlola indlela yam nokulala kwam; uyadiba ngazo zonke iindlela zam.",
+  "tokens": [
+    {
+      "surface": "ארחי",
+      "gloss": "indlela yam"
+    },
+    {
+      "surface": "ורבעי",
+      "gloss": "nokulala kwam"
+    },
+    {
+      "surface": "זרית",
+      "gloss": "uhlola"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "zonke"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "iindlela zam"
+    },
+    {
+      "surface": "הסכנתה",
+      "gloss": "uyadiba ngazo"
+    }
+  ],
+  "timestamp": "2026-09-18T15:30:39.343266419Z",
+  "model": "glm-5.3"
+}

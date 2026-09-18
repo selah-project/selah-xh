@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 26:14",
+  "book": "leviticus",
+  "lang": "xh",
+  "chapter": 26,
+  "translation": "Kodwa ukuba aniyuva mna, ningawenzi ⟨את⟩ onke la myalelo;",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "kodwa ukuba"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hayi"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "niyalalela"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mna"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kananjalo hayi"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "niwenzisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "onke la myalelo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "onke"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "la myalelo"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "la"
+    }
+  ],
+  "timestamp": "2026-09-18T07:07:08.593074833Z",
+  "model": "glm-5.3"
+}

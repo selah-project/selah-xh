@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 5:5",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 5,
+  "translation": "Kuba awungu-El othanda ubugwenxa; okubi akunakuhlala njengomrhwebi kufuphi nawe.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "לא",
+      "gloss": "awu-"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ngu-El"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "othanda"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ubugwenxa"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "לא",
+      "gloss": "akunaku-"
+    },
+    {
+      "surface": "יגרך",
+      "gloss": "kuhlala njengomrhwebi kufuphi nawe"
+    },
+    {
+      "surface": "רע",
+      "gloss": "okubi"
+    }
+  ],
+  "timestamp": "2026-09-18T14:26:42.581671836Z",
+  "model": "glm-5.3"
+}

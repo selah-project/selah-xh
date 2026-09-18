@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 72:15",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 72,
+  "translation": "Yaye uya kuphila, kwaye uya kuncediswa ngegolide leSheba; yaye kuthandazwa ngokwakhe ngoko lulonke; yonke imini bamsikelela.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "yaye uya kuphila"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "uya kuncediswa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "uye"
+    },
+    {
+      "surface": "מזהב",
+      "gloss": "ngegolide"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "leSheba"
+    },
+    {
+      "surface": "ויתפלל",
+      "gloss": "kuthandazwa"
+    },
+    {
+      "surface": "בעדו",
+      "gloss": "ngokwakhe"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "ngoko lulonke"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yonke"
+    },
+    {
+      "surface": "היום",
+      "gloss": "imini"
+    },
+    {
+      "surface": "יברכנהו",
+      "gloss": "bamsikelela"
+    }
+  ],
+  "timestamp": "2026-09-18T14:58:53.398808923Z",
+  "model": "glm-5.3"
+}

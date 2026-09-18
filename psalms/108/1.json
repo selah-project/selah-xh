@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 108:1",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 108,
+  "translation": "Iculo, idumiso likaDawudi.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Iculo"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "idumiso"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "likaDawudi"
+    }
+  ],
+  "timestamp": "2026-09-18T15:20:17.098985329Z",
+  "model": "glm-5.3"
+}

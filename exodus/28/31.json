@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 28:31",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 28,
+  "translation": "Uza kukwenza ⟨את⟩ ingubo yomoya we-efodi iphelele ngumbala we-tkelethi.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "uza kukwenza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ingubo"
+    },
+    {
+      "surface": "מעיל",
+      "gloss": "ingubo"
+    },
+    {
+      "surface": "האפוד",
+      "gloss": "yomoya we-efodi"
+    },
+    {
+      "surface": "כליל",
+      "gloss": "iphelele"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "ngumbala we-tkelethi"
+    }
+  ],
+  "timestamp": "2026-09-18T06:18:21.699495504Z",
+  "model": "glm-5.3"
+}

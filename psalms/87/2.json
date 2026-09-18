@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 87:2",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 87,
+  "translation": "uYahwe uyakuthanda iindawo zokungena zeTsiyoni ngaphezu kwazo zonke iindawo zokuhlala koYakobi.",
+  "tokens": [
+    {
+      "surface": "אהב",
+      "gloss": "uyakuthanda"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "שערי",
+      "gloss": "iindawo zokungena za"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "iTsiyoni"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "ngaphezu kwazo zonke"
+    },
+    {
+      "surface": "משכנות",
+      "gloss": "iindawo zokuhlala za"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "uYakobi"
+    }
+  ],
+  "timestamp": "2026-09-18T15:07:43.244591742Z",
+  "model": "glm-5.3"
+}

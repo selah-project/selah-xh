@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 3:8",
+  "book": "ezekiel",
+  "lang": "xh",
+  "chapter": 3,
+  "translation": "Bhe, ndenzile ⟨את⟩ ubuso bakho buqinile ngokuchasene nobuso babo, kwaye ⟨את⟩ iphahla lakho liqinile ngokuchasene namaphahla abo.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Bhe"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "ndenzile"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ubuso bakho"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ubuso bakho"
+    },
+    {
+      "surface": "חזקים",
+      "gloss": "buqinile"
+    },
+    {
+      "surface": "לעמת",
+      "gloss": "ngokuchasene"
+    },
+    {
+      "surface": "פניהם",
+      "gloss": "nobuso babo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kwaye ⟨את⟩",
+      "marks": "iphahla lakho"
+    },
+    {
+      "surface": "מצחך",
+      "gloss": "iphahla lakho"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "liqinile"
+    },
+    {
+      "surface": "לעמת",
+      "gloss": "ngokuchasene"
+    },
+    {
+      "surface": "מצחם",
+      "gloss": "namaphahla abo"
+    }
+  ],
+  "timestamp": "2026-09-18T12:56:33.057442978Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 6:23",
+  "book": "deuteronomy",
+  "lang": "xh",
+  "chapter": 6,
+  "translation": "⟨את⟩ us sikhuphe ngaphaya kwaleyo, ukuze asingenise, asinike ⟨את⟩ umhlaba owafungisa kuwo ooyise bethu.",
+  "tokens": [
+    {
+      "surface": "ואותנו",
+      "gloss": "⟨את⟩ us"
+    },
+    {
+      "surface": "הוציא",
+      "gloss": "sikhuphe"
+    },
+    {
+      "surface": "משם",
+      "gloss": "ngaphaya kwaleyo"
+    },
+    {
+      "surface": "למען",
+      "gloss": "ukuze"
+    },
+    {
+      "surface": "הביא",
+      "gloss": "asingenise"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ asi"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "asinike"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "si"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umhlaba"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "umhlaba"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "owo"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "wafungisa"
+    },
+    {
+      "surface": "לאבתינו",
+      "gloss": "kuwo ooyise bethu"
+    }
+  ],
+  "timestamp": "2026-09-18T07:58:59.209450368Z",
+  "model": "glm-5.3"
+}

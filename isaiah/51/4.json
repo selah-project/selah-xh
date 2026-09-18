@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 51:4",
+  "book": "isaiah",
+  "lang": "xh",
+  "chapter": 51,
+  "translation": "Mameleni kum, abantu bam, nasizwe sam, kum nilalele: kuba iTora iza kuphuma kum ⟨את⟩, nomgwebo wam uza kuba lilukhanyiso lwabantu — ndiza kuwuzisa ngokukhawuleza.",
+  "tokens": [
+    {
+      "surface": "הקשיבו",
+      "gloss": "Mameleni"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kum"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "abantu bam"
+    },
+    {
+      "surface": "ולאומי",
+      "gloss": "nasizwe sam"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kum"
+    },
+    {
+      "surface": "האזינו",
+      "gloss": "nilalele"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "תורה",
+      "gloss": "iTora"
+    },
+    {
+      "surface": "מאתי",
+      "gloss": "kum ⟨את⟩",
+      "marks": "iTora"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "iza kuphuma"
+    },
+    {
+      "surface": "ומשפטי",
+      "gloss": "nomgwebo wam"
+    },
+    {
+      "surface": "לאור",
+      "gloss": "uba lilukhanyiso"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "lwabantu"
+    },
+    {
+      "surface": "ארגיע",
+      "gloss": "ndiza kuwuzisa ngokukhawuleza"
+    }
+  ],
+  "timestamp": "2026-09-18T17:35:23.609804853Z",
+  "model": "glm-5.3"
+}

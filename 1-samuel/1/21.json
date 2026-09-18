@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-samuel 1:21",
+  "book": "1-samuel",
+  "lang": "xh",
+  "chapter": 1,
+  "translation": "Wenyuka-ke umntu u-Elkanah nendlu yakhe yonke, ukunikelela kuYahwe ⟨את⟩ isinikelwa semihla kunye ⟨ואת⟩ isithembiso sakhe.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "wenyuka"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "umntu"
+    },
+    {
+      "surface": "אלקנה",
+      "gloss": "u-Elkanah"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "nayonke"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "indlu yakhe"
+    },
+    {
+      "surface": "לזבח",
+      "gloss": "ukunikelela"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kuYahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isinikelwa semihla"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "isinikelwa"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "semihla"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "isithembiso sakhe"
+    },
+    {
+      "surface": "נדרו",
+      "gloss": "isithembiso sakhe"
+    }
+  ],
+  "timestamp": "2026-09-18T09:13:48.872760609Z",
+  "model": "glm-5.3"
+}

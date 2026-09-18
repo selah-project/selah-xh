@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 94:20",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 94,
+  "translation": "Ingaba isitulo sokonakala sidibana nawe, esibumba ububi ngomgaqo?",
+  "tokens": [
+    {
+      "surface": "היחברך",
+      "gloss": "ingaba ... sidibana nawe"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "isitulo"
+    },
+    {
+      "surface": "הוות",
+      "gloss": "sokonakala"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "esibumba"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "ububi"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "nge-"
+    },
+    {
+      "surface": "חק",
+      "gloss": "omgaqo"
+    }
+  ],
+  "timestamp": "2026-09-18T15:10:08.229922109Z",
+  "model": "glm-5.3"
+}

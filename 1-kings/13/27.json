@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-kings 13:27",
+  "book": "1-kings",
+  "lang": "xh",
+  "chapter": 13,
+  "translation": "Wathetha kwiinyana zakhe, esithi: “Ndithini — qhagushelani ⟨את⟩ idongi.” Baziqhagushela.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "Wathetha"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwiinyana"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "zakhe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "esithi"
+    },
+    {
+      "surface": "חבשו",
+      "gloss": "qhagushelani"
+    },
+    {
+      "surface": "לי",
+      "gloss": "Ndithini —"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "idongi"
+    },
+    {
+      "surface": "החמור",
+      "gloss": "idongi"
+    },
+    {
+      "surface": "ויחבשו",
+      "gloss": "Baziqhagushela"
+    }
+  ],
+  "timestamp": "2026-09-18T10:24:09.124096410Z",
+  "model": "glm-5.3"
+}

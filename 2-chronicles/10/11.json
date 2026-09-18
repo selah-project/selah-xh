@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-chronicles 10:11",
+  "book": "2-chronicles",
+  "lang": "xh",
+  "chapter": 10,
+  "translation": "Kananjalo ubawo wanithwesa umthwalo obunzima, yaye mna ndiza kuwongeza kumthwalo wenu; ubawo wanilumkisa ngeentonga, yaye mna ndiza kunilumkisa ngezikhandolwane ezinobuthi.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Kananjalo"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "ubawo"
+    },
+    {
+      "surface": "העמיס",
+      "gloss": "wanithwesa"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "nina"
+    },
+    {
+      "surface": "על",
+      "gloss": "umthwalo"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "obunzima"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "yaye mna"
+    },
+    {
+      "surface": "אסיף",
+      "gloss": "ndiza kuwongeza"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "עלכם",
+      "gloss": "umthwalo wenu"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "ubawo"
+    },
+    {
+      "surface": "יסר",
+      "gloss": "wanilumkisa"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ nina",
+      "marks": "nina"
+    },
+    {
+      "surface": "בשוטים",
+      "gloss": "ngeentonga"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "yaye mna"
+    },
+    {
+      "surface": "בעקרבים",
+      "gloss": "ngezikhandolwane ezinobuthi"
+    }
+  ],
+  "timestamp": "2026-09-18T17:06:19.394768818Z",
+  "model": "glm-5.3"
+}

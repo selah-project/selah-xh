@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 28:4",
+  "book": "ezekiel",
+  "lang": "xh",
+  "chapter": 28,
+  "translation": "Ngobulungile bakho nangokuqonda kwakho uzenzele ubutyebi, wazibiza igolide nesisiliva ezityalweni zakho.",
+  "tokens": [
+    {
+      "surface": "בחכמתך",
+      "gloss": "Ngobulungile bakho"
+    },
+    {
+      "surface": "ובתבונתך",
+      "gloss": "nangokuqonda kwakho"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "uzenzele"
+    },
+    {
+      "surface": "לך",
+      "gloss": "-"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "ubutyebi"
+    },
+    {
+      "surface": "ותעש",
+      "gloss": "wazibiza"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "igolide"
+    },
+    {
+      "surface": "וכסף",
+      "gloss": "nesisiliva"
+    },
+    {
+      "surface": "באוצרותיך",
+      "gloss": "ezityalweni zakho"
+    }
+  ],
+  "timestamp": "2026-09-18T13:19:15.646009605Z",
+  "model": "glm-5.3"
+}

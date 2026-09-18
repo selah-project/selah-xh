@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 24:10",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 24,
+  "translation": "Babona ⟨את⟩ uElohim wakwaSirayeli; apha ngaphantsi kweenyawo zakhe kwakunjengomsebenzi weetile zesaphaya, njengesimo samazulu ngokucaca.",
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "Babona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uElohim wakwaSirayeli"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "wakwaSirayeli"
+    },
+    {
+      "surface": "ותחת",
+      "gloss": "ngaphantsi"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "kweenyawo zakhe"
+    },
+    {
+      "surface": "כמעשה",
+      "gloss": "njengomsebenzi"
+    },
+    {
+      "surface": "לבנת",
+      "gloss": "weetile (zokwakha)"
+    },
+    {
+      "surface": "הספיר",
+      "gloss": "zesaphaya"
+    },
+    {
+      "surface": "וכעצם",
+      "gloss": "njengesimo"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "samazulu"
+    },
+    {
+      "surface": "לטהר",
+      "gloss": "ngokucaca"
+    }
+  ],
+  "timestamp": "2026-09-18T06:10:57.531961568Z",
+  "model": "glm-5.3"
+}

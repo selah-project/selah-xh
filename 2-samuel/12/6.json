@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-samuel 12:6",
+  "book": "2-samuel",
+  "lang": "xh",
+  "chapter": 12,
+  "translation": "Waza ⟨את⟩ igusha ubuyisela phindwe kane, ngenxa yokuba wenze ⟨את⟩ le nto, nokuba wangazange abambelele.”",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Waza ⟨את⟩",
+      "marks": "igusha"
+    },
+    {
+      "surface": "הכבשה",
+      "gloss": "igusha"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "ubuyisela"
+    },
+    {
+      "surface": "ארבעתים",
+      "gloss": "phindwe kane"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "ngenxa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yokuba"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "wenze"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le nto"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "le nto"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "le"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "nokuba"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "okokuba"
+    },
+    {
+      "surface": "לא",
+      "gloss": "azange"
+    },
+    {
+      "surface": "חמל",
+      "gloss": "bambelele"
+    }
+  ],
+  "timestamp": "2026-09-18T09:53:11.659292685Z",
+  "model": "glm-5.3"
+}

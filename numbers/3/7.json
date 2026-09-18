@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 3:7",
+  "book": "numbers",
+  "lang": "xh",
+  "chapter": 3,
+  "translation": "Bagcine ulwazi lwakhe, nolwazi loludike lonke, phambi kwetenti yokuqokelelwa, ukwenza umsebenzi wetabernakele.",
+  "tokens": [
+    {
+      "surface": "ושמרו",
+      "gloss": "bagcine"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ulwazi lwakhe"
+    },
+    {
+      "surface": "משמרתו",
+      "gloss": "ulwazi lwakhe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ulwazi loludike"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "ulwazi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lonke"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "oludike"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "phambi kwa"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "itenti"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "yokuqokelelwa"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "ukwenza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umsebenzi"
+    },
+    {
+      "surface": "עבדת",
+      "gloss": "umsebenzi"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "wetabernakele"
+    }
+  ],
+  "timestamp": "2026-09-18T07:12:16.459937298Z",
+  "model": "glm-5.3"
+}

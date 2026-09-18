@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 120:1",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 120,
+  "translation": "Icandelo lokunyuka. KuYahwe, esibuhlungwini sam, ndandimbizile, waza wandiphendula.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Icandelo"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "lokunyuka"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ku-"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "בצרתה",
+      "gloss": "esibuhlungwini"
+    },
+    {
+      "surface": "לי",
+      "gloss": "sam"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "ndandimbizile"
+    },
+    {
+      "surface": "ויענני",
+      "gloss": "waza wandiphendula"
+    }
+  ],
+  "timestamp": "2026-09-18T15:26:24.661914028Z",
+  "model": "glm-5.3"
+}

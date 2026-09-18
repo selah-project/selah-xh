@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 19:25",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 19,
+  "translation": "Waze wakhithula uMoshe waya kubantu, waza wathetha kubo.",
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "waze wakhithula"
+    },
+    {
+      "surface": "משה",
+      "gloss": "uMoshe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "waya ku"
+    },
+    {
+      "surface": "העם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "waza wathetha"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "ku"
+    }
+  ],
+  "timestamp": "2026-09-18T06:02:19.640933073Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 65:21",
+  "book": "isaiah",
+  "lang": "xh",
+  "chapter": 65,
+  "translation": "Baya kwakha iindlu, baya kuzihlala khona; baya kutyala iivini, baya kutya isiqhamo zawo.",
+  "tokens": [
+    {
+      "surface": "ובנו",
+      "gloss": "baya kwakha"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "iindlu"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "baya kuzihlala"
+    },
+    {
+      "surface": "ונטעו",
+      "gloss": "baya kutyala"
+    },
+    {
+      "surface": "כרמים",
+      "gloss": "iivini"
+    },
+    {
+      "surface": "ואכלו",
+      "gloss": "baya kutya"
+    },
+    {
+      "surface": "פרים",
+      "gloss": "isiqhamo zawo"
+    }
+  ],
+  "timestamp": "2026-09-18T11:49:22.696440002Z",
+  "model": "glm-5.3"
+}

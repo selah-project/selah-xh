@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "isaiah 30:22",
+  "book": "isaiah",
+  "lang": "xh",
+  "chapter": 30,
+  "translation": "Niza kuzila ⟨את⟩ isiphuzo samashotho esilivere yakho, kwaye ⟨את⟩ isiphuzo seenkosi ezithunjiweyo zegolide yakho; niya kuzitsalatsala njengento engcolileyo yenkazana; “Phuma!” niya kuthi kuyo.",
+  "tokens": [
+    {
+      "surface": "וטמאתם",
+      "gloss": "niza kuzila njengengcolileyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isiphuzo samashotho esilivere yakho"
+    },
+    {
+      "surface": "צפוי",
+      "gloss": "isiphuzo"
+    },
+    {
+      "surface": "פסילי",
+      "gloss": "samashotho"
+    },
+    {
+      "surface": "כספך",
+      "gloss": "esilivere yakho"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kwaye ⟨את⟩",
+      "marks": "isiphuzo seenkosi ezithunjiweyo zegolide yakho"
+    },
+    {
+      "surface": "אפדת",
+      "gloss": "isiphuzo senkampu"
+    },
+    {
+      "surface": "מסכת",
+      "gloss": "seenkosi ezithunjiweyo"
+    },
+    {
+      "surface": "זהבך",
+      "gloss": "zegolide yakho"
+    },
+    {
+      "surface": "תזרם",
+      "gloss": "niya kuzitsalatsala"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "njenge"
+    },
+    {
+      "surface": "דוה",
+      "gloss": "ento engcolileyo yenkazana ese-bukhwenkxe"
+    },
+    {
+      "surface": "צא",
+      "gloss": "phuma"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "niya kuthi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kuyo"
+    }
+  ],
+  "timestamp": "2026-09-18T11:24:02.331966206Z",
+  "model": "glm-5.3"
+}

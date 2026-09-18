@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 11:22",
+  "book": "leviticus",
+  "lang": "xh",
+  "chapter": 11,
+  "translation": "⟨את⟩ Ezi kuzo niya kuzitya: ⟨את⟩ i-arbeh ngokohlobo lwayo, kunye ne⟨את⟩ i-selam ngokohlobo lwayo, kunye ne⟨את⟩ i-hargol ngokohlobo lwayo, kunye ne⟨את⟩ i-hagab ngokohlobo lwayo.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ezi"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ezi"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "kuzo"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "niya kuzitya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i-arbeh"
+    },
+    {
+      "surface": "הארבה",
+      "gloss": "i-arbeh"
+    },
+    {
+      "surface": "למינו",
+      "gloss": "ngokohlobo lwayo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ kunye ne-",
+      "marks": "i-selam"
+    },
+    {
+      "surface": "הסלעם",
+      "gloss": "i-selam"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "ngokohlobo lwayo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ kunye ne-",
+      "marks": "i-hargol"
+    },
+    {
+      "surface": "החרגל",
+      "gloss": "i-hargol"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "ngokohlobo lwayo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ kunye ne-",
+      "marks": "i-hagab"
+    },
+    {
+      "surface": "החגב",
+      "gloss": "i-hagab"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "ngokohlobo lwayo"
+    }
+  ],
+  "timestamp": "2026-09-18T06:42:03.978189204Z",
+  "model": "glm-5.3"
+}

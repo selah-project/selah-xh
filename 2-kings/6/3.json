@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 6:3",
+  "book": "2-kings",
+  "lang": "xh",
+  "chapter": 6,
+  "translation": "Kwathi omnye wabo: “Sicela uvume nje, uhambe ⟨את⟩ neenkonzi zakho.” Wathi: “Ndiya kuhamba.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Kwathi"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "omnye wabo"
+    },
+    {
+      "surface": "הואל",
+      "gloss": "Sicela uvume"
+    },
+    {
+      "surface": "נא",
+      "gloss": "nje"
+    },
+    {
+      "surface": "ולך",
+      "gloss": "uhambe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "neenkonzi zakho"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "neenkonzi zakho"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Wathi"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Ndi"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "ya kuhamba"
+    }
+  ],
+  "timestamp": "2026-09-18T10:40:55.673985567Z",
+  "model": "glm-5.3"
+}

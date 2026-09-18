@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "psalms 89:34",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 89,
+  "translation": "Kodwa ikhesedi yam andiyibhangi kuye, de ndingabi bubuxoki ubunyaniseki bam.",
+  "tokens": [
+    {
+      "surface": "וחסדי",
+      "gloss": "kodwa ikhesedi yam"
+    },
+    {
+      "surface": "לא",
+      "gloss": "andi"
+    },
+    {
+      "surface": "אפיר",
+      "gloss": "yibhangi"
+    },
+    {
+      "surface": "מעמו",
+      "gloss": "kuye"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "de ndingabi"
+    },
+    {
+      "surface": "אשקר",
+      "gloss": "bubuxoki"
+    },
+    {
+      "surface": "באמונתי",
+      "gloss": "ubunyaniseki bam"
+    }
+  ],
+  "timestamp": "2026-09-18T15:08:02.509120390Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 25:7",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 25,
+  "translation": "iintshebe zeshohamu, neentshebe ezisiweyo, ze-efode nakwesisifuba",
+  "tokens": [
+    {
+      "surface": "אבני",
+      "gloss": "iintshebe ze-"
+    },
+    {
+      "surface": "שהם",
+      "gloss": "ishohamu"
+    },
+    {
+      "surface": "ואבני",
+      "gloss": "neentshebe"
+    },
+    {
+      "surface": "מלאים",
+      "gloss": "ezisiweyo"
+    },
+    {
+      "surface": "לאפד",
+      "gloss": "ze-efode"
+    },
+    {
+      "surface": "ולחשן",
+      "gloss": "nakwesisifuba"
+    }
+  ],
+  "timestamp": "2026-09-18T06:11:32.793492436Z",
+  "model": "glm-5.3"
+}

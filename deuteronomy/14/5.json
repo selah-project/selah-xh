@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 14:5",
+  "book": "deuteronomy",
+  "lang": "xh",
+  "chapter": 14,
+  "translation": "i-ayal, itsebi, iyakhmuri, i-aqo, idishoni, iteo, nezameri.",
+  "tokens": [
+    {
+      "surface": "איל",
+      "gloss": "i-ayal (ihathi)"
+    },
+    {
+      "surface": "וצבי",
+      "gloss": "itsebi (igazela)"
+    },
+    {
+      "surface": "ויחמור",
+      "gloss": "iyakhmuri"
+    },
+    {
+      "surface": "ואקו",
+      "gloss": "i-aqo (ibhokhwe yasehlathi)"
+    },
+    {
+      "surface": "ודישן",
+      "gloss": "idishoni"
+    },
+    {
+      "surface": "ותאו",
+      "gloss": "iteo (inkomo yasehlathi)"
+    },
+    {
+      "surface": "וזמר",
+      "gloss": "nezameri"
+    }
+  ],
+  "timestamp": "2026-09-18T08:07:55.708388388Z",
+  "model": "glm-5.3"
+}

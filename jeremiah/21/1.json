@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 21:1",
+  "book": "jeremiah",
+  "lang": "xh",
+  "chapter": 21,
+  "translation": "Ilizwi elo lafika ku-Yirmeyahu elivela kuYahwe ⟨את⟩, xa inkosi u-Tsidkiyahu wathumela kuye u-Pashkhur ⟨את⟩, unyana ka-Malkiya, kunye no-Tsefanya ⟨את⟩, unyana ka-Ma'aseya, ipristi, elithi:",
+  "tokens": [
+    {
+      "surface": "הדבר",
+      "gloss": "Ilizwi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "elo"
+    },
+    {
+      "surface": "היה",
+      "gloss": "lafika"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "u-Yirmeyahu"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "uYahwe (elivela ku)"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "בשלח",
+      "gloss": "xa wathumela"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kuye"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "inkosi"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "u-Tsidkiyahu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "u-Pashkhur"
+    },
+    {
+      "surface": "פשחור",
+      "gloss": "u-Pashkhur"
+    },
+    {
+      "surface": "בן",
+      "gloss": "unyana"
+    },
+    {
+      "surface": "מלכיה",
+      "gloss": "ka-Malkiya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kunye no-⟨את⟩",
+      "marks": "u-Tsefanya"
+    },
+    {
+      "surface": "צפניה",
+      "gloss": "u-Tsefanya"
+    },
+    {
+      "surface": "בן",
+      "gloss": "unyana"
+    },
+    {
+      "surface": "מעשיה",
+      "gloss": "ka-Ma'aseya"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ipristi"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "elithi"
+    }
+  ],
+  "timestamp": "2026-09-18T12:12:28.292138669Z",
+  "model": "glm-5.3"
+}

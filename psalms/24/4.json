@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 24:4",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 24,
+  "translation": "Ococekileyo ngezandla, olungeleyo ngentliziyo, ongazukuzela impazam umphefumlo wakhe, onangafunga ngobuxoki.",
+  "tokens": [
+    {
+      "surface": "נקי",
+      "gloss": "Ococekileyo"
+    },
+    {
+      "surface": "כפים",
+      "gloss": "ngezandla"
+    },
+    {
+      "surface": "ובר",
+      "gloss": "olungeleyo"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "ngentliziyo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ong"
+    },
+    {
+      "surface": "לא",
+      "gloss": "anga"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "-zukuzela"
+    },
+    {
+      "surface": "לשוא",
+      "gloss": "impazam"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "umphefumlo wakhe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "onanga"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "-funga"
+    },
+    {
+      "surface": "למרמה",
+      "gloss": "ngobuxoki"
+    }
+  ],
+  "timestamp": "2026-09-18T14:38:20.535707700Z",
+  "model": "glm-5.3"
+}

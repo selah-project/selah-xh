@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 39:7",
+  "book": "jeremiah",
+  "lang": "xh",
+  "chapter": 39,
+  "translation": "Waza wathimba ⟨את⟩ amehlo kaTsidkiyahu, wambophelela ngeetyhidi zentsimbi, ukuba amzise ⟨את⟩ yena eBhabheli.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "amehlo kaTsidkiyahu"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "amehlo"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "kaTsidkiyahu"
+    },
+    {
+      "surface": "עור",
+      "gloss": "wathimba"
+    },
+    {
+      "surface": "ויאסרהו",
+      "gloss": "wambophelela"
+    },
+    {
+      "surface": "בנחשתים",
+      "gloss": "ngeetyhidi zentsimbi"
+    },
+    {
+      "surface": "לביא",
+      "gloss": "ukuba amzise"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "yena"
+    },
+    {
+      "surface": "בבלה",
+      "gloss": "eBhabheli"
+    }
+  ],
+  "timestamp": "2026-09-18T12:29:02.816281551Z",
+  "model": "glm-5.3"
+}

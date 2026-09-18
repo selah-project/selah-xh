@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "esther 8:2",
+  "book": "esther",
+  "lang": "xh",
+  "chapter": 8,
+  "translation": "Inkosi yatsusa isigingci sayo esasisusiwe kuHamani, yanika uMordekayi ngaso; uEsther wamisela uMordekayi phezu kendlu kaHamani.",
+  "tokens": [
+    {
+      "surface": "ויסר",
+      "gloss": "yatsusa"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "inkosi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isigingci sayo"
+    },
+    {
+      "surface": "טבעתו",
+      "gloss": "isigingci sayo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "esasisusiwe"
+    },
+    {
+      "surface": "העביר",
+      "gloss": "esisusiwe"
+    },
+    {
+      "surface": "מהמן",
+      "gloss": "kuHamani"
+    },
+    {
+      "surface": "ויתנה",
+      "gloss": "yanika"
+    },
+    {
+      "surface": "למרדכי",
+      "gloss": "uMordekayi"
+    },
+    {
+      "surface": "ותשם",
+      "gloss": "wamisela"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "uEsther"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uMordekayi"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "uMordekayi"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu kwa-"
+    },
+    {
+      "surface": "בית",
+      "gloss": "kendlu"
+    },
+    {
+      "surface": "המן",
+      "gloss": "kaHamani"
+    }
+  ],
+  "timestamp": "2026-09-18T16:30:11.665148024Z",
+  "model": "glm-5.3"
+}

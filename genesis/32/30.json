@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 32:30",
+  "book": "genesis",
+  "lang": "xh",
+  "chapter": 32,
+  "translation": "Wabuza uYaakov, wathi: “Ndicela ndixelele igama lakho.” Wathi: “Kutheni oku umbuza igama lam?” Wamtsalisa ⟨את⟩-yena khona.",
+  "tokens": [
+    {
+      "surface": "וישאל",
+      "gloss": "Wabuza"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "uYaakov"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "הגידה",
+      "gloss": "ndixelele"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ndicela"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "igama lakho"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Wathi"
+    },
+    {
+      "surface": "למה",
+      "gloss": "Kutheni"
+    },
+    {
+      "surface": "זה",
+      "gloss": "oku"
+    },
+    {
+      "surface": "תשאל",
+      "gloss": "umbuza"
+    },
+    {
+      "surface": "לשמי",
+      "gloss": "igama lam"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "Wamtsalisa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "uYaakov (yena)"
+    },
+    {
+      "surface": "שם",
+      "gloss": "khona"
+    }
+  ],
+  "timestamp": "2026-09-18T05:31:04.448844219Z",
+  "model": "glm-5.3"
+}

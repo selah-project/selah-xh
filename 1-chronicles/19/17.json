@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 19:17",
+  "book": "1-chronicles",
+  "lang": "xh",
+  "chapter": 19,
+  "translation": "Kwabhiyizelwa kuDawidi, waza wangqokelela ⟨את⟩ onke uYisrayeli,wadlula iYordanani, weza kubo, walungisa umbutho wempi ngokuchasene nabo;uDawidi walungisa umbutho wempi ukudibana neAram impi, yaye balwa naye.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "kwabhiyizelwa"
+    },
+    {
+      "surface": "לדויד",
+      "gloss": "kuDawidi"
+    },
+    {
+      "surface": "ויאסף",
+      "gloss": "wangqokelela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "onke uYisrayeli"
+    },
+    {
+      "surface": "כל",
+      "gloss": "onke"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "uYisrayeli"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "wadlula"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "iYordanani"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "weza"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "kubo"
+    },
+    {
+      "surface": "ויערך",
+      "gloss": "walungisa umbutho wempi"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "ngokuchasene nabo"
+    },
+    {
+      "surface": "ויערך",
+      "gloss": "walungisa umbutho wempi"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "uDawidi"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "ukudibana"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "iAram"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "impi"
+    },
+    {
+      "surface": "וילחמו",
+      "gloss": "balwa"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "naye"
+    }
+  ],
+  "timestamp": "2026-09-18T16:57:08.628833969Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 62:2",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 62,
+  "translation": "Kuphela kuElohim umphefumlo wam uthulisile; isindiso sam sivela kuye.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Kuphela"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "דומיה",
+      "gloss": "uthulisile"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "umphefumlo wam"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "vela kuye"
+    },
+    {
+      "surface": "ישועתי",
+      "gloss": "isindiso sam"
+    }
+  ],
+  "timestamp": "2026-09-18T14:54:16.231021637Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 7:4",
+  "book": "1-kings",
+  "lang": "xh",
+  "chapter": 7,
+  "translation": "Kwaye iifestile zazingekho kwiindidi ezintathu, nesibonakaliso sijongene nesibonakaliso, izihlandlo ezintathu.",
+  "tokens": [
+    {
+      "surface": "ושקפים",
+      "gloss": "iifestile"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "ezintathu"
+    },
+    {
+      "surface": "טורים",
+      "gloss": "kwiindidi"
+    },
+    {
+      "surface": "ומחזה",
+      "gloss": "nesibonakaliso"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sijongene"
+    },
+    {
+      "surface": "מחזה",
+      "gloss": "nesibonakaliso"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "ezintathu"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "izihlandlo"
+    }
+  ],
+  "timestamp": "2026-09-18T10:16:24.158995412Z",
+  "model": "glm-5.3"
+}

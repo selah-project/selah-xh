@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 128,
+  "ref": "psalms 119:128",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 119,
+  "translation": "Ngenxa yoko onke miyalelo yakho ndiyayithatha ichanekile; onke indlela yobuxoki ndiyizonda.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "ngenxa"
+    },
+    {
+      "surface": "כן",
+      "gloss": "yoko"
+    },
+    {
+      "surface": "כל",
+      "gloss": "onke"
+    },
+    {
+      "surface": "פקודי",
+      "gloss": "miyalelo yakho"
+    },
+    {
+      "surface": "כל",
+      "gloss": "konke"
+    },
+    {
+      "surface": "ישרתי",
+      "gloss": "ndiyayithatha ichanekile"
+    },
+    {
+      "surface": "כל",
+      "gloss": "onke"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "indlela"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "yobuxoki"
+    },
+    {
+      "surface": "שנאתי",
+      "gloss": "ndiyizonda"
+    }
+  ],
+  "timestamp": "2026-09-18T15:25:16.090389757Z",
+  "model": "glm-5.3"
+}

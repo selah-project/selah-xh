@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 20:6",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 20,
+  "translation": "enze ikhesedi kumawaka, kubathandayo nakubagciniyo imiyalelo yam.",
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "enze"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "ikhesedi"
+    },
+    {
+      "surface": "לאלפים",
+      "gloss": "kumawaka"
+    },
+    {
+      "surface": "לאהבי",
+      "gloss": "kubathandayo"
+    },
+    {
+      "surface": "ולשמרי",
+      "gloss": "nakubagciniyo"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "imiyalelo yam"
+    }
+  ],
+  "timestamp": "2026-09-18T06:03:39.193332640Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 10:1",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 10,
+  "translation": "Wathetha uYahwe kuMoshe: “Ngena kuParo, kuba ndinguye owenzinte intliziyo yakhe nentliziyo yeenkokeli zakhe, ukuze ndibeke ezi phawu zam kwindawo yakhe.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wathetha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "משה",
+      "gloss": "uMoshe"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ngena"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "uParo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ndinguye"
+    },
+    {
+      "surface": "הכבדתי",
+      "gloss": "owenzinte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "intliziyo yakhe"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "intliziyo yakhe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "nee⟨את⟩",
+      "marks": "intliziyo yeenkokeli zakhe"
+    },
+    {
+      "surface": "לב",
+      "gloss": "intliziyo"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "yeenkokeli zakhe"
+    },
+    {
+      "surface": "למען",
+      "gloss": "ukuze"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "ndibeke"
+    },
+    {
+      "surface": "אתתי",
+      "gloss": "phawu zam"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ezi"
+    },
+    {
+      "surface": "בקרבו",
+      "gloss": "kwindawo yakhe"
+    }
+  ],
+  "timestamp": "2026-09-18T05:57:57.701629959Z",
+  "model": "glm-5.3"
+}

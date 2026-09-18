@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 27:10",
+  "book": "leviticus",
+  "lang": "xh",
+  "chapter": 27,
+  "translation": "Akayi kuyitshintsha akayi kuyitshintshela ⟨את⟩ ilungileyo ngengecolileyo okanye ingcola ngelungileyo; kwaye ukuba utshintsha imfuyo ngemfuyo, yona nentshintshelo yayo ziya kuba ngungcwele.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "akayi"
+    },
+    {
+      "surface": "יחליפנו",
+      "gloss": "kuyitshintsha"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "akayi"
+    },
+    {
+      "surface": "ימיר",
+      "gloss": "kuyitshintshela"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ilungileyo"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ilungileyo"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "ngengecolileyo"
+    },
+    {
+      "surface": "או",
+      "gloss": "okanye"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ingcola"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "ngelungileyo"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "kwaye ukuba"
+    },
+    {
+      "surface": "המר",
+      "gloss": "utshintsha"
+    },
+    {
+      "surface": "ימיר",
+      "gloss": "utshintsha"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "imfuyo"
+    },
+    {
+      "surface": "בבהמה",
+      "gloss": "ngemfuyo"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "ize"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yona"
+    },
+    {
+      "surface": "ותמורתו",
+      "gloss": "nentshintshelo yayo"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ziya kuba"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "ngungcwele"
+    }
+  ],
+  "timestamp": "2026-09-18T07:08:51.268796726Z",
+  "model": "glm-5.3"
+}

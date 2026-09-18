@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 50:3",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 50,
+  "translation": "Ilo naliza uElohim wethu, akasayi kuthula: umlilo phambi kwakhe uyawutya, yaye jikelele kwakhe kuyachithwa ngamandla.",
+  "tokens": [
+    {
+      "surface": "יבא",
+      "gloss": "ilo naliza"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "uElohim wethu"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "akasayi"
+    },
+    {
+      "surface": "יחרש",
+      "gloss": "kuthula"
+    },
+    {
+      "surface": "אש",
+      "gloss": "umlilo"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "phambi kwakhe"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "uyawutya"
+    },
+    {
+      "surface": "וסביביו",
+      "gloss": "yaye jikelele kwakhe"
+    },
+    {
+      "surface": "נשערה",
+      "gloss": "kuyachithwa"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ngamandla"
+    }
+  ],
+  "timestamp": "2026-09-18T14:48:52.092861164Z",
+  "model": "glm-5.3"
+}

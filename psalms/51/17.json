@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 51:17",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 51,
+  "translation": "u-Adonayi, zivulele iilwimi zam, mlomo wam uza kubhengeza udumo lwakho.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "u-Adonayi"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "iilwimi zam"
+    },
+    {
+      "surface": "תפתח",
+      "gloss": "zivulele"
+    },
+    {
+      "surface": "ופי",
+      "gloss": "mlomo wam"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "uza kubhengeza"
+    },
+    {
+      "surface": "תהלתך",
+      "gloss": "udumo lwakho"
+    }
+  ],
+  "timestamp": "2026-09-18T14:49:22.045588341Z",
+  "model": "glm-5.3"
+}

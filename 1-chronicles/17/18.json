@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-chronicles 17:18",
+  "book": "1-chronicles",
+  "lang": "xh",
+  "chapter": 17,
+  "translation": "Masingathini-ke uDavide kwakhona kuwe ukwenza udumo ⟨את⟩ lecebe lakho? Kuba wena ⟨את⟩ icebe lakho uyayazi.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Masingathini"
+    },
+    {
+      "surface": "יוסיף",
+      "gloss": "kwakhona"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ongaphezu"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "uDavide"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kuwe"
+    },
+    {
+      "surface": "לכבוד",
+      "gloss": "ukwenza udumo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lecebe lakho"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "lecebe lakho"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "kuba wena"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "icebe lakho"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "icebe lakho"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "uyayazi"
+    }
+  ],
+  "timestamp": "2026-09-18T16:57:42.112906010Z",
+  "model": "glm-5.3"
+}

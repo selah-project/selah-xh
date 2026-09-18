@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 89:7",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 89,
+  "translation": "Kuba ngubani olwedini onokuzibekayo phambi koYahwe? Ngubani ofana noYahwe phakathi kwamadodana ama-el?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kuba"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ngubani"
+    },
+    {
+      "surface": "בשחק",
+      "gloss": "olwedini"
+    },
+    {
+      "surface": "יערך",
+      "gloss": "onokuzibekayo phambi"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "koYahwe"
+    },
+    {
+      "surface": "ידמה",
+      "gloss": "ofana"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "noYahwe"
+    },
+    {
+      "surface": "בבני",
+      "gloss": "phakathi kwamadodana"
+    },
+    {
+      "surface": "אלים",
+      "gloss": "ama-el"
+    }
+  ],
+  "timestamp": "2026-09-18T15:07:56.239194437Z",
+  "model": "glm-5.3"
+}

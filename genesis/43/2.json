@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 43:2",
+  "book": "genesis",
+  "lang": "xh",
+  "chapter": 43,
+  "translation": "Kwathi xa bedlile ⟨את⟩ ingqolowa abayilethe kwiMitsrayim, ubawo wabo wathi kubo: “Buyelani-ni, nithengele thina ithuthwana lokutya.”",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "kwathi"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "xa"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "bedlile"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "ukutya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ingqolowa"
+    },
+    {
+      "surface": "השבר",
+      "gloss": "ingqolowa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "הביאו",
+      "gloss": "abayilethe"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "kwiMitsrayim"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "kubo"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "ubawo wabo"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "buyelani"
+    },
+    {
+      "surface": "שברו",
+      "gloss": "nithengele"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "thina"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "ithuthwana"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "lokutya"
+    }
+  ],
+  "timestamp": "2026-09-18T05:40:40.028087880Z",
+  "model": "glm-5.3"
+}

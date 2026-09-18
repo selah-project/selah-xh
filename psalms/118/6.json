@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 118:6",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 118,
+  "translation": "UYahwe ngowam; andisoyiki: umntu ungenza ntoni kum?",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "UYahwe"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ngowam"
+    },
+    {
+      "surface": "לא",
+      "gloss": "andi-"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "soyiki"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ntoni"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "ungenza"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kum"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "umntu"
+    }
+  ],
+  "timestamp": "2026-09-18T15:21:59.832525307Z",
+  "model": "glm-5.3"
+}

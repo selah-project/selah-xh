@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "esther 1:1",
+  "book": "esther",
+  "lang": "xh",
+  "chapter": 1,
+  "translation": "Kwenzakala kwimaxesha ka-Akhashverosh — yena ngu-Akhashverosh, inkosi elawulayo ukusuka kwiHodu ukuya kwiKushi, iindawo zelawulo ezingama-127.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Kwenzakala"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "kwimaxesha ka-"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "u-Akhashverosh"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yena"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "ngu-Akhashverosh"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "inkosi"
+    },
+    {
+      "surface": "מהדו",
+      "gloss": "ukusuka kwiHodu"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ukuya ku-"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "iKushi"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "i-7"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "ne-20"
+    },
+    {
+      "surface": "ומאה",
+      "gloss": "ne-100"
+    },
+    {
+      "surface": "מדינה",
+      "gloss": "iindawo zelawulo"
+    }
+  ],
+  "timestamp": "2026-09-18T16:28:58.210790330Z",
+  "model": "glm-5.3"
+}

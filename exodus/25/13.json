@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 25:13",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 25,
+  "translation": "Uza kwenza iibhadi zomthi weeshitim, uza kuzigubungela ngegolide ⟨אתם⟩.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "Uza kwenza"
+    },
+    {
+      "surface": "בדי",
+      "gloss": "iibhadi"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "zomthi"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "weeshitim"
+    },
+    {
+      "surface": "וצפית",
+      "gloss": "uza kuzigubungela"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "iibhadi"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ngegolide"
+    }
+  ],
+  "timestamp": "2026-09-18T06:13:34.772386110Z",
+  "model": "glm-5.3"
+}

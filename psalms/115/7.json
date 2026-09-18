@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 115:7",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 115,
+  "translation": "Izandla zinazo kodwa azichukumisi; iinyawo zinazo kodwa azihambi; azibizisi ngeenqebe zazo.",
+  "tokens": [
+    {
+      "surface": "ידיהם",
+      "gloss": "izandla"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kodwa azichukumisi"
+    },
+    {
+      "surface": "ימישון",
+      "gloss": "azichukumisi"
+    },
+    {
+      "surface": "רגליהם",
+      "gloss": "iinyawo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kodwa azihambi"
+    },
+    {
+      "surface": "יהלכו",
+      "gloss": "azihambi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "azi-"
+    },
+    {
+      "surface": "יהגו",
+      "gloss": "azibizisi"
+    },
+    {
+      "surface": "בגרונם",
+      "gloss": "ngeenqebe zazo"
+    }
+  ],
+  "timestamp": "2026-09-18T15:21:04.205633005Z",
+  "model": "glm-5.3"
+}

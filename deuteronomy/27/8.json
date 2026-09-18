@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 27:8",
+  "book": "deuteronomy",
+  "lang": "xh",
+  "chapter": 27,
+  "translation": "Uza kubhala phezu kwamatye ⟨את⟩ onke amagama ale Tora le, ucacise kakuhle.",
+  "tokens": [
+    {
+      "surface": "וככתבת",
+      "gloss": "uza kubhala"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "kwamatye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "onke amagama ale Tora"
+    },
+    {
+      "surface": "כל",
+      "gloss": "onke"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "amagama"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "ale Tora"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "le"
+    },
+    {
+      "surface": "באר",
+      "gloss": "ucacise"
+    },
+    {
+      "surface": "היטב",
+      "gloss": "kakuhle"
+    }
+  ],
+  "timestamp": "2026-09-18T08:17:03.392027354Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 78:7",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 78,
+  "translation": "Babeke kuElohim ithemba labo, bangalibali izenzo zo-El, bagcine imiyalelo yakhe.",
+  "tokens": [
+    {
+      "surface": "וישימו",
+      "gloss": "babeke"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "kuElohim"
+    },
+    {
+      "surface": "כסלם",
+      "gloss": "ithemba labo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "banga"
+    },
+    {
+      "surface": "ישכחו",
+      "gloss": "libali"
+    },
+    {
+      "surface": "מעללי",
+      "gloss": "izenzo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zo-El"
+    },
+    {
+      "surface": "ומצותיו",
+      "gloss": "imiyalelo yakhe"
+    },
+    {
+      "surface": "ינצרו",
+      "gloss": "bagcine"
+    }
+  ],
+  "timestamp": "2026-09-18T15:02:18.178682903Z",
+  "model": "glm-5.3"
+}

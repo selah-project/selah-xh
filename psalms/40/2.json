@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 40:2",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 40,
+  "translation": "Ndilinde ndilindele uYahwe, wathoba ⟨kum⟩, wava ukhalelo lwam.",
+  "tokens": [
+    {
+      "surface": "קוה",
+      "gloss": "Ndilinde"
+    },
+    {
+      "surface": "קויתי",
+      "gloss": "ndilindele"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "ויט",
+      "gloss": "wathoba"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "⟨kum⟩"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "wava"
+    },
+    {
+      "surface": "שועתי",
+      "gloss": "ukhalelo lwam"
+    }
+  ],
+  "timestamp": "2026-09-18T14:44:28.128545057Z",
+  "model": "glm-5.3"
+}

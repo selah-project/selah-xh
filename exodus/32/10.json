@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 32:10",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 32,
+  "translation": "Kwaye ngoku ndishiyele mna, ukuba ulaka lwam lutshise ngabo, ndibatye; ndiza kukwenza ⟨את⟩ wena ukuba ube selwazini elikhulu.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "kwaye ngoku"
+    },
+    {
+      "surface": "הניחה",
+      "gloss": "ndishiyele"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mna"
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "lutshise"
+    },
+    {
+      "surface": "אפי",
+      "gloss": "ulaka lwam"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "ngabo"
+    },
+    {
+      "surface": "ואכלם",
+      "gloss": "ndibatye"
+    },
+    {
+      "surface": "ואעשה",
+      "gloss": "ndiza kukwenza"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩",
+      "marks": "wena"
+    },
+    {
+      "surface": "לגוי",
+      "gloss": "selwazini"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "elikhulu"
+    }
+  ],
+  "timestamp": "2026-09-18T06:23:18.638243782Z",
+  "model": "glm-5.3"
+}

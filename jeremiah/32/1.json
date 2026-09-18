@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 32:1",
+  "book": "jeremiah",
+  "lang": "xh",
+  "chapter": 32,
+  "translation": "ELizwi elafika kuYirimiyahu elivela kwaYahwe, ngo-⟨את⟩-kaYahwe, ngumnyaka weshumi kaTsidkiyahu, inkosi yaseYuda; lo ngumnyaka weshumi elinesibini kwaNebhukhadhretshari.",
+  "tokens": [
+    {
+      "surface": "הדבר",
+      "gloss": "iLizwi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "eli"
+    },
+    {
+      "surface": "היה",
+      "gloss": "elafika"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "uYirimiyahu"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "uYahwe (elivela kwaYahwe)"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "בשנת",
+      "gloss": "ngumnyaka we-"
+    },
+    {
+      "surface": "העשרית",
+      "gloss": "eshumi"
+    },
+    {
+      "surface": "לצדקיהו",
+      "gloss": "kaTsidkiyahu"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "inkosi"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "yaseYuda"
+    },
+    {
+      "surface": "היא",
+      "gloss": "lo"
+    },
+    {
+      "surface": "השנה",
+      "gloss": "ngumnyaka"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "weshumi elinesibini"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "elinasibini (ishumi nesibini)"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "umnyaka"
+    },
+    {
+      "surface": "לנבוכדראצר",
+      "gloss": "kwaNebhukhadhretshari"
+    }
+  ],
+  "timestamp": "2026-09-18T12:22:09.569792985Z",
+  "model": "glm-5.3"
+}

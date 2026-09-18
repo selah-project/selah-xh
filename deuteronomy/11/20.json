@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 11:20",
+  "book": "deuteronomy",
+  "lang": "xh",
+  "chapter": 11,
+  "translation": "Uzibhale kumacala omnyango wendlu yakho nakumnyango wakho.",
+  "tokens": [
+    {
+      "surface": "וכתבתם",
+      "gloss": "Uzibhale"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "מזוזות",
+      "gloss": "macala omnyango"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "wendlu yakho"
+    },
+    {
+      "surface": "ובשעריך",
+      "gloss": "nakumnyango wakho"
+    }
+  ],
+  "timestamp": "2026-09-18T08:03:07.994909967Z",
+  "model": "glm-5.3"
+}

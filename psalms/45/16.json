@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 45:16",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 45,
+  "translation": "Ziswe noluvuyo nentokozo; zangena endlwini enkulu yakumkani.",
+  "tokens": [
+    {
+      "surface": "תובלנה",
+      "gloss": "Ziswe"
+    },
+    {
+      "surface": "בשמחת",
+      "gloss": "noluvuyo"
+    },
+    {
+      "surface": "וגיל",
+      "gloss": "nentokozo"
+    },
+    {
+      "surface": "תבאינה",
+      "gloss": "zangena"
+    },
+    {
+      "surface": "בהיכל",
+      "gloss": "endlwini enkulu"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "yakumkani"
+    }
+  ],
+  "timestamp": "2026-09-18T14:47:44.247050127Z",
+  "model": "glm-5.3"
+}

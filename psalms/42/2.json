@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 42:2",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 42,
+  "translation": "Njengiharte elangazelela imilambo yamanzi, njalo umphefumlo wam ulangazelela kuwe, uElohim.",
+  "tokens": [
+    {
+      "surface": "כאיל",
+      "gloss": "njengeharte"
+    },
+    {
+      "surface": "תערג",
+      "gloss": "elangazelela"
+    },
+    {
+      "surface": "על",
+      "gloss": "elangazelela—"
+    },
+    {
+      "surface": "אפיקי",
+      "gloss": "imilambo"
+    },
+    {
+      "surface": "מים",
+      "gloss": "yamanzi"
+    },
+    {
+      "surface": "כן",
+      "gloss": "njalo"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "umphefumlo wam"
+    },
+    {
+      "surface": "תערג",
+      "gloss": "ulangazelela"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kuwe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "uElohim"
+    }
+  ],
+  "timestamp": "2026-09-18T14:45:29.894856867Z",
+  "model": "glm-5.3"
+}

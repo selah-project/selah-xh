@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "micah 6:3",
+  "book": "micah",
+  "lang": "xh",
+  "chapter": 6,
+  "translation": "Bantu bam, ndiphethe ntoni kuwe? Kutheni na ndikuphuxele? Phendula kum.",
+  "tokens": [
+    {
+      "surface": "עמי",
+      "gloss": "Bantu bam"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ntoni"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "ndiphethe"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kuwe"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "kutheni na"
+    },
+    {
+      "surface": "הלאתיך",
+      "gloss": "ndikuphuxele"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "Phendula"
+    },
+    {
+      "surface": "בי",
+      "gloss": "kum"
+    }
+  ],
+  "timestamp": "2026-09-18T14:08:52.547425487Z",
+  "model": "glm-5.3"
+}

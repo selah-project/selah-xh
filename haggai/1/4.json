@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "haggai 1:4",
+  "book": "haggai",
+  "lang": "xh",
+  "chapter": 1,
+  "translation": "Ingaba ngaba nina nilinxesha lokuhlala kwiindlu zenu ezisongelweyo, yaye le ndlu ithe chaphaza?",
+  "tokens": [
+    {
+      "surface": "העת",
+      "gloss": "Ingaba ... ixesha"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "nili-"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "nina"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "lokuhlala"
+    },
+    {
+      "surface": "בבתיכם",
+      "gloss": "kwiindlu zenu"
+    },
+    {
+      "surface": "ספונים",
+      "gloss": "ezisongelweyo"
+    },
+    {
+      "surface": "והבית",
+      "gloss": "yaye le ndlu"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "le"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "ithe chaphaza"
+    }
+  ],
+  "timestamp": "2026-09-18T14:16:21.392257495Z",
+  "model": "glm-5.3"
+}

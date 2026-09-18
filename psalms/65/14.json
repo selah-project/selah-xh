@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 65:14",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 65,
+  "translation": "Amadlelo aze agqoke izithezo, imigangatho yenxweme igqibile ukusenyelwa yinkozo; bakhalela uvuyo, ewe, bayimbulala.",
+  "tokens": [
+    {
+      "surface": "לבשו",
+      "gloss": "agqoke"
+    },
+    {
+      "surface": "כרים",
+      "gloss": "izithezo"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "iziNguni zomhlaba"
+    },
+    {
+      "surface": "ועמקים",
+      "gloss": "imigangatho yenxweme"
+    },
+    {
+      "surface": "יעטפו",
+      "gloss": "igqibile ukusenyelwa"
+    },
+    {
+      "surface": "בר",
+      "gloss": "yinkozo"
+    },
+    {
+      "surface": "יתרועעו",
+      "gloss": "bakhalela uvuyo"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ewe"
+    },
+    {
+      "surface": "ישירו",
+      "gloss": "bayimbulala"
+    }
+  ],
+  "timestamp": "2026-09-18T17:44:05.422676286Z",
+  "model": "glm-5.3"
+}

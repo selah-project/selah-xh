@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 54:7",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 54,
+  "translation": "Ubungcolu buyakubuyela kumachwethela am; ngokwenyaniso yakho zitshabalalise.",
+  "tokens": [
+    {
+      "surface": "ישוב",
+      "gloss": "buyakubuyela"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "ubungcolu"
+    },
+    {
+      "surface": "לשררי",
+      "gloss": "kumachwethela am"
+    },
+    {
+      "surface": "באמתך",
+      "gloss": "ngokwenyaniso yakho"
+    },
+    {
+      "surface": "הצמיתם",
+      "gloss": "zitshabalalise"
+    }
+  ],
+  "timestamp": "2026-09-18T14:50:42.245938341Z",
+  "model": "glm-5.3"
+}

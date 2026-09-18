@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 68:7",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 68,
+  "translation": "uElohim uhlalisa abasenokwedwa emizini; ukhupha ababoshwa kwimpumelelo; kodwa abasithobileyo bahlala elintlazweni eyomileyo.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "מושיב",
+      "gloss": "uhlalisa"
+    },
+    {
+      "surface": "יחידים",
+      "gloss": "abasenokwedwa"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "emizini"
+    },
+    {
+      "surface": "מוציא",
+      "gloss": "ukhupha"
+    },
+    {
+      "surface": "אסירים",
+      "gloss": "ababoshwa"
+    },
+    {
+      "surface": "בכושרות",
+      "gloss": "kwimpumelelo"
+    },
+    {
+      "surface": "אך",
+      "gloss": "kodwa"
+    },
+    {
+      "surface": "סוררים",
+      "gloss": "abasithobileyo"
+    },
+    {
+      "surface": "שכנו",
+      "gloss": "bahlala"
+    },
+    {
+      "surface": "צחיחה",
+      "gloss": "elintlazweni eyomileyo"
+    }
+  ],
+  "timestamp": "2026-09-18T14:56:35.638676501Z",
+  "model": "glm-5.3"
+}

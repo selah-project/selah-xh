@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "1-chronicles 6:52",
+  "book": "1-chronicles",
+  "lang": "xh",
+  "chapter": 6,
+  "translation": "Kwaye banika bona ⟨את⟩ iilwandle-zezi zokubalekela, ⟨את⟩ uShekhem nemida yayo entabeni yakwa-Efrayim, kunye ⟨את⟩ neGezer ⟨את⟩ nemida yayo.",
+  "tokens": [
+    {
+      "surface": "ויתנו",
+      "gloss": "banika"
+    },
+    {
+      "surface": "להם",
+      "gloss": "bona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iilwandle-zezi zokubalekela"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "iilwandle-zezi"
+    },
+    {
+      "surface": "המקלט",
+      "gloss": "zokubalekela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uShekhem"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "uShekhem"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "nemida yayo"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "nemida yayo"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "entabeni"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "yakwa-Efrayim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "iGezer"
+    },
+    {
+      "surface": "גזר",
+      "gloss": "iGezer"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "nemida yayo"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "nemida yayo"
+    }
+  ],
+  "timestamp": "2026-09-18T16:52:33.125425876Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-kings 18:30",
+  "book": "2-kings",
+  "lang": "xh",
+  "chapter": 18,
+  "translation": "Kananjalo musa ukuba uKhizkiya anithembe ⟨את⟩ kuYahwe, esithi: NguYahwe uzakusindisa ngokwenene, kwaye lo umzi awunikelwa ⟨את⟩ esandleni senkosi yaseAshuru.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "kananjalo musa"
+    },
+    {
+      "surface": "יבטח",
+      "gloss": "anithembe"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "nina"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "uKhizkiya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "esithi"
+    },
+    {
+      "surface": "הצל",
+      "gloss": "ngokwenene"
+    },
+    {
+      "surface": "יצילנו",
+      "gloss": "uzakusindisa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kwaye hayi"
+    },
+    {
+      "surface": "תנתן",
+      "gloss": "awunikelwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lo umzi"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "umzi"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "lo"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "esandleni"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "senkosi"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "yaseAshuru"
+    }
+  ],
+  "timestamp": "2026-09-18T10:54:55.689132453Z",
+  "model": "glm-5.3"
+}

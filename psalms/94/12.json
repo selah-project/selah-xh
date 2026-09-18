@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 94:12",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 94,
+  "translation": "Ulonwabo lomntu lowo umqeqeshayo, wena uYah, nomfundisa ngoTora yakho.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Ulonwabo"
+    },
+    {
+      "surface": "הגבר",
+      "gloss": "lomntu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "lowo"
+    },
+    {
+      "surface": "תיסרנו",
+      "gloss": "umqeqeshayo"
+    },
+    {
+      "surface": "יה",
+      "gloss": "uYah"
+    },
+    {
+      "surface": "ומתורתך",
+      "gloss": "ngoTora yakho"
+    },
+    {
+      "surface": "תלמדנו",
+      "gloss": "umfundisa"
+    }
+  ],
+  "timestamp": "2026-09-18T15:10:05.543787203Z",
+  "model": "glm-5.3"
+}

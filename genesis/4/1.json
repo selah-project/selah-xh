@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 4:1",
+  "book": "genesis",
+  "lang": "xh",
+  "chapter": 4,
+  "translation": "UNgadam wamazi uChavah umkakhe; wakhulelwa wazala uKayin, wathi: “Ndifumene indoda ⟨את⟩ ngoYahwe.”",
+  "tokens": [
+    {
+      "surface": "והאדם",
+      "gloss": "kananjalo uNgadam"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "wamazi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uChavah"
+    },
+    {
+      "surface": "חוה",
+      "gloss": "uChavah"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "umkakhe"
+    },
+    {
+      "surface": "ותהר",
+      "gloss": "wakhulelwa"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "wazala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uKayin"
+    },
+    {
+      "surface": "קין",
+      "gloss": "uKayin"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "קניתי",
+      "gloss": "ndifumene"
+    },
+    {
+      "surface": "איש",
+      "gloss": "indoda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uYahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    }
+  ],
+  "timestamp": "2026-09-18T05:08:18.818713080Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 54:15",
+  "book": "isaiah",
+  "lang": "xh",
+  "chapter": 54,
+  "translation": "Yabona, ukuba bemanyana, akusuku ⟨את⟩ m; lowo umanyano elunye ⟨את⟩ nawe kuwe uya kuwa.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "yabona"
+    },
+    {
+      "surface": "גור",
+      "gloss": "ukuba bemanyana"
+    },
+    {
+      "surface": "יגור",
+      "gloss": "akusuku"
+    },
+    {
+      "surface": "אפס",
+      "gloss": ""
+    },
+    {
+      "surface": "מאותי",
+      "gloss": "⟨את⟩ m"
+    },
+    {
+      "surface": "מי",
+      "gloss": "lowo umanyano"
+    },
+    {
+      "surface": "גר",
+      "gloss": "elunye"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ nawe",
+      "marks": "nawe"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "kuwe"
+    },
+    {
+      "surface": "יפול",
+      "gloss": "uya kuwa"
+    }
+  ],
+  "timestamp": "2026-09-18T11:39:22.853023014Z",
+  "model": "glm-5.3"
+}

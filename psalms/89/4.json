@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 89:4",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 89,
+  "translation": "Ndisike umnqophiso ngethe yakhe endikhethileyo; ndifungile kuDavide, inceku yam:",
+  "tokens": [
+    {
+      "surface": "כרתי",
+      "gloss": "ndisike"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "umnqophiso"
+    },
+    {
+      "surface": "לבחירי",
+      "gloss": "ngethe yakhe endikhethileyo"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "ndifungile"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "kuDavide"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "inceku yam"
+    }
+  ],
+  "timestamp": "2026-09-18T15:08:04.438995823Z",
+  "model": "glm-5.3"
+}

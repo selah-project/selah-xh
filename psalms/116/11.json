@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 116:11",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 116,
+  "translation": "Mna ndathi, ekgxobhozhweni am: Wonke umntu ligqi.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Mna"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "ndathi"
+    },
+    {
+      "surface": "בחפזי",
+      "gloss": "ekgxobhozhweni am"
+    },
+    {
+      "surface": "כל",
+      "gloss": "Wonke"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "umntu"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "ligqi"
+    }
+  ],
+  "timestamp": "2026-09-18T15:21:48.039515648Z",
+  "model": "glm-5.3"
+}

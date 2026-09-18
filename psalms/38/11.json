@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 38:11",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 38,
+  "translation": "Intliziyo yam iyabethezela, amandla am ayeke; nokukhanya kwamehlo am, nakubo akukho ⟨את⟩ nam.",
+  "tokens": [
+    {
+      "surface": "לבי",
+      "gloss": "Intliziyo yam"
+    },
+    {
+      "surface": "סחרחר",
+      "gloss": "iyabethezela"
+    },
+    {
+      "surface": "עזבני",
+      "gloss": "ayeke"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "amandla am"
+    },
+    {
+      "surface": "ואור",
+      "gloss": "nokukhanya"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "kwamehlo am"
+    },
+    {
+      "surface": "גם",
+      "gloss": "nabo"
+    },
+    {
+      "surface": "הם",
+      "gloss": "nabo"
+    },
+    {
+      "surface": "אין",
+      "gloss": "akukho"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ nam",
+      "marks": "ukukhanya kwamehlo"
+    }
+  ],
+  "timestamp": "2026-09-18T14:43:49.171337579Z",
+  "model": "glm-5.3"
+}

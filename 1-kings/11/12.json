@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 11:12",
+  "book": "1-kings",
+  "lang": "xh",
+  "chapter": 11,
+  "translation": "Kodwa ekunyakeni wakho andiyenzi le nto, ngenxa kaDawidi uyise; esandleni sekunyana wakho ndiza kuyidabula.”",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Kodwa"
+    },
+    {
+      "surface": "בימיך",
+      "gloss": "ekunyakeni wakho"
+    },
+    {
+      "surface": "לא",
+      "gloss": "andiyenzi"
+    },
+    {
+      "surface": "אעשנה",
+      "gloss": "ndiyenzi le nto"
+    },
+    {
+      "surface": "למען",
+      "gloss": "ngenxa"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "kaDawidi"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "uyise"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "esandleni"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "sekunyana wakho"
+    },
+    {
+      "surface": "אקרענה",
+      "gloss": "ndiza kuyidabula"
+    }
+  ],
+  "timestamp": "2026-09-18T17:31:36.592512475Z",
+  "model": "glm-5.3"
+}

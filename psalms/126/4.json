@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 126:4",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 126,
+  "translation": "Buyela uYahwe, buyisela ⟨את⟩ ukuthunyelwa kwethu njengemiqolomba emazantsi.",
+  "tokens": [
+    {
+      "surface": "שובה",
+      "gloss": "Buyela"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ukuthunyelwa kwethu"
+    },
+    {
+      "surface": "שבותנו",
+      "gloss": "ukuthunyelwa kwethu"
+    },
+    {
+      "surface": "כאפיקים",
+      "gloss": "njengemiqolomba"
+    },
+    {
+      "surface": "בנגב",
+      "gloss": "emazantsi"
+    }
+  ],
+  "timestamp": "2026-09-18T17:45:12.358838538Z",
+  "model": "glm-5.3"
+}

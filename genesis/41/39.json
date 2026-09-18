@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "genesis 41:39",
+  "book": "genesis",
+  "lang": "xh",
+  "chapter": 41,
+  "translation": "Wathi uParo kuYosef: Ngenxa yokuba uElohim wakwazisa ⟨את⟩ wena ⟨את⟩ konke oku, akukho mntu uhlakaniphileyo nenolwazi njengawe.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "uParo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "uYosef"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "ngenxa yokuba"
+    },
+    {
+      "surface": "הודיע",
+      "gloss": "wakwazisa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩ wena",
+      "marks": "wakwazisa wena"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "konke oku"
+    },
+    {
+      "surface": "כל",
+      "gloss": "konke"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "oku"
+    },
+    {
+      "surface": "אין",
+      "gloss": "akukho"
+    },
+    {
+      "surface": "נבון",
+      "gloss": "uhlakaniphileyo"
+    },
+    {
+      "surface": "וחכם",
+      "gloss": "nenolwazi"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "njengawe"
+    }
+  ],
+  "timestamp": "2026-09-18T17:19:52.737677049Z",
+  "model": "glm-5.3"
+}

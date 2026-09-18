@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 14:20",
+  "book": "leviticus",
+  "lang": "xh",
+  "chapter": 14,
+  "translation": "Umpristi uza kunyusa ⟨את⟩ umnikelo wokushiswa kunye ⟨את⟩ nomnikelo wengqolowa altare; umpristi uza kumenzela ubuyisano, aze aphile ucociwe.",
+  "tokens": [
+    {
+      "surface": "והעלה",
+      "gloss": "uza kunyusa"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "Umpristi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umnikelo wokushiswa"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "umnikelo wokushiswa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kunye ⟨את⟩",
+      "marks": "nomnikelo wengqolowa"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "nomnikelo wengqolowa"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "altare (kwisi-altare)"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "uza kumenzela ubuyisano"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "kuye"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "umpristi"
+    },
+    {
+      "surface": "וטהר",
+      "gloss": "aze aphile ucociwe"
+    }
+  ],
+  "timestamp": "2026-09-18T06:48:31.653586784Z",
+  "model": "glm-5.3"
+}

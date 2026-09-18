@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "joshua 21:24",
+  "book": "joshua",
+  "lang": "xh",
+  "chapter": 21,
+  "translation": "IAyalon nemiyezo yayo, iGathi-Rimon nemiyezo yayo; iindolophu ezine.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iAyalon"
+    },
+    {
+      "surface": "אילון",
+      "gloss": "iAyalon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kunye ⟨neאת⟩",
+      "marks": "miyezo"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "nemiyezo yayo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iGathi-Rimon"
+    },
+    {
+      "surface": "גת",
+      "gloss": "iGathi-"
+    },
+    {
+      "surface": "רמון",
+      "gloss": "Rimon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kunye ⟨neאת⟩",
+      "marks": "miyezo"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "nemiyezo yayo"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "iindolophu"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "ezine"
+    }
+  ],
+  "timestamp": "2026-09-18T08:42:35.791815807Z",
+  "model": "glm-5.3"
+}

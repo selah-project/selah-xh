@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 23:4",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 23,
+  "translation": "ukuba udibana nenkomo yesitha sakho, okanye ibhasubi yakhe elahlekileyo, uyakubuyisela kuye.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ukuba"
+    },
+    {
+      "surface": "תפגע",
+      "gloss": "udibana"
+    },
+    {
+      "surface": "שור",
+      "gloss": "inkomo"
+    },
+    {
+      "surface": "איבך",
+      "gloss": "yesitha sakho"
+    },
+    {
+      "surface": "או",
+      "gloss": "okanye"
+    },
+    {
+      "surface": "חמרו",
+      "gloss": "ibhasubi yakhe"
+    },
+    {
+      "surface": "תעה",
+      "gloss": "elahlekileyo"
+    },
+    {
+      "surface": "השב",
+      "gloss": "buyisela"
+    },
+    {
+      "surface": "תשיבנו",
+      "gloss": "uyakubuyisela"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kuye"
+    }
+  ],
+  "timestamp": "2026-09-18T17:20:14.028921983Z",
+  "model": "glm-5.3"
+}

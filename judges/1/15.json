@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "judges 1:15",
+  "book": "judges",
+  "lang": "xh",
+  "chapter": 1,
+  "translation": "Wathi kuye: “Ndiphe isipho; kuba undinike umhlaba weNgeve, ndiphe naku oonothombo zamanzi.” Wamnika uKalebi ⟨את⟩ oonothombo aphezulu kunye ⟨את⟩ noonothombo aphantsi.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kuye"
+    },
+    {
+      "surface": "הבה",
+      "gloss": "ndiphe"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ku mna"
+    },
+    {
+      "surface": "ברכה",
+      "gloss": "isipho"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "umhlaba"
+    },
+    {
+      "surface": "הנגב",
+      "gloss": "weNgeve"
+    },
+    {
+      "surface": "נתתני",
+      "gloss": "undinike"
+    },
+    {
+      "surface": "ונתתה",
+      "gloss": "unike"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ku mna"
+    },
+    {
+      "surface": "גלת",
+      "gloss": "oonothombo"
+    },
+    {
+      "surface": "מים",
+      "gloss": "zamanzi"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "wamnika"
+    },
+    {
+      "surface": "לה",
+      "gloss": "yena"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "uKalebi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oonothombo aphezulu"
+    },
+    {
+      "surface": "גלת",
+      "gloss": "oonothombo"
+    },
+    {
+      "surface": "עלית",
+      "gloss": "aphezulu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kunye ⟨את⟩",
+      "marks": "noonothombo aphantsi"
+    },
+    {
+      "surface": "גלת",
+      "gloss": "noonothombo"
+    },
+    {
+      "surface": "תחתית",
+      "gloss": "aphantsi"
+    }
+  ],
+  "timestamp": "2026-09-18T08:50:23.822149598Z",
+  "model": "glm-5.3"
+}

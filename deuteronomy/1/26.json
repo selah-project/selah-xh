@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "deuteronomy 1:26",
+  "book": "deuteronomy",
+  "lang": "xh",
+  "chapter": 1,
+  "translation": "Kodwa anazimangele ukunyuka, naza nachukuza ⟨את⟩ umlomo kaYahwe uElohim wenu.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Kodwa akwazanga"
+    },
+    {
+      "surface": "אביתם",
+      "gloss": "anazimangele"
+    },
+    {
+      "surface": "לעלת",
+      "gloss": "ukunyuka"
+    },
+    {
+      "surface": "ותמרו",
+      "gloss": "naza nachukuza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umlomo kaYahwe"
+    },
+    {
+      "surface": "פי",
+      "gloss": "umlomo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kaYahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "uElohim wenu"
+    }
+  ],
+  "timestamp": "2026-09-18T07:53:35.614280393Z",
+  "model": "glm-5.3"
+}

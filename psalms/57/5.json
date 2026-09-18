@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 57:5",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 57,
+  "translation": "Inefeshi yam isembini weengonyama; ndiyokulala phakathi kwabatshiswayo, abantwana abantu, amazabo umkhobo nezibi, ulwabo lwabo incindi ebukhali.",
+  "tokens": [
+    {
+      "surface": "נפשי",
+      "gloss": "inefeshi yam"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "isembini"
+    },
+    {
+      "surface": "לבאם",
+      "gloss": "weengonyama"
+    },
+    {
+      "surface": "אשכבה",
+      "gloss": "ndiyokulala"
+    },
+    {
+      "surface": "להטים",
+      "gloss": "kwabatshiswayo"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abantwana"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "amazabo"
+    },
+    {
+      "surface": "חנית",
+      "gloss": "umkhobo"
+    },
+    {
+      "surface": "וחצים",
+      "gloss": "nezibi"
+    },
+    {
+      "surface": "ולשונם",
+      "gloss": "ulwabo lwabo"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "incindi"
+    },
+    {
+      "surface": "חדה",
+      "gloss": "ebukhali"
+    }
+  ],
+  "timestamp": "2026-09-18T14:52:10.455960561Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 19:7",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 19,
+  "translation": "Kwisiphelo samazulu indlela yakhe yokuphuma, kwaye ukujikeleza kwakhe kusezindaweni zokugqibela zawo; yaye akukho lutho lufihliweyo kubushushu bakhe.",
+  "tokens": [
+    {
+      "surface": "מקצה",
+      "gloss": "kwisiphelo"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "samazulu"
+    },
+    {
+      "surface": "מוצאו",
+      "gloss": "indlela yakhe yokuphuma"
+    },
+    {
+      "surface": "ותקופתו",
+      "gloss": "kwaye ukujikeleza kwakhe"
+    },
+    {
+      "surface": "על",
+      "gloss": "kuse"
+    },
+    {
+      "surface": "קצותם",
+      "gloss": "ezindaweni zokugqibela zawo"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "yaye akukho lutho"
+    },
+    {
+      "surface": "נסתר",
+      "gloss": "lufihliweyo"
+    },
+    {
+      "surface": "מחמתו",
+      "gloss": "kubushushu bakhe"
+    }
+  ],
+  "timestamp": "2026-09-18T14:36:11.948039637Z",
+  "model": "glm-5.3"
+}

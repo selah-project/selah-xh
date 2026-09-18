@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 84:8",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 84,
+  "translation": "Bayahamba besuka kwamandla aye kwamandla; baya kubonakala kuElohim eTsiyoni.",
+  "tokens": [
+    {
+      "surface": "ילכו",
+      "gloss": "bayahamba"
+    },
+    {
+      "surface": "מחיל",
+      "gloss": "besuka kwamandla"
+    },
+    {
+      "surface": "אל",
+      "gloss": "aye"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "kwamandla"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "baya kubonakala"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "kuElohim"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "eTsiyoni"
+    }
+  ],
+  "timestamp": "2026-09-18T15:08:59.851541460Z",
+  "model": "glm-5.3"
+}

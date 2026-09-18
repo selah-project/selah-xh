@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 102:6",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 102,
+  "translation": "Ekuvakaleni kweenzuzumo zam, iinthambo zam zancamathele esinyeni sam.",
+  "tokens": [
+    {
+      "surface": "מקול",
+      "gloss": "Ekuvakaleni"
+    },
+    {
+      "surface": "אנחתי",
+      "gloss": "kweenzuzumo zam"
+    },
+    {
+      "surface": "דבקה",
+      "gloss": "zancamathele"
+    },
+    {
+      "surface": "עצמי",
+      "gloss": "iinthambo zam"
+    },
+    {
+      "surface": "לבשרי",
+      "gloss": "esinyeni sam"
+    }
+  ],
+  "timestamp": "2026-09-18T15:13:11.591787491Z",
+  "model": "glm-5.3"
+}

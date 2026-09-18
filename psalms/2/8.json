@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 2:8",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 2,
+  "translation": "Cela kum, ndiza kunika iintlanga ilifa lakho, nokulotshwa kwakho iindawo eziphela zomhlaba.",
+  "tokens": [
+    {
+      "surface": "שאל",
+      "gloss": "cela"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "kum"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "ndiza kunika"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "iintlanga"
+    },
+    {
+      "surface": "נחלתך",
+      "gloss": "ilifa lakho"
+    },
+    {
+      "surface": "ואחזתך",
+      "gloss": "nokulotshwa kwakho"
+    },
+    {
+      "surface": "אפסי",
+      "gloss": "iindawo eziphela"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "zomhlaba"
+    }
+  ],
+  "timestamp": "2026-09-18T14:26:24.090943426Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 108:8",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 108,
+  "translation": "U-Elohim uthethe engcwelelakhe; ndiza kudumba, ndiza kwahlula iShekemi, ndiza kulinganisa intlambo yeSukoti.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "U-Elohim"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "uthethe"
+    },
+    {
+      "surface": "בקדשו",
+      "gloss": "engcwelelakhe"
+    },
+    {
+      "surface": "אעלזה",
+      "gloss": "ndiza kudumba"
+    },
+    {
+      "surface": "אחלקה",
+      "gloss": "ndiza kwahlula"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "iShekemi"
+    },
+    {
+      "surface": "ועמק",
+      "gloss": "intlambo"
+    },
+    {
+      "surface": "סכות",
+      "gloss": "yeSukoti"
+    },
+    {
+      "surface": "אמדד",
+      "gloss": "ndiza kulinganisa"
+    }
+  ],
+  "timestamp": "2026-09-18T15:20:08.122892695Z",
+  "model": "glm-5.3"
+}

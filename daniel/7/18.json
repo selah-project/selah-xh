@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "daniel 7:18",
+  "book": "daniel",
+  "lang": "xh",
+  "chapter": 7,
+  "translation": "Kodwa oongcwele baka-El Eliyoni baza kwamkela umbuso, balubamba umbuso kuze kube nguphakade, nokude kube phakade ngephakade zamaphakade.”",
+  "tokens": [
+    {
+      "surface": "ויקבלון",
+      "gloss": "baza kwamkela"
+    },
+    {
+      "surface": "מלכותא",
+      "gloss": "umbuso"
+    },
+    {
+      "surface": "קדישי",
+      "gloss": "oongcwele"
+    },
+    {
+      "surface": "עליונין",
+      "gloss": "baka-El Eliyoni"
+    },
+    {
+      "surface": "ויחסנון",
+      "gloss": "balubamba"
+    },
+    {
+      "surface": "מלכותא",
+      "gloss": "umbuso"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kuze kube"
+    },
+    {
+      "surface": "עלמא",
+      "gloss": "nguphakade"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "nokude kube"
+    },
+    {
+      "surface": "עלם",
+      "gloss": "phakade"
+    },
+    {
+      "surface": "עלמיא",
+      "gloss": "ngephakade zamaphakade"
+    }
+  ],
+  "timestamp": "2026-09-18T16:35:42.716698598Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ezekiel 46:15",
+  "book": "ezekiel",
+  "lang": "xh",
+  "chapter": 46,
+  "translation": "Baya kwenza ⟨את⟩ ikhweza ⟨את⟩ umnikelo wokutya ⟨את⟩ namafutha ekuseni ngokwasekuseni, isiRhoho esingunaphakade.",
+  "tokens": [
+    {
+      "surface": "ועשו",
+      "gloss": "Baya kwenza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ikhweza"
+    },
+    {
+      "surface": "הכבש",
+      "gloss": "ikhweza"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "umnikelo wokutya"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "umnikelo wokutya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "amafutha"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "amafutha"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "ekuseni"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "ngokwasekuseni"
+    },
+    {
+      "surface": "עולת",
+      "gloss": "isiRhoho"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "esingunaphakade"
+    }
+  ],
+  "timestamp": "2026-09-18T17:40:29.699742430Z",
+  "model": "glm-5.3"
+}

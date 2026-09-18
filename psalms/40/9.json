@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 40:9",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 40,
+  "translation": "Ukwenza okwakho okuthandwayo, uElohim wam, ndikholele; iTora yakho isengaphakathi kweentswini zam.",
+  "tokens": [
+    {
+      "surface": "לעשות",
+      "gloss": "ukwenza"
+    },
+    {
+      "surface": "רצונך",
+      "gloss": "okwakho okuthandwayo"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "uElohim wam"
+    },
+    {
+      "surface": "חפצתי",
+      "gloss": "ndikholele"
+    },
+    {
+      "surface": "ותורתך",
+      "gloss": "kunye neTora yakho"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "engaphakathi"
+    },
+    {
+      "surface": "מעי",
+      "gloss": "kweentswini zam"
+    }
+  ],
+  "timestamp": "2026-09-18T14:44:25.941316267Z",
+  "model": "glm-5.3"
+}

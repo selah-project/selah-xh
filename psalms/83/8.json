@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 83:8",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 83,
+  "translation": "uGebalu, nabase-Amoni, nabase-Amaleki, abaFilisti kunye nabahlali baseTsori.",
+  "tokens": [
+    {
+      "surface": "גבל",
+      "gloss": "uGebalu"
+    },
+    {
+      "surface": "ועמון",
+      "gloss": "nabase-Amoni"
+    },
+    {
+      "surface": "ועמלק",
+      "gloss": "nabase-Amaleki"
+    },
+    {
+      "surface": "פלשת",
+      "gloss": "abaFilisti"
+    },
+    {
+      "surface": "עם",
+      "gloss": "kunye"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "nabahlali"
+    },
+    {
+      "surface": "צור",
+      "gloss": "baseTsori"
+    }
+  ],
+  "timestamp": "2026-09-18T15:04:38.099962227Z",
+  "model": "glm-5.3"
+}

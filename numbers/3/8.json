@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 3:8",
+  "book": "numbers",
+  "lang": "xh",
+  "chapter": 3,
+  "translation": "Bagcine ⟨את⟩ zonke izixhobo zetenti yokuqokelelwa, no⟨את⟩ ulwazi lwabantwana bakwaSirayeli, ukwenza umsebenzi wetabernakele.",
+  "tokens": [
+    {
+      "surface": "ושמרו",
+      "gloss": "bagcine"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zonke izixhobo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zonke"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "izixhobo"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "zetenti"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "yokuqokelelwa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "no⟨את⟩",
+      "marks": "ulwazi"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "ulwazi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abantwana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "bakwaSirayeli"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "ukwenza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umsebenzi"
+    },
+    {
+      "surface": "עבדת",
+      "gloss": "umsebenzi"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "wetabernakele"
+    }
+  ],
+  "timestamp": "2026-09-18T07:12:16.460088936Z",
+  "model": "glm-5.3"
+}

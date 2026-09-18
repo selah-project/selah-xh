@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "leviticus 13:50",
+  "book": "leviticus",
+  "lang": "xh",
+  "chapter": 13,
+  "translation": "Kwaye igqirha uza kubona ⟨את⟩ umonakalo, aze avale ⟨את⟩ umonakalo iintsuku zisixhenxe.",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "Kwaye uza kubona"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "igqirha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umonakalo"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "umonakalo"
+    },
+    {
+      "surface": "והסגיר",
+      "gloss": "aze avale"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umonakalo"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "umonakalo"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "zisixhenxe"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "iintsuku"
+    }
+  ],
+  "timestamp": "2026-09-18T06:50:58.003713081Z",
+  "model": "glm-5.3"
+}

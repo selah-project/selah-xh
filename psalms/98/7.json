@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 98:7",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 98,
+  "translation": "Makudume ulwandle nokuzelelwa kwawo; umhlaba nabahlali bakulo.",
+  "tokens": [
+    {
+      "surface": "ירעם",
+      "gloss": "makudume"
+    },
+    {
+      "surface": "הים",
+      "gloss": "ulwandle"
+    },
+    {
+      "surface": "ומלאו",
+      "gloss": "nokuzelelwa kwawo"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "umhlaba"
+    },
+    {
+      "surface": "וישבי",
+      "gloss": "nabahlali"
+    },
+    {
+      "surface": "בה",
+      "gloss": "bakulo"
+    }
+  ],
+  "timestamp": "2026-09-18T15:13:32.953460960Z",
+  "model": "glm-5.3"
+}

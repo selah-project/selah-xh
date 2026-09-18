@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 8:1",
+  "book": "2-chronicles",
+  "lang": "xh",
+  "chapter": 8,
+  "translation": "Kwade kwaba ekupheleni kweminyaka elishumi embini, ekuthi ngayo u-Shelomohi awakha ⟨את⟩ indlu kaYahwe no⟨את⟩ indlu yakhe.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Kwade kwaba"
+    },
+    {
+      "surface": "מקץ",
+      "gloss": "ekupheleni"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "elishumi embini"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "kweminyaka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ekuthi ngayo"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "awakha"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "u-Shelomohi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "indlu kaYahwe"
+    },
+    {
+      "surface": "בית",
+      "gloss": "indlu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kaYahwe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "no⟨את⟩",
+      "marks": "indlu yakhe"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "indlu yakhe"
+    }
+  ],
+  "timestamp": "2026-09-18T17:05:17.978683744Z",
+  "model": "glm-5.3"
+}

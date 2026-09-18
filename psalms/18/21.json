@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 18:21",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 18,
+  "translation": "UNdixelele ngokulungileyo kwam; njengokucocoqa kwezandla zam, undihlawulele.",
+  "tokens": [
+    {
+      "surface": "יגמלני",
+      "gloss": "undihlawulele"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "UNdixelele"
+    },
+    {
+      "surface": "כצדקי",
+      "gloss": "njengokulungileyo kwam"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "njengokucocoqa"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "kwezandla zam"
+    },
+    {
+      "surface": "ישיב",
+      "gloss": "undibuyisela"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kum"
+    }
+  ],
+  "timestamp": "2026-09-18T14:33:08.837865775Z",
+  "model": "glm-5.3"
+}

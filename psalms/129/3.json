@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 129:3",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 129,
+  "translation": "Phezu komhlana wam bahlalutyile abalimi, bayandisile imigangatho yabo.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "Phezu"
+    },
+    {
+      "surface": "גבי",
+      "gloss": "komhlana wam"
+    },
+    {
+      "surface": "חרשו",
+      "gloss": "bahlalutyile"
+    },
+    {
+      "surface": "חרשים",
+      "gloss": "abalimi"
+    },
+    {
+      "surface": "האריכו",
+      "gloss": "bayandisile"
+    },
+    {
+      "surface": "למענותם",
+      "gloss": "imigangatho yabo"
+    }
+  ],
+  "timestamp": "2026-09-18T15:26:59.426331625Z",
+  "model": "glm-5.3"
+}

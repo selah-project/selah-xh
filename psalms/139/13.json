@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 139:13",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 139,
+  "translation": "Kuba wena wandidala iintso zam, wandisonga esiswini somama wam.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "קנית",
+      "gloss": "wandidala"
+    },
+    {
+      "surface": "כליתי",
+      "gloss": "iintso zam"
+    },
+    {
+      "surface": "תסכני",
+      "gloss": "wandisonga"
+    },
+    {
+      "surface": "בבטן",
+      "gloss": "esiswini"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "somama wam"
+    }
+  ],
+  "timestamp": "2026-09-18T15:31:30.045251669Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 3:14",
+  "book": "leviticus",
+  "lang": "xh",
+  "chapter": 3,
+  "translation": "Aza kuzisa kweso isixhaso sakhe, isixhaso somlilo kuYahwe: ⟨את⟩ amafutha akhusela ⟨את⟩ iintlunyana, kunye nako ⟨את⟩ onke amafutha aphezu kweintlunyana.",
+  "tokens": [
+    {
+      "surface": "והקריב",
+      "gloss": "aza kuzisa"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "kweso"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "isixhaso sakhe"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "isixhaso somlilo"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kuYahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amafutha"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "amafutha"
+    },
+    {
+      "surface": "המכסה",
+      "gloss": "akhusela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iintlunyana"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "iintlunyana"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kunye nako ⟨את⟩",
+      "marks": "onke amafutha"
+    },
+    {
+      "surface": "כל",
+      "gloss": "onke"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "amafutha"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "kweintlunyana"
+    }
+  ],
+  "timestamp": "2026-09-18T06:34:19.290299186Z",
+  "model": "glm-5.3"
+}

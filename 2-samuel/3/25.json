@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-samuel 3:25",
+  "book": "2-samuel",
+  "lang": "xh",
+  "chapter": 3,
+  "translation": "Wena uyamazi ⟨את⟩ u-Avner unyana kaNer, ukuba wafika ukukhohlisa wena, nokwazi ⟨את⟩ ukuphumako lwakho no⟨את⟩ ukungena kwakho, nokwazi ⟨את⟩ konke oko uwenzayo.",
+  "tokens": [
+    {
+      "surface": "ידעת",
+      "gloss": "uyamazi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "u-Avner"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "u-Avner"
+    },
+    {
+      "surface": "בן",
+      "gloss": "unyana"
+    },
+    {
+      "surface": "נר",
+      "gloss": "kaNer"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ukuba"
+    },
+    {
+      "surface": "לפתתך",
+      "gloss": "ukukhohlisa wena"
+    },
+    {
+      "surface": "בא",
+      "gloss": "wafika"
+    },
+    {
+      "surface": "ולדעת",
+      "gloss": "nokwazi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ukuphumako lwakho"
+    },
+    {
+      "surface": "מוצאך",
+      "gloss": "ukuphumako lwakho"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "no⟨את⟩",
+      "marks": "ukungena kwakho"
+    },
+    {
+      "surface": "מבואך",
+      "gloss": "ukungena kwakho"
+    },
+    {
+      "surface": "ולדעת",
+      "gloss": "nokwazi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "konke"
+    },
+    {
+      "surface": "כל",
+      "gloss": "konke"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oko"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "uwenzayo"
+    }
+  ],
+  "timestamp": "2026-09-18T09:45:45.212159222Z",
+  "model": "glm-5.3"
+}

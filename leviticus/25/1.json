@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 25:1",
+  "book": "leviticus",
+  "lang": "xh",
+  "chapter": 25,
+  "translation": "Wathetha uYahwe kuMoshe entabeni iSinayi, wathi:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "Wathetha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "משה",
+      "gloss": "uMoshe"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "entabeni"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "iSinayi"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "wathi"
+    }
+  ],
+  "timestamp": "2026-09-18T07:05:43.032332676Z",
+  "model": "glm-5.3"
+}

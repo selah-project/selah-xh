@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 27:10",
+  "book": "numbers",
+  "lang": "xh",
+  "chapter": 27,
+  "translation": "Ukuba akanabo bantakwabo, niza kusalela ⟨את⟩ ifa lakhe kubantakwabo bayise.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ukuba"
+    },
+    {
+      "surface": "אין",
+      "gloss": "akanabo"
+    },
+    {
+      "surface": "לו",
+      "gloss": "akayinabo-"
+    },
+    {
+      "surface": "אחים",
+      "gloss": "bantakwabo"
+    },
+    {
+      "surface": "ונתתם",
+      "gloss": "niza kusalela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ifa lakhe"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "ifa lakhe"
+    },
+    {
+      "surface": "לאחי",
+      "gloss": "kubantakwabo"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "bayise"
+    }
+  ],
+  "timestamp": "2026-09-18T07:41:13.191241634Z",
+  "model": "glm-5.3"
+}

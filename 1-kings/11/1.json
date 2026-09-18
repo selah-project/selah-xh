@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 11:1",
+  "book": "1-kings",
+  "lang": "xh",
+  "chapter": 11,
+  "translation": "INkosi uShelomoh yamthanda kakhulu abafazi bangaphandle, kunye ⟨את⟩ nentombi kaParo, iiNtaba zaseMowabu, iAmaani, iiEdom, uTsidoni, namaKheti;",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "INkosi"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "uShelomoh"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "yamthanda"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "abafazi"
+    },
+    {
+      "surface": "נכריות",
+      "gloss": "bangaphandle"
+    },
+    {
+      "surface": "רבות",
+      "gloss": "kakhulu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "nentombi kaParo"
+    },
+    {
+      "surface": "בת",
+      "gloss": "nentombi"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "kaParo"
+    },
+    {
+      "surface": "מואביות",
+      "gloss": "iiMowabu"
+    },
+    {
+      "surface": "עמניות",
+      "gloss": "iAmoni"
+    },
+    {
+      "surface": "אדמית",
+      "gloss": "iiEdom"
+    },
+    {
+      "surface": "צדנית",
+      "gloss": "uTsidoni"
+    },
+    {
+      "surface": "חתית",
+      "gloss": "amaKheti"
+    }
+  ],
+  "timestamp": "2026-09-18T18:31:45.938992161Z",
+  "model": "glm-5.3"
+}

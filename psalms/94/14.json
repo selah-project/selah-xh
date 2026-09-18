@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 94:14",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 94,
+  "translation": "Kuba uYahwe akanakutshiya abantu bakhe, kananjalo ingwenelo yakhe akanakuyeka.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kuba"
+    },
+    {
+      "surface": "לא",
+      "gloss": "akanaku-"
+    },
+    {
+      "surface": "יטש",
+      "gloss": "tshiya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "abantu bakhe"
+    },
+    {
+      "surface": "ונחלתו",
+      "gloss": "kananjalo ingwenelo yakhe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "akanaku-"
+    },
+    {
+      "surface": "יעזב",
+      "gloss": "yeka"
+    }
+  ],
+  "timestamp": "2026-09-18T15:11:24.764265369Z",
+  "model": "glm-5.3"
+}

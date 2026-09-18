@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 101:5",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 101,
+  "translation": "Lowo otsalayo ulwimi ngasese ngomhlobo wakhe — ⟨את⟩ lowo ndiya kumcimba; lowo unamahlo aphezulu nenhliziyo exwesileyo — ⟨את⟩ lowu andinakumthwala.",
+  "tokens": [
+    {
+      "surface": "מלושני",
+      "gloss": "lowo otsalayo ulwimi"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "ngasese"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "umhlobo wakhe"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩",
+      "marks": "lowo (isimaphambili somqhubi)"
+    },
+    {
+      "surface": "אצמית",
+      "gloss": "ndiya kumcimba"
+    },
+    {
+      "surface": "גבה",
+      "gloss": "aphezulu"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "amahlo"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "exwesileyo"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "inhliziyo"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "lowu (unamahlo aphezulu)"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ayi \/ andinakulunga"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "ndinakumthwala"
+    }
+  ],
+  "timestamp": "2026-09-18T15:15:18.476321825Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 33:17",
+  "book": "isaiah",
+  "lang": "xh",
+  "chapter": 33,
+  "translation": "Inkosi ebuhleni bayo iya kubonwa ngamehlo akho; aya kukhangele umhlaba kude.",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "inkosi"
+    },
+    {
+      "surface": "ביפיו",
+      "gloss": "ebuhleni bayo"
+    },
+    {
+      "surface": "תחזינה",
+      "gloss": "iya kubonwa"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "ngamehlo akho"
+    },
+    {
+      "surface": "תראינה",
+      "gloss": "aya kukhangele"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "umhlaba"
+    },
+    {
+      "surface": "מרחקים",
+      "gloss": "kude"
+    }
+  ],
+  "timestamp": "2026-09-18T11:23:11.653861535Z",
+  "model": "glm-5.3"
+}

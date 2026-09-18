@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 8:14",
+  "book": "deuteronomy",
+  "lang": "xh",
+  "chapter": 8,
+  "translation": "intliziyo yakho iphakama, ulibala uYahwe uElohim wakho, obakhiphayo elwandlekweni laseMitsrayim, endlwini yobukhoboka;",
+  "tokens": [
+    {
+      "surface": "ורם",
+      "gloss": "iphakama"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "intliziyo yakho"
+    },
+    {
+      "surface": "ושכחת",
+      "gloss": "ulibala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uYahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "uElohim wakho"
+    },
+    {
+      "surface": "המוציאך",
+      "gloss": "obakhiphayo"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "elwandlekweni"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "laseMitsrayim"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "endlwini"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "yobukhoboka"
+    }
+  ],
+  "timestamp": "2026-09-18T08:01:11.692190813Z",
+  "model": "glm-5.3"
+}

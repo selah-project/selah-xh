@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "genesis 30:42",
+  "book": "genesis",
+  "lang": "xh",
+  "chapter": 30,
+  "translation": "Kodwa xa imbuzi ibuthathaka, akabebanga; kwasekuba abathathakileyo engokaLavan, abomeleleyo engokaYakob.",
+  "tokens": [
+    {
+      "surface": "ובהעטיף",
+      "gloss": "Kodwa xa ibuthathaka"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "imbuzi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "akabebanga"
+    },
+    {
+      "surface": "ישים",
+      "gloss": "(akabebanga)"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "kwasekuba"
+    },
+    {
+      "surface": "העטפים",
+      "gloss": "abathathakileyo"
+    },
+    {
+      "surface": "ללבן",
+      "gloss": "engokaLavan"
+    },
+    {
+      "surface": "והקשרים",
+      "gloss": "abomeleleyo"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "engokaYakob"
+    }
+  ],
+  "timestamp": "2026-09-18T05:29:27.335316076Z",
+  "model": "glm-5.3"
+}

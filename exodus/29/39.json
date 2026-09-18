@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "exodus 29:39",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 29,
+  "translation": "Uza kwenza ⟨את⟩ ivu elinye ekuseni, nokwenza ⟨את⟩ ivu lesibini phakathi kwamaxa okuhlwa.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ivu elinye"
+    },
+    {
+      "surface": "הכבש",
+      "gloss": "ivu"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "elinye"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "uza kwenza"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "ekuseni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ivu lesibini"
+    },
+    {
+      "surface": "הכבש",
+      "gloss": "ivu"
+    },
+    {
+      "surface": "השני",
+      "gloss": "lesibini"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "nokwenza"
+    },
+    {
+      "surface": "בין",
+      "gloss": "phakathi kwe…"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "amaxa okuhlwa"
+    }
+  ],
+  "timestamp": "2026-09-18T06:17:11.835650974Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 75:6",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 75,
+  "translation": "Musa ukuphakamisa ilhombe lennu ekuphakameni, musa ukuthetha ngentamo eqinileyo ⟨eyenziweyo ngabom⟩.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Musa"
+    },
+    {
+      "surface": "תרימו",
+      "gloss": "ukuphakamisa"
+    },
+    {
+      "surface": "למרום",
+      "gloss": "ekuphakameni"
+    },
+    {
+      "surface": "קרנכם",
+      "gloss": "ilhombe lennu"
+    },
+    {
+      "surface": "תדברו",
+      "gloss": "musa ukuthetha"
+    },
+    {
+      "surface": "בצואר",
+      "gloss": "ngentamo eqinileyo"
+    },
+    {
+      "surface": "עתק",
+      "gloss": "⟨eyenziweyo ngabom⟩"
+    }
+  ],
+  "timestamp": "2026-09-18T15:01:15.920789675Z",
+  "model": "glm-5.3"
+}

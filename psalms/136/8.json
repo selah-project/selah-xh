@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 136:8",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 136,
+  "translation": "⟨את⟩ ilanga ukuba libe ngulawulo emini, kuba ikhesedi yakhe ingunaphakade.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ilanga"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "ilanga"
+    },
+    {
+      "surface": "לממשלת",
+      "gloss": "ukuba libe ngulawulo"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "emini"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ingunaphakade"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ikhesedi yakhe"
+    }
+  ],
+  "timestamp": "2026-09-18T15:30:05.958853171Z",
+  "model": "glm-5.3"
+}

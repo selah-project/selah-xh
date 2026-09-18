@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "judges 3:14",
+  "book": "judges",
+  "lang": "xh",
+  "chapter": 3,
+  "translation": "Kwaye ooBantwana bakwaYisrayeli bakhonza u-Egloni, inkosi yakwaMowhabi, iminyaka engamashumi amabini anesibini.",
+  "tokens": [
+    {
+      "surface": "ויעבדו",
+      "gloss": "bakhonza"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ooBantwana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "bakwaYisrayeli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "u-Egloni"
+    },
+    {
+      "surface": "עגלון",
+      "gloss": "u-Egloni"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "inkosi"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "yakwaMowhabi"
+    },
+    {
+      "surface": "שמונה",
+      "gloss": "engasibhozo"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "neshumi"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "iminyaka"
+    }
+  ],
+  "timestamp": "2026-09-18T08:53:15.387490751Z",
+  "model": "glm-5.3"
+}

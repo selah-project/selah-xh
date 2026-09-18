@@ -1,0 +1,48 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 35:18",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 35,
+  "translation": "⟨את⟩ iikhonkwane zesikhongozelo, kunye ⟨את⟩ neekhonkwane zenkundla, kunye ⟨את⟩ neentambo zawo;",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iikhonkwane zesikhongozelo"
+    },
+    {
+      "surface": "יתדת",
+      "gloss": "iikhonkwane"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "zesikhongozelo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "iikhonkwane zenkundla"
+    },
+    {
+      "surface": "יתדת",
+      "gloss": "iikhonkwane"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "zenkundla"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "iintambo zawo"
+    },
+    {
+      "surface": "מיתריהם",
+      "gloss": "iintambo zawo"
+    }
+  ],
+  "timestamp": "2026-09-18T06:23:54.711314809Z",
+  "model": "glm-5.3"
+}

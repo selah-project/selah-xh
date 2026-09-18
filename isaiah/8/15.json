@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 8:15",
+  "book": "isaiah",
+  "lang": "xh",
+  "chapter": 8,
+  "translation": "Kwaye baninzi kubo baya kudangeka, bawa, baphukile, babinjwa, baza kubanjwa.",
+  "tokens": [
+    {
+      "surface": "וכשלו",
+      "gloss": "baya kudangeka"
+    },
+    {
+      "surface": "בם",
+      "gloss": "kubo"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "baninzi"
+    },
+    {
+      "surface": "ונפלו",
+      "gloss": "bawa"
+    },
+    {
+      "surface": "ונשברו",
+      "gloss": "baphukile"
+    },
+    {
+      "surface": "ונוקשו",
+      "gloss": "babinjwa"
+    },
+    {
+      "surface": "ונלכדו",
+      "gloss": "baza kubanjwa"
+    }
+  ],
+  "timestamp": "2026-09-18T17:34:09.070740834Z",
+  "model": "glm-5.3"
+}

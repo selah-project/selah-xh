@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 24:4",
+  "book": "isaiah",
+  "lang": "xh",
+  "chapter": 24,
+  "translation": "Ihlabathi lilile lize lityabulala, umhlaba jikelele umdzima aphinde atyabulale; iindawo ziphezulu zesizwe sehlabathi zimdzima.",
+  "tokens": [
+    {
+      "surface": "אבלה",
+      "gloss": "lilile"
+    },
+    {
+      "surface": "נבלה",
+      "gloss": "lize lityabulala"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ihlabathi"
+    },
+    {
+      "surface": "אמללה",
+      "gloss": "umdzima"
+    },
+    {
+      "surface": "נבלה",
+      "gloss": "aphinde atyabulale"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "umhlaba jikelele"
+    },
+    {
+      "surface": "אמללו",
+      "gloss": "zimdzima"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "iindawo ziphezulu"
+    },
+    {
+      "surface": "עם",
+      "gloss": "zesizwe"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "sehlabathi"
+    }
+  ],
+  "timestamp": "2026-09-18T11:20:14.281820525Z",
+  "model": "glm-5.3"
+}

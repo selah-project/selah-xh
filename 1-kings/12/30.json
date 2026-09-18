@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 12:30",
+  "book": "1-kings",
+  "lang": "xh",
+  "chapter": 12,
+  "translation": "Yaye le nto yaba yisono, kuba abantu bahamba phambi kwenye yazo, yada eDan.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "yaye...yaba"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "le nto"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "le"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "yisono"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "bahamba"
+    },
+    {
+      "surface": "העם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "phambi kwenye"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "yazo"
+    },
+    {
+      "surface": "עד",
+      "gloss": "yada"
+    },
+    {
+      "surface": "דן",
+      "gloss": "eDan"
+    }
+  ],
+  "timestamp": "2026-09-18T10:25:32.622986677Z",
+  "model": "glm-5.3"
+}

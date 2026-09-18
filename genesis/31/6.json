@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 31:6",
+  "book": "genesis",
+  "lang": "xh",
+  "chapter": 31,
+  "translation": "Kananjalo nina niyazi ukuba ndasebenzela ⟨את⟩ ibawo enu ngawo onke amandla am.",
+  "tokens": [
+    {
+      "surface": "ואתנה",
+      "gloss": "kananjalo nina"
+    },
+    {
+      "surface": "ידעתן",
+      "gloss": "niyazi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ukuba"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ngawo onke"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "amandla am"
+    },
+    {
+      "surface": "עבדתי",
+      "gloss": "ndasebenzela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ibawo enu"
+    },
+    {
+      "surface": "אביכן",
+      "gloss": "ibawo enu"
+    }
+  ],
+  "timestamp": "2026-09-18T05:29:02.452083269Z",
+  "model": "glm-5.3"
+}

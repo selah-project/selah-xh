@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 49:20",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 49,
+  "translation": "Iya kwindlalifa yookhokho bakhe; bade phakade abayi kubona ukukhanya.",
+  "tokens": [
+    {
+      "surface": "תבוא",
+      "gloss": "Iya"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ku"
+    },
+    {
+      "surface": "דור",
+      "gloss": "kwindlalifa"
+    },
+    {
+      "surface": "אבותיו",
+      "gloss": "yookhokho bakhe"
+    },
+    {
+      "surface": "עד",
+      "gloss": "bade"
+    },
+    {
+      "surface": "נצח",
+      "gloss": "phakade"
+    },
+    {
+      "surface": "לא",
+      "gloss": "abayi"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "kubona"
+    },
+    {
+      "surface": "אור",
+      "gloss": "ukukhanya"
+    }
+  ],
+  "timestamp": "2026-09-18T14:47:19.002905030Z",
+  "model": "glm-5.3"
+}

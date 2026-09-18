@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 83:5",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 83,
+  "translation": "Bathethe baye: “Yizani, singaze kubatshabalalisa bengabheli sisizwe, ukuze igama lakwa-Israyeli lingakhankanywa ngokumbi.”",
+  "tokens": [
+    {
+      "surface": "אמרו",
+      "gloss": "Bathethe"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "Yizani"
+    },
+    {
+      "surface": "ונכחידם",
+      "gloss": "singaze kubatshabalalisa"
+    },
+    {
+      "surface": "מגוי",
+      "gloss": "bengabheli sisizwe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ukuze... lingakhankanywa"
+    },
+    {
+      "surface": "יזכר",
+      "gloss": "lingakhankanywa"
+    },
+    {
+      "surface": "שם",
+      "gloss": "igama"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "lakwa-Israyeli"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ngokumbi"
+    }
+  ],
+  "timestamp": "2026-09-18T15:04:38.099423846Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 13:10",
+  "book": "proverbs",
+  "lang": "xh",
+  "chapter": 13,
+  "translation": "Kuphela ngokuzikhukhumzela kuvela impixano, kodwa ⟨את⟩ abancedisanayo kukho ulwazi.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "kuphela"
+    },
+    {
+      "surface": "בזדון",
+      "gloss": "ngokuzikhukhumzela"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "kuvela"
+    },
+    {
+      "surface": "מצה",
+      "gloss": "impixano"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "abancedisanayo"
+    },
+    {
+      "surface": "נועצים",
+      "gloss": "abancedisanayo"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "ulwazi"
+    }
+  ],
+  "timestamp": "2026-09-18T15:43:47.072666410Z",
+  "model": "glm-5.3"
+}

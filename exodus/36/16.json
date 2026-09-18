@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 36:16",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 36,
+  "translation": "Wadibanisa ⟨את⟩ iyeriya ezintlanu zodwa, kwaye ⟨את⟩ iyeriya ezintandathu zodwa.",
+  "tokens": [
+    {
+      "surface": "ויחבר",
+      "gloss": "Wadibanisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iyeriya ezintlanu"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "ezintlanu"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "iyeriya"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "zodwa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kwaye ⟨את⟩",
+      "marks": "iyeriya ezintandathu"
+    },
+    {
+      "surface": "שש",
+      "gloss": "ezintandathu"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "iyeriya"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "zodwa"
+    }
+  ],
+  "timestamp": "2026-09-18T17:22:09.935519351Z",
+  "model": "glm-5.3"
+}

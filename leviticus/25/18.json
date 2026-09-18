@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "leviticus 25:18",
+  "book": "leviticus",
+  "lang": "xh",
+  "chapter": 25,
+  "translation": "Nenza ⟨את⟩ iimpoqo zam, ⟨ואת⟩ imigwebo yam niyigcina, nizenza ⟨את⟩ iyo; nihlala phezu komhlaba ngokhuseleko.",
+  "tokens": [
+    {
+      "surface": "ועשיתם",
+      "gloss": "nenza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iimpoqo zam"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "iimpoqo zam"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "imigwebo yam"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "imigwebo yam"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "niyigcina"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "nizenza"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "iimpoqo nemigwebo"
+    },
+    {
+      "surface": "וישבתם",
+      "gloss": "nihlala"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "komhlaba"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "ngokhuseleko"
+    }
+  ],
+  "timestamp": "2026-09-18T07:05:20.499185784Z",
+  "model": "glm-5.3"
+}
