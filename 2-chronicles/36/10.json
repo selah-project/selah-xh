@@ -5,15 +5,15 @@
   "book": "2-chronicles",
   "lang": "xh",
   "chapter": 36,
-  "translation": "Ngethuba lesibuyiseko <elishukumileyo> lolnyaka, inkosi uNevukhadnetstsar ithumele <abantu> wayisa yena eBhabheli, kunye nezixhobo ezixabisekileyo zendlu kaYahwe; waza wenza <yena> inkosi uTsidekiyahu umnakwabo phezu kwaYuda naseYerushalayimi.",
+  "translation": "Nangokuqhubeka kwehlobo lexesha, uNebhukhadhnetshar inkosi wathumela, wamkisa aze wamisa eBhabheli, kunye nezixhobo ezinamandlela zendlu kaYahwe; wamisela uTsidkiyahu umnakwabo ukuba abe yinkosi phezu kwaYuda naseYerushalayimi.",
   "tokens": [
     {
       "surface": "ולתשובת",
-      "gloss": "ngebuyiso"
+      "gloss": "nangokuqhubeka"
     },
     {
       "surface": "השנה",
-      "gloss": "lolnyaka"
+      "gloss": "kwixesha lehlobo"
     },
     {
       "surface": "שלח",
@@ -25,11 +25,11 @@
     },
     {
       "surface": "נבוכדנאצר",
-      "gloss": "uNevukhadnetstsar"
+      "gloss": "uNebhukhadhnetshar"
     },
     {
       "surface": "ויבאהו",
-      "gloss": "wamzisa"
+      "gloss": "wamkisa aze wamisa"
     },
     {
       "surface": "בבלה",
@@ -45,11 +45,11 @@
     },
     {
       "surface": "חמדת",
-      "gloss": "ezixabisekileyo"
+      "gloss": "ezinamandlela"
     },
     {
       "surface": "בית",
-      "gloss": "zendlu"
+      "gloss": "endlu"
     },
     {
       "surface": "יהוה",
@@ -57,19 +57,19 @@
     },
     {
       "surface": "וימלך",
-      "gloss": "wabeka ubukhosi"
+      "gloss": "wamisela… ukuba abe yinkosi"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "uTsidekiyahu"
+      "marks": "uTsidkiyahu"
     },
     {
       "surface": "צדקיהו",
-      "gloss": "uTsidekiyahu"
+      "gloss": "uTsidkiyahu"
     },
     {
-      "surface": "אחיw",
+      "surface": "אחיו",
       "gloss": "umnakwabo"
     },
     {
@@ -85,6 +85,6 @@
       "gloss": "naseYerushalayimi"
     }
   ],
-  "timestamp": "2026-09-18T17:16:20.079628883Z",
+  "timestamp": "2026-09-18T18:39:42.695929198Z",
   "model": "glm-5.3"
 }

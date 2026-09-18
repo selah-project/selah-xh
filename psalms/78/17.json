@@ -5,8 +5,37 @@
   "book": "psalms",
   "lang": "xh",
   "chapter": 78,
-  "translation": "Baze wangcono bagweba ngakumbi kuye, bavukela u-El Elyoni entshona yangomsoo — entshona yomkhenkce.",
-  "tokens": [],
-  "timestamp": "2026-09-18T15:01:17.682625666Z",
+  "translation": "Kananjalo bongeza beswela kuye, ukuzabalazela ku-Elyon kwindawo engomileyo.",
+  "tokens": [
+    {
+      "surface": "ויוסיפו",
+      "gloss": "bongeza"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "kananjalo"
+    },
+    {
+      "surface": "לחטא",
+      "gloss": "beswela"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kuye"
+    },
+    {
+      "surface": "למרות",
+      "gloss": "ukuzabalazela"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "ku-Elyon"
+    },
+    {
+      "surface": "בציה",
+      "gloss": "kwindawo engomileyo"
+    }
+  ],
+  "timestamp": "2026-09-18T18:55:55.902509528Z",
   "model": "glm-5.3"
 }

@@ -5,11 +5,11 @@
   "book": "1-kings",
   "lang": "xh",
   "chapter": 1,
-  "translation": "Ninyuke emva kwakhe, aze afike ahlale phezu kwesihlalo sam; yena uza kubusa endaweni yam; ⟨ואתו⟩ ndimthumele ukuba abe ngumlawuli phezu kweIsrayeli nangephezu kweYuda.”",
+  "translation": "Nuqhamla naye emva kwakhe, aze angene ayale esintlhasini wethu, yena abe yinkosi endaweni yam; mna ndimyalele ⟨את⟩ ukuba abe nguNqgela phezu kweSirayeli nakwiYuda.",
   "tokens": [
     {
       "surface": "ועליתם",
-      "gloss": "Ninyuke"
+      "gloss": "nuqhamla naye"
     },
     {
       "surface": "אחריו",
@@ -17,19 +17,19 @@
     },
     {
       "surface": "ובא",
-      "gloss": "aze afike"
+      "gloss": "aze angene"
     },
     {
       "surface": "וישב",
-      "gloss": "ahlale"
+      "gloss": "ayale"
     },
     {
       "surface": "על",
-      "gloss": "phezu"
+      "gloss": "esintlhasini wethu"
     },
     {
       "surface": "כסאי",
-      "gloss": "kwisihlalo sam"
+      "gloss": "esintlhasini wethu"
     },
     {
       "surface": "והוא",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "ימלך",
-      "gloss": "uza kubusa"
+      "gloss": "abe yinkosi"
     },
     {
       "surface": "תחתי",
@@ -45,12 +45,12 @@
     },
     {
       "surface": "ואתו",
-      "gloss": "⟨ואתו⟩",
-      "marks": "ndimthumele"
+      "gloss": "⟨את⟩",
+      "marks": "ndimyalele (צויתי)"
     },
     {
       "surface": "צויתי",
-      "gloss": "ndimthumele"
+      "gloss": "ndimyalele"
     },
     {
       "surface": "להיות",
@@ -58,25 +58,25 @@
     },
     {
       "surface": "נגיד",
-      "gloss": "ngumlawuli"
+      "gloss": "nguNggela"
     },
     {
       "surface": "על",
-      "gloss": "phezu"
+      "gloss": "phezu kweSirayeli nakwiYuda"
     },
     {
       "surface": "ישראל",
-      "gloss": "Israyeli"
+      "gloss": "iSirayeli"
     },
     {
       "surface": "ועל",
-      "gloss": "nangephezu"
+      "gloss": "nakwiYuda"
     },
     {
       "surface": "יהודה",
-      "gloss": "Yuda"
+      "gloss": "iYuda"
     }
   ],
-  "timestamp": "2026-09-18T10:09:13.519781403Z",
+  "timestamp": "2026-09-18T18:37:28.231660862Z",
   "model": "glm-5.3"
 }

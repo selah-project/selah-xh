@@ -5,31 +5,31 @@
   "book": "joshua",
   "lang": "xh",
   "chapter": 7,
-  "translation": "Amadoda eiHayi awabetha kwabo ⟨⟨⟩⟩ amadoda angamashumi amathathu anesithandathu, awayalahla phambi kwesango de iShebarimi, awabetha ehla; intliziyo yabantu yatyhidi, yaba yilamanzi.",
+  "translation": "Amadoda ase-Ayi bababetha kubo ⟨ababetha⟩ emalunga namashumi amathathu anamithandane ebini amadoda; bazingeleta ngaphambi komsengelele de kwiShebarimi, bababetha ehlatyweni langaphantsi; ke intliziyo yabantu yanyibilika, yaba njengamanzi.",
   "tokens": [
     {
       "surface": "ויכו",
-      "gloss": "awabetha"
+      "gloss": "bababetha"
     },
     {
       "surface": "מהם",
-      "gloss": "kwabo"
+      "gloss": "kubo"
     },
     {
       "surface": "אנשי",
-      "gloss": "amadoda"
+      "gloss": "amadoda a-"
     },
     {
       "surface": "העי",
-      "gloss": "eiHayi"
+      "gloss": "ase-Ayi"
     },
     {
       "surface": "כשלשים",
-      "gloss": "ngamashumi amathathu"
+      "gloss": "emalunga namashumi amathathu"
     },
     {
       "surface": "וששה",
-      "gloss": "anesithandathu"
+      "gloss": "anamithandane ebini"
     },
     {
       "surface": "איש",
@@ -37,15 +37,15 @@
     },
     {
       "surface": "וירדפום",
-      "gloss": "awayalahla"
+      "gloss": "bazingeleta"
     },
     {
       "surface": "לפני",
-      "gloss": "phambi"
+      "gloss": "ngaphambi ko-"
     },
     {
       "surface": "השער",
-      "gloss": "kwesango"
+      "gloss": "msengelele"
     },
     {
       "surface": "עד",
@@ -53,19 +53,19 @@
     },
     {
       "surface": "השברים",
-      "gloss": "iShebarimi"
+      "gloss": "kwiShebarimi"
     },
     {
       "surface": "ויכום",
-      "gloss": "awabetha"
+      "gloss": "bababetha"
     },
     {
       "surface": "במורד",
-      "gloss": "ehla"
+      "gloss": "ehlatyweni langaphantsi"
     },
     {
       "surface": "וימס",
-      "gloss": "yatyhidi"
+      "gloss": "yanyibilika"
     },
     {
       "surface": "לבב",
@@ -81,9 +81,9 @@
     },
     {
       "surface": "למים",
-      "gloss": "yilamanzi"
+      "gloss": "njengamanzi"
     }
   ],
-  "timestamp": "2026-09-18T08:35:02.955402769Z",
+  "timestamp": "2026-09-18T18:51:24.142135048Z",
   "model": "glm-5.3"
 }

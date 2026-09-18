@@ -5,7 +5,7 @@
   "book": "ezekiel",
   "lang": "xh",
   "chapter": 16,
-  "translation": "Ukuze ukhumbule uze wahlazeka, ungabi nakuvula umlomo kwakhona ngenxa yohlazeko lwakho, xa ndikuxolela konkeoko wenzileyo, kuthethwa ngu-Adonayi uYahwe.",
+  "translation": "Ukuze ukhumbule ubuhlabelwe, kungekho kutheni uvule mlomo kwakhona ngenxa yesidenge sakho, xa ndenza ukhululo olungcwele kuwe ngezonke ezizenza, ngutsho u-Adonayi uYahwe.",
   "tokens": [
     {
       "surface": "למען",
@@ -17,15 +17,15 @@
     },
     {
       "surface": "ובשת",
-      "gloss": "uze wahlazeka"
+      "gloss": "ubuhlabelwe"
     },
     {
       "surface": "ולא",
-      "gloss": "ungabi"
+      "gloss": "kungekho kutheni"
     },
     {
       "surface": "יהיה",
-      "gloss": "nakho"
+      "gloss": "kutheni"
     },
     {
       "surface": "לך",
@@ -41,19 +41,19 @@
     },
     {
       "surface": "פה",
-      "gloss": "umlomo"
+      "gloss": "mlomo"
     },
     {
       "surface": "מפני",
-      "gloss": "ngenxa ye"
+      "gloss": "ngenxa yesi-"
     },
     {
       "surface": "כלמתך",
-      "gloss": "yohlazeko lwakho"
+      "gloss": "denge sakho"
     },
     {
       "surface": "בכפרי",
-      "gloss": "xa ndikuxolela"
+      "gloss": "xa ndenza ukhululo olungcwele"
     },
     {
       "surface": "לך",
@@ -61,19 +61,19 @@
     },
     {
       "surface": "לכל",
-      "gloss": "konkeoko"
+      "gloss": "ngezonke"
     },
     {
       "surface": "אשר",
-      "gloss": ""
+      "gloss": "ezi"
     },
     {
       "surface": "עשית",
-      "gloss": "wenzileyo"
+      "gloss": "zenza"
     },
     {
       "surface": "נאם",
-      "gloss": "kuthethwa"
+      "gloss": "ngutsho"
     },
     {
       "surface": "אדני",
@@ -84,6 +84,6 @@
       "gloss": "uYahwe"
     }
   ],
-  "timestamp": "2026-09-18T13:02:50.062007960Z",
+  "timestamp": "2026-09-18T18:45:31.712306621Z",
   "model": "glm-5.3"
 }

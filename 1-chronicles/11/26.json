@@ -5,23 +5,27 @@
   "book": "1-chronicles",
   "lang": "xh",
   "chapter": 11,
-  "translation": "Kananjalo oorhulumente bamandla bomkhosi babengu-Asaheli, umzalwane kaYowabhi, u-Elchanani unyana kaDodo, waseBheti-Lekhem.",
+  "translation": "Naye oogorha bamabutho: u-Asaheli umnakwabo kaYowabhi, u-Elhanani unyana kaDodo, waseBhetlehem.",
   "tokens": [
     {
-      "surface": "וגיבורי",
-      "gloss": "Kananjalo oorhulumente"
+      "surface": "וגבורי",
+      "gloss": "Naye oogorha"
     },
     {
       "surface": "החילים",
-      "gloss": "bamandla bomkhosi"
+      "gloss": "bamabutho"
     },
     {
       "surface": "עשה",
-      "gloss": "babengu-Asaheli"
+      "gloss": "u-Asaheli"
+    },
+    {
+      "surface": "אל",
+      "gloss": "u-Asaheli"
     },
     {
       "surface": "אחי",
-      "gloss": "umzalwane"
+      "gloss": "umnakwabo"
     },
     {
       "surface": "יואב",
@@ -29,7 +33,7 @@
     },
     {
       "surface": "אלחנן",
-      "gloss": "u-Elchanani"
+      "gloss": "u-Elhanani"
     },
     {
       "surface": "בן",
@@ -41,13 +45,13 @@
     },
     {
       "surface": "מבית",
-      "gloss": "waseBheti-"
+      "gloss": "wase-"
     },
     {
       "surface": "לחם",
-      "gloss": "Lekhem"
+      "gloss": "Bhetlehem"
     }
   ],
-  "timestamp": "2026-09-18T16:54:06.708889605Z",
+  "timestamp": "2026-09-18T18:37:21.012359669Z",
   "model": "glm-5.3"
 }

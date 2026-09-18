@@ -5,8 +5,49 @@
   "book": "esther",
   "lang": "xh",
   "chapter": 2,
-  "translation": "Athatheke amacala amakhulu okanye into esisigqibo; akukho nto ivakalisiweyo apha.",
-  "tokens": [],
-  "timestamp": "2026-09-18T16:28:02.742321194Z",
+  "translation": "Kwathetha iinkwenkwe zenkosi, abakhonzi bayo: makufunwe inkosi iintombi ezingatshatanga, ezilungileyo ngokubonakala.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "kwathetha"
+    },
+    {
+      "surface": "נערי",
+      "gloss": "iinkwenkwe"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "enkosi"
+    },
+    {
+      "surface": "משרתיו",
+      "gloss": "abakhonzi bayo"
+    },
+    {
+      "surface": "יבקשו",
+      "gloss": "makufunwe"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "inkosi"
+    },
+    {
+      "surface": "נערות",
+      "gloss": "iintombi"
+    },
+    {
+      "surface": "בתולות",
+      "gloss": "ezingatshatanga"
+    },
+    {
+      "surface": "טובות",
+      "gloss": "ezilungileyo"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "ngokubonakala"
+    }
+  ],
+  "timestamp": "2026-09-18T18:43:55.214349934Z",
   "model": "glm-5.3"
 }

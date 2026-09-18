@@ -5,7 +5,7 @@
   "book": "2-kings",
   "lang": "xh",
   "chapter": 3,
-  "translation": "U-Yehoram unyana ka-Ahab wabusa kwi-Israel eShomroni, ngumnyaka we-18 wokubusa kukaYehoshafati inkosi yakwaYuda, wabusa iminyaka elishumi nambini.",
+  "translation": "U-Yehoram unyana ka-Ahab wabusa kwi-Israel eShomroni, kwirenye yeshumi elinesibhozo kaYehoshuwati inkosi yaseYuda; wabusa iminyaka elishumi elinambini.",
   "tokens": [
     {
       "surface": "ויהורם",
@@ -25,11 +25,11 @@
     },
     {
       "surface": "על",
-      "gloss": "ku-"
+      "gloss": "phezu"
     },
     {
       "surface": "ישראל",
-      "gloss": "i-Israel"
+      "gloss": "kwi-Israel"
     },
     {
       "surface": "בשמרון",
@@ -37,19 +37,19 @@
     },
     {
       "surface": "בשנת",
-      "gloss": "ngumnyaka"
+      "gloss": "kwirenye"
     },
     {
       "surface": "שמנה",
-      "gloss": "we-18"
+      "gloss": "eshumi elinesibhozo"
     },
     {
       "surface": "עשרה",
-      "gloss": ""
+      "gloss": "⟨eshumi elinesibhozo⟩"
     },
     {
       "surface": "ליהושפט",
-      "gloss": "wakaYehoshafati"
+      "gloss": "kaYehoshuwati"
     },
     {
       "surface": "מלך",
@@ -57,7 +57,7 @@
     },
     {
       "surface": "יהודה",
-      "gloss": "yakwaYuda"
+      "gloss": "yaseYuda"
     },
     {
       "surface": "וימלך",
@@ -65,17 +65,17 @@
     },
     {
       "surface": "שתים",
-      "gloss": "elishumi nambini"
+      "gloss": "elinambini"
     },
     {
       "surface": "עשרה",
-      "gloss": ""
+      "gloss": "⟨elishumi elinambini⟩"
     },
     {
       "surface": "שנה",
       "gloss": "iminyaka"
     }
   ],
-  "timestamp": "2026-09-18T10:38:53.636671047Z",
+  "timestamp": "2026-09-18T18:40:10.073464924Z",
   "model": "glm-5.3"
 }

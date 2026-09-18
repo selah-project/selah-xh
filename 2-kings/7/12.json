@@ -5,15 +5,15 @@
   "book": "2-kings",
   "lang": "xh",
   "chapter": 7,
-  "translation": "Wavuka inkosi ebusuku, yathetha kubakhonzi bayo: “Ndicenda ndibhikela nina ⟨את⟩ oko bakwenzileyo iAram kuthina: bayazi ukuba thina sibilamba, ngoko baphume ekampini ukuzifihla emasimini, bathi: ‘Xa besiphuma esixekweni, sibabambe baphila, size singene kwisixeko.’”",
+  "translation": "Inkosi yavuswa ebusuku, yathi kwiinkonza zayo: “Ndiza kunibalazela nina okwenzayo u-Aram kuthi. Bayazi ukuba sibalambile; ngoko bathula emkhosini ukuzihlaba kakuhle entsimini, besithi: ‘Xa bephuma esixekweni, siza kubamba baphila, size singene esixekweni.’”",
   "tokens": [
     {
       "surface": "ויקם",
-      "gloss": "wavuka"
+      "gloss": "yavuswa"
     },
     {
       "surface": "המלך",
-      "gloss": "inkosi"
+      "gloss": "Inkosi"
     },
     {
       "surface": "לילה",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "ויאמר",
-      "gloss": "yathetha"
+      "gloss": "yathi"
     },
     {
       "surface": "אל",
@@ -29,15 +29,15 @@
     },
     {
       "surface": "עבדיו",
-      "gloss": "bakhonzi bayo"
+      "gloss": "iinkonza zayo"
     },
     {
       "surface": "אגידה",
-      "gloss": "ndibhikela"
+      "gloss": "Ndiza kunibalazela"
     },
     {
       "surface": "נא",
-      "gloss": "ndicenda"
+      "gloss": "nje"
     },
     {
       "surface": "לכם",
@@ -46,75 +46,75 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "oko bakwenzileyo iAram kuthina"
+      "marks": "okwenzayo"
     },
     {
       "surface": "אשר",
-      "gloss": "oko"
+      "gloss": "okwenzayo"
     },
     {
       "surface": "עשו",
-      "gloss": "bakwenzileyo"
+      "gloss": "kwenzayo"
     },
     {
       "surface": "לנו",
-      "gloss": "kuthina"
+      "gloss": "kuthi"
     },
     {
       "surface": "ארם",
-      "gloss": "iAram"
+      "gloss": "u-Aram"
     },
     {
       "surface": "ידעו",
-      "gloss": "bayazi"
+      "gloss": "Bayazi"
     },
     {
       "surface": "כי",
       "gloss": "ukuba"
     },
     {
-      "surface": "רעebים",
-      "gloss": "sibilamba"
+      "surface": "רעבים",
+      "gloss": "sibalambile"
     },
     {
       "surface": "אנחנו",
-      "gloss": "thina"
+      "gloss": "thi"
     },
     {
       "surface": "ויצאו",
-      "gloss": "baphume"
+      "gloss": "bathula"
     },
     {
       "surface": "מן",
-      "gloss": ""
+      "gloss": "ku"
     },
     {
       "surface": "המחנה",
-      "gloss": "ekampini"
+      "gloss": "emkhosini"
     },
     {
       "surface": "להחבה",
-      "gloss": "ukuzifihla"
+      "gloss": "ukuzihlaba kakuhle"
     },
     {
       "surface": "בהשדה",
-      "gloss": "emasimini"
+      "gloss": "entsimini"
     },
     {
       "surface": "לאמר",
-      "gloss": "bathi"
+      "gloss": "besithi"
     },
     {
       "surface": "כי",
-      "gloss": "ukuba"
+      "gloss": "Xa"
     },
     {
       "surface": "יצאו",
-      "gloss": "besiphuma"
+      "gloss": "bephuma"
     },
     {
       "surface": "מן",
-      "gloss": ""
+      "gloss": "ku"
     },
     {
       "surface": "העיר",
@@ -122,7 +122,7 @@
     },
     {
       "surface": "ונתפשם",
-      "gloss": "sibabambe"
+      "gloss": "siza kubamba"
     },
     {
       "surface": "חיים",
@@ -130,17 +130,17 @@
     },
     {
       "surface": "ואל",
-      "gloss": "size singene"
+      "gloss": "size ku"
     },
     {
       "surface": "העיר",
-      "gloss": "kwisixeko"
+      "gloss": "esixekweni"
     },
     {
       "surface": "נבא",
       "gloss": "singene"
     }
   ],
-  "timestamp": "2026-09-18T10:43:58.201060484Z",
+  "timestamp": "2026-09-18T18:41:18.304940835Z",
   "model": "glm-5.3"
 }

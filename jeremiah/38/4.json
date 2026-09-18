@@ -5,11 +5,11 @@
   "book": "jeremiah",
   "lang": "xh",
   "chapter": 38,
-  "translation": "Zathi iinkosi kwinkosi: Makabulawe, nceda, lo mntu, kuba ngokunjalo uyabuthaza ⟨את⟩ izandla zamadoda empi eziselayo kule sixeko, no⟨את⟩ izandla zabantu bonke, ngokuthetha kubo njengamazwi la; kuba lo mntu akafuni uxolo lalo ntlanga, kodwa ububi.",
+  "translation": "Kwaye iinkosi zathi kukumlawuli: “Sicela loo mntu ⟨את⟩ abulawe, kuba ngokunjalo uyenza izandla zibe buthathaka zamadoda empilo eshiyiweyo kweli dolophu, nakwe ⟨את⟩ izandla zonke abantu, ngokuthetha kubo njengale magama; kuba loo mntu akafuni impilo entle yalo mntu wonke, kodwa ukonakala.",
   "tokens": [
     {
       "surface": "ויאמרו",
-      "gloss": "Zathi"
+      "gloss": "kwaye zathi"
     },
     {
       "surface": "השרים",
@@ -21,24 +21,24 @@
     },
     {
       "surface": "המלך",
-      "gloss": "inkosi"
+      "gloss": "umlawuli"
     },
     {
       "surface": "יומת",
-      "gloss": "Makabulawe"
+      "gloss": "abulawe"
     },
     {
       "surface": "נא",
-      "gloss": "nceda"
+      "gloss": "sicela"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "lo mntu"
+      "marks": "loo mntu"
     },
     {
       "surface": "האיש",
-      "gloss": "lo mntu"
+      "gloss": "loo mntu"
     },
     {
       "surface": "הזה",
@@ -50,11 +50,11 @@
     },
     {
       "surface": "על",
-      "gloss": "ngoku"
+      "gloss": "ngaphezu"
     },
     {
       "surface": "כן",
-      "gloss": "njalo"
+      "gloss": "kokunjalo"
     },
     {
       "surface": "הוא",
@@ -62,12 +62,12 @@
     },
     {
       "surface": "מרפא",
-      "gloss": "uyabuthaza"
+      "gloss": "enza ubuthathaka"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "izandla zamadoda empi eziselayo kule sixeko"
+      "marks": "izandla zamadoda empilo"
     },
     {
       "surface": "ידי",
@@ -79,24 +79,24 @@
     },
     {
       "surface": "המלחמה",
-      "gloss": "empi"
+      "gloss": "empilo"
     },
     {
       "surface": "הנשארים",
-      "gloss": "eziselayo"
+      "gloss": "eshiyiweyo"
     },
     {
       "surface": "בעיר",
-      "gloss": "sixeko"
+      "gloss": "kweli dolophu"
     },
     {
       "surface": "הזאת",
-      "gloss": "le"
+      "gloss": "eli"
     },
     {
       "surface": "ואת",
-      "gloss": "no⟨את⟩",
-      "marks": "izandla zabantu bonke"
+      "gloss": "nakwe ⟨את⟩",
+      "marks": "izandla zonke abantu"
     },
     {
       "surface": "ידי",
@@ -104,7 +104,7 @@
     },
     {
       "surface": "כל",
-      "gloss": "onke"
+      "gloss": "zonke"
     },
     {
       "surface": "העם",
@@ -112,7 +112,7 @@
     },
     {
       "surface": "לדבר",
-      "gloss": "ngokuthetha"
+      "gloss": "ukuthetha"
     },
     {
       "surface": "אליהם",
@@ -120,7 +120,7 @@
     },
     {
       "surface": "כדברים",
-      "gloss": "njengamazwi"
+      "gloss": "njengamagama"
     },
     {
       "surface": "האלה",
@@ -132,7 +132,7 @@
     },
     {
       "surface": "האיש",
-      "gloss": "lo mntu"
+      "gloss": "loo mntu"
     },
     {
       "surface": "הזה",
@@ -144,19 +144,19 @@
     },
     {
       "surface": "דרש",
-      "gloss": "ukhathalela"
+      "gloss": "ufuna"
     },
     {
       "surface": "לשלום",
-      "gloss": "uxolo"
+      "gloss": "impilo entle"
     },
     {
       "surface": "לעם",
-      "gloss": "lantlanga"
+      "gloss": "yalo mntu"
     },
     {
       "surface": "הזה",
-      "gloss": "le"
+      "gloss": "lo"
     },
     {
       "surface": "כי",
@@ -168,9 +168,9 @@
     },
     {
       "surface": "לרעה",
-      "gloss": "ububi"
+      "gloss": "ukonakala"
     }
   ],
-  "timestamp": "2026-09-18T12:31:25.636002845Z",
+  "timestamp": "2026-09-18T18:50:03.211415872Z",
   "model": "glm-5.3"
 }

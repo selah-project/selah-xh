@@ -5,7 +5,7 @@
   "book": "ecclesiastes",
   "lang": "xh",
   "chapter": 11,
-  "translation": "Ekuseni tyala ⟨את⟩ imbewu yakho, kwaye ngokuhlwa ungaphumli isandla lakho, kuba awusiyo ukwazi ukuba yiphi eya kuphumelela, le na okanye le na, nokuba zombini njengesinye ziphumelele.",
+  "translation": "Ekuseni tyala ⟨את⟩ imbewu yakho, kwaye ntambama musa ukuphumlisa isandla sakho; kuba awu⟨yazi⟩ ukuba yeyiphi na apho izakuphumelela khona, le okanye le, nokuba zombini zilungile ngokulingana.",
   "tokens": [
     {
       "surface": "בבקר",
@@ -26,19 +26,19 @@
     },
     {
       "surface": "ולערב",
-      "gloss": "kwaye ngokuhlwa"
+      "gloss": "kwaye ntambama"
     },
     {
       "surface": "אל",
-      "gloss": "musʼ (ungaphumli)"
+      "gloss": "musa"
     },
     {
       "surface": "תנח",
-      "gloss": "ungaphumli"
+      "gloss": "ukuphumlisa"
     },
     {
       "surface": "ידך",
-      "gloss": "isandla lakho"
+      "gloss": "isandla sakho"
     },
     {
       "surface": "כי",
@@ -46,27 +46,27 @@
     },
     {
       "surface": "אינך",
-      "gloss": "awusiyo"
+      "gloss": "awu"
     },
     {
       "surface": "יודע",
-      "gloss": "ukwazi"
+      "gloss": "yazi"
     },
     {
       "surface": "אי",
-      "gloss": "aphi"
+      "gloss": "apho"
     },
     {
       "surface": "זה",
-      "gloss": "yiphi"
+      "gloss": "leya"
     },
     {
       "surface": "יכשר",
-      "gloss": "eya kuphumelela"
+      "gloss": "izakuphumelela"
     },
     {
       "surface": "הזה",
-      "gloss": "le na"
+      "gloss": "le"
     },
     {
       "surface": "או",
@@ -74,7 +74,7 @@
     },
     {
       "surface": "זה",
-      "gloss": "le na"
+      "gloss": "le"
     },
     {
       "surface": "ואם",
@@ -86,13 +86,13 @@
     },
     {
       "surface": "כאחד",
-      "gloss": "njengesinye"
+      "gloss": "ngokulingana"
     },
     {
       "surface": "טובים",
-      "gloss": "ziphumelele"
+      "gloss": "zilungile"
     }
   ],
-  "timestamp": "2026-09-18T16:26:57.621606612Z",
+  "timestamp": "2026-09-18T18:44:00.723669990Z",
   "model": "glm-5.3"
 }

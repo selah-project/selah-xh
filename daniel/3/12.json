@@ -5,11 +5,11 @@
   "book": "daniel",
   "lang": "xh",
   "chapter": 3,
-  "translation": "Kukho amadoda amaYuda owabekela ulwazi lwezicwangciso zesiganga saseBhabhylon — uShadrake, uMeyishake no-Abedi-Nego; la madoda, inkosi, akabekanga wena isigwebo: awakhonzi oothixo bakho, ananqabisi umfanekiso wegolide owamiselayo.”",
+  "translation": "Kukho amadoda amaYuda owabekile wena ngaphezu kwezisebenzo zommandla weBhabheli — uShadrake, uMeshake, no-Abedi-Nego; la madoda, nkosi yinkosi, awazange amkele isigwebo sakho; akankhonzi oothixo bakho, yaye akazukulisi loo mfanekiso wegolide owumisileyo.",
   "tokens": [
     {
       "surface": "איתי",
-      "gloss": "Kukho"
+      "gloss": "kukho"
     },
     {
       "surface": "גברין",
@@ -21,32 +21,32 @@
     },
     {
       "surface": "די",
-      "gloss": "o-"
+      "gloss": "―"
     },
     {
       "surface": "מנית",
-      "gloss": "owabekela"
+      "gloss": "owabekile wena"
     },
     {
       "surface": "יתהון",
-      "gloss": "⟨ית⟩",
-      "marks": "la madoda"
+      "gloss": "⟨את⟩",
+      "marks": "la (izibiyelo ezidityaniswe)"
     },
     {
       "surface": "על",
-      "gloss": "phezu"
+      "gloss": "ngaphezu kwe"
     },
     {
       "surface": "עבידת",
-      "gloss": "lwazi lwezicwangciso"
+      "gloss": "izisebenzo"
     },
     {
       "surface": "מדינת",
-      "gloss": "zesiganga"
+      "gloss": "zommandla"
     },
     {
       "surface": "בבל",
-      "gloss": "saseBhabhylon"
+      "gloss": "weBhabheli"
     },
     {
       "surface": "שדרך",
@@ -54,7 +54,7 @@
     },
     {
       "surface": "מישך",
-      "gloss": "uMeyishake"
+      "gloss": "uMeshake"
     },
     {
       "surface": "ועבד",
@@ -62,7 +62,7 @@
     },
     {
       "surface": "נגו",
-      "gloss": "u-Abedi-Nego"
+      "gloss": "Abedi-Nego"
     },
     {
       "surface": "גבריא",
@@ -70,23 +70,23 @@
     },
     {
       "surface": "אלך",
-      "gloss": ""
+      "gloss": "la"
     },
     {
       "surface": "לא",
-      "gloss": "aka-"
+      "gloss": "hayi"
     },
     {
       "surface": "שמו",
-      "gloss": "bekanga"
+      "gloss": "awazange amkele"
     },
     {
       "surface": "עליך",
-      "gloss": "wena"
+      "gloss": "isigwebo sakho"
     },
     {
       "surface": "מלכא",
-      "gloss": "inkosi"
+      "gloss": "nkosi yinkosi"
     },
     {
       "surface": "טעם",
@@ -94,19 +94,19 @@
     },
     {
       "surface": "לאלהיך",
-      "gloss": "awakhonzi oothixo bakho"
+      "gloss": "akankhonzi oothixo bakho"
     },
     {
       "surface": "לא",
-      "gloss": "ana-"
+      "gloss": "hayi"
     },
     {
       "surface": "פלחין",
-      "gloss": "nqabisi"
+      "gloss": "akankhonzi"
     },
     {
       "surface": "ולצלם",
-      "gloss": "umfanekisweni"
+      "gloss": "yaye akazukulisi loo mfanekiso"
     },
     {
       "surface": "דהבא",
@@ -114,17 +114,21 @@
     },
     {
       "surface": "די",
-      "gloss": "o-"
+      "gloss": "―"
     },
     {
       "surface": "הקימת",
-      "gloss": "wamiselayo"
+      "gloss": "owumisileyo"
     },
     {
       "surface": "לא",
-      "gloss": ""
+      "gloss": "hayi"
+    },
+    {
+      "surface": "סגדין",
+      "gloss": "akazukulisi"
     }
   ],
-  "timestamp": "2026-09-18T16:32:33.228638384Z",
+  "timestamp": "2026-09-18T18:42:13.203980733Z",
   "model": "glm-5.3"
 }

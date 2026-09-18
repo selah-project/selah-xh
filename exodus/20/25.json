@@ -5,8 +5,66 @@
   "book": "exodus",
   "lang": "xh",
   "chapter": 20,
-  "translation": "Ukuba wenza undwendwe_lweebhedi… ",
-  "tokens": [],
-  "timestamp": "2026-09-18T06:07:42.241451893Z",
+  "translation": "Ukuba ulusizele lweebhedi lzibini uya kulwenza ndini, awusayi kulwakha ngeebhedi ezidannyelweyo ngobumnandi; kuba into yokutyokomisa ngesandla esingasebenziswayo yadlulisela phezu kolwazi lwakho oluvunyiweyo.",
+  "tokens": [
+    {
+      "surface": "וְאִם",
+      "gloss": "kananjalo ukuba"
+    },
+    {
+      "surface": "מִזְבַּ֤ח",
+      "gloss": "isixhobo sokuvuma"
+    },
+    {
+      "surface": "אֲבָנִים֙",
+      "gloss": "amatye"
+    },
+    {
+      "surface": "תַּֽעֲשֶׂ֔ה",
+      "gloss": "wenza"
+    },
+    {
+      "surface": "לִּ֔י",
+      "gloss": "ndini"
+    },
+    {
+      "surface": "לֹֽא",
+      "gloss": "akukho"
+    },
+    {
+      "surface": "תִּבְנֶ֥ה",
+      "gloss": "usayi kwakha"
+    },
+    {
+      "surface": "אֶתְהֶ֖ן",
+      "gloss": "⟨את⟩",
+      "marks": "amatye odwa esixhobo sokuvuma"
+    },
+    {
+      "surface": "גָּזִ֑ית",
+      "gloss": "odanyelwe ngesixhobo"
+    },
+    {
+      "surface": "כִּ֣י",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "חַרְבְּךָ֛",
+      "gloss": "isixhobo sakho esidanyela"
+    },
+    {
+      "surface": "הֵנַ֥פְתָּ",
+      "gloss": "udanyile"
+    },
+    {
+      "surface": "עָלֶ֖יהָ",
+      "gloss": "phezu kwesixhobo sokuvuma"
+    },
+    {
+      "surface": "וַתְּחַֽלְלֶֽהָ",
+      "gloss": "yayonakalisiwe"
+    }
+  ],
+  "timestamp": "2026-09-18T18:44:48.560683063Z",
   "model": "glm-5.3"
 }

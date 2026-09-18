@@ -5,11 +5,11 @@
   "book": "micah",
   "lang": "xh",
   "chapter": 6,
-  "translation": "Kuboniswe wena, hini na mntu, okulungileyo; yaye uYahwe ufuna ntoni kuwe, ngaphandle kokwenza ulungiso, nokuthanda ikhesedi, no kuhambe ngokuthobileyo no-Elohim wakho?",
+  "translation": "Uyakutshela wena, ndini mntu, okulungileyo; yintoni uYahwe ayifunayo kuwe, ngaphandle kokwenza ulwelelo, nokuthanda ikhesedi, nokuhamba ngobumnene ngoElohim wakho?",
   "tokens": [
     {
       "surface": "הגיד",
-      "gloss": "kuboniswe"
+      "gloss": "uyakutshela"
     },
     {
       "surface": "לך",
@@ -17,15 +17,19 @@
     },
     {
       "surface": "אדם",
-      "gloss": "mntu"
+      "gloss": "ndini mntu"
     },
     {
       "surface": "מה",
+      "gloss": "okulungileyo ntoni"
+    },
+    {
+      "surface": "טוב",
       "gloss": "okulungileyo"
     },
     {
       "surface": "ומה",
-      "gloss": "yaye ntoni"
+      "gloss": "yintoni"
     },
     {
       "surface": "יהוה",
@@ -33,7 +37,7 @@
     },
     {
       "surface": "דורש",
-      "gloss": "ufuna"
+      "gloss": "ayifunayo"
     },
     {
       "surface": "ממך",
@@ -45,7 +49,7 @@
     },
     {
       "surface": "אם",
-      "gloss": "kokuba kuphela"
+      "gloss": "kokwenza"
     },
     {
       "surface": "עשות",
@@ -53,7 +57,7 @@
     },
     {
       "surface": "משפט",
-      "gloss": "ulungiso"
+      "gloss": "ulwelelo"
     },
     {
       "surface": "ואהבת",
@@ -65,21 +69,21 @@
     },
     {
       "surface": "והצנע",
-      "gloss": "no kuhambe ngokuthobileyo"
+      "gloss": "nokuhamba ngobumnene"
     },
     {
       "surface": "לכת",
-      "gloss": "(ukuhamba)"
+      "gloss": "ukuhamba"
     },
     {
       "surface": "עם",
-      "gloss": "no"
+      "gloss": "ngo-"
     },
     {
       "surface": "אלהיך",
-      "gloss": "-Elohim wakho"
+      "gloss": "ngoElohim wakho"
     }
   ],
-  "timestamp": "2026-09-18T14:08:47.112039922Z",
+  "timestamp": "2026-09-18T18:52:49.226742999Z",
   "model": "glm-5.3"
 }

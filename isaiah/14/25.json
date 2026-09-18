@@ -5,15 +5,15 @@
   "book": "isaiah",
   "lang": "xh",
   "chapter": 14,
-  "translation": "Ukutyabula iAshuru elizweni lam, nangaphezu zeentaba zam ndidabula ngezinyawo; iluphahla layo liya kusuka kubo, umthwalo walo uya kusuka kumgogorhela wawo unyuka.",
+  "translation": "Ukutshatyalalisa iAshur elizweni lam, napha kwiintaba zam ndiya kumnyathela; isibekelo sayo siya kutshona phaya kubo, nomthwalo wakhe uya kususwa phaya kumgaleni wakhe.",
   "tokens": [
     {
       "surface": "לשבר",
-      "gloss": "ukutyabula"
+      "gloss": "ukutshatyalalisa"
     },
     {
       "surface": "אשור",
-      "gloss": "iAshuru"
+      "gloss": "iAshur"
     },
     {
       "surface": "בארצי",
@@ -21,37 +21,45 @@
     },
     {
       "surface": "ועל",
-      "gloss": "nangaphezu"
+      "gloss": "napha"
     },
     {
       "surface": "הרי",
-      "gloss": "zeentaba zam"
+      "gloss": "kwiintaba zam"
     },
     {
       "surface": "אבוסנו",
-      "gloss": "ndidabula ngezinyawo"
+      "gloss": "ndiya kumnyathela"
     },
     {
       "surface": "וסר",
-      "gloss": "liya kusuka"
+      "gloss": "siya kutshona"
     },
     {
       "surface": "מעליהם",
-      "gloss": "kubo"
+      "gloss": "phaya kubo"
     },
     {
       "surface": "עלו",
-      "gloss": "iluphahla layo"
+      "gloss": "isibekelo sayo"
     },
     {
       "surface": "וסבלו",
-      "gloss": "umthwalo walo uya kusuka"
+      "gloss": "nomthwalo wakhe"
     },
     {
       "surface": "מעל",
-      "gloss": "kumgogorhela wawo unyuka"
+      "gloss": "phaya"
+    },
+    {
+      "surface": "שכמו",
+      "gloss": "kumgaleni wakhe"
+    },
+    {
+      "surface": "יסור",
+      "gloss": "uya kususwa"
     }
   ],
-  "timestamp": "2026-09-18T11:11:37.869882612Z",
+  "timestamp": "2026-09-18T18:48:03.736245919Z",
   "model": "glm-5.3"
 }

@@ -5,15 +5,15 @@
   "book": "jeremiah",
   "lang": "xh",
   "chapter": 23,
-  "translation": "Ukuba eli ntlobo labantu, okanye umprofeti, okanye umbingeli, yakubuza kuwe esithi: Ntoni umthwalo kaYahwe? uzakuthi kubo: ⟨את⟩ Nimthwalo yelinge; kuba ndiza kunilahla, ngolise kaYahwe.",
+  "translation": "Kwaye ukuba abantu aba, okanye unprofeti okanye umpristi, bakubuza ukuba bathi: “Ntoni umthwalo kaYahwe?” uza kuthi kubo: “⟨את⟩ ntoni umthwalo! Kwaye ndiza kunishiyela nina,” ushiwo lukaYahwe.",
   "tokens": [
     {
       "surface": "וכי",
-      "gloss": "ukuba"
+      "gloss": "kwaye ukuba"
     },
     {
       "surface": "ישאלך",
-      "gloss": "yakubuza kuwe"
+      "gloss": "bakubuza"
     },
     {
       "surface": "העם",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "הזה",
-      "gloss": "eli ntlobo"
+      "gloss": "aba"
     },
     {
       "surface": "או",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "הנביא",
-      "gloss": "umprofeti"
+      "gloss": "unprofeti"
     },
     {
       "surface": "או",
@@ -37,11 +37,11 @@
     },
     {
       "surface": "כהן",
-      "gloss": "umbingeli"
+      "gloss": "umpristi"
     },
     {
       "surface": "לאמר",
-      "gloss": "esithi"
+      "gloss": "ukuba bathi"
     },
     {
       "surface": "מה",
@@ -57,7 +57,7 @@
     },
     {
       "surface": "ואמרת",
-      "gloss": "uzakuthi"
+      "gloss": "uza kuthi"
     },
     {
       "surface": "אליהם",
@@ -66,33 +66,34 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "nimthwalo yelinge"
+      "marks": "ntoni (umthwalo)"
     },
     {
       "surface": "מה",
-      "gloss": "nimthwalo yelinge"
+      "gloss": "ntoni"
     },
     {
       "surface": "משא",
-      "gloss": ""
+      "gloss": "umthwalo"
     },
     {
       "surface": "ונטשתי",
-      "gloss": "ndiza kunilahla"
+      "gloss": "ndiza kunishiyela"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ ni-"
+      "gloss": "⟨את⟩ nina",
+      "marks": "nina"
     },
     {
       "surface": "נאם",
-      "gloss": "ngolise"
+      "gloss": "ushiwo"
     },
     {
       "surface": "יהוה",
-      "gloss": "kaYahwe"
+      "gloss": "lukaYahwe"
     }
   ],
-  "timestamp": "2026-09-18T12:14:11.972924633Z",
+  "timestamp": "2026-09-18T18:49:57.160136681Z",
   "model": "glm-5.3"
 }

@@ -5,8 +5,102 @@
   "book": "2-chronicles",
   "lang": "xh",
   "chapter": 13,
-  "translation": "U-Avhiya waqala imfazwe ngenxulum­e yamadoda amakhulu empimpa, amakhulu ama­ane amakhulu­amakhulu…",
-  "tokens": [],
-  "timestamp": "2026-09-18T17:08:31.862246989Z",
+  "translation": "U-Aviya wadibana ⟨את⟩ imfazwe ngamabutho amakhulu ayimfazwe, amane amakhulu amawaka abantu abakhethiweyo; uYarobeam wazilungiselela nawuye imfazwe naye ngesibhozo samakhulu amawaka abantu abakhethiweyo, amadoda amakhulu enzala.",
+  "tokens": [
+    {
+      "surface": "ויאסר",
+      "gloss": "wadibana"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "U-Aviya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "imfazwe"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "imfazwe"
+    },
+    {
+      "surface": "בחיל",
+      "gloss": "ngamabutho"
+    },
+    {
+      "surface": "גבורי",
+      "gloss": "amakhulu"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "ayimfazwe"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "amane"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "amakhulu"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "amawaka"
+    },
+    {
+      "surface": "איש",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "בחור",
+      "gloss": "abakhethiweyo"
+    },
+    {
+      "surface": "וירבעם",
+      "gloss": "uYarobeam"
+    },
+    {
+      "surface": "ערך",
+      "gloss": "wazilungiselela"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "naye"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "imfazwe"
+    },
+    {
+      "surface": "בשמונה",
+      "gloss": "ngesibhozo"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "samakhulu"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "amawaka"
+    },
+    {
+      "surface": "איש",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "בחור",
+      "gloss": "abakhethiweyo"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "amadoda amakhulu"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "enzala"
+    }
+  ],
+  "timestamp": "2026-09-18T18:39:38.910004011Z",
   "model": "glm-5.3"
 }

@@ -5,11 +5,11 @@
   "book": "1-kings",
   "lang": "xh",
   "chapter": 22,
-  "translation": "Waphendula inkosi yakwaYisrayeli yathi kuYehoshaphati: “Kusapho umntu omnye wokubuza ⟨את⟩ uYahwe ⟨את⟩ kuye; kodwa mna ndimzondele, kuba akaprofetheki okulungileyo ngam, kuphela okubi — uMikhayehu, unyana kaYimla.” Wathetha uYehoshaphati: “Musa ukuba inkosi ithe njalo.”",
+  "translation": "Wathi inkosi yakwiSirayeli kuYehoshafati: “Kusenomnye umntu wokubuza kuYahwe ⟨את⟩ ngaye, kodwa mna ndimzonda, kuba akaprophetha ilungileyo ngam, koko isolation — uMikayehu, unyana kaYimla.” Wathi uYehoshafati: “Musa ukutsho njalo, inkosi.”",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "Waphendula"
+      "gloss": "wathi"
     },
     {
       "surface": "מלך",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "ישראל",
-      "gloss": "yakwaYisrayeli"
+      "gloss": "yakwiSirayeli"
     },
     {
       "surface": "אל",
@@ -25,14 +25,14 @@
     },
     {
       "surface": "יהושפט",
-      "gloss": "uYehoshaphati"
+      "gloss": "Yehoshafati"
     },
     {
       "surface": "עוד",
-      "gloss": "Kusapho"
+      "gloss": "kuseno"
     },
     {
-      "surface": "איש",
+      "surface": "אישׁ",
       "gloss": "umntu"
     },
     {
@@ -54,7 +54,8 @@
     },
     {
       "surface": "מאתו",
-      "gloss": "⟨את⟩ kuye"
+      "gloss": "⟨את⟩ ngaye",
+      "marks": "mna (ndimzonda)"
     },
     {
       "surface": "ואני",
@@ -62,7 +63,7 @@
     },
     {
       "surface": "שנאתיו",
-      "gloss": "ndimzondele"
+      "gloss": "ndimzonda"
     },
     {
       "surface": "כי",
@@ -70,11 +71,11 @@
     },
     {
       "surface": "לא",
-      "gloss": "aka"
+      "gloss": "aka-"
     },
     {
       "surface": "יתנבא",
-      "gloss": "aprofetheki"
+      "gloss": "prophetha"
     },
     {
       "surface": "עלי",
@@ -82,23 +83,23 @@
     },
     {
       "surface": "טוב",
-      "gloss": "okulungileyo"
+      "gloss": "ilungileyo"
     },
     {
       "surface": "כי",
-      "gloss": "kuphela"
+      "gloss": "koko"
     },
     {
       "surface": "אם",
-      "gloss": ""
+      "gloss": "isolation"
     },
     {
       "surface": "רע",
-      "gloss": "okubi"
+      "gloss": "okungcolileyo"
     },
     {
       "surface": "מיכיהו",
-      "gloss": "uMikhayehu"
+      "gloss": "uMikayehu"
     },
     {
       "surface": "בן",
@@ -110,19 +111,19 @@
     },
     {
       "surface": "ויאמר",
-      "gloss": "Wathetha"
+      "gloss": "wathi"
     },
     {
       "surface": "יהושפט",
-      "gloss": "uYehoshaphati"
+      "gloss": "uYehoshafati"
     },
     {
       "surface": "אל",
-      "gloss": "Musa"
+      "gloss": "musa ukutsho"
     },
     {
       "surface": "יאמר",
-      "gloss": "ukuba ithi"
+      "gloss": "njalo"
     },
     {
       "surface": "המלך",
@@ -133,6 +134,6 @@
       "gloss": "njalo"
     }
   ],
-  "timestamp": "2026-09-18T10:37:24.208680148Z",
+  "timestamp": "2026-09-18T18:38:19.422306090Z",
   "model": "glm-5.3"
 }

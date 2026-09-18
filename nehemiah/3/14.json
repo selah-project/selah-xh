@@ -5,12 +5,12 @@
   "book": "nehemiah",
   "lang": "xh",
   "chapter": 3,
-  "translation": "Nangesinye ⟨את⟩ isango seenkunkuma wasisinqinisa uMalkiya unyana kaRekhabi, isikhulu sesigaba seBhet-haKherem; yena wasakha, wamisa iingcango zaso, izitshixo zaso neebhari zaso.",
+  "translation": "Kananjalo isango leendle laqiniswa nguMalkiya unyana kaRekhabu, inkosi yesigaba seBheti-haKerem; yena wawakhela, waza wamisa iinyawo zalo, izibiyeli zalo nakwiintsikeleli zalo.",
   "tokens": [
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "isango seenkunkuma"
+      "marks": "isango leendle"
     },
     {
       "surface": "שער",
@@ -18,15 +18,15 @@
     },
     {
       "surface": "האשפות",
-      "gloss": "seenkunkuma"
+      "gloss": "leendle"
     },
     {
       "surface": "החזיק",
-      "gloss": "wasisinqinisa"
+      "gloss": "laqiniswa"
     },
     {
       "surface": "מלכיה",
-      "gloss": "uMalkiya"
+      "gloss": "nguMalkiya"
     },
     {
       "surface": "בן",
@@ -34,23 +34,23 @@
     },
     {
       "surface": "רכב",
-      "gloss": "kaRekhabi"
+      "gloss": "kaRekhabu"
     },
     {
       "surface": "שר",
-      "gloss": "isikhulu"
+      "gloss": "inkosi"
     },
     {
       "surface": "פלך",
-      "gloss": "sesigaba"
+      "gloss": "yesigaba"
     },
     {
       "surface": "בית",
-      "gloss": "seBhet-haKherem"
+      "gloss": "iBheti-"
     },
     {
       "surface": "הכרם",
-      "gloss": ""
+      "gloss": "haKerem"
     },
     {
       "surface": "הוא",
@@ -58,7 +58,7 @@
     },
     {
       "surface": "יבננו",
-      "gloss": "wasakha"
+      "gloss": "wawakhela"
     },
     {
       "surface": "ויעמיד",
@@ -66,17 +66,17 @@
     },
     {
       "surface": "דלתתיו",
-      "gloss": "iingcango zaso"
+      "gloss": "iinyawo zalo"
     },
     {
       "surface": "מנעליו",
-      "gloss": "izitshixo zaso"
+      "gloss": "izibiyeli zalo"
     },
     {
       "surface": "ובריחיו",
-      "gloss": "neebhari zaso"
+      "gloss": "nakwiintsikeleli zalo"
     }
   ],
-  "timestamp": "2026-09-18T16:45:18.896360244Z",
+  "timestamp": "2026-09-18T18:53:40.689958327Z",
   "model": "glm-5.3"
 }

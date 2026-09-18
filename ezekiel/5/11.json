@@ -5,7 +5,7 @@
   "book": "ezekiel",
   "lang": "xh",
   "chapter": 5,
-  "translation": "Ngoko, mna ndiphila, utsho u-Adonayi uYahwe: inene, ngenxa yokuba wangcibikisa ⟨את⟩ ingcwele yam ngesona sikolo zonke iziqholo zakho nazo zonke iintloni zakho, mna ndiza kukunciphisa; iliso lam alayi kube nesiceba, mna andinabulungisa.",
+  "translation": "Ngoko, kuba ndiphila — isithetho sika-Adonayi uYahwe — ngewenene, kuba walonza ⟨את⟩ indawo yamangcwele nazo zonke iziqhwala zakho nasazo zonke izinto ezinamahlulela zakho, ndiya kutshintsha; kwaye lonwabo lwam alusi kubambelela kuni, ndiya kungabi nanceba ndisuka.",
   "tokens": [
     {
       "surface": "לכן",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "חי",
-      "gloss": "ndiphila"
+      "gloss": "kuba ndiphila"
     },
     {
       "surface": "אני",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "נאם",
-      "gloss": "utsho"
+      "gloss": "isithetho"
     },
     {
       "surface": "אדני",
@@ -33,48 +33,48 @@
     },
     {
       "surface": "אם",
-      "gloss": "inene"
+      "gloss": "⟨ngewenene⟩"
     },
     {
       "surface": "לא",
-      "gloss": ""
+      "gloss": "hayi"
     },
     {
       "surface": "יען",
-      "gloss": "ngenxa"
+      "gloss": "kuba"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ingcwele yam"
+      "marks": "indawo yamangcwele"
     },
     {
       "surface": "מקדשי",
-      "gloss": "ingcwele yam"
+      "gloss": "indawo yamangcwele"
     },
     {
       "surface": "טמאת",
-      "gloss": "wangcibikisa"
+      "gloss": "walonza"
     },
     {
       "surface": "בכל",
-      "gloss": "zonke"
+      "gloss": "nazo zonke"
     },
     {
       "surface": "שקוציך",
-      "gloss": "iziqholo zakho"
+      "gloss": "iziqhwala zakho"
     },
     {
       "surface": "ובכל",
-      "gloss": "nazo"
+      "gloss": "nasazo zonke"
     },
     {
       "surface": "תועבתיך",
-      "gloss": "iintloni zakho"
+      "gloss": "izinto ezinamahlulela zakho"
     },
     {
       "surface": "וגם",
-      "gloss": "kananjalo"
+      "gloss": "ndiya ku-"
     },
     {
       "surface": "אני",
@@ -82,23 +82,23 @@
     },
     {
       "surface": "אגרע",
-      "gloss": "ndiza kukunciphisa"
+      "gloss": "tshintsha"
     },
     {
       "surface": "ולא",
-      "gloss": "alayi"
+      "gloss": "hayi"
     },
     {
       "surface": "תחוס",
-      "gloss": "kube nesiceba"
+      "gloss": "kubambelela"
     },
     {
       "surface": "עיני",
-      "gloss": "iliso lam"
+      "gloss": "lonwabo lwam"
     },
     {
       "surface": "וגם",
-      "gloss": "kananjalo"
+      "gloss": "ndiya ku-"
     },
     {
       "surface": "אני",
@@ -106,13 +106,13 @@
     },
     {
       "surface": "לא",
-      "gloss": "andinabulungisa"
+      "gloss": "hayi"
     },
     {
       "surface": "אחמול",
-      "gloss": "andinabulungisa"
+      "gloss": "nanceba"
     }
   ],
-  "timestamp": "2026-09-18T12:51:35.885422371Z",
+  "timestamp": "2026-09-18T18:46:19.852290809Z",
   "model": "glm-5.3"
 }

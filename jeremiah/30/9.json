@@ -5,16 +5,16 @@
   "book": "jeremiah",
   "lang": "xh",
   "chapter": 30,
-  "translation": "Baza kukhonza ⟨את⟩ uYahwe uElohim wabo, no⟨את⟩ uDawidi inkosi yabo, endiza kumvusa kuwo.",
+  "translation": "Kwaye baza kukhonza ⟨את⟩ uYahwe uElohim wabo, no⟨את⟩ uDawidi inkosi yabo, endiza kuyivusa kubo.",
   "tokens": [
     {
       "surface": "ועבדו",
-      "gloss": "baza kukhonza"
+      "gloss": "kwaye baza kukhonza"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "uYahwe"
+      "marks": "uYahwe uElohim wabo"
     },
     {
       "surface": "יהוה",
@@ -27,7 +27,7 @@
     {
       "surface": "ואת",
       "gloss": "no⟨את⟩",
-      "marks": "uDawidi"
+      "marks": "uDawidi inkosi yabo"
     },
     {
       "surface": "דוד",
@@ -39,17 +39,17 @@
     },
     {
       "surface": "אשר",
-      "gloss": ""
+      "gloss": "endiza kuyivusa"
     },
     {
       "surface": "אקים",
-      "gloss": "endiza kumvusa"
+      "gloss": "ndiza kuyivusa"
     },
     {
       "surface": "להם",
-      "gloss": "kuwo"
+      "gloss": "kubo"
     }
   ],
-  "timestamp": "2026-09-18T12:20:06.487266234Z",
+  "timestamp": "2026-09-18T18:49:35.432763501Z",
   "model": "glm-5.3"
 }

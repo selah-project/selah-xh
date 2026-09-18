@@ -5,8 +5,61 @@
   "book": "deuteronomy",
   "lang": "xh",
   "chapter": 3,
-  "translation": "Zonke lezi zaziiinkosi ezingasemzini? Hayi: zonke lezi ziinkosi ezinamatyholo amakhulu, iindonga eziphakamileyo, iingcango nezibambelo — ngaphandle kweenkosi zaselidge entsha ezininzi kakhulu.",
-  "tokens": [],
-  "timestamp": "2026-09-18T07:51:10.262471939Z",
+  "translation": "Zonke lezi ziinkosi ezifakwe iindonga eziphezulu, iingcango nezikhubekisi, ngaphandle kweendawo zaselhlanganini ezininzi kakhulu;",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Zonke"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "lezi"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "iinkosi"
+    },
+    {
+      "surface": "בצרות",
+      "gloss": "ezifakwe iindonga ezifakwe"
+    },
+    {
+      "surface": "חומה",
+      "gloss": "iindonga"
+    },
+    {
+      "surface": "גבהה",
+      "gloss": "eziphezulu"
+    },
+    {
+      "surface": "דלתים",
+      "gloss": "iingcango"
+    },
+    {
+      "surface": "ובריח",
+      "gloss": "nezikhubekisi"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "ngaphandle"
+    },
+    {
+      "surface": "מערי",
+      "gloss": "kweendawo zaselhlanganini"
+    },
+    {
+      "surface": "הפרזי",
+      "gloss": "zaselhlanganini"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "ezininzi"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "kakhulu"
+    }
+  ],
+  "timestamp": "2026-09-18T18:42:58.769458097Z",
   "model": "glm-5.3"
 }

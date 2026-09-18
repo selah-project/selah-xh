@@ -5,31 +5,31 @@
   "book": "numbers",
   "lang": "xh",
   "chapter": 31,
-  "translation": "Yonke igolide yesipho abazisela kuYahwe yayilishumi elinesithandathu lamawaka, amakhulu asixhenxe anamashumi amahlanu eshekeli, kwiinkokheli ⟨את⟩ zamawaka nakwiinkokheli ⟨את⟩ zamakhulu.",
+  "translation": "Yaba nguninzi lonke wegolide yeteruma abayizisile kuYahwe, amawaka aliqela nesixhenxe, amakhulu asixhenxe nangamashumi amahlanu eshekeli, ⟨את⟩ kwabavela kumkhosi ⟨את⟩ oorhulumente bawawaka nakwi ⟨את⟩ oorhulumente bemakhulu.",
   "tokens": [
     {
       "surface": "ויהי",
-      "gloss": "yayi"
+      "gloss": "yaba"
     },
     {
       "surface": "כל",
-      "gloss": "yonke"
+      "gloss": "lonke"
     },
     {
       "surface": "זהב",
-      "gloss": "igolide"
+      "gloss": "wegolide"
     },
     {
       "surface": "התרומה",
-      "gloss": "yesipho"
+      "gloss": "yeteruma"
     },
     {
       "surface": "אשר",
-      "gloss": ""
+      "gloss": "oko"
     },
     {
       "surface": "הרימו",
-      "gloss": "abazisela"
+      "gloss": "abayizisile"
     },
     {
       "surface": "ליהוה",
@@ -37,15 +37,15 @@
     },
     {
       "surface": "ששה",
-      "gloss": "elisithandathu"
+      "gloss": "aliqela nesixhenxe"
     },
     {
       "surface": "עשר",
-      "gloss": "elishumi"
+      "gloss": "(liqela nesixhenxe)"
     },
     {
       "surface": "אלף",
-      "gloss": "lamawaka"
+      "gloss": "amawaka"
     },
     {
       "surface": "שבע",
@@ -57,7 +57,7 @@
     },
     {
       "surface": "וחמשים",
-      "gloss": "anamashumi amahlanu"
+      "gloss": "nangamashumi amahlanu"
     },
     {
       "surface": "שקל",
@@ -65,30 +65,31 @@
     },
     {
       "surface": "מאת",
-      "gloss": "⟨את⟩ kwiinkokheli"
+      "gloss": "⟨את⟩ kwabavela",
+      "marks": "oorhulumente bawawaka"
     },
     {
       "surface": "שרי",
-      "gloss": "iinkokheli"
+      "gloss": "oorhulumente"
     },
     {
       "surface": "האלפים",
-      "gloss": "zamawaka"
+      "gloss": "bawawaka"
     },
     {
       "surface": "ומאת",
-      "gloss": "nakwiinkokheli ⟨את⟩",
-      "marks": "zamakhulu"
+      "gloss": "⟨את⟩",
+      "marks": "oorhulumente bemakhulu"
     },
     {
       "surface": "שרי",
-      "gloss": "iinkokheli"
+      "gloss": "oorhulumente"
     },
     {
       "surface": "המאות",
-      "gloss": "zamakhulu"
+      "gloss": "bemakhulu"
     }
   ],
-  "timestamp": "2026-09-18T07:44:40.542604372Z",
+  "timestamp": "2026-09-18T18:54:33.337272187Z",
   "model": "glm-5.3"
 }

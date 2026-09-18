@@ -5,15 +5,15 @@
   "book": "2-kings",
   "lang": "xh",
   "chapter": 8,
-  "translation": "Kananjalo uYahwe wayengavumi ukutshatyalalisa ⟨את⟩ uYehuda ngenxa kaDavide, inkonzi yakhe, njengoko wamthethela yena, ukumnika isibane kwiinyana zakhe imihla yonke.",
+  "translation": "Kodwa uYahwe wayengathandi ukutshatyalalisa ⟨את⟩ uYuda ngenxa kaDawidi, inenekazi lakhe, njengoko wayethethe kuye, ukunika yena isibane kuwo ooonyana bakhe yonke iintsuku.",
   "tokens": [
     {
       "surface": "ולא",
-      "gloss": "Kananjalo wayengavumi"
+      "gloss": "kodwa... hayi"
     },
     {
       "surface": "אבה",
-      "gloss": ""
+      "gloss": "wayengathandi"
     },
     {
       "surface": "יהוה",
@@ -26,23 +26,23 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "uYehuda"
+      "marks": "uYuda"
     },
     {
       "surface": "יהודה",
-      "gloss": "uYehuda"
+      "gloss": "uYuda"
     },
     {
       "surface": "למען",
-      "gloss": "ngenxa"
+      "gloss": "ngenxa ka-"
     },
     {
       "surface": "דוד",
-      "gloss": "kaDavide"
+      "gloss": "Dawidi"
     },
     {
       "surface": "עבדו",
-      "gloss": "inkonzi yakhe"
+      "gloss": "inenekazi lakhe"
     },
     {
       "surface": "כאשר",
@@ -50,19 +50,19 @@
     },
     {
       "surface": "אמר",
-      "gloss": "wamthethela"
-    },
-    {
-      "surface": "לו",
-      "gloss": "yena"
-    },
-    {
-      "surface": "לתת",
-      "gloss": "ukumnika"
+      "gloss": "wayethethe"
     },
     {
       "surface": "לו",
       "gloss": "kuye"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "ukunika"
+    },
+    {
+      "surface": "לו",
+      "gloss": "yena"
     },
     {
       "surface": "ניר",
@@ -70,7 +70,7 @@
     },
     {
       "surface": "לבניו",
-      "gloss": "kwiinyana zakhe"
+      "gloss": "kuwo ooonyana bakhe"
     },
     {
       "surface": "כל",
@@ -78,9 +78,9 @@
     },
     {
       "surface": "הימים",
-      "gloss": "imihla"
+      "gloss": "iintsuku"
     }
   ],
-  "timestamp": "2026-09-18T10:46:15.950638812Z",
+  "timestamp": "2026-09-18T18:40:52.539967739Z",
   "model": "glm-5.3"
 }

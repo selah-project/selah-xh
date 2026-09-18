@@ -5,15 +5,15 @@
   "book": "daniel",
   "lang": "xh",
   "chapter": 11,
-  "translation": "Kwaye xa eliphelile elo qela, intliziyo yakhe iza kuphakama; uza kuwisa iintlaninge ezininzi, kodwa akanamandla.",
+  "translation": "Kwaye ihhamo iza kuthwalelwa ⟨ukuziphakamisa⟩, intliziyo yakhe iza kuphakama, kwaye uza kudibela amawaka amaninzi, kodwa akaqinanga.",
   "tokens": [
     {
       "surface": "ונשא",
-      "gloss": "xa eliphelile"
+      "gloss": "kwaye iza kuthwalelwa"
     },
     {
       "surface": "ההמון",
-      "gloss": "elo qela"
+      "gloss": "ihhamo"
     },
     {
       "surface": "ירום",
@@ -25,17 +25,21 @@
     },
     {
       "surface": "והפיל",
-      "gloss": "uza kuwisa"
+      "gloss": "kwaye uza kudibela"
     },
     {
       "surface": "רבאות",
-      "gloss": "iintlaninge ezininzi"
+      "gloss": "amawaka amaninzi"
     },
     {
       "surface": "ולא",
-      "gloss": "kodwa akanamandla"
+      "gloss": "kodwa akayi"
+    },
+    {
+      "surface": "יעוז",
+      "gloss": "kuqina"
     }
   ],
-  "timestamp": "2026-09-18T16:37:58.631332349Z",
+  "timestamp": "2026-09-18T18:41:34.948400678Z",
   "model": "glm-5.3"
 }

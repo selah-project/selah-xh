@@ -5,11 +5,11 @@
   "book": "2-samuel",
   "lang": "xh",
   "chapter": 18,
-  "translation": "Yaye u-Avshalom, ngeli xesha apha ekuphileni kwakhe, wathabatha wazimbelela ⟨את⟩ isikhumbuzo esikwithafa lenkosi, kuba wathi: Andinayinyana, ukuze igama lam libe kukhumbulo; wabiza isikhumbuzo ngokweligama lakhe, yaye babizela yona iSandla sikaAvshalom, ukuya kule mini.",
+  "translation": "U-Avshalom wathabatha, wazimisela yena ngokuphila kwakhe ⟨את⟩ intsika esiseNtlambo yenkosi, kuba wathetha wathi: “Andinawo unyana wokwenza ukuba igama lam ligcinwe,” wabiza ke le ntsika ngegama lakhe; kuthiwa yingalo ka-Avshalom ukuya ngolu suku.",
   "tokens": [
     {
       "surface": "ואבשלם",
-      "gloss": "yaye u-Avshalom"
+      "gloss": "U-Avshalom"
     },
     {
       "surface": "לקח",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "ויצב",
-      "gloss": "wazimbelela"
+      "gloss": "wazimisela"
     },
     {
       "surface": "לו",
@@ -25,28 +25,28 @@
     },
     {
       "surface": "בחיו",
-      "gloss": "ngeli xesha ekuphileni kwakhe"
+      "gloss": "ngokuphila kwakhe"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "isikhumbuzo"
+      "marks": "intsika"
     },
     {
       "surface": "מצבת",
-      "gloss": "isikhumbuzo"
+      "gloss": "intsika"
     },
     {
       "surface": "אשר",
-      "gloss": "eso"
+      "gloss": "ese-"
     },
     {
       "surface": "בעמק",
-      "gloss": "kwithafa"
+      "gloss": "Ntlambo"
     },
     {
       "surface": "המלך",
-      "gloss": "lenkosi"
+      "gloss": "yenkosi"
     },
     {
       "surface": "כי",
@@ -54,15 +54,15 @@
     },
     {
       "surface": "אמר",
-      "gloss": "wathi"
+      "gloss": "wathetha"
     },
     {
       "surface": "אין",
-      "gloss": "andinaye"
+      "gloss": "andinawo"
     },
     {
       "surface": "לי",
-      "gloss": "kum"
+      "gloss": "-lam"
     },
     {
       "surface": "בן",
@@ -70,11 +70,11 @@
     },
     {
       "surface": "בעבור",
-      "gloss": "ukuze"
+      "gloss": "wokwenza ukuba"
     },
     {
       "surface": "הזכיר",
-      "gloss": "libe kukhumbulo"
+      "gloss": "ligcinwe"
     },
     {
       "surface": "שמי",
@@ -86,45 +86,45 @@
     },
     {
       "surface": "למצבת",
-      "gloss": "isikhumbuzo"
+      "gloss": "le ntsika"
     },
     {
       "surface": "על",
-      "gloss": "ngokweli"
+      "gloss": "nge-"
     },
     {
       "surface": "שמו",
-      "gloss": "gama lakhe"
+      "gloss": "igama lakhe"
     },
     {
       "surface": "ויקרא",
-      "gloss": "yaye babizela"
+      "gloss": "kuthiwa"
     },
     {
       "surface": "לה",
-      "gloss": "yona"
+      "gloss": "yi-"
     },
     {
       "surface": "יד",
-      "gloss": "iSandla"
+      "gloss": "ingalo"
     },
     {
       "surface": "אבשלם",
-      "gloss": "sikaAvshalom"
+      "gloss": "ka-Avshalom"
     },
     {
       "surface": "עד",
-      "gloss": "ukuya ku"
+      "gloss": "ukuya"
     },
     {
       "surface": "היום",
-      "gloss": "le mini"
+      "gloss": "ngolu suku"
     },
     {
       "surface": "הזה",
-      "gloss": ""
+      "gloss": "-lu"
     }
   ],
-  "timestamp": "2026-09-18T10:00:42.197347040Z",
+  "timestamp": "2026-09-18T18:41:24.172687891Z",
   "model": "glm-5.3"
 }

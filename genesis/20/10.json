@@ -5,7 +5,7 @@
   "book": "genesis",
   "lang": "xh",
   "chapter": 20,
-  "translation": "Wathi u-Abimeleki ku-Avraham: “Ntoni ubonile, ukuba wenze ⟨את⟩ lo mba?”",
+  "translation": "Wathi u-Abimelekh ku-Avraham: “Yintoni oyibonileyo, ukuba wenza lo msebenzi?”",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -13,11 +13,11 @@
     },
     {
       "surface": "אבימלך",
-      "gloss": "u-Abimeleki"
+      "gloss": "u-Abimelekh"
     },
     {
       "surface": "אל",
-      "gloss": "ku"
+      "gloss": "ku-"
     },
     {
       "surface": "אברהם",
@@ -25,11 +25,11 @@
     },
     {
       "surface": "מה",
-      "gloss": "ntoni"
+      "gloss": "yintoni"
     },
     {
       "surface": "ראית",
-      "gloss": "ubonile"
+      "gloss": "oyibonileyo"
     },
     {
       "surface": "כי",
@@ -37,22 +37,22 @@
     },
     {
       "surface": "עשית",
-      "gloss": "wenze"
+      "gloss": "wenza"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "lo mba"
+      "marks": "lo msebenzi"
     },
     {
       "surface": "הדבר",
-      "gloss": "lo mba"
+      "gloss": "lo msebenzi"
     },
     {
       "surface": "הזה",
-      "gloss": ""
+      "gloss": "lo"
     }
   ],
-  "timestamp": "2026-09-18T05:18:24.667223382Z",
+  "timestamp": "2026-09-18T18:46:02.838776597Z",
   "model": "glm-5.3"
 }

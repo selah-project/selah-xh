@@ -5,8 +5,33 @@
   "book": "deuteronomy",
   "lang": "xh",
   "chapter": 3,
-  "translation": "Kodwa yonke imfuyo nesiphuluka seenkosi sadla ngokurusha thina.",
-  "tokens": [],
-  "timestamp": "2026-09-18T07:51:10.263981542Z",
+  "translation": "Yonke imfuyo nesigxeba zeelwimi sazisa ngothango ⟨ku-thi⟩.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "yonke"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "imfuyo"
+    },
+    {
+      "surface": "ושלל",
+      "gloss": "nesigxeba"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "zeelwimi"
+    },
+    {
+      "surface": "בזונו",
+      "gloss": "sazisa ngothango"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ku-thi"
+    }
+  ],
+  "timestamp": "2026-09-18T18:42:44.921547716Z",
   "model": "glm-5.3"
 }

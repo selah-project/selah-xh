@@ -5,8 +5,50 @@
   "book": "hosea",
   "lang": "xh",
   "chapter": 7,
-  "translation": "NgeyokaNkosi yethu iintombi-inkosi zatshaywa bububesi beenwini, wandula isandla sakhe ⟨נe⟩ oonyathelo-ntsi ⟨את⟩ abahlekisi.",
-  "tokens": [],
-  "timestamp": "2026-09-18T13:47:46.991457766Z",
+  "translation": "Ngelosuku lenkosi yethu, oorhulumente bagula ngobushushu bewayini; wadibana isandla sakhe ⟨את⟩ abahlekisi.",
+  "tokens": [
+    {
+      "surface": "יום",
+      "gloss": "ilosuku"
+    },
+    {
+      "surface": "מלכנו",
+      "gloss": "inkosi yethu"
+    },
+    {
+      "surface": "החלו",
+      "gloss": "bagula"
+    },
+    {
+      "surface": "שרים",
+      "gloss": "oorhulumente"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "ngobushushu"
+    },
+    {
+      "surface": "מיין",
+      "gloss": "bewayini"
+    },
+    {
+      "surface": "משך",
+      "gloss": "wadibana"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "isandla sakhe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abahlekisi"
+    },
+    {
+      "surface": "לצצים",
+      "gloss": "abahlekisi"
+    }
+  ],
+  "timestamp": "2026-09-18T18:47:37.320210574Z",
   "model": "glm-5.3"
 }

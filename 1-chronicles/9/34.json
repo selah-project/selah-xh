@@ -5,8 +5,45 @@
   "book": "1-chronicles",
   "lang": "xh",
   "chapter": 9,
-  "translation": "Aba babengentloko zoothetho abalevi, ngokwızazana zabo; abo babesakuba ngentloko. Aba ahlala eYerushalayimi.",
-  "tokens": [],
-  "timestamp": "2026-09-18T16:54:02.886614105Z",
+  "translation": "Ezi ziintloko zooyise woLevi ngokwenzalwazo yazo, ziintloko; ezi zaye zakhala eYerushalayimi.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "ezi"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "ziintloko zooyise"
+    },
+    {
+      "surface": "האבות",
+      "gloss": "⟨oo⟩yise"
+    },
+    {
+      "surface": "ללוים",
+      "gloss": "woLevi"
+    },
+    {
+      "surface": "לתלדותם",
+      "gloss": "ngokwenzalwazo yazo"
+    },
+    {
+      "surface": "ראשים",
+      "gloss": "ziintloko"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ezi"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "zakhala"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "eYerushalayimi"
+    }
+  ],
+  "timestamp": "2026-09-18T18:37:17.854105440Z",
   "model": "glm-5.3"
 }

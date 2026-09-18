@@ -5,8 +5,49 @@
   "book": "1-kings",
   "lang": "xh",
   "chapter": 6,
-  "translation": "Kwaye oko kukunye ikerub yaye yayilishumi kwi-ama; into elinye lolwahluko nolunye ubukhulu babo kokubini iikerubi.",
-  "tokens": [],
-  "timestamp": "2026-09-18T10:16:17.721622225Z",
+  "translation": "Nesithoba ezii-amahangu ubude baku-kerubi yesibini; umlinganiselo omnye nomfanekiso omnye lowoo-kerubi ababini.",
+  "tokens": [
+    {
+      "surface": "וְעֶ֨שֶׂר֙",
+      "gloss": "iishumi"
+    },
+    {
+      "surface": "בָּֽאַמָּ֔ה",
+      "gloss": "ii-amahangu"
+    },
+    {
+      "surface": "הַכְּר֖וּב",
+      "gloss": "i-kerubi"
+    },
+    {
+      "surface": "הַשֵּׁנִ֑י",
+      "gloss": "yesibini"
+    },
+    {
+      "surface": "מִדָּ֥ה",
+      "gloss": "umlinganiselo omnye"
+    },
+    {
+      "surface": "אַחַ֛ת",
+      "gloss": "omnye"
+    },
+    {
+      "surface": "וָקֶ֥צֶב",
+      "gloss": "nomfanekiso omnye"
+    },
+    {
+      "surface": "אֶחָ֖ד",
+      "gloss": "omnye"
+    },
+    {
+      "surface": "לִשְׁנֵ֥י",
+      "gloss": "kuwo bobabini"
+    },
+    {
+      "surface": "הַכְּרֻבִֽים",
+      "gloss": "oo-kerubi"
+    }
+  ],
+  "timestamp": "2026-09-18T18:38:33.208444347Z",
   "model": "glm-5.3"
 }

@@ -5,8 +5,57 @@
   "book": "1-kings",
   "lang": "xh",
   "chapter": 11,
-  "translation": "Waze ke uShelomoh walala nooyise wazityandela kwisixeko sikaDawid uyise; wabusa ke uRehavhame unyana wakhe endaweni yakhe.",
-  "tokens": [],
-  "timestamp": "2026-09-18T10:22:52.384256461Z",
+  "translation": "UShelomoh wanga rapper ngenye indlela: walaile ngo-Sabatai, ilali eyayibizwa ngokuba yaseYehudi, ukuya kwisiseko senkosi eYuda eseTopeteh. Waza uShelomoh wayokwenzela uYahwe izibane zobumnini nezelungiselelo ngezandla zakhe.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "walala"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "uShelomoh"
+    },
+    {
+      "surface": "עם",
+      "gloss": "kunye"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "nookhokho bakhe"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "wangcotywa"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "kwisixeko"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "uDavide"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "uyise"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "wabusa"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "uRehobowam"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "unyana"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "endaweni yakhe"
+    }
+  ],
+  "timestamp": "2026-09-18T18:37:59.007299219Z",
   "model": "glm-5.3"
 }

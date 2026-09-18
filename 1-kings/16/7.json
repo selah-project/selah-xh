@@ -5,7 +5,7 @@
   "book": "1-kings",
   "lang": "xh",
   "chapter": 16,
-  "translation": "Kananjalo ngasandla sikaYehu unyana kaHanani umprofetisi, ilizwi likaYahwe lafika kuBaasha nakwindlu yakhe, nangolonke ubugwenxa abenzena emehlweni kaYahwe ukumsihlisa nangomsebenzi wezandla zakhe, ukwaba njengendlu kaYarovamu, nangokuba wambetha ⟨את⟩ yena.",
+  "translation": "Kananjalo ngesandla sikaYehu unyana kaHanani, umprofethi, lafika lilizwi likaYahwe elichasa noBaasha nendlu yakhe, nangolonke ububi abenzayo emehlweni kaYahwe, ukumthukuthelesa ngomsebenzi wezandla zakhe, ukuba abengokwenye njengendlu kaYaravam, nangokuba wawuthulela waba ⟨את⟩ uye.",
   "tokens": [
     {
       "surface": "וגם",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "ביד",
-      "gloss": "ngasandla"
+      "gloss": "ngesandla"
     },
     {
       "surface": "יהוא",
@@ -29,11 +29,11 @@
     },
     {
       "surface": "הנביא",
-      "gloss": "umprofetisi"
+      "gloss": "umprofethi"
     },
     {
       "surface": "דבר",
-      "gloss": "ilizwi"
+      "gloss": "lilizwi"
     },
     {
       "surface": "יהוה",
@@ -45,39 +45,39 @@
     },
     {
       "surface": "אל",
-      "gloss": "ku"
+      "gloss": "elichasa"
     },
     {
       "surface": "בעשא",
-      "gloss": "uBaasha"
+      "gloss": "noBaasha"
     },
     {
       "surface": "ואל",
-      "gloss": "naku"
+      "gloss": "nangoku-"
     },
     {
       "surface": "ביתו",
-      "gloss": "windlu yakhe"
+      "gloss": "endlu yakhe"
     },
     {
       "surface": "ועל",
-      "gloss": "nangoku"
+      "gloss": "nangol"
     },
     {
       "surface": "כל",
-      "gloss": "lonke"
+      "gloss": "onke"
     },
     {
       "surface": "הרעה",
-      "gloss": "ubugwenxa"
+      "gloss": "ububi"
     },
     {
       "surface": "אשר",
-      "gloss": "abenzena"
+      "gloss": "abenzayo"
     },
     {
       "surface": "עשה",
-      "gloss": "benza"
+      "gloss": "abenzayo"
     },
     {
       "surface": "בעיני",
@@ -88,12 +88,12 @@
       "gloss": "kaYahwe"
     },
     {
-      "surface": "להכעיסowo",
-      "gloss": "ukumsihlisa"
+      "surface": "להכעיסו",
+      "gloss": "ukumthukuthelesa"
     },
     {
       "surface": "במעשה",
-      "gloss": "nangomsebenzi"
+      "gloss": "ngomsebenzi"
     },
     {
       "surface": "ידיו",
@@ -101,19 +101,19 @@
     },
     {
       "surface": "להיות",
-      "gloss": "ukwaba"
+      "gloss": "ukuba abengokwenye njenge"
     },
     {
       "surface": "כבית",
-      "gloss": "njengendlu"
+      "gloss": "ndlul"
     },
     {
       "surface": "ירבעם",
-      "gloss": "kaYarovamu"
+      "gloss": "kaYaravam"
     },
     {
       "surface": "ועל",
-      "gloss": "nangoku"
+      "gloss": "nangokuba"
     },
     {
       "surface": "אשר",
@@ -121,15 +121,14 @@
     },
     {
       "surface": "הכה",
-      "gloss": "wambetha"
+      "gloss": "wawuthulela waba"
     },
     {
       "surface": "אתו",
       "gloss": "⟨את⟩",
-      "gloss_yena": "",
-      "marks": "yena (uYarovamu)"
+      "marks": "uye (uBaasha owakhupha ilizwe lendlu kaYaravam)"
     }
   ],
-  "timestamp": "2026-09-18T10:29:42.908233268Z",
+  "timestamp": "2026-09-18T18:38:14.004792554Z",
   "model": "glm-5.3"
 }

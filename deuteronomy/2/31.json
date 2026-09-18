@@ -5,8 +5,76 @@
   "book": "deuteronomy",
   "lang": "xh",
   "chapter": 2,
-  "translation": "",
-  "tokens": [],
-  "timestamp": "2026-09-18T07:51:59.859984255Z",
+  "translation": "Wathi uYahwe kum: “Bona, ndiqalile ukunika phambi kwakho ⟨את⟩ uSihon ⟨את⟩ nomhlaba wakhe; qalisa ukuthatha ukuba uwunamathisele umhlaba wakhe ⟨את⟩.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kum"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "bona"
+    },
+    {
+      "surface": "החלתי",
+      "gloss": "ndiqalile"
+    },
+    {
+      "surface": "תת",
+      "gloss": "ukunika"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "phambi kwakho"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uSihon"
+    },
+    {
+      "surface": "סיחן",
+      "gloss": "uSihon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "nomhlaba wakhe"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "nomhlaba wakhe"
+    },
+    {
+      "surface": "החל",
+      "gloss": "qalisa"
+    },
+    {
+      "surface": "רש",
+      "gloss": "ukuthatha"
+    },
+    {
+      "surface": "לרשת",
+      "gloss": "ukuba uwunamathisele"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umhlaba wakhe"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "umhlaba wakhe"
+    }
+  ],
+  "timestamp": "2026-09-18T18:42:55.683765080Z",
   "model": "glm-5.3"
 }

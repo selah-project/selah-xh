@@ -5,8 +5,29 @@
   "book": "psalms",
   "lang": "xh",
   "chapter": 37,
-  "translation": "Elogo liphonononga ilungileyo, lifuna ukulibulala.",
-  "tokens": [],
-  "timestamp": "2026-09-18T14:42:39.271405376Z",
+  "translation": "Umoni ulandela ngeliso ⟨⟨olungileyo⟩⟩, aze afune ukumbulala.",
+  "tokens": [
+    {
+      "surface": "צופה",
+      "gloss": "ulandela ngeliso"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "umoni"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "olungileyo"
+    },
+    {
+      "surface": "ומבקש",
+      "gloss": "aze afune"
+    },
+    {
+      "surface": "להמיתו",
+      "gloss": "ukumbulala"
+    }
+  ],
+  "timestamp": "2026-09-18T18:57:37.399903180Z",
   "model": "glm-5.3"
 }

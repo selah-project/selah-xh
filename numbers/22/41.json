@@ -5,15 +5,15 @@
   "book": "numbers",
   "lang": "xh",
   "chapter": 22,
-  "translation": "Kwaba lilanga ekuseni, uBalaki wathabatha ⟨את⟩ uBilami, wamnyusa aze kwiBamoti-Baali, wabona ukusuka apho isiphelo sawo ⟨⟨the⟩⟩ umntu.",
+  "translation": "Kwakusasa, uBalaki wathabatha ⟨את⟩ uBilamu, wamvusa waya kwiBamothi vaBaali, waza wabona ukusuka apho umda wabantu.",
   "tokens": [
     {
       "surface": "ויהי",
-      "gloss": "Kwaba"
+      "gloss": "kwakwenzeka"
     },
     {
       "surface": "בבקר",
-      "gloss": "ekuseni"
+      "gloss": "kusasa"
     },
     {
       "surface": "ויקח",
@@ -26,23 +26,23 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "uBilami"
+      "marks": "uBilamu"
     },
     {
       "surface": "בלעם",
-      "gloss": "uBilami"
+      "gloss": "uBilamu"
     },
     {
       "surface": "ויעלהו",
-      "gloss": "wamnyusa"
+      "gloss": "wamvusa waya"
     },
     {
       "surface": "במות",
-      "gloss": "kwiBamoti"
+      "gloss": "iBamothi"
     },
     {
       "surface": "בעל",
-      "gloss": "iBaali"
+      "gloss": "vaBaali"
     },
     {
       "surface": "וירא",
@@ -54,13 +54,13 @@
     },
     {
       "surface": "קצה",
-      "gloss": "isiphelo"
+      "gloss": "umda"
     },
     {
       "surface": "העם",
-      "gloss": "umntu"
+      "gloss": "abantu"
     }
   ],
-  "timestamp": "2026-09-18T07:34:59.579273683Z",
+  "timestamp": "2026-09-18T18:54:16.102701919Z",
   "model": "glm-5.3"
 }

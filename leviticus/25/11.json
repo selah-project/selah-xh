@@ -5,15 +5,15 @@
   "book": "leviticus",
   "lang": "xh",
   "chapter": 25,
-  "translation": "Ngunoyibala lowo, unyaka wamashumi amahlanu; niza kuba ngabangcwelileyo kuwo: akukho kutyalwa, akukho kukatwa kwaye akukho kwiqabunyelwa lwasemvelo layo, kwaye amagilebhisi ayo angazihlalutyi.",
+  "translation": "Iyubele yilo iyo — unyaka wamashumi amahlanu uzakuba ngowenu; musa ukutyala, musa kuvuna ⟨את⟩ oko kukhuleleyo kuyo, musa ukuqokelela ⟨את⟩ amagilebhisi ayo angabhetywanga.",
   "tokens": [
     {
       "surface": "יובל",
-      "gloss": "unoyibala"
+      "gloss": "iyubele"
     },
     {
       "surface": "הוא",
-      "gloss": "yena"
+      "gloss": "yilo iyo"
     },
     {
       "surface": "שנת",
@@ -24,56 +24,60 @@
       "gloss": "wamashumi amahlanu"
     },
     {
+      "surface": "שנה",
+      "gloss": "unyaka"
+    },
+    {
       "surface": "תהיה",
-      "gloss": "iza kuba"
+      "gloss": "uzakuba"
     },
     {
       "surface": "לכם",
-      "gloss": "kuni"
+      "gloss": "ngowenu"
     },
     {
       "surface": "לא",
-      "gloss": "hayi"
+      "gloss": "musa"
     },
     {
       "surface": "תזרעו",
-      "gloss": "niza kutyala"
+      "gloss": "ukutyala"
     },
     {
       "surface": "ולא",
-      "gloss": "kwaye hayi"
+      "gloss": "musa"
     },
     {
       "surface": "תקצרו",
-      "gloss": "niza kukatwa"
+      "gloss": "ukuvuna"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "isivuno esingatyaliweyo sayo"
+      "marks": "oko kukhuleleyo kuyo"
     },
     {
       "surface": "ספיחיה",
-      "gloss": "⟨את⟩ isivuno esingatyaliweyo sayo"
+      "gloss": "oko kukhuleleyo kuyo"
     },
     {
       "surface": "ולא",
-      "gloss": "kwaye hayi"
+      "gloss": "musa"
     },
     {
       "surface": "תבצרו",
-      "gloss": "niza kuqokelela"
+      "gloss": "ukuqokelela"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "amagilebhisi ayengekhoyo"
+      "marks": "amagilebhisi ayo angabhetywanga"
     },
     {
-      "surface": "נזיריה",
-      "gloss": "⟨את⟩ amagilebhisi ayengekhoyo"
+      "surface": "נזריה",
+      "gloss": "amagilebhisi ayo angabhetywanga"
     }
   ],
-  "timestamp": "2026-09-18T07:04:54.677248132Z",
+  "timestamp": "2026-09-18T18:53:19.708373455Z",
   "model": "glm-5.3"
 }

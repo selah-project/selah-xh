@@ -5,19 +5,19 @@
   "book": "1-kings",
   "lang": "xh",
   "chapter": 10,
-  "translation": "Kodwa andindingekholwanga kwamagama, de ndafika ndaze amehlo am abona; nanga-anga, andisaziswanga isiqingatha: wandongezelela ubulumko nolonwabela ngaphezu kwendaba endandiyive.",
+  "translation": "Kananjalo andandikholwa ⟨ku⟩amazwi, de ndafika amehlo am aza kubona; kwaye nangona, asikutshiwo kum nesiqingatha; wongeze ubulumko nolonwabo ngaphezu kweenkcazelo endingivayo.",
   "tokens": [
     {
       "surface": "ולא",
-      "gloss": "Kodwa andi-"
+      "gloss": "Kananjalo hayi"
     },
     {
       "surface": "האמנתי",
-      "gloss": "dingekholwanga"
+      "gloss": "andandikholwa"
     },
     {
       "surface": "לדברים",
-      "gloss": "kwamagama"
+      "gloss": "amazwi"
     },
     {
       "surface": "עד",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "אשר",
-      "gloss": "xa"
+      "gloss": "ukuba"
     },
     {
       "surface": "באתי",
@@ -33,35 +33,35 @@
     },
     {
       "surface": "ותראינה",
-      "gloss": "ndaze"
+      "gloss": "aza kubona"
     },
     {
       "surface": "עיני",
-      "gloss": "amehlo am abona"
+      "gloss": "amehlo am"
     },
     {
       "surface": "והנה",
-      "gloss": "nanga-anga"
+      "gloss": "kwaye nangona"
     },
     {
       "surface": "לא",
-      "gloss": "andi-"
+      "gloss": "akukho"
     },
     {
       "surface": "הגד",
-      "gloss": "sasaziswanga"
+      "gloss": "kutshiwo"
     },
     {
       "surface": "לי",
-      "gloss": "ndi-"
+      "gloss": "kum"
     },
     {
       "surface": "החצי",
-      "gloss": "isiqingatha"
+      "gloss": "nesiqingatha"
     },
     {
       "surface": "הוספת",
-      "gloss": "wandongezelela"
+      "gloss": "wongeze"
     },
     {
       "surface": "חכמה",
@@ -69,21 +69,25 @@
     },
     {
       "surface": "וטוב",
-      "gloss": "nolonwabela"
+      "gloss": "nolonwabo"
     },
     {
       "surface": "אל",
-      "gloss": "ngaphezu"
+      "gloss": "ngaphezu kwe-"
     },
     {
       "surface": "השמועה",
-      "gloss": "kwindaba"
+      "gloss": "nkcazelo"
     },
     {
       "surface": "אשר",
-      "gloss": "endandiyive"
+      "gloss": "endingi-"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "vayo"
     }
   ],
-  "timestamp": "2026-09-18T10:20:25.184101295Z",
+  "timestamp": "2026-09-18T18:38:11.004086131Z",
   "model": "glm-5.3"
 }

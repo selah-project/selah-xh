@@ -5,39 +5,40 @@
   "book": "jeremiah",
   "lang": "xh",
   "chapter": 16,
-  "translation": "Uthe kuni: Ngokuba oo bawo benu bandishiye mna, uthe uYahwe, bahamba emva koothixo abanye, babakhonza, bachazela kubo; ⟨את⟩ mna nabo bandishiye, ⟩את⟩ iTora yam abayigcinanga.",
+  "translation": "Uza kuthetha kubo: Kuba ooyihlo bashiye ⟨את⟩ mna, uthe uYahwe, bahamba emva koothixo abangeyo, bayakhonza, bacomba kubo; ⟨את⟩ mna bashiye, kwaye ⟨את⟩ iTora yam ayibamkhuselanga.",
   "tokens": [
     {
       "surface": "ואמרת",
-      "gloss": "Uthe kuni"
+      "gloss": "uza kuthetha"
     },
     {
       "surface": "אליהם",
-      "gloss": "kuni"
+      "gloss": "kubo"
     },
     {
       "surface": "על",
-      "gloss": "Ngokuba"
+      "gloss": "kuba"
     },
     {
       "surface": "אשר",
-      "gloss": "ukuba"
+      "gloss": "oko"
     },
     {
       "surface": "עזבו",
-      "gloss": "bandishiye"
+      "gloss": "bashiye"
     },
     {
       "surface": "אבותיכם",
-      "gloss": "oo bawo benu"
+      "gloss": "ooyihlo"
     },
     {
       "surface": "אותי",
-      "gloss": "⟨את⟩ mna"
+      "gloss": "⟨את⟩",
+      "marks": "mna"
     },
     {
       "surface": "נאם",
-      "gloss": "ute"
+      "gloss": "uthe"
     },
     {
       "surface": "יהוה",
@@ -49,7 +50,7 @@
     },
     {
       "surface": "אחרי",
-      "gloss": "emva kwe"
+      "gloss": "emva"
     },
     {
       "surface": "אלהים",
@@ -57,15 +58,15 @@
     },
     {
       "surface": "אחרים",
-      "gloss": "abanye"
+      "gloss": "abangeyo"
     },
     {
       "surface": "ויעבדום",
-      "gloss": "babakhonza"
+      "gloss": "bayakhonza"
     },
     {
       "surface": "וישתחוו",
-      "gloss": "bachazela"
+      "gloss": "bacomba"
     },
     {
       "surface": "להם",
@@ -73,11 +74,12 @@
     },
     {
       "surface": "ואתי",
-      "gloss": "⟨את⟩ mna nabo"
+      "gloss": "⟨את⟩",
+      "marks": "mna"
     },
     {
       "surface": "עזבו",
-      "gloss": "bandishiye"
+      "gloss": "bashiye"
     },
     {
       "surface": "ואת",
@@ -90,13 +92,13 @@
     },
     {
       "surface": "לא",
-      "gloss": "abayi-"
+      "gloss": "ayi-"
     },
     {
       "surface": "שמרו",
-      "gloss": "gcinanga"
+      "gloss": "-bamkhuselanga"
     }
   ],
-  "timestamp": "2026-09-18T12:07:54.572242615Z",
+  "timestamp": "2026-09-18T18:49:08.114875457Z",
   "model": "glm-5.3"
 }

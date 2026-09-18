@@ -5,15 +5,15 @@
   "book": "psalms",
   "lang": "xh",
   "chapter": 139,
-  "translation": "Ndiyakudumisa, kuba ndenziwe ngokoyikisayo, ndihlukanisiwe; imisebenzi yakho imangalisa, nomphefumlo wam uyayazi oko kakuhle.",
+  "translation": "Ndiya kukudumisa, kuba ndidalwe ngokoyikisayo ⟨nokumangalisa⟩; imimangaliso ngemisebenzi yakho, kananjalo umphefumlo wam uyayazi oko ngokwenene.",
   "tokens": [
     {
       "surface": "אודך",
-      "gloss": "ndiyakudumisa"
+      "gloss": "ndiya kukudumisa"
     },
     {
       "surface": "על",
-      "gloss": ""
+      "gloss": "kuba"
     },
     {
       "surface": "כי",
@@ -25,19 +25,19 @@
     },
     {
       "surface": "נפליתי",
-      "gloss": "ndihlukanisiwe"
+      "gloss": "ndidalwe"
     },
     {
       "surface": "נפלאים",
-      "gloss": "imangalisa"
+      "gloss": "imimangaliso"
     },
     {
       "surface": "מעשיך",
-      "gloss": "imisebenzi yakho"
+      "gloss": "ngemisebenzi yakho"
     },
     {
       "surface": "ונפשי",
-      "gloss": "nomphefumlo wam"
+      "gloss": "kananjalo umphefumlo wam"
     },
     {
       "surface": "ידעת",
@@ -45,9 +45,9 @@
     },
     {
       "surface": "מאד",
-      "gloss": "kakuhle kakhulu"
+      "gloss": "ngokwenene"
     }
   ],
-  "timestamp": "2026-09-18T15:31:30.045573036Z",
+  "timestamp": "2026-09-18T18:55:08.367960208Z",
   "model": "glm-5.3"
 }

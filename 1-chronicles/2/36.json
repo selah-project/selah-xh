@@ -5,7 +5,7 @@
   "book": "1-chronicles",
   "lang": "xh",
   "chapter": 2,
-  "translation": "U-Attayi wazala ⟨את uNathani; uNathani wazala ⟨את⟩ uZabadi.",
+  "translation": "U-Attayi wazala ⟨את⟩ uNatani, uNatani wazala ⟨את⟩ uZavadi.",
   "tokens": [
     {
       "surface": "ועתי",
@@ -18,15 +18,15 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "uNathani"
+      "marks": "uNatani"
     },
     {
       "surface": "נתן",
-      "gloss": "uNathani"
+      "gloss": "uNatani"
     },
     {
       "surface": "ונתן",
-      "gloss": "uNathani"
+      "gloss": "uNatani"
     },
     {
       "surface": "הוליד",
@@ -35,13 +35,13 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "uZabadi"
+      "marks": "uZavadi"
     },
     {
       "surface": "זבד",
-      "gloss": "uZabadi"
+      "gloss": "uZavadi"
     }
   ],
-  "timestamp": "2026-09-18T16:50:48.454336080Z",
+  "timestamp": "2026-09-18T18:37:17.636187796Z",
   "model": "glm-5.3"
 }

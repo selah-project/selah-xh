@@ -5,7 +5,7 @@
   "book": "leviticus",
   "lang": "xh",
   "chapter": 25,
-  "translation": "Kuba iinkonza zam zona, ndazikhupha ⟨אתם⟩ ezweni laseMitsrayim; akuthengiswa ngomthengiso wesicaka.",
+  "translation": "Kuba ngabakhonzi bam abo, ndabakhupha ⟨את⟩ esuka elwabini leMitsrayim; abathengiswa ngokuthengiswa komkhonzi.",
   "tokens": [
     {
       "surface": "כי",
@@ -13,50 +13,50 @@
     },
     {
       "surface": "עבדי",
-      "gloss": "iinkonza zam"
+      "gloss": "ngabakhonzi bam"
     },
     {
       "surface": "הם",
-      "gloss": "zona"
+      "gloss": "abo"
     },
     {
       "surface": "אשר",
-      "gloss": "ndazikhupha"
-    },
-    {
-      "surface": "הוצאתי",
       "gloss": ""
     },
     {
+      "surface": "הוצאתי",
+      "gloss": "ndabakhupha"
+    },
+    {
       "surface": "אתם",
-      "gloss": "⟨אתם⟩",
-      "marks": "iinkonza zam"
+      "gloss": "⟨את⟩",
+      "marks": "bona"
     },
     {
       "surface": "מארץ",
-      "gloss": "ezweni"
+      "gloss": "elwabini"
     },
     {
       "surface": "מצרים",
-      "gloss": "laseMitsrayim"
+      "gloss": "iMitsrayim"
     },
     {
       "surface": "לא",
-      "gloss": "aku"
+      "gloss": "akunanga—"
     },
     {
       "surface": "ימכרו",
-      "gloss": "thengiswa"
+      "gloss": "abathengiswa"
     },
     {
       "surface": "ממכרת",
-      "gloss": "ngomthengiso"
+      "gloss": "ngokuthengiswa"
     },
     {
       "surface": "עבד",
-      "gloss": "wesicaka"
+      "gloss": "komkhonzi"
     }
   ],
-  "timestamp": "2026-09-18T07:05:24.080465908Z",
+  "timestamp": "2026-09-18T18:53:01.544398892Z",
   "model": "glm-5.3"
 }

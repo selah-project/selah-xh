@@ -5,15 +5,15 @@
   "book": "exodus",
   "lang": "xh",
   "chapter": 31,
-  "translation": "Waza wanika uMoshe, esigqibile ukuthetha ⟨את⟩ naye entabeni iSina, iitafile ezimbini zengxelo, iitafile zilitye, ezibhaliweyo ngomcelwe kaElohim.",
+  "translation": "Waza wabanika uMoshe, ekugqibeleni kwakhe ukuthetha ⟨את⟩ naye entabeni iSina, iitafile ezimbini zengqineliso, iitafile zilitye, ezibhaliweyo ngumnwe kaElohim.",
   "tokens": [
     {
       "surface": "ויתן",
-      "gloss": "waza wanika"
+      "gloss": "wabanika"
     },
     {
       "surface": "אל",
-      "gloss": ""
+      "gloss": "ku"
     },
     {
       "surface": "משה",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "ככלתו",
-      "gloss": "esigqibile"
+      "gloss": "ekugqibeleni kwakhe"
     },
     {
       "surface": "לדבר",
@@ -29,7 +29,8 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ naye"
+      "gloss": "⟨את⟩ naye",
+      "marks": "uMoshe"
     },
     {
       "surface": "בהר",
@@ -49,7 +50,7 @@
     },
     {
       "surface": "העדת",
-      "gloss": "zengxelo"
+      "gloss": "zengqineliso"
     },
     {
       "surface": "לחת",
@@ -65,13 +66,13 @@
     },
     {
       "surface": "באצבע",
-      "gloss": "ngomcelwe"
+      "gloss": "ngumunwe"
     },
     {
       "surface": "אלהים",
       "gloss": "kaElohim"
     }
   ],
-  "timestamp": "2026-09-18T06:21:15.452172165Z",
+  "timestamp": "2026-09-18T18:44:36.376555856Z",
   "model": "glm-5.3"
 }

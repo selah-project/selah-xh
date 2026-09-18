@@ -5,19 +5,19 @@
   "book": "2-samuel",
   "lang": "xh",
   "chapter": 21,
-  "translation": "Ukumkani wamkelela kuMefibosheti unyana kaYehonatan unyana kaShawuli, ngenxa yesifungo kaYahwe owawuphakathi kwabo, phakathi kukaDavide noYehonatan unyana kaShawuli.",
+  "translation": "Inkosi yamkelelisa uMefibosheti, unyana kaYehonatana unyana kaShawuli, ngenxa yomnqophiso kaYahwe owaba phakathi kwabo, phakathi kaDavide noYehonatana unyana kaShawuli.",
   "tokens": [
     {
       "surface": "ויחמל",
-      "gloss": "wamkelela"
+      "gloss": "yamkelelisa"
     },
     {
       "surface": "המלך",
-      "gloss": "ukumkani"
+      "gloss": "inkosi"
     },
     {
       "surface": "על",
-      "gloss": "ku"
+      "gloss": "nga-"
     },
     {
       "surface": "מפי",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "בשת",
-      "gloss": ""
+      "gloss": "Mefibosheti"
     },
     {
       "surface": "בן",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "יהונתן",
-      "gloss": "kaYehonatan"
+      "gloss": "kaYehonatana"
     },
     {
       "surface": "בן",
@@ -49,7 +49,7 @@
     },
     {
       "surface": "שבעת",
-      "gloss": "yesifungo"
+      "gloss": "yomnqophiso"
     },
     {
       "surface": "יהוה",
@@ -61,7 +61,7 @@
     },
     {
       "surface": "בינתם",
-      "gloss": "owawuphakathi kwabo"
+      "gloss": "phakathi kwabo"
     },
     {
       "surface": "בין",
@@ -69,15 +69,15 @@
     },
     {
       "surface": "דוד",
-      "gloss": "kukaDavide"
+      "gloss": "kaDavide"
     },
     {
       "surface": "ובין",
-      "gloss": "nophakathi"
+      "gloss": "no-"
     },
     {
       "surface": "יהונתן",
-      "gloss": "kukaYehonatan"
+      "gloss": "uYehonatana"
     },
     {
       "surface": "בן",
@@ -88,6 +88,6 @@
       "gloss": "kaShawuli"
     }
   ],
-  "timestamp": "2026-09-18T10:02:38.563933140Z",
+  "timestamp": "2026-09-18T18:41:22.494959199Z",
   "model": "glm-5.3"
 }

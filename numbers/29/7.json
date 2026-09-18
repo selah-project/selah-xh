@@ -5,8 +5,70 @@
   "book": "numbers",
   "lang": "xh",
   "chapter": 29,
-  "translation": "Kwisishumu kolwesiwe lubandakanyo",
-  "tokens": [],
-  "timestamp": "2026-09-18T07:42:04.364709557Z",
+  "translation": "Kwaye ngomhla we-10 kwinyanga yesixhenxe le, kuya kuba nalindlela yokubizelwa kwangcwele kuni, niza kuzincedeleta ⟨את⟩ iimphefumlo zenu; akukho msebenzi nisayakwenza.",
+  "tokens": [
+    {
+      "surface": "ובעשור",
+      "gloss": "kwaye ngomhla we-10"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "kwinyanga"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "yesixhenxe"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "le"
+    },
+    {
+      "surface": "מקרא",
+      "gloss": "indlela yokubizelwa"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "kwangcwele"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "kuya kuba nani"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kuni"
+    },
+    {
+      "surface": "ועניתם",
+      "gloss": "niza kuzincedeleta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iimphefumlo zenu"
+    },
+    {
+      "surface": "נפשתיכם",
+      "gloss": "iimphefumlo zenu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akukho…nayiphi na"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "msebenzi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "musani"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "ukwenza"
+    }
+  ],
+  "timestamp": "2026-09-18T18:54:32.255578950Z",
   "model": "glm-5.3"
 }

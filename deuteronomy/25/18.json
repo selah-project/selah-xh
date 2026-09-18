@@ -5,11 +5,11 @@
   "book": "deuteronomy",
   "lang": "xh",
   "chapter": 25,
-  "translation": "endlela wakudibana nawe endleleni, wacula onke abangenamandla ngasemva kwakho, ngelixa wena udangele nodangele; yaye wayengamoyiki uElohim.",
+  "translation": "ukuba wakudibana nawe endlela, wazinukela onke abangamandla ngasemva kwakho, kodwa wena ubumdangele, uncatshulwe, yena akamoyikanga uElohim.",
   "tokens": [
     {
       "surface": "אשר",
-      "gloss": "endlela"
+      "gloss": "ukuba"
     },
     {
       "surface": "קרך",
@@ -17,15 +17,15 @@
     },
     {
       "surface": "בדרך",
-      "gloss": "endleleni"
+      "gloss": "endlela"
     },
     {
       "surface": "ויזנב",
-      "gloss": "wacula"
+      "gloss": "wazinukela"
     },
     {
       "surface": "בך",
-      "gloss": ""
+      "gloss": "kuwe"
     },
     {
       "surface": "כל",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "הנחשלים",
-      "gloss": "abangenamandla"
+      "gloss": "abangamandla"
     },
     {
       "surface": "אחריך",
@@ -41,29 +41,29 @@
     },
     {
       "surface": "ואתה",
-      "gloss": "wena"
+      "gloss": "kodwa wena"
     },
     {
       "surface": "עיף",
-      "gloss": "udangele"
+      "gloss": "umdangele"
     },
     {
       "surface": "ויגע",
-      "gloss": "nodangele"
+      "gloss": "uncatshulwe"
     },
     {
       "surface": "ולא",
-      "gloss": "yaye ... anga-"
+      "gloss": "hayi"
     },
     {
       "surface": "ירא",
-      "gloss": "-moyiki"
+      "gloss": "wamoyika"
     },
     {
       "surface": "אלהים",
       "gloss": "uElohim"
     }
   ],
-  "timestamp": "2026-09-18T08:15:03.604218623Z",
+  "timestamp": "2026-09-18T18:42:53.161652297Z",
   "model": "glm-5.3"
 }

@@ -5,8 +5,33 @@
   "book": "psalms",
   "lang": "xh",
   "chapter": 18,
-  "translation": "Oo-oyabi bakhe, wanika umzeko wakhe iindawo zoku-oyabi ukuba atshabalalise abo abazithiyayo.",
-  "tokens": [],
-  "timestamp": "2026-09-18T14:33:18.751951594Z",
+  "translation": "Kwaye oo-oyabi bam: wawundinika iindlebe zabo ← uye wabawisa emva, waza abazalwana bam abandithandayo—ndaza ndabatshabalalisa ngokupheleleyo.",
+  "tokens": [
+    {
+      "surface": "וְֽאֹיְבַ֗י",
+      "gloss": "kwaye oo-oyabi bam"
+    },
+    {
+      "surface": "נָתַ֣תָּה",
+      "gloss": "wawundinika"
+    },
+    {
+      "surface": "לִּ֣י",
+      "gloss": ""
+    },
+    {
+      "surface": "עֹ֑רֶף",
+      "gloss": "iindlebe zabo ← uye wabawisa emva"
+    },
+    {
+      "surface": "וּ֝מְשַׂנְאַ֗י",
+      "gloss": "abazalwana bam abandithandayo"
+    },
+    {
+      "surface": "אַצְמִיתֵֽם",
+      "gloss": "ndaza ndabatshabalalisa"
+    }
+  ],
+  "timestamp": "2026-09-18T18:55:07.700199396Z",
   "model": "glm-5.3"
 }

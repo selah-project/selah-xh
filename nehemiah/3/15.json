@@ -5,12 +5,12 @@
   "book": "nehemiah",
   "lang": "xh",
   "chapter": 3,
-  "translation": "Nangesinye ⟨את⟩ isango somthombo wasisinqinisa uShaluni unyana kaKol-Hozehi, isikhulu sesigaba seMitspa; yena wasakha, waphahla ngaso, bamisa iingcango zaso, izitshixo zaso neebhari zaso; nangezona ⟨את⟩ udonga lwedama leShelahi, eladini lenkosi, nade kumananyathelo ehlayo esixekwenini sikaDawidi.",
+  "translation": "Kananjalo ⟨את⟩ isango sechibi samenza ngamandla uShaluni, unyana kaKol-Chozehi, isikhulu wommandla weHaMitsfah; yena yakuwakhela, yakuwambekela, wamisela iinkuni zawo, izitshixo zawo, nezinti zawo; kananjalo ⟨את⟩ udonga lwechibi leShelahi, ukuya ethafileni likankosi, nokuze kufike kwiindlela eziphakamileyo eziyahla esixekwenini kaDawidi.",
   "tokens": [
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "isango somthombo"
+      "marks": "isango sechibi"
     },
     {
       "surface": "שער",
@@ -18,11 +18,11 @@
     },
     {
       "surface": "העין",
-      "gloss": "somthombo"
+      "gloss": "sechibi"
     },
     {
       "surface": "החזיק",
-      "gloss": "wasisinqinisa"
+      "gloss": "wamenza ngamandla"
     },
     {
       "surface": "שלון",
@@ -34,11 +34,11 @@
     },
     {
       "surface": "כל",
-      "gloss": "kaKol-Hozehi"
+      "gloss": "kaKol-"
     },
     {
       "surface": "חזה",
-      "gloss": ""
+      "gloss": "-Chozehi"
     },
     {
       "surface": "שר",
@@ -46,11 +46,11 @@
     },
     {
       "surface": "פלך",
-      "gloss": "sesigaba"
+      "gloss": "wommandla"
     },
     {
       "surface": "המצפה",
-      "gloss": "seMitspa"
+      "gloss": "weHaMitsfah"
     },
     {
       "surface": "הוא",
@@ -58,32 +58,32 @@
     },
     {
       "surface": "יבננו",
-      "gloss": "wasakha"
+      "gloss": "yakuwakhela"
     },
     {
       "surface": "ויטללנו",
-      "gloss": "waphahla ngaso"
+      "gloss": "yakuwambekela"
     },
     {
       "surface": "ויעמידו",
-      "gloss": "bamisa"
+      "gloss": "wamisela"
     },
     {
       "surface": "דלתתיו",
-      "gloss": "iingcango zaso"
+      "gloss": "iinkuni zawo"
     },
     {
       "surface": "מנעליו",
-      "gloss": "izitshixo zaso"
+      "gloss": "izitshixo zawo"
     },
     {
       "surface": "ובריחיו",
-      "gloss": "neebhari zaso"
+      "gloss": "nezinti zawo"
     },
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "udonga lwedama leShelahi"
+      "marks": "udonga"
     },
     {
       "surface": "חומת",
@@ -91,7 +91,7 @@
     },
     {
       "surface": "ברכת",
-      "gloss": "lwedama"
+      "gloss": "lwechibi"
     },
     {
       "surface": "השלח",
@@ -99,23 +99,23 @@
     },
     {
       "surface": "לגן",
-      "gloss": "eladini"
+      "gloss": "ukuya ethafileni"
     },
     {
       "surface": "המלך",
-      "gloss": "lenkosi"
+      "gloss": "likankosi"
     },
     {
       "surface": "ועד",
-      "gloss": "nade"
+      "gloss": "nokuze kufike"
     },
     {
       "surface": "המעלות",
-      "gloss": "kumananyathelo"
+      "gloss": "kwiindlela eziphakamileyo"
     },
     {
       "surface": "היורדות",
-      "gloss": "ehlayo"
+      "gloss": "eziyahla"
     },
     {
       "surface": "מעיר",
@@ -123,9 +123,9 @@
     },
     {
       "surface": "דויד",
-      "gloss": "sikaDawidi"
+      "gloss": "kaDawidi"
     }
   ],
-  "timestamp": "2026-09-18T16:45:18.896610855Z",
+  "timestamp": "2026-09-18T18:53:58.952634588Z",
   "model": "glm-5.3"
 }

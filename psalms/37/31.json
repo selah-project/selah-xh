@@ -5,8 +5,33 @@
   "book": "psalms",
   "lang": "xh",
   "chapter": 37,
-  "translation": "ITora kaElohim yakhe ilelintliziyo yakhe; iingxolo zakhe azisi kumathambeka.",
-  "tokens": [],
-  "timestamp": "2026-09-18T14:42:39.271307659Z",
+  "translation": "iTora ka-Elohim wakhe ilele eluntliziyweni lakhe; amanyathelo akhe awadangisi.",
+  "tokens": [
+    {
+      "surface": "תורת",
+      "gloss": "iTora"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "ka-Elohim wakhe"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "eluntliziyweni lakhe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hayi"
+    },
+    {
+      "surface": "תמעד",
+      "gloss": "awadangisi"
+    },
+    {
+      "surface": "אשריו",
+      "gloss": "amanyathelo akhe"
+    }
+  ],
+  "timestamp": "2026-09-18T18:55:23.976418974Z",
   "model": "glm-5.3"
 }

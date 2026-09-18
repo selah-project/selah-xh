@@ -5,8 +5,89 @@
   "book": "leviticus",
   "lang": "xh",
   "chapter": 6,
-  "translation": "IMiliso ethe altar — élo mthwalo ucacisiweyo: iMiliso ese-altar iya kutshisa kuwo, ayizukhwanyiswa; umpriest uza kuthwala iinkuni phezu kwayo ekuseni ekuseni, aze alungiselele phezu kwayo i burnt offering, atshise phezu kwayo i amafutha e peace offerings.",
-  "tokens": [],
-  "timestamp": "2026-09-18T06:37:32.997608065Z",
+  "translation": "UMlilo phezu kwesibinga uya kutsha kuwo, awunakucima; umfundisi uza kubasa izinti phezu kwawo ekuseni ngokwekuseni, aza kulungeka phezu kwawo umnikelo wokutshiswa, aza kuthungela phezu kwawo amafutha ezipho zoxolo.",
+  "tokens": [
+    {
+      "surface": "והאש",
+      "gloss": "uMlilo"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "kwesibinga"
+    },
+    {
+      "surface": "תוקד",
+      "gloss": "uya kutsha"
+    },
+    {
+      "surface": "בו",
+      "gloss": "kuwo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hayi"
+    },
+    {
+      "surface": "תכבה",
+      "gloss": "unakucima"
+    },
+    {
+      "surface": "ובער",
+      "gloss": "uza kubasa"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "phezu"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "umfundisi"
+    },
+    {
+      "surface": "עצים",
+      "gloss": "izinti"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "ekuseni"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "ngokwekuseni"
+    },
+    {
+      "surface": "וערך",
+      "gloss": "aza kulungeka"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "phezu kwawo"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "umnikelo wokutshiswa"
+    },
+    {
+      "surface": "והקטיר",
+      "gloss": "aza kuthungela"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "phezu kwawo"
+    },
+    {
+      "surface": "חלבי",
+      "gloss": "amafutha"
+    },
+    {
+      "surface": "השלמים",
+      "gloss": "eezipho zoxolo"
+    }
+  ],
+  "timestamp": "2026-09-18T18:53:29.400157205Z",
   "model": "glm-5.3"
 }

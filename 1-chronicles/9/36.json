@@ -5,8 +5,41 @@
   "book": "1-chronicles",
   "lang": "xh",
   "chapter": 9,
-  "translation": "Unyana wakhe wokuqala uAbdon, kananjalo uTsuri, uKishi, uBhali, uNeri, noNadhabhi.",
-  "tokens": [],
-  "timestamp": "2026-09-18T16:54:02.886840409Z",
+  "translation": "Unyana wakhe wamazala ngu-Abdoni, noTsuri, noKishi, noBhali, noNeri, noNadhabhi.",
+  "tokens": [
+    {
+      "surface": "ובנו",
+      "gloss": "Unyana wakhe"
+    },
+    {
+      "surface": "הבכור",
+      "gloss": "wamazala"
+    },
+    {
+      "surface": "עבדון",
+      "gloss": "u-Abdoni"
+    },
+    {
+      "surface": "וצור",
+      "gloss": "noTsuri"
+    },
+    {
+      "surface": "וקיש",
+      "gloss": "noKishi"
+    },
+    {
+      "surface": "ובעל",
+      "gloss": "noBhali"
+    },
+    {
+      "surface": "ונר",
+      "gloss": "noNeri"
+    },
+    {
+      "surface": "ונדב",
+      "gloss": "noNadhabhi"
+    }
+  ],
+  "timestamp": "2026-09-18T18:37:22.759521953Z",
   "model": "glm-5.3"
 }

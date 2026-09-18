@@ -5,11 +5,11 @@
   "book": "genesis",
   "lang": "xh",
   "chapter": 20,
-  "translation": "Waze kwathi, xa uElohim wandishiya ndizula endlwini kabawo, ndathi kuye: “Olu ⟨⟨luli⟩⟩ lukhesedi lwakho oluya kulwenza nam: kule yonke indawo esiya kuyo, yithi kum: ‘Yena ngumfowethu.’”",
+  "translation": "Kwenzekile ukuba, xa uElohim wandulula ⟨את⟩ ndiduka endlwini yabawo, ndathi kuye: “Yile ikhesedi okuza kundenza yona: kwindawo yonke esiya kuyo, yithi ndingumfowenu.”",
   "tokens": [
     {
       "surface": "ויהי",
-      "gloss": "kwathi"
+      "gloss": "kwenzekile"
     },
     {
       "surface": "כאשר",
@@ -17,12 +17,12 @@
     },
     {
       "surface": "התעו",
-      "gloss": "wandishiya ndizula"
+      "gloss": "wandulula ndiduka"
     },
     {
       "surface": "אתי",
       "gloss": "⟨את⟩",
-      "marks": "uElohim"
+      "marks": "mna"
     },
     {
       "surface": "אלהים",
@@ -34,7 +34,7 @@
     },
     {
       "surface": "אבי",
-      "gloss": "kabawo"
+      "gloss": "yabawo"
     },
     {
       "surface": "ואמר",
@@ -46,19 +46,19 @@
     },
     {
       "surface": "זה",
-      "gloss": "olu"
+      "gloss": "yile"
     },
     {
       "surface": "חסדך",
-      "gloss": "lukhesedi lwakho"
+      "gloss": "ikhesedi yakho"
     },
     {
       "surface": "אשר",
-      "gloss": ""
+      "gloss": "oku"
     },
     {
       "surface": "תעשי",
-      "gloss": "oluya kulwenza"
+      "gloss": "za kundenza"
     },
     {
       "surface": "עמדי",
@@ -66,7 +66,7 @@
     },
     {
       "surface": "אל",
-      "gloss": "kule"
+      "gloss": "ku"
     },
     {
       "surface": "כל",
@@ -78,15 +78,15 @@
     },
     {
       "surface": "אשר",
-      "gloss": ""
+      "gloss": "esiya"
     },
     {
       "surface": "נבוא",
-      "gloss": "esiya kuyo"
+      "gloss": "kuyo"
     },
     {
       "surface": "שמה",
-      "gloss": ""
+      "gloss": "khon'"
     },
     {
       "surface": "אמרי",
@@ -94,17 +94,17 @@
     },
     {
       "surface": "לי",
-      "gloss": "kum"
+      "gloss": "ndingumfowenu"
     },
     {
       "surface": "אחי",
-      "gloss": "ngumfowethu"
+      "gloss": "umfowenu"
     },
     {
       "surface": "הוא",
       "gloss": "yena"
     }
   ],
-  "timestamp": "2026-09-18T05:19:52.476263409Z",
+  "timestamp": "2026-09-18T18:47:25.326957813Z",
   "model": "glm-5.3"
 }

@@ -5,8 +5,41 @@
   "book": "deuteronomy",
   "lang": "xh",
   "chapter": 3,
-  "translation": "AmaTsidoni ayabiza iHermon Shiriyoni, ukle Aemori ayayibiza Sheniri.",
-  "tokens": [],
-  "timestamp": "2026-09-18T07:54:00.061086876Z",
+  "translation": "ooTsidoni babiza uKhermon ⟨ngokuthi⟩ iShiriyon, kananjalo amaEmori babiza yena ⟨ngokuthi⟩ iSheniyiri.",
+  "tokens": [
+    {
+      "surface": "צידנים",
+      "gloss": "ooTsidoni"
+    },
+    {
+      "surface": "יקראו",
+      "gloss": "babiza"
+    },
+    {
+      "surface": "לחרמון",
+      "gloss": "uKhermon"
+    },
+    {
+      "surface": "שרין",
+      "gloss": "iShiriyon"
+    },
+    {
+      "surface": "והאמרי",
+      "gloss": "kananjalo amaEmori"
+    },
+    {
+      "surface": "יקראו",
+      "gloss": "babiza"
+    },
+    {
+      "surface": "לו",
+      "gloss": "yena"
+    },
+    {
+      "surface": "שניר",
+      "gloss": "iSheniyiri"
+    }
+  ],
+  "timestamp": "2026-09-18T18:43:00.910668220Z",
   "model": "glm-5.3"
 }

@@ -5,20 +5,20 @@
   "book": "ezekiel",
   "lang": "xh",
   "chapter": 20,
-  "translation": "Ndazimdelisa ngezipho zabo, ekudluliseni bonke abavulekayo isibebe, ukuze ndazitshabalalisa, ukuze bazazi ukuba mna ndinguYahwe.",
+  "translation": "Ndabazingcolisa ⟨את⟩ ngezabelo zabo, ekudluliseni konke okuvula isisu, ukuze ndibatshonise, ukuze bazi ukuba mna ndinguYahwe.",
   "tokens": [
     {
       "surface": "ואטמא",
-      "gloss": "ndazimdelisa"
+      "gloss": "Ndabazingcolisa"
     },
     {
       "surface": "אותם",
       "gloss": "⟨את⟩",
-      "marks": "e zona (izityalwa)"
+      "marks": "ngezabelo zabo"
     },
     {
       "surface": "במתנותם",
-      "gloss": "ngezipho zabo"
+      "gloss": "ngezabelo zabo"
     },
     {
       "surface": "בהעביר",
@@ -26,15 +26,15 @@
     },
     {
       "surface": "כל",
-      "gloss": "bonke"
+      "gloss": "konke"
     },
     {
       "surface": "פטר",
-      "gloss": "abavulekayo"
+      "gloss": "okuvula"
     },
     {
       "surface": "רחם",
-      "gloss": "isibebe"
+      "gloss": "isisu"
     },
     {
       "surface": "למען",
@@ -42,7 +42,7 @@
     },
     {
       "surface": "אשמם",
-      "gloss": "ndazitshabalalisa"
+      "gloss": "ndibatshonise"
     },
     {
       "surface": "למען",
@@ -50,11 +50,11 @@
     },
     {
       "surface": "אשר",
-      "gloss": ""
+      "gloss": "ukuba"
     },
     {
       "surface": "ידעו",
-      "gloss": "bazazi"
+      "gloss": "bazi"
     },
     {
       "surface": "אשר",
@@ -66,9 +66,9 @@
     },
     {
       "surface": "יהוה",
-      "gloss": "ndinguYahwe"
+      "gloss": "uYahwe"
     }
   ],
-  "timestamp": "2026-09-18T13:11:06.685196920Z",
+  "timestamp": "2026-09-18T18:57:18.831370116Z",
   "model": "glm-5.3"
 }

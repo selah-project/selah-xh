@@ -5,15 +5,15 @@
   "book": "deuteronomy",
   "lang": "xh",
   "chapter": 6,
-  "translation": "uYahhe wasiyalela ukwenza ⟨את⟩ zonke la micholo, ukoyika ⟨את⟩ uYahwe uElohim wethu, kube lulungelo kuthi yonke imihla, usigcine elinye, njengale mihla.",
+  "translation": "Wasiyala uYahwe ukwenza ⟨את⟩ wonke la michazo, ukoyika uYahwe uElohim wethu, <inkcazelo>okulungileyo<\/inkcazelo> kuthi yonke iintsuku, ukusigcina <i>phila<\/i> njengangale ntsimbi.",
   "tokens": [
     {
       "surface": "ויצונו",
-      "gloss": "wasiyalela"
+      "gloss": "Wasiyala"
     },
     {
       "surface": "יהוה",
-      "gloss": "uYahhe"
+      "gloss": "uYahwe"
     },
     {
       "surface": "לעשות",
@@ -22,15 +22,15 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "zonke la micholo"
+      "marks": "wonke la michazo"
     },
     {
       "surface": "כל",
-      "gloss": "zonke"
+      "gloss": "wonke"
     },
     {
       "surface": "החקים",
-      "gloss": "la micholo"
+      "gloss": "la michazo"
     },
     {
       "surface": "האלה",
@@ -47,7 +47,7 @@
     },
     {
       "surface": "יהוה",
-      "gloss": "uYahhe"
+      "gloss": "uYahwe"
     },
     {
       "surface": "אלהינו",
@@ -55,7 +55,7 @@
     },
     {
       "surface": "לטוב",
-      "gloss": "kube lulungelo"
+      "gloss": "okulungileyo"
     },
     {
       "surface": "לנו",
@@ -67,21 +67,21 @@
     },
     {
       "surface": "הימים",
-      "gloss": "imihla"
+      "gloss": "iintsuku"
     },
     {
       "surface": "לחיתנו",
-      "gloss": "usigcine elinye"
+      "gloss": "ukusigcina phila"
     },
     {
       "surface": "כהיום",
-      "gloss": "njengale"
+      "gloss": "njengangale ntsimbi"
     },
     {
       "surface": "הזה",
-      "gloss": "mihla"
+      "gloss": "le"
     }
   ],
-  "timestamp": "2026-09-18T07:58:59.209678697Z",
+  "timestamp": "2026-09-18T18:44:06.510899209Z",
   "model": "glm-5.3"
 }

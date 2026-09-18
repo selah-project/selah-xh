@@ -5,24 +5,24 @@
   "book": "deuteronomy",
   "lang": "xh",
   "chapter": 12,
-  "translation": "Nitsho nitshabalalise ngokupheleleyo ⟨את⟩ onke iindawo apho iintlanga eziniza ukuzithwala zonke ezo zininkonza ngokwenene oothixo azo, phezu kweentaba eziphakamileyo nas phezu kweenduli, naphantsi komthi omnyama ngamalwabi.",
+  "translation": "Niza kuzitshabalalisa ngokupheleleyo ⟨את⟩ zonke iindawo apho iintlanga eniza kuzithabatha khona <yazo> zasebenzela ⟨את⟩ oothixo zabo, phezu kweentaba eziphakamileyo, nakwiinduli, naphantsi komthi wonke owahlaziyekileyo:",
   "tokens": [
     {
       "surface": "אבד",
-      "gloss": "Nitsho nitshabalalise"
+      "gloss": "zitshabalalise"
     },
     {
       "surface": "תאבדון",
-      "gloss": "ngokupheleleyo"
+      "gloss": "niza kuzitshabalalisa ngokupheleleyo"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "onke iindawo"
+      "marks": "zonke iindawo"
     },
     {
       "surface": "כל",
-      "gloss": "onke"
+      "gloss": "zonke"
     },
     {
       "surface": "המקמות",
@@ -34,7 +34,7 @@
     },
     {
       "surface": "עבדו",
-      "gloss": "azininkonza"
+      "gloss": "zasebenzela"
     },
     {
       "surface": "שם",
@@ -46,37 +46,37 @@
     },
     {
       "surface": "אשר",
-      "gloss": "ezi-"
+      "gloss": "eniza kuzithabatha"
     },
     {
       "surface": "אתם",
-      "gloss": "ni"
+      "gloss": "yazo"
     },
     {
       "surface": "ירשים",
-      "gloss": "zithwala zonke"
+      "gloss": "niza kuzithabatha"
     },
     {
       "surface": "אתם",
       "gloss": "⟨את⟩",
-      "marks": "ezo iintlanga"
+      "marks": "iintlanga (eniza kuzithabatha)"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "oothixo azo"
+      "marks": "oothixo zabo"
     },
     {
       "surface": "אלהיהם",
-      "gloss": "oothixo azo"
+      "gloss": "oothixo zabo"
     },
     {
       "surface": "על",
-      "gloss": "phezu"
+      "gloss": "phezu kw"
     },
     {
       "surface": "ההרים",
-      "gloss": "kweentaba"
+      "gloss": "iintaba"
     },
     {
       "surface": "הרמים",
@@ -84,29 +84,29 @@
     },
     {
       "surface": "ועל",
-      "gloss": "nas phezu"
+      "gloss": "nakwi"
     },
     {
       "surface": "הגבעות",
-      "gloss": "kweenduli"
+      "gloss": "iinduli"
     },
     {
       "surface": "ותחת",
-      "gloss": "naphantsi"
+      "gloss": "naphantsi ko"
     },
     {
       "surface": "כל",
-      "gloss": "komthi omnyama ngamalwabi"
+      "gloss": "wonke"
     },
     {
       "surface": "עץ",
-      "gloss": ""
+      "gloss": "umthi"
     },
     {
       "surface": "רענן",
-      "gloss": "omnyama ngamalwabi"
+      "gloss": "owahlaziyekileyo"
     }
   ],
-  "timestamp": "2026-09-18T08:05:53.137140570Z",
+  "timestamp": "2026-09-18T18:43:00.727563701Z",
   "model": "glm-5.3"
 }

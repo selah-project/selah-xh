@@ -5,8 +5,62 @@
   "book": "2-kings",
   "lang": "xh",
   "chapter": 9,
-  "translation": "Waphakamisa uYehu ubuso bakhe ←…",
-  "tokens": [],
-  "timestamp": "2026-09-18T17:32:38.638179003Z",
+  "translation": "Waphakamisa ubuso bakhe kwi-⟨the⟩ifestile, wathetha wathi: “Ngubani ⟨את⟩ onam, ngubani?” Bakhangela phantsi kuye ababini abathathu iikhoboka.",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "waphakamisa"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "ubuso bakhe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "החלון",
+      "gloss": "i-⟨the⟩ifestile"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "wathetha wathi"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Ngubani"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ onam",
+      "marks": "onam (ongaphandle kwam)"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ngubani"
+    },
+    {
+      "surface": "וישקיפו",
+      "gloss": "bakhangela phantsi"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kuye"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ababini"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "abathathu"
+    },
+    {
+      "surface": "סריסים",
+      "gloss": "iikhoboka"
+    }
+  ],
+  "timestamp": "2026-09-18T18:41:00.895989672Z",
   "model": "glm-5.3"
 }

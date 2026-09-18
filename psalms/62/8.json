@@ -5,8 +5,41 @@
   "book": "psalms",
   "lang": "xh",
   "chapter": 62,
-  "translation": "KuElohim isiphephelo sam nesidima sam; ilityhe... ilitye lamsite — ilitye lamanzi lamsindwa — ilitye lamanzi: ilitye lamanzi okomkhosi lamanzi — ilitye lamanzi: ilityhe",
-  "tokens": [],
-  "timestamp": "2026-09-18T14:54:29.244552788Z",
+  "translation": "KuElohim kukho intsikelelo yam nokuzuko kwam; ⟨⟨uYahwe hayi nje⟩⟩ ḽiṱhuvi — hayi, yena yedwa: intsimbi yamandla am, nokhuseleko kwam, singuElohim.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "ישעי",
+      "gloss": "intsikelelo yam"
+    },
+    {
+      "surface": "וכבודי",
+      "gloss": "nokuzuko kwam"
+    },
+    {
+      "surface": "צור",
+      "gloss": "intsimbi"
+    },
+    {
+      "surface": "עזי",
+      "gloss": "yamandla am"
+    },
+    {
+      "surface": "מחסי",
+      "gloss": "nokhuseleko kwam"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "singuElohim"
+    }
+  ],
+  "timestamp": "2026-09-18T18:55:12.980360988Z",
   "model": "glm-5.3"
 }

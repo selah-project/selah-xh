@@ -5,7 +5,7 @@
   "book": "numbers",
   "lang": "xh",
   "chapter": 4,
-  "translation": "Oonyana bakaMerari — ngokweentsapho zabo, ngokwezindlu zooyihlo babo — uzakubabala ⟨⟨את⟩ bona⟩.",
+  "translation": "Oonyana bakaMerari — ngeempaphamo zabo, ngokweezindlu zooyise babo — uza kubabala ⟨את⟩.",
   "tokens": [
     {
       "surface": "בני",
@@ -17,25 +17,26 @@
     },
     {
       "surface": "למשפחתם",
-      "gloss": "ngokweentsapho zabo"
+      "gloss": "ngeempaphamo zabo"
     },
     {
       "surface": "לבית",
-      "gloss": "ngokwezindlu"
+      "gloss": "ngokweezindlu"
     },
     {
       "surface": "אבתם",
-      "gloss": "zooyihlo babo"
+      "gloss": "zooyise babo"
     },
     {
       "surface": "תפקד",
-      "gloss": "uzakubabala"
+      "gloss": "uza kubabala"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩ bona"
+      "gloss": "⟨את⟩",
+      "marks": "bo (oonyana bakaMerari)"
     }
   ],
-  "timestamp": "2026-09-18T07:14:10.457202215Z",
+  "timestamp": "2026-09-18T18:54:28.710442474Z",
   "model": "glm-5.3"
 }

@@ -5,11 +5,11 @@
   "book": "genesis",
   "lang": "xh",
   "chapter": 20,
-  "translation": "Wafika uElohim ku-Avimelekhi ngophupho ebusuku, wathi kuye: “Yona, usiya kufa ngenxa yalomfazi owamthabathayo, yaye ungenwe yindoda.”",
+  "translation": "uElohim weza ku-Avimelekhi ngophupho lobusuku, wathi kuye: “Nangu umntu ofa ngenxa yomfazi othathileyo, yena unyamezela ukuba unomdyikazi.”",
   "tokens": [
     {
       "surface": "ויבא",
-      "gloss": "wafika"
+      "gloss": "weza"
     },
     {
       "surface": "אלהים",
@@ -17,19 +17,19 @@
     },
     {
       "surface": "אל",
-      "gloss": "ku"
+      "gloss": "ku-"
     },
     {
       "surface": "אבימלך",
       "gloss": "Avimelekhi"
     },
     {
-      "surface": "בחלom",
+      "surface": "בחלום",
       "gloss": "ngophupho"
     },
     {
       "surface": "הלילה",
-      "gloss": "ebusuku"
+      "gloss": "lobusuku"
     },
     {
       "surface": "ויאמר",
@@ -41,41 +41,41 @@
     },
     {
       "surface": "הנך",
-      "gloss": "Yona"
+      "gloss": "Nangu"
     },
     {
       "surface": "מת",
-      "gloss": "usiya kufa"
+      "gloss": "umntu ofa"
     },
     {
       "surface": "על",
-      "gloss": "ngenxa yalo"
+      "gloss": "ngenxa ye-"
     },
     {
       "surface": "האשה",
-      "gloss": "mfazi"
+      "gloss": "umfazi"
     },
     {
       "surface": "אשר",
-      "gloss": "o"
+      "gloss": "o-"
     },
     {
       "surface": "לקחת",
-      "gloss": "wamthabathayo"
+      "gloss": "thathileyo"
     },
     {
       "surface": "והוא",
-      "gloss": "yaye"
+      "gloss": "yena"
     },
     {
       "surface": "בעלת",
-      "gloss": "ungenwe"
+      "gloss": "unyamezela ukuba unomdyikazi"
     },
     {
       "surface": "בעל",
-      "gloss": "yindoda"
+      "gloss": "nomdyikazi"
     }
   ],
-  "timestamp": "2026-09-18T05:19:48.154146792Z",
+  "timestamp": "2026-09-18T18:45:55.853901274Z",
   "model": "glm-5.3"
 }

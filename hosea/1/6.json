@@ -5,11 +5,11 @@
   "book": "hosea",
   "lang": "xh",
   "chapter": 1,
-  "translation": "Wathe wakhulelwa kwakhona, wazala intombi; wathetha naYe uHosheya: Mbizela ngokuthi uLo-Rukhamah, kuba andisuki ndiza kuzuka ndibene nokulunga ⟨את⟩ ngeyango likaYisrayeli; kuba ndiza kubaxolela ngokupheleleyo.",
+  "translation": "Wathwala kwakhona, wazala intombi, wathi kuye: Biza igama layo uLo-Rukhamah, kuba andisayi kukwazi ukuzinkanela ⟨את⟩ indlu kaYisrayeli, kuba ndiza kubasusa ngokupheleleyo.",
   "tokens": [
     {
       "surface": "ותהר",
-      "gloss": "wathe wakhulelwa"
+      "gloss": "wathwala"
     },
     {
       "surface": "עוד",
@@ -25,27 +25,27 @@
     },
     {
       "surface": "ויאמר",
-      "gloss": "wathetha"
+      "gloss": "wathi"
     },
     {
       "surface": "לו",
-      "gloss": "naYe"
+      "gloss": "kuye"
     },
     {
       "surface": "קרא",
-      "gloss": "Mbizela"
+      "gloss": "Biza"
     },
     {
       "surface": "שמה",
-      "gloss": "ngokuthi"
+      "gloss": "igama layo"
     },
     {
       "surface": "לא",
-      "gloss": "uLo-"
+      "gloss": "hayi"
     },
     {
       "surface": "רחמה",
-      "gloss": "Rukhamah"
+      "gloss": "uLo-Rukhamah"
     },
     {
       "surface": "כי",
@@ -53,32 +53,32 @@
     },
     {
       "surface": "לא",
-      "gloss": "andi"
+      "gloss": "andi-"
     },
     {
       "surface": "אוסיף",
-      "gloss": "suki ndiza kuzuka"
+      "gloss": "-sayi kukwazi"
     },
     {
       "surface": "עוד",
-      "gloss": ""
+      "gloss": "kwakhona (ndisafuna)"
     },
     {
       "surface": "ארחם",
-      "gloss": "ndibene nokulunga"
+      "gloss": "ukuzinkanela"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "eyango likaYisrayeli"
+      "marks": "indlu kaYisrayeli"
     },
     {
       "surface": "בית",
-      "gloss": "eyango"
+      "gloss": "indlu"
     },
     {
       "surface": "ישראל",
-      "gloss": "likaYisrayeli"
+      "gloss": "kaYisrayeli"
     },
     {
       "surface": "כי",
@@ -86,7 +86,7 @@
     },
     {
       "surface": "נשא",
-      "gloss": "ndiza kubaxolela"
+      "gloss": "ndiza kubasusa"
     },
     {
       "surface": "אשא",
@@ -97,6 +97,6 @@
       "gloss": "kubo"
     }
   ],
-  "timestamp": "2026-09-18T13:44:18.928256338Z",
+  "timestamp": "2026-09-18T18:57:29.644604047Z",
   "model": "glm-5.3"
 }

@@ -5,8 +5,51 @@
   "book": "psalms",
   "lang": "xh",
   "chapter": 28,
-  "translation": "Sindisa intsingiselo yakho! Yonwabisa i⟨את⟩ ingcali yakho! Wangcalelisela i⟨את⟩, ibe yintsikelelo yabantu bakho kuze kube ngunaphakade, ubaphakamise onke amaxesha.",
-  "tokens": [],
-  "timestamp": "2026-09-18T14:36:18.098664390Z",
+  "translation": "Sindisa ⟨את⟩ isizwe sakho, utsikelele ⟨את⟩ isabelwana sakho, ubaluse, ubaphakamise de phakade.",
+  "tokens": [
+    {
+      "surface": "הושיעה",
+      "gloss": "Sindisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isizwe sakho"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "isizwe sakho"
+    },
+    {
+      "surface": "וברך",
+      "gloss": "utsikelele"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isabelwana sakho"
+    },
+    {
+      "surface": "נחלתך",
+      "gloss": "isabelwana sakho"
+    },
+    {
+      "surface": "ורעם",
+      "gloss": "ubaluse"
+    },
+    {
+      "surface": "ונשאם",
+      "gloss": "ubaphakamise"
+    },
+    {
+      "surface": "עד",
+      "gloss": "de"
+    },
+    {
+      "surface": "העולם",
+      "gloss": "phakade"
+    }
+  ],
+  "timestamp": "2026-09-18T18:55:10.430389323Z",
   "model": "glm-5.3"
 }

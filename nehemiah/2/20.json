@@ -5,19 +5,20 @@
   "book": "nehemiah",
   "lang": "xh",
   "chapter": 2,
-  "translation": "Ndabaphendula ndathi: “UThixo wamazulu, nguYena oza kusiphumelelisa; thina, makwake akhe, sivuke sakhe; kodwa nina aninalo ilungelo, nokulunga, nokukhunjulwa kwiYerushalayimi.”",
+  "translation": "Ndawuphendula ngabo ulwazi, ndathi kubo: “UElohim wezulu, yena uza kusiphembelela, kwaye thina, makowa bakhe, siza kuvuka sasekwakha; kodwa nina aninalo nxalenye, malungelo okanye isikhumbuzo kwiYerushalayimi.”",
   "tokens": [
     {
       "surface": "ואשיב",
-      "gloss": "ndabaphendula"
+      "gloss": "ndawuphendula"
     },
     {
       "surface": "אותם",
-      "gloss": "⟨את⟩"
+      "gloss": "⟨את⟩",
+      "marks": "ulwazi"
     },
     {
       "surface": "דבר",
-      "gloss": "impendulo"
+      "gloss": "ulwazi"
     },
     {
       "surface": "ואומר",
@@ -29,43 +30,43 @@
     },
     {
       "surface": "אלהי",
-      "gloss": "uThixo"
+      "gloss": "uElohim"
     },
     {
       "surface": "השמים",
-      "gloss": "wamazulu"
+      "gloss": "wezulu"
     },
     {
       "surface": "הוא",
-      "gloss": "nguYena"
+      "gloss": "yena"
     },
     {
       "surface": "יצליח",
-      "gloss": "oza kusiphumelelisa"
+      "gloss": "uza kusiphembelela"
     },
     {
       "surface": "לנו",
-      "gloss": "si-"
-    },
-    {
-      "surface": "ואנחנו",
       "gloss": "thina"
     },
     {
+      "surface": "ואנחנו",
+      "gloss": "kwaye thina"
+    },
+    {
       "surface": "עבדיו",
-      "gloss": "abafundi abanye"
+      "gloss": "makowa bakhe"
     },
     {
       "surface": "נקום",
-      "gloss": "sivuke"
+      "gloss": "siza kuvuka"
     },
     {
       "surface": "ובנינו",
-      "gloss": "sakhe"
+      "gloss": "sasekwakha"
     },
     {
       "surface": "ולכם",
-      "gloss": "nina"
+      "gloss": "kodwa nina"
     },
     {
       "surface": "אין",
@@ -73,21 +74,21 @@
     },
     {
       "surface": "חלק",
-      "gloss": "ilungelo lokwabelana"
+      "gloss": "nxalenye"
     },
     {
       "surface": "וצדקה",
-      "gloss": "nokulunga"
+      "gloss": "malungelo"
     },
     {
       "surface": "וזכרון",
-      "gloss": "nokukhunjulwa"
+      "gloss": "isikhumbuzo"
     },
     {
       "surface": "בירושלם",
       "gloss": "kwiYerushalayimi"
     }
   ],
-  "timestamp": "2026-09-18T16:45:44.146257460Z",
+  "timestamp": "2026-09-18T18:53:44.133405284Z",
   "model": "glm-5.3"
 }

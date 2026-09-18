@@ -5,23 +5,23 @@
   "book": "2-kings",
   "lang": "xh",
   "chapter": 11,
-  "translation": "Kwaye nizungele umlawuli jikeleze, umntu ngamnye kunye nezixhobo zakhe esandleni sakhe; lowo uthe wangena kwiindawana zokuzikhethela, mafe; kwaye nibe kunye nomlawuli ekuphumeni kwakhe nakwikufika kwakhe.",
+  "translation": "Niza kumjikeleza ⟨את⟩ inkosi ngokujikelezayo, umntu ngamnye nesixhobo sakhe esandleni sakhe; lowo ungena kwiindawo ezikwangaphakathi makabulawe; nibe nathi ⟨את⟩ inkosi ekuphumeni kwakhe nakwingelo kwakhe.",
   "tokens": [
     {
       "surface": "והקפתם",
-      "gloss": "nizungele"
+      "gloss": "niza kumjikeleza"
     },
     {
       "surface": "על",
-      "gloss": ""
+      "gloss": "phezu"
     },
     {
       "surface": "המלך",
-      "gloss": "umlawuli"
+      "gloss": "inkosi"
     },
     {
       "surface": "סביב",
-      "gloss": "jikeleze"
+      "gloss": "ngokujikelezayo"
     },
     {
       "surface": "איש",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "וכליו",
-      "gloss": "kunye nezixhobo zakhe"
+      "gloss": "nesixhobo sakhe"
     },
     {
       "surface": "בידו",
@@ -37,31 +37,32 @@
     },
     {
       "surface": "והבא",
-      "gloss": "lowo uthe wangena"
+      "gloss": "lowo ungena"
     },
     {
       "surface": "אל",
-      "gloss": "kwi-"
+      "gloss": "kwiindawo"
     },
     {
       "surface": "השדרות",
-      "gloss": "iindawana zokuzikhethela"
+      "gloss": "ezikwangaphakathi"
     },
     {
       "surface": "יומת",
-      "gloss": "mafe"
+      "gloss": "makabulawe"
     },
     {
       "surface": "והיו",
-      "gloss": "kwaye nibe"
+      "gloss": "nibe"
     },
     {
       "surface": "את",
-      "gloss": "⟨את⟩ kunye"
+      "gloss": "⟨את⟩",
+      "marks": "inkosi"
     },
     {
       "surface": "המלך",
-      "gloss": "nomlawuli"
+      "gloss": "inkosi"
     },
     {
       "surface": "בצאתו",
@@ -69,9 +70,9 @@
     },
     {
       "surface": "ובבאו",
-      "gloss": "nakwikufika kwakhe"
+      "gloss": "nakwingelo kwakhe"
     }
   ],
-  "timestamp": "2026-09-18T10:45:49.329852128Z",
+  "timestamp": "2026-09-18T18:40:12.021735507Z",
   "model": "glm-5.3"
 }

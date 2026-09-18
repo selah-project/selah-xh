@@ -5,8 +5,78 @@
   "book": "numbers",
   "lang": "xh",
   "chapter": 17,
-  "translation": "Iza kwenzeka ukuba umntu ondimkhethileyo, umthombo wakhe uza kutyhuma; ndiza kuthintela ⟨kuMthombo⟩ ikhalazo zabantwana bakaSirayeli abazikalazela ngakuni apha bayizikalazela.",
-  "tokens": [],
-  "timestamp": "2026-09-18T17:22:38.444018711Z",
+  "translation": "Kwaye kuya kubakho umntu endiya kumkhetha, umthi wakhe uza kutqhatha, ndiza kucisha ukusuka kum iingxolo zaban belwaIsrayeli abazityholo ngakuni.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "kwaye kuya kubakho"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "umntu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "endiya kumkhetha — lowo"
+    },
+    {
+      "surface": "אבחר",
+      "gloss": "ndiya kumkhetha"
+    },
+    {
+      "surface": "בו",
+      "gloss": "yena"
+    },
+    {
+      "surface": "מטהו",
+      "gloss": "umthi wakhe"
+    },
+    {
+      "surface": "יפרח",
+      "gloss": "uza kutqhatha"
+    },
+    {
+      "surface": "והשכתי",
+      "gloss": "ndiza kucisha"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "ukusuka kum"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iingxolo"
+    },
+    {
+      "surface": "תלנות",
+      "gloss": "iingxolo"
+    },
+    {
+      "surface": "בני",
+      "gloss": "aban"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "belwaIsrayeli"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aba"
+    },
+    {
+      "surface": "הם",
+      "gloss": "bona"
+    },
+    {
+      "surface": "מלינם",
+      "gloss": "bazityholo"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "ngakuni"
+    }
+  ],
+  "timestamp": "2026-09-18T18:53:49.306088336Z",
   "model": "glm-5.3"
 }

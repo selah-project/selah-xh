@@ -5,7 +5,7 @@
   "book": "daniel",
   "lang": "xh",
   "chapter": 8,
-  "translation": "Mna ndanding ⟨⟨ndibona⟩⟩ ndaqonda, kwathi nanko umchokozi wezibokhwe eza kumvelisentshona, phezu komboniso wonke umhlaba, kwaye akkho nto ichukumisa umhlaba; umchokozi lowo wayene-nenkangeleko phakathi kwamehlo akhe.",
+  "translation": "Mna ndandiphila ndisamblingwana, kwathi nangoku, inkunzi yeebokwe iye yafika ivela entshona, phezu komkhoba wonke umhlaba, ingathintanga umhlaba; le nkunzi yeebokwe yayinamlenze obonakalayo phakathi kweentyala zayo.",
   "tokens": [
     {
       "surface": "ואני",
@@ -13,35 +13,35 @@
     },
     {
       "surface": "הייתי",
-      "gloss": "ndanding"
+      "gloss": "ndandiphila"
     },
     {
       "surface": "מבין",
-      "gloss": "ndaqonda"
+      "gloss": "ndisamblingwana"
     },
     {
       "surface": "והנה",
-      "gloss": "kwathi nanko"
+      "gloss": "kwathi nangoku"
     },
     {
       "surface": "צפיר",
-      "gloss": "umchokozi"
+      "gloss": "inkunzi yeebokwe"
     },
     {
       "surface": "העזים",
-      "gloss": "wezibokhwe"
+      "gloss": "yeebokwe"
     },
     {
       "surface": "בא",
-      "gloss": "eza"
+      "gloss": "iye yafika"
     },
     {
       "surface": "מן",
-      "gloss": "kum"
+      "gloss": "ivela"
     },
     {
       "surface": "המערב",
-      "gloss": "velisentshona"
+      "gloss": "entshona"
     },
     {
       "surface": "על",
@@ -49,7 +49,7 @@
     },
     {
       "surface": "פני",
-      "gloss": "komboniso"
+      "gloss": "komkhoba"
     },
     {
       "surface": "כל",
@@ -61,11 +61,11 @@
     },
     {
       "surface": "ואין",
-      "gloss": "kwaye akkho nto"
+      "gloss": "inganga"
     },
     {
       "surface": "נוגע",
-      "gloss": "ichukumisa"
+      "gloss": "thintanga"
     },
     {
       "surface": "בארץ",
@@ -73,15 +73,15 @@
     },
     {
       "surface": "והצפיר",
-      "gloss": "umchokozi lowo"
+      "gloss": "le nkunzi yeebokwe"
     },
     {
       "surface": "קרן",
-      "gloss": "i-"
+      "gloss": "amlenze"
     },
     {
       "surface": "חזות",
-      "gloss": "nenkangeleko"
+      "gloss": "obonakalayo"
     },
     {
       "surface": "בין",
@@ -89,9 +89,9 @@
     },
     {
       "surface": "עיניו",
-      "gloss": "kwamehlo akhe"
+      "gloss": "kweentyala zayo"
     }
   ],
-  "timestamp": "2026-09-18T16:36:05.579795849Z",
+  "timestamp": "2026-09-18T18:42:39.466695345Z",
   "model": "glm-5.3"
 }

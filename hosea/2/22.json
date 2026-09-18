@@ -5,8 +5,34 @@
   "book": "hosea",
   "lang": "xh",
   "chapter": 2,
-  "translation": "...",
-  "tokens": [],
-  "timestamp": "2026-09-18T13:42:12.776767423Z",
+  "translation": "Ndiza kukulobola kum ngokuthembeka, uze wazi ⟨את⟩ uYahwe.",
+  "tokens": [
+    {
+      "surface": "וארשתיך",
+      "gloss": "uze wakulobola"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kum"
+    },
+    {
+      "surface": "באמונה",
+      "gloss": "ngokuthembeka"
+    },
+    {
+      "surface": "וידעת",
+      "gloss": "wazi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uYahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    }
+  ],
+  "timestamp": "2026-09-18T18:47:33.737905791Z",
   "model": "glm-5.3"
 }

@@ -5,23 +5,23 @@
   "book": "1-kings",
   "lang": "xh",
   "chapter": 16,
-  "translation": "Ngenxa yezenzo zakhe ezimbi awayenzileyo, ukwenza okungcolileyo emehlweni kaYahwe, ukuhamba endleleni kaYarovhame, nesenxa sakhe awayenzileyo sokwenza ⟨את⟩ amaSirayeli ⟨את⟩ onke amahlaho.",
+  "translation": "Ngenxa yesono lakhe azenzayo lesona, ngokwenza okungalunganga emehlweni kaYahwe, ngokuhamba endleleni kaYarobhiyam, nangesono azenzayo lesona, ukwenza uIsrayeli wona.",
   "tokens": [
     {
       "surface": "על",
-      "gloss": "Ngenxa"
+      "gloss": "ngenxa"
     },
     {
       "surface": "חטאתו",
-      "gloss": "yezenzo zakhe ezimbi"
+      "gloss": "yesono lakhe"
     },
     {
       "surface": "אשר",
-      "gloss": "awayenzileyo"
+      "gloss": "azenzayo"
     },
     {
       "surface": "חטא",
-      "gloss": "ukwenza okungcolileyo"
+      "gloss": "lesona"
     },
     {
       "surface": "לעשות",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "הרע",
-      "gloss": "okungcolileyo"
+      "gloss": "okungalunganga"
     },
     {
       "surface": "בעיני",
@@ -49,30 +49,34 @@
     },
     {
       "surface": "ירבעם",
-      "gloss": "kaYarovhame"
+      "gloss": "kaYarobhiyam"
     },
     {
       "surface": "ובחטאתו",
-      "gloss": "nesenxa sakhe"
+      "gloss": "nangesono"
     },
     {
       "surface": "אשר",
-      "gloss": "awayenzileyo"
+      "gloss": "ezenzileyo"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "wenzayo"
     },
     {
       "surface": "להחטיא",
-      "gloss": "sokwenza amahlaho"
+      "gloss": "ukwenza ukuba wona"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "amaSirayeli"
+      "marks": "uIsrayeli"
     },
     {
       "surface": "ישראל",
-      "gloss": "⟨את⟩ amaSirayeli"
+      "gloss": "uIsrayeli"
     }
   ],
-  "timestamp": "2026-09-18T10:29:53.116060578Z",
+  "timestamp": "2026-09-18T18:56:34.270877430Z",
   "model": "glm-5.3"
 }

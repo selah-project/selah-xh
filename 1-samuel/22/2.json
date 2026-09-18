@@ -5,7 +5,7 @@
   "book": "1-samuel",
   "lang": "xh",
   "chapter": 22,
-  "translation": "Baza baqokelelana kuye bonke abantu abasenzekileyo, bonke abantu abanetyala, nabaphi na bonke abantu abanomoya omnyama; waba yinkosi yomkhosi phezu kwabo, baba naye malunga nekhulu lamadoda amane.",
+  "translation": "Kwaye baqokelelana kuye wonke umntu owasentsimbeni, nwonke umntu onetyala, nwonke umntu owlumayo emsipeni; waba ngumlawuli wabo, kwaba kukho abane namashumi amane amadoda kunye naye.",
   "tokens": [
     {
       "surface": "ויתקבצו",
@@ -17,51 +17,51 @@
     },
     {
       "surface": "כל",
-      "gloss": "bonke"
+      "gloss": "wonke"
     },
     {
       "surface": "איש",
-      "gloss": "abantu"
+      "gloss": "umntu"
     },
     {
       "surface": "מצוק",
-      "gloss": "abasenzekileyo"
+      "gloss": "owasentsimbeni"
     },
     {
       "surface": "וכל",
-      "gloss": "bonke"
+      "gloss": "nwonke"
     },
     {
       "surface": "איש",
-      "gloss": "abantu"
+      "gloss": "umntu"
     },
     {
       "surface": "אשר",
-      "gloss": "abane"
+      "gloss": "ongu-"
     },
     {
       "surface": "לו",
-      "gloss": ""
+      "gloss": "<kuye>"
     },
     {
       "surface": "נשא",
-      "gloss": "tyala"
+      "gloss": "onetyala"
     },
     {
       "surface": "וכל",
-      "gloss": "bonke"
+      "gloss": "nwonke"
     },
     {
       "surface": "איש",
-      "gloss": "abantu"
+      "gloss": "umntu"
     },
     {
       "surface": "מר",
-      "gloss": "abnomnyama"
+      "gloss": "olumayo"
     },
     {
       "surface": "נפש",
-      "gloss": "moya"
+      "gloss": "emsipeni"
     },
     {
       "surface": "ויהי",
@@ -69,33 +69,33 @@
     },
     {
       "surface": "עליהם",
-      "gloss": "phezu kwabo"
+      "gloss": "ngumlawuli wabo"
     },
     {
       "surface": "לשר",
-      "gloss": "inkosi yomkhosi"
+      "gloss": "ngumlawuli"
     },
     {
       "surface": "ויהיו",
-      "gloss": "baba"
+      "gloss": "kwaba kukho"
     },
     {
       "surface": "עמו",
-      "gloss": "naye"
+      "gloss": "kunye naye"
     },
     {
       "surface": "כארבע",
-      "gloss": "malunga ne-"
+      "gloss": "abane"
     },
     {
       "surface": "מאות",
-      "gloss": "amakhulu"
+      "gloss": "namashumi amane"
     },
     {
       "surface": "איש",
       "gloss": "amadoda"
     }
   ],
-  "timestamp": "2026-09-18T17:29:50.584231116Z",
+  "timestamp": "2026-09-18T18:38:55.956121132Z",
   "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "1-kings",
   "lang": "xh",
   "chapter": 2,
-  "translation": "Wafika u-Adoniyahu, unyana kaKhegith, kuBatsheva, umama kaShelomoh; wathi: “Ngaba ukuza kwakho kuthula?” Wathi: “Kuthula.”",
+  "translation": "Wafika u-Adoniyahu unyana kaChagithi kwaBatsheba unina kaSolomoni; wathi: “Ngokuhamba okuzolileyo na okwakho ukufika?” Wathi: “Kuzolileyo.”",
   "tokens": [
     {
       "surface": "ויבא",
@@ -21,27 +21,27 @@
     },
     {
       "surface": "חגית",
-      "gloss": "kaKhegith"
+      "gloss": "kaChagithi"
     },
     {
       "surface": "אל",
-      "gloss": "ku"
+      "gloss": "kwa-"
     },
     {
       "surface": "בת",
-      "gloss": "uBatsheva"
+      "gloss": "Batsheba (inxalenye yegama)"
     },
     {
       "surface": "שבע",
-      "gloss": ""
+      "gloss": "Batsheba"
     },
     {
       "surface": "אם",
-      "gloss": "umama ka"
+      "gloss": "unina"
     },
     {
       "surface": "שלמה",
-      "gloss": "Shelomoh"
+      "gloss": "kaSolomoni"
     },
     {
       "surface": "ותאמר",
@@ -49,11 +49,11 @@
     },
     {
       "surface": "השלום",
-      "gloss": "ngaba kuthula"
+      "gloss": "ngokuhamba okuzolileyo na"
     },
     {
       "surface": "באך",
-      "gloss": "ukuza kwakho"
+      "gloss": "okwakho ukufika"
     },
     {
       "surface": "ויאמר",
@@ -61,9 +61,9 @@
     },
     {
       "surface": "שלום",
-      "gloss": "kuthula"
+      "gloss": "kuzolileyo"
     }
   ],
-  "timestamp": "2026-09-18T10:08:52.523377639Z",
+  "timestamp": "2026-09-18T18:38:09.600722198Z",
   "model": "glm-5.3"
 }

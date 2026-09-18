@@ -5,11 +5,11 @@
   "book": "micah",
   "lang": "xh",
   "chapter": 1,
-  "translation": "Yidukelani, nina nahlala kwiShafiri, ngenude yenhlazo; akaphumi ohlala kwiTsanan; umkhumbo weBeyit ha-Etseli uthabathe kuni isikhundla sawo.",
+  "translation": "Gqithani nina, uhlangabezane naseShafir, nangenudeyo yentlonelo; umhlali waseTsaanan akaphumanga; ilumbo laseBeyit-ha-Etseli liza kukuthabatha kuni isikhundla sawo.",
   "tokens": [
     {
       "surface": "עברי",
-      "gloss": "yidukelani"
+      "gloss": "gqithani"
     },
     {
       "surface": "לכם",
@@ -17,47 +17,51 @@
     },
     {
       "surface": "יושבת",
-      "gloss": "nahlala"
+      "gloss": "uhlangabezane"
     },
     {
       "surface": "שפיר",
-      "gloss": "kwiShafiri"
+      "gloss": "naseShafir"
     },
     {
       "surface": "עריה",
-      "gloss": "ngenude"
+      "gloss": "ngenudeyo"
     },
     {
       "surface": "בשת",
-      "gloss": "yenhlazo"
+      "gloss": "yentlonelo"
     },
     {
       "surface": "לא",
-      "gloss": "akaphumi"
+      "gloss": "akange-"
+    },
+    {
+      "surface": "יוצאה",
+      "gloss": "phumi"
     },
     {
       "surface": "יושבת",
-      "gloss": "ohlala"
+      "gloss": "umhlali"
     },
     {
       "surface": "צאנן",
-      "gloss": "kwiTsanan"
+      "gloss": "aseTsaanan"
     },
     {
       "surface": "מספד",
-      "gloss": "umkhumbo"
+      "gloss": "ilumbo"
     },
     {
       "surface": "בית",
-      "gloss": "iBeyit"
+      "gloss": "indlu"
     },
     {
       "surface": "האצל",
-      "gloss": "ha-Etseli"
+      "gloss": "aseEtseli"
     },
     {
       "surface": "יקח",
-      "gloss": "uthabathe"
+      "gloss": "liza kukuthabatha"
     },
     {
       "surface": "מכם",
@@ -68,6 +72,6 @@
       "gloss": "isikhundla sawo"
     }
   ],
-  "timestamp": "2026-09-18T14:01:23.026914714Z",
+  "timestamp": "2026-09-18T18:52:43.381099198Z",
   "model": "glm-5.3"
 }

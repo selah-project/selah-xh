@@ -5,11 +5,11 @@
   "book": "1-samuel",
   "lang": "xh",
   "chapter": 22,
-  "translation": "Waya ke uDavide ukusuka apho, aya eMitspeheni yaseMowabhi, wathi kwenkosi yaseMowabhi: “Ndicela ubawo nomama bam baphume, babe ⟨את⟩ nani, de ndazi oku uElohim aza kukwenzela kum.”",
+  "translation": "Wahamba ke uDavide apho, waya eMitspeni yaseMowabhi, wathi kwenkosi yaseMowabhi: “Ndicela ubawo nomama bam bathe ngapha nani, de ndazi oku uElohim aza kukwenza kum.”",
   "tokens": [
     {
       "surface": "וילך",
-      "gloss": "waya"
+      "gloss": "Wahamba"
     },
     {
       "surface": "דוד",
@@ -17,11 +17,11 @@
     },
     {
       "surface": "משם",
-      "gloss": "ukusuka apho"
+      "gloss": "apho"
     },
     {
       "surface": "מצפה",
-      "gloss": "eMitspeheni"
+      "gloss": "eMitspeni"
     },
     {
       "surface": "מואב",
@@ -37,15 +37,15 @@
     },
     {
       "surface": "מלך",
-      "gloss": "inkosi"
+      "gloss": "wenkosi"
     },
     {
       "surface": "מואב",
       "gloss": "yaseMowabhi"
     },
     {
-      "surface": "יצא",
-      "gloss": "baphume"
+      "surface": "יֵצֵא",
+      "gloss": "bathe ngapha"
     },
     {
       "surface": "נא",
@@ -53,7 +53,7 @@
     },
     {
       "surface": "אבי",
-      "gloss": "ubawo"
+      "gloss": "ubawo bam"
     },
     {
       "surface": "ואמי",
@@ -61,7 +61,8 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ nani"
+      "gloss": "⟨את⟩ nani",
+      "marks": "nani"
     },
     {
       "surface": "עד",
@@ -81,7 +82,7 @@
     },
     {
       "surface": "יעשה",
-      "gloss": "aza kukwenzela"
+      "gloss": "aza kukwenza"
     },
     {
       "surface": "לי",
@@ -92,6 +93,6 @@
       "gloss": "uElohim"
     }
   ],
-  "timestamp": "2026-09-18T17:29:52.157108543Z",
+  "timestamp": "2026-09-18T18:38:55.904036323Z",
   "model": "glm-5.3"
 }

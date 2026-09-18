@@ -5,23 +5,23 @@
   "book": "2-kings",
   "lang": "xh",
   "chapter": 5,
-  "translation": "Wathi Gechazi, inkonzi kaElishe, umntu kaElohim: Yabonakalile, inkosi yam yamkela-ke lo uNaaman uMarami, ingazange yamkele ⟨את⟩ okwayileyo esandleni sakhe; uYahwe uyaphila — inene ndiza kugijima emva kwakhe, ndiza kuthabatha kuye ⟨את⟩ into ntoni na.",
+  "translation": "Wathetha uGechazi, inkwenkwe ka-Elisya, umntu kaElohim: “Bhekisa, inkosi yam yamenzela uNaaman umAram ukuze angamamkeli ⟨את⟩ into awayizileyo esandleni sakhe. NguYahwe ophilayo, ndiza kugijima emva kwakhe, ndithabathe ⟨את⟩ kuLo mntu into ntoni na.”",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "Wathi"
+      "gloss": "wathetha"
     },
     {
       "surface": "גיחזי",
-      "gloss": "Gechazi"
+      "gloss": "uGechazi"
     },
     {
       "surface": "נער",
-      "gloss": "inkonzi"
+      "gloss": "inkwenkwe"
     },
     {
       "surface": "אלישע",
-      "gloss": "kaElishe"
+      "gloss": "ka-Elisya"
     },
     {
       "surface": "איש",
@@ -33,11 +33,11 @@
     },
     {
       "surface": "הנה",
-      "gloss": "Yabonakalile"
+      "gloss": "bhekisa"
     },
     {
       "surface": "חשך",
-      "gloss": "yamkela-ke"
+      "gloss": "yamenzela"
     },
     {
       "surface": "אדני",
@@ -46,7 +46,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "uNaaman uMarami"
+      "marks": "uNaaman"
     },
     {
       "surface": "נעמן",
@@ -54,7 +54,7 @@
     },
     {
       "surface": "הארמי",
-      "gloss": "uMarami"
+      "gloss": "umAram"
     },
     {
       "surface": "הזה",
@@ -62,7 +62,7 @@
     },
     {
       "surface": "מקחת",
-      "gloss": "ingazange yamkele"
+      "gloss": "ukungamamkeli"
     },
     {
       "surface": "מידו",
@@ -71,19 +71,19 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "okwayileyo"
+      "marks": "into awayizileyo"
     },
     {
       "surface": "אשר",
-      "gloss": "okwa-"
+      "gloss": "into"
     },
     {
       "surface": "הביא",
-      "gloss": "yileyo"
+      "gloss": "awayizileyo"
     },
     {
       "surface": "חי",
-      "gloss": "uyaphila"
+      "gloss": "ophilayo"
     },
     {
       "surface": "יהוה",
@@ -91,15 +91,15 @@
     },
     {
       "surface": "כי",
-      "gloss": "inene"
+      "gloss": "ngu-"
     },
     {
       "surface": "אם",
-      "gloss": ""
+      "gloss": "ndiza"
     },
     {
       "surface": "רצתי",
-      "gloss": "ndiza kugijima"
+      "gloss": "kugijima"
     },
     {
       "surface": "אחריו",
@@ -107,17 +107,17 @@
     },
     {
       "surface": "ולקחתי",
-      "gloss": "ndiza kuthabatha"
+      "gloss": "ndithabathe"
     },
     {
       "surface": "מאתו",
-      "gloss": "kuye ⟨את⟩"
+      "gloss": "⟨את⟩ kuLo mntu"
     },
     {
       "surface": "מאומה",
       "gloss": "into ntoni na"
     }
   ],
-  "timestamp": "2026-09-18T10:42:29.495300756Z",
+  "timestamp": "2026-09-18T18:40:26.236719260Z",
   "model": "glm-5.3"
 }

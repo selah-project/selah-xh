@@ -5,7 +5,7 @@
   "book": "leviticus",
   "lang": "xh",
   "chapter": 27,
-  "translation": "Akayi kukhangelo phakathi kolungileyo nolubi, kananjalo akayi kuyitshintsha; ukuba ethe ngokwenene wayitshintsha, yaye kuya kuba nguloo ⟨⟨yona nantshintsho yayo⟩⟩ ibe yingcwele, ayisayi kubhatalwa ukuyikhulula.",
+  "translation": "Akayi kukhangelela phakathi kokulungileyo nongakalunganga, kananjalo akayi kuyitshintsha; ukuba etshintsha ngokwenene, yona nento etshintshiweyo yayo iya kuba ngungcwele, ayinakubuyiselwa.",
   "tokens": [
     {
       "surface": "לא",
@@ -13,19 +13,19 @@
     },
     {
       "surface": "יבקר",
-      "gloss": "ukukhangela"
+      "gloss": "kukhangelela"
     },
     {
       "surface": "בין",
-      "gloss": "phakathi kwe"
+      "gloss": "phakathi kwe-"
     },
     {
       "surface": "טוב",
-      "gloss": "ulungileyo"
+      "gloss": "kokulungileyo"
     },
     {
       "surface": "לרע",
-      "gloss": "nolubi"
+      "gloss": "nongakalunganga"
     },
     {
       "surface": "ולא",
@@ -37,19 +37,19 @@
     },
     {
       "surface": "ואם",
-      "gloss": "ukuba ethe"
+      "gloss": "ukuba"
     },
     {
       "surface": "המר",
-      "gloss": "ngokwenene wayitshintsha"
+      "gloss": "etshintsha"
     },
     {
       "surface": "ימירנו",
-      "gloss": "wayitshintsha"
+      "gloss": "ngokwenene kuyitshintsha"
     },
     {
       "surface": "והיה",
-      "gloss": "kuya kuba"
+      "gloss": "iya kuba"
     },
     {
       "surface": "הוא",
@@ -57,25 +57,25 @@
     },
     {
       "surface": "ותמורתו",
-      "gloss": "nantshintsho yayo"
+      "gloss": "nento etshintshiweyo yayo"
     },
     {
       "surface": "יהיה",
-      "gloss": "ibe"
+      "gloss": "iya kuba"
     },
     {
       "surface": "קדש",
-      "gloss": "ingcwele"
+      "gloss": "ngungcwele"
     },
     {
       "surface": "לא",
-      "gloss": "ayisayi"
+      "gloss": "ayinakwa-"
     },
     {
       "surface": "יגאל",
-      "gloss": "kubhatalwa ukuyikhulula"
+      "gloss": "kubuyiselwa"
     }
   ],
-  "timestamp": "2026-09-18T07:06:46.498657386Z",
+  "timestamp": "2026-09-18T18:53:11.766037932Z",
   "model": "glm-5.3"
 }

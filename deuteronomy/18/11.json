@@ -5,42 +5,41 @@
   "book": "deuteronomy",
   "lang": "xh",
   "chapter": 18,
-  "translation": "okanye onesa imilingo, okanye ombuza ⟨את⟩ umoya wabafileyo nakwisiphefumlo esaziyo, okanye ofunisisa kubafi.",
+  "translation": "nokubopha isiphiso, nokubuza kumoya wabafileyo, nomazi okufihliweyo, nowufuna ukwazi kwabafileyo ⟨abafi⟩.",
   "tokens": [
     {
-      "surface": "וחבר",
-      "gloss": "onesa imilingo"
+      "surface": "וְחֹבֵ֖ר",
+      "gloss": "nokubopha"
     },
     {
-      "surface": "חבר",
-      "gloss": "umlingo"
+      "surface": "חָ֑בֶר",
+      "gloss": "isiphiso"
     },
     {
-      "surface": "ושאל",
-      "gloss": "ombuza"
+      "surface": "וְשֹׁאֵ֥ל",
+      "gloss": "nokubuza"
     },
     {
-      "surface": "אוב",
-      "gloss": "⟨את⟩",
-      "marks": "umoya wabafileyo"
+      "surface": "אוֹב֙",
+      "gloss": "umoya wabafileyo"
     },
     {
-      "surface": "וידעני",
-      "gloss": "nakwisiphefumlo esaziyo"
+      "surface": "וְיִדְּעֹנִ֔י",
+      "gloss": "nomazi okufihliweyo"
     },
     {
-      "surface": "ודרש",
-      "gloss": "ofunisisa"
+      "surface": "וְדֹרֵ֖שׁ",
+      "gloss": "nowufuna ukwazi"
     },
     {
-      "surface": "אל",
+      "surface": "אֶל",
       "gloss": "ku"
     },
     {
-      "surface": "המתים",
-      "gloss": "bafi"
+      "surface": "הַמֵּתִֽים",
+      "gloss": "abafileyo"
     }
   ],
-  "timestamp": "2026-09-18T17:25:45.188801970Z",
+  "timestamp": "2026-09-18T18:43:11.808032223Z",
   "model": "glm-5.3"
 }

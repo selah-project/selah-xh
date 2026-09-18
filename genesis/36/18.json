@@ -5,8 +5,81 @@
   "book": "genesis",
   "lang": "xh",
   "chapter": 36,
-  "translation": "Kananjalo le ngabantwana baOholibama, umfazi kaEsav: induna Yeushi, induna Yalamu, induna Korahi; le ziinduna zoOholibama, unyana wakwa-Anahi — hayi, intombazana",
-  "tokens": [],
-  "timestamp": "2026-09-18T05:33:01.004108918Z",
+  "translation": "Kananjalo aba ngabantwana baka-Aholibama, unkosikazi ka-Esawu: umkhosi uYewushi, umkhosi uYalamu, umkhosi uKora. Aba ngamakhosi avela ku-Aholibama, unyana wendodakazi ka-Ana, unkosikazi ka-Esawu.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Kananjalo aba"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abantwana"
+    },
+    {
+      "surface": "אהליבמה",
+      "gloss": "baka-Aholibama"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "unkosikazi"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ka-Esawu"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "umkhosi"
+    },
+    {
+      "surface": "יעוש",
+      "gloss": "uYewushi"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "umkhosi"
+    },
+    {
+      "surface": "יעלם",
+      "gloss": "uYalamu"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "umkhosi"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "uKora"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "Aba"
+    },
+    {
+      "surface": "אלופי",
+      "gloss": "ngamakhosi"
+    },
+    {
+      "surface": "אהליבמה",
+      "gloss": "a-Aholibama"
+    },
+    {
+      "surface": "בת",
+      "gloss": "unyana wendodakazi"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "ka-Ana"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "unkosikazi"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ka-Esawu"
+    }
+  ],
+  "timestamp": "2026-09-18T18:46:28.136409385Z",
   "model": "glm-5.3"
 }

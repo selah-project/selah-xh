@@ -5,19 +5,19 @@
   "book": "jeremiah",
   "lang": "xh",
   "chapter": 2,
-  "translation": "Kananjalo abatshanga: Uphi uYahwe owasityhosa ⟨את⟩ esuka emhlabeni weMitsrayim, owasihambisa ⟨את⟩ esintlango, emhlabeni oomileyo nangezixhobo zomhlaba, emhlabeni owomileyo nangokusesiphithiphithini sokufa, emhlabeni awadlulanga kwenye umntu, nangowakho ungenabani uhlale apho?",
+  "translation": "Kananjalo abazange bathi: “Ikhona phi uYahwe osixhaphazayo ⟨את⟩ kube singamka kumhlaba waseMitsrayim, esisikhokelayo ⟨את⟩ kube si elinkcincayo, umhlaba ongalutho nembombo, umhlaba womale nobumsulwa bobunzulu, umhlaba awadlulanga kuwo nakhe umntu, kananjalo awahlalanga khona nakhe umntu?”",
   "tokens": [
     {
       "surface": "ולא",
-      "gloss": "kananjalo abatshanga"
+      "gloss": "Kananjalo akwa-"
     },
     {
       "surface": "אמרו",
-      "gloss": ""
+      "gloss": "bathi"
     },
     {
       "surface": "איה",
-      "gloss": "uphi"
+      "gloss": "ikhona phi"
     },
     {
       "surface": "יהוה",
@@ -25,71 +25,73 @@
     },
     {
       "surface": "המעלה",
-      "gloss": "owasityhosa"
+      "gloss": "osixhaphazayo"
     },
     {
       "surface": "אתנו",
-      "gloss": "⟨את⟩ esikhoyo"
+      "gloss": "⟨את⟩",
+      "marks": "kube singamka"
     },
     {
       "surface": "מארץ",
-      "gloss": "esuka emhlabeni"
+      "gloss": "kumhlaba"
     },
     {
       "surface": "מצרים",
-      "gloss": "weMitsrayim"
+      "gloss": "waseMitsrayim"
     },
     {
       "surface": "המוליך",
-      "gloss": "owasihambisa"
+      "gloss": "esisikhokelayo"
     },
     {
       "surface": "אתנו",
-      "gloss": "⟨את⟩ esikhoyo"
+      "gloss": "⟨את⟩",
+      "marks": "kube si"
     },
     {
       "surface": "במדבר",
-      "gloss": "esintlango"
+      "gloss": "elinkcincayo"
     },
     {
       "surface": "בארץ",
-      "gloss": "emhlabeni"
+      "gloss": "umhlaba"
     },
     {
       "surface": "ערבה",
-      "gloss": "oomileyo"
+      "gloss": "onganalutho"
     },
     {
       "surface": "ושוחה",
-      "gloss": "nangezixhobo zomhlaba"
+      "gloss": "nembombo"
     },
     {
       "surface": "בארץ",
-      "gloss": "emhlabeni"
+      "gloss": "umhlaba"
     },
     {
       "surface": "ציה",
-      "gloss": "owomileyo"
+      "gloss": "womale"
     },
     {
       "surface": "וצלמות",
-      "gloss": "nangokusesiphithiphithini sokufa"
+      "gloss": "nobumsulwa bobunzulu"
     },
     {
       "surface": "בארץ",
-      "gloss": "emhlabeni"
+      "gloss": "umhlaba"
     },
     {
       "surface": "לא",
-      "gloss": "awadlulanga"
+      "gloss": "akukho"
     },
     {
       "surface": "עבר",
-      "gloss": ""
+      "gloss": "wadlulayo"
     },
     {
       "surface": "בה",
-      "gloss": "kwenye"
+      "gloss": "kuwo"
     },
     {
       "surface": "איש",
@@ -97,11 +99,11 @@
     },
     {
       "surface": "ולא",
-      "gloss": "nangowakho ungenabani"
+      "gloss": "kananjalo akukho"
     },
     {
       "surface": "ישב",
-      "gloss": "uhlale"
+      "gloss": "wahlalayo"
     },
     {
       "surface": "אדם",
@@ -109,9 +111,9 @@
     },
     {
       "surface": "שם",
-      "gloss": "apho"
+      "gloss": "khona"
     }
   ],
-  "timestamp": "2026-09-18T11:52:02.082105205Z",
+  "timestamp": "2026-09-18T18:48:40.806048704Z",
   "model": "glm-5.3"
 }

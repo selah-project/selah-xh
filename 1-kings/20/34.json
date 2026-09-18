@@ -5,11 +5,11 @@
   "book": "1-kings",
   "lang": "xh",
   "chapter": 20,
-  "translation": "Wathi kuye: “Ezi zixeko ubawo wathabatha ⟨את⟩ kubawo wakho, ndiza kuzibuyisela; kwaye iindawo zokuthengisa uzakuzimisela kuwe kwiDamaseko, njengokuba ubawo wenzile eSamariya. Mna, ngokwomnqophiso, ndiza kukuthumla.” Wayesimisa naye umnqophiso, wamthumla.",
+  "translation": "Wathi kuye: “Izixeko ezithathwe ngutata wam ku⟨את⟩ utata wakho, ndiza kuzibuyisela; wena wenze iindawo zokurhweba kwiDamaseki, njengoko utata wam wazenzela eSamariya; mna, ngumnqophiso, ndiza kukuthumela.” Wenza umnqophiso naye, wamthumela.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "wathi"
+      "gloss": "Wathi"
     },
     {
       "surface": "אליו",
@@ -17,28 +17,28 @@
     },
     {
       "surface": "הערים",
-      "gloss": "ezi zixeko"
+      "gloss": "izixeko"
     },
     {
       "surface": "אשר",
-      "gloss": ""
+      "gloss": "ezi"
     },
     {
       "surface": "לקח",
-      "gloss": "wathabatha"
+      "gloss": "ezithathwe"
     },
     {
       "surface": "אבי",
-      "gloss": "ubawo"
+      "gloss": "ngutata wam"
     },
     {
       "surface": "מאת",
       "gloss": "⟨את⟩",
-      "marks": "kubawo wakho"
+      "marks": "utata wakho"
     },
     {
       "surface": "אביך",
-      "gloss": "kubawo wakho"
+      "gloss": "utata wakho"
     },
     {
       "surface": "אשיב",
@@ -46,31 +46,31 @@
     },
     {
       "surface": "וחוצות",
-      "gloss": "kwaye iindawo zokuthengisa"
+      "gloss": "iindawo zokurhweba"
     },
     {
       "surface": "תשים",
-      "gloss": "uzakuzimisela"
+      "gloss": "wenze"
     },
     {
       "surface": "לך",
-      "gloss": "kuwe"
+      "gloss": "ngenxa yakho"
     },
     {
       "surface": "בדמשק",
-      "gloss": "kwiDamaseko"
+      "gloss": "kwiDamaseki"
     },
     {
       "surface": "כאשר",
-      "gloss": "njengokuba"
+      "gloss": "njengoko"
     },
     {
       "surface": "שם",
-      "gloss": "wenzile"
+      "gloss": "wazenzela"
     },
     {
       "surface": "אבי",
-      "gloss": "ubawo"
+      "gloss": "utata wam"
     },
     {
       "surface": "בשמרון",
@@ -82,15 +82,15 @@
     },
     {
       "surface": "בברית",
-      "gloss": "ngokwomnqophiso"
+      "gloss": "ngumnqophiso"
     },
     {
       "surface": "אשלחך",
-      "gloss": "ndiza kukuthumla"
+      "gloss": "ndiza kukuthumela"
     },
     {
       "surface": "ויכרת",
-      "gloss": "wayesimisa"
+      "gloss": "Wenza"
     },
     {
       "surface": "לו",
@@ -102,9 +102,9 @@
     },
     {
       "surface": "וישלחהו",
-      "gloss": "wamthumla"
+      "gloss": "wamthumela"
     }
   ],
-  "timestamp": "2026-09-18T10:33:39.163328193Z",
+  "timestamp": "2026-09-18T18:38:36.905177126Z",
   "model": "glm-5.3"
 }

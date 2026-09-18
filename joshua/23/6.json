@@ -5,11 +5,11 @@
   "book": "joshua",
   "lang": "xh",
   "chapter": 23,
-  "translation": "Nibenkosi enamandla kakhulu ukugcina nokwenza <את> konke okubhaliweyo encwadi yeTora kaMoshe, ukuze ungatshuki kuyo nasekunene nasekhohlo;",
+  "translation": "Nginamandla kakhulu ukugcina nokwenza ⟨את⟩ konke okubhaliweyo encwadini yeTora kaMoshe, ungatshintshi kuyo ngasekunene okanye ngasekhohlo.",
   "tokens": [
     {
       "surface": "וחזקתם",
-      "gloss": "nibenkosi enamandla"
+      "gloss": "nibe namandla"
     },
     {
       "surface": "מאד",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "את",
-      "gloss": "<את>",
+      "gloss": "⟨את⟩",
       "marks": "konke okubhaliweyo"
     },
     {
@@ -38,7 +38,7 @@
     },
     {
       "surface": "בספר",
-      "gloss": "encwadi"
+      "gloss": "encwadini"
     },
     {
       "surface": "תורת",
@@ -50,11 +50,11 @@
     },
     {
       "surface": "לבלתי",
-      "gloss": "ukuze ungatshuki"
+      "gloss": "ukungatshintshi"
     },
     {
       "surface": "סור",
-      "gloss": "ukutshuka"
+      "gloss": "ukusuka"
     },
     {
       "surface": "ממנו",
@@ -62,13 +62,13 @@
     },
     {
       "surface": "ימין",
-      "gloss": "nasekunene"
+      "gloss": "ngasekunene"
     },
     {
       "surface": "ושמאול",
-      "gloss": "nasekhohlo"
+      "gloss": "okanye ngasekhohlo"
     }
   ],
-  "timestamp": "2026-09-18T08:46:22.630977638Z",
+  "timestamp": "2026-09-18T18:51:33.347537732Z",
   "model": "glm-5.3"
 }

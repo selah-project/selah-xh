@@ -5,8 +5,68 @@
   "book": "leviticus",
   "lang": "xh",
   "chapter": 4,
-  "translation": "Ayinikele isandla sakhe phezu kokhanyo olungafiyo, asihlabe njengesiphiso apho kuhlabwa khona isentla ⟨את⟩. Waza ke wabeka isandla sakhe phezu komhlaba wezono, wayihlaba yaba sisiphiso apho kuhlabwa khona iintlobo ezidityanisiweyo.",
-  "tokens": [],
-  "timestamp": "2026-09-18T06:37:25.418985757Z",
+  "translation": "Aze uceke isandla sakhe phezu kweentloko ze-⟨is⟩-offering yesono, asibulele njengesono <...> — kwindawo ejongwe: apho abulala khona u-<...>",
+  "tokens": [
+    {
+      "surface": "וְסָמַךְ",
+      "gloss": "aze uceke"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "isandla sakhe"
+    },
+    {
+      "surface": "יָדוֹ",
+      "gloss": "isandla sakhe"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "phezu"
+    },
+    {
+      "surface": "רֹאשׁ",
+      "gloss": "iintloko"
+    },
+    {
+      "surface": "הַחַטָּאת",
+      "gloss": "offering yesono"
+    },
+    {
+      "surface": "וְשָׁחַט",
+      "gloss": "asibulele"
+    },
+    {
+      "surface": "אֹתָהּ",
+      "gloss": "⟨את⟩",
+      "marks": "njengesono"
+    },
+    {
+      "surface": "לְחַטָּאת",
+      "gloss": "njengesono"
+    },
+    {
+      "surface": "בִּמְקוֹם",
+      "gloss": "kwindawo"
+    },
+    {
+      "surface": "אֲשֶׁר",
+      "gloss": "apho"
+    },
+    {
+      "surface": "יִשְׁחַט",
+      "gloss": "abulala khona"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "i-offering yotshiso"
+    },
+    {
+      "surface": "הָעֹלָה",
+      "gloss": "i-offering yotshiso"
+    }
+  ],
+  "timestamp": "2026-09-18T18:52:53.156096585Z",
   "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "1-chronicles",
   "lang": "xh",
   "chapter": 1,
-  "translation": "Wafa u-Baal-Khanan, wabusa endaweni yakhe uHadad; negama lasedolweni yakhe yayinguPau; igama lomfazi wakhe wayenguMehetabeli, unyana kaMatiredi, unyana kaMe-Zahabi.",
+  "translation": "Wafa u-Baal Khanan, wabusa endaweni yakhe uHadad; igama lelidolophu lakhe yayinguPawu, igama lomfazi wakhe linguMehetabeli, unyana kaMatredi, unyana wakwaMayi Zahabi.",
   "tokens": [
     {
       "surface": "וימת",
@@ -13,11 +13,11 @@
     },
     {
       "surface": "בעל",
-      "gloss": "u-Baal-Khanan"
+      "gloss": "u-Baal"
     },
     {
       "surface": "חנן",
-      "gloss": "(unxande legama)"
+      "gloss": "Khanan"
     },
     {
       "surface": "וימלך",
@@ -33,15 +33,15 @@
     },
     {
       "surface": "ושם",
-      "gloss": "negama"
+      "gloss": "igama"
     },
     {
-      "surface": "עירwo",
-      "gloss": "lasedolweni yakhe"
+      "surface": "עירו",
+      "gloss": "ledolophu lakhe"
     },
     {
       "surface": "פעי",
-      "gloss": "nguPau"
+      "gloss": "inguPawu"
     },
     {
       "surface": "ושם",
@@ -53,7 +53,7 @@
     },
     {
       "surface": "מהיטבאל",
-      "gloss": "wayenguMehetabeli"
+      "gloss": "linguMehetabeli"
     },
     {
       "surface": "בת",
@@ -61,21 +61,21 @@
     },
     {
       "surface": "מטרד",
-      "gloss": "Matiredi"
+      "gloss": "Matredi"
     },
     {
       "surface": "בת",
-      "gloss": "unyana ka-"
+      "gloss": "unyana wakwa-"
     },
     {
       "surface": "מי",
-      "gloss": "Me-Zahabi"
+      "gloss": "Mayi"
     },
     {
       "surface": "זהב",
-      "gloss": "(unxande legama)"
+      "gloss": "Zahabi"
     }
   ],
-  "timestamp": "2026-09-18T16:50:25.550994877Z",
+  "timestamp": "2026-09-18T18:37:09.257594871Z",
   "model": "glm-5.3"
 }

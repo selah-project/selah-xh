@@ -5,8 +5,37 @@
   "book": "psalms",
   "lang": "xh",
   "chapter": 7,
-  "translation": "Inzala yakhe yobutyebi izakubuyela phezu kokhwele lakhe, yaye ubukhosi bakhe bobugwala buya kuhla phezu kweenkumbi zakhe zobunene.",
-  "tokens": [],
-  "timestamp": "2026-09-18T14:24:43.465457737Z",
+  "translation": "Ubukroti bakhe bubuyela entlokweni yakhe, wedanga ubudlwangudlwangu bakhe buhla phezu kweekhumsha zakhe.",
+  "tokens": [
+    {
+      "surface": "ישוב",
+      "gloss": "bubuyela"
+    },
+    {
+      "surface": "עמלו",
+      "gloss": "ubukroti bakhe"
+    },
+    {
+      "surface": "בראשו",
+      "gloss": "entlokweni yakhe"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "wedanga phezu"
+    },
+    {
+      "surface": "קדקדו",
+      "gloss": "kweekhumsha zakhe"
+    },
+    {
+      "surface": "חמסו",
+      "gloss": "ubudlwangudlwangu bakhe"
+    },
+    {
+      "surface": "יירד\/ירד",
+      "gloss": "buhla"
+    }
+  ],
+  "timestamp": "2026-09-18T18:55:12.343559662Z",
   "model": "glm-5.3"
 }

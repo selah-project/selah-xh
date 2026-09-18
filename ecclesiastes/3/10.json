@@ -5,7 +5,7 @@
   "book": "ecclesiastes",
   "lang": "xh",
   "chapter": 3,
-  "translation": "Ndwendwela ndibonile ⟨את⟩ umzambo uElohim awunike abantwana bomntu, ukuba bachithwe kuwo.",
+  "translation": "Ndibonile ⟨את⟩ umthwalo uElohim awunike iintsana zomntu ukuze baxakeke kuwo.",
   "tokens": [
     {
       "surface": "ראיתי",
@@ -14,19 +14,19 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "umzambo"
+      "marks": "umthwalo"
     },
     {
       "surface": "הענין",
-      "gloss": "umzambo"
+      "gloss": "umthwalo"
     },
     {
       "surface": "אשר",
-      "gloss": ""
+      "gloss": "o-"
     },
     {
       "surface": "נתן",
-      "gloss": "awunike"
+      "gloss": "wanike"
     },
     {
       "surface": "אלהים",
@@ -34,21 +34,21 @@
     },
     {
       "surface": "לבני",
-      "gloss": "abantwana bomntu"
+      "gloss": "iintsana zo-"
     },
     {
       "surface": "האדם",
-      "gloss": ""
+      "gloss": "umntu"
     },
     {
       "surface": "לענות",
-      "gloss": "ukuba bachithwe"
+      "gloss": "ukubanjwa kuwo"
     },
     {
       "surface": "בו",
       "gloss": "kuwo"
     }
   ],
-  "timestamp": "2026-09-18T16:23:54.925222421Z",
+  "timestamp": "2026-09-18T18:43:49.032710243Z",
   "model": "glm-5.3"
 }

@@ -5,11 +5,11 @@
   "book": "numbers",
   "lang": "xh",
   "chapter": 32,
-  "translation": "Kodwa ukuba aniwenzi njalo, yabonani, nilahle kuYahwe; kwaye yazini isono lenu, liza kunifumana.",
+  "translation": "Kodwa ukuba anenzi njalo, yabonani, none isono niYahwe; nazi isono lenu, eliza kufumana nin ⟨את⟩.",
   "tokens": [
     {
       "surface": "ואם",
-      "gloss": "kodwa ukuba"
+      "gloss": "Kodwa ukuba"
     },
     {
       "surface": "לא",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "תעשון",
-      "gloss": "aniwenzi"
+      "gloss": "anenzi"
     },
     {
       "surface": "כן",
@@ -29,15 +29,15 @@
     },
     {
       "surface": "חטאתם",
-      "gloss": "nilahle"
+      "gloss": "none isono"
     },
     {
       "surface": "ליהוה",
-      "gloss": "kuYahwe"
+      "gloss": "kuniYahwe"
     },
     {
       "surface": "ודעו",
-      "gloss": "kwaye yazini"
+      "gloss": "nazi"
     },
     {
       "surface": "חטאתכם",
@@ -45,18 +45,18 @@
     },
     {
       "surface": "אשר",
-      "gloss": ""
+      "gloss": "njengoko"
     },
     {
       "surface": "תמצא",
-      "gloss": "liza kunifumana"
+      "gloss": "eliza kufumana"
     },
     {
       "surface": "אתכם",
       "gloss": "⟨את⟩",
-      "marks": "nina"
+      "marks": "nin"
     }
   ],
-  "timestamp": "2026-09-18T07:46:29.656614341Z",
+  "timestamp": "2026-09-18T18:54:25.445660319Z",
   "model": "glm-5.3"
 }

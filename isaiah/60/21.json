@@ -5,7 +5,7 @@
   "book": "isaiah",
   "lang": "xh",
   "chapter": 60,
-  "translation": "Kwaye abantu bakho bonke ⟨aba⟩ balungileyo, ngonaphakade baza kulifa ⟨את⟩ umhlaba; intshebe yokutyala kwam, umsebenzi wezandla zam, ukuze ndizukiswe.",
+  "translation": "Abantu bakho bonke bayabalungile, kuze kube phakade baza kuthatha ⟨⟨⟩⟩umhlaba; isithumba sokutyala kwam, umsebenzi wezandla zam, ukuze ndizukiswe.",
   "tokens": [
     {
       "surface": "ועמך",
@@ -17,20 +17,15 @@
     },
     {
       "surface": "צדיקים",
-      "gloss": "balungileyo"
+      "gloss": "bayabalungile"
     },
     {
       "surface": "לעולם",
-      "gloss": "ngonaphakade"
+      "gloss": "kuze kube phakade"
     },
     {
       "surface": "יירשו",
-      "gloss": "baza kulifa"
-    },
-    {
-      "surface": "את",
-      "gloss": "⟨את⟩",
-      "marks": "umhlaba"
+      "gloss": "baza kuthatha"
     },
     {
       "surface": "ארץ",
@@ -38,11 +33,11 @@
     },
     {
       "surface": "נצר",
-      "gloss": "intshebe"
+      "gloss": "isithumba"
     },
     {
       "surface": "מטעו",
-      "gloss": "yokutyala kwam"
+      "gloss": "sokutyala kwam"
     },
     {
       "surface": "מעשה",
@@ -57,6 +52,6 @@
       "gloss": "ukuze ndizukiswe"
     }
   ],
-  "timestamp": "2026-09-18T11:43:50.563732280Z",
+  "timestamp": "2026-09-18T18:57:22.106104048Z",
   "model": "glm-5.3"
 }

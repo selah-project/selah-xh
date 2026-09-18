@@ -5,8 +5,41 @@
   "book": "1-chronicles",
   "lang": "xh",
   "chapter": 9,
-  "translation": "KwaGibeyoni ahlala uYeyeli, uyise waseGibeyoni; igama lomfazi wakhe linguMaakha.",
-  "tokens": [],
-  "timestamp": "2026-09-18T16:54:02.886728864Z",
+  "translation": "Apho eGibhoni bahlala uyise weGibhoni u-Yeueli, negama lomfazi wakhe languMaakha;",
+  "tokens": [
+    {
+      "surface": "ובגבעון",
+      "gloss": "apho eGibhoni"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "bahlala"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "uyise"
+    },
+    {
+      "surface": "גבעון",
+      "gloss": "weGibhoni"
+    },
+    {
+      "surface": "יעואל",
+      "gloss": "u-Yeueli"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "negama"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "lomfazi wakhe"
+    },
+    {
+      "surface": "מעכה",
+      "gloss": "nguMaakha"
+    }
+  ],
+  "timestamp": "2026-09-18T18:37:13.873572729Z",
   "model": "glm-5.3"
 }

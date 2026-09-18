@@ -5,11 +5,11 @@
   "book": "1-kings",
   "lang": "xh",
   "chapter": 20,
-  "translation": "Wathi kuye: “Kuba awuzange umamle ilizwi likaYahwe, yiza ubone: uya kushiya kum ⟨את⟩, ibhubesi liza kukubetha.” Wahamba kuye emva kwakhe, ibhubesi lamfumana, lathi lambetha ngokubetha kwakhe kwabulala.",
+  "translation": "Wathi kuye: “Kuba awulalelanga ilizwi likaYahwe, yabona, uza kuhamba usuka ⟨את⟩ kum, ibhubesi liza kukubetha.” Waza wahamba emshiye, ibhubesi lamfumana, lambetha.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "wathi"
+      "gloss": "Wathi"
     },
     {
       "surface": "לו",
@@ -21,15 +21,15 @@
     },
     {
       "surface": "אשר",
-      "gloss": ""
+      "gloss": "ukuba"
     },
     {
       "surface": "לא",
-      "gloss": "awuzange"
+      "gloss": "hayi"
     },
     {
       "surface": "שמעת",
-      "gloss": "umamle"
+      "gloss": "awulalelanga"
     },
     {
       "surface": "בקול",
@@ -37,23 +37,24 @@
     },
     {
       "surface": "יהוה",
-      "gloss": "likaYahwe"
+      "gloss": "kaYahwe"
     },
     {
       "surface": "הנך",
-      "gloss": "yiza ubone"
+      "gloss": "yabona"
     },
     {
       "surface": "הולך",
-      "gloss": "uya kuhamba"
+      "gloss": "uza kuhamba"
     },
     {
       "surface": "מאתי",
-      "gloss": "ushiya kum ⟨את⟩"
+      "gloss": "⟨את⟩ kum",
+      "marks": "mna"
     },
     {
       "surface": "והכך",
-      "gloss": "liza kukubetha"
+      "gloss": "kwaye liza kukubetha"
     },
     {
       "surface": "האריה",
@@ -61,11 +62,11 @@
     },
     {
       "surface": "וילך",
-      "gloss": "wahamba"
+      "gloss": "Waza wahamba"
     },
     {
       "surface": "מאצלו",
-      "gloss": "kuye emva kwakhe"
+      "gloss": "emshiye"
     },
     {
       "surface": "וימצאהו",
@@ -77,9 +78,9 @@
     },
     {
       "surface": "ויכהו",
-      "gloss": "lambetha ngokubetha kwakhe kwabulala"
+      "gloss": "lambetha"
     }
   ],
-  "timestamp": "2026-09-18T10:33:39.163720594Z",
+  "timestamp": "2026-09-18T18:56:40.295451741Z",
   "model": "glm-5.3"
 }

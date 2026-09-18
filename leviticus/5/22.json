@@ -5,7 +5,7 @@
   "book": "leviticus",
   "lang": "xh",
   "chapter": 5,
-  "translation": "okanye wafumana into elahlekileyo, waze wangxola ngayo, waze wafunga bubuxoki — ngenye yazo zonke izinto umntu anokuzenza, aze achwetheze kuzo;",
+  "translation": "Okanye wafumana into elahlekileyo, wayidimbaza ngayo, wafunga ngokungachananga, ngenye yazo zonke izinto umntu anokuzenza, echwetheza kuzo;",
   "tokens": [
     {
       "surface": "או",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "וכחש",
-      "gloss": "waze wangxola"
+      "gloss": "wayidimbaza"
     },
     {
       "surface": "בה",
@@ -29,15 +29,15 @@
     },
     {
       "surface": "ונשבע",
-      "gloss": "waze wafunga"
+      "gloss": "wafunga"
     },
     {
       "surface": "על",
-      "gloss": ""
+      "gloss": "nge-"
     },
     {
       "surface": "שקר",
-      "gloss": "bubuxoki"
+      "gloss": "okungachananga"
     },
     {
       "surface": "על",
@@ -45,15 +45,15 @@
     },
     {
       "surface": "אחת",
-      "gloss": "ngenye"
+      "gloss": "enye"
     },
     {
       "surface": "מכל",
-      "gloss": "yazo zonke"
+      "gloss": "ezizonke"
     },
     {
       "surface": "אשר",
-      "gloss": ""
+      "gloss": "ezo"
     },
     {
       "surface": "יעשה",
@@ -65,13 +65,13 @@
     },
     {
       "surface": "לחטא",
-      "gloss": "aze achwetheze"
+      "gloss": "echwetheza"
     },
     {
       "surface": "בהנה",
       "gloss": "kuzo"
     }
   ],
-  "timestamp": "2026-09-18T06:38:55.427799279Z",
+  "timestamp": "2026-09-18T18:52:41.030123962Z",
   "model": "glm-5.3"
 }

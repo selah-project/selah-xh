@@ -5,11 +5,11 @@
   "book": "joshua",
   "lang": "xh",
   "chapter": 18,
-  "translation": "Basuka amadoda, baya; uYehoshuwa wayalela ⟨את⟩ abahamba ukubhala ⟨את⟩ umhlaba, esithi: “Hambani, nihambelani-hambelani phakathi komhlaba, nibhale ⟨את⟩ wona, nibuyele kum; apha ndiza kuniphosa ithuba phambi kukaYahwe eShiloh.”",
+  "translation": "Amadoda asuka, ahambe; uYehoshuwa wayalela ⟨את⟩ abahamba ukubhala ⟨את⟩ umhlaba, esithi: “Hambani, hambani-hambani umhlaba, nibhale yena, nibuyele kum; apha ndiza kutywala ilotha kuni phambi koYahwe eShiloh.”",
   "tokens": [
     {
       "surface": "ויקמו",
-      "gloss": "basuka"
+      "gloss": "asuka"
     },
     {
       "surface": "האנשים",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "וילכו",
-      "gloss": "baya"
+      "gloss": "ahambe"
     },
     {
       "surface": "ויצו",
@@ -30,7 +30,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "abahamba ukubhala umhlaba"
+      "marks": "abahamba"
     },
     {
       "surface": "ההלכים",
@@ -59,11 +59,11 @@
     },
     {
       "surface": "והתהלכו",
-      "gloss": "nihambelani-hambelani"
+      "gloss": "hambani-hambe"
     },
     {
       "surface": "בארץ",
-      "gloss": "phakathi komhlaba"
+      "gloss": "umhlaba"
     },
     {
       "surface": "וכתבו",
@@ -71,7 +71,7 @@
     },
     {
       "surface": "אותה",
-      "gloss": "⟨את⟩ wona"
+      "gloss": "yena ⟨את⟩"
     },
     {
       "surface": "ושובו",
@@ -87,29 +87,29 @@
     },
     {
       "surface": "אשליך",
-      "gloss": "ndiza kuniphosa"
+      "gloss": "ndiza kutywala"
     },
     {
       "surface": "לכם",
-      "gloss": ""
+      "gloss": "kuni"
     },
     {
       "surface": "גורל",
-      "gloss": "ithuba"
+      "gloss": "ilotha"
     },
     {
       "surface": "לפני",
-      "gloss": "phambi"
+      "gloss": "phambi kwa"
     },
     {
       "surface": "יהוה",
-      "gloss": "kukaYahwe"
+      "gloss": "uYahwe"
     },
     {
       "surface": "בשלה",
       "gloss": "eShiloh"
     }
   ],
-  "timestamp": "2026-09-18T17:27:18.157268185Z",
+  "timestamp": "2026-09-18T18:51:39.354812378Z",
   "model": "glm-5.3"
 }

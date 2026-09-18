@@ -5,15 +5,15 @@
   "book": "1-samuel",
   "lang": "xh",
   "chapter": 26,
-  "translation": "Alulunganga le nto owenzileyo. NguYahwe ophilayo, nina ninabantwana bokufa, kuba anigcinang’inkosi yenu, uMashiya kaYahwe. Ngoku ke, jonga aphi umkhonto womKumkani, ne-⟨את⟩ isitya samanzi esasekhanda lakhe.”",
+  "translation": "Akulunganga le nto eniyenzileyo. NguYahwe uphilayo, nina ningabantwana bokufa, kuba anilondoluli inkosi yenu, uMashiya kaYahwe. Ngoko makhangela nina apho likhona umkhonto wekumkani, neso ⟨את⟩ isitya samanzi esasinakwiintlambo zentloko yakhe.",
   "tokens": [
     {
       "surface": "לא",
-      "gloss": "a-"
+      "gloss": "ayi-"
     },
     {
       "surface": "טוב",
-      "gloss": "lulunganga"
+      "gloss": "lunganga"
     },
     {
       "surface": "הדבר",
@@ -21,23 +21,23 @@
     },
     {
       "surface": "הזה",
-      "gloss": ""
+      "gloss": "le"
     },
     {
       "surface": "אשר",
-      "gloss": ""
+      "gloss": "eni-"
     },
     {
       "surface": "עשית",
-      "gloss": "owenzileyo"
+      "gloss": "-yenzileyo"
     },
     {
       "surface": "חי",
-      "gloss": "ophilayo"
+      "gloss": "uphilayo"
     },
     {
       "surface": "יהוה",
-      "gloss": "uYahwe"
+      "gloss": "NguYahwe"
     },
     {
       "surface": "כי",
@@ -45,7 +45,7 @@
     },
     {
       "surface": "בני",
-      "gloss": "abantwana"
+      "gloss": "ngabantwana"
     },
     {
       "surface": "מות",
@@ -57,27 +57,27 @@
     },
     {
       "surface": "אשר",
-      "gloss": ""
+      "gloss": "ukuba"
     },
     {
       "surface": "לא",
-      "gloss": "anga-"
+      "gloss": "ayi-"
     },
     {
       "surface": "שמרתם",
-      "gloss": "gcinang’"
+      "gloss": "-londoluli"
     },
     {
       "surface": "על",
-      "gloss": "—"
+      "gloss": "ngaphezu kwenkosi"
     },
     {
       "surface": "אדניכם",
-      "gloss": "inkosi yenu"
+      "gloss": "yenu"
     },
     {
       "surface": "על",
-      "gloss": "—"
+      "gloss": "phezu kuka-"
     },
     {
       "surface": "משיח",
@@ -89,15 +89,15 @@
     },
     {
       "surface": "ועתה",
-      "gloss": "ngoku ke"
+      "gloss": "Ngoko"
     },
     {
       "surface": "ראה",
-      "gloss": "jonga"
+      "gloss": "makhangela"
     },
     {
       "surface": "אי",
-      "gloss": "aphi"
+      "gloss": "apho"
     },
     {
       "surface": "חנית",
@@ -105,11 +105,11 @@
     },
     {
       "surface": "המלך",
-      "gloss": "womKumkani"
+      "gloss": "wekumkani"
     },
     {
       "surface": "ואת",
-      "gloss": "ne-⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "isitya samanzi"
     },
     {
@@ -122,13 +122,13 @@
     },
     {
       "surface": "אשר",
-      "gloss": "esa-"
+      "gloss": "esonakwiintlambo"
     },
     {
       "surface": "מראשתו",
-      "gloss": "sekhanda lakhe"
+      "gloss": "zentloko yakhe"
     }
   ],
-  "timestamp": "2026-09-18T09:42:00.864838272Z",
+  "timestamp": "2026-09-18T18:39:04.976594015Z",
   "model": "glm-5.3"
 }

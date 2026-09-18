@@ -5,8 +5,107 @@
   "book": "numbers",
   "lang": "xh",
   "chapter": 35,
-  "translation": "Kananjalo musa ukutyeba intliziyo ngendlala—",
-  "tokens": [],
-  "timestamp": "2026-09-18T07:47:43.155154517Z",
+  "translation": "Kananjalo musani ukuchaphazela ⟨את⟩ umhlaba enikumiyo kulo, kuba igazi lona liyachaphazela ⟨את⟩ umhlaba, yaye umhlaba awuxolelwanga ngegazi elithunyelwa kuwo, ngaphandle kokuba ngegazi lomthunyeli walo.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "kananjalo musani"
+    },
+    {
+      "surface": "תחניפו",
+      "gloss": "ukuchaphazela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umhlaba"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "umhlaba"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "enikumiyo"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "nina"
+    },
+    {
+      "surface": "בה",
+      "gloss": "kulo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "igazi"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "lona"
+    },
+    {
+      "surface": "יחניף",
+      "gloss": "liyachaphazela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umhlaba"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "umhlaba"
+    },
+    {
+      "surface": "ולארץ",
+      "gloss": "yaye umhlaba"
+    },
+    {
+      "surface": "לא",
+      "gloss": "awuxolelwanga"
+    },
+    {
+      "surface": "יכפר",
+      "gloss": "ukuxolelwa"
+    },
+    {
+      "surface": "לדם",
+      "gloss": "ngegazi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "elithunyelwayo"
+    },
+    {
+      "surface": "שפך",
+      "gloss": "elithunyelwa"
+    },
+    {
+      "surface": "בה",
+      "gloss": "kuwo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngaphandle"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kokuba"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "ngegazi"
+    },
+    {
+      "surface": "שפכו",
+      "gloss": "umthunyeli walo"
+    }
+  ],
+  "timestamp": "2026-09-18T18:54:40.153337657Z",
   "model": "glm-5.3"
 }

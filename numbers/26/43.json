@@ -5,11 +5,11 @@
   "book": "numbers",
   "lang": "xh",
   "chapter": 26,
-  "translation": "Zonke iintsapho zabaShuhami, ngokwabalawuli bazo, zinamanani amane anamashumi amatandathu eliwaka elinamakhulu amane.",
+  "translation": "Zonke iintsapho zaSukhami, ngokobalwa kwabo, zazingamashumi amane anamashumi amatandathu eliwaka ngezigaba ezine ezingamakhulu amane.",
   "tokens": [
     {
       "surface": "כל",
-      "gloss": "zonke"
+      "gloss": "Zonke"
     },
     {
       "surface": "משפחת",
@@ -17,15 +17,15 @@
     },
     {
       "surface": "השוחמי",
-      "gloss": "zabaShuhami"
+      "gloss": "zaSukhami"
     },
     {
       "surface": "לפקדיהם",
-      "gloss": "ngokwabalawuli bazo"
+      "gloss": "ngokubalwa kwabo"
     },
     {
       "surface": "ארבעה",
-      "gloss": "amane"
+      "gloss": "amane (namane)"
     },
     {
       "surface": "וששים",
@@ -37,9 +37,13 @@
     },
     {
       "surface": "וארבע",
-      "gloss": "elinamakhulu amane"
+      "gloss": "nezine"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ezingamakhulu amane"
     }
   ],
-  "timestamp": "2026-09-18T17:24:39.554002976Z",
+  "timestamp": "2026-09-18T18:54:25.520321626Z",
   "model": "glm-5.3"
 }

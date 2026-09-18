@@ -5,8 +5,46 @@
   "book": "1-chronicles",
   "lang": "xh",
   "chapter": 5,
-  "translation": "uYehotsadaka wahamba nakumkelwa kwakhe — ngoYahwe watshoza uYehuda ngeYerushalayimi ngesandla sikaNebukadnetsari.",
-  "tokens": [],
-  "timestamp": "2026-09-18T16:51:00.545242765Z",
+  "translation": "Kwaye uYehotsadaki wahanjiswa ekuthinjweni, xa uYahwe wathuma <את> uYuda nakwiYerushalayimi ngesandla soBhukhadhine tsari.",
+  "tokens": [
+    {
+      "surface": "ויהוצדק",
+      "gloss": "uYehotsadaki"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "wahanjiswa"
+    },
+    {
+      "surface": "בהגלות",
+      "gloss": "ekuthinjweni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uYuda"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "uYuda"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "iYerushalayimi"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ngesandla"
+    },
+    {
+      "surface": "נבכדנאצר",
+      "gloss": "uBhukhadhine tsari"
+    }
+  ],
+  "timestamp": "2026-09-18T18:37:16.238615284Z",
   "model": "glm-5.3"
 }

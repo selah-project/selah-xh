@@ -5,8 +5,67 @@
   "book": "zechariah",
   "lang": "xh",
   "chapter": 11,
-  "translation": "Ndathi: “Andizukusingatha nina; le ifa, ife; itshonisa tshona; abaselayo batye umntu unyama wakhe umakhwela-omnye.” Wait — umntu unyama wakhe umakhwela-omnye — correction below",
-  "tokens": [],
-  "timestamp": "2026-09-18T14:20:23.882814994Z",
+  "translation": "Ndandithi: Andiza kukulusa ⟨את⟩ nina; okufayo afe, okutyayekayo ityayeke, nalabo abasala batye, mnye ⟨את⟩ inyama yomhlobo wakhe.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "Ndandithi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "andi-"
+    },
+    {
+      "surface": "ארעה",
+      "gloss": "za kukulusa"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ nina",
+      "marks": "okufayo (iindawo ezifayo)"
+    },
+    {
+      "surface": "המתה",
+      "gloss": "okufayo"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "afe"
+    },
+    {
+      "surface": "והנכחדת",
+      "gloss": "okutyayekayo"
+    },
+    {
+      "surface": "תכחד",
+      "gloss": "ityayeke"
+    },
+    {
+      "surface": "והנשארות",
+      "gloss": "nalabo abasala"
+    },
+    {
+      "surface": "תאכלנה",
+      "gloss": "batye"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "mnye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "inyama"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "inyama"
+    },
+    {
+      "surface": "רעותה",
+      "gloss": "yomhlobo wakhe"
+    }
+  ],
+  "timestamp": "2026-09-18T18:56:08.211838150Z",
   "model": "glm-5.3"
 }

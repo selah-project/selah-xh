@@ -5,39 +5,43 @@
   "book": "isaiah",
   "lang": "xh",
   "chapter": 40,
-  "translation": "Olowo uswelayo isipho akakhethe okulahlekileyo intsimbi engahlabathiyo — umenzi-wemifanekiso ocebileyo uyayifuna ukulungelelanisa umfanekiso ongalathiweyo ongahambanga kwindawo yawo.",
+  "translation": "Lowo uswelwa kukungabi nathinja, ngomnikelo ukhetha ⟨את⟩ umthi ongayi bola; akhangela kuye umyili ohlakanipileyo ukumisela isithombe esingatyabuki.",
   "tokens": [
     {
       "surface": "המסכן",
-      "gloss": "Olowo uswelayo"
+      "gloss": "lowo uswelwa kukungabi nathinja"
     },
     {
       "surface": "תרומה",
-      "gloss": "isipho"
+      "gloss": "ngomnikelo"
     },
     {
       "surface": "עץ",
-      "gloss": "intsimbi"
+      "gloss": "umthi"
     },
     {
       "surface": "לא",
-      "gloss": "akakhethe okulahlekileyo"
+      "gloss": "onga-"
+    },
+    {
+      "surface": "ירקב",
+      "gloss": "yi bola"
     },
     {
       "surface": "יבחר",
-      "gloss": "ukukhetha"
+      "gloss": "ukhetha"
     },
     {
       "surface": "חרש",
-      "gloss": "umenzi-wemifanekiso"
+      "gloss": "umyili"
     },
     {
       "surface": "חכם",
-      "gloss": "ocebileyo (ulwazi)"
+      "gloss": "ohlakanipileyo"
     },
     {
       "surface": "יבקש",
-      "gloss": "uyayifuna"
+      "gloss": "akhangela"
     },
     {
       "surface": "לו",
@@ -45,21 +49,21 @@
     },
     {
       "surface": "להכין",
-      "gloss": "ukulungelelanisa"
+      "gloss": "ukumisela"
     },
     {
       "surface": "פסל",
-      "gloss": "umfanekiso ongalathiweyo"
+      "gloss": "isithombe"
     },
     {
       "surface": "לא",
-      "gloss": "akuna"
+      "gloss": "esi-"
     },
     {
       "surface": "ימוט",
-      "gloss": "ukuhamba kwindawo yawo"
+      "gloss": "ngatyabuki"
     }
   ],
-  "timestamp": "2026-09-18T11:31:45.118423531Z",
+  "timestamp": "2026-09-18T18:48:59.278471767Z",
   "model": "glm-5.3"
 }

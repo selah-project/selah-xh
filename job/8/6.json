@@ -5,7 +5,7 @@
   "book": "job",
   "lang": "xh",
   "chapter": 8,
-  "translation": "ukuba ulunge ngokucaceleyo nangokungathelekanga, ngoku ⟨⟨he⟩⟩ uya kuququza ngokwakho, aze alungise indawo yokuhlala kolungile lwakho;",
+  "translation": "Ukuba ucokile ulungelelene, ngoko nangoko uza kuvukela wena, aze alungise indlu yolungelo lwakho.",
   "tokens": [
     {
       "surface": "אם",
@@ -13,11 +13,11 @@
     },
     {
       "surface": "זך",
-      "gloss": "ulunge ngokucaceleyo"
+      "gloss": "ucokile"
     },
     {
       "surface": "וישר",
-      "gloss": "nangokungathelekanga"
+      "gloss": "ulungelelene"
     },
     {
       "surface": "אתה",
@@ -25,15 +25,15 @@
     },
     {
       "surface": "כי",
-      "gloss": "ngokwenene"
+      "gloss": "⟨ngoko⟩"
     },
     {
       "surface": "עתה",
-      "gloss": "ngoku"
+      "gloss": "ngoko nangoko"
     },
     {
       "surface": "יעיר",
-      "gloss": "uya kuququza"
+      "gloss": "uza kuvukela"
     },
     {
       "surface": "עליך",
@@ -45,13 +45,13 @@
     },
     {
       "surface": "נות",
-      "gloss": "indawo yokuhlala"
+      "gloss": "indlu"
     },
     {
       "surface": "צדקך",
-      "gloss": "kolungile lwakho"
+      "gloss": "yolungelo lwakho"
     }
   ],
-  "timestamp": "2026-09-18T16:01:25.242401580Z",
+  "timestamp": "2026-09-18T18:51:03.595700338Z",
   "model": "glm-5.3"
 }

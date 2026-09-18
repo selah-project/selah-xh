@@ -5,8 +5,105 @@
   "book": "1-kings",
   "lang": "xh",
   "chapter": 1,
-  "translation": "Kuba uthe ukwehla namhlanje, wabhengula izinkomo ezinamafutha nezimvu ngeenkomshi, wabizela onke oonyana benkosi, noorhulumente wemikhosi, noyiTsadok... uyazibulala into yokuthi: wabizela u-Evyathar umngcwabele inkosi — ewe, bati besitya besebela phambi kwakhe, bathi: “Phila adoniyahu!”",
-  "tokens": [],
-  "timestamp": "2026-09-18T17:31:18.779011617Z",
+  "translation": "Kuba wakhwela phantsi namhlanje, wayezela iinkabi neziskunu zeenkomo neegusha ngeenamba, wabizela onke oonyana benkosi, nabaphathi bemikhosi, no-Ebyathari umongami, nangebona besetya bedla besela phambi kwakhe, bathi: “Maphile inkosi u-Adoniyahu!”",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "wakhwela phantsi"
+    },
+    {
+      "surface": "היום",
+      "gloss": "namhlanje"
+    },
+    {
+      "surface": "ויזבח",
+      "gloss": "wayezela"
+    },
+    {
+      "surface": "שור",
+      "gloss": "iinkabi"
+    },
+    {
+      "surface": "ומריא",
+      "gloss": "neziskunu zeenkomo"
+    },
+    {
+      "surface": "וצאן",
+      "gloss": "neegusha"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "ngeenamba"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "wabizela"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "onke"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oonyana"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "benkosi"
+    },
+    {
+      "surface": "ולשרי",
+      "gloss": "nabaphathi"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "bemikhosi"
+    },
+    {
+      "surface": "ולאביתר",
+      "gloss": "no-Ebyathari"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "umongami"
+    },
+    {
+      "surface": "והנם",
+      "gloss": "nangebona"
+    },
+    {
+      "surface": "אכלים",
+      "gloss": "besetya bedla"
+    },
+    {
+      "surface": "ושתים",
+      "gloss": "besela"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "phambi kwakhe"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "bathi"
+    },
+    {
+      "surface": "יחי",
+      "gloss": "Maphile"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "inkosi"
+    },
+    {
+      "surface": "אדניהו",
+      "gloss": "u-Adoniyahu"
+    }
+  ],
+  "timestamp": "2026-09-18T18:37:28.350397736Z",
   "model": "glm-5.3"
 }

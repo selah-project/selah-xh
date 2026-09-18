@@ -5,39 +5,39 @@
   "book": "1-samuel",
   "lang": "xh",
   "chapter": 29,
-  "translation": "Bathi oorhuleli bePelishtiyim: “Zintoni aba hambayo?” Wathi uAkishi koorhuleli bePelishtiyim: “Akungaba nguYe lo uDawidi, inceba kaShawuli, kukumkani wakwaYisrayeli, obele эdwa ⟨את⟩ kum imihla le okanye iminyaka le, mna andifumane nto kuye, ukususela ngeloo mini awa kuyo ukufike namhlanje?”",
+  "translation": "Oonobala bamaPelishti bathi: “Zithini ezi iiHebhere?” U-Akish wathi koonobala bamaPelishti: “Ingaba akalolu uDawidi, umkhonzi kaShawuli, inkosi yakwaYisrayeli, oye wahlala ⟨את⟩ kum le mihla okanye le minyaka, kwaye andifumanelanga kuye nto nayiphina, usuku alwawela ngalo kum, ukuya kulel usuku?”",
   "tokens": [
     {
       "surface": "ויאמרו",
-      "gloss": "Bathi"
+      "gloss": "bathi"
     },
     {
       "surface": "שרי",
-      "gloss": "oorhuleli"
+      "gloss": "oonobala"
     },
     {
       "surface": "פלשתים",
-      "gloss": "bePelishtiyim"
+      "gloss": "bamaPelishti"
     },
     {
       "surface": "מה",
-      "gloss": "Zintoni"
+      "gloss": "zithini"
     },
     {
       "surface": "העברים",
-      "gloss": "aba hambayo"
+      "gloss": "ezi iiHebhere"
     },
     {
       "surface": "האלה",
-      "gloss": "aba"
+      "gloss": "ezi"
     },
     {
       "surface": "ויאמר",
-      "gloss": "Wathi"
+      "gloss": "wathi"
     },
     {
       "surface": "אכיש",
-      "gloss": "uAkishi"
+      "gloss": "u-Akish"
     },
     {
       "surface": "אל",
@@ -45,15 +45,15 @@
     },
     {
       "surface": "שרי",
-      "gloss": "oorhuleli"
+      "gloss": "oonobala"
     },
     {
       "surface": "פלשתים",
-      "gloss": "bePelishtiyim"
+      "gloss": "bamaPelishti"
     },
     {
       "surface": "הלוא",
-      "gloss": "Akungaba"
+      "gloss": "ingaba akalolu"
     },
     {
       "surface": "זה",
@@ -65,7 +65,7 @@
     },
     {
       "surface": "עבד",
-      "gloss": "inceba"
+      "gloss": "umkhonzi"
     },
     {
       "surface": "שאול",
@@ -73,23 +73,24 @@
     },
     {
       "surface": "מלך",
-      "gloss": "kukumkani"
+      "gloss": "inkosi"
     },
     {
       "surface": "ישראל",
-      "gloss": "wakwaYisrayeli"
+      "gloss": "yakwaYisrayeli"
     },
     {
       "surface": "אשר",
-      "gloss": "o-"
+      "gloss": "o"
     },
     {
       "surface": "היה",
-      "gloss": "obele"
+      "gloss": "wahlala"
     },
     {
       "surface": "אתי",
-      "gloss": "⟨את⟩ kum"
+      "gloss": "⟨את⟩ kum",
+      "marks": "kum"
     },
     {
       "surface": "זה",
@@ -97,7 +98,7 @@
     },
     {
       "surface": "ימים",
-      "gloss": "imihla"
+      "gloss": "mihla"
     },
     {
       "surface": "או",
@@ -109,15 +110,15 @@
     },
     {
       "surface": "שנים",
-      "gloss": "iminyaka"
+      "gloss": "minyaka"
     },
     {
       "surface": "ולא",
-      "gloss": "mna andifumane"
+      "gloss": "kwaye andi-"
     },
     {
       "surface": "מצאתי",
-      "gloss": "andifumane"
+      "gloss": "fumanelanga"
     },
     {
       "surface": "בו",
@@ -125,29 +126,29 @@
     },
     {
       "surface": "מאומה",
-      "gloss": "nto"
+      "gloss": "nto nayiphina"
     },
     {
       "surface": "מיום",
-      "gloss": "ukususela ngeloo mini"
+      "gloss": "usuku"
     },
     {
       "surface": "נפלו",
-      "gloss": "awa"
+      "gloss": "alwawela ngalo"
     },
     {
       "surface": "עד",
-      "gloss": "ukufike"
+      "gloss": "ukuya ku-"
     },
     {
       "surface": "היום",
-      "gloss": "namhlanje"
+      "gloss": "lel usuku"
     },
     {
       "surface": "הזה",
-      "gloss": "namhlanje"
+      "gloss": "le"
     }
   ],
-  "timestamp": "2026-09-18T09:39:29.566637044Z",
+  "timestamp": "2026-09-18T18:39:11.636560035Z",
   "model": "glm-5.3"
 }

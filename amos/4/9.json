@@ -5,63 +5,64 @@
   "book": "amos",
   "lang": "xh",
   "chapter": 4,
-  "translation": "Ndalishaya ⟨את⟩ nini ngeshinga nangumbungu; obuninzi beendima zenu, neendiliya zenu, iintankfe zenu noolivhu zenu — wazidla ⟨⟨…⟩⟩ inzitshana; kodwa anibuyelanga kum, utshilo uYahwe.",
+  "translation": "Ndinibethile ⟨את⟩ nina ngeshishini nangumlaza; ubuninzi beezi — iindawo zokutyela zenu, amacebe enu, amaqunube enu namanquma enu — zamutywa zisenxe; nanganibuyanga kundim, utshilo uYahwe.",
   "tokens": [
     {
       "surface": "הכיתי",
-      "gloss": "Ndalishaya"
+      "gloss": "Ndinibethile"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ nini"
+      "gloss": "⟨את⟩",
+      "marks": "nina"
     },
     {
       "surface": "בשדפון",
-      "gloss": "ngeshinga"
+      "gloss": "ngeshishini"
     },
     {
       "surface": "ובירקון",
-      "gloss": "nangumbungu"
+      "gloss": "nangumlaza"
     },
     {
       "surface": "הרבות",
-      "gloss": "obuninzi"
+      "gloss": "ubuninzi beezi"
     },
     {
       "surface": "גנותיכם",
-      "gloss": "beendima zenu"
+      "gloss": "iindawo zokutyela zenu"
     },
     {
       "surface": "וכרמיכם",
-      "gloss": "neendiliya zenu"
+      "gloss": "amacebe enu"
     },
     {
       "surface": "ותאניכם",
-      "gloss": "iintankfe zenu"
+      "gloss": "amaqunube enu"
     },
     {
       "surface": "וזיתיכם",
-      "gloss": "noolivhu zenu"
+      "gloss": "amanquma enu"
     },
     {
       "surface": "יאכל",
-      "gloss": "wazidla"
+      "gloss": "zamutywa"
     },
     {
       "surface": "הגזם",
-      "gloss": "inzitshana"
+      "gloss": "isenxe"
     },
     {
       "surface": "ולא",
-      "gloss": "kodwa akunanjalo"
+      "gloss": "nanga"
     },
     {
       "surface": "שבתם",
-      "gloss": "anibuyelanga"
+      "gloss": "nibuyanga"
     },
     {
       "surface": "עדי",
-      "gloss": "kum"
+      "gloss": "kundim"
     },
     {
       "surface": "נאם",
@@ -72,6 +73,6 @@
       "gloss": "uYahwe"
     }
   ],
-  "timestamp": "2026-09-18T17:42:57.256405056Z",
+  "timestamp": "2026-09-18T18:41:58.758553338Z",
   "model": "glm-5.3"
 }

@@ -5,62 +5,53 @@
   "book": "2-kings",
   "lang": "xh",
   "chapter": 5,
-  "translation": "Wangena, waxela inkosi yakhe, wathi: Njalo nakunjalo yathetha le ntombazana esuka emhlabeni wakwa-Israyeli.",
+  "translation": "Wangena, wazisa inkosi yakhe, esithi: “Njalo nanjalo yathetha intombazana eseYisrayeli ilizweni.”",
   "tokens": [
     {
-      "surface": "ותאמר",
-      "gloss": "Wathi"
+      "surface": "ויבא",
+      "gloss": "wangena"
     },
     {
-      "surface": "אל",
-      "gloss": "ku-"
+      "surface": "ויגד",
+      "gloss": "wazisa"
     },
     {
-      "surface": "גברתה",
-      "gloss": "nkosikazi yakhe"
+      "surface": "לאדניו",
+      "gloss": "inkosi yakhe"
     },
     {
-      "surface": "אחלי",
-      "gloss": "ngamangaliso"
+      "surface": "לאמר",
+      "gloss": "esithi"
     },
     {
-      "surface": "אדני",
-      "gloss": "inkosi yam"
+      "surface": "כזאת",
+      "gloss": "njalo"
     },
     {
-      "surface": "לפני",
-      "gloss": "phambi"
+      "surface": "וכזאת",
+      "gloss": "nanjalo"
     },
     {
-      "surface": "הנביא",
-      "gloss": "komprofeti"
+      "surface": "דברה",
+      "gloss": "yathetha"
+    },
+    {
+      "surface": "הנערה",
+      "gloss": "intombazana"
     },
     {
       "surface": "אשר",
-      "gloss": "ose-"
+      "gloss": "ese"
     },
     {
-      "surface": "בשמרון",
-      "gloss": "Shomroni"
+      "surface": "מארץ",
+      "gloss": "ilizweni"
     },
     {
-      "surface": "אז",
-      "gloss": "ngoko"
-    },
-    {
-      "surface": "יאסף",
-      "gloss": "wayeza kumisela"
-    },
-    {
-      "surface": "אתו",
-      "gloss": "⟨את⟩",
-      "marks": "kulo mkhuhlane wakhe"
-    },
-    {
-      "surface": "מצרעתו",
-      "gloss": "kulo mkhuhlane wakhe"
+      "surface": "ישראל",
+      "gloss": "Yisrayeli"
     }
   ],
-  "timestamp": "2026-09-18T10:43:33.140188471Z",
+  "timestamp": "2026-09-18T18:40:56.419391972Z",
   "model": "glm-5.3"
 }

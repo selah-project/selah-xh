@@ -5,7 +5,7 @@
   "book": "psalms",
   "lang": "xh",
   "chapter": 50,
-  "translation": "Mamela, hlobo lam, maza ndithethe; wena uSirayeli, maza ndichazile ngakuni: nguElohim, uThixo wakho, mna.",
+  "translation": "Mamela, isizwe sam, ndiza kuthetha; Sirayeli, ndiza kungqina ngakuni: ndinguElohim, nguElohim wakho.",
   "tokens": [
     {
       "surface": "שמעה",
@@ -13,19 +13,19 @@
     },
     {
       "surface": "עמי",
-      "gloss": "hlobo lam"
+      "gloss": "isizwe sam"
     },
     {
       "surface": "ואדברה",
-      "gloss": "maza ndithethe"
+      "gloss": "ndiza kuthetha"
     },
     {
       "surface": "ישראל",
-      "gloss": "uSirayeli"
+      "gloss": "Sirayeli"
     },
     {
       "surface": "ואעידה",
-      "gloss": "maza ndichazile"
+      "gloss": "ndiza kungqina"
     },
     {
       "surface": "בך",
@@ -33,17 +33,17 @@
     },
     {
       "surface": "אלהים",
-      "gloss": "nguElohim"
+      "gloss": "uElohim"
     },
     {
       "surface": "אלהיך",
-      "gloss": "uThixo wakho"
+      "gloss": "uElohim wakho"
     },
     {
       "surface": "אנכי",
-      "gloss": "mna"
+      "gloss": "ndingu"
     }
   ],
-  "timestamp": "2026-09-18T14:46:43.739905683Z",
+  "timestamp": "2026-09-18T18:55:20.682576268Z",
   "model": "glm-5.3"
 }

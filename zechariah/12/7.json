@@ -5,11 +5,11 @@
   "book": "zechariah",
   "lang": "xh",
   "chapter": 12,
-  "translation": "Kwaye uYahwe uya kusindisa ⟨את》 amatenti eYudá kuqala, ukuze ubukhosi bentlu yaseYudá kungakhulwa ngaphezulu kobuzwe bakwaYudá.",
+  "translation": "uYahwe uza kusindisa ⟨את⟩ amatenti kaYehuda kuqala, ukuze ubukhosi bendlu kaDavide nobukhosi bomhlali weYerushalayimi bungadinwa ngaphezu koYehuda.",
   "tokens": [
     {
       "surface": "והושיע",
-      "gloss": "kwaye uYahwe uya kusindisa"
+      "gloss": "uza kusindisa"
     },
     {
       "surface": "יהוה",
@@ -18,7 +18,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "amatenti eYudá"
+      "marks": "amatenti kaYehuda"
     },
     {
       "surface": "אהלי",
@@ -26,7 +26,7 @@
     },
     {
       "surface": "יהודה",
-      "gloss": "eYudá"
+      "gloss": "kaYehuda"
     },
     {
       "surface": "בראשנה",
@@ -38,11 +38,11 @@
     },
     {
       "surface": "לא",
-      "gloss": "kungakhulwa"
+      "gloss": "hayi"
     },
     {
       "surface": "תגדל",
-      "gloss": "ukuba ... kungakhulwa ngaphezulu"
+      "gloss": "bungadinwa"
     },
     {
       "surface": "תפארת",
@@ -50,15 +50,15 @@
     },
     {
       "surface": "בית",
-      "gloss": "bentlu"
+      "gloss": "bendlu"
     },
     {
       "surface": "דויד",
-      "gloss": "yaseYudá"
+      "gloss": "kaDavide"
     },
     {
       "surface": "ותפארת",
-      "gloss": "nabukhosi"
+      "gloss": "nobukhosi"
     },
     {
       "surface": "ישב",
@@ -66,17 +66,17 @@
     },
     {
       "surface": "ירושלם",
-      "gloss": "beYerushalayimi"
+      "gloss": "weYerushalayimi"
     },
     {
       "surface": "על",
-      "gloss": "ngaphezulu kobuzwe"
+      "gloss": "ngaphezu"
     },
     {
       "surface": "יהודה",
-      "gloss": "bakwaYudá"
+      "gloss": "koYehuda"
     }
   ],
-  "timestamp": "2026-09-18T14:24:13.801658513Z",
+  "timestamp": "2026-09-18T18:55:58.501173834Z",
   "model": "glm-5.3"
 }

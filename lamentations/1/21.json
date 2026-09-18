@@ -5,8 +5,89 @@
   "book": "lamentations",
   "lang": "xh",
   "chapter": 1,
-  "translation": "Bavakalise ukuba ndigxumile, akukho mthethezeli wam; bonke oochwepheshe bam bavakalise ngo kukhoyo kwam, bayavuya kuba wenawenza <wena> wenza loo nto; wenzile <wena> isithuba umhla owubizileyo, baza kuba ngathi.",
-  "tokens": [],
-  "timestamp": "2026-09-18T16:20:38.902162184Z",
+  "translation": "Bavile ukuba ndikhala, akukho mthuthuzeli kum; bonke ooza lwangu bam bavile ububi bam, bayavuya kuba wena wenze ⟨le nto⟩; wulethe umhla owubizileyo, baba njengam.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "bavile"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ukuba"
+    },
+    {
+      "surface": "נאנחה",
+      "gloss": "ndikhala"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mna"
+    },
+    {
+      "surface": "אין",
+      "gloss": "akukho"
+    },
+    {
+      "surface": "מנחם",
+      "gloss": "mthuthuzeli"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kum"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bonke"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "ooza lwangu bam"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "bavile"
+    },
+    {
+      "surface": "רעתי",
+      "gloss": "ububi bam"
+    },
+    {
+      "surface": "ששו",
+      "gloss": "bayavuya"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "wenze"
+    },
+    {
+      "surface": "הבאת",
+      "gloss": "wulethe"
+    },
+    {
+      "surface": "יום",
+      "gloss": "umhla"
+    },
+    {
+      "surface": "קראת",
+      "gloss": "owubizileyo"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "baba"
+    },
+    {
+      "surface": "כמוני",
+      "gloss": "njengam"
+    }
+  ],
+  "timestamp": "2026-09-18T18:52:10.623893007Z",
   "model": "glm-5.3"
 }

@@ -5,11 +5,11 @@
   "book": "judges",
   "lang": "xh",
   "chapter": 19,
-  "translation": "Nanku intombi yam, intombazana, nomfazi wakhe wesibini; ndizakuzikhuphela nceda ⟨את⟩ zona, nizincde, nizihlale kwenziwe oko kunulungileyo amenyo; kodwa lo mntu musani ukwenza el candelo lenkohlakalo.",
+  "translation": "Yabonani, intombi yam engentombi, nepiligeshe yakhe; ndingazikhuphela nithande, nihlehlise ⟨את⟩ zona, nizenze ⟨את⟩ oko kulungile emehlweni enu; kodwa lo mntu akwenziweni lo nto yenkungqubeka.",
   "tokens": [
     {
       "surface": "הנה",
-      "gloss": "nanku"
+      "gloss": "Yabonani"
     },
     {
       "surface": "בתי",
@@ -17,19 +17,19 @@
     },
     {
       "surface": "הבתולה",
-      "gloss": "intombazana"
+      "gloss": "engentombi"
     },
     {
       "surface": "ופילגשהו",
-      "gloss": "nomfazi wakhe wesibini"
+      "gloss": "nepiligeshe yakhe"
     },
     {
       "surface": "אוציאה",
-      "gloss": "ndizakuzikhuphela"
+      "gloss": "ndingazikhuphela"
     },
     {
       "surface": "נא",
-      "gloss": "nceda"
+      "gloss": "nithande"
     },
     {
       "surface": "אותם",
@@ -38,28 +38,28 @@
     },
     {
       "surface": "וענו",
-      "gloss": "nizincde"
+      "gloss": "nihlehlise"
     },
     {
       "surface": "אותם",
       "gloss": "⟨את⟩",
-      "marks": "zona"
+      "marks": "oko kulungile emehlweni enu"
     },
     {
       "surface": "ועשו",
-      "gloss": "nizihlale kwenziwe"
+      "gloss": "nizenze"
     },
     {
       "surface": "להם",
-      "gloss": "kuzo"
+      "gloss": "zona"
     },
     {
       "surface": "הטוב",
-      "gloss": "elungileyo"
+      "gloss": "oko kulungile"
     },
     {
       "surface": "בעיניכם",
-      "gloss": "amenyo"
+      "gloss": "emehlweni enu"
     },
     {
       "surface": "ולאיש",
@@ -79,13 +79,17 @@
     },
     {
       "surface": "דבר",
-      "gloss": "el candelo"
+      "gloss": "into"
     },
     {
       "surface": "הנבלה",
-      "gloss": "lenkohlakalo"
+      "gloss": "yenkungqubeka"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "le"
     }
   ],
-  "timestamp": "2026-09-18T09:10:28.334740451Z",
+  "timestamp": "2026-09-18T18:51:53.666367993Z",
   "model": "glm-5.3"
 }

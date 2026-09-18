@@ -5,8 +5,98 @@
   "book": "deuteronomy",
   "lang": "xh",
   "chapter": 2,
-  "translation": "Njengoko abantwana baka-Esavu abahlala eSeIRi benza mandla, nabaMoabu abahlala e-Ari, ⟨de⟩ besiza ndim, de ndidlule ⟨את⟩ uYordane, ndiseluhlwini lomhlaba oYahwe uElohim wethu anisipheela owo.",
-  "tokens": [],
-  "timestamp": "2026-09-18T07:51:59.859548968Z",
+  "translation": "Njengoko abantwana bakaEsav abahlala kwiSeyiri benza kum, namakwaMowabi ahlala ki-Ara, de ndidlule ⟨את⟩ uYordane, ndingene elubambini uYahwe uElohim wethu anisinike lona.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "njengoko"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "benza"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kum"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abantwana"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "bakaEsav"
+    },
+    {
+      "surface": "הישבים",
+      "gloss": "abahlala"
+    },
+    {
+      "surface": "בשעיר",
+      "gloss": "kwiSeyiri"
+    },
+    {
+      "surface": "והמואבים",
+      "gloss": "namakwaMowabi"
+    },
+    {
+      "surface": "הישבים",
+      "gloss": "ahlala"
+    },
+    {
+      "surface": "בער",
+      "gloss": "ki-Ara"
+    },
+    {
+      "surface": "עד",
+      "gloss": "de"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "אעבר",
+      "gloss": "ndidlule"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uYordane"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "uYordane"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ndingene"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "elubambini"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "lona"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "uElohim wethu"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "anisinike"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "thina"
+    }
+  ],
+  "timestamp": "2026-09-18T18:42:57.788958732Z",
   "model": "glm-5.3"
 }

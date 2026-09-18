@@ -5,16 +5,16 @@
   "book": "leviticus",
   "lang": "xh",
   "chapter": 25,
-  "translation": "Niza kungcwelisa unyaka wamashumi amahlanu, niza kubiza inkululeko emhlabeni wonke, kubo bonke abahlali bakhe; ngunoyibala lowo; kwaye niza kubuyela umntu ngamnye kwisitya sakhe, nomntu ngamnye kumndeni wakhe niza kubuyela.",
+  "translation": "Niza kungcwalelisa unyaka, unyaka wamashumi amahlanu, nize memezele inkululeko emhlabeni kubo bonke abahlali balo; nguYovhela lowo unyaka ungaloba kuni, nize bubuyele umntu ngamnye ⟨את⟩ kwindawo yakokwendlu, nomntu ngamnye kusapho lwakhe niza kubuyela.",
   "tokens": [
     {
       "surface": "וקדשתם",
-      "gloss": "niza kungcwelisa"
+      "gloss": "niza kungcwalelisa"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "unyaka wamashumi amahlanu"
+      "marks": "unyaka"
     },
     {
       "surface": "שנת",
@@ -25,8 +25,12 @@
       "gloss": "wamashumi amahlanu"
     },
     {
+      "surface": "שנה",
+      "gloss": "unyaka"
+    },
+    {
       "surface": "וקראתם",
-      "gloss": "kwaye niza kubiza"
+      "gloss": "nize memezele"
     },
     {
       "surface": "דרור",
@@ -42,19 +46,19 @@
     },
     {
       "surface": "ישביה",
-      "gloss": "abahlali bakhe"
+      "gloss": "abahlali balo"
     },
     {
       "surface": "יובל",
-      "gloss": "unoyibala"
+      "gloss": "iYovhela"
     },
     {
       "surface": "הוא",
-      "gloss": "yena"
+      "gloss": "lowo"
     },
     {
       "surface": "תהיה",
-      "gloss": "iza kuba"
+      "gloss": "ungaloba"
     },
     {
       "surface": "לכם",
@@ -62,7 +66,7 @@
     },
     {
       "surface": "ושבתם",
-      "gloss": "kwaye niza kubuyela"
+      "gloss": "nize bubuyele"
     },
     {
       "surface": "איש",
@@ -74,7 +78,7 @@
     },
     {
       "surface": "אחזתו",
-      "gloss": "isitya sakhe"
+      "gloss": "indawo yakokwendlu"
     },
     {
       "surface": "ואיש",
@@ -86,13 +90,13 @@
     },
     {
       "surface": "משפחתו",
-      "gloss": "umndeni wakhe"
+      "gloss": "usapho lwakhe"
     },
     {
       "surface": "תשבו",
       "gloss": "niza kubuyela"
     }
   ],
-  "timestamp": "2026-09-18T07:04:54.676902528Z",
+  "timestamp": "2026-09-18T18:57:38.725772634Z",
   "model": "glm-5.3"
 }

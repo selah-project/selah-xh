@@ -5,7 +5,7 @@
   "book": "numbers",
   "lang": "xh",
   "chapter": 31,
-  "translation": "Into yonke engenayo emlilweni, niyakuyidlulisa emlilweni, iya kucoca; kuphela ngamanzi okuhlanzeka kuzohlwa izono; yonke into engangenoyo emlilweni, niyakuyidlulisa emanzini.",
+  "translation": "Yonke into enokungena emlilweni niyakuyidululisa emlilweni, ize icoceke; kodwa ngamanzi enkcenkcesheshi ⟨kufuneka⟩ ihlanjiswe; yonke into engekho kukwazi ukungena emlilweni niyakuyidululisa emanZini.",
   "tokens": [
     {
       "surface": "כל",
@@ -17,11 +17,11 @@
     },
     {
       "surface": "אשר",
-      "gloss": ""
+      "gloss": "enokungena"
     },
     {
       "surface": "יבא",
-      "gloss": "engenayo"
+      "gloss": "enokungena"
     },
     {
       "surface": "באש",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "תעבירו",
-      "gloss": "niyakuyidlulisa"
+      "gloss": "niyakuyidululisa"
     },
     {
       "surface": "באש",
@@ -37,11 +37,11 @@
     },
     {
       "surface": "וטהר",
-      "gloss": "iya kucoca"
+      "gloss": "ize icoceke"
     },
     {
       "surface": "אך",
-      "gloss": "kuphela"
+      "gloss": "kodwa"
     },
     {
       "surface": "במי",
@@ -49,27 +49,27 @@
     },
     {
       "surface": "נדה",
-      "gloss": "okuhlanzeka"
+      "gloss": "enkcenkcesheshi"
     },
     {
       "surface": "יתחטא",
-      "gloss": "kuzohlwa izono"
+      "gloss": "ihlanjiswe"
     },
     {
       "surface": "וכל",
-      "gloss": "nayonke"
+      "gloss": "yonke"
     },
     {
       "surface": "אשר",
-      "gloss": ""
+      "gloss": "engekho kukwazi ukungena"
     },
     {
       "surface": "לא",
-      "gloss": "engangenoyo"
+      "gloss": "ngekho kukwazi"
     },
     {
       "surface": "יבא",
-      "gloss": "emlilweni"
+      "gloss": "ukungena"
     },
     {
       "surface": "באש",
@@ -77,13 +77,13 @@
     },
     {
       "surface": "תעבירו",
-      "gloss": "niyakuyidlulisa"
+      "gloss": "niyakuyidululisa"
     },
     {
       "surface": "במים",
-      "gloss": "emanzini"
+      "gloss": "emanZini"
     }
   ],
-  "timestamp": "2026-09-18T07:44:03.857582656Z",
+  "timestamp": "2026-09-18T18:54:16.174884634Z",
   "model": "glm-5.3"
 }

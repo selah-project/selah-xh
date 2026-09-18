@@ -5,7 +5,7 @@
   "book": "isaiah",
   "lang": "xh",
   "chapter": 14,
-  "translation": "Lungisani abantwana bakhe indawana yokuhlaba ngenxa yobubi booyise; angeke bakhe bakhe ilizwe, okanye bagcwalise ubuso belizwe lonke ngamaziko.",
+  "translation": "Lungisani abantwana bakhe ukwenziwa ⟨umhlambi⟩ ngenxa yobubi boo bawo babo; bangasoki bavuki bayilawula ⟨the⟩ umhlaba, okanye bazalise ubuso belizwe ngeedolophu.",
   "tokens": [
     {
       "surface": "הכינו",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "מטבח",
-      "gloss": "indawana yokuhlaba"
+      "gloss": "ukwenziwa ⟨umhlambi⟩"
     },
     {
       "surface": "בעון",
@@ -25,21 +25,41 @@
     },
     {
       "surface": "אבותם",
-      "gloss": "booyise"
+      "gloss": "oo bawo babo"
     },
     {
       "surface": "בל",
-      "gloss": "angeke"
+      "gloss": "bangasoki"
     },
     {
       "surface": "יקמו",
-      "gloss": "bakhe bakhe"
+      "gloss": "bavuki"
     },
     {
-      "surface": "וגרשו",
-      "gloss": "ilizwe lokudlala"
+      "surface": "וירשו",
+      "gloss": "bayilawula"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "umhlaba"
+    },
+    {
+      "surface": "ומלאו",
+      "gloss": "bazalise"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ubuso"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "belizwe"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "ngeedolophu"
     }
   ],
-  "timestamp": "2026-09-18T11:09:00.054818142Z",
+  "timestamp": "2026-09-18T18:47:49.875978276Z",
   "model": "glm-5.3"
 }

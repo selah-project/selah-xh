@@ -5,8 +5,53 @@
   "book": "joshua",
   "lang": "xh",
   "chapter": 24,
-  "translation": "UYehoshuwa wenza umnqophiso ngoLwazi lolwazi <toni>",
-  "tokens": [],
-  "timestamp": "2026-09-18T17:27:06.408914787Z",
+  "translation": "UYehoshuwa wasala umnqophiso ⟨kwi⟩-⟨uluntu⟩ ngaloo mini, wabamisela ⟨kwabo⟩ isithethe nomgwebo eShekhem.",
+  "tokens": [
+    {
+      "surface": "ויכרת",
+      "gloss": "wasala"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "uYehoshuwa"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "umnqophiso"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "⟨kwi⟩-⟨uluntu⟩"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ngaloo mini"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ngaloo"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "wabamisela"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨kwabo⟩"
+    },
+    {
+      "surface": "חק",
+      "gloss": "isithethe"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "nomgwebo"
+    },
+    {
+      "surface": "בשכם",
+      "gloss": "eShekhem"
+    }
+  ],
+  "timestamp": "2026-09-18T18:50:59.649681192Z",
   "model": "glm-5.3"
 }

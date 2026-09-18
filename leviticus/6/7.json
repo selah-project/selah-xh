@@ -5,8 +5,58 @@
   "book": "leviticus",
   "lang": "xh",
   "chapter": 6,
-  "translation": "",
-  "tokens": [],
-  "timestamp": "2026-09-18T06:37:32.998049287Z",
+  "translation": "Kananjalo le ⟨is⟩ iTora yomnikelo wokutya: oonyana ka-Aharon baya kuwusondeza ⟨את⟩ umnikelo wokutya phambi kukaYahwe, phambi kwealtare.",
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "Kananjalo le"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "iTorа"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "yomnikelo wokutya"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "baya kuwusondeza"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "umnikelo wokutya"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oonyana"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "ka-Aharon"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "phambi kukaYahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "phambi"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ubuso"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "wealtare"
+    }
+  ],
+  "timestamp": "2026-09-18T18:53:00.083329326Z",
   "model": "glm-5.3"
 }

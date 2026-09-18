@@ -5,8 +5,73 @@
   "book": "2-chronicles",
   "lang": "xh",
   "chapter": 21,
-  "translation": "Yaye wayeneabantwana bamakhosi abasembini, amadoda amabini anamakhosi, amakhosikazi akhokhelwa bubukhosi baseYuda kunye naseSirayeli; bonke babesakhe izixeko ezinamadolo, waza wanika uYehorame ubukosi kuba yena wayengowokuqala. — correction below —",
-  "tokens": [],
-  "timestamp": "2026-09-18T17:52:31.246871636Z",
+  "translation": "Yaye wayenabo ⟨ababo⟩, abantwana baYehoshafat: uAzarya, uYihieli, uZekarya, uAzaryahu, uMikaeli, noShefatya; bonke aba ngabantwana baYehoshafat, inkosi yaseYisrayeli.",
+  "tokens": [
+    {
+      "surface": "ולו",
+      "gloss": "yaye wayenabo"
+    },
+    {
+      "surface": "אחים",
+      "gloss": "⟨ababo⟩"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abantwana ba"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Yehoshafat"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "uAzarya"
+    },
+    {
+      "surface": "ויחיאל",
+      "gloss": "uYihieli"
+    },
+    {
+      "surface": "וזכריהו",
+      "gloss": "uZekarya"
+    },
+    {
+      "surface": "ועזריהו",
+      "gloss": "uAzaryahu"
+    },
+    {
+      "surface": "ומיכאל",
+      "gloss": "uMikaeli"
+    },
+    {
+      "surface": "ושפטיהו",
+      "gloss": "noShefatya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bonke"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "aba"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ngabantwana ba"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Yehoshafat"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "inkosi ya"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "seYisrayeli"
+    }
+  ],
+  "timestamp": "2026-09-18T18:39:12.851158148Z",
   "model": "glm-5.3"
 }

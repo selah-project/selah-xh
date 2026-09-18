@@ -5,8 +5,33 @@
   "book": "job",
   "lang": "xh",
   "chapter": 34,
-  "translation": "Thetha ntoni? — Musani, nilulele amazwi am, nina oochemy; nina anelwazi, nikhangele iindlebe zenu kum.",
-  "tokens": [],
-  "timestamp": "2026-09-18T16:12:13.607935344Z",
+  "translation": "Mameleni amanye andawo amagama ethu, nibenamava kokuthetha kwethu; niyindlela mthethweni kokuthetha kwethu, mahla.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "Mameleni"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "nibahlakanipileyo"
+    },
+    {
+      "surface": "מלי",
+      "gloss": "amagama ethu"
+    },
+    {
+      "surface": "וידעים",
+      "gloss": "nibenamava"
+    },
+    {
+      "surface": "האזינו",
+      "gloss": "niyindlela mthethweni"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mahla"
+    }
+  ],
+  "timestamp": "2026-09-18T18:50:05.155131850Z",
   "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "isaiah",
   "lang": "xh",
   "chapter": 37,
-  "translation": "Wathumela uYeshayahu, unyana ka-Amots, kuKhizqiyahu, wathi: UYahwe, uElohim kaYisrayeli, uthi: Ngenxa yokuba wathandazela kum ngeSanheribu, inkosi yaseAshuru:",
+  "translation": "Wathumela uYesha'yahu unyana ka-Amots kuKhizkiyahu, esithi: “Kunjalo utshilo uYahwe, uElohim wakwaIsrayeli, ngenxa yokuba wathandaza kum ngeSancheribi, inkosi yaseAshuri:",
   "tokens": [
     {
       "surface": "וישלח",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "ישעיהו",
-      "gloss": "uYeshayahu"
+      "gloss": "uYesha'yahu"
     },
     {
       "surface": "בן",
@@ -29,19 +29,19 @@
     },
     {
       "surface": "חזקיהו",
-      "gloss": "uKhizqiyahu"
+      "gloss": "uKhizkiyahu"
     },
     {
       "surface": "לאמר",
-      "gloss": "wathi"
+      "gloss": "esithi"
     },
     {
       "surface": "כה",
-      "gloss": "uthi"
+      "gloss": "Kunjalo"
     },
     {
       "surface": "אמר",
-      "gloss": ""
+      "gloss": "utshilo"
     },
     {
       "surface": "יהוה",
@@ -53,15 +53,15 @@
     },
     {
       "surface": "ישראל",
-      "gloss": "kaYisrayeli"
+      "gloss": "wakwaIsrayeli"
     },
     {
       "surface": "אשר",
-      "gloss": "ukuba"
+      "gloss": "ngenxa yokuba"
     },
     {
       "surface": "התפללת",
-      "gloss": "wathandazela"
+      "gloss": "wathandaza"
     },
     {
       "surface": "אלי",
@@ -69,11 +69,11 @@
     },
     {
       "surface": "אל",
-      "gloss": "nge"
+      "gloss": "nge-"
     },
     {
       "surface": "סנחריב",
-      "gloss": "uSanheribu"
+      "gloss": "ngeSancheribi"
     },
     {
       "surface": "מלך",
@@ -81,9 +81,9 @@
     },
     {
       "surface": "אשור",
-      "gloss": "yaseAshuru"
+      "gloss": "yaseAshuri"
     }
   ],
-  "timestamp": "2026-09-18T17:35:18.129947253Z",
+  "timestamp": "2026-09-18T18:48:01.819368405Z",
   "model": "glm-5.3"
 }

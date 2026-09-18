@@ -5,23 +5,23 @@
   "book": "1-kings",
   "lang": "xh",
   "chapter": 15,
-  "translation": "Wathethelela uBhen-Hadadi inkosi uAsa, waza wathumela oonobhala weemikhosi yakhe kwiiyoruba zakwaSirayeli, wabetha i-Iyoni, iDani, u-Abheli Bheti-Maakha, nayo yonke iKhinnoti, kunye nayo yonke umhlaba kaNafthali.",
+  "translation": "Wamamela uBen-Hadad inkosi uAsa, wathumela ⟨את⟩ iinduna zeemikhosi ezazinakhe ngokuchasene namaphondo aseYisrayeli, wahlasela ⟨את⟩ i-Iyyoni nange⟨את⟩ iDani nange⟨את⟩ u-Abelayi Bheti-Maakha nange⟨את⟩ iKineroti zonke, ngokuchasene nolonke umhlaba weNafthali.",
   "tokens": [
     {
       "surface": "וישמע",
-      "gloss": "Wathethelela"
+      "gloss": "wamamela"
     },
     {
       "surface": "בן",
-      "gloss": "uBhen-"
+      "gloss": "uBen-"
     },
     {
       "surface": "הדד",
-      "gloss": "Hadadi"
+      "gloss": "Hadad"
     },
     {
       "surface": "אל",
-      "gloss": ""
+      "gloss": "ku"
     },
     {
       "surface": "המלך",
@@ -38,52 +38,52 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "oonobhala weemikhosi yakhe"
+      "marks": "iinduna zeemikhosi"
     },
     {
       "surface": "שרי",
-      "gloss": "oonobhala"
+      "gloss": "iinduna"
     },
     {
       "surface": "החילים",
-      "gloss": "weemikhosi"
+      "gloss": "zeemikhosi"
     },
     {
       "surface": "אשר",
-      "gloss": ""
+      "gloss": "ezazinakhe"
     },
     {
       "surface": "לו",
-      "gloss": "yakhe"
+      "gloss": "nakhe"
     },
     {
       "surface": "על",
-      "gloss": "kwiiyoruba"
+      "gloss": "ngokuchasene"
     },
     {
       "surface": "ערי",
-      "gloss": "zaka-"
+      "gloss": "namaphondo"
     },
     {
       "surface": "ישראל",
-      "gloss": "kwaSirayeli"
+      "gloss": "aseYisrayeli"
     },
     {
       "surface": "ויך",
-      "gloss": "wabetha"
+      "gloss": "wahlasela"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "i-Iyoni"
+      "marks": "i-Iyyoni"
     },
     {
       "surface": "עיון",
-      "gloss": "i-Iyoni"
+      "gloss": "i-Iyyoni"
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
+      "gloss": "nange⟨את⟩",
       "marks": "iDani"
     },
     {
@@ -92,16 +92,16 @@
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
-      "marks": "u-Abheli Bheti-Maakha"
+      "gloss": "nange⟨את⟩",
+      "marks": "u-Abelayi Bheti-Maakha"
     },
     {
       "surface": "אבל",
-      "gloss": "u-Abheli"
+      "gloss": "u-Abelayi"
     },
     {
       "surface": "בית",
-      "gloss": "Bheti-"
+      "gloss": "Bheti"
     },
     {
       "surface": "מעכה",
@@ -109,24 +109,24 @@
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
-      "marks": "yonke iKhinnoti"
+      "gloss": "nange⟨את⟩",
+      "marks": "iKineroti zonke"
     },
     {
       "surface": "כל",
-      "gloss": "yonke"
+      "gloss": "zonke"
     },
     {
       "surface": "כנרות",
-      "gloss": "iKhinnoti"
+      "gloss": "iKineroti"
     },
     {
       "surface": "על",
-      "gloss": "kunye nayo"
+      "gloss": "ngokuchasene"
     },
     {
       "surface": "כל",
-      "gloss": "yonke"
+      "gloss": "nolonke"
     },
     {
       "surface": "ארץ",
@@ -134,9 +134,9 @@
     },
     {
       "surface": "נפתלי",
-      "gloss": "kaNafthali"
+      "gloss": "weNafthali"
     }
   ],
-  "timestamp": "2026-09-18T10:30:18.591688986Z",
+  "timestamp": "2026-09-18T18:38:25.183693374Z",
   "model": "glm-5.3"
 }

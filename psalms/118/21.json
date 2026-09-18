@@ -5,11 +5,11 @@
   "book": "psalms",
   "lang": "xh",
   "chapter": 118,
-  "translation": "Ndiza kukudumisa, kuba undiphendule, waba ⟨⟨li⟩⟩sindiso lam.",
+  "translation": "Ndiyabulela kuwe, kuba undiphendule, waba ⟨ndaba⟩ yonwabo lwam.",
   "tokens": [
     {
       "surface": "אודך",
-      "gloss": "Ndiza kukudumisa"
+      "gloss": "Ndiyabulela kuwe"
     },
     {
       "surface": "כי",
@@ -25,13 +25,13 @@
     },
     {
       "surface": "לי",
-      "gloss": "lam"
+      "gloss": "ndaba yonwabo lwam"
     },
     {
       "surface": "לישועה",
-      "gloss": "lysindiso"
+      "gloss": "yonwabo lokonwaba"
     }
   ],
-  "timestamp": "2026-09-18T15:21:47.657440007Z",
+  "timestamp": "2026-09-18T18:54:58.100736568Z",
   "model": "glm-5.3"
 }

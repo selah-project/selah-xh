@@ -5,8 +5,49 @@
   "book": "psalms",
   "lang": "xh",
   "chapter": 104,
-  "translation": "Umisela utyiyo intsikelelo, kunye nosenhlamvu yonke iindawo ezingcwele; ukutya kwenziwa ngokwalo ukutya okumnandi.",
-  "tokens": [],
-  "timestamp": "2026-09-18T15:14:00.498644672Z",
+  "translation": "Uyakunyanga ingca kwiinkomo, nomitya <ilenze> isebenzelo lomntu, ukukhupha ⟨isinkwa⟩ esuka emhlabeni.",
+  "tokens": [
+    {
+      "surface": "מצמיח",
+      "gloss": "Uyakunyanga"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "ingca"
+    },
+    {
+      "surface": "לבהמה",
+      "gloss": "kwiinkomo"
+    },
+    {
+      "surface": "ועשב",
+      "gloss": "nomitya"
+    },
+    {
+      "surface": "לעבדת",
+      "gloss": "isebenzelo"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "lomntu"
+    },
+    {
+      "surface": "להוציא",
+      "gloss": "ukukhupha"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "isinkwa"
+    },
+    {
+      "surface": "מן",
+      "gloss": "esuka"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "emhlabeni"
+    }
+  ],
+  "timestamp": "2026-09-18T18:55:03.076436259Z",
   "model": "glm-5.3"
 }

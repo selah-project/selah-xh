@@ -5,11 +5,11 @@
   "book": "2-samuel",
   "lang": "xh",
   "chapter": 5,
-  "translation": "Kananjalo izolo, kananjalo ngomhla we-3, xa uShawuli wayenguinkosi ethi ngaphezu kwethu, wena ubungu ⟨wena⟩ owayikhuphayo nongenisa u-Israel; uYahwe wathi kuwe: “Wena uza kudla ubomi bethu bantu baka-Israel, wena uza kuba yinkokeli phezu kuka-Israel.”",
+  "translation": "Nakwaizolo nakungakunene ngokudlulileyo, xa uShawuli ebeleyinkosi phezu kwethu, wena ubungumntu owayekhupha ⟨את⟩ uIsrayeli nongenisa; wathi uYahwe kuwe: “Wena uza kufuya ⟨את⟩ abantu bam ⟨את⟩ uIsrayeli, kananjalo wena uza kuba yinkokheli phezu kukaIsrayeli.”",
   "tokens": [
     {
       "surface": "גם",
-      "gloss": "kananjalo"
+      "gloss": "nakwa-"
     },
     {
       "surface": "אתמול",
@@ -17,11 +17,11 @@
     },
     {
       "surface": "גם",
-      "gloss": "kananjalo"
+      "gloss": "naku-"
     },
     {
       "surface": "שלשום",
-      "gloss": "ngomhla we-3"
+      "gloss": "ngakunene ngokudlulileyo"
     },
     {
       "surface": "בהיות",
@@ -33,11 +33,11 @@
     },
     {
       "surface": "מלך",
-      "gloss": "wayenguinkosi"
+      "gloss": "ebeleyinkosi"
     },
     {
       "surface": "עלינו",
-      "gloss": "ethi ngaphezu kwethu"
+      "gloss": "phezu kwethu"
     },
     {
       "surface": "אתה",
@@ -45,11 +45,11 @@
     },
     {
       "surface": "הייתה",
-      "gloss": "ubungu"
+      "gloss": "ubungu-"
     },
     {
       "surface": "מוציא",
-      "gloss": "owayikhuphayo"
+      "gloss": "owayekhupha"
     },
     {
       "surface": "והמבי",
@@ -58,11 +58,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "u-Israel"
+      "marks": "uIsrayeli"
     },
     {
       "surface": "ישראל",
-      "gloss": "u-Israel"
+      "gloss": "uIsrayeli"
     },
     {
       "surface": "ויאמר",
@@ -81,30 +81,30 @@
       "gloss": "wena"
     },
     {
-      "surface": "תרעhe",
-      "gloss": "uza kudla"
+      "surface": "תרעה",
+      "gloss": "uza kufuya"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ubomi bethu bantu baka"
+      "marks": "abantu bam"
     },
     {
       "surface": "עמי",
-      "gloss": "abantu baka"
+      "gloss": "abantu bam"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "u-Israel"
+      "marks": "uIsrayeli"
     },
     {
       "surface": "ישראל",
-      "gloss": "u-Israel"
+      "gloss": "uIsrayeli"
     },
     {
       "surface": "ואתה",
-      "gloss": "wena"
+      "gloss": "kananjalo wena"
     },
     {
       "surface": "תהיה",
@@ -112,7 +112,7 @@
     },
     {
       "surface": "לנגיד",
-      "gloss": "yinkokeli"
+      "gloss": "yinkokheli"
     },
     {
       "surface": "על",
@@ -120,9 +120,9 @@
     },
     {
       "surface": "ישראל",
-      "gloss": "kuka-Israel"
+      "gloss": "kukaIsrayeli"
     }
   ],
-  "timestamp": "2026-09-18T09:49:12.863677529Z",
+  "timestamp": "2026-09-18T18:42:08.433736386Z",
   "model": "glm-5.3"
 }

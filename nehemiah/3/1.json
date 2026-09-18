@@ -5,8 +5,94 @@
   "book": "nehemiah",
   "lang": "xh",
   "chapter": 3,
-  "translation": "Wavuka u-Elyashibi, umpresti omkhulu, nabakwabo abapresti, bwakha isango lezimvu; bona balingciza, bamisela iinkuni zalo; kwada kwasekwithyabhhu lekhulu balingciza, kwada kwasekwithyabhhu likaKhananeli.",
-  "tokens": [],
-  "timestamp": "2026-09-18T16:45:39.462870079Z",
+  "translation": "Wavuka u-Elyashibi umvangcwele omkhulu noobaphakathi babo abavangcwele, wakha ⟨את⟩ isango lezimvu; bona bayazixelisa, bamisa iingcango zalo; kwaza kumgcawunzi wekhulu bayazixelisa, kwada kumgcawunzi kaKhananeli.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "wavuka"
+    },
+    {
+      "surface": "אלישיב",
+      "gloss": "u-Elyashibi"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "umvangcwele"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "omkhulu"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "noobaphakathi babo"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "abavangcwele"
+    },
+    {
+      "surface": "ויבנו",
+      "gloss": "wakha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isango lezimvu"
+    },
+    {
+      "surface": "שער",
+      "gloss": "isango"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "lezimvu"
+    },
+    {
+      "surface": "המה",
+      "gloss": "bona"
+    },
+    {
+      "surface": "קדשוהו",
+      "gloss": "bayazixelisa"
+    },
+    {
+      "surface": "ויעמידו",
+      "gloss": "bamisa"
+    },
+    {
+      "surface": "דלתתיו",
+      "gloss": "iingcango zalo"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "kwaza ku"
+    },
+    {
+      "surface": "מגדל",
+      "gloss": "umgcawunzi"
+    },
+    {
+      "surface": "המאה",
+      "gloss": "wekhulu"
+    },
+    {
+      "surface": "קדשוהו",
+      "gloss": "bayazixelisa"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kwada ku"
+    },
+    {
+      "surface": "מגדל",
+      "gloss": "umgcawunzi"
+    },
+    {
+      "surface": "חננאל",
+      "gloss": "kaKhananeli"
+    }
+  ],
+  "timestamp": "2026-09-18T18:53:39.676724980Z",
   "model": "glm-5.3"
 }

@@ -5,11 +5,11 @@
   "book": "joshua",
   "lang": "xh",
   "chapter": 23,
-  "translation": "ukungangeni kwiintlanga ezileyo, ezi niseleyo nani <את>; nangamagama oothixo abo musa ukukhankanya, musa ukutyala ngawo isifungo, musa ukubakhonza, musa ukuzithoba phambi kwabo;",
+  "translation": "Ukungalibeli ukungena kutho kwezi ntlanga ezi ziseleyo ekseni ⟨אתכם⟩ nani; nangamagama oothixo babo musa ukukhankanya, musa ukufungisa ngawo, musa ukubakhonza, musa ukuzithoba kubo.",
   "tokens": [
     {
       "surface": "לבלתי",
-      "gloss": "ukungangeni"
+      "gloss": "ukungalibeli"
     },
     {
       "surface": "בוא",
@@ -17,15 +17,15 @@
     },
     {
       "surface": "בגוים",
-      "gloss": "kwiintlanga"
+      "gloss": "kutho kwezi ntlanga"
     },
     {
       "surface": "האלה",
-      "gloss": "ezileyo"
+      "gloss": "ezi"
     },
     {
       "surface": "הנשארים",
-      "gloss": "eziniseleyo"
+      "gloss": "eziseleyo ekseni"
     },
     {
       "surface": "האלה",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "<את>",
+      "gloss": "⟨את⟩",
       "marks": "nani"
     },
     {
@@ -42,7 +42,7 @@
     },
     {
       "surface": "אלהיהם",
-      "gloss": "oothixo abo"
+      "gloss": "oothixo babo"
     },
     {
       "surface": "לא",
@@ -58,7 +58,7 @@
     },
     {
       "surface": "תשביעו",
-      "gloss": "ukutyala isifungo"
+      "gloss": "ukufungisa"
     },
     {
       "surface": "ולא",
@@ -78,9 +78,9 @@
     },
     {
       "surface": "להם",
-      "gloss": "phambi kwabo"
+      "gloss": "kubo"
     }
   ],
-  "timestamp": "2026-09-18T08:46:22.631167064Z",
+  "timestamp": "2026-09-18T18:51:38.975893452Z",
   "model": "glm-5.3"
 }

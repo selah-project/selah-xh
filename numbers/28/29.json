@@ -5,8 +5,33 @@
   "book": "numbers",
   "lang": "xh",
   "chapter": 28,
-  "translation": "isihlandla-hlanjana esisihlanjana samanzi wonke (⟨isihlandla⟩ esisihlanjana) sangaphakathi kwerham lam, kwiiham elisixhenxe.",
-  "tokens": [],
-  "timestamp": "2026-09-18T07:40:38.522446786Z",
+  "translation": "Isishumi sesabelo, isishumi sesabelo: esisinye iinkochwa—ngokwazo zonke iinkochwa ezisixhenxe.",
+  "tokens": [
+    {
+      "surface": "עשרון",
+      "gloss": "isishumi sesabelo"
+    },
+    {
+      "surface": "עשרון",
+      "gloss": "isishumi sesabelo"
+    },
+    {
+      "surface": "לכבש",
+      "gloss": "iinkochwa"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "esisinye"
+    },
+    {
+      "surface": "לשבעת",
+      "gloss": "ezisixhenxe"
+    },
+    {
+      "surface": "הכבשים",
+      "gloss": "iinkochwa"
+    }
+  ],
+  "timestamp": "2026-09-18T18:57:41.211295087Z",
   "model": "glm-5.3"
 }

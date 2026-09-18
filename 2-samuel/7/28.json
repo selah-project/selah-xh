@@ -5,7 +5,7 @@
   "book": "2-samuel",
   "lang": "xh",
   "chapter": 7,
-  "translation": "Kwaye ngoku, u-Adonayi uYahwe, wena nguYehova — hayi: wena nguwena uElohim, kwaye amazwi akho aza kuba yinyaniso, kuba wena wathethela cacakhiyo wakho ⟨את⟩ oku kulungileyo.",
+  "translation": "Kwaye ngoku, Nkosi uYahwe, nguwe wedwa uElohim, amagama akho aya kuba yinyaniso, kwaye wathetha kuncebele yakho ⟨את⟩ le nto elungileyo.",
   "tokens": [
     {
       "surface": "ועתה",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "אדני",
-      "gloss": "u-Adonayi"
+      "gloss": "Nkosi (u-Adonayi)"
     },
     {
       "surface": "יהוה",
@@ -21,11 +21,11 @@
     },
     {
       "surface": "אתה",
-      "gloss": "wena"
+      "gloss": "nguwe"
     },
     {
       "surface": "הוא",
-      "gloss": "nguwena"
+      "gloss": "wedwa"
     },
     {
       "surface": "האלהים",
@@ -33,11 +33,11 @@
     },
     {
       "surface": "ודבריך",
-      "gloss": "kwaye amazwi akho"
+      "gloss": "amagama akho"
     },
     {
       "surface": "יהיו",
-      "gloss": "aza kuba"
+      "gloss": "aya kuba"
     },
     {
       "surface": "אמת",
@@ -45,7 +45,7 @@
     },
     {
       "surface": "ותדבר",
-      "gloss": "wathethela"
+      "gloss": "kwaye wathetha"
     },
     {
       "surface": "אל",
@@ -53,22 +53,22 @@
     },
     {
       "surface": "עבדך",
-      "gloss": "cakhiyo wakho"
+      "gloss": "uncebele yakho"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "oku kulungileyo"
+      "marks": "le nto elungileyo (הטובה)"
     },
     {
       "surface": "הטובה",
-      "gloss": "oku kulungileyo"
+      "gloss": "le nto elungileyo"
     },
     {
       "surface": "הזאת",
-      "gloss": "oku"
+      "gloss": "le"
     }
   ],
-  "timestamp": "2026-09-18T09:49:17.512156762Z",
+  "timestamp": "2026-09-18T18:41:31.274175648Z",
   "model": "glm-5.3"
 }

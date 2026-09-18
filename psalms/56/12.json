@@ -5,11 +5,11 @@
   "book": "psalms",
   "lang": "xh",
   "chapter": 56,
-  "translation": "KuElohim ndithembile; andoyiki - umntu unokwenza ntoni kum?",
+  "translation": "KuElohim ndithembile, andoyiki; yintoni na umntu enokuyenza kum?",
   "tokens": [
     {
       "surface": "באלהים",
-      "gloss": "KuElohim"
+      "gloss": "kuElohim"
     },
     {
       "surface": "בטחתי",
@@ -17,19 +17,19 @@
     },
     {
       "surface": "לא",
-      "gloss": "andoyiki"
+      "gloss": "andi-"
     },
     {
       "surface": "אירא",
-      "gloss": ""
+      "gloss": "yoyiki"
     },
     {
       "surface": "מה",
-      "gloss": "ntoni"
+      "gloss": "yintoni na"
     },
     {
       "surface": "יעשה",
-      "gloss": "unokwenza"
+      "gloss": "enokuyenza"
     },
     {
       "surface": "אדם",
@@ -40,6 +40,6 @@
       "gloss": "kum"
     }
   ],
-  "timestamp": "2026-09-18T14:49:33.640666887Z",
+  "timestamp": "2026-09-18T18:55:32.747205939Z",
   "model": "glm-5.3"
 }

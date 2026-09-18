@@ -5,41 +5,40 @@
   "book": "1-chronicles",
   "lang": "xh",
   "chapter": 2,
-  "translation": "UThamar, umlombu wakhe, wamzalela uPheretzi noZerahi; onke amabantwana bakaYehuda ayisihlanu.",
+  "translation": "NguThamar unyana-omkakwye wazala kuYehuda ⟨את⟩ uPherez ⟨את⟩ noZerakh; onke oonyana bakaYehuda babengamahlanu.",
   "tokens": [
     {
       "surface": "ותמר",
-      "gloss": "UThamar"
+      "gloss": "NguThamar"
     },
     {
       "surface": "כלתו",
-      "gloss": "umlombu wakhe"
+      "gloss": "unyana-omkakwye (unyana womkakhe)"
     },
     {
       "surface": "ילדה",
-      "gloss": "wamzalela"
+      "gloss": "wazala"
     },
     {
       "surface": "לו",
-      "gloss": ""
+      "gloss": "kuye"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "uPheretzi"
+      "marks": "uPherez"
     },
     {
       "surface": "פרץ",
-      "gloss": "uPheretzi"
+      "gloss": "uPherez"
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
-      "marks": "noZerahi"
+      "gloss": "⟨את⟩"
     },
     {
       "surface": "זרח",
-      "gloss": "noZerahi"
+      "gloss": "noZerakh"
     },
     {
       "surface": "כל",
@@ -47,7 +46,7 @@
     },
     {
       "surface": "בני",
-      "gloss": "amabantwana"
+      "gloss": "oonyana"
     },
     {
       "surface": "יהודה",
@@ -55,9 +54,9 @@
     },
     {
       "surface": "חמשה",
-      "gloss": "ayisihlanu"
+      "gloss": "amahlanu"
     }
   ],
-  "timestamp": "2026-09-18T16:50:58.701520092Z",
+  "timestamp": "2026-09-18T18:37:07.741325408Z",
   "model": "glm-5.3"
 }

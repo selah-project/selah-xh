@@ -5,8 +5,129 @@
   "book": "judges",
   "lang": "xh",
   "chapter": 7,
-  "translation": "Baza babamba amabini aoosibini aseMidiyani, uOrebhi noZeebhi; babulala uOrebhi e lithwale liligama lakhe — sicwangcisa nantsi: “Babulala uOrebhi selithwale iROCK OREBHI elibizwa ngokwegama lakhe, noZeebhi babulala isihluzo se-winepress-of-Zeeb sibizwa ngokwakhe.” Intsingiselo esemgangathweni: “Babulala uOrebhi elityebileyo lithwale igama elithi Tsuru rOrebhi (isithsaba sikaOrebhi), uZeebhi babulala isihluzo esibizwa ngeYeqev-Zeebhi (isihluzo sikaZeebhi).” ukulandela ilogic yangoku: Baza balandela iMidiyani, baza kuthi intswele zikaOrebhi noZeebhi bazizisa kuGidhiyoni ngaphesheya komlambo iYordani.",
-  "tokens": [],
-  "timestamp": "2026-09-18T08:55:32.752320191Z",
+  "translation": "Bathabatha oobini abasezikhundleni eziphakamileyo baMidiyan, ⟨את⟩ uOrev no⟨את⟩ uZeeb; babulala ⟨את⟩ uOrev elityeni laseOrev, uZeeb bambulala esicheni seZeeb, bagxotha iMidiyan, bathwalela intloko kaOrev noZeeb kuGidoni ngaphesheya koYardeni.",
+  "tokens": [
+    {
+      "surface": "וילכדו",
+      "gloss": "bathabatha"
+    },
+    {
+      "surface": "שני",
+      "gloss": "oobini"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "abasezikhundleni eziphakamileyo"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "baMidiyan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uOrev"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "uOrev"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "no⟨את⟩",
+      "marks": "uZeeb"
+    },
+    {
+      "surface": "זאב",
+      "gloss": "uZeeb"
+    },
+    {
+      "surface": "ויהרגו",
+      "gloss": "babulala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uOrev"
+    },
+    {
+      "surface": "עורב",
+      "gloss": "uOrev"
+    },
+    {
+      "surface": "בצור",
+      "gloss": "elityeni"
+    },
+    {
+      "surface": "עורב",
+      "gloss": "laseOrev"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "no⟨את⟩",
+      "marks": "uZeeb"
+    },
+    {
+      "surface": "זאב",
+      "gloss": "uZeeb"
+    },
+    {
+      "surface": "הרגו",
+      "gloss": "bambulala"
+    },
+    {
+      "surface": "ביקב",
+      "gloss": "esicheni"
+    },
+    {
+      "surface": "זאב",
+      "gloss": "seZeeb"
+    },
+    {
+      "surface": "וירדפו",
+      "gloss": "bagxotha"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "iMidiyan"
+    },
+    {
+      "surface": "וראש",
+      "gloss": "intloko"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "kaOrev"
+    },
+    {
+      "surface": "וזאב",
+      "gloss": "noZeeb"
+    },
+    {
+      "surface": "הביאו",
+      "gloss": "bathwalela"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "גדעון",
+      "gloss": "uGidoni"
+    },
+    {
+      "surface": "מעבר",
+      "gloss": "ngaphesheya"
+    },
+    {
+      "surface": "לירדן",
+      "gloss": "koYardeni"
+    }
+  ],
+  "timestamp": "2026-09-18T18:52:24.748294017Z",
   "model": "glm-5.3"
 }

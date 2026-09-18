@@ -5,8 +5,45 @@
   "book": "psalms",
   "lang": "xh",
   "chapter": 24,
-  "translation": "Yizukusele iindonga ezinkulu, phakamisani iintloko zenu, iiportalCPU ezinde; makangene ukumkani wobunzima.",
-  "tokens": [],
-  "timestamp": "2026-09-18T14:36:16.526225568Z",
+  "translation": "Phakamisani iintloko zenu, hini iisango; niphakamiseni, hini imiṅango yamaphakade; uze kungena iNkosi yobuzuko.",
+  "tokens": [
+    {
+      "surface": "שאו",
+      "gloss": "phakamisani"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "iisango"
+    },
+    {
+      "surface": "ראשיכם",
+      "gloss": "iintloko zenu"
+    },
+    {
+      "surface": "ושאו",
+      "gloss": "niphakamiseni"
+    },
+    {
+      "surface": "פתחי",
+      "gloss": "imiṅango"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "yamaphakade"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "uze kungena"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "iNkosi"
+    },
+    {
+      "surface": "הכבוד",
+      "gloss": "yobuzuko"
+    }
+  ],
+  "timestamp": "2026-09-18T18:55:39.532068087Z",
   "model": "glm-5.3"
 }

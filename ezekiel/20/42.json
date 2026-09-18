@@ -5,11 +5,11 @@
   "book": "ezekiel",
   "lang": "xh",
   "chapter": 20,
-  "translation": "Niza kwazi ukuba mna ndinguYahwe, xa ndisenisa ⟨את⟩ nina kumhlaba waseYisrayeli, umhlaba endaphakamisela ⟨את⟩ isandla sam ukunika ⟨את⟩ yona koyise benu.",
+  "translation": "Kwaye niya kumazi ukuba ndinguYahwe, xa ndinisa ⟨את⟩ nina elunxwemeni lweYisrayeli, elumhlaba lo ndiphakamisela ⟨את⟩ isandla sam ukuze ndinike ⟨את⟩ kubawo benu.",
   "tokens": [
     {
       "surface": "וידעתם",
-      "gloss": "niza kwazi"
+      "gloss": "niya kumazi"
     },
     {
       "surface": "כי",
@@ -21,31 +21,32 @@
     },
     {
       "surface": "יהוה",
-      "gloss": "ndinguYahwe"
+      "gloss": "uYahwe"
     },
     {
       "surface": "בהביאי",
-      "gloss": "xa ndisenisa"
+      "gloss": "xa ndinisa"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ nina"
+      "gloss": "⟨את⟩",
+      "marks": "nina"
     },
     {
       "surface": "אל",
-      "gloss": "ku"
+      "gloss": "ku-"
     },
     {
       "surface": "אדמת",
-      "gloss": "umhlaba"
+      "gloss": "elunxwemeni"
     },
     {
       "surface": "ישראל",
-      "gloss": "waseYisrayeli"
+      "gloss": "lweYisrayeli"
     },
     {
       "surface": "אל",
-      "gloss": ""
+      "gloss": "ku-"
     },
     {
       "surface": "הארץ",
@@ -53,15 +54,16 @@
     },
     {
       "surface": "אשר",
-      "gloss": "endaphakamisela"
+      "gloss": "lo"
     },
     {
       "surface": "נשאתי",
-      "gloss": "ndaphakamisela"
+      "gloss": "ndiphakamisela"
     },
     {
       "surface": "את",
-      "gloss": "⟨את⟩"
+      "gloss": "⟨את⟩",
+      "marks": "isandla sam"
     },
     {
       "surface": "ידי",
@@ -69,17 +71,18 @@
     },
     {
       "surface": "לתת",
-      "gloss": "ukunika"
+      "gloss": "ukuze ndinike"
     },
     {
       "surface": "אותה",
-      "gloss": "⟨את⟩ yona"
+      "gloss": "⟨את⟩",
+      "marks": "kubawo benu"
     },
     {
       "surface": "לאבותיכם",
-      "gloss": "koyise benu"
+      "gloss": "kubawo benu"
     }
   ],
-  "timestamp": "2026-09-18T13:11:14.099229046Z",
+  "timestamp": "2026-09-18T18:45:25.192510255Z",
   "model": "glm-5.3"
 }

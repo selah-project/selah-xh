@@ -5,8 +5,61 @@
   "book": "genesis",
   "lang": "xh",
   "chapter": 34,
-  "translation": "UShekhem wathetha kayise no kumalume a...... wathetha kuYise wakhe nakwabantwana bakhe......",
-  "tokens": [],
-  "timestamp": "2026-09-18T05:32:07.782968699Z",
+  "translation": "Wathetha uShekhem kuYise ⟨wakhe⟩ nakwabantwana bakwabo benyana, ndithi: “Mndifumene incezo emehweni akho, nanto niyakuthiyo kum ndiza kuyinika.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wathetha"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "uShekhem"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "uyise wakhe"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "nakwi"
+    },
+    {
+      "surface": "אחיה",
+      "gloss": "abantalweni bakwabo"
+    },
+    {
+      "surface": "אמצא",
+      "gloss": "ndifumene"
+    },
+    {
+      "surface": "חן",
+      "gloss": "incezo"
+    },
+    {
+      "surface": "בעיניכם",
+      "gloss": "emehweni akho"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "nanto"
+    },
+    {
+      "surface": "תאמרו",
+      "gloss": "niyakuthiyo"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kum"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "ndiza kuyinika"
+    }
+  ],
+  "timestamp": "2026-09-18T18:56:58.472614005Z",
   "model": "glm-5.3"
 }

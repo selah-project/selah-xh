@@ -5,7 +5,7 @@
   "book": "judges",
   "lang": "xh",
   "chapter": 21,
-  "translation": "Yaye iqela labantu lathumela khona amadoda aliwaka alishumi elinesibini, oobugorha, lawalela oku nje: Hambani, nithabathe ngokomoya abahlali baYaveshi waseGiliyadi nolwandle, ngokunyanzeleka; nangabafazi nangeentsana.",
+  "translation": "Yaye iqupha lathumela khona amadoda amawaka alishumi elinambini, amadoda angamandla, walayisha ⟨את⟩ bona utsho: ‘Hambani, nisike ⟨את⟩ abemi beYabhesi wegiladi ngomlomo welipa, kunye nabasetyhini nabantwana.’",
   "tokens": [
     {
       "surface": "וישלחו",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "העדה",
-      "gloss": "iqela labantu"
+      "gloss": "iqupha"
     },
     {
       "surface": "שנים",
@@ -25,11 +25,11 @@
     },
     {
       "surface": "עשר",
-      "gloss": "alishumi"
+      "gloss": "elishumi"
     },
     {
       "surface": "אלף",
-      "gloss": "aliwaka"
+      "gloss": "amawaka"
     },
     {
       "surface": "איש",
@@ -37,66 +37,67 @@
     },
     {
       "surface": "מבני",
-      "gloss": "abase"
+      "gloss": "oonyana"
     },
     {
       "surface": "החיל",
-      "gloss": "ubugorha"
+      "gloss": "amandla"
     },
     {
       "surface": "ויצוו",
-      "gloss": "lawalela"
+      "gloss": "walayisha"
     },
     {
       "surface": "אותם",
-      "gloss": "⟨את⟩ bona"
+      "gloss": "⟨את⟩",
+      "marks": "bona"
     },
     {
       "surface": "לאמר",
-      "gloss": "oku nje"
+      "gloss": "utsho"
     },
     {
       "surface": "לכו",
-      "gloss": "Hambani"
+      "gloss": "hambani"
     },
     {
       "surface": "והכיתם",
-      "gloss": "nithabathe"
+      "gloss": "nisike"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "abahlali"
+      "marks": "abemi beYabhesi wegiladi"
     },
     {
       "surface": "יושבי",
-      "gloss": "abahlali"
+      "gloss": "abemi"
     },
     {
       "surface": "יבש",
-      "gloss": "baYaveshi"
+      "gloss": "iYabhesi"
     },
     {
       "surface": "גלעד",
-      "gloss": "waseGiliyadi"
+      "gloss": "iGiladi"
     },
     {
       "surface": "לפי",
-      "gloss": "ngokunyanzeleka"
+      "gloss": "ngomlomo"
     },
     {
-      "surface": "חרeb",
-      "gloss": "nolwandle"
+      "surface": "חרב",
+      "gloss": "welipa"
     },
     {
       "surface": "והנשים",
-      "gloss": "nangabafazi"
+      "gloss": "nabasetyhini"
     },
     {
       "surface": "והטף",
-      "gloss": "nangeentsana"
+      "gloss": "nabantwana"
     }
   ],
-  "timestamp": "2026-09-18T09:12:19.171020502Z",
+  "timestamp": "2026-09-18T18:51:59.021592564Z",
   "model": "glm-5.3"
 }

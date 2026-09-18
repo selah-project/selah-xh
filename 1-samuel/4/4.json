@@ -5,11 +5,11 @@
   "book": "1-samuel",
   "lang": "xh",
   "chapter": 4,
-  "translation": "Yaye abantu bathumela abantu basa eShiloh, basusa khona ⟨את⟩ ithangi lomnqophiso kaYahwe Tsebhayoti, ohleli phakathi kookherubhi; yaye oonyana babini baka-Eli, uKhofni noFinehasi, babekunye nethangi lomnqophiso kaThixo ⟨את⟩ ubukhosi base-Israyeli.",
+  "translation": "Wathuma abantu eShilo, baza bathabatha ngapha ⟨את⟩ isikhongozeli somnqophiso kaYahwe Tsebhayoti, ehlele kwiikerubhim, kwaye babekhona oonyana babini baka-Eli, noKhafni noFinhas, ese canxulumene nesikhongozeli somnqophiso kaElohim.",
   "tokens": [
     {
       "surface": "וישלח",
-      "gloss": "bathumela abantu"
+      "gloss": "wathuma"
     },
     {
       "surface": "העם",
@@ -17,28 +17,28 @@
     },
     {
       "surface": "שלה",
-      "gloss": "eShiloh"
+      "gloss": "eShilo"
     },
     {
       "surface": "וישאו",
-      "gloss": "basusa"
+      "gloss": "baza bathabatha"
     },
     {
       "surface": "משם",
-      "gloss": "khona"
+      "gloss": "ngapha"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ithangi lomnqophiso kaYahwe Tsebhayoti"
+      "marks": "isikhongozeli somnqophiso kaYahwe Tsebhayoti"
     },
     {
       "surface": "ארון",
-      "gloss": "ithangi"
+      "gloss": "isikhongozeli"
     },
     {
       "surface": "ברית",
-      "gloss": "lomnqophiso"
+      "gloss": "somnqophiso"
     },
     {
       "surface": "יהוה",
@@ -50,17 +50,53 @@
     },
     {
       "surface": "ישב",
-      "gloss": "ohleli"
+      "gloss": "ehlele"
     },
     {
       "surface": "הכרבים",
-      "gloss": "phakathi kookherubhi"
+      "gloss": "kwiikerubhim"
     },
     {
       "surface": "ושם",
-      "gloss": "yaye"
+      "gloss": "kwaye babekhona"
+    },
+    {
+      "surface": "שני",
+      "gloss": "babini"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oonyana"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "baka-Eli"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ese canxulumene ne"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "isikhongozeli"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "somnqophiso"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "kaElohim"
+    },
+    {
+      "surface": "חפני",
+      "gloss": "noKhafni"
+    },
+    {
+      "surface": "ופינחס",
+      "gloss": "noFinhas"
     }
   ],
-  "timestamp": "2026-09-18T09:17:20.991385177Z",
+  "timestamp": "2026-09-18T18:39:07.660263299Z",
   "model": "glm-5.3"
 }

@@ -5,38 +5,33 @@
   "book": "psalms",
   "lang": "xh",
   "chapter": 30,
-  "translation": "Mna ndathi kuxolo lam: Akukho kudangala ndiza kukubona ngesiphakade.",
+  "translation": "Mna ndathetha ndithi kuthozama kwam, ndingasindi ngephakade.",
   "tokens": [
     {
-      "surface": "זמרו",
-      "gloss": "",
-      "skip": true
-    },
-    {
       "surface": "ואני",
-      "gloss": "mna"
+      "gloss": "Mna"
     },
     {
       "surface": "אמרתי",
-      "gloss": "ndathi"
+      "gloss": "ndathetha ndithi"
     },
     {
       "surface": "בשלוי",
-      "gloss": "kuxolo lam"
+      "gloss": "kuthozama kwam"
     },
     {
       "surface": "בל",
-      "gloss": "akukho"
+      "gloss": "kungabi"
     },
     {
       "surface": "אמוט",
-      "gloss": "kudangala"
+      "gloss": "ndisindi"
     },
     {
       "surface": "לעולם",
-      "gloss": "ngesiphakade"
+      "gloss": "ngephakade"
     }
   ],
-  "timestamp": "2026-09-18T14:39:07.190931737Z",
+  "timestamp": "2026-09-18T18:55:26.625691688Z",
   "model": "glm-5.3"
 }

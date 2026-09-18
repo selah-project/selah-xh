@@ -5,15 +5,15 @@
   "book": "ezekiel",
   "lang": "xh",
   "chapter": 20,
-  "translation": "Ngoko thatha uncumo, unyana womntu, yitha kwindlu kaSirayeli uthi kuyo: Uthusi ngoku u-Adonayi uYahwe: Nangale penipha ooyihlo bandihloyile, ngokwenza isidliso kum.",
+  "translation": "Ngoko ke, unyana womntu, thetha kwisizwe sikaSirayeli, uthi kubo: Uku-Adonayi uYahwe uthi: Kananjalo ngooku, ooyihlo baneenzlwani ⟨את⟩ ngam, ngokwenza ukukrokra ngam.",
   "tokens": [
     {
       "surface": "לכן",
-      "gloss": "ngoko"
+      "gloss": "Ngoko ke"
     },
     {
       "surface": "דבר",
-      "gloss": "thatha uncumo"
+      "gloss": "thetha"
     },
     {
       "surface": "אל",
@@ -21,12 +21,11 @@
     },
     {
       "surface": "בית",
-      "gloss": "inkundla\/indlu",
-      "marks": "kwindlu"
+      "gloss": "kwisizwe"
     },
     {
       "surface": "ישראל",
-      "gloss": "kaSirayeli"
+      "gloss": "sikaSirayeli"
     },
     {
       "surface": "בן",
@@ -38,19 +37,19 @@
     },
     {
       "surface": "ואמרת",
-      "gloss": "yitha"
-    },
-    {
-      "surface": "אליהם",
-      "gloss": "kuyo"
-    },
-    {
-      "surface": "כה",
       "gloss": "uthi"
     },
     {
+      "surface": "אליהם",
+      "gloss": "kubo"
+    },
+    {
+      "surface": "כה",
+      "gloss": "Uku-"
+    },
+    {
       "surface": "אמר",
-      "gloss": "ngoku"
+      "gloss": "uthi"
     },
     {
       "surface": "אדני",
@@ -62,20 +61,20 @@
     },
     {
       "surface": "עוד",
-      "gloss": "nangale penipha"
+      "gloss": "Kananjalo"
     },
     {
       "surface": "זאת",
-      "gloss": ""
+      "gloss": "ngooku"
     },
     {
       "surface": "גדפו",
-      "gloss": "bandihloyile"
+      "gloss": "baneenzlwani"
     },
     {
       "surface": "אותי",
       "gloss": "⟨את⟩",
-      "marks": "ndi- (mna)"
+      "marks": "ooyihlo (abaneenzlwani)"
     },
     {
       "surface": "אבותיכם",
@@ -83,17 +82,17 @@
     },
     {
       "surface": "במעלם",
-      "gloss": "ngokwenza isidliso"
+      "gloss": "ngokwenza ukukrokra"
     },
     {
       "surface": "בי",
-      "gloss": "ku-"
+      "gloss": "ngam"
     },
     {
       "surface": "מעל",
-      "gloss": "mna (isidliso)"
+      "gloss": "ukukrokra"
     }
   ],
-  "timestamp": "2026-09-18T13:11:06.685357778Z",
+  "timestamp": "2026-09-18T18:45:30.983786077Z",
   "model": "glm-5.3"
 }

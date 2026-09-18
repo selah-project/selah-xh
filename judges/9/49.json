@@ -5,59 +5,59 @@
   "book": "judges",
   "lang": "xh",
   "chapter": 9,
-  "translation": "Yaye iinkosi zonke zalima umntu-ngamnye isibo sakhe, zaza nam ngokwazo zilandela u-Avimelekhi, zaba zibeka phezu kwesixeko, zaza zatshisa ngumlilo isixeko sam ‹את› phezu kwabo; kwaza kwafa nabo bonke amadoda esiLela seTeyere, njengamawaka ali-1 ‹את› amadoda nabafazi.",
+  "translation": "Kananjalo abantu bonke basika umntu ngamnye isandi lakhe, waya emva kuka-Avimalekhi, bazibeka phezu kwesixhaso, baze basitshise ⟨את⟩ isixhaso ngomlilo phezu kwabo; bafa kananjalo onke amadoda etafile yaseSikhem, malunga nawaka amadoda nabafazi.",
   "tokens": [
     {
       "surface": "ויכרתו",
-      "gloss": "zalima"
+      "gloss": "basika"
     },
     {
       "surface": "גם",
-      "gloss": "nangokwazo"
+      "gloss": "kananjalo"
     },
     {
       "surface": "כל",
-      "gloss": "zonke"
+      "gloss": "onke"
     },
     {
       "surface": "העם",
-      "gloss": "iinkosi"
+      "gloss": "abantu"
     },
     {
       "surface": "איש",
-      "gloss": "umntu-ngamnye"
+      "gloss": "umntu ngamnye"
     },
     {
       "surface": "שוכה",
-      "gloss": "isibo sakhe"
+      "gloss": "isandi lakhe"
     },
     {
       "surface": "וילכו",
-      "gloss": "zalandela"
+      "gloss": "waya"
     },
     {
       "surface": "אחרי",
-      "gloss": "la"
+      "gloss": "emva kuka-"
     },
     {
       "surface": "אבימלך",
-      "gloss": "u-Avimelekhi"
+      "gloss": "u-Avimalekhi"
     },
     {
       "surface": "וישימו",
-      "gloss": "zabeka"
+      "gloss": "bazibeka"
     },
     {
       "surface": "על",
-      "gloss": "phezu kwesi"
+      "gloss": "phezu kwe-"
     },
     {
       "surface": "הצריח",
-      "gloss": "xesixeko"
+      "gloss": "isixhaso"
     },
     {
       "surface": "ויציתו",
-      "gloss": "zatshisa"
+      "gloss": "basitshisa"
     },
     {
       "surface": "עליהם",
@@ -65,44 +65,44 @@
     },
     {
       "surface": "את",
-      "gloss": "‹את›",
-      "marks": "isixeko"
+      "gloss": "⟨את⟩",
+      "marks": "isixhaso"
     },
     {
       "surface": "הצריח",
-      "gloss": "isixeko sam"
+      "gloss": "isixhaso"
     },
     {
       "surface": "באש",
-      "gloss": "ngumililo"
+      "gloss": "ngomlilo"
     },
     {
       "surface": "וימתו",
-      "gloss": "lwafa"
+      "gloss": "bafa"
     },
     {
       "surface": "גם",
-      "gloss": "nabo"
+      "gloss": "kananjalo"
     },
     {
       "surface": "כל",
-      "gloss": "bonke"
+      "gloss": "onke"
     },
     {
       "surface": "אנשי",
-      "gloss": "amadoda esi"
+      "gloss": "amadoda"
     },
     {
       "surface": "מגדל",
-      "gloss": "isiLela"
+      "gloss": "etafile"
     },
     {
       "surface": "שכם",
-      "gloss": "seTeyere"
+      "gloss": "aseSikhem"
     },
     {
       "surface": "כאלף",
-      "gloss": "njengamawaka ali-1"
+      "gloss": "malunga nawaka"
     },
     {
       "surface": "איש",
@@ -113,6 +113,6 @@
       "gloss": "nabafazi"
     }
   ],
-  "timestamp": "2026-09-18T08:57:46.016470587Z",
+  "timestamp": "2026-09-18T18:52:27.318236451Z",
   "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "1-chronicles",
   "lang": "xh",
   "chapter": 14,
-  "translation": "Wathumela uKhayiram, inkosi yaseTsori, abathunywa kuDavide, nawuniye wokhezo, nabenzi besindonga nabenzi bezinto zokwakha, ukwakha ⟨⟨indlu yakhe⟩⟩.",
+  "translation": "Wathumela uKhiramu, inkosi yeTsori, abathunywa kuDavide, namaphezu kweiaride, noobuchwephesha bobudonga noobuchwepheshabezithi, ukwakha <i>yindlu<\/i> yakhe.",
   "tokens": [
     {
       "surface": "וישלח",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "חירם",
-      "gloss": "uKhayiram"
+      "gloss": "uKhiramu"
     },
     {
       "surface": "מלך",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "צר",
-      "gloss": "yaseTsori"
+      "gloss": "yeTsori"
     },
     {
       "surface": "מלאכים",
@@ -37,27 +37,27 @@
     },
     {
       "surface": "ועצי",
-      "gloss": "nawuniye"
+      "gloss": "namaphezu kwe"
     },
     {
       "surface": "ארזים",
-      "gloss": "wokhezo"
+      "gloss": "iaride"
     },
     {
       "surface": "וחרשי",
-      "gloss": "nabenzi"
+      "gloss": "noobuchwephesha"
     },
     {
       "surface": "קיר",
-      "gloss": "besindonga"
+      "gloss": "bobudonga"
     },
     {
       "surface": "וחרשי",
-      "gloss": "nabenzi"
+      "gloss": "noobuchwephesha"
     },
     {
       "surface": "עצים",
-      "gloss": "bezinto zokwakha"
+      "gloss": "bezithi"
     },
     {
       "surface": "לבנות",
@@ -65,13 +65,13 @@
     },
     {
       "surface": "לו",
-      "gloss": "yakhe"
+      "gloss": "<i>yakhe<\/i>"
     },
     {
       "surface": "בית",
       "gloss": "indlu"
     }
   ],
-  "timestamp": "2026-09-18T16:56:01.919556840Z",
+  "timestamp": "2026-09-18T18:56:36.373664636Z",
   "model": "glm-5.3"
 }

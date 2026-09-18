@@ -5,7 +5,7 @@
   "book": "exodus",
   "lang": "xh",
   "chapter": 27,
-  "translation": "Onke amajonga egadiyo ajikeleze afakwe iingubo zesilivha, iinqhwishi zawo zesilivha, kunye neesiseko zawo zethutsi.",
+  "translation": "Onke iintsika ze-echatsu ezisecaleni ziye zazingelwa ngesilivere, iinqwenqweni zazo zisilivere, kunye neesiseko zazo zibhedle.",
   "tokens": [
     {
       "surface": "כל",
@@ -13,42 +13,41 @@
     },
     {
       "surface": "עמודי",
-      "gloss": "amajonga"
+      "gloss": "iintsika ze-"
     },
     {
       "surface": "החצר",
-      "gloss": "egadiyo"
+      "gloss": "echatsu"
     },
     {
       "surface": "סביב",
-      "gloss": "ajikeleze"
+      "gloss": "ezisecaleni"
     },
     {
       "surface": "מחשקים",
-      "gloss": "afakwe iingubo"
+      "gloss": "ziye zazingelwa"
     },
     {
       "surface": "כסף",
-      "gloss": "zesilivha"
+      "gloss": "ngesilivere"
     },
     {
       "surface": "ואדניהם",
-      "gloss": "kunye neesiseko zawo"
+      "gloss": "iinqwenqweni zazo"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "zisilivere"
     },
     {
       "surface": "ואדניהם",
-      "gloss": "kunye neesiseko zawo",
-      "notes": ""
-    },
-    {
-      "surface": "ואדניהם",
-      "gloss": ""
+      "gloss": "kunye neesiseko zazo"
     },
     {
       "surface": "נחשת",
-      "gloss": "zethutsi"
+      "gloss": "zibhedle"
     }
   ],
-  "timestamp": "2026-09-18T06:13:11.213129808Z",
+  "timestamp": "2026-09-18T18:44:34.918746962Z",
   "model": "glm-5.3"
 }

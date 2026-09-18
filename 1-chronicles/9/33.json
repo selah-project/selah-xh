@@ -5,8 +5,57 @@
   "book": "1-chronicles",
   "lang": "xh",
   "chapter": 9,
-  "translation": "Kananjalo aba, ngumculi, iintloko zoothetho babe ngabalevi, ahlala kwiikamsha zengcwele ukusuka ekuseni ukuya ebusuku, benze umsebenzi wabo.",
-  "tokens": [],
-  "timestamp": "2026-09-18T16:54:02.886412108Z",
+  "translation": "Kwaye aba ngabaculi, iintloko zoyise boonyana babaLevi, abaye bahlela kwiigumbi (bengazibambelelanga nto) kuba imini nangebusuku babengaphezu kwawo kumsebenzi.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Kwaye aba"
+    },
+    {
+      "surface": "המשררים",
+      "gloss": "ngabaculi"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "iintloko"
+    },
+    {
+      "surface": "אבות",
+      "gloss": "zoyise"
+    },
+    {
+      "surface": "ללוים",
+      "gloss": "boonyana babaLevi"
+    },
+    {
+      "surface": "בלשכת",
+      "gloss": "kwiigumbi"
+    },
+    {
+      "surface": "פטירים",
+      "gloss": "(bengazibambelelanga nto)"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "imini"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "nangebusuku"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "babengaphezu kwawo"
+    },
+    {
+      "surface": "במלאכה",
+      "gloss": "kumsebenzi"
+    }
+  ],
+  "timestamp": "2026-09-18T18:37:26.574365656Z",
   "model": "glm-5.3"
 }

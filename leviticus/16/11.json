@@ -5,20 +5,20 @@
   "book": "leviticus",
   "lang": "xh",
   "chapter": 16,
-  "translation": "U-Aharon uza kuzisa ⟨את⟩ inkunzi yomnikelo wesono eyakhe, aze axolele ngenxa yakhe nangenxa yendlu yakhe, ⟨את⟩ alibe inkunzi yomnikelo wesono eyakhe.",
+  "translation": "Waza u-Aharon wazisa ⟨את⟩ inkunzi yesono yakhe, wenza ukuxolelwa ngesiqu sakhe nangabasekhaya lakhe, wazibulala ⟨את⟩ inkunzi yesono yakhe.",
   "tokens": [
     {
       "surface": "והקריב",
-      "gloss": "uza kuzisa"
+      "gloss": "wazisa"
     },
     {
       "surface": "אהרן",
-      "gloss": "U-Aharon"
+      "gloss": "u-Aharon"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "inkunzi"
+      "marks": "inkunzi yesono yakhe"
     },
     {
       "surface": "פר",
@@ -26,44 +26,40 @@
     },
     {
       "surface": "החטאת",
-      "gloss": "yomnikelo wesono"
+      "gloss": "yesono"
     },
     {
       "surface": "אשר",
-      "gloss": "eyakhe"
+      "gloss": "esona"
     },
     {
       "surface": "לו",
-      "gloss": "eyakhe"
+      "gloss": "yakhe"
     },
     {
       "surface": "וכפר",
-      "gloss": "axolele"
+      "gloss": "wenza ukuxolelwa"
     },
     {
       "surface": "בעדו",
-      "gloss": "ngenxa yakhe"
+      "gloss": "ngesiqu sakhe"
     },
     {
       "surface": "ובעד",
-      "gloss": "nangenxa"
-    },
-    {
-      "surface": "ביתowo",
-      "gloss": ""
+      "gloss": "nanga-"
     },
     {
       "surface": "ביתו",
-      "gloss": "yendlu yakhe"
+      "gloss": "abasekhaya lakhe"
     },
     {
       "surface": "ושחט",
-      "gloss": "⟨את⟩ alibe"
+      "gloss": "wazibulala"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "inkunzi"
+      "marks": "inkunzi yesono yakhe"
     },
     {
       "surface": "פר",
@@ -71,17 +67,17 @@
     },
     {
       "surface": "החטאת",
-      "gloss": "yomnikelo wesono"
+      "gloss": "yesono"
     },
     {
       "surface": "אשר",
-      "gloss": "eyakhe"
+      "gloss": "esona"
     },
     {
       "surface": "לו",
-      "gloss": "eyakhe"
+      "gloss": "yakhe"
     }
   ],
-  "timestamp": "2026-09-18T06:54:26.377021219Z",
+  "timestamp": "2026-09-18T18:52:20.876852540Z",
   "model": "glm-5.3"
 }

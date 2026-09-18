@@ -5,7 +5,7 @@
   "book": "zechariah",
   "lang": "xh",
   "chapter": 4,
-  "translation": "Waphendula, wathi kum, esithi: Olu lulizwi lukaYahwe eluZerubbabele, elithi: Hayi ngeyamandla okulwa, yaye hayi ngeyokuqina, kodwa ngoMoya wam, utshilo uYahwe Tsebhayoti.",
+  "translation": "Waphendula wathi kum, wathi: Olu lulwazi lukaYahwe luza kuZerubhabheli, lwathi: Hayi ngenamandla okulwa, kananjalo hayi ngamandla, kodwa ngoMoya wam, utshilo uYahwe Tsebhayoti.",
   "tokens": [
     {
       "surface": "ויען",
@@ -21,15 +21,15 @@
     },
     {
       "surface": "לאמר",
-      "gloss": "esithi"
+      "gloss": "wathi"
     },
     {
       "surface": "זה",
-      "gloss": "Olu"
+      "gloss": "olu"
     },
     {
       "surface": "דבר",
-      "gloss": "lulizwi"
+      "gloss": "ulwazi"
     },
     {
       "surface": "יהוה",
@@ -37,15 +37,15 @@
     },
     {
       "surface": "אל",
-      "gloss": "ku"
+      "gloss": "luza ku"
     },
     {
       "surface": "זרבבל",
-      "gloss": "uZerubbabele"
+      "gloss": "uZerubhabheli"
     },
     {
       "surface": "לאמר",
-      "gloss": "elithi"
+      "gloss": "lwathi"
     },
     {
       "surface": "לא",
@@ -53,15 +53,15 @@
     },
     {
       "surface": "בחיל",
-      "gloss": "ngeyamandla okulwa"
+      "gloss": "ngenamandla okulwa"
     },
     {
       "surface": "ולא",
-      "gloss": "yaye hayi"
+      "gloss": "kananjalo hayi"
     },
     {
       "surface": "בכח",
-      "gloss": "ngeyokuqina"
+      "gloss": "ngamandla"
     },
     {
       "surface": "כי",
@@ -69,7 +69,7 @@
     },
     {
       "surface": "אם",
-      "gloss": ""
+      "gloss": "⟨kodwa⟩"
     },
     {
       "surface": "ברוחי",
@@ -88,6 +88,6 @@
       "gloss": "Tsebhayoti"
     }
   ],
-  "timestamp": "2026-09-18T14:19:27.505096391Z",
+  "timestamp": "2026-09-18T18:55:57.583690101Z",
   "model": "glm-5.3"
 }

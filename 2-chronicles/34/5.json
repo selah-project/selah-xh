@@ -5,50 +5,51 @@
   "book": "2-chronicles",
   "lang": "xh",
   "chapter": 34,
-  "translation": "Kananjalo amathambo oobabi awayesela... wawutshisa emizini yabo yeenkosi, kodwa wawutshisa phezu kweentalari zabo; waza wahlanza ⟨את⟩ uYehuda, waza wahlanza ne⟨את⟩ iYerushalayimi.",
+  "translation": "Kwaye iithambo zeenkosi wazitshisa phezu kwee-altare zazo, waza wacoca ⟨את⟩ iYehudha ⟨את⟩ neYerushalayimi.",
   "tokens": [
     {
       "surface": "ועצמות",
-      "gloss": "Kananjalo amathambo"
+      "gloss": "kwaye iithambo"
     },
     {
       "surface": "כהנים",
-      "gloss": "oobabi basekhaya leenkosi zoMdali - abakhonzi belizwe"
+      "gloss": "zeenkosi"
     },
     {
       "surface": "שרף",
-      "gloss": "wawutshisa"
+      "gloss": "wazitshisa"
     },
     {
       "surface": "על",
-      "gloss": "phezu kwa-"
+      "gloss": "phezu kwi-"
     },
     {
       "surface": "מזבחותים",
-      "gloss": "iintali zawo zonke"
+      "gloss": "ii-altare zazo"
     },
     {
       "surface": "ויטהר",
-      "gloss": "waza wahlanza ngokupheleleyo ⟨את⟩"
+      "gloss": "waza wacoca"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "uYehuda"
+      "marks": "iYehudha"
     },
     {
       "surface": "יהודה",
-      "gloss": "uYehuda"
+      "gloss": "iYehudha"
     },
     {
       "surface": "ואת",
-      "gloss": "waza wahlanza ngokupheleleyo ne⟨את⟩"
+      "gloss": "⟨את⟩",
+      "marks": "iYerushalayimi"
     },
     {
       "surface": "ירושלם",
-      "gloss": "iYerushalayimi"
+      "gloss": "neYerushalayimi"
     }
   ],
-  "timestamp": "2026-09-18T17:17:09.438679763Z",
+  "timestamp": "2026-09-18T18:39:40.833361382Z",
   "model": "glm-5.3"
 }

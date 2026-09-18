@@ -5,8 +5,65 @@
   "book": "1-kings",
   "lang": "xh",
   "chapter": 11,
-  "translation": "Ookwenzakalayo kwasekhuphelela kweendaba zoShelomoh, nako konke awayenzileyo, nencwadi yakhe yokhaliphileyo — awabhaliwanga yini eso kwincwadi yendaba zoShelomoh?",
-  "tokens": [],
-  "timestamp": "2026-09-18T10:22:52.383844853Z",
+  "translation": "Ooko kwaseleyo kweendaba zikaShelomo, nako konke oko awakwenza, kunye nokulunga kwakhe ngobulumko — akuzalutywalwa na ezibhalweni zencwadi yeedaba zikaShelomo?",
+  "tokens": [
+    {
+      "surface": "ויתר",
+      "gloss": "Ooko kwaseleyo"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "kweendaba"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "zikaShelomo"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "nako konke"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oko"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "awakwenza"
+    },
+    {
+      "surface": "וחכמתו",
+      "gloss": "kunye nokulunga kwakhe ngobulumko"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "akuzalutywalwa na"
+    },
+    {
+      "surface": "הם",
+      "gloss": "zo"
+    },
+    {
+      "surface": "כתבים",
+      "gloss": "ezibhalweni"
+    },
+    {
+      "surface": "על",
+      "gloss": "kwi-"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "yencwadi"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "yeedaba"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "zikaShelomo"
+    }
+  ],
+  "timestamp": "2026-09-18T18:38:12.430208722Z",
   "model": "glm-5.3"
 }

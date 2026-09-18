@@ -5,8 +5,41 @@
   "book": "psalms",
   "lang": "xh",
   "chapter": 72,
-  "translation": "Usikelelekile uYahwe uElohim, uElohim ka-Israyeli, enzena into ezodwa umdabukelayo.",
-  "tokens": [],
-  "timestamp": "2026-09-18T14:57:51.621626452Z",
+  "translation": "Ubusisiwe uYahwe uElohim, uElohim kaSirayeli, owenza imimangaliso yedwa.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Ubusisiwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "uElohim ka-"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Sirayeli"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "owenza"
+    },
+    {
+      "surface": "נפלאות",
+      "gloss": "imimangaliso"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "yedwa"
+    }
+  ],
+  "timestamp": "2026-09-18T18:55:13.362763010Z",
   "model": "glm-5.3"
 }

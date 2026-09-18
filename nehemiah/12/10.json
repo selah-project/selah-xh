@@ -5,8 +5,56 @@
   "book": "nehemiah",
   "lang": "xh",
   "chapter": 12,
-  "translation": "",
-  "tokens": [],
-  "timestamp": "2026-09-18T16:48:39.809758213Z",
+  "translation": "Kwaye uYeshuwa wazala ⟨את⟩ uYoyakimi, uYoyakimi wazala ⟨את⟩ uElyashibi, kwaye uElyashibi ⟨azala⟩ ⟨את⟩ uYoyada.",
+  "tokens": [
+    {
+      "surface": "וישוע",
+      "gloss": "Kwaye uYeshuwa"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "wazala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uYoyakimi"
+    },
+    {
+      "surface": "יויקים",
+      "gloss": "uYoyakimi"
+    },
+    {
+      "surface": "ויויקים",
+      "gloss": "uYoyakimi"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "wazala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uElyashibi"
+    },
+    {
+      "surface": "אלישיב",
+      "gloss": "uElyashibi"
+    },
+    {
+      "surface": "ואלישיב",
+      "gloss": "kwaye uElyashibi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uYoyada"
+    },
+    {
+      "surface": "יוידע",
+      "gloss": "uYoyada"
+    }
+  ],
+  "timestamp": "2026-09-18T18:53:45.097432798Z",
   "model": "glm-5.3"
 }

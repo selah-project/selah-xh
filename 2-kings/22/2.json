@@ -5,8 +5,61 @@
   "book": "2-kings",
   "lang": "xh",
   "chapter": 22,
-  "translation": "Waza wenza okulungileyo emehlweni kaYahwe, wahamba endlwini wonke kaDawidi uyise, waza akaphethuki ekudrightini okanye ekhohle.",
-  "tokens": [],
-  "timestamp": "2026-09-18T17:33:40.072575515Z",
+  "translation": "Wenza okulungileyo emehlweni kaYahwe, wahamba kulo lonke indlela kaDawidi uyise, waluthabulanga unene okanye ekhohlo.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "wenza"
+    },
+    {
+      "surface": "הישר",
+      "gloss": "okulungileyo"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "emehlweni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kaYahwe"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "wahamba"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "kulo lonke"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "indlela"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "kaDawidi"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "uyise"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "hayi"
+    },
+    {
+      "surface": "סר",
+      "gloss": "waluthabulanga"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "unene"
+    },
+    {
+      "surface": "ושמאול",
+      "gloss": "okanye ekhohlo"
+    }
+  ],
+  "timestamp": "2026-09-18T18:40:03.713086115Z",
   "model": "glm-5.3"
 }

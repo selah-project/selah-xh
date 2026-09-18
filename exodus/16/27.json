@@ -5,23 +5,27 @@
   "book": "exodus",
   "lang": "xh",
   "chapter": 16,
-  "translation": "Kwaba ukuba ngelanga lesixhenye, abanye abantu baphuma ukulanda, kodwa bafumana ⟨ntho⟩.",
+  "translation": "Kwathi ngosuku lwesixhenxe abanye abantu aphuma ukutya ukuya kukhanga, kodwa abafumeni nanto.",
   "tokens": [
     {
-      "surface": "והיה ביום",
-      "gloss": "Kwaba ukuba"
+      "surface": "ויהי",
+      "gloss": "Kwathi"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ngosuku"
     },
     {
       "surface": "השביעי",
-      "gloss": "lesixhenye"
+      "gloss": "lwesixhenxe"
     },
     {
       "surface": "יצאו",
-      "gloss": "baphuma"
+      "gloss": "aphuma"
     },
     {
       "surface": "מן",
-      "gloss": "abanye"
+      "gloss": "abanye abantu aphuma ukutya"
     },
     {
       "surface": "העם",
@@ -29,17 +33,17 @@
     },
     {
       "surface": "ללקט",
-      "gloss": "ukulanda"
+      "gloss": "ukuya kukhange"
     },
     {
       "surface": "ולא",
-      "gloss": "kodwa"
+      "gloss": "kodwa abafumeni nanto"
     },
     {
       "surface": "מצאו",
-      "gloss": "bafumana"
+      "gloss": "abafumeni"
     }
   ],
-  "timestamp": "2026-09-18T06:03:08.838575949Z",
+  "timestamp": "2026-09-18T18:44:28.857561397Z",
   "model": "glm-5.3"
 }

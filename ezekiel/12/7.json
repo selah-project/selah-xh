@@ -5,39 +5,39 @@
   "book": "ezekiel",
   "lang": "xh",
   "chapter": 12,
-  "translation": "Ndaza ndenza njalo, njengoko ndathyalelwe; ndakhipha impahla yam emini, njengeempahla zokushiya ilizwe; nangokuhlwa ndakopela udonga ngesandla sam; emnyameni ndakhupha, ndayithwala phezu kwehlombe, phambi kwamehlo abo.",
+  "translation": "Ndaza ndenza njalo njengoko bendiyalelwe; izixhobo zam zendizikhuphela emini, njengezixhobo zoguthingo, ngokuhlwa ndaza ndakheba ndedwa ngaphezu komngci ngesandla; ebumnyameni ndazikhuphela, ndazithwala ngomqala emehlweni abo.",
   "tokens": [
     {
       "surface": "ואעש",
-      "gloss": "ndaza ndenza"
+      "gloss": "ndenza njalo"
     },
     {
       "surface": "כן",
-      "gloss": "njalo"
-    },
-    {
-      "surface": "כאשר",
       "gloss": "njengoko"
     },
     {
+      "surface": "כאשר",
+      "gloss": "njengoko bendiyalelwe"
+    },
+    {
       "surface": "צויתי",
-      "gloss": "ndathyalelwe"
+      "gloss": "bendiyalelwe"
     },
     {
       "surface": "כלי",
-      "gloss": "impahla yam"
+      "gloss": "izixhobo zam"
     },
     {
       "surface": "הוצאתי",
-      "gloss": "ndakhipha"
+      "gloss": "ndazikhuphela"
     },
     {
       "surface": "ככלי",
-      "gloss": "njengeempahla"
+      "gloss": "njengezixhobo"
     },
     {
       "surface": "גולה",
-      "gloss": "zokushiya ilizwe"
+      "gloss": "zoguthingo"
     },
     {
       "surface": "יומם",
@@ -45,49 +45,49 @@
     },
     {
       "surface": "ובערב",
-      "gloss": "nangokuhlwa"
+      "gloss": "ngokuhlwa"
     },
     {
       "surface": "חתרתי",
-      "gloss": "ndakopela"
+      "gloss": "ndakheba"
     },
     {
       "surface": "לי",
-      "gloss": ""
+      "gloss": "ndedwa"
     },
     {
       "surface": "בקיר",
-      "gloss": "udonga"
+      "gloss": "ngaphezu komngci"
     },
     {
       "surface": "ביד",
-      "gloss": "ngesandla sam"
+      "gloss": "ngesandla"
     },
     {
       "surface": "בעלטה",
-      "gloss": "emnyameni"
+      "gloss": "ebumnyameni"
     },
     {
       "surface": "הוצאתי",
-      "gloss": "ndakhupha"
+      "gloss": "ndazikhuphela"
     },
     {
       "surface": "על",
-      "gloss": "phezu"
+      "gloss": "ng"
     },
     {
       "surface": "כתף",
-      "gloss": "kwehlombe"
+      "gloss": "omqala"
     },
     {
       "surface": "נשאתי",
-      "gloss": "ndayithwala"
+      "gloss": "ndazithwala"
     },
     {
       "surface": "לעיניהם",
-      "gloss": "phambi kwamehlo abo"
+      "gloss": "emehlweni abo"
     }
   ],
-  "timestamp": "2026-09-18T12:58:45.841390976Z",
+  "timestamp": "2026-09-18T18:44:38.997736339Z",
   "model": "glm-5.3"
 }

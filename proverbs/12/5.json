@@ -5,8 +5,33 @@
   "book": "proverbs",
   "lang": "xh",
   "chapter": 12,
-  "translation": "Iingcinga zeenjiji zolwazi: zonke zi-⟨the⟩ intando kaYahwe; iingcinga zeenjiji zolaka zi-⟨the⟩ inkohliso yezidalwa ezimbi.",
-  "tokens": [],
-  "timestamp": "2026-09-18T15:43:45.723748441Z",
+  "translation": "Iimbono zaloo tsigiji ⟨zimi⟩ ngumthetho olungileyo, iicebo zabenzi bobubi zidla ngokwehlulela.",
+  "tokens": [
+    {
+      "surface": "מחשׁבות",
+      "gloss": "Iimbono zaloo tsigiji"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "tsigiji"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "umthetho olungileyo"
+    },
+    {
+      "surface": "תחבלות",
+      "gloss": "iicebo"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "abenzi bobubi"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "ukwehlulela"
+    }
+  ],
+  "timestamp": "2026-09-18T18:54:53.194186425Z",
   "model": "glm-5.3"
 }

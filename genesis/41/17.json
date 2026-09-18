@@ -5,7 +5,7 @@
   "book": "genesis",
   "lang": "xh",
   "chapter": 41,
-  "translation": "Wathetha uParo kuYosefithi: “Ekuphupheni kwam, nantsi ndimi emngciphekweni wolwandle lwaseMitsrayim.”",
+  "translation": "Wathetha uParo kuYosef: “Kweliphupha lam, ndimi <span>auf<\/span> emele okanye ndimile phezu komda womlambo.”",
   "tokens": [
     {
       "surface": "וידבר",
@@ -25,29 +25,29 @@
     },
     {
       "surface": "בחלomי",
-      "gloss": "ekuphupheni kwam"
+      "gloss": "kweliphupha lam"
     },
     {
       "surface": "הנני",
-      "gloss": "nantsi"
-    },
-    {
-      "surface": "עמד",
       "gloss": "ndimi"
     },
     {
+      "surface": "עמד",
+      "gloss": "emile"
+    },
+    {
       "surface": "על",
-      "gloss": "em"
+      "gloss": "phezu"
     },
     {
       "surface": "שפת",
-      "gloss": "mgcipheko"
+      "gloss": "komda"
     },
     {
       "surface": "היאר",
-      "gloss": "wolwandle iYeor"
+      "gloss": "womlambo"
     }
   ],
-  "timestamp": "2026-09-18T17:19:57.256953999Z",
+  "timestamp": "2026-09-18T18:46:41.075256364Z",
   "model": "glm-5.3"
 }

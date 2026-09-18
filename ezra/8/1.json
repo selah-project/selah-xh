@@ -5,8 +5,49 @@
   "book": "ezra",
   "lang": "xh",
   "chapter": 8,
-  "translation": "Ezi ngoo Rheshi yooyo bawo, nokwahlulahlula ngesidanzo lwabo, abahamba nayo naye ndiya phezulu nathi, phantsi kobukumkani buka-Artakhshasta, ukumkani, avela eBhabheli.",
-  "tokens": [],
-  "timestamp": "2026-09-18T16:42:53.205126318Z",
+  "translation": "Ezi ngoothelekho beevelaphi labo, neli lihlu lwabavela ngenene labahamba ndawonye nam, kubukumkani buka-Artachshasta, inkosi, ukusuka eBhabheli.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Ezi"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "ngoothelekho"
+    },
+    {
+      "surface": "אבתיהם",
+      "gloss": "beevelaphi labo"
+    },
+    {
+      "surface": "והתיחשם",
+      "gloss": "neli lihlu lwabavela ngenene"
+    },
+    {
+      "surface": "העלים",
+      "gloss": "labahamba ndawonye"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "nam"
+    },
+    {
+      "surface": "במלכות",
+      "gloss": "kubukumkani buka"
+    },
+    {
+      "surface": "ארתחשסתא",
+      "gloss": "Artachshasta"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "inkosi"
+    },
+    {
+      "surface": "מבבל",
+      "gloss": "ukusuka eBhabheli"
+    }
+  ],
+  "timestamp": "2026-09-18T18:45:44.663433506Z",
   "model": "glm-5.3"
 }

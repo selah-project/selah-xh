@@ -5,8 +5,45 @@
   "book": "hosea",
   "lang": "xh",
   "chapter": 2,
-  "translation": "Ndiza kuthembisa kuwe kum ndingomncedisi wakho kuYahwe ngonaphakade; ndiza kukuthembisa kum ngenyaniso nasangokwetyala, ngeikhesedi nasembenzweni.",
-  "tokens": [],
-  "timestamp": "2026-09-18T13:42:12.776495159Z",
+  "translation": "Ndiza kukucebisa kum kuthile kube ngonaphakade; ewe, ndiza kukucebisa kum ngobulungileyo, nangomthetho wogwebo, nangekhesedi, nanerhwabo.",
+  "tokens": [
+    {
+      "surface": "וארשתיך",
+      "gloss": "ndiza kukucebisa"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kum"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "kube ngonaphakade"
+    },
+    {
+      "surface": "וארשתיך",
+      "gloss": "ewe, ndiza kukucebisa"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kum"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "ngobulungileyo"
+    },
+    {
+      "surface": "ובמשפט",
+      "gloss": "nangomthetho wogwebo"
+    },
+    {
+      "surface": "ובחסד",
+      "gloss": "nangekhesedi"
+    },
+    {
+      "surface": "וברחמים",
+      "gloss": "nanerhwabo"
+    }
+  ],
+  "timestamp": "2026-09-18T18:47:41.624382166Z",
   "model": "glm-5.3"
 }

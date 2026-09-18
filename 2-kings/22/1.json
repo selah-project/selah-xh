@@ -5,8 +5,73 @@
   "book": "2-kings",
   "lang": "xh",
   "chapter": 22,
-  "translation": "Ewubezano: uYoshiya wayeneminyaka esibhozo waza emva koko wayinkosi, wabusa iminyaka engamatshumi amathathu nanye eYerushalayimi; igama leenkuni—",
-  "tokens": [],
-  "timestamp": "2026-09-18T10:57:28.702804162Z",
+  "translation": "UNyana weminyaka esibhozo uYoshiyahu waseba ngokubusa kwakhe, waza wabusa iminyaka engamashumi amathathu nanye eYerushalayimi; ligama likame wakhe nguYedida, unyana kaAdaya, waseBotsikati.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "unyana"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "esibhozo"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "iminyaka"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "uYoshiyahu"
+    },
+    {
+      "surface": "במלכו",
+      "gloss": "ngokubusa kwakhe"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "namashumi amathathu"
+    },
+    {
+      "surface": "ואחת",
+      "gloss": "nanye"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "iminyaka"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "wabusa"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "eYerushalayimi"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "ligama"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "likame wakhe"
+    },
+    {
+      "surface": "ידידה",
+      "gloss": "uYedida"
+    },
+    {
+      "surface": "בת",
+      "gloss": "unyana"
+    },
+    {
+      "surface": "עדיה",
+      "gloss": "kaAdaya"
+    },
+    {
+      "surface": "מבצקת",
+      "gloss": "waseBotsikati"
+    }
+  ],
+  "timestamp": "2026-09-18T18:40:06.165623868Z",
   "model": "glm-5.3"
 }

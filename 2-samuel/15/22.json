@@ -5,11 +5,11 @@
   "book": "2-samuel",
   "lang": "xh",
   "chapter": 15,
-  "translation": "Wathetha uDawidi ku-Ittayi: “Hamba, walusela.” Walusela u-Ittayi, umGittite, nabantu bakhe bonke, nabantwana abancinci bonke ababe ⟨את⟩ naye.",
+  "translation": "Wathetha uDawidi ku-Itayi: “Hamba, wdlule.” Wadlula ke u-Itayi waseKathi, kunye noonke amadoda akhe, kunye noonke abantwana abancinane ababe ⟨אתו⟩ naye.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "Wathetha"
+      "gloss": "wathetha"
     },
     {
       "surface": "דוד",
@@ -21,53 +21,54 @@
     },
     {
       "surface": "אתי",
-      "gloss": "Ittayi"
+      "gloss": "Itayi"
     },
     {
       "surface": "לך",
-      "gloss": "Hamba"
+      "gloss": "hamba"
     },
     {
       "surface": "ועבר",
-      "gloss": "walusela"
+      "gloss": "wdlule"
     },
     {
       "surface": "ויעבר",
-      "gloss": "Walusela"
+      "gloss": "wadlula"
     },
     {
       "surface": "אתי",
-      "gloss": "u-Ittayi"
+      "gloss": "u-Itayi"
     },
     {
       "surface": "הגתי",
-      "gloss": "umGittite"
+      "gloss": "waseKathi"
     },
     {
       "surface": "וכל",
-      "gloss": "bonke"
+      "gloss": "kunye noonke"
     },
     {
       "surface": "אנשיו",
-      "gloss": "abantu bakhe"
+      "gloss": "amadoda akhe"
     },
     {
       "surface": "וכל",
-      "gloss": "nabantwana abancinci bonke"
+      "gloss": "kunye noonke"
     },
     {
       "surface": "הטף",
-      "gloss": ""
+      "gloss": "abantwana abancinane"
     },
     {
       "surface": "אשר",
-      "gloss": "aba-"
+      "gloss": "aba"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ naye"
+      "gloss": "⟨אתו⟩",
+      "marks": "abantwana abancinane"
     }
   ],
-  "timestamp": "2026-09-18T09:58:29.417925160Z",
+  "timestamp": "2026-09-18T18:41:00.761754605Z",
   "model": "glm-5.3"
 }

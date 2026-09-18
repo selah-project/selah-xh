@@ -5,40 +5,40 @@
   "book": "isaiah",
   "lang": "xh",
   "chapter": 54,
-  "translation": "Yabona, ukuba bemanyana, akusuku ⟨את⟩ m; lowo umanyano elunye ⟨את⟩ nawe kuwe uya kuwa.",
+  "translation": "Yabonani, ⟨baya kudibana⟩ kodwa akungobam; nabani na oza kudibana ⟨את⟩ kuwe, kuwe uza kuwa.",
   "tokens": [
     {
       "surface": "הן",
-      "gloss": "yabona"
+      "gloss": "Yabonani"
     },
     {
       "surface": "גור",
-      "gloss": "ukuba bemanyana"
+      "gloss": "⟨baya kudibana⟩"
     },
     {
       "surface": "יגור",
-      "gloss": "akusuku"
+      "gloss": "baya kudibana"
     },
     {
       "surface": "אפס",
-      "gloss": ""
+      "gloss": "kodwa"
     },
     {
       "surface": "מאותי",
-      "gloss": "⟨את⟩ m"
+      "gloss": "⟨את⟩ akungobam",
+      "marks": "nabani na (מי)"
     },
     {
       "surface": "מי",
-      "gloss": "lowo umanyano"
+      "gloss": "nabani na"
     },
     {
       "surface": "גר",
-      "gloss": "elunye"
+      "gloss": "oza kudibana"
     },
     {
       "surface": "אתך",
-      "gloss": "⟨את⟩ nawe",
-      "marks": "nawe"
+      "gloss": "⟨את⟩ kuwe"
     },
     {
       "surface": "עליך",
@@ -46,9 +46,9 @@
     },
     {
       "surface": "יפול",
-      "gloss": "uya kuwa"
+      "gloss": "uza kuwa"
     }
   ],
-  "timestamp": "2026-09-18T11:39:22.853023014Z",
+  "timestamp": "2026-09-18T18:57:17.705448981Z",
   "model": "glm-5.3"
 }

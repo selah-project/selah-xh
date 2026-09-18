@@ -5,7 +5,7 @@
   "book": "2-kings",
   "lang": "xh",
   "chapter": 10,
-  "translation": "Kodwa ngeenxa зoнi zawo kuphela — izono zikaYarobham unyana kaNebhati, owenze uYisrayeli esasela, uYehu akazange aphume kwazo: iintlanzi zegolide ezaziseBheyit-El nasezazisiDan.",
+  "translation": "Kuphela izono zikaYarobham unyana kaNebhathi, ozenze ⟨את⟩ iYizraheli izono, uYehu akazange aphume kwezo — iinthole zegolide ezaziseBethele nangaseDani.",
   "tokens": [
     {
       "surface": "רק",
@@ -25,28 +25,28 @@
     },
     {
       "surface": "נבט",
-      "gloss": "kaNebhati"
+      "gloss": "kaNebhathi"
     },
     {
       "surface": "אשר",
-      "gloss": "owenza"
+      "gloss": "ozenze"
     },
     {
       "surface": "החטיא",
-      "gloss": "wenza ukubamba mhlophe"
+      "gloss": "izenze izono"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "uYisrayeli"
+      "marks": "iYizraheli"
     },
     {
       "surface": "ישראל",
-      "gloss": "uYisrayeli"
+      "gloss": "iYizraheli"
     },
     {
       "surface": "לא",
-      "gloss": "akazanga"
+      "gloss": "akazange"
     },
     {
       "surface": "סר",
@@ -58,11 +58,11 @@
     },
     {
       "surface": "מאחריהם",
-      "gloss": "kwazo"
+      "gloss": "kwezo (ekulandeleni kwazo)"
     },
     {
       "surface": "עגלי",
-      "gloss": "iintlanzi"
+      "gloss": "iinthole"
     },
     {
       "surface": "הזהב",
@@ -70,25 +70,25 @@
     },
     {
       "surface": "אשר",
-      "gloss": "ezazise-"
+      "gloss": "ezazise"
     },
     {
       "surface": "בית",
-      "gloss": "Bheyit"
+      "gloss": "iBethele"
     },
     {
       "surface": "אל",
-      "gloss": "-El"
+      "gloss": "(iBethele)"
     },
     {
       "surface": "ואשר",
-      "gloss": "nasezazi"
+      "gloss": "nangase"
     },
     {
       "surface": "בדן",
-      "gloss": "siDan"
+      "gloss": "seDani"
     }
   ],
-  "timestamp": "2026-09-18T10:45:47.860888196Z",
+  "timestamp": "2026-09-18T18:40:14.772642316Z",
   "model": "glm-5.3"
 }

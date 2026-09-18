@@ -5,8 +5,41 @@
   "book": "exodus",
   "lang": "xh",
   "chapter": 38,
-  "translation": "Insimbi yentンロfazo yayiyingoma ezimbini nakwishumi, iikhetha ezinkulunyane nezinamakhulu amane.",
-  "tokens": [],
-  "timestamp": "2026-09-18T06:28:48.236864698Z",
+  "translation": "Inintsimbi yetnufa yayiziiikhesedi ezizintyela ezingamashumi asixhenxe, iitalente ezinkulu ezimbini neeshekele ezinekhulu.",
+  "tokens": [
+    {
+      "surface": "וּנְחֹשֶׁת",
+      "gloss": "inintsimbi"
+    },
+    {
+      "surface": "הַתְּנוּפָה",
+      "gloss": "yetnufa"
+    },
+    {
+      "surface": "שִׁבְעִים",
+      "gloss": "amashumi asixhenxe"
+    },
+    {
+      "surface": "כִּכָּר",
+      "gloss": "iitalente ezinkulu"
+    },
+    {
+      "surface": "וְאַלְפַּיִם",
+      "gloss": "ezimbini (amawaka)"
+    },
+    {
+      "surface": "וְאַרְבַּע",
+      "gloss": "ezine"
+    },
+    {
+      "surface": "מֵאוֹת",
+      "gloss": "amakhulu"
+    },
+    {
+      "surface": "שֶׁקֶל",
+      "gloss": "iishekele"
+    }
+  ],
+  "timestamp": "2026-09-18T18:44:45.201674442Z",
   "model": "glm-5.3"
 }

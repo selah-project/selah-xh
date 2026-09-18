@@ -5,11 +5,11 @@
   "book": "genesis",
   "lang": "xh",
   "chapter": 42,
-  "translation": "Kwesi niya kuvavanywa ngoku: ngoBomi bukaParo, aniyi kuphuma apha nangalwesine, ngaphandle kokuba umntakwenu omncinane eza kufika apha.",
+  "translation": "Ngale ndlela niya kuvavanywa: ngoBomi bukaParo, aniyi kuphuma apha nangapandle kwokufika kotatakwenu omncinane apha.",
   "tokens": [
     {
       "surface": "בזאת",
-      "gloss": "kwesi"
+      "gloss": "Ngale"
     },
     {
       "surface": "תבחנו",
@@ -25,11 +25,11 @@
     },
     {
       "surface": "אם",
-      "gloss": "ngalwesine"
+      "gloss": "aniyi"
     },
     {
       "surface": "תצאו",
-      "gloss": "aniyi kuphuma"
+      "gloss": "kuphuma"
     },
     {
       "surface": "מזה",
@@ -37,19 +37,19 @@
     },
     {
       "surface": "כי",
-      "gloss": ""
+      "gloss": "nangapandle"
     },
     {
       "surface": "אם",
-      "gloss": "ngaphandle kokuba"
+      "gloss": "kwokungaviwa"
     },
     {
       "surface": "בבוא",
-      "gloss": "eza kufika"
+      "gloss": "ukufika"
     },
     {
       "surface": "אחיכם",
-      "gloss": "umntakwenu"
+      "gloss": "kotatakwenu"
     },
     {
       "surface": "הקטן",
@@ -60,6 +60,6 @@
       "gloss": "apha"
     }
   ],
-  "timestamp": "2026-09-18T18:33:11.247660939Z",
+  "timestamp": "2026-09-18T18:46:31.290605428Z",
   "model": "glm-5.3"
 }

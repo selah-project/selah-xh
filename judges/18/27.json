@@ -5,28 +5,28 @@
   "book": "judges",
   "lang": "xh",
   "chapter": 18,
-  "translation": "Bona bathabathe ⟨את⟩ oko awayenziyo uMika, naye ⟨את⟩ umfundisi owayenaye, baza begalela eLayishi, kubantu abaxolileyo bethembekileyo; bababetha ⟨את⟩ ngepeshe yendlamla, batshisa ⟨את⟩ isixeko ngomlilo.",
+  "translation": "Bona bathatha ⟨את⟩ oko uMika wenzileyo, no⟨את⟩ umpristi owayenaye, baza kwiLayishi, kwisizwe esizolileyo esithembekileyo, basabela ngekrele, batshisa isixeko ngomlilo.",
   "tokens": [
     {
       "surface": "והמה",
-      "gloss": "bona"
+      "gloss": "Bona"
     },
     {
       "surface": "לקחו",
-      "gloss": "bathabathe"
+      "gloss": "bathatha"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "oko awayenziyo uMika"
+      "marks": "oko uMika wenzileyo"
     },
     {
       "surface": "אשר",
-      "gloss": ""
+      "gloss": "oko"
     },
     {
       "surface": "עשה",
-      "gloss": "awayenziyo"
+      "gloss": "wenzileyo"
     },
     {
       "surface": "מיכה",
@@ -34,24 +34,24 @@
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
-      "marks": "umfundisi"
+      "gloss": "no⟨את⟩",
+      "marks": "umpristi"
     },
     {
       "surface": "הכהן",
-      "gloss": "umfundisi"
+      "gloss": "umpristi"
     },
     {
       "surface": "אשר",
-      "gloss": ""
+      "gloss": "o-"
     },
     {
       "surface": "היה",
-      "gloss": "owayekhona"
+      "gloss": "ewayenaye"
     },
     {
       "surface": "לו",
-      "gloss": "kuye"
+      "gloss": "naye"
     },
     {
       "surface": "ויבאו",
@@ -59,44 +59,44 @@
     },
     {
       "surface": "על",
-      "gloss": "begalela"
+      "gloss": "kwi-"
     },
     {
       "surface": "ליש",
-      "gloss": "eLayishi"
+      "gloss": "Layishi"
     },
     {
       "surface": "על",
-      "gloss": "ku"
+      "gloss": "kwi-"
     },
     {
       "surface": "עם",
-      "gloss": "abantu"
+      "gloss": "sisizwe"
     },
     {
       "surface": "שקט",
-      "gloss": "abaxolileyo"
+      "gloss": "esizolileyo"
     },
     {
       "surface": "ובטח",
-      "gloss": "bethembekileyo"
+      "gloss": "esithembekileyo"
     },
     {
       "surface": "ויכו",
-      "gloss": "bababetha"
+      "gloss": "basabela"
     },
     {
       "surface": "אותם",
-      "gloss": "⟨את⟩",
-      "marks": "bona (abantu baseLayishi)"
+      "gloss": "⟨את⟩ abo",
+      "marks": "abo"
     },
     {
       "surface": "לפי",
-      "gloss": "ngepeshe"
+      "gloss": "nge-"
     },
     {
       "surface": "חרב",
-      "gloss": "yendlamla"
+      "gloss": "krele"
     },
     {
       "surface": "ואת",
@@ -116,6 +116,6 @@
       "gloss": "ngomlilo"
     }
   ],
-  "timestamp": "2026-09-18T09:10:22.266173529Z",
+  "timestamp": "2026-09-18T18:57:51.613769075Z",
   "model": "glm-5.3"
 }

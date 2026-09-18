@@ -5,8 +5,33 @@
   "book": "psalms",
   "lang": "xh",
   "chapter": 119,
-  "translation": "Makube <את> isandla sakho sindincede, kuba iimiyalelo yakhe <את> ndikhethile.",
-  "tokens": [],
-  "timestamp": "2026-09-18T17:45:14.042790950Z",
+  "translation": "Makube isandla sakho nguncedo kum, kuba ndikhetha imiyalelo yakho.",
+  "tokens": [
+    {
+      "surface": "תהי",
+      "gloss": "makube"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "isandla sakho"
+    },
+    {
+      "surface": "לעזרני",
+      "gloss": "nguncedo kum"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "imiyalelo yakho"
+    },
+    {
+      "surface": "בחרתי",
+      "gloss": "ndikhetha"
+    }
+  ],
+  "timestamp": "2026-09-18T18:54:38.073671714Z",
   "model": "glm-5.3"
 }

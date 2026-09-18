@@ -5,8 +5,61 @@
   "book": "nehemiah",
   "lang": "xh",
   "chapter": 7,
-  "translation": "Uthe uTirshata kubo ukuba abayi kutya ntwana yezinto ezingenangqamleshoyo, de umprofethi alalele ngaphakathi ngokuvela kolwazi lwakhe — wathi: hayi, makabe yiloo nto.",
-  "tokens": [],
-  "timestamp": "2026-09-18T16:46:38.583006354Z",
+  "translation": "UThirshata wathi kubo ukuba basuke batye nto yokwaziswa kwezinto ezizaziseleyo, de umprofethi uma esimi ngeUrimi noThumimi.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "התרשתא",
+      "gloss": "UThirshata"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kubo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ukuba"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hayi"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "batye"
+    },
+    {
+      "surface": "מקדש",
+      "gloss": "yokwaziswa"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "ezizaziseleyo"
+    },
+    {
+      "surface": "עד",
+      "gloss": "de"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "esimi"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "umprofethi"
+    },
+    {
+      "surface": "לאורים",
+      "gloss": "ngeUrimi"
+    },
+    {
+      "surface": "ותומים",
+      "gloss": "noThumimi"
+    }
+  ],
+  "timestamp": "2026-09-18T18:53:27.919085947Z",
   "model": "glm-5.3"
 }

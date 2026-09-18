@@ -5,19 +5,19 @@
   "book": "ezekiel",
   "lang": "xh",
   "chapter": 21,
-  "translation": "Kwaye kuya kuthiwa: Xa bakuthi kuni na ukuba uzithuba? Uza kuthi: Ngenxa yesivakalisi esilumkileyo — kuba sifikelela, kwaye iya kuncama yonke intliziyo, zidangeke zonke izandla, udinwe umoya wonke, yonke imilenze ichithe amanzi; yabona, ifikelela, iya kwenzeka — utshilo u-Adonayi uYahwe.",
+  "translation": "Kwaye kuya kubenjalo, ukuba bathi bakuthi: ‘Ngowuphi na isizathu sokuba udeva?’ wena uthi: ‘Ngenxa yesihe, kuba sifikelela, yonke intliziyo iya kuncamaziswa, zonke izandla ziya kuthomalalala, umoya wonke uya kudinwa, yonke idolo liya kuphuhla amanzi; yabona, sifikelela, iya kwenzeka, utshilo u-Adonayi uYahwe.’",
   "tokens": [
     {
       "surface": "והיה",
-      "gloss": "Kwaye kuya kuthiwa"
+      "gloss": "kwaye kuya kubenjalo"
     },
     {
       "surface": "כי",
-      "gloss": "xa"
+      "gloss": "ukuba"
     },
     {
       "surface": "יאמרו",
-      "gloss": "bakuthi"
+      "gloss": "bathi"
     },
     {
       "surface": "אליך",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "על",
-      "gloss": "ngenxa"
+      "gloss": "nge-"
     },
     {
       "surface": "מה",
@@ -37,19 +37,19 @@
     },
     {
       "surface": "נאנח",
-      "gloss": "uzithuba"
+      "gloss": "udeva"
     },
     {
       "surface": "ואמרת",
-      "gloss": "Uza kuthi"
+      "gloss": "uthi"
     },
     {
       "surface": "אל",
-      "gloss": ""
+      "gloss": "-"
     },
     {
       "surface": "שמועה",
-      "gloss": "isivakalisi esilumkileyo"
+      "gloss": "isihe"
     },
     {
       "surface": "כי",
@@ -57,11 +57,11 @@
     },
     {
       "surface": "באה",
-      "gloss": "ifikelela"
+      "gloss": "sifikelela"
     },
     {
       "surface": "ונמס",
-      "gloss": "kuya kuncama"
+      "gloss": "iya kuncamaziswa"
     },
     {
       "surface": "כל",
@@ -73,7 +73,7 @@
     },
     {
       "surface": "ורפו",
-      "gloss": "zidangeke"
+      "gloss": "ziya kuthomalalala"
     },
     {
       "surface": "כל",
@@ -85,7 +85,7 @@
     },
     {
       "surface": "וכהתה",
-      "gloss": "udinwe"
+      "gloss": "uya kudinwa"
     },
     {
       "surface": "כל",
@@ -97,15 +97,15 @@
     },
     {
       "surface": "וכל",
-      "gloss": "kwaye yonke"
+      "gloss": "nayonke"
     },
     {
       "surface": "ברכים",
-      "gloss": "imilenze"
+      "gloss": "idolo"
     },
     {
       "surface": "תלכנה",
-      "gloss": "ichithe"
+      "gloss": "liya kuphuhla"
     },
     {
       "surface": "מים",
@@ -117,10 +117,10 @@
     },
     {
       "surface": "באה",
-      "gloss": "ifikelela"
+      "gloss": "sifikelela"
     },
     {
-      "surface": "ונהיתה",
+      "surface": "ויתה",
       "gloss": "iya kwenzeka"
     },
     {
@@ -136,6 +136,6 @@
       "gloss": "uYahwe"
     }
   ],
-  "timestamp": "2026-09-18T17:39:20.181780722Z",
+  "timestamp": "2026-09-18T18:45:03.699106519Z",
   "model": "glm-5.3"
 }

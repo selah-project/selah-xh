@@ -5,8 +5,65 @@
   "book": "genesis",
   "lang": "xh",
   "chapter": 50,
-  "translation": "Wayalela uYosefu ⟨את⟩ iinkonzo zakhe — ⟨את⟩ onogqirha — ukuba bazimbulale ubawo; onogqqirha... bazimbulale uYisraele.",
-  "tokens": [],
-  "timestamp": "2026-09-18T05:49:12.511272412Z",
+  "translation": "UYosefu wayalela ⟨את⟩ iindlela zakhe zokukhonza, ⟨את⟩ oonyanga, ukuthunjiswa kukayise; oonyanga bathunjisa ⟨את⟩ uIsrayeli.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "wayalela"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "UYosefu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iindlela zakhe zokukhonza"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "iindlela zakhe zokukhonza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oonyanga"
+    },
+    {
+      "surface": "הרפאים",
+      "gloss": "oonyanga"
+    },
+    {
+      "surface": "לחנט",
+      "gloss": "ukuthunjiswa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ukayise"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ukayise"
+    },
+    {
+      "surface": "ויחנטו",
+      "gloss": "bathunjisa"
+    },
+    {
+      "surface": "הרפאים",
+      "gloss": "oonyanga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uIsrayeli"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "uIsrayeli"
+    }
+  ],
+  "timestamp": "2026-09-18T18:48:05.336777990Z",
   "model": "glm-5.3"
 }

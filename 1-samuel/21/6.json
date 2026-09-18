@@ -5,7 +5,7 @@
   "book": "1-samuel",
   "lang": "xh",
   "chapter": 21,
-  "translation": "Waphendula uDavide ⟨את⟩ umkhedama waza wamthethela: ngokwenene abafazi babinzelwe kuthi ngozolo nangomhla wesithathu, ndisaphuma; iimpahla zabancinane zazingcwele, yaye le ndlela yeqhelekileyo; kananjalo ngakumbi namhlanje iyakungcweleka kwisitya.",
+  "translation": "UDavide waphendula ⟨את⟩ umfundisi, wathi kuye: “Kwenene, abafazi babethintelwe kuthi izolo nakwangethuba langaphambili, ukusukela mna ndaphuma; izitya zeeintsizwa zazingcwele, yaye le ndleya ngokwayo ililayo eliqhelekileyo; kananjalo ngakumbi namhlanje iya kungcweleka kwisitya.”",
   "tokens": [
     {
       "surface": "ויען",
@@ -18,15 +18,15 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "umkhedama"
+      "marks": "umfundisi"
     },
     {
       "surface": "הכהן",
-      "gloss": "umkhedama"
+      "gloss": "umfundisi"
     },
     {
       "surface": "ויאמר",
-      "gloss": "wathetha"
+      "gloss": "wathi"
     },
     {
       "surface": "לו",
@@ -34,11 +34,11 @@
     },
     {
       "surface": "כי",
-      "gloss": "ngokwenene"
+      "gloss": "kwenene"
     },
     {
       "surface": "אם",
-      "gloss": ""
+      "gloss": "inyaniso"
     },
     {
       "surface": "אשה",
@@ -46,7 +46,7 @@
     },
     {
       "surface": "עצרה",
-      "gloss": "babinzelwe"
+      "gloss": "babethintelwe"
     },
     {
       "surface": "לנו",
@@ -54,7 +54,7 @@
     },
     {
       "surface": "כתמול",
-      "gloss": "ngozolo"
+      "gloss": "izolo"
     },
     {
       "surface": "שלשם",
@@ -62,27 +62,27 @@
     },
     {
       "surface": "בצאתי",
-      "gloss": "ndisaphuma"
+      "gloss": "ukusukela ndaphuma"
     },
     {
       "surface": "ויהיו",
-      "gloss": "zazinga"
+      "gloss": "zaba"
     },
     {
       "surface": "כלי",
-      "gloss": "iimpahla"
+      "gloss": "izitya"
     },
     {
       "surface": "הנערים",
-      "gloss": "zabancinane"
+      "gloss": "zeeintsizwa"
     },
     {
       "surface": "קדש",
-      "gloss": "zingcwele"
+      "gloss": "zazingcwele"
     },
     {
       "surface": "והוא",
-      "gloss": "yaye"
+      "gloss": "yaye le"
     },
     {
       "surface": "דרך",
@@ -90,7 +90,7 @@
     },
     {
       "surface": "חל",
-      "gloss": "eqhelekileyo"
+      "gloss": "eliqhelekileyo (engcwelekanga)"
     },
     {
       "surface": "ואף",
@@ -106,13 +106,13 @@
     },
     {
       "surface": "יקדש",
-      "gloss": "iyakungcweleka"
+      "gloss": "iya kungcweleka"
     },
     {
       "surface": "בכלי",
       "gloss": "kwisitya"
     }
   ],
-  "timestamp": "2026-09-18T09:37:31.295620390Z",
+  "timestamp": "2026-09-18T18:39:27.365610677Z",
   "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "1-kings",
   "lang": "xh",
   "chapter": 7,
-  "translation": "Wase wakha ⟨את⟩ indlu yakhe uShelomoh, iminyaka elishumi elinanthathu, waza wagqibiza ⟨את⟩ yonke indlu yakhe.",
+  "translation": "UShelomoh wakha ⟨את⟩ indlu yakhe iminyaka elishumi elinesithathu, wagqibezela ⟨את⟩ indlu yakhe yonke.",
   "tokens": [
     {
       "surface": "ואת",
@@ -22,15 +22,15 @@
     },
     {
       "surface": "שלמה",
-      "gloss": "uShelomoh"
+      "gloss": "UShelomoh"
     },
     {
       "surface": "שלש",
-      "gloss": "elishumi elinanthathu"
+      "gloss": "esithathu"
     },
     {
       "surface": "עשרה",
-      "gloss": ""
+      "gloss": "elishumi"
     },
     {
       "surface": "שנה",
@@ -38,12 +38,12 @@
     },
     {
       "surface": "ויכל",
-      "gloss": "wagqibiza"
+      "gloss": "wagqibezela"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "yonke indlu yakhe"
+      "marks": "indlu yakhe yonke"
     },
     {
       "surface": "כל",
@@ -54,6 +54,6 @@
       "gloss": "indlu yakhe"
     }
   ],
-  "timestamp": "2026-09-18T10:16:24.158404855Z",
+  "timestamp": "2026-09-18T18:38:39.133466486Z",
   "model": "glm-5.3"
 }

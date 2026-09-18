@@ -5,19 +5,19 @@
   "book": "exodus",
   "lang": "xh",
   "chapter": 25,
-  "translation": "Uza kubeka kwi-aron ⟨את⟩ ubungqina endiza kukunika.",
+  "translation": "Uza kubeka kwi-aron ⟨את⟩ ubungqina endiya kubunika wena.",
   "tokens": [
     {
       "surface": "ונתת",
-      "gloss": "Uza kubeka"
+      "gloss": "uza kubeka"
     },
     {
       "surface": "אל",
-      "gloss": "ku-"
+      "gloss": "kwi-"
     },
     {
       "surface": "הארן",
-      "gloss": "i-aron"
+      "gloss": "aron"
     },
     {
       "surface": "את",
@@ -30,13 +30,17 @@
     },
     {
       "surface": "אשר",
-      "gloss": "eso"
+      "gloss": "endiya kubunika"
     },
     {
       "surface": "אתן",
-      "gloss": "ndiza kukunika"
+      "gloss": "ndiya kubunika"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "wena"
     }
   ],
-  "timestamp": "2026-09-18T06:13:34.773138153Z",
+  "timestamp": "2026-09-18T18:44:40.108046348Z",
   "model": "glm-5.3"
 }

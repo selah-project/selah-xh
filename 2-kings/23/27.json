@@ -5,11 +5,11 @@
   "book": "2-kings",
   "lang": "xh",
   "chapter": 23,
-  "translation": "WaYahwe uthi: “Ndiya kutshabalalisa nangeliYuda ⟨את⟩ elubala lwam, njengoko nditshabalalise ⟨את⟩ uIsrael; ndiya koyika le sixeko endazikhethela ⟨את⟩, iYerushalayimi, nendlu ⟩endathi⟩ igama lam liza kuhlala khona.”",
+  "translation": "Wathi uYahwe: “Ndiza kususa ⟨את⟩ uYehuda ebusweni bam, njengoko ndasusa ⟨את⟩ uSirayeli; kwaye ndiza kulahla ⟨את⟩ le sixeko endisikhethileyo, iYerushalayimi, kunye ne-⟨את⟩ indlu endandithi igama lam liza kuba khona.”",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "wathi"
+      "gloss": "Wathi"
     },
     {
       "surface": "יהוה",
@@ -17,28 +17,28 @@
     },
     {
       "surface": "גם",
-      "gloss": "nange"
+      "gloss": "nayi-"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "eliYuda"
+      "marks": "uYehuda"
     },
     {
       "surface": "יהודה",
-      "gloss": "iYuda"
+      "gloss": "uYehuda"
     },
     {
       "surface": "אסיר",
-      "gloss": "ndiya kutshabalalisa"
+      "gloss": "ndiza kususa"
     },
     {
       "surface": "מעל",
-      "gloss": "elubala"
+      "gloss": "kusuka"
     },
     {
       "surface": "פני",
-      "gloss": "lwam"
+      "gloss": "ebusweni bam"
     },
     {
       "surface": "כאשר",
@@ -46,20 +46,20 @@
     },
     {
       "surface": "הסרתי",
-      "gloss": "nditshabalalise"
+      "gloss": "ndasusa"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "uIsrael"
+      "marks": "uSirayeli"
     },
     {
       "surface": "ישראל",
-      "gloss": "uIsrael"
+      "gloss": "uSirayeli"
     },
     {
       "surface": "ומאסתי",
-      "gloss": "ndiya koyika"
+      "gloss": "kwaye ndiza kulahla"
     },
     {
       "surface": "את",
@@ -68,19 +68,19 @@
     },
     {
       "surface": "העיר",
-      "gloss": "le sixeko"
+      "gloss": "isixeko"
     },
     {
       "surface": "הזאת",
-      "gloss": ""
+      "gloss": "le"
     },
     {
       "surface": "אשר",
-      "gloss": "endazikhethela"
+      "gloss": "endisikhethileyo"
     },
     {
       "surface": "בחרתי",
-      "gloss": ""
+      "gloss": "ndakhetha"
     },
     {
       "surface": "את",
@@ -93,24 +93,24 @@
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
-      "marks": "nendlu"
+      "gloss": "kunye ne-⟨את⟩",
+      "marks": "indlu"
     },
     {
       "surface": "הבית",
-      "gloss": "nendlu"
+      "gloss": "indlu"
     },
     {
       "surface": "אשר",
-      "gloss": "endathi"
+      "gloss": "endandithi"
     },
     {
       "surface": "אמרתי",
-      "gloss": ""
+      "gloss": "ndathi"
     },
     {
       "surface": "יהיה",
-      "gloss": "liza kuhlala"
+      "gloss": "liza kuba khona"
     },
     {
       "surface": "שמי",
@@ -121,6 +121,6 @@
       "gloss": "khona"
     }
   ],
-  "timestamp": "2026-09-18T10:57:43.855315266Z",
+  "timestamp": "2026-09-18T18:40:40.641440694Z",
   "model": "glm-5.3"
 }

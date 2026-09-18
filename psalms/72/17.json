@@ -5,8 +5,57 @@
   "book": "psalms",
   "lang": "xh",
   "chapter": 72,
-  "translation": "Mabi ligama lakhe kuze kube phakade, phambi kwelanga ligama lakhe liqhubekile,aye abantu bayibulele kuwonyana yakhe; onke amazwe amzele. Bekelwa uYahwe, nguYahwe; kaYahwe — u-Elohim ka-Israyeli.",
-  "tokens": [],
-  "timestamp": "2026-09-18T14:57:51.621342524Z",
+  "translation": "Igama lakhe mahlale libe khona phakade; phambi kwelanga igama lakhe mahlale libe nentsapho; abantu mababulwe ngaye; zonke iintlanga mazimqikelele unomsa.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "mahlale libe khona"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "igama lakhe"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "phakade"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "phambi kwe-"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "elanga"
+    },
+    {
+      "surface": "ינין",
+      "gloss": "mahlale libe nentsapho"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "igama lakhe"
+    },
+    {
+      "surface": "ויתברכו",
+      "gloss": "mababulwe"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ngaye"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zonke"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "iintlanga"
+    },
+    {
+      "surface": "יאשרוהו",
+      "gloss": "mazimqikelele unomsa"
+    }
+  ],
+  "timestamp": "2026-09-18T18:55:29.565634295Z",
   "model": "glm-5.3"
 }

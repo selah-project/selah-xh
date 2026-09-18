@@ -5,8 +5,37 @@
   "book": "proverbs",
   "lang": "xh",
   "chapter": 15,
-  "translation": "Isewula lin Pennya umgwebo kaYise; Isewula lin Pennya umgwebo kayise; kodwa oseleyo isiso uya kubonakala engumboni.",
-  "tokens": [],
-  "timestamp": "2026-09-18T15:45:56.013928875Z",
+  "translation": "Isiphuka sinyathela ngamadla umyalelo kabawo; lowo uligcina isiqinisekiso uza kuba yenantla.",
+  "tokens": [
+    {
+      "surface": "אויל",
+      "gloss": "isiphuka"
+    },
+    {
+      "surface": "ינאץ",
+      "gloss": "sinyathela ngamadla"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "umyalelo"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "kabawo"
+    },
+    {
+      "surface": "ושמר",
+      "gloss": "uligcina"
+    },
+    {
+      "surface": "תוכחת",
+      "gloss": "isiqinisekiso"
+    },
+    {
+      "surface": "יערם",
+      "gloss": "uza kuba yenantla"
+    }
+  ],
+  "timestamp": "2026-09-18T18:54:38.466336566Z",
   "model": "glm-5.3"
 }

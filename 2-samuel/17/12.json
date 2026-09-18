@@ -5,11 +5,11 @@
   "book": "2-samuel",
   "lang": "xh",
   "chapter": 17,
-  "translation": "Siza kufika kuye kwenye yeendawo apho afunyanwa khona, sibonakale sibambe phezu kwakhe njengoko umhlambi uwa phevu komhlaba; kwaye akusayokushiyeka kuye nakunye namadoda onke ahamba ⟨את⟩ naye ⟨את⟩, nokanye omnye.",
+  "translation": "Kwaye siya kufika kuye kwenye yendawo apho efunyanwa khona, kwaye thina siya kuthona phezu kwakhe njengokuba inkungu iwela phezu komhlaba, kwaye akukho za kusala kuye nakubo bonke abantu aba ⟨את⟩ naye, nakwenye omnye.",
   "tokens": [
     {
       "surface": "ובאנו",
-      "gloss": "Siza kufika"
+      "gloss": "kwaye siya kufika"
     },
     {
       "surface": "אליו",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "המקומת",
-      "gloss": "yeendawo"
+      "gloss": "yendawo"
     },
     {
       "surface": "אשר",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "נמצא",
-      "gloss": "afunyanwa"
+      "gloss": "efunyanwa"
     },
     {
       "surface": "שם",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "ונחנו",
-      "gloss": "sibonakale sibambe"
+      "gloss": "kwaye thina"
     },
     {
       "surface": "עליו",
@@ -45,19 +45,19 @@
     },
     {
       "surface": "כאשר",
-      "gloss": "njengoko"
+      "gloss": "njengokuba"
     },
     {
       "surface": "יפל",
-      "gloss": "uwa"
+      "gloss": "iwela"
     },
     {
       "surface": "הטל",
-      "gloss": "umhlambi"
+      "gloss": "inkungu"
     },
     {
       "surface": "על",
-      "gloss": "phevu"
+      "gloss": "phezu"
     },
     {
       "surface": "האדמה",
@@ -65,11 +65,11 @@
     },
     {
       "surface": "ולא",
-      "gloss": "kwaye akusayokushiyeka"
+      "gloss": "kwaye akukho"
     },
     {
       "surface": "נותר",
-      "gloss": "akushiyeki"
+      "gloss": "za kusala"
     },
     {
       "surface": "בו",
@@ -77,29 +77,30 @@
     },
     {
       "surface": "ובכל",
-      "gloss": "kunamadoda"
+      "gloss": "nakubo"
     },
     {
       "surface": "האנשים",
-      "gloss": "onke"
+      "gloss": "bonke abantu"
     },
     {
       "surface": "אשר",
-      "gloss": "ahamba"
+      "gloss": "aba"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ naye"
+      "gloss": "⟨את⟩ naye",
+      "marks": "naye"
     },
     {
       "surface": "גם",
-      "gloss": "⟨את⟩ nokanye"
+      "gloss": "nakwenye"
     },
     {
       "surface": "אחד",
       "gloss": "omnye"
     }
   ],
-  "timestamp": "2026-09-18T09:57:58.330620103Z",
+  "timestamp": "2026-09-18T18:41:41.327335417Z",
   "model": "glm-5.3"
 }

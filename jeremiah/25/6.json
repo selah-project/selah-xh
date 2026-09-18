@@ -5,19 +5,19 @@
   "book": "jeremiah",
   "lang": "xh",
   "chapter": 25,
-  "translation": "Musani ukulandela oothixo abanye ukubakhonza nokubakhonzela; musani ukundivusa isiphesho ⟨את⟩ ngezandla zenu, ndingayenzanga inkohlakalo kuwe.",
+  "translation": "Kwaye musa ukuhamba emva koothixo abanye ukubakhonza nokubathobela; musa ukundibangalisa ⟨את⟩ ngezenzo zezandla zenu, ndingandinakubulala nini.",
   "tokens": [
     {
       "surface": "ואל",
-      "gloss": "Musani"
+      "gloss": "kwaye musa"
     },
     {
       "surface": "תלכו",
-      "gloss": "ukulandela"
+      "gloss": "ukuhamba"
     },
     {
       "surface": "אחרי",
-      "gloss": "(emva kwe)"
+      "gloss": "emva kwe-"
     },
     {
       "surface": "אלהים",
@@ -33,28 +33,28 @@
     },
     {
       "surface": "ולהשתחות",
-      "gloss": "nokubakhonzela"
+      "gloss": "nokubathobela"
     },
     {
       "surface": "להם",
-      "gloss": ""
+      "gloss": "bona"
     },
     {
       "surface": "ולא",
-      "gloss": "musani"
+      "gloss": "musa"
     },
     {
       "surface": "תכעיסו",
-      "gloss": "ukundivusa isiphesho"
+      "gloss": "ukundibangalisa"
     },
     {
       "surface": "אותי",
-      "gloss": "⟨את⟩ ndi-",
-      "marks": "ukundivusa (ndivuswa isiphesho)"
+      "gloss": "⟨את⟩",
+      "marks": "ndi (um-object we-kukhathazeka)"
     },
     {
       "surface": "במעשה",
-      "gloss": "nge-"
+      "gloss": "ngezenzo"
     },
     {
       "surface": "ידיכם",
@@ -62,17 +62,17 @@
     },
     {
       "surface": "ולא",
-      "gloss": "ndinga-"
+      "gloss": "ndingandinaku-"
     },
     {
       "surface": "ארע",
-      "gloss": "yenzanga inkohlakalo"
+      "gloss": "-bulala nini"
     },
     {
       "surface": "לכם",
-      "gloss": "kuwe"
+      "gloss": "ninani"
     }
   ],
-  "timestamp": "2026-09-18T17:38:17.313064601Z",
+  "timestamp": "2026-09-18T18:49:34.733740040Z",
   "model": "glm-5.3"
 }

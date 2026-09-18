@@ -5,23 +5,23 @@
   "book": "2-kings",
   "lang": "xh",
   "chapter": 18,
-  "translation": "Kuba abalalelanga ilizwi likaYahwe uElohim wabo; baphula ⟨את⟩ umnqophiso wakhe — ⟨את⟩ yonke_into ayale ngayo uMoshe, inkonzi kaYahwe; abalalelanga, benza nto.",
+  "translation": "Kuba abezwanga ilizwi likaYahwe uElohim wabo, kodwa bayayekeza umnqophiso wakhe, ⟨את⟩ konke oko awalayele uMoshe, inkonzi kaYahwe; kwakungekho bazinezva, kwakungekho benza.",
   "tokens": [
     {
       "surface": "על",
-      "gloss": "Kuba (ngokuba)"
+      "gloss": "kuba"
     },
     {
       "surface": "אשר",
-      "gloss": ""
+      "gloss": "oko"
     },
     {
       "surface": "לא",
-      "gloss": "aba-...-nga"
+      "gloss": "hayi"
     },
     {
       "surface": "שמעו",
-      "gloss": "lalanga"
+      "gloss": "abazange bazinezve"
     },
     {
       "surface": "בקול",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "יהוה",
-      "gloss": "likaYahwe"
+      "gloss": "kaYahwe"
     },
     {
       "surface": "אלהיהם",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "ויעברו",
-      "gloss": "baphula"
+      "gloss": "bayayekeza"
     },
     {
       "surface": "את",
@@ -51,19 +51,19 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "yonke_into"
+      "marks": "konke oko"
     },
     {
       "surface": "כל",
-      "gloss": "yonke_into"
+      "gloss": "konke"
     },
     {
       "surface": "אשר",
-      "gloss": "enokuba"
+      "gloss": "oko"
     },
     {
       "surface": "צוה",
-      "gloss": "ayale ngayo"
+      "gloss": "awalayele"
     },
     {
       "surface": "משה",
@@ -79,21 +79,21 @@
     },
     {
       "surface": "ולא",
-      "gloss": "aba-...-nga"
+      "gloss": "kwakungekho"
     },
     {
       "surface": "שמעו",
-      "gloss": "lalanga"
+      "gloss": "bazinezva"
     },
     {
       "surface": "ולא",
-      "gloss": "be-...-nga"
+      "gloss": "kwakungekho"
     },
     {
       "surface": "עשו",
-      "gloss": "enza nto"
+      "gloss": "benza"
     }
   ],
-  "timestamp": "2026-09-18T10:51:21.171503117Z",
+  "timestamp": "2026-09-18T18:40:27.590363962Z",
   "model": "glm-5.3"
 }

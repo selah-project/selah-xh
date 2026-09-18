@@ -5,7 +5,7 @@
   "book": "psalms",
   "lang": "xh",
   "chapter": 83,
-  "translation": "uElohim wam, bayenze ⟨⟨babengabi⟩⟩ njengento eyisantya esiqhubekayo, njengesiguthi phambi komoya.",
+  "translation": "uElohim wam, yibabenze benjengelophu, njengentsalela yengca phambi komoya.",
   "tokens": [
     {
       "surface": "אלהי",
@@ -13,25 +13,25 @@
     },
     {
       "surface": "שיתמו",
-      "gloss": "bayenze"
+      "gloss": "yibabenze"
     },
     {
       "surface": "כגלגל",
-      "gloss": "njengento eyisantya esiqhubekayo"
+      "gloss": "benjengelophu"
     },
     {
       "surface": "כקש",
-      "gloss": "njengesiguthi"
+      "gloss": "njengentsalela yengca"
     },
     {
       "surface": "לפני",
-      "gloss": "phambi"
+      "gloss": "phambi kwe-"
     },
     {
       "surface": "רוח",
-      "gloss": "komoya"
+      "gloss": "umoya"
     }
   ],
-  "timestamp": "2026-09-18T15:04:24.038147017Z",
+  "timestamp": "2026-09-18T18:55:58.849454539Z",
   "model": "glm-5.3"
 }

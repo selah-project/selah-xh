@@ -5,11 +5,11 @@
   "book": "exodus",
   "lang": "xh",
   "chapter": 17,
-  "translation": "Yaye abantu balwana noMoshe, bathi: “Niphe amanzi, sisele.” UMoshe wathi kubo: “Nithetha ntoni nilwa ndam? Nizama ntoni uYahwe ⟨את⟩?”",
+  "translation": "Yaye abantu baphikisana noMoshe, bathi: “Sinike amanzi ukuze sibe sela.” Wathi kubo uMoshe: “Nithini nilwa nami? Nithini nivavanya ⟨את⟩ uYahwe?”",
   "tokens": [
     {
       "surface": "וירב",
-      "gloss": "balwana"
+      "gloss": "baphikisana"
     },
     {
       "surface": "העם",
@@ -29,11 +29,11 @@
     },
     {
       "surface": "תנו",
-      "gloss": "niphe"
+      "gloss": "sinike"
     },
     {
       "surface": "לנו",
-      "gloss": "thi"
+      "gloss": "thina (si-)"
     },
     {
       "surface": "מים",
@@ -41,7 +41,7 @@
     },
     {
       "surface": "ונשתה",
-      "gloss": "sisele"
+      "gloss": "sibe sela"
     },
     {
       "surface": "ויאמר",
@@ -57,7 +57,7 @@
     },
     {
       "surface": "מה",
-      "gloss": "nton"
+      "gloss": "nithini"
     },
     {
       "surface": "תריבון",
@@ -65,15 +65,15 @@
     },
     {
       "surface": "עמדי",
-      "gloss": "ndam"
+      "gloss": "nami"
     },
     {
       "surface": "מה",
-      "gloss": "nizama ntoni"
+      "gloss": "nithini"
     },
     {
       "surface": "תנסון",
-      "gloss": ""
+      "gloss": "nivavanya"
     },
     {
       "surface": "את",
@@ -85,6 +85,6 @@
       "gloss": "uYahwe"
     }
   ],
-  "timestamp": "2026-09-18T06:06:37.049083969Z",
+  "timestamp": "2026-09-18T18:44:47.836541682Z",
   "model": "glm-5.3"
 }

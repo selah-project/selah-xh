@@ -5,8 +5,78 @@
   "book": "1-kings",
   "lang": "xh",
   "chapter": 22,
-  "translation": "Wenza okulowo emehlweni kaYahwe, wahamba ngendlela yakayise, nangendlela yenina yakhe, nangendlela kaYarobheam unyana kaNevati, owayenzi⟨⟨a⟩⟩ uSirayeli enzesono ngo⟨את⟩.",
-  "tokens": [],
-  "timestamp": "2026-09-18T10:35:22.926090443Z",
+  "translation": "Wenza okubi emehlweni kaYahwe, wahamba kwindlela yakabawo, nakwindlela yakanina, nakwindlela kaYaravheam unyana kaNevati, owabangela ⟨את⟩ uIsrayeli ukwaba nezono.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "wenza"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "okubi"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "emehlweni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kaYahwe"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "wahamba"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "kwindlela"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "yakabawo"
+    },
+    {
+      "surface": "ובדרך",
+      "gloss": "nakwindlela"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "yakanina"
+    },
+    {
+      "surface": "ובדרך",
+      "gloss": "nakwindlela"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "kaYaravheam"
+    },
+    {
+      "surface": "בן",
+      "gloss": "unyana"
+    },
+    {
+      "surface": "נבט",
+      "gloss": "kaNevati"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "owabangela"
+    },
+    {
+      "surface": "החטיא",
+      "gloss": "ukwaba nezono"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uIsrayeli"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "uIsrayeli"
+    }
+  ],
+  "timestamp": "2026-09-18T18:56:44.679590523Z",
   "model": "glm-5.3"
 }

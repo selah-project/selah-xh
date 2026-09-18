@@ -5,8 +5,33 @@
   "book": "psalms",
   "lang": "xh",
   "chapter": 132,
-  "translation": "Nodeenkosana zayo...",
-  "tokens": [],
-  "timestamp": "2026-09-18T15:27:56.661713541Z",
+  "translation": "Kananjalo iiinkosi zayo ndiza kuzigqokisa ngesiphephelo, kunye abakhokelayo bayo baza kudanyaza ngokuvuya.",
+  "tokens": [
+    {
+      "surface": "וְֽכֹהֲנֶיהָ",
+      "gloss": "iiinkosi zayo kananjalo"
+    },
+    {
+      "surface": "אַלְבִּישׁ",
+      "gloss": "ndiza kuzigqokisa"
+    },
+    {
+      "surface": "יֶשַׁע",
+      "gloss": "ngesiphephelo"
+    },
+    {
+      "surface": "וַחֲסִידֶיהָ",
+      "gloss": "kunye abakhokelayo bayo"
+    },
+    {
+      "surface": "רַנֵּן",
+      "gloss": "baza kudanyaza"
+    },
+    {
+      "surface": "יְרַנֵּנוּ",
+      "gloss": "ngokuvuya"
+    }
+  ],
+  "timestamp": "2026-09-18T18:55:16.926218534Z",
   "model": "glm-5.3"
 }

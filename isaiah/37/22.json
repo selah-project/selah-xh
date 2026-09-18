@@ -5,15 +5,15 @@
   "book": "isaiah",
   "lang": "xh",
   "chapter": 37,
-  "translation": "Eli ligama elithethwe nguYahwe ngaye: Yakubeka, yahlela ngokutsheha kuwe, wena intombi, elidolophu leTsiyoni; yanyukunyisa ikhanda layo ngasemva kwakho, elidolophu leYerushalayimi.",
+  "translation": "Olu yiloo lizwi elithethwa nguYahwe ngaye: yakuncamakaliswa, intombi intsokombi yaseTsiyon; yakuhlekisa ngeentswaa; emva kwakho intombi kaYerushalayimi yachukumisa intloko.",
   "tokens": [
     {
       "surface": "זה",
-      "gloss": "eli"
+      "gloss": "ol"
     },
     {
       "surface": "הדבר",
-      "gloss": "ligama"
+      "gloss": "yiloo lizwi"
     },
     {
       "surface": "אשר",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "דבר",
-      "gloss": "elithethwe"
+      "gloss": "elithethwa nguYahwe"
     },
     {
       "surface": "יהוה",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "בזה",
-      "gloss": "yakubeka"
+      "gloss": "yakuncamakaliswa"
     },
     {
       "surface": "לך",
@@ -41,7 +41,7 @@
     },
     {
       "surface": "לעגה",
-      "gloss": "yahlela ngokutsheha"
+      "gloss": "yakuhlekisa ngeentswaa"
     },
     {
       "surface": "לך",
@@ -49,37 +49,37 @@
     },
     {
       "surface": "בתולת",
+      "gloss": "intsokombi"
+    },
+    {
+      "surface": "בת",
       "gloss": "intombi"
     },
     {
-      "surface": "בת",
-      "gloss": "elidolophu"
-    },
-    {
       "surface": "ציון",
-      "gloss": "leTsiyoni"
+      "gloss": "yaseTsiyon"
     },
     {
       "surface": "אחריך",
-      "gloss": "ngasemva kwakho"
+      "gloss": "emva kwakho"
     },
     {
       "surface": "ראש",
-      "gloss": "ikhanda layo"
+      "gloss": "intloko"
     },
     {
       "surface": "הניעה",
-      "gloss": "yanyukunyisa"
+      "gloss": "yachukumisa"
     },
     {
       "surface": "בת",
-      "gloss": "elidolophu"
+      "gloss": "intombi"
     },
     {
       "surface": "ירושלם",
-      "gloss": "leYerushalayimi"
+      "gloss": "kaYerushalayimi"
     }
   ],
-  "timestamp": "2026-09-18T17:35:18.130462025Z",
+  "timestamp": "2026-09-18T18:47:42.478174958Z",
   "model": "glm-5.3"
 }

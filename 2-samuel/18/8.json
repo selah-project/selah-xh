@@ -5,8 +5,77 @@
   "book": "2-samuel",
   "lang": "xh",
   "chapter": 18,
-  "translation": "Imfazwe yafunyanwa isabalalisiweyo apho phezu komhlaba wonke, yahlathi yandile yadla kubantu ngakumbi kunoko Bekukudla ubum_ele phezu kolwandle malunga namhla.",
-  "tokens": [],
-  "timestamp": "2026-09-18T09:58:42.872174901Z",
+  "translation": "Yaza impi yaphahlazeka khona phezu kobuso bomhlaba wonke, yaza ihlathi lawanda ukutya phakathi kwabantu, ngaphezu koko isikhali esatileyo ngeloo mini.",
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "yaza"
+    },
+    {
+      "surface": "שם",
+      "gloss": "khona"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "impi"
+    },
+    {
+      "surface": "נפצית",
+      "gloss": "yaphahlazeka"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu"
+    },
+    {
+      "surface": "פני",
+      "gloss": "kobuso"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wonke"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "omhlaba"
+    },
+    {
+      "surface": "וירב",
+      "gloss": "yaza lawanda"
+    },
+    {
+      "surface": "היער",
+      "gloss": "ihlathi"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "ukutya"
+    },
+    {
+      "surface": "בעם",
+      "gloss": "phakathi kwabantu"
+    },
+    {
+      "surface": "מאשר",
+      "gloss": "ngaphezu koko"
+    },
+    {
+      "surface": "אכלה",
+      "gloss": "esatileyo"
+    },
+    {
+      "surface": "החרב",
+      "gloss": "isikhali"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ngeloo"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "mini"
+    }
+  ],
+  "timestamp": "2026-09-18T18:41:19.181843420Z",
   "model": "glm-5.3"
 }

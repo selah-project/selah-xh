@@ -5,61 +5,63 @@
   "book": "deuteronomy",
   "lang": "xh",
   "chapter": 4,
-  "translation": "Uza kunisasaza uYahwe kwiintlanga, niza kusala ningabantu basimbalwa kwiintlanga uYahwe anisi qhubela kona ⟨את⟩ ⟨there⟩.",
+  "translation": "uYahwe uza kunithasa-nithasaza ngothixho; niza kusalela ngabantu babesinye inani phakathi kweentlanga, apho uYahwe aza kuniduthulisela khona.",
   "tokens": [
     {
-      "surface": "והפיץ",
-      "gloss": "Uza kunisasaza"
+      "surface": "וְהֵפִיץ",
+      "gloss": "uza kunithasa-nithasaza"
     },
     {
-      "surface": "יהוה",
+      "surface": "יְהוָה",
       "gloss": "uYahwe"
     },
     {
-      "surface": "אתכם",
-      "gloss": "⟨את⟩ ni"
+      "surface": "אֶתְכֶם",
+      "gloss": "⟨את⟩",
+      "marks": "ni- (ninina)"
     },
     {
-      "surface": "בעמים",
-      "gloss": "kwiintlanga"
+      "surface": "בָּעַמִּים",
+      "gloss": "ngoothixho"
     },
     {
-      "surface": "ונשארתם",
-      "gloss": "niza kusala"
+      "surface": "וְנִשְׁאַרְתֶּם",
+      "gloss": "niza kusalela"
     },
     {
-      "surface": "מתי",
-      "gloss": "ningabantu"
+      "surface": "מְתֵי",
+      "gloss": "abantu"
     },
     {
-      "surface": "מספר",
-      "gloss": "basimbalwa"
+      "surface": "מִסְפָּר",
+      "gloss": "besinye inani"
     },
     {
-      "surface": "בגוים",
-      "gloss": "kwiintlanga"
+      "surface": "בַּגּוֹיִם",
+      "gloss": "phakathi kweentlanga"
     },
     {
-      "surface": "אשר",
-      "gloss": ""
+      "surface": "אֲשֶׁר",
+      "gloss": "apho"
     },
     {
-      "surface": "ינהג",
-      "gloss": "uza kuni"
+      "surface": "יְנַהֵג",
+      "gloss": "aza kuniduthulisela"
     },
     {
-      "surface": "יהוה",
+      "surface": "יְהוָה",
       "gloss": "uYahwe"
     },
     {
-      "surface": "אתכם",
-      "gloss": "qhubela ⟨את⟩"
+      "surface": "אֶתְכֶם",
+      "gloss": "⟨את⟩",
+      "marks": "ni- (ninina)"
     },
     {
-      "surface": "שמה",
+      "surface": "שָׁמָּה",
       "gloss": "khona"
     }
   ],
-  "timestamp": "2026-09-18T07:59:30.869568887Z",
+  "timestamp": "2026-09-18T18:43:47.070698455Z",
   "model": "glm-5.3"
 }

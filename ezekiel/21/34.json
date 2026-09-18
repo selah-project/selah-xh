@@ -5,8 +5,82 @@
   "book": "ezekiel",
   "lang": "xh",
   "chapter": 21,
-  "translation": "Babona ubuxoki kuwe, bachaza amanga kuwe, ukubeka uphawu kuwe kwiindonga",
-  "tokens": [],
-  "timestamp": "2026-09-18T13:08:52.885594025Z",
+  "translation": "Ukubona kuwe ubuxoki, ukubhula kuwe ubugqi obuxoki, ukunikela ⟨את⟩ wena kwiintamo zababulawo abenzi bobubi, abosuku lwabo lufikelelayo, ngexesha lobubi bokuphela.",
+  "tokens": [
+    {
+      "surface": "בחזות",
+      "gloss": "ukubona"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kuwe"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "ubuxoki"
+    },
+    {
+      "surface": "בקסם",
+      "gloss": "ukubhula"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kuwe"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "ubugqi obuxoki"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "ukunikela"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩",
+      "marks": "wena"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwi-"
+    },
+    {
+      "surface": "צוארי",
+      "gloss": "iintamo"
+    },
+    {
+      "surface": "חללי",
+      "gloss": "zababulawo"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "abenzi bobubi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "abo"
+    },
+    {
+      "surface": "בא",
+      "gloss": "lufikelelayo"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "usuku"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "ngexesha"
+    },
+    {
+      "surface": "עון",
+      "gloss": "lobubi"
+    },
+    {
+      "surface": "קץ",
+      "gloss": "bokuphela"
+    }
+  ],
+  "timestamp": "2026-09-18T18:45:26.718634213Z",
   "model": "glm-5.3"
 }

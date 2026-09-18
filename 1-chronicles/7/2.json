@@ -5,11 +5,11 @@
   "book": "1-chronicles",
   "lang": "xh",
   "chapter": 7,
-  "translation": "Amadodana kaTola: uUzzi, noRefaya, noYeriyeli, noYahmayi, noYibhsham, noShemueli — iintloko zezindlu zooyihlo wabo, kwakusiTola; amadoda anamandla ngokweenzululwane zabo. Inani labo ngeemihla kaDavide lalingamashumi amabini anesibini ezinkulungwaneni namakhulu ayisithandathu.",
+  "translation": "Kwaye amadodana kaTola: u-Uzi, noRefaya, noYeriyeli, noYahmayi, noYibsam, noShemueli; bengeentloko zezindlu zookhokho bawo, akaTola; babengamadoda amakhulu amandla ngeenzukulwana zabo: inani labo ngeentsuku zikaDavi babengamashumi amabini anamashumi amabini amawaka anamakhulu amatandathu.",
   "tokens": [
     {
       "surface": "ובני",
-      "gloss": "Amadodana ka-"
+      "gloss": "Kwaye amadodana"
     },
     {
       "surface": "תולע",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "עזי",
-      "gloss": "uUzzi"
+      "gloss": "u-Uzi"
     },
     {
       "surface": "ורפיה",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "ויבשם",
-      "gloss": "noYibhsham"
+      "gloss": "noYibsam"
     },
     {
       "surface": "ושמואל",
@@ -41,43 +41,43 @@
     },
     {
       "surface": "ראשים",
-      "gloss": "iintloko"
+      "gloss": "bengeentloko"
     },
     {
       "surface": "לבית",
-      "gloss": "zezendlu"
+      "gloss": "zeezindlu"
     },
     {
       "surface": "אבותם",
-      "gloss": "zooyihlo wabo"
+      "gloss": "zookhokho bawo"
     },
     {
       "surface": "לתולע",
-      "gloss": "kwakusiTola"
+      "gloss": "akaTola"
     },
     {
       "surface": "גבורי",
-      "gloss": "amadoda anamandla"
+      "gloss": "amadoda amakhulu amandla"
     },
     {
       "surface": "חיל",
-      "gloss": "anamandla"
+      "gloss": "amandla"
     },
     {
       "surface": "לתלדותם",
-      "gloss": "ngokweenzululwane zabo"
+      "gloss": "ngeenzukulwana zabo"
     },
     {
       "surface": "מספרם",
-      "gloss": "Inani labo"
+      "gloss": "inani labo"
     },
     {
       "surface": "בימי",
-      "gloss": "ngeemihla"
+      "gloss": "ngeentsuku"
     },
     {
       "surface": "דויד",
-      "gloss": "kaDavide"
+      "gloss": "zikaDavi"
     },
     {
       "surface": "עשרים",
@@ -85,17 +85,21 @@
     },
     {
       "surface": "ושנים",
-      "gloss": "anesibini"
+      "gloss": "anamashumi amabini"
     },
     {
       "surface": "אלף",
-      "gloss": "ezinkulungwaneni"
+      "gloss": "amawaka"
     },
     {
       "surface": "ושש",
-      "gloss": "namakhulu ayisithandathu esuphuma kwezi"
+      "gloss": "anamakhulu"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "amatandathu"
     }
   ],
-  "timestamp": "2026-09-18T16:53:10.027298539Z",
+  "timestamp": "2026-09-18T18:37:09.093649920Z",
   "model": "glm-5.3"
 }

@@ -5,8 +5,26 @@
   "book": "1-kings",
   "lang": "xh",
   "chapter": 6,
-  "translation": "Waza wazingela ⟨את⟩ iikerubi ngegolide.",
-  "tokens": [],
-  "timestamp": "2026-09-18T10:16:17.722127917Z",
+  "translation": "Wazihlanganisa ngegolide iikerubhim ⟨את⟩ ezazingcwele, wazihlamba ngegolide.",
+  "tokens": [
+    {
+      "surface": "ויצף",
+      "gloss": "wazihlamba ngegolide"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iikerubhim"
+    },
+    {
+      "surface": "הכרובים",
+      "gloss": "iikerubhim"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "golide"
+    }
+  ],
+  "timestamp": "2026-09-18T18:38:46.425019042Z",
   "model": "glm-5.3"
 }

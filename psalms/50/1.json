@@ -5,15 +5,15 @@
   "book": "psalms",
   "lang": "xh",
   "chapter": 50,
-  "translation": "Ipsaluma ka-Asaf: u-El, uElohim, uYahwe wathetha, wabizela ⟨את⟩ umhlaba, ukusuka empumalanga yelanga ukuya kum Boyo wawo entshonalanga.",
+  "translation": "Ipsalemi ka-Asafe. U-El, uElohim, uYahwe wathetha, wabiza ⟨את⟩ umhlaba ukusuka empumalanga yokhotha kwelanga ukuya ekufeni kwalo.",
   "tokens": [
     {
       "surface": "מזמור",
-      "gloss": "ipsaluma"
+      "gloss": "ipsalemi"
     },
     {
       "surface": "לאסף",
-      "gloss": "ka-Asaf"
+      "gloss": "ka-Asafe"
     },
     {
       "surface": "אל",
@@ -33,12 +33,7 @@
     },
     {
       "surface": "ויקרא",
-      "gloss": "wabizela"
-    },
-    {
-      "surface": "את",
-      "gloss": "⟨את⟩",
-      "marks": "umhlaba"
+      "gloss": "wabiza"
     },
     {
       "surface": "ארץ",
@@ -50,7 +45,7 @@
     },
     {
       "surface": "שמש",
-      "gloss": "yelanga"
+      "gloss": "kwelanga"
     },
     {
       "surface": "עד",
@@ -58,9 +53,9 @@
     },
     {
       "surface": "מבאו",
-      "gloss": "kum Boyo wawo entshonalanga"
+      "gloss": "ekufeni kwalo"
     }
   ],
-  "timestamp": "2026-09-18T14:48:52.092524780Z",
+  "timestamp": "2026-09-18T18:57:40.658944455Z",
   "model": "glm-5.3"
 }

@@ -5,8 +5,95 @@
   "book": "deuteronomy",
   "lang": "xh",
   "chapter": 2,
-  "translation": "",
-  "tokens": [],
-  "timestamp": "2026-09-18T07:51:59.859842256Z",
+  "translation": "Kodwa uSihoni, inkosi yeCheshbhoni, wayengavumi ukuba sidlule ngaphaya kwakhe, kuba uYahwe uElohim wakho wenzakalisa ⟨את⟩ umoya wakhe wayenzakalisa ⟨את⟩ intliziyo yakhe, ukuze akunikele esandleni sakho, njengangale mihla.",
+  "tokens": [
+    {
+      "surface": "וְלֹ֣א",
+      "gloss": "Kodwa ... hayi"
+    },
+    {
+      "surface": "אָבָ֗ה",
+      "gloss": "wayengavumi"
+    },
+    {
+      "surface": "סִיחֹן֙",
+      "gloss": "uSihoni"
+    },
+    {
+      "surface": "מֶ֣לֶךְ",
+      "gloss": "inkosi"
+    },
+    {
+      "surface": "חֶשְׁבּ֔וֹן",
+      "gloss": "yeCheshbhoni"
+    },
+    {
+      "surface": "הַעֲבִרֵ֖נוּ",
+      "gloss": "ukuba sidlule ngaphaya"
+    },
+    {
+      "surface": "בּ֑וֹ",
+      "gloss": "ngakhe"
+    },
+    {
+      "surface": "כִּֽי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "הִקְשָׁה֩",
+      "gloss": "wenzakalisa"
+    },
+    {
+      "surface": "יְהוָ֨ה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אֱלֹהֶ֜יךָ",
+      "gloss": "uElohim wakho"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "umoya wakhe"
+    },
+    {
+      "surface": "רוּח֗וֹ",
+      "gloss": "umoya wakhe"
+    },
+    {
+      "surface": "וְאִמֵּץ֙",
+      "gloss": "wayenzakalisa"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "intliziyo yakhe"
+    },
+    {
+      "surface": "לְבָב֔וֹ",
+      "gloss": "intliziyo yakhe"
+    },
+    {
+      "surface": "לְמַ֛עַן",
+      "gloss": "ukuze"
+    },
+    {
+      "surface": "תִּתּ֥וֹ",
+      "gloss": "akunikele"
+    },
+    {
+      "surface": "בְּיָדְךָ֖",
+      "gloss": "esandleni sakho"
+    },
+    {
+      "surface": "כַּיּ֥וֹם",
+      "gloss": "njengangale mihla"
+    },
+    {
+      "surface": "הַזֶּֽה",
+      "gloss": "le"
+    }
+  ],
+  "timestamp": "2026-09-18T18:42:59.911453070Z",
   "model": "glm-5.3"
 }

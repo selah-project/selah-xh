@@ -5,27 +5,27 @@
   "book": "job",
   "lang": "xh",
   "chapter": 18,
-  "translation": "Akananzala aze akanazukulwana phakathi kwabantu bakhe, yaye akukho msindisi kwindawo ezihlala kuzo.",
+  "translation": "Akukho mzukulwana ⟨kuye⟩ nokungabikho mzikulwana-nenkwenkwe phakathi kwabantu bakhe, kwaye akukho salukhuni ekuhlaleni kwakhe.",
   "tokens": [
     {
       "surface": "לא",
-      "gloss": "akana-"
+      "gloss": "akukho"
     },
     {
       "surface": "נין",
-      "gloss": "inzala"
+      "gloss": "mzikulwana-nenkwenkwe"
     },
     {
       "surface": "לו",
-      "gloss": "ngokwakhe"
+      "gloss": "kuye"
     },
     {
       "surface": "ולא",
-      "gloss": "aze akananga-"
+      "gloss": "nokungabikho"
     },
     {
       "surface": "נכד",
-      "gloss": "izukulwana"
+      "gloss": "mzukulwana"
     },
     {
       "surface": "בעמו",
@@ -33,17 +33,17 @@
     },
     {
       "surface": "ואין",
-      "gloss": "yaye akukho"
+      "gloss": "kwaye akukho"
     },
     {
       "surface": "שריד",
-      "gloss": "msindisi"
+      "gloss": "salukhuni"
     },
     {
-      "surface": "במגוריwoo",
-      "gloss": "kwindawo ezihlala kuzo"
+      "surface": "במגוריו",
+      "gloss": "ekuhlaleni kwakhe"
     }
   ],
-  "timestamp": "2026-09-18T16:05:47.415075673Z",
+  "timestamp": "2026-09-18T18:50:18.732259440Z",
   "model": "glm-5.3"
 }

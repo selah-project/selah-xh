@@ -5,15 +5,15 @@
   "book": "deuteronomy",
   "lang": "xh",
   "chapter": 4,
-  "translation": "Ndiyangqina ngani namhlanje ⟨את⟩ amazulu ⟨את⟩ nomhlaba, ukuba niya kunyamalala ngokukhawuleza emhlabeni oniwoya ngawo iYordane ukulawula wona; anisi kukhulisa iintsuku kuwo, kuba niya kutshatyalaliswa ngokupheleleyo.",
+  "translation": "Ndimangalela ngokuchasene nani namhlanje ⟨את⟩ amazulu ⟨את⟩ nomhlaba, ukuba niya kutshabalala ngokwenene ngokukhawuleza phezu komhlaba oniwudlulayo ⟨את⟩ uYordane khona ukuyithabela; anisokuze nihlale iintsuku ezininzi phezu kwawo, kuba niya kutshatyalaliswa ngokupheleleyo.",
   "tokens": [
     {
       "surface": "העידתי",
-      "gloss": "Ndiyangqina"
+      "gloss": "ndimangalela"
     },
     {
       "surface": "בכם",
-      "gloss": "ngani"
+      "gloss": "ngokuchasene nani"
     },
     {
       "surface": "היום",
@@ -31,7 +31,7 @@
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "nomhlaba"
+      "marks": "umhlaba"
     },
     {
       "surface": "הארץ",
@@ -43,11 +43,11 @@
     },
     {
       "surface": "אבד",
-      "gloss": "niya kunyamalala"
+      "gloss": "ngokwenene"
     },
     {
       "surface": "תאבדון",
-      "gloss": "ngokukhawuleza…nyamalala"
+      "gloss": "niya kutshabalala"
     },
     {
       "surface": "מהר",
@@ -55,56 +55,56 @@
     },
     {
       "surface": "מעל",
-      "gloss": "e"
+      "gloss": "phezu kom-"
     },
     {
       "surface": "הארץ",
-      "gloss": "mhlabeni"
+      "gloss": "umhlaba"
     },
     {
       "surface": "אשר",
-      "gloss": "o"
+      "gloss": "oko"
     },
     {
       "surface": "אתם",
-      "gloss": "ni"
+      "gloss": "ni-"
     },
     {
       "surface": "עברים",
-      "gloss": "woya"
+      "gloss": "nidlula"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "iYordane"
+      "marks": "uYordane"
     },
     {
       "surface": "הירדן",
-      "gloss": "ngawo iYordane"
+      "gloss": "uYordane"
     },
     {
       "surface": "שמה",
-      "gloss": ""
+      "gloss": "khona"
     },
     {
       "surface": "לרשתה",
-      "gloss": "ukulawula wona"
+      "gloss": "ukuyithabela"
     },
     {
       "surface": "לא",
-      "gloss": "ani"
+      "gloss": "hayi"
     },
     {
       "surface": "תאריכן",
-      "gloss": "si kukhulisa"
+      "gloss": "nisokuze nihlale"
     },
     {
       "surface": "ימים",
-      "gloss": "iintsuku"
+      "gloss": "iintsuku ezininzi"
     },
     {
       "surface": "עליה",
-      "gloss": "kuwo"
+      "gloss": "phezu kwawo"
     },
     {
       "surface": "כי",
@@ -112,13 +112,13 @@
     },
     {
       "surface": "השמד",
-      "gloss": "niya kutshatyalaliswa"
+      "gloss": "ngokupheleleyo"
     },
     {
       "surface": "תשמדון",
-      "gloss": "ngokupheleleyo…tshatyalaliswa"
+      "gloss": "niya kutshatyalaliswa"
     }
   ],
-  "timestamp": "2026-09-18T07:59:30.869348380Z",
+  "timestamp": "2026-09-18T18:44:16.294085716Z",
   "model": "glm-5.3"
 }

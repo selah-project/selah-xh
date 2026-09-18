@@ -5,11 +5,11 @@
   "book": "genesis",
   "lang": "xh",
   "chapter": 21,
-  "translation": "uElohim weva ⟨את⟩ ilizwi lomfana; isithunywa sikaElohim samemeza uHagari ezulwini, samthethela ethi: “Kutheni kuwe, Hagari? Musa ukoyika, kuba uElohim uvile ilizwi lomfana apho eno khona.”",
+  "translation": "Wava uElohim ⟨את⟩ ilizwi lomfana; wamemeza ithonga likaElohim uHagari kwizulu, wathi kuye: “Kutheni na, Hagari? Musa ukoyika, kuba uElohim uvakalisele ⟨את⟩ ilizwi lomfana apho ekhona.”",
   "tokens": [
     {
       "surface": "וישמע",
-      "gloss": "weva"
+      "gloss": "wava"
     },
     {
       "surface": "אלהים",
@@ -30,19 +30,19 @@
     },
     {
       "surface": "ויקרא",
-      "gloss": "samemeza"
+      "gloss": "wamemeza"
     },
     {
       "surface": "מלאך",
-      "gloss": "isithunywa"
+      "gloss": "ithonga"
     },
     {
       "surface": "אלהים",
-      "gloss": "sikaElohim"
+      "gloss": "likaElohim"
     },
     {
       "surface": "אל",
-      "gloss": "ku"
+      "gloss": "kwi-"
     },
     {
       "surface": "הגר",
@@ -50,15 +50,15 @@
     },
     {
       "surface": "מן",
-      "gloss": "e"
+      "gloss": "kusuka"
     },
     {
       "surface": "השמים",
-      "gloss": "ezulwini"
+      "gloss": "kwizulu"
     },
     {
       "surface": "ויאמר",
-      "gloss": "samthethela"
+      "gloss": "wathi"
     },
     {
       "surface": "לה",
@@ -70,7 +70,7 @@
     },
     {
       "surface": "לך",
-      "gloss": "kuwe"
+      "gloss": "na"
     },
     {
       "surface": "הגר",
@@ -90,7 +90,7 @@
     },
     {
       "surface": "שמע",
-      "gloss": "uvile"
+      "gloss": "uvakalisele"
     },
     {
       "surface": "אלהים",
@@ -98,7 +98,7 @@
     },
     {
       "surface": "אל",
-      "gloss": ""
+      "gloss": "⟨el⟩"
     },
     {
       "surface": "קול",
@@ -114,13 +114,13 @@
     },
     {
       "surface": "הוא",
-      "gloss": "eno"
+      "gloss": "e-"
     },
     {
       "surface": "שם",
       "gloss": "khona"
     }
   ],
-  "timestamp": "2026-09-18T05:19:50.998550519Z",
+  "timestamp": "2026-09-18T18:46:11.657875625Z",
   "model": "glm-5.3"
 }

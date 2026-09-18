@@ -5,7 +5,7 @@
   "book": "proverbs",
   "lang": "xh",
   "chapter": 25,
-  "translation": "Umoya waseMantla uvelisa imvula; ubuso obutshatinyezayo ⟨⟨⟩⟩ — ulwimi olufihliweyo.",
+  "translation": "Umoya wasentla udala imvula, ulwimi olufihliweyo lwenza ubuso obucasukileyo.",
   "tokens": [
     {
       "surface": "רוח",
@@ -13,11 +13,11 @@
     },
     {
       "surface": "צפון",
-      "gloss": "waseMantla"
+      "gloss": "wasentla"
     },
     {
       "surface": "תחולל",
-      "gloss": "uvelisa"
+      "gloss": "udala"
     },
     {
       "surface": "גשם",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "נזעמים",
-      "gloss": "obutshatinyezayo"
+      "gloss": "obucasukileyo"
     },
     {
       "surface": "לשון",
@@ -40,6 +40,6 @@
       "gloss": "olufihliweyo"
     }
   ],
-  "timestamp": "2026-09-18T15:54:27.924286878Z",
+  "timestamp": "2026-09-18T18:54:49.600381139Z",
   "model": "glm-5.3"
 }

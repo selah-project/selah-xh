@@ -5,8 +5,77 @@
   "book": "judges",
   "lang": "xh",
   "chapter": 1,
-  "translation": "Wathi uYehuda kakuShimon umzalwakhe: “Nyuka ⟨את⟩ ndinem kwisey yakho...”",
-  "tokens": [],
-  "timestamp": "2026-09-18T08:48:32.762121935Z",
+  "translation": "UJehuda wathetha kuShimeoni, umnakwabo: “Nyuka ⟨את⟩ ndise kwinxalenye yam, sidibane kunye ukulwa nabaKhanani, ndiza kuhamba ⟨את⟩ mna nawe kwinxalenye yakho.” UShimeoni wahamba ⟨את⟩ naye.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wathetha"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "uJehuda"
+    },
+    {
+      "surface": "לשמעון",
+      "gloss": "kuShimeoni"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "umnakwabo"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "nyuka"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ ndise"
+    },
+    {
+      "surface": "בגורלי",
+      "gloss": "kwinxalenye yam"
+    },
+    {
+      "surface": "ונלחמה",
+      "gloss": "sidibane kunye ukulwa"
+    },
+    {
+      "surface": "בכנעני",
+      "gloss": "nabaKhanani"
+    },
+    {
+      "surface": "והלכתי",
+      "gloss": "ndiza kuhamba"
+    },
+    {
+      "surface": "גם",
+      "gloss": "mna naza"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mna"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ nawe"
+    },
+    {
+      "surface": "בגורלך",
+      "gloss": "kwinxalenye yakho"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "wahamba"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ naye"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "uShimeoni"
+    }
+  ],
+  "timestamp": "2026-09-18T18:51:05.377509169Z",
   "model": "glm-5.3"
 }

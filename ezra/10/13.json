@@ -5,11 +5,11 @@
   "book": "ezra",
   "lang": "xh",
   "chapter": 10,
-  "translation": "Kodwa abantu baninzi, kwaye lixesha leenzinzi zehmvula, yaye akukho mandla okuma ngaphandle, kwaye lo msebenzi awungowelosuku olunye nangamabini, kuba sichithile kakhulu ukwenza amaphoso kule nto.",
+  "translation": "Kodwaabantu baninzi, kwaye lixesha leemvula, kwaye akukho mandla okumila ngaphandle, kwaye lo msebenzi awuselonamhla omnye nakawamabini, kuba senza kakhulu ukwenza icala kule nto.",
   "tokens": [
     {
       "surface": "אבל",
-      "gloss": "Kodwa"
+      "gloss": "kodwa"
     },
     {
       "surface": "העם",
@@ -25,11 +25,11 @@
     },
     {
       "surface": "גשמים",
-      "gloss": "leenzinzi zehmvula"
+      "gloss": "leemvula"
     },
     {
       "surface": "ואין",
-      "gloss": "yaye akukho"
+      "gloss": "kwaye akukho"
     },
     {
       "surface": "כח",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "לעמוד",
-      "gloss": "okuma"
+      "gloss": "okumila"
     },
     {
       "surface": "בחוץ",
@@ -49,23 +49,23 @@
     },
     {
       "surface": "לא",
-      "gloss": "hayi"
+      "gloss": "awuselo"
     },
     {
       "surface": "ליום",
-      "gloss": "owelosuku"
+      "gloss": "ngomhla"
     },
     {
       "surface": "אחד",
-      "gloss": "olunye"
+      "gloss": "omnye"
     },
     {
       "surface": "ולא",
-      "gloss": "nangamabini apho"
+      "gloss": "naka"
     },
     {
       "surface": "לשנים",
-      "gloss": "amabini"
+      "gloss": "wamabini"
     },
     {
       "surface": "כי",
@@ -73,17 +73,21 @@
     },
     {
       "surface": "הרבינו",
-      "gloss": "sichithile kakhulu"
+      "gloss": "siqhubekisile"
     },
     {
       "surface": "לפשע",
-      "gloss": "ukwenza amaphoso"
+      "gloss": "ukwenza icala"
     },
     {
       "surface": "בדבר",
       "gloss": "kule nto"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "kule nto"
     }
   ],
-  "timestamp": "2026-09-18T16:42:30.944745377Z",
+  "timestamp": "2026-09-18T18:45:43.709427048Z",
   "model": "glm-5.3"
 }

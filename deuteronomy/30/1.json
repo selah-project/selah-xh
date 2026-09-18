@@ -5,11 +5,11 @@
   "book": "deuteronomy",
   "lang": "xh",
   "chapter": 30,
-  "translation": "Kwaye kuya kubakho, xa zonke ezi zinto zize kuwe, intwaso nentshutsho, endizibekile phambi kwakho, waza ubuyisela entliziyweni yakho, kuzo zonke iintlanga apho yakutshixha khona uYahwe uElohim wakho, khona.",
+  "translation": "Kwaye kuya kubenjalo, xa la mazwe onke ezifikelele kuwe, intsikelelo nesiqalekiso endazibeka phambi kwakho, ndize ndibuyisele esintliziyweni yakho, kuzo zonke iintlanga apho uYahwe uElohim wakho akudukulele khona.",
   "tokens": [
     {
       "surface": "והיה",
-      "gloss": "Kwaye kuya kubakho"
+      "gloss": "kwaye kuya kubenjalo"
     },
     {
       "surface": "כי",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "יבאו",
-      "gloss": "zize"
+      "gloss": "ezifikelele"
     },
     {
       "surface": "עליך",
@@ -25,11 +25,11 @@
     },
     {
       "surface": "כל",
-      "gloss": "zonke"
+      "gloss": "onke"
     },
     {
       "surface": "הדברים",
-      "gloss": "ezi zinto"
+      "gloss": "la mazwe"
     },
     {
       "surface": "האלה",
@@ -37,19 +37,19 @@
     },
     {
       "surface": "הברכה",
-      "gloss": "intwaso"
+      "gloss": "intsikelelo"
     },
     {
       "surface": "והקללה",
-      "gloss": "nentshutsho"
+      "gloss": "nesiqalekiso"
     },
     {
       "surface": "אשר",
-      "gloss": ""
+      "gloss": "endazi-"
     },
     {
       "surface": "נתתי",
-      "gloss": "ndizibekile"
+      "gloss": "beka"
     },
     {
       "surface": "לפניך",
@@ -57,19 +57,19 @@
     },
     {
       "surface": "והשבת",
-      "gloss": "waza ubuyisela"
+      "gloss": "ndize ndibuyisele"
     },
     {
       "surface": "אל",
-      "gloss": "ku"
+      "gloss": "ku-"
     },
     {
       "surface": "לבבך",
-      "gloss": "intliziyweni yakho"
+      "gloss": "esintliziyweni yakho"
     },
     {
       "surface": "בכל",
-      "gloss": "kuzo"
+      "gloss": "kuzo zonke"
     },
     {
       "surface": "הגוים",
@@ -81,7 +81,7 @@
     },
     {
       "surface": "הדיחך",
-      "gloss": "yakutshixha"
+      "gloss": "akudukulele"
     },
     {
       "surface": "יהוה",
@@ -96,6 +96,6 @@
       "gloss": "khona"
     }
   ],
-  "timestamp": "2026-09-18T08:22:11.978145522Z",
+  "timestamp": "2026-09-18T18:43:07.859777953Z",
   "model": "glm-5.3"
 }

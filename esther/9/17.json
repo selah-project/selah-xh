@@ -5,70 +5,66 @@
   "book": "esther",
   "lang": "xh",
   "chapter": 9,
-  "translation": "Ngemini yesihumi elinesithathu yenyanga ka-Adar, baphumla ngemini yesihumi eline yayo, ⟨את⟩ yaza yenzwa ⟨את⟩ yona imini yesibiyelo nolonwabo.",
+  "translation": "Ngeyure yomthalatha nesihlanu kweyakwa-Adar, balala ngomhla wane, kwaye bayenzela lo mba wokutyela nokuvuya.",
   "tokens": [
     {
       "surface": "ביום",
-      "gloss": "ngemini"
+      "gloss": "ngeyure yom"
     },
     {
       "surface": "שלשה",
-      "gloss": "elinesithathu"
+      "gloss": "yomthalatha"
     },
     {
       "surface": "עשר",
-      "gloss": "yesihumi"
+      "gloss": "nesihlanu"
     },
     {
       "surface": "לחדש",
-      "gloss": "yenyanga"
+      "gloss": "kweyakwa-"
     },
     {
       "surface": "אדר",
-      "gloss": "ka-Adar"
-    },
-    {
-      "surface": "ויכתב",
-      "gloss": ""
+      "gloss": "Adar"
     },
     {
       "surface": "ונוח",
-      "gloss": "baphumla"
+      "gloss": "balala"
     },
     {
       "surface": "בארבעה",
-      "gloss": "ngeliline"
+      "gloss": "ngomhla wane"
     },
     {
       "surface": "עשר",
-      "gloss": "yesihumi"
+      "gloss": "nesine"
     },
     {
       "surface": "בו",
-      "gloss": "yayo"
+      "gloss": "kulo"
     },
     {
       "surface": "ועשה",
-      "gloss": "⟨את⟩ yaza yenzwa"
+      "gloss": "bayenzela"
     },
     {
       "surface": "אתו",
       "gloss": "⟨את⟩",
-      "marks": "imini (yona)"
+      "marks": "lo mba"
     },
     {
       "surface": "יום",
-      "gloss": "imini"
+      "gloss": "umba"
     },
     {
       "surface": "משתה",
-      "gloss": "yesibiyelo"
+      "gloss": "wokutyela"
     },
     {
       "surface": "ושמחה",
-      "gloss": "nolonwabo"
+      "gloss": "nokuvuya"
     }
   ],
-  "timestamp": "2026-09-18T16:30:36.378516217Z",
+  "timestamp": "2026-09-18T18:44:24.595438893Z",
   "model": "glm-5.3"
 }

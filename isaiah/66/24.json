@@ -5,23 +5,27 @@
   "book": "isaiah",
   "lang": "xh",
   "chapter": 66,
-  "translation": "Baza kuphuma babona iizidumbu zabantu abephulayo kum, kuba umchiza wabo akayi kufa, nomlilo wabo akayi kucima, baza kuba yinto yokutyalela intloni kuwo onke inyama.",
+  "translation": "Baya kuphuma baya kubona izidumbu zamanzi ⟨the⟩ aba pretextyo kum, kuba intshongo yabo ayi kufa, nomlilo wabo awuzi kukhoha, baza kuba liludwalwa kulo lonke unyama.",
   "tokens": [
     {
+      "surface": "ויצאו",
+      "gloss": "baya kuphuma"
+    },
+    {
       "surface": "וראו",
-      "gloss": "babona"
+      "gloss": "baya kubona"
     },
     {
       "surface": "בפגרי",
-      "gloss": "iizidumbu"
+      "gloss": "izidumbu zamanzi"
     },
     {
       "surface": "האנשים",
-      "gloss": "zabantu"
+      "gloss": "abantu"
     },
     {
       "surface": "הפשעים",
-      "gloss": "abephulayo"
+      "gloss": "aba pretextyo"
     },
     {
       "surface": "בי",
@@ -33,11 +37,11 @@
     },
     {
       "surface": "תולעתם",
-      "gloss": "umchiza wabo"
+      "gloss": "intshongo yabo"
     },
     {
       "surface": "לא",
-      "gloss": "akayi"
+      "gloss": "ayi"
     },
     {
       "surface": "תמות",
@@ -49,11 +53,11 @@
     },
     {
       "surface": "לא",
-      "gloss": "akayi"
+      "gloss": "awuzi"
     },
     {
       "surface": "תכבה",
-      "gloss": "kucima"
+      "gloss": "kukhoha"
     },
     {
       "surface": "והיו",
@@ -61,17 +65,17 @@
     },
     {
       "surface": "דראון",
-      "gloss": "yinto yokutyalela intloni"
+      "gloss": "liludwalwa"
     },
     {
       "surface": "לכל",
-      "gloss": "kuwo onke"
+      "gloss": "kulo lonke"
     },
     {
       "surface": "בשר",
-      "gloss": "inyama"
+      "gloss": "unyama"
     }
   ],
-  "timestamp": "2026-09-18T17:36:02.239915291Z",
+  "timestamp": "2026-09-18T18:48:54.623038841Z",
   "model": "glm-5.3"
 }

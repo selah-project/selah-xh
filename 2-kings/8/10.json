@@ -5,11 +5,11 @@
   "book": "2-kings",
   "lang": "xh",
   "chapter": 8,
-  "translation": "Wathi u-Elishea kuye: “Hamba, yithi kuye: ‘Uza kuphila’; kodwa uYahwe undibonise ukuba ngenene uza kufa.”",
+  "translation": "U-Elishe wathetha kuye: “Hamba, yithi: ⟨uya kuphila ngokwenene⟩; kodwa uYahwe wandibonisa ukuba ⟨uye⟩ uya kufa ngokwenene.”",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "Wathi"
+      "gloss": "wathetha"
     },
     {
       "surface": "אליו",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "אלישע",
-      "gloss": "u-Elishea"
+      "gloss": "U-Elishe"
     },
     {
       "surface": "לך",
@@ -29,19 +29,19 @@
     },
     {
       "surface": "לא",
-      "gloss": ""
+      "gloss": "⟨akunanjani⟩"
     },
     {
       "surface": "חיה",
-      "gloss": "kuphila"
+      "gloss": "phila"
     },
     {
       "surface": "תחיה",
-      "gloss": "uza kuphila"
+      "gloss": "uya kuphila"
     },
     {
       "surface": "והראני",
-      "gloss": "undibonise"
+      "gloss": "wandibonisa"
     },
     {
       "surface": "יהוה",
@@ -53,13 +53,13 @@
     },
     {
       "surface": "מות",
-      "gloss": "ukufa"
+      "gloss": "fa"
     },
     {
       "surface": "ימות",
-      "gloss": "ngenene uza kufa"
+      "gloss": "uya kufa"
     }
   ],
-  "timestamp": "2026-09-18T10:44:49.086462594Z",
+  "timestamp": "2026-09-18T18:40:55.212051122Z",
   "model": "glm-5.3"
 }

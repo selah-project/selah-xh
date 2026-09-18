@@ -5,11 +5,11 @@
   "book": "genesis",
   "lang": "xh",
   "chapter": 35,
-  "translation": "uElohim wathetha kuye wathi: “Igama lakho nguYakobi; igama lakho alisayi kubizwa Yakobi, kodwa uYisraele uza kuba ligama lakho.” Wabiza ⟨את⟩ igama lakhe uYisraele.",
+  "translation": "uElohim wathi kuye: “Igama lakho nguYakobi; igama lakho alisayi kubizwa ngokuba nguYakobi apho, kodwa uYisrayeli uza kuba ligama lakho.” Wambiza ngegama ⟨את⟩ elakhe uYisrayeli.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "wathetha"
+      "gloss": "wathi"
     },
     {
       "surface": "לו",
@@ -25,11 +25,11 @@
     },
     {
       "surface": "יעקב",
-      "gloss": "Yakobi"
+      "gloss": "nguYakobi"
     },
     {
       "surface": "לא",
-      "gloss": "hayi"
+      "gloss": "hayi\/ali-"
     },
     {
       "surface": "יקרא",
@@ -41,11 +41,11 @@
     },
     {
       "surface": "עוד",
-      "gloss": "lisayi"
+      "gloss": "apho\/angesiqhamo"
     },
     {
       "surface": "יעקב",
-      "gloss": "Yakobi"
+      "gloss": "uYakobi"
     },
     {
       "surface": "כי",
@@ -53,11 +53,11 @@
     },
     {
       "surface": "אם",
-      "gloss": ""
+      "gloss": "kuphela"
     },
     {
       "surface": "ישראל",
-      "gloss": "uYisraele"
+      "gloss": "uYisrayeli"
     },
     {
       "surface": "יהיה",
@@ -69,22 +69,22 @@
     },
     {
       "surface": "ויקרא",
-      "gloss": "wabiza"
+      "gloss": "wambiza ngegama"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "igama lakhe"
+      "marks": "igama lakhe (elakhe)"
     },
     {
       "surface": "שמו",
-      "gloss": "igama lakhe"
+      "gloss": "elakhe igama"
     },
     {
       "surface": "ישראל",
-      "gloss": "uYisraele"
+      "gloss": "uYisrayeli"
     }
   ],
-  "timestamp": "2026-09-18T05:32:57.442903716Z",
+  "timestamp": "2026-09-18T18:46:42.116249646Z",
   "model": "glm-5.3"
 }

@@ -5,19 +5,19 @@
   "book": "1-chronicles",
   "lang": "xh",
   "chapter": 29,
-  "translation": "baza banika inkonzo yendlu kaElohim igolide yeethalente ezintlanu kunye needarikhoni ezili-10,000, nesesiliva seethalente ezili-10,000, nethosi eli-10,000 neethalente ezisibhozo, nentsimbi yeethalente ezilikhulu elinamashumi amabini anamakhulu ayedwa.",
+  "translation": "Bayanikezela inkonzo yendlu kaElohim: igolide, iintalente ezihlanu ezinkulu (ii-kikhar); iidarike ezili-10 000; nesilivere, iintalente ezilishumi ezinkulu (ii-kikhar); nobhedu, ii-10 000 namanani angaphelelanga, kunye neetalente ezisibhozo ezinkulu; netsimbi, iintalente ezilikhulu ezinkulu (ii-kikhar) elinye.",
   "tokens": [
     {
       "surface": "ויתנו",
-      "gloss": "baza banika"
+      "gloss": "banikezela"
     },
     {
       "surface": "לעבודת",
-      "gloss": "inkonzo"
+      "gloss": "inkonzo ye-"
     },
     {
       "surface": "בית",
-      "gloss": "yendlu"
+      "gloss": "indlu ye-"
     },
     {
       "surface": "האלהים",
@@ -29,17 +29,77 @@
     },
     {
       "surface": "ככרים",
-      "gloss": "yeethalente"
+      "gloss": "iintalente ezinkulu (ii-kikhar)"
     },
     {
       "surface": "חמשת",
-      "gloss": "ezintlanu"
+      "gloss": "ezihlanu"
     },
     {
       "surface": "אלפים",
-      "gloss": "ezinkulu-nyana (iintsuku)"
+      "gloss": "ezili-5 000"
+    },
+    {
+      "surface": "ואדרכנים",
+      "gloss": "iidarike"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "ezili-10 000 (inani elingaphelelanga)"
+    },
+    {
+      "surface": "וכסף",
+      "gloss": "nesilivere"
+    },
+    {
+      "surface": "ככרים",
+      "gloss": "iintalente ezinkulu (ii-kikhar)"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "ezilishumi"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ezili-10 000"
+    },
+    {
+      "surface": "ונחשת",
+      "gloss": "nubhedu"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "ezili-10 000 (inani elingaphelelanga)"
+    },
+    {
+      "surface": "ושמונת",
+      "gloss": "kunye ne-"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ezisibhozo ezili-8 000"
+    },
+    {
+      "surface": "ככרים",
+      "gloss": "iintalente ezinkulu (ii-kikhar)"
+    },
+    {
+      "surface": "וברזל",
+      "gloss": "netsimbi"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "ezilikhulu"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "elinye eli-100 000"
+    },
+    {
+      "surface": "ככרים",
+      "gloss": "iintalente ezinkulu (ii-kikhar)"
     }
   ],
-  "timestamp": "2026-09-18T17:01:31.449672545Z",
+  "timestamp": "2026-09-18T18:37:31.012332442Z",
   "model": "glm-5.3"
 }

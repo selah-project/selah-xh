@@ -5,8 +5,105 @@
   "book": "deuteronomy",
   "lang": "xh",
   "chapter": 14,
-  "translation": "Uza kufika uLeviyi, kuba akamaxabanisi wakhe nasinikezelo ngaphaya kwakho, kunye nomhambi-hambi, nolhwela, nendude ezikwilizwe lakho, bitya bakhulule, ukuze akuwisise uYahwe uElohim wakho kuzo zonke izenzo zezandla zakhoُ emeza ukuzenzayo.",
-  "tokens": [],
-  "timestamp": "2026-09-18T08:04:35.482778545Z",
+  "translation": "Kwaye uLevi aze, kuba aknalinxenye naye akanomfa kakho, nomrhwebi, nomntwana osiweleyo, nomfelokazi okusemasangweneni akho, batye basuthe; ukuze uYahwe uElohim wakho akusikelele konke okwenziwe yesandla sakho oko uzakwenza.",
+  "tokens": [
+    {
+      "surface": "ובא",
+      "gloss": "aze"
+    },
+    {
+      "surface": "הלוי",
+      "gloss": "uLevi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "אין",
+      "gloss": "akukho"
+    },
+    {
+      "surface": "לו",
+      "gloss": "-akhe"
+    },
+    {
+      "surface": "חלק",
+      "gloss": "inxenye"
+    },
+    {
+      "surface": "ונחלה",
+      "gloss": "nomfa"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "kakho"
+    },
+    {
+      "surface": "והגר",
+      "gloss": "nomrhwebi"
+    },
+    {
+      "surface": "והיתום",
+      "gloss": "nomntwana osiweleyo"
+    },
+    {
+      "surface": "והאלמנה",
+      "gloss": "nomfelokazi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oko"
+    },
+    {
+      "surface": "בשעריך",
+      "gloss": "usemasangweneni akho"
+    },
+    {
+      "surface": "ואכלו",
+      "gloss": "batye"
+    },
+    {
+      "surface": "ושבעו",
+      "gloss": "basuthe"
+    },
+    {
+      "surface": "למען",
+      "gloss": "ukuze"
+    },
+    {
+      "surface": "יברכך",
+      "gloss": "akusikelele"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "uElohim wakho"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "konke"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "okwenziwe"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "yesandla sakho"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oko"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "uzakwenza"
+    }
+  ],
+  "timestamp": "2026-09-18T18:43:32.390495644Z",
   "model": "glm-5.3"
 }

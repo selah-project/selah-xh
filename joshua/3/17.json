@@ -5,11 +5,11 @@
   "book": "joshua",
   "lang": "xh",
   "chapter": 3,
-  "translation": "Kwaye abapristi abathwala iareka yomnqophiso kaYahwe bamile kumhlaba omomeleyo phakathi kweYardene, bemiselwe ngokuqinileyo, yaye uIsrayeli wonke wayequla kumhlaba omomeleyo, de wonke umzi wagqibela ukuqula ⟨את⟩ iYardene.",
+  "translation": "Kwaye abapristi abathwala iarityi yomnqophiso kaYahwe bema ngokuqinileyo emhlabeni omomileyo phakathi kweYardeni, belungisiwe; yaye uSirayeli wonke wayesidla ngomhlaba omomileyo, de umzi wonke ugqibile ukudlula ⟨את⟩ iYardeni.",
   "tokens": [
     {
       "surface": "ויעמדו",
-      "gloss": "bamile"
+      "gloss": "bema ngokuqinileyo"
     },
     {
       "surface": "הכהנים",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "הארון",
-      "gloss": "iareka"
+      "gloss": "iarityi"
     },
     {
       "surface": "ברית",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "בחרבה",
-      "gloss": "kumhlaba omomeleyo"
+      "gloss": "emhlabeni omomileyo"
     },
     {
       "surface": "בתוך",
@@ -41,27 +41,27 @@
     },
     {
       "surface": "הירדן",
-      "gloss": "kweYardene"
+      "gloss": "kweYardeni"
     },
     {
       "surface": "הכן",
-      "gloss": "bemiselwe ngokuqinileyo"
+      "gloss": "belungisiwe"
     },
     {
       "surface": "וכל",
-      "gloss": "yaye wonke"
+      "gloss": "wonke"
     },
     {
       "surface": "ישראל",
-      "gloss": "uIsrayeli"
+      "gloss": "uSirayeli"
     },
     {
       "surface": "עברים",
-      "gloss": "wayequla"
+      "gloss": "wayesidla"
     },
     {
       "surface": "בחרבה",
-      "gloss": "kumhlaba omomeleyo"
+      "gloss": "ngomhlaba omomileyo"
     },
     {
       "surface": "עד",
@@ -69,34 +69,34 @@
     },
     {
       "surface": "אשר",
-      "gloss": ""
+      "gloss": "ukuba"
     },
     {
       "surface": "תמו",
-      "gloss": "wagqibela"
+      "gloss": "ugqibile"
     },
     {
       "surface": "כל",
-      "gloss": "wonke"
-    },
-    {
-      "surface": "הגוי",
       "gloss": "umzi"
     },
     {
+      "surface": "הגוי",
+      "gloss": "wonke"
+    },
+    {
       "surface": "לעבר",
-      "gloss": "ukuqula"
+      "gloss": "ukudlula"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "iYardene"
+      "marks": "iYardeni"
     },
     {
       "surface": "הירדן",
-      "gloss": "iYardene"
+      "gloss": "iYardeni"
     }
   ],
-  "timestamp": "2026-09-18T08:27:16.341258272Z",
+  "timestamp": "2026-09-18T18:51:22.885091995Z",
   "model": "glm-5.3"
 }

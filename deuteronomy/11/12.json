@@ -5,7 +5,7 @@
   "book": "deuteronomy",
   "lang": "xh",
   "chapter": 11,
-  "translation": "Umhlaba uYahwe uThixo wakho eyahla ngayo aze akhangele ⟨את⟩ yona ngokungenamva; amehlo kaYahwe uThixo wakho awo kaloku, ekuqaleni kwonyaka ukuya kwisiwe lokugqibela lonyaka.",
+  "translation": "umhlaba oYahwe uElohim wakhe amkhathalela rhoqo ⟨את⟩; amehlo kaYahwe uElohim wakhe awo rhoqo, ukususela ekuqaleni komnyaka kwaze kwasekupheleni komnyaka.",
   "tokens": [
     {
       "surface": "ארץ",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "אשר",
-      "gloss": "o-"
+      "gloss": "oo"
     },
     {
       "surface": "יהוה",
@@ -21,20 +21,20 @@
     },
     {
       "surface": "אלהיך",
-      "gloss": "uThixo wakho"
+      "gloss": "uElohim wakhe"
     },
     {
       "surface": "דרש",
-      "gloss": "eyahla ngayo aze akhangele"
+      "gloss": "amkhathalela"
     },
     {
       "surface": "אתה",
       "gloss": "⟨את⟩",
-      "marks": "yona"
+      "marks": "umhlaba (isimaphambili-si: loo mlaba)"
     },
     {
       "surface": "תמיד",
-      "gloss": "ngokungenamva"
+      "gloss": "rhoqo"
     },
     {
       "surface": "עיני",
@@ -42,15 +42,15 @@
     },
     {
       "surface": "יהוה",
-      "gloss": "kaYahwe"
+      "gloss": "uYahwe"
     },
     {
       "surface": "אלהיך",
-      "gloss": "uThixo wakho"
+      "gloss": "uElohim wakhe"
     },
     {
       "surface": "בה",
-      "gloss": "awo kaloku"
+      "gloss": "kuwo"
     },
     {
       "surface": "מרשית",
@@ -58,21 +58,21 @@
     },
     {
       "surface": "השנה",
-      "gloss": "kwonyaka"
+      "gloss": "komnyaka"
     },
     {
       "surface": "ועד",
-      "gloss": "ukuya"
+      "gloss": "kwaze kwase-"
     },
     {
       "surface": "אחרית",
-      "gloss": "kwisiwe lokugqibela"
+      "gloss": "ekupheleni"
     },
     {
       "surface": "שנה",
-      "gloss": "lonyaka"
+      "gloss": "komnyaka"
     }
   ],
-  "timestamp": "2026-09-18T08:01:12.581656644Z",
+  "timestamp": "2026-09-18T18:42:55.549759924Z",
   "model": "glm-5.3"
 }

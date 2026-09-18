@@ -5,32 +5,32 @@
   "book": "2-kings",
   "lang": "xh",
   "chapter": 21,
-  "translation": "Wayibeka ⟨את⟩ isithombe seAshera awayenzileyo endlwini uYahwe ayithethileyo kuDawidi nakakuShelomoh unyana wakhe: ‘Kule ndlu nakwiYerushalayimi endiyikhethileyo kuzo zonke iintlanga zeYisraeli ndiza kubeka ⟨את⟩ igama lam kuaphakade.’",
+  "translation": "Wabeka ⟨את⟩ isithombe se-Asherah awayenzileyo endlwini uYahwe wayethetha ngayo kuDavide nakuloShelomoh unyana wakhe: “Kule ndlu nakwiYerushalayimi endiyikhethileyo kuzo zonke iintlanga zikaYisrayeli, ndiza kubeka ⟨את⟩ igama lam phakade.”",
   "tokens": [
     {
       "surface": "וישם",
-      "gloss": "Wayibeka"
+      "gloss": "wabeka"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "isithombe seAshera"
+      "marks": "isithombe se-Asherah"
     },
     {
       "surface": "פסל",
-      "gloss": "isithombe"
+      "gloss": "isithombe esiroyiweyo"
     },
     {
       "surface": "האשרה",
-      "gloss": "seAshera"
+      "gloss": "se-Asherah"
     },
     {
       "surface": "אשר",
-      "gloss": ""
+      "gloss": "awayenzileyo ⟨oko⟩"
     },
     {
       "surface": "עשה",
-      "gloss": "awayenzileyo"
+      "gloss": "enzileyo"
     },
     {
       "surface": "בבית",
@@ -38,11 +38,11 @@
     },
     {
       "surface": "אשר",
-      "gloss": ""
+      "gloss": "ngayo ⟨oko⟩"
     },
     {
       "surface": "אמר",
-      "gloss": "ayithethileyo"
+      "gloss": "wayethetha"
     },
     {
       "surface": "יהוה",
@@ -50,15 +50,15 @@
     },
     {
       "surface": "אל",
-      "gloss": "ku"
+      "gloss": "ku-"
     },
     {
       "surface": "דוד",
-      "gloss": "uDawidi"
+      "gloss": "uDavide"
     },
     {
       "surface": "ואל",
-      "gloss": "naku"
+      "gloss": "nakuku-"
     },
     {
       "surface": "שלמה",
@@ -70,7 +70,7 @@
     },
     {
       "surface": "בבית",
-      "gloss": "Kule ndlu"
+      "gloss": "kule ndlu"
     },
     {
       "surface": "הזה",
@@ -82,11 +82,11 @@
     },
     {
       "surface": "אשר",
-      "gloss": ""
+      "gloss": "endiyikhethileyo ⟨eyo⟩"
     },
     {
       "surface": "בחרתי",
-      "gloss": "endiyikhethileyo"
+      "gloss": "ndiyikhethileyo"
     },
     {
       "surface": "מכל",
@@ -98,7 +98,7 @@
     },
     {
       "surface": "ישראל",
-      "gloss": "zeYisraeli"
+      "gloss": "zikaYisrayeli"
     },
     {
       "surface": "אשים",
@@ -115,9 +115,9 @@
     },
     {
       "surface": "לעולם",
-      "gloss": "kuaphakade"
+      "gloss": "phakade"
     }
   ],
-  "timestamp": "2026-09-18T10:58:22.930792723Z",
+  "timestamp": "2026-09-18T18:40:35.122260408Z",
   "model": "glm-5.3"
 }

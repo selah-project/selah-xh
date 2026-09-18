@@ -5,15 +5,15 @@
   "book": "deuteronomy",
   "lang": "xh",
   "chapter": 24,
-  "translation": "Akakwazi umyeni wakhe wokuqala, lowo wamshiyisayo, ukubuyela athathe, abe yinkosikazi yakhe, emva kokuba ingcolile; kuba yinto enukisayo phambi koYahwe: ungayenzisi ilizwe ⟨את⟩ elo uYahwe uElohim wakho elinike lona njengelifa.",
+  "translation": "Akakwazi umyeni wakhe wokuqala, owamtyeshayo, ukubuyela ukumthabatha ukuba abe ngumfazi wakhe, emva kokuba ingcolile, kuba intlonelo yile phambi koYahwe; kwaye musa ukwenza ⟨את⟩ umhlaba uwenze isono, umhlaba uYahwe uElohim wakho awunike wena njengesifako.",
   "tokens": [
     {
       "surface": "לא",
-      "gloss": "aka-"
+      "gloss": "akakwazi"
     },
     {
       "surface": "יוכל",
-      "gloss": "kwazi"
+      "gloss": "akakwazi ukwenza"
     },
     {
       "surface": "בעלה",
@@ -25,11 +25,11 @@
     },
     {
       "surface": "אשר",
-      "gloss": "lowo"
+      "gloss": "o-"
     },
     {
       "surface": "שלחה",
-      "gloss": "wamshiyisayo"
+      "gloss": "wamtyeshayo"
     },
     {
       "surface": "לשוב",
@@ -37,27 +37,27 @@
     },
     {
       "surface": "לקחתה",
-      "gloss": "athathe"
+      "gloss": "ukumthabatha"
     },
     {
       "surface": "להיות",
-      "gloss": "abe"
+      "gloss": "ukuba abe"
     },
     {
       "surface": "לו",
-      "gloss": "yena"
+      "gloss": "kuye"
     },
     {
       "surface": "לאשה",
-      "gloss": "yinkosikazi yakhe"
+      "gloss": "ngumfazi"
     },
     {
       "surface": "אחרי",
-      "gloss": "emva kokuba"
+      "gloss": "emva"
     },
     {
       "surface": "אשר",
-      "gloss": ""
+      "gloss": "kokuba"
     },
     {
       "surface": "הטמאה",
@@ -69,15 +69,15 @@
     },
     {
       "surface": "תועבה",
-      "gloss": "yinto enukisayo"
+      "gloss": "intlonelo"
     },
     {
       "surface": "הוא",
-      "gloss": "yona"
+      "gloss": "yile"
     },
     {
       "surface": "לפני",
-      "gloss": "phambi kwa-"
+      "gloss": "phambi"
     },
     {
       "surface": "יהוה",
@@ -85,24 +85,24 @@
     },
     {
       "surface": "ולא",
-      "gloss": "unga-"
+      "gloss": "kwaye musa"
     },
     {
       "surface": "תחטיא",
-      "gloss": "yenzisi ilizwe libe yicala"
+      "gloss": "uwenze isono"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ilizwe"
+      "marks": "umhlaba"
     },
     {
       "surface": "הארץ",
-      "gloss": "ilizwe"
+      "gloss": "umhlaba"
     },
     {
       "surface": "אשר",
-      "gloss": "elo"
+      "gloss": "o-"
     },
     {
       "surface": "יהוה",
@@ -114,17 +114,17 @@
     },
     {
       "surface": "נתן",
-      "gloss": "elinike"
+      "gloss": "awunike"
     },
     {
       "surface": "לך",
-      "gloss": "kuwe"
+      "gloss": "wena"
     },
     {
       "surface": "נחלה",
-      "gloss": "njengelifa"
+      "gloss": "isifako"
     }
   ],
-  "timestamp": "2026-09-18T08:17:10.177314439Z",
+  "timestamp": "2026-09-18T18:43:18.631996087Z",
   "model": "glm-5.3"
 }

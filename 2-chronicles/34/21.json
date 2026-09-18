@@ -5,15 +5,15 @@
   "book": "2-chronicles",
   "lang": "xh",
   "chapter": 34,
-  "translation": "Yiyani, funani uYahwe ⟨ngam⟩ nakwabaselayo kwiIsrayeli nakwiYehuda, ngeendaba zale ncwadi ethe yafunyanwa; kuba inkulu ubukroli bakaYahwe obuthe yathulwa phezu kwethu, kuba ooyihlo bethu abaligcinanga ⟨את⟩ ilizwi likaYahwe ukwenza ngokwako konke okubhaliweyo kule ncwadi.",
+  "translation": "“Hambani, bukhupha-ni uYahwe ngokwam, nakwabaselayo kwi-Israel nakwiYuda, ngeendaba zale ncwadi ethe yafunyanwa; kuba inkrodro enkulu kaYahwe ithe yathathelwa phezu kwethu, kuba ooyihlo babethu abazigcinanga ⟨את⟩ ilizwi likaYahwe, ukwenza ngokweyonke ebhaliweyo kule ncwadi.”",
   "tokens": [
     {
       "surface": "לכו",
-      "gloss": "Yiyani"
+      "gloss": "Hambani"
     },
     {
       "surface": "דרשו",
-      "gloss": "funani"
+      "gloss": "bukhupha-ni"
     },
     {
       "surface": "את",
@@ -26,11 +26,11 @@
     },
     {
       "surface": "בעדי",
-      "gloss": "ngam"
+      "gloss": "ngokwam"
     },
     {
       "surface": "ובעד",
-      "gloss": "nakwa"
+      "gloss": "nakwabaselayo"
     },
     {
       "surface": "הנשאר",
@@ -38,19 +38,19 @@
     },
     {
       "surface": "בישראל",
-      "gloss": "kwiIsrayeli"
+      "gloss": "kwi-Israel"
     },
     {
       "surface": "וביהודה",
-      "gloss": "nakwiYehuda"
+      "gloss": "nakwiYuda"
     },
     {
       "surface": "על",
-      "gloss": "nge-"
+      "gloss": "ngeendaba"
     },
     {
       "surface": "דברי",
-      "gloss": "iindaba"
+      "gloss": "zeendaba"
     },
     {
       "surface": "הספר",
@@ -70,23 +70,23 @@
     },
     {
       "surface": "גדולה",
-      "gloss": "inkulu"
+      "gloss": "enkulu"
     },
     {
       "surface": "חמת",
-      "gloss": "ubukroli"
+      "gloss": "inkrodro"
     },
     {
       "surface": "יהוה",
-      "gloss": "bakaYahwe"
+      "gloss": "kaYahwe"
     },
     {
       "surface": "אשר",
-      "gloss": "obuthe"
+      "gloss": "ethe"
     },
     {
       "surface": "נתכה",
-      "gloss": "yathulwa"
+      "gloss": "yathathelwa"
     },
     {
       "surface": "בנו",
@@ -98,24 +98,24 @@
     },
     {
       "surface": "אשר",
-      "gloss": ""
+      "gloss": "okokuba"
     },
     {
       "surface": "לא",
-      "gloss": "hayi"
+      "gloss": "abazigcinanga"
     },
     {
       "surface": "שמרו",
-      "gloss": "abagcinanga"
+      "gloss": "azigcinanga"
     },
     {
       "surface": "אבותינו",
-      "gloss": "ooyihlo bethu"
+      "gloss": "ooyihlo babethu"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ilizwi"
+      "marks": "ilizwi likaYahwe"
     },
     {
       "surface": "דבר",
@@ -131,15 +131,15 @@
     },
     {
       "surface": "ככל",
-      "gloss": "ngokwako konke"
+      "gloss": "ngokweyonke"
     },
     {
       "surface": "הכתוב",
-      "gloss": "okubhaliweyo"
+      "gloss": "ebhaliweyo"
     },
     {
       "surface": "על",
-      "gloss": "ku-"
+      "gloss": "ku"
     },
     {
       "surface": "הספר",
@@ -150,6 +150,6 @@
       "gloss": "le"
     }
   ],
-  "timestamp": "2026-09-18T17:17:16.083932709Z",
+  "timestamp": "2026-09-18T18:39:48.505587708Z",
   "model": "glm-5.3"
 }

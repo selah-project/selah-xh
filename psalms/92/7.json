@@ -5,7 +5,7 @@
   "book": "psalms",
   "lang": "xh",
   "chapter": 92,
-  "translation": "Umntu osisityebi〈⟨is⟩〉 akazi nto; umvum-eyedwa akayiqondi ⟨את⟩ le nto.",
+  "translation": "Umntu oyimbuzi akazi, nokuba usiyenga akayiqondi ⟨את⟩ le nto.",
   "tokens": [
     {
       "surface": "איש",
@@ -13,27 +13,27 @@
     },
     {
       "surface": "בער",
-      "gloss": "osisityebi (osidenge)"
+      "gloss": "oyimbuzi"
     },
     {
       "surface": "לא",
-      "gloss": "akazi nto"
-    },
-    {
-      "surface": "ידע",
       "gloss": "akazi"
     },
     {
+      "surface": "ידע",
+      "gloss": ""
+    },
+    {
       "surface": "וכסיל",
-      "gloss": "umvum-eyedwa"
+      "gloss": "nokuba usiyenga"
     },
     {
       "surface": "לא",
-      "gloss": "cha"
+      "gloss": "akayiqondi"
     },
     {
       "surface": "יבין",
-      "gloss": "akayiqondi"
+      "gloss": ""
     },
     {
       "surface": "את",
@@ -45,6 +45,6 @@
       "gloss": "le nto"
     }
   ],
-  "timestamp": "2026-09-18T15:11:41.136502263Z",
+  "timestamp": "2026-09-18T18:55:46.059380981Z",
   "model": "glm-5.3"
 }

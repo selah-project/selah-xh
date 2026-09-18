@@ -5,15 +5,15 @@
   "book": "jeremiah",
   "lang": "xh",
   "chapter": 30,
-  "translation": "Kuba ndikunye ⟨את⟩, uthe uYahwe, ukukusindisa; kuba ndiza kwenza isiphelelo kuzo zonke iintlanga endakusasaze kuzo; kodwa ⟨את⟩ wena andisi kuwenza isiphelelo, ndiza kukuyala ngomgwebo, kwaye andisi kukuxolela ngokupheleleyo.",
+  "translation": "Kuba ⟨את⟩ ndikunye wena, utsho uYahwe, ukukusindisa; kuba ndiza kwenza isiphelo kwazo zonke iintlanga apho ndakusasela khona, kodwa ⟨את⟩ wena akunanjalo — ndiza kungayenzi isiphelo kuwe; ndiza kukufundisa ngesigwebo, kwaye andingekusoli ngokupheleleyo.",
   "tokens": [
     {
       "surface": "כי",
-      "gloss": "Kuba"
+      "gloss": "kuba"
     },
     {
       "surface": "אתך",
-      "gloss": "⟨את⟩ ndikunye"
+      "gloss": "⟨את⟩ ndikunye wena"
     },
     {
       "surface": "אני",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "נאם",
-      "gloss": "uthe"
+      "gloss": "utsho"
     },
     {
       "surface": "יהוה",
@@ -41,11 +41,11 @@
     },
     {
       "surface": "כלה",
-      "gloss": "isiphelelo"
+      "gloss": "isiphelo"
     },
     {
       "surface": "בכל",
-      "gloss": "kuzo zonke"
+      "gloss": "kwazo zonke"
     },
     {
       "surface": "הגוים",
@@ -53,15 +53,15 @@
     },
     {
       "surface": "אשר",
-      "gloss": ""
+      "gloss": "apho"
     },
     {
       "surface": "הפצותיך",
-      "gloss": "endakusasaze"
+      "gloss": "ndakusasela"
     },
     {
       "surface": "שם",
-      "gloss": "kuzo"
+      "gloss": "khona"
     },
     {
       "surface": "אך",
@@ -69,41 +69,42 @@
     },
     {
       "surface": "אתך",
-      "gloss": "⟨את⟩ wena"
+      "gloss": "⟨את⟩",
+      "marks": "wena"
     },
     {
       "surface": "לא",
-      "gloss": "andi"
+      "gloss": "akunanjalo"
     },
     {
       "surface": "אעשה",
-      "gloss": "kuwenza"
+      "gloss": "ndiza kungayenzi"
     },
     {
       "surface": "כלה",
-      "gloss": "isiphelelo"
+      "gloss": "isiphelo"
     },
     {
       "surface": "ויסרתיך",
-      "gloss": "ndiza kukuyala"
+      "gloss": "ndiza kukufundisa"
     },
     {
       "surface": "למשפט",
-      "gloss": "ngomgwebo"
+      "gloss": "ngesigwebo"
     },
     {
       "surface": "ונקה",
-      "gloss": "ukuxolela"
+      "gloss": "andingekusoli"
     },
     {
       "surface": "לא",
-      "gloss": "andi"
+      "gloss": "hayi"
     },
     {
       "surface": "אנקך",
-      "gloss": "naku kukuxolela"
+      "gloss": "ngokupheleleyo"
     }
   ],
-  "timestamp": "2026-09-18T12:20:06.487852252Z",
+  "timestamp": "2026-09-18T18:49:43.746273685Z",
   "model": "glm-5.3"
 }

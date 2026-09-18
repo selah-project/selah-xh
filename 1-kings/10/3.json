@@ -5,32 +5,24 @@
   "book": "1-kings",
   "lang": "xh",
   "chapter": 10,
-  "translation": "UShelomo wamxelela ⟨את⟩ yonke into ayibuzayo; akukho lizwi lifihliweyo kulo inkosi, into awayengayixeleli yona.",
+  "translation": "UShelomah wayixelela yonke into awayebuzayo; akukho nto yayifihliweyo kumnkosi engayanga yamxelela yona.",
   "tokens": [
     {
-      "surface": "וגיד",
-      "gloss": ""
-    },
-    {
-      "surface": "והגיד",
-      "gloss": ""
-    },
-    {
       "surface": "ויגד",
-      "gloss": "wamxelela"
+      "gloss": "wayixelela"
     },
     {
       "surface": "לה",
-      "gloss": "⟨את⟩ kuye"
+      "gloss": "yena"
     },
     {
       "surface": "שלמה",
-      "gloss": "uShelomo"
+      "gloss": "uShelomah"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "yonke into ayibuzayo"
+      "marks": "yonke into"
     },
     {
       "surface": "כל",
@@ -38,7 +30,7 @@
     },
     {
       "surface": "דבריה",
-      "gloss": "into ayibuzayo"
+      "gloss": "into awayebuzayo"
     },
     {
       "surface": "לא",
@@ -46,41 +38,41 @@
     },
     {
       "surface": "היה",
-      "gloss": "likho"
+      "gloss": "yayikhona"
     },
     {
       "surface": "דבר",
-      "gloss": "lizwi"
+      "gloss": "nto"
     },
     {
       "surface": "נעלם",
-      "gloss": "lifihliweyo"
+      "gloss": "efihliweyo"
     },
     {
       "surface": "מן",
-      "gloss": "ku"
+      "gloss": "ku-"
     },
     {
       "surface": "המלך",
-      "gloss": "lo inkosi"
+      "gloss": "umnkosi"
     },
     {
       "surface": "אשר",
-      "gloss": "into"
+      "gloss": "engayanga"
     },
     {
       "surface": "לא",
-      "gloss": "awayengayixeleli"
+      "gloss": "hayi"
     },
     {
       "surface": "הגיד",
-      "gloss": "yona"
+      "gloss": "ukumxelela"
     },
     {
       "surface": "לה",
-      "gloss": ""
+      "gloss": "yena"
     }
   ],
-  "timestamp": "2026-09-18T10:21:20.397364819Z",
+  "timestamp": "2026-09-18T18:56:31.830657529Z",
   "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "joshua",
   "lang": "xh",
   "chapter": 8,
-  "translation": "Yaye kuwo onke uSirayeli, nabadala bayo, noonozigidi nabagweba bayo, bemile ngale nangale yediya, phambi koobapristi abaLevi abathwalayo idiya yomnqophiso kaYahwe — njengomrhwebi, njengowaselizweni — isiqinga sasisitheye phambi kweNtaba iGerizim, nesiqinga phambi kweNtaba iEbhali, njengoko wayala uMoshe, inkonzi kaYahwe, ukuba busikele ⟨את⟩ abantu baseSirayeli okokuqala.",
+  "translation": "Yaye kuwo onke uSirayeli, nabadala balo, neentlanganiso, neenkokeli-zabaphethe-bumtyalelweeni zalo, bemi ngale nelangale le-arha, phambi koobabingeleli abaLevi ababethwala iarha yomnqophiso kaYahwe — njengomtyali njengowaselikhaya — isiqingatha sabo sime phambi kweNtaba iGerizim, yaye isiqingatha phambi kweNtaba iEbal, njengoko awale uMoshe, inkonzi kaYahwe, ukusikekela ⟨את⟩ abantu baseSirayeli ekuqaleni.",
   "tokens": [
     {
       "surface": "וכל",
@@ -17,19 +17,19 @@
     },
     {
       "surface": "וזקניו",
-      "gloss": "nabadala bayo"
+      "gloss": "nabadala balo"
     },
     {
       "surface": "ושטרים",
-      "gloss": "noonozigidi"
+      "gloss": "neentlanganiso"
     },
     {
       "surface": "ושפטיו",
-      "gloss": "nabagweba bayo"
+      "gloss": "neenkokeli-zabaphethe-bumtyalelweeni zalo"
     },
     {
       "surface": "עמדים",
-      "gloss": "bemile"
+      "gloss": "bemi"
     },
     {
       "surface": "מזה",
@@ -37,11 +37,11 @@
     },
     {
       "surface": "ומזה",
-      "gloss": "nangale"
+      "gloss": "nelangale"
     },
     {
       "surface": "לארון",
-      "gloss": "yediya"
+      "gloss": "le-arha"
     },
     {
       "surface": "נגד",
@@ -49,7 +49,7 @@
     },
     {
       "surface": "הכהנים",
-      "gloss": "koobapristi"
+      "gloss": "koobabingeleli"
     },
     {
       "surface": "הלוים",
@@ -57,11 +57,11 @@
     },
     {
       "surface": "נשאי",
-      "gloss": "abathwalayo"
+      "gloss": "ababethwala"
     },
     {
       "surface": "ארון",
-      "gloss": "idiya"
+      "gloss": "iarha"
     },
     {
       "surface": "ברית",
@@ -73,23 +73,23 @@
     },
     {
       "surface": "כגר",
-      "gloss": "njengomrhwebi"
+      "gloss": "njengomtyali"
     },
     {
       "surface": "כאזרח",
-      "gloss": "njengowaselizweni"
+      "gloss": "njengowaselikhaya"
     },
     {
       "surface": "חציו",
-      "gloss": "isiqinga"
+      "gloss": "isiqingatha sabo"
     },
     {
       "surface": "אל",
-      "gloss": "sasisitheye"
+      "gloss": "sime ku"
     },
     {
       "surface": "מול",
-      "gloss": "phambi"
+      "gloss": "phambi kwe"
     },
     {
       "surface": "הר",
@@ -101,15 +101,15 @@
     },
     {
       "surface": "והחציו",
-      "gloss": "nesiqinga"
+      "gloss": "yaye isiqingatha"
     },
     {
       "surface": "אל",
-      "gloss": "sasisitheye"
+      "gloss": "ku"
     },
     {
       "surface": "מול",
-      "gloss": "phambi"
+      "gloss": "phambi kwe"
     },
     {
       "surface": "הר",
@@ -117,7 +117,7 @@
     },
     {
       "surface": "עיבל",
-      "gloss": "iEbhali"
+      "gloss": "iEbal"
     },
     {
       "surface": "כאשר",
@@ -125,7 +125,7 @@
     },
     {
       "surface": "צוה",
-      "gloss": "wayala"
+      "gloss": "awale"
     },
     {
       "surface": "משה",
@@ -141,7 +141,7 @@
     },
     {
       "surface": "לברך",
-      "gloss": "ukuba busikele"
+      "gloss": "ukusikekela"
     },
     {
       "surface": "את",
@@ -150,17 +150,17 @@
     },
     {
       "surface": "העם",
-      "gloss": "abantu baseSirayeli"
+      "gloss": "abantu"
     },
     {
       "surface": "ישראל",
-      "gloss": ""
+      "gloss": "baseSirayeli"
     },
     {
       "surface": "בראשנה",
-      "gloss": "okokuqala"
+      "gloss": "ekuqaleni"
     }
   ],
-  "timestamp": "2026-09-18T08:32:23.063611108Z",
+  "timestamp": "2026-09-18T18:51:13.327743198Z",
   "model": "glm-5.3"
 }

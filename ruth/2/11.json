@@ -5,7 +5,7 @@
   "book": "ruth",
   "lang": "xh",
   "chapter": 2,
-  "translation": "Waphendula uBhoazi wathi kuye: “Kuxeliwe ndixeliwe konoko okwenzileyo ⟨את⟩ umkhwekazi wakho emva kokufa kwendoda yakho, waze wasishiya ubawo wakho nomama wakho nomhlaba wokuzalwa kwakho, weza kubantu abangekwaziyo kutshanje.”",
+  "translation": "Waphendula uBoazi wathi kuye: Kuxelelwe ndini kuxelelwe koni oko uwenzileyo ⟨את⟩ unyokhokho wakho emva kokufa kwendoda yakho, wasishiya uyise nommama wakho nelizwe lokuzalwa lwakho, waza weza kubantu ongazange ubaziyo izolo nangaphambili.",
   "tokens": [
     {
       "surface": "ויען",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "בעז",
-      "gloss": "uBhoazi"
+      "gloss": "uBoazi"
     },
     {
       "surface": "ויאמר",
@@ -25,19 +25,19 @@
     },
     {
       "surface": "הגד",
-      "gloss": "kuxeliwe"
+      "gloss": "kuxelelwe"
     },
     {
       "surface": "הגד",
-      "gloss": "ndixeliwe"
+      "gloss": "kuxelelwe"
     },
     {
       "surface": "לי",
-      "gloss": ""
+      "gloss": "ndini"
     },
     {
       "surface": "כל",
-      "gloss": "konoko"
+      "gloss": "koni"
     },
     {
       "surface": "אשר",
@@ -45,16 +45,16 @@
     },
     {
       "surface": "עשית",
-      "gloss": "okwenzileyo"
+      "gloss": "uwenzileyo"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "umkhwekazi wakho"
+      "marks": "unyokhokho wakho"
     },
     {
       "surface": "חמותך",
-      "gloss": "umkhwekazi wakho"
+      "gloss": "unyokhokho wakho"
     },
     {
       "surface": "אחרי",
@@ -74,53 +74,53 @@
     },
     {
       "surface": "אביך",
-      "gloss": "ubawo wakho"
+      "gloss": "uyise"
     },
     {
       "surface": "ואמך",
-      "gloss": "nomama wakho"
+      "gloss": "nommama wakho"
     },
     {
       "surface": "וארץ",
-      "gloss": "nomhlaba"
+      "gloss": "nelizwe"
     },
     {
       "surface": "מולדתך",
-      "gloss": "wokuzalwa kwakho"
+      "gloss": "lokuzalwa lwakho"
     },
     {
       "surface": "ותלכי",
-      "gloss": "weza"
+      "gloss": "waza weza"
     },
     {
       "surface": "אל",
-      "gloss": "ku-"
+      "gloss": "ku"
     },
     {
       "surface": "עם",
-      "gloss": "abantu"
+      "gloss": "bantu"
     },
     {
       "surface": "אשר",
-      "gloss": "aba-"
+      "gloss": "ongazange"
     },
     {
       "surface": "לא",
-      "gloss": "anga-"
+      "gloss": "akazanga"
     },
     {
       "surface": "ידעת",
-      "gloss": "kwaziyo"
+      "gloss": "ubaziyo"
     },
     {
       "surface": "תמול",
-      "gloss": "kutshanje"
+      "gloss": "izolo"
     },
     {
       "surface": "שלשום",
-      "gloss": ""
+      "gloss": "nangaphambili"
     }
   ],
-  "timestamp": "2026-09-18T17:48:29.978177303Z",
+  "timestamp": "2026-09-18T18:56:24.468369984Z",
   "model": "glm-5.3"
 }

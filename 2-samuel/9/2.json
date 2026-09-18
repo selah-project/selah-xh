@@ -5,8 +5,73 @@
   "book": "2-samuel",
   "lang": "xh",
   "chapter": 9,
-  "translation": "Kwakukho ngekhe iindaba zendlu kaShawuli isicaka, igama lakhe liguTSiba; bambizela kuDavid, inkosi yathi kuye: “Ngaba wena nguTsiba?” Wathi: “NguMsindam wakho.”",
-  "tokens": [],
-  "timestamp": "2026-09-18T09:49:33.844950590Z",
+  "translation": "Kwakukho konjongozelwa welu lwekaShawuli, igama lakhe lingaba nguTsiba; bambizela kuDavide, inkosi yathi kuye: “Ngaba wena nguTsiba?” Wathi: “Nguquququ m.” ",
+  "tokens": [
+    {
+      "surface": "ולבית",
+      "gloss": "Kwakukho konjongozelwa welu lwekaShawuli"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "wekaShawuli"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "onjongozelwa"
+    },
+    {
+      "surface": "ושמו",
+      "gloss": "igama lakhe lingaba"
+    },
+    {
+      "surface": "ציבא",
+      "gloss": "nguTsiba"
+    },
+    {
+      "surface": "ויקראו",
+      "gloss": "bambizela"
+    },
+    {
+      "surface": "לו",
+      "gloss": "m"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "uDavide"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "yathi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "inkosi"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kuye"
+    },
+    {
+      "surface": "האתה",
+      "gloss": "Ngaba wena"
+    },
+    {
+      "surface": "ציבא",
+      "gloss": "nguTsiba"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Wathi"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "Nguquququ m"
+    }
+  ],
+  "timestamp": "2026-09-18T18:41:44.550777992Z",
   "model": "glm-5.3"
 }

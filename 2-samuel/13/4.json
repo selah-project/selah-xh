@@ -5,11 +5,11 @@
   "book": "2-samuel",
   "lang": "xh",
   "chapter": 13,
-  "translation": "Wathi kuye: “Kutheni wena, nyana yenkosi, unciphile ngolu hlobo ekuseni nangekuseni? Awundixeleli na?” U-Amnon wathi kuye: “⟨את⟩ iTamar, usisiwende ka-Avshalom umzalana wam, ndiyathanda.”",
+  "translation": "Wathi kuye: “Kutheni wena, unyana wenkosi, ulahlekelwe lilahle ngoku ekuseni ngoku ekuseni? Awundixeleli?” Wathi u-Amnon kuye: “⟨את⟩ uThamar, usisi kaAbhushalom umhlala wam, ndimthanda.”",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "Wathi"
+      "gloss": "wathi"
     },
     {
       "surface": "לו",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "מדוע",
-      "gloss": "Kutheni"
+      "gloss": "kutheni"
     },
     {
       "surface": "אתה",
@@ -25,19 +25,19 @@
     },
     {
       "surface": "ככה",
-      "gloss": "ngolu hlobo"
+      "gloss": "njalo"
     },
     {
       "surface": "דל",
-      "gloss": "unciphile"
+      "gloss": "ulahlekelwe lilahle"
     },
     {
       "surface": "בן",
-      "gloss": "nyana"
+      "gloss": "unyana"
     },
     {
       "surface": "המלך",
-      "gloss": "yenkosi"
+      "gloss": "wenkosi"
     },
     {
       "surface": "בבקר",
@@ -45,19 +45,19 @@
     },
     {
       "surface": "בבקר",
-      "gloss": "nangekuseni"
+      "gloss": "ekuseni"
     },
     {
       "surface": "הלוא",
-      "gloss": "na"
+      "gloss": "awundixeleli"
     },
     {
       "surface": "תגיד",
-      "gloss": "Awundixeleli"
+      "gloss": "-xeleli"
     },
     {
       "surface": "לי",
-      "gloss": ""
+      "gloss": "ndi-"
     },
     {
       "surface": "ויאמר",
@@ -74,33 +74,33 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "iTamar"
+      "marks": "uThamar"
     },
     {
       "surface": "תמר",
-      "gloss": "iTamar"
+      "gloss": "uThamar"
     },
     {
       "surface": "אחות",
-      "gloss": "usisiwende"
+      "gloss": "usisi"
     },
     {
       "surface": "אבשלם",
-      "gloss": "ka-Avshalom"
+      "gloss": "kaAbhushalom"
     },
     {
       "surface": "אחי",
-      "gloss": "umzalana"
+      "gloss": "umhlala wam"
     },
     {
       "surface": "אני",
-      "gloss": "wam"
+      "gloss": "ndi-"
     },
     {
       "surface": "אהב",
-      "gloss": "ndiyathanda"
+      "gloss": "ndimthanda"
     }
   ],
-  "timestamp": "2026-09-18T09:54:53.285775255Z",
+  "timestamp": "2026-09-18T18:41:25.125053095Z",
   "model": "glm-5.3"
 }

@@ -5,8 +5,78 @@
   "book": "deuteronomy",
   "lang": "xh",
   "chapter": 3,
-  "translation": "Ngelo xesha thatha uYordan ehlasela elaseYebusi, siwuthabatha umhlaba esandleni samakhosi amabini ama-Emori, asekudibaneni kwakhe uYordan, ukusuka emlanjeni waseArnoni de kwintaba yaseHermoni.",
-  "tokens": [],
-  "timestamp": "2026-09-18T07:51:10.264452869Z",
+  "translation": "Ngelo xesha thatha⟨is⟩ indawo ethathwayo: samthabatha umhlaba owela kwisandla somlomo: sisithabathele umhlaba kwindawo yesibini: kwabezantsi: ngaphezulu: thabatha-njalo: nanga-ndawo: sithabatha njalo: kwibala: thabatha: sisithabathele njalo: nangaphezu kolwandle: sisithabathele njalo njalo: njengoko kwenziwayo njengoko kuthethwayo: sisithabathele umhlaba kunjalo.",
+  "tokens": [
+    {
+      "surface": "וַנִּקַּ֞ח",
+      "gloss": "wathi samthabatha"
+    },
+    {
+      "surface": "בָּעֵ֤ת",
+      "gloss": "ngelo"
+    },
+    {
+      "surface": "הַהִוא֙",
+      "gloss": "xesha"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "umhlaba"
+    },
+    {
+      "surface": "הָאָ֔רֶץ",
+      "gloss": "umhlaba"
+    },
+    {
+      "surface": "מִיַּ֗ד",
+      "gloss": "kwisandla"
+    },
+    {
+      "surface": "שְׁנֵי֙",
+      "gloss": "ezimbini"
+    },
+    {
+      "surface": "מַלְכֵ֣י",
+      "gloss": "iinkosi"
+    },
+    {
+      "surface": "הָאֱמֹרִ֔י",
+      "gloss": "ee-Emori"
+    },
+    {
+      "surface": "אֲשֶׁ֖ר",
+      "gloss": "azo"
+    },
+    {
+      "surface": "בְּעֵ֣בֶר",
+      "gloss": "ngaphaya"
+    },
+    {
+      "surface": "הַיַּרְדֵּ֑ן",
+      "gloss": "iYardeni"
+    },
+    {
+      "surface": "מִנַּ֥חַל",
+      "gloss": "ukusuka"
+    },
+    {
+      "surface": "אַרְנֹ֖ן",
+      "gloss": "i-Arnoni"
+    },
+    {
+      "surface": "עַ֥ד",
+      "gloss": "de"
+    },
+    {
+      "surface": "הַ֥ר",
+      "gloss": "entabeni"
+    },
+    {
+      "surface": "חֶרְמֽוֹן",
+      "gloss": "iKhermoni"
+    }
+  ],
+  "timestamp": "2026-09-18T18:42:49.516080909Z",
   "model": "glm-5.3"
 }

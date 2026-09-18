@@ -5,19 +5,19 @@
   "book": "leviticus",
   "lang": "xh",
   "chapter": 6,
-  "translation": "Kwaye yonke isinxaxheba sonkxwaleko egazi layo lingeniswa etendeni lokudibana ukwenza ukubuyisana endaweni engcwele, ayityiwanga; ngomlilo itshiswa.",
+  "translation": "Yaye lonke elohlwayo elingeniswa eligazini lalo etendeni lokudibana ukwenza ukhululwko kwindawo engcwele, aluyi kutyiwa; ngumilo luya kutshatyalaliswa.",
   "tokens": [
     {
       "surface": "וכל",
-      "gloss": "kwaye yonke"
+      "gloss": "Yaye lonke"
     },
     {
       "surface": "חטאת",
-      "gloss": "isinxaxheba sonkxwaleko"
+      "gloss": "elohlwayo (isithombo sono)"
     },
     {
       "surface": "אשר",
-      "gloss": "eso"
+      "gloss": "eli-"
     },
     {
       "surface": "יובא",
@@ -25,11 +25,11 @@
     },
     {
       "surface": "מדמה",
-      "gloss": "egazi layo"
+      "gloss": "eligazini lalo"
     },
     {
       "surface": "אל",
-      "gloss": "ku"
+      "gloss": "ku-"
     },
     {
       "surface": "אהל",
@@ -41,21 +41,29 @@
     },
     {
       "surface": "לכפר",
-      "gloss": "ukwenza ukubuyisana"
+      "gloss": "ukwenza ukhululwko"
     },
     {
       "surface": "בקדש",
-      "gloss": "endaweni engcwele"
+      "gloss": "kwindawo engcwele"
     },
     {
       "surface": "לא",
-      "gloss": "ayityiwanga"
+      "gloss": "aluyi"
     },
     {
       "surface": "תאכל",
-      "gloss": "itshiswa"
+      "gloss": "kutyiwa"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ngumilo"
+    },
+    {
+      "surface": "תשרף",
+      "gloss": "luya kutshatyalaliswa"
     }
   ],
-  "timestamp": "2026-09-18T06:35:18.161049383Z",
+  "timestamp": "2026-09-18T18:53:04.051385589Z",
   "model": "glm-5.3"
 }

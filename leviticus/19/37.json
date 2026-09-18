@@ -5,16 +5,16 @@
   "book": "leviticus",
   "lang": "xh",
   "chapter": 19,
-  "translation": "Kwaye niya kugcina ⟨את⟩ zonke iintlawulo zam nange ⟨את⟩ zonke izigwebo zam, kwaye niya kuzenza ⟨את⟩; mna ndinguYahwe.",
+  "translation": "Niza kugcina ⟨את⟩ zonke iimithetho yam no⟨את⟩ zonke iimigwebo yam, nize nizenzise ⟨את⟩ zona; ndinguYahwe.",
   "tokens": [
     {
       "surface": "ושמרתם",
-      "gloss": "kwaye niya kugcina"
+      "gloss": "niza kugcina"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "zonke iintlawulo zam"
+      "marks": "zonke iimithetho yam"
     },
     {
       "surface": "כל",
@@ -22,12 +22,12 @@
     },
     {
       "surface": "חקתי",
-      "gloss": "iintlawulo zam"
+      "gloss": "iimithetho yam"
     },
     {
       "surface": "ואת",
-      "gloss": "nange ⟨את⟩",
-      "marks": "zonke izigwebo zam"
+      "gloss": "⟨את⟩",
+      "marks": "zonke iimigwebo yam"
     },
     {
       "surface": "כל",
@@ -35,18 +35,26 @@
     },
     {
       "surface": "משפטי",
-      "gloss": "izigwebo zam"
+      "gloss": "iimigwebo yam"
     },
     {
       "surface": "ועשיתם",
-      "gloss": "kwaye niya kuzenza"
+      "gloss": "nize nizenzise"
     },
     {
       "surface": "אתם",
       "gloss": "⟨את⟩",
-      "marks": "lazo (izonke ezi"
+      "marks": "zona (iimithetho nemigwebo)"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ndi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "nguYahwe"
     }
   ],
-  "timestamp": "2026-09-18T06:57:13.690768832Z",
+  "timestamp": "2026-09-18T18:53:12.176769961Z",
   "model": "glm-5.3"
 }

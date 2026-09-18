@@ -5,7 +5,7 @@
   "book": "psalms",
   "lang": "xh",
   "chapter": 11,
-  "translation": "uYahwe ‎⟨ekhona⟩ ethempeleni ingcwele lakhe; uYahwe, isihlalo sakhe semizulu; amehlo akhe ayabona, amaphephendlela akhe ahlola abantwana babantu.",
+  "translation": "“uYahwe usekuluhlu lwakhe lwangcwele, uYahwe, itrone yakhe isezulwini; amehlo akhe ayababona, iindlebe zamehlo akhe azivalulula abantwana babantu.”",
   "tokens": [
     {
       "surface": "יהוה",
@@ -13,11 +13,11 @@
     },
     {
       "surface": "בהיכל",
-      "gloss": "ethempeleni"
+      "gloss": "usekuluhlu"
     },
     {
       "surface": "קדשו",
-      "gloss": "ingcwele lakhe"
+      "gloss": "lwakhe lwangcwele"
     },
     {
       "surface": "יהוה",
@@ -25,11 +25,11 @@
     },
     {
       "surface": "בשמים",
-      "gloss": "semizulu"
+      "gloss": "isezulwini"
     },
     {
       "surface": "כסאו",
-      "gloss": "isihlalo sakhe"
+      "gloss": "itrone yakhe"
     },
     {
       "surface": "עיניו",
@@ -37,15 +37,15 @@
     },
     {
       "surface": "יחזו",
-      "gloss": "ayabona"
+      "gloss": "ayababona"
     },
     {
       "surface": "עפעפיו",
-      "gloss": "amaphephendlela akhe"
+      "gloss": "iindlebe zamehlo akhe"
     },
     {
-      "surface": "יבחנu",
-      "gloss": "ahlola"
+      "surface": "יבחנו",
+      "gloss": "azivalulula"
     },
     {
       "surface": "בני",
@@ -56,6 +56,6 @@
       "gloss": "babantu"
     }
   ],
-  "timestamp": "2026-09-18T14:32:39.690726213Z",
+  "timestamp": "2026-09-18T18:57:40.731968203Z",
   "model": "glm-5.3"
 }

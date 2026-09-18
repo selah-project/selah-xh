@@ -5,7 +5,7 @@
   "book": "deuteronomy",
   "lang": "xh",
   "chapter": 31,
-  "translation": "Kuba ndiza kubangenisa kumhlaba endifungile koyise owo, ologhulukuda ubisi nodi; bakutya, banelisiwe, bakhuluphale, batshukumele kwoothixo abanye, babakhonze, bandihlazile, baphule ⟨את⟩ umnqophiso wam.",
+  "translation": "Kuba ndiza kubangenela kwilizwe endafungisela kuwo ooyise wakhe, elichitha ubisi noneyi; baya kutya, bakhululeka, baba banodlamo, baza kuphendukela koothixo abanye, bakhonza obo, bandihleka, baza kuphula ⟨את⟩ umnqophiso wam.",
   "tokens": [
     {
       "surface": "כי",
@@ -13,31 +13,31 @@
     },
     {
       "surface": "אביאנו",
-      "gloss": "ndiza kubangenisa"
+      "gloss": "ndiza kubangenela"
     },
     {
       "surface": "אל",
-      "gloss": "kwi-"
+      "gloss": "kwi"
     },
     {
       "surface": "האדמה",
-      "gloss": "umhlaba"
+      "gloss": "ilizwe"
     },
     {
       "surface": "אשר",
-      "gloss": ""
+      "gloss": "endafungisela kuwo"
     },
     {
       "surface": "נשבעתי",
-      "gloss": "endifungile"
+      "gloss": "ndafungisela"
     },
     {
       "surface": "לאבתיו",
-      "gloss": "koyise"
+      "gloss": "ooyise wakhe"
     },
     {
       "surface": "זבת",
-      "gloss": "ologhulukuda"
+      "gloss": "elichitha"
     },
     {
       "surface": "חלב",
@@ -45,27 +45,27 @@
     },
     {
       "surface": "ודבש",
-      "gloss": "nodi"
+      "gloss": "noneyi"
     },
     {
       "surface": "ואכל",
-      "gloss": "bakutya"
+      "gloss": "baya kutya"
     },
     {
       "surface": "ושבע",
-      "gloss": "banelisiwe"
+      "gloss": "bakhululeka"
     },
     {
       "surface": "ודשן",
-      "gloss": "bakhuluphale"
+      "gloss": "baba banodlamo"
     },
     {
       "surface": "ופנה",
-      "gloss": "batshukumele"
+      "gloss": "baza kuphendukela"
     },
     {
       "surface": "אל",
-      "gloss": "ku-"
+      "gloss": "ku"
     },
     {
       "surface": "אלהים",
@@ -77,15 +77,15 @@
     },
     {
       "surface": "ועבדום",
-      "gloss": "babakhonze"
+      "gloss": "bakhonza obo"
     },
     {
       "surface": "ונאצוני",
-      "gloss": "bandihlazile"
+      "gloss": "bandihleka"
     },
     {
       "surface": "והפר",
-      "gloss": "baphule"
+      "gloss": "baza kuphula"
     },
     {
       "surface": "את",
@@ -97,6 +97,6 @@
       "gloss": "umnqophiso wam"
     }
   ],
-  "timestamp": "2026-09-18T08:26:39.867036055Z",
+  "timestamp": "2026-09-18T18:44:11.659132778Z",
   "model": "glm-5.3"
 }

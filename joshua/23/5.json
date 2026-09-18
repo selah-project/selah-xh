@@ -5,11 +5,11 @@
   "book": "joshua",
   "lang": "xh",
   "chapter": 23,
-  "translation": "Kananjalo nguYahwe uElohim wenu oza kubatshatshalalisa <את> abo phambi kwenu, abazele ngokubakhupha phambi kwenu; niza kuzinza <את> umhlaba wabo, njengoko wathetha uYahwe uElohim wenu kuni.",
+  "translation": "Kananjalo uYahwe uElohim wenu, yena uza kubahuda abantu babo bagabadeke phambi kwenu, aze abaxoshe bangabi phambi kwenu; nina niza kuba ngabawneli wobukhosi basemhlabeni wabo, njengoko uYahwe uElohim wenu athethe kuni.",
   "tokens": [
     {
-      "surface": "ויהוָה",
-      "gloss": "kananjalo nguYahwe"
+      "surface": "ויהוה",
+      "gloss": "Kananjalo uYahwe"
     },
     {
       "surface": "אלהיכם",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "יהדפם",
-      "gloss": "oza kubatshatshalalisa"
+      "gloss": "uza kubahuda abantu babo"
     },
     {
       "surface": "מפניכם",
@@ -29,29 +29,29 @@
     },
     {
       "surface": "והוריש",
-      "gloss": "abazele ngokubakhupha"
+      "gloss": "aze abaxoshe"
     },
     {
       "surface": "אתם",
-      "gloss": "<את>",
-      "marks": "abo"
+      "gloss": "⟨את⟩",
+      "marks": "phambi kwenu"
     },
     {
       "surface": "מלפניכם",
-      "gloss": "phambi kwenu"
+      "gloss": "bangabi phambi kwenu"
     },
     {
       "surface": "וירשתם",
-      "gloss": "niza kuzinza"
+      "gloss": "niza kuba ngabawneli"
     },
     {
       "surface": "את",
-      "gloss": "<את>",
-      "marks": "umhlaba wabo"
+      "gloss": "⟨את⟩",
+      "marks": "obukhosi basemhlabeni wabo"
     },
     {
       "surface": "ארצם",
-      "gloss": "umhlaba wabo"
+      "gloss": "obukhosi basemhlabeni wabo"
     },
     {
       "surface": "כאשר",
@@ -59,7 +59,7 @@
     },
     {
       "surface": "דבר",
-      "gloss": "wathetha"
+      "gloss": "athethe"
     },
     {
       "surface": "יהוה",
@@ -74,6 +74,6 @@
       "gloss": "kuni"
     }
   ],
-  "timestamp": "2026-09-18T08:46:22.630610380Z",
+  "timestamp": "2026-09-18T18:57:26.924698002Z",
   "model": "glm-5.3"
 }

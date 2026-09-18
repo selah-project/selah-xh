@@ -5,8 +5,90 @@
   "book": "ruth",
   "lang": "xh",
   "chapter": 2,
-  "translation": "Amehlo akhe makabe kwithafa abayakutya ngalo, wena uhambe emva kwawo; ndingathethelelanga ndalethe iintshumayeli ukuba bangakuchukumisi? Ukuba unomlindo, uye kwiindityanji, useleoko abakudlayo iintshumayeli.”",
-  "tokens": [],
-  "timestamp": "2026-09-18T16:19:11.391239555Z",
+  "translation": "Makube amehlo akho kwithyala elitjebayo, uze uhambe emva kwawo; andithi ndayalele ⟨את⟩ amaxhego ukuba bangakuchukumisi na? Xa ukhangele amanzi, hamba uye kwiikhombe, usele kwamanzi abakutsalayo amaxhego.",
+  "tokens": [
+    {
+      "surface": "עיניך",
+      "gloss": "amehlo akho"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "kwithyala"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "elo"
+    },
+    {
+      "surface": "יקצרון",
+      "gloss": "elitjebayo"
+    },
+    {
+      "surface": "והלכת",
+      "gloss": "uze uhambe"
+    },
+    {
+      "surface": "אחריהן",
+      "gloss": "emva kwawo"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "andithi…na"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "ndayalele"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amaxhego"
+    },
+    {
+      "surface": "הנערים",
+      "gloss": "amaxhego"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "ukuba banga-"
+    },
+    {
+      "surface": "נגעך",
+      "gloss": "kuchukumisi"
+    },
+    {
+      "surface": "וצמת",
+      "gloss": "xa ukhangele amanzi"
+    },
+    {
+      "surface": "והלכת",
+      "gloss": "hamba"
+    },
+    {
+      "surface": "אל",
+      "gloss": "uye ku-"
+    },
+    {
+      "surface": "הכלים",
+      "gloss": "iikhombe"
+    },
+    {
+      "surface": "ושתית",
+      "gloss": "usele"
+    },
+    {
+      "surface": "מאשר",
+      "gloss": "kwamanzi"
+    },
+    {
+      "surface": "ישאבון",
+      "gloss": "abakutsalayo"
+    },
+    {
+      "surface": "הנערים",
+      "gloss": "amaxhego"
+    }
+  ],
+  "timestamp": "2026-09-18T18:56:23.482089920Z",
   "model": "glm-5.3"
 }

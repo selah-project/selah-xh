@@ -5,11 +5,11 @@
   "book": "isaiah",
   "lang": "xh",
   "chapter": 7,
-  "translation": "Wathetha uYahwe kuYesha'yahu: “Phuma ke ukudibana no-Akhazi, wena noShe'ar-Yashub unyana wakho, ekupheleni komjelo wedamu eliphezulu, endleleni yomhlaba wokuhlambela.”",
+  "translation": "Wathi uYahwe ku-Yesha-yahu: “Phuma ngoku ukuze udibane no-Akhaz, wena noShear-Yashub unyana wakho, ekupheleni komjelo wobhedu olungaphezulu, edleleni yensimi yomhlambi.”",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "Wathetha"
+      "gloss": "wathi"
     },
     {
       "surface": "יהוה",
@@ -17,27 +17,27 @@
     },
     {
       "surface": "אל",
-      "gloss": "ku"
+      "gloss": "ku-"
     },
     {
       "surface": "ישעיהו",
-      "gloss": "uYesha'yahu"
+      "gloss": "u-Yesha-yahu"
     },
     {
       "surface": "צא",
-      "gloss": "Phuma"
+      "gloss": "phuma"
     },
     {
       "surface": "נא",
-      "gloss": "ke"
+      "gloss": "ngoku"
     },
     {
       "surface": "לקראת",
-      "gloss": "ukudibana"
+      "gloss": "ukuze udibane no-"
     },
     {
       "surface": "אחז",
-      "gloss": "no-Akhazi"
+      "gloss": "u-Akhaz"
     },
     {
       "surface": "אתה",
@@ -45,11 +45,11 @@
     },
     {
       "surface": "ושאר",
-      "gloss": "noShe'ar"
+      "gloss": "no-"
     },
     {
       "surface": "ישוב",
-      "gloss": "-Yashub"
+      "gloss": "Shear-Yashub"
     },
     {
       "surface": "בנך",
@@ -57,7 +57,7 @@
     },
     {
       "surface": "אל",
-      "gloss": "e"
+      "gloss": "ekupheleni kwa-"
     },
     {
       "surface": "קצה",
@@ -65,29 +65,33 @@
     },
     {
       "surface": "תעלת",
-      "gloss": "komjelo"
+      "gloss": "umjelo"
     },
     {
       "surface": "הברכה",
-      "gloss": "wedamu"
+      "gloss": "wobhedu"
     },
     {
       "surface": "העליונה",
-      "gloss": "eliphezulu"
+      "gloss": "olungaphezulu"
     },
     {
       "surface": "אל",
-      "gloss": "endleleni"
+      "gloss": "edleleni ya-"
     },
     {
       "surface": "מסלת",
-      "gloss": "yomhlaba"
+      "gloss": "idilela"
     },
     {
       "surface": "שדה",
-      "gloss": "wokuhlambela"
+      "gloss": "yensimi"
+    },
+    {
+      "surface": "כובס",
+      "gloss": "yomhlambi"
     }
   ],
-  "timestamp": "2026-09-18T11:08:28.393038856Z",
+  "timestamp": "2026-09-18T18:48:59.588303083Z",
   "model": "glm-5.3"
 }

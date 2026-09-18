@@ -5,8 +5,29 @@
   "book": "psalms",
   "lang": "xh",
   "chapter": 72,
-  "translation": "Agqibezela amthandazo kaDawidi unyana kaYishayi.",
-  "tokens": [],
-  "timestamp": "2026-09-18T14:57:51.621891731Z",
+  "translation": "Iziphefumlo zikaDavide, unyana kaYishayi, zigqityiwe.",
+  "tokens": [
+    {
+      "surface": "כלו",
+      "gloss": "zigqityiwe"
+    },
+    {
+      "surface": "תפלות",
+      "gloss": "iziphefumlo"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ukaDavide"
+    },
+    {
+      "surface": "בן",
+      "gloss": "unyana"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "kaYishayi"
+    }
+  ],
+  "timestamp": "2026-09-18T18:55:46.373191336Z",
   "model": "glm-5.3"
 }

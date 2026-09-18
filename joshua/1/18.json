@@ -5,11 +5,11 @@
   "book": "joshua",
   "lang": "xh",
   "chapter": 1,
-  "translation": "Nabani na ofana nokumelana nomlomo wakho, angamameli ⟨⟨⟩⟩ amazwi akho ngako konkeoko umyalelayo kona, afe; kuphela uqine, ube namandla.”",
+  "translation": "Umntu wonke oza kuzimela ngokuchasene nomlomo wakho, kwaye engamva ⟨את⟩ amazwi akho — konkeoko umyalela kuye, makabulawe; kuphela qina, ume ngamandla.”",
   "tokens": [
     {
       "surface": "כל",
-      "gloss": "nabani na"
+      "gloss": "wonke"
     },
     {
       "surface": "איש",
@@ -17,16 +17,16 @@
     },
     {
       "surface": "אשר",
-      "gloss": "ofana nokumelana"
+      "gloss": "o-"
     },
     {
       "surface": "ימרה",
-      "gloss": "ayamele"
+      "gloss": "zimela"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "nomlomo wakho"
+      "marks": "umlomo wakho"
     },
     {
       "surface": "פיך",
@@ -34,11 +34,11 @@
     },
     {
       "surface": "ולא",
-      "gloss": "angamameli"
+      "gloss": "kwaye enga-"
     },
     {
       "surface": "ישמע",
-      "gloss": "mamele"
+      "gloss": "mva"
     },
     {
       "surface": "את",
@@ -51,7 +51,7 @@
     },
     {
       "surface": "לכל",
-      "gloss": "ngako konke"
+      "gloss": "konkeoko"
     },
     {
       "surface": "אשר",
@@ -59,11 +59,11 @@
     },
     {
       "surface": "תצונו",
-      "gloss": "umyalelayo kona"
+      "gloss": "umyalela kuye"
     },
     {
       "surface": "יומת",
-      "gloss": "afe"
+      "gloss": "makabulawe"
     },
     {
       "surface": "רק",
@@ -71,13 +71,13 @@
     },
     {
       "surface": "חזק",
-      "gloss": "uqine"
+      "gloss": "qina"
     },
     {
       "surface": "ואמץ",
-      "gloss": "ube namandla"
+      "gloss": "ume ngamandla"
     }
   ],
-  "timestamp": "2026-09-18T08:27:20.698261805Z",
+  "timestamp": "2026-09-18T18:51:29.954558954Z",
   "model": "glm-5.3"
 }

@@ -5,8 +5,58 @@
   "book": "2-kings",
   "lang": "xh",
   "chapter": 19,
-  "translation": "Kwathi emva koko, akusafunyanwa nto, kwathi xa ukuva ukwangomso intetho, uKumkani uHizikiya wazityabaza; wadabukela, wazigquma ngesakkhe, wafikelela kwindlu kaYahwe.",
-  "tokens": [],
-  "timestamp": "2026-09-18T10:54:13.740739397Z",
+  "translation": "Kwathi-ke, xa ukumkani uKhizkiyahu wayivileyo, wazinqwacha ⟨את⟩ iimpahla zakhe, wazigubungela ngesiswece, wangena endlwini kaYahwe.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "kwathi-ke"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "xa wayivileyo"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ukumkani"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "uKhizkiyahu"
+    },
+    {
+      "surface": "ויקרע",
+      "gloss": "wazinqwacha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iimpahla zakhe"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "iimpahla zakhe"
+    },
+    {
+      "surface": "ויתכס",
+      "gloss": "wazigubungela"
+    },
+    {
+      "surface": "בשק",
+      "gloss": "ngesiswece"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "wangena"
+    },
+    {
+      "surface": "בית",
+      "gloss": "endlwini"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kaYahwe"
+    }
+  ],
+  "timestamp": "2026-09-18T18:40:18.368300647Z",
   "model": "glm-5.3"
 }

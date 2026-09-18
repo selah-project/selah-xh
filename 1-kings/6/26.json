@@ -5,8 +5,41 @@
   "book": "1-kings",
   "lang": "xh",
   "chapter": 6,
-  "translation": "Ubude bekerub elinye yayilishumi kwi-ama, kwangokowo nokerub elinesibini.",
-  "tokens": [],
-  "timestamp": "2026-09-18T10:16:17.721855514Z",
+  "translation": "Ukuphakama kwekerubh elinye kwakungamashumi amabini, nanjalo ngekerubh lesibini.",
+  "tokens": [
+    {
+      "surface": "קומת",
+      "gloss": "ukuphakama"
+    },
+    {
+      "surface": "הכרוב",
+      "gloss": "ngekerubh"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "elinye"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "zili-10"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "ngeeyardi"
+    },
+    {
+      "surface": "וכן",
+      "gloss": "nanjalo"
+    },
+    {
+      "surface": "הכרוב",
+      "gloss": "ngekerubh"
+    },
+    {
+      "surface": "השני",
+      "gloss": "lesibini"
+    }
+  ],
+  "timestamp": "2026-09-18T18:38:29.867233519Z",
   "model": "glm-5.3"
 }

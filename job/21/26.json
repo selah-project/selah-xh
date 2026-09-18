@@ -5,8 +5,37 @@
   "book": "job",
   "lang": "xh",
   "chapter": 21,
-  "translation": "Babembene — {{phakathi}} {{ko}} {{uthwale}} {{babexele} babexele, ithumbu libagubungela.",
-  "tokens": [],
-  "timestamp": "2026-09-18T16:07:49.262384989Z",
+  "translation": "Ngokufanayo emhlabeni (kooyongo) balala, kunye nethambamba libazungele.",
+  "tokens": [
+    {
+      "surface": "יחד",
+      "gloss": "ngokufanayo"
+    },
+    {
+      "surface": "על",
+      "gloss": "kwi-"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "uoyongo (umhlaba)"
+    },
+    {
+      "surface": "ישכבו",
+      "gloss": "balala"
+    },
+    {
+      "surface": "ורמה",
+      "gloss": "kunye nethambamba"
+    },
+    {
+      "surface": "תכסה",
+      "gloss": "libazungele"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "phezu kwabo"
+    }
+  ],
+  "timestamp": "2026-09-18T18:50:04.113948422Z",
   "model": "glm-5.3"
 }

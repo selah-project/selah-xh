@@ -5,7 +5,7 @@
   "book": "2-chronicles",
   "lang": "xh",
   "chapter": 15,
-  "translation": "Kodwa ebubunzimeni babo babuyela kuYahwe uElohim kaSirayeli, bamfuna, wafunyanwa ngabo.",
+  "translation": "Kodwa entlungweni yabo babuyela kuYahwe, uElohim kaSirayeli, bamfuna, wafunyanwa ngabo.",
   "tokens": [
     {
       "surface": "וישב",
@@ -13,19 +13,19 @@
     },
     {
       "surface": "בצר",
-      "gloss": "ebubunzimeni"
+      "gloss": "entlungweni"
     },
     {
       "surface": "לו",
-      "gloss": ""
+      "gloss": "yabo"
     },
     {
       "surface": "על",
-      "gloss": "ku"
+      "gloss": "ku-"
     },
     {
       "surface": "יהוה",
-      "gloss": "uYahwe"
+      "gloss": "kuYahwe"
     },
     {
       "surface": "אלהי",
@@ -48,6 +48,6 @@
       "gloss": "ngabo"
     }
   ],
-  "timestamp": "2026-09-18T17:08:16.128741780Z",
+  "timestamp": "2026-09-18T18:39:16.753278921Z",
   "model": "glm-5.3"
 }

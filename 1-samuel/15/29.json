@@ -5,7 +5,7 @@
   "book": "1-samuel",
   "lang": "xh",
   "chapter": 15,
-  "translation": "Kananjalo uzuko lweYisrayeli aluzukuxoka, alunakuzisola; kuba yena akasilo umntu, ukuba azisole.",
+  "translation": "Kananjalo uNetsaj wakwaSirayeli akayi kubuxoka, akanakuzohlwaya ngokuzisola, kuba yena akangomntu ukuba azisole.",
   "tokens": [
     {
       "surface": "וגם",
@@ -13,39 +13,27 @@
     },
     {
       "surface": "נצח",
-      "gloss": "uzuko"
+      "gloss": "uNetsaj"
     },
     {
       "surface": "ישראל",
-      "gloss": "lweYisrayeli"
+      "gloss": "wakwaSirayeli"
     },
     {
       "surface": "לא",
-      "gloss": "alu-"
+      "gloss": "akayi"
     },
     {
       "surface": "ישקר",
-      "gloss": "zukuxoka"
+      "gloss": "kubuxoka"
     },
     {
       "surface": "ולא",
-      "gloss": "alu(na)-"
+      "gloss": "akanakuzohlwaya"
     },
     {
       "surface": "ינחם",
-      "gloss": "naku-"
-    },
-    {
-      "surface": "זקר",
-      "gloss": "zukuxoka"
-    },
-    {
-      "surface": "ולא",
-      "gloss": "alu(na)-"
-    },
-    {
-      "surface": "ינחם",
-      "gloss": "naku-"
+      "gloss": "ngokuzisola"
     },
     {
       "surface": "כי",
@@ -53,11 +41,11 @@
     },
     {
       "surface": "לא",
-      "gloss": "akasi-"
+      "gloss": "aka"
     },
     {
       "surface": "אדם",
-      "gloss": "lo umntu"
+      "gloss": "ngomntu"
     },
     {
       "surface": "הוא",
@@ -68,6 +56,6 @@
       "gloss": "ukuba azisole"
     }
   ],
-  "timestamp": "2026-09-18T09:25:22.015902208Z",
+  "timestamp": "2026-09-18T18:38:42.823495895Z",
   "model": "glm-5.3"
 }

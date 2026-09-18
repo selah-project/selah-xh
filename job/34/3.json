@@ -5,8 +5,37 @@
   "book": "job",
   "lang": "xh",
   "chapter": 34,
-  "translation": "Kuba indlebe ivavanya amazwi, nomlomo uyavumba ukutya.",
-  "tokens": [],
-  "timestamp": "2026-09-18T16:12:13.608079298Z",
+  "translation": "Kuba indlebe ivavanya amagama, njengoko lulwimi lwesisu luvakalisa ukutya ngokwambatha.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "indlebe"
+    },
+    {
+      "surface": "מלין",
+      "gloss": "amagama"
+    },
+    {
+      "surface": "תבחן",
+      "gloss": "ivavanya"
+    },
+    {
+      "surface": "וחך",
+      "gloss": "ulwimi lwesisu"
+    },
+    {
+      "surface": "יטעם",
+      "gloss": "luvakalisa ngokwambatha"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "ukutya"
+    }
+  ],
+  "timestamp": "2026-09-18T18:50:03.464307490Z",
   "model": "glm-5.3"
 }

@@ -5,19 +5,19 @@
   "book": "2-samuel",
   "lang": "xh",
   "chapter": 14,
-  "translation": "Uze ungene kwenkosi, uthethe kuye ngokwelo lizwi; uYoavu wabeka ⟨את⟩ amagama emlonyeni wakhe.",
+  "translation": "Uze kungenela kumyalezi wendoda enamandla, uthethe kuye ngokweli ligama; uJoabhi wabeka ⟨את⟩ amagama emlonyeni wakhe.",
   "tokens": [
     {
       "surface": "ובאת",
-      "gloss": "uze ungene"
+      "gloss": "uzе kungenela"
     },
     {
       "surface": "אל",
-      "gloss": "kwi-"
+      "gloss": "kumyalezi wendoda enamandla"
     },
     {
       "surface": "המלך",
-      "gloss": "nkosi"
+      "gloss": "kumyalezi wendoda enamandla"
     },
     {
       "surface": "ודברת",
@@ -29,11 +29,11 @@
     },
     {
       "surface": "כדבר",
-      "gloss": "ngokwelo lizwi"
+      "gloss": "ngokweli ligama"
     },
     {
       "surface": "הזה",
-      "gloss": ""
+      "gloss": "eli"
     },
     {
       "surface": "וישם",
@@ -41,12 +41,12 @@
     },
     {
       "surface": "יואב",
-      "gloss": "uYoavu"
+      "gloss": "uJoabhi"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "amagama"
+      "marks": "amagama (הדברים)"
     },
     {
       "surface": "הדברים",
@@ -57,6 +57,6 @@
       "gloss": "emlonyeni wakhe"
     }
   ],
-  "timestamp": "2026-09-18T09:54:53.770079923Z",
+  "timestamp": "2026-09-18T18:41:10.031315793Z",
   "model": "glm-5.3"
 }

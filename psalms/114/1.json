@@ -5,8 +5,37 @@
   "book": "psalms",
   "lang": "xh",
   "chapter": 114,
-  "translation": "Ekuphumeni kukaSirayeli eMitsrayim, intsapho kaYaakovov ⟨⟩ esinintweni esithetha ulwimi olungaziwayo,",
-  "tokens": [],
-  "timestamp": "2026-09-18T15:20:11.535004482Z",
+  "translation": "Ekuphumeni kukaSirayeli eMitsrayim, ibiko likaYakobi <mvela> kubantu bolwimi olungaziwa,",
+  "tokens": [
+    {
+      "surface": "בצאת",
+      "gloss": "Ekuphumeni"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ukaSirayeli"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "eMitsrayim"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ibiko"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "likaYakobi"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "<mvela> kubantu"
+    },
+    {
+      "surface": "לעז",
+      "gloss": "bolwimi olungaziwa"
+    }
+  ],
+  "timestamp": "2026-09-18T18:55:02.202512155Z",
   "model": "glm-5.3"
 }

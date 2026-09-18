@@ -5,8 +5,54 @@
   "book": "psalms",
   "lang": "xh",
   "chapter": 72,
-  "translation": "Usikelelekile igama lokuzana kwakhe kuze kube phakade, azale ulwazi lwakhe ⟨את⟩ wonke umhlaba. Amen, Amen.",
-  "tokens": [],
-  "timestamp": "2026-09-18T14:57:51.621784935Z",
+  "translation": "Kwaye mabe libe lexabiso igama lokhanyo lwakhe kuapho-kade; mabe lugcwalise ukhanyo lwakhe ⟨את⟩ lonke ihlabathi. Aman, kwaye aman.",
+  "tokens": [
+    {
+      "surface": "וברוך",
+      "gloss": "kwaye mabe libe lexabiso"
+    },
+    {
+      "surface": "שם",
+      "gloss": "igama"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "lokhanyo lwakhe"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "kuapho-kade"
+    },
+    {
+      "surface": "וימלא",
+      "gloss": "mabe lugcwalise"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "ukhanyo lwakhe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lonke ihlabathi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lonke"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ihlabathi"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "aman"
+    },
+    {
+      "surface": "ואמן",
+      "gloss": "kwaye aman"
+    }
+  ],
+  "timestamp": "2026-09-18T18:55:30.666746775Z",
   "model": "glm-5.3"
 }

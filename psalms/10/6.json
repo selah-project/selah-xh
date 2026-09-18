@@ -5,11 +5,11 @@
   "book": "psalms",
   "lang": "xh",
   "chapter": 10,
-  "translation": "Wathi entliziyweni yakhe: “Andiza kuzinza; kwisizukulwana nasizukulwana andingabi bububi.”",
+  "translation": "Wathi entliziyweni yakhe: “Andinakuthelekiswa, kumvizukulwana nakumvizukulwana andilandelwa bububi.”",
   "tokens": [
     {
       "surface": "אמר",
-      "gloss": "Wathi"
+      "gloss": "wathi"
     },
     {
       "surface": "בלבו",
@@ -17,23 +17,23 @@
     },
     {
       "surface": "בל",
-      "gloss": "andi-"
+      "gloss": "hayi (andinaku-)"
     },
     {
       "surface": "אמוט",
-      "gloss": "kuzinza"
+      "gloss": "thelekiswa"
     },
     {
       "surface": "לדר",
-      "gloss": "kwisizukulwana"
+      "gloss": "kumvizukulwana"
     },
     {
       "surface": "ודר",
-      "gloss": "nasizukulwana"
+      "gloss": "nakumvizukulwana"
     },
     {
       "surface": "אשר",
-      "gloss": ""
+      "gloss": "(ndingumntu)"
     },
     {
       "surface": "לא",
@@ -41,9 +41,9 @@
     },
     {
       "surface": "ברע",
-      "gloss": "ngabi bububi"
+      "gloss": "landelwa bububi"
     }
   ],
-  "timestamp": "2026-09-18T14:31:46.303464347Z",
+  "timestamp": "2026-09-18T18:54:56.594538Z",
   "model": "glm-5.3"
 }

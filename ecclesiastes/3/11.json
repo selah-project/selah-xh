@@ -5,7 +5,7 @@
   "book": "ecclesiastes",
   "lang": "xh",
   "chapter": 3,
-  "translation": "Wenza ⟨את⟩ konke ngokulungileyo exhesha lalo; wadibana wabeka ⟨את⟩ ukungapheli ezintliziyweni zabo, ngendlela engako ukuba umntu akayi kufumana ⟨את⟩ umsebenzi uElohim awenzileyo ukusuka ekuqaleni ukuya esiphelweni.",
+  "translation": "Wenza ⟨את⟩ konke ngokuhle ngexhesha lalo; kananjalo wabeka ⟨את⟩ ingunaphakade ezinhliziyweni zabo, ngokungathi akakwazi umntu ukufumana ⟨את⟩ umsebenzi owenza uElohim, ukusuka ekuqaleni ukuya esiphelweni.",
   "tokens": [
     {
       "surface": "את",
@@ -18,28 +18,28 @@
     },
     {
       "surface": "עשה",
-      "gloss": "Wenza"
+      "gloss": "wenza"
     },
     {
       "surface": "יפה",
-      "gloss": "ngokulungileyo"
+      "gloss": "ngokuhle"
     },
     {
       "surface": "בעתו",
-      "gloss": "exhesha lalo"
+      "gloss": "ngexhesha lalo"
     },
     {
       "surface": "גם",
-      "gloss": "wadibana"
+      "gloss": "kananjalo"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ukungapheli"
+      "marks": "ingunaphakade"
     },
     {
       "surface": "העלם",
-      "gloss": "ukungapheli"
+      "gloss": "ingunaphakade"
     },
     {
       "surface": "נתן",
@@ -47,23 +47,23 @@
     },
     {
       "surface": "בלבם",
-      "gloss": "ezintliziyweni zabo"
+      "gloss": "ezinhliziyweni zabo"
     },
     {
       "surface": "מבלי",
-      "gloss": "ngendlela engako"
+      "gloss": "ngokungathi"
     },
     {
       "surface": "אשר",
-      "gloss": ""
+      "gloss": "ukuba"
     },
     {
       "surface": "לא",
-      "gloss": "akayi"
+      "gloss": "akakwazi"
     },
     {
       "surface": "ימצא",
-      "gloss": "kufumana"
+      "gloss": "ukufumana"
     },
     {
       "surface": "האדם",
@@ -80,11 +80,11 @@
     },
     {
       "surface": "אשר",
-      "gloss": ""
+      "gloss": "owenza"
     },
     {
       "surface": "עשה",
-      "gloss": "awenzileyo"
+      "gloss": "owenza"
     },
     {
       "surface": "האלהים",
@@ -103,6 +103,6 @@
       "gloss": "esiphelweni"
     }
   ],
-  "timestamp": "2026-09-18T16:23:54.925443277Z",
+  "timestamp": "2026-09-18T18:43:46.675005090Z",
   "model": "glm-5.3"
 }

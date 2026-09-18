@@ -5,7 +5,7 @@
   "book": "numbers",
   "lang": "xh",
   "chapter": 32,
-  "translation": "Kuba ukuba niyazibuyela emva kwakhe, uza kubashiya kwakhina entlango; niza kubonakalisa wonke umzi lo.",
+  "translation": "Kuba ukuba niyakuphendukela ngemva kuye, uza kukongeza kwakhona ukubashiya ⟨bona⟩ esithiweni, nini baza kubatshabalalisa bonke aba bantu la.",
   "tokens": [
     {
       "surface": "כי",
@@ -13,41 +13,45 @@
     },
     {
       "surface": "תשובן",
-      "gloss": "ukuba niyazibuyela"
+      "gloss": "niyakuphendukela"
     },
     {
       "surface": "מאחריו",
-      "gloss": "emva kwakhe"
+      "gloss": "ngemva kuye"
     },
     {
       "surface": "ויסף",
-      "gloss": "uza ku-"
+      "gloss": "uza kukongeza"
     },
     {
       "surface": "עוד",
-      "gloss": "kwakhina"
+      "gloss": "kwakhona"
     },
     {
       "surface": "להניחו",
-      "gloss": "bashiya"
+      "gloss": "ukubashiya ⟨bona⟩"
     },
     {
       "surface": "במדבר",
-      "gloss": "entlango"
+      "gloss": "esithiweni"
     },
     {
       "surface": "ושחתם",
-      "gloss": "niza kubonakalisa"
+      "gloss": "nini baza kubatshabalalisa"
     },
     {
       "surface": "לכל",
-      "gloss": "wonke"
+      "gloss": "bonke"
     },
     {
       "surface": "העם",
-      "gloss": "umzi lo"
+      "gloss": "aba bantu"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "la"
     }
   ],
-  "timestamp": "2026-09-18T07:45:22.328647384Z",
+  "timestamp": "2026-09-18T18:54:23.520415486Z",
   "model": "glm-5.3"
 }

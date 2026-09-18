@@ -5,8 +5,49 @@
   "book": "ezekiel",
   "lang": "xh",
   "chapter": 48,
-  "translation": "Ezi ziindlela zokuphuma zesixeko, ngasentla-mpuma...",
-  "tokens": [],
-  "timestamp": "2026-09-18T13:42:10.515385442Z",
+  "translation": "Kwaye ezi ngokuphuma kwesixeko, ecaleni komantla: amakhulu amahlanu ⟨kwaye⟩ inkulungwane ezine ngeyunyana owomeleleyo — ukulinganisa.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Kwaye ezi"
+    },
+    {
+      "surface": "תוצאות",
+      "gloss": "okuphuma"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "kwesixeko"
+    },
+    {
+      "surface": "מפאת",
+      "gloss": "ecaleni"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "komantla"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "amahlanu"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "amakhulu"
+    },
+    {
+      "surface": "וארבעת",
+      "gloss": "ezine"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "inkulungwane"
+    },
+    {
+      "surface": "מדה",
+      "gloss": "ukulinganisa"
+    }
+  ],
+  "timestamp": "2026-09-18T18:45:56.456576598Z",
   "model": "glm-5.3"
 }

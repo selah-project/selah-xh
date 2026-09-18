@@ -5,8 +5,37 @@
   "book": "psalms",
   "lang": "xh",
   "chapter": 37,
-  "translation": "Umlomo wolungileyo uyakholelwa ⟨⟨ukhakulela⟩⟩ ulwazi, ulwimi lwakhe luthetha ulwezibizo.",
-  "tokens": [],
-  "timestamp": "2026-09-18T14:42:39.271196882Z",
+  "translation": "Umlomo wolungileyo ucula ulwazi, nelwimi lwakhe luthetha umgangatho.",
+  "tokens": [
+    {
+      "surface": "פי",
+      "gloss": "umlomo"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "wolungileyo"
+    },
+    {
+      "surface": "יהגה",
+      "gloss": "ucula"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "ulwazi"
+    },
+    {
+      "surface": "ולשונו",
+      "gloss": "nelwimi lwakhe"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "luthetha"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "umgangatho"
+    }
+  ],
+  "timestamp": "2026-09-18T18:55:21.384959Z",
   "model": "glm-5.3"
 }

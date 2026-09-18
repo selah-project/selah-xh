@@ -5,11 +5,11 @@
   "book": "deuteronomy",
   "lang": "xh",
   "chapter": 25,
-  "translation": "Ukuba abantwana basemzini behlala kunye, kwaye omnye wabo wafa, akanayo inyanza, umfazi owafiweyo akayi kumiselwa ngaphandle komzi kumntu角ungamzi: umzakwakhe uyakungena kuye, amthabathe aba ngumfazi wakhe, aze angenele ngokwakhe umzakwakhe.",
+  "translation": "Ukuba abazalwana behlala kunye, kwaye omnye wabo afa, engananyana, umfazi wofileyo akayi kutshatywa ngaphandle kumntu ongaziwayo; umzakwabo uza kungena kuye, amthabathele yena ukuba ngumfazi wakhe, aze aphumeze isikhwezo somzakwana kuye.",
   "tokens": [
     {
       "surface": "כי",
-      "gloss": "ukuba"
+      "gloss": "Ukuba"
     },
     {
       "surface": "ישבו",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "אחים",
-      "gloss": "abantwana basemzini"
+      "gloss": "abazalwana"
     },
     {
       "surface": "יחדו",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "ומת",
-      "gloss": "wafa omnye"
+      "gloss": "afa"
     },
     {
       "surface": "אחד",
@@ -37,15 +37,15 @@
     },
     {
       "surface": "ובן",
-      "gloss": "inyanza"
+      "gloss": "unyana"
     },
     {
       "surface": "אין",
-      "gloss": "akenayo"
+      "gloss": "enganayo"
     },
     {
       "surface": "לו",
-      "gloss": "yakhe"
+      "gloss": "yena"
     },
     {
       "surface": "לא",
@@ -53,7 +53,7 @@
     },
     {
       "surface": "תהיה",
-      "gloss": "kumiselwa"
+      "gloss": "kutshatywa"
     },
     {
       "surface": "אשת",
@@ -61,11 +61,11 @@
     },
     {
       "surface": "המת",
-      "gloss": "owafiweyo"
+      "gloss": "wofileyo"
     },
     {
       "surface": "החוצה",
-      "gloss": "ngaphandles"
+      "gloss": "ngaphandle"
     },
     {
       "surface": "לאיש",
@@ -73,15 +73,15 @@
     },
     {
       "surface": "זר",
-      "gloss": "ungamzi"
+      "gloss": "ongaziwayo"
     },
     {
       "surface": "יבמה",
-      "gloss": "umzakwakhe"
+      "gloss": "umzakwabo"
     },
     {
       "surface": "יבא",
-      "gloss": "uyakungena"
+      "gloss": "uza kungena"
     },
     {
       "surface": "עליה",
@@ -89,21 +89,21 @@
     },
     {
       "surface": "ולקחה",
-      "gloss": "amthabathe"
+      "gloss": "amthabathele"
     },
     {
       "surface": "לו",
-      "gloss": "yakhe"
+      "gloss": "yena"
     },
     {
       "surface": "לאשה",
-      "gloss": "ngumfazi"
+      "gloss": "ukuba ngumfazi"
     },
     {
       "surface": "ויבמה",
-      "gloss": "angenele ngokwakhe umzakwakhe"
+      "gloss": "aphumeze isikhwezo somzakwana"
     }
   ],
-  "timestamp": "2026-09-18T08:15:54.371584496Z",
+  "timestamp": "2026-09-18T18:43:20.031515843Z",
   "model": "glm-5.3"
 }

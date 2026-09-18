@@ -5,20 +5,16 @@
   "book": "exodus",
   "lang": "xh",
   "chapter": 30,
-  "translation": "Uza kuyigquma ⟨את⟩ ngegolide ⟨את⟩ ecocekileyo ⟨את⟩ igumbi layo eliphezulu, ⟨את⟩ neendonga zayo ⟨את⟩ ezijikelezileyo, ⟨את⟩ neempondo zayo; uza kukwenzele isakhelo segolide esijikelezileyo.",
+  "translation": "Uza kuyisongela ngegolide ecocekileyo ⟨אתו⟩ ⟨את⟩ phezu kwawo kunye ⟨את⟩ neendonga zayo jikeleje, kunye ⟨את⟩ neempondo zayo; uza kwenza kuyo isakhelo segolide esijikelezileyo.",
   "tokens": [
     {
-      "surface": "וצצפית",
-      "gloss": ""
-    },
-    {
       "surface": "וצפית",
-      "gloss": "⟨את⟩ uza kuyigquma"
+      "gloss": "uza kuyisongela"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩",
-      "marks": "igolide ecocekileyo"
+      "gloss": "⟨אתו⟩",
+      "marks": "phezu kwawo (isongelo ngokubanzi)"
     },
     {
       "surface": "זהב",
@@ -26,16 +22,16 @@
     },
     {
       "surface": "טהור",
-      "gloss": "⟨את⟩ ecocekileyo"
+      "gloss": "ecocekileyo"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "igumbi layo eliphezulu"
+      "marks": "phezu kwawo"
     },
     {
       "surface": "גגו",
-      "gloss": "⟨את⟩ igumbi layo eliphezulu"
+      "gloss": "phezu kwawo"
     },
     {
       "surface": "ואת",
@@ -48,7 +44,7 @@
     },
     {
       "surface": "סביב",
-      "gloss": "⟨את⟩ ezijikelezileyo"
+      "gloss": "jikeleje"
     },
     {
       "surface": "ואת",
@@ -61,11 +57,11 @@
     },
     {
       "surface": "ועשית",
-      "gloss": "uza kukwenzele"
+      "gloss": "uza kwenza"
     },
     {
       "surface": "לו",
-      "gloss": "iyo"
+      "gloss": "kuyo"
     },
     {
       "surface": "זר",
@@ -80,6 +76,6 @@
       "gloss": "esijikelezileyo"
     }
   ],
-  "timestamp": "2026-09-18T17:22:06.085746248Z",
+  "timestamp": "2026-09-18T18:44:52.086715229Z",
   "model": "glm-5.3"
 }

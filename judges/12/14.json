@@ -5,48 +5,64 @@
   "book": "judges",
   "lang": "xh",
   "chapter": 12,
-  "translation": "Wayenamakhulu amane kunye noonabantwana bakhe abangamashumi amathathu, bahamba ngamadonki angamashumi asixhenxe; wahlawula uYisrayeli iminyaka esibhozo.",
+  "translation": "Wayenegama elinesixhesha kunye neentsana ezithathini ezakhe zonyana, behamba ngamahhashi athathathhu nesixhesha ezinyanga zezimbongi; walawula uSirayeli iminyaka esibhozo.",
   "tokens": [
     {
-      "surface": "ושלשים",
-      "gloss": "kunye no-"
+      "surface": "ויהי",
+      "gloss": "wayene"
     },
     {
-      "surface": "בני",
-      "gloss": "oonabantwana"
+      "surface": "לו",
+      "gloss": "kuye"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "amaxesha amane anamashumi"
     },
     {
       "surface": "בנים",
-      "gloss": "bakhe"
+      "gloss": "amakhwenkwe"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "kunye nomashumi amatathu"
+    },
+    {
+      "surface": "בני",
+      "gloss": "onyana"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "abantwana"
     },
     {
       "surface": "רכבים",
-      "gloss": "bahamba"
+      "gloss": "behamba"
     },
     {
       "surface": "על",
-      "gloss": "nga-"
+      "gloss": "phezu"
     },
     {
       "surface": "שבעים",
-      "gloss": "angamashumi asixhenxe"
+      "gloss": "amashumi asixhenxe"
     },
     {
       "surface": "עירם",
-      "gloss": "amadonki"
+      "gloss": "iinyanga zezimbongi"
     },
     {
       "surface": "וישפט",
-      "gloss": "wahlawula"
+      "gloss": "walawula"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "uYisrayeli"
+      "marks": "uSirayeli"
     },
     {
       "surface": "ישראל",
-      "gloss": "uYisrayeli"
+      "gloss": "uSirayeli"
     },
     {
       "surface": "שמנה",
@@ -57,6 +73,6 @@
       "gloss": "iminyaka"
     }
   ],
-  "timestamp": "2026-09-18T09:01:29.147389907Z",
+  "timestamp": "2026-09-18T18:51:49.391494066Z",
   "model": "glm-5.3"
 }

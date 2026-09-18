@@ -5,8 +5,37 @@
   "book": "psalms",
   "lang": "xh",
   "chapter": 7,
-  "translation": "Ndiya kukudumisa Yehova ngenxa yokulunga kwakhe, ndiye ndakuxa igama likaYehova, uPhezukonke.",
-  "tokens": [],
-  "timestamp": "2026-09-18T14:24:43.465749558Z",
+  "translation": "Ndiza kubulela uYahwe ngekulungile kwakhe, ndiza kucula ingoma ligama likaYahwe u-Elyon.",
+  "tokens": [
+    {
+      "surface": "אודה",
+      "gloss": "Ndiza kubulela"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "כצדקו",
+      "gloss": "ngekulungile kwakhe"
+    },
+    {
+      "surface": "ואזמרה",
+      "gloss": "ndiza kucula ingoma"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ligama"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "likaYahwe"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "u-Elyon"
+    }
+  ],
+  "timestamp": "2026-09-18T18:55:10.455017805Z",
   "model": "glm-5.3"
 }

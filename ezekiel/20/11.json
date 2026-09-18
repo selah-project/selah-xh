@@ -5,11 +5,11 @@
   "book": "ezekiel",
   "lang": "xh",
   "chapter": 20,
-  "translation": "Ndabanika ⟨את⟩ iinqobo zam, ⟨את⟩ izigwebo zam ndazaziisa kubo — umntu ozenzayo uza kuphila ngazo.",
+  "translation": "Ndabanika iinkqubo zabo zelizwe ⟨את⟩ oonqophiso bam, ndazisa ⟨את⟩ izigwebo zam — ukuba umntu uzakubenza ezi, uza kuphila ngazo.",
   "tokens": [
     {
       "surface": "ואתן",
-      "gloss": "Ndabanika"
+      "gloss": "ndabanika"
     },
     {
       "surface": "להם",
@@ -18,11 +18,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "iinqobo zam"
+      "marks": "oonqophiso bam"
     },
     {
       "surface": "חקותי",
-      "gloss": "iinqobo zam"
+      "gloss": "inkqubo zelizwe"
     },
     {
       "surface": "ואת",
@@ -35,25 +35,25 @@
     },
     {
       "surface": "הודעתי",
-      "gloss": "ndazaziisa"
+      "gloss": "ndazisa"
     },
     {
       "surface": "אותם",
       "gloss": "⟨את⟩",
-      "marks": "izigwebo zam"
+      "marks": "zona"
     },
     {
       "surface": "אשר",
-      "gloss": "ozo"
+      "gloss": "ukuba"
     },
     {
       "surface": "יעשה",
-      "gloss": "ezenzayo"
+      "gloss": "uzakubenza"
     },
     {
       "surface": "אותם",
       "gloss": "⟨את⟩",
-      "marks": "umntu"
+      "marks": "ezi"
     },
     {
       "surface": "האדם",
@@ -68,6 +68,6 @@
       "gloss": "ngazo"
     }
   ],
-  "timestamp": "2026-09-18T13:09:28.434832229Z",
+  "timestamp": "2026-09-18T18:45:22.838065148Z",
   "model": "glm-5.3"
 }

@@ -5,8 +5,71 @@
   "book": "genesis",
   "lang": "xh",
   "chapter": 19,
-  "translation": "Zaza zisela yaye nasiphuzile ngobusuku obu lo, intombi yasekhaya yangenayo yaza yakhalaza nonyana; yena akanazi kwinto yakuba way engenele loo nini wabe esuka nini.",
-  "tokens": [],
-  "timestamp": "2026-09-18T05:18:18.095158894Z",
+  "translation": "Zaza mimela abawo woti wayela uwale emva kwayo, waza inkosikazi yokuqala yangena, walala ⟨את⟩ yena; yena akazange adum ngokubethwa ngamdla;",
+  "tokens": [
+    {
+      "surface": "וַיְשַׁקְּנָה",
+      "gloss": "zaza mimela wayela"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "ן"
+    },
+    {
+      "surface": "אֲבִיהֶן",
+      "gloss": "ן"
+    },
+    {
+      "surface": "יַיִן",
+      "gloss": "uwale"
+    },
+    {
+      "surface": "בַּלַּיְלָה",
+      "gloss": "сезге"
+    },
+    {
+      "surface": "הוּא",
+      "gloss": "kwayo"
+    },
+    {
+      "surface": "וַתָּבֹא",
+      "gloss": "yangena"
+    },
+    {
+      "surface": "הַבְּכִירָה",
+      "gloss": "inkosikazi yokuqala"
+    },
+    {
+      "surface": "וַתִּשְׁכַּב",
+      "gloss": "walala"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "abawo wakhe"
+    },
+    {
+      "surface": "אָבִיהָ",
+      "gloss": "abawo wakhe"
+    },
+    {
+      "surface": "וְלֹא",
+      "gloss": "akazange"
+    },
+    {
+      "surface": "יָדַע",
+      "gloss": "azi"
+    },
+    {
+      "surface": "בְּשִׁכְבָהּ",
+      "gloss": "ngokulala kwakhe"
+    },
+    {
+      "surface": "וּבְקוּמָהּ",
+      "gloss": "nakukuvuka kwakhe"
+    }
+  ],
+  "timestamp": "2026-09-18T18:45:56.206135891Z",
   "model": "glm-5.3"
 }

@@ -5,8 +5,85 @@
   "book": "ezekiel",
   "lang": "xh",
   "chapter": 41,
-  "translation": "Obubanzi bomnyango babulishumi iindobho; kunye nee-shoulder-poles zomnyanga... ",
-  "tokens": [],
-  "timestamp": "2026-09-18T13:32:57.877178400Z",
+  "translation": "Kwaye ububanzi besango babungama-ikhubhutha alishumi; iindawo zangaselane zesango, iikhubhutha ezintlanu ngaselicala linye, kunye neekhubhutha ezintlanu ngaselinye icala; walinganisa ubude bwaso, iikhubhutha angamashumi amane, ububanzi iikhubhutha angamashumi amabini.",
+  "tokens": [
+    {
+      "surface": "ורחב",
+      "gloss": "kwaye ububanzi"
+    },
+    {
+      "surface": "הפתח",
+      "gloss": "besango"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "alishumi"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "amakhubhutha"
+    },
+    {
+      "surface": "וכתפות",
+      "gloss": "kunye neendawo zangaselane"
+    },
+    {
+      "surface": "הפתח",
+      "gloss": "zesango"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "ezintlanu"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "iikhubhutha"
+    },
+    {
+      "surface": "מפו",
+      "gloss": "ngaselicala linye"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "kunye neezintlanu"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "iikhubhutha"
+    },
+    {
+      "surface": "מפו",
+      "gloss": "ngaselinye icala"
+    },
+    {
+      "surface": "וימד",
+      "gloss": "walinganisa"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "ubude bwaso"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "angamashumi amane"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "iikhubhutha"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "ububanzi"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "angamashumi amabini"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "iikhubhutha"
+    }
+  ],
+  "timestamp": "2026-09-18T18:57:51.111713057Z",
   "model": "glm-5.3"
 }

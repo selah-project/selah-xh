@@ -5,8 +5,45 @@
   "book": "2-chronicles",
   "lang": "xh",
   "chapter": 24,
-  "translation": "Baza batyhalela ndawonye ngokumchasa, bamgalela ngeentyatyambo ngesiphumo seemeko: baseliphakamisa, bamtyalela eludongeni endlwini kaYahwe.",
-  "tokens": [],
-  "timestamp": "2026-09-18T17:52:44.930910881Z",
+  "translation": "Baza kwakhonxa ngokuchasene naye, bamtyhalela ngamatyala, ngokwalo lwenkosi, ekhaya lasekhaya lukaYahwe.",
+  "tokens": [
+    {
+      "surface": "ויקשרו",
+      "gloss": "baza kwakhonxa"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ngokuchasene naye"
+    },
+    {
+      "surface": "וירגמהו",
+      "gloss": "bamtyhalela"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "ngamatyala"
+    },
+    {
+      "surface": "במצות",
+      "gloss": "ngokwalo"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "lwenkosi"
+    },
+    {
+      "surface": "בחצר",
+      "gloss": "ekhaya"
+    },
+    {
+      "surface": "בית",
+      "gloss": "lasekhaya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "lukaYahwe"
+    }
+  ],
+  "timestamp": "2026-09-18T18:39:10.156984408Z",
   "model": "glm-5.3"
 }

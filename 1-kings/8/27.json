@@ -5,11 +5,11 @@
   "book": "1-kings",
   "lang": "xh",
   "chapter": 8,
-  "translation": "Kuba ngokwenene, uza kuhlala na uElohim ehlabathini? Yabona, amazulu nemazulu amazulu akakwazi ukukwamkela; makuthini ke ngale ndlu endiyakhileyo!",
+  "translation": "Kuba ingaba ngokwenene uza kuhlala uElohim phezu komhlaba? Yabona, amazulu namazulu amazulu akakwazi ukukuthwala ⟨wena⟩, makutheni ke le ndlu ⟨ethe⟩ endiyakhe yona!",
   "tokens": [
     {
       "surface": "כי",
-      "gloss": "Kuba"
+      "gloss": "kuba"
     },
     {
       "surface": "האמנם",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "ישב",
-      "gloss": "uza kuhlala na"
+      "gloss": "uza kuhlala"
     },
     {
       "surface": "אלהים",
@@ -25,23 +25,23 @@
     },
     {
       "surface": "על",
-      "gloss": "ku"
+      "gloss": "phezu"
     },
     {
       "surface": "הארץ",
-      "gloss": "ehlabathini"
+      "gloss": "komhlaba"
     },
     {
       "surface": "הנה",
-      "gloss": "Yabona"
+      "gloss": "yabona"
     },
     {
       "surface": "השמים",
-      "gloss": "amazulu"
+      "gloss": "amazula"
     },
     {
       "surface": "ושמי",
-      "gloss": "nemazulu"
+      "gloss": "namazulu"
     },
     {
       "surface": "השמים",
@@ -53,15 +53,15 @@
     },
     {
       "surface": "יכלכלוך",
-      "gloss": "ukukwamkela"
+      "gloss": "ukukuthwala"
     },
     {
       "surface": "אף",
-      "gloss": "ke"
+      "gloss": "makutheni ke"
     },
     {
       "surface": "כי",
-      "gloss": "makuthini"
+      "gloss": "le"
     },
     {
       "surface": "הבית",
@@ -73,13 +73,13 @@
     },
     {
       "surface": "אשר",
-      "gloss": ""
+      "gloss": "ethe"
     },
     {
       "surface": "בניתי",
-      "gloss": "endiyakhileyo"
+      "gloss": "endiyakhe yona"
     }
   ],
-  "timestamp": "2026-09-18T10:22:06.593672590Z",
+  "timestamp": "2026-09-18T18:38:45.129418087Z",
   "model": "glm-5.3"
 }

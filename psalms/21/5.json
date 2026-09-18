@@ -5,7 +5,7 @@
   "book": "psalms",
   "lang": "xh",
   "chapter": 21,
-  "translation": "Ubomi wabucela kuwe, wamnika ⟨⟨ubuninzi⟩⟩ beentsuku, kuze kube ngunaphakade nanaphakade.",
+  "translation": "Ubomi wabucela kuwe, wamunika; ubude beentsuku, kuze kube phakade nangunaphakade.",
   "tokens": [
     {
       "surface": "חיים",
@@ -21,15 +21,15 @@
     },
     {
       "surface": "נתתה",
-      "gloss": "wamnika"
+      "gloss": "wamunika"
     },
     {
       "surface": "לו",
-      "gloss": "kuye"
+      "gloss": "⟨uye⟩"
     },
     {
       "surface": "ארך",
-      "gloss": "ubuninzi"
+      "gloss": "ubude"
     },
     {
       "surface": "ימים",
@@ -37,13 +37,13 @@
     },
     {
       "surface": "עולם",
-      "gloss": "kuze kube ngunaphakade"
+      "gloss": "kuze kube phakade"
     },
     {
       "surface": "ועד",
-      "gloss": "nanaphakade"
+      "gloss": "nangunaphakade"
     }
   ],
-  "timestamp": "2026-09-18T14:35:09.304187734Z",
+  "timestamp": "2026-09-18T18:55:20.013707260Z",
   "model": "glm-5.3"
 }

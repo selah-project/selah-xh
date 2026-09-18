@@ -5,12 +5,8 @@
   "book": "1-kings",
   "lang": "xh",
   "chapter": 17,
-  "translation": "Umfazi wathi ku-Eliya: “Ngoku ndazi oku: wena ungumntu kaElohim, nokuba ligama likaYahwe emlonyeni wakho ⟨⟨ligama⟩⟩ elinyanisekileyo.”",
+  "translation": "Wathi umfazi ku-Eliyahu: “Ngoku ndiyazi ukuba ungumntu kaElohim wena, nalizwi likaYahwe emlonyeni wakho liyinyaniso.”",
   "tokens": [
-    {
-      "surface": "ויאמר",
-      "gloss": ""
-    },
     {
       "surface": "ותאמר",
       "gloss": "wathi"
@@ -25,7 +21,7 @@
     },
     {
       "surface": "אליהו",
-      "gloss": "u-Eliya"
+      "gloss": "Eliyahu"
     },
     {
       "surface": "עתה",
@@ -37,15 +33,15 @@
     },
     {
       "surface": "ידעתי",
-      "gloss": "ndazi"
+      "gloss": "ndiyazi"
     },
     {
       "surface": "כי",
-      "gloss": "nokuba"
+      "gloss": "ukuba"
     },
     {
       "surface": "איש",
-      "gloss": "umntu"
+      "gloss": "ungumntu"
     },
     {
       "surface": "אלהים",
@@ -53,11 +49,11 @@
     },
     {
       "surface": "אתה",
-      "gloss": "wena ungumntu"
+      "gloss": "wena"
     },
     {
       "surface": "ודבר",
-      "gloss": "nokuba ligama"
+      "gloss": "nalizwi"
     },
     {
       "surface": "יהוה",
@@ -69,9 +65,9 @@
     },
     {
       "surface": "אמת",
-      "gloss": "elinyanisekileyo"
+      "gloss": "liyinyaniso"
     }
   ],
-  "timestamp": "2026-09-18T17:31:41.472720888Z",
+  "timestamp": "2026-09-18T18:37:57.366098500Z",
   "model": "glm-5.3"
 }

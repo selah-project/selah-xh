@@ -5,8 +5,50 @@
   "book": "ezekiel",
   "lang": "xh",
   "chapter": 21,
-  "translation": "",
-  "tokens": [],
-  "timestamp": "2026-09-18T13:08:52.885719679Z",
+  "translation": "Buyisela kwisikhewu sayo — endlwazini apho wadalwa khona, emhlabeni wokuzalwa kwakho, ndiza kukugweba ⟨את⟩ wena.",
+  "tokens": [
+    {
+      "surface": "השב",
+      "gloss": "Buyisela"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "תערה",
+      "gloss": "isikhewu sayo"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "endlwazini"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "apho"
+    },
+    {
+      "surface": "נבראת",
+      "gloss": "wadalwa khona"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "emhlabeni"
+    },
+    {
+      "surface": "מכרותיך",
+      "gloss": "wokuzalwa kwakho"
+    },
+    {
+      "surface": "אשפט",
+      "gloss": "ndiza kukugweba"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "wena"
+    }
+  ],
+  "timestamp": "2026-09-18T18:45:02.399415829Z",
   "model": "glm-5.3"
 }

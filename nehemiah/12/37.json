@@ -5,8 +5,81 @@
   "book": "nehemiah",
   "lang": "xh",
   "chapter": 12,
-  "translation": "Yaye nasezibhonweni seyonwaba phezu kwento yomthombo, babhekisana nabo, banyuka kwii_nthwanja zedolophu kaDavide, ekunyukeleni kolwandhle, phezu kwendlu kaDavide, de kwingangaxe yamanzi, empuma.",
-  "tokens": [],
-  "timestamp": "2026-09-18T16:48:37.141209951Z",
+  "translation": "Kwaye esikweni sothango lwenxweme, kwicala lokulwa naso, banyuka ngeendlela zokunyuka zesixeko sikaDawidi, ekunyukeni kolwangu, ngaphezu kwendlu kaDawidi, de kufikelele esikweni sothango lwamanzi, empuma.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "kwaye esikweni sothango"
+    },
+    {
+      "surface": "שער",
+      "gloss": "sothango"
+    },
+    {
+      "surface": "העין",
+      "gloss": "lwenxweme"
+    },
+    {
+      "surface": "ונגדם",
+      "gloss": "kwicala lokulwa naso"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "banyuka"
+    },
+    {
+      "surface": "על",
+      "gloss": "nge-"
+    },
+    {
+      "surface": "מעלות",
+      "gloss": "iindlela zokunyuka"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "zesixeko"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "sikaDawidi"
+    },
+    {
+      "surface": "במעלה",
+      "gloss": "ekunyukeni"
+    },
+    {
+      "surface": "לחומה",
+      "gloss": "kolwangu"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "ngaphezu kwe-"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "zendlu"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "kaDawidi"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "de kufikelele"
+    },
+    {
+      "surface": "שער",
+      "gloss": "esikweni sothango"
+    },
+    {
+      "surface": "המים",
+      "gloss": "lwamanzi"
+    },
+    {
+      "surface": "מזרח",
+      "gloss": "empuma"
+    }
+  ],
+  "timestamp": "2026-09-18T18:53:44.740129411Z",
   "model": "glm-5.3"
 }

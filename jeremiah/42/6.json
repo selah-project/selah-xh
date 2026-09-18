@@ -5,7 +5,7 @@
   "book": "jeremiah",
   "lang": "xh",
   "chapter": 42,
-  "translation": "Nokuba lulungile, nokuba lugwenxa, thina siza kulalela ilizwi likaYahwe uElohim wethu othi ⟨את⟩ siyakuthumela kuye; ukuze kuchume nathi, kuba silalela ilizwi likaYahwe uElohim wethu.",
+  "translation": "Nokuba kulungile okanye kukubi, kwindlela kaYahwe uElohim wethu, owathi thina simthumela wena kuye ⟨את⟩, siya kuyiva; ukuze kulungelwe thina, kuba siya kuva kwindlela kaYahwe uElohim wethu.",
   "tokens": [
     {
       "surface": "אם",
@@ -13,19 +13,19 @@
     },
     {
       "surface": "טוב",
-      "gloss": "lulungile"
+      "gloss": "kulungile"
     },
     {
       "surface": "ואם",
-      "gloss": "nokuba"
+      "gloss": "okanye ukuba"
     },
     {
       "surface": "רע",
-      "gloss": "lugwenxa"
+      "gloss": "kukubi"
     },
     {
       "surface": "בקול",
-      "gloss": "ilizwi la"
+      "gloss": "kwindlela"
     },
     {
       "surface": "יהוה",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "אשר",
-      "gloss": "othi"
+      "gloss": "owathi"
     },
     {
       "surface": "אנו",
@@ -45,12 +45,12 @@
     },
     {
       "surface": "שלחים",
-      "gloss": "siyakuthumela"
+      "gloss": "simthumela"
     },
     {
       "surface": "אתך",
       "gloss": "⟨את⟩",
-      "marks": "wena"
+      "marks": "wena kuye"
     },
     {
       "surface": "אליו",
@@ -58,7 +58,7 @@
     },
     {
       "surface": "נשמע",
-      "gloss": "siza kulalela"
+      "gloss": "siya kuyiva"
     },
     {
       "surface": "למען",
@@ -66,15 +66,15 @@
     },
     {
       "surface": "אשר",
-      "gloss": ""
+      "gloss": "—"
     },
     {
       "surface": "ייטב",
-      "gloss": "kuchume"
+      "gloss": "kulungelwe"
     },
     {
       "surface": "לנו",
-      "gloss": "nathi"
+      "gloss": "thina"
     },
     {
       "surface": "כי",
@@ -82,11 +82,11 @@
     },
     {
       "surface": "נשמע",
-      "gloss": "silalela"
+      "gloss": "siya kuva"
     },
     {
       "surface": "בקול",
-      "gloss": "ilizwi la"
+      "gloss": "kwindlela"
     },
     {
       "surface": "יהוה",
@@ -97,6 +97,6 @@
       "gloss": "uElohim wethu"
     }
   ],
-  "timestamp": "2026-09-18T12:34:05.025610561Z",
+  "timestamp": "2026-09-18T18:49:42.206761393Z",
   "model": "glm-5.3"
 }

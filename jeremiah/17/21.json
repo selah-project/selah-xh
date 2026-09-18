@@ -5,8 +5,61 @@
   "book": "jeremiah",
   "lang": "xh",
   "chapter": 17,
-  "translation": "Uthi uYahwe: Guqulani iingezelelwane zoonaphakade — musa ukutyhalela umthwalo ngosuku olungcwele, ungaze umngenise emnyango weYerushalayimi.",
-  "tokens": [],
-  "timestamp": "2026-09-18T12:08:00.005142127Z",
+  "translation": "Kunjenjalo utshilo uYahwe: Zimiselani ngeenaphakade zenu, musa ukunwesa umthwalo ngosuku lweShabathi, ningangenisi ngamnyango weYerushalayimi.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Kunjenjalo"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "utshilo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "השמרו",
+      "gloss": "Zimiselani"
+    },
+    {
+      "surface": "בנפשותיכם",
+      "gloss": "ngeenaphakade zenu"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "musa"
+    },
+    {
+      "surface": "תשאו",
+      "gloss": "ukunwesa"
+    },
+    {
+      "surface": "משא",
+      "gloss": "umthwalo"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ngosuku"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "lweShabathi"
+    },
+    {
+      "surface": "והבאתם",
+      "gloss": "ningangenisi"
+    },
+    {
+      "surface": "בשערי",
+      "gloss": "ngamnyango"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "weYerushalayimi"
+    }
+  ],
+  "timestamp": "2026-09-18T18:48:48.290446597Z",
   "model": "glm-5.3"
 }

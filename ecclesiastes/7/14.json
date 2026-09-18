@@ -5,15 +5,15 @@
   "book": "ecclesiastes",
   "lang": "xh",
   "chapter": 7,
-  "translation": "Ngemini etyuba yiba uvuyisileyo, yaye ngemini embi bukela; kananjalo uElohim wenza ⟨את⟩ oku eludwendwe lwesiya, ukuze umntu akafumani nantoni na emva kwakhe.",
+  "translation": "Ngeyokulunga, yiba ulungileyo; nangeyokungcolileyo, ujonge: kananjalo lo ⟨את⟩ ngokuchasene nalo wenze uElohim, ukuze umntu angafumani nto yonke emva kwakhe.",
   "tokens": [
     {
       "surface": "ביום",
-      "gloss": "Ngemini"
+      "gloss": "ngeyokulunga kwaye"
     },
     {
       "surface": "טובה",
-      "gloss": "etyuba"
+      "gloss": "yokulunga"
     },
     {
       "surface": "היה",
@@ -21,19 +21,19 @@
     },
     {
       "surface": "בטוב",
-      "gloss": "uvuyisileyo"
+      "gloss": "ulungileyo"
     },
     {
       "surface": "וביום",
-      "gloss": "yaye ngemini"
+      "gloss": "kananjalo nangeyokungcolileyo"
     },
     {
       "surface": "רעה",
-      "gloss": "embi"
+      "gloss": "yokungcolileyo"
     },
     {
       "surface": "ראה",
-      "gloss": "bukela"
+      "gloss": "ujonge"
     },
     {
       "surface": "גם",
@@ -42,23 +42,23 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "oku"
+      "marks": "lo (okulunga nokungcolileyo)"
     },
     {
       "surface": "זה",
-      "gloss": "oku"
+      "gloss": "lo"
     },
     {
       "surface": "לעמת",
-      "gloss": "eludwendwe lwe"
+      "gloss": "ngokuchasene nalo"
     },
     {
       "surface": "זה",
-      "gloss": "esiya"
+      "gloss": "nalo"
     },
     {
       "surface": "עשה",
-      "gloss": "wenza"
+      "gloss": "wenze"
     },
     {
       "surface": "האלהים",
@@ -66,15 +66,15 @@
     },
     {
       "surface": "על",
-      "gloss": ""
-    },
-    {
-      "surface": "דברת",
       "gloss": "ukuze"
     },
     {
+      "surface": "דברת",
+      "gloss": "ngenjongo"
+    },
+    {
       "surface": "שלא",
-      "gloss": "ukuba akafumani"
+      "gloss": "ukuba... anga-"
     },
     {
       "surface": "ימצא",
@@ -90,9 +90,9 @@
     },
     {
       "surface": "מאומה",
-      "gloss": "nantoni na"
+      "gloss": "nto yonke"
     }
   ],
-  "timestamp": "2026-09-18T17:49:44.997546722Z",
+  "timestamp": "2026-09-18T18:56:42.220983383Z",
   "model": "glm-5.3"
 }

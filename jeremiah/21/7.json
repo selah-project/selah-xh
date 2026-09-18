@@ -5,11 +5,11 @@
   "book": "jeremiah",
   "lang": "xh",
   "chapter": 21,
-  "translation": "Emva koko, utsho uYahwe, ndiza kunika ⟨את⟩ uTsidkiyahu inkosi kaYehudha, ⟨את⟩ nezicaka zakhe, ⟨את⟩ nabantu, ⟨את⟩ nabasaleleyo esixekweni esi, kwisifo, kwinkemba nakwindlala, esandleni seNebukadretsari inkosi kaBhabheli, naseSandleni sabachasi babo, naseSandleni sabo abafunafuna iimphefumlo zabo; aze ababethe ngomlomo weinkemba; akayi kubanakele, kananjalo akayi kubasindisa, akayi nokuze ihawukela.",
+  "translation": "Kwaye emva koko, intetho kaYahwe: ndiza kunikela ⟨את⟩ uTsidkiyahowu, inkosi yeYuda, naye ⟨את⟩ abakhonzi bakhe, naye ⟨את⟩ abantu, nabo ⟨את⟩ abaselayo kule sixeko, kwisibetho, kwisilumo nendlala, esandleni sikaNevukhadretsari, inkosi yaseBhabheli, nas esandleni sabachasi babo, nas esandleni babo abafunela ubomi babo; ubabetha ngomlomo wesilumo; akayi kukhathazeka ngabo, akayi kukhululela, akayi kurhamisa.",
   "tokens": [
     {
       "surface": "ואחרי",
-      "gloss": "emva"
+      "gloss": "Kwaye emva koko"
     },
     {
       "surface": "כן",
@@ -17,24 +17,24 @@
     },
     {
       "surface": "נאם",
-      "gloss": "utsho"
+      "gloss": "intetho"
     },
     {
       "surface": "יהוה",
-      "gloss": "uYahwe"
+      "gloss": "kaYahwe"
     },
     {
       "surface": "אתן",
-      "gloss": "ndiza kunika"
+      "gloss": "ndiza kunikela"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "uTsidkiyahu inkosi kaYehudha"
+      "marks": "uTsidkiyahowu"
     },
     {
       "surface": "צדקיהו",
-      "gloss": "uTsidkiyahu"
+      "gloss": "uTsidkiyahowu"
     },
     {
       "surface": "מלך",
@@ -42,20 +42,20 @@
     },
     {
       "surface": "יהודה",
-      "gloss": "kaYehudha"
+      "gloss": "yeYuda"
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
-      "marks": "izicaka zakhe"
+      "gloss": "naye ⟨את⟩",
+      "marks": "abakhonzi bakhe"
     },
     {
       "surface": "עבדיו",
-      "gloss": "izicaka zakhe"
+      "gloss": "abakhonzi bakhe"
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
+      "gloss": "naye ⟨את⟩",
       "marks": "abantu"
     },
     {
@@ -64,44 +64,44 @@
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
-      "marks": "abasaleleyo esixekweni esi"
+      "gloss": "nabo ⟨את⟩",
+      "marks": "abaselayo kule sixeko"
     },
     {
       "surface": "הנשארים",
-      "gloss": "abasaleleyo"
+      "gloss": "abaselayo"
     },
     {
       "surface": "בעיר",
-      "gloss": "esixekweni"
+      "gloss": "kule sixeko"
     },
     {
       "surface": "הזאת",
-      "gloss": "esi"
+      "gloss": "le"
     },
     {
       "surface": "מן",
-      "gloss": "kwi"
+      "gloss": "kwisibetho"
     },
     {
       "surface": "הדבר",
-      "gloss": "sisifo"
+      "gloss": "isibetho"
     },
     {
       "surface": "מן",
-      "gloss": "kwi"
+      "gloss": "kwisilumo"
     },
     {
       "surface": "החרב",
-      "gloss": "nkiemba"
+      "gloss": "isilumo"
     },
     {
       "surface": "ומן",
-      "gloss": "nakwi"
+      "gloss": "nendlala"
     },
     {
       "surface": "הרעב",
-      "gloss": "ndlala"
+      "gloss": "indlala"
     },
     {
       "surface": "ביד",
@@ -109,7 +109,7 @@
     },
     {
       "surface": "נבוכדראצר",
-      "gloss": "seNebukadretsari"
+      "gloss": "sikaNevukhadretsari"
     },
     {
       "surface": "מלך",
@@ -117,11 +117,11 @@
     },
     {
       "surface": "בבל",
-      "gloss": "kaBhabheli"
+      "gloss": "yaseBhabheli"
     },
     {
       "surface": "וביד",
-      "gloss": "naseSandleni"
+      "gloss": "nas esandleni"
     },
     {
       "surface": "איביהם",
@@ -129,19 +129,19 @@
     },
     {
       "surface": "וביד",
-      "gloss": "naseSandleni"
+      "gloss": "nas esandleni"
     },
     {
       "surface": "מבקשי",
-      "gloss": "sabo abafunafuna"
+      "gloss": "abafunela"
     },
     {
       "surface": "נפשם",
-      "gloss": "iimphefumlo zabo"
+      "gloss": "ubomi babo"
     },
     {
       "surface": "והכם",
-      "gloss": "aze ababethe"
+      "gloss": "ubabetha"
     },
     {
       "surface": "לפי",
@@ -149,7 +149,7 @@
     },
     {
       "surface": "חרב",
-      "gloss": "wenkemba"
+      "gloss": "wesilumo"
     },
     {
       "surface": "לא",
@@ -157,19 +157,19 @@
     },
     {
       "surface": "יחוס",
-      "gloss": "kubanakele"
+      "gloss": "kukhathazeka ngabo"
     },
     {
       "surface": "עליהם",
-      "gloss": ""
+      "gloss": "ngabo"
     },
     {
       "surface": "ולא",
-      "gloss": "kananjalo akayi"
+      "gloss": "akayi"
     },
     {
       "surface": "יחמל",
-      "gloss": "kubasindisa"
+      "gloss": "kukhululela"
     },
     {
       "surface": "ולא",
@@ -177,9 +177,9 @@
     },
     {
       "surface": "ירחם",
-      "gloss": "kuhawukela"
+      "gloss": "kurhamisa"
     }
   ],
-  "timestamp": "2026-09-18T12:11:43.071019995Z",
+  "timestamp": "2026-09-18T18:48:59.776461243Z",
   "model": "glm-5.3"
 }

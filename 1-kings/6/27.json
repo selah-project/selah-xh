@@ -5,8 +5,123 @@
   "book": "1-kings",
   "lang": "xh",
   "chapter": 6,
-  "translation": "Waza wayibeka ⟨את⟩ iikerubi phakathi kwendlu yangaphakathi, walusa amaphiko eekerubi; wadibana nophiko lwekerub elinye lodwa nedonga, nophiko lokerub wesibini ludibanisa nedonga lesibini, yaye amaphiko awo ayaphakathi endlu, aphiko ladibana nephiko.",
-  "tokens": [],
-  "timestamp": "2026-09-18T10:16:17.722031039Z",
+  "translation": "Wabeka ⟨את⟩ iikerubhim embindini wendlu yangaphakathi, waza wazikhuphela ⟨את⟩ amaphiko eerubhim; eliphiko lokuqala ladibana nodonga, eliphiko leerubhi yesibini ladibana nodonga wesibini; amaphiko awo aza embindini wendlu, iphiko elidibana neliphiko.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "wabeka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iikerubhim"
+    },
+    {
+      "surface": "הכרובים",
+      "gloss": "iikerubhim"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "embindini"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "wendlu"
+    },
+    {
+      "surface": "הפנימי",
+      "gloss": "yangaphakathi"
+    },
+    {
+      "surface": "ויפרשו",
+      "gloss": "wazikhuphela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amaphiko eerubhim"
+    },
+    {
+      "surface": "כנפי",
+      "gloss": "amaphiko"
+    },
+    {
+      "surface": "הכרבים",
+      "gloss": "eerubhim"
+    },
+    {
+      "surface": "ותגע",
+      "gloss": "ladibana"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "eliphiko"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "lokuqala"
+    },
+    {
+      "surface": "בקיר",
+      "gloss": "nodonga"
+    },
+    {
+      "surface": "וכנף",
+      "gloss": "eliphiko"
+    },
+    {
+      "surface": "הכרוב",
+      "gloss": "leerubhi"
+    },
+    {
+      "surface": "השני",
+      "gloss": "yesibini"
+    },
+    {
+      "surface": "נגעת",
+      "gloss": "ladibana"
+    },
+    {
+      "surface": "בקיר",
+      "gloss": "nodonga"
+    },
+    {
+      "surface": "השני",
+      "gloss": "wesibini"
+    },
+    {
+      "surface": "וכנפיהם",
+      "gloss": "amaphiko awo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "aza"
+    },
+    {
+      "surface": "תוך",
+      "gloss": "embindini"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "wendlu"
+    },
+    {
+      "surface": "נגעת",
+      "gloss": "elidibana"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "iphiko"
+    },
+    {
+      "surface": "אל",
+      "gloss": "neliphiko"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "eliphiko"
+    }
+  ],
+  "timestamp": "2026-09-18T18:38:53.947767887Z",
   "model": "glm-5.3"
 }

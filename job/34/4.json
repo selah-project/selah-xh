@@ -5,8 +5,37 @@
   "book": "job",
   "lang": "xh",
   "chapter": 34,
-  "translation": "Masikhethe thina isigwebo; masazi phakathi kwethu okulungileyo.",
-  "tokens": [],
-  "timestamp": "2026-09-18T16:12:13.608209772Z",
+  "translation": "Isigwebo asikhethele thina; masazi phakathi kwethu okulungileyo.",
+  "tokens": [
+    {
+      "surface": "משפט",
+      "gloss": "isigwebo"
+    },
+    {
+      "surface": "נבחרה",
+      "gloss": "asikhethele"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "thina"
+    },
+    {
+      "surface": "נדעה",
+      "gloss": "masazi"
+    },
+    {
+      "surface": "בינינו",
+      "gloss": "phakathi kwethu"
+    },
+    {
+      "surface": "מה",
+      "gloss": "okulungileyo (oku)"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "okulungileyo"
+    }
+  ],
+  "timestamp": "2026-09-18T18:50:05.321678162Z",
   "model": "glm-5.3"
 }

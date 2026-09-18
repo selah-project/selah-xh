@@ -5,7 +5,7 @@
   "book": "genesis",
   "lang": "xh",
   "chapter": 20,
-  "translation": "Kuba uYahwe wayevala ngokuvala yonke isibeleko sendlu ka-Avimelekhi, ngenxa kaSara umsikazi ka-Avraham.",
+  "translation": "kuba uYahwe wawutshixa wawutshixa wonke isisu lweendlu ka-Abhimelekhi, ngenxa kaSara umfazi ka-Avraham.",
   "tokens": [
     {
       "surface": "כי",
@@ -13,11 +13,11 @@
     },
     {
       "surface": "עצר",
-      "gloss": "ngokuvala"
+      "gloss": "wawutshixa"
     },
     {
       "surface": "עצר",
-      "gloss": "wayevala"
+      "gloss": "wawutshixa"
     },
     {
       "surface": "יהוה",
@@ -25,23 +25,23 @@
     },
     {
       "surface": "בעד",
-      "gloss": ""
+      "gloss": "ngokuphathelele"
     },
     {
       "surface": "כל",
-      "gloss": "yonke"
+      "gloss": "wonke"
     },
     {
       "surface": "רחם",
-      "gloss": "isibeleko"
+      "gloss": "isisu"
     },
     {
       "surface": "לבית",
-      "gloss": "sendlu"
+      "gloss": "lweendlu"
     },
     {
       "surface": "אבימלך",
-      "gloss": "ka-Avimelekhi"
+      "gloss": "ka-Abhimelekhi"
     },
     {
       "surface": "על",
@@ -49,7 +49,7 @@
     },
     {
       "surface": "דבר",
-      "gloss": "ka"
+      "gloss": "ye-{ngenxa-ye-yomda}"
     },
     {
       "surface": "שרה",
@@ -57,13 +57,13 @@
     },
     {
       "surface": "אשת",
-      "gloss": "umsikazi"
+      "gloss": "umfazi"
     },
     {
       "surface": "אברהם",
       "gloss": "ka-Avraham"
     }
   ],
-  "timestamp": "2026-09-18T05:17:50.815075576Z",
+  "timestamp": "2026-09-18T18:45:58.218219198Z",
   "model": "glm-5.3"
 }

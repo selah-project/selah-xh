@@ -5,7 +5,7 @@
   "book": "psalms",
   "lang": "xh",
   "chapter": 105,
-  "translation": "“Musani ukuchukumisa oothanjisiweyo bam, kwayengenabungabi kwiiprofetham zam.”",
+  "translation": "Musani ukuchukunyisa ⟨את⟩ abamashiya bam, nangenjalo musani ukwenza ububi kubaprofeti bam.",
   "tokens": [
     {
       "surface": "אל",
@@ -13,19 +13,15 @@
     },
     {
       "surface": "תגעו",
-      "gloss": "ukuchukumisa"
+      "gloss": "ukuchukunyisa"
     },
     {
       "surface": "במשיחי",
-      "gloss": "oothanjisiweyo bam"
+      "gloss": "abamashiya bam"
     },
     {
-      "surface": "ו",
-      "gloss": "kwaye"
-    },
-    {
-      "surface": "לנביאי",
-      "gloss": "ngenabungabi kwiiprofetham"
+      "surface": "ולנביאי",
+      "gloss": "nangenjalo kubaprofeti bam"
     },
     {
       "surface": "אל",
@@ -33,9 +29,9 @@
     },
     {
       "surface": "תרעו",
-      "gloss": "ukwenza okungcolileyo"
+      "gloss": "ukwenza ububi"
     }
   ],
-  "timestamp": "2026-09-18T15:16:29.988113793Z",
+  "timestamp": "2026-09-18T18:54:48.553095730Z",
   "model": "glm-5.3"
 }
