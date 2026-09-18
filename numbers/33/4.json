@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 33:4",
+  "book": "numbers",
+  "lang": "xh",
+  "chapter": 33,
+  "translation": "iMitsrayim yabethela abo abawabethayo uYahwe kubo, onke amanenekazi abaqalayo; kwakunye kwoothixo babo, uYahwe wenza izigwebo.",
+  "tokens": [
+    {
+      "surface": "ומצרים",
+      "gloss": "iMitsrayim"
+    },
+    {
+      "surface": "מקברים",
+      "gloss": "yabelela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abo (abanjengabantu ababethiweyo)"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aba-"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "wabetha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "kubo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "onke"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "amanenekazi abaqalayo"
+    },
+    {
+      "surface": "ובאלהיהם",
+      "gloss": "kwakunye kwoothixo babo"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "wenza"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "שפטים",
+      "gloss": "izigwebo"
+    }
+  ],
+  "timestamp": "2026-09-18T18:34:03.235382631Z",
+  "model": "glm-5.3"
+}

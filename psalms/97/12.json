@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 97:12",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 97,
+  "translation": "Zimkelani, abalungileyo, kuYahwe, kananjalo nibulele kukhumbulo lokungcwele kwakhe.",
+  "tokens": [
+    {
+      "surface": "שמחו",
+      "gloss": "zimkelani"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "abalungileyo"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "kuYahwe"
+    },
+    {
+      "surface": "והודו",
+      "gloss": "kananjalo nibulele"
+    },
+    {
+      "surface": "לזכר",
+      "gloss": "kukhumbulo"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "lokungcwele kwakhe"
+    }
+  ],
+  "timestamp": "2026-09-18T18:33:33.366103650Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 7:3",
+  "book": "exodus",
+  "lang": "xh",
+  "chapter": 7,
+  "translation": "Kwaye mna ndiza kwenza ubunzima intliziyo kaParo, ndiza kongeza iimpawu zam neethandabuzo zam elizweni laseMitsrayim,",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "kwaye mna"
+    },
+    {
+      "surface": "אקשה",
+      "gloss": "ndiza kwenza ubunzima"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "intliziyo"
+    },
+    {
+      "surface": "לב",
+      "gloss": "intliziyo"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "kaParo"
+    },
+    {
+      "surface": "והרביתי",
+      "gloss": "ndiza kongeza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iimpawu zam"
+    },
+    {
+      "surface": "אתתי",
+      "gloss": "iimpawu zam"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "neethandabuzo zam"
+    },
+    {
+      "surface": "מופתי",
+      "gloss": "neethandabuzo zam"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "elizweni"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "laseMitsrayim"
+    }
+  ],
+  "timestamp": "2026-09-18T18:32:52.738001983Z",
+  "model": "glm-5.3"
+}

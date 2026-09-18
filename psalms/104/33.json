@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 104:33",
+  "book": "psalms",
+  "lang": "xh",
+  "chapter": 104,
+  "translation": "Ndiza kucula kuYahwe ngemihla yobomi bam; ndiza kudlala umdibaniso wezityunqo kuElohim wam, ngokuba ndisaphila.",
+  "tokens": [
+    {
+      "surface": "אשירה",
+      "gloss": "ndiza kucula"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kuYahwe"
+    },
+    {
+      "surface": "בחיי",
+      "gloss": "ngemihla yobomi bam"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "ndiza kudlala umdibaniso wezityunqo"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "kuElohim wam"
+    },
+    {
+      "surface": "בעודי",
+      "gloss": "ngokuba ndisaphila"
+    }
+  ],
+  "timestamp": "2026-09-18T18:33:28.852977015Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "jeremiah 25:19",
+  "book": "jeremiah",
+  "lang": "xh",
+  "chapter": 25,
+  "translation": "⟨את⟩ uParo inkosi yaseMitsrayim, ⟨את⟩ amakhosi akhe, ⟨את⟩ noobaphathi bakhe, ⟨את⟩ nabo bonke abantu bakhe.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uParo"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "uParo"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "inkosi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "yaseMitsrayim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "amakhosi akhe"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "amakhosi akhe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "noobaphathi bakhe"
+    },
+    {
+      "surface": "שריו",
+      "gloss": "noobaphathi bakhe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "bo bonke abantu bakhe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bo bonke"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "abantu bakhe"
+    }
+  ],
+  "timestamp": "2026-09-18T18:32:59.354092999Z",
+  "model": "glm-5.3"
+}

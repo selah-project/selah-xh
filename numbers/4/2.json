@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 4:2",
+  "book": "numbers",
+  "lang": "xh",
+  "chapter": 4,
+  "translation": "Bala ⟨את⟩ intloko yabantwana baseQehati phakathi kwabantwana baseLevi, ngokweentsapho zabo, ngokweendlu zooyise bawo.",
+  "tokens": [
+    {
+      "surface": "נשא",
+      "gloss": "bala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "intloko yabantwana baseQehati"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "intloko"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abantwana base-"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "uQehati"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "phakathi kwa-"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abantwana base-"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "uLevi"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "ngokweentsapho zabo"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "ngokwendlu ya-"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "yooyise bawo"
+    }
+  ],
+  "timestamp": "2026-09-18T18:33:47.775874983Z",
+  "model": "glm-5.3"
+}

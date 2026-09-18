@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 29:7",
+  "book": "proverbs",
+  "lang": "xh",
+  "chapter": 29,
+  "translation": "Olungileyo uyayazi inkqubo yocala lweentsutu; isiphambeko asisiqondi ulwazi.",
+  "tokens": [
+    {
+      "surface": "ידע",
+      "gloss": "uyayazi"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "olungileyo"
+    },
+    {
+      "surface": "דין",
+      "gloss": "icala"
+    },
+    {
+      "surface": "דלים",
+      "gloss": "iintsutu"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "isiphambeko"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ayi-"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "-qondi"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "ulwazi"
+    }
+  ],
+  "timestamp": "2026-09-18T18:34:06.913210668Z",
+  "model": "glm-5.3"
+}
