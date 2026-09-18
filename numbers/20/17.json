@@ -5,19 +5,19 @@
   "book": "numbers",
   "lang": "xh",
   "chapter": 20,
-  "translation": "Siya kudlula, nceda, ezweni lakho; asizi kudlula kwithala okanye esivini, kananjalo asizi kusela amanzi omthombo; siya kuhamba umgaqo wenkosi, asizi kujikelela ngasekunene okanye ngasekhohlo, de sidlule umda wakho.",
+  "translation": "Sicebisa nceda singadlula elizweni lakho; asizi kudlula kwisigebenga okanye kwisiramile, kananjalo asizi kusela amanzi éthanga; siya kuhamba ngumgama wenkosi, asizi kutshatyalalisa ngasekunene okanye ngasekhohlo, de sidlule umda wakho.",
   "tokens": [
     {
       "surface": "נעברה",
-      "gloss": "siya kudlula"
+      "gloss": "singadlula"
     },
     {
       "surface": "נא",
-      "gloss": "nceda"
+      "gloss": "ncebisa nceda"
     },
     {
       "surface": "בארצך",
-      "gloss": "ezweni lakho"
+      "gloss": "elizweni lakho"
     },
     {
       "surface": "לא",
@@ -29,11 +29,11 @@
     },
     {
       "surface": "בשדה",
-      "gloss": "kwithala"
+      "gloss": "kwisigebenga"
     },
     {
       "surface": "ובכרם",
-      "gloss": "okanye esivini"
+      "gloss": "okanye kwisiramile"
     },
     {
       "surface": "ולא",
@@ -49,11 +49,11 @@
     },
     {
       "surface": "באר",
-      "gloss": "omthombo"
+      "gloss": "éthanga"
     },
     {
       "surface": "דרך",
-      "gloss": "umgaqo"
+      "gloss": "ngumgama"
     },
     {
       "surface": "המלך",
@@ -69,7 +69,7 @@
     },
     {
       "surface": "נטה",
-      "gloss": "jikelela"
+      "gloss": "tshatyalalisa"
     },
     {
       "surface": "ימין",
@@ -96,6 +96,6 @@
       "gloss": "umda wakho"
     }
   ],
-  "timestamp": "2026-09-18T20:18:52.120968315Z",
+  "timestamp": "2026-09-18T20:32:45.910020126Z",
   "model": "glm-5.3"
 }

@@ -5,11 +5,11 @@
   "book": "1-samuel",
   "lang": "xh",
   "chapter": 22,
-  "translation": "Wahamba ke uDavide apho wayesuka khona, waya eMitspe yaseMowabhi, wathi kwenkosi yaseMowabhi: “Ndicela ubawo nomama bam φuthi ⟨את⟩ kunye nani, de ndazi into uElohim aza kuyenza kum.”",
+  "translation": "Waya ke uDavide apho, iMitspe yaseMowabhi; wathi kwenkosi yaseMowabhi: “Ndicela ubawo wam nomama wam baphume, babe nani ⟨אתכם⟩, de ndazi okuza kukwenza uElohim kum.”",
   "tokens": [
     {
       "surface": "וילך",
-      "gloss": "wahamba"
+      "gloss": "Waya ke"
     },
     {
       "surface": "דוד",
@@ -17,11 +17,11 @@
     },
     {
       "surface": "משם",
-      "gloss": "apho wayesuka khona"
+      "gloss": "apho"
     },
     {
       "surface": "מצפה",
-      "gloss": "eMitspe"
+      "gloss": "iMitspe"
     },
     {
       "surface": "מואב",
@@ -44,25 +44,25 @@
       "gloss": "yaseMowabhi"
     },
     {
-      "surface": "יֵצֵא",
-      "gloss": "maphume"
+      "surface": "יצא",
+      "gloss": "baphume"
     },
     {
       "surface": "נא",
-      "gloss": "ndicela"
+      "gloss": "Ndicela"
     },
     {
       "surface": "אבי",
-      "gloss": "ubawo bam"
+      "gloss": "ubawo wam"
     },
     {
       "surface": "ואמי",
-      "gloss": "nomama bam"
+      "gloss": "nomama wam"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ kunye nani",
-      "marks": "kunye nani"
+      "gloss": "⟨את⟩",
+      "marks": "nani"
     },
     {
       "surface": "עד",
@@ -70,7 +70,7 @@
     },
     {
       "surface": "אשר",
-      "gloss": "into"
+      "gloss": "—"
     },
     {
       "surface": "אדע",
@@ -78,11 +78,11 @@
     },
     {
       "surface": "מה",
-      "gloss": "nthoni"
+      "gloss": "oko"
     },
     {
       "surface": "יעשה",
-      "gloss": "enza"
+      "gloss": "okuza kukwenza"
     },
     {
       "surface": "לי",
@@ -93,6 +93,6 @@
       "gloss": "uElohim"
     }
   ],
-  "timestamp": "2026-09-18T20:16:31.378783114Z",
+  "timestamp": "2026-09-18T20:32:21.860306890Z",
   "model": "glm-5.3"
 }

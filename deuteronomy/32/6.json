@@ -5,7 +5,7 @@
   "book": "deuteronomy",
   "lang": "xh",
   "chapter": 32,
-  "translation": "Ngaba kuYahwe nibuye ngesi? Hini abantu abazenzisiyo, abangenanolwazi? Akakambonanga yena? YinguYahwe utata wakho, unguye owakuthenga, yena wakudala, wakumisela.",
+  "translation": "Ngaba kuYahwe nina enokungakhangeleki kangaka, hini abantu abazenzekelayo abangengabahlakaniphi? Akangaba yinguye yini uyise owakuthenga, yinguye owakudala, waza wakusekela?",
   "tokens": [
     {
       "surface": "ה",
@@ -17,11 +17,11 @@
     },
     {
       "surface": "תגמלו",
-      "gloss": "nibuye ngesi"
+      "gloss": "nina enokungakhangeleki kangaka"
     },
     {
       "surface": "זאת",
-      "gloss": "esi"
+      "gloss": "kangaka"
     },
     {
       "surface": "עם",
@@ -29,27 +29,27 @@
     },
     {
       "surface": "נבל",
-      "gloss": "abazenzisiyo"
+      "gloss": "abazenzekelayo"
     },
     {
       "surface": "ולא",
-      "gloss": "abangenanolwazi"
+      "gloss": "abangenga-"
     },
     {
       "surface": "חכם",
-      "gloss": ""
+      "gloss": "bahlakaniphi"
     },
     {
       "surface": "הלוא",
-      "gloss": "akakambonanga"
+      "gloss": "akangaba yinguye yini"
     },
     {
       "surface": "הוא",
-      "gloss": "yena"
+      "gloss": "yinguye"
     },
     {
       "surface": "אביך",
-      "gloss": "utata wakho"
+      "gloss": "uyise owakuthenga"
     },
     {
       "surface": "קנך",
@@ -57,17 +57,17 @@
     },
     {
       "surface": "הוא",
-      "gloss": "yena"
+      "gloss": "yinguye"
     },
     {
       "surface": "עשך",
-      "gloss": "wakudala"
+      "gloss": "owakudala"
     },
     {
       "surface": "ויכננך",
-      "gloss": "wakumisela"
+      "gloss": "waza wakusekela"
     }
   ],
-  "timestamp": "2026-09-18T20:17:15.341619309Z",
+  "timestamp": "2026-09-18T20:32:20.642809913Z",
   "model": "glm-5.3"
 }

@@ -5,11 +5,11 @@
   "book": "psalms",
   "lang": "xh",
   "chapter": 78,
-  "translation": "uElohim wayeva ⟨⟨i-ayithengi⟩⟩, wazithukutela kakhulu, wabahloya kakhulu o bantwini bakwa-Israyeli;",
+  "translation": "uElohim wakulula oko, wathukuthela ngokudana, wazithiyla kakhulu kuIsrayeli;",
   "tokens": [
     {
       "surface": "שמע",
-      "gloss": "wayeva"
+      "gloss": "wakulula oko"
     },
     {
       "surface": "אלהים",
@@ -17,11 +17,11 @@
     },
     {
       "surface": "ויתעבר",
-      "gloss": "wazithukutela"
+      "gloss": "wathukuthela ngokudana"
     },
     {
       "surface": "וימאס",
-      "gloss": "wabahloya"
+      "gloss": "wazithiyla"
     },
     {
       "surface": "מאד",
@@ -29,9 +29,9 @@
     },
     {
       "surface": "בישראל",
-      "gloss": "o bantwini bakwa-Israyeli"
+      "gloss": "kuIsrayeli"
     }
   ],
-  "timestamp": "2026-09-18T20:19:42.524445749Z",
+  "timestamp": "2026-09-18T20:32:33.871805068Z",
   "model": "glm-5.3"
 }

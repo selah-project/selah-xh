@@ -5,11 +5,11 @@
   "book": "joshua",
   "lang": "xh",
   "chapter": 8,
-  "translation": "Kananjalo onke abantu abalwa aye kunye naye, ayanakuphakama, asondela, ewela phambi kwesixeko, aze ayakampisha emantla e-Ayi; kananjalo kwakukho ⟨is⟩ thoba phakathi kwabo nase-Ayi.",
+  "translation": "Yaye onke abantu abalwa, ababenaye, bayakhwela, besondela, befika phambi kwesixeko, balala ngasentla-ntshona e-Ayi; kaloku babukho umhlaba onzulu phakathi kwabo nasesi-Ayi.",
   "tokens": [
     {
       "surface": "וכל",
-      "gloss": "Kananjalo onke"
+      "gloss": "yaye onke"
     },
     {
       "surface": "העם",
@@ -21,24 +21,24 @@
     },
     {
       "surface": "אשר",
-      "gloss": "aye"
+      "gloss": "ababenaye"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ kunye naye",
-      "marks": "onke abantu abalwa"
+      "gloss": "⟨את⟩",
+      "marks": "uye (uYehoshuwa)"
     },
     {
       "surface": "עלו",
-      "gloss": "ayanakuphakama"
+      "gloss": "bayakhwela"
     },
     {
       "surface": "ויגשו",
-      "gloss": "asondela"
+      "gloss": "besondela"
     },
     {
       "surface": "ויבאו",
-      "gloss": "ewela"
+      "gloss": "befika"
     },
     {
       "surface": "נגד",
@@ -46,15 +46,15 @@
     },
     {
       "surface": "העיר",
-      "gloss": "esixekweni"
+      "gloss": "isixeko"
     },
     {
-      "surface": "ויחנu",
-      "gloss": "aze ayakampisha"
+      "surface": "ויחנו",
+      "gloss": "balala"
     },
     {
       "surface": "מצפון",
-      "gloss": "emantla"
+      "gloss": "ngasentla-ntshona"
     },
     {
       "surface": "לעי",
@@ -62,7 +62,7 @@
     },
     {
       "surface": "והגי",
-      "gloss": "thoba"
+      "gloss": "kaloku babukho umhlaba onzulu"
     },
     {
       "surface": "בינו",
@@ -74,9 +74,9 @@
     },
     {
       "surface": "העי",
-      "gloss": "Ayi"
+      "gloss": "si-Ayi"
     }
   ],
-  "timestamp": "2026-09-18T20:19:03.719513174Z",
+  "timestamp": "2026-09-18T20:32:37.363074028Z",
   "model": "glm-5.3"
 }

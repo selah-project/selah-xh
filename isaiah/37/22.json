@@ -5,7 +5,7 @@
   "book": "isaiah",
   "lang": "xh",
   "chapter": 37,
-  "translation": "Olu luludaba uYahwe aluthethele ngaye: Ukudlala ngakuthi, ukuchitha ngakuthi, intombi yaseTsiyoni; emva kwakho ihlokoma intombi yeYerushalayimi.",
+  "translation": "Olu lulwazi oLwathetha uYahwe ngaye: Ukudlakadla kukho, ukunxiba amanje kukho, intombi yaseTsiyoni; iyo nkqo emva kwakho yenyuku intloko, intombi yaseYerushalayimi.",
   "tokens": [
     {
       "surface": "זה",
@@ -13,15 +13,15 @@
     },
     {
       "surface": "הדבר",
-      "gloss": "uludaba"
+      "gloss": "ulwazi"
     },
     {
       "surface": "אשר",
-      "gloss": ""
+      "gloss": "o-"
     },
     {
       "surface": "דבר",
-      "gloss": "aluthethele"
+      "gloss": "Lwathetha"
     },
     {
       "surface": "יהוה",
@@ -33,19 +33,19 @@
     },
     {
       "surface": "בזה",
-      "gloss": "Ukudlala ngakuthi"
+      "gloss": "Ukudlakadla kukho"
     },
     {
       "surface": "לך",
-      "gloss": "ngakuthi"
+      "gloss": "kukho"
     },
     {
       "surface": "לעגה",
-      "gloss": "ukuchitha"
+      "gloss": "ukunxiba amanje kukho"
     },
     {
       "surface": "לך",
-      "gloss": "ngakuthi"
+      "gloss": "kukho"
     },
     {
       "surface": "בתולת",
@@ -61,15 +61,15 @@
     },
     {
       "surface": "אחריך",
-      "gloss": "emva kwakho"
+      "gloss": "iyo nkqo emva kwakho"
     },
     {
       "surface": "ראש",
-      "gloss": "ihlokoma"
+      "gloss": "intloko"
     },
     {
       "surface": "הניעה",
-      "gloss": "ihlokoma"
+      "gloss": "yenyuku"
     },
     {
       "surface": "בת",
@@ -77,9 +77,9 @@
     },
     {
       "surface": "ירושלם",
-      "gloss": "yeYerushalayimi"
+      "gloss": "yaseYerushalayimi"
     }
   ],
-  "timestamp": "2026-09-18T20:19:44.691844333Z",
+  "timestamp": "2026-09-18T20:32:32.617214419Z",
   "model": "glm-5.3"
 }
