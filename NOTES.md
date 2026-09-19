@@ -38,7 +38,7 @@ word held for a native ear (below).
 
 isiXhosa Bibles print **uYehova** and **iNkosi**. This chair writes
 **uYahwe**, and keeps D1 for the rest: uElohim · u-Adonayi · uShadayi ·
-uYah · uEl. `iNkosi` keeps its lawful seat over a human lord; the census
+uYah · u-El · u-Eloha · Tsebhayoti. `iNkosi` keeps its lawful seat over a human lord; the census
 reads the token's Hebrew surface, never the spelling, and matches stems
 case-sensitively (`Nkosi`, `Thixo`).
 

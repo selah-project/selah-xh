@@ -32,7 +32,7 @@ the Hebrew said from what the grammar needed.
 | אלהים | **uElohim** | uThixo in the Name's place |
 | אדני | **u-Adonayi** | iNkosi |
 | שדי | **uShadayi** | "uSomandla" as a substitute |
-| אל | **uEl** | "uthixo" as a type-name |
+| אל | **u-El** | "uthixo" as a type-name |
 
 `iNkosi` over a human lord and lowercase `oothixo` for the nations' gods
 remain lawful; the census applies that distinction by the token's Hebrew
