@@ -26,9 +26,10 @@ only be told apart by vocabulary.
 
 ## The thermometer
 
-Vocabulary, **whitelist first**. The isiZulu function words the rails
-name (`yini`, `ukuthi`, `futhi`, `kodwa` where isiXhosa says `kodwa`
-too — struck) are counted as whole words on **both surfaces**: the
+Vocabulary, **whitelist first**. The isiZulu words the rails' table
+names (`futhi`, `manje`, `lapho`, `ngoba`, `uma`, `yini`, `umuntu`,
+`uNkulunkulu` … — the full list is in `dev/scripts/xh_gate.clj`) are
+counted as whole words on **both surfaces**: the
 reader's flow and the token row. The row thermometer found 72 isiZulu
 glosses the flow count had missed. After the re-press: **zero**, with one
 word held for a native ear (below).
