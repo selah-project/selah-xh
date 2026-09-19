@@ -5,11 +5,11 @@
   "book": "2-kings",
   "lang": "xh",
   "chapter": 23,
-  "translation": "Wamisa ubukumkani uParo Nekoh ku-Elyakim, unyana kaYoshiyahu, endaweni kaYoshiyahu uyise; watshintsha ⟨את⟩ igama lakhe laba nguYehoyakim; uYehoahaza ⟨ואת⟩ wamthabatha, waya eMitsrayim, wafa khona.",
+  "translation": "Wamisela ukubusa uParo-Neko u-Eliyakim unyana kaYoshiyahu endaweni kaYoshiyahu uyise, watshintsha ⟨את⟩ igama lakhe libe nguYehoyakim; kananjalo uYehoahazi wamthatha ⟨את⟩, waza waya iMitsrayim, waza wafa khona.",
   "tokens": [
     {
       "surface": "וימלך",
-      "gloss": "Wamisa ubukumkani"
+      "gloss": "wamisela ukubusa"
     },
     {
       "surface": "פרעה",
@@ -17,16 +17,16 @@
     },
     {
       "surface": "נכה",
-      "gloss": "Nekoh"
+      "gloss": "-Neko"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "u-Elyakim"
+      "marks": "u-Eliyakim"
     },
     {
       "surface": "אליקים",
-      "gloss": "ku-Elyakim"
+      "gloss": "u-Eliyakim"
     },
     {
       "surface": "בן",
@@ -67,16 +67,16 @@
     },
     {
       "surface": "ואת",
-      "gloss": "⟨ואת⟩",
-      "marks": "uYehoahaza"
+      "gloss": "⟨את⟩",
+      "marks": "uYehoahazi"
     },
     {
       "surface": "יהואחז",
-      "gloss": "uYehoahaza"
+      "gloss": "uYehoahazi"
     },
     {
       "surface": "לקח",
-      "gloss": "wamthabatha"
+      "gloss": "wamthatha"
     },
     {
       "surface": "ויבא",
@@ -84,7 +84,7 @@
     },
     {
       "surface": "מצרים",
-      "gloss": "eMitsrayim"
+      "gloss": "iMitsrayim"
     },
     {
       "surface": "וימת",
@@ -95,6 +95,6 @@
       "gloss": "khona"
     }
   ],
-  "timestamp": "2026-09-18T10:59:17.503720740Z",
+  "timestamp": "2026-09-19T13:47:22.972769901Z",
   "model": "glm-5.3"
 }

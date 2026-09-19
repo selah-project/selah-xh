@@ -5,11 +5,11 @@
   "book": "2-samuel",
   "lang": "xh",
   "chapter": 11,
-  "translation": "kwaye kuya kubenjalo ukuba ulaka lokumkani luphakamile, wakuthi kuni: “Ntoni na ukungakhupheleli kangaka kuserhabathani ukulwa? Awazi na ukuba bayatshiza basuka ngaphezu komgorho?”",
+  "translation": "Kwaye kuya kuba njalo ukuba ulaka lwenkosi luphakama, ingathi kuthi: “Njani na naningasingena esixekweni nilwa? Anazi na ukuba bathi baqhuba ⟨את⟩ oko kutsho bathi bachitha ngaphezu komgangatho?”",
   "tokens": [
     {
       "surface": "והיה",
-      "gloss": "kuya kubenjalo"
+      "gloss": "kwaye kuya kuba njalo"
     },
     {
       "surface": "אם",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "תעלה",
-      "gloss": "luphakamile"
+      "gloss": "luphakama"
     },
     {
       "surface": "חמת",
@@ -25,23 +25,23 @@
     },
     {
       "surface": "המלך",
-      "gloss": "lokumkani"
+      "gloss": "lwenkosi"
     },
     {
       "surface": "ואמר",
-      "gloss": "wakuthi"
+      "gloss": "ingathi kuthi"
     },
     {
       "surface": "לך",
-      "gloss": "kuni"
+      "gloss": "kuwe"
     },
     {
       "surface": "מדוע",
-      "gloss": "ntoni na"
+      "gloss": "njani na"
     },
     {
       "surface": "נגשתם",
-      "gloss": "ukungakhupheleli"
+      "gloss": "naningasingena"
     },
     {
       "surface": "אל",
@@ -49,11 +49,11 @@
     },
     {
       "surface": "העיר",
-      "gloss": "serhabathani"
+      "gloss": "esixekweni"
     },
     {
       "surface": "להלחם",
-      "gloss": "ukulwa"
+      "gloss": "nilwa"
     },
     {
       "surface": "הלוא",
@@ -61,30 +61,30 @@
     },
     {
       "surface": "ידעתם",
-      "gloss": "awazi"
+      "gloss": "anazi"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "oko batshizayo"
+      "marks": "oko kutsho (אשר)"
     },
     {
       "surface": "אשר",
-      "gloss": "oko"
+      "gloss": "oko kutsho"
     },
     {
       "surface": "ירו",
-      "gloss": "batshiza"
+      "gloss": "baqhuba bachitha"
     },
     {
       "surface": "מעל",
-      "gloss": "basuka ngaphezu"
+      "gloss": "ngaphezu"
     },
     {
       "surface": "החומה",
-      "gloss": "komgorho"
+      "gloss": "komgangatho"
     }
   ],
-  "timestamp": "2026-09-18T09:51:27.483101048Z",
+  "timestamp": "2026-09-19T13:47:46.310987454Z",
   "model": "glm-5.3"
 }

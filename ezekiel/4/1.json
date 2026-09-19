@@ -5,15 +5,15 @@
   "book": "ezekiel",
   "lang": "xh",
   "chapter": 4,
-  "translation": "Wena, nyana womntu, thata ngokwakho ibrick, yibeke phambi kwakho, uze udwele phezu kwayo idolophu, ⟨את⟩ iYerushalayimi.",
+  "translation": "Wena ke, unyana womntu, thatha ilayibriki, uyibeka ⟨את⟩ phambi kwakho, udwele phezu kwayo isixeko ⟨את⟩ — iYerushalayimi.",
   "tokens": [
     {
       "surface": "ואתה",
-      "gloss": "Wena"
+      "gloss": "Wena ke"
     },
     {
       "surface": "בן",
-      "gloss": "nyana"
+      "gloss": "unyana"
     },
     {
       "surface": "אדם",
@@ -21,24 +21,24 @@
     },
     {
       "surface": "קח",
-      "gloss": "thata"
+      "gloss": "thatha"
     },
     {
       "surface": "לך",
-      "gloss": "ngokwakho"
+      "gloss": "⟨kuwe⟩"
     },
     {
       "surface": "לבנה",
-      "gloss": "ibrick"
+      "gloss": "ilayibriki"
     },
     {
       "surface": "ונתתה",
-      "gloss": "yibeke"
+      "gloss": "uyibeka"
     },
     {
       "surface": "אותה",
       "gloss": "⟨את⟩",
-      "marks": "yibeke"
+      "marks": "ilayibriki (phambi kwakho)"
     },
     {
       "surface": "לפניך",
@@ -46,7 +46,7 @@
     },
     {
       "surface": "וחקות",
-      "gloss": "uze udwele"
+      "gloss": "udwele"
     },
     {
       "surface": "עליה",
@@ -54,7 +54,7 @@
     },
     {
       "surface": "עיר",
-      "gloss": "idolophu"
+      "gloss": "isixeko"
     },
     {
       "surface": "את",
@@ -66,6 +66,6 @@
       "gloss": "iYerushalayimi"
     }
   ],
-  "timestamp": "2026-09-18T12:51:33.708780092Z",
+  "timestamp": "2026-09-19T13:55:34.769892498Z",
   "model": "glm-5.3"
 }

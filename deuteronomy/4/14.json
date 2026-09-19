@@ -5,15 +5,16 @@
   "book": "deuteronomy",
   "lang": "xh",
   "chapter": 4,
-  "translation": "Kwaye mna uYahwe wawalela ngelo xesha ukunifundisa imithetho nemigwebo, ukuba niyenze ⟨את⟩ emhlabeni eniya kudlula khona ukuze nilawule.",
+  "translation": "Kananjalo uYahwe wangalela ⟨את⟩ mna ngelo xesha, ukundifundisa ⟨את⟩ nina imigaqo nemigwebo, ukuze niwenze ⟨את⟩ ezo emhlabeni eniwela kukuhamba niye khona ukuzinikela ngawo.",
   "tokens": [
     {
       "surface": "ואתי",
-      "gloss": "⟨את⟩ kwaye mna"
+      "gloss": "⟨את⟩",
+      "marks": "mna (wangalela)"
     },
     {
       "surface": "צוה",
-      "gloss": "wawalela"
+      "gloss": "wangalela"
     },
     {
       "surface": "יהוה",
@@ -21,7 +22,7 @@
     },
     {
       "surface": "בעת",
-      "gloss": "ngelixesha"
+      "gloss": "ngexesha"
     },
     {
       "surface": "ההוא",
@@ -29,15 +30,16 @@
     },
     {
       "surface": "ללמד",
-      "gloss": "ukunifundisa"
+      "gloss": "ukundifundisa"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ nina"
+      "gloss": "⟨את⟩",
+      "marks": "imigaqo"
     },
     {
       "surface": "חקים",
-      "gloss": "imithetho"
+      "gloss": "imigaqo"
     },
     {
       "surface": "ומשפטים",
@@ -45,12 +47,12 @@
     },
     {
       "surface": "לעשתכם",
-      "gloss": "ukuba niyenze"
+      "gloss": "ukuze niwenze"
     },
     {
       "surface": "אתם",
       "gloss": "⟨את⟩",
-      "marks": "emhlabeni"
+      "marks": "ezo"
     },
     {
       "surface": "בארץ",
@@ -58,7 +60,7 @@
     },
     {
       "surface": "אשר",
-      "gloss": "o"
+      "gloss": "apho"
     },
     {
       "surface": "אתם",
@@ -66,17 +68,17 @@
     },
     {
       "surface": "עברים",
-      "gloss": "niya kudlula"
+      "gloss": "niwela kukuhamba"
     },
     {
       "surface": "שמה",
-      "gloss": "khona"
+      "gloss": "niye khona"
     },
     {
       "surface": "לרשתה",
-      "gloss": "ukuze nilawule"
+      "gloss": "ukuzinikela ngawo"
     }
   ],
-  "timestamp": "2026-09-18T07:57:17.031045996Z",
+  "timestamp": "2026-09-19T13:50:39.865183102Z",
   "model": "glm-5.3"
 }

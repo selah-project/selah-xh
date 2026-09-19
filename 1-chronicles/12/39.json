@@ -5,11 +5,11 @@
   "book": "1-chronicles",
   "lang": "xh",
   "chapter": 12,
-  "translation": "Onke la madoda empi, abalungelelanisa uludwe lomkhosi, nentliziyo ethe tye, bafikela eKheronini ukumenza uDavide yinkosi yakuwo onke uSirayeli; kwaye nako konke okuseleyo kukaSirayeli kunalintliziyo enye ukumenza uDavide yinkosi ⟨את⟩ uDavide.",
+  "translation": "Onke la madoda emfazwe, abakhwaziyo ukulungelelanisa umgca wolwa, beza nentliziyo epheleleyo eKhebhrone, ukumenza uDavide ukuba abe yinkosi kuwo onke amaSirayeli; kananjalo sonke isishwamandla samaSirayeli sasinentliziyo enye yokumenza uDavide ukuba abe yinkosi.",
   "tokens": [
     {
       "surface": "כל",
-      "gloss": "Onke"
+      "gloss": "onke"
     },
     {
       "surface": "אלה",
@@ -21,15 +21,15 @@
     },
     {
       "surface": "מלחמה",
-      "gloss": "empi"
+      "gloss": "emfazwe"
     },
     {
       "surface": "עדרי",
-      "gloss": "abalungelelanisa"
+      "gloss": "abakhwaziyo ukulungelelanisa"
     },
     {
       "surface": "מערכה",
-      "gloss": "uludwe lomkhosi"
+      "gloss": "umgca wolwa"
     },
     {
       "surface": "בלבב",
@@ -37,19 +37,19 @@
     },
     {
       "surface": "שלם",
-      "gloss": "ethe tye"
+      "gloss": "epheleleyo"
     },
     {
       "surface": "באו",
-      "gloss": "bafikela"
+      "gloss": "beza"
     },
     {
       "surface": "חברונה",
-      "gloss": "eKheronini"
+      "gloss": "eKhebhrone"
     },
     {
       "surface": "להמליך",
-      "gloss": "ukumenza yinkosi"
+      "gloss": "ukumenza ukuba abe yinkosi"
     },
     {
       "surface": "את",
@@ -62,7 +62,7 @@
     },
     {
       "surface": "על",
-      "gloss": "yakuwo"
+      "gloss": "kuwo"
     },
     {
       "surface": "כל",
@@ -70,27 +70,27 @@
     },
     {
       "surface": "ישראל",
-      "gloss": "uSirayeli"
+      "gloss": "amaSirayeli"
     },
     {
       "surface": "וגם",
-      "gloss": "kwaye nako"
+      "gloss": "kananjalo"
     },
     {
       "surface": "כל",
-      "gloss": "konke"
+      "gloss": "sonke"
     },
     {
       "surface": "שרית",
-      "gloss": "okuseleyo"
+      "gloss": "isishwamandla"
     },
     {
       "surface": "ישראל",
-      "gloss": "kukaSirayeli"
+      "gloss": "samaSirayeli"
     },
     {
       "surface": "לב",
-      "gloss": "lintliziyo"
+      "gloss": "intliziyo"
     },
     {
       "surface": "אחד",
@@ -98,7 +98,7 @@
     },
     {
       "surface": "להמליך",
-      "gloss": "ukumenza yinkosi"
+      "gloss": "yokumenza ukuba abe yinkosi"
     },
     {
       "surface": "את",
@@ -110,6 +110,6 @@
       "gloss": "uDavide"
     }
   ],
-  "timestamp": "2026-09-18T16:55:54.763891375Z",
+  "timestamp": "2026-09-19T13:41:19.720508164Z",
   "model": "glm-5.3"
 }

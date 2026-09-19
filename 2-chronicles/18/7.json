@@ -5,11 +5,11 @@
   "book": "2-chronicles",
   "lang": "xh",
   "chapter": 18,
-  "translation": "Inkosi yaseYisrayeli yathetha kuYehoshuwa: “Kukho kwakhona umntu omnye wokubuza ⟨את⟩ kuYahwe ngaye, kodwa mna ndimthiyile, kuba akaprofeti nto ilungileyo kum, kuba yonke imihla yakhe yeyokungcola; yena nguMikayihu, unyana kaYimla.” UYehoshuwa wathetha: “Musa, inkosi, ukutsho njalo.”",
+  "translation": "Wathetha inkosi yakwaSirayeli kuYehoshafati: “Kukho kwakhana omnye umntu wokubuza ⟨את⟩ uYahwe ⟨את⟩ kuye, kodwa mna ndimzonda, kuba yena akaprofetha nto elungileyo ngam, nokuba yonke imihla yakhe ibi; yena nguMikayehu unyana kaYimla.” Wathetha uYehoshafati: “Musa ukuba inkosi ithethe njalo.”",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "yathetha"
+      "gloss": "wathetha"
     },
     {
       "surface": "מלך",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "ישראל",
-      "gloss": "yaseYisrayeli"
+      "gloss": "yakwaSirayeli"
     },
     {
       "surface": "אל",
@@ -25,11 +25,11 @@
     },
     {
       "surface": "יהושפט",
-      "gloss": "uYehoshuwa"
+      "gloss": "uYehoshafati"
     },
     {
       "surface": "עוד",
-      "gloss": "kwakhona"
+      "gloss": "kwakhana"
     },
     {
       "surface": "איש",
@@ -46,7 +46,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "kuYahwe"
+      "marks": "uYahwe"
     },
     {
       "surface": "יהוה",
@@ -54,8 +54,8 @@
     },
     {
       "surface": "מאתו",
-      "gloss": "⟨את⟩ ngaye",
-      "marks": "uMikayihu unyana kaYimla"
+      "gloss": "⟨את⟩",
+      "marks": "kuye"
     },
     {
       "surface": "ואני",
@@ -63,7 +63,7 @@
     },
     {
       "surface": "שנאתיהו",
-      "gloss": "ndimthiyile"
+      "gloss": "ndimzonda"
     },
     {
       "surface": "כי",
@@ -71,23 +71,23 @@
     },
     {
       "surface": "איננו",
-      "gloss": "akaprofeti"
+      "gloss": "yena akaprofetha nto"
     },
     {
       "surface": "מתנבא",
-      "gloss": "aprofeti"
+      "gloss": "ukuprofetha"
     },
     {
       "surface": "עלי",
-      "gloss": "kum"
+      "gloss": "ngam"
     },
     {
       "surface": "לטובה",
-      "gloss": "okulungileyo"
+      "gloss": "elungileyo"
     },
     {
       "surface": "כי",
-      "gloss": "kuba"
+      "gloss": "nokuba"
     },
     {
       "surface": "כל",
@@ -99,7 +99,7 @@
     },
     {
       "surface": "לרעה",
-      "gloss": "yeyokungcola"
+      "gloss": "ibi"
     },
     {
       "surface": "הוא",
@@ -107,7 +107,7 @@
     },
     {
       "surface": "מיכיהו",
-      "gloss": "nguMikayihu"
+      "gloss": "nguMikayehu"
     },
     {
       "surface": "בן",
@@ -123,7 +123,7 @@
     },
     {
       "surface": "יהושפט",
-      "gloss": "uYehoshuwa"
+      "gloss": "uYehoshafati"
     },
     {
       "surface": "אל",
@@ -131,7 +131,7 @@
     },
     {
       "surface": "יאמר",
-      "gloss": "ukutsho"
+      "gloss": "ukuthetha"
     },
     {
       "surface": "המלך",
@@ -142,6 +142,6 @@
       "gloss": "njalo"
     }
   ],
-  "timestamp": "2026-09-18T17:53:32.802410352Z",
+  "timestamp": "2026-09-19T13:45:42.234585051Z",
   "model": "glm-5.3"
 }

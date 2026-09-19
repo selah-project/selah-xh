@@ -5,7 +5,7 @@
   "book": "nehemiah",
   "lang": "xh",
   "chapter": 6,
-  "translation": "Kuba bonke babesoyikisa, besithi: “Izandla zabo ziya kuthamba kumsebenzi, ungabi nekwenziwa.” Kodwa ngoku, qinisa ⟨את⟩ izandla zam.",
+  "translation": "Kuba bonke babeсофika… kuba bonke basoyika ⟨את⟩ thina, besithi: “Izandla zawo ziya kuthatha amandla emsebenzini, uze ungazenziwa.” Kodwa ngoku yamandla ⟨את⟩ izandla zam.",
   "tokens": [
     {
       "surface": "כי",
@@ -17,12 +17,12 @@
     },
     {
       "surface": "מיראים",
-      "gloss": "babesoyikisa"
+      "gloss": "basoyika"
     },
     {
       "surface": "אותנו",
       "gloss": "⟨את⟩",
-      "marks": "thina (isiphumo sokoyikisa)"
+      "marks": "thina"
     },
     {
       "surface": "לאמר",
@@ -30,11 +30,11 @@
     },
     {
       "surface": "ירפו",
-      "gloss": "ziya kuthamba"
+      "gloss": "ziya kuthatha amandla"
     },
     {
       "surface": "ידיהם",
-      "gloss": "izandla zabo"
+      "gloss": "izandla zawo"
     },
     {
       "surface": "מן",
@@ -42,15 +42,15 @@
     },
     {
       "surface": "המלאכה",
-      "gloss": "kumsebenzi"
+      "gloss": "umsebenzi"
     },
     {
       "surface": "ולא",
-      "gloss": "kodwa ungabi"
+      "gloss": "kwaye akuke"
     },
     {
       "surface": "תעשה",
-      "gloss": "nekwenziwa"
+      "gloss": "ungazenziwa"
     },
     {
       "surface": "ועתה",
@@ -58,7 +58,7 @@
     },
     {
       "surface": "חזק",
-      "gloss": "qinisa"
+      "gloss": "yamandla"
     },
     {
       "surface": "את",
@@ -70,6 +70,6 @@
       "gloss": "izandla zam"
     }
   ],
-  "timestamp": "2026-09-18T16:45:03.387347530Z",
+  "timestamp": "2026-09-19T14:08:01.474934544Z",
   "model": "glm-5.3"
 }

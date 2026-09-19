@@ -5,28 +5,28 @@
   "book": "exodus",
   "lang": "xh",
   "chapter": 12,
-  "translation": "Yaye uYahwe wanikeza uluntu ucumo emehlweni abo baseMitsrayim, yaye bazinceda <abaseMitsrayim> ngokwento abayicelayo; baza ke baphanga kwiMitsrayim ⟨את⟩ <konke okwayo>.",
+  "translation": "uYahwe wanika ⟨את⟩ ithuba abantu emehlweni amaMitsrayim, aza awabiza-nemali; baza batyabukela ⟨את⟩ iMitsrayim.",
   "tokens": [
     {
       "surface": "ויהוה",
-      "gloss": "Yaye uYahwe"
+      "gloss": "uYahwe"
     },
     {
       "surface": "נתן",
-      "gloss": "wanikeza"
+      "gloss": "wanika"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ucumo"
+      "marks": "ithuba"
     },
     {
       "surface": "חן",
-      "gloss": "ucumo"
+      "gloss": "ithuba"
     },
     {
       "surface": "העם",
-      "gloss": "uluntu"
+      "gloss": "abantu"
     },
     {
       "surface": "בעיני",
@@ -34,15 +34,15 @@
     },
     {
       "surface": "מצרים",
-      "gloss": "abo baseMitsrayim"
+      "gloss": "amaMitsrayim"
     },
     {
       "surface": "וישאלום",
-      "gloss": "bazinceda"
+      "gloss": "aza awabiza-nemali"
     },
     {
       "surface": "וינצלו",
-      "gloss": "baphanga"
+      "gloss": "baza batyabukela"
     },
     {
       "surface": "את",
@@ -51,9 +51,9 @@
     },
     {
       "surface": "מצרים",
-      "gloss": "kwiMitsrayim"
+      "gloss": "iMitsrayim"
     }
   ],
-  "timestamp": "2026-09-18T06:00:39.538075840Z",
+  "timestamp": "2026-09-19T13:51:45.494270405Z",
   "model": "glm-5.3"
 }

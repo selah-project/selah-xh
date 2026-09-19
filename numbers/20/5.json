@@ -5,11 +5,11 @@
   "book": "numbers",
   "lang": "xh",
   "chapter": 20,
-  "translation": "Kananjalo nitheni na ukusivusa eMitsrayim, ukusilethela kule ndawo embi? Akukho ndawo yokutyala, inqumba, isiroba, okanye iigranate; amanzi akukho apha okusela.",
+  "translation": "Kananjalo nitheni na ukusivusa kwisiMitsrayim, ukusilethisa apha kule ndawo entlekeleyo? Ayilo ndawo yokutyalwa, hayi iteyi, hayi isidiliya, hayi igranati; kwaye akukho manzi okusela.",
   "tokens": [
     {
       "surface": "ולמה",
-      "gloss": "kananjalo nitheni na"
+      "gloss": "Kananjalo nitheni na"
     },
     {
       "surface": "העליתנו",
@@ -17,19 +17,20 @@
     },
     {
       "surface": "ממצרים",
-      "gloss": "eMitsrayim"
+      "gloss": "kwisiMitsrayim"
     },
     {
       "surface": "להביא",
-      "gloss": "ukusilethela"
+      "gloss": "ukusilethisa"
     },
     {
       "surface": "אתנו",
-      "gloss": "⟨את⟩"
+      "gloss": "⟨את⟩",
+      "marks": "thina (isibambi esithe sahlelwa)"
     },
     {
       "surface": "אל",
-      "gloss": "ku"
+      "gloss": "apha ku-"
     },
     {
       "surface": "המקום",
@@ -37,7 +38,7 @@
     },
     {
       "surface": "הרע",
-      "gloss": "embi"
+      "gloss": "entlekeleyo"
     },
     {
       "surface": "הזה",
@@ -45,7 +46,7 @@
     },
     {
       "surface": "לא",
-      "gloss": "akukho"
+      "gloss": "Ayilo"
     },
     {
       "surface": "מקום",
@@ -53,33 +54,33 @@
     },
     {
       "surface": "זרע",
-      "gloss": "yokutyala"
+      "gloss": "yokutyalwa"
     },
     {
       "surface": "ותאנה",
-      "gloss": "inqumba"
+      "gloss": "hayi iteyi"
     },
     {
       "surface": "וגפן",
-      "gloss": "isiroba"
+      "gloss": "hayi isidiliya"
     },
     {
       "surface": "ורמון",
-      "gloss": "iigranate"
+      "gloss": "hayi igranati"
     },
     {
       "surface": "ומים",
-      "gloss": "amanzi"
+      "gloss": "kwaye akukho manzi"
     },
     {
       "surface": "אין",
-      "gloss": "akukho apha"
+      "gloss": "akukho"
     },
     {
       "surface": "לשתות",
       "gloss": "okusela"
     }
   ],
-  "timestamp": "2026-09-18T07:32:37.866193496Z",
+  "timestamp": "2026-09-19T14:09:19.743688010Z",
   "model": "glm-5.3"
 }

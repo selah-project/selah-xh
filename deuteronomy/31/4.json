@@ -5,11 +5,11 @@
   "book": "deuteronomy",
   "lang": "xh",
   "chapter": 31,
-  "translation": "uYahwe uza kwenza kubo njengoko wawenza kuSihoni naku-Ogi, iinkosi zamaMori, nakweli litha lakhe; abo wabatshabalalisa.",
+  "translation": "uYahwe uza kubenza njengoko wabenza kuSihoni nakuOgi, iinkosi zabaMori, nangapha kweyabo loMhlaba lowo wawutshabalalisa ngabo ⟨את⟩.",
   "tokens": [
     {
       "surface": "ועשה",
-      "gloss": "uza kwenza"
+      "gloss": "uza kubenza"
     },
     {
       "surface": "יהוה",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "להם",
-      "gloss": "kubo"
+      "gloss": "zona"
     },
     {
       "surface": "כאשר",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "עשה",
-      "gloss": "wawenza"
+      "gloss": "wabenza"
     },
     {
       "surface": "לסיחון",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "ולעוג",
-      "gloss": "naku-Ogi"
+      "gloss": "nakuOgi"
     },
     {
       "surface": "מלכי",
@@ -41,26 +41,26 @@
     },
     {
       "surface": "האמרי",
-      "gloss": "zamaMori"
+      "gloss": "zabaMori"
     },
     {
       "surface": "ולארצם",
-      "gloss": "nakweli litha"
+      "gloss": "nangapha kweyabo loMhlaba"
     },
     {
       "surface": "אשר",
-      "gloss": "abo"
+      "gloss": "lowo"
     },
     {
       "surface": "השמיד",
-      "gloss": "wabatshabalalisa"
+      "gloss": "wawutshabalalisa"
     },
     {
       "surface": "אתם",
       "gloss": "⟨את⟩",
-      "marks": "–"
+      "marks": "zona (iintlanga)"
     }
   ],
-  "timestamp": "2026-09-18T08:25:21.360217899Z",
+  "timestamp": "2026-09-19T13:49:44.243245112Z",
   "model": "glm-5.3"
 }

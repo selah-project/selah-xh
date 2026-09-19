@@ -5,7 +5,7 @@
   "book": "1-samuel",
   "lang": "xh",
   "chapter": 1,
-  "translation": "U-Elkanah umyeni wakhe wathi kuye: “Yenza okulungileyo emehlweni akho; hlala de umlahle ibele lakhe; masingqine uYahwe ⟨את⟩ ilizwi lakhe.” Wachusettsahlala-ke umfazi, wamnceda ngobele de wamphumlisa ibele ⟨את⟩ unyana wakhe.",
+  "translation": "Wathi kuye u-Elqana, indoda yakhe: “Yenza okulungileyo emehlweni akho; hlala ungadlulile de umlisile ⟨את⟩ yena. Masimangele uYahwe ⟨את⟩ ilizwi lakhe.” Emva koko umfazi wahlala, wamnceda ubisi unyana wakhe ⟨את⟩, de wamlisile yena.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -17,11 +17,11 @@
     },
     {
       "surface": "אלקנה",
-      "gloss": "u-Elkanah"
+      "gloss": "u-Elqana"
     },
     {
       "surface": "אישה",
-      "gloss": "umyeni wakhe"
+      "gloss": "indoda yakhe"
     },
     {
       "surface": "עשי",
@@ -45,20 +45,20 @@
     },
     {
       "surface": "גמלך",
-      "gloss": "umlahle ibele"
+      "gloss": "umlisile"
     },
     {
       "surface": "אתו",
       "gloss": "⟨את⟩",
-      "marks": "yena (umntwana)"
+      "marks": "yena"
     },
     {
       "surface": "אך",
-      "gloss": "nje"
+      "gloss": "masimangele"
     },
     {
       "surface": "יקם",
-      "gloss": "masingqine"
+      "gloss": "aqinise"
     },
     {
       "surface": "יהוה",
@@ -83,7 +83,7 @@
     },
     {
       "surface": "ותינק",
-      "gloss": "wamnceda ngobele"
+      "gloss": "wamnceda ubisi"
     },
     {
       "surface": "את",
@@ -100,14 +100,14 @@
     },
     {
       "surface": "גמלה",
-      "gloss": "wamphumlisa ibele"
+      "gloss": "wamlisile"
     },
     {
       "surface": "אתו",
       "gloss": "⟨את⟩",
-      "marks": "yena (umntwana)"
+      "marks": "yena"
     }
   ],
-  "timestamp": "2026-09-18T09:13:48.873175082Z",
+  "timestamp": "2026-09-19T13:43:18.500897211Z",
   "model": "glm-5.3"
 }

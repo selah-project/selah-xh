@@ -5,16 +5,15 @@
   "book": "leviticus",
   "lang": "xh",
   "chapter": 16,
-  "translation": "Kwaye u-Aharon uza kuthabatha kwindibano yabantwana bakwaYisraeli imbini yeentshoci zezibokana zenxeba, nendoda enye yemvu isisipho esishiswayo.",
+  "translation": "Kwaye kwiqela labantwana bakwaSirayeli uza kuthabatha iimbuzi ezimbini ezikwezimuncu ngesonini, nenkunzi yemvu enye yokunikelwa ngokutshisa.",
   "tokens": [
     {
       "surface": "ומאת",
-      "gloss": "⟨את⟩ kwi-",
-      "marks": "indibano yabantwana bakwaYisraeli"
+      "gloss": "⟨את⟩"
     },
     {
       "surface": "עדת",
-      "gloss": "indibano"
+      "gloss": "iqela"
     },
     {
       "surface": "בני",
@@ -22,7 +21,7 @@
     },
     {
       "surface": "ישראל",
-      "gloss": "bakwaYisraeli"
+      "gloss": "bakwaSirayeli"
     },
     {
       "surface": "יקח",
@@ -30,23 +29,23 @@
     },
     {
       "surface": "שני",
-      "gloss": "imbini"
+      "gloss": "ezimbini"
     },
     {
       "surface": "שעירי",
-      "gloss": "yeentshoci"
+      "gloss": "iimbuzi ezikwezimuncu"
     },
     {
       "surface": "עזים",
-      "gloss": "zezibokana"
+      "gloss": "ezembuzi"
     },
     {
       "surface": "לחטאת",
-      "gloss": "ngenxeba"
+      "gloss": "ngesonini"
     },
     {
       "surface": "ואיל",
-      "gloss": "nendoda yemvu"
+      "gloss": "nenkunzi yemvu"
     },
     {
       "surface": "אחד",
@@ -54,9 +53,9 @@
     },
     {
       "surface": "לעלה",
-      "gloss": "esisipho esishiswayo"
+      "gloss": "yokunikelwa ngokutshisa"
     }
   ],
-  "timestamp": "2026-09-18T06:53:50.463680326Z",
+  "timestamp": "2026-09-19T14:05:37.214361121Z",
   "model": "glm-5.3"
 }

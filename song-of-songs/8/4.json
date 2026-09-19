@@ -5,7 +5,7 @@
   "book": "song-of-songs",
   "lang": "xh",
   "chapter": 8,
-  "translation": "Ndinifungisile ngesibiyelo, amadoda akwaYerushalayimi — makungabi nanto yokuvusa nokuvusa uthando, de lithande ngokwalo.",
+  "translation": "Ndinifungisile nina, iintombi zaseYerushalayimi: ukuthini nivusa, nokuthini nivusa uthando ⟨את⟩, de lithande?",
   "tokens": [
     {
       "surface": "השבעתי",
@@ -13,31 +13,32 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ nisibiyelo"
+      "gloss": "⟨את⟩",
+      "marks": "iintombi zaseYerushalayimi"
     },
     {
       "surface": "בנות",
-      "gloss": "amadoda akwa-"
+      "gloss": "iintombi"
     },
     {
       "surface": "ירושלם",
-      "gloss": "Yerushalayimi"
+      "gloss": "zaseYerushalayimi"
     },
     {
       "surface": "מה",
-      "gloss": "makungabi nanto"
+      "gloss": "ukuthini"
     },
     {
       "surface": "תעירו",
-      "gloss": "yokuvusa"
+      "gloss": "nivusa"
     },
     {
       "surface": "ומה",
-      "gloss": "nokuvusa"
+      "gloss": "nokuthini"
     },
     {
       "surface": "תעררו",
-      "gloss": "ukuvusa"
+      "gloss": "nivusa"
     },
     {
       "surface": "את",
@@ -54,9 +55,9 @@
     },
     {
       "surface": "שתחפץ",
-      "gloss": " lithande ngokwalo"
+      "gloss": "lithande"
     }
   ],
-  "timestamp": "2026-09-18T16:18:41.152143448Z",
+  "timestamp": "2026-09-19T14:11:31.809289514Z",
   "model": "glm-5.3"
 }

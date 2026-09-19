@@ -5,7 +5,7 @@
   "book": "exodus",
   "lang": "xh",
   "chapter": 35,
-  "translation": "⟨את⟩ itafile kunye ⟨נאָ⟩ ngeebhadi zayo, ⟨את⟩ zonke iinto zayo, no⟨את⟩ isonka sobukho bonyewe;",
+  "translation": "⟨את⟩ itafile kunye ⟨אאת⟩ neebhadi zayo, kunye ⟨אאת⟩ nazonke iimpahla zayo, kunye ⟨אאת⟩ nesonka sobukho bobuso;",
   "tokens": [
     {
       "surface": "את",
@@ -18,40 +18,40 @@
     },
     {
       "surface": "ואת",
-      "gloss": "kunye ⟨את⟩",
-      "marks": "iibhadi zayo"
+      "gloss": "kunye ⟨אאת⟩",
+      "marks": "eebhadi zayo"
     },
     {
       "surface": "בדיו",
-      "gloss": "iibhadi zayo"
+      "gloss": "kunye neebhadi zayo"
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
-      "marks": "zonke iinto zayo"
+      "gloss": "kunye ⟨אאת⟩",
+      "marks": "nazonke iimpahla zayo"
     },
     {
       "surface": "כל",
-      "gloss": "zonke"
+      "gloss": "nazonke"
     },
     {
       "surface": "כליו",
-      "gloss": "iinto zayo"
+      "gloss": "iimpahla zayo"
     },
     {
       "surface": "ואת",
-      "gloss": "no⟨את⟩",
-      "marks": "isonka sobukho bonyewe"
+      "gloss": "kunye ⟨אאת⟩",
+      "marks": "isonka sobukho bobuso"
     },
     {
       "surface": "לחם",
-      "gloss": "isonka"
+      "gloss": "kunye nesonka"
     },
     {
       "surface": "הפנים",
-      "gloss": "sobukho bonyewe"
+      "gloss": "sobukho bobuso"
     }
   ],
-  "timestamp": "2026-09-18T06:23:25.769986491Z",
+  "timestamp": "2026-09-19T13:52:10.964034463Z",
   "model": "glm-5.3"
 }

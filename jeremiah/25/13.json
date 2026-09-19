@@ -5,15 +5,15 @@
   "book": "jeremiah",
   "lang": "xh",
   "chapter": 25,
-  "translation": "Ndiza kuzisa phezu koloo umhlaba onke amazwi am, awathethayo ngakumbi ngayo, onke okubhaliweyo kule ncwadi, uYirmeyahu owayeprofetha ngakumbi ngazo onke amazwe.",
+  "translation": "Kwaye ndiza kuzisa phezu kwelo mhlaba ⟨את⟩ onke amazwam oku ndawathetha ngawo ngokuchasene nawo, ⟨את⟩ konke okubhaliweyo kule ncwadi, oko uYirmeyahu wakuphrofetha ngakunene ngo- onke amazwe.",
   "tokens": [
     {
       "surface": "והבאיתי",
-      "gloss": "Ndiza kuzisa phezu"
+      "gloss": "kwaye ndiza kuzisa"
     },
     {
       "surface": "על",
-      "gloss": "phezu"
+      "gloss": "phezu kwe"
     },
     {
       "surface": "הארץ",
@@ -21,12 +21,12 @@
     },
     {
       "surface": "ההיא",
-      "gloss": "oloo"
+      "gloss": "elo"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "onke amazwi am"
+      "marks": "onke amazwam"
     },
     {
       "surface": "כל",
@@ -34,28 +34,28 @@
     },
     {
       "surface": "דברי",
-      "gloss": "amazwi am"
+      "gloss": "amazwam"
     },
     {
       "surface": "אשר",
-      "gloss": "awathethayo"
+      "gloss": "oku"
     },
     {
       "surface": "דברתי",
-      "gloss": "ndawuthetha"
+      "gloss": "ndawathetha"
     },
     {
       "surface": "עליה",
-      "gloss": "ngayo"
+      "gloss": "ngokuchasene nawo"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "onke okubhaliweyo"
+      "marks": "konke okubhaliweyo"
     },
     {
       "surface": "כל",
-      "gloss": "onke"
+      "gloss": "konke"
     },
     {
       "surface": "הכתוב",
@@ -63,7 +63,7 @@
     },
     {
       "surface": "בספר",
-      "gloss": "kwincwadi"
+      "gloss": "kule ncwadi"
     },
     {
       "surface": "הזה",
@@ -71,11 +71,11 @@
     },
     {
       "surface": "אשר",
-      "gloss": "owayeprofetha"
+      "gloss": "oko"
     },
     {
       "surface": "נבא",
-      "gloss": "wayeprofetha"
+      "gloss": "wakuphrofetha"
     },
     {
       "surface": "ירמיהו",
@@ -83,7 +83,7 @@
     },
     {
       "surface": "על",
-      "gloss": "ngakumbi"
+      "gloss": "ngakunene ngo-"
     },
     {
       "surface": "כל",
@@ -94,6 +94,6 @@
       "gloss": "amazwe"
     }
   ],
-  "timestamp": "2026-09-18T12:14:16.164056690Z",
+  "timestamp": "2026-09-19T13:59:56.380199166Z",
   "model": "glm-5.3"
 }

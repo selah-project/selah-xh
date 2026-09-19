@@ -5,15 +5,15 @@
   "book": "1-samuel",
   "lang": "xh",
   "chapter": 17,
-  "translation": "Ukuba ungakwazi ukulwa ⟨את⟩ nam, wandibetha, siba ziicaka kuni; ukuba mna ndingamkwazi yena, ndimbetha, niba niicaka kuthi, nisixeleke.",
+  "translation": "Ukuba unako ukulwa ⟨את⟩ nam, unditya, siza kuba ngeenkonzi zenu; ukuba mna ndinako yena, ndimshaye, niza kuba ngeenkonzi zethu, nize nisize ⟨את⟩ thina.",
   "tokens": [
     {
       "surface": "אם",
-      "gloss": "Ukuba"
+      "gloss": "ukuba"
     },
     {
       "surface": "יוכל",
-      "gloss": "ungakwazi"
+      "gloss": "unako"
     },
     {
       "surface": "להלחם",
@@ -22,23 +22,23 @@
     {
       "surface": "אתי",
       "gloss": "⟨את⟩ nam",
-      "marks": "nam"
+      "marks": "nam (ndim)"
     },
     {
       "surface": "והכני",
-      "gloss": "wandibetha"
+      "gloss": "unditya"
     },
     {
       "surface": "והיינו",
-      "gloss": "siba"
+      "gloss": "siza kuba"
     },
     {
       "surface": "לכם",
-      "gloss": "kuni"
+      "gloss": "zenu"
     },
     {
       "surface": "לעבדים",
-      "gloss": "ziicaka"
+      "gloss": "ngeenkonzi"
     },
     {
       "surface": "ואם",
@@ -50,7 +50,7 @@
     },
     {
       "surface": "אוכל",
-      "gloss": "ndingamkwazi"
+      "gloss": "ndinako"
     },
     {
       "surface": "לו",
@@ -58,30 +58,30 @@
     },
     {
       "surface": "והכיתיו",
-      "gloss": "ndimbetha"
+      "gloss": "ndimshaye"
     },
     {
       "surface": "והייתם",
-      "gloss": "niba"
+      "gloss": "niza kuba"
     },
     {
       "surface": "לנו",
-      "gloss": "kuthi"
+      "gloss": "zethu"
     },
     {
       "surface": "לעבדים",
-      "gloss": "niicaka"
+      "gloss": "ngeenkonzi"
     },
     {
       "surface": "ועבדתם",
-      "gloss": "nisixeleke"
+      "gloss": "nisize"
     },
     {
       "surface": "אתנו",
-      "gloss": "⟨את⟩ thina",
-      "marks": ""
+      "gloss": "⟨את⟩",
+      "marks": "thina"
     }
   ],
-  "timestamp": "2026-09-18T09:27:27.826914286Z",
+  "timestamp": "2026-09-19T13:44:00.189935983Z",
   "model": "glm-5.3"
 }

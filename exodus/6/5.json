@@ -5,7 +5,7 @@
   "book": "exodus",
   "lang": "xh",
   "chapter": 6,
-  "translation": "Kananjalo mna ndivile ⟨את⟩ ukukhalazela kwabantwana bakaSirayeli, abo iMitsrayim ibenzela ngobunzungu; ndakhumbula ⟨את⟩ umnqophiso wam.",
+  "translation": "Kananjalo mna ndive ⟨את⟩ ukukhalazela kwezizukulwana zikaSirayeli, apho iMitsrayim ibenza ngamabele; ndakhumbula ⟨את⟩ umnqophiso wam.",
   "tokens": [
     {
       "surface": "וגם",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "שמעתי",
-      "gloss": "ndivile"
+      "gloss": "ndive"
     },
     {
       "surface": "את",
@@ -30,15 +30,15 @@
     },
     {
       "surface": "בני",
-      "gloss": "abantwana"
+      "gloss": "ezizukulwana zika"
     },
     {
       "surface": "ישראל",
-      "gloss": "bakaSirayeli"
+      "gloss": "Sirayeli"
     },
     {
       "surface": "אשר",
-      "gloss": "abo"
+      "gloss": "apho"
     },
     {
       "surface": "מצרים",
@@ -46,11 +46,12 @@
     },
     {
       "surface": "מעבדים",
-      "gloss": "ibenzela"
+      "gloss": "ibenza ngamabele"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩"
+      "gloss": "⟨אתם⟩",
+      "marks": "—"
     },
     {
       "surface": "ואזכר",
@@ -66,6 +67,6 @@
       "gloss": "umnqophiso wam"
     }
   ],
-  "timestamp": "2026-09-18T05:53:16.997168041Z",
+  "timestamp": "2026-09-19T13:53:16.194889342Z",
   "model": "glm-5.3"
 }

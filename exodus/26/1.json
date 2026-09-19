@@ -5,20 +5,20 @@
   "book": "exodus",
   "lang": "xh",
   "chapter": 26,
-  "translation": "Kananjalo uza kuwenza ⟨את⟩ itenti ngeentsimi ezilishumi: zobhodi bohlanga obuhlanjiweyo obujikelezweyo, obuhlaza, obumsundwa, nobomsundu obutshukunu; ngokherubhim, ngomsebenzi womcebisi, uza kuwenzela.",
+  "translation": "Uza kwenza ⟨את⟩ itente ngeethenda ezilishumi: ilinen elicetyisiweyo elimhlophe, ubuhlalu obuluhlaza, ubomvu obungcwebe, nesikarliti ebomvu; ngamaKherubi, umsebenzi wecwecwe ocokelyo, uza kuwenza ⟨את⟩.",
   "tokens": [
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "itenti"
+      "marks": "itente"
     },
     {
       "surface": "המשכן",
-      "gloss": "itenti"
+      "gloss": "itente"
     },
     {
       "surface": "תעשה",
-      "gloss": "uza kuwenza"
+      "gloss": "uza kwenza"
     },
     {
       "surface": "עשר",
@@ -26,36 +26,35 @@
     },
     {
       "surface": "יריעת",
-      "gloss": "iintsimi"
+      "gloss": "iithenda"
     },
     {
       "surface": "שש",
-      "gloss": "obhodi bohlanga"
+      "gloss": "ilinen elimhlophe"
     },
     {
       "surface": "משזר",
-      "gloss": "obuhlanjiweyo obujikelezweyo"
+      "gloss": "elicetyisiweyo"
     },
     {
       "surface": "ותכלת",
-      "gloss": "obuhlaza"
+      "gloss": "ubuhlalu obuluhlaza"
     },
     {
       "surface": "וארגמן",
-      "gloss": "obumsundwa"
+      "gloss": "ubomvu obungcwebe"
     },
     {
       "surface": "ותלעת",
-      "gloss": "nobomsundu obutshukunu",
-      "marks": ""
+      "gloss": "isikarliti (intshabalala esibomvu)"
     },
     {
       "surface": "שני",
-      "gloss": "obutshukunu"
+      "gloss": "ebomvu"
     },
     {
       "surface": "כרבים",
-      "gloss": "okherubhim"
+      "gloss": "amaKherubi"
     },
     {
       "surface": "מעשה",
@@ -63,18 +62,18 @@
     },
     {
       "surface": "חשב",
-      "gloss": "womcebisi"
+      "gloss": "wecwecwe ocokelyo"
     },
     {
       "surface": "תעשה",
-      "gloss": "uza kuwenzela"
+      "gloss": "uza kuwenza"
     },
     {
       "surface": "אתם",
       "gloss": "⟨את⟩",
-      "marks": "iintsimi"
+      "marks": "iithenda"
     }
   ],
-  "timestamp": "2026-09-18T06:15:07.419570706Z",
+  "timestamp": "2026-09-19T13:52:10.517561912Z",
   "model": "glm-5.3"
 }

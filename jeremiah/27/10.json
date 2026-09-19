@@ -5,7 +5,7 @@
   "book": "jeremiah",
   "lang": "xh",
   "chapter": 27,
-  "translation": "Kuba bubuxoki abaprofetha kuni, ukuze bakuqheleza nina kude nomhlaba wenu; ndiza kunidudula nina, nize nitshabalala.",
+  "translation": "Kuba bubuxoki ababiprofethayo kuni, ukuze bakunikude ⟨את⟩ kuni ekweni lenu; mna ndiza kunudukisa ⟨את⟩ kuni, nize nitshabalale.",
   "tokens": [
     {
       "surface": "כי",
@@ -17,11 +17,11 @@
     },
     {
       "surface": "הם",
-      "gloss": "bona"
+      "gloss": "aba-"
     },
     {
       "surface": "נבאים",
-      "gloss": "baprofetha"
+      "gloss": "bayaprofethayo"
     },
     {
       "surface": "לכם",
@@ -33,33 +33,35 @@
     },
     {
       "surface": "הרחיק",
-      "gloss": "bakuqheleza"
+      "gloss": "bakunikude"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ nina"
+      "gloss": "⟨את⟩",
+      "marks": "kuni"
     },
     {
       "surface": "מעל",
-      "gloss": "kude no-"
+      "gloss": "ekweni lenu"
     },
     {
       "surface": "אדמתכם",
-      "gloss": "umhlaba wenu"
+      "gloss": "ekweni lenu (umhlaba wenu)"
     },
     {
       "surface": "והדחתי",
-      "gloss": "ndiza kunidudula"
+      "gloss": "ndiza kunudukisa"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ nina"
+      "gloss": "⟨את⟩",
+      "marks": "kuni"
     },
     {
       "surface": "ואבדתם",
-      "gloss": "nize nitshabalala"
+      "gloss": "nize nitshabalale"
     }
   ],
-  "timestamp": "2026-09-18T12:16:55.067051511Z",
+  "timestamp": "2026-09-19T14:00:25.995029998Z",
   "model": "glm-5.3"
 }

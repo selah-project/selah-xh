@@ -5,11 +5,11 @@
   "book": "genesis",
   "lang": "xh",
   "chapter": 4,
-  "translation": "UNgadam wamazi uChavah umkakhe; wakhulelwa wazala uKayin, wathi: “Ndifumene indoda ⟨את⟩ ngoYahwe.”",
+  "translation": "Umntu wamazi ⟨את⟩ uKhavwa umfazi wakhe; wakhulelwa, wazala ⟨את⟩ uKayini, wathi: “Ndifumene indoda ⟨את⟩ uYahwe.”",
   "tokens": [
     {
       "surface": "והאדם",
-      "gloss": "kananjalo uNgadam"
+      "gloss": "Umntu"
     },
     {
       "surface": "ידע",
@@ -18,15 +18,15 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "uChavah"
+      "marks": "uKhavwa"
     },
     {
       "surface": "חוה",
-      "gloss": "uChavah"
+      "gloss": "uKhavwa"
     },
     {
       "surface": "אשתו",
-      "gloss": "umkakhe"
+      "gloss": "umfazi wakhe"
     },
     {
       "surface": "ותהר",
@@ -39,11 +39,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "uKayin"
+      "marks": "uKayini"
     },
     {
       "surface": "קין",
-      "gloss": "uKayin"
+      "gloss": "uKayini"
     },
     {
       "surface": "ותאמר",
@@ -51,7 +51,7 @@
     },
     {
       "surface": "קניתי",
-      "gloss": "ndifumene"
+      "gloss": "Ndifumene"
     },
     {
       "surface": "איש",
@@ -67,6 +67,6 @@
       "gloss": "uYahwe"
     }
   ],
-  "timestamp": "2026-09-18T05:08:18.818713080Z",
+  "timestamp": "2026-09-19T13:56:46.092467060Z",
   "model": "glm-5.3"
 }

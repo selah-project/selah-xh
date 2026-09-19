@@ -5,15 +5,15 @@
   "book": "esther",
   "lang": "xh",
   "chapter": 8,
-  "translation": "UEsther wongeze wathetha phambi kwenkosi, wawa phambi kweenyawo zayo, walila, wathandazela kuye ukuba asuse ⟨את⟩ ububi bukaHamani owaseAgagi, nesocingo sakhe asicecileyo ngakumbi abayuda.",
+  "translation": "Wongezelela u-Ester, wathetha phambi kukumkani, wawa phambi kweenyawo zakhe, wakhala, wamthandazela ukuba amshenxiselo ububi bukaHaman uM-Agagi, ⟨את⟩ noyilo lwakhe aluwile ngakumbi abaYuda — wamthandazela ukuba alushenxiselo.",
   "tokens": [
     {
       "surface": "ותוסף",
-      "gloss": "wongeza"
+      "gloss": "wongezelela"
     },
     {
       "surface": "אסתר",
-      "gloss": "uEsther"
+      "gloss": "u-Ester"
     },
     {
       "surface": "ותדבר",
@@ -21,11 +21,11 @@
     },
     {
       "surface": "לפני",
-      "gloss": "phambi kwenkosi"
+      "gloss": "phambi kuka-"
     },
     {
       "surface": "המלך",
-      "gloss": "kwenkosi"
+      "gloss": "umkumkani"
     },
     {
       "surface": "ותפל",
@@ -33,19 +33,19 @@
     },
     {
       "surface": "לפני",
-      "gloss": "phambi kwiinyawo zayo"
+      "gloss": "phambi kwi-"
     },
     {
       "surface": "רגליו",
-      "gloss": "kwiinyawo zayo"
+      "gloss": "nyawo zakhe"
     },
     {
       "surface": "ותבך",
-      "gloss": "walila"
+      "gloss": "wakhala"
     },
     {
       "surface": "ותתחנן",
-      "gloss": "wathandazela"
+      "gloss": "wamthandazela"
     },
     {
       "surface": "לו",
@@ -53,12 +53,12 @@
     },
     {
       "surface": "להעביר",
-      "gloss": "ukuba asuse"
+      "gloss": "ukuba ashenxisela"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ububi bukaHamani"
+      "marks": "ububi bukaHaman"
     },
     {
       "surface": "רעת",
@@ -66,28 +66,28 @@
     },
     {
       "surface": "המן",
-      "gloss": "bukaHamani"
+      "gloss": "uHaman"
     },
     {
       "surface": "האגגי",
-      "gloss": "owaseAgagi"
+      "gloss": "um-Agagi"
     },
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "esocingo sakhe"
+      "marks": "oyilo lwakhe"
     },
     {
       "surface": "מחשבתו",
-      "gloss": "esocingo sakhe"
+      "gloss": "oyilo lwakhe"
     },
     {
       "surface": "אשר",
-      "gloss": "asicecileyo"
+      "gloss": "oko"
     },
     {
       "surface": "חשב",
-      "gloss": "asicecileyo"
+      "gloss": "aluwile"
     },
     {
       "surface": "על",
@@ -95,9 +95,9 @@
     },
     {
       "surface": "היהודים",
-      "gloss": "abayuda"
+      "gloss": "abaYuda"
     }
   ],
-  "timestamp": "2026-09-18T16:30:11.665413233Z",
+  "timestamp": "2026-09-19T13:50:40.051515473Z",
   "model": "glm-5.3"
 }

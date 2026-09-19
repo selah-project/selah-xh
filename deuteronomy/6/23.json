@@ -5,19 +5,20 @@
   "book": "deuteronomy",
   "lang": "xh",
   "chapter": 6,
-  "translation": "⟨את⟩ us sikhuphe ngaphaya kwaleyo, ukuze asingenise, asinike ⟨את⟩ umhlaba owafungisa kuwo ooyise bethu.",
+  "translation": "Yaye usiphumezele ⟨את⟩ thina ngaphaya khona, ukuze asingenise ⟨את⟩ thina, ukusinika ⟨את⟩ umhlaba owafungiswa kwooyise bethu.",
   "tokens": [
     {
       "surface": "ואותנו",
-      "gloss": "⟨את⟩ us"
+      "gloss": "⟨את⟩ thina",
+      "marks": "usiphumezele — into ethunyelweyo nangu thina"
     },
     {
       "surface": "הוציא",
-      "gloss": "sikhuphe"
+      "gloss": "usiphumezele"
     },
     {
       "surface": "משם",
-      "gloss": "ngaphaya kwaleyo"
+      "gloss": "ngaphaya khona"
     },
     {
       "surface": "למען",
@@ -25,19 +26,20 @@
     },
     {
       "surface": "הביא",
-      "gloss": "asingenise"
+      "gloss": "asigenise"
     },
     {
       "surface": "אתנו",
-      "gloss": "⟨את⟩ asi"
+      "gloss": "⟨את⟩ thina",
+      "marks": "asingenise — into ethunyelweyo nangu thina"
     },
     {
       "surface": "לתת",
-      "gloss": "asinike"
+      "gloss": "ukusinika"
     },
     {
       "surface": "לנו",
-      "gloss": "si"
+      "gloss": "-sinika"
     },
     {
       "surface": "את",
@@ -54,13 +56,13 @@
     },
     {
       "surface": "נשבע",
-      "gloss": "wafungisa"
+      "gloss": "owafungiswa"
     },
     {
       "surface": "לאבתינו",
-      "gloss": "kuwo ooyise bethu"
+      "gloss": "kwooyise bethu"
     }
   ],
-  "timestamp": "2026-09-18T07:58:59.209450368Z",
+  "timestamp": "2026-09-19T13:50:47.756861235Z",
   "model": "glm-5.3"
 }

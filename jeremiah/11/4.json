@@ -5,15 +5,15 @@
   "book": "jeremiah",
   "lang": "xh",
   "chapter": 11,
-  "translation": "ondayibalela oobawo benu ngeentsuku endazikhupha ngayo iMitsrayim esikongweni seentsimbi, ukuthi: Mameleni ilizwi lam, nizenze ⟨את⟩ zonke into endiniyalelayo; nibe ngabantu bakho, mna ndibe nguElohim wenu.",
+  "translation": "Endawo ndayalela ngayo oobawo benu, ngosuku endazikhipha ngalo ⟨את⟩ bona elizweni laseMitsrayim, emkhosini wentsimbi, ndithi: “Lalelani ilizwi lam, nize niyenze ⟨את⟩ ngokwanto konke endiyalela ngalo ⟨את⟩ kuni; niza kuba kum ngentsapho, mna ndiza kuba kuni nguElohim.”",
   "tokens": [
     {
       "surface": "אשר",
-      "gloss": "oo"
+      "gloss": "endawo ndayalela ngayo"
     },
     {
       "surface": "צויתי",
-      "gloss": "ondayibalela"
+      "gloss": "ndayalela"
     },
     {
       "surface": "את",
@@ -26,40 +26,40 @@
     },
     {
       "surface": "ביום",
-      "gloss": "ngeentsuku"
+      "gloss": "ngosuku"
     },
     {
       "surface": "הוציאי",
-      "gloss": "endazikhupha ngayo"
+      "gloss": "endazikhipha ngalo"
     },
     {
       "surface": "אותם",
       "gloss": "⟨את⟩",
-      "marks": "iMitsrayim"
+      "marks": "bona"
     },
     {
       "surface": "מארץ",
-      "gloss": "emhlabeni"
+      "gloss": "elizweni"
     },
     {
       "surface": "מצרים",
-      "gloss": "weMitsrayim"
+      "gloss": "laseMitsrayim"
     },
     {
       "surface": "מכור",
-      "gloss": "esikongweni"
+      "gloss": "emkhosini"
     },
     {
       "surface": "הברזל",
-      "gloss": "seentsimbi"
+      "gloss": "wentsimbi"
     },
     {
       "surface": "לאמר",
-      "gloss": "ukuthi"
+      "gloss": "ndithi"
     },
     {
       "surface": "שמעו",
-      "gloss": "Mameleni"
+      "gloss": "Lalelani"
     },
     {
       "surface": "בקולי",
@@ -67,41 +67,41 @@
     },
     {
       "surface": "ועשיתם",
-      "gloss": "nizenze"
+      "gloss": "nize niyenze"
     },
     {
       "surface": "אותם",
       "gloss": "⟨את⟩",
-      "marks": "zonke into"
+      "marks": "ngokwanto konke"
     },
     {
       "surface": "ככל",
-      "gloss": "zonke"
+      "gloss": "ngokwanto konke"
     },
     {
       "surface": "אשר",
-      "gloss": "endo"
+      "gloss": "endiyalela ngalo"
     },
     {
       "surface": "אצוה",
-      "gloss": "ndiniyalelayo"
+      "gloss": "ndiyalela"
     },
     {
       "surface": "אתכם",
       "gloss": "⟨את⟩",
-      "marks": "nina"
+      "marks": "kuni"
     },
     {
       "surface": "והייתם",
-      "gloss": "nibe"
+      "gloss": "niza kuba"
     },
     {
       "surface": "לי",
-      "gloss": "bakho"
+      "gloss": "kum"
     },
     {
       "surface": "לעם",
-      "gloss": "ngabantu"
+      "gloss": "ngentsapho"
     },
     {
       "surface": "ואנכי",
@@ -109,17 +109,17 @@
     },
     {
       "surface": "אהיה",
-      "gloss": "ndibe"
+      "gloss": "ndiza kuba"
     },
     {
       "surface": "לכם",
-      "gloss": "wenu"
+      "gloss": "kuni"
     },
     {
       "surface": "לאלהים",
       "gloss": "nguElohim"
     }
   ],
-  "timestamp": "2026-09-18T12:02:35.552076089Z",
+  "timestamp": "2026-09-19T13:59:06.352077170Z",
   "model": "glm-5.3"
 }

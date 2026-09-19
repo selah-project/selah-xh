@@ -5,7 +5,7 @@
   "book": "deuteronomy",
   "lang": "xh",
   "chapter": 27,
-  "translation": "UMoshe neenkosi ezidala zikaSirayeli bayalela ⟨את⟩ abantu, besithi: “Zigcine ⟨את⟩ wonke umyalelo endiniwutyalela namhlanje.”",
+  "translation": "UMoshe kunye nabadala bakaYisra'eli bayalela ⟨את⟩ abantu, bathi: “Gcina ⟨את⟩ umyalelo wonke endingiwalela ⟨את⟩ nina ⟨את⟩ ngalomhla.”",
   "tokens": [
     {
       "surface": "ויצו",
@@ -17,11 +17,11 @@
     },
     {
       "surface": "וזקני",
-      "gloss": "neenkosi ezidala"
+      "gloss": "kunye nabadala"
     },
     {
       "surface": "ישראל",
-      "gloss": "zikaSirayeli"
+      "gloss": "bakaYisra'eli"
     },
     {
       "surface": "את",
@@ -34,16 +34,16 @@
     },
     {
       "surface": "לאמר",
-      "gloss": "besithi"
+      "gloss": "bathi"
     },
     {
-      "surface": "שמור",
-      "gloss": "Zigcine"
+      "surface": "שמר",
+      "gloss": "Gcina"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "wonke umyalelo"
+      "marks": "umyalelo wonke"
     },
     {
       "surface": "כל",
@@ -55,25 +55,25 @@
     },
     {
       "surface": "אשר",
-      "gloss": "o"
+      "gloss": "endingiwalela"
     },
     {
       "surface": "אנכי",
-      "gloss": "ndi"
+      "gloss": "mna"
     },
     {
       "surface": "מצוה",
-      "gloss": "-wutyalela"
+      "gloss": "ndiyalela"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ ni"
+      "gloss": "⟨את⟩ nina"
     },
     {
       "surface": "היום",
-      "gloss": "namhlanje"
+      "gloss": "ngalomhla"
     }
   ],
-  "timestamp": "2026-09-18T08:17:21.101007938Z",
+  "timestamp": "2026-09-19T13:49:44.285152089Z",
   "model": "glm-5.3"
 }

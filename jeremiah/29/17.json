@@ -5,11 +5,11 @@
   "book": "jeremiah",
   "lang": "xh",
   "chapter": 29,
-  "translation": "Kunjal’ utshilo uYahwe Tsebhayoti: Yabona, mndithumela kubo ⟨את⟩ inkcanwe ⟨את⟩ indlala no⟨את⟩ isibetho, ndiza kubenza bathe ngamafigisi amabi, angatyiwanga ngenxa yokubi kwawo.",
+  "translation": "Kunjal’ utshilo uYahwe Tsebhayoti: Ndilapha, ndithumela kubo ⟨את⟩ inkamba, ⟨את⟩ indlala, ⟨את⟩ nesisifo; ndiza kubenza bathe njengeetana ezimbi, ezingatyiwanga ngenxa yokubi kwazo.",
   "tokens": [
     {
       "surface": "כה",
-      "gloss": "Kunjal’"
+      "gloss": "Kunjalo"
     },
     {
       "surface": "אמר",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "הנני",
-      "gloss": "Yabona, mna"
+      "gloss": "Ndilapha"
     },
     {
       "surface": "משלח",
@@ -33,16 +33,16 @@
     },
     {
       "surface": "בם",
-      "gloss": "kuwo"
+      "gloss": "kubo"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "inkcanwe"
+      "marks": "inkamba"
     },
     {
       "surface": "החרב",
-      "gloss": "inkcanwe"
+      "gloss": "inkamba"
     },
     {
       "surface": "את",
@@ -55,12 +55,11 @@
     },
     {
       "surface": "ואת",
-      "gloss": "no⟨את⟩",
-      "marks": "isibetho"
+      "gloss": "⟨את⟩"
     },
     {
       "surface": "הדבר",
-      "gloss": "isibetho"
+      "gloss": "nesisifo"
     },
     {
       "surface": "ונתתי",
@@ -68,33 +67,34 @@
     },
     {
       "surface": "אותם",
-      "gloss": "⟨את⟩ bathe ng"
+      "gloss": "⟨את⟩",
+      "marks": "iitana ezimbi"
     },
     {
       "surface": "כתאנים",
-      "gloss": "amafigisi"
+      "gloss": "njengeetana"
     },
     {
       "surface": "השערים",
-      "gloss": "amabi"
+      "gloss": "ezimbi"
     },
     {
       "surface": "אשר",
-      "gloss": "ange"
+      "gloss": "eso"
     },
     {
       "surface": "לא",
-      "gloss": "anga-"
+      "gloss": "akukho"
     },
     {
       "surface": "תאכלנה",
-      "gloss": "tyiwanga"
+      "gloss": "zingatyiwanga"
     },
     {
       "surface": "מרע",
-      "gloss": "ngenxa yokubi kwawo"
+      "gloss": "ngenxa yokubi"
     }
   ],
-  "timestamp": "2026-09-18T12:21:13.261237935Z",
+  "timestamp": "2026-09-19T14:00:41.665768490Z",
   "model": "glm-5.3"
 }

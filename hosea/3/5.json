@@ -5,15 +5,15 @@
   "book": "hosea",
   "lang": "xh",
   "chapter": 3,
-  "translation": "Emva koko abantwana bakaYisrayeli baza kubuyela, baza kufuna uYahwe uElohim wabo noDawidi inkosi yabo, baza koyika kuYahwe nakulungisa lwakhe ekupheleni kwamaxesha.",
+  "translation": "Emva kwako, abantwana baseYisraele baza kubuya, baze bafune ⟨את⟩ uYahwe uElohim wabo no⟨את⟩ uDawidi inkosi yabo; baza kuzithoba ngokoyika kuYahwe nakulungisa lwakhe, ekupheleni kwamaxesha.",
   "tokens": [
     {
       "surface": "אחר",
-      "gloss": "emva koko"
+      "gloss": "Emva kwako"
     },
     {
       "surface": "ישבו",
-      "gloss": "baza kubuyela"
+      "gloss": "baza kubuya"
     },
     {
       "surface": "בני",
@@ -21,11 +21,11 @@
     },
     {
       "surface": "ישראל",
-      "gloss": "bakaYisrayeli"
+      "gloss": "baseYisraele"
     },
     {
       "surface": "ובקשו",
-      "gloss": "baza kufuna"
+      "gloss": "baze bafune"
     },
     {
       "surface": "את",
@@ -42,7 +42,7 @@
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
+      "gloss": "no⟨את⟩",
       "marks": "uDawidi inkosi yabo"
     },
     {
@@ -55,7 +55,7 @@
     },
     {
       "surface": "ופחדו",
-      "gloss": "baza koyika"
+      "gloss": "baza kuzithoba ngokoyika"
     },
     {
       "surface": "אל",
@@ -71,7 +71,7 @@
     },
     {
       "surface": "טובו",
-      "gloss": "ulungisa lwakhe"
+      "gloss": "kulungisa lwakhe"
     },
     {
       "surface": "באחרית",
@@ -82,6 +82,6 @@
       "gloss": "kwamaxesha"
     }
   ],
-  "timestamp": "2026-09-18T13:40:36.555311838Z",
+  "timestamp": "2026-09-19T13:57:45.705170738Z",
   "model": "glm-5.3"
 }

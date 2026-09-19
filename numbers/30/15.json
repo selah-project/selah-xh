@@ -5,7 +5,7 @@
   "book": "numbers",
   "lang": "xh",
   "chapter": 30,
-  "translation": "Kodwa ukuba umyeni wathulela yena ngokupheleleyo, usukusuku luya usuku, emva koko amise zonke izithembiso zakhe, okanye onke amabophe aphantsi kwakhe; wawamisa, kuba wathulela yena ngosuku awayeva ngalo.",
+  "translation": "Kodwa ukuba umyeni wakhe amthulele kusukela ngosuku ukuya osukwini, uza kuqinisa ⟨את⟩ yonke imithišo yakhe okanye ⟨את⟩ yonke izibophelelo zakhe ezikhe zaziphezu kwakhe; wayezinqinisa ⟨את⟩ zonke, kuba wamthulele ngosuku olwayeva ngalo.",
   "tokens": [
     {
       "surface": "ואם",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "יחריש",
-      "gloss": "ngokupheleleyo"
+      "gloss": "athulela"
     },
     {
       "surface": "לה",
@@ -25,36 +25,36 @@
     },
     {
       "surface": "אישה",
-      "gloss": "umyeni"
+      "gloss": "umyeni wakhe"
     },
     {
       "surface": "מיום",
-      "gloss": "usukusuku"
+      "gloss": "kusukela ngosuku"
     },
     {
       "surface": "אל",
-      "gloss": "kude"
+      "gloss": "ukuya"
     },
     {
       "surface": "יום",
-      "gloss": "usuku"
+      "gloss": "osukwini"
     },
     {
       "surface": "והקים",
-      "gloss": "amise"
+      "gloss": "uza kuqinisa"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "zonke izithembiso zakhe"
+      "marks": "yonke imithišo yakhe"
     },
     {
       "surface": "כל",
-      "gloss": "zonke"
+      "gloss": "yonke"
     },
     {
       "surface": "נדריה",
-      "gloss": "izithembiso zakhe"
+      "gloss": "imithišo yakhe"
     },
     {
       "surface": "או",
@@ -63,32 +63,32 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "onke amabophe aphantsi kwakhe"
+      "marks": "yonke izibophelelo zakhe"
     },
     {
       "surface": "כל",
-      "gloss": "onke"
+      "gloss": "yonke"
     },
     {
       "surface": "אסריה",
-      "gloss": "amabophe"
+      "gloss": "izibophelelo zakhe"
     },
     {
       "surface": "אשר",
-      "gloss": "oku"
+      "gloss": "ezi"
     },
     {
       "surface": "עליה",
-      "gloss": "aphantsi kwakhe"
+      "gloss": "phezu kwakhe"
     },
     {
       "surface": "הקים",
-      "gloss": "wawamisa"
+      "gloss": "wayezinqinisa"
     },
     {
       "surface": "אתם",
       "gloss": "⟨את⟩",
-      "marks": "wawamisa (zonke)"
+      "marks": "zonke"
     },
     {
       "surface": "כי",
@@ -108,9 +108,9 @@
     },
     {
       "surface": "שמעו",
-      "gloss": "awayeva ngalo"
+      "gloss": "olwayeva ngalo"
     }
   ],
-  "timestamp": "2026-09-18T07:45:27.057207015Z",
+  "timestamp": "2026-09-19T14:08:53.644727852Z",
   "model": "glm-5.3"
 }

@@ -5,11 +5,11 @@
   "book": "genesis",
   "lang": "xh",
   "chapter": 34,
-  "translation": "Wathi uYakob kuShimeyon nakuliLewi: “Ndinizudise nina, ndenza ndiba mnyama ngokuswela iintloni kubemi bomhlaba, kwiKhanani nakwiPerizi; mna ndingu ⟨abantu⟩ abambalwa ngokubalwa, baya kudibana phezu kwam, bandibetha, nditshatyalaliswe mna nendlu yam.”",
+  "translation": "Wathetha uYakob kuShimeyon nakuluLeyi: “Ndimbulalile ngenxa yokundenza ndinuka kakhulu kubemi bomhlaba, nakwiKhanani nakwiPerizi; mna ndingabantu basesiqingatha, baya kudibana ngokuchasene nam, bandibulala; ndiya kutshatyalaliswa mna nendlu yam.”",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "wathi"
+      "gloss": "Wathetha"
     },
     {
       "surface": "יעקב",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "אל",
-      "gloss": "ku"
+      "gloss": "ku-"
     },
     {
       "surface": "שמעון",
@@ -25,24 +25,24 @@
     },
     {
       "surface": "ואל",
-      "gloss": "nakuli"
+      "gloss": "nakulu-"
     },
     {
       "surface": "לוי",
-      "gloss": "uLewi"
+      "gloss": "uLeyi"
     },
     {
       "surface": "עכרתם",
-      "gloss": "ndinizudise nina"
+      "gloss": "Ndimbulalile ngenxa"
     },
     {
       "surface": "אתי",
-      "gloss": "⟨את⟩ mna",
-      "marks": "ndinizudise nina"
+      "gloss": "⟨את⟩",
+      "marks": "mna (indinyana eqondwa ndim)"
     },
     {
       "surface": "להבאישני",
-      "gloss": "ndenza ndiba mnyama ngokuswela iintloni"
+      "gloss": "ukundenza ndinuka kakhulu"
     },
     {
       "surface": "בישב",
@@ -54,7 +54,7 @@
     },
     {
       "surface": "בכנעני",
-      "gloss": "kwiKhanani"
+      "gloss": "nakwiKhanani"
     },
     {
       "surface": "ובפרזי",
@@ -62,15 +62,15 @@
     },
     {
       "surface": "ואני",
-      "gloss": "mna"
+      "gloss": "mina"
     },
     {
       "surface": "מתי",
-      "gloss": "abantu"
+      "gloss": "ndingabantu"
     },
     {
       "surface": "מספר",
-      "gloss": "abambalwa ngokubalwa"
+      "gloss": "basesiqingatha"
     },
     {
       "surface": "ונאספו",
@@ -78,15 +78,15 @@
     },
     {
       "surface": "עלי",
-      "gloss": "phezu kwam"
+      "gloss": "ngokuchasene nam"
     },
     {
       "surface": "והכוני",
-      "gloss": "bandibetha"
+      "gloss": "bandibulala"
     },
     {
       "surface": "ונשמדתי",
-      "gloss": "nditshatyalaliswe"
+      "gloss": "ndiya kutshatyalaliswa"
     },
     {
       "surface": "אני",
@@ -97,6 +97,6 @@
       "gloss": "nendlu yam"
     }
   ],
-  "timestamp": "2026-09-18T05:32:54.022552557Z",
+  "timestamp": "2026-09-19T13:57:30.665667502Z",
   "model": "glm-5.3"
 }

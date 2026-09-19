@@ -5,15 +5,15 @@
   "book": "jeremiah",
   "lang": "xh",
   "chapter": 52,
-  "translation": "Inkosi yaseBhabheli yabachitha ngoonyana kaZedekiyahu emehlweni akhe, kananjalo onke amadoda ankosi akwaYuda yabachitha eRibla.",
+  "translation": "Inkosi yaseBhabheli yachitha ⟨את⟩ oonyana bakaTsidkiyahu phambi kwamehlo akhe, yaza nakwaku-⟨את⟩ onke amakhosi akaYuda wawachitha eRiblata.",
   "tokens": [
     {
       "surface": "וישחט",
-      "gloss": "yabachitha"
+      "gloss": "wawachitha"
     },
     {
       "surface": "מלך",
-      "gloss": "inkosi"
+      "gloss": "Inkosi"
     },
     {
       "surface": "בבל",
@@ -22,7 +22,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "oonyana"
+      "marks": "oonyana bakaTsidkiyahu"
     },
     {
       "surface": "בני",
@@ -30,20 +30,20 @@
     },
     {
       "surface": "צדקיהו",
-      "gloss": "kaZedekiyahu"
+      "gloss": "bakaTsidkiyahu"
     },
     {
       "surface": "לעיניו",
-      "gloss": "emehlweni akhe"
+      "gloss": "phambi kwamehlo akhe"
     },
     {
       "surface": "וגם",
-      "gloss": "kananjalo"
+      "gloss": "yaza nakwaku-"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "onke amadoda ankosi"
+      "marks": "onke amakhosi akaYuda"
     },
     {
       "surface": "כל",
@@ -51,21 +51,21 @@
     },
     {
       "surface": "שרי",
-      "gloss": "amadoda ankosi"
+      "gloss": "amakhosi"
     },
     {
       "surface": "יהודה",
-      "gloss": "akwaYuda"
+      "gloss": "akaYuda"
     },
     {
       "surface": "שחט",
-      "gloss": "yabachitha"
+      "gloss": "wawachitha"
     },
     {
       "surface": "ברבלתה",
-      "gloss": "eRibla"
+      "gloss": "eRiblata"
     }
   ],
-  "timestamp": "2026-09-18T12:44:35.529286450Z",
+  "timestamp": "2026-09-19T14:01:22.427994877Z",
   "model": "glm-5.3"
 }

@@ -5,15 +5,15 @@
   "book": "numbers",
   "lang": "xh",
   "chapter": 23,
-  "translation": "Waphendula uBilamu, wathi kuBalaki: “Ingaba andithethanga kuwe ukuba: Konke oko uYahwe aza kulithetha, ndiya kukwenza loko?”",
+  "translation": "Waphendula uBilam wathi kuBalaki: “Ingaba andikutshelanga na, ndithi: Konkeoko uYahwe aya kukuthetha ⟨את⟩ ndiya kukwenza?”",
   "tokens": [
     {
       "surface": "ויען",
-      "gloss": "Waphendula"
+      "gloss": "waphendula"
     },
     {
       "surface": "בלעם",
-      "gloss": "uBilamu"
+      "gloss": "uBilam"
     },
     {
       "surface": "ויאמר",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "אל",
-      "gloss": "ku"
+      "gloss": "ku-"
     },
     {
       "surface": "בלק",
@@ -29,11 +29,11 @@
     },
     {
       "surface": "הלא",
-      "gloss": "Ingaba…anga"
+      "gloss": "ingaba…na"
     },
     {
       "surface": "דברתי",
-      "gloss": "andithethanga"
+      "gloss": "andikuthethile"
     },
     {
       "surface": "אליך",
@@ -41,11 +41,11 @@
     },
     {
       "surface": "לאמר",
-      "gloss": "ukuba"
+      "gloss": "ndithi"
     },
     {
       "surface": "כל",
-      "gloss": "Konke"
+      "gloss": "konke"
     },
     {
       "surface": "אשר",
@@ -53,7 +53,7 @@
     },
     {
       "surface": "ידבר",
-      "gloss": "aza kulithetha"
+      "gloss": "aya kukuthetha"
     },
     {
       "surface": "יהוה",
@@ -62,13 +62,13 @@
     {
       "surface": "אתו",
       "gloss": "⟨את⟩",
-      "marks": "ndiya kukwenza loko"
+      "marks": "oko uYahwe aya kukuthetha"
     },
     {
       "surface": "אעשה",
       "gloss": "ndiya kukwenza"
     }
   ],
-  "timestamp": "2026-09-18T07:36:09.271315577Z",
+  "timestamp": "2026-09-19T14:09:06.948537360Z",
   "model": "glm-5.3"
 }

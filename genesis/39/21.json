@@ -5,11 +5,11 @@
   "book": "genesis",
   "lang": "xh",
   "chapter": 39,
-  "translation": "uYahwe wayenoYosefu, wawolisa ikhesedi kuye, wamnika ububele emehleni wesikhulu sendlu yentolongo.",
+  "translation": "uYahwe waba ⟨את⟩ uYosefu, wandisa ikhesedi kuye, wamnika ukhetho emehlweni yesikhulu sendlu yentolongo.",
   "tokens": [
     {
       "surface": "ויהי",
-      "gloss": "waye"
+      "gloss": "waba"
     },
     {
       "surface": "יהוה",
@@ -22,11 +22,11 @@
     },
     {
       "surface": "יוסף",
-      "gloss": "noYosefu"
+      "gloss": "uYosefu"
     },
     {
       "surface": "ויט",
-      "gloss": "wawolisa"
+      "gloss": "wandisa"
     },
     {
       "surface": "אליו",
@@ -42,15 +42,15 @@
     },
     {
       "surface": "חנו",
-      "gloss": "ububele"
+      "gloss": "ukhetho"
     },
     {
       "surface": "בעיני",
-      "gloss": "emehleni"
+      "gloss": "emehlweni"
     },
     {
       "surface": "שר",
-      "gloss": "wesikhulu"
+      "gloss": "yesikhulu"
     },
     {
       "surface": "בית",
@@ -61,6 +61,6 @@
       "gloss": "yentolongo"
     }
   ],
-  "timestamp": "2026-09-18T05:36:31.666007340Z",
+  "timestamp": "2026-09-19T13:57:10.827463321Z",
   "model": "glm-5.3"
 }

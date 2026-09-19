@@ -5,15 +5,15 @@
   "book": "genesis",
   "lang": "xh",
   "chapter": 37,
-  "translation": "KWaba njani, xa efikelela uYosef kumkhuluwa wakhe, baza bamtshula uYosef ⟨את⟩ ingubo yakhe, ⟨את⟩ ingubo yeepasim ezaye esimbadweni.",
+  "translation": "Kwenzekile ukuba, wathi uYosefu efikelela kubabalisa bakhe, bamxhola uYosefu ⟨את⟩ ingubo yakhe, ⟨את⟩ ingubo yemibala eyahlukeneyo engaphezulu kwakhe.",
   "tokens": [
     {
       "surface": "ויהי",
-      "gloss": "KWaba njani"
+      "gloss": "Kwenzekile"
     },
     {
       "surface": "כאשר",
-      "gloss": "xa"
+      "gloss": "ukuba"
     },
     {
       "surface": "בא",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "יוסף",
-      "gloss": "uYosef"
+      "gloss": "uYosefu"
     },
     {
       "surface": "אל",
@@ -29,20 +29,20 @@
     },
     {
       "surface": "אחיו",
-      "gloss": "abakhuluwa bakhe"
+      "gloss": "babalisa bakhe"
     },
     {
       "surface": "ויפשיטו",
-      "gloss": "bamtshula"
+      "gloss": "bamxhola"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "uYosef"
+      "marks": "uYosefu"
     },
     {
       "surface": "יוסף",
-      "gloss": "uYosef"
+      "gloss": "uYosefu"
     },
     {
       "surface": "את",
@@ -56,7 +56,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ingubo yeepasim"
+      "marks": "ingubo yemibala eyahlukeneyo"
     },
     {
       "surface": "כתנת",
@@ -64,17 +64,17 @@
     },
     {
       "surface": "הפסים",
-      "gloss": "yeepasim"
+      "gloss": "yemibala eyahlukeneyo"
     },
     {
       "surface": "אשר",
-      "gloss": "ezaye"
+      "gloss": "eng"
     },
     {
       "surface": "עליו",
-      "gloss": "esimbadweni"
+      "gloss": "phezulu kwakhe"
     }
   ],
-  "timestamp": "2026-09-18T05:36:47.251627404Z",
+  "timestamp": "2026-09-19T13:56:45.547744390Z",
   "model": "glm-5.3"
 }

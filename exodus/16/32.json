@@ -5,11 +5,11 @@
   "book": "exodus",
   "lang": "xh",
   "chapter": 16,
-  "translation": "UMoshe wathetha: “Olu ngumyalezo uYahwe awawilelayo: Thathani i-omer eyonisweyo kulo, igcinwe kuwo afutshane neenekosi zakho, ukuze zibone ⟨את⟩ elo sonka ndaninika ehlathini, ndanikhupha ⟨את⟩ nina elizweni leMitsrayim.”",
+  "translation": "Wathi uMoshe: “Olu ngumyalelo uYahwe awulaleleyo: Gcwalisa i-omere yaso, igcinwe kwezizukulwana zenu, ukuze zibone ⟨את⟩ isonka endanipha ⟨את⟩ nina ngaso elandle, xa ndizinisa ⟨את⟩ nina evela kwilizwe leMitsrayim.”",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "wathetha"
+      "gloss": "Wathi"
     },
     {
       "surface": "משה",
@@ -17,19 +17,19 @@
     },
     {
       "surface": "זה",
-      "gloss": "olu"
+      "gloss": "Olu"
     },
     {
       "surface": "הדבר",
-      "gloss": "ngumyalezo"
+      "gloss": "ngumyalelo"
     },
     {
       "surface": "אשר",
-      "gloss": "awawilelayo"
+      "gloss": "oo"
     },
     {
       "surface": "צוה",
-      "gloss": "awile"
+      "gloss": "awulaleleyo"
     },
     {
       "surface": "יהוה",
@@ -37,15 +37,15 @@
     },
     {
       "surface": "מלא",
-      "gloss": "eyonisweyo"
+      "gloss": "Gcwalisa"
     },
     {
       "surface": "העמר",
-      "gloss": "i-omer"
+      "gloss": "i-omere"
     },
     {
       "surface": "ממנו",
-      "gloss": "kulo"
+      "gloss": "yaso"
     },
     {
       "surface": "למשמרת",
@@ -53,7 +53,7 @@
     },
     {
       "surface": "לדרתיכם",
-      "gloss": "kuwo iineenekosi zakho"
+      "gloss": "kwezizukulwana zenu"
     },
     {
       "surface": "למען",
@@ -66,45 +66,47 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "elo sonka"
+      "marks": "isonka"
     },
     {
       "surface": "הלחם",
-      "gloss": "elo sonka"
+      "gloss": "isonka"
     },
     {
       "surface": "אשר",
-      "gloss": "ndaninika"
+      "gloss": "oo"
     },
     {
       "surface": "האכלתי",
-      "gloss": "ndaninika"
+      "gloss": "ndanipha"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ nina"
+      "gloss": "⟨את⟩ nina",
+      "marks": "nina"
     },
     {
       "surface": "במדבר",
-      "gloss": "ehlathini"
+      "gloss": "elandle"
     },
     {
       "surface": "בהוציאי",
-      "gloss": "ndanikhupha"
+      "gloss": "xa ndizinisa"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ nina"
+      "gloss": "⟨את⟩ nina",
+      "marks": "nina"
     },
     {
       "surface": "מארץ",
-      "gloss": "elizweni"
+      "gloss": "evela kwilizwe"
     },
     {
       "surface": "מצרים",
-      "gloss": "leMitsrayim"
+      "gloss": "iMitsrayim"
     }
   ],
-  "timestamp": "2026-09-18T06:05:02.193275011Z",
+  "timestamp": "2026-09-19T13:51:55.776588182Z",
   "model": "glm-5.3"
 }

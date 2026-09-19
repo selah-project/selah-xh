@@ -5,7 +5,7 @@
   "book": "jeremiah",
   "lang": "xh",
   "chapter": 43,
-  "translation": "⟨את⟩ amadoda, ⟨את⟩ iintombi, ⟨את⟩ abantwana, ⟨את⟩ amadodakala enkosi, no⟨את⟩ yonke inefeshi awayishiyeleyo Nevhusaradan, enkulu yabatabathi, kuGedaliyahu unyana kaAhikamu unyana kaShafan, no⟨את⟩ uYirmeyahu umprofeti, no⟨את⟩ uBaruki unyana kaNeriyahu.",
+  "translation": "⟨את⟩ amadoda, no ⟨את⟩ abafazi, no ⟨את⟩ abantwana, no ⟨את⟩ iintombi zenkosi, no ⟨את⟩ bonke abantu (inefeshi) abo u-Nevuzaradan, enkosi yabatabaxoki, awanishiyele ngoGedalya unyana ka-Ahikam unyana kaShafan, no ⟨את⟩ uYirmeyahu umprofeti, no ⟨את⟩ uBarukhi unyana kaNeriya.",
   "tokens": [
     {
       "surface": "את",
@@ -18,16 +18,16 @@
     },
     {
       "surface": "ואת",
-      "gloss": "no⟨את⟩",
-      "marks": "iintombi"
+      "gloss": "no ⟨את⟩",
+      "marks": "abafazi"
     },
     {
       "surface": "הנשים",
-      "gloss": "iintombi"
+      "gloss": "abafazi"
     },
     {
       "surface": "ואת",
-      "gloss": "no⟨את⟩",
+      "gloss": "no ⟨את⟩",
       "marks": "abantwana"
     },
     {
@@ -36,58 +36,58 @@
     },
     {
       "surface": "ואת",
-      "gloss": "no⟨את⟩",
-      "marks": "amadodakala enkosi"
+      "gloss": "no ⟨את⟩",
+      "marks": "iintombi zenkosi"
     },
     {
       "surface": "בנות",
-      "gloss": "amadodakala"
+      "gloss": "iintombi"
     },
     {
       "surface": "המלך",
-      "gloss": "enkosi"
+      "gloss": "zenkosi"
     },
     {
       "surface": "ואת",
-      "gloss": "no⟨את⟩",
-      "marks": "yonke inefeshi"
+      "gloss": "no ⟨את⟩",
+      "marks": "bonke abantu"
     },
     {
       "surface": "כל",
-      "gloss": "yonke"
+      "gloss": "bonke"
     },
     {
       "surface": "הנפש",
-      "gloss": "inefishi"
+      "gloss": "abantu (inefeshi)"
     },
     {
       "surface": "אשר",
-      "gloss": "aba-"
+      "gloss": "abo"
     },
     {
       "surface": "הניח",
-      "gloss": "awayishiyeleyo"
+      "gloss": "awanishiyele"
     },
     {
       "surface": "נבוזראדן",
-      "gloss": "Nevhusaradan"
+      "gloss": "u-Nevuzaradan"
     },
     {
       "surface": "רב",
-      "gloss": "enkulu"
+      "gloss": "enkosi"
     },
     {
       "surface": "טבחים",
-      "gloss": "yabatabathi"
+      "gloss": "yabatabaxoki"
     },
     {
       "surface": "את",
-      "gloss": "⟨את⟩ ku-",
-      "marks": "uGedaliyahu"
+      "gloss": "⟨את⟩",
+      "marks": "uGedalya"
     },
     {
       "surface": "גדליהו",
-      "gloss": "uGedaliyahu"
+      "gloss": "uGedalya"
     },
     {
       "surface": "בן",
@@ -95,7 +95,7 @@
     },
     {
       "surface": "אחיקם",
-      "gloss": "kaAhikamu"
+      "gloss": "ka-Ahikam"
     },
     {
       "surface": "בן",
@@ -107,7 +107,7 @@
     },
     {
       "surface": "ואת",
-      "gloss": "no⟨את⟩",
+      "gloss": "no ⟨את⟩",
       "marks": "uYirmeyahu umprofeti"
     },
     {
@@ -120,12 +120,12 @@
     },
     {
       "surface": "ואת",
-      "gloss": "no⟨את⟩",
-      "marks": "uBaruki"
+      "gloss": "no ⟨את⟩",
+      "marks": "uBarukhi"
     },
     {
       "surface": "ברוך",
-      "gloss": "uBaruki"
+      "gloss": "uBarukhi"
     },
     {
       "surface": "בן",
@@ -133,9 +133,9 @@
     },
     {
       "surface": "נריהו",
-      "gloss": "kaNeriyahu"
+      "gloss": "kaNeriya"
     }
   ],
-  "timestamp": "2026-09-18T12:33:40.026331187Z",
+  "timestamp": "2026-09-19T14:01:26.658451420Z",
   "model": "glm-5.3"
 }

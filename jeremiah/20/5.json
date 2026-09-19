@@ -5,28 +5,28 @@
   "book": "jeremiah",
   "lang": "xh",
   "chapter": 20,
-  "translation": "Kwaye ndiza kunika ⟨את⟩ wonke umtyebi wale sixeko, nothelekelelo lwalo lonke, nentsikelelo yalo lonke; kwaye iindophu zonke zookumkani baYuda ndiza kuzinika esandleni sazo iitha zabo; baza kuziphanga, bazithabatha, bazise eBhabhiloni.",
+  "translation": "Kwaye ndiza kunika ⟨את⟩ ubutyebi bonke bale sixeko, kunye ⟨את⟩ nomsebenzi wonke wawo, kunye ⟨את⟩ nezinto zonke ezixabisekileyo zaso; ndiza kwazinika ⟨את⟩ amakhosho onke ookumkani baseYehuda esandleni sabachasi bazo, baza kuziphanga, kuzithabatha, bazise eBhabheli.",
   "tokens": [
     {
       "surface": "ונתתי",
-      "gloss": "ndiza kunika"
+      "gloss": "kwaye ndiza kunika"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "wonke umtyebi wale sixeko"
+      "marks": "ubutyebi bonke"
     },
     {
       "surface": "כל",
-      "gloss": "wonke"
+      "gloss": "bonke"
     },
     {
       "surface": "חסן",
-      "gloss": "umtyebi"
+      "gloss": "ubutyebi"
     },
     {
       "surface": "העיר",
-      "gloss": "wale sixeko"
+      "gloss": "bale sixeko"
     },
     {
       "surface": "הזאת",
@@ -34,42 +34,42 @@
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
-      "marks": "umsebenzi walo wonke"
+      "gloss": "kunye ⟨את⟩",
+      "marks": "umsebenzi wonke"
     },
     {
       "surface": "כל",
-      "gloss": "lonke"
+      "gloss": "wonke"
     },
     {
       "surface": "יגיעה",
-      "gloss": "umsebenzi walo"
+      "gloss": "umsebenzi"
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
-      "marks": "intsikelelo yalo lonke"
-    },
-    {
-      "surface": "כל",
-      "gloss": "lonke"
-    },
-    {
-      "surface": "יקרה",
-      "gloss": "intsikelelo yalo"
-    },
-    {
-      "surface": "ואת",
-      "gloss": "⟨את⟩",
-      "marks": "iindophu zonke"
+      "gloss": "kunye ⟨את⟩",
+      "marks": "izinto zonke ezixabisekileyo"
     },
     {
       "surface": "כל",
       "gloss": "zonke"
     },
     {
+      "surface": "יקרה",
+      "gloss": "izinto ezixabisekileyo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kunye ⟨את⟩",
+      "marks": "amakhosho onke"
+    },
+    {
+      "surface": "כל",
+      "gloss": "onke"
+    },
+    {
       "surface": "אוצרות",
-      "gloss": "iindophu"
+      "gloss": "amakhosho"
     },
     {
       "surface": "מלכי",
@@ -77,11 +77,11 @@
     },
     {
       "surface": "יהודה",
-      "gloss": "baYuda"
+      "gloss": "baseYehuda"
     },
     {
       "surface": "אתן",
-      "gloss": "ndiza kuzinika"
+      "gloss": "ndiza kwazinika"
     },
     {
       "surface": "ביד",
@@ -89,25 +89,25 @@
     },
     {
       "surface": "איביהם",
-      "gloss": "iitha zabo"
+      "gloss": "sabachasi bazo"
     },
     {
       "surface": "ובזזום",
       "gloss": "baza kuziphanga"
     },
     {
-      "surface": "ולקחומ",
-      "gloss": "bazithabatha"
+      "surface": "ולקחום",
+      "gloss": "kuzithabatha"
     },
     {
       "surface": "והביאום",
-      "gloss": "bazisa"
+      "gloss": "bazise"
     },
     {
       "surface": "בבלה",
-      "gloss": "eBhabhiloni"
+      "gloss": "eBhabheli"
     }
   ],
-  "timestamp": "2026-09-18T12:11:00.595896058Z",
+  "timestamp": "2026-09-19T14:00:57.114493811Z",
   "model": "glm-5.3"
 }

@@ -5,28 +5,29 @@
   "book": "exodus",
   "lang": "xh",
   "chapter": 30,
-  "translation": "Uza kuluthatha ⟨את⟩ imali yokukhululeka, ⟨את⟩ ukusuka kwabantwana bakaSirayeli, kwaye uza kuyibeka kwinkonzo yetenti yomdibano; iya kuba ngabantwana bakaSirayeli ligqibezelo phambi koYahwe, ukwenza ukhululeko oomphefumlo benu.",
+  "translation": "Uza kutabatha ⟨את⟩ isilivere sokukhululwano, evela ⟨את⟩ kwabantwana bakwaYisrayeli, uze ubanikeze ⟨את⟩ yona kwinkonzo yetenti yokudibana; iya kuba sisikhumbuzo kwabantwana bakwaYisrayeli phambi koYahwe, ukukhulula iimphefumlo zenu.",
   "tokens": [
     {
       "surface": "ולקחת",
-      "gloss": "Uza kuluthatha"
+      "gloss": "Uza kutabatha"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "imali yokukhululeka"
+      "marks": "isilivere sokukhululwano"
     },
     {
       "surface": "כסף",
-      "gloss": "imali"
+      "gloss": "isilivere"
     },
     {
       "surface": "הכפרים",
-      "gloss": "yokukhululeka"
+      "gloss": "sokukhululwano"
     },
     {
       "surface": "מאת",
-      "gloss": "⟨את⟩ ukusuka"
+      "gloss": "evela ⟨את⟩",
+      "marks": "kwabantwana bakwaYisrayeli"
     },
     {
       "surface": "בני",
@@ -34,24 +35,24 @@
     },
     {
       "surface": "ישראל",
-      "gloss": "bakaSirayeli"
+      "gloss": "bakwaYisrayeli"
     },
     {
       "surface": "ונתת",
-      "gloss": "kwaye uza kuyibeka"
+      "gloss": "uze ubanikeze"
     },
     {
       "surface": "אתו",
       "gloss": "⟨את⟩",
-      "marks": "imali yokukhululeka"
+      "marks": "yona (isilivere)"
     },
     {
       "surface": "על",
-      "gloss": "kwi"
+      "gloss": "kwi-"
     },
     {
       "surface": "עבדת",
-      "gloss": "nkonzo"
+      "gloss": "inkonzo"
     },
     {
       "surface": "אהל",
@@ -59,7 +60,7 @@
     },
     {
       "surface": "מועד",
-      "gloss": "yomdibano"
+      "gloss": "yokudibana"
     },
     {
       "surface": "והיה",
@@ -67,15 +68,15 @@
     },
     {
       "surface": "לבני",
-      "gloss": "ngabantwana"
+      "gloss": "sisikhumbuzo kwabantwana"
     },
     {
       "surface": "ישראל",
-      "gloss": "bakaSirayeli"
+      "gloss": "bakwaYisrayeli"
     },
     {
       "surface": "לזכרון",
-      "gloss": "ligqibezelo"
+      "gloss": "sisikhumbuzo"
     },
     {
       "surface": "לפני",
@@ -87,17 +88,17 @@
     },
     {
       "surface": "לכפר",
-      "gloss": "ukwenza ukhululeko"
+      "gloss": "ukukhulula"
     },
     {
       "surface": "על",
-      "gloss": "ku"
+      "gloss": "iimphefumlo"
     },
     {
       "surface": "נפשתיכם",
-      "gloss": "oomphefumlo benu"
+      "gloss": "zenu"
     }
   ],
-  "timestamp": "2026-09-18T06:19:29.990042490Z",
+  "timestamp": "2026-09-19T13:52:22.872954992Z",
   "model": "glm-5.3"
 }

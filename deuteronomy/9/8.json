@@ -5,20 +5,20 @@
   "book": "deuteronomy",
   "lang": "xh",
   "chapter": 9,
-  "translation": "NakwiHorebe naba nempi kuYahwe, uYahwe wamthwala nininzi, ukunictshabalalisa ⟨אתכם⟩.",
+  "translation": "NakwiiHoreb nakhwesa umsindo uYahwe, uYahwe wathikitha ngenyamezekelo ngani ukunitshabalalisa.",
   "tokens": [
     {
       "surface": "ובחרב",
-      "gloss": "NakwiHorebe"
+      "gloss": "NakwiiHoreb"
     },
     {
       "surface": "הקצפתם",
-      "gloss": "naba nempi"
+      "gloss": "nakhwesa umsindo"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "kuYahwe"
+      "marks": "uYahwe"
     },
     {
       "surface": "יהוה",
@@ -26,7 +26,7 @@
     },
     {
       "surface": "ויתאנף",
-      "gloss": "wamthwala nininzi"
+      "gloss": "wathikitha ngenyamezekelo"
     },
     {
       "surface": "יהוה",
@@ -34,17 +34,17 @@
     },
     {
       "surface": "בכם",
-      "gloss": "nini"
+      "gloss": "ngani"
     },
     {
       "surface": "להשמיד",
-      "gloss": "ukunictshabalalisa"
+      "gloss": "ukunihlakula"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨אתכם⟩ nina"
+      "gloss": "⟨את⟩ ⟨nin⟩"
     }
   ],
-  "timestamp": "2026-09-18T08:02:02.645354854Z",
+  "timestamp": "2026-09-19T13:50:21.776284900Z",
   "model": "glm-5.3"
 }

@@ -5,27 +5,27 @@
   "book": "deuteronomy",
   "lang": "xh",
   "chapter": 4,
-  "translation": "Umhla owimi ngayo phambi koYahwe uElohim wakho eKhorave, xa uYahwe wathi kum: Qokelela kum ⟨את⟩abantu, ndiza kubavesela ilizwi lam ⟨את⟩, ukuze bafunde ukoyika mna yonke imihla baphila ngayo emhlabeni, nokuba bayafundisa ⟨את⟩iiyawo zabo.",
+  "translation": "Usuku olwawumile phambi koYahwe uElohim wakho eKhorEB, xa uYahwe wathetha kum: Qokelela ndim ⟨את⟩ abantu, ndibaveza ⟨את⟩ amazulu am, ukuze bafunde ukoyika ⟨את⟩ ndim yonke imihla ebaphila ngayo phezulu komhlaba, naku ⟨את⟩ abantwana babo baya kubafundisa.",
   "tokens": [
     {
       "surface": "יום",
-      "gloss": "Umhla"
+      "gloss": "usuku"
     },
     {
       "surface": "אשר",
-      "gloss": "owimi ngayo"
+      "gloss": "olwa"
     },
     {
       "surface": "עמדת",
-      "gloss": "wemi"
+      "gloss": "wawumile"
     },
     {
       "surface": "לפני",
-      "gloss": "phambi"
+      "gloss": "phambi ko-"
     },
     {
       "surface": "יהוה",
-      "gloss": "koYahwe"
+      "gloss": "uYahwe"
     },
     {
       "surface": "אלהיך",
@@ -33,11 +33,11 @@
     },
     {
       "surface": "בחרב",
-      "gloss": "eKhorave"
+      "gloss": "eKhorEB"
     },
     {
       "surface": "באמר",
-      "gloss": "xa ... wathi"
+      "gloss": "xa wathetha"
     },
     {
       "surface": "יהוה",
@@ -53,7 +53,7 @@
     },
     {
       "surface": "לי",
-      "gloss": "kum"
+      "gloss": "ndim"
     },
     {
       "surface": "את",
@@ -66,16 +66,16 @@
     },
     {
       "surface": "ואשמעם",
-      "gloss": "ndiza kubavesela"
+      "gloss": "ndibaveza"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ilizwi lam"
+      "marks": "amazulu am"
     },
     {
       "surface": "דברי",
-      "gloss": "ilizwi lam"
+      "gloss": "amazulu am"
     },
     {
       "surface": "אשר",
@@ -91,8 +91,8 @@
     },
     {
       "surface": "אתי",
-      "gloss": "⟨את⟩ mna",
-      "marks": "mna"
+      "gloss": "⟨את⟩",
+      "marks": "ndim"
     },
     {
       "surface": "כל",
@@ -104,38 +104,38 @@
     },
     {
       "surface": "אשר",
-      "gloss": "baphila ngayo"
+      "gloss": "ebaphila ngayo"
     },
     {
       "surface": "הם",
-      "gloss": "ba"
+      "gloss": "bona"
     },
     {
       "surface": "חיים",
-      "gloss": "phila"
+      "gloss": "baphila"
     },
     {
       "surface": "על",
-      "gloss": "emhlabeni"
+      "gloss": "phezulu ko-"
     },
     {
       "surface": "האדמה",
-      "gloss": "umhlaba"
+      "gloss": "omhlaba"
     },
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "iiyawo zabo"
+      "marks": "abantwana babo"
     },
     {
       "surface": "בניהם",
-      "gloss": "iiyawo zabo"
+      "gloss": "abantwana babo"
     },
     {
       "surface": "ילמדון",
-      "gloss": "bayafundisa"
+      "gloss": "baya kubafundisa"
     }
   ],
-  "timestamp": "2026-09-18T07:56:53.828371639Z",
+  "timestamp": "2026-09-19T13:50:35.842108703Z",
   "model": "glm-5.3"
 }

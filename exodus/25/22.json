@@ -5,11 +5,11 @@
   "book": "exodus",
   "lang": "xh",
   "chapter": 25,
-  "translation": "Ndiza kudibana nawe ⟨את⟩ khona, ndiza kuthetha nawe phezu kwekhava yokuxolelwa, phakathi kweekherubim ezimbini ezingaphezu kwesikhxoho sobungqina, yonke into endiza kukuyalela yona ⟨את⟩ kuwe, malunga neenekwaba zika-Israeli.",
+  "translation": "Ndiza kukudibana nawe apho, ndithethe nawe, apha phezu kendawo yokuxolela, phakathi kweekherubhim ezimbini ezikwi-ariki yobungqina; ⟨את⟩ konke endiza kukuyalela ngako ⟨את⟩ kuwe malunga neentsana zikaYisrayeli.",
   "tokens": [
     {
       "surface": "ונועדתי",
-      "gloss": "ndiza kudibana"
+      "gloss": "ndiza kukudibana"
     },
     {
       "surface": "לך",
@@ -17,15 +17,16 @@
     },
     {
       "surface": "שם",
-      "gloss": "khona"
+      "gloss": "apho"
     },
     {
       "surface": "ודברתי",
-      "gloss": "ndiza kuthetha"
+      "gloss": "ndithethe"
     },
     {
       "surface": "אתך",
-      "gloss": "⟨את⟩ nawe"
+      "gloss": "⟨את⟩ kuwe",
+      "marks": "nawe"
     },
     {
       "surface": "מעל",
@@ -33,7 +34,7 @@
     },
     {
       "surface": "הכפרת",
-      "gloss": "ikhava yokuxolelwa"
+      "gloss": "endaweni yokuxolela"
     },
     {
       "surface": "מבין",
@@ -45,7 +46,7 @@
     },
     {
       "surface": "הכרבים",
-      "gloss": "iikherubim"
+      "gloss": "iikherubhim"
     },
     {
       "surface": "אשר",
@@ -53,50 +54,51 @@
     },
     {
       "surface": "על",
-      "gloss": "zingaphezu kwa-"
+      "gloss": "phezu kwe-"
     },
     {
       "surface": "ארן",
-      "gloss": "isikhxoho"
+      "gloss": "ariki"
     },
     {
       "surface": "העדת",
-      "gloss": "sobungqina"
+      "gloss": "yobungqina"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "yonke into"
+      "marks": "konke"
     },
     {
       "surface": "כל",
-      "gloss": "yonke into"
+      "gloss": "konke"
     },
     {
       "surface": "אשר",
-      "gloss": "endiza kukuyalela yona"
+      "gloss": "eso"
     },
     {
       "surface": "אצוה",
-      "gloss": "ndiza kukuyalela"
+      "gloss": "ndiya kukuyalela"
     },
     {
       "surface": "אותך",
-      "gloss": "⟨את⟩ kuwe"
+      "gloss": "⟨את⟩ kuwe",
+      "marks": "kuwe"
     },
     {
       "surface": "אל",
-      "gloss": "malunga nama-"
+      "gloss": "ku-"
     },
     {
       "surface": "בני",
-      "gloss": "eenkwaba"
+      "gloss": "iintsana zika-"
     },
     {
       "surface": "ישראל",
-      "gloss": "uka-Israeli"
+      "gloss": "Yisrayeli"
     }
   ],
-  "timestamp": "2026-09-18T06:12:46.637944926Z",
+  "timestamp": "2026-09-19T13:51:39.872690576Z",
   "model": "glm-5.3"
 }

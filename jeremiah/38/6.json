@@ -5,11 +5,11 @@
   "book": "jeremiah",
   "lang": "xh",
   "chapter": 38,
-  "translation": "Bathabatha ke bona ⟨את⟩ uYirmeyahu, bamphisikisela kwigodi kaMalkiyahu unyana wenkosi, eseleyardini yokusingatha; bamhlehla ngamaxa uYirmeyahu. Kwigodi yayikho akho amanzi, kodwa ubumdaka; wacingwa ke uYirmeyahu kubumdaka.",
+  "translation": "Bathabatha ⟨את⟩ uYirmeyahu, bamgalela ⟨את⟩ kwisiqingathi somgodini kaMalkiyahu unyana wenkosi, owayusekwithafa lokhuselo; base bemthobosa ⟨את⟩ uYirmeyahu ngeentambo. Emgodini ayebinamanzi, koko kwakukho tywina nje; uYirmeyahu wazinzela etywini.",
   "tokens": [
     {
       "surface": "ויקחו",
-      "gloss": "bathabatha"
+      "gloss": "Bathabatha"
     },
     {
       "surface": "את",
@@ -22,20 +22,20 @@
     },
     {
       "surface": "וישלכו",
-      "gloss": "bamphisikisela"
+      "gloss": "bamgalela"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨אתו⟩",
-      "marks": "uYirmeyahu"
+      "gloss": "⟨את⟩",
+      "marks": "kwisiqingathi somgodini (umgaleli)"
     },
     {
       "surface": "אל",
-      "gloss": "kwi-"
+      "gloss": "kwisiqingathi"
     },
     {
       "surface": "הבור",
-      "gloss": "igodi"
+      "gloss": "somgodini"
     },
     {
       "surface": "מלכיהו",
@@ -51,19 +51,19 @@
     },
     {
       "surface": "אשר",
-      "gloss": "ese-"
+      "gloss": "owayu"
     },
     {
       "surface": "בחצר",
-      "gloss": "leyardini"
+      "gloss": "sekwithafa"
     },
     {
       "surface": "המטרה",
-      "gloss": "yokusingatha"
+      "gloss": "lokhuselo"
     },
     {
       "surface": "וישלחו",
-      "gloss": "bamhlehla"
+      "gloss": "base bemthobosa"
     },
     {
       "surface": "את",
@@ -76,15 +76,15 @@
     },
     {
       "surface": "בחבלים",
-      "gloss": "ngamaxa"
+      "gloss": "ngeentambo"
     },
     {
       "surface": "ובבור",
-      "gloss": "kwigodi"
+      "gloss": "Emgodini"
     },
     {
       "surface": "אין",
-      "gloss": "yayikho akho"
+      "gloss": "ayebinamanzi"
     },
     {
       "surface": "מים",
@@ -92,19 +92,19 @@
     },
     {
       "surface": "כי",
-      "gloss": "kodwa"
+      "gloss": "koko"
     },
     {
       "surface": "אם",
-      "gloss": "kuphela"
+      "gloss": "nje"
     },
     {
       "surface": "טיט",
-      "gloss": "ubumdaka"
+      "gloss": "tywina"
     },
     {
       "surface": "ויטבע",
-      "gloss": "wacingwa"
+      "gloss": "wazinzela"
     },
     {
       "surface": "ירמיהו",
@@ -112,9 +112,9 @@
     },
     {
       "surface": "בטיט",
-      "gloss": "kubumdaka"
+      "gloss": "etywini"
     }
   ],
-  "timestamp": "2026-09-18T12:29:42.816194238Z",
+  "timestamp": "2026-09-19T14:01:37.595957705Z",
   "model": "glm-5.3"
 }

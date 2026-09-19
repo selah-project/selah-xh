@@ -5,11 +5,11 @@
   "book": "leviticus",
   "lang": "xh",
   "chapter": 20,
-  "translation": "Kwaye niza kuba ngabangcwele kum, kuba mna uYahwe ndingcwele; ndaza ndahlula nina kwiiwela ukuba nibe ngabam.",
+  "translation": "Kwaye niza kuba ngabangcwele kum, kuba ndinguYahwe, mngcwele ndinguye; ndaza ndanahlukanisa ⟨את⟩ nina kwiiintlanga, ukuba nibe abakwam.",
   "tokens": [
     {
       "surface": "והייתם",
-      "gloss": "niza kuba"
+      "gloss": "kwaye niza kuba"
     },
     {
       "surface": "לי",
@@ -25,11 +25,11 @@
     },
     {
       "surface": "קדוש",
-      "gloss": "ndingcwele"
+      "gloss": "mngcwele"
     },
     {
       "surface": "אני",
-      "gloss": "mna"
+      "gloss": "ndingu"
     },
     {
       "surface": "יהוה",
@@ -37,20 +37,20 @@
     },
     {
       "surface": "ואבדל",
-      "gloss": "ndaza ndahlula nina"
+      "gloss": "ndanahlukanisa"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨אתכם⟩",
+      "gloss": "⟨את⟩",
       "marks": "nina"
     },
     {
       "surface": "מן",
-      "gloss": "kwiiwela"
+      "gloss": "kwii"
     },
     {
       "surface": "העמים",
-      "gloss": "kwiiwela"
+      "gloss": "intlanga"
     },
     {
       "surface": "להיות",
@@ -58,9 +58,9 @@
     },
     {
       "surface": "לי",
-      "gloss": "ngabam"
+      "gloss": "abakwam"
     }
   ],
-  "timestamp": "2026-09-18T06:58:06.327119660Z",
+  "timestamp": "2026-09-19T14:05:38.464737179Z",
   "model": "glm-5.3"
 }

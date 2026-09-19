@@ -5,7 +5,7 @@
   "book": "2-samuel",
   "lang": "xh",
   "chapter": 3,
-  "translation": "Wafika u-Abner kuDawidi eChevron, ⟨את⟩ naye amashumi amabini amadoda; wadala uDawidi ngo-Abner nangamadoda ayengaye imbidli yokusela.",
+  "translation": "Wafika u-Abner kuDavide, eKhevroni, kwaye ⟨את⟩ wayo kwakukho amadoda angama-20; wadala uDavide ku-Abner nakwamadoda angoku ⟨את⟩ okwangayo umthendeleko wokutyala.",
   "tokens": [
     {
       "surface": "ויבא",
@@ -21,19 +21,20 @@
     },
     {
       "surface": "דוד",
-      "gloss": "uDawidi"
+      "gloss": "uDavide"
     },
     {
       "surface": "חברון",
-      "gloss": "eChevron"
+      "gloss": "eKhevroni"
     },
     {
       "surface": "ואתו",
-      "gloss": "⟨את⟩ naye"
+      "gloss": "⟨את⟩ wayo",
+      "marks": "amadoda angama-20"
     },
     {
       "surface": "עשרים",
-      "gloss": "amashumi amabini"
+      "gloss": "ama-20"
     },
     {
       "surface": "אנשים",
@@ -45,29 +46,30 @@
     },
     {
       "surface": "דוד",
-      "gloss": "uDawidi"
+      "gloss": "uDavide"
     },
     {
       "surface": "לאבנר",
-      "gloss": "ngo-Abner"
+      "gloss": "ku-Abner"
     },
     {
       "surface": "ולאנשים",
-      "gloss": "nangamadoda"
+      "gloss": "nakwamadoda"
     },
     {
       "surface": "אשר",
-      "gloss": "ayo"
+      "gloss": "anga"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ naye"
+      "gloss": "⟨את⟩ okwangaye",
+      "marks": "u-Abner"
     },
     {
       "surface": "משתה",
-      "gloss": "imbidli yokusela"
+      "gloss": "umthendeleko wokutyala"
     }
   ],
-  "timestamp": "2026-09-18T09:46:08.995115771Z",
+  "timestamp": "2026-09-19T13:48:36.506441458Z",
   "model": "glm-5.3"
 }

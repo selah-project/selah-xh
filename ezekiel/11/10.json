@@ -5,11 +5,11 @@
   "book": "ezekiel",
   "lang": "xh",
   "chapter": 11,
-  "translation": "Ngephepha niya kuwa; emda we-Israel ndiya kunigweba; niza kwazi ukuba mna ndinguYahwe.",
+  "translation": "Ngolwandla niya kuwa, emngceleni we-Israel ndiza kugweba ⟨את⟩ nina, niya kwazi ukuba mna ndinguYahwe.",
   "tokens": [
     {
       "surface": "בחרב",
-      "gloss": "ngephepha"
+      "gloss": "Ngolwandla"
     },
     {
       "surface": "תפלו",
@@ -17,11 +17,11 @@
     },
     {
       "surface": "על",
-      "gloss": "e"
+      "gloss": "kwi"
     },
     {
       "surface": "גבול",
-      "gloss": "mda"
+      "gloss": "emngceleni"
     },
     {
       "surface": "ישראל",
@@ -29,16 +29,16 @@
     },
     {
       "surface": "אשפוט",
-      "gloss": "ndiya kunigweba"
+      "gloss": "ndiza kugweba"
     },
     {
       "surface": "אתכם",
       "gloss": "⟨את⟩",
-      "marks": "ni"
+      "marks": "nina"
     },
     {
       "surface": "וידעתם",
-      "gloss": "niza kwazi"
+      "gloss": "niya kwazi"
     },
     {
       "surface": "כי",
@@ -53,6 +53,6 @@
       "gloss": "ndinguYahwe"
     }
   ],
-  "timestamp": "2026-09-18T12:57:25.373154188Z",
+  "timestamp": "2026-09-19T13:53:08.768106813Z",
   "model": "glm-5.3"
 }

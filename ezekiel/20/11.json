@@ -5,11 +5,11 @@
   "book": "ezekiel",
   "lang": "xh",
   "chapter": 20,
-  "translation": "Ndabanika ⟨את⟩ imigaqo yam, ndazazisa kubo ⟨את⟩ izigwebo zam, umntu oyenza ⟨את⟩ ezi zinto uza kuphila ⟨ngazo⟩.",
+  "translation": "Ndabanika ⟨את⟩ iiqukuqo zam, iingwenxo zam ndazazisa kubo: umntu oyenza ⟨את⟩ ezo aza kuphila ngazo.",
   "tokens": [
     {
       "surface": "ואתן",
-      "gloss": "Ndabanika"
+      "gloss": "ndabanika"
     },
     {
       "surface": "להם",
@@ -18,20 +18,20 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "imigaqo yam"
+      "marks": "iiqukuqo zam"
     },
     {
       "surface": "חקותי",
-      "gloss": "imigaqo yam"
+      "gloss": "iiqukuqo zam"
     },
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "izigwebo zam"
+      "marks": "iingwenxo zam"
     },
     {
       "surface": "משפטי",
-      "gloss": "izigwebo zam"
+      "gloss": "iingwenxo zam"
     },
     {
       "surface": "הודעתי",
@@ -40,11 +40,11 @@
     {
       "surface": "אותם",
       "gloss": "⟨את⟩",
-      "marks": "izigwebo zam"
+      "marks": "izo"
     },
     {
       "surface": "אשר",
-      "gloss": "oyenza"
+      "gloss": "ozo"
     },
     {
       "surface": "יעשה",
@@ -53,7 +53,7 @@
     {
       "surface": "אותם",
       "gloss": "⟨את⟩",
-      "marks": "ezi zinto"
+      "marks": "ozo"
     },
     {
       "surface": "האדם",
@@ -61,13 +61,13 @@
     },
     {
       "surface": "וחי",
-      "gloss": "uza kuphila"
+      "gloss": "aza kuphila"
     },
     {
       "surface": "בהם",
-      "gloss": "⟨ngazo⟩"
+      "gloss": "ngazo"
     }
   ],
-  "timestamp": "2026-09-18T20:17:09.691797315Z",
+  "timestamp": "2026-09-19T13:53:42.701426217Z",
   "model": "glm-5.3"
 }

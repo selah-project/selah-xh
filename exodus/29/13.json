@@ -5,11 +5,11 @@
   "book": "exodus",
   "lang": "xh",
   "chapter": 29,
-  "translation": "Uthabathe ⟨את⟩ onke amafutha eqhatha ⟨את⟩ ulwesi, ⟨את⟩ kunene ilobe eliphezu kwesibindi, kunene ezimbini izinso, ⟨את⟩ kunene amafutha akwilapo phezu kwazo, uzitshise kwialtari.",
+  "translation": "Uza kutabatha ⟨את⟩ onke amafutha asishekela iindlebe zamathumbu, n ⟨את⟩ ilamshi elikwindawo yesibindi, n ⟨את⟩ iintsoy ezimbini n ⟨את⟩ amafutha akheyo phezu kwazo, uza kuzitshisa kwisiwanga.",
   "tokens": [
     {
       "surface": "ולקחת",
-      "gloss": "uthabathe"
+      "gloss": "uza kutabatha"
     },
     {
       "surface": "את",
@@ -26,38 +26,38 @@
     },
     {
       "surface": "המכסה",
-      "gloss": "eqhatha"
+      "gloss": "asishekela"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ulwesi"
+      "marks": "iindlebe zamathumbu"
     },
     {
       "surface": "הקרב",
-      "gloss": "ulwesi"
+      "gloss": "iindlebe zamathumbu"
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩ kunene ilobe",
-      "marks": "ilobe"
+      "gloss": "n⟨את⟩",
+      "marks": "ilamshi"
     },
     {
       "surface": "היתרת",
-      "gloss": "ilobe"
+      "gloss": "ilamshi"
     },
     {
       "surface": "על",
-      "gloss": "phezu"
+      "gloss": "elikwindawo ye"
     },
     {
       "surface": "הכבד",
-      "gloss": "kwesibindi"
+      "gloss": "isibindi"
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩ kunene izinso",
-      "marks": "izinso"
+      "gloss": "n⟨את⟩",
+      "marks": "iintsoy ezimbini"
     },
     {
       "surface": "שתי",
@@ -65,11 +65,11 @@
     },
     {
       "surface": "הכלית",
-      "gloss": "izinso"
+      "gloss": "iintsoy"
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩ kunene amafutha",
+      "gloss": "n⟨את⟩",
       "marks": "amafutha"
     },
     {
@@ -78,7 +78,7 @@
     },
     {
       "surface": "אשר",
-      "gloss": "akwilapo"
+      "gloss": "akheyo"
     },
     {
       "surface": "עליהן",
@@ -86,13 +86,13 @@
     },
     {
       "surface": "והקטרת",
-      "gloss": "uzitshise"
+      "gloss": "uza kuzitshisa"
     },
     {
       "surface": "המזבחה",
-      "gloss": "kwialtari"
+      "gloss": "kwisiwanga"
     }
   ],
-  "timestamp": "2026-09-18T06:16:39.430421316Z",
+  "timestamp": "2026-09-19T13:52:26.497720669Z",
   "model": "glm-5.3"
 }

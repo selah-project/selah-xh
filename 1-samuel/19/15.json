@@ -5,11 +5,11 @@
   "book": "1-samuel",
   "lang": "xh",
   "chapter": 19,
-  "translation": "Wathumela uShawuli ⟨את⟩ abathunywa ukuba baye babone ⟨את⟩ uDavide, esithi: “Mniseni ngesitulo sokulala kum, ukuba ndimbulale.”",
+  "translation": "Wathuma uShawuli ⟨את⟩ abathunywa ukuba baye babone ⟨את⟩ uDavide, esithi: “Mqhaseleni ⟨את⟩ yena embhedeni, ndize kumbulala.”",
   "tokens": [
     {
       "surface": "וישלח",
-      "gloss": "wathumela"
+      "gloss": "wathuma"
     },
     {
       "surface": "שאול",
@@ -43,16 +43,16 @@
     },
     {
       "surface": "העלו",
-      "gloss": "mniseni"
+      "gloss": "mqhaseleni"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩",
-      "marks": "yena"
+      "gloss": "⟨אתו⟩",
+      "marks": "yena embhedeni"
     },
     {
       "surface": "במטה",
-      "gloss": "ngesitulo sokulala"
+      "gloss": "embhedeni"
     },
     {
       "surface": "אלי",
@@ -60,9 +60,9 @@
     },
     {
       "surface": "להמתו",
-      "gloss": "ukuba ndimbulale"
+      "gloss": "ukumbulala"
     }
   ],
-  "timestamp": "2026-09-18T09:31:19.276068521Z",
+  "timestamp": "2026-09-19T13:43:40.784374273Z",
   "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "1-kings",
   "lang": "xh",
   "chapter": 3,
-  "translation": "Wathetha inkosi: “Nitsike ⟨את⟩ umntwana ophilayo zabini, nipe isiqingatha kwenye, kwaye ⟨את⟩ isiqingatha kwenye.”",
+  "translation": "Wathetha inkosi yathi: “Nantsikelani ⟨את⟩ umntwana ophilayo zibe zimbini, niphule ⟨את⟩ isiqingatha somntwana esinye, nisukele ⟨את⟩ isiqingatha esinye.”",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "גזרו",
-      "gloss": "nitsike"
+      "gloss": "nantsikelani"
     },
     {
       "surface": "את",
@@ -34,16 +34,16 @@
     },
     {
       "surface": "לשנים",
-      "gloss": "zabini"
+      "gloss": "zibe zimbini"
     },
     {
       "surface": "ותנו",
-      "gloss": "nipe"
+      "gloss": "niphule"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "isiqingatha"
+      "marks": "isiqingatha somntwana esinye"
     },
     {
       "surface": "החצי",
@@ -51,12 +51,12 @@
     },
     {
       "surface": "לאחת",
-      "gloss": "kwenye"
+      "gloss": "esinye"
     },
     {
       "surface": "ואת",
-      "gloss": "kwaye ⟨את⟩",
-      "marks": "isiqingatha"
+      "gloss": "⟨את⟩",
+      "marks": "isiqingatha esinye"
     },
     {
       "surface": "החצי",
@@ -64,9 +64,9 @@
     },
     {
       "surface": "לאחת",
-      "gloss": "kwenye"
+      "gloss": "esinye"
     }
   ],
-  "timestamp": "2026-09-18T17:31:05.245848650Z",
+  "timestamp": "2026-09-19T13:42:55.387177362Z",
   "model": "glm-5.3"
 }

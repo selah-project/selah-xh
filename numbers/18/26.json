@@ -5,23 +5,23 @@
   "book": "numbers",
   "lang": "xh",
   "chapter": 18,
-  "translation": "Uthethe ke kwiLeviyim, uthi kubo: Xa nithabatha kubantwana bakwaSirayeli ⟨את⟩ ishumi endininike kuni njengelifa lenu, niza kunyusa kuwo isinikelo sikaYahwe — ishumi leshumi.",
+  "translation": "Kwaye kumalivi uza kuthetha, uza kuthi kubo: Xa nithabatha kubantwana bakaSirayeli ⟨את⟩ ishumi endiniphe yona kubo njengelifa lenu, niza kususa kuso isipho esiphakanyiswayo sikaYahwe — isishumi sesishumi.",
   "tokens": [
     {
       "surface": "ואל",
-      "gloss": "kwi"
+      "gloss": "kwaye ku"
     },
     {
       "surface": "הלוים",
-      "gloss": "Leviyim"
+      "gloss": "umalivi"
     },
     {
       "surface": "תדבר",
-      "gloss": "uthethe"
+      "gloss": "uza kuthetha"
     },
     {
       "surface": "ואמרת",
-      "gloss": "uthi"
+      "gloss": "uza kuthi"
     },
     {
       "surface": "אלהם",
@@ -37,16 +37,15 @@
     },
     {
       "surface": "מאת",
-      "gloss": "⟨את⟩",
-      "marks": "kubantwana bakwaSirayeli"
+      "gloss": "⟨את⟩ ku"
     },
     {
       "surface": "בני",
-      "gloss": "bantwana"
+      "gloss": "abantwana"
     },
     {
       "surface": "ישראל",
-      "gloss": "bakwaSirayeli"
+      "gloss": "bakaSirayeli"
     },
     {
       "surface": "את",
@@ -55,24 +54,23 @@
     },
     {
       "surface": "המעשר",
-      "gloss": "ishumi"
+      "gloss": "ishumi (elinxalenye yesishumi)"
     },
     {
       "surface": "אשר",
-      "gloss": "endininike"
+      "gloss": "endiniphe"
     },
     {
       "surface": "נתתי",
-      "gloss": "endininike"
+      "gloss": "ndinika"
     },
     {
       "surface": "לכם",
-      "gloss": "kuni"
+      "gloss": "ni"
     },
     {
       "surface": "מאתם",
-      "gloss": "⟨את⟩",
-      "marks": "kuwo (ku bantwana bakwaSirayeli)"
+      "gloss": "⟨את⟩ kubo"
     },
     {
       "surface": "בנחלתכם",
@@ -80,15 +78,15 @@
     },
     {
       "surface": "והרמתם",
-      "gloss": "niza kunyusa"
+      "gloss": "niza kususa uphakamise"
     },
     {
       "surface": "ממנו",
-      "gloss": "kuwo"
+      "gloss": "kuso"
     },
     {
       "surface": "תרומת",
-      "gloss": "isinikelo"
+      "gloss": "isipho esiphakanyiswayo"
     },
     {
       "surface": "יהוה",
@@ -96,17 +94,17 @@
     },
     {
       "surface": "מעשר",
-      "gloss": "ishumi"
+      "gloss": "isishumu"
     },
     {
       "surface": "מן",
-      "gloss": "le"
+      "gloss": "se"
     },
     {
       "surface": "המעשר",
-      "gloss": "leshumi"
+      "gloss": "sesishumi"
     }
   ],
-  "timestamp": "2026-09-18T17:24:02.074123943Z",
+  "timestamp": "2026-09-19T14:09:07.716388139Z",
   "model": "glm-5.3"
 }

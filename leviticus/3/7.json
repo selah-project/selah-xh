@@ -5,7 +5,7 @@
   "book": "leviticus",
   "lang": "xh",
   "chapter": 3,
-  "translation": "Ukuba isiphica salegushana esilethisayo njengesento sakhe, uza kusilethisa ⟨את⟩ sona phambi kaYahwe.",
+  "translation": "Ukuba inkunzi yegusha yenankunzi yomhlambi eya kusetyenziselwa umnikelo, uza kuyimnikela phambi koYahwe.",
   "tokens": [
     {
       "surface": "אם",
@@ -13,43 +13,43 @@
     },
     {
       "surface": "כשב",
-      "gloss": "isiphica salegushana"
+      "gloss": "igusha elincinci"
     },
     {
       "surface": "הוא",
-      "gloss": "eso"
+      "gloss": "yona"
     },
     {
       "surface": "מקריב",
-      "gloss": "esilethisayo"
+      "gloss": "eza kusetyenziselwa umnikelo"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "isento sakhe"
+      "marks": "umnikelo wakhe"
     },
     {
       "surface": "קרבנו",
-      "gloss": "isento sakhe"
+      "gloss": "umnikelo wakhe"
     },
     {
       "surface": "והקריב",
-      "gloss": "uza kusilethisa"
+      "gloss": "aza kumnikela"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩",
-      "marks": "sona"
+      "gloss": "⟨אתו⟩",
+      "marks": "yona (igusha)"
     },
     {
       "surface": "לפני",
-      "gloss": "phambi"
+      "gloss": "phambi kuka-"
     },
     {
       "surface": "יהוה",
-      "gloss": "kaYahwe"
+      "gloss": "uYahwe"
     }
   ],
-  "timestamp": "2026-09-18T06:33:49.831335401Z",
+  "timestamp": "2026-09-19T14:06:35.302854432Z",
   "model": "glm-5.3"
 }

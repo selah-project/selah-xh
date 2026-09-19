@@ -5,68 +5,68 @@
   "book": "leviticus",
   "lang": "xh",
   "chapter": 4,
-  "translation": "Aze uceke isandla sakhe phezu kweentloko ze-⟨is⟩-offering yesono, asibulele njengesono <...> — kwindawo ejongwe: apho abulala khona u-<...>",
+  "translation": "Aze abeke ⟨את⟩ isandla sakhe phezu kweentloko zomnikelo wesono, aze ayihlabe ⟨את⟩ njengomnikelo wesono, kwendawo apho kuhlawulwa khona ⟨את⟩ umnikelo wokushiswa.",
   "tokens": [
     {
-      "surface": "וְסָמַךְ",
-      "gloss": "aze uceke"
+      "surface": "וסמך",
+      "gloss": "aze abeke"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "isandla sakhe"
     },
     {
-      "surface": "יָדוֹ",
+      "surface": "ידו",
       "gloss": "isandla sakhe"
     },
     {
-      "surface": "עַל",
+      "surface": "על",
       "gloss": "phezu"
     },
     {
-      "surface": "רֹאשׁ",
-      "gloss": "iintloko"
+      "surface": "ראש",
+      "gloss": "kweentloko"
     },
     {
-      "surface": "הַחַטָּאת",
-      "gloss": "offering yesono"
+      "surface": "החטאת",
+      "gloss": "zomnikelo wesono"
     },
     {
-      "surface": "וְשָׁחַט",
-      "gloss": "asibulele"
+      "surface": "ושחט",
+      "gloss": "aze ayihlabe"
     },
     {
-      "surface": "אֹתָהּ",
+      "surface": "אתה",
       "gloss": "⟨את⟩",
-      "marks": "njengesono"
+      "marks": "njengomnikelo wesono"
     },
     {
-      "surface": "לְחַטָּאת",
-      "gloss": "njengesono"
+      "surface": "לחטאת",
+      "gloss": "njengomnikelo wesono"
     },
     {
-      "surface": "בִּמְקוֹם",
-      "gloss": "kwindawo"
+      "surface": "במקום",
+      "gloss": "kwendawo"
     },
     {
-      "surface": "אֲשֶׁר",
+      "surface": "אשר",
       "gloss": "apho"
     },
     {
-      "surface": "יִשְׁחַט",
-      "gloss": "abulala khona"
+      "surface": "ישחט",
+      "gloss": "kuhlawulwa khona"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "i-offering yotshiso"
+      "marks": "umnikelo wokushiswa"
     },
     {
-      "surface": "הָעֹלָה",
-      "gloss": "i-offering yotshiso"
+      "surface": "העלה",
+      "gloss": "umnikelo wokushiswa"
     }
   ],
-  "timestamp": "2026-09-18T18:52:53.156096585Z",
+  "timestamp": "2026-09-19T14:06:40.436854933Z",
   "model": "glm-5.3"
 }

@@ -5,15 +5,15 @@
   "book": "1-chronicles",
   "lang": "xh",
   "chapter": 2,
-  "translation": "Kananjalo amakulu alo uKhetsevroni abazalwayo kuye: uYerakhmele noRamu noKelubhayi.",
+  "translation": "Kwaye oonyana bakaChetsron abazalwe kuye: ⟨את⟩ uYerachmeeli, n⟨את⟩ uRamu, n⟨את⟩ uKeluubhayi.",
   "tokens": [
     {
       "surface": "ובני",
-      "gloss": "Kananjalo amakulu"
+      "gloss": "kwaye oonyana"
     },
     {
       "surface": "חצרון",
-      "gloss": "uKhetsevroni"
+      "gloss": "bakaChetsron"
     },
     {
       "surface": "אשר",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "נולד",
-      "gloss": "zalwayo"
+      "gloss": "bazalwe"
     },
     {
       "surface": "לו",
@@ -30,15 +30,15 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "uYerakhmele"
+      "marks": "uYerachmeeli"
     },
     {
       "surface": "ירחמאל",
-      "gloss": "uYerakhmele"
+      "gloss": "uYerachmeeli"
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
+      "gloss": "n⟨את⟩",
       "marks": "uRamu"
     },
     {
@@ -47,14 +47,14 @@
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
-      "marks": "noKelubhayi"
+      "gloss": "n⟨את⟩",
+      "marks": "uKeluubhayi"
     },
     {
       "surface": "כלובי",
-      "gloss": "noKelubhayi"
+      "gloss": "uKeluubhayi"
     }
   ],
-  "timestamp": "2026-09-18T16:50:39.346565562Z",
+  "timestamp": "2026-09-19T13:41:07.785853888Z",
   "model": "glm-5.3"
 }

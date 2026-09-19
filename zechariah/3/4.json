@@ -5,7 +5,7 @@
   "book": "zechariah",
   "lang": "xh",
   "chapter": 3,
-  "translation": "Waphendula wathetha kwoomi phambi kwakhe, esithi: “Susani izikhumba ezingcolileyo ezikuye.” Wathi kuye: “Bona, nditsuse ububi bakho, ndiza kukuxhoma ngeempahla ezintsha.”",
+  "translation": "Waphendula wathethwa kum abemi phambi kwakhe, esithi: “Susani izinxibo ezimdaka kuye.” Wathi kuye: “Bona, ndiphatshulishe ubugwenxa bakho ingaphezu kwakho, ndiya kukunxibisa ngimalatsothi.”",
   "tokens": [
     {
       "surface": "ויען",
@@ -17,11 +17,11 @@
     },
     {
       "surface": "אל",
-      "gloss": "ku-"
+      "gloss": "ku"
     },
     {
       "surface": "העמדים",
-      "gloss": "kwoomi"
+      "gloss": "abemi"
     },
     {
       "surface": "לפניו",
@@ -37,19 +37,19 @@
     },
     {
       "surface": "הבגדים",
-      "gloss": "izikhumba"
+      "gloss": "izinxibo"
     },
     {
       "surface": "הצאים",
-      "gloss": "ezingcolileyo"
+      "gloss": "ezimdaka"
     },
     {
       "surface": "מעליו",
-      "gloss": "ezikuye"
+      "gloss": "kuye"
     },
     {
       "surface": "ויאמר",
-      "gloss": "wathi"
+      "gloss": "wathetha"
     },
     {
       "surface": "אליו",
@@ -61,30 +61,30 @@
     },
     {
       "surface": "העברתי",
-      "gloss": "nditsuse"
+      "gloss": "ndiphatshulishe"
     },
     {
       "surface": "מעליך",
-      "gloss": "kuwe"
+      "gloss": "ingaphezu kwakho"
     },
     {
       "surface": "עונך",
-      "gloss": "ububi bakho"
+      "gloss": "ubugwenxa bakho"
     },
     {
       "surface": "והלבש",
-      "gloss": "ndiza kukuxhoma"
+      "gloss": "ndiya kukunxibisa"
     },
     {
       "surface": "אתך",
       "gloss": "⟨את⟩",
-      "marks": "ngeempahla ezintsha"
+      "marks": "imalatsothi"
     },
     {
       "surface": "מחלצות",
-      "gloss": "ngeempahla ezintsha"
+      "gloss": "imalatsothi"
     }
   ],
-  "timestamp": "2026-09-18T14:18:53.118747241Z",
+  "timestamp": "2026-09-19T14:11:18.140452276Z",
   "model": "glm-5.3"
 }

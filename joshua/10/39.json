@@ -5,11 +5,11 @@
   "book": "joshua",
   "lang": "xh",
   "chapter": 10,
-  "translation": "Wayibamba, nankosi yayo, nazo zonke iindawo zayo; wababetha ngomlomo wekrele, waba guqula ngokutshatyalaliswa bonke abaphila ababe kuyo; akashiye nasinye isindulula; njengoko wayenzile kwiKhebroni, kanjalo wayenzile kuDebhiri nankosi yayo, kanjalo nakwenzile kwiLivna nankosi yayo.",
+  "translation": "Wayithatha yona, ⟨את⟩ inkosi yayo, ⟨את⟩ iidolophu zonke zayo; bababetha ngomlomo wenkemba, batshatyalalisa ngokupheleleyo ⟨את⟩ wonke umphefumlo owayesele kuyo; akabalishiyanga mntu wasalelayo; njengoko abenzele iKhevron, benza njalo naseDibirini nakunkosi yayo; kanjalo njengoko benzele iLibna nakunkosi yayo.",
   "tokens": [
     {
       "surface": "וילכדה",
-      "gloss": "wayibamba"
+      "gloss": "wayithatha yona"
     },
     {
       "surface": "ואת",
@@ -23,7 +23,7 @@
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "zonke iindawo zayo"
+      "marks": "iidolophu zonke zayo"
     },
     {
       "surface": "כל",
@@ -31,11 +31,11 @@
     },
     {
       "surface": "עריה",
-      "gloss": "iindawo zayo"
+      "gloss": "iidolophu zayo"
     },
     {
       "surface": "ויכום",
-      "gloss": "wababetha"
+      "gloss": "bababetha"
     },
     {
       "surface": "לפי",
@@ -43,28 +43,28 @@
     },
     {
       "surface": "חרב",
-      "gloss": "wekrele"
+      "gloss": "wenkemba"
     },
     {
       "surface": "ויחרימו",
-      "gloss": "waba guqula ngokutshatyalaliswa"
+      "gloss": "batshatyalalisa ngokupheleleyo"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "bonke abaphila"
+      "marks": "wonke umphefumlo"
     },
     {
       "surface": "כל",
-      "gloss": "bonke"
+      "gloss": "wonke"
     },
     {
       "surface": "נפש",
-      "gloss": "abaphila"
+      "gloss": "umphefumlo"
     },
     {
       "surface": "אשר",
-      "gloss": "aba"
+      "gloss": "owayesele"
     },
     {
       "surface": "בה",
@@ -72,15 +72,15 @@
     },
     {
       "surface": "לא",
-      "gloss": "akashiye"
+      "gloss": "akha-"
     },
     {
       "surface": "השאיר",
-      "gloss": "akashiye"
+      "gloss": "balishiyanga"
     },
     {
       "surface": "שריד",
-      "gloss": "isindulula"
+      "gloss": "mntu wasalelayo"
     },
     {
       "surface": "כאשר",
@@ -88,45 +88,45 @@
     },
     {
       "surface": "עשה",
-      "gloss": "wayenzile"
+      "gloss": "benza"
     },
     {
       "surface": "לחברון",
-      "gloss": "kwiKhebroni"
+      "gloss": "iKhevron"
     },
     {
       "surface": "כן",
-      "gloss": "kanjalo"
+      "gloss": "njalo"
     },
     {
       "surface": "עשה",
-      "gloss": "wayenzile"
+      "gloss": "benza"
     },
     {
       "surface": "לדברה",
-      "gloss": "kuDebhiri"
+      "gloss": "iDibira"
     },
     {
       "surface": "ולמלכה",
-      "gloss": "nankosi yayo"
+      "gloss": "nakunkosi yayo"
     },
     {
       "surface": "וכאשר",
-      "gloss": "kanjalo nakwenzile"
+      "gloss": "kanjalo njengoko"
     },
     {
       "surface": "עשה",
-      "gloss": "wayenzile"
+      "gloss": "benza"
     },
     {
       "surface": "ללבנה",
-      "gloss": "kwiLivna"
+      "gloss": "iLibna"
     },
     {
       "surface": "ולמלכה",
-      "gloss": "nankosi yayo"
+      "gloss": "nakunkosi yayo"
     }
   ],
-  "timestamp": "2026-09-18T17:27:27.876547197Z",
+  "timestamp": "2026-09-19T14:03:06.876050086Z",
   "model": "glm-5.3"
 }

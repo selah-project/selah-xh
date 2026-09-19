@@ -5,7 +5,7 @@
   "book": "joshua",
   "lang": "xh",
   "chapter": 22,
-  "translation": "Kodwa ukuba umhlaba woluncwalo lwenu ungcolileyo, pindani nihamba kumhlaba woluncwalo kaYahwe, apho ikhaya likaYahwe lihlala khona, nithabathe isabelo phakathi kwethu; musani ukuchasana noYahwe, musani ukusichasana nina nisakha nina isibingelelo ngaphandle kwesibingelelo sikaYahwe uElohim wethu.",
+  "translation": "Kodwa ukuba ilizwe lezabelo zenu lingcolileyo, cholani nani ukuya elizweni lesabelo likaYahwe, apho itente kaYahwe ihlala khona, nithabathe izabelo phakathi kwethu; musani ukumanyelisa kuYahwe, ningamanyelisi ⟨את⟩ thina ngokwakha nani i-altare, ngaphandle kwe-altare kaYahwe uElohim wethu.",
   "tokens": [
     {
       "surface": "ואך",
@@ -17,39 +17,39 @@
     },
     {
       "surface": "טמאה",
-      "gloss": "ungcolileyo"
+      "gloss": "lingcolileyo"
     },
     {
       "surface": "ארץ",
-      "gloss": "umhlaba"
+      "gloss": "ilizwe"
     },
     {
       "surface": "אחזתכם",
-      "gloss": "woluncwalo lwenu"
+      "gloss": "lezabelo zenu"
     },
     {
       "surface": "עברו",
-      "gloss": "pindani"
+      "gloss": "cholani"
     },
     {
       "surface": "לכם",
-      "gloss": "naye nini"
+      "gloss": "nani"
     },
     {
       "surface": "אל",
-      "gloss": "ku"
+      "gloss": "ukuya"
     },
     {
       "surface": "ארץ",
-      "gloss": "umhlaba"
+      "gloss": "elizweni"
     },
     {
       "surface": "אחזת",
-      "gloss": "woluncwalo"
+      "gloss": "lesabelo"
     },
     {
       "surface": "יהוה",
-      "gloss": "kaYahwe"
+      "gloss": "likaYahwe"
     },
     {
       "surface": "אשר",
@@ -57,7 +57,7 @@
     },
     {
       "surface": "שכן",
-      "gloss": "lihlala"
+      "gloss": "ihlala"
     },
     {
       "surface": "שם",
@@ -65,15 +65,15 @@
     },
     {
       "surface": "משכן",
-      "gloss": "ikhaya elingcwele lika"
+      "gloss": "itente"
     },
     {
       "surface": "יהוה",
-      "gloss": "uYahwe"
+      "gloss": "kaYahwe"
     },
     {
       "surface": "והאחזו",
-      "gloss": "nithabathe isabelo"
+      "gloss": "nithabathe izabelo"
     },
     {
       "surface": "בתוכנו",
@@ -81,7 +81,7 @@
     },
     {
       "surface": "וביהוה",
-      "gloss": "noYahwe"
+      "gloss": "kuYahwe"
     },
     {
       "surface": "אל",
@@ -89,49 +89,50 @@
     },
     {
       "surface": "תמרדו",
-      "gloss": "ukuchasana"
+      "gloss": "ukumanyelisa"
     },
     {
       "surface": "ואתנו",
-      "gloss": "⟨את⟩ nathi"
+      "gloss": "⟨את⟩",
+      "marks": "thina"
     },
     {
       "surface": "אל",
-      "gloss": "musani"
+      "gloss": "ningamanyelisi"
     },
     {
       "surface": "תמרדו",
-      "gloss": "ukusichasana"
+      "gloss": "ukumanyelisa"
     },
     {
       "surface": "בבנתכם",
-      "gloss": "nisakha nina"
+      "gloss": "ngokwakha"
     },
     {
       "surface": "לכם",
-      "gloss": "naye nini"
+      "gloss": "nani"
     },
     {
       "surface": "מזבח",
-      "gloss": "isibingelelo"
+      "gloss": "i-altare"
     },
     {
       "surface": "מבלעדי",
-      "gloss": "ngaphandle kwe"
+      "gloss": "ngaphandle kwe-"
     },
     {
       "surface": "מזבח",
-      "gloss": "wesibingelelo"
+      "gloss": "altare"
     },
     {
       "surface": "יהוה",
-      "gloss": "sikaYahwe"
+      "gloss": "kaYahwe"
     },
     {
       "surface": "אלהינו",
       "gloss": "uElohim wethu"
     }
   ],
-  "timestamp": "2026-09-18T08:45:14.273743012Z",
+  "timestamp": "2026-09-19T14:03:12.668404971Z",
   "model": "glm-5.3"
 }

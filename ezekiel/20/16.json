@@ -5,7 +5,7 @@
   "book": "ezekiel",
   "lang": "xh",
   "chapter": 20,
-  "translation": "Kuba baphaluxa izigwebo zam, kwimimiselo yam ayihambanga kuzo, baza batyabula ⟨את⟩ iintsuku zam zokuphumla, kuba iintliziyo yabo ihamba emva kweenkosi zawo ezingozinyana.",
+  "translation": "Kuba bamala ummiselo wam, kwakungekho ngokuhamba kweziqu zeziqikelelo zam — kodwa ⟨את⟩ iziqikelelo zam abazihambanga kuzo, ⟨את⟩ iintsonyango zam bazazidukilela, kuba intliziyo yabo yayihamba emva kweentshongolosi zabo.",
   "tokens": [
     {
       "surface": "יען",
@@ -13,28 +13,28 @@
     },
     {
       "surface": "במשפטי",
-      "gloss": "izigwebo zam"
+      "gloss": "ummiselo wam"
     },
     {
       "surface": "מאסו",
-      "gloss": "baphaluxa"
+      "gloss": "bamala"
     },
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "imimiselo yam"
+      "marks": "iziqikelelo zam"
     },
     {
       "surface": "חקותי",
-      "gloss": "imimiselo yam"
+      "gloss": "iziqikelelo zam"
     },
     {
       "surface": "לא",
-      "gloss": "ayihambanga"
+      "gloss": "hayi"
     },
     {
       "surface": "הלכו",
-      "gloss": "-hamba"
+      "gloss": "abazihambanga"
     },
     {
       "surface": "בהם",
@@ -43,15 +43,15 @@
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "iintsuku zam zokuphumla"
+      "marks": "iintsonyango zam"
     },
     {
       "surface": "שבתותי",
-      "gloss": "iintsuku zam zokuphumla"
+      "gloss": "iintsonyango zam"
     },
     {
       "surface": "חללו",
-      "gloss": "batyabula"
+      "gloss": "bazazidukilela"
     },
     {
       "surface": "כי",
@@ -59,21 +59,21 @@
     },
     {
       "surface": "אחרי",
-      "gloss": "emva kwe-"
+      "gloss": "emva kwa-"
     },
     {
       "surface": "גלוליהם",
-      "gloss": "iidolo zawo"
+      "gloss": "iintshongolosi zabo"
     },
     {
       "surface": "לבם",
-      "gloss": "iintliziyo yabo"
+      "gloss": "intliziyo yabo"
     },
     {
       "surface": "הלך",
-      "gloss": "ihamba"
+      "gloss": "yayihamba"
     }
   ],
-  "timestamp": "2026-09-18T13:11:24.937912514Z",
+  "timestamp": "2026-09-19T13:54:04.742178195Z",
   "model": "glm-5.3"
 }

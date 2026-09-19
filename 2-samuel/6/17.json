@@ -5,20 +5,20 @@
   "book": "2-samuel",
   "lang": "xh",
   "chapter": 6,
-  "translation": "Baze bazisa ⟨את⟩ isitya sikaYahwe, basibeka endaweni waso, phakathi kwetenti uDawidi awayinweba yona; uDawidi wazinyusa izibingelelo ezishisiweyo phambi koYahwe, nezibingelelo zoxolo.",
+  "translation": "Baze ngaletha iSibaya sikaYahwe, basibeka endaweni waso, phakathi kwetenti awayeyimilele yona uDawid; wayesenyusa udawid izi-olot phambi kukaYahwe, nesizolulelo.",
   "tokens": [
     {
       "surface": "ויבאו",
-      "gloss": "bazisa"
+      "gloss": "baze ngaletha"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "isitya sikaYahwe"
+      "marks": "iSibaya sikaYahwe"
     },
     {
       "surface": "ארון",
-      "gloss": "isitya"
+      "gloss": "iSibaya"
     },
     {
       "surface": "יהוה",
@@ -30,7 +30,7 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩",
+      "gloss": "⟨אתו⟩",
       "marks": "endaweni waso"
     },
     {
@@ -39,19 +39,19 @@
     },
     {
       "surface": "בתוך",
-      "gloss": "phakathi"
+      "gloss": "phakathi kwe-"
     },
     {
       "surface": "האהל",
-      "gloss": "kwetenti"
+      "gloss": "itenti"
     },
     {
       "surface": "אשר",
-      "gloss": "awayinweba yona"
+      "gloss": "awayeyimilele yona"
     },
     {
       "surface": "נטה",
-      "gloss": "wanweba"
+      "gloss": "yimilele"
     },
     {
       "surface": "לו",
@@ -59,33 +59,33 @@
     },
     {
       "surface": "דוד",
-      "gloss": "uDawidi"
+      "gloss": "uDawid"
     },
     {
       "surface": "ויעל",
-      "gloss": "wazinyusa"
+      "gloss": "wayesenyusa"
     },
     {
       "surface": "דוד",
-      "gloss": "uDawidi"
+      "gloss": "uDawid"
     },
     {
       "surface": "עלות",
-      "gloss": "izibingelelo ezishisiweyo"
+      "gloss": "izi-olot"
     },
     {
       "surface": "לפני",
-      "gloss": "phambi"
+      "gloss": "phambi kuka-"
     },
     {
       "surface": "יהוה",
-      "gloss": "koYahwe"
+      "gloss": "Yahwe"
     },
     {
       "surface": "ושלמים",
-      "gloss": "nezibingelelo zoxolo"
+      "gloss": "nesizolulelo"
     }
   ],
-  "timestamp": "2026-09-18T17:29:51.631668644Z",
+  "timestamp": "2026-09-19T13:48:43.506862619Z",
   "model": "glm-5.3"
 }

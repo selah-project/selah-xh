@@ -5,7 +5,7 @@
   "book": "hosea",
   "lang": "xh",
   "chapter": 2,
-  "translation": "Yaye ndiza kumnika iirhemu zakhe apho, kunye neThafa lika-Akhor njengesango lethemba; yaye iya kuphendula khona njengakwimihla yobusha bayo, njengakwintsasa wonyukela waphuma elwandle laseMitsrayim.",
+  "translation": "Ndiza kumnika yena ⟨את⟩ iisireda zakhe ukusuka apho, n⟨את⟩ ithyholo le-Akori njengesango lethemba; yaza yaphendula khona njengakwimihla yobutsha bayo, najengaloo mini wenyukela kwilizwe laseMitsrayim.",
   "tokens": [
     {
       "surface": "ונתתי",
@@ -18,28 +18,28 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "iirhemu zakhe"
+      "marks": "iisireda zakhe"
     },
     {
       "surface": "כרמיה",
-      "gloss": "iirhemu zakhe"
+      "gloss": "iisireda zakhe"
     },
     {
       "surface": "משם",
-      "gloss": "apho"
+      "gloss": "ukusuka apho"
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
-      "marks": "iThafa lika-Akhor"
+      "gloss": "n⟨את⟩",
+      "marks": "ithyholo le-Akori"
     },
     {
       "surface": "עמק",
-      "gloss": "iThafa"
+      "gloss": "ithyholo"
     },
     {
       "surface": "עכור",
-      "gloss": "lika-Akhor"
+      "gloss": "le-Akori"
     },
     {
       "surface": "לפתח",
@@ -51,7 +51,7 @@
     },
     {
       "surface": "וענתה",
-      "gloss": "iya kuphendula"
+      "gloss": "yaza yaphendula"
     },
     {
       "surface": "שמה",
@@ -63,25 +63,25 @@
     },
     {
       "surface": "נעוריה",
-      "gloss": "yobusha bayo"
+      "gloss": "yobutsha bayo"
     },
     {
       "surface": "וכיום",
-      "gloss": "njengakwintsasa"
+      "gloss": "najengaloo mini"
     },
     {
       "surface": "עלתה",
-      "gloss": "wonyukela waphuma"
+      "gloss": "wenyukela"
     },
     {
       "surface": "מארץ",
-      "gloss": "elwandle"
+      "gloss": "kwilizwe"
     },
     {
       "surface": "מצרים",
       "gloss": "laseMitsrayim"
     }
   ],
-  "timestamp": "2026-09-18T13:44:48.143494857Z",
+  "timestamp": "2026-09-19T13:58:18.321495862Z",
   "model": "glm-5.3"
 }

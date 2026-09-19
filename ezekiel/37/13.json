@@ -5,11 +5,11 @@
   "book": "ezekiel",
   "lang": "xh",
   "chapter": 37,
-  "translation": "Niya kwazi ukuba mna ndi⟨ngu⟩Yahwe, xa ndivula ⟨את⟩ amangcwaba enu, ndinipakamisa nina kwamangcwaba enu, bantu bam.",
+  "translation": "Kwaye niya kwazi ukuba mna ndinguYahwe, xa ndivula ⟨את⟩ amangcwaba enu, ndaza ndaniphakamisa nina ⟨את⟩ emangcwaba enu, bantu bam.",
   "tokens": [
     {
       "surface": "וידעתם",
-      "gloss": "niya kwazi"
+      "gloss": "Kwaye niya kwazi"
     },
     {
       "surface": "כי",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "יהוה",
-      "gloss": "uYahwe"
+      "gloss": "ndinguYahwe"
     },
     {
       "surface": "בפתחי",
@@ -38,22 +38,22 @@
     },
     {
       "surface": "ובהעלותי",
-      "gloss": "ndinipakamisa"
+      "gloss": "ndaza ndaniphakamisa nina"
     },
     {
       "surface": "אתכם",
       "gloss": "⟨את⟩",
-      "marks": "nina"
+      "marks": "nina, emangcwaba enu"
     },
     {
       "surface": "מקברותיכם",
-      "gloss": "kwamangcwaba enu"
+      "gloss": "emangcwaba enu"
     },
     {
       "surface": "עמי",
       "gloss": "bantu bam"
     }
   ],
-  "timestamp": "2026-09-18T13:28:35.759161704Z",
+  "timestamp": "2026-09-19T13:55:03.809279663Z",
   "model": "glm-5.3"
 }

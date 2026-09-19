@@ -5,23 +5,23 @@
   "book": "1-kings",
   "lang": "xh",
   "chapter": 11,
-  "translation": "Kwenzekile ngalo lonke ixesha elo, uYarovamu waphuma eYerushalayimi, u-Axiya uShiloni, umprofeti, wamfumana enye ndlela, yena exutywe ngesinxibo esitsha; kabini bobeni bedwa endlwini yamahlathi ⟨kummandla wzamhlaba⟩.",
+  "translation": "Yaye kwenzeka ngelo xesha, uYerovham waphuma eiYerushalayimi, wamfumana ⟨את⟩ u-Achiya uMshiloni, umprofeti, endleleni, yena esithambekile ngesikhakha esitsha, babesibini bedwa elivini.",
   "tokens": [
     {
       "surface": "ויהי",
-      "gloss": "Kwenzekile"
+      "gloss": "Yaye kwenzaka"
     },
     {
       "surface": "בעת",
-      "gloss": "ngexesha"
+      "gloss": "ngelo xesha"
     },
     {
       "surface": "ההיא",
-      "gloss": "elo"
+      "gloss": "lelo"
     },
     {
       "surface": "וירבעם",
-      "gloss": "uYarovamu"
+      "gloss": "uYerovham"
     },
     {
       "surface": "יצא",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "מירושלם",
-      "gloss": "eYerushalayimi"
+      "gloss": "eiYerushalayimi"
     },
     {
       "surface": "וימצא",
@@ -38,15 +38,15 @@
     {
       "surface": "אתו",
       "gloss": "⟨את⟩",
-      "marks": "yena (uYarovamu)"
+      "marks": "u-Achiya"
     },
     {
       "surface": "אחיה",
-      "gloss": "u-Axiya"
+      "gloss": "u-Achiya"
     },
     {
       "surface": "השילני",
-      "gloss": "uShiloni"
+      "gloss": "uMshiloni"
     },
     {
       "surface": "הנביא",
@@ -62,11 +62,11 @@
     },
     {
       "surface": "מתכסה",
-      "gloss": "exutywe"
+      "gloss": "esithambekile"
     },
     {
       "surface": "בשלמה",
-      "gloss": "ngesinxibo"
+      "gloss": "ngesikhakha"
     },
     {
       "surface": "חדשה",
@@ -74,7 +74,7 @@
     },
     {
       "surface": "ושניהם",
-      "gloss": "bobeli"
+      "gloss": "babesibini"
     },
     {
       "surface": "לבדם",
@@ -82,9 +82,9 @@
     },
     {
       "surface": "בשדה",
-      "gloss": "kumhlaba ovulekileyo"
+      "gloss": "elivini"
     }
   ],
-  "timestamp": "2026-09-18T10:25:02.183715817Z",
+  "timestamp": "2026-09-19T13:42:01.348207043Z",
   "model": "glm-5.3"
 }

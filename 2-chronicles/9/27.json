@@ -5,15 +5,15 @@
   "book": "2-chronicles",
   "lang": "xh",
   "chapter": 9,
-  "translation": "Waza umakumkani wenza isilivere eYerushalayimi yenjengamatye, waza amaaredisi ⟨את⟩ wenza enjengamasikhami akwindawo esezantsi, ngobuninzi.",
+  "translation": "Inkosi yenza ⟨את⟩ isilivere ibe yiYerushalayimi njengeebhodi, kwaye ⟨את⟩ oodayim wabenza abe njengemikhwanisi esesiphelalweni, ngobuninzi.",
   "tokens": [
     {
       "surface": "ויתן",
-      "gloss": "wenza"
+      "gloss": "wabeka\/wenza"
     },
     {
       "surface": "המלך",
-      "gloss": "umakumkani"
+      "gloss": "inkosi"
     },
     {
       "surface": "את",
@@ -30,38 +30,38 @@
     },
     {
       "surface": "כאבנים",
-      "gloss": "yenjengamatye"
+      "gloss": "njengeebhodi"
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
-      "marks": "amaaredisi"
+      "gloss": "kwaye ⟨את⟩",
+      "marks": "oodayim"
     },
     {
       "surface": "הארזים",
-      "gloss": "amaaredisi"
+      "gloss": "oodayim"
     },
     {
       "surface": "נתן",
-      "gloss": "wenza"
+      "gloss": "wabenza"
     },
     {
       "surface": "כשקמים",
-      "gloss": "enjengamasikhami"
+      "gloss": "njengemikhwanisi"
     },
     {
       "surface": "אשר",
-      "gloss": "a"
+      "gloss": "azo"
     },
     {
       "surface": "בשפלה",
-      "gloss": "akwindawo esezantsi"
+      "gloss": "esesiphelalweni"
     },
     {
       "surface": "לרב",
       "gloss": "ngobuninzi"
     }
   ],
-  "timestamp": "2026-09-18T17:06:15.786814936Z",
+  "timestamp": "2026-09-19T13:46:00.971187900Z",
   "model": "glm-5.3"
 }

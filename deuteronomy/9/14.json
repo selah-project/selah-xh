@@ -5,23 +5,23 @@
   "book": "deuteronomy",
   "lang": "xh",
   "chapter": 9,
-  "translation": "Yekeni ndim, ndizakutshabalalisa, ndizakucima igama labo phantsi kolwandle lwezulu, ndiza kukwenza waba luluntu olunamandla noluninzi kunalo.",
+  "translation": "Yekela ndodwa, nditshonise, ndicime ⟨את⟩ igama labo ngaphantsi kwezulu, ndenze wena ubengwulwa olunamandla noluninzi kunabo.",
   "tokens": [
     {
       "surface": "הרף",
-      "gloss": "Yekeni ndim"
+      "gloss": "Yekela ndodwa"
     },
     {
       "surface": "ממני",
-      "gloss": "ndim"
+      "gloss": "ndodwa (kuM)"
     },
     {
       "surface": "ואשמידם",
-      "gloss": "ndizakutshabalalisa"
+      "gloss": "nditshonise"
     },
     {
       "surface": "ואמחה",
-      "gloss": "ndizakucima"
+      "gloss": "ndicime"
     },
     {
       "surface": "את",
@@ -34,24 +34,23 @@
     },
     {
       "surface": "מתחת",
-      "gloss": "phantsi"
+      "gloss": "ngaphantsi"
     },
     {
       "surface": "השמים",
-      "gloss": "kulwandle lwezulu"
+      "gloss": "kwezulu"
     },
     {
       "surface": "ואעשה",
-      "gloss": "ndiza kukwenza"
+      "gloss": "ndenze wena"
     },
     {
       "surface": "אותך",
-      "gloss": "⟨את⟩ w",
-      "marks": "waba luluntu"
+      "gloss": "wena (⟨את⟩ + wena)"
     },
     {
       "surface": "לגוי",
-      "gloss": "luluntu"
+      "gloss": "ubengwulwa"
     },
     {
       "surface": "עצום",
@@ -63,9 +62,9 @@
     },
     {
       "surface": "ממנו",
-      "gloss": "kunalo"
+      "gloss": "kunabo"
     }
   ],
-  "timestamp": "2026-09-18T08:01:35.953273667Z",
+  "timestamp": "2026-09-19T13:50:29.554022181Z",
   "model": "glm-5.3"
 }

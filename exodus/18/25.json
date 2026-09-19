@@ -5,7 +5,7 @@
   "book": "exodus",
   "lang": "xh",
   "chapter": 18,
-  "translation": "UMoshe wakhetha amadoda amandla kuyo yonke iYisra’el, wabenza abaphezulu abangaphezu komntu wonke, ngamatshala amawaka, amatshala amakhulu ama-100, amatshala angamashumi amahlanu, namatshala amashumi alishumi.",
+  "translation": "Wakhetha uMoshe amadoda amandla phakathi kwawo onke akwaIsrayeli, wabenza iintloko phezu kwabantu: iinkosi zeziwaka, iinkosi zezikhulu, iinkosi ezilinganiselwe amashumi amahlanu, neenkosi zezilishumi.",
   "tokens": [
     {
       "surface": "ויבחר",
@@ -25,11 +25,11 @@
     },
     {
       "surface": "מכל",
-      "gloss": "kuyo yonke"
+      "gloss": "phakathi kwawo onke"
     },
     {
       "surface": "ישראל",
-      "gloss": "iYisra’el"
+      "gloss": "akwaIsrayeli"
     },
     {
       "surface": "ויתן",
@@ -37,53 +37,54 @@
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩"
+      "gloss": "⟨את⟩",
+      "marks": "iintloko"
     },
     {
       "surface": "ראשים",
-      "gloss": "abaphezulu"
+      "gloss": "iintloko"
     },
     {
       "surface": "על",
-      "gloss": "abangaphezu kw"
+      "gloss": "phezu"
     },
     {
       "surface": "העם",
-      "gloss": "umntu wonke"
+      "gloss": "kwabantu"
     },
     {
       "surface": "שרי",
-      "gloss": "ngamatshala"
+      "gloss": "iinkosi"
     },
     {
       "surface": "אלפים",
-      "gloss": "amawaka"
+      "gloss": "zeziwaka"
     },
     {
       "surface": "שרי",
-      "gloss": "amatshala"
+      "gloss": "iinkosi"
     },
     {
       "surface": "מאות",
-      "gloss": "amakhulu ama-100"
+      "gloss": "zezikhulu"
     },
     {
       "surface": "שרי",
-      "gloss": "amatshala"
+      "gloss": "iinkosi"
     },
     {
       "surface": "חמשים",
-      "gloss": "angamashumi amahlanu"
+      "gloss": "amashumi amahlanu"
     },
     {
       "surface": "ושרי",
-      "gloss": "namatshala"
+      "gloss": "neenkosi"
     },
     {
       "surface": "עשרת",
-      "gloss": "amashumi alishumi"
+      "gloss": "ezilishumi"
     }
   ],
-  "timestamp": "2026-09-18T06:04:09.294548839Z",
+  "timestamp": "2026-09-19T13:51:19.466301360Z",
   "model": "glm-5.3"
 }

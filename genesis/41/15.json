@@ -5,11 +5,11 @@
   "book": "genesis",
   "lang": "xh",
   "chapter": 41,
-  "translation": "Wathi uParo kuYosefu: “Ndiphuphe iphupha, kodwa akukho mtoliki ⟨את⟩ walo; mna ndivile ngawe ukuthi: xa uliphupha uliphonononga, ulitolika.”",
+  "translation": "Wathi uParo kuYosef: “Iphupu ndiphuphe, kodwa akukho mtoliki ⟨את⟩ waso; mna ndivile ngawe ukuthi: uya kuva iphupu ukuze ulitole ⟨את⟩.”",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "wathi"
+      "gloss": "Wathi"
     },
     {
       "surface": "פרעה",
@@ -21,11 +21,11 @@
     },
     {
       "surface": "יוסף",
-      "gloss": "uYosefu"
+      "gloss": "uYosef"
     },
     {
       "surface": "חלום",
-      "gloss": "iphupha"
+      "gloss": "iphupu"
     },
     {
       "surface": "חלמתי",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "ופתר",
-      "gloss": "kodwa akukho mtoliki"
+      "gloss": "kodwa umtoliki"
     },
     {
       "surface": "אין",
@@ -41,7 +41,8 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ walo"
+      "gloss": "⟨את⟩",
+      "marks": "umtoliki (waso)"
     },
     {
       "surface": "ואני",
@@ -61,22 +62,22 @@
     },
     {
       "surface": "תשמע",
-      "gloss": "xa uliphupha uliphonononga"
+      "gloss": "uya kuva"
     },
     {
       "surface": "חלום",
-      "gloss": "iphupha"
+      "gloss": "iphupu"
     },
     {
       "surface": "לפתר",
-      "gloss": "ulitolika"
+      "gloss": "ukuze ulitole"
     },
     {
       "surface": "אתו",
       "gloss": "⟨את⟩",
-      "marks": "iphupha"
+      "marks": "iphupu"
     }
   ],
-  "timestamp": "2026-09-18T05:38:34.318130300Z",
+  "timestamp": "2026-09-19T13:56:50.586771964Z",
   "model": "glm-5.3"
 }

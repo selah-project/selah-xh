@@ -5,11 +5,11 @@
   "book": "numbers",
   "lang": "xh",
   "chapter": 16,
-  "translation": "Ingaba yinto encinci na kuni ukuba uElohim wakaIsrayeli wanahlukanisa ⟨את⟩ nina eqeleni lakaIsrayeli, ukunisondela kuye, ukwenza ⟨את⟩ umsebenzi wetente likaYahwe, nokumila phambi kweqela ukukhonza bona?",
+  "translation": "Ingaba incinci na kuni into yokuba uElohim kaIsrayeli wanahlukanisa nina ⟨את⟩ kwidini likaIsrayeli, ukunisondela nina ⟨את⟩ kuye, ukwenza ⟨את⟩ inkonzo yetabhenakile kaYahwe, nokuima phambi kwidini ukukhonza bona?",
   "tokens": [
     {
       "surface": "המעט",
-      "gloss": "ingaba yinto encinci na"
+      "gloss": "ingaba incinci na"
     },
     {
       "surface": "מכם",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "אלהי",
-      "gloss": "uElohim wa-"
+      "gloss": "uElohim"
     },
     {
       "surface": "ישראל",
@@ -33,16 +33,16 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩",
-      "marks": "nina"
+      "gloss": "⟨את⟩ nina",
+      "marks": "kwidini likaIsrayeli"
     },
     {
       "surface": "מעדת",
-      "gloss": "eqeleni la-"
+      "gloss": "kwidini"
     },
     {
       "surface": "ישראל",
-      "gloss": "kaIsrayeli"
+      "gloss": "likaIsrayeli"
     },
     {
       "surface": "להקריב",
@@ -50,8 +50,8 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩",
-      "marks": "nina"
+      "gloss": "⟨את⟩ nina",
+      "marks": "kuye"
     },
     {
       "surface": "אליו",
@@ -64,37 +64,37 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "umsebenzi"
+      "marks": "inkonzo yetabhenakile kaYahwe"
     },
     {
       "surface": "עבדת",
-      "gloss": "umsebenzi"
+      "gloss": "inkonzo"
     },
     {
       "surface": "משכן",
-      "gloss": "wetente"
+      "gloss": "yetabhenakile"
     },
     {
       "surface": "יהוה",
-      "gloss": "likaYahwe"
+      "gloss": "kaYahwe"
     },
     {
       "surface": "ולעמד",
-      "gloss": "nokumila"
+      "gloss": "nokuima"
     },
     {
       "surface": "לפני",
-      "gloss": "phambi kwe-"
+      "gloss": "phambi"
     },
     {
       "surface": "העדה",
-      "gloss": "iqela"
+      "gloss": "kwidini"
     },
     {
       "surface": "לשרתם",
       "gloss": "ukukhonza bona"
     }
   ],
-  "timestamp": "2026-09-18T07:28:55.722923998Z",
+  "timestamp": "2026-09-19T14:08:58.376427571Z",
   "model": "glm-5.3"
 }

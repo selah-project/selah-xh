@@ -5,15 +5,15 @@
   "book": "1-samuel",
   "lang": "xh",
   "chapter": 31,
-  "translation": "AmaFilisti anamathela ngoShawuli noonyana bakhe; amaFilisti abetha ⟨את⟩ uYehonatan ⟨את⟩ no-Avinadab ⟨את⟩ noMalkishuwa, oonyana bakaShawuli.",
+  "translation": "Kwaye amaPelishti amlandela ngokuqinisekileyo ⟨את⟩ uShawuli ⟨את⟩ noonyana bakhe, kwaye amaPelishti abulala ⟨את⟩ uYehonatana ⟨את⟩ noAbhinadhaba ⟨את⟩ noMalki-Shuwa, oonyana kaShawuli.",
   "tokens": [
     {
       "surface": "וידבקו",
-      "gloss": "anamathela"
+      "gloss": "amlandela ngokuqinisekileyo"
     },
     {
       "surface": "פלשתים",
-      "gloss": "amaFilisti"
+      "gloss": "amaPelishti"
     },
     {
       "surface": "את",
@@ -35,42 +35,42 @@
     },
     {
       "surface": "ויכו",
-      "gloss": "abetha"
+      "gloss": "abulala"
     },
     {
       "surface": "פלשתים",
-      "gloss": "amaFilisti"
+      "gloss": "amaPelishti"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "uYehonatan"
+      "marks": "uYehonatana"
     },
     {
       "surface": "יהונתן",
-      "gloss": "uYehonatan"
+      "gloss": "uYehonatana"
     },
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "u-Avinadab"
+      "marks": "noAbhinadhaba"
     },
     {
       "surface": "אבינדב",
-      "gloss": "u-Avinadab"
+      "gloss": "noAbhinadhaba"
     },
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "uMalkishuwa"
+      "marks": "noMalki-Shuwa"
     },
     {
       "surface": "מלכי",
-      "gloss": "uMalki-"
+      "gloss": "noMalki-"
     },
     {
       "surface": "שוע",
-      "gloss": "-shuwa"
+      "gloss": "Shuwa"
     },
     {
       "surface": "בני",
@@ -78,9 +78,9 @@
     },
     {
       "surface": "שאול",
-      "gloss": "bakaShawuli"
+      "gloss": "kaShawuli"
     }
   ],
-  "timestamp": "2026-09-18T09:43:53.355833457Z",
+  "timestamp": "2026-09-19T13:44:09.760037098Z",
   "model": "glm-5.3"
 }

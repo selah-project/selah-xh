@@ -5,98 +5,100 @@
   "book": "leviticus",
   "lang": "xh",
   "chapter": 3,
-  "translation": "Aza kungenisela exinkcenkceneni zezenkomo eziyinene imbeko yomlilo kuYahwe: amafutha ayo, umhlathi opheleleyo, uza kuwukhuphela ngasekhakaḷeni; nangamafutha avela ayo angqangqisa iziqaqamba (wezinkomo ezininzi) kunye nalo, zonke izinto ezivela ⟨את⟩ kuzo, ⟨את⟩ nawo wonke amafutha akho asemazantsi ayo.",
+  "translation": "Uza kungenisa kwisinikelo soxolo isinikelo somlilo kuYahwe: amafutha ayo, umsila wamafutha upheleleyo, uza kuwususa eduze komqolo; nangaya ⟨את⟩ amafutha alela ⟨את⟩ amathumbu, nangayo ⟨את⟩ onke amafutha akumathumbu.",
   "tokens": [
     {
-      "surface": "וְהִקְרִ֨יב",
-      "gloss": "aza kungenisela exinkcenkceneni"
+      "surface": "והקריב",
+      "gloss": "uza kungenisa"
     },
     {
-      "surface": "מִזֶּ֣בַח",
-      "gloss": "imbeko"
+      "surface": "מזבח",
+      "gloss": "isinikelo"
     },
     {
-      "surface": "הַשְּׁלָמִים֮",
-      "gloss": "ezezinene"
+      "surface": "השלמים",
+      "gloss": "soxolo"
     },
     {
-      "surface": "אִשֶּׁ֣ה",
-      "gloss": "yomlilo"
+      "surface": "אשה",
+      "gloss": "isinikelo somlilo"
     },
     {
-      "surface": "לַיהוָה֒",
+      "surface": "ליהוה",
       "gloss": "kuYahwe"
     },
     {
-      "surface": "חֶלְבּוֹ֙",
+      "surface": "חלבו",
       "gloss": "amafutha ayo"
     },
     {
-      "surface": "הָאַלְיָ֣ה",
-      "gloss": "umhlathi"
+      "surface": "האליה",
+      "gloss": "umsila wamafutha"
     },
     {
-      "surface": "תְּמִימָ֔ה",
-      "gloss": "opheleleyo"
+      "surface": "תמימה",
+      "gloss": "upheleleyo"
     },
     {
-      "surface": "לְעֻמַּ֥ת",
-      "gloss": "ngase"
+      "surface": "לעמת",
+      "gloss": "eduze"
     },
     {
-      "surface": "הֶעָצֶ֖ה",
-      "gloss": "khakaḷeni"
+      "surface": "העצה",
+      "gloss": "komqolo"
     },
     {
-      "surface": "יְסִירֶ֑נָּה",
-      "gloss": "uza kuwukhuphela"
-    },
-    {
-      "surface": "ואת",
-      "gloss": "⟨את⟩ nangama",
-      "marks": "amafutha avela ayo angqangqisa iziqaqamba"
-    },
-    {
-      "surface": "הַחֵ֨לֶב֙",
-      "gloss": "amafutha avela ayo angqangqisa iziqaqamba (wezinkomo ezininzi) kunye nalo"
-    },
-    {
-      "surface": "הַמְכַסֶּ֣ה",
-      "gloss": "ziqinisekisa"
-    },
-    {
-      "surface": "את",
-      "gloss": "⟨את⟩ kuzo"
-    },
-    {
-      "surface": "הַקֶּ֔רֶב",
-      "gloss": "iziqaqamba (wezinkomo ezininzi) kunye nalo"
+      "surface": "יסירנה",
+      "gloss": "uza kuwususa"
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩ nawo"
+      "gloss": "⟨את⟩",
+      "marks": "amafutha"
     },
     {
-      "surface": "כָּל",
-      "gloss": "zonke"
-    },
-    {
-      "surface": "הַחֵ֔לֶב",
+      "surface": "החלב",
       "gloss": "amafutha"
     },
     {
-      "surface": "אֲשֶׁ֖ר",
-      "gloss": "ezivela kuzo"
+      "surface": "המכסה",
+      "gloss": "alela"
     },
     {
-      "surface": "עַל",
-      "gloss": "asezantsi"
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amathumbu"
     },
     {
-      "surface": "הַקֶּֽרֶב",
-      "gloss": "eziqaqambeni (wezinkomo ezininzi) kunye nalo"
+      "surface": "הקרב",
+      "gloss": "amathumbu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "onke amafutha"
+    },
+    {
+      "surface": "כל",
+      "gloss": "onke"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "amafutha"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "azo"
+    },
+    {
+      "surface": "על",
+      "gloss": "akumathumbu"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "akumathumbu"
     }
   ],
-  "timestamp": "2026-09-18T06:32:39.209931156Z",
+  "timestamp": "2026-09-19T14:06:50.464955629Z",
   "model": "glm-5.3"
 }

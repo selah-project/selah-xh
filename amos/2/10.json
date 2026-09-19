@@ -5,39 +5,41 @@
   "book": "amos",
   "lang": "xh",
   "chapter": 2,
-  "translation": "Kananjalo mna ndaninyusa naphaya kwilizwe laseMitsrayim, ndanihamba-nenza elangeni iminyaka engamashumi amane, ukuba nilinganisele ⟨את⟩ ilizwe laka-Emori.",
+  "translation": "Mna ndaninyusa ⟨את⟩ nina ekhulwini eliMitsrayim, ndanihambaisa ⟨את⟩ nina entlango iminyaka engamashumi amane, ukuba nithabathe ⟨את⟩ umhlaba we-Emori.",
   "tokens": [
     {
       "surface": "ואנכי",
-      "gloss": "Kananjalo mna"
+      "gloss": "Mna ndaninyusa"
     },
     {
       "surface": "העליתי",
-      "gloss": "ndaninyusa naphaya"
+      "gloss": "ndaninyusa"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ nina"
+      "gloss": "⟨את⟩ nina",
+      "marks": "nina"
     },
     {
       "surface": "מארץ",
-      "gloss": "kwilizwe"
+      "gloss": "ekhulwini"
     },
     {
       "surface": "מצרים",
-      "gloss": "laseMitsrayim"
+      "gloss": "iMitsrayim"
     },
     {
       "surface": "ואולך",
-      "gloss": "ndanihamba-nenza"
+      "gloss": "ndanihambaisa"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ nina"
+      "gloss": "⟨את⟩ nina",
+      "marks": "nina"
     },
     {
       "surface": "במדבר",
-      "gloss": "elangeni"
+      "gloss": "entlango"
     },
     {
       "surface": "ארבעים",
@@ -49,22 +51,22 @@
     },
     {
       "surface": "לרשת",
-      "gloss": "ukuba nilinganisele"
+      "gloss": "ukuba nithabathe"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ilizwe laka-Emori"
+      "marks": "umhlaba we-Emori"
     },
     {
       "surface": "ארץ",
-      "gloss": "ilizwe"
+      "gloss": "umhlaba"
     },
     {
       "surface": "האמרי",
-      "gloss": "laka-Emori"
+      "gloss": "we-Emori"
     }
   ],
-  "timestamp": "2026-09-18T13:50:18.270996204Z",
+  "timestamp": "2026-09-19T13:48:06.283729972Z",
   "model": "glm-5.3"
 }

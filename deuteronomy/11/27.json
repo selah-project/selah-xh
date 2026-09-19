@@ -5,16 +5,16 @@
   "book": "deuteronomy",
   "lang": "xh",
   "chapter": 11,
-  "translation": "intsikelelo, ukuba nimamela ⟨את⟩ imiyalelo kaYahwe uElohim wenu endiniyalelayo namhlanje;",
+  "translation": "⟨את⟩ isibusiso, ukuba nithethelela iimiyalelo zikaYahwe uElohim wenu, endiniyalela ⟨את⟩nina ngolu suku.",
   "tokens": [
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "intsikelelo"
+      "marks": "isibusiso"
     },
     {
       "surface": "הברכה",
-      "gloss": "intsikelelo"
+      "gloss": "isibusiso"
     },
     {
       "surface": "אשר",
@@ -22,7 +22,7 @@
     },
     {
       "surface": "תשמעו",
-      "gloss": "nimamela"
+      "gloss": "nithethelela"
     },
     {
       "surface": "אל",
@@ -30,11 +30,11 @@
     },
     {
       "surface": "מצות",
-      "gloss": "imiyalelo"
+      "gloss": "iimiyalelo"
     },
     {
       "surface": "יהוה",
-      "gloss": "uYahwe"
+      "gloss": "kaYahwe"
     },
     {
       "surface": "אלהיכם",
@@ -42,7 +42,7 @@
     },
     {
       "surface": "אשר",
-      "gloss": "endiniyalelayo"
+      "gloss": "endini-"
     },
     {
       "surface": "אנכי",
@@ -50,18 +50,18 @@
     },
     {
       "surface": "מצוה",
-      "gloss": "ndiyalela"
+      "gloss": "niyalela"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩",
-      "marks": "ni — endiniyalelayo"
+      "gloss": "⟨את⟩nina",
+      "marks": "nina"
     },
     {
       "surface": "היום",
-      "gloss": "namhlanje"
+      "gloss": "ngolu suku"
     }
   ],
-  "timestamp": "2026-09-18T08:02:55.383465196Z",
+  "timestamp": "2026-09-19T13:49:21.719660094Z",
   "model": "glm-5.3"
 }

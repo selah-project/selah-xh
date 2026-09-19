@@ -5,11 +5,11 @@
   "book": "genesis",
   "lang": "xh",
   "chapter": 38,
-  "translation": "Yaza yongeza kwakhona, yaze yalela unyana, yamthiyela igama lakhe uShela; waya kwakhe eKhezibi ngexesha alela ngalo yena.",
+  "translation": "Wongeza kwakhona wazala unyana, wabiza ⟨את⟩ igama lakhe ngokuthi uShelah; waya eKhezibi xa emzala ⟨את⟩ yena.",
   "tokens": [
     {
       "surface": "ותסף",
-      "gloss": "yongeza"
+      "gloss": "wongeza kwakhona"
     },
     {
       "surface": "עוד",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "ותלד",
-      "gloss": "yalela"
+      "gloss": "wazala"
     },
     {
       "surface": "בן",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "ותקרא",
-      "gloss": "yamthiyela"
+      "gloss": "wabiza"
     },
     {
       "surface": "את",
@@ -38,11 +38,11 @@
     },
     {
       "surface": "שלה",
-      "gloss": "uShela"
+      "gloss": "uShelah"
     },
     {
       "surface": "והיה",
-      "gloss": "waya kwakhe"
+      "gloss": "waya"
     },
     {
       "surface": "בכזיב",
@@ -50,14 +50,14 @@
     },
     {
       "surface": "בלדתה",
-      "gloss": "ngexesha alela ngalo"
+      "gloss": "xa emzala"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨אתו⟩",
-      "marks": "yena"
+      "gloss": "⟨את⟩",
+      "marks": "yena (uShelah)"
     }
   ],
-  "timestamp": "2026-09-18T05:35:22.324581968Z",
+  "timestamp": "2026-09-19T13:57:05.613728378Z",
   "model": "glm-5.3"
 }

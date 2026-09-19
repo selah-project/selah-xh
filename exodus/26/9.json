@@ -5,7 +5,7 @@
   "book": "exodus",
   "lang": "xh",
   "chapter": 26,
-  "translation": "Uza kudibanisa ⟨את⟩ iindawo zokhuselo ezintlanu zodwa, kananjalo ⟨את⟩ ezesithandathu zodwa; uza kuphinda-phinda indawo yokhuselo yesithandathu phambi komphezulu wetenti.",
+  "translation": "Uza kudibanisa ⟨את⟩ iindiphu ezintlanu zodwa, kwaye ⟨את⟩ ezintandathu zodwa; uza kuphinda kabini ⟨את⟩ indiphu yesithandathu phambi komdwebo wentente.",
   "tokens": [
     {
       "surface": "וחברת",
@@ -14,7 +14,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "iindawo zokhuselo ezintlanu"
+      "marks": "iindiphu ezintlanu zodwa"
     },
     {
       "surface": "חמש",
@@ -22,7 +22,7 @@
     },
     {
       "surface": "היריעת",
-      "gloss": "iindawo zokhuselo"
+      "gloss": "iindiphu"
     },
     {
       "surface": "לבד",
@@ -30,16 +30,16 @@
     },
     {
       "surface": "ואת",
-      "gloss": "kananjalo ⟨את⟩",
-      "marks": "ezesithandathu"
+      "gloss": "kwaye ⟨את⟩",
+      "marks": "iindiphu ezintandathu zodwa"
     },
     {
       "surface": "שש",
-      "gloss": "ezesithandathu"
+      "gloss": "ezintandathu"
     },
     {
       "surface": "היריעת",
-      "gloss": "iindawo zokhuselo"
+      "gloss": "iindiphu"
     },
     {
       "surface": "לבד",
@@ -47,16 +47,16 @@
     },
     {
       "surface": "וכפלת",
-      "gloss": "uza kuphinda-phinda"
+      "gloss": "uza kuphinda kabini"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "indawo yokhuselo yesithandathu"
+      "marks": "indiphu yesithandathu"
     },
     {
       "surface": "היריעה",
-      "gloss": "indawo yokhuselo"
+      "gloss": "indiphu"
     },
     {
       "surface": "הששית",
@@ -64,21 +64,21 @@
     },
     {
       "surface": "אל",
-      "gloss": "kwi"
+      "gloss": "ku-"
     },
     {
       "surface": "מול",
-      "gloss": "phambi kwe"
+      "gloss": "phambi komdwebo"
     },
     {
       "surface": "פני",
-      "gloss": "umpezulu"
+      "gloss": "phambi komdwebo"
     },
     {
       "surface": "האהל",
-      "gloss": "wetenti"
+      "gloss": "wentente"
     }
   ],
-  "timestamp": "2026-09-18T06:12:13.319926142Z",
+  "timestamp": "2026-09-19T13:52:23.128262475Z",
   "model": "glm-5.3"
 }

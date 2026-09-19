@@ -5,25 +5,25 @@
   "book": "exodus",
   "lang": "xh",
   "chapter": 31,
-  "translation": "ne-altari yomnikelo oshisiweyo nanazo ⟨את⟩ zonke iintoro zayo, nesitya sokuhlamba ⟨את⟩ nesisiseko salo ⟨את⟩.",
+  "translation": "kwaye no-altare wokunikela ngokutshiswa nazonke izixhobo zalo, nendityanthe ⟨את⟩ i-bhasini nesisiseko salo.",
   "tokens": [
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "i-altari yomnikelo oshisiweyo"
+      "marks": "i-altare wokunikela ngokutshiswa"
     },
     {
       "surface": "מזבח",
-      "gloss": "i-altari"
+      "gloss": "i-altare"
     },
     {
       "surface": "העלה",
-      "gloss": "yomnikelo oshisiweyo"
+      "gloss": "wokunikela ngokutshiswa"
     },
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "zonke iintoro zayo"
+      "marks": "izonke izixhobo zalo"
     },
     {
       "surface": "כל",
@@ -31,16 +31,16 @@
     },
     {
       "surface": "כליו",
-      "gloss": "iintoro zayo"
+      "gloss": "izixhobo zalo"
     },
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "isitya sokuhlamba"
+      "marks": "i-bhasini"
     },
     {
       "surface": "הכיור",
-      "gloss": "isitya sokuhlamba"
+      "gloss": "i-bhasini"
     },
     {
       "surface": "ואת",
@@ -52,6 +52,6 @@
       "gloss": "isisiseko salo"
     }
   ],
-  "timestamp": "2026-09-18T06:17:12.740236446Z",
+  "timestamp": "2026-09-19T13:52:17.027864213Z",
   "model": "glm-5.3"
 }

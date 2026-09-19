@@ -5,7 +5,7 @@
   "book": "numbers",
   "lang": "xh",
   "chapter": 7,
-  "translation": "Thabatha ku⟨את⟩bo ukuze zisetyenziswe kwisebenzi letenti yomnyhadala, uzenike ⟨את⟩ amaLevi, umntu ngamntu ngokomlomo wesebenzi yakhe.",
+  "translation": "Thabatha kubo, ukuze zibe ngokusebenzela ⟨את⟩ umsebenzi wetenti yokudibana; unike abaLevi ⟨את⟩, umntu ngokomlinganiselo womsebenzi wakhe.",
   "tokens": [
     {
       "surface": "קח",
@@ -13,63 +13,64 @@
     },
     {
       "surface": "מאתם",
-      "gloss": "ku⟨את⟩bo"
+      "gloss": "⟨את⟩ kubo",
+      "marks": "kubo (ezo zixhobo)"
     },
     {
       "surface": "והיו",
-      "gloss": "ukuze zisetyenziswe"
+      "gloss": "ukuze zibe"
     },
     {
       "surface": "לעבד",
-      "gloss": "kwisebenzi"
+      "gloss": "ngokusebenzela"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "isebenzi"
+      "marks": "umsebenzi"
     },
     {
       "surface": "עבדת",
-      "gloss": "letenti"
+      "gloss": "umsebenzi"
     },
     {
       "surface": "אהל",
-      "gloss": "itenti"
+      "gloss": "wetenti"
     },
     {
       "surface": "מועד",
-      "gloss": "yomnyhadala"
+      "gloss": "yokudibana"
     },
     {
       "surface": "ונתתה",
-      "gloss": "uzenike"
+      "gloss": "unike"
     },
     {
       "surface": "אותם",
-      "gloss": "⟨את⟩ ezona",
-      "marks": "amaLevi"
+      "gloss": "⟨את⟩",
+      "marks": "abaLevi"
     },
     {
       "surface": "אל",
-      "gloss": "kwa"
+      "gloss": ""
     },
     {
       "surface": "הלוים",
-      "gloss": "amaLevi"
+      "gloss": "abaLevi"
     },
     {
       "surface": "איש",
-      "gloss": "umntu ngamntu"
+      "gloss": "umntu"
     },
     {
       "surface": "כפי",
-      "gloss": "ngokomlomo"
+      "gloss": "ngokomlinganiselo"
     },
     {
       "surface": "עבדתו",
-      "gloss": "wesebenzi yakhe"
+      "gloss": "womsebenzi wakhe"
     }
   ],
-  "timestamp": "2026-09-18T07:15:01.012559124Z",
+  "timestamp": "2026-09-19T14:09:58.150108004Z",
   "model": "glm-5.3"
 }

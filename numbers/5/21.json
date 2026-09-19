@@ -5,48 +5,48 @@
   "book": "numbers",
   "lang": "xh",
   "chapter": 5,
-  "translation": "Wamfungisa umfundisi ⟨את⟩ umfazi ngesifungo sedano, waza wathetha umfundisi kumfazi: uYahwe makudinise idano nesifungo phakathi kwabantu bakho, xa uYahwe ewisa ⟨את⟩ ithanga lakho libe liwileyo, nadumba ⟨את⟩ isisu lakho ludumba.",
+  "translation": "Waza umpristi wamfumana ifazwe ngefungo lesiqalekiso, waza umpristi wathi kufazwe: uYahwe makunikela wena ⟨אותך⟩ ngo kukuba sisiqalekiso nangokuba sisifungo phakathi kwabantu bakho, xa uYahwe elinika ⟨את⟩ umlenze wakho ukuba uwe, nangenisa ⟨את⟩ isu sakho ukuba sivumbe —",
   "tokens": [
     {
       "surface": "והשביע",
-      "gloss": "wamfungisa"
+      "gloss": "wamfumana ngolwazi"
     },
     {
       "surface": "הכהן",
-      "gloss": "umfundisi"
+      "gloss": "umpristi"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "umfazi"
+      "marks": "ifazwe"
     },
     {
       "surface": "האשה",
-      "gloss": "umfazi"
+      "gloss": "ifazwe"
     },
     {
       "surface": "בשבעת",
-      "gloss": "ngesifungo"
+      "gloss": "ngefungo"
     },
     {
       "surface": "האלה",
-      "gloss": "sedano"
+      "gloss": "lesiqalekiso"
     },
     {
       "surface": "ואמר",
-      "gloss": "wathetha"
+      "gloss": "wathi"
     },
     {
       "surface": "הכהן",
-      "gloss": "umfundisi"
+      "gloss": "umpristi"
     },
     {
       "surface": "לאשה",
-      "gloss": "kumfazi"
+      "gloss": "kufazwe"
     },
     {
       "surface": "יתן",
-      "gloss": "makudinise"
+      "gloss": "makunikela"
     },
     {
       "surface": "יהוה",
@@ -54,16 +54,16 @@
     },
     {
       "surface": "אותך",
-      "gloss": "⟨את⟩ wena",
-      "marks": "idano nesifungo"
+      "gloss": "⟨את⟩ ⟨אותך⟩ wena",
+      "marks": "ukuba sisiqalekiso"
     },
     {
       "surface": "לאלה",
-      "gloss": "idano"
+      "gloss": "sisiqalekiso"
     },
     {
       "surface": "ולשבעה",
-      "gloss": "nesifungo"
+      "gloss": "nangokuba sisifungo"
     },
     {
       "surface": "בתוך",
@@ -75,7 +75,7 @@
     },
     {
       "surface": "בתת",
-      "gloss": "xa ewisa"
+      "gloss": "xa elinika"
     },
     {
       "surface": "יהוה",
@@ -84,30 +84,30 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ithanga lakho"
+      "marks": "umlenze wakho"
     },
     {
       "surface": "ירכך",
-      "gloss": "ithanga lakho"
+      "gloss": "umlenze wakho"
     },
     {
       "surface": "נפלת",
-      "gloss": "liwileyo"
+      "gloss": "ukuba uwe"
     },
     {
       "surface": "ואת",
-      "gloss": "no⟨את⟩",
-      "marks": "isisu lakho"
+      "gloss": "⟨את⟩",
+      "marks": "isu sakho"
     },
     {
       "surface": "בטנך",
-      "gloss": "isisu lakho"
+      "gloss": "isu sakho"
     },
     {
       "surface": "צבה",
-      "gloss": "ludumba"
+      "gloss": "ukuba sivumbe"
     }
   ],
-  "timestamp": "2026-09-18T07:16:37.227968047Z",
+  "timestamp": "2026-09-19T14:10:34.395257219Z",
   "model": "glm-5.3"
 }

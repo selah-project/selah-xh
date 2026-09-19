@@ -5,7 +5,7 @@
   "book": "ezekiel",
   "lang": "xh",
   "chapter": 16,
-  "translation": "Ngoko-ke, yabona, ndiza kuqokelela ⟨את⟩ bonke oobathandi bakho aba wanelisileyo, nako ⟨ואת⟩ konke oko ukuthandile, kunye nobona bonke aba bezonileyo; ndiza kubaqokelela phezu kwakho ngakwiindawo ezikungqonge, ndiza kutyhila ubutyokombe bakho kubo, baze babone ⟨את⟩ ubutyokombe bakho bonke.",
+  "translation": "Ngoko-ke, yabona, ndiyaqokelela ⟨את⟩ bonke oothando bakho abo wabenza ubumnandi kubo, ⟨את⟩ nabo bonke abawuthandayo, kunye bonke abawuzondayo; ndiza kubaqokelela kuwe kwiindawo ezijikelezayo, ndiza kutyhila ubumdla wakho kubo, baza kubona ⟨את⟩ ubumdla wakho onke.",
   "tokens": [
     {
       "surface": "לכן",
@@ -17,12 +17,12 @@
     },
     {
       "surface": "מקבץ",
-      "gloss": "ndiza kuqokelela"
+      "gloss": "ndiyaqokelela"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "bonke oobathandi bakho"
+      "marks": "bonke oothando bakho"
     },
     {
       "surface": "כל",
@@ -30,15 +30,15 @@
     },
     {
       "surface": "מאהביך",
-      "gloss": "oobathandi bakho"
+      "gloss": "oothando bakho"
     },
     {
       "surface": "אשר",
-      "gloss": "aba"
+      "gloss": "abo"
     },
     {
       "surface": "ערבת",
-      "gloss": "wanelisileyo"
+      "gloss": "wabenza ubumnandi"
     },
     {
       "surface": "עליהם",
@@ -46,24 +46,8 @@
     },
     {
       "surface": "ואת",
-      "gloss": "nako ⟨את⟩",
-      "marks": "konke oko ukuthandile"
-    },
-    {
-      "surface": "כל",
-      "gloss": "konke"
-    },
-    {
-      "surface": "אשר",
-      "gloss": "oko"
-    },
-    {
-      "surface": "אהבת",
-      "gloss": "ukuthandile"
-    },
-    {
-      "surface": "על",
-      "gloss": "kunye nobona"
+      "gloss": "⟨את⟩",
+      "marks": "bonke abawuthandayo"
     },
     {
       "surface": "כל",
@@ -71,11 +55,27 @@
     },
     {
       "surface": "אשר",
-      "gloss": "aba"
+      "gloss": "aba-"
+    },
+    {
+      "surface": "אהבת",
+      "gloss": "-wuthandayo"
+    },
+    {
+      "surface": "על",
+      "gloss": "kunye"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bonke"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aba-"
     },
     {
       "surface": "שנאת",
-      "gloss": "bezonileyo"
+      "gloss": "-wuzondayo"
     },
     {
       "surface": "וקבצתי",
@@ -83,15 +83,15 @@
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩ -ba"
+      "gloss": "⟨את⟩ bo"
     },
     {
       "surface": "עליך",
-      "gloss": "phezu kwakho"
+      "gloss": "kuwe"
     },
     {
       "surface": "מסביב",
-      "gloss": "ngakwiindawo ezikungqonge"
+      "gloss": "kwiindawo ezijikelezayo"
     },
     {
       "surface": "וגליתי",
@@ -99,7 +99,7 @@
     },
     {
       "surface": "ערותך",
-      "gloss": "ubutyokombe bakho"
+      "gloss": "ubumdla wakho"
     },
     {
       "surface": "אלהם",
@@ -107,22 +107,22 @@
     },
     {
       "surface": "וראו",
-      "gloss": "baze babone"
+      "gloss": "baza kubona"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ubutyokombe bakho bonke"
+      "marks": "ubumdla wakho onke"
     },
     {
       "surface": "כל",
-      "gloss": "bonke"
+      "gloss": "onke"
     },
     {
       "surface": "ערותך",
-      "gloss": "ubutyokombe bakwo"
+      "gloss": "ubumdla wakho"
     }
   ],
-  "timestamp": "2026-09-18T13:04:42.650490910Z",
+  "timestamp": "2026-09-19T13:54:30.459507793Z",
   "model": "glm-5.3"
 }

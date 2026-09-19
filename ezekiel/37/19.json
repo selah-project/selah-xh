@@ -5,11 +5,11 @@
   "book": "ezekiel",
   "lang": "xh",
   "chapter": 37,
-  "translation": "Thetha kubo: Uthi u-Adonayi uYahwe: Yabonani, mna ndithatha ⟨את⟩ intonga kaYosef esisandleni saseEfrayim, neentlanga zakwaSirayeli ezingamanxanene; ndiza kuzibeka phezu kwayo ⟨את⟩ intonga kaYuda, ndizenze zibe yintonga enye, zize zibe zinye esandleni sam.",
+  "translation": "Yitha kubo: Ngu u-Adonayi uYahwe uthi: Nangu, ndithabatha ⟨את⟩ umthi kaYosefu osezandleni zika-Efrayim, nemiqulu yangeentlanga zikaSirayeli umhlobo wakhe; ndiza kubeka ⟨את⟩ zonke phezu kwawo, ⟨את⟩ umthi kaYuda, ndenza zibe yimthi omnye, ziya kuba mnye esandleni sam.",
   "tokens": [
     {
       "surface": "דבר",
-      "gloss": "thetha"
+      "gloss": "Yitha"
     },
     {
       "surface": "אלהם",
@@ -17,11 +17,11 @@
     },
     {
       "surface": "כה",
-      "gloss": "uthi"
+      "gloss": "Ngu"
     },
     {
       "surface": "אמר",
-      "gloss": "nthi"
+      "gloss": "uthi"
     },
     {
       "surface": "אדני",
@@ -33,74 +33,74 @@
     },
     {
       "surface": "הנה",
-      "gloss": "yabonani"
+      "gloss": "Nangu"
     },
     {
       "surface": "אני",
-      "gloss": "mna"
+      "gloss": "ndi-"
     },
     {
       "surface": "לקח",
-      "gloss": "ndithatha"
+      "gloss": "ndithabatha"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "intonga kaYosef"
+      "marks": "umthi kaYosefu"
     },
     {
       "surface": "עץ",
-      "gloss": "intonga"
+      "gloss": "umthi"
     },
     {
       "surface": "יוסף",
-      "gloss": "kaYosef"
+      "gloss": "kaYosefu"
     },
     {
       "surface": "אשר",
-      "gloss": "esisandleni"
+      "gloss": "o"
     },
     {
       "surface": "ביד",
-      "gloss": "esandleni"
+      "gloss": "ezandleni"
     },
     {
       "surface": "אפרים",
-      "gloss": "saseEfrayim"
+      "gloss": "zika-Efrayim"
     },
     {
       "surface": "ושבטי",
-      "gloss": "neentlanga"
+      "gloss": "nemiqulu"
     },
     {
       "surface": "ישראל",
-      "gloss": "zakwaSirayeli"
+      "gloss": "yangeentlanga zikaSirayeli"
     },
     {
       "surface": "חברו",
-      "gloss": "ezingamanxanene"
+      "gloss": "umhlobo wakhe"
     },
     {
       "surface": "ונתתי",
-      "gloss": "ndiza kuzibeka"
+      "gloss": "ndiza kubeka"
     },
     {
       "surface": "אותם",
-      "gloss": "⟨את⟩",
-      "marks": "phezu kwayo"
+      "gloss": "⟨את⟩ zonke",
+      "marks": "zonke (umthi kaYosefu nemiqulu)"
     },
     {
       "surface": "עליו",
-      "gloss": "phezu kwayo"
+      "gloss": "phezu kwawo"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "intonga kaYuda"
+      "marks": "umthi kaYuda"
     },
     {
       "surface": "עץ",
-      "gloss": "intonga"
+      "gloss": "umthi"
     },
     {
       "surface": "יהודה",
@@ -108,29 +108,29 @@
     },
     {
       "surface": "ועשיתם",
-      "gloss": "ndizenze"
+      "gloss": "ndenza zibe"
     },
     {
       "surface": "לעץ",
-      "gloss": "yintonga"
+      "gloss": "yimthi"
     },
     {
       "surface": "אחד",
-      "gloss": "enye"
+      "gloss": "omnye"
     },
     {
       "surface": "והיו",
-      "gloss": "zize zibe"
+      "gloss": "ziya kuba"
     },
     {
       "surface": "אחד",
-      "gloss": "zinye"
+      "gloss": "mnye"
     },
     {
       "surface": "בידי",
       "gloss": "esandleni sam"
     }
   ],
-  "timestamp": "2026-09-18T13:27:39.155214737Z",
+  "timestamp": "2026-09-19T13:55:34.235491579Z",
   "model": "glm-5.3"
 }

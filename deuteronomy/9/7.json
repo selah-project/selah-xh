@@ -5,7 +5,7 @@
   "book": "deuteronomy",
   "lang": "xh",
   "chapter": 9,
-  "translation": "Khumbula, musa ukulibala into oyibangele ulwango kuYahwe uElohim wakhe ehlalweni; ukusuka ngelanga ophuma ngalo elizweni leMitsrayim, de nafike kule ndawo, naba ngabaphikisi kuYahwe.",
+  "translation": "Khumbula, ungayibali ⟨את⟩ okokuba wawumthukuthelisa uYahwe uElohim wakho esintlhabeni: ukususela ngosuku olubuphuma elizweni laseMitsrayim, de nafika kule ndawo, nabenivukela uYahwe.",
   "tokens": [
     {
       "surface": "זכר",
@@ -22,20 +22,20 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "into oyibangele ulwango"
+      "marks": "okokuba wawumthukuthelisa (umthetho we-אשר)"
     },
     {
       "surface": "אשר",
-      "gloss": "o-"
+      "gloss": "okokuba"
     },
     {
       "surface": "הקצפת",
-      "gloss": "oyibangele ulwango"
+      "gloss": "wawumthukuthelisa"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "kuYahwe"
+      "marks": "uYahwe uElohim wakho"
     },
     {
       "surface": "יהוה",
@@ -43,27 +43,27 @@
     },
     {
       "surface": "אלהיך",
-      "gloss": "uElohim wakhe"
+      "gloss": "uElohim wakho"
     },
     {
       "surface": "במדבר",
-      "gloss": "ehlalweni"
+      "gloss": "esintlhabeni"
     },
     {
       "surface": "למן",
-      "gloss": "ukusuka"
+      "gloss": "ukususela"
     },
     {
       "surface": "היום",
-      "gloss": "ngelanga"
+      "gloss": "ngosuku"
     },
     {
       "surface": "אשר",
-      "gloss": "o-"
+      "gloss": "olubuphuma"
     },
     {
       "surface": "יצאת",
-      "gloss": "ophuma ngalo"
+      "gloss": "ubuphuma"
     },
     {
       "surface": "מארץ",
@@ -71,7 +71,7 @@
     },
     {
       "surface": "מצרים",
-      "gloss": "leMitsrayim"
+      "gloss": "laseMitsrayim"
     },
     {
       "surface": "עד",
@@ -79,15 +79,15 @@
     },
     {
       "surface": "באכם",
-      "gloss": "nafike"
+      "gloss": "nafika"
     },
     {
       "surface": "עד",
-      "gloss": "ku-"
+      "gloss": "kude"
     },
     {
       "surface": "המקום",
-      "gloss": "le ndawo"
+      "gloss": "indawo"
     },
     {
       "surface": "הזה",
@@ -95,21 +95,21 @@
     },
     {
       "surface": "ממרים",
-      "gloss": "naba ngabaphikisi"
+      "gloss": "nabenivukela"
     },
     {
       "surface": "הייתם",
-      "gloss": "nina"
+      "gloss": "nabenib"
     },
     {
       "surface": "עם",
-      "gloss": "ku-"
+      "gloss": "ku"
     },
     {
       "surface": "יהוה",
       "gloss": "uYahwe"
     }
   ],
-  "timestamp": "2026-09-18T08:02:02.645199584Z",
+  "timestamp": "2026-09-19T13:50:43.513242662Z",
   "model": "glm-5.3"
 }

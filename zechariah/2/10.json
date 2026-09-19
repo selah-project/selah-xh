@@ -5,27 +5,27 @@
   "book": "zechariah",
   "lang": "xh",
   "chapter": 2,
-  "translation": "Yeha, yeha! Balalelani, balekani kwilizwe lelasentshona-lwelaTshiyona, utshilo uYahwe; kuba ndinitsalise njengamoya amane ezulwini, utshilo uYahwe.",
+  "translation": "Hawu! Hawu! Balekani emhlabeni waseMantla, utshilo uYahwe; kuba njengemimoya emine yezulu ndanidabulula-nina ⟨את⟩, utshilo uYahwe.",
   "tokens": [
     {
       "surface": "הוי",
-      "gloss": "Yeha"
+      "gloss": "Hawu!"
     },
     {
       "surface": "הוי",
-      "gloss": "Yeha"
+      "gloss": "Hawu!"
     },
     {
       "surface": "ונסו",
-      "gloss": "balalelani, balekani"
+      "gloss": "Balekani"
     },
     {
       "surface": "מארץ",
-      "gloss": "kwilizwe"
+      "gloss": "emhlabeni"
     },
     {
       "surface": "צפון",
-      "gloss": "lelasentshona-lwelaTshiyona"
+      "gloss": "waseMantla"
     },
     {
       "surface": "נאם",
@@ -41,24 +41,24 @@
     },
     {
       "surface": "כארבע",
-      "gloss": "njengamoya amane"
+      "gloss": "njengemine"
     },
     {
       "surface": "רוחות",
-      "gloss": "amoya"
+      "gloss": "imimoya"
     },
     {
       "surface": "השמים",
-      "gloss": "ezulwini"
+      "gloss": "yezulu"
     },
     {
       "surface": "פרשתי",
-      "gloss": "ndinitsalise"
+      "gloss": "ndanidabulula"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩",
-      "marks": "nina"
+      "gloss": "⟨את⟩ nina",
+      "marks": "nina (iziqingatha ezine zaBabilona)"
     },
     {
       "surface": "נאם",
@@ -69,6 +69,6 @@
       "gloss": "uYahwe"
     }
   ],
-  "timestamp": "2026-09-18T14:16:41.278865186Z",
+  "timestamp": "2026-09-19T14:11:14.615412239Z",
   "model": "glm-5.3"
 }

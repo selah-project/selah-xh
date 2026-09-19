@@ -5,11 +5,11 @@
   "book": "deuteronomy",
   "lang": "xh",
   "chapter": 22,
-  "translation": "Nibaphose bobabini kwisango saloo dolophu, nibatyabule ngamatye baze bafe: intombazana, kuba walila hayi kwisebe lendolophu; indoda ke, kuba yahlazisa umfazi womakhulu wakhe; uze ucime kakubi phakathi kwakho.",
+  "translation": "Niye kubakhupha bobabini ⟨את⟩ esangweni lelo sixeko, nibatshise ⟨את⟩ ngeethebhu, bafe; ⟨את⟩ intombazana ngenxa yendaba yokuba ayikhalanga esixekweni, yaye ⟨את⟩ umntu ngenxa yendaba yokuba wayehlazisa ⟨את⟩ umfazi womakhaya wakhe; uze uthimbe okubi phakathi kwakho.",
   "tokens": [
     {
       "surface": "והוצאתם",
-      "gloss": "nibaphose"
+      "gloss": "niye kubakhupha"
     },
     {
       "surface": "את",
@@ -22,36 +22,36 @@
     },
     {
       "surface": "אל",
-      "gloss": "kwi"
+      "gloss": "ku"
     },
     {
       "surface": "שער",
-      "gloss": "sango"
+      "gloss": "esangweni"
     },
     {
       "surface": "העיר",
-      "gloss": "dolophu"
+      "gloss": "sixeko"
     },
     {
       "surface": "ההוא",
-      "gloss": "loo"
+      "gloss": "lelo"
     },
     {
       "surface": "וסקלתם",
-      "gloss": "nibatyabule"
+      "gloss": "nibatshise"
     },
     {
       "surface": "אתם",
       "gloss": "⟨את⟩",
-      "marks": "bobabini"
+      "marks": "ngeethebhu"
     },
     {
       "surface": "באבנים",
-      "gloss": "ngamatye"
+      "gloss": "ngeethebhu"
     },
     {
       "surface": "ומתו",
-      "gloss": "baze bafe"
+      "gloss": "bafe"
     },
     {
       "surface": "את",
@@ -64,52 +64,52 @@
     },
     {
       "surface": "על",
-      "gloss": "kuba"
-    },
-    {
-      "surface": "דבר",
       "gloss": "ngenxa"
     },
     {
+      "surface": "דבר",
+      "gloss": "yendaba"
+    },
+    {
       "surface": "אשר",
-      "gloss": "okokuba"
+      "gloss": "yokuba"
     },
     {
       "surface": "לא",
-      "gloss": "hayi"
+      "gloss": "ayi"
     },
     {
       "surface": "צעקה",
-      "gloss": "walila"
+      "gloss": "khalanga"
     },
     {
       "surface": "בעיר",
-      "gloss": "kwisebe lendolophu"
+      "gloss": "esixekweni"
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
-      "marks": "indoda"
+      "gloss": "yaye ⟨את⟩",
+      "marks": "umntu"
     },
     {
       "surface": "האיש",
-      "gloss": "indoda"
+      "gloss": "umntu"
     },
     {
       "surface": "על",
-      "gloss": "kuba"
-    },
-    {
-      "surface": "דבר",
       "gloss": "ngenxa"
     },
     {
+      "surface": "דבר",
+      "gloss": "yendaba"
+    },
+    {
       "surface": "אשר",
-      "gloss": "okokuba"
+      "gloss": "yokuba"
     },
     {
       "surface": "ענה",
-      "gloss": "yahlazisa"
+      "gloss": "wayehlazisa"
     },
     {
       "surface": "את",
@@ -122,21 +122,21 @@
     },
     {
       "surface": "רעהו",
-      "gloss": "womakhulu wakhe"
+      "gloss": "womakhaya wakhe"
     },
     {
       "surface": "ובערת",
-      "gloss": "ucime"
+      "gloss": "uze uthimbe"
     },
     {
       "surface": "הרע",
-      "gloss": "kakubi"
+      "gloss": "okubi"
     },
     {
       "surface": "מקרבך",
       "gloss": "phakathi kwakho"
     }
   ],
-  "timestamp": "2026-09-18T08:16:04.190293271Z",
+  "timestamp": "2026-09-19T13:50:16.120677195Z",
   "model": "glm-5.3"
 }

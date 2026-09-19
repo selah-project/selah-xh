@@ -5,15 +5,15 @@
   "book": "2-samuel",
   "lang": "xh",
   "chapter": 18,
-  "translation": "Wathi loo mntu kuYowabhi: “Nokuba bendinołǒla iwaka lesilivere ezandleni zam, ndingathumela isandla sam kwinzala yenkosi; kuba kwiindlebe zethu inkosi yalele kuwe no⟨את⟩ u-Abishayi no⟨את⟩ u-Itayi, ithi: Qaphelani nabani na osezintliziyweni zentsha — nge-Avshalom.”",
+  "translation": "UMntu wathetha kuYowabhi: “Nokuba bendinokwamkela ngesandla sam iinkwenkwe eziliwaka zeesiliva, andizi kuthumela isandla sam kumnyana wenkosi; kuba kwizindlebe zethu inkosi iyalalele kuwe ⟨את⟩ naku-Abhishayi ⟨את⟩ naku-Ittayi, ithi: ‘Qaphelani ungabambi mntu umfana uAbhishalomi.’”",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "wathi"
+      "gloss": "wathetha"
     },
     {
       "surface": "האיש",
-      "gloss": "loo mntu"
+      "gloss": "umntu"
     },
     {
       "surface": "אל",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "ולא",
-      "gloss": "nokuba… hayi"
+      "gloss": "nokuba... andi"
     },
     {
       "surface": "אנכי",
@@ -33,31 +33,31 @@
     },
     {
       "surface": "שקל",
-      "gloss": "ndicwangcisa"
+      "gloss": "ndinokwamkela"
     },
     {
       "surface": "על",
-      "gloss": "phezu"
+      "gloss": "nge"
     },
     {
       "surface": "כפי",
-      "gloss": "ezandleni zam"
+      "gloss": "isandla sam"
     },
     {
       "surface": "אלף",
-      "gloss": "iwaka"
+      "gloss": "iiliwaka"
     },
     {
       "surface": "כסף",
-      "gloss": "lesilivere"
+      "gloss": "zeesiliva"
     },
     {
       "surface": "לא",
-      "gloss": "nding"
+      "gloss": "andi"
     },
     {
       "surface": "אשלח",
-      "gloss": "thumela"
+      "gloss": "ndizi kuthumela"
     },
     {
       "surface": "ידי",
@@ -69,11 +69,11 @@
     },
     {
       "surface": "בן",
-      "gloss": "inzala"
+      "gloss": "umnyana"
     },
     {
       "surface": "המלך",
-      "gloss": "yenkosi"
+      "gloss": "wenkoso"
     },
     {
       "surface": "כי",
@@ -81,11 +81,11 @@
     },
     {
       "surface": "באזנינו",
-      "gloss": "kwiindlebe zethu"
+      "gloss": "kwizindlebe zethu"
     },
     {
       "surface": "צוה",
-      "gloss": "yalele"
+      "gloss": "iyalalele"
     },
     {
       "surface": "המלך",
@@ -93,25 +93,26 @@
     },
     {
       "surface": "אתך",
-      "gloss": "⟨את⟩ kuwe na"
+      "gloss": "⟨את⟩",
+      "marks": "kuwe"
     },
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "u-Abishayi"
+      "marks": "u-Abhishayi"
     },
     {
       "surface": "אבישי",
-      "gloss": "u-Abishayi"
+      "gloss": "u-Abhishayi"
     },
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "u-Itayi"
+      "marks": "u-Ittayi"
     },
     {
       "surface": "אתי",
-      "gloss": "u-Itayi"
+      "gloss": "u-Ittayi"
     },
     {
       "surface": "לאמר",
@@ -123,17 +124,17 @@
     },
     {
       "surface": "מי",
-      "gloss": "nabani na"
+      "gloss": "ungabambi mntu"
     },
     {
       "surface": "בנער",
-      "gloss": "kumfana omutsha"
+      "gloss": "umfana"
     },
     {
       "surface": "באבשלום",
-      "gloss": "nge-Avshalom"
+      "gloss": "uAbhishalomi"
     }
   ],
-  "timestamp": "2026-09-18T09:59:49.540887157Z",
+  "timestamp": "2026-09-19T13:47:35.443238424Z",
   "model": "glm-5.3"
 }

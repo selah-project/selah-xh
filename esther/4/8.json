@@ -5,16 +5,16 @@
   "book": "esther",
   "lang": "xh",
   "chapter": 4,
-  "translation": "Wamnika ⟨את⟩ nantshibisho yombhalo womthetho obunikezelwe eShushan ukubatshabalalisa, ukuba aze abonise u-Esther aze amchazile, aze amtyalele ukungena esingeni enkosi ukuncoma kuye, nokucela phambi kwakhe ngesizwe sakhe.",
+  "translation": "Waza wanika uHatakhi ⟨את⟩ ikhophi yombhalo womthetho owanikiweyo eShushan ukutshabalalisa abantu, ukuyibonisa ⟨את⟩ i-Ester nokuxelela kuye, nokumzisa umyalelo wokuba angene kumNkosi, akhalelela kuye, acele phambi kwakhe ngenxa yesizwe sakhe.",
   "tokens": [
     {
       "surface": "ואת",
-      "gloss": "wamnika ⟨את⟩",
-      "marks": "intshibisho yombhalo womthetho"
+      "gloss": "⟨את⟩",
+      "marks": "ikhophi yombhalo womthetho"
     },
     {
       "surface": "פתשגן",
-      "gloss": "intshibisho"
+      "gloss": "ikhophi"
     },
     {
       "surface": "כתב",
@@ -26,11 +26,11 @@
     },
     {
       "surface": "אשר",
-      "gloss": "obunikezelwe"
+      "gloss": "o-"
     },
     {
       "surface": "נתן",
-      "gloss": "obunikezelwe"
+      "gloss": "wanikiweyo"
     },
     {
       "surface": "בשושן",
@@ -38,32 +38,32 @@
     },
     {
       "surface": "להשמידם",
-      "gloss": "ukubatshabalalisa"
+      "gloss": "ukutshabalalisa abantu"
     },
     {
       "surface": "נתן",
-      "gloss": "wamnika"
+      "gloss": "wanika"
     },
     {
       "surface": "לו",
-      "gloss": "kuye"
+      "gloss": "uHatakhi"
     },
     {
       "surface": "להראות",
-      "gloss": "ukumbonisa"
+      "gloss": "ukuyibonisa"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "u-Esther"
+      "marks": "i-Ester"
     },
     {
       "surface": "אסתר",
-      "gloss": "u-Esther"
+      "gloss": "i-Ester"
     },
     {
       "surface": "ולהגיד",
-      "gloss": "amchazile"
+      "gloss": "nokuxelela"
     },
     {
       "surface": "לה",
@@ -71,7 +71,7 @@
     },
     {
       "surface": "ולצוות",
-      "gloss": "amtyalele"
+      "gloss": "nokumzisa umyalelo"
     },
     {
       "surface": "עליה",
@@ -79,7 +79,7 @@
     },
     {
       "surface": "לבוא",
-      "gloss": "ukungena"
+      "gloss": "ukuba angene"
     },
     {
       "surface": "אל",
@@ -87,11 +87,11 @@
     },
     {
       "surface": "המלך",
-      "gloss": "enkosi"
+      "gloss": "umNkosi"
     },
     {
       "surface": "להתחנן",
-      "gloss": "ukuncoma"
+      "gloss": "akhalelela"
     },
     {
       "surface": "לו",
@@ -99,7 +99,7 @@
     },
     {
       "surface": "ולבקש",
-      "gloss": "nokucela"
+      "gloss": "acele"
     },
     {
       "surface": "מלפניו",
@@ -107,13 +107,13 @@
     },
     {
       "surface": "על",
-      "gloss": "nge-"
+      "gloss": "ngenxa ye-"
     },
     {
       "surface": "עמה",
-      "gloss": "isizwe sakhe"
+      "gloss": "sizwe sakhe"
     }
   ],
-  "timestamp": "2026-09-18T16:29:01.403910005Z",
+  "timestamp": "2026-09-19T13:51:01.286239456Z",
   "model": "glm-5.3"
 }

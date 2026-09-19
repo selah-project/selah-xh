@@ -5,11 +5,11 @@
   "book": "2-kings",
   "lang": "xh",
   "chapter": 9,
-  "translation": "U-Ahaziyah inkosi yakwaYuda wayebona loko, wabaleka ngendlela yaseBhet-haGan; uYehu wamlanela, wathi: “Mnye naye, mbetheni ecaleni lomqamelo.” Bambethelela kumgangatho wokunyuka kweGur, eduse ⟨את⟩ neYibleam; wabalekela eMegiddo, wafa ngapho.",
+  "translation": "U-Akhazia, inkosi yakwaYuda, wakubona ⟨oku⟩, wabaleka ngendlela yaseBheti-haGani; uYehu wamlanjela emva kwakhe, wathi: “Mthihe ⟨את⟩ naye kwisithuthuthu,” ekweniseni weGuri, edutyane ⟨את⟩ neYibleamu; wabaleka waya eMegido, wafa ngapho.",
   "tokens": [
     {
       "surface": "ואחזיה",
-      "gloss": "u-Ahaziyah"
+      "gloss": "u-Akhazia"
     },
     {
       "surface": "מלך",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "ראה",
-      "gloss": "wayebona"
+      "gloss": "wabona"
     },
     {
       "surface": "וינס",
@@ -33,15 +33,15 @@
     },
     {
       "surface": "בית",
-      "gloss": "yaseBhet"
+      "gloss": "iBheti-"
     },
     {
       "surface": "הגן",
-      "gloss": "haGan"
+      "gloss": "haGani"
     },
     {
       "surface": "וירדף",
-      "gloss": "wamlanela"
+      "gloss": "wamlanjela"
     },
     {
       "surface": "אחריו",
@@ -62,48 +62,48 @@
     {
       "surface": "אתו",
       "gloss": "⟨את⟩",
-      "marks": "u-Ahaziyah"
+      "marks": "naye (u-Akhazia)"
     },
     {
       "surface": "הכהו",
-      "gloss": "mbetheni"
+      "gloss": "mthihe"
     },
     {
       "surface": "אל",
-      "gloss": "ecaleni"
+      "gloss": "kwi-"
     },
     {
       "surface": "המרכבה",
-      "gloss": "lomqamelo"
+      "gloss": "sithuthuthu"
     },
     {
       "surface": "במעלה",
-      "gloss": "kumgangatho wokunyuka"
+      "gloss": "ekweniseni"
     },
     {
       "surface": "גור",
-      "gloss": "weGur"
+      "gloss": "weGuri"
     },
     {
       "surface": "אשר",
-      "gloss": "eduse"
+      "gloss": "edutyane"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "neYibleam"
+      "marks": "iYibleamu"
     },
     {
       "surface": "יבלעם",
-      "gloss": "Yibleam"
+      "gloss": "neYibleamu"
     },
     {
       "surface": "וינס",
-      "gloss": "wabalekela"
+      "gloss": "wabaleka"
     },
     {
       "surface": "מגדו",
-      "gloss": "eMegiddo"
+      "gloss": "waya eMegido"
     },
     {
       "surface": "וימת",
@@ -114,6 +114,6 @@
       "gloss": "ngapho"
     }
   ],
-  "timestamp": "2026-09-18T10:46:31.867451672Z",
+  "timestamp": "2026-09-19T13:47:14.769597652Z",
   "model": "glm-5.3"
 }

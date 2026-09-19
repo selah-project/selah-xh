@@ -5,11 +5,11 @@
   "book": "leviticus",
   "lang": "xh",
   "chapter": 3,
-  "translation": "Aze aseke isandla sakhe phezu komhlathi wentloko yento yakhe, aze ayihlabe phambi kwetenti yokudibana; kwaye oonyana baka-Aharon baya kukutyhophha ⟨את⟩ igazi layo phezu kwe-altare jikeleze.",
+  "translation": "Waza waseka isandla sakhe phezu kweentloko zenqubo yakhe yomnikelo, wayibulala phambi kwetenti yokudibana, kwaye oonyana ka-Aharon basebenzisa igazi layo ngokutyeba lichaze i-altare onke amacala.",
   "tokens": [
     {
       "surface": "וסמך",
-      "gloss": "aze aseke"
+      "gloss": "waseka"
     },
     {
       "surface": "את",
@@ -26,20 +26,20 @@
     },
     {
       "surface": "ראש",
-      "gloss": "komhlathi wentloko"
+      "gloss": "iintloko"
     },
     {
       "surface": "קרבנו",
-      "gloss": "yento yakhe"
+      "gloss": "umnikelo yakhe"
     },
     {
       "surface": "ושחט",
-      "gloss": "aze ayihlabe"
+      "gloss": "wayibulala"
     },
     {
       "surface": "אתו",
       "gloss": "⟨את⟩",
-      "marks": "yona"
+      "marks": "iyo (inqubo)"
     },
     {
       "surface": "לפני",
@@ -47,7 +47,7 @@
     },
     {
       "surface": "אהל",
-      "gloss": "kwetenti"
+      "gloss": "itenti"
     },
     {
       "surface": "מועד",
@@ -55,7 +55,7 @@
     },
     {
       "surface": "וזרקו",
-      "gloss": "baya kukutyhophha"
+      "gloss": "basebenzisa ngokutyeba"
     },
     {
       "surface": "בני",
@@ -80,13 +80,13 @@
     },
     {
       "surface": "המזבח",
-      "gloss": "kwe-altare"
+      "gloss": "i-altare"
     },
     {
       "surface": "סביב",
-      "gloss": "jikeleze"
+      "gloss": "onke amacala"
     }
   ],
-  "timestamp": "2026-09-18T06:33:49.831539563Z",
+  "timestamp": "2026-09-19T14:06:34.676078580Z",
   "model": "glm-5.3"
 }

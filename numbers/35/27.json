@@ -5,20 +5,20 @@
   "book": "numbers",
   "lang": "xh",
   "chapter": 35,
-  "translation": "aze\tlilibalele\tamfumane\tumlawuli wegazi ngaphandle komda wedolophu yakhe yokhuseleko, aze abulale umlawuli wegazi ⟨את⟩ umbulali — akukho igazi kuye.",
+  "translation": "Ukuba umrhwebi wegazi umfumane ngaphandle komda wesixeko sokhuseleko sakhe, umrhwebi wegazi usiba ⟨את⟩ umbulali; akukho igazi ⟨kum⟩.",
   "tokens": [
     {
       "surface": "ומצא",
-      "gloss": "amfumane"
+      "gloss": "umfumane"
     },
     {
       "surface": "אתו",
       "gloss": "⟨את⟩",
-      "marks": "yena (-m- kuthi kamfumane)"
+      "marks": "umrhwebi wegazi"
     },
     {
       "surface": "גאל",
-      "gloss": "umlawuli"
+      "gloss": "umrhwebi"
     },
     {
       "surface": "הדם",
@@ -34,19 +34,19 @@
     },
     {
       "surface": "עיר",
-      "gloss": "wedolophu"
+      "gloss": "wesixeko"
     },
     {
       "surface": "מקלטו",
-      "gloss": "yokhuseleko yakhe"
+      "gloss": "sokhuseleko sakhe"
     },
     {
       "surface": "ורצח",
-      "gloss": "abulale"
+      "gloss": "usiba"
     },
     {
       "surface": "גאל",
-      "gloss": "umlawuli"
+      "gloss": "umrhwebi"
     },
     {
       "surface": "הדם",
@@ -67,13 +67,13 @@
     },
     {
       "surface": "לו",
-      "gloss": "kuye"
+      "gloss": "⟨kum⟩"
     },
     {
       "surface": "דם",
       "gloss": "igazi"
     }
   ],
-  "timestamp": "2026-09-18T07:50:36.715710938Z",
+  "timestamp": "2026-09-19T14:10:16.858673751Z",
   "model": "glm-5.3"
 }

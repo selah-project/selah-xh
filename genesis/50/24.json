@@ -5,7 +5,7 @@
   "book": "genesis",
   "lang": "xh",
   "chapter": 50,
-  "translation": "UYosef wathi kubazalwana bakhe: ‘Mna ndiyafa; uElohim uza kunikhumbula nakanjani, aza kuninyusa ⟨את⟩ nina esuka elizweni eli, aze kunisa elizweni elo awafungela ku-Avraham, kuYitshaka nakwiYakobi.’",
+  "translation": "Wathi uYosef kubabzalwane bakhe: “Ndifile; kodwa uElohim uya kunibhekisa ngokwenene, aze aninyuse ⟨את⟩ nilulele elubala kule mhlaba, aze anise kulo mhlaba awayifungela u-Avraham, uYitshaka noYakobi.”",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -17,11 +17,11 @@
     },
     {
       "surface": "אל",
-      "gloss": "ku-"
+      "gloss": "ku"
     },
     {
       "surface": "אחיו",
-      "gloss": "bazalwana bakhe"
+      "gloss": "ubabzalwane bakhe"
     },
     {
       "surface": "אנכי",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "מת",
-      "gloss": "ndiyafa"
+      "gloss": "ndifile"
     },
     {
       "surface": "ואלהים",
@@ -37,33 +37,33 @@
     },
     {
       "surface": "פקד",
-      "gloss": "nakanjani"
+      "gloss": "ubhekise"
     },
     {
       "surface": "יפקד",
-      "gloss": "uza kunikhumbula"
+      "gloss": "unibhekise"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ nina",
+      "gloss": "⟨את⟩",
       "marks": "nina"
     },
     {
       "surface": "והעלה",
-      "gloss": "aza kuninyusa"
+      "gloss": "aze aninyuse"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ nina",
+      "gloss": "⟨את⟩",
       "marks": "nina"
     },
     {
       "surface": "מן",
-      "gloss": "esuka"
+      "gloss": "kusuka"
     },
     {
       "surface": "הארץ",
-      "gloss": "elizweni"
+      "gloss": "elo mhlaba"
     },
     {
       "surface": "הזאת",
@@ -71,19 +71,19 @@
     },
     {
       "surface": "אל",
-      "gloss": "aye"
+      "gloss": "ku"
     },
     {
       "surface": "הארץ",
-      "gloss": "elizweni"
+      "gloss": "lo mhlaba"
     },
     {
       "surface": "אשר",
-      "gloss": "elo"
+      "gloss": "awayifungela"
     },
     {
       "surface": "נשבע",
-      "gloss": "awafungela"
+      "gloss": "wayefungile"
     },
     {
       "surface": "לאברהם",
@@ -95,9 +95,9 @@
     },
     {
       "surface": "וליעקב",
-      "gloss": "nakwiYakobi"
+      "gloss": "noYakobi"
     }
   ],
-  "timestamp": "2026-09-18T05:48:36.352129558Z",
+  "timestamp": "2026-09-19T13:57:45.597678691Z",
   "model": "glm-5.3"
 }

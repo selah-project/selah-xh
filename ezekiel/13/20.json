@@ -5,15 +5,15 @@
   "book": "ezekiel",
   "lang": "xh",
   "chapter": 13,
-  "translation": "Ngoko ke kanjalo utsho u-Adonayi uYahwe: Ndiyakwazi ngeendawo zokulala zenu, eziniloba ngaphandle iimphefumlo ezindiza; ndiza kuzidabula kwiingalo zenu, ndiza kukhulula ⟨את⟩ iimphefumlo eniloba yena, iimphefumlo ezindiza.",
+  "translation": "Ngoko-ke kuthe u-Adonayi uYahwe: Yabonani, ndilapha ndichasene neendwane zenu, eziniza kuthwalela apho nizibambelela ⟨את⟩ iimphefumlo ezindizayo; ndiza kuzirhudumele ⟨את⟩ phezu kwezandla zenu, ndiza kukhulula ⟨את⟩ iimphefumlo enizibambelelayo, ⟨את⟩ iimphefumlo ezindizayo.",
   "tokens": [
     {
       "surface": "לכן",
-      "gloss": "Ngoko ke"
+      "gloss": "Ngoko-ke"
     },
     {
       "surface": "כה",
-      "gloss": "kanjalo"
+      "gloss": "kuthe"
     },
     {
       "surface": "אמר",
@@ -29,15 +29,15 @@
     },
     {
       "surface": "הנני",
-      "gloss": "Ndiyakwazi"
+      "gloss": "ndilapha"
     },
     {
       "surface": "אל",
-      "gloss": "nge"
+      "gloss": "ndichasene ne-"
     },
     {
       "surface": "כסתותיכנה",
-      "gloss": "iindawo zokulala zenu"
+      "gloss": "iindwane zenu"
     },
     {
       "surface": "אשר",
@@ -45,20 +45,20 @@
     },
     {
       "surface": "אתנה",
-      "gloss": "ni"
+      "gloss": "nina"
     },
     {
       "surface": "מצדדות",
-      "gloss": "niloba"
+      "gloss": "nizibambelela"
     },
     {
       "surface": "שם",
-      "gloss": "ngaphandle"
+      "gloss": "apho"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "iimphefumlo ezindiza"
+      "marks": "iimphefumlo"
     },
     {
       "surface": "הנפשות",
@@ -66,23 +66,24 @@
     },
     {
       "surface": "לפרחות",
-      "gloss": "ezindiza"
+      "gloss": "ezindizayo"
     },
     {
       "surface": "וקרעתי",
-      "gloss": "ndiza kuzidabula"
+      "gloss": "ndiza kuzirhudumele"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩ uzo"
+      "gloss": "⟨את⟩",
+      "marks": "iindwane zenu"
     },
     {
       "surface": "מעל",
-      "gloss": "kwiingalo"
+      "gloss": "phezu kwe-"
     },
     {
       "surface": "זרועתיכם",
-      "gloss": "zenu"
+      "gloss": "ezandla zenu"
     },
     {
       "surface": "ושלחתי",
@@ -91,7 +92,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "iimphefumlo eniloba"
+      "marks": "iimphefumlo"
     },
     {
       "surface": "הנפשות",
@@ -99,20 +100,20 @@
     },
     {
       "surface": "אשר",
-      "gloss": "eni"
+      "gloss": "ezi"
     },
     {
       "surface": "אתם",
-      "gloss": "yena"
+      "gloss": "ni-"
     },
     {
-      "surface": "מצודדות",
-      "gloss": "niloba"
+      "surface": "מצדדות",
+      "gloss": "zibambelela"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "iimphefumlo ezindiza"
+      "marks": "iimphefumlo"
     },
     {
       "surface": "נפשים",
@@ -120,9 +121,9 @@
     },
     {
       "surface": "לפרחת",
-      "gloss": "ezindiza"
+      "gloss": "ezindizayo"
     }
   ],
-  "timestamp": "2026-09-18T13:00:22.783607950Z",
+  "timestamp": "2026-09-19T13:54:50.504050971Z",
   "model": "glm-5.3"
 }

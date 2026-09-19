@@ -5,7 +5,7 @@
   "book": "exodus",
   "lang": "xh",
   "chapter": 10,
-  "translation": "“Hayi njalo; hambani ninaam, amadoda, nize nkonzele ⟨את⟩ uYahwe, kuba koko nina nilifunayo.” Wabagxotha ⟨את⟩ ebusweni bukaParo.",
+  "translation": "Hayi njalo; hambani nina amadoda, nithinzele uYahwe ⟨את⟩, kuba oko nina nikufunayo; wabakhukulisa ⟨את⟩ baaye ebusweni bukaParo.",
   "tokens": [
     {
       "surface": "לא",
@@ -21,15 +21,15 @@
     },
     {
       "surface": "נא",
-      "gloss": "ninaam"
+      "gloss": "ke"
     },
     {
       "surface": "הגברים",
-      "gloss": "amadoda"
+      "gloss": "nina amadoda"
     },
     {
       "surface": "ועבדו",
-      "gloss": "nize nkonzele"
+      "gloss": "nithinzele"
     },
     {
       "surface": "את",
@@ -47,7 +47,7 @@
     {
       "surface": "אתה",
       "gloss": "⟨את⟩",
-      "marks": "koko nilifunayo"
+      "marks": "oko"
     },
     {
       "surface": "אתם",
@@ -55,21 +55,20 @@
     },
     {
       "surface": "מבקשים",
-      "gloss": "nilifunayo"
+      "gloss": "nikufunayo"
     },
     {
       "surface": "ויגרש",
-      "gloss": "wabagxotha"
+      "gloss": "wabakhukulisa"
     },
     {
       "surface": "אתם",
       "gloss": "⟨את⟩",
-      "marks": "ebusweni bukaParo"
+      "marks": "baaye (uMoshe no-Aharon, abangachazwanga)"
     },
     {
       "surface": "מאת",
-      "gloss": "⟨את⟩ kusuka",
-      "marks": "ebusweni bukaParo"
+      "gloss": "kusuka ⟨את⟩"
     },
     {
       "surface": "פני",
@@ -77,9 +76,9 @@
     },
     {
       "surface": "פרעה",
-      "gloss": "bukaParo"
+      "gloss": "ukaParo"
     }
   ],
-  "timestamp": "2026-09-18T05:57:23.580623658Z",
+  "timestamp": "2026-09-19T13:51:27.877511129Z",
   "model": "glm-5.3"
 }

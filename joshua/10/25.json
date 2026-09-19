@@ -5,7 +5,7 @@
   "book": "joshua",
   "lang": "xh",
   "chapter": 10,
-  "translation": "Wathetha kubo uYehoshuwa esithi: “Musani ukoyika, ningabinakho lukhathazeko; yimbambani ngamandla, nibenamandla, kuba ngokunjalo uYahwe uza kukwenza kuzo zonke iintshaba zenu enilwa ⟨nazo⟩.”",
+  "translation": "uYehoshuwa wathetha kubo: “Musani ukoyika, musani ukhatheka; yomekezani nibe namandla, kuba ngokunjalo uYahwe uza kukwenza oko koonobulawa benu abani nilwa ⟨את⟩ nabo.”",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -29,19 +29,19 @@
     },
     {
       "surface": "ואל",
-      "gloss": "ningabinakho"
+      "gloss": "musani"
     },
     {
       "surface": "תחתו",
-      "gloss": "lukhathazeko"
+      "gloss": "ukhatheka"
     },
     {
       "surface": "חזקו",
-      "gloss": "yimbambani ngamandla"
+      "gloss": "yomekezani"
     },
     {
       "surface": "ואמצו",
-      "gloss": "nibenamandla"
+      "gloss": "nibe namandla"
     },
     {
       "surface": "כי",
@@ -53,7 +53,7 @@
     },
     {
       "surface": "יעשה",
-      "gloss": "uza kukwenza"
+      "gloss": "uza kukwenza oko"
     },
     {
       "surface": "יהוה",
@@ -61,30 +61,30 @@
     },
     {
       "surface": "לכל",
-      "gloss": "kuzo zonke"
+      "gloss": "kuwo onke"
     },
     {
       "surface": "איביכם",
-      "gloss": "iintshaba zenu"
+      "gloss": "oonobulawa benu"
     },
     {
       "surface": "אשר",
-      "gloss": "eni"
+      "gloss": "aba"
     },
     {
       "surface": "אתם",
-      "gloss": "ni-"
+      "gloss": "ni"
     },
     {
       "surface": "נלחמים",
-      "gloss": "lwa"
+      "gloss": "nilwa"
     },
     {
       "surface": "אותם",
       "gloss": "⟨את⟩",
-      "marks": "nazo (iintshaba zenu)"
+      "marks": "nabo (oonobulawa)"
     }
   ],
-  "timestamp": "2026-09-18T08:35:38.866379234Z",
+  "timestamp": "2026-09-19T14:02:50.997064607Z",
   "model": "glm-5.3"
 }

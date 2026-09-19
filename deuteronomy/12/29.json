@@ -5,7 +5,7 @@
   "book": "deuteronomy",
   "lang": "xh",
   "chapter": 12,
-  "translation": "Xa uYahwe uElohim wakho ethe wasidweba ⟨את⟩ iintshaba, apho wena ungena khona ukuzithabatha ⟨את⟩ zona ngaphambi kwakho, wazithabatha, wahlala elwabini labo.",
+  "translation": "Xa uYahwe uElohim wakho esitshabalalisa ⟨את⟩ iintlanga eza wena uya kuzo apho ukuzithwalela ngaphambi kwakho, kwaye uzithwalela ⟨את⟩ kwaye uhlala emhlabeni wazo,",
   "tokens": [
     {
       "surface": "כי",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "יכרית",
-      "gloss": "wasidweba"
+      "gloss": "esitshabalalisa"
     },
     {
       "surface": "יהוה",
@@ -26,15 +26,15 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "iintshaba"
+      "marks": "iintlanga"
     },
     {
       "surface": "הגוים",
-      "gloss": "iintshaba"
+      "gloss": "iintlanga"
     },
     {
       "surface": "אשר",
-      "gloss": "apho"
+      "gloss": "eza"
     },
     {
       "surface": "אתה",
@@ -42,20 +42,20 @@
     },
     {
       "surface": "בא",
-      "gloss": "ungena"
+      "gloss": "uya kuzo"
     },
     {
       "surface": "שמה",
-      "gloss": "khona"
+      "gloss": "apho"
     },
     {
       "surface": "לרשת",
-      "gloss": "ukuzithabatha"
+      "gloss": "ukuzithwalela"
     },
     {
       "surface": "אותם",
       "gloss": "⟨את⟩",
-      "marks": "zona (iintshaba)"
+      "marks": "iintlanga"
     },
     {
       "surface": "מפניך",
@@ -63,22 +63,22 @@
     },
     {
       "surface": "וירשת",
-      "gloss": "wazithabatha"
+      "gloss": "kwaye uzithwalela"
     },
     {
       "surface": "אתם",
       "gloss": "⟨את⟩",
-      "marks": "zona (iintshaba)"
+      "marks": "iintlanga"
     },
     {
       "surface": "וישבת",
-      "gloss": "wahlala"
+      "gloss": "kwaye uhlala"
     },
     {
       "surface": "בארצם",
-      "gloss": "elwabini labo"
+      "gloss": "emhlabeni wazo"
     }
   ],
-  "timestamp": "2026-09-18T08:06:44.474763732Z",
+  "timestamp": "2026-09-19T13:49:27.627011716Z",
   "model": "glm-5.3"
 }

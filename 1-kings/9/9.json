@@ -5,15 +5,15 @@
   "book": "1-kings",
   "lang": "xh",
   "chapter": 9,
-  "translation": "Baza kuthetha ukuba: Kuba bashiyile uYahwe, uElohim wabo, owakhupha ⟨את⟩ ooyihlo bo elizweni leMitsrayim, baza kunamathela koothixo abanye, bachwele kubo, babakhonza; ngoko uYahwe wazisa phezu kwabo ⟨את⟩ yonke le monakalo.",
+  "translation": "Kwaye baya kuthi: Ngenxa yokuba bashiye ⟨את⟩ uYahwe uElohim wabo, owakhupha ⟨את⟩ ooyise elizweni laseMitsrayim, bamanyelwe koothixo abanye, banqula phambi kwabo, babakhonza; ngenxa yoko uYahwe wazisa phezu kwabo ⟨את⟩ le bubi konke.",
   "tokens": [
     {
       "surface": "ואמרו",
-      "gloss": "baza kuthetha"
+      "gloss": "kwaye baya kuthi"
     },
     {
       "surface": "על",
-      "gloss": "kuba"
+      "gloss": "ngenxa yokuba"
     },
     {
       "surface": "אשר",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "עזבו",
-      "gloss": "bashiyile"
+      "gloss": "bashiye"
     },
     {
       "surface": "את",
@@ -38,7 +38,7 @@
     },
     {
       "surface": "אשר",
-      "gloss": "owo"
+      "gloss": "ow"
     },
     {
       "surface": "הוציא",
@@ -47,11 +47,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ooyihlo bo"
+      "marks": "ooyise"
     },
     {
       "surface": "אבתם",
-      "gloss": "ooyihlo bo"
+      "gloss": "ooyise"
     },
     {
       "surface": "מארץ",
@@ -59,11 +59,11 @@
     },
     {
       "surface": "מצרים",
-      "gloss": "leMitsrayim"
+      "gloss": "laseMitsrayim"
     },
     {
       "surface": "ויחזקו",
-      "gloss": "baza kunamathela"
+      "gloss": "bamanyelwe"
     },
     {
       "surface": "באלהים",
@@ -75,11 +75,11 @@
     },
     {
       "surface": "וישתחו",
-      "gloss": "bachwele"
+      "gloss": "banqula"
     },
     {
       "surface": "להם",
-      "gloss": "kubo"
+      "gloss": "phambi kwabo"
     },
     {
       "surface": "ויעבדם",
@@ -87,11 +87,11 @@
     },
     {
       "surface": "על",
-      "gloss": "ngoko"
+      "gloss": "ngenxa"
     },
     {
       "surface": "כן",
-      "gloss": "oko"
+      "gloss": "yoko"
     },
     {
       "surface": "הביא",
@@ -108,21 +108,21 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "yonke le monakalo"
+      "marks": "le bubi konke"
     },
     {
       "surface": "כל",
-      "gloss": "yonke"
+      "gloss": "konke"
     },
     {
       "surface": "הרעה",
-      "gloss": "imonakalo"
+      "gloss": "le bubi"
     },
     {
       "surface": "הזאת",
       "gloss": "le"
     }
   ],
-  "timestamp": "2026-09-18T10:19:02.984948772Z",
+  "timestamp": "2026-09-19T13:43:05.173785411Z",
   "model": "glm-5.3"
 }

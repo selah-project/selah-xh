@@ -5,7 +5,7 @@
   "book": "1-kings",
   "lang": "xh",
   "chapter": 7,
-  "translation": "Wamisela iintsika esangweni seheikhali; wamisela intsika yasekunene, wayibiza igama layo ngokuba nguYakhin; wamisela intsika yasekhohlo, wayibiza igama layo ngokuba nguBoazi.",
+  "translation": "Wamisela ⟨את⟩ oonmqamelo kolunoko lwethempile, wamisela ⟨את⟩ umnqamelo wasekunene, wayibiza ⟨את⟩ igama layo uYakhin, wamisela ⟨את⟩ umnqamelo wasekhohlo, wayibiza ⟨את⟩ igama layo uBoaz.",
   "tokens": [
     {
       "surface": "ויקם",
@@ -14,19 +14,19 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "iintsika"
+      "marks": "oonmqamelo"
     },
     {
       "surface": "העמדים",
-      "gloss": "iintsika"
+      "gloss": "oonmqamelo"
     },
     {
       "surface": "לאלם",
-      "gloss": "esangweni"
+      "gloss": "kolunoko"
     },
     {
       "surface": "ההיכל",
-      "gloss": "seheikhali"
+      "gloss": "lwethempile"
     },
     {
       "surface": "ויקם",
@@ -35,15 +35,15 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "intsika"
+      "marks": "umnqamelo wasekunene"
     },
     {
       "surface": "העמוד",
-      "gloss": "intsika"
+      "gloss": "umnqamelo"
     },
     {
       "surface": "הימני",
-      "gloss": "yasekunene"
+      "gloss": "wasekunene"
     },
     {
       "surface": "ויקרא",
@@ -60,7 +60,7 @@
     },
     {
       "surface": "יכין",
-      "gloss": "Yakhin"
+      "gloss": "uYakhin"
     },
     {
       "surface": "ויקם",
@@ -69,15 +69,15 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "intsika"
+      "marks": "umnqamelo wasekhohlo"
     },
     {
       "surface": "העמוד",
-      "gloss": "intsika"
+      "gloss": "umnqamelo"
     },
     {
       "surface": "השמאלי",
-      "gloss": "yasekhohlo"
+      "gloss": "wasekhohlo"
     },
     {
       "surface": "ויקרא",
@@ -94,9 +94,9 @@
     },
     {
       "surface": "בעז",
-      "gloss": "Boazi"
+      "gloss": "uBoaz"
     }
   ],
-  "timestamp": "2026-09-18T17:31:21.574542951Z",
+  "timestamp": "2026-09-19T14:12:21.096731894Z",
   "model": "glm-5.3"
 }

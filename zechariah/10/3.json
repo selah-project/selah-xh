@@ -5,11 +5,11 @@
   "book": "zechariah",
   "lang": "xh",
   "chapter": 10,
-  "translation": "Kubalusi urhwaphilizo lwam luyavutha, nas kwiibhokhwe ezinkuni ndiza kubajongela ngokucinezelayo; kuba uYahwe Tsebhayoti ulinganisile ukuze akhangele ⟨את⟩ umhlambi wakhe ⟨את⟩ indlu kaYehuda, waza wabenza njengesehenge esimhle sakhe emfazwe.",
+  "translation": "Ngokuchasene nabalusi ulaka lwam lwayabasa, nangokuchasene neebhokhwe ezinkulu ndiza kujeza; kuba uYahwe Tsebhayoti wakhangela ⟨את⟩ ilahleko lakhe, ⟨את⟩ indlu kaYuda, waza ⟨את⟩ wababeka njengehhashi lobudumo bakhe emfazwe.",
   "tokens": [
     {
       "surface": "על",
-      "gloss": "ku-"
+      "gloss": "ngokuchasene"
     },
     {
       "surface": "הרעים",
@@ -17,23 +17,23 @@
     },
     {
       "surface": "חרה",
-      "gloss": "luyavutha"
+      "gloss": "lwayabasa"
     },
     {
       "surface": "אפי",
-      "gloss": "urhwaphilizo lwam"
+      "gloss": "ulaka lwam"
     },
     {
       "surface": "ועל",
-      "gloss": "nas ku-"
+      "gloss": "nangokuchasene"
     },
     {
       "surface": "העתודים",
-      "gloss": "iibhokhwe ezinkuni"
+      "gloss": "neebhokhwe ezinkulu"
     },
     {
       "surface": "אפקוד",
-      "gloss": "ndiza kubajongela"
+      "gloss": "ndiza kujeza"
     },
     {
       "surface": "כי",
@@ -41,7 +41,7 @@
     },
     {
       "surface": "פקד",
-      "gloss": "ulinganisile ukuze akhangele"
+      "gloss": "wakhangela"
     },
     {
       "surface": "יהוה",
@@ -54,16 +54,16 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "umhlambi wakhe"
+      "marks": "ilahleko lakhe"
     },
     {
       "surface": "עדרו",
-      "gloss": "umhlambi wakhe"
+      "gloss": "ilahleko lakhe"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "indlu kaYehuda"
+      "marks": "indlu kaYuda"
     },
     {
       "surface": "בית",
@@ -71,29 +71,30 @@
     },
     {
       "surface": "יהודה",
-      "gloss": "kaYehuda"
+      "gloss": "kaYuda"
     },
     {
       "surface": "ושם",
-      "gloss": "waza wabenza"
+      "gloss": "wababeka"
     },
     {
       "surface": "אותם",
-      "gloss": "⟨את⟩ bona"
+      "gloss": "⟨את⟩ bona",
+      "marks": "bona"
     },
     {
       "surface": "כסוס",
-      "gloss": "njengesehenge"
+      "gloss": "njengehhashi"
     },
     {
       "surface": "הודו",
-      "gloss": "esimhle sakhe"
+      "gloss": "lobudumo bakhe"
     },
     {
       "surface": "במלחמה",
       "gloss": "emfazwe"
     }
   ],
-  "timestamp": "2026-09-18T17:43:10.912380574Z",
+  "timestamp": "2026-09-19T14:11:27.048869800Z",
   "model": "glm-5.3"
 }

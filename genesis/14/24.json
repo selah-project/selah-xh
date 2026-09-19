@@ -5,11 +5,11 @@
   "book": "genesis",
   "lang": "xh",
   "chapter": 14,
-  "translation": "ngaphandle kokoko kuphela okutyileyo amakhwenkwe, nolwahlulo lwamadoda ahamba ⟨nam⟩ — u-Anere, u-Eshkoli noMamre; bona bayakuthabatha ulwahlulo lwabo.”\n",
+  "translation": "Kunjenjalo kuphela oko utitya amakhwenkwe, nesabelo sabantu abahamba ⟨את⟩ndim — u-Aneri, u-Eshkoli noMamre; bona baya kuthabatha isabelo sabo.”",
   "tokens": [
     {
       "surface": "בלעדי",
-      "gloss": "ngaphandle kokoko"
+      "gloss": "kunjenjalo"
     },
     {
       "surface": "רק",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "אכלו",
-      "gloss": "okutyileyo"
+      "gloss": "utitya"
     },
     {
       "surface": "הנערים",
@@ -29,27 +29,28 @@
     },
     {
       "surface": "וחלק",
-      "gloss": "nolwahlulo"
+      "gloss": "nesabelo"
     },
     {
       "surface": "האנשים",
-      "gloss": "lwamadoda"
+      "gloss": "sabantu"
     },
     {
       "surface": "אשר",
-      "gloss": "ahamba"
+      "gloss": "aba-"
     },
     {
       "surface": "הלכו",
-      "gloss": "ahamba"
+      "gloss": "bahamba"
     },
     {
       "surface": "אתי",
-      "gloss": "⟨את⟩ nam"
+      "gloss": "⟨את⟩ndim",
+      "marks": "ndim"
     },
     {
       "surface": "ענר",
-      "gloss": "u-Anere"
+      "gloss": "u-Aneri"
     },
     {
       "surface": "אשכל",
@@ -65,13 +66,13 @@
     },
     {
       "surface": "יקחו",
-      "gloss": "bayakuthabatha"
+      "gloss": "baya kuthabatha"
     },
     {
       "surface": "חלקם",
-      "gloss": "ulwahlulo lwabo"
+      "gloss": "isabelo sabo"
     }
   ],
-  "timestamp": "2026-09-18T05:14:12.716278206Z",
+  "timestamp": "2026-09-19T13:55:54.975667283Z",
   "model": "glm-5.3"
 }

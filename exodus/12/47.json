@@ -5,29 +5,30 @@
   "book": "exodus",
   "lang": "xh",
   "chapter": 12,
-  "translation": "Ibandla lilonke leYisrayeli liya kulenzele.",
+  "translation": "Iqela lonke le-Israeliya malibambele kulo ⟨את⟩.",
   "tokens": [
     {
       "surface": "כל",
-      "gloss": "lilonke"
+      "gloss": "lonke"
     },
     {
       "surface": "עדת",
-      "gloss": "ibandla"
+      "gloss": "iqela"
     },
     {
       "surface": "ישראל",
-      "gloss": "leYisrayeli"
+      "gloss": "le-Israeliya"
     },
     {
       "surface": "יעשו",
-      "gloss": "liya kulenza"
+      "gloss": "malibambele kulo"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ -le"
+      "gloss": "⟨את⟩",
+      "marks": "kulo (ukuphaseka)"
     }
   ],
-  "timestamp": "2026-09-18T05:59:12.536254780Z",
+  "timestamp": "2026-09-19T13:51:45.367993028Z",
   "model": "glm-5.3"
 }

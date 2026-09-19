@@ -5,7 +5,7 @@
   "book": "1-samuel",
   "lang": "xh",
   "chapter": 9,
-  "translation": "UShawuli wathi kumncedi wakhe: “Yabona, siyahamba, nthini esinokuzisa kulo mntu? Kuba isonka siphelelwe kwiimpahla zethu, kananjalo asikho isipho esinokuziswa kumntu kaElohim — sinantoni na?”",
+  "translation": "Wathi uShawuli kwinkwenkwe yakhe: “Khangela, siyahamba, kodwa siza kuzisa ntoni kumntu? Kuba isonka siphelelile ezikhongozeli zethu, kwaye akukho sipo sokuzisa kumntu kaElohim — ntoni na ⟨את⟩ nathi?”",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -17,11 +17,11 @@
     },
     {
       "surface": "לנערו",
-      "gloss": "kumncedi wakhe"
+      "gloss": "kwinkwenkwe yakhe"
     },
     {
       "surface": "והנה",
-      "gloss": "yabona"
+      "gloss": "khangela"
     },
     {
       "surface": "נלך",
@@ -29,15 +29,15 @@
     },
     {
       "surface": "ומה",
-      "gloss": "nthini"
+      "gloss": "kodwa ntoni"
     },
     {
       "surface": "נביא",
-      "gloss": "esinokuzisa"
+      "gloss": "siza kuzisa"
     },
     {
       "surface": "לאיש",
-      "gloss": "kulo mntu"
+      "gloss": "kumntu"
     },
     {
       "surface": "כי",
@@ -49,11 +49,11 @@
     },
     {
       "surface": "אזל",
-      "gloss": "siphelelwe"
+      "gloss": "siphelelile"
     },
     {
       "surface": "מכלינו",
-      "gloss": "kwiimpahla zethu"
+      "gloss": "ezikhongozeli zethu"
     },
     {
       "surface": "ותשורה",
@@ -61,11 +61,11 @@
     },
     {
       "surface": "אין",
-      "gloss": "asikho"
+      "gloss": "akukho"
     },
     {
       "surface": "להביא",
-      "gloss": "esinokuziswa"
+      "gloss": "sokuzisa"
     },
     {
       "surface": "לאיש",
@@ -77,13 +77,14 @@
     },
     {
       "surface": "מה",
-      "gloss": "nthoni"
+      "gloss": "ntoni na"
     },
     {
       "surface": "אתנו",
-      "gloss": "⟨את⟩ nathi"
+      "gloss": "⟨את⟩ nathi",
+      "marks": "nathi (into ntoni esinayo)"
     }
   ],
-  "timestamp": "2026-09-18T09:23:21.155006479Z",
+  "timestamp": "2026-09-19T13:45:22.653164485Z",
   "model": "glm-5.3"
 }

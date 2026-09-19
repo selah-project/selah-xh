@@ -5,11 +5,11 @@
   "book": "isaiah",
   "lang": "xh",
   "chapter": 29,
-  "translation": "Kuba uYahwe wathela phezu kwenu umoya wokulala okuzolileyo, waza wavalile ⟨את⟩ amehlo enu — ⟨את⟩ iiprofeti, nooziqalela zenu, ababoni, wazigquma.",
+  "translation": "Kuba uYahwe wathela phezu kwenu umoya wokulala okuzolileyo, wazivala ⟨את⟩ amehlo enu — ⟨את⟩ abaprofeti, no⟨את⟩ iintloko zenu, ababoni ababonayo, wazifihla.",
   "tokens": [
     {
       "surface": "כי",
-      "gloss": "Kuba"
+      "gloss": "kuba"
     },
     {
       "surface": "נסך",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "ויעצם",
-      "gloss": "wavalile"
+      "gloss": "wazivala"
     },
     {
       "surface": "את",
@@ -47,30 +47,30 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "iiprofeti"
+      "marks": "abaprofeti"
     },
     {
       "surface": "הנביאים",
-      "gloss": "iiprofeti"
+      "gloss": "abaprofeti"
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
-      "marks": "ooziqalela zenu"
+      "gloss": "no⟨את⟩",
+      "marks": "iintloko zenu"
     },
     {
       "surface": "ראשיכם",
-      "gloss": "ooziqalela zenu"
+      "gloss": "iintloko zenu"
     },
     {
       "surface": "החזים",
-      "gloss": "ababoni"
+      "gloss": "ababoni ababonayo"
     },
     {
       "surface": "כסה",
-      "gloss": "wazigquma"
+      "gloss": "wazifihla"
     }
   ],
-  "timestamp": "2026-09-18T11:23:10.932476027Z",
+  "timestamp": "2026-09-19T13:59:38.750298732Z",
   "model": "glm-5.3"
 }

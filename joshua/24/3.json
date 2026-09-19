@@ -5,20 +5,20 @@
   "book": "joshua",
   "lang": "xh",
   "chapter": 24,
-  "translation": "Ndithabathe ⟨את⟩ uyihlo wenu, ⟨את⟩ u-Avraham, ngapha komlambo, ndimdululisela yonke umhlaba wakwaKhanana, ndandekeza ⟨את⟩ inzala yakhe, ndamnika ⟨את⟩ uYitshaki.",
+  "translation": "Ndathatha ⟨את⟩ uyise wenu ⟨את⟩ u-Avraham ngasezantsi komlambo, ndamqhuba ⟨את⟩ emhlabeni wonke weKhanana, ndandisele ⟨את⟩ umbele wakhe, ndamnika ⟨את⟩ uYitshaki.",
   "tokens": [
     {
       "surface": "ואקח",
-      "gloss": "Ndithabathe"
+      "gloss": "ndathatha"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "uyihlo wenu"
+      "marks": "uyise wenu"
     },
     {
       "surface": "אביכם",
-      "gloss": "uyihlo wenu"
+      "gloss": "uyise wenu"
     },
     {
       "surface": "את",
@@ -31,24 +31,24 @@
     },
     {
       "surface": "מעבר",
-      "gloss": "ngapha kwe"
+      "gloss": "ngasezantsi"
     },
     {
       "surface": "הנהר",
-      "gloss": "mlambo"
+      "gloss": "komlambo"
     },
     {
       "surface": "ואולך",
-      "gloss": "ndimdululisela"
+      "gloss": "ndamqhuba"
     },
     {
       "surface": "אותו",
       "gloss": "⟨את⟩",
-      "marks": "yonke umhlaba wakwaKhanana"
+      "marks": "emhlabeni wonke weKhanana"
     },
     {
       "surface": "בכל",
-      "gloss": "yonke"
+      "gloss": "emhlabeni wonke"
     },
     {
       "surface": "ארץ",
@@ -56,20 +56,20 @@
     },
     {
       "surface": "כנען",
-      "gloss": "wakwaKhanana"
+      "gloss": "weKhanana"
     },
     {
       "surface": "וארב",
-      "gloss": "ndandekeza"
+      "gloss": "ndandisele"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "inzala yakhe"
+      "marks": "umbele wakhe"
     },
     {
       "surface": "זרעו",
-      "gloss": "inzala yakhe"
+      "gloss": "umbele wakhe"
     },
     {
       "surface": "ואתן",
@@ -77,7 +77,7 @@
     },
     {
       "surface": "לו",
-      "gloss": "m"
+      "gloss": ""
     },
     {
       "surface": "את",
@@ -89,6 +89,6 @@
       "gloss": "uYitshaki"
     }
   ],
-  "timestamp": "2026-09-18T08:48:47.473057611Z",
+  "timestamp": "2026-09-19T14:03:25.918812083Z",
   "model": "glm-5.3"
 }

@@ -5,15 +5,15 @@
   "book": "2-kings",
   "lang": "xh",
   "chapter": 8,
-  "translation": "Inkosi uYowram yabuyela kwisiYizreeli ukuzilapha kwiiindwamba ezazimlimenze ama-Aramu eRama, xa elwa noKhazaeli inkosi yase-Aramu; u-Akhaziyahu unyana kaYehowram inkosi yakwaYuda waya ezantsi ukubona ⟨את⟩ uYowram unyana ka-Akhabu kwisiYizreeli, kuba wayegula.",
+  "translation": "Wabuyela uYoram inkosi ukuphulukiswa kwiYizreeli ngenxa yezilumko ezazimlimenze amaAram eRama, xa elwa ⟨את⟩ noChazaeli inkosi yaseAram; uAhaziya unyana kaYehoram inkosi kaYuda wehla waza wabona ⟨את⟩ uYoram unyana kaAhab kwiYizreeli, kuba wayegula.",
   "tokens": [
     {
       "surface": "וישב",
-      "gloss": "yabuyela"
+      "gloss": "wabuyela"
     },
     {
       "surface": "יורם",
-      "gloss": "uYowram"
+      "gloss": "uYoram"
     },
     {
       "surface": "המלך",
@@ -21,23 +21,23 @@
     },
     {
       "surface": "להתרפא",
-      "gloss": "ukuzilapha"
+      "gloss": "ukuphulukiswa"
     },
     {
       "surface": "ביזרעאל",
-      "gloss": "kwisiYizreeli"
+      "gloss": "kwiYizreeli"
     },
     {
       "surface": "מן",
-      "gloss": "kwii-"
+      "gloss": "ngenxa"
     },
     {
       "surface": "המכים",
-      "gloss": "indwamba"
+      "gloss": "yezilumko"
     },
     {
       "surface": "אשר",
-      "gloss": "ezazi-"
+      "gloss": "ezazi"
     },
     {
       "surface": "יכהו",
@@ -45,7 +45,7 @@
     },
     {
       "surface": "ארמים",
-      "gloss": "ama-Aramu"
+      "gloss": "amaAram"
     },
     {
       "surface": "ברמה",
@@ -58,11 +58,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "noKhazaeli"
+      "marks": "uChazaeli"
     },
     {
       "surface": "חזהאל",
-      "gloss": "uKhazaeli"
+      "gloss": "noChazaeli"
     },
     {
       "surface": "מלך",
@@ -70,11 +70,11 @@
     },
     {
       "surface": "ארם",
-      "gloss": "yase-Aramu"
+      "gloss": "yaseAram"
     },
     {
       "surface": "ואחזיהו",
-      "gloss": "u-Akhaziyahu"
+      "gloss": "uAhaziya"
     },
     {
       "surface": "בן",
@@ -82,7 +82,7 @@
     },
     {
       "surface": "יהורם",
-      "gloss": "kaYehowram"
+      "gloss": "kaYehoram"
     },
     {
       "surface": "מלך",
@@ -90,24 +90,24 @@
     },
     {
       "surface": "יהודה",
-      "gloss": "yakwaYuda"
+      "gloss": "kaYuda"
     },
     {
       "surface": "ירד",
-      "gloss": "waya ezantsi"
+      "gloss": "wehla"
     },
     {
       "surface": "לראות",
-      "gloss": "ukubona"
+      "gloss": "waza wabona"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "uYowram"
+      "marks": "uYoram"
     },
     {
       "surface": "יורם",
-      "gloss": "uYowram"
+      "gloss": "uYoram"
     },
     {
       "surface": "בן",
@@ -115,11 +115,11 @@
     },
     {
       "surface": "אחאב",
-      "gloss": "ka-Akhabu"
+      "gloss": "kaAhab"
     },
     {
       "surface": "ביזרעאל",
-      "gloss": "kwisiYizreeli"
+      "gloss": "kwiYizreeli"
     },
     {
       "surface": "כי",
@@ -131,9 +131,9 @@
     },
     {
       "surface": "הוא",
-      "gloss": "yena"
+      "gloss": "ngaye"
     }
   ],
-  "timestamp": "2026-09-18T10:42:31.628004146Z",
+  "timestamp": "2026-09-19T13:47:44.372781567Z",
   "model": "glm-5.3"
 }

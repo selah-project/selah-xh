@@ -5,15 +5,15 @@
   "book": "exodus",
   "lang": "xh",
   "chapter": 28,
-  "translation": "Kananjalo iintambo ezimbini zegolide ecocoliweyo, ezidityanisiweyo ekupheleni, uza kuzenza iintambo, umsebenzi wokutyabuka; kwaye uza kubeka ⟨את⟩ iintambo ezityabukileyo phezu kweendawo zokuseka.",
+  "translation": "Kwaye ii-chaini ezimbini zegolide ecocekileyo, ngokweendawo zazo ezigqibeleleyo, uza kuzenza ⟨את⟩ zona, umsebenzi wokuthoshwa; kwaye uza kubeka ⟨את⟩ ii-chaini ezithoshiweyo phezu kwezakhelo.",
   "tokens": [
     {
       "surface": "ושתי",
-      "gloss": "Kananjalo ezimbini"
+      "gloss": "kwaye ezimbini"
     },
     {
       "surface": "שרשרת",
-      "gloss": "iintambo"
+      "gloss": "ii-chaini"
     },
     {
       "surface": "זהב",
@@ -21,11 +21,11 @@
     },
     {
       "surface": "טהור",
-      "gloss": "ecocoliweyo"
+      "gloss": "ecocekileyo"
     },
     {
       "surface": "מגבלת",
-      "gloss": "ezidityanisiweyo ekupheleni"
+      "gloss": "ngokweendawo ezigqibeleleyo"
     },
     {
       "surface": "תעשה",
@@ -34,7 +34,7 @@
     {
       "surface": "אתם",
       "gloss": "⟨את⟩",
-      "marks": "iintambo"
+      "marks": "zona"
     },
     {
       "surface": "מעשה",
@@ -42,7 +42,7 @@
     },
     {
       "surface": "עבת",
-      "gloss": "wokutyabuka"
+      "gloss": "wokuthoshwa"
     },
     {
       "surface": "ונתתה",
@@ -51,25 +51,25 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "iintambo ezityabukileyo"
+      "marks": "ii-chaini ezithoshiweyo"
     },
     {
       "surface": "שרשרת",
-      "gloss": "iintambo"
+      "gloss": "ii-chaini"
     },
     {
       "surface": "העבתת",
-      "gloss": "ezityabukileyo"
+      "gloss": "ezithoshiweyo"
     },
     {
       "surface": "על",
-      "gloss": "phezu"
+      "gloss": "phezu kwa-"
     },
     {
       "surface": "המשבצת",
-      "gloss": "kweendawo zokuseka"
+      "gloss": "izakhelo"
     }
   ],
-  "timestamp": "2026-09-18T06:15:45.776340993Z",
+  "timestamp": "2026-09-19T13:52:26.368923358Z",
   "model": "glm-5.3"
 }

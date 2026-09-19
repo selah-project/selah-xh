@@ -5,11 +5,11 @@
   "book": "judges",
   "lang": "xh",
   "chapter": 6,
-  "translation": "UYowashi wathetha kuwo onke abo babemi kuye: “Ninina nilwa icala likaBhali, okanye ninina nimnceda yena? Lowo alwele yena makabulawe de kuse kusasa; ukuba nguElohim, makalwele yena ngokwakhe, kuba watshabalalisa ⟨את⟩ i-altare lakhe.”",
+  "translation": "Wathi uYowashi kuwo onke ababemi ngokuchasene naye: “Ninina niyazingela icala likaBhali? Ninina niya kumsindisa ⟨את⟩? Lowo uzakuzingela icela lakhe, makabulawe ngokufikelela ekuseni; ukuba uthixo nguye, makazingele icela lakhe ngokwakhe, kuba wadiliza ⟨את⟩ i-altare yakhe.”",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "wathetha"
+      "gloss": "wathi"
     },
     {
       "surface": "יואש",
@@ -21,15 +21,15 @@
     },
     {
       "surface": "אשר",
-      "gloss": "abo"
+      "gloss": "ababemi"
     },
     {
       "surface": "עמדו",
-      "gloss": "babemi"
+      "gloss": "ababemi"
     },
     {
       "surface": "עליו",
-      "gloss": "kuye"
+      "gloss": "ngokuchasene naye"
     },
     {
       "surface": "האתם",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "תריבון",
-      "gloss": "nilwa icala"
+      "gloss": "niyazingela icala"
     },
     {
       "surface": "לבעל",
@@ -45,7 +45,7 @@
     },
     {
       "surface": "אם",
-      "gloss": "okanye"
+      "gloss": "ukuba"
     },
     {
       "surface": "אתם",
@@ -53,11 +53,12 @@
     },
     {
       "surface": "תושיעון",
-      "gloss": "nimnceda"
+      "gloss": "niya kumsindisa"
     },
     {
       "surface": "אותו",
-      "gloss": "⟨את⟩ yena"
+      "gloss": "⟨את⟩",
+      "marks": "yena (uBhali)"
     },
     {
       "surface": "אשר",
@@ -65,11 +66,11 @@
     },
     {
       "surface": "יריב",
-      "gloss": "alwele"
+      "gloss": "uzakuzingela icela"
     },
     {
       "surface": "לו",
-      "gloss": "yena"
+      "gloss": "lakhe"
     },
     {
       "surface": "יומת",
@@ -77,11 +78,11 @@
     },
     {
       "surface": "עד",
-      "gloss": "de"
+      "gloss": "ngokufikelela"
     },
     {
       "surface": "הבקר",
-      "gloss": "kuse kusasa"
+      "gloss": "ekuseni"
     },
     {
       "surface": "אם",
@@ -89,7 +90,7 @@
     },
     {
       "surface": "אלהים",
-      "gloss": "uElohim"
+      "gloss": "uthixo"
     },
     {
       "surface": "הוא",
@@ -97,11 +98,11 @@
     },
     {
       "surface": "ירב",
-      "gloss": "makalwele"
+      "gloss": "makazingele icela"
     },
     {
       "surface": "לו",
-      "gloss": "yena"
+      "gloss": "lakhe"
     },
     {
       "surface": "כי",
@@ -109,18 +110,18 @@
     },
     {
       "surface": "נתץ",
-      "gloss": "watshabalalisa"
+      "gloss": "wadiliza"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "i-altare lakhe"
+      "marks": "i-altare yakhe"
     },
     {
       "surface": "מזבחו",
-      "gloss": "i-altare lakhe"
+      "gloss": "i-altare yakhe"
     }
   ],
-  "timestamp": "2026-09-18T08:56:02.038197936Z",
+  "timestamp": "2026-09-19T14:05:04.069004063Z",
   "model": "glm-5.3"
 }

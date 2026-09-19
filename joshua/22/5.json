@@ -5,19 +5,19 @@
   "book": "joshua",
   "lang": "xh",
   "chapter": 22,
-  "translation": "Kuphela ligcineni kakuhle ukwenza ⟨את⟩ umyalelo nge-Tora uMoshe wayalela ⟨את⟩ phezu kwenu, inkonzi kaYahwe: ukuthanda uYahwe uElohim wenu, ukuhamba ezindleleni zakhe zonke, ukugcina imiyalelo yakhe, ukunamatshela kuye, nokumnikela inkonzo ngenhliziyo yenu yonke nangomphefumlo wenu wonke.",
+  "translation": "Kuphela zilumkele ngokwenene ukwenza ⟨את⟩ umyalelo ⟨את⟩ neTora awayalele ⟨את⟩ nina uMoshe, inkonzi kaYahwe: ukuthanda ⟨את⟩ uYahwe uElohim wenu, ukuhamba kuzo zonke iindlela zakhe, ukugcina imiyalelo yakhe, ukunamathela kuye, nokumkhonza ngeentliziyo zenu zonke nangemiphefumlo yenu wonke.",
   "tokens": [
     {
       "surface": "רק",
-      "gloss": "kuphela"
+      "gloss": "Kuphela"
     },
     {
       "surface": "שמרו",
-      "gloss": "ligcineni"
+      "gloss": "zilumkele"
     },
     {
       "surface": "מאד",
-      "gloss": "kakuhle"
+      "gloss": "ngokwenene"
     },
     {
       "surface": "לעשות",
@@ -34,7 +34,7 @@
     },
     {
       "surface": "ואת",
-      "gloss": "nge-⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "iTora"
     },
     {
@@ -43,15 +43,16 @@
     },
     {
       "surface": "אשר",
-      "gloss": "oyalelayo"
+      "gloss": "⟨o⟩"
     },
     {
       "surface": "צוה",
-      "gloss": "wayalela"
+      "gloss": "awayalele"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ phezu kwenu"
+      "gloss": "⟨את⟩",
+      "marks": "nina"
     },
     {
       "surface": "משה",
@@ -88,11 +89,11 @@
     },
     {
       "surface": "בכל",
-      "gloss": "kuzo"
+      "gloss": "kuzo zonke"
     },
     {
       "surface": "דרכיו",
-      "gloss": "indleleni zakhe zonke"
+      "gloss": "iindlela zakhe"
     },
     {
       "surface": "ולשמר",
@@ -104,7 +105,7 @@
     },
     {
       "surface": "ולדבקה",
-      "gloss": "ukunamatshela"
+      "gloss": "ukunamathela"
     },
     {
       "surface": "בו",
@@ -112,25 +113,25 @@
     },
     {
       "surface": "ולעבדו",
-      "gloss": "ukumnikela inkonzo"
+      "gloss": "nokumkhonza"
     },
     {
       "surface": "בכל",
-      "gloss": "ngenhliziyo"
+      "gloss": "zonke"
     },
     {
       "surface": "לבבכם",
-      "gloss": "yenu yonke"
+      "gloss": "ngeentliziyo zenu"
     },
     {
       "surface": "ובכל",
-      "gloss": "nangomphefumlo"
+      "gloss": "nange"
     },
     {
       "surface": "נפשכם",
-      "gloss": "wenu wonke"
+      "gloss": "imiphefumlo yenu wonke"
     }
   ],
-  "timestamp": "2026-09-18T08:44:26.947800196Z",
+  "timestamp": "2026-09-19T14:03:04.295728210Z",
   "model": "glm-5.3"
 }

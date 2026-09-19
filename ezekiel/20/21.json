@@ -5,15 +5,15 @@
   "book": "ezekiel",
   "lang": "xh",
   "chapter": 20,
-  "translation": "Kodwa abantwana bayanyalukela kum; a bahambanga kwimigaqo yam, yaye imimiselo yam ⟨את⟩ abayigcinanga ukwenza ⟨את⟩, into umntu ayenzayo ethi aphile ngayo; iisabata zam ⟨את⟩ bazificule; ndaza ndathi ndiza kuchitha ulaka lwam phezu kwabo, ukugqibela ukuvuthoza kolaka lwam ngabo entlangweni.",
+  "translation": "Kodwa abantwana bavukela ndim: kwimimiselo yam abahambanga, ⟨את⟩ izigwebo zam abazigcinanga ukuzenza, umntu xa azenza aze aphilа ngazo; iintsuku zam zokuphumla bazichaphazela. Ndathi ndiza kutshicilela umsindo wam phezu kwabo, ukupheda ulaka lwam kubo elangeni.",
   "tokens": [
     {
       "surface": "וימרו",
-      "gloss": "bayanyalukela"
+      "gloss": "bavukela"
     },
     {
       "surface": "בי",
-      "gloss": "kum"
+      "gloss": "ndim"
     },
     {
       "surface": "הבנים",
@@ -21,49 +21,49 @@
     },
     {
       "surface": "בחקותי",
-      "gloss": "kwimigaqo yam"
+      "gloss": "kwimimiselo yam"
     },
     {
       "surface": "לא",
-      "gloss": "a-"
+      "gloss": "hayi"
     },
     {
       "surface": "הלכו",
-      "gloss": "bahambanga"
+      "gloss": "abahambanga"
     },
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "imimiselo yam"
+      "marks": "izigwebo zam"
     },
     {
       "surface": "משפטי",
-      "gloss": "imimiselo yam"
+      "gloss": "izigwebo zam"
     },
     {
       "surface": "לא",
-      "gloss": "a-"
+      "gloss": "hayi"
     },
     {
       "surface": "שמרו",
-      "gloss": "bayigcinanga"
+      "gloss": "abazigcinanga"
     },
     {
       "surface": "לעשות",
-      "gloss": "ukwenza"
+      "gloss": "ukuzenza"
     },
     {
       "surface": "אותם",
       "gloss": "⟨את⟩",
-      "marks": "ukwenza"
+      "marks": "izigwebo"
     },
     {
       "surface": "אשר",
-      "gloss": "le into"
+      "gloss": "xa"
     },
     {
       "surface": "יעשה",
-      "gloss": "ayenzayo"
+      "gloss": "azenza"
     },
     {
       "surface": "אותם",
@@ -76,36 +76,36 @@
     },
     {
       "surface": "וחי",
-      "gloss": "aphile"
+      "gloss": "aze aphilа"
     },
     {
       "surface": "בהם",
-      "gloss": "ngayo"
+      "gloss": "ngazo"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "iisabata zam"
+      "marks": "iintsuku zam zokuphumla"
     },
     {
       "surface": "שבתותי",
-      "gloss": "iisabata zam"
+      "gloss": "iintsuku zam zokuphumla"
     },
     {
       "surface": "חללו",
-      "gloss": "bazificule"
+      "gloss": "bazichaphazela"
     },
     {
       "surface": "ואמר",
-      "gloss": "ndaza ndathi"
+      "gloss": "ndathi"
     },
     {
       "surface": "לשפך",
-      "gloss": "ukuchitha"
+      "gloss": "ukutshicilela"
     },
     {
       "surface": "חמתי",
-      "gloss": "ulaka lwam"
+      "gloss": "umsindo wam"
     },
     {
       "surface": "עליהם",
@@ -113,21 +113,21 @@
     },
     {
       "surface": "לכלות",
-      "gloss": "ukugqibela"
+      "gloss": "ukupheda"
     },
     {
       "surface": "אפי",
-      "gloss": "ukuvuthoza kolaka lwam"
+      "gloss": "ulaka lwam"
     },
     {
       "surface": "בם",
-      "gloss": "ngabo"
+      "gloss": "kubo"
     },
     {
       "surface": "במדבר",
-      "gloss": "entlangweni"
+      "gloss": "elangeni"
     }
   ],
-  "timestamp": "2026-09-18T13:09:27.706037489Z",
+  "timestamp": "2026-09-19T13:53:49.408550045Z",
   "model": "glm-5.3"
 }

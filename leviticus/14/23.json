@@ -5,7 +5,7 @@
   "book": "leviticus",
   "lang": "xh",
   "chapter": 14,
-  "translation": "Aze azise ngomhla wesibhozo, ukucocwa kwakhe, kumongameli, esiphelweni sendlela yetente yomdibano, phambi kukaYahwe.",
+  "translation": "Aze azise ⟨את⟩ ngemini yesibhozo, ngokucoca kwakhe, kumpristi, emnyangweni wehema lomdibano, phambi koYahwe.",
   "tokens": [
     {
       "surface": "והביא",
@@ -13,53 +13,54 @@
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩ zo"
+      "gloss": "⟨את⟩",
+      "marks": "ngemini (yesibhozo)"
     },
     {
       "surface": "ביום",
-      "gloss": "ngomhla"
+      "gloss": "ngemini"
     },
     {
       "surface": "השמיני",
-      "gloss": "wesibhozo"
+      "gloss": "yesibhozo"
     },
     {
       "surface": "לטהרתו",
-      "gloss": "ukucocwa kwakhe"
+      "gloss": "ngokucoca kwakhe"
     },
     {
       "surface": "אל",
-      "gloss": "ku-"
+      "gloss": "ku"
     },
     {
       "surface": "הכהן",
-      "gloss": "mongameli"
+      "gloss": "umpristi"
     },
     {
       "surface": "אל",
-      "gloss": "esiphelweni se-"
+      "gloss": "emnyangweni"
     },
     {
       "surface": "פתח",
-      "gloss": "indlela"
+      "gloss": "umnyango"
     },
     {
       "surface": "אהל",
-      "gloss": "yetente"
+      "gloss": "wehema"
     },
     {
       "surface": "מועד",
-      "gloss": "yomdibano"
+      "gloss": "lomdibano"
     },
     {
       "surface": "לפני",
-      "gloss": "phambi kuka-"
+      "gloss": "phambi"
     },
     {
       "surface": "יהוה",
-      "gloss": "uYahwe"
+      "gloss": "koYahwe"
     }
   ],
-  "timestamp": "2026-09-18T06:50:40.304392246Z",
+  "timestamp": "2026-09-19T14:06:07.553731240Z",
   "model": "glm-5.3"
 }

@@ -5,11 +5,11 @@
   "book": "2-kings",
   "lang": "xh",
   "chapter": 1,
-  "translation": "Bathetha kuye: “Umntu wenyukela ukusifumana, waza wathetha kuthi: Hambani, phindelani kwi⟨the⟩nkosi elithumela ngani, nithethe kuye: UYahwe wathi: Ingaba kuba akakho ⟨the⟩uElohim kwaSirayeli, wena uthumela ukubuza kuBhali-Zebhubhu, uthixo weEkroni? Ngoko imbelde awuyi kuhlisuka kuyo, kuba uza kufa ngokwenene.”",
+  "translation": "Bathi kuye: “Umnye umntu wenyuka wasibamba nendlela, wathi kuthi: ‘Hambani, buyelani kwi⟨the⟩nkosi owanithumela yona ⟨את⟩, nithethe kuye ukuba: Kutsho uYahwe: Ngaba kungenxa yokuba akukho uElohim kwaIsrayeli, wena uthuma ukuba kubuzwe kwiBaal-Zevuvh, uthixo waseEkron? Ngoko ibhedi owenyukela kuyo, awunakwehla kuwo, kuba uya kufa ngokwenene.’”",
   "tokens": [
     {
       "surface": "ויאמרו",
-      "gloss": "bathetha"
+      "gloss": "bathi"
     },
     {
       "surface": "אליו",
@@ -17,19 +17,19 @@
     },
     {
       "surface": "איש",
-      "gloss": "umntu"
+      "gloss": "umnye umntu"
     },
     {
       "surface": "עלה",
-      "gloss": "wenyukela"
+      "gloss": "wenyuka"
     },
     {
       "surface": "לקראתנו",
-      "gloss": "ukusifumana"
+      "gloss": "wasibamba nendlela"
     },
     {
       "surface": "ויאמר",
-      "gloss": "wathetha"
+      "gloss": "wathi"
     },
     {
       "surface": "אלינו",
@@ -41,11 +41,11 @@
     },
     {
       "surface": "שובו",
-      "gloss": "phindelani"
+      "gloss": "buyelani"
     },
     {
       "surface": "אל",
-      "gloss": "ku"
+      "gloss": "ku-"
     },
     {
       "surface": "המלך",
@@ -53,16 +53,16 @@
     },
     {
       "surface": "אשר",
-      "gloss": "elo"
+      "gloss": "owo"
     },
     {
       "surface": "שלח",
-      "gloss": "lithumela"
+      "gloss": "wanithumela"
     },
     {
       "surface": "אתכם",
       "gloss": "⟨את⟩",
-      "marks": "ni"
+      "marks": "nina"
     },
     {
       "surface": "ודברתם",
@@ -74,11 +74,11 @@
     },
     {
       "surface": "כה",
-      "gloss": "njalo"
+      "gloss": "kutsho"
     },
     {
       "surface": "אמר",
-      "gloss": "uthi"
+      "gloss": "utsho"
     },
     {
       "surface": "יהוה",
@@ -86,11 +86,11 @@
     },
     {
       "surface": "המבלי",
-      "gloss": "ingaba"
+      "gloss": "ngaba kungenxa yokuba"
     },
     {
       "surface": "אין",
-      "gloss": "akakho"
+      "gloss": "akukho"
     },
     {
       "surface": "אלהים",
@@ -98,7 +98,7 @@
     },
     {
       "surface": "בישראל",
-      "gloss": "kwaSirayeli"
+      "gloss": "kwaIsrayeli"
     },
     {
       "surface": "אתה",
@@ -106,19 +106,19 @@
     },
     {
       "surface": "שלח",
-      "gloss": "uthumela"
+      "gloss": "uthuma"
     },
     {
       "surface": "לדרש",
-      "gloss": "ukubuza"
+      "gloss": "ukuba kubuzwe"
     },
     {
       "surface": "בבעל",
-      "gloss": "kuBhali-"
+      "gloss": "kwiBaal-"
     },
     {
       "surface": "זבוב",
-      "gloss": "Zebhubhu"
+      "gloss": "Zevuvh"
     },
     {
       "surface": "אלהי",
@@ -126,7 +126,7 @@
     },
     {
       "surface": "עקרון",
-      "gloss": "weEkroni"
+      "gloss": "waseEkron"
     },
     {
       "surface": "לכן",
@@ -134,15 +134,15 @@
     },
     {
       "surface": "המטה",
-      "gloss": "imbelde"
+      "gloss": "ibhedi"
     },
     {
       "surface": "אשר",
-      "gloss": "ayiyo"
+      "gloss": "owo"
     },
     {
       "surface": "עלית",
-      "gloss": "wenyukele"
+      "gloss": "owenyukela"
     },
     {
       "surface": "שם",
@@ -150,15 +150,15 @@
     },
     {
       "surface": "לא",
-      "gloss": "hayi"
+      "gloss": "awunaku-"
     },
     {
       "surface": "תרד",
-      "gloss": "awuyi kuhlisuka"
+      "gloss": "wehla"
     },
     {
       "surface": "ממנה",
-      "gloss": "kuyo"
+      "gloss": "kuwo"
     },
     {
       "surface": "כי",
@@ -166,13 +166,13 @@
     },
     {
       "surface": "מות",
-      "gloss": "ufa"
+      "gloss": "uya kufa"
     },
     {
       "surface": "תמות",
-      "gloss": "uza kufa"
+      "gloss": "ngokwenene"
     }
   ],
-  "timestamp": "2026-09-18T10:38:39.263729036Z",
+  "timestamp": "2026-09-19T13:46:54.720372166Z",
   "model": "glm-5.3"
 }

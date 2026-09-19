@@ -5,7 +5,7 @@
   "book": "1-kings",
   "lang": "xh",
   "chapter": 21,
-  "translation": "Wabhala iileta ngegama lika-Ahabi, wazityala ngesitya sakhe, wazithumela iileta kumadala nakwii-nkosi ezikwisixeko sakhe, ezihlala kunye noNavoti.",
+  "translation": "Wabhala iileta ngegama lika-Axav, wazitya ngesigqinisa sakhe, wazithumela ezi nleta koomdala nakwiizikhulu ezazingasesixekweni sakhe, abahlala ⟨את⟩ uNovota.",
   "tokens": [
     {
       "surface": "ותכתב",
@@ -21,15 +21,15 @@
     },
     {
       "surface": "אחאב",
-      "gloss": "lika-Ahabi"
+      "gloss": "lika-Axav"
     },
     {
       "surface": "ותחתם",
-      "gloss": "wazityala"
+      "gloss": "wazitya"
     },
     {
       "surface": "בחתמו",
-      "gloss": "ngesitya sakhe"
+      "gloss": "ngesigqinisa sakhe"
     },
     {
       "surface": "ותשלח",
@@ -37,45 +37,46 @@
     },
     {
       "surface": "הספרים",
-      "gloss": "iileta"
+      "gloss": "ezi nleta"
     },
     {
       "surface": "אל",
-      "gloss": "ku"
+      "gloss": "ku-"
     },
     {
       "surface": "הזקנים",
-      "gloss": "amadala"
+      "gloss": "oomdala"
     },
     {
       "surface": "ואל",
-      "gloss": "nakwi"
+      "gloss": "naku-"
     },
     {
       "surface": "החרים",
-      "gloss": "ii-nkosi"
+      "gloss": "iizikhulu"
     },
     {
       "surface": "אשר",
-      "gloss": "ezi"
+      "gloss": "aba"
     },
     {
       "surface": "בעירו",
-      "gloss": "kwisixeko sakhe"
+      "gloss": "esixekweni sakhe"
     },
     {
       "surface": "הישבים",
-      "gloss": "ezihlala"
+      "gloss": "abahlala"
     },
     {
       "surface": "את",
-      "gloss": "⟨את⟩ kunye no"
+      "gloss": "⟨את⟩",
+      "marks": "uNovota"
     },
     {
       "surface": "נבות",
-      "gloss": "uNavoti"
+      "gloss": "uNovota"
     }
   ],
-  "timestamp": "2026-09-18T10:35:21.573819209Z",
+  "timestamp": "2026-09-19T13:43:00.532304334Z",
   "model": "glm-5.3"
 }

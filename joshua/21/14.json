@@ -5,11 +5,11 @@
   "book": "joshua",
   "lang": "xh",
   "chapter": 21,
-  "translation": "kunye ⟨את⟩ iYatiri kunye nengingqi yayo, kunye ⟨את⟩ i-Eshtemoa kunye nengingqi yayo.",
+  "translation": "naye ⟨את⟩ iYatiri kunye neemigqa yayo, naye ⟨את⟩ iEshtemoa kunye neemigqa yayo,",
   "tokens": [
     {
       "surface": "ואת",
-      "gloss": "kunye ⟨את⟩",
+      "gloss": "naye ⟨את⟩",
       "marks": "iYatiri"
     },
     {
@@ -18,32 +18,32 @@
     },
     {
       "surface": "ואת",
-      "gloss": "kunye ⟨את⟩",
-      "marks": "nengingqi yayo"
+      "gloss": "kunye ne-⟨את⟩",
+      "marks": "iimigqa yayo"
     },
     {
       "surface": "מגרשה",
-      "gloss": "nengingqi yayo"
+      "gloss": "iimigqa yayo"
     },
     {
       "surface": "ואת",
-      "gloss": "kunye ⟨את⟩",
-      "marks": "i-Eshtemoa"
+      "gloss": "naye ⟨את⟩",
+      "marks": "iEshtemoa"
     },
     {
       "surface": "אשתמע",
-      "gloss": "i-Eshtemoa"
+      "gloss": "iEshtemoa"
     },
     {
       "surface": "ואת",
-      "gloss": "kunye ⟨את⟩",
-      "marks": "nengingqi yayo"
+      "gloss": "kunye ne-⟨את⟩",
+      "marks": "iimigqa yayo"
     },
     {
       "surface": "מגרשה",
-      "gloss": "nengingqi yayo"
+      "gloss": "iimigqa yayo"
     }
   ],
-  "timestamp": "2026-09-18T08:43:42.957765197Z",
+  "timestamp": "2026-09-19T14:02:14.899108003Z",
   "model": "glm-5.3"
 }

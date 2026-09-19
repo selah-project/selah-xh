@@ -5,11 +5,11 @@
   "book": "deuteronomy",
   "lang": "xh",
   "chapter": 8,
-  "translation": "Kananjalo wenga uthi entliziyweni yakho: Amandla am ngokwam, namandla esandla sam, andenzela le nto ndinamleyo.",
+  "translation": "Uze uthi entliziyweni yakho: Amandla am ngam, namandla esandla sam endawo yam enze le nkosi ⟨את⟩ lobuninzi.",
   "tokens": [
     {
       "surface": "ואמרת",
-      "gloss": "wenga uthi"
+      "gloss": "uze uthi"
     },
     {
       "surface": "בלבבך",
@@ -29,26 +29,26 @@
     },
     {
       "surface": "עשה",
-      "gloss": "andenzela"
+      "gloss": "enzile"
     },
     {
       "surface": "לי",
-      "gloss": "ndinamleyo"
+      "gloss": "endawo yam"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ubutyebi obu (החיל)"
+      "marks": "lobuninzi (החיל)"
     },
     {
       "surface": "החיל",
-      "gloss": "ubutyebi obu"
+      "gloss": "lobuninzi"
     },
     {
       "surface": "הזה",
-      "gloss": "eli"
+      "gloss": "le"
     }
   ],
-  "timestamp": "2026-09-18T08:03:35.723328203Z",
+  "timestamp": "2026-09-19T13:50:47.241570291Z",
   "model": "glm-5.3"
 }

@@ -5,16 +5,16 @@
   "book": "2-kings",
   "lang": "xh",
   "chapter": 19,
-  "translation": "Ngaba oothixo bezizwe basindise ⟨את⟩ ezo, abazichithayo ooyise bam — iGowzani, ⟨את⟩ neHaran, noRetsefu, neenkosana zase-Edeni, ezaziseTelashari?",
+  "translation": "Ngaba oothixo bezizwe abasindisanga ⟨את⟩ ezo ⟨את⟩ iindawo ooyise babethabatha? — iGowzani, nangeHaran, naseRetsefu, nabanabantwana beEdeni ababeleThelashari.",
   "tokens": [
     {
       "surface": "ההצילו",
-      "gloss": "Ngaba basindise"
+      "gloss": "ngaba basindisanga"
     },
     {
       "surface": "אתם",
       "gloss": "⟨את⟩",
-      "marks": "ezo"
+      "marks": "ezo (oothixo bezizwe)"
     },
     {
       "surface": "אלהי",
@@ -30,16 +30,16 @@
     },
     {
       "surface": "שחתו",
-      "gloss": "abazichithayo"
+      "gloss": "abethabatha"
     },
     {
       "surface": "אבותי",
-      "gloss": "ooyise bam"
+      "gloss": "ooyise"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "iGowzani"
+      "marks": "iindawo \/ iGowzani"
     },
     {
       "surface": "גוזן",
@@ -47,7 +47,7 @@
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩ ne-",
+      "gloss": "⟨את⟩ nange",
       "marks": "iHaran"
     },
     {
@@ -56,25 +56,25 @@
     },
     {
       "surface": "ורצף",
-      "gloss": "noRetsefu"
+      "gloss": "naseRetsefu"
     },
     {
       "surface": "ובני",
-      "gloss": "neenkosana"
+      "gloss": "nabanabantwana"
     },
     {
       "surface": "עדן",
-      "gloss": "zase-Edeni"
+      "gloss": "beEdeni"
     },
     {
       "surface": "אשר",
-      "gloss": "ezazise"
+      "gloss": "aba"
     },
     {
       "surface": "בתלאשר",
-      "gloss": "Telashari"
+      "gloss": "beleThelashari"
     }
   ],
-  "timestamp": "2026-09-18T10:51:59.172272430Z",
+  "timestamp": "2026-09-19T13:46:36.523782397Z",
   "model": "glm-5.3"
 }

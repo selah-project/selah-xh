@@ -5,16 +5,16 @@
   "book": "leviticus",
   "lang": "xh",
   "chapter": 11,
-  "translation": "Kodwa le ⟨את⟩ angayidla kwezo ziphakamisa i-cud nakwezo zehlazahlazayo: ingcamel — kuba iphakamisa i-cud, kodwa ayihlahli ihlazi; ingcangatale yona kuni.",
+  "translation": "Kodwa ⟨את⟩ le aniyi kudla phakathi kwabamalisa ⟨את⟩ ingcungcuthe nakwabaqhuba unqwenqwene: ⟨את⟩ ingamela, kuba iyamalisa ingcungcuthe kodwa unqwenqwene awuahlukanisi; yingcoli kuni.",
   "tokens": [
     {
       "surface": "אך",
-      "gloss": "Kodwa"
+      "gloss": "kodwa"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "le (into engayidliwayo)"
+      "marks": "le"
     },
     {
       "surface": "זה",
@@ -22,36 +22,36 @@
     },
     {
       "surface": "לא",
-      "gloss": "anga"
+      "gloss": "hayi"
     },
     {
       "surface": "תאכלו",
-      "gloss": "yidla"
+      "gloss": "aniyi kudla"
     },
     {
       "surface": "ממעלי",
-      "gloss": "kwezo ziphakamisa"
+      "gloss": "kwabamalisa"
     },
     {
       "surface": "הגרה",
-      "gloss": "i-cud"
+      "gloss": "ingcungcuthe"
     },
     {
       "surface": "וממפריסי",
-      "gloss": "nakwezo zehlazahlazayo"
+      "gloss": "nakwabaqhuba unqwenqwene"
     },
     {
       "surface": "הפרסה",
-      "gloss": "ihlazi"
+      "gloss": "unqwenqwene"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ingcamel"
+      "marks": "ingamela"
     },
     {
       "surface": "הגמל",
-      "gloss": "ingcamel"
+      "gloss": "ingamela"
     },
     {
       "surface": "כי",
@@ -59,11 +59,11 @@
     },
     {
       "surface": "מעלה",
-      "gloss": "iphakamisa"
+      "gloss": "iyamalisa"
     },
     {
       "surface": "גרה",
-      "gloss": "i-cud"
+      "gloss": "ingcungcuthe"
     },
     {
       "surface": "הוא",
@@ -71,19 +71,19 @@
     },
     {
       "surface": "ופרסה",
-      "gloss": "kodwa ihlazi"
+      "gloss": "unqwenqwene"
     },
     {
       "surface": "איננו",
-      "gloss": "ayihlahli"
+      "gloss": "awenzi"
     },
     {
       "surface": "מפריס",
-      "gloss": "ihlazahlazi"
+      "gloss": "ukuwahlukanisa"
     },
     {
       "surface": "טמא",
-      "gloss": "ingcangatale"
+      "gloss": "ingcoli"
     },
     {
       "surface": "הוא",
@@ -94,6 +94,6 @@
       "gloss": "kuni"
     }
   ],
-  "timestamp": "2026-09-18T06:42:52.296257079Z",
+  "timestamp": "2026-09-19T14:06:03.838003648Z",
   "model": "glm-5.3"
 }

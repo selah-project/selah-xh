@@ -5,19 +5,19 @@
   "book": "ezekiel",
   "lang": "xh",
   "chapter": 33,
-  "translation": "Kananjalo nina nithi: indlela ka-Adonayi ayilingananga. Ngesiqu ngamnye ngokweendlela zakhe ndiza kunigweba, nina ntlu kaSirayeli.",
+  "translation": "Kananjalo nithi: “Indlela ka-Adonayi ayilunganga.” Ndingumntu ngamnye ngokwezindlela zakhe ndiza kugweba ⟨את⟩ nina, noncwadi lakwa-Israyeli.",
   "tokens": [
     {
       "surface": "ואמרתם",
-      "gloss": "nithi"
+      "gloss": "kananjalo nithi"
     },
     {
       "surface": "לא",
-      "gloss": "hayi"
+      "gloss": "ayi-"
     },
     {
       "surface": "יתכן",
-      "gloss": "ayilingananga"
+      "gloss": "lungangi (ayilingani)"
     },
     {
       "surface": "דרך",
@@ -29,30 +29,30 @@
     },
     {
       "surface": "איש",
-      "gloss": "ngesiqu ngamnye"
+      "gloss": "umntu ngamnye"
     },
     {
       "surface": "כדרכיו",
-      "gloss": "ngokweendlela zakhe"
+      "gloss": "ngokwezindlela zakhe"
     },
     {
       "surface": "אשפוט",
-      "gloss": "ndiza kunigweba"
+      "gloss": "ndiza kugweba"
     },
     {
       "surface": "אתכם",
       "gloss": "⟨את⟩",
-      "marks": "nina"
+      "marks": "nina, noncwadi lakwa-Israyeli"
     },
     {
       "surface": "בית",
-      "gloss": "ntlu"
+      "gloss": "noncwadi"
     },
     {
       "surface": "ישראל",
-      "gloss": "kaSirayeli"
+      "gloss": "lakwa-Israyeli"
     }
   ],
-  "timestamp": "2026-09-18T13:21:40.216701290Z",
+  "timestamp": "2026-09-19T13:55:01.818535451Z",
   "model": "glm-5.3"
 }

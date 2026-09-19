@@ -5,15 +5,15 @@
   "book": "joshua",
   "lang": "xh",
   "chapter": 20,
-  "translation": "Abalekele kwenye yale maziko, aze emi kwingungqo yesango sesiko, athethe kwindlebe zee-ntliziyo zeengcwele zeso sixeko izinto zakhe, besibamkele esikweni kubo, bamkele indawo, ahlale nabo.",
+  "translation": "Aze abaleke kwenye yale mizi, eme emnyangweni wesango lomzi lo, athethe ⟨את⟩ amazwi akhe ezindlebeni zoononke yalo mzi lo, bamkele ⟨אתו⟩ kulo mzi kubo, bamnike indawo, aze ahlale nom.",
   "tokens": [
     {
       "surface": "ונס",
-      "gloss": "Abalekele"
+      "gloss": "aze abaleke"
     },
     {
       "surface": "אל",
-      "gloss": "ku"
+      "gloss": "ku-"
     },
     {
       "surface": "אחת",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "מהערים",
-      "gloss": "yale maziko"
+      "gloss": "yale mizi"
     },
     {
       "surface": "האלה",
@@ -29,19 +29,19 @@
     },
     {
       "surface": "ועמד",
-      "gloss": "aze emi"
+      "gloss": "eme"
     },
     {
       "surface": "פתח",
-      "gloss": "kwingungqo"
+      "gloss": "emnyangweni"
     },
     {
       "surface": "שער",
-      "gloss": "yesango"
+      "gloss": "wesango"
     },
     {
       "surface": "העיר",
-      "gloss": "sesiko"
+      "gloss": "lomzi lo"
     },
     {
       "surface": "ודבר",
@@ -49,41 +49,41 @@
     },
     {
       "surface": "באזני",
-      "gloss": "kwindlebe zee-ntliziyo"
+      "gloss": "ezindlebeni"
     },
     {
       "surface": "זקני",
-      "gloss": "zeengcwele zika"
+      "gloss": "zoononke"
     },
     {
       "surface": "העיר",
-      "gloss": "seso sixeko"
+      "gloss": "yalo mzi"
     },
     {
       "surface": "ההיא",
-      "gloss": "eso"
+      "gloss": "lo"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "izinto zakhe"
+      "marks": "amazwi akhe"
     },
     {
       "surface": "דבריו",
-      "gloss": "izinto zakhe"
+      "gloss": "amazwi akhe"
     },
     {
       "surface": "ואספו",
-      "gloss": "besibamkele"
+      "gloss": "bamkele"
     },
     {
       "surface": "אתו",
       "gloss": "⟨אתו⟩",
-      "marks": "esikweni"
+      "marks": "yena"
     },
     {
       "surface": "העירה",
-      "gloss": "esikweni"
+      "gloss": "kulo mzi"
     },
     {
       "surface": "אליהם",
@@ -91,11 +91,11 @@
     },
     {
       "surface": "ונתנו",
-      "gloss": "bamkele"
+      "gloss": "bamnike"
     },
     {
       "surface": "לו",
-      "gloss": "ye"
+      "gloss": "-m-"
     },
     {
       "surface": "מקום",
@@ -103,13 +103,13 @@
     },
     {
       "surface": "וישב",
-      "gloss": "ahlale"
+      "gloss": "aze ahlale"
     },
     {
       "surface": "עמם",
-      "gloss": "nabo"
+      "gloss": "nom"
     }
   ],
-  "timestamp": "2026-09-18T08:43:03.012893668Z",
+  "timestamp": "2026-09-19T14:03:04.636504424Z",
   "model": "glm-5.3"
 }

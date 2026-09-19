@@ -5,7 +5,7 @@
   "book": "joshua",
   "lang": "xh",
   "chapter": 19,
-  "translation": "Waphuma umda woonyana kaDan kubo, basa kunyuka oonyana kaDan, balwa neLeshemi, bayibamba, bayibetha ngomlomo wekrele, bayalfa, bahlala kuyo, bayibiza iLeshemi uDan, njengokwakwaDan uyise wabo.",
+  "translation": "Waphuma umda wabantwana kaDan phakathi kwawo, benyuke abantwana baDan balwe naye iLeshem, bayithabathe ⟨את⟩, bayibethela ngomhlathi wolwandle ⟨את⟩ lelizo ngesika, bamamkela ilifa ⟨את⟩, bahlala kulo, babiza iLeshem ngokuthi yiDan, njengesiDan sokukaDan uyise.",
   "tokens": [
     {
       "surface": "ויצא",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "בני",
-      "gloss": "woonyana"
+      "gloss": "abantwana"
     },
     {
       "surface": "דן",
@@ -25,39 +25,40 @@
     },
     {
       "surface": "מהם",
-      "gloss": "kubo"
+      "gloss": "phakathi kwawo"
     },
     {
       "surface": "ויעלו",
-      "gloss": "basa kunyuka"
+      "gloss": "benyuke"
     },
     {
       "surface": "בני",
-      "gloss": "oonyana"
+      "gloss": "abantwana"
     },
     {
       "surface": "דן",
-      "gloss": "kaDan"
+      "gloss": "baDan"
     },
     {
       "surface": "וילחמו",
-      "gloss": "balwa"
+      "gloss": "balwe"
     },
     {
       "surface": "עם",
-      "gloss": "ne"
+      "gloss": "naye"
     },
     {
       "surface": "לשם",
-      "gloss": "iLeshemi"
+      "gloss": "iLeshem"
     },
     {
       "surface": "וילכדו",
-      "gloss": "bayibamba"
+      "gloss": "bayithabathe"
     },
     {
       "surface": "אותה",
-      "gloss": "⟨את⟩ yona"
+      "gloss": "⟨את⟩",
+      "marks": "iLeshem"
     },
     {
       "surface": "ויכו",
@@ -65,23 +66,25 @@
     },
     {
       "surface": "אותה",
-      "gloss": "⟨את⟩ yona"
+      "gloss": "⟨את⟩",
+      "marks": "iLeshem"
     },
     {
       "surface": "לפי",
-      "gloss": "ngomlomo"
+      "gloss": "ngomhlathi"
     },
     {
       "surface": "חרב",
-      "gloss": "wekrele"
+      "gloss": "wolwandle"
     },
     {
       "surface": "וירשו",
-      "gloss": "bayalfa"
+      "gloss": "bamamkela ilifa"
     },
     {
       "surface": "אותה",
-      "gloss": "⟨את⟩ yona"
+      "gloss": "⟨את⟩",
+      "marks": "iLeshem"
     },
     {
       "surface": "וישבו",
@@ -89,23 +92,23 @@
     },
     {
       "surface": "בה",
-      "gloss": "kuyo"
+      "gloss": "kulo"
     },
     {
       "surface": "ויקראו",
-      "gloss": "bayibiza"
+      "gloss": "babiza"
     },
     {
       "surface": "ללשם",
-      "gloss": "iLeshemi"
+      "gloss": "iLeshem"
     },
     {
       "surface": "דן",
-      "gloss": "uDan"
+      "gloss": "yiDan"
     },
     {
       "surface": "כשם",
-      "gloss": "njengokwakwa"
+      "gloss": "njengesi"
     },
     {
       "surface": "דן",
@@ -113,9 +116,9 @@
     },
     {
       "surface": "אביהם",
-      "gloss": "uyise wabo"
+      "gloss": "uyise"
     }
   ],
-  "timestamp": "2026-09-18T08:43:08.037855721Z",
+  "timestamp": "2026-09-19T14:02:47.268117475Z",
   "model": "glm-5.3"
 }

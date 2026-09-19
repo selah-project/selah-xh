@@ -5,11 +5,12 @@
   "book": "genesis",
   "lang": "xh",
   "chapter": 9,
-  "translation": "nangaba ⟨את⟩ nabani zonke iintyhefu eziphefumlayo ezikho nani — ezintakeni, ezinkomeni, nakuzo zonke izilwanyana zomhlaba ezikho nani — kuzo zonke eziphuma kwiteyibha, kuzo zonke izilwanyana zomhlaba.",
+  "translation": "Nakunye ⟨את⟩ nazo zonke izidalwa eziphefumlayo eziphilayo ezikunye nani — ezinyonyaneni, ezinkomeni, nakunazo zonke izilwanyana zasemhlabeni ezikunye nani — kuzo zonke eziphuma kwiarkeyi, nakuzo zonke izilwanyana zasemhlabeni.",
   "tokens": [
     {
       "surface": "ואת",
-      "gloss": "nangaba ⟨את⟩ nabani"
+      "gloss": "⟨את⟩ nakunye",
+      "marks": "izidalwa eziphefumlayo"
     },
     {
       "surface": "כל",
@@ -17,7 +18,7 @@
     },
     {
       "surface": "נפש",
-      "gloss": "iintyhefu eziphefumlayo"
+      "gloss": "izidalwa eziphefumlayo"
     },
     {
       "surface": "החיה",
@@ -25,15 +26,15 @@
     },
     {
       "surface": "אשר",
-      "gloss": "ezikho"
+      "gloss": "ezi"
     },
     {
       "surface": "אתכם",
-      "gloss": "nani ⟨את⟩"
+      "gloss": "⟨את⟩ kunye nani"
     },
     {
       "surface": "בעוף",
-      "gloss": "ezintakeni"
+      "gloss": "ezinyonyaneni"
     },
     {
       "surface": "בבהמה",
@@ -41,6 +42,34 @@
     },
     {
       "surface": "ובכל",
+      "gloss": "nakunazo zonke"
+    },
+    {
+      "surface": "חית",
+      "gloss": "izilwanyana"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zasemhlabeni"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ kunye nani"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "kuzo zonke"
+    },
+    {
+      "surface": "יצאי",
+      "gloss": "eziphumayo"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "kwiarkeyi"
+    },
+    {
+      "surface": "לכל",
       "gloss": "nakuzo zonke"
     },
     {
@@ -49,37 +78,9 @@
     },
     {
       "surface": "הארץ",
-      "gloss": "zomhlaba"
-    },
-    {
-      "surface": "אתכם",
-      "gloss": "nani ⟨את⟩"
-    },
-    {
-      "surface": "מכל",
-      "gloss": "kuzo zonke"
-    },
-    {
-      "surface": "יצאי",
-      "gloss": "eziphuma"
-    },
-    {
-      "surface": "התבה",
-      "gloss": "kwiteyibha"
-    },
-    {
-      "surface": "לכל",
-      "gloss": "kuzo zonke"
-    },
-    {
-      "surface": "חית",
-      "gloss": "izilwanyana"
-    },
-    {
-      "surface": "הארץ",
-      "gloss": "zomhlaba"
+      "gloss": "zasemhlabeni"
     }
   ],
-  "timestamp": "2026-09-18T17:18:44.989699894Z",
+  "timestamp": "2026-09-19T13:58:24.169242257Z",
   "model": "glm-5.3"
 }

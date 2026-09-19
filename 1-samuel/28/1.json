@@ -5,15 +5,15 @@
   "book": "1-samuel",
   "lang": "xh",
   "chapter": 28,
-  "translation": "Kwenzeka njalo kwimihla leyo, iPelishtiyim zaqokelela amabala azo ilungelanwelemfazwe, ukulwa kunye neYisrayeli. Wathetha u-Akish kuDavide: “Uyakwazi ngokwenene ukuba ndiza kuwela nawe emabala, wena nabantu bakho.”",
+  "translation": "Kwenzekile ngaleyo mihla, amaPelishtim aqokelele ⟨את⟩ amabala awo ukulwa, ukulwa kwaIsrayeli. Wathetha u-Akish kuDawidi: “Uyakwazi ngokwenene ukuba ⟨את⟩ ome kum uza kuphuma ebala, wena namakhotyi akho.”",
   "tokens": [
     {
       "surface": "ויהי",
-      "gloss": "Kwenzeka njalo"
+      "gloss": "Kwenzekile"
     },
     {
       "surface": "בימים",
-      "gloss": "kwimihla"
+      "gloss": "ngaleyo mihla"
     },
     {
       "surface": "ההם",
@@ -21,24 +21,24 @@
     },
     {
       "surface": "ויקבצו",
-      "gloss": "zaqokelela"
+      "gloss": "aqokelele"
     },
     {
       "surface": "פלשתים",
-      "gloss": "iPelishtiyim"
+      "gloss": "amaPelishtim"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "amabala azo"
+      "marks": "amabala awo"
     },
     {
       "surface": "מחניהם",
-      "gloss": "amabala azo"
+      "gloss": "amabala awo"
     },
     {
       "surface": "לצבא",
-      "gloss": "ilungelanwelemfazwe"
+      "gloss": "ukulwa"
     },
     {
       "surface": "להלחם",
@@ -46,11 +46,11 @@
     },
     {
       "surface": "בישראל",
-      "gloss": "kunye neYisrayeli"
+      "gloss": "kwaIsrayeli"
     },
     {
       "surface": "ויאמר",
-      "gloss": "Wathetha"
+      "gloss": "wathetha"
     },
     {
       "surface": "אכיש",
@@ -62,7 +62,7 @@
     },
     {
       "surface": "דוד",
-      "gloss": "uDavide"
+      "gloss": "uDawidi"
     },
     {
       "surface": "ידע",
@@ -78,15 +78,15 @@
     },
     {
       "surface": "אתי",
-      "gloss": "⟨את⟩ naye"
+      "gloss": "⟨את⟩ ome kum"
     },
     {
       "surface": "תצא",
-      "gloss": "za kuwela"
+      "gloss": "uza kuphuma"
     },
     {
       "surface": "במחנה",
-      "gloss": "emabala"
+      "gloss": "ebala"
     },
     {
       "surface": "אתה",
@@ -94,9 +94,9 @@
     },
     {
       "surface": "ואנשיך",
-      "gloss": "nabantu bakho"
+      "gloss": "namakhotyi akho"
     }
   ],
-  "timestamp": "2026-09-18T17:29:54.257858640Z",
+  "timestamp": "2026-09-19T13:44:21.270401492Z",
   "model": "glm-5.3"
 }

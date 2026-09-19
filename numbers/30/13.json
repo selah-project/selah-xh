@@ -5,24 +5,24 @@
   "book": "numbers",
   "lang": "xh",
   "chapter": 30,
-  "translation": "Kodwa ukuba umyeni wazitshabalalisa ngokupheleleyo ngosuku awayeva ngalo, konke okuphuma emileveni yakhe, ngezithembiso zakhe okanye ngebophe lomphefumlo wakhe, alumi kumiswe: umyeni wawatshabalalisa, uYahwe uza kumxolela.",
+  "translation": "Kodwa ukuba umyeni wazitshabalalisa ⟨את⟩ zona ngosuku olwayeziva ngalo, konke okuphuma milomo yakhe — ngezithembiso zakhe okanye ngomtya wobomi bakhe — akusayi kusema; umyeni wazitshabalalisa zonke, uYahwe uza kumxolela.",
   "tokens": [
     {
       "surface": "ואם",
-      "gloss": "kodwa ukuba"
+      "gloss": "Kodwa ukuba"
     },
     {
       "surface": "הפר",
-      "gloss": "watshabalalisa"
+      "gloss": "ukuzitshabalalisa"
     },
     {
       "surface": "יפר",
-      "gloss": "ngokupheleleyo"
+      "gloss": "wazitshabalalisa"
     },
     {
       "surface": "אתם",
       "gloss": "⟨את⟩",
-      "marks": "eziphuma emileveni yakhe"
+      "marks": "zona (iindaba zobutyalemo zomfazi)"
     },
     {
       "surface": "אישה",
@@ -34,7 +34,7 @@
     },
     {
       "surface": "שמעו",
-      "gloss": "awayeva ngalo"
+      "gloss": "olwayeziva ngalo"
     },
     {
       "surface": "כל",
@@ -46,7 +46,7 @@
     },
     {
       "surface": "שפתיה",
-      "gloss": "emileveni yakhe"
+      "gloss": "milomo yakhe"
     },
     {
       "surface": "לנדריה",
@@ -54,19 +54,19 @@
     },
     {
       "surface": "ולאסר",
-      "gloss": "okanye ngebophe"
+      "gloss": "okanye ngomtya"
     },
     {
       "surface": "נפשה",
-      "gloss": "lomphefumlo wakhe"
+      "gloss": "wobomi bakhe"
     },
     {
       "surface": "לא",
-      "gloss": "alumi"
+      "gloss": "akusayi"
     },
     {
       "surface": "יקום",
-      "gloss": "kumiswe"
+      "gloss": "kusema"
     },
     {
       "surface": "אישה",
@@ -74,7 +74,7 @@
     },
     {
       "surface": "הפרם",
-      "gloss": "wawatshabalalisa"
+      "gloss": "wazitshabalalisa zonke"
     },
     {
       "surface": "ויהוה",
@@ -89,6 +89,6 @@
       "gloss": "yena"
     }
   ],
-  "timestamp": "2026-09-18T07:45:27.056785628Z",
+  "timestamp": "2026-09-19T14:09:02.467197238Z",
   "model": "glm-5.3"
 }

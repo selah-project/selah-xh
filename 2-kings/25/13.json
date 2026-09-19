@@ -5,20 +5,20 @@
   "book": "2-kings",
   "lang": "xh",
   "chapter": 25,
-  "translation": "Iindonga zentsimbi yedonga ⟨את⟩ ezi zikwiYahwe, kunye neesiseko, kunye nolwandle lentsimbi edonga ⟨את⟩ eli likwiYahwe, abakwaKashiababhidisha, batshatha intsimbi yazo bagcwalela eBhabheli.",
+  "translation": "Kwaye ⟨את⟩ iintsika ze-thusi ezazisesidlwini sikaYahwe, kunye ⟨את⟩ neendawo zokusekela, kunye ⟨את⟩ ulwandle lwe-thusi olube sesidlwini sikaYahwe — iKushdayim azinwabulileyo, kwaye azise ithusi yawo eBhabheli.",
   "tokens": [
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "iindonga"
+      "marks": "iintsika ze-thusi"
     },
     {
       "surface": "עמודי",
-      "gloss": "iindonga"
+      "gloss": "iintsika"
     },
     {
       "surface": "הנחשת",
-      "gloss": "yentsimbi"
+      "gloss": "ze-thusi"
     },
     {
       "surface": "אשר",
@@ -26,7 +26,7 @@
     },
     {
       "surface": "בית",
-      "gloss": "yendlu"
+      "gloss": "esidlwini"
     },
     {
       "surface": "יהוה",
@@ -35,16 +35,16 @@
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "iisiseko"
+      "marks": "iindawo zokusekela"
     },
     {
       "surface": "המכנות",
-      "gloss": "iisiseko"
+      "gloss": "iindawo zokusekela"
     },
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "ulwandle"
+      "marks": "ulwandle lwe-thusi"
     },
     {
       "surface": "ים",
@@ -52,46 +52,46 @@
     },
     {
       "surface": "הנחשת",
-      "gloss": "yentsimbi"
+      "gloss": "lwe-thusi"
     },
     {
       "surface": "אשר",
-      "gloss": "eli"
+      "gloss": "olube"
     },
     {
       "surface": "בבית",
-      "gloss": "likwindlu"
+      "gloss": "esidlwini"
     },
     {
       "surface": "יהוה",
-      "gloss": "kaYahwe"
+      "gloss": "uYahwe"
     },
     {
       "surface": "שברו",
-      "gloss": "babhidisha"
+      "gloss": "azinwabulileyo"
     },
     {
       "surface": "כשדים",
-      "gloss": "abakwaKashi"
+      "gloss": "iKushdayim"
     },
     {
       "surface": "וישאו",
-      "gloss": "batshatha"
+      "gloss": "azise"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "intsimbi yazo"
+      "marks": "ithusi yawo"
     },
     {
       "surface": "נחשתם",
-      "gloss": "intsimbi yazo"
+      "gloss": "ithusi yawo"
     },
     {
       "surface": "בבלה",
       "gloss": "eBhabheli"
     }
   ],
-  "timestamp": "2026-09-18T10:59:50.410079999Z",
+  "timestamp": "2026-09-19T13:47:20.592644258Z",
   "model": "glm-5.3"
 }

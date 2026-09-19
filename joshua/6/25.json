@@ -5,25 +5,25 @@
   "book": "joshua",
   "lang": "xh",
   "chapter": 6,
-  "translation": "Kwaye uRahabi umlala wenkcukacha nendlu yakhe yokuzalwa nako konke okwayeyakhe, uYehoshuwa wayagcina ephila; wahlala aphakathi kukaIsrayeli ukufikelela kule mihla, kuba wabacula ⟨את⟩ amathunzi uYehoshuwa awathumelayo ukuba akhangele ⟨את⟩ iYerikho.",
+  "translation": "Kananjalo uYehoshuwa wazisa ubomi ⟨את⟩ kuRachab owaselayo, ⟨את⟩ nendlu yesikhaya sayo, ⟨את⟩ nako konke oko kwakuseleyo kuye; wahlala esiphakameni kwaYisrayeli ukuya kule mihla, kuba wabalela ⟨את⟩ abathunywa uYehoshuwa wawathumela ukuzilanda ⟨את⟩ iYerikho.",
   "tokens": [
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "uRahabi"
+      "marks": "uRachab owaselayo"
     },
     {
       "surface": "רחב",
-      "gloss": "uRahabi"
+      "gloss": "uRachab"
     },
     {
       "surface": "הזונה",
-      "gloss": "umlala wenkcukacha"
+      "gloss": "owaselayo"
     },
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "indlu yakhe yokuzalwa"
+      "marks": "indlu yesikhaya sayo"
     },
     {
       "surface": "בית",
@@ -31,12 +31,12 @@
     },
     {
       "surface": "אביה",
-      "gloss": "yokuzalwa yakhe"
+      "gloss": "yesikhaya sayo"
     },
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "konke okwayeyakhe"
+      "marks": "konke oko kwakuseleyo kuye"
     },
     {
       "surface": "כל",
@@ -48,11 +48,11 @@
     },
     {
       "surface": "לה",
-      "gloss": "ewayeyakhe"
+      "gloss": "kuye"
     },
     {
       "surface": "החיה",
-      "gloss": "wayagcina ephila"
+      "gloss": "wazisa ubomi"
     },
     {
       "surface": "יהושע",
@@ -64,19 +64,19 @@
     },
     {
       "surface": "בקרב",
-      "gloss": "aphakathi"
+      "gloss": "esiphakameni"
     },
     {
       "surface": "ישראל",
-      "gloss": "kuIsrayeli"
+      "gloss": "kwaYisrayeli"
     },
     {
       "surface": "עד",
-      "gloss": "ukufikelela"
+      "gloss": "ukuya ku"
     },
     {
       "surface": "היום",
-      "gloss": "kule mihla"
+      "gloss": "mihla"
     },
     {
       "surface": "הזה",
@@ -88,24 +88,24 @@
     },
     {
       "surface": "החביאה",
-      "gloss": "wabacula"
+      "gloss": "wabalela"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "amathunzi"
+      "marks": "abathunywa"
     },
     {
       "surface": "המלאכים",
-      "gloss": "amathunzi"
+      "gloss": "abathunywa"
     },
     {
       "surface": "אשר",
-      "gloss": "awathumelayo"
+      "gloss": "abo"
     },
     {
       "surface": "שלח",
-      "gloss": "wathumela"
+      "gloss": "wawathumela"
     },
     {
       "surface": "יהושע",
@@ -113,7 +113,7 @@
     },
     {
       "surface": "לרגל",
-      "gloss": "ukuba akhangele"
+      "gloss": "ukuzilanda"
     },
     {
       "surface": "את",
@@ -125,6 +125,6 @@
       "gloss": "iYerikho"
     }
   ],
-  "timestamp": "2026-09-18T18:51:15.119661906Z",
+  "timestamp": "2026-09-19T14:04:02.464780364Z",
   "model": "glm-5.3"
 }

@@ -5,11 +5,11 @@
   "book": "jeremiah",
   "lang": "xh",
   "chapter": 38,
-  "translation": "Inkosi yalela u-Evedi-Meleke umKushi, yathi: “Thabatha ngesandla sakho apha amadoda amashumi amatatu, uphakamise ⟨את⟩ uYeremiyahi umprofeti emgodini, phambi kokuba afe.”",
+  "translation": "Inkosi yayalela ⟨את⟩ u-Evede-Meleki, umKushi, ithi: “Thabatha ngesandla sakho apha amadoda amashumi amathathu, uphakamise ⟨את⟩ uYirimiyahu umprofeti egodini, ngaphambi kokuba afe.”",
   "tokens": [
     {
       "surface": "ויצוה",
-      "gloss": "yalela"
+      "gloss": "yayalela"
     },
     {
       "surface": "המלך",
@@ -18,15 +18,15 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "u-Evedi-Meleke"
+      "marks": "u-Evede-Meleki"
     },
     {
       "surface": "עבד",
-      "gloss": "u-Evedi-"
+      "gloss": "u-Evede-"
     },
     {
       "surface": "מלך",
-      "gloss": "Meleke"
+      "gloss": "-Meleki"
     },
     {
       "surface": "הכושי",
@@ -34,11 +34,11 @@
     },
     {
       "surface": "לאמר",
-      "gloss": "yathi"
+      "gloss": "ithi"
     },
     {
       "surface": "קח",
-      "gloss": "Thabatha"
+      "gloss": "thabatha"
     },
     {
       "surface": "בידך",
@@ -50,7 +50,7 @@
     },
     {
       "surface": "שלשים",
-      "gloss": "amashumi amatatu"
+      "gloss": "amashumi amathathu"
     },
     {
       "surface": "אנשים",
@@ -63,11 +63,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "uYeremiyahi"
+      "marks": "uYirimiyahu umprofeti"
     },
     {
       "surface": "ירמיהו",
-      "gloss": "uYeremiyahi"
+      "gloss": "uYirimiyahu"
     },
     {
       "surface": "הנביא",
@@ -75,21 +75,21 @@
     },
     {
       "surface": "מן",
-      "gloss": "ku-"
+      "gloss": "ku"
     },
     {
       "surface": "הבור",
-      "gloss": "emgodini"
+      "gloss": "igodi"
     },
     {
       "surface": "בטרם",
-      "gloss": "phambi kokuba"
+      "gloss": "ngaphambi kokuba"
     },
     {
       "surface": "ימות",
       "gloss": "afe"
     }
   ],
-  "timestamp": "2026-09-18T17:37:39.311773678Z",
+  "timestamp": "2026-09-19T14:01:31.721655858Z",
   "model": "glm-5.3"
 }

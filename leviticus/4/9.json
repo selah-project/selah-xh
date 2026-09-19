@@ -5,16 +5,16 @@
   "book": "leviticus",
   "lang": "xh",
   "chapter": 4,
-  "translation": "Neentso zombini, nolunye oluphezu kwazo, olu kumahlansi, nelulobe oluphezu kwesibindi, kunye neentso — ⟨את⟩ zonke uya kubususa.",
+  "translation": "Nayo ⟨את⟩ iintso ezimbini nonge ⟨את⟩ amafutha asekho phezu kwazo, asekho phezu kweesu, nonge ⟨את⟩ isiphako esiphezu kweesibindi, eentsozeni — uza kuyisusa.",
   "tokens": [
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "iintso zombini"
+      "marks": "iintso ezimbini"
     },
     {
       "surface": "שתי",
-      "gloss": "zombini"
+      "gloss": "ezimbini"
     },
     {
       "surface": "הכלית",
@@ -23,62 +23,62 @@
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "ulunye"
+      "marks": "amafutha"
     },
     {
       "surface": "החלב",
-      "gloss": "ulunye"
+      "gloss": "amafutha"
     },
     {
       "surface": "אשר",
-      "gloss": "obo"
+      "gloss": "asekho"
     },
     {
       "surface": "עליהן",
-      "gloss": "oluphezu kwazo"
+      "gloss": "phezu kwazo"
     },
     {
       "surface": "אשר",
-      "gloss": "olu"
+      "gloss": "asekho"
     },
     {
       "surface": "על",
-      "gloss": "ku"
+      "gloss": "phezu"
     },
     {
       "surface": "הכסלים",
-      "gloss": "amahlansi"
+      "gloss": "kweesu"
     },
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "ululobe"
+      "marks": "isiphako"
     },
     {
       "surface": "היתרת",
-      "gloss": "ululobe"
+      "gloss": "isiphako"
     },
     {
       "surface": "על",
-      "gloss": "oluphezu"
+      "gloss": "phezu"
     },
     {
       "surface": "הכבד",
-      "gloss": "kwesibindi"
+      "gloss": "kweesibindi"
     },
     {
       "surface": "על",
-      "gloss": "kunye"
+      "gloss": "kwi-"
     },
     {
       "surface": "הכליות",
-      "gloss": "neentso"
+      "gloss": "eentsozeni"
     },
     {
       "surface": "יסירנה",
-      "gloss": "uya kubususa"
+      "gloss": "uza kuyisusa"
     }
   ],
-  "timestamp": "2026-09-18T06:37:51.544449924Z",
+  "timestamp": "2026-09-19T14:06:59.907318362Z",
   "model": "glm-5.3"
 }

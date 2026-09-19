@@ -5,7 +5,7 @@
   "book": "1-samuel",
   "lang": "xh",
   "chapter": 7,
-  "translation": "Yaye iindawo eziPheleshti bazithabathele eSirayeli zabuyela eSirayeli, ukusuka kuEkroni de kugGati; yaye umda wazo uSirayeli wawukhulula esandleni samaPheleshti; kwakubekho uxolo phakathi kukaSirayeli nakwabaEmori.",
+  "translation": "Zabuyela iidolophu ezazithathwe amaFilisti ku-Israeli, zaya ku-Israeli, ukusuka kwiEkroni de kwiGati; umda wazo wawukhululwa ngu-Israeli ⟨את⟩ esandleni samaFilisti; kwakunguxolo phakathi kuka-Israeli nakwabaMori.",
   "tokens": [
     {
       "surface": "ותשבנה",
@@ -13,36 +13,35 @@
     },
     {
       "surface": "הערים",
-      "gloss": "iindawo"
+      "gloss": "iidolophu"
     },
     {
       "surface": "אשר",
-      "gloss": "ezo"
+      "gloss": "ezazithathwe"
     },
     {
       "surface": "לקחו",
-      "gloss": "bazithathela"
+      "gloss": "ezazithathwe"
     },
     {
       "surface": "פלשתים",
-      "gloss": "amaPheleshti"
+      "gloss": "amaFilisti"
     },
     {
       "surface": "מאת",
-      "gloss": "⟨את⟩",
-      "marks": "eSirayeli"
+      "gloss": "⟨את⟩ ku-Israeli"
     },
     {
       "surface": "ישראל",
-      "gloss": "eSirayeli"
+      "gloss": "ku-Israeli"
     },
     {
       "surface": "לישראל",
-      "gloss": "eSirayeli"
+      "gloss": "ku-Israeli"
     },
     {
       "surface": "מעקרון",
-      "gloss": "ukusuka kuEkroni"
+      "gloss": "ukusuka kwiEkroni"
     },
     {
       "surface": "ועד",
@@ -50,7 +49,7 @@
     },
     {
       "surface": "גת",
-      "gloss": "kugGati"
+      "gloss": "kwiGati"
     },
     {
       "surface": "ואת",
@@ -63,11 +62,11 @@
     },
     {
       "surface": "הציל",
-      "gloss": "wawukhulula"
+      "gloss": "wawukhululwa"
     },
     {
       "surface": "ישראל",
-      "gloss": "uSirayeli"
+      "gloss": "ngu-Israeli"
     },
     {
       "surface": "מיד",
@@ -75,11 +74,11 @@
     },
     {
       "surface": "פלשתים",
-      "gloss": "samaPheleshti"
+      "gloss": "samaFilisti"
     },
     {
       "surface": "ויהי",
-      "gloss": "kwakubekho"
+      "gloss": "kwakungu-"
     },
     {
       "surface": "שלום",
@@ -87,21 +86,21 @@
     },
     {
       "surface": "בין",
-      "gloss": "phakathi kuka"
+      "gloss": "phakathi kuka-"
     },
     {
       "surface": "ישראל",
-      "gloss": "Sirayeli"
+      "gloss": "u-Israeli"
     },
     {
       "surface": "ובין",
-      "gloss": "nakwa"
+      "gloss": "nakwaba-"
     },
     {
       "surface": "האמרי",
-      "gloss": "abaEmori"
+      "gloss": "baMori"
     }
   ],
-  "timestamp": "2026-09-18T09:15:59.991565552Z",
+  "timestamp": "2026-09-19T13:44:05.848758887Z",
   "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "jeremiah",
   "lang": "xh",
   "chapter": 22,
-  "translation": "Kuba kwindawo abamjisele kona yena, apho uza kufa; ⟨את⟩ le ndawo akayi kuyibona kwakhona.",
+  "translation": "kuba kwendlu apho bamthuthisela khona ⟨את⟩, apho uza kufa, kwaye ⟨את⟩ lo mhlaba awuzuku umbona kwakhona.",
   "tokens": [
     {
       "surface": "כי",
@@ -13,20 +13,20 @@
     },
     {
       "surface": "במקום",
-      "gloss": "kwindawo"
+      "gloss": "kwendlu"
     },
     {
       "surface": "אשר",
-      "gloss": "abamjisele kona"
+      "gloss": "apho"
     },
     {
-      "surface": "הגלו",
-      "gloss": "abamjisele"
+      "surface": "הגלuvo",
+      "gloss": "bamthuthisela"
     },
     {
       "surface": "אתו",
       "gloss": "⟨את⟩",
-      "marks": "yena"
+      "marks": "khona"
     },
     {
       "surface": "שם",
@@ -38,30 +38,29 @@
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
-      "marks": "le ndawo"
+      "gloss": "kwaye ⟨את⟩"
     },
     {
       "surface": "הארץ",
-      "gloss": "le ndawo"
+      "gloss": "lo mhlaba"
     },
     {
       "surface": "הזאת",
-      "gloss": "le"
+      "gloss": "lo"
     },
     {
       "surface": "לא",
-      "gloss": "akayi"
+      "gloss": "awuzuku"
     },
     {
       "surface": "יראה",
-      "gloss": "kuyibona"
+      "gloss": "umbona"
     },
     {
       "surface": "עוד",
       "gloss": "kwakhona"
     }
   ],
-  "timestamp": "2026-09-18T12:10:57.664676920Z",
+  "timestamp": "2026-09-19T13:59:55.362344350Z",
   "model": "glm-5.3"
 }

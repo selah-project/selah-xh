@@ -5,7 +5,7 @@
   "book": "ezekiel",
   "lang": "xh",
   "chapter": 43,
-  "translation": "Ekubekeni umphetho wabo next to ⟨את⟩ umphetho wam, nesiqonga sabo siseduze nesi siqonga sam, ibe lodonga ludle phakathi kwam nabo; bachukumisa ngokungcolisa igama lam elingcwele ngeenthumbo zabo abazenzayo; ndabatya ngolaka lwam.",
+  "translation": "Ekubekeni isikhephe sabo ⟨את⟩ isikhephe sam, nezikhongozela zabo ecaleni kwezikhongozela zam, udonga lwaba phakathi kwam nabo; benza ingcolileyo ⟨את⟩ igama lam elingcwele ngeentshonxi zabo abazenzayo; ngoko ndabatya ⟨את⟩ ngolaka lwam.",
   "tokens": [
     {
       "surface": "בתתם",
@@ -13,32 +13,32 @@
     },
     {
       "surface": "ספם",
-      "gloss": "umphetho wabo"
+      "gloss": "isikhephe sabo"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "umphetho wam"
+      "marks": "isikhephe sam"
     },
     {
       "surface": "ספי",
-      "gloss": "umphetho wam"
+      "gloss": "isikhephe sam"
     },
     {
       "surface": "ומזוזתם",
-      "gloss": "nesiqonga sabo"
+      "gloss": "nezikhongozela zabo"
     },
     {
       "surface": "אצל",
-      "gloss": "siseduze nesi"
+      "gloss": "ecaleni kwe"
     },
     {
       "surface": "מזוזתי",
-      "gloss": "siqonga sam"
+      "gloss": "zikhongozela zam"
     },
     {
       "surface": "והקיר",
-      "gloss": "ibe lodonga"
+      "gloss": "udonga"
     },
     {
       "surface": "ביני",
@@ -50,7 +50,7 @@
     },
     {
       "surface": "וטמאו",
-      "gloss": "bachukumisa ngokungcolisa"
+      "gloss": "benza ingcolileyo"
     },
     {
       "surface": "את",
@@ -67,15 +67,15 @@
     },
     {
       "surface": "בתועבותם",
-      "gloss": "ngeenthumbo zabo"
+      "gloss": "ngeentshonxi zabo"
     },
     {
       "surface": "אשר",
-      "gloss": "azo"
+      "gloss": "aba"
     },
     {
       "surface": "עשו",
-      "gloss": "zenayo"
+      "gloss": "zenzayo"
     },
     {
       "surface": "ואכל",
@@ -84,13 +84,13 @@
     {
       "surface": "אתם",
       "gloss": "⟨את⟩",
-      "marks": "abo"
+      "marks": "ngolaka lwam"
     },
     {
       "surface": "באפי",
       "gloss": "ngolaka lwam"
     }
   ],
-  "timestamp": "2026-09-18T13:36:34.633262888Z",
+  "timestamp": "2026-09-19T13:55:56.753891075Z",
   "model": "glm-5.3"
 }

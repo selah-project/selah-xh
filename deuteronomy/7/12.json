@@ -5,15 +5,15 @@
   "book": "deuteronomy",
   "lang": "xh",
   "chapter": 7,
-  "translation": "Kwaye iza kwenzeka, ngenxa yokuba nilalela la miawulo nisigcina niyenza, ukuba uYahwe uElohim wakho uza kugcinela wena ⟨את⟩ umnqophiso ⟨את⟩ neikhesedi awayifungelayo ookhokho bakho.",
+  "translation": "Iya kubakho, njengembuyevelo wokuba nilalela ⟨את⟩ ezi nkqubo zokwahlulela, nize nigcine, nize nizenzise; uYahwe uElohim wakho uya kugcina kuwe ⟨את⟩ umnqophiso n⟨את⟩ ikhesedi awayafungela koonoyise bakho.",
   "tokens": [
     {
       "surface": "והיה",
-      "gloss": "Kwaye iza kwenzeka"
+      "gloss": "Iya kubakho"
     },
     {
       "surface": "עקב",
-      "gloss": "ngenxa yokuba"
+      "gloss": "njengembuyevelo wokuba"
     },
     {
       "surface": "תשמעון",
@@ -22,31 +22,32 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "la miawulo"
+      "marks": "ezi nkqubo zokwahlulela"
     },
     {
       "surface": "המשפטים",
-      "gloss": "la miawulo"
+      "gloss": "ezi nkqubo zokwahlulela"
     },
     {
       "surface": "האלה",
-      "gloss": "la"
+      "gloss": "ezi"
     },
     {
       "surface": "ושמרתם",
-      "gloss": "nisigcina"
+      "gloss": "nize nigcine"
     },
     {
       "surface": "ועשיתם",
-      "gloss": "niyenza"
+      "gloss": "nize nizenzise"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩ zi"
+      "gloss": "⟨את⟩",
+      "marks": "(izinkqubo zokwahlulela)"
     },
     {
       "surface": "ושמר",
-      "gloss": "uza kugcinela"
+      "gloss": "uya kugcina"
     },
     {
       "surface": "יהוה",
@@ -58,7 +59,7 @@
     },
     {
       "surface": "לך",
-      "gloss": "wena"
+      "gloss": "kuwe"
     },
     {
       "surface": "את",
@@ -71,7 +72,7 @@
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩ ne",
+      "gloss": "n⟨את⟩",
       "marks": "ikhesedi"
     },
     {
@@ -80,17 +81,17 @@
     },
     {
       "surface": "אשר",
-      "gloss": "awayifungelayo"
+      "gloss": "awayafungela"
     },
     {
       "surface": "נשבע",
-      "gloss": "awayifungela"
+      "gloss": "awayafungela"
     },
     {
       "surface": "לאבתיך",
-      "gloss": "ookhokho bakho"
+      "gloss": "koonoyise bakho"
     }
   ],
-  "timestamp": "2026-09-18T08:00:45.065658736Z",
+  "timestamp": "2026-09-19T13:50:52.843059181Z",
   "model": "glm-5.3"
 }

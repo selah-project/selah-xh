@@ -5,7 +5,7 @@
   "book": "exodus",
   "lang": "xh",
   "chapter": 6,
-  "translation": "U-Aharon wathabatha uElisheva, intombi kaAminadav, udade kaNakhshoni, yaba yinkosikazi yakhe; wazala kuye uNadav noAvihu, uElazari noItamari.",
+  "translation": "U-Aharon wathabatha u-Elishewa, unyana kaAminadab, udade wukaNakhshoni, yaba yinkosikazi yakhe; yaza yamzala uNadab noAvihu, u-Elazara noItamari.",
   "tokens": [
     {
       "surface": "ויקח",
@@ -18,27 +18,27 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "uElisheva"
+      "marks": "u-Elishewa"
     },
     {
       "surface": "אלישבע",
-      "gloss": "uElisheva"
+      "gloss": "u-Elishewa"
     },
     {
       "surface": "בת",
-      "gloss": "intombi"
+      "gloss": "unyana (wasekhaya)"
     },
     {
       "surface": "עמינדב",
-      "gloss": "kaAminadav"
+      "gloss": "kaAminadab"
     },
     {
       "surface": "אחות",
-      "gloss": "udadewo"
+      "gloss": "udade"
     },
     {
       "surface": "נחשון",
-      "gloss": "kaNakhshoni"
+      "gloss": "ukaNakhshoni"
     },
     {
       "surface": "לו",
@@ -50,7 +50,7 @@
     },
     {
       "surface": "ותלד",
-      "gloss": "wazala"
+      "gloss": "yaza yamzala"
     },
     {
       "surface": "לו",
@@ -59,15 +59,15 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "uNadav"
+      "marks": "uNadab"
     },
     {
       "surface": "נדב",
-      "gloss": "uNadav"
+      "gloss": "uNadab"
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
+      "gloss": "no⟨את⟩",
       "marks": "uAvihu"
     },
     {
@@ -77,15 +77,15 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "uElazari"
+      "marks": "u-Elazara"
     },
     {
       "surface": "אלעזר",
-      "gloss": "uElazari"
+      "gloss": "u-Elazara"
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
+      "gloss": "no⟨את⟩",
       "marks": "uItamari"
     },
     {
@@ -93,6 +93,6 @@
       "gloss": "uItamari"
     }
   ],
-  "timestamp": "2026-09-18T05:51:16.858002346Z",
+  "timestamp": "2026-09-19T13:53:28.142604427Z",
   "model": "glm-5.3"
 }

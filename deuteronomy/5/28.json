@@ -5,11 +5,11 @@
   "book": "deuteronomy",
   "lang": "xh",
   "chapter": 5,
-  "translation": "Wavalwa uYahwe ilizwi lamagama enu, xa nina ninethetha kum; wathetha uYahwe kum: Ndiluvalelisele ilizwi lamagama aluntu lwaba, ababethetha kuwe; balungile konke ababethetha.",
+  "translation": "uYahwe wavuva ⟨את⟩ ilizwi lamagama enu, nini nithetha kum; uYahwe wathi kum: “Ndivuvile ⟨את⟩ ilizwi lamagama abantu aba, abathetha kuwe. Balungile yonke into abayithethileyo.”",
   "tokens": [
     {
       "surface": "וישמע",
-      "gloss": "Wavalwa"
+      "gloss": "wavuva"
     },
     {
       "surface": "יהוה",
@@ -18,7 +18,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ilizwi"
+      "marks": "ilizwi lamagama enu"
     },
     {
       "surface": "קול",
@@ -30,7 +30,7 @@
     },
     {
       "surface": "בדברכם",
-      "gloss": "xa ninethetha"
+      "gloss": "nini nithetha"
     },
     {
       "surface": "אלי",
@@ -38,7 +38,7 @@
     },
     {
       "surface": "ויאמר",
-      "gloss": "wathetha"
+      "gloss": "wathi"
     },
     {
       "surface": "יהוה",
@@ -50,12 +50,12 @@
     },
     {
       "surface": "שמעתי",
-      "gloss": "Ndiluvalelisele"
+      "gloss": "ndivuvile"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ilizwi"
+      "marks": "ilizwi lamagama abantu aba"
     },
     {
       "surface": "קול",
@@ -67,19 +67,19 @@
     },
     {
       "surface": "העם",
-      "gloss": "aluntu"
+      "gloss": "abantu"
     },
     {
       "surface": "הזה",
-      "gloss": "lwaba"
+      "gloss": "aba"
     },
     {
       "surface": "אשר",
-      "gloss": "aba-"
+      "gloss": "abathetha"
     },
     {
       "surface": "דברו",
-      "gloss": "abethetha"
+      "gloss": "bathetha"
     },
     {
       "surface": "אליך",
@@ -91,17 +91,17 @@
     },
     {
       "surface": "כל",
-      "gloss": "konke"
+      "gloss": "yonke"
     },
     {
       "surface": "אשר",
-      "gloss": "aba-"
+      "gloss": "into"
     },
     {
       "surface": "דברו",
-      "gloss": "abethetha"
+      "gloss": "abayithethileyo"
     }
   ],
-  "timestamp": "2026-09-18T07:59:06.225339172Z",
+  "timestamp": "2026-09-19T13:51:08.902801484Z",
   "model": "glm-5.3"
 }

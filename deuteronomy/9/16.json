@@ -5,7 +5,7 @@
   "book": "deuteronomy",
   "lang": "xh",
   "chapter": 9,
-  "translation": "Ndabona, nanga, ninile enye kuYahwe uElohim wenu, nazenzela ithole elithosiweyo, natshikile ngesikhundla kwindlela uYahwe ayalele ngayo ⟨אתכ׶ם⟩.",
+  "translation": "Ndabona, kwaye nanko, nani naye nayela kuYahwe uElohim wenu; nenzela nichaza unyana omnthonjwane wentsimbi, natsheka kakhulu endleleni uYahwe awayalayo ⟨את⟩ nina.",
   "tokens": [
     {
       "surface": "וארא",
@@ -13,11 +13,11 @@
     },
     {
       "surface": "והנה",
-      "gloss": "nanga"
+      "gloss": "kwaye nanko"
     },
     {
       "surface": "חטאתם",
-      "gloss": "ninile enye"
+      "gloss": "naye nayela"
     },
     {
       "surface": "ליהוה",
@@ -29,27 +29,27 @@
     },
     {
       "surface": "עשיתם",
-      "gloss": "nazenzela"
+      "gloss": "nenzela"
     },
     {
       "surface": "לכם",
-      "gloss": "-ela"
+      "gloss": "nichaza"
     },
     {
       "surface": "עגל",
-      "gloss": "ithole"
+      "gloss": "unyana omnthonjwane"
     },
     {
       "surface": "מסכה",
-      "gloss": "elithosiweyo"
+      "gloss": "wentsimbi ethe xesha"
     },
     {
       "surface": "סרתם",
-      "gloss": "natshikile ngesikhundla"
+      "gloss": "natsheka"
     },
     {
       "surface": "מהר",
-      "gloss": "ngesikhundla"
+      "gloss": "kakhulu"
     },
     {
       "surface": "מן",
@@ -57,15 +57,15 @@
     },
     {
       "surface": "הדרך",
-      "gloss": "indlela"
+      "gloss": "endleleni"
     },
     {
       "surface": "אשר",
-      "gloss": "ey-"
+      "gloss": "awayalayo"
     },
     {
       "surface": "צוה",
-      "gloss": "ayalele"
+      "gloss": "yalayo"
     },
     {
       "surface": "יהוה",
@@ -73,10 +73,10 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨אתכם⟩",
-      "marks": "nonke (ninile enye kuYahwe)"
+      "gloss": "⟨את⟩",
+      "marks": "nina"
     }
   ],
-  "timestamp": "2026-09-18T08:01:35.953610120Z",
+  "timestamp": "2026-09-19T13:50:41.508012386Z",
   "model": "glm-5.3"
 }

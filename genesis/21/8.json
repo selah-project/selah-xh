@@ -5,11 +5,11 @@
   "book": "genesis",
   "lang": "xh",
   "chapter": 21,
-  "translation": "Wakhula umntwana, wancokuswa; waza u-Avraham wenza umdla woosana omkhulu ngosuku lokuncokuswa kukaYitshaka.",
+  "translation": "Wakhula umntwana, wancishwa (ebeluswa), waza u-Avraham wenza umthendelezo omkhulu ngosuku lokuncishwa kukaYitshaki ⟨את⟩.",
   "tokens": [
     {
       "surface": "ויגדל",
-      "gloss": "Wakhula"
+      "gloss": "wakhula"
     },
     {
       "surface": "הילד",
@@ -17,11 +17,11 @@
     },
     {
       "surface": "ויגמל",
-      "gloss": "wancokuswa"
+      "gloss": "wancishwa (ebeluswa)"
     },
     {
       "surface": "ויעש",
-      "gloss": "waza...wenza"
+      "gloss": "wenza"
     },
     {
       "surface": "אברהם",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "משתה",
-      "gloss": "umdla woosana"
+      "gloss": "umthendelezo"
     },
     {
       "surface": "גדול",
@@ -41,18 +41,18 @@
     },
     {
       "surface": "הגמל",
-      "gloss": "lokuncokuswa"
+      "gloss": "lokuncishwa"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "uYitshaka"
+      "marks": "uYitshaki"
     },
     {
       "surface": "יצחק",
-      "gloss": "ukaYitshaka"
+      "gloss": "uYitshaki"
     }
   ],
-  "timestamp": "2026-09-18T05:18:04.255049649Z",
+  "timestamp": "2026-09-19T13:56:34.980985497Z",
   "model": "glm-5.3"
 }

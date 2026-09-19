@@ -5,15 +5,15 @@
   "book": "2-samuel",
   "lang": "xh",
   "chapter": 4,
-  "translation": "kutheni kungekangcono nangakumbi, xa amadoda amabi abulele ⟨את⟩ indoda elungileyo endlwini yakhe, emthombeni wokulala wakhe? Yaye ngoku, andingafuni na ukufuna ⟨את⟩ igazi lakhe ezandleni zenu, ndaza ndanikhucumba emhlabeni?”",
+  "translation": "Kungenjani-ke ukuba amadoda abangcolileyo abulele ⟨את⟩ indoda elungileyo endlwini yakhe, phezu kobhedini wakhe — kwaye ngoku, ingaba andinakufuni ⟨את⟩ igazi lakhe ezandleni zenu, ndiza kunitsalela ninje ⟨אתכם⟩ emhlabeni?",
   "tokens": [
     {
       "surface": "אף",
-      "gloss": "nangakumbi"
+      "gloss": "kungenjani-ke"
     },
     {
       "surface": "כי",
-      "gloss": "kutheni kungekangcono"
+      "gloss": "ukuba"
     },
     {
       "surface": "אנשים",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "רשעים",
-      "gloss": "amabi"
+      "gloss": "abangcolileyo"
     },
     {
       "surface": "הרגו",
@@ -46,23 +46,23 @@
     },
     {
       "surface": "על",
-      "gloss": "phezu kwe"
+      "gloss": "phezu"
     },
     {
       "surface": "משכבו",
-      "gloss": "emthombeni wokulala wakhe"
+      "gloss": "kobhedini wakhe"
     },
     {
       "surface": "ועתה",
-      "gloss": "yaye ngoku"
+      "gloss": "kwaye ngoku"
     },
     {
       "surface": "הלוא",
-      "gloss": "andingafuni na"
+      "gloss": "ingaba... na"
     },
     {
       "surface": "אבקש",
-      "gloss": "ukufuna"
+      "gloss": "andinakufuni"
     },
     {
       "surface": "את",
@@ -79,22 +79,22 @@
     },
     {
       "surface": "ובערתי",
-      "gloss": "ndanikhucumba"
+      "gloss": "ndiza kunitsalela"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩",
-      "marks": "nina"
+      "gloss": "⟨אתכם⟩",
+      "marks": "ninje"
     },
     {
       "surface": "מן",
-      "gloss": "ku"
+      "gloss": "e-"
     },
     {
       "surface": "הארץ",
-      "gloss": "umhlaba"
+      "gloss": "mhlabeni"
     }
   ],
-  "timestamp": "2026-09-18T09:47:22.193573995Z",
+  "timestamp": "2026-09-19T13:48:48.484364740Z",
   "model": "glm-5.3"
 }

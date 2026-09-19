@@ -5,32 +5,33 @@
   "book": "haggai",
   "lang": "xh",
   "chapter": 2,
-  "translation": "Ndanibetha ngesikhuhla, nangomhlaza, nangehale, ⟨את⟩ konke umsebenzi wezandla zenu; kodwa ⟨את⟩ nina akukho mntu onam kum, kutsho uYahwe.",
+  "translation": "Ndabetheni ⟨את⟩ nina ngokutshatyalalisa koloni, nangokubola, nangokuna kwamatye, ⟨את⟩ konke okwenziweyo yizandla zenu; kodwa akukho ⟨את⟩ nina kum, utshilo uYahwe.",
   "tokens": [
     {
       "surface": "הכיתי",
-      "gloss": "Ndanibetha"
+      "gloss": "Ndabetheni"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ nina"
+      "gloss": "⟨את⟩",
+      "marks": "nina"
     },
     {
       "surface": "בשדפון",
-      "gloss": "ngesikhuhla"
+      "gloss": "ngokutshatyalalisa koloni"
     },
     {
       "surface": "ובירקון",
-      "gloss": "nangomhlaza"
+      "gloss": "nangokubola"
     },
     {
       "surface": "ובברד",
-      "gloss": "nangehale"
+      "gloss": "nangokuna kwamatye"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "konke umsebenzi wezandla zenu"
+      "marks": "konke okwenziweyo yizandla zenu"
     },
     {
       "surface": "כל",
@@ -38,11 +39,11 @@
     },
     {
       "surface": "מעשה",
-      "gloss": "umsebenzi"
+      "gloss": "okwenziweyo"
     },
     {
       "surface": "ידיכם",
-      "gloss": "wezandla zenu"
+      "gloss": "yizandla zenu"
     },
     {
       "surface": "ואין",
@@ -50,7 +51,8 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ nina"
+      "gloss": "⟨את⟩",
+      "marks": "nina"
     },
     {
       "surface": "אלי",
@@ -58,13 +60,13 @@
     },
     {
       "surface": "נאם",
-      "gloss": "kutsho"
+      "gloss": "utshilo"
     },
     {
       "surface": "יהוה",
       "gloss": "uYahwe"
     }
   ],
-  "timestamp": "2026-09-18T14:15:20.177903760Z",
+  "timestamp": "2026-09-19T13:58:20.494453878Z",
   "model": "glm-5.3"
 }

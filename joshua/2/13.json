@@ -5,11 +5,11 @@
   "book": "joshua",
   "lang": "xh",
   "chapter": 2,
-  "translation": "Nize nisigcine ebumnyameni ubawo wam, kunye nomama wam, kunye nomnakwethu, kunye nodadewethu, kunye nako konke okungabona, size nisindise iimphefumlo zethu ekufeni.",
+  "translation": "Ze niziphele ekuhleni ubawo wam ⟨את⟩, nomama wam ⟨את⟩, nabantakwethu bam ⟨את⟩, nosisi wam ⟨את⟩, nako konke okungookwo ⟨את⟩, ze nisiphele ekuhleni iimphefumlo zethu ⟨את⟩ kwinkumbo yokufa.",
   "tokens": [
     {
       "surface": "והחיתם",
-      "gloss": "nize nisigcine ebumnyameni"
+      "gloss": "ze niziphele ekuhleni"
     },
     {
       "surface": "את",
@@ -32,25 +32,25 @@
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "umnakwethu"
+      "marks": "abantakwethu bam"
     },
     {
       "surface": "אחי",
-      "gloss": "umnakwethu"
+      "gloss": "abantakwethu bam"
     },
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "udadewethu"
+      "marks": "usisi wam"
     },
     {
       "surface": "אחותי",
-      "gloss": "udadewethu"
+      "gloss": "usisi wam"
     },
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "konke okungabona"
+      "marks": "konke okungookwo"
     },
     {
       "surface": "כל",
@@ -58,15 +58,15 @@
     },
     {
       "surface": "אשר",
-      "gloss": "oko"
+      "gloss": "oku"
     },
     {
       "surface": "להם",
-      "gloss": "kungabona"
+      "gloss": "kungookwo"
     },
     {
       "surface": "והצלתם",
-      "gloss": "size nisindise"
+      "gloss": "nisiphele ekuhleni"
     },
     {
       "surface": "את",
@@ -79,9 +79,9 @@
     },
     {
       "surface": "ממות",
-      "gloss": "ekufeni"
+      "gloss": "kwinkumbo yokufa"
     }
   ],
-  "timestamp": "2026-09-18T08:28:13.811542042Z",
+  "timestamp": "2026-09-19T14:02:39.703949647Z",
   "model": "glm-5.3"
 }

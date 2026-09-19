@@ -5,11 +5,11 @@
   "book": "leviticus",
   "lang": "xh",
   "chapter": 8,
-  "translation": "Wafakela phezu kwakhe ⟨את⟩ isingcingi, wamzinga ngesixa, wambathisa ⟨את⟩ ngengubo engaphandle, wafakela phezu kwakhe ⟨את⟩ i-efode, wamzinga ngesixa se-efode elorhiweyo, wayibophelela kuye ngaso.",
+  "translation": "Wambeka ⟨את⟩ ihempe, wamzingela ⟨את⟩ nombhande wokusingatha, wamxinzeza ⟨את⟩ ingubo engaphezulu, wambeka phezu kwakhe ⟨את⟩ iefodi, wamzingela ⟨את⟩ nombhande othothomisiweyo we-iefodi, wamdibanisa ngawo.",
   "tokens": [
     {
       "surface": "ויתן",
-      "gloss": "Wafakela phezu"
+      "gloss": "wambeka"
     },
     {
       "surface": "עליו",
@@ -18,46 +18,46 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "isingcingi"
+      "marks": "ihempe"
     },
     {
       "surface": "הכתנת",
-      "gloss": "isingcingi"
+      "gloss": "ihempe"
     },
     {
       "surface": "ויחגר",
-      "gloss": "wamzinga"
+      "gloss": "wamzingela"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨אתו⟩",
-      "marks": "ngesisixa"
+      "gloss": "⟨את⟩",
+      "marks": "yena"
     },
     {
       "surface": "באבנט",
-      "gloss": "ngesisixa"
+      "gloss": "nombhande wokusingatha"
     },
     {
       "surface": "וילבש",
-      "gloss": "wambathisa"
+      "gloss": "wamxinzeza"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨אתו⟩",
-      "marks": "ngengubo engaphandle"
+      "gloss": "⟨את⟩",
+      "marks": "yena"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ingubo engaphandle"
+      "marks": "ingubo engaphezulu"
     },
     {
       "surface": "המעיל",
-      "gloss": "ingubo engaphandle"
+      "gloss": "ingubo engaphezulu"
     },
     {
       "surface": "ויתן",
-      "gloss": "wafakela phezu"
+      "gloss": "wambeka"
     },
     {
       "surface": "עליו",
@@ -66,32 +66,32 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "i-efode"
+      "marks": "iefodi"
     },
     {
       "surface": "האפד",
-      "gloss": "i-efode"
+      "gloss": "iefodi"
     },
     {
       "surface": "ויחגר",
-      "gloss": "wamzinga"
+      "gloss": "wamzingela"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨אתו⟩",
-      "marks": "ngesisixa se-efode elorhiweyo"
+      "gloss": "⟨את⟩",
+      "marks": "yena"
     },
     {
       "surface": "בחשב",
-      "gloss": "ngesisixa elorhiweyo"
+      "gloss": "nombhande othothomisiweyo"
     },
     {
       "surface": "האפד",
-      "gloss": "se-efode"
+      "gloss": "we-iefodi"
     },
     {
-      "surface": "ויאפד",
-      "gloss": "wayibophelela"
+      "surface": "ואאפד",
+      "gloss": "wamdibanisa"
     },
     {
       "surface": "לו",
@@ -99,9 +99,9 @@
     },
     {
       "surface": "בו",
-      "gloss": "ngaso"
+      "gloss": "ngawo"
     }
   ],
-  "timestamp": "2026-09-18T06:44:14.378661901Z",
+  "timestamp": "2026-09-19T14:07:00.036724113Z",
   "model": "glm-5.3"
 }

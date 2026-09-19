@@ -5,12 +5,12 @@
   "book": "deuteronomy",
   "lang": "xh",
   "chapter": 13,
-  "translation": "⟨את⟩ elidanyana lonke endinikelayo ndilayela nina, ⟨את⟩ lona niya kulilingeza ukulisebenzisa; akukho nto niza kongeza phezu kwalo, kananjalo akukho nto niza kunciphisa kuwo.",
+  "translation": "⟨את⟩ lonke ilizwi endinisiyalo ⟨את⟩ kuni, ⟨את⟩ lo niligcine nilenze; musa ukongeza kulo, kananjalo musa ukunciphisa kuwo.",
   "tokens": [
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "elidanyana lonke"
+      "marks": "lonke ilizwi"
     },
     {
       "surface": "כל",
@@ -18,63 +18,63 @@
     },
     {
       "surface": "הדבר",
-      "gloss": "elidanyana"
+      "gloss": "ilizwi"
     },
     {
       "surface": "אשר",
-      "gloss": "endinikelayo"
+      "gloss": "endinisiyalo"
     },
     {
       "surface": "אנכי",
-      "gloss": "mna"
+      "gloss": "mna (ndi-)"
     },
     {
       "surface": "מצוה",
-      "gloss": "ndilayela"
+      "gloss": "ndinisiya"
     },
     {
       "surface": "אתכם",
       "gloss": "⟨את⟩",
-      "marks": "nina"
+      "marks": "kuni"
     },
     {
       "surface": "אתו",
       "gloss": "⟨את⟩",
-      "marks": "lona"
+      "marks": "lo (ilizwi)"
     },
     {
       "surface": "תשמרו",
-      "gloss": "niya kulilingeza"
+      "gloss": "niligcine"
     },
     {
       "surface": "לעשות",
-      "gloss": "ukulisebenzisa"
+      "gloss": "nilenze"
     },
     {
       "surface": "לא",
-      "gloss": "akukho nto"
+      "gloss": "musa"
     },
     {
       "surface": "תסף",
-      "gloss": "niza kongeza"
+      "gloss": "ukongeza"
     },
     {
       "surface": "עליו",
-      "gloss": "phezu kwalo"
+      "gloss": "kulo"
     },
     {
       "surface": "ולא",
-      "gloss": "kananjalo akukho nto"
+      "gloss": "kananjalo musa"
     },
     {
       "surface": "תגרע",
-      "gloss": "niza kunciphisa"
+      "gloss": "ukunciphisa"
     },
     {
       "surface": "ממנו",
       "gloss": "kuwo"
     }
   ],
-  "timestamp": "2026-09-18T08:08:17.826042048Z",
+  "timestamp": "2026-09-19T13:49:20.691265179Z",
   "model": "glm-5.3"
 }

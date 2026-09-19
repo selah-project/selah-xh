@@ -5,11 +5,11 @@
   "book": "exodus",
   "lang": "xh",
   "chapter": 3,
-  "translation": "Kwaye ngoku, yabona, ukhalo lwabantwana bakaSirayeli lufikelele kum; kwaye ndiyabonile nangaphezu ⟨את⟩ loxinzelelo abazinzelela ngawona abaseMitsrayim.",
+  "translation": "Kwaye ngoku, yabona, ukhalo lwabantwana bakaSirayeli lufikile kum; ndibonile kwakhona ⟨את⟩ isixinzwa abantu baseMitsrayim abasixinzayo ngaso ⟨את⟩.",
   "tokens": [
     {
       "surface": "ועתה",
-      "gloss": "kwaye ngoku"
+      "gloss": "Kwaye ngoku"
     },
     {
       "surface": "הנה",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "באה",
-      "gloss": "lufikelele"
+      "gloss": "lufikile"
     },
     {
       "surface": "אלי",
@@ -37,38 +37,39 @@
     },
     {
       "surface": "וגם",
-      "gloss": "kwaye nangaphezu"
+      "gloss": "kwakhona nakwi"
     },
     {
       "surface": "ראיתי",
-      "gloss": "ndiyabonile"
+      "gloss": "ndibonile"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "loxinzelelo"
+      "marks": "isixinzwa"
     },
     {
       "surface": "הלחץ",
-      "gloss": "loxinzelelo"
+      "gloss": "isixinzwa"
     },
     {
       "surface": "אשר",
-      "gloss": "abazinzelela ngawona"
+      "gloss": "oko"
     },
     {
       "surface": "מצרים",
-      "gloss": "abaseMitsrayim"
+      "gloss": "abantu baseMitsrayim"
     },
     {
       "surface": "לחצים",
-      "gloss": "abazinzelela"
+      "gloss": "abasixinzayo"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩ zona"
+      "gloss": "⟨את⟩",
+      "marks": "bonke (abantwana bakaSirayeli)"
     }
   ],
-  "timestamp": "2026-09-18T05:52:40.979081581Z",
+  "timestamp": "2026-09-19T13:52:16.989837320Z",
   "model": "glm-5.3"
 }

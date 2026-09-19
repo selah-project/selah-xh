@@ -5,19 +5,19 @@
   "book": "jeremiah",
   "lang": "xh",
   "chapter": 5,
-  "translation": "Ndingaxolela njani ngokunjalo na? Oonyana bakho bandishiye, bafunga ngezo ezingesoonthixo; ndazalisa, benza isifebe, baya kwindlu yesifebe baziqunge ngamaqela.",
+  "translation": "Ndingayixolela njani na le nto kuwe? Oonyana bakho bandishiya, bafunga ngoothixo abangekho yithixo; ndabazalisa ⟨את⟩ bona, basebenza ubufele, baqokelelana ngamaqela endlwini yesifebe.",
   "tokens": [
     {
       "surface": "אי",
-      "gloss": "njani"
+      "gloss": "njani na"
     },
     {
       "surface": "לזאת",
-      "gloss": "ngokunjalo"
+      "gloss": "le nto"
     },
     {
       "surface": "אסלוח",
-      "gloss": "Ndingaxolela"
+      "gloss": "ndingayixolela"
     },
     {
       "surface": "לך",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "עזבוני",
-      "gloss": "bandishiye"
+      "gloss": "bandishiya"
     },
     {
       "surface": "וישבעו",
@@ -37,27 +37,28 @@
     },
     {
       "surface": "בלא",
-      "gloss": "ngezo ezingeso"
+      "gloss": "nge-… abangekho"
     },
     {
       "surface": "אלהים",
-      "gloss": "onthixo"
+      "gloss": "oothixo"
     },
     {
       "surface": "ואשבע",
-      "gloss": "ndazalisa"
+      "gloss": "ndabazalisa"
     },
     {
       "surface": "אותם",
-      "gloss": "⟨את⟩ bona"
+      "gloss": "⟨את⟩",
+      "marks": "basebenza ubufele"
     },
     {
       "surface": "וינאפו",
-      "gloss": "benza isifebe"
+      "gloss": "basebenza ubufele"
     },
     {
       "surface": "ובית",
-      "gloss": "kwindlu"
+      "gloss": "endlwini"
     },
     {
       "surface": "זונה",
@@ -65,9 +66,9 @@
     },
     {
       "surface": "יתגדדו",
-      "gloss": "baziqunge"
+      "gloss": "baqokelelana ngamaqela"
     }
   ],
-  "timestamp": "2026-09-18T11:58:03.557095583Z",
+  "timestamp": "2026-09-19T14:02:12.046831230Z",
   "model": "glm-5.3"
 }

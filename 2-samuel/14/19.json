@@ -5,11 +5,11 @@
   "book": "2-samuel",
   "lang": "xh",
   "chapter": 14,
-  "translation": "Inkosi yathi: Ingaba isandla soYowabhi singaphi kuyo yonke le? Umfazi waphendula wathetha: Njengokuphila kwakho, inkosi yam inkosi, akukho mntu unokujikeza ngasekunene okanye ngasekhohlo nakwinto yonke enkosini yam inkosi ithethileyo; kuba ilikhoboka lakho uYowabhi yena wandalela, yena wabeka emlonyeni wekhonza yakho ⟨את⟩ yonke lamazwi.",
+  "translation": "Wathi inkosi: “Ingaba isandla sikaYowabhi ⟨את⟩ sinawwe kwazo zonke ezi?” Yaphendula umfazi wathi: “Njengokuphila kwomphefumlo wakho, nkosi yam inkosi, akukho mntu unokujika ekunene okanye ekhohlo kwanto eyayithethwa yinkosi yam inkosi; kuba inkonzi yakho uYowabhi, yena undalele, yena wabiza emlonyeni wencedishi yakho ⟨את⟩ la mazwi onke.”",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "yathi"
+      "gloss": "wathi"
     },
     {
       "surface": "המלך",
@@ -25,19 +25,19 @@
     },
     {
       "surface": "אתך",
-      "gloss": "⟨את⟩"
+      "gloss": "⟨את⟩ nawe"
     },
     {
       "surface": "בכל",
-      "gloss": "kuyo yonke"
+      "gloss": "kwi-"
     },
     {
       "surface": "זאת",
-      "gloss": "le"
+      "gloss": "zonke ezi"
     },
     {
       "surface": "ותען",
-      "gloss": "waphendula"
+      "gloss": "yaphendula"
     },
     {
       "surface": "האשה",
@@ -45,7 +45,7 @@
     },
     {
       "surface": "ותאמר",
-      "gloss": "wathetha"
+      "gloss": "wathi"
     },
     {
       "surface": "חי",
@@ -53,11 +53,11 @@
     },
     {
       "surface": "נפשך",
-      "gloss": "kwakho"
+      "gloss": "komphefumlo wakho"
     },
     {
       "surface": "אדני",
-      "gloss": "inkosi yam"
+      "gloss": "nkosi yam"
     },
     {
       "surface": "המלך",
@@ -65,35 +65,35 @@
     },
     {
       "surface": "אם",
-      "gloss": "akukho mntu unokujikeza ukuba"
+      "gloss": "ingaba"
     },
     {
       "surface": "אש",
-      "gloss": "kukho"
+      "gloss": "akukho mntu"
     },
     {
       "surface": "להמין",
-      "gloss": "ngasekunene"
+      "gloss": "unokujika ekunene"
     },
     {
       "surface": "ולהשמיל",
-      "gloss": "okanye ngasekhohlo"
+      "gloss": "okanye ekhohlo"
     },
     {
       "surface": "מכל",
-      "gloss": "nakwinto yonke"
+      "gloss": "kwanto"
     },
     {
       "surface": "אשר",
-      "gloss": "ento"
+      "gloss": "eyayi-"
     },
     {
       "surface": "דבר",
-      "gloss": "ithethileyo"
+      "gloss": "ithethile"
     },
     {
       "surface": "אדני",
-      "gloss": "enkosini yam"
+      "gloss": "nkosi yam"
     },
     {
       "surface": "המלך",
@@ -105,7 +105,7 @@
     },
     {
       "surface": "עבדך",
-      "gloss": "ilikhoboka lakho"
+      "gloss": "inkonzi yakho"
     },
     {
       "surface": "יואב",
@@ -117,7 +117,7 @@
     },
     {
       "surface": "צוני",
-      "gloss": "wandalela"
+      "gloss": "undalele"
     },
     {
       "surface": "והוא",
@@ -125,7 +125,7 @@
     },
     {
       "surface": "שם",
-      "gloss": "wabeka"
+      "gloss": "wabiza"
     },
     {
       "surface": "בפי",
@@ -133,26 +133,26 @@
     },
     {
       "surface": "שפחתך",
-      "gloss": "wekhonza yakho"
+      "gloss": "wencedishi yakho"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "yonke lamazwi"
+      "marks": "la mazwi onke"
     },
     {
       "surface": "כל",
-      "gloss": "yonke"
+      "gloss": "onke"
     },
     {
       "surface": "הדברים",
-      "gloss": "lamazwi"
+      "gloss": "amazwi"
     },
     {
       "surface": "האלה",
       "gloss": "la"
     }
   ],
-  "timestamp": "2026-09-18T09:58:38.991337181Z",
+  "timestamp": "2026-09-19T13:47:59.563123398Z",
   "model": "glm-5.3"
 }

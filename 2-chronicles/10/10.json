@@ -5,49 +5,49 @@
   "book": "2-chronicles",
   "lang": "xh",
   "chapter": 10,
-  "translation": "Amakhwenkwe abakhulela ⟨את⟩ yena athetha naye ngokuthi: Uza kuthetha kanjalo kubantu abathethayo kuwe ngokuthi: Ubawo wenza umthwalo wethu ubunzima, kodwa wena uyehlise owethu; uza kuthetha kanjalo kubo: Umunwe wam oyalincinci ungumkhulu kuneelobo zobawo.",
+  "translation": "Kwaye abafana abakhulele naye bathethelela ⟨את⟩ kuye besithi: Njalo uza kuthethela abantu abathe Thethe kuwe besithi: Ubawo wenzima kangako ⟨את⟩ ithyoke yethu, kodwa wena yenza iyone lula ibe ngaphezu kwethu; njalo uza kuthetha kubo: Umnwe wam omncinane unzima ngakumbi kunamathambo esisu sikabawo.",
   "tokens": [
     {
       "surface": "וידברו",
-      "gloss": "athetha"
+      "gloss": "kwaye bathethelela"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ yena",
-      "marks": "naye"
+      "gloss": "⟨את⟩",
+      "marks": "kuye"
     },
     {
       "surface": "הילדים",
-      "gloss": "amakhwenkwe"
+      "gloss": "abafana"
     },
     {
       "surface": "אשר",
-      "gloss": "aba"
+      "gloss": "abo"
     },
     {
       "surface": "גדלו",
-      "gloss": "abakhulela"
+      "gloss": "abakhulele"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ yena",
-      "marks": "yena"
+      "gloss": "⟨את⟩",
+      "marks": "naye"
     },
     {
       "surface": "לאמר",
-      "gloss": "ngokuthi"
+      "gloss": "besithi"
     },
     {
       "surface": "כה",
-      "gloss": "kanjalo"
+      "gloss": "njalo"
     },
     {
       "surface": "תאמר",
-      "gloss": "uza kuthetha"
+      "gloss": "uza kuthethela"
     },
     {
       "surface": "לעם",
-      "gloss": "kubantu"
+      "gloss": "abantu"
     },
     {
       "surface": "אשר",
@@ -55,7 +55,7 @@
     },
     {
       "surface": "דברו",
-      "gloss": "bathethayo"
+      "gloss": "bathethileyo"
     },
     {
       "surface": "אליך",
@@ -63,24 +63,24 @@
     },
     {
       "surface": "לאמר",
-      "gloss": "ngokuthi"
+      "gloss": "besithi"
     },
     {
       "surface": "אביך",
-      "gloss": "Ubawo"
+      "gloss": "ubawo"
     },
     {
       "surface": "הכביד",
-      "gloss": "wenza ubunzima"
+      "gloss": "wenzima kangako"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "umthwalo wethu"
+      "marks": "ithyoke yethu"
     },
     {
       "surface": "עלנו",
-      "gloss": "umthwalo wethu"
+      "gloss": "ithyoke yethu"
     },
     {
       "surface": "ואתה",
@@ -88,15 +88,15 @@
     },
     {
       "surface": "הקל",
-      "gloss": "uyehlise"
+      "gloss": "yenza iyone lula"
     },
     {
       "surface": "מעלינו",
-      "gloss": "owethu"
+      "gloss": "phezu kwethu"
     },
     {
       "surface": "כה",
-      "gloss": "kanjalo"
+      "gloss": "njalo"
     },
     {
       "surface": "תאמר",
@@ -108,21 +108,21 @@
     },
     {
       "surface": "קטני",
-      "gloss": "umunwe oyalincinci"
+      "gloss": "umnwe wam omncinane"
     },
     {
       "surface": "עבה",
-      "gloss": "ungumkhulu ngokobukhulu"
+      "gloss": "unzima"
     },
     {
       "surface": "ממתני",
-      "gloss": "kuneelobo"
+      "gloss": "kunamathambo esisu"
     },
     {
       "surface": "אבי",
-      "gloss": "zobawo"
+      "gloss": "sikabawo"
     }
   ],
-  "timestamp": "2026-09-18T17:06:19.394595179Z",
+  "timestamp": "2026-09-19T13:45:13.273116532Z",
   "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "jeremiah",
   "lang": "xh",
   "chapter": 43,
-  "translation": "kuba uBaruki unyana kaNeriya ukukhuthuza ngakumbi ⟨את⟩ wena ngokuchasenene nathi, ukuzinika ⟨את⟩ thina esandleni seBhabheli ukusibulala nasokusingathwa ngenkukumo eBhabheli.”",
+  "translation": "kuba nguBarukhi unyana kaNeriya akhuthaza wena ngokuchasene nathi, ukuze asinike kwisandla samaKasdi, ukuba basibulale, basithumelele ngesikhathe eBhabheli.",
   "tokens": [
     {
       "surface": "כי",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "ברוך",
-      "gloss": "uBaruki"
+      "gloss": "uBarukhi"
     },
     {
       "surface": "בן",
@@ -25,15 +25,16 @@
     },
     {
       "surface": "מסית",
-      "gloss": "ukukhuthuza ngachaseneyo"
+      "gloss": "akhuthaza ngokuchasene nathi"
     },
     {
       "surface": "אתך",
-      "gloss": "⟨את⟩ wena"
+      "gloss": "⟨את⟩",
+      "marks": "wena"
     },
     {
       "surface": "בנו",
-      "gloss": "ngokuchasenene nathi"
+      "gloss": "ngokuchasene nathi"
     },
     {
       "surface": "למען",
@@ -41,41 +42,44 @@
     },
     {
       "surface": "תת",
-      "gloss": "ukuzinika"
+      "gloss": "asinike"
     },
     {
       "surface": "אתנו",
-      "gloss": "⟨את⟩ thina"
+      "gloss": "⟨את⟩",
+      "marks": "athi"
     },
     {
       "surface": "ביד",
-      "gloss": "esandleni"
+      "gloss": "kwisandla"
     },
     {
       "surface": "הכשדים",
-      "gloss": "seBhabheli"
+      "gloss": "samaKasdi"
     },
     {
       "surface": "להמית",
-      "gloss": "ukusibulala"
+      "gloss": "ukuba basibulale"
     },
     {
       "surface": "אתנו",
-      "gloss": "⟨את⟩ thina"
+      "gloss": "⟨את⟩",
+      "marks": "athi"
     },
     {
       "surface": "ולהגלות",
-      "gloss": "nasokusingathwa ngenkukumo"
+      "gloss": "basithumelele ngesikhathe"
     },
     {
       "surface": "אתנו",
-      "gloss": "⟨את⟩ thina"
+      "gloss": "⟨את⟩",
+      "marks": "athi"
     },
     {
       "surface": "בבל",
       "gloss": "eBhabheli"
     }
   ],
-  "timestamp": "2026-09-18T12:33:56.736768465Z",
+  "timestamp": "2026-09-19T14:01:15.114578461Z",
   "model": "glm-5.3"
 }

@@ -5,20 +5,20 @@
   "book": "song-of-songs",
   "lang": "xh",
   "chapter": 2,
-  "translation": "Ndafungisela nina, amadoda akwaselwa aseYerushalayimi, ngesibawo nasengentsuzini yasendle: musa ukuvusa nokuvuyisa uthando ⟨את⟩, de ludande.",
+  "translation": "Ndiniwanule nina, oodadakazi baseYerushalayimi, ⟨את⟩ ngeephuti okanye ngeenyala zasimahla: musa ukuvusa, okanye ukuvusa ⟨את⟩ uthando, de achume.",
   "tokens": [
     {
       "surface": "השבעתי",
-      "gloss": "Ndafungisela"
+      "gloss": "ndiniwanule"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩",
-      "marks": "nina"
+      "gloss": "⟨את⟩ nina",
+      "marks": "oodadakazi baseYerushalayimi"
     },
     {
       "surface": "בנות",
-      "gloss": "amadoda akwaselwa"
+      "gloss": "oodadakazi"
     },
     {
       "surface": "ירושלם",
@@ -26,35 +26,35 @@
     },
     {
       "surface": "בצבאות",
-      "gloss": "ngesibawo"
+      "gloss": "ngeephuti"
     },
     {
       "surface": "או",
-      "gloss": "okanye nasen"
+      "gloss": "okanye"
     },
     {
       "surface": "באילות",
-      "gloss": "ngentsuzini"
+      "gloss": "ngeenyala"
     },
     {
       "surface": "השדה",
-      "gloss": "yasendle"
+      "gloss": "zasimahla"
     },
     {
       "surface": "אם",
-      "gloss": "ukuba musa"
+      "gloss": "musa ukuba"
     },
     {
       "surface": "תעירו",
-      "gloss": "ukuvusa"
+      "gloss": "nivusa"
     },
     {
       "surface": "ואם",
-      "gloss": "nokuba"
+      "gloss": "okanye musa"
     },
     {
       "surface": "תעוררו",
-      "gloss": "ukuvuyisa"
+      "gloss": "niyevuse"
     },
     {
       "surface": "את",
@@ -71,9 +71,9 @@
     },
     {
       "surface": "שתחפץ",
-      "gloss": "ludande"
+      "gloss": "achume"
     }
   ],
-  "timestamp": "2026-09-18T16:16:35.907866802Z",
+  "timestamp": "2026-09-19T14:11:40.037001428Z",
   "model": "glm-5.3"
 }

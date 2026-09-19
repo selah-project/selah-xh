@@ -5,20 +5,20 @@
   "book": "deuteronomy",
   "lang": "xh",
   "chapter": 29,
-  "translation": "Ndanihamba nani iminyaka engamashumi amane entlango; iingubo zenu azizidambanga phezu kwenu, nesicathulo sakho asizidambanga ehlotyeni lweenyawo zakho.",
+  "translation": "Ndakunihambisa ⟨את⟩ iminyaka engamashumi amane esitheni; iingubo zenu azigudile ngaphezu kwenu, nesonja sakho asigudile ngaphezu kolunyawo lwakho.",
   "tokens": [
     {
       "surface": "ואולך",
-      "gloss": "Ndanihamba"
+      "gloss": "Ndakunihambisa"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ nina",
-      "marks": "nina (iminyaka engamashumi amane)"
+      "gloss": "⟨את⟩",
+      "marks": "iminyaka engamashumi amane"
     },
     {
       "surface": "ארבעים",
-      "gloss": "engamashumi amane"
+      "gloss": "amashumi amane"
     },
     {
       "surface": "שנה",
@@ -26,15 +26,15 @@
     },
     {
       "surface": "במדבר",
-      "gloss": "entlango"
+      "gloss": "esitheni"
     },
     {
       "surface": "לא",
-      "gloss": "azizi"
+      "gloss": "azi- (hayi)"
     },
     {
       "surface": "בלו",
-      "gloss": "zidambanga"
+      "gloss": "-gudile"
     },
     {
       "surface": "שלמתיכם",
@@ -42,29 +42,29 @@
     },
     {
       "surface": "מעליכם",
-      "gloss": "phezu kwenu"
+      "gloss": "ngaphezu kwenu"
     },
     {
       "surface": "ונעלך",
-      "gloss": "nesicathulo sakho"
+      "gloss": "nesonja sakho"
     },
     {
       "surface": "לא",
-      "gloss": "asi"
+      "gloss": "asi- (hayi)"
     },
     {
       "surface": "בלתה",
-      "gloss": "zidambanga"
+      "gloss": "-gudile"
     },
     {
       "surface": "מעל",
-      "gloss": "ehlotyeni"
+      "gloss": "ngaphezu ko-"
     },
     {
       "surface": "רגלך",
-      "gloss": "lweenyawo zakho"
+      "gloss": "lunyawo lwakho"
     }
   ],
-  "timestamp": "2026-09-18T08:21:23.958108471Z",
+  "timestamp": "2026-09-19T13:49:50.399301121Z",
   "model": "glm-5.3"
 }

@@ -5,11 +5,11 @@
   "book": "1-kings",
   "lang": "xh",
   "chapter": 13,
-  "translation": "Kwathi emva kokumngcwatha, wathetha kwiinkwenkwe zakhe, esithi: “Xa ndifile, ningcwathe ⟨את⟩ mna engcwabeni umntu kaElohim ungcwathiweyo kulo; bekani ⟨את⟩ amathambo am eduze kwamathambo akhe.”",
+  "translation": "Kwathi-ke emva kokuba engcwabile ⟨את⟩ yena, wathetha kwiinyana zakhe, wathi: Xa ndifi, ningcwabe ⟨את⟩ mna kwingcwaba anokungcwatyelwa kuyo umntu kaElohim; beka ⟨את⟩ amathambo am ecaleni kwamathambo akhe.",
   "tokens": [
     {
       "surface": "ויהי",
-      "gloss": "Kwathi"
+      "gloss": "Kwathi-ke"
     },
     {
       "surface": "אחרי",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "קברו",
-      "gloss": "kokumngcwatha"
+      "gloss": "engcwabile"
     },
     {
       "surface": "אתו",
@@ -34,19 +34,19 @@
     },
     {
       "surface": "בניו",
-      "gloss": "iinkwenkwe zakhe"
+      "gloss": "iinyana zakhe"
     },
     {
       "surface": "לאמר",
-      "gloss": "esithi"
+      "gloss": "wathi"
     },
     {
       "surface": "במותי",
-      "gloss": "xa ndifile"
+      "gloss": "xa ndifi"
     },
     {
       "surface": "וקברתם",
-      "gloss": "ningcwathe"
+      "gloss": "ningcwabe"
     },
     {
       "surface": "אתי",
@@ -55,11 +55,11 @@
     },
     {
       "surface": "בקבר",
-      "gloss": "engcwabeni"
+      "gloss": "kwingcwaba"
     },
     {
       "surface": "אשר",
-      "gloss": "lau"
+      "gloss": "anokungcwatyelwa kuyo"
     },
     {
       "surface": "איש",
@@ -71,23 +71,23 @@
     },
     {
       "surface": "קבור",
-      "gloss": "ungcwathiweyo"
+      "gloss": "engcwatyelwe"
     },
     {
       "surface": "בו",
-      "gloss": "kulo"
+      "gloss": "kuyo"
     },
     {
       "surface": "אצל",
-      "gloss": "eduze"
+      "gloss": "ecaleni kwa"
     },
     {
       "surface": "עצמתיו",
-      "gloss": "kwamathambo akhe"
+      "gloss": "amathambo akhe"
     },
     {
       "surface": "הניחו",
-      "gloss": "bekani"
+      "gloss": "beka"
     },
     {
       "surface": "את",
@@ -99,6 +99,6 @@
       "gloss": "amathambo am"
     }
   ],
-  "timestamp": "2026-09-18T10:26:55.542296716Z",
+  "timestamp": "2026-09-19T13:42:21.764132093Z",
   "model": "glm-5.3"
 }

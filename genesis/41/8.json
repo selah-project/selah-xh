@@ -5,11 +5,11 @@
   "book": "genesis",
   "lang": "xh",
   "chapter": 41,
-  "translation": "Kwenzekile ekuseni, umoya wakhe wakhathazeka; wathuma wabiza ⟨את⟩ onke abagqwirha aseMitsrayim, nabo ⟨את⟩ onke amahlakani ayo; uParo wayexoxela kubo ⟨את⟩ iphupho lakhe, kodwa akukho utoliki kuParo.",
+  "translation": "Kwakungakusasa, umoya wakhe wawuxinzelele; wathumela wabiza ⟨את⟩ bonke abalobi-ntsapho baseMitsrayim kunye ⟨את⟩ bonke oohlakaniphe bayo; uParo wabadayimba ⟨את⟩ ubuthongo bakhe, kodwa akukho mtoliki ⟨את⟩ wawo kuParo.",
   "tokens": [
     {
       "surface": "ויהי",
-      "gloss": "kwenzekile"
+      "gloss": "kwakungakusasa"
     },
     {
       "surface": "בבקר",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "ותפעם",
-      "gloss": "wakhathazeka"
+      "gloss": "wawuxinzelele"
     },
     {
       "surface": "רוחו",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "וישלח",
-      "gloss": "wathuma"
+      "gloss": "wathumela"
     },
     {
       "surface": "ויקרא",
@@ -34,36 +34,36 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "onke abagqwirha aseMitsrayim"
+      "marks": "bonke abalobi-ntsapho baseMitsrayim"
     },
     {
       "surface": "כל",
-      "gloss": "onke"
+      "gloss": "bonke"
     },
     {
       "surface": "חרטמי",
-      "gloss": "abagqwirha"
+      "gloss": "abalobi-ntsapho"
     },
     {
       "surface": "מצרים",
-      "gloss": "aseMitsrayim"
+      "gloss": "baseMitsrayim"
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
-      "marks": "onke amahlakani ayo"
+      "gloss": "kunye ⟨את⟩",
+      "marks": "bonke oohlakaniphe bayo"
     },
     {
       "surface": "כל",
-      "gloss": "onke"
+      "gloss": "bonke"
     },
     {
       "surface": "חכמיה",
-      "gloss": "amahlakani ayo"
+      "gloss": "oohlakaniphe bayo"
     },
     {
       "surface": "ויספר",
-      "gloss": "wayexoxa"
+      "gloss": "wabadayimba"
     },
     {
       "surface": "פרעה",
@@ -76,29 +76,30 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "iphupho lakhe"
+      "marks": "ubuthongo bakhe"
     },
     {
       "surface": "חלמו",
-      "gloss": "iphupho lakhe"
+      "gloss": "ubuthongo bakhe"
     },
     {
       "surface": "ואין",
-      "gloss": "akukho"
+      "gloss": "kodwa akukho"
     },
     {
       "surface": "פותר",
-      "gloss": "utoliki"
+      "gloss": "mtoliki"
     },
     {
       "surface": "אותם",
-      "gloss": "⟨את⟩ azona"
+      "gloss": "⟨את⟩ wawo",
+      "marks": "ubuthongo kuParo"
     },
     {
       "surface": "לפרעה",
       "gloss": "kuParo"
     }
   ],
-  "timestamp": "2026-09-18T05:38:05.952741460Z",
+  "timestamp": "2026-09-19T13:57:14.226381847Z",
   "model": "glm-5.3"
 }

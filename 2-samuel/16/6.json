@@ -5,15 +5,15 @@
   "book": "2-samuel",
   "lang": "xh",
   "chapter": 16,
-  "translation": "Wazithula iintyatyambo ukuDawidi nakuzo zonke iinkonzo zenkosi uDawidi; yaye onke abantu namadoda amakhulu asekunene kwakhe nasekhohlo kwakhe.",
+  "translation": "Watshela amabane kuDawidi ⟨את⟩ nakwamakhonza onke enkosi uDawidi, nangona wonke abantu namagorha onke bebemi ngasekunene nangasekhohlo lakhe.",
   "tokens": [
     {
       "surface": "ויסקל",
-      "gloss": "wazithula"
+      "gloss": "watshela amabane"
     },
     {
       "surface": "באבנים",
-      "gloss": "iintyatyambo"
+      "gloss": "amabane"
     },
     {
       "surface": "את",
@@ -26,20 +26,20 @@
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
-      "marks": "zonke iinkonzo zenkosi uDawidi"
+      "gloss": "naku-⟨את⟩",
+      "marks": "onke amakhonza"
     },
     {
       "surface": "כל",
-      "gloss": "zonke"
+      "gloss": "onke"
     },
     {
       "surface": "עבדי",
-      "gloss": "iinkonzo"
+      "gloss": "amakhonza"
     },
     {
       "surface": "המלך",
-      "gloss": "zenkosi"
+      "gloss": "enkosi"
     },
     {
       "surface": "דוד",
@@ -47,7 +47,7 @@
     },
     {
       "surface": "וכל",
-      "gloss": "yaye onke"
+      "gloss": "nawonke"
     },
     {
       "surface": "העם",
@@ -55,21 +55,21 @@
     },
     {
       "surface": "וכל",
-      "gloss": "namadoda"
+      "gloss": "nawonke"
     },
     {
       "surface": "הגברים",
-      "gloss": "amakhulu"
+      "gloss": "amagorha"
     },
     {
       "surface": "מימינו",
-      "gloss": "ekunene kwakhe"
+      "gloss": "ngasekunene lakhe"
     },
     {
       "surface": "ומשמאלו",
-      "gloss": "nasekhohlo kwakhe"
+      "gloss": "nangasekhohlo lakhe"
     }
   ],
-  "timestamp": "2026-09-18T09:58:12.427264795Z",
+  "timestamp": "2026-09-19T13:47:36.875644603Z",
   "model": "glm-5.3"
 }

@@ -5,28 +5,28 @@
   "book": "genesis",
   "lang": "xh",
   "chapter": 5,
-  "translation": "Wahamba ngeendlela uKhanokh eduze ⟨את⟩ kaElohim, wasuka angasekho, kuba uElohim wamthabatha.",
+  "translation": "Kwaye uKhanoki wayehamba noElohim, waza akasekho, kuba uElohim wamthatha.",
   "tokens": [
     {
       "surface": "ויתהלך",
-      "gloss": "wahamba ngeendlela"
+      "gloss": "wayehamba"
     },
     {
       "surface": "חנוך",
-      "gloss": "uKhanokh"
+      "gloss": "uKhanoki"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "kaElohim"
+      "marks": "uElohim"
     },
     {
       "surface": "האלהים",
-      "gloss": "kaElohim"
+      "gloss": "uElohim"
     },
     {
       "surface": "ואיננו",
-      "gloss": "wasuka angasekho"
+      "gloss": "waza akasekho"
     },
     {
       "surface": "כי",
@@ -34,18 +34,18 @@
     },
     {
       "surface": "לקח",
-      "gloss": "wamthabatha"
+      "gloss": "wamthatha"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ yena",
-      "marks": "uKhanokh"
+      "gloss": "⟨את⟩",
+      "marks": "uKhanoki"
     },
     {
       "surface": "אלהים",
       "gloss": "uElohim"
     }
   ],
-  "timestamp": "2026-09-18T05:09:02.350647994Z",
+  "timestamp": "2026-09-19T13:57:37.205752956Z",
   "model": "glm-5.3"
 }

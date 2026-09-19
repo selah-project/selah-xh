@@ -5,7 +5,7 @@
   "book": "2-samuel",
   "lang": "xh",
   "chapter": 18,
-  "translation": "UDawidi wabalisa ⟨את⟩ abantu abakunye naye, wabeka phezu kwabo iintloko zamawaka neentloko zamakhulu.",
+  "translation": "Wabalisa uDavide ⟨את⟩ abantu ababe ⟨את⟩ naye, wabeka phezu kwabo abaphathi amawaka kunye nabaphathi amakhulu.",
   "tokens": [
     {
       "surface": "ויפקד",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "דוד",
-      "gloss": "uDawidi"
+      "gloss": "uDavide"
     },
     {
       "surface": "את",
@@ -26,11 +26,11 @@
     },
     {
       "surface": "אשר",
-      "gloss": "abo"
+      "gloss": "ababe"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ kunye naye"
+      "gloss": "⟨את⟩ naye"
     },
     {
       "surface": "וישם",
@@ -42,21 +42,21 @@
     },
     {
       "surface": "שרי",
-      "gloss": "iintloko zama-"
+      "gloss": "abaphathi"
     },
     {
       "surface": "אלפים",
-      "gloss": "waka"
+      "gloss": "amawaka"
     },
     {
       "surface": "ושרי",
-      "gloss": "neentloko zama-"
+      "gloss": "kunye nabaphathi"
     },
     {
       "surface": "מאות",
       "gloss": "amakhulu"
     }
   ],
-  "timestamp": "2026-09-18T09:59:28.276955162Z",
+  "timestamp": "2026-09-19T13:47:06.187969332Z",
   "model": "glm-5.3"
 }

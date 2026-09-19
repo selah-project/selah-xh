@@ -5,7 +5,7 @@
   "book": "numbers",
   "lang": "xh",
   "chapter": 21,
-  "translation": "Wathi uYahwe wathumela kwaba bantu ⟨את⟩ inyoka ezithayo ezivuthayo; zakhamba zilumela abantu, aze abantu abaninzi bakwaSirayeli abafileyo.",
+  "translation": "Wathi uYahwe wathumela kubantu ⟨את⟩ iinyoka ezishushu, zazibabulula ⟨את⟩ abantu, wafa umntu uninzi wakwa-Israyeli.",
   "tokens": [
     {
       "surface": "וישלח",
@@ -17,24 +17,24 @@
     },
     {
       "surface": "בעם",
-      "gloss": "kwaba bantu"
+      "gloss": "kubantu"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "inyoka ezivuthayo"
+      "marks": "iinyoka ezishushu"
     },
     {
       "surface": "הנחשים",
-      "gloss": "injokwane ezivuthayo"
+      "gloss": "iinyoka"
     },
     {
       "surface": "השרפים",
-      "gloss": "ezivuthayo (ezifudumeleyo)"
+      "gloss": "ezishushu"
     },
     {
       "surface": "וינשכו",
-      "gloss": "zakhamba zilumela"
+      "gloss": "zazibabulula"
     },
     {
       "surface": "את",
@@ -47,21 +47,21 @@
     },
     {
       "surface": "וימת",
-      "gloss": "aze ... bafe"
+      "gloss": "wafa"
     },
     {
       "surface": "עם",
-      "gloss": "abantu"
+      "gloss": "umntu"
     },
     {
       "surface": "רב",
-      "gloss": "abaninzi"
+      "gloss": "uninzi"
     },
     {
       "surface": "מישראל",
-      "gloss": "bakwaSirayeli"
+      "gloss": "wakwa-Israyeli"
     }
   ],
-  "timestamp": "2026-09-18T07:33:30.434388637Z",
+  "timestamp": "2026-09-19T14:09:25.720425508Z",
   "model": "glm-5.3"
 }

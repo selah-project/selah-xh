@@ -5,11 +5,11 @@
   "book": "daniel",
   "lang": "xh",
   "chapter": 10,
-  "translation": "Ndawuva ilizwi lamazwi akhe, kwaye xa ndawuva ilizwi lamazwi akhe, mna ndathwalelwa bubuthongo ebusweni bam, ubuso bam bugqibelele emhlabeni.",
+  "translation": "Ndaweva ⟨את⟩ ilizwi lamazwi akhe; kwaye xa ndeva ⟨את⟩ ilizwi lamazwi akhe, mna ndaba ngumtyhali emdeni wam, ubuso bam bubhekisele emhlabeni.",
   "tokens": [
     {
       "surface": "ואשמע",
-      "gloss": "ndawuva"
+      "gloss": "Ndaweva"
     },
     {
       "surface": "את",
@@ -26,7 +26,7 @@
     },
     {
       "surface": "וכשמעי",
-      "gloss": "kwaye xa ndawuva"
+      "gloss": "kwaye xa ndeva"
     },
     {
       "surface": "את",
@@ -43,7 +43,7 @@
     },
     {
       "surface": "ואני",
-      "gloss": "mna"
+      "gloss": "kwaye mna"
     },
     {
       "surface": "הייתי",
@@ -51,15 +51,15 @@
     },
     {
       "surface": "נרדם",
-      "gloss": "ndathwalelwa bubuthongo"
+      "gloss": "ngumtyhali"
     },
     {
       "surface": "על",
-      "gloss": "ebusweni"
+      "gloss": "emdeni"
     },
     {
       "surface": "פני",
-      "gloss": "bam"
+      "gloss": "ubuso bam"
     },
     {
       "surface": "ופני",
@@ -70,6 +70,6 @@
       "gloss": "emhlabeni"
     }
   ],
-  "timestamp": "2026-09-18T16:36:52.745911362Z",
+  "timestamp": "2026-09-19T13:48:11.188149380Z",
   "model": "glm-5.3"
 }

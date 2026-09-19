@@ -5,7 +5,7 @@
   "book": "leviticus",
   "lang": "xh",
   "chapter": 11,
-  "translation": "Ezi niyakuzitya kuzo zonke izinto ezikumanzi: yonke into enesisqwiba neengqindili kumanzi, ezilwandle nakumilambo, ⟨את⟩ ezi niyakuzitya.",
+  "translation": "Ezi ⟨את⟩ niyazidla, kwizo zonke ezikumanzi: yonke into eno-xhwebo lwamaphiko nezikhumba ezibetheleyo ezikumanzi, ezilwandle nakwiimilambo, ngazo ⟨אתם⟩ niyazidla.",
   "tokens": [
     {
       "surface": "את",
@@ -18,43 +18,43 @@
     },
     {
       "surface": "תאכלו",
-      "gloss": "niyakuzitya"
+      "gloss": "niyazidla"
     },
     {
       "surface": "מכל",
-      "gloss": "kuzo zonke"
+      "gloss": "kwizo zonke"
     },
     {
       "surface": "אשר",
-      "gloss": "ezikumanzi (oko)"
+      "gloss": "ezikumanzi"
     },
     {
       "surface": "במים",
-      "gloss": "kumanzi"
+      "gloss": "ezikumanzi"
     },
     {
       "surface": "כל",
-      "gloss": "yonke"
+      "gloss": "yonke into"
     },
     {
       "surface": "אשר",
-      "gloss": "into ene- (oko)"
+      "gloss": "enamaphiko nezikhumba ezibetheleyo"
     },
     {
       "surface": "לו",
-      "gloss": "-ne-"
+      "gloss": "enawo"
     },
     {
       "surface": "סנפיר",
-      "gloss": "isiqwiba"
+      "gloss": "amaphiko"
     },
     {
       "surface": "וקשקשת",
-      "gloss": "neengqindili"
+      "gloss": "nezikhumba ezibetheleyo"
     },
     {
       "surface": "במים",
-      "gloss": "kumanzi"
+      "gloss": "ezikumanzi"
     },
     {
       "surface": "בימים",
@@ -62,18 +62,18 @@
     },
     {
       "surface": "ובנחלים",
-      "gloss": "nakumilambo"
+      "gloss": "nakwiimilambo"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩",
-      "marks": "ezi"
+      "gloss": "⟨אתם⟩",
+      "marks": "ngazo (izinto ezikumanzi)"
     },
     {
       "surface": "תאכלו",
-      "gloss": "niyakuzitya"
+      "gloss": "niyazidla"
     }
   ],
-  "timestamp": "2026-09-18T06:41:34.636394832Z",
+  "timestamp": "2026-09-19T14:06:23.495647507Z",
   "model": "glm-5.3"
 }

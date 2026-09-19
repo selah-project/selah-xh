@@ -5,25 +5,25 @@
   "book": "1-chronicles",
   "lang": "xh",
   "chapter": 1,
-  "translation": "NoYebhusi, noEmori, noGirgashi.",
+  "translation": "kwaye ⟨את⟩ iYebusi, kwaye ⟨את⟩ u-Emori, kwaye ⟨את⟩ iGirgashi;",
   "tokens": [
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "iYebhusi"
+      "marks": "iYebusi"
     },
     {
       "surface": "היבוסי",
-      "gloss": "iYebhusi"
+      "gloss": "iYebusi"
     },
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "iEmori"
+      "marks": "u-Emori"
     },
     {
       "surface": "האמרי",
-      "gloss": "iEmori"
+      "gloss": "u-Emori"
     },
     {
       "surface": "ואת",
@@ -35,6 +35,6 @@
       "gloss": "iGirgashi"
     }
   ],
-  "timestamp": "2026-09-18T16:50:26.288442325Z",
+  "timestamp": "2026-09-19T13:40:51.474797890Z",
   "model": "glm-5.3"
 }

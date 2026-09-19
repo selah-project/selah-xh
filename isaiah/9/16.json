@@ -5,15 +5,15 @@
   "book": "isaiah",
   "lang": "xh",
   "chapter": 9,
-  "translation": "Ngoko ke u-Adonayi akavuywa ngamakhosikazi amakhwenkwee akhe, akananzolela iintandane zakhe nangamafelwa akhe; kuba wonke umntu uyayinkimbinkimbi yobugqwira, yaye yonke into enjalo yonile, nomlomo wonke uthetha ubuzenzakhalaza; nangaphezu kwako konke oku, imvakalelo yakhe yolaka ayibuyanga, yaye isandla sakhe sisaqhubekile sinamathele.",
+  "translation": "Ngoko u-Adonayi akavuywa ngamakhwenkwe akhe, kwaye ⟨את⟩ iinkedama zakhe ⟨את⟩ nabafelokazi bakhe akazi bakehlomola, kuba wonke umntu ungcolile yenze okubi, nomile wonke umlomo uthetha ubuwula. Nangako konke oku ulaka lwakhe alubuyanga, isandla sakhe sisoloko sikrwelwe.",
   "tokens": [
     {
       "surface": "על",
-      "gloss": "ngoko"
+      "gloss": "ngenxa"
     },
     {
       "surface": "כן",
-      "gloss": "ke"
+      "gloss": "ngoko"
     },
     {
       "surface": "על",
@@ -21,15 +21,15 @@
     },
     {
       "surface": "בחוריו",
-      "gloss": "amakhwenkwee akhe"
+      "gloss": "amakhwenkwe akhe"
     },
     {
       "surface": "לא",
-      "gloss": "akavuywa"
+      "gloss": "akayi"
     },
     {
       "surface": "ישמח",
-      "gloss": "vuywa"
+      "gloss": "kuvuywa"
     },
     {
       "surface": "אדני",
@@ -38,28 +38,28 @@
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "iintandane zakhe"
+      "marks": "iinkedama zakhe"
     },
     {
       "surface": "יתמיו",
-      "gloss": "iintandane zakhe"
+      "gloss": "iinkedama zakhe"
     },
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "amafelwa akhe"
+      "marks": "abafelokazi bakhe"
     },
     {
       "surface": "אלמנתיו",
-      "gloss": "amafelwa akhe"
+      "gloss": "abafelokazi bakhe"
     },
     {
       "surface": "לא",
-      "gloss": "akadanga"
+      "gloss": "akazi"
     },
     {
       "surface": "ירחם",
-      "gloss": "akananzolela"
+      "gloss": "bakehlomola"
     },
     {
       "surface": "כי",
@@ -71,19 +71,19 @@
     },
     {
       "surface": "חנף",
-      "gloss": "uyayinkimbinkimbi yobugqwira"
+      "gloss": "ungcolile"
     },
     {
       "surface": "ומרע",
-      "gloss": "yaye yonke into enjalo yonile"
+      "gloss": "yenza okubi"
     },
     {
       "surface": "וכל",
-      "gloss": "nomlomo wonke"
+      "gloss": "nomile"
     },
     {
       "surface": "פה",
-      "gloss": "nomlomo wonke"
+      "gloss": "umlomo"
     },
     {
       "surface": "דבר",
@@ -91,11 +91,11 @@
     },
     {
       "surface": "נבלה",
-      "gloss": "ubuzenzakhalaza"
+      "gloss": "ubuwula"
     },
     {
       "surface": "בכל",
-      "gloss": "nangaphezu kwako konke"
+      "gloss": "nangako konke"
     },
     {
       "surface": "זאת",
@@ -103,19 +103,19 @@
     },
     {
       "surface": "לא",
-      "gloss": "ayibuyanga"
+      "gloss": "alubuyanga"
     },
     {
       "surface": "שב",
-      "gloss": "ibuyanga"
+      "gloss": "alubuyanga"
     },
     {
       "surface": "אפו",
-      "gloss": "imvakalelo yakhe yolaka"
+      "gloss": "ulaka lwakhe"
     },
     {
       "surface": "ועוד",
-      "gloss": "yaye"
+      "gloss": "sisoloko"
     },
     {
       "surface": "ידו",
@@ -123,9 +123,9 @@
     },
     {
       "surface": "נטויה",
-      "gloss": "sisaqhubekile sinamathele"
+      "gloss": "sikrwelwe"
     }
   ],
-  "timestamp": "2026-09-18T17:33:59.560995196Z",
+  "timestamp": "2026-09-19T13:59:34.206644812Z",
   "model": "glm-5.3"
 }

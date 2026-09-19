@@ -5,7 +5,7 @@
   "book": "2-kings",
   "lang": "xh",
   "chapter": 2,
-  "translation": "Wathabatha ⟨את⟩ ingubo ka-Eliya eyayiwileleyo kuye, wabayela amanzi, wathi: “Uphina uYahwe, uElohim ka-Eliya?” Waze naye wabayela ⟨את⟩ amanzi, aze achazwa lecali nalecali, uElishe wadlula.",
+  "translation": "Wathabatha ⟨את⟩ ingubo ka-Eliya eyo yawela kuye, wabetha ⟨את⟩ amanzi, wathetha wathi: “Uphi uYahwe, uElohim ka-Eliya? Nakanye yena wabetha ⟨את⟩ amanzi, yaza yahlukana apha napha, wadlula u-Elisha.",
   "tokens": [
     {
       "surface": "ויקח",
@@ -14,7 +14,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ingubo ka-Eliya"
+      "marks": "ingubo"
     },
     {
       "surface": "אדרת",
@@ -22,15 +22,15 @@
     },
     {
       "surface": "אליהו",
-      "gloss": "u-Eliya"
+      "gloss": "ka-Eliya"
     },
     {
       "surface": "אשר",
-      "gloss": "eyay"
+      "gloss": "eyo"
     },
     {
       "surface": "נפלה",
-      "gloss": "iwileleyo"
+      "gloss": "yawela"
     },
     {
       "surface": "מעליו",
@@ -38,7 +38,7 @@
     },
     {
       "surface": "ויכה",
-      "gloss": "wabayela"
+      "gloss": "wabetha"
     },
     {
       "surface": "את",
@@ -51,11 +51,11 @@
     },
     {
       "surface": "ויאמר",
-      "gloss": "wathi"
+      "gloss": "wathetha"
     },
     {
       "surface": "איה",
-      "gloss": "uphina"
+      "gloss": "uphi"
     },
     {
       "surface": "יהוה",
@@ -63,15 +63,15 @@
     },
     {
       "surface": "אלהי",
-      "gloss": "uElohim ka-"
+      "gloss": "uElohim"
     },
     {
       "surface": "אליהו",
-      "gloss": "u-Eliya"
+      "gloss": "ka-Eliya"
     },
     {
       "surface": "אף",
-      "gloss": "naye"
+      "gloss": "nakanye"
     },
     {
       "surface": "הוא",
@@ -79,7 +79,7 @@
     },
     {
       "surface": "ויכה",
-      "gloss": "wabayela"
+      "gloss": "wabetha"
     },
     {
       "surface": "את",
@@ -92,15 +92,15 @@
     },
     {
       "surface": "ויחצו",
-      "gloss": "achazwa"
+      "gloss": "yaza yahlukana"
     },
     {
       "surface": "הנה",
-      "gloss": "lecali"
+      "gloss": "apha"
     },
     {
       "surface": "והנה",
-      "gloss": "nalecali"
+      "gloss": "napha"
     },
     {
       "surface": "ויעבר",
@@ -108,9 +108,9 @@
     },
     {
       "surface": "אלישע",
-      "gloss": "uElishe"
+      "gloss": "u-Elisha"
     }
   ],
-  "timestamp": "2026-09-18T10:39:01.551847328Z",
+  "timestamp": "2026-09-19T13:46:43.504600097Z",
   "model": "glm-5.3"
 }

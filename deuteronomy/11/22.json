@@ -5,11 +5,11 @@
   "book": "deuteronomy",
   "lang": "xh",
   "chapter": 11,
-  "translation": "Kuba ukuba niyakugcina ngokupheleleyo ⟨את⟩ lo myalelo wonke endiniyalelayo ukwenziwa, ukuthanda ⟨את⟩ uYahwe uElohim wenu, ukuhamba kuzo zonke iindlela zakhe, nokunamathela kuye:",
+  "translation": "Kuba ukuba niyakugcina ngokucokisekileyo ⟨את⟩ lo myalelo wonke endiniyalelayo ukuba niwenze: ukuthanda ⟨את⟩ uYahwe uElohim wenu, ukuhamba ezindleleni zakhe zonke, nokunamathela kuye;",
   "tokens": [
     {
       "surface": "כי",
-      "gloss": "Kuba"
+      "gloss": "kuba"
     },
     {
       "surface": "אם",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "שמר",
-      "gloss": "ngokupheleleyo"
+      "gloss": "ukugcina (ngokucokisekileyo)"
     },
     {
       "surface": "תשמרון",
@@ -38,7 +38,7 @@
     },
     {
       "surface": "הזאת",
-      "gloss": "le"
+      "gloss": "eli"
     },
     {
       "surface": "אשר",
@@ -46,11 +46,11 @@
     },
     {
       "surface": "אנכי",
-      "gloss": "mna"
+      "gloss": "ndi-"
     },
     {
       "surface": "מצוה",
-      "gloss": "ndiyalela"
+      "gloss": "-niyalela"
     },
     {
       "surface": "אתכם",
@@ -58,7 +58,7 @@
     },
     {
       "surface": "לעשתה",
-      "gloss": "ukwenziwa"
+      "gloss": "ukuba niwenze"
     },
     {
       "surface": "לאהבה",
@@ -98,6 +98,6 @@
       "gloss": "kuye"
     }
   ],
-  "timestamp": "2026-09-18T08:02:42.886208990Z",
+  "timestamp": "2026-09-19T13:49:17.608147058Z",
   "model": "glm-5.3"
 }

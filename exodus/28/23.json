@@ -5,7 +5,7 @@
   "book": "exodus",
   "lang": "xh",
   "chapter": 28,
-  "translation": "Uze wenze phezu kwechosheni iindawo zangasese ezimbini zegolide, uze uzibeke iindawo zangasese ezimbini kumacala amabini echosheni.",
+  "translation": "Uze wenze phezu kwechoshen iindumba ezimbini zegolide, uze umise ⟨את⟩ ezi ndumba ezimbini phezu kweendlela ezimbini zokugqibela zechoshen.",
   "tokens": [
     {
       "surface": "ועשית",
@@ -13,11 +13,11 @@
     },
     {
       "surface": "על",
-      "gloss": "phezu"
+      "gloss": "phezu kwa-"
     },
     {
       "surface": "החשן",
-      "gloss": "kwechosheni"
+      "gloss": "echoshen"
     },
     {
       "surface": "שתי",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "טבעות",
-      "gloss": "iindawo zangasese"
+      "gloss": "iindumba"
     },
     {
       "surface": "זהב",
@@ -33,12 +33,12 @@
     },
     {
       "surface": "ונתת",
-      "gloss": "uze uzibeke"
+      "gloss": "uze umise"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "iindawo zangasese ezimbini"
+      "marks": "ezi ndumba ezimbini"
     },
     {
       "surface": "שתי",
@@ -46,25 +46,25 @@
     },
     {
       "surface": "הטבעות",
-      "gloss": "iindawo zangasese"
+      "gloss": "ezi ndumba"
     },
     {
       "surface": "על",
-      "gloss": "ku"
+      "gloss": "phezu kwe-"
     },
     {
       "surface": "שני",
-      "gloss": "amabini"
+      "gloss": "ezimbini"
     },
     {
       "surface": "קצות",
-      "gloss": "amacala"
+      "gloss": "iindlela zokugqibela"
     },
     {
       "surface": "החשן",
-      "gloss": "echosheni"
+      "gloss": "zechoshen"
     }
   ],
-  "timestamp": "2026-09-18T17:21:24.399825964Z",
+  "timestamp": "2026-09-19T13:52:29.445661469Z",
   "model": "glm-5.3"
 }

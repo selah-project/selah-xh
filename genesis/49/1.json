@@ -5,15 +5,15 @@
   "book": "genesis",
   "lang": "xh",
   "chapter": 49,
-  "translation": "UNoYaaqob wabizela iinyana zakhe, waza wathetha: “Qoqani, ndiza kunixelela ⟨את⟩ oko kuya kuniwe kuni ekupheleni kwemihla.”",
+  "translation": "Wabiza uYaakob oonyana bakhe, wathi: “Qoqani, nditsheloni ⟨את⟩ oko okuya kuniwela kuni ⟨אתכם⟩ kwiintsuku zokugqibela.”",
   "tokens": [
     {
       "surface": "ויקרא",
-      "gloss": "wabizela"
+      "gloss": "Wabiza"
     },
     {
       "surface": "יעקב",
-      "gloss": "u-Yaaqob"
+      "gloss": "uYaakob"
     },
     {
       "surface": "אל",
@@ -21,28 +21,28 @@
     },
     {
       "surface": "בניו",
-      "gloss": "iinyana zakhe"
+      "gloss": "oonyana bakhe"
     },
     {
       "surface": "ויאמר",
-      "gloss": "waza wathetha"
+      "gloss": "wathi"
     },
     {
       "surface": "האספו",
-      "gloss": "qoqani"
+      "gloss": "Qoqani"
     },
     {
       "surface": "ואגידה",
-      "gloss": "ndiza kunixelela"
+      "gloss": "nditsheloni"
     },
     {
       "surface": "לכם",
-      "gloss": "nina"
+      "gloss": "ni"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "oko (kuya kuniwe kuni)"
+      "marks": "oko okuya kuniwela kuni"
     },
     {
       "surface": "אשר",
@@ -50,21 +50,22 @@
     },
     {
       "surface": "יקרא",
-      "gloss": "kuya kuniwe"
+      "gloss": "okuya kuniwela kuni"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ nina"
+      "gloss": "⟨את⟩",
+      "marks": "kuni"
     },
     {
       "surface": "באחרית",
-      "gloss": "ekupheleni"
+      "gloss": "ekugqibeleni kwe"
     },
     {
       "surface": "הימים",
-      "gloss": "kwemihla"
+      "gloss": "iintsuku"
     }
   ],
-  "timestamp": "2026-09-18T05:47:53.656597062Z",
+  "timestamp": "2026-09-19T13:57:50.036348997Z",
   "model": "glm-5.3"
 }

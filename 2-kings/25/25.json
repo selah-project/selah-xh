@@ -5,11 +5,11 @@
   "book": "2-kings",
   "lang": "xh",
   "chapter": 25,
-  "translation": "Yaye kwenzeka ngenyanga yesixhenxe, weza uYishmayeli, unyana kaNetanya, unyana kaElishama, ozalwa kwindlu yobukumkani, kunye namadoda alishumi, wabetha ⟨את⟩ uGedalyaha wafa, naba ⟨את⟩ amaYuda naba ⟨את⟩ amaKashdi ababengo naye eMitspa.",
+  "translation": "Kwenzekile ngenyanga yesixhenxe, weza u-Yishmayeli unyana kaNetanyah, unyana ka-Elishama, owosizwe sobukumkani, namadoda alishumi ⟨את⟩ naye; wabetha ⟨את⟩ uGedalyahu wasweleka, nakuni amaYuda nakuni iKasdim aba- ⟨את⟩ babekho naye eMitspa.",
   "tokens": [
     {
       "surface": "ויהי",
-      "gloss": "kwenzeka"
+      "gloss": "Kwenzekile"
     },
     {
       "surface": "בחדש",
@@ -24,8 +24,8 @@
       "gloss": "weza"
     },
     {
-      "surface": "י שמעאל",
-      "gloss": "uYishmayeli"
+      "surface": "ישמעאל",
+      "gloss": "u-Yishmayeli"
     },
     {
       "surface": "בן",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "נתניה",
-      "gloss": "kaNetanya"
+      "gloss": "kaNetanyah"
     },
     {
       "surface": "בן",
@@ -41,19 +41,19 @@
     },
     {
       "surface": "אלישמע",
-      "gloss": "kaElishama"
+      "gloss": "ka-Elishama"
     },
     {
       "surface": "מזרע",
-      "gloss": "ozalwa kwindlu"
+      "gloss": "owosizwe"
     },
     {
       "surface": "המלוכה",
-      "gloss": "yobukumkani"
+      "gloss": "sobukumkani"
     },
     {
       "surface": "ועשרה",
-      "gloss": "kunye namashumi"
+      "gloss": "alishumi"
     },
     {
       "surface": "אנשים",
@@ -70,15 +70,15 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "uGedalyahа"
+      "marks": "uGedalyahu"
     },
     {
       "surface": "גדליהו",
-      "gloss": "uGedalyaha"
+      "gloss": "uGedalyahu"
     },
     {
       "surface": "וימת",
-      "gloss": "wafa"
+      "gloss": "wasweleka"
     },
     {
       "surface": "ואת",
@@ -92,19 +92,19 @@
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "amaKashdi"
+      "marks": "iKasdim"
     },
     {
       "surface": "הכשדים",
-      "gloss": "amaKashdi"
+      "gloss": "iKasdim"
     },
     {
       "surface": "אשר",
-      "gloss": "aba"
+      "gloss": "aba-"
     },
     {
       "surface": "היו",
-      "gloss": "babengo"
+      "gloss": "babekho"
     },
     {
       "surface": "אתו",
@@ -115,6 +115,6 @@
       "gloss": "eMitspa"
     }
   ],
-  "timestamp": "2026-09-18T17:33:56.441687411Z",
+  "timestamp": "2026-09-19T13:47:59.500216193Z",
   "model": "glm-5.3"
 }

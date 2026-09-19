@@ -5,28 +5,28 @@
   "book": "leviticus",
   "lang": "xh",
   "chapter": 8,
-  "translation": "Ihola lowo, wayihlela ibe ziingceba zalo; uMoshe watyhalela ⟨את⟩ intloko ⟨את⟩ neengceba ⟨את⟩ namafutha.",
+  "translation": "Waza ⟨את⟩ isigodi wacheba ngamacandelo alo; uMoshe wawutshisa ⟨את⟩ intloko, ⟨את⟩ amacandelo, no⟨את⟩ amafutha.",
   "tokens": [
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "ihola"
+      "marks": "isigodi"
     },
     {
       "surface": "האיל",
-      "gloss": "ihola"
+      "gloss": "isigodi"
     },
     {
       "surface": "נתח",
-      "gloss": "wayihlela ibe ziingceba"
+      "gloss": "wacheba"
     },
     {
       "surface": "לנתחיו",
-      "gloss": "ziingceba zalo"
+      "gloss": "ngamacandelo alo"
     },
     {
       "surface": "ויקטר",
-      "gloss": "watyhalela"
+      "gloss": "wawutshisa"
     },
     {
       "surface": "משה",
@@ -44,11 +44,11 @@
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "iingceba"
+      "marks": "amacandelo"
     },
     {
       "surface": "הנתחים",
-      "gloss": "iingceba"
+      "gloss": "amacandelo"
     },
     {
       "surface": "ואת",
@@ -60,6 +60,6 @@
       "gloss": "amafutha"
     }
   ],
-  "timestamp": "2026-09-18T06:44:31.693400200Z",
+  "timestamp": "2026-09-19T14:06:38.580233521Z",
   "model": "glm-5.3"
 }

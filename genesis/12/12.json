@@ -5,11 +5,11 @@
   "book": "genesis",
   "lang": "xh",
   "chapter": 12,
-  "translation": "Kwaye kuya kwaba njalo: xa amadoda aseMitsrayim ebona ⟨את⟩ wena, bathi: “Ngumfazi wale lo,” baze bandibulala ⟨את⟩ ndim, wena bakugcina ubomi.",
+  "translation": "Kwaye kuya kwenzeka, xa iiMitsrayim zibona ⟨את⟩ wena, zithi: “Ngumfazi wakhe lo,” zize kubulala ⟨את⟩ mna, kodwa ⟨את⟩ wena bazakugcina ubomi.",
   "tokens": [
     {
       "surface": "והיה",
-      "gloss": "kwaye kuya kwaba njalo"
+      "gloss": "kwaye kuya kwenzeka"
     },
     {
       "surface": "כי",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "יראו",
-      "gloss": "ebona"
+      "gloss": "zibona"
     },
     {
       "surface": "אתך",
@@ -26,11 +26,11 @@
     },
     {
       "surface": "המצרים",
-      "gloss": "amadoda aseMitsrayim"
+      "gloss": "iiMitsrayim"
     },
     {
       "surface": "ואמרו",
-      "gloss": "bathi"
+      "gloss": "zithi"
     },
     {
       "surface": "אשתו",
@@ -42,12 +42,12 @@
     },
     {
       "surface": "והרגו",
-      "gloss": "bandibulala"
+      "gloss": "zize kubulala"
     },
     {
       "surface": "אתי",
       "gloss": "⟨את⟩",
-      "marks": "ndim"
+      "marks": "mna"
     },
     {
       "surface": "ואתך",
@@ -56,9 +56,9 @@
     },
     {
       "surface": "יחיו",
-      "gloss": "bakugcina ubomi"
+      "gloss": "bazakugcina ubomi"
     }
   ],
-  "timestamp": "2026-09-18T05:13:09.386252582Z",
+  "timestamp": "2026-09-19T13:56:03.999722985Z",
   "model": "glm-5.3"
 }

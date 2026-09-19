@@ -5,31 +5,32 @@
   "book": "judges",
   "lang": "xh",
   "chapter": 10,
-  "translation": "NooTsidoni, no-Amaleki, noMaoni banicinezela; nanimemeza kum, ndaninikulula ⟨nina⟩ esandleni sabo.",
+  "translation": "Nabaneg bakwaTsidoni, nabase-Amalek, nabakwaMaoni banizinzakalisa; nanikhalaza kum, ndanisindisa ⟨את⟩ nasezandleni zabo.",
   "tokens": [
     {
       "surface": "וצידונים",
-      "gloss": "nooTsidoni"
+      "gloss": "nabaneg bakwaTsidoni"
     },
     {
       "surface": "ועמלק",
-      "gloss": "no-Amaleki"
+      "gloss": "nabase-Amalek"
     },
     {
       "surface": "ומעון",
-      "gloss": "noMaoni"
+      "gloss": "nabakwaMaoni"
     },
     {
       "surface": "לחצו",
-      "gloss": "banicinezela"
+      "gloss": "banizinzakalisa"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ nina"
+      "gloss": "⟨את⟩",
+      "marks": "nina"
     },
     {
       "surface": "ותצעקו",
-      "gloss": "nanimemeza"
+      "gloss": "nanikhalaza"
     },
     {
       "surface": "אלי",
@@ -37,17 +38,18 @@
     },
     {
       "surface": "ואושיעה",
-      "gloss": "ndaninikulula"
+      "gloss": "ndanisindisa"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ nina"
+      "gloss": "⟨את⟩",
+      "marks": "nina"
     },
     {
       "surface": "מידם",
-      "gloss": "esandleni sabo"
+      "gloss": "ezandleni zabo"
     }
   ],
-  "timestamp": "2026-09-18T08:57:09.966508447Z",
+  "timestamp": "2026-09-19T14:03:58.495901875Z",
   "model": "glm-5.3"
 }

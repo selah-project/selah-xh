@@ -5,7 +5,7 @@
   "book": "numbers",
   "lang": "xh",
   "chapter": 14,
-  "translation": "Ukuba uYahwe uyakuthanda kuthi, uza kusingenisa ⟨thina⟩ kule mhlaba, aze awusinike — umhlaba ogcwele ubisi nenju.",
+  "translation": "Ukuba uYahwe uyakuthanda thina, uza kusingenisa ⟨את⟩ thina kule mlaba, aze usinike wona — umhlaba ophuhlisa ubisi nobusi.",
   "tokens": [
     {
       "surface": "אם",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "בנו",
-      "gloss": "kuthi"
+      "gloss": "thina"
     },
     {
       "surface": "יהוה",
@@ -38,7 +38,7 @@
     },
     {
       "surface": "הארץ",
-      "gloss": "le mhlaba"
+      "gloss": "le mlaba"
     },
     {
       "surface": "הזאת",
@@ -46,11 +46,11 @@
     },
     {
       "surface": "ונתנה",
-      "gloss": "aze awusinike"
+      "gloss": "aze usinike"
     },
     {
       "surface": "לנו",
-      "gloss": "thina"
+      "gloss": "wonasisi"
     },
     {
       "surface": "ארץ",
@@ -62,11 +62,11 @@
     },
     {
       "surface": "הוא",
-      "gloss": "yena"
+      "gloss": "ngowophuhlisa"
     },
     {
       "surface": "זבת",
-      "gloss": "ogcwele"
+      "gloss": "ophuhlisa"
     },
     {
       "surface": "חלב",
@@ -74,9 +74,9 @@
     },
     {
       "surface": "ודבש",
-      "gloss": "nenju"
+      "gloss": "nobusi"
     }
   ],
-  "timestamp": "2026-09-18T07:25:33.438244416Z",
+  "timestamp": "2026-09-19T14:07:42.230887558Z",
   "model": "glm-5.3"
 }

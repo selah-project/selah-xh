@@ -5,11 +5,11 @@
   "book": "genesis",
   "lang": "xh",
   "chapter": 6,
-  "translation": "Yenza kuwe ityeya yamaphezu egofa; iindawo zokuhlala uza kuzenza ⟨את⟩ ityeya, uze uyigubudela ngokhephu ngaphakathi nangaphandle ngesigcawu sokugubudela.",
+  "translation": "Yenza kuwe isikhephe samaphezu egophere; iindawo zokuhlala ⟨za⟩ kwenziwa kule ⟨את⟩ isikhephe, uze uyigqume ⟨את⟩ yona ngaphakathi nangaphandle ngetara.",
   "tokens": [
     {
       "surface": "עשה",
-      "gloss": "yenza"
+      "gloss": "Yenza"
     },
     {
       "surface": "לך",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "תבת",
-      "gloss": "ityeya"
+      "gloss": "isikhephe"
     },
     {
       "surface": "עצי",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "גפר",
-      "gloss": "egofa"
+      "gloss": "egophere"
     },
     {
       "surface": "קנים",
@@ -33,25 +33,25 @@
     },
     {
       "surface": "תעשה",
-      "gloss": "uza kuzenza"
+      "gloss": "kwenziwa"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ityeya"
+      "marks": "isikhephe"
     },
     {
       "surface": "התבה",
-      "gloss": "ityeya"
+      "gloss": "kule isikhephe"
     },
     {
       "surface": "וכפרת",
-      "gloss": "uze uyigubudela"
+      "gloss": "uze uyigqume"
     },
     {
       "surface": "אתה",
       "gloss": "⟨את⟩",
-      "marks": "ngaphakathi nangaphandle"
+      "marks": "yona (isikhephe)"
     },
     {
       "surface": "מבית",
@@ -63,9 +63,9 @@
     },
     {
       "surface": "בכפר",
-      "gloss": "ngesigcawu sokugubudela"
+      "gloss": "ngetara"
     }
   ],
-  "timestamp": "2026-09-18T05:10:18.559331345Z",
+  "timestamp": "2026-09-19T13:58:18.367092344Z",
   "model": "glm-5.3"
 }

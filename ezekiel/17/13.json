@@ -5,7 +5,7 @@
   "book": "ezekiel",
   "lang": "xh",
   "chapter": 17,
-  "translation": "Wathabatha wesilwa sobukhosi, wangena nomnqophiso ⟨את⟩ naye, waza wamngenisa kwisifungo, waza ⟨את⟩ oomelele besizwe wabathabatha.",
+  "translation": "Wathabatha imbewu yobukhosi, waza wenza umnqophiso ⟨את⟩ naye, wamgenisa ⟨את⟩ yena esifungweni, waza ⟨את⟩ amakhakha elizwe wawathabatha.",
   "tokens": [
     {
       "surface": "ויקח",
@@ -13,15 +13,15 @@
     },
     {
       "surface": "מזרע",
-      "gloss": "wesilwa sobukhosi"
+      "gloss": "imbewu"
     },
     {
       "surface": "המלוכה",
-      "gloss": "obukhosi"
+      "gloss": "yobukhosi"
     },
     {
       "surface": "ויכרת",
-      "gloss": "wangena nomnqophiso"
+      "gloss": "wenza"
     },
     {
       "surface": "אתו",
@@ -29,39 +29,39 @@
     },
     {
       "surface": "ברית",
-      "gloss": "nomnqophiso"
+      "gloss": "umnqophiso"
     },
     {
       "surface": "ויבא",
-      "gloss": "waza wamngenisa"
+      "gloss": "wamgenisa"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ yena",
-      "marks": "kwisifungo"
+      "gloss": "⟨את⟩",
+      "marks": "yena (esifungweni)"
     },
     {
       "surface": "באלה",
-      "gloss": "kwisifungo"
+      "gloss": "esifungweni"
     },
     {
       "surface": "ואת",
-      "gloss": "waza ⟨את⟩",
-      "marks": "oomelele besizwe"
+      "gloss": "⟨את⟩",
+      "marks": "amakhakha elizwe"
     },
     {
       "surface": "אילי",
-      "gloss": "oomelele"
+      "gloss": "amakhakha"
     },
     {
       "surface": "הארץ",
-      "gloss": "besizwe"
+      "gloss": "elizwe"
     },
     {
       "surface": "לקח",
-      "gloss": "wabathabatha"
+      "gloss": "wawathabatha"
     }
   ],
-  "timestamp": "2026-09-18T13:05:45.700021558Z",
+  "timestamp": "2026-09-19T13:53:58.302049854Z",
   "model": "glm-5.3"
 }

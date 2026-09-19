@@ -5,7 +5,7 @@
   "book": "2-kings",
   "lang": "xh",
   "chapter": 18,
-  "translation": "Wathumela uKhizqiya, inkosi yaseYehuda, kwinkosi yase-Ashur eLakhisha, esithi: “Ndize ndonakalisa; buyela umva undishiye; ⟨okubeke phezu kwam⟩ ndiza kukuthwala.” Inkosi yase-Ashur yabeka phezu kokoKhizqiya, inkosi yaseYehuda, amathalente amathathu anamakhulu amathathu esilivere namathalente angamashumi amathathu segolide.",
+  "translation": "Wathumela uKhizkiya, inkosi yakwaYuda, elula kwenkosana yakwaAshur apha eLakishi, esithi: “Ndilephule; suka kum; ⟨את⟩ oko uzakubeka phezu kwam, ndiza kuthwala.” Yabeka ke inkosi yakwaAshur phezu kukaKhizkiya, inkosi yakwaYuda, amathalente amakhulu amathathu yesiliva, namathalente angamashumi amathathu egolide.",
   "tokens": [
     {
       "surface": "וישלח",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "חזקיה",
-      "gloss": "uKhizqiya"
+      "gloss": "uKhizkiya"
     },
     {
       "surface": "מלך",
@@ -21,23 +21,23 @@
     },
     {
       "surface": "יהודה",
-      "gloss": "yaseYehuda"
+      "gloss": "yakwaYuda"
     },
     {
       "surface": "אל",
-      "gloss": "ku-"
+      "gloss": "elula"
     },
     {
       "surface": "מלך",
-      "gloss": "inkosi"
+      "gloss": "kwenkosana"
     },
     {
       "surface": "אשור",
-      "gloss": "yase-Ashur"
+      "gloss": "yakwaAshur"
     },
     {
       "surface": "לכישה",
-      "gloss": "eLakhisha"
+      "gloss": "apha eLakishi"
     },
     {
       "surface": "לאמר",
@@ -45,20 +45,20 @@
     },
     {
       "surface": "חטאתי",
-      "gloss": "ndize ndonakalisa"
+      "gloss": "Ndilephule"
     },
     {
       "surface": "שוב",
-      "gloss": "buyela umva"
+      "gloss": "suka"
     },
     {
       "surface": "מעלי",
-      "gloss": "undishiye"
+      "gloss": "kum"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "oko uza kubeka phezu kwam"
+      "marks": "oko uzakubeka phezu kwam"
     },
     {
       "surface": "אשר",
@@ -66,7 +66,7 @@
     },
     {
       "surface": "תתן",
-      "gloss": "uza kubeka"
+      "gloss": "uzakubeka"
     },
     {
       "surface": "עלי",
@@ -74,11 +74,11 @@
     },
     {
       "surface": "אשא",
-      "gloss": "ndiza kukuthwala"
+      "gloss": "ndiza kuthwala"
     },
     {
       "surface": "וישם",
-      "gloss": "yabeka"
+      "gloss": "Yabeka"
     },
     {
       "surface": "מלך",
@@ -86,15 +86,15 @@
     },
     {
       "surface": "אשור",
-      "gloss": "yase-Ashur"
+      "gloss": "yakwaAshur"
     },
     {
       "surface": "על",
-      "gloss": "phezu kuka-"
+      "gloss": "phezu kukaKhizkiya"
     },
     {
       "surface": "חזקיה",
-      "gloss": "uKhizqiya"
+      "gloss": "uKhizkiya"
     },
     {
       "surface": "מלך",
@@ -102,7 +102,7 @@
     },
     {
       "surface": "יהודה",
-      "gloss": "yaseYehuda"
+      "gloss": "yakwaYuda"
     },
     {
       "surface": "שלש",
@@ -110,7 +110,7 @@
     },
     {
       "surface": "מאות",
-      "gloss": "anamakhulu amathathu"
+      "gloss": "amakhulu"
     },
     {
       "surface": "ככר",
@@ -118,11 +118,11 @@
     },
     {
       "surface": "כסף",
-      "gloss": "esilivere"
+      "gloss": "yesiliva"
     },
     {
       "surface": "ושלשים",
-      "gloss": "namathalente angamashumi amathathu"
+      "gloss": "namashumi amathathu"
     },
     {
       "surface": "ככר",
@@ -133,6 +133,6 @@
       "gloss": "egolide"
     }
   ],
-  "timestamp": "2026-09-18T10:51:47.295909365Z",
+  "timestamp": "2026-09-19T13:46:28.757856484Z",
   "model": "glm-5.3"
 }

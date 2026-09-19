@@ -5,7 +5,7 @@
   "book": "leviticus",
   "lang": "xh",
   "chapter": 25,
-  "translation": "NdinguYahwe uElohim wenu, owanikhupha elizweni laseMitsrayim, ukuninika ⟨את⟩ ilizwe laseKenaani, ukuba ndibe nguElohim wenu.",
+  "translation": "NguYahwe uElohim wenu, owanikhuphula kwilizwe laseMitsrayim ukuninika ilizwe leKhanana, ukuba ndibe nguElohim wenu.",
   "tokens": [
     {
       "surface": "אני",
@@ -21,19 +21,19 @@
     },
     {
       "surface": "אשר",
-      "gloss": "oo"
+      "gloss": "owi-"
     },
     {
       "surface": "הוצאתי",
-      "gloss": "ndakunikhupha"
+      "gloss": "wanikhuphula"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ nina"
+      "gloss": "⟨את⟩"
     },
     {
       "surface": "מארץ",
-      "gloss": "elizweni"
+      "gloss": "kwilizwe"
     },
     {
       "surface": "מצרים",
@@ -41,16 +41,16 @@
     },
     {
       "surface": "לתת",
-      "gloss": "ukunika"
+      "gloss": "ukuninika"
     },
     {
       "surface": "לכם",
-      "gloss": "nin"
+      "gloss": "ninika"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ilizwe laseKenaani"
+      "marks": "ilizwe leKhanana"
     },
     {
       "surface": "ארץ",
@@ -58,7 +58,7 @@
     },
     {
       "surface": "כנען",
-      "gloss": "laseKenaani"
+      "gloss": "leKhanana"
     },
     {
       "surface": "להיות",
@@ -66,13 +66,13 @@
     },
     {
       "surface": "לכם",
-      "gloss": "nin"
+      "gloss": "wenu"
     },
     {
       "surface": "לאלהים",
-      "gloss": "nguElohim wenu"
+      "gloss": "nguElohim"
     }
   ],
-  "timestamp": "2026-09-18T07:04:30.159631095Z",
+  "timestamp": "2026-09-19T14:06:57.690690699Z",
   "model": "glm-5.3"
 }

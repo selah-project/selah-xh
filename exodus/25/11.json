@@ -5,16 +5,16 @@
   "book": "exodus",
   "lang": "xh",
   "chapter": 25,
-  "translation": "Uza kuyigubunga ngegolide ecocekileyo; ngaphakathi nangaphandle uza kuyigubunga, uze udale phezu kwayo iqhina legolide elijikelezileyo.",
+  "translation": "Uza kuyibamba ngegolide ecocekileyo; ngaphakathi nangaphandle uza kuyibamba, uze wenze phezu kwayo umsoka wegolide ejikeleze.",
   "tokens": [
     {
       "surface": "וצפית",
-      "gloss": "Uza kuyigubunga"
+      "gloss": "uza kuyibamba"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩yona",
-      "marks": "i-arone"
+      "gloss": "⟨את⟩",
+      "marks": "yona (i-arki)"
     },
     {
       "surface": "זהב",
@@ -34,11 +34,11 @@
     },
     {
       "surface": "תצפנו",
-      "gloss": "uza kuyigubunga"
+      "gloss": "uza kuyibamba"
     },
     {
       "surface": "ועשית",
-      "gloss": "uze udale"
+      "gloss": "uze wenze"
     },
     {
       "surface": "עליו",
@@ -46,17 +46,17 @@
     },
     {
       "surface": "זר",
-      "gloss": "iqhina"
+      "gloss": "umsoka"
     },
     {
       "surface": "זהב",
-      "gloss": "legolide"
+      "gloss": "wegolide"
     },
     {
       "surface": "סביב",
-      "gloss": "elijikelezileyo"
+      "gloss": "ejikeleze"
     }
   ],
-  "timestamp": "2026-09-18T06:12:56.694253363Z",
+  "timestamp": "2026-09-19T13:51:28.062415045Z",
   "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "genesis",
   "lang": "xh",
   "chapter": 33,
-  "translation": "Wabeka ⟨את⟩ iinkonjana ⟨את⟩ abantwana zazo kuqala, ⟨את⟩ uLea nabantwana bayo emva koko, ⟨את⟩ uRakheli noYosef ekugqibeleni.",
+  "translation": "Wabeka aze ubambe ⟨את⟩ oonqwenelekazi kunye nabantwana babo bakuqala, uLea nabantwana bakhe bokugqibela, uRakheli noYosefu bokugqibela.",
   "tokens": [
     {
       "surface": "וישם",
@@ -14,29 +14,29 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "iinkonjana"
+      "marks": "oonqwenelekazi"
     },
     {
       "surface": "השפחות",
-      "gloss": "iinkonjana"
+      "gloss": "oonqwenelekazi"
     },
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "abantwana zazo"
+      "marks": "abantwana babo"
     },
     {
       "surface": "ילדיהן",
-      "gloss": "abantwana zazo"
+      "gloss": "abantwana babo"
     },
     {
       "surface": "ראשנה",
-      "gloss": "kuqala"
+      "gloss": "bakuqala"
     },
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "uLea nabantwana bayo"
+      "marks": "uLea"
     },
     {
       "surface": "לאה",
@@ -44,11 +44,11 @@
     },
     {
       "surface": "וילדיה",
-      "gloss": "nabantwana bayo"
+      "gloss": "abantwana bakhe"
     },
     {
       "surface": "אחרנים",
-      "gloss": "emva koko"
+      "gloss": "bokugqibela"
     },
     {
       "surface": "ואת",
@@ -62,17 +62,17 @@
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "uYosef"
+      "marks": "uYosefu"
     },
     {
       "surface": "יוסף",
-      "gloss": "uYosef"
+      "gloss": "uYosefu"
     },
     {
       "surface": "אחרנים",
-      "gloss": "ekugqibeleni"
+      "gloss": "bokugqibela"
     }
   ],
-  "timestamp": "2026-09-18T05:31:10.795606668Z",
+  "timestamp": "2026-09-19T13:56:55.891327578Z",
   "model": "glm-5.3"
 }

@@ -5,28 +5,28 @@
   "book": "deuteronomy",
   "lang": "xh",
   "chapter": 19,
-  "translation": "Ukuba ugcinile ⟨את⟩ le miyalelo yonke ukuyenza, endikuyalela namhlanje, ukuthanda uYahwe uElohim wakho nokuhamba ezindleleni zakhe yonke imihla, uza kuongeza kuwe kwakhona iidolophu ezintathu ngaphezu kwezi zintathu.",
+  "translation": "Ukuba uzigcina ⟨את⟩ wonke lo myalelo ukubauwenza, endikuyalela ngolu suku, ukuthanda ⟨את⟩ uYahwe uElohim wakho, nokuhamba ngeendlela zakhe yonke imihla, uza kuongeza kuwe kwakhona amasixeko amathathu ngaphezu kwamathathu la.",
   "tokens": [
     {
       "surface": "כי",
-      "gloss": "ukuba"
+      "gloss": "Ukuba"
     },
     {
       "surface": "תשמר",
-      "gloss": "ugcinile"
+      "gloss": "uzigcina"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "le miyalelo yonke"
+      "marks": "wonke lo myalelo"
     },
     {
       "surface": "כל",
-      "gloss": "yonke"
+      "gloss": "wonke"
     },
     {
       "surface": "המצוה",
-      "gloss": "le miyalelo"
+      "gloss": "lo myalelo"
     },
     {
       "surface": "הזאת",
@@ -34,11 +34,11 @@
     },
     {
       "surface": "לעשתה",
-      "gloss": "ukuyenza"
+      "gloss": "ukubauwenza"
     },
     {
       "surface": "אשר",
-      "gloss": "oku"
+      "gloss": "owo"
     },
     {
       "surface": "אנכי",
@@ -50,7 +50,7 @@
     },
     {
       "surface": "היום",
-      "gloss": "namhlanje"
+      "gloss": "ngolu suku"
     },
     {
       "surface": "לאהבה",
@@ -75,7 +75,7 @@
     },
     {
       "surface": "בדרכיו",
-      "gloss": "ezindleleni zakhe"
+      "gloss": "ngeendlela zakhe"
     },
     {
       "surface": "כל",
@@ -99,25 +99,25 @@
     },
     {
       "surface": "שלש",
-      "gloss": "ezintathu"
+      "gloss": "amathathu"
     },
     {
       "surface": "ערים",
-      "gloss": "iidolophu"
+      "gloss": "amasixeko"
     },
     {
       "surface": "על",
-      "gloss": "ngaphezu kwe-"
+      "gloss": "ngaphezu"
     },
     {
       "surface": "השלש",
-      "gloss": "ezintathu"
+      "gloss": "kwamathathu"
     },
     {
       "surface": "האלה",
-      "gloss": "lezi"
+      "gloss": "la"
     }
   ],
-  "timestamp": "2026-09-18T08:11:27.928700515Z",
+  "timestamp": "2026-09-19T13:49:35.094638339Z",
   "model": "glm-5.3"
 }

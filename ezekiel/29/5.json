@@ -5,94 +5,95 @@
   "book": "ezekiel",
   "lang": "xh",
   "chapter": 29,
-  "translation": "Ndiza kukutshiyela entlango, wena ⟨את⟩ onke iintlanzi zemilambo yakho; uza kuwa phevu kobuso belo; awuzi kuqokelelwa, awunakusonjululwa; izilwanyana ezizithi zomhlaba nentsimbi—hayi, iintaka zezulu—ndinike wena ukutya.",
+  "translation": "Ndiza kukushiya esinkcenkce, wena ⟨את⟩ zonke iintlanzi zemilambo yakho; phezu kwelubala lomhlaba uza kuwa; awuzukuqokelelwa, awuzukuhlanganiswa; ezilwanyana zasemhlabeni nangeentaka zezulu ndikunikile wena ukutya.",
   "tokens": [
     {
-      "surface": "ונטשתיך",
-      "gloss": "Ndiza kukutshiyela"
+      "surface": "וּנְטַשְׁתִּ֙יךָ",
+      "gloss": "Ndiza kukushiya"
     },
     {
-      "surface": "המדברה",
-      "gloss": "entlango"
+      "surface": "הַמִּדְבָּ֗רָה",
+      "gloss": "esinkcenkce"
     },
     {
-      "surface": "אותך",
-      "gloss": "⟨את⟩ wena"
+      "surface": "אוֹתְךָ֙",
+      "gloss": "wena ⟨את⟩",
+      "marks": "wena (uParo)"
     },
     {
-      "surface": "ואת",
+      "surface": "וְאֵת֙",
       "gloss": "⟨את⟩",
-      "marks": "onke iintlanzi zemilambo yakho"
+      "marks": "zonke iintlanzi zemilambo yakho"
     },
     {
-      "surface": "כל",
-      "gloss": "onke"
+      "surface": "כָּל",
+      "gloss": "zonke"
     },
     {
-      "surface": "דגת",
+      "surface": "דְּגַ֣ת",
       "gloss": "iintlanzi"
     },
     {
-      "surface": "יאריך",
+      "surface": "יְאֹרֶ֔יךָ",
       "gloss": "zemilambo yakho"
     },
     {
-      "surface": "על",
-      "gloss": "phevu"
+      "surface": "עַל",
+      "gloss": "phezu"
     },
     {
-      "surface": "פני",
-      "gloss": "obuso"
+      "surface": "פְּנֵ֤י",
+      "gloss": "phezu kwe- (ubuso)"
     },
     {
-      "surface": "השדה",
-      "gloss": "belo"
+      "surface": "הַשָּׂדֶה֙",
+      "gloss": "elubala lomhlaba"
     },
     {
-      "surface": "תפול",
+      "surface": "תִּפֹּ֔ל",
       "gloss": "uza kuwa"
     },
     {
-      "surface": "לא",
-      "gloss": "awu-"
+      "surface": "לֹ֥א",
+      "gloss": "hayi"
     },
     {
-      "surface": "תאסף",
-      "gloss": "zi kuqokelelwa"
+      "surface": "תֵאָסֵ֖ף",
+      "gloss": "awuzukuqokelelwa"
     },
     {
-      "surface": "ולא",
-      "gloss": "awunak"
+      "surface": "וְלֹ֣א",
+      "gloss": "hayi nakuni"
     },
     {
-      "surface": "תקבץ",
-      "gloss": "usonjululwa"
+      "surface": "תִקָּבֵ֑ץ",
+      "gloss": "awuzukuhlanganiswa"
     },
     {
-      "surface": "לחית",
-      "gloss": "izilwanyana ezizithi"
+      "surface": "לְחַיַּ֥ת",
+      "gloss": "ezilwanyana"
     },
     {
-      "surface": "הארץ",
-      "gloss": "zomhlaba"
+      "surface": "הָאָ֛רֶץ",
+      "gloss": "zasemhlabeni"
     },
     {
-      "surface": "ולעוף",
-      "gloss": "kunye neentaka"
+      "surface": "וּלְע֥וֹף",
+      "gloss": "nangeentaka"
     },
     {
-      "surface": "השמים",
+      "surface": "הַשָּׁמַ֖יִם",
       "gloss": "zezulu"
     },
     {
-      "surface": "נתתיך",
-      "gloss": "ndinike wena"
+      "surface": "נְתַתִּ֥יךָ",
+      "gloss": "ndikunikile wena"
     },
     {
-      "surface": "לאכלה",
+      "surface": "לְאָכְלָֽה",
       "gloss": "ukutya"
     }
   ],
-  "timestamp": "2026-09-18T13:18:23.758934789Z",
+  "timestamp": "2026-09-19T13:54:43.083399579Z",
   "model": "glm-5.3"
 }

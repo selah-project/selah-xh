@@ -5,7 +5,7 @@
   "book": "2-kings",
   "lang": "xh",
   "chapter": 17,
-  "translation": "Kuba uYisra'eli wadabuka ekhaya likaDavide, baza bamisela uYaravham unyana kaNevhat ukuba abe yinkosi; uYaravham wakhupha ⟨את⟩ uYisra'eli ekulandeleni uYahwe, wabenza bena isono esikhulu.",
+  "translation": "Kuba wazityabula uYisrayeli esendlweni sobukhosi bebhotwe likaDavide, benza ukumiselwa kwesikhosi sabo base benenkosi uYaravheam unyana kaNevathi; waza uYaravheam wakhupha uYisrayeli ekulandeleni uYahwe, wabajongeza esonweni esikhulu.",
   "tokens": [
     {
       "surface": "כי",
@@ -13,19 +13,19 @@
     },
     {
       "surface": "קרע",
-      "gloss": "wadabuka"
+      "gloss": "wazityabula"
     },
     {
       "surface": "ישראל",
-      "gloss": "uYisra'eli"
+      "gloss": "uYisrayeli"
     },
     {
       "surface": "מעל",
-      "gloss": "e-"
+      "gloss": "esendlweni sobukhosi bebhotwe likaDavide"
     },
     {
       "surface": "בית",
-      "gloss": "ekhaya"
+      "gloss": "ebhotwe"
     },
     {
       "surface": "דוד",
@@ -33,16 +33,16 @@
     },
     {
       "surface": "וימליכו",
-      "gloss": "baza bamisela… ukuba abe yinkosi"
+      "gloss": "bamisela njengenkosi"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "uYaravham"
+      "marks": "uYaravheam"
     },
     {
       "surface": "ירבעם",
-      "gloss": "uYaravham"
+      "gloss": "uYaravheam"
     },
     {
       "surface": "בן",
@@ -50,7 +50,7 @@
     },
     {
       "surface": "נבט",
-      "gloss": "kaNevhat"
+      "gloss": "kaNevathi"
     },
     {
       "surface": "וידא",
@@ -58,16 +58,16 @@
     },
     {
       "surface": "ירבעם",
-      "gloss": "uYaravham"
+      "gloss": "uYaravheam"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "uYisra'eli"
+      "marks": "uYisrayeli"
     },
     {
       "surface": "ישראל",
-      "gloss": "uYisra'eli"
+      "gloss": "uYisrayeli"
     },
     {
       "surface": "מאחרי",
@@ -79,7 +79,7 @@
     },
     {
       "surface": "והחטיאם",
-      "gloss": "wabenza bena"
+      "gloss": "wabajongeza esonweni"
     },
     {
       "surface": "חטאה",
@@ -90,6 +90,6 @@
       "gloss": "esikhulu"
     }
   ],
-  "timestamp": "2026-09-18T10:53:09.778654097Z",
+  "timestamp": "2026-09-19T13:46:06.646582679Z",
   "model": "glm-5.3"
 }

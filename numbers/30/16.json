@@ -5,7 +5,7 @@
   "book": "numbers",
   "lang": "xh",
   "chapter": 30,
-  "translation": "Kodwa ukuba wazitshabalalisa emva kokuba eseva, yena uza kuthwala isono layo.",
+  "translation": "Kodwa ukuba uyazichitha ⟨את⟩ emva kokuziva, uza kuthwala inxaxheba yophahamile lwakhe.",
   "tokens": [
     {
       "surface": "ואם",
@@ -13,24 +13,24 @@
     },
     {
       "surface": "הפר",
-      "gloss": "watshabalalisa"
+      "gloss": "uyachitha"
     },
     {
       "surface": "יפר",
-      "gloss": "ngokupheleleyo"
+      "gloss": "uzichita"
     },
     {
       "surface": "אתם",
       "gloss": "⟨את⟩",
-      "marks": "zona (izithembiso neendibano)"
+      "marks": "imiziyezoyimizi-yala"
     },
     {
       "surface": "אחרי",
-      "gloss": "emva"
+      "gloss": "emva koko"
     },
     {
       "surface": "שמעו",
-      "gloss": "kokuba eseva"
+      "gloss": "ukuziva"
     },
     {
       "surface": "ונשא",
@@ -39,13 +39,13 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "isono layo"
+      "marks": "ophahamile lwakhe"
     },
     {
       "surface": "עונה",
-      "gloss": "isono layo"
+      "gloss": "ophahamile lwakhe"
     }
   ],
-  "timestamp": "2026-09-18T07:45:27.057354532Z",
+  "timestamp": "2026-09-19T14:09:03.840765399Z",
   "model": "glm-5.3"
 }

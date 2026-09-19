@@ -5,11 +5,11 @@
   "book": "joshua",
   "lang": "xh",
   "chapter": 23,
-  "translation": "Ukuba niyaphula ⟨את⟩ umnqophiso kaYahwe uElohim wenu owayala ngawo kuni, niye nikhonze oothixo abanye nithobe kubo; ulaka kaYahwe luya kutsalele kuni, nibhubhe ngokukhawuleza usuka kulo mhlaba omtle lowu aninike wona.",
+  "translation": "Xa nibhedisa ⟨את⟩ umnqophiso kaYahwe uElohim wenu, lowo awawayalele ⟨את⟩ nina, nihamba nikhonza oothixo abanye, nibukhale kubo, luvutha ulaka kaYahwe kuni, nisaphela msinya emhlabeni olungileyo lowo awaninika nina.”",
   "tokens": [
     {
       "surface": "בעברכם",
-      "gloss": "ukuba niyaphula"
+      "gloss": "xa nibhedisa"
     },
     {
       "surface": "את",
@@ -30,23 +30,24 @@
     },
     {
       "surface": "אשר",
-      "gloss": "owo"
+      "gloss": "lowo"
     },
     {
       "surface": "צוה",
-      "gloss": "wayala ngawo"
+      "gloss": "awawayalele"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ kuni"
+      "gloss": "⟨את⟩",
+      "marks": "nina"
     },
     {
       "surface": "והלכתם",
-      "gloss": "niye"
+      "gloss": "nihamba"
     },
     {
       "surface": "ועבדתם",
-      "gloss": "nikhonze"
+      "gloss": "nikhonza"
     },
     {
       "surface": "אלהים",
@@ -58,7 +59,7 @@
     },
     {
       "surface": "והשתחויתם",
-      "gloss": "nithobe"
+      "gloss": "nibukhale"
     },
     {
       "surface": "להם",
@@ -66,7 +67,7 @@
     },
     {
       "surface": "וחרה",
-      "gloss": "luya kutsalele"
+      "gloss": "luvutha"
     },
     {
       "surface": "אף",
@@ -82,37 +83,37 @@
     },
     {
       "surface": "ואבדתם",
-      "gloss": "nibhubhe"
+      "gloss": "nisaphela"
     },
     {
       "surface": "מהרה",
-      "gloss": "ngokukhawuleza"
+      "gloss": "msinya"
     },
     {
       "surface": "מעל",
-      "gloss": "usuka"
+      "gloss": "emazantsi phezu kwawo"
     },
     {
       "surface": "הארץ",
-      "gloss": "kulo mhlaba"
+      "gloss": "umhlaba"
     },
     {
       "surface": "הטובה",
-      "gloss": "omtle"
+      "gloss": "olungileyo"
     },
     {
       "surface": "אשר",
-      "gloss": "owo"
+      "gloss": "lowo"
     },
     {
       "surface": "נתן",
-      "gloss": "wanika"
+      "gloss": "awaninika"
     },
     {
       "surface": "לכם",
-      "gloss": "kuni"
+      "gloss": "nina"
     }
   ],
-  "timestamp": "2026-09-18T08:50:54.882741415Z",
+  "timestamp": "2026-09-19T14:04:07.695139846Z",
   "model": "glm-5.3"
 }

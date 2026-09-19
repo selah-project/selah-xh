@@ -5,24 +5,24 @@
   "book": "numbers",
   "lang": "xh",
   "chapter": 3,
-  "translation": "Yizisele eduze ⟨את⟩ ithunga laseLeyi, uze umise ngaphambi ko-Aharon umngcedi, ukuba bamkhonze.",
+  "translation": "Sondeza ⟨את⟩ isizwe sikaLevi, uze umise ⟨את⟩ sona phambi kuka-Aharon, umkhonzi ongcwele, baze bakhonza yena ⟨את⟩.",
   "tokens": [
     {
       "surface": "הקרב",
-      "gloss": "yizisele eduze"
+      "gloss": "Sondeza"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ithunga laseLeyi"
+      "marks": "isizwe sikaLevi"
     },
     {
       "surface": "מטה",
-      "gloss": "ithunga"
+      "gloss": "isizwe"
     },
     {
       "surface": "לוי",
-      "gloss": "laseLeyi"
+      "gloss": "ukaLevi"
     },
     {
       "surface": "והעמדת",
@@ -30,11 +30,12 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩"
+      "gloss": "⟨את⟩",
+      "marks": "u-Aharon"
     },
     {
       "surface": "לפני",
-      "gloss": "ngaphambi kwa"
+      "gloss": "phambi kwa-"
     },
     {
       "surface": "אהרן",
@@ -42,17 +43,18 @@
     },
     {
       "surface": "הכהן",
-      "gloss": "umngcedi"
+      "gloss": "umkhonzi ongcwele"
     },
     {
       "surface": "ושרתו",
-      "gloss": "ukuba bamkhonze"
+      "gloss": "baze bakhonza yena"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩"
+      "gloss": "⟨את⟩",
+      "marks": "yena (u-Aharon)"
     }
   ],
-  "timestamp": "2026-09-18T07:12:16.459755975Z",
+  "timestamp": "2026-09-19T14:09:28.662858502Z",
   "model": "glm-5.3"
 }

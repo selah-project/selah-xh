@@ -5,28 +5,28 @@
   "book": "numbers",
   "lang": "xh",
   "chapter": 1,
-  "translation": "Wena ubambele amaLevi phezu kwetente yobungqina nankulu konke okuyiyo nankulu konke okunikilo; bona baza kuthwala ⟨את⟩ itente nankulu konke okuyiyo, bona baza kuyinkonza, kwaye jikeleze itente baza kuzingela.",
+  "translation": "Kananjalo wena, misa ⟨את⟩ abaLevi phezu kwetente yobungqina, naphezu konke izixhobo zayo, naphezu konke oko kungowayo; bona baza kuthwala ⟨את⟩ itente kwaye ⟨את⟩ nazizonke izixhobo zayo, baza kuyikhonza, kwaye ejikeleze itente baza kuzihlela iihema.",
   "tokens": [
     {
       "surface": "ואתה",
-      "gloss": "wena"
+      "gloss": "Kananjalo wena"
     },
     {
       "surface": "הפקד",
-      "gloss": "ubambele"
+      "gloss": "misa"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "amaLevi"
+      "marks": "abaLevi"
     },
     {
       "surface": "הלוים",
-      "gloss": "amaLevi"
+      "gloss": "abaLevi"
     },
     {
       "surface": "על",
-      "gloss": "phezu kwa"
+      "gloss": "phezu kwe-"
     },
     {
       "surface": "משכן",
@@ -38,7 +38,7 @@
     },
     {
       "surface": "ועל",
-      "gloss": "namphezu kwa"
+      "gloss": "naphezu"
     },
     {
       "surface": "כל",
@@ -46,11 +46,11 @@
     },
     {
       "surface": "כליו",
-      "gloss": "okuyiyo"
+      "gloss": "izixhobo zayo"
     },
     {
       "surface": "ועל",
-      "gloss": "namphezu kwa"
+      "gloss": "naphezu"
     },
     {
       "surface": "כל",
@@ -62,7 +62,7 @@
     },
     {
       "surface": "לו",
-      "gloss": "elinikilo"
+      "gloss": "kungowayo"
     },
     {
       "surface": "המה",
@@ -83,28 +83,28 @@
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
-      "marks": "konke okuyiyo"
+      "gloss": "kwaye ⟨את⟩",
+      "marks": "nazizonke izixhobo zayo"
     },
     {
       "surface": "כל",
-      "gloss": "konke"
+      "gloss": "nazizonke"
     },
     {
       "surface": "כליו",
-      "gloss": "okuyiyo"
+      "gloss": "izixhobo zayo"
     },
     {
       "surface": "והם",
-      "gloss": "bona"
+      "gloss": "kwaye bona"
     },
     {
       "surface": "ישרתהו",
-      "gloss": "baza kuyinkonza"
+      "gloss": "baza kuyikhonza"
     },
     {
       "surface": "וסביב",
-      "gloss": "kwaye jikeleze"
+      "gloss": "ejikeleze"
     },
     {
       "surface": "למשכן",
@@ -112,9 +112,9 @@
     },
     {
       "surface": "יחנו",
-      "gloss": "baza kuzingela"
+      "gloss": "baza kuzihlela iihema"
     }
   ],
-  "timestamp": "2026-09-18T07:09:57.282521606Z",
+  "timestamp": "2026-09-19T14:08:05.478799498Z",
   "model": "glm-5.3"
 }

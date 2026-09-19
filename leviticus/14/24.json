@@ -5,33 +5,32 @@
   "book": "leviticus",
   "lang": "xh",
   "chapter": 14,
-  "translation": "Mongameli uthabathe ⟨את⟩ ikeheshi ye-ashame kunye ⟨את⟩ nelogi lamafutha, mongameli uzinikuphakamise njengesiphakamiso phambi kukaYahwe.",
+  "translation": "Umongameli wothixo waza wathabatha ⟨את⟩ iwundlu le-ashamu kunye ⟨את⟩ nelogi yoli, umongameli wothixo waza wazinqamlezela njengesinqamlezo phambi kukaYahwe.",
   "tokens": [
     {
       "surface": "ולקח",
-      "gloss": "uthabathe"
+      "gloss": "wathabatha"
     },
     {
       "surface": "הכהן",
-      "gloss": "Mongameli"
+      "gloss": "umongameli wothixo"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ikeheshi ye-ashame"
+      "marks": "iwundlu le-ashamu"
     },
     {
       "surface": "כבש",
-      "gloss": "ikeheshi"
+      "gloss": "iwundlu"
     },
     {
       "surface": "האשם",
-      "gloss": "ye-ashame"
+      "gloss": "le-ashamu"
     },
     {
       "surface": "ואת",
-      "gloss": "kunye ⟨את⟩ ne-",
-      "marks": "ilogi lamafutha"
+      "gloss": "kunye ⟨את⟩ nelogi"
     },
     {
       "surface": "לג",
@@ -39,23 +38,24 @@
     },
     {
       "surface": "השמן",
-      "gloss": "lamafutha"
+      "gloss": "yoli"
     },
     {
       "surface": "והניף",
-      "gloss": "uzinikuphakamise"
+      "gloss": "wazinqamlezela"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩ zi-"
+      "gloss": "⟨אתם⟩",
+      "marks": "zonke (iwundlu nelogi)"
     },
     {
       "surface": "הכהן",
-      "gloss": "mongameli"
+      "gloss": "umongameli wothixo"
     },
     {
       "surface": "תנופה",
-      "gloss": "njengesiphakamiso"
+      "gloss": "isinqamlezo"
     },
     {
       "surface": "לפני",
@@ -66,6 +66,6 @@
       "gloss": "uYahwe"
     }
   ],
-  "timestamp": "2026-09-18T06:50:40.304634196Z",
+  "timestamp": "2026-09-19T14:05:36.380439092Z",
   "model": "glm-5.3"
 }

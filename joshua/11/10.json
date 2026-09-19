@@ -5,11 +5,11 @@
   "book": "joshua",
   "lang": "xh",
   "chapter": 11,
-  "translation": "Wabuya uYehoshuwa ngelo xesha, walithabatha iHatsora, inkosi yayo wayibulala ngekrele; kuba iHatsora yona ngaphambili yayingentloko yazo zonke ezi bubukumkani.",
+  "translation": "UYehoshuwa ngelo xesha wabuyela emva, wathumba ⟨את⟩ iHatsori, wabhaxabha ngekrele ⟨ואת⟩ inkosi yayo; kuba iHatsori yayingeyentloko yazo zonke ezi bubukumkani.",
   "tokens": [
     {
       "surface": "וישב",
-      "gloss": "wabuya"
+      "gloss": "wabuyela emva"
     },
     {
       "surface": "יהושע",
@@ -21,24 +21,24 @@
     },
     {
       "surface": "ההיא",
-      "gloss": "leyo"
+      "gloss": "elo"
     },
     {
       "surface": "וילכד",
-      "gloss": "walithabatha"
+      "gloss": "wathumba"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "iHatsora"
+      "marks": "iHatsori"
     },
     {
       "surface": "חצור",
-      "gloss": "iHatsora"
+      "gloss": "iHatsori"
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
+      "gloss": "⟨ואת⟩",
       "marks": "inkosi yayo"
     },
     {
@@ -47,7 +47,7 @@
     },
     {
       "surface": "הכה",
-      "gloss": "wayibulala"
+      "gloss": "wabhaxabha"
     },
     {
       "surface": "בחרב",
@@ -59,11 +59,11 @@
     },
     {
       "surface": "חצור",
-      "gloss": "iHatsora"
+      "gloss": "iHatsori"
     },
     {
       "surface": "לפנים",
-      "gloss": "ngaphambili"
+      "gloss": "kwangaphambili"
     },
     {
       "surface": "היא",
@@ -75,17 +75,17 @@
     },
     {
       "surface": "כל",
-      "gloss": "yazo zonke"
+      "gloss": "zonke"
     },
     {
       "surface": "הממלכות",
-      "gloss": "ezi bubukumkani"
+      "gloss": "bubukumkani"
     },
     {
       "surface": "האלה",
       "gloss": "ezi"
     }
   ],
-  "timestamp": "2026-09-18T08:37:32.036320834Z",
+  "timestamp": "2026-09-19T14:02:34.176356830Z",
   "model": "glm-5.3"
 }

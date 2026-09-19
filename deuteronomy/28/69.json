@@ -5,7 +5,7 @@
   "book": "deuteronomy",
   "lang": "xh",
   "chapter": 28,
-  "translation": "Ezi ngamagama omnxophiso awalelayo uYahwe kuMoshe ukuba awenze kunye noonwana bakaSirayeli elweni laseMowabu, ngaphandle komnxophiso awayenzileyo ⟨את⟩ kunye nabo eHoreb.",
+  "translation": "Ezi ngamagama omnqophiso owawisele uYahwe kuMoshe, ukwenza ⟨את⟩ abantwana bakaYisrayeli elweni laseMowabi, ngaphandle komnqophiso owawenze ⟨אתם⟩ nabo eKhoribi.",
   "tokens": [
     {
       "surface": "אלה",
@@ -13,19 +13,19 @@
     },
     {
       "surface": "דברי",
-      "gloss": "ngamagama"
+      "gloss": "amagama"
     },
     {
       "surface": "הברית",
-      "gloss": "omnxophiso"
+      "gloss": "omnqophiso"
     },
     {
       "surface": "אשר",
-      "gloss": "awalelayo"
+      "gloss": "owo"
     },
     {
       "surface": "צוה",
-      "gloss": "wayalela"
+      "gloss": "wawisele"
     },
     {
       "surface": "יהוה",
@@ -34,62 +34,62 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "kuMoshe"
+      "marks": "uMoshe"
     },
     {
       "surface": "משה",
-      "gloss": "uMoshe"
+      "gloss": "kuMoshe"
     },
     {
       "surface": "לכרת",
-      "gloss": "ukuba awenze"
+      "gloss": "ukwenza"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "noonwana bakaSirayeli"
+      "marks": "abantwana bakaYisrayeli"
     },
     {
       "surface": "בני",
-      "gloss": "oonwana"
+      "gloss": "abantwana"
     },
     {
       "surface": "ישראל",
-      "gloss": "bakaSirayeli"
+      "gloss": "bakaYisrayeli"
     },
     {
       "surface": "בארץ",
-      "gloss": "elweni"
+      "gloss": "elweni lase"
     },
     {
       "surface": "מואב",
-      "gloss": "laseMowabu"
+      "gloss": "Mowabi"
     },
     {
       "surface": "מלבד",
-      "gloss": "ngaphandle ko-"
+      "gloss": "ngaphandle ko"
     },
     {
       "surface": "הברית",
-      "gloss": "omnxophiso"
+      "gloss": "omnqophiso"
     },
     {
       "surface": "אשר",
-      "gloss": "awayenzileyo"
+      "gloss": "owo"
     },
     {
       "surface": "כרת",
-      "gloss": "wazenza"
+      "gloss": "wawenze"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩ kunye nabo"
+      "gloss": "⟨את⟩"
     },
     {
       "surface": "בחרב",
-      "gloss": "eHoreb"
+      "gloss": "eKhoribi"
     }
   ],
-  "timestamp": "2026-09-18T08:17:35.360084522Z",
+  "timestamp": "2026-09-19T13:50:00.831401683Z",
   "model": "glm-5.3"
 }

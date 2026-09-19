@@ -5,11 +5,11 @@
   "book": "2-samuel",
   "lang": "xh",
   "chapter": 16,
-  "translation": "Wafika inkosi nakuwo onke abantu ababenaye, bedinile, yaza yaphola khona.",
+  "translation": "Inkosi yafika, nabantu bonke abaye ⟨את⟩ naye, bedinwa, baphola khona.",
   "tokens": [
     {
       "surface": "ויבא",
-      "gloss": "wafika"
+      "gloss": "yafika"
     },
     {
       "surface": "המלך",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "וכל",
-      "gloss": "nakuwo onke"
+      "gloss": "naboni…bonke"
     },
     {
       "surface": "העם",
@@ -25,25 +25,26 @@
     },
     {
       "surface": "אשר",
-      "gloss": "aba"
+      "gloss": "aba-"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ benaye"
+      "gloss": "⟨את⟩ naye",
+      "marks": "naye"
     },
     {
       "surface": "עיפים",
-      "gloss": "bedinile"
+      "gloss": "bedinwa"
     },
     {
       "surface": "וינפש",
-      "gloss": "yaphola"
+      "gloss": "baphola"
     },
     {
       "surface": "שם",
       "gloss": "khona"
     }
   ],
-  "timestamp": "2026-09-18T09:57:40.608392683Z",
+  "timestamp": "2026-09-19T13:47:11.447797861Z",
   "model": "glm-5.3"
 }

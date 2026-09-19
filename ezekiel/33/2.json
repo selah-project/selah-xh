@@ -5,7 +5,7 @@
   "book": "ezekiel",
   "lang": "xh",
   "chapter": 33,
-  "translation": "“Unyana womntu, yithetha le nto kubantwana basizwe sakho, uthi kubo: Umhlaba — xa mndisela kona inkanku, abantu bomhlaba bathatha umntu omnye phakathi kwabo, bamnika kubo ukuba abengummlindi —",
+  "translation": "Unyana womntu, yithetha Kubantwana besizwe sakho, uthi kubo: Umhlaba — ukuba ndingenisa inkemba phezu kwawo, kwaye ukuba abantu bomhlaba batshatha indoda enye phakathi kwabo, bamnikela yena ⟨את⟩ kubona njengomtloli,",
   "tokens": [
     {
       "surface": "בן",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "עמך",
-      "gloss": "basizwe sakho"
+      "gloss": "besizwe sakho"
     },
     {
       "surface": "ואמרת",
@@ -45,23 +45,23 @@
     },
     {
       "surface": "כי",
-      "gloss": "xa"
+      "gloss": "ukuba"
     },
     {
       "surface": "אביא",
-      "gloss": "mndisela"
+      "gloss": "ndingenisa"
     },
     {
       "surface": "עליה",
-      "gloss": "kona"
+      "gloss": "phezu kwawo"
     },
     {
       "surface": "חרב",
-      "gloss": "inkanku"
+      "gloss": "inkemba"
     },
     {
       "surface": "ולקחו",
-      "gloss": "bathatha"
+      "gloss": "batshatha"
     },
     {
       "surface": "עם",
@@ -73,11 +73,11 @@
     },
     {
       "surface": "איש",
-      "gloss": "umntu"
+      "gloss": "indoda"
     },
     {
       "surface": "אחד",
-      "gloss": "omnye"
+      "gloss": "enye"
     },
     {
       "surface": "מקציהם",
@@ -85,21 +85,22 @@
     },
     {
       "surface": "ונתנו",
-      "gloss": "bamnika"
+      "gloss": "bamnikela"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩"
+      "gloss": "⟨את⟩",
+      "marks": "yena (indoda enye)"
     },
     {
       "surface": "להם",
-      "gloss": "kubo"
+      "gloss": "kubona"
     },
     {
       "surface": "לצפה",
-      "gloss": "ukuba abengummlindi"
+      "gloss": "njengomtloli"
     }
   ],
-  "timestamp": "2026-09-18T13:22:37.032796236Z",
+  "timestamp": "2026-09-19T13:55:06.279604736Z",
   "model": "glm-5.3"
 }

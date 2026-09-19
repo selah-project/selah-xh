@@ -5,7 +5,7 @@
   "book": "numbers",
   "lang": "xh",
   "chapter": 7,
-  "translation": "Kwathi ngelosuku uMoshe egqibile ukumisa itenti yokudibana, wayithambisa ⟨את⟩ yona wayazincedisa ⟨את⟩ yona nange ⟨את⟩ zonke izixhobo zayo, ne ⟨את⟩ i-altare nazo ⟨את⟩ zonke izixhobo zayo; wazithambisa wazincedisa ⟨את⟩ zona.",
+  "translation": "Kwathi ngosuku uMoshe awugqibela ngako ukumisa ⟨את⟩ itente, wayithanjisa ⟨את⟩ wayingcwelekisa ⟨את⟩, nangezonke izixhobo zayo, nangeyaltari nangezonke izixhobo zayo, wazithanjisa, wazingcwelekisa ⟨את⟩.",
   "tokens": [
     {
       "surface": "ויהי",
@@ -13,11 +13,11 @@
     },
     {
       "surface": "ביום",
-      "gloss": "ngelosuku"
+      "gloss": "ngosuku"
     },
     {
       "surface": "כלות",
-      "gloss": "egqibile"
+      "gloss": "awugqibela ngako"
     },
     {
       "surface": "משה",
@@ -30,33 +30,33 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "itenti yokudibana"
+      "marks": "itente"
     },
     {
       "surface": "המשכן",
-      "gloss": "itenti yokudibana"
+      "gloss": "itente"
     },
     {
       "surface": "וימשח",
-      "gloss": "wayithambisa"
+      "gloss": "wayithanjisa"
     },
     {
       "surface": "אתו",
       "gloss": "⟨את⟩",
-      "marks": "yona"
+      "marks": "itente"
     },
     {
       "surface": "ויקדש",
-      "gloss": "wayazincedisa"
+      "gloss": "wayingcwelekisa"
     },
     {
       "surface": "אתו",
       "gloss": "⟨את⟩",
-      "marks": "yona"
+      "marks": "itente"
     },
     {
       "surface": "ואת",
-      "gloss": "ne ⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "zonke izixhobo zayo"
     },
     {
@@ -69,16 +69,16 @@
     },
     {
       "surface": "ואת",
-      "gloss": "ne ⟨את⟩",
-      "marks": "i-altare"
+      "gloss": "⟨את⟩",
+      "marks": "ialtari"
     },
     {
       "surface": "המזבח",
-      "gloss": "i-altare"
+      "gloss": "ialtari"
     },
     {
       "surface": "ואת",
-      "gloss": "nazo ⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "zonke izixhobo zayo"
     },
     {
@@ -91,18 +91,18 @@
     },
     {
       "surface": "וימשחם",
-      "gloss": "wazithambisa"
+      "gloss": "wazithanjisa"
     },
     {
       "surface": "ויקדש",
-      "gloss": "wazincedisa"
+      "gloss": "wazingcwelekisa"
     },
     {
       "surface": "אתם",
       "gloss": "⟨את⟩",
-      "marks": "zona"
+      "marks": "izonke"
     }
   ],
-  "timestamp": "2026-09-18T07:14:39.632659479Z",
+  "timestamp": "2026-09-19T14:09:54.535245103Z",
   "model": "glm-5.3"
 }

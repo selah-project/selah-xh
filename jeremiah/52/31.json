@@ -5,7 +5,7 @@
   "book": "jeremiah",
   "lang": "xh",
   "chapter": 52,
-  "translation": "Kwathi ke ngumnyaka wamashumi amathathu anesixhenxe lokuthunjwa kukaYehoyakini, inkosi kaYehuda, ngenyanga yesibini nakwishumi, ngomhla wamashumi amabini anesihlanu wenyanga, Eviili-Merodakh, inkosi yeBhabheli, ngonyaka wokubusa kwakhe, waphakamisa ⟨את⟩ intloko kaYehoyakini, inkosi kaYehuda, wamkhupha endlini yokugcinwa.",
+  "translation": "Kwathi emva kweminyaka engamashumi amathathu anesixhenxe ekuthunyweni kukaYehoyakhini inkosi yakwaYuda, kunyaka weyeshumi nambini yunyanga, ngomhla wamashumi amabini anamihlanu wenyanga, u-Evili-Merodaki inkosi yakwaBhabheli, kunyaka wokubusa kwakhe, waphakamisa ⟨את⟩ intloko kaYehoyakhini inkosi yakwaYuda, waza wamkhupha ⟨את⟩ entolongweni.",
   "tokens": [
     {
       "surface": "ויהי",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "בשלשים",
-      "gloss": "ngamashumi amathathu"
+      "gloss": "emva kweminyaka engamashumi amathathu"
     },
     {
       "surface": "ושבע",
@@ -21,15 +21,15 @@
     },
     {
       "surface": "שנה",
-      "gloss": "iminyaka"
+      "gloss": "kweminyaka"
     },
     {
       "surface": "לגלות",
-      "gloss": "lokuthunjwa"
+      "gloss": "ekuthunyweni"
     },
     {
       "surface": "יהויכן",
-      "gloss": "kukaYehoyakini"
+      "gloss": "kukaYehoyakhini"
     },
     {
       "surface": "מלך",
@@ -37,19 +37,19 @@
     },
     {
       "surface": "יהודה",
-      "gloss": "kaYehuda"
+      "gloss": "yakwaYuda"
     },
     {
       "surface": "בשנים",
-      "gloss": "yesibini"
+      "gloss": "kunyaka we"
     },
     {
       "surface": "עשר",
-      "gloss": "nakwishumi"
+      "gloss": "eshumi nambini"
     },
     {
       "surface": "חדש",
-      "gloss": "inyanga"
+      "gloss": "yunyanga"
     },
     {
       "surface": "בעשרים",
@@ -57,7 +57,7 @@
     },
     {
       "surface": "וחמשה",
-      "gloss": "anesihlanu"
+      "gloss": "anamihlanu"
     },
     {
       "surface": "לחדש",
@@ -69,11 +69,11 @@
     },
     {
       "surface": "אויל",
-      "gloss": "uEviili"
+      "gloss": "u-Evili"
     },
     {
       "surface": "מרדך",
-      "gloss": "-Merodakh"
+      "gloss": "Merodaki"
     },
     {
       "surface": "מלך",
@@ -81,11 +81,11 @@
     },
     {
       "surface": "בבל",
-      "gloss": "yeBhabheli"
+      "gloss": "yakwaBhabheli"
     },
     {
       "surface": "בשנת",
-      "gloss": "ngonyaka"
+      "gloss": "kunyaka"
     },
     {
       "surface": "מלכתו",
@@ -94,7 +94,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "intloko kaYehoyakini, inkosi kaYehuda"
+      "marks": "intloko kaYehoyakhini"
     },
     {
       "surface": "ראש",
@@ -102,7 +102,7 @@
     },
     {
       "surface": "יהויכין",
-      "gloss": "kaYehoyakini"
+      "gloss": "kaYehoyakhini"
     },
     {
       "surface": "מלך",
@@ -110,26 +110,26 @@
     },
     {
       "surface": "יהודה",
-      "gloss": "kaYehuda"
+      "gloss": "yakwaYuda"
     },
     {
       "surface": "ויצא",
-      "gloss": "wamkhupha"
+      "gloss": "waza wamkhupha"
     },
     {
       "surface": "אותו",
       "gloss": "⟨את⟩",
-      "marks": "endlini yokugcinwa"
+      "marks": "yena (uYehoyakhini)"
     },
     {
       "surface": "מבית",
-      "gloss": "endlini"
+      "gloss": "kulwiwo"
     },
     {
       "surface": "הכליא",
-      "gloss": "yokugcinwa"
+      "gloss": "entolongweni"
     }
   ],
-  "timestamp": "2026-09-18T12:47:41.295441099Z",
+  "timestamp": "2026-09-19T14:01:44.239906738Z",
   "model": "glm-5.3"
 }

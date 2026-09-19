@@ -5,11 +5,11 @@
   "book": "1-samuel",
   "lang": "xh",
   "chapter": 12,
-  "translation": "Wathumela uYahwe uYerubbaali, noBedani, noYifitahi, noShemuyeli; wanisiphulula esandleni zitha zenu ezikuzingela, nahlala nikhuselekile.",
+  "translation": "Wathumela uYahwe ⟨את⟩ uYerubbaali ⟨את⟩ noBedani ⟨את⟩ noYiftahi ⟨את⟩ noShemuweli, wanincola ⟨את⟩ nina esandleni seenu zenu ezikuzungezileyo, nahlala nikhuselekile.",
   "tokens": [
     {
       "surface": "וישלח",
-      "gloss": "Wathumela"
+      "gloss": "wathumela"
     },
     {
       "surface": "יהוה",
@@ -36,29 +36,29 @@
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "noYifitahi"
+      "marks": "noYiftahi"
     },
     {
       "surface": "יפתח",
-      "gloss": "noYifitahi"
+      "gloss": "noYiftahi"
     },
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "noShemuyeli"
+      "marks": "noShemuweli"
     },
     {
       "surface": "שמואל",
-      "gloss": "noShemuyeli"
+      "gloss": "noShemuweli"
     },
     {
       "surface": "ויצל",
-      "gloss": "wanisiphulula"
+      "gloss": "wanincola"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩",
-      "marks": "esandleni zitha zenu"
+      "gloss": "⟨את⟩ nina",
+      "marks": "nina"
     },
     {
       "surface": "מיד",
@@ -66,11 +66,11 @@
     },
     {
       "surface": "איביכם",
-      "gloss": "zitha zenu"
+      "gloss": "seenu zenu"
     },
     {
       "surface": "מסביב",
-      "gloss": "ezikuzingela"
+      "gloss": "ezikuzungezileyo"
     },
     {
       "surface": "ותשבו",
@@ -81,6 +81,6 @@
       "gloss": "nikhuselekile"
     }
   ],
-  "timestamp": "2026-09-18T09:20:37.168905682Z",
+  "timestamp": "2026-09-19T13:42:40.004690742Z",
   "model": "glm-5.3"
 }

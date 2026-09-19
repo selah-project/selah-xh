@@ -5,11 +5,11 @@
   "book": "leviticus",
   "lang": "xh",
   "chapter": 20,
-  "translation": "Mna ndiza kumisela ubuso bam kuwo loo mntu nakwisapho lakhe, ndiza kumchitha yena ⟨את⟩ nabo bonke abazenzisayo emva kwakhe ⟨את⟩, ukuzenzisa emva koMolekhi, ephakathi kwabantu babo.",
+  "translation": "Mna ndiza kubeka ubuso bam ⟨את⟩ kulo mntu nakwisapho lakhe, ndiza kumsika yena ⟨את⟩ nabo bonke abaziphendukelayo kuye ⟨את⟩ ukuziphendukela kuMolekhi, esiphakathi sabantu babo.",
   "tokens": [
     {
       "surface": "ושמתי",
-      "gloss": "ndiza kumisela"
+      "gloss": "ndiza kubeka"
     },
     {
       "surface": "אני",
@@ -26,11 +26,11 @@
     },
     {
       "surface": "באיש",
-      "gloss": "kuwo loo mntu"
+      "gloss": "kulo mntu"
     },
     {
       "surface": "ההוא",
-      "gloss": "loo"
+      "gloss": "lo"
     },
     {
       "surface": "ובמשפחתו",
@@ -38,7 +38,7 @@
     },
     {
       "surface": "והכרתי",
-      "gloss": "ndiza kumchitha"
+      "gloss": "ndiza kumsika"
     },
     {
       "surface": "אתו",
@@ -48,7 +48,7 @@
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "bonke abazenzisayo"
+      "marks": "bonke"
     },
     {
       "surface": "כל",
@@ -56,33 +56,33 @@
     },
     {
       "surface": "הזנים",
-      "gloss": "abazenzisayo"
+      "gloss": "abaziphendukelayo"
     },
     {
       "surface": "אחריו",
-      "gloss": "emva kwakhe"
+      "gloss": "kuye"
     },
     {
       "surface": "לזנות",
-      "gloss": "ukuzenzisa"
+      "gloss": "ukuziphendukela"
     },
     {
       "surface": "אחרי",
-      "gloss": "emva kuka"
+      "gloss": "ku-"
     },
     {
       "surface": "המלך",
-      "gloss": "uMolekhi"
+      "gloss": "Molekhi"
     },
     {
       "surface": "מקרב",
-      "gloss": "ephakathi kwabaphuma kwi"
+      "gloss": "esiphakathi sa-"
     },
     {
       "surface": "עמם",
       "gloss": "abantu babo"
     }
   ],
-  "timestamp": "2026-09-18T06:58:32.065909112Z",
+  "timestamp": "2026-09-19T14:05:41.863277468Z",
   "model": "glm-5.3"
 }

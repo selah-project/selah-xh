@@ -5,15 +5,15 @@
   "book": "genesis",
   "lang": "xh",
   "chapter": 40,
-  "translation": "Kwenzeka ngomhla wesithathu, umhla wokuzalwa kukaParo, wadibisa ukutya okumnandi konke ooncedeni bakhe; wanyusa ⟨את⟩ intloko yenkululekulu wabamkeli kunye ⟨את⟩ intloko yenkululekulu wobhaki phakathi koencedeni bakhe.",
+  "translation": "Kwenzekile ngomhla wesithathu, ngelosika lokuzalwa ⟨את⟩ kukaParo, wenza umkhosi wokusingatha kuwo onke amakhoboka akhe; waphakamisa ⟨את⟩ intloko yesikhulu sabasela-iinkomishi, nangenye ⟨את⟩ intloko yesikhulu abakhekeni, phakathi kwamakhoboka akhe.",
   "tokens": [
     {
       "surface": "ויהי",
-      "gloss": "kwenzeka"
+      "gloss": "Kwenzekile"
     },
     {
       "surface": "ביום",
-      "gloss": "ngumhla"
+      "gloss": "ngomhla"
     },
     {
       "surface": "השלישי",
@@ -21,45 +21,45 @@
     },
     {
       "surface": "יום",
-      "gloss": "umhla"
+      "gloss": "ngelosika"
     },
     {
       "surface": "הלדת",
-      "gloss": "wokuzalwa"
+      "gloss": "lokuzalwa"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ukaParo"
+      "marks": "uParo"
     },
     {
       "surface": "פרעה",
-      "gloss": "ukaParo"
+      "gloss": "kukaParo"
     },
     {
       "surface": "ויעש",
-      "gloss": "wadibisa"
+      "gloss": "wenza"
     },
     {
       "surface": "משתה",
-      "gloss": "ukutya okumnandi"
+      "gloss": "umkhosi wokusingatha"
     },
     {
       "surface": "לכל",
-      "gloss": "konke"
+      "gloss": "kuwo onke"
     },
     {
       "surface": "עבדיו",
-      "gloss": "ooncedeni bakhe"
+      "gloss": "amakhoboka akhe"
     },
     {
       "surface": "וישא",
-      "gloss": "wanyusa"
+      "gloss": "waphakamisa"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "intloko yenkululekulu wabamkeli"
+      "marks": "intloko yesikhulu sabasela-iinkomishi"
     },
     {
       "surface": "ראש",
@@ -67,16 +67,16 @@
     },
     {
       "surface": "שר",
-      "gloss": "yenkululekulu"
+      "gloss": "yesikhulu"
     },
     {
       "surface": "המשקים",
-      "gloss": "wabamkeli"
+      "gloss": "sabasela-iinkomishi"
     },
     {
       "surface": "ואת",
-      "gloss": "kunye ⟨את⟩",
-      "marks": "intloko yenkululekulu wobhaki"
+      "gloss": "nangenye ⟨את⟩",
+      "marks": "intloko yesikhulu abakhekeni"
     },
     {
       "surface": "ראש",
@@ -84,11 +84,11 @@
     },
     {
       "surface": "שר",
-      "gloss": "yenkululekulu"
+      "gloss": "yesikhulu"
     },
     {
       "surface": "האפים",
-      "gloss": "wobhaki"
+      "gloss": "abakhekeni"
     },
     {
       "surface": "בתוך",
@@ -96,9 +96,9 @@
     },
     {
       "surface": "עבדיו",
-      "gloss": "koencedeni bakhe"
+      "gloss": "kwamakhoboka akhe"
     }
   ],
-  "timestamp": "2026-09-18T05:37:45.585892974Z",
+  "timestamp": "2026-09-19T13:57:08.375725839Z",
   "model": "glm-5.3"
 }

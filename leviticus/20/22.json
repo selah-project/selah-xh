@@ -5,16 +5,16 @@
   "book": "leviticus",
   "lang": "xh",
   "chapter": 20,
-  "translation": "Ukuze nigcine ⟨את⟩ zonke iimpawu zam no⟨את⟩ zonke izigwebo zam, nize nizenze ⟨zona⟩; ukuze ungani nibarhe ⟨את⟩ nina umhlaba, endinisenisela ⟨את⟩ nina kuzo ukuhlala kwo.",
+  "translation": "Kwaye niya kugcina ⟨את⟩ zonke imigaqo yam ⟨את⟩ nezigwebo zam zonke, kwaye niya kuzenza ⟨את⟩; ukuze umhlaba, apho ndini khona ungenisele ukuba nihlale kulo, ungingaqhushuli ⟨את⟩ nina.",
   "tokens": [
     {
       "surface": "ושמרתם",
-      "gloss": "nigcine"
+      "gloss": "kwaye niya kugcina"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "zonke iimpawu zam"
+      "marks": "zonke imigaqo yam"
     },
     {
       "surface": "כל",
@@ -22,12 +22,12 @@
     },
     {
       "surface": "חקתי",
-      "gloss": "iimpawu zam"
+      "gloss": "imigaqo yam"
     },
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "zonke izigwebo zam"
+      "marks": "nesigwebo zam zonke"
     },
     {
       "surface": "כל",
@@ -39,25 +39,24 @@
     },
     {
       "surface": "ועשיתם",
-      "gloss": "nize nizenze"
+      "gloss": "kwaye niya kuzenza"
     },
     {
       "surface": "אתם",
       "gloss": "⟨את⟩",
-      "marks": "iimpawu nezigwebo"
+      "marks": "zonke imigaqo nezigwebo"
     },
     {
       "surface": "ולא",
-      "gloss": "ukuze ungani"
+      "gloss": "ukuze... unginga-"
     },
     {
       "surface": "תקיא",
-      "gloss": "nibarhe"
+      "gloss": "ungingaqhushuli"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩",
-      "marks": "nina"
+      "gloss": "⟨את⟩ nina"
     },
     {
       "surface": "הארץ",
@@ -65,7 +64,7 @@
     },
     {
       "surface": "אשר",
-      "gloss": "endi"
+      "gloss": "apho"
     },
     {
       "surface": "אני",
@@ -73,26 +72,25 @@
     },
     {
       "surface": "מביא",
-      "gloss": "nisenisela"
+      "gloss": "ndini khona ungenisele"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩",
-      "marks": "nina"
+      "gloss": "⟨את⟩ nina"
     },
     {
       "surface": "שמה",
-      "gloss": "kuzo"
+      "gloss": "khona"
     },
     {
       "surface": "לשבת",
-      "gloss": "ukuhlala"
+      "gloss": "ukuba nihlale"
     },
     {
       "surface": "בה",
-      "gloss": "kwo"
+      "gloss": "kulo"
     }
   ],
-  "timestamp": "2026-09-18T07:01:46.475938961Z",
+  "timestamp": "2026-09-19T14:05:46.455144313Z",
   "model": "glm-5.3"
 }

@@ -5,15 +5,15 @@
   "book": "1-samuel",
   "lang": "xh",
   "chapter": 19,
-  "translation": "UYehonatana wambizela uDavide, uYehonatana wamxelela ⟨את⟩ onke lamazwi; uYehonatana wamisa uDavide kuShawuli, waza waba phambi kwakhe njengoko kwakunjalo ngokwendalo.",
+  "translation": "Wayebizela uYehonatan uDavide, waza uYehonatan wamxelela yena onke la mabali; waza uYehonatan wamsisela uDavide kuShawuli, waza (Davide) wahlala phambi kwakhe njengakudala ngonaphakade.",
   "tokens": [
     {
       "surface": "ויקרא",
-      "gloss": "wambizela"
+      "gloss": "wayebizela"
     },
     {
       "surface": "יהונתן",
-      "gloss": "uYehonatana"
+      "gloss": "uYehonatan"
     },
     {
       "surface": "לדוד",
@@ -29,12 +29,12 @@
     },
     {
       "surface": "יהונתן",
-      "gloss": "uYehonatana"
+      "gloss": "uYehonatan"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "onke lamazwi"
+      "marks": "onke la mabali"
     },
     {
       "surface": "כל",
@@ -42,7 +42,7 @@
     },
     {
       "surface": "הדברים",
-      "gloss": "lamazwi"
+      "gloss": "la mabali"
     },
     {
       "surface": "האלה",
@@ -50,11 +50,11 @@
     },
     {
       "surface": "ויבא",
-      "gloss": "wamisa"
+      "gloss": "wamsisela"
     },
     {
       "surface": "יהונתן",
-      "gloss": "uYehonatana"
+      "gloss": "uYehonatan"
     },
     {
       "surface": "את",
@@ -67,7 +67,7 @@
     },
     {
       "surface": "אל",
-      "gloss": "ku"
+      "gloss": "ku-"
     },
     {
       "surface": "שאול",
@@ -75,7 +75,7 @@
     },
     {
       "surface": "ויהי",
-      "gloss": "waba"
+      "gloss": "waza wahlala"
     },
     {
       "surface": "לפניו",
@@ -83,13 +83,13 @@
     },
     {
       "surface": "כאתמול",
-      "gloss": "njengoko kwakunjalo"
+      "gloss": "njengakudala"
     },
     {
       "surface": "שלשום",
-      "gloss": "ngokwendalo"
+      "gloss": "ngonaphakade"
     }
   ],
-  "timestamp": "2026-09-18T09:30:46.490694209Z",
+  "timestamp": "2026-09-19T13:43:42.485595050Z",
   "model": "glm-5.3"
 }

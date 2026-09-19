@@ -5,11 +5,11 @@
   "book": "1-samuel",
   "lang": "xh",
   "chapter": 17,
-  "translation": "KWATHI ke uDawidi esebuyela ekubulaleni ⟨את⟩ umPelishti, wamthatha u-Abner wamzisa phambi koShawuli, enthandweni yomPelishti isesandleni sakhe.",
+  "translation": "Waza akubuyela uDawidi ekubulaleni ⟨את⟩ lePelishti, wamthabatha u-Avner wamzisa phambi koShawuli, entloko yePelishti isesandleni sakhe.",
   "tokens": [
     {
       "surface": "וכשוב",
-      "gloss": "ekubuyeleni kwakhe"
+      "gloss": "waza akubuyela"
     },
     {
       "surface": "דוד",
@@ -22,24 +22,24 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "umPelishti"
+      "marks": "lePelishti"
     },
     {
       "surface": "הפלשתי",
-      "gloss": "umPelishti"
+      "gloss": "lePelishti"
     },
     {
       "surface": "ויקח",
-      "gloss": "wamthatha"
+      "gloss": "wamthabatha"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨אתו⟩",
-      "marks": "uDawidi"
+      "gloss": "⟨את⟩",
+      "marks": "yena (u-Avner wamthabatha)"
     },
     {
       "surface": "אבנר",
-      "gloss": "u-Abner"
+      "gloss": "u-Avner"
     },
     {
       "surface": "ויבאהו",
@@ -51,21 +51,21 @@
     },
     {
       "surface": "שאול",
-      "gloss": "uShawuli"
+      "gloss": "oShawuli"
     },
     {
       "surface": "וראש",
-      "gloss": "enthandweni"
+      "gloss": "entloko"
     },
     {
       "surface": "הפלשתי",
-      "gloss": "yomPelishti"
+      "gloss": "yePelishti"
     },
     {
       "surface": "בידו",
-      "gloss": "esesandleni sakhe"
+      "gloss": "isesandleni sakhe"
     }
   ],
-  "timestamp": "2026-09-18T09:29:05.368267339Z",
+  "timestamp": "2026-09-19T13:43:42.942643165Z",
   "model": "glm-5.3"
 }

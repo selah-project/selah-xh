@@ -5,11 +5,11 @@
   "book": "jeremiah",
   "lang": "xh",
   "chapter": 52,
-  "translation": "Bamthabatha loo mkhosi inkosi, bamisa ngoko uZedekiyahu, bamwandisa unkosi waseBhabheli eRibla, elizweni laseHamat, wayethetha naye ⟨את⟩ izigwebo.",
+  "translation": "Baza bambamba ⟨את⟩ inkosi, bamisa inkosi yaseBhabheli eRiblatha, elunxwemeni lweHamathi; yathi intsiniyo naye iinkabelo.",
   "tokens": [
     {
       "surface": "ויתפשו",
-      "gloss": "bamthabatha"
+      "gloss": "baza bambamba"
     },
     {
       "surface": "את",
@@ -22,50 +22,51 @@
     },
     {
       "surface": "ויעלו",
-      "gloss": "bamwandisa"
+      "gloss": "bamisa"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩",
-      "marks": "yena"
+      "gloss": "⟨את⟩ yena",
+      "marks": "kum"
     },
     {
       "surface": "אל",
-      "gloss": "ku"
+      "gloss": "ku-"
     },
     {
       "surface": "מלך",
-      "gloss": "unkosi"
+      "gloss": "inkosi"
     },
     {
       "surface": "בבל",
-      "gloss": "waseBhabheli"
+      "gloss": "yaseBhabheli"
     },
     {
       "surface": "רבלתה",
-      "gloss": "eRibla"
+      "gloss": "eRiblatha"
     },
     {
       "surface": "בארץ",
-      "gloss": "elizweni"
+      "gloss": "elunxwemeni"
     },
     {
       "surface": "חמת",
-      "gloss": "laseHamat"
+      "gloss": "lweHamathi"
     },
     {
       "surface": "וידבר",
-      "gloss": "wayethetha"
+      "gloss": "wathetha"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ naye"
+      "gloss": "⟨את⟩ naye",
+      "marks": "iinkabelo ezithethwayo naye"
     },
     {
       "surface": "משפטים",
-      "gloss": "izigwebo"
+      "gloss": "iinkabelo"
     }
   ],
-  "timestamp": "2026-09-18T12:44:35.529032840Z",
+  "timestamp": "2026-09-19T14:01:21.314460245Z",
   "model": "glm-5.3"
 }

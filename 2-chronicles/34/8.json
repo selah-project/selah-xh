@@ -5,19 +5,19 @@
   "book": "2-chronicles",
   "lang": "xh",
   "chapter": 34,
-  "translation": "Kwakumnyaka weshumi elinesibhozo wobukhosi bakhe, xa eza kucoca umhlaba nendlu, wathumela uShafani unyana kaAtsaliyahu, noMaaseyahu owasemva welizwe, kunye noYoashi unyana kaYoahaz, owabhala-iindaba ezikhoyo, ukuba baqinise ⟨את⟩ indlu kaYahwe uElohim wakhe.",
+  "translation": "Ekunyakeni weshumi elinesibhozo wobukhosi bakhe, ekucocweni komhlaba nendlu, wathumela ⟨את⟩ uShafana unyana ka-Atsaljahu, no⟨את⟩ uMaasejahu, inkosi yesixeko, no⟨את⟩ uYoah unyana kaYowahazi, umkhumbi, ukomeleza ⟨את⟩ indlu kaYahwe uElohim yakhe.",
   "tokens": [
     {
       "surface": "ובשנת",
-      "gloss": "Kwakumnyaka"
+      "gloss": "Ekunyakeni"
     },
     {
       "surface": "שמונה",
-      "gloss": "isibhozo"
+      "gloss": "(eli)nesibhozo"
     },
     {
       "surface": "עשרה",
-      "gloss": "elishumi"
+      "gloss": "ishumi"
     },
     {
       "surface": "למלכו",
@@ -25,11 +25,11 @@
     },
     {
       "surface": "לטהר",
-      "gloss": "ukucoca"
+      "gloss": "ekucocweni"
     },
     {
       "surface": "הארץ",
-      "gloss": "umhlaba"
+      "gloss": "komhlaba"
     },
     {
       "surface": "והבית",
@@ -42,68 +42,70 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "uShafani"
+      "marks": "uShafana"
     },
     {
       "surface": "שפן",
-      "gloss": "uShafani"
+      "gloss": "uShafana"
     },
     {
       "surface": "בן",
-      "gloss": "unyana"
+      "gloss": "unyana ka-"
     },
     {
       "surface": "אצליהו",
-      "gloss": "ukaAtsaliyahu"
+      "gloss": "u-Atsaljahu"
     },
     {
       "surface": "ואת",
-      "gloss": "kunye ne⟨את⟩"
+      "gloss": "no⟨את⟩",
+      "marks": "uMaasejahu"
     },
     {
       "surface": "מעשיהו",
-      "gloss": "noMaaseyah"
+      "gloss": "uMaasejahu"
     },
     {
       "surface": "שר",
-      "gloss": "owasemva welizwe"
+      "gloss": "inkosi"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "yesixeko"
     },
     {
       "surface": "ואת",
-      "gloss": "kunye ne⟨את⟩"
-    },
-    {
-      "surface": "ואת",
-      "gloss": "kunye no⟨את⟩"
+      "gloss": "no⟨את⟩",
+      "marks": "uYoah"
     },
     {
       "surface": "יואח",
-      "gloss": "uYoashi"
+      "gloss": "uYoah"
     },
     {
       "surface": "בן",
-      "gloss": "unyana"
+      "gloss": "unyana ka-"
     },
     {
       "surface": "יואחז",
-      "gloss": "ukaYoahaz"
+      "gloss": "uYowahazi"
     },
     {
       "surface": "המזכיר",
-      "gloss": "umbhali weendaba \/ ukhumbuzo"
+      "gloss": "umkhumbi"
     },
     {
       "surface": "לחזק",
-      "gloss": "ukuba baqinise"
+      "gloss": "ukomeleza"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "indlu kaYahwe"
+      "marks": "indlu"
     },
     {
       "surface": "בית",
-      "gloss": "indlu ka-"
+      "gloss": "indlu"
     },
     {
       "surface": "יהוה",
@@ -111,9 +113,9 @@
     },
     {
       "surface": "אלהיו",
-      "gloss": "uElohim wakhe"
+      "gloss": "uElohim yakhe"
     }
   ],
-  "timestamp": "2026-09-18T17:17:09.439272624Z",
+  "timestamp": "2026-09-19T13:45:29.065848752Z",
   "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "numbers",
   "lang": "xh",
   "chapter": 18,
-  "translation": "Wathetha uYahwe ku-Aharoni, wathi: “Wena neenyana zakho nendlu kayihlo wakho kunye nawe niya kuthwala ⟨את⟩ isono sangcwele-ndawo; wena neenyana zakho kunye nawe niya kuthwala ⟨את⟩ isono sobupristi benu.”",
+  "translation": "Wathetha uYahwe ku-Aharon: “Wena, noonyana bakho, nendlu kayihlo yakho kunye nawe, niza kuthwala ⟨את⟩ isono se-⟨the⟩ nto engcwele; wena noonyana bakho kunye nawe niza kuthwala ⟨את⟩ isono sobukumkani bubukumkani— ⟨את⟩ isono sokubekwa ngcwele kokwenu.”",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "אהרן",
-      "gloss": "u-Aharoni"
+      "gloss": "u-Aharon"
     },
     {
       "surface": "אתה",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "ובניך",
-      "gloss": "neenyana zakho"
+      "gloss": "noonyana bakho"
     },
     {
       "surface": "ובית",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "אביך",
-      "gloss": "kayihlo wakho"
+      "gloss": "kayihlo yakho"
     },
     {
       "surface": "אתך",
@@ -45,12 +45,12 @@
     },
     {
       "surface": "תשאו",
-      "gloss": "niya kuthwala"
+      "gloss": "niza kuthwala"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "isono sangcwele-ndawo"
+      "marks": "isono"
     },
     {
       "surface": "עון",
@@ -58,7 +58,7 @@
     },
     {
       "surface": "המקדש",
-      "gloss": "sangcwele-ndawo"
+      "gloss": "sendawo engcwele"
     },
     {
       "surface": "ואתה",
@@ -66,7 +66,7 @@
     },
     {
       "surface": "ובניך",
-      "gloss": "neenyana zakho"
+      "gloss": "noonyana bakho"
     },
     {
       "surface": "אתך",
@@ -74,12 +74,12 @@
     },
     {
       "surface": "תשאו",
-      "gloss": "niya kuthwala"
+      "gloss": "niza kuthwala"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "isono sobupristi benu"
+      "marks": "isono"
     },
     {
       "surface": "עון",
@@ -87,9 +87,9 @@
     },
     {
       "surface": "כהנתכם",
-      "gloss": "sobupristi benu"
+      "gloss": "sobukumkani bobukumkani — bokukhonza bokwenu"
     }
   ],
-  "timestamp": "2026-09-18T17:23:43.356361116Z",
+  "timestamp": "2026-09-19T14:08:43.805786432Z",
   "model": "glm-5.3"
 }

@@ -5,11 +5,11 @@
   "book": "2-chronicles",
   "lang": "xh",
   "chapter": 13,
-  "translation": "Batshisa kuYahwe izibingelelo zokushiywa ekuseni ekuseni, nantambama ngantambama; kunye nokunukiswa kwamakha, nomiso wenkwa phezu kotafule lwechibi, nendlali yegolide nezibani zalo ukutsha ngantambama ngantambama; kuba thina singabagcini bolindi bakaYahwe Elohim wethu, nina nimshiye yena ⟨את⟩.",
+  "translation": "Batshisa kuYahwe iintshatsheli ekuseni ngamaxesha, nangokuhlwa ngokuhlwa, nekhusi leziyeza, nomiselo lwesonka phezu kwetafile elicocekileyo, nesibani segolide nezibane zaso ukutshiswa ngokuhlwa ngokuhlwa; kuba thina silindile ⟨את⟩ umkhosi kaYahwe uElohim wethu; nina namlahlela yena ⟨את⟩.",
   "tokens": [
     {
       "surface": "ומקטרים",
-      "gloss": "Batshisa"
+      "gloss": "batshisa"
     },
     {
       "surface": "ליהוה",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "עלות",
-      "gloss": "izibingelelo zokushiywa"
+      "gloss": "iintshatsheli"
     },
     {
       "surface": "בבקר",
@@ -25,31 +25,31 @@
     },
     {
       "surface": "בבקר",
-      "gloss": "ekuseni"
+      "gloss": "ngamaxesha"
     },
     {
       "surface": "ובערב",
-      "gloss": "nantambama"
+      "gloss": "nangokuhlwa"
     },
     {
       "surface": "בערב",
-      "gloss": "ngantambama"
+      "gloss": "ngokuhlwa"
     },
     {
       "surface": "וקטרת",
-      "gloss": "kunye nokunukiswa"
+      "gloss": "nekhusi"
     },
     {
       "surface": "סמים",
-      "gloss": "kwamakha"
+      "gloss": "leziyeza"
     },
     {
       "surface": "ומערכת",
-      "gloss": "nomiso"
+      "gloss": "nomiselo"
     },
     {
       "surface": "לחם",
-      "gloss": "wenkwa"
+      "gloss": "lwesonka"
     },
     {
       "surface": "על",
@@ -57,35 +57,35 @@
     },
     {
       "surface": "השלחן",
-      "gloss": "kotafule"
+      "gloss": "kwetafile"
     },
     {
       "surface": "הטהור",
-      "gloss": "lwechibi (ecocekileyo)"
+      "gloss": "elicocekileyo"
     },
     {
       "surface": "ומנורת",
-      "gloss": "nendlali"
+      "gloss": "nesibani"
     },
     {
       "surface": "הזהב",
-      "gloss": "yegolide"
+      "gloss": "segolide"
     },
     {
       "surface": "ונרתיה",
-      "gloss": "nezibani zalo"
+      "gloss": "nezibane zaso"
     },
     {
       "surface": "לבער",
-      "gloss": "ukutsha"
+      "gloss": "ukutshiswa"
     },
     {
       "surface": "בערב",
-      "gloss": "ngantambama"
+      "gloss": "ngokuhlwa"
     },
     {
       "surface": "בערב",
-      "gloss": "ngantambama"
+      "gloss": "ngokuhlwa"
     },
     {
       "surface": "כי",
@@ -93,7 +93,7 @@
     },
     {
       "surface": "שמרים",
-      "gloss": "singabagcini bolindi"
+      "gloss": "silindile"
     },
     {
       "surface": "אנחנו",
@@ -102,19 +102,19 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "olindi bakaYahwe Elohim wethu"
+      "marks": "umkhosi kaYahwe"
     },
     {
       "surface": "משמרת",
-      "gloss": "olindi"
+      "gloss": "umkhosi"
     },
     {
       "surface": "יהוה",
-      "gloss": "bakaYahwe"
+      "gloss": "kaYahwe"
     },
     {
       "surface": "אלהינו",
-      "gloss": "Elohim wethu"
+      "gloss": "uElohim wethu"
     },
     {
       "surface": "ואתם",
@@ -122,14 +122,14 @@
     },
     {
       "surface": "עזבתם",
-      "gloss": "nimshiye"
+      "gloss": "namlahlela"
     },
     {
       "surface": "אתו",
-      "gloss": "yena ⟨את⟩",
-      "marks": "uYahwe Elohim wethu"
+      "gloss": "⟨את⟩ yena",
+      "marks": "yena (kaYahwe)"
     }
   ],
-  "timestamp": "2026-09-18T17:08:48.724747437Z",
+  "timestamp": "2026-09-19T13:45:50.769708624Z",
   "model": "glm-5.3"
 }

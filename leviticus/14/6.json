@@ -5,12 +5,12 @@
   "book": "leviticus",
   "lang": "xh",
   "chapter": 14,
-  "translation": "⟨את⟩ Intaka ephilayo uyayithabatha, yaye ⟨את⟩ inkuni yesedare, no⟨את⟩ ntlambo ebomvu ye-tola, no⟨את⟩ gesovu; azazityophoza, kunye ⟨את⟩ nentaka ephilayo, egazini lentaka ebulelwayo, phezu kwamanzi aphilayo.",
+  "translation": "Intaka ephilileyo uyakuyithatha ⟨את⟩, kunye ⟨את⟩ neenkuni zesedar, kunye ⟨את⟩ neshani ebomvu ye-tolaath, kunye ⟨את⟩ nesopi; uzakuzityabisela zona nange-ntaka ephilileyo egazini lentaka esikiweyo, phezu kwamanzi aphilileyo.",
   "tokens": [
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "intaka ephilayo"
+      "marks": "intaka ephilileyo"
     },
     {
       "surface": "הצפר",
@@ -18,34 +18,33 @@
     },
     {
       "surface": "החיה",
-      "gloss": "ephilayo"
+      "gloss": "ephilileyo"
     },
     {
       "surface": "יקח",
-      "gloss": "uyayithabatha"
+      "gloss": "uyakuyithatha"
     },
     {
       "surface": "אתה",
-      "gloss": "⟨את⟩",
-      "marks": "intaka ephilayo (isimaphambili)"
+      "gloss": "⟨את⟩ yona"
     },
     {
       "surface": "ואת",
-      "gloss": "kunye ⟨את⟩",
-      "marks": "inkuni yesedare"
+      "gloss": "⟨את⟩",
+      "marks": "iinkuni zesedar"
     },
     {
       "surface": "עץ",
-      "gloss": "inkuni"
+      "gloss": "iinkuni"
     },
     {
       "surface": "הארז",
-      "gloss": "yesedare"
+      "gloss": "zesedar"
     },
     {
       "surface": "ואת",
-      "gloss": "kunye ⟨את⟩",
-      "marks": "intlambo ebomvu ye-tola"
+      "gloss": "⟨את⟩",
+      "marks": "shani ebomvu ye-tolaath"
     },
     {
       "surface": "שני",
@@ -53,38 +52,38 @@
     },
     {
       "surface": "התולעת",
-      "gloss": "ye-tola (isilwanyana esibomvu)"
+      "gloss": "ye-tolaath"
     },
     {
       "surface": "ואת",
-      "gloss": "kunye ⟨את⟩",
-      "marks": "isovu"
+      "gloss": "⟨את⟩",
+      "marks": "isopi"
     },
     {
       "surface": "האזב",
-      "gloss": "isovu"
+      "gloss": "isopi"
     },
     {
       "surface": "וטבל",
-      "gloss": "azazityophoza"
+      "gloss": "uzakuzityabisela"
     },
     {
       "surface": "אותם",
-      "gloss": "⟨את⟩",
-      "marks": "zona (izinto zonke)"
+      "gloss": "⟨את⟩ zona",
+      "marks": "iinkuni, ishani, isopi"
     },
     {
       "surface": "ואת",
-      "gloss": "kunye ⟨את⟩",
-      "marks": "intaka ephilayo"
+      "gloss": "⟨את⟩",
+      "marks": "intaka ephilileyo"
     },
     {
       "surface": "הצפר",
-      "gloss": "nentaka"
+      "gloss": "intaka"
     },
     {
       "surface": "החיה",
-      "gloss": "ephilayo"
+      "gloss": "ephilileyo"
     },
     {
       "surface": "בדם",
@@ -96,7 +95,7 @@
     },
     {
       "surface": "השחטה",
-      "gloss": "ebulelwayo"
+      "gloss": "esikiweyo"
     },
     {
       "surface": "על",
@@ -108,9 +107,9 @@
     },
     {
       "surface": "החיים",
-      "gloss": "aphilayo"
+      "gloss": "aphilileyo"
     }
   ],
-  "timestamp": "2026-09-18T06:51:06.380045037Z",
+  "timestamp": "2026-09-19T14:05:58.778548992Z",
   "model": "glm-5.3"
 }

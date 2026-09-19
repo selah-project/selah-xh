@@ -5,15 +5,15 @@
   "book": "deuteronomy",
   "lang": "xh",
   "chapter": 10,
-  "translation": "Kananjalo, yisrayeli, yintoni uYahwe uElohim wakho ayicelayo kuwe, ngaphandle kokumoyika uYahwe uElohim wakho, ukuhamba ezindleleni zakhe zonke, ukumthanda ⟨אתו⟩, noku kukhonza ⟨את⟩ uYahwe uElohim wakho ngeentliziyo yakho yonke nangomphefumlo wakho wonke?",
+  "translation": "Kwaye ngoku, Israyeli, yintoni uYahwe uElohim wakho afunayo kuwe, ngaphandle kokumoyika ⟨את⟩ uYahwe uElohim wakho, ukuhamba ezindleleni zakhe zonke, nokuthanda ⟨את⟩ yena, nokukhonza ⟨את⟩ uYahwe uElohim wakho ngenhliziyo yakho yonke nangomphefumlo wakho wonke?",
   "tokens": [
     {
       "surface": "ועתה",
-      "gloss": "Kananjalo"
+      "gloss": "Kwaye ngoku"
     },
     {
       "surface": "ישראל",
-      "gloss": "yisrayeli"
+      "gloss": "Israyeli"
     },
     {
       "surface": "מה",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "שאל",
-      "gloss": "ayicelayo"
+      "gloss": "afunayo"
     },
     {
       "surface": "מעמך",
@@ -37,15 +37,15 @@
     },
     {
       "surface": "כי",
-      "gloss": "ngaphandle"
+      "gloss": "nga—"
     },
     {
       "surface": "אם",
-      "gloss": "kokwa-"
+      "gloss": "—"
     },
     {
       "surface": "ליראה",
-      "gloss": "ukumoyika"
+      "gloss": "kokumoyika"
     },
     {
       "surface": "את",
@@ -66,24 +66,24 @@
     },
     {
       "surface": "בכל",
-      "gloss": "ezi- zonke"
+      "gloss": "ezi-"
     },
     {
       "surface": "דרכיו",
-      "gloss": "ndleleni zakhe"
+      "gloss": "zindleleni zakhe zonke"
     },
     {
       "surface": "ולאהבה",
-      "gloss": "ukumthanda"
+      "gloss": "nokuthanda"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨אתו⟩",
-      "marks": "ukumthanda"
+      "gloss": "⟨את⟩",
+      "marks": "yena"
     },
     {
       "surface": "ולעבד",
-      "gloss": "noku kukhonza"
+      "gloss": "nokukhonza"
     },
     {
       "surface": "את",
@@ -100,21 +100,21 @@
     },
     {
       "surface": "בכל",
-      "gloss": "nge- yonke"
+      "gloss": "yakho yonke"
     },
     {
       "surface": "לבבך",
-      "gloss": "ntliziyo yakho"
+      "gloss": "ngenhliziyo"
     },
     {
       "surface": "ובכל",
-      "gloss": "nango- wonke"
+      "gloss": "nange-"
     },
     {
       "surface": "נפשך",
-      "gloss": "mphefumlo wakho"
+      "gloss": "mphefumlo wakho wonke"
     }
   ],
-  "timestamp": "2026-09-18T08:02:47.168338703Z",
+  "timestamp": "2026-09-19T13:48:28.961660879Z",
   "model": "glm-5.3"
 }

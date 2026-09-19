@@ -5,11 +5,11 @@
   "book": "deuteronomy",
   "lang": "xh",
   "chapter": 1,
-  "translation": "Naza ndikufikelele nina nonke, nathi: Masithume amadoda phambi kwethu, aphonononge ngokwethu ⟨את⟩ umhlaba, asibuyisele izwi ngesiqhagamshelso ⟨את⟩ indlela esiza kunyuka ngayo, nangamaxa esiza kungena kuwo.",
+  "translation": "Naza nonke kum, nathi: “Makuthunyelwe amadoda phambi kwethu, khangele ngokwethu ⟨את⟩ umhlaba, abuyisele kuthi inkcazelo — ⟨את⟩ indlela esiza kukhuphela ngayo, nakunye ⟨את⟩ needolophu esiza kungena kuzo.”",
   "tokens": [
     {
       "surface": "ותקרבון",
-      "gloss": "Naza ndikufikelele"
+      "gloss": "Naza"
     },
     {
       "surface": "אלי",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "כלכם",
-      "gloss": "nina nonke"
+      "gloss": "nonke"
     },
     {
       "surface": "ותאמרו",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "נשלחה",
-      "gloss": "Masithume"
+      "gloss": "Makuthunyelwe"
     },
     {
       "surface": "אנשים",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "ויחפרו",
-      "gloss": "aphonononge"
+      "gloss": "akhangele"
     },
     {
       "surface": "לנו",
@@ -54,15 +54,15 @@
     },
     {
       "surface": "וישבו",
-      "gloss": "asibuyisele"
+      "gloss": "abuyisele"
     },
     {
       "surface": "אתנו",
-      "gloss": "⟨את⟩ kuthi"
+      "gloss": "⟨את⟩ kuthina"
     },
     {
       "surface": "דבר",
-      "gloss": "izwi"
+      "gloss": "inkcazelo"
     },
     {
       "surface": "את",
@@ -75,11 +75,11 @@
     },
     {
       "surface": "אשר",
-      "gloss": "eso"
+      "gloss": "esiza kukhuphela ngayo"
     },
     {
       "surface": "נעלה",
-      "gloss": "esiza kunyuka"
+      "gloss": "siza kukhuphela"
     },
     {
       "surface": "בה",
@@ -87,26 +87,26 @@
     },
     {
       "surface": "ואת",
-      "gloss": "nango⟨את⟩",
-      "marks": "amaxa"
+      "gloss": "kunye ⟨את⟩",
+      "marks": "iidolophu"
     },
     {
       "surface": "הערים",
-      "gloss": "amaxa"
+      "gloss": "iidolophu"
     },
     {
       "surface": "אשר",
-      "gloss": "esiza kungena"
+      "gloss": "esiza kungena kuzo"
     },
     {
       "surface": "נבא",
-      "gloss": "kungena"
+      "gloss": "siza kungena"
     },
     {
       "surface": "אליהן",
-      "gloss": "kuwo"
+      "gloss": "kuzo"
     }
   ],
-  "timestamp": "2026-09-18T17:24:53.900815795Z",
+  "timestamp": "2026-09-19T13:48:29.534103750Z",
   "model": "glm-5.3"
 }

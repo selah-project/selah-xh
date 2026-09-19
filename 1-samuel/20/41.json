@@ -5,15 +5,15 @@
   "book": "1-samuel",
   "lang": "xh",
   "chapter": 20,
-  "translation": "Inkwenkwe yayihamba, uDavide wavuka ⟨kwindawo⟩ eseMzantsi, wawa ngobuso emhlabeni, wazithoba katathu izihlandla; ⟨omabini⟩ bacocobelana ⟨omabini⟩, bakhala ⟨omabini⟩, de uDavide wadlula ⟨ngokukhala⟩.",
+  "translation": "Kwangoko elishwa lalihamba, uDavide waphakama edegeni leseMzantsi, wawa ngobuso phantsi emhlabeni, wazithoba kathathu; umntu watselela ngomlomo ⟨את⟩ umhlobo wakhe, umntu wakhala ⟨את⟩ umhlobo wakhe, kwaze kwadlula uDavide enza ngaphezulu.",
   "tokens": [
     {
       "surface": "הנער",
-      "gloss": "inkwenkwe"
+      "gloss": "elishwa"
     },
     {
       "surface": "בא",
-      "gloss": "yayihamba"
+      "gloss": "lalihamba"
     },
     {
       "surface": "ודוד",
@@ -21,15 +21,15 @@
     },
     {
       "surface": "קם",
-      "gloss": "wavuka"
+      "gloss": "waphakama"
     },
     {
       "surface": "מאצל",
-      "gloss": "kwindawo"
+      "gloss": "edegeni"
     },
     {
       "surface": "הנגב",
-      "gloss": "eseMzantsi"
+      "gloss": "leseMzantsi"
     },
     {
       "surface": "ויפל",
@@ -41,7 +41,7 @@
     },
     {
       "surface": "ארצה",
-      "gloss": "emhlabeni"
+      "gloss": "phantsi emhlabeni"
     },
     {
       "surface": "וישתחו",
@@ -49,49 +49,49 @@
     },
     {
       "surface": "שלש",
-      "gloss": "katathu"
+      "gloss": "kathathu"
     },
     {
       "surface": "פעמים",
-      "gloss": "izihlandla"
+      "gloss": "amaxesha"
     },
     {
       "surface": "וישקו",
-      "gloss": "bacocobelana"
+      "gloss": "watselela ngomlomo"
     },
     {
       "surface": "איש",
-      "gloss": "omabini"
+      "gloss": "umntu"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "omabini"
+      "marks": "umhlobo wakhe"
     },
     {
       "surface": "רעהו",
-      "gloss": "omabini"
+      "gloss": "umhlobo wakhe"
     },
     {
       "surface": "ויבכו",
-      "gloss": "bakhala"
+      "gloss": "wakhala"
     },
     {
       "surface": "איש",
-      "gloss": "omabini"
+      "gloss": "umntu"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "omabini"
+      "marks": "umhlobo wakhe"
     },
     {
       "surface": "רעהו",
-      "gloss": "omabini"
+      "gloss": "umhlobo wakhe"
     },
     {
       "surface": "עד",
-      "gloss": "de"
+      "gloss": "kwaze kwadlula"
     },
     {
       "surface": "דוד",
@@ -99,9 +99,9 @@
     },
     {
       "surface": "הגדיל",
-      "gloss": "wadlula"
+      "gloss": "enza ngaphezulu"
     }
   ],
-  "timestamp": "2026-09-18T09:34:05.770110170Z",
+  "timestamp": "2026-09-19T13:44:19.399784600Z",
   "model": "glm-5.3"
 }

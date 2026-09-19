@@ -5,7 +5,7 @@
   "book": "1-chronicles",
   "lang": "xh",
   "chapter": 6,
-  "translation": "Kwaye ngakwelinye icala leYordana, eYeriko, empuma kweYordana, kwisiqanga sikaRevuveni: iBetser entlango kunye neyakhe iindawo zokutyela, kunye neYahsa kunye neyakhe iindawo zokutyela.",
+  "translation": "Kwaye ngakwelinye icala leYardeni, eYerihowo, empuma yeYardeni, kwisizwe sikaRehavuveni: iBhetser esithangatheni kunye nommandla wazo ongaphandle, neYahsa kunye nommandla wayo ongaphandle.",
   "tokens": [
     {
       "surface": "ומעבר",
@@ -13,11 +13,11 @@
     },
     {
       "surface": "לירדן",
-      "gloss": "leYordana"
+      "gloss": "leYardeni"
     },
     {
       "surface": "ירחו",
-      "gloss": "eYeriko"
+      "gloss": "eYerihowo"
     },
     {
       "surface": "למזרח",
@@ -25,41 +25,41 @@
     },
     {
       "surface": "הירדן",
-      "gloss": "kweYordana"
+      "gloss": "yeYardeni"
     },
     {
       "surface": "ממטה",
-      "gloss": "kwisiqanga"
+      "gloss": "kwisizwe sika"
     },
     {
       "surface": "ראובן",
-      "gloss": "sikaRevuveni"
+      "gloss": "Rehavuveni"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "iBetser"
+      "marks": "iBhetser"
     },
     {
       "surface": "בצר",
-      "gloss": "iBetser"
+      "gloss": "iBhetser"
     },
     {
       "surface": "במדבר",
-      "gloss": "entlango"
+      "gloss": "esithangatheni"
     },
     {
       "surface": "ואת",
-      "gloss": "kunye ⟨את⟩",
-      "marks": "iindawo zokutyela zayo"
+      "gloss": "kunye no⟨את⟩",
+      "marks": "ummandla wazo ongaphandle"
     },
     {
       "surface": "מגרשיה",
-      "gloss": "iindawo zokutyela zayo"
+      "gloss": "ummandla wazo ongaphandle"
     },
     {
       "surface": "ואת",
-      "gloss": "kunye ⟨את⟩",
+      "gloss": "kunye no⟨את⟩",
       "marks": "iYahsa"
     },
     {
@@ -68,14 +68,14 @@
     },
     {
       "surface": "ואת",
-      "gloss": "kunye ⟨את⟩",
-      "marks": "iindawo zokutyela zayo"
+      "gloss": "kunye no⟨את⟩",
+      "marks": "ummandla wayo ongaphandle"
     },
     {
       "surface": "מגרשיה",
-      "gloss": "iindawo zokutyela zayo"
+      "gloss": "ummandla wayo ongaphandle"
     }
   ],
-  "timestamp": "2026-09-18T16:53:18.061047164Z",
+  "timestamp": "2026-09-19T13:41:51.683601754Z",
   "model": "glm-5.3"
 }

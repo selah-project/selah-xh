@@ -5,19 +5,19 @@
   "book": "leviticus",
   "lang": "xh",
   "chapter": 13,
-  "translation": "Kwaye ukuba umonakalo uluhlaza okanye ubomvu esinxibweni, okanye olusu, okanye kumzila wokotini, okanye komzila ochaseneyo, okanye nakwinto nayiphi na yenziwe ngolusu — umonakalo wesica nguwo, kwaye uza kuboniswa kwigqirha kaYahwe.",
+  "translation": "Kwaye ukuba umqobo ubonakala ngumbala oluhlaza-tshatshatsha okanye obomvu-bomvu esinxibeni, okanye eluhlwini, okanye emthini osisiseko, okanye emthini odityanisiweyo, okanye nakwisixhobo esiluhlwini nasiphi na — ngumqobo wesifo samabala, kwaye makuboniswa ⟨את⟩ umpristi.",
   "tokens": [
     {
       "surface": "והיה",
-      "gloss": "Kwaye ukuba"
+      "gloss": "kwaye ukuba"
     },
     {
       "surface": "הנגע",
-      "gloss": "umonakalo"
+      "gloss": "umqobo"
     },
     {
       "surface": "ירקרק",
-      "gloss": "uluhlaza"
+      "gloss": "oluhlaza-tshatshatsha"
     },
     {
       "surface": "או",
@@ -25,11 +25,11 @@
     },
     {
       "surface": "אדמדם",
-      "gloss": "ubomvu"
+      "gloss": "obomvu-bomvu"
     },
     {
       "surface": "בבגד",
-      "gloss": "esinxibweni"
+      "gloss": "esinxibeni"
     },
     {
       "surface": "או",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "בעור",
-      "gloss": "olusu"
+      "gloss": "eluhlwini"
     },
     {
       "surface": "או",
@@ -45,7 +45,7 @@
     },
     {
       "surface": "בשתי",
-      "gloss": "kumzila wokotini"
+      "gloss": "emthini osisiseko"
     },
     {
       "surface": "או",
@@ -53,7 +53,7 @@
     },
     {
       "surface": "בערב",
-      "gloss": "komzila ochaseneyo"
+      "gloss": "emthini odityanisiweyo"
     },
     {
       "surface": "או",
@@ -61,23 +61,23 @@
     },
     {
       "surface": "בכל",
-      "gloss": "nakwinto nayiphi"
+      "gloss": "nakwisixhobo nasiphi na"
     },
     {
       "surface": "כלי",
-      "gloss": "na"
+      "gloss": "isixhobo"
     },
     {
       "surface": "עור",
-      "gloss": "ngolusu"
+      "gloss": "siluhlwini"
     },
     {
       "surface": "נגע",
-      "gloss": "umonakalo"
+      "gloss": "umqobo"
     },
     {
       "surface": "צרעת",
-      "gloss": "wesica"
+      "gloss": "wesifo samabala"
     },
     {
       "surface": "הוא",
@@ -85,18 +85,18 @@
     },
     {
       "surface": "והראה",
-      "gloss": "kwaye uza kuboniswa"
+      "gloss": "kwaye makuboniswa"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "igqirha kaYahwe"
+      "marks": "umpristi"
     },
     {
       "surface": "הכהן",
-      "gloss": "igqirha kaYahwe"
+      "gloss": "umpristi"
     }
   ],
-  "timestamp": "2026-09-18T06:50:58.003412600Z",
+  "timestamp": "2026-09-19T14:06:11.307752099Z",
   "model": "glm-5.3"
 }

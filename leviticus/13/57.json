@@ -5,11 +5,11 @@
   "book": "leviticus",
   "lang": "xh",
   "chapter": 13,
-  "translation": "Kwaye ukuba isibhene sibonakala kwakhona esinxibeni, okanye kumsoka, okanye kumsokelwano, okanye nasiphi na isinto yesikhumba, siphuhlile — ngumkhuhlane oqhubekayo; uyitshise ngomlilo loo nto enesibhene kuyo.",
+  "translation": "Ukuba ngoku sibonakala kwakhona emnxumeni, okanye kwiintambo zokutya, okanye kwiintambo zokhetho, okanye kwisixhobo esinasiphongo — siyaphapasha: ngumlilo uza kutshisa oko kuso isifo esithileyo ⟨את⟩ esikulo.",
   "tokens": [
     {
       "surface": "ואם",
-      "gloss": "kwaye ukuba"
+      "gloss": "ukuba ngoku"
     },
     {
       "surface": "תראה",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "בבגד",
-      "gloss": "esinxibeni"
+      "gloss": "emnxumeni"
     },
     {
       "surface": "או",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "בשתי",
-      "gloss": "kumsoka"
+      "gloss": "kwiintambo zokutya"
     },
     {
       "surface": "או",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "בערב",
-      "gloss": "kumsokelwano"
+      "gloss": "kwiintambo zokhetho"
     },
     {
       "surface": "או",
@@ -45,50 +45,50 @@
     },
     {
       "surface": "בכל",
-      "gloss": "nasiphi na"
+      "gloss": "kwisixhobo esinasiphongo —"
     },
     {
       "surface": "כלי",
-      "gloss": "isinto"
+      "gloss": "esinasiphongo"
     },
     {
       "surface": "עור",
-      "gloss": "yesikhumba"
+      "gloss": "isiphongo"
     },
     {
       "surface": "פרחת",
-      "gloss": "siphuhlile"
+      "gloss": "siyaphapasha"
     },
     {
       "surface": "הוא",
-      "gloss": "ngumkhuhlane"
+      "gloss": "ngumfundi"
     },
     {
       "surface": "באש",
-      "gloss": "ngomlilo"
+      "gloss": "ngumlilo"
     },
     {
       "surface": "תשרפנו",
-      "gloss": "uyitshise"
+      "gloss": "uza kutshisa"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "loo nto"
+      "marks": "oko kuso isifo esithileyo"
     },
     {
       "surface": "אשר",
-      "gloss": "ene"
+      "gloss": "esikulo"
     },
     {
       "surface": "בו",
-      "gloss": "kuyo"
+      "gloss": "kulo"
     },
     {
       "surface": "הנגע",
-      "gloss": "isibhene"
+      "gloss": "isifo esithileyo"
     }
   ],
-  "timestamp": "2026-09-18T06:47:14.001627651Z",
+  "timestamp": "2026-09-19T14:05:56.842185542Z",
   "model": "glm-5.3"
 }

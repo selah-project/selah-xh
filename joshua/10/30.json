@@ -5,11 +5,11 @@
   "book": "joshua",
   "lang": "xh",
   "chapter": 10,
-  "translation": "UYahwe wanika ⟨את⟩ yona nayo nenkosi yayo, esandleni seYisraele; wayibetha nolwelo lomkla, nangabanegama bonke ababe kuyo; akabhanga namnye wasala kuyo; wenza jingalo injenjalo yenkosi yayo njengoko wayenzela inkosi yeYeriyo.",
+  "translation": "uYahwe wayinika ⟨את⟩ nayo, kunye ⟨את⟩ nengangeenkosi yayo, esandleni sikaSirayeli; wayibetha ngomlomo wesikhali, wabulala ⟨את⟩ yonke inefeshi eseleyo kuyo; akabanga abambelelanga wasala kuyo; wenza kum kwinkosi yayo njengoko wenza enkosini yeYerikhowu.",
   "tokens": [
     {
       "surface": "ויתן",
-      "gloss": "wanika"
+      "gloss": "wayinika"
     },
     {
       "surface": "יהוה",
@@ -21,7 +21,8 @@
     },
     {
       "surface": "אותה",
-      "gloss": "⟨את⟩ yona"
+      "gloss": "⟨את⟩ nayo",
+      "marks": "yona (idoloxo)"
     },
     {
       "surface": "ביד",
@@ -29,12 +30,12 @@
     },
     {
       "surface": "ישראל",
-      "gloss": "seYisraele"
+      "gloss": "sikaSirayeli"
     },
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "inkosi yayo"
+      "marks": "nengangeenkosi yayo"
     },
     {
       "surface": "מלכה",
@@ -46,28 +47,28 @@
     },
     {
       "surface": "לפי",
-      "gloss": "nolwelo"
+      "gloss": "ngomlomo"
     },
     {
       "surface": "חרב",
-      "gloss": "lomkla"
+      "gloss": "wesikhali"
     },
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "onke ababe kuyo"
+      "marks": "yonke inefeshi"
     },
     {
       "surface": "כל",
-      "gloss": "bonke"
+      "gloss": "yonke"
     },
     {
       "surface": "הנפש",
-      "gloss": "abanegama"
+      "gloss": "inefeshi"
     },
     {
       "surface": "אשר",
-      "gloss": "aba-"
+      "gloss": "eseleyo"
     },
     {
       "surface": "בה",
@@ -75,11 +76,11 @@
     },
     {
       "surface": "לא",
-      "gloss": "akabhanga"
+      "gloss": "akabanga"
     },
     {
       "surface": "השאיר",
-      "gloss": "washiywa nasala"
+      "gloss": "abambelelanga"
     },
     {
       "surface": "בה",
@@ -87,7 +88,7 @@
     },
     {
       "surface": "שריד",
-      "gloss": "namnye wasala"
+      "gloss": "wasala"
     },
     {
       "surface": "ויעש",
@@ -95,7 +96,7 @@
     },
     {
       "surface": "למלכה",
-      "gloss": "yenkosi yayo"
+      "gloss": "kwinkosi yayo"
     },
     {
       "surface": "כאשר",
@@ -103,17 +104,17 @@
     },
     {
       "surface": "עשה",
-      "gloss": "wayenzela"
+      "gloss": "wenza"
     },
     {
       "surface": "למלך",
-      "gloss": "inkosi"
+      "gloss": "enkosini"
     },
     {
       "surface": "יריחו",
-      "gloss": "yeYeriyo"
+      "gloss": "yeYerikhowu"
     }
   ],
-  "timestamp": "2026-09-18T08:37:34.633934773Z",
+  "timestamp": "2026-09-19T14:02:42.855687542Z",
   "model": "glm-5.3"
 }

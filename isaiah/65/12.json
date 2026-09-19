@@ -5,7 +5,7 @@
   "book": "isaiah",
   "lang": "xh",
   "chapter": 65,
-  "translation": "Ndiza kunibala ngenkemba, nonke niya kugoduka engcubungcubwini, kuba ndandibizile nange phendulanga, ndandithethile nange phulaphulile; nenza okubi emehlweni am, nakhetha oko ndangenandaba nako.",
+  "translation": "Ndiza kunibala ⟨את⟩ nina kwisikhali, nina nonke niyakuzithoba ekuhlwayweni, kuba ndabizisa kodwa aniphendulanga, ndathetha kodwa aniphulaphulanga; nenza okubi emehlweni am, nakhetha oko ndangenandi.",
   "tokens": [
     {
       "surface": "ומניתי",
@@ -13,23 +13,24 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩"
+      "gloss": "⟨את⟩",
+      "marks": "nina kwisikhali"
     },
     {
       "surface": "לחרב",
-      "gloss": "ngenkemba"
+      "gloss": "kwisikhali"
     },
     {
       "surface": "וכלכם",
-      "gloss": "nonke"
+      "gloss": "nina nonke"
     },
     {
       "surface": "לטבח",
-      "gloss": "engcubungcubwini"
+      "gloss": "ekuhlwayweni"
     },
     {
       "surface": "תכרעו",
-      "gloss": "niya kugoduka"
+      "gloss": "niyakuzithoba"
     },
     {
       "surface": "יען",
@@ -37,27 +38,27 @@
     },
     {
       "surface": "קראתי",
-      "gloss": "ndandibizile"
+      "gloss": "ndabizisa"
     },
     {
       "surface": "ולא",
-      "gloss": "nange"
+      "gloss": "kodwa hayi"
     },
     {
       "surface": "עניתם",
-      "gloss": "phendulanga"
+      "gloss": "aniphendulanga"
     },
     {
       "surface": "דברתי",
-      "gloss": "ndandithethile"
+      "gloss": "ndathetha"
     },
     {
       "surface": "ולא",
-      "gloss": "nange"
+      "gloss": "kodwa hayi"
     },
     {
       "surface": "שמעתם",
-      "gloss": "phulaphulile"
+      "gloss": "aniphulaphulanga"
     },
     {
       "surface": "ותעשו",
@@ -73,21 +74,21 @@
     },
     {
       "surface": "ובאשר",
-      "gloss": "nako"
+      "gloss": "nasekokweni"
     },
     {
       "surface": "לא",
-      "gloss": "nga-"
+      "gloss": "hayi"
     },
     {
       "surface": "חפצתי",
-      "gloss": "ndangenandaba"
+      "gloss": "ndandithanda"
     },
     {
       "surface": "בחרתם",
-      "gloss": "nakhetha oko"
+      "gloss": "nakhetha"
     }
   ],
-  "timestamp": "2026-09-18T11:49:20.733043023Z",
+  "timestamp": "2026-09-19T13:59:37.646746160Z",
   "model": "glm-5.3"
 }

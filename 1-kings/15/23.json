@@ -5,27 +5,27 @@
   "book": "1-kings",
   "lang": "xh",
   "chapter": 15,
-  "translation": "Eso esiseleyo seendaba zonke zika-Asa, nako konke amandla akhe, nako konke awayenzayo, nedolophu azakheyo — ingaba azi-⟨bhalwanga⟩ na encwadini yeendaba zamaxesha ookumkani bakwaYuda? Kuphela kwixesha lobudala bakhe wagula ngeenyawo zakhe.",
+  "translation": "Nangapandle koko, onke amagama ka-Asa, naye onke amandla akhe, nako konke awayenzileyo, naye iidolophu awayezakheyo — akuzalwanga na ezibhalweni zencwadi yamagama yemihla yookumkani baseYuda? Kodwa ngexesha lodudazi lwakhe wagula ⟨את⟩ iinyawo zakhe.",
   "tokens": [
     {
       "surface": "ויתר",
-      "gloss": "eso esiseleyo"
+      "gloss": "Nangapandle koko"
     },
     {
       "surface": "כל",
-      "gloss": "zonke"
+      "gloss": "onke"
     },
     {
       "surface": "דברי",
-      "gloss": "seendaba"
+      "gloss": "amagama"
     },
     {
       "surface": "אסא",
-      "gloss": "zika-Asa"
+      "gloss": "ka-Asa"
     },
     {
       "surface": "וכל",
-      "gloss": "nako konke"
+      "gloss": "naye onke"
     },
     {
       "surface": "גבורתו",
@@ -37,71 +37,71 @@
     },
     {
       "surface": "אשר",
-      "gloss": "awayenzayo"
+      "gloss": "oko"
     },
     {
       "surface": "עשה",
-      "gloss": "enza"
+      "gloss": "awayenzileyo"
     },
     {
       "surface": "והערים",
-      "gloss": "nedolophu"
+      "gloss": "naye iidolophu"
     },
     {
       "surface": "אשר",
-      "gloss": "eza"
+      "gloss": "azo"
     },
     {
       "surface": "בנה",
-      "gloss": "zakha"
+      "gloss": "awayezakheyo"
     },
     {
       "surface": "הלא",
-      "gloss": "ingaba…na"
+      "gloss": "akuzalwanga na"
     },
     {
       "surface": "המה",
-      "gloss": "zi-"
+      "gloss": "zi"
     },
     {
       "surface": "כתובים",
-      "gloss": "bhalwanga"
+      "gloss": "ezibhalweni"
     },
     {
       "surface": "על",
-      "gloss": "e-"
+      "gloss": "kwi-"
     },
     {
       "surface": "ספר",
-      "gloss": "encwadini"
+      "gloss": "ncwadi"
     },
     {
       "surface": "דברי",
-      "gloss": "yeendaba"
+      "gloss": "amagama"
     },
     {
       "surface": "הימים",
-      "gloss": "zamaxesha"
+      "gloss": "yemihla"
     },
     {
       "surface": "למלכי",
-      "gloss": "ookumkani"
+      "gloss": "yookumkani"
     },
     {
       "surface": "יהודה",
-      "gloss": "bakwaYuda"
+      "gloss": "baseYuda"
     },
     {
       "surface": "רק",
-      "gloss": "kuphela"
+      "gloss": "Kodwa kuphela"
     },
     {
       "surface": "לעת",
-      "gloss": "kwixesha"
+      "gloss": "ngexesha"
     },
     {
       "surface": "זקנתו",
-      "gloss": "lobudala bakhe"
+      "gloss": "lodudazi lwakhe"
     },
     {
       "surface": "חלה",
@@ -109,13 +109,14 @@
     },
     {
       "surface": "את",
-      "gloss": "⟨את⟩ nge-"
+      "gloss": "⟨את⟩",
+      "marks": "iinyawo zakhe"
     },
     {
       "surface": "רגליו",
       "gloss": "iinyawo zakhe"
     }
   ],
-  "timestamp": "2026-09-18T10:30:39.810077153Z",
+  "timestamp": "2026-09-19T13:42:26.597757164Z",
   "model": "glm-5.3"
 }

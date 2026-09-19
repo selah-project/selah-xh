@@ -5,7 +5,7 @@
   "book": "esther",
   "lang": "xh",
   "chapter": 8,
-  "translation": "kuba ndingakwazi njani ukubona imbi engagala kubantu bakam? yaye ndingakwazi njani ukubona ukutshatyalaliswa kolwaphelwano lwam?",
+  "translation": "Kuba njani ndingakwazi ukubona intsizi эзayo kubantu bakhe? into engu ⟨את⟩ abantu bakhe; njani ndingakwazi ukubona ukutshatyalaliswa kobuzalwane bakhe?",
   "tokens": [
     {
       "surface": "כי",
@@ -25,11 +25,11 @@
     },
     {
       "surface": "ברעה",
-      "gloss": "imbi"
+      "gloss": "intsizi"
     },
     {
       "surface": "אשר",
-      "gloss": "engagala"
+      "gloss": "ezayo"
     },
     {
       "surface": "ימצא",
@@ -38,15 +38,15 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "isizwe sam"
+      "marks": "abantu bakhe"
     },
     {
       "surface": "עמי",
-      "gloss": "isizwe sam"
+      "gloss": "abantu bakhe"
     },
     {
       "surface": "ואיככה",
-      "gloss": "yaye njani"
+      "gloss": "kananjalo njani"
     },
     {
       "surface": "אוכל",
@@ -58,13 +58,13 @@
     },
     {
       "surface": "באבדן",
-      "gloss": "ukutshatyalaliswa"
+      "gloss": "ukutshatyalaliswa kobuzalwane"
     },
     {
       "surface": "מולדתי",
-      "gloss": "ulwaphelwano lwam"
+      "gloss": "obuzalwane bakhe"
     }
   ],
-  "timestamp": "2026-09-18T16:31:03.095200019Z",
+  "timestamp": "2026-09-19T13:50:25.940808327Z",
   "model": "glm-5.3"
 }

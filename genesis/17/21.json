@@ -5,7 +5,7 @@
   "book": "genesis",
   "lang": "xh",
   "chapter": 17,
-  "translation": "Kodwa ⟨את⟩ umnqophiso wam ndiza kuwumisela kuYitschak, oSara aza kumzalela wena ngalo eli xesha elichaziweyo, unyaka ozayo.",
+  "translation": "Kodwa ⟨את⟩ umnqophiso wam ndiza kuwumisela ⟨את⟩ kuYitschak, oSara aza kumzala kuwe, ngeli xesha eliczulisweyo, ngokunene, kunyaka olandelayo.",
   "tokens": [
     {
       "surface": "ואת",
@@ -23,11 +23,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "uYitschak"
+      "marks": "kuYitschak"
     },
     {
       "surface": "יצחק",
-      "gloss": "uYitschak"
+      "gloss": "kuYitschak"
     },
     {
       "surface": "אשר",
@@ -35,19 +35,19 @@
     },
     {
       "surface": "תלד",
-      "gloss": "aza kuzala"
+      "gloss": "aza kumzala"
     },
     {
       "surface": "לך",
-      "gloss": "kwakho"
+      "gloss": "kuwe"
     },
     {
       "surface": "שרה",
-      "gloss": "uSara"
+      "gloss": "oSara"
     },
     {
       "surface": "למועד",
-      "gloss": "ngexesha elichaziweyo"
+      "gloss": "ngeli xesha eliczulisweyo"
     },
     {
       "surface": "הזה",
@@ -55,13 +55,13 @@
     },
     {
       "surface": "בשנה",
-      "gloss": "unyaka"
+      "gloss": "kunyaka"
     },
     {
       "surface": "האחרת",
-      "gloss": "ozayo"
+      "gloss": "olandelayo"
     }
   ],
-  "timestamp": "2026-09-18T05:16:59.840066865Z",
+  "timestamp": "2026-09-19T13:56:21.734798063Z",
   "model": "glm-5.3"
 }

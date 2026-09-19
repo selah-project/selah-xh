@@ -5,7 +5,7 @@
   "book": "1-kings",
   "lang": "xh",
   "chapter": 1,
-  "translation": "Wava u-Adoniyahu nabani bonke ababiziweyo ababe nawe, bephelile ukutya; wava uYowabhi ⟨את⟩ ilizwi leshofolo, wathetha wathi: “Kutheni ilizwi ledolophu liduma njalo?”",
+  "translation": "Wava u-Adoniyahu nabo bonke ababizweyo ababe ⟨את⟩ kuye, sele begqibile ukutya; wathinta indlebe uYowabhi ⟨את⟩ isandi leshopharo, wathi: “Kutheni idolophu idumba ngandlela ithetha?”",
   "tokens": [
     {
       "surface": "וישמע",
@@ -17,27 +17,28 @@
     },
     {
       "surface": "וכל",
-      "gloss": "nabani bonke"
+      "gloss": "nabo bonke"
     },
     {
       "surface": "הקראים",
-      "gloss": "ababiziweyo"
+      "gloss": "ababizweyo"
     },
     {
       "surface": "אשר",
-      "gloss": "abo"
+      "gloss": "aba-"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ aye"
+      "gloss": "⟨את⟩ kuye",
+      "marks": "ababizweyo ababe kuye"
     },
     {
       "surface": "והם",
-      "gloss": "bona"
+      "gloss": "sele"
     },
     {
       "surface": "כלו",
-      "gloss": "bephelile"
+      "gloss": "begqibile"
     },
     {
       "surface": "לאכל",
@@ -45,7 +46,7 @@
     },
     {
       "surface": "וישמע",
-      "gloss": "wava"
+      "gloss": "wathinta indlebe"
     },
     {
       "surface": "יואב",
@@ -54,19 +55,19 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ilizwi leshofolo"
+      "marks": "isandi leshopharo"
     },
     {
       "surface": "קול",
-      "gloss": "ilizwi"
+      "gloss": "isandi"
     },
     {
       "surface": "השופר",
-      "gloss": "leshofolo"
+      "gloss": "leshopharo"
     },
     {
       "surface": "ויאמר",
-      "gloss": "wathetha"
+      "gloss": "wathi"
     },
     {
       "surface": "מדוע",
@@ -74,17 +75,17 @@
     },
     {
       "surface": "קול",
-      "gloss": "ilizwi"
+      "gloss": "idolophu ithetha"
     },
     {
       "surface": "הקריה",
-      "gloss": "ledolophu"
+      "gloss": "idolophu"
     },
     {
       "surface": "הומה",
-      "gloss": "liduma"
+      "gloss": "idumba"
     }
   ],
-  "timestamp": "2026-09-18T18:32:02.610619807Z",
+  "timestamp": "2026-09-19T13:42:22.044806523Z",
   "model": "glm-5.3"
 }

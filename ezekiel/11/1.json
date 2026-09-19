@@ -5,16 +5,16 @@
   "book": "ezekiel",
   "lang": "xh",
   "chapter": 11,
-  "translation": "Umoya wandiphakamisa, wandisa kwingangingangi yesiganga sendlu kaYahwe, eso sijongise empuma, yaye ngabona, kwingeniso yesiganga, amadoda amashumi amabini anesihlanu; ndabona phakathi kwawo uYazanyiya unyana kaAzuri, noPelatiya unyana kaBenaya, oonobhishophi ⟨abang⟩ abantu.",
+  "translation": "Umoya wandinyusa ⟨את⟩, wandisela ⟨את⟩ esangweni sangasempuma seNdlu kaYahwe, esejongene empuma; kwaye nanga, phambi komnyango wesango amashumi amabini anamhlanje amadoda; ndababona phakathi kwabo ⟨את⟩ uYaazanyiya unyana ka-Azuri, kwaye ⟨את⟩ uPelatiya unyana kaBhenaya, ooceba bentlanga.",
   "tokens": [
     {
       "surface": "ותשא",
-      "gloss": "waphakamisa"
+      "gloss": "wandinyusa"
     },
     {
       "surface": "אתי",
       "gloss": "⟨את⟩",
-      "marks": "mna"
+      "marks": "ndim"
     },
     {
       "surface": "רוח",
@@ -22,24 +22,24 @@
     },
     {
       "surface": "ותבא",
-      "gloss": "wandisa"
+      "gloss": "wandisela"
     },
     {
       "surface": "אתי",
       "gloss": "⟨את⟩",
-      "marks": "mna"
+      "marks": "esangweni"
     },
     {
       "surface": "אל",
-      "gloss": "ku"
+      "gloss": "kwi"
     },
     {
       "surface": "שער",
-      "gloss": "isiganga"
+      "gloss": "isango"
     },
     {
       "surface": "בית",
-      "gloss": "endlu"
+      "gloss": "iNdlu"
     },
     {
       "surface": "יהוה",
@@ -47,11 +47,11 @@
     },
     {
       "surface": "הקדמוני",
-      "gloss": "esempuma"
+      "gloss": "sangasempuma"
     },
     {
       "surface": "הפונה",
-      "gloss": "eso sijongise"
+      "gloss": "esejongene"
     },
     {
       "surface": "קדימה",
@@ -59,15 +59,15 @@
     },
     {
       "surface": "והנה",
-      "gloss": "yaye ngabona"
+      "gloss": "kwaye nanga"
     },
     {
       "surface": "בפתח",
-      "gloss": "kwingeniso"
+      "gloss": "phambi komnyango"
     },
     {
       "surface": "השער",
-      "gloss": "yesiganga"
+      "gloss": "wesango"
     },
     {
       "surface": "עשרים",
@@ -75,7 +75,7 @@
     },
     {
       "surface": "וחמשה",
-      "gloss": "anesihlanu"
+      "gloss": "anamhlanje"
     },
     {
       "surface": "איש",
@@ -83,20 +83,20 @@
     },
     {
       "surface": "ואראה",
-      "gloss": "ndabona"
+      "gloss": "ndababona"
     },
     {
       "surface": "בתוכם",
-      "gloss": "phakathi kwawo"
+      "gloss": "phakathi kwabo"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "uYazanyiya"
+      "marks": "uYaazanyiya"
     },
     {
       "surface": "יאזניה",
-      "gloss": "uYazanyiya"
+      "gloss": "uYaazanyiya"
     },
     {
       "surface": "בן",
@@ -104,16 +104,16 @@
     },
     {
       "surface": "עזר",
-      "gloss": "kaAzuri"
+      "gloss": "ka-Azuri"
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
-      "marks": "noPelatiya"
+      "gloss": "kwaye ⟨את⟩",
+      "marks": "uPelatiya"
     },
     {
       "surface": "פלטיהו",
-      "gloss": "noPelatiya"
+      "gloss": "uPelatiya"
     },
     {
       "surface": "בן",
@@ -121,17 +121,17 @@
     },
     {
       "surface": "בניהו",
-      "gloss": "kaBenaya"
+      "gloss": "kaBhenaya"
     },
     {
       "surface": "שרי",
-      "gloss": "oonobhishophi"
+      "gloss": "ooceba"
     },
     {
       "surface": "העם",
-      "gloss": "abantu"
+      "gloss": "bentlanga"
     }
   ],
-  "timestamp": "2026-09-18T12:59:52.857271784Z",
+  "timestamp": "2026-09-19T13:53:38.924924887Z",
   "model": "glm-5.3"
 }

@@ -5,11 +5,11 @@
   "book": "proverbs",
   "lang": "xh",
   "chapter": 22,
-  "translation": "Musa ukuzibandakanya ⟨את⟩ nomntu wolwazelelo, nomntu wokrakra ungangen kuye.",
+  "translation": "Musa ukuzibandakanya ⟨את⟩ nomntu wolwaza, kwaye nomntu wentsindo musa ukuhamba naye.",
   "tokens": [
     {
       "surface": "אל",
-      "gloss": "Musa"
+      "gloss": "musa"
     },
     {
       "surface": "תתרע",
@@ -18,20 +18,19 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "nomntu wolwazelelo"
+      "marks": "nomntu wolwaza"
     },
     {
       "surface": "בעל",
-      "gloss": "umnini"
+      "gloss": "umntu"
     },
     {
       "surface": "אף",
-      "gloss": "olwazelelo"
+      "gloss": "wolwaza"
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
-      "marks": "nomntu wokrakra"
+      "gloss": "⟨את⟩"
     },
     {
       "surface": "איש",
@@ -39,17 +38,17 @@
     },
     {
       "surface": "חמות",
-      "gloss": "wokrakra"
+      "gloss": "wentsindo"
     },
     {
       "surface": "לא",
-      "gloss": "akushiye"
+      "gloss": "hayi"
     },
     {
       "surface": "תבוא",
-      "gloss": "ukungen kuye"
+      "gloss": "ukuhamba"
     }
   ],
-  "timestamp": "2026-09-18T15:52:57.263596677Z",
+  "timestamp": "2026-09-19T14:10:05.845673968Z",
   "model": "glm-5.3"
 }

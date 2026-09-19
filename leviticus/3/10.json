@@ -5,77 +5,80 @@
   "book": "leviticus",
   "lang": "xh",
   "chapter": 3,
-  "translation": "Nazo zombini iintsoho zethu ezibini, namafutha akho asemazantsi kwazo, asehlathini, ⟨את⟩ nese se sibuthathaka lasentlalweni, iintsoho zethu — uza kuthatha wonke.",
+  "translation": "Nayo ⟨את⟩ iintsovu ezimbini, no⟨את⟩ umafutha osentla kwazo, lowo usekwicala leentlonja, no⟨את⟩ isiqingatha segalu esentla phezu kwegalu, ngakunye neentsovu — uza kuzisusa.",
   "tokens": [
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩ nazo"
+      "gloss": "no⟨את⟩",
+      "marks": "iintsovu ezimbini"
     },
     {
-      "surface": "שְׁתֵּ֣י",
-      "gloss": "zombini"
+      "surface": "שתי",
+      "gloss": "ezimbini"
     },
     {
-      "surface": "הַכְּלָיֹ֔ת",
-      "gloss": "iintsoho zethu ezibini"
-    },
-    {
-      "surface": "ואת",
-      "gloss": "⟨את⟩ nama"
-    },
-    {
-      "surface": "הַחֵ֨לֶב֙",
-      "gloss": "amafutha"
-    },
-    {
-      "surface": "אֲשֶׁ֣ר",
-      "gloss": "akho"
-    },
-    {
-      "surface": "עֲלֵהֶ֔ן",
-      "gloss": "asemazantsi kwazo"
-    },
-    {
-      "surface": "אֲשֶׁ֖ר",
-      "gloss": "asehlathini"
-    },
-    {
-      "surface": "עַל",
-      "gloss": "kwezi"
-    },
-    {
-      "surface": "הַכְּסָלִ֑ים",
-      "gloss": "iindonga zethu"
+      "surface": "הכלית",
+      "gloss": "iintsovu"
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩ nese"
+      "gloss": "no⟨את⟩",
+      "marks": "umafutha"
     },
     {
-      "surface": "הַיֹּתֶ֨רֶת֙",
-      "gloss": "se sibuthathaka lasentlalweni"
+      "surface": "החלב",
+      "gloss": "umafutha"
     },
     {
-      "surface": "עַל",
-      "gloss": "phezu"
+      "surface": "אשר",
+      "gloss": "lowu"
     },
     {
-      "surface": "הַכָּבֵ֔ד",
-      "gloss": "kwesisu"
+      "surface": "עלהן",
+      "gloss": "osentla kwazo"
     },
     {
-      "surface": "עַל",
-      "gloss": "phezu"
+      "surface": "אשר",
+      "gloss": "lowu"
     },
     {
-      "surface": "הַכְּלָיֹ֖ת",
-      "gloss": "kwezintsoho"
+      "surface": "על",
+      "gloss": "useku-"
     },
     {
-      "surface": "יְסִירֶֽנָּה",
-      "gloss": "uza kuthatha wonke"
+      "surface": "הכסלים",
+      "gloss": "iicala leentlonja"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "no⟨את⟩",
+      "marks": "isiqingatha segalu"
+    },
+    {
+      "surface": "היתרת",
+      "gloss": "isiqingatha segalu esentla"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu kwegalu"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "igalu"
+    },
+    {
+      "surface": "על",
+      "gloss": "ngakunye ne-"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "iintsovu"
+    },
+    {
+      "surface": "יסירנה",
+      "gloss": "uza kuzisusa"
     }
   ],
-  "timestamp": "2026-09-18T06:32:39.210382086Z",
+  "timestamp": "2026-09-19T14:06:59.073351648Z",
   "model": "glm-5.3"
 }

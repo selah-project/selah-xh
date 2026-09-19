@@ -5,16 +5,16 @@
   "book": "genesis",
   "lang": "xh",
   "chapter": 1,
-  "translation": "Wabahlalisa uElohim, wathetha nabo uElohim: “Zalani, nandiphe, nizalise ⟨את⟩ umhlaba, nize nilawule; nabe nenkosi ezinhlanini zolwandle, ezintakeni zezulu, nasemibini yonke into ephilayo ehambahamba phezu komhlaba.”",
+  "translation": "Wabusisa uElohim ⟨את⟩ bona, wathetha kubo uElohim wathi: “Zalani, nandiphani, zazisani ⟨את⟩ umhlaba, nimoyisani yena; nilawulani iintlanzi zolwandle, neentaka zezulu, nazo zonke izilwanyana ezihambehayo emhlabeni.”",
   "tokens": [
     {
       "surface": "ויברך",
-      "gloss": "Wabahlalisa"
+      "gloss": "Wabusisa"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨אתם⟩",
-      "marks": "bona (umntu nesifazane)"
+      "gloss": "⟨את⟩",
+      "marks": "bona"
     },
     {
       "surface": "אלהים",
@@ -26,7 +26,7 @@
     },
     {
       "surface": "להם",
-      "gloss": "nabo"
+      "gloss": "kubo"
     },
     {
       "surface": "אלהים",
@@ -38,11 +38,11 @@
     },
     {
       "surface": "ורבו",
-      "gloss": "nandiphe"
+      "gloss": "nandiphani"
     },
     {
       "surface": "ומלאו",
-      "gloss": "nizalise"
+      "gloss": "zazisani"
     },
     {
       "surface": "את",
@@ -55,15 +55,15 @@
     },
     {
       "surface": "וכבשה",
-      "gloss": "nize nilawule"
+      "gloss": "nimoyisani yena"
     },
     {
       "surface": "ורדו",
-      "gloss": "nabe nenkoso"
+      "gloss": "nilawulani"
     },
     {
       "surface": "בדגת",
-      "gloss": "ezinhlanini"
+      "gloss": "iintlanzi"
     },
     {
       "surface": "הים",
@@ -71,7 +71,7 @@
     },
     {
       "surface": "ובעוף",
-      "gloss": "ezintakeni"
+      "gloss": "neentaka"
     },
     {
       "surface": "השמים",
@@ -79,25 +79,25 @@
     },
     {
       "surface": "ובכל",
-      "gloss": "nasemibini"
+      "gloss": "nazo zonke"
     },
     {
       "surface": "חיה",
-      "gloss": "yonke into ephilayo"
+      "gloss": "izilwanyana"
     },
     {
       "surface": "הרמשת",
-      "gloss": "ehambahamba"
+      "gloss": "ezihambehayo"
     },
     {
       "surface": "על",
-      "gloss": "phezu"
+      "gloss": "emhlabeni"
     },
     {
       "surface": "הארץ",
-      "gloss": "komhlaba"
+      "gloss": ""
     }
   ],
-  "timestamp": "2026-09-18T05:07:48.455892518Z",
+  "timestamp": "2026-09-19T13:56:28.474924534Z",
   "model": "glm-5.3"
 }

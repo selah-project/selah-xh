@@ -5,20 +5,20 @@
   "book": "ezekiel",
   "lang": "xh",
   "chapter": 44,
-  "translation": "Wandibuyisela ngendlela yesango le-ndawo engcwele elingaphandle, elibheka empuma; yaye laliyavalwe.",
+  "translation": "Wandibuyelisa ⟨את⟩ indlela yesango lesith santume esingaphandle, elo lijonge empuma, yaye livaliwe.",
   "tokens": [
     {
       "surface": "וישב",
-      "gloss": "Wandibuyisela"
+      "gloss": "Wandibuyelisa"
     },
     {
       "surface": "אתי",
       "gloss": "⟨את⟩",
-      "marks": "mna"
+      "marks": "indlela"
     },
     {
       "surface": "דרך",
-      "gloss": "ngendlela"
+      "gloss": "indlela"
     },
     {
       "surface": "שער",
@@ -26,15 +26,15 @@
     },
     {
       "surface": "המקדש",
-      "gloss": "le-ndawo engcwele"
+      "gloss": "lesantume"
     },
     {
       "surface": "החיצון",
-      "gloss": "elingaphandle"
+      "gloss": "esingaphandle"
     },
     {
       "surface": "הפנה",
-      "gloss": "elibheka"
+      "gloss": "elijonge"
     },
     {
       "surface": "קדים",
@@ -42,13 +42,13 @@
     },
     {
       "surface": "והוא",
-      "gloss": "yaye li-"
+      "gloss": "yaye elo"
     },
     {
       "surface": "סגור",
-      "gloss": "laliyavalwe"
+      "gloss": "livaliwe"
     }
   ],
-  "timestamp": "2026-09-18T13:38:14.274504008Z",
+  "timestamp": "2026-09-19T13:55:11.014917108Z",
   "model": "glm-5.3"
 }

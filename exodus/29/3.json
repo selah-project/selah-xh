@@ -5,16 +5,16 @@
   "book": "exodus",
   "lang": "xh",
   "chapter": 29,
-  "translation": "Uza kuzibeka ⟨אתם⟩ kwisela elinye, uze ungene nazo kwisela, no⟨את⟩ inkomosi no⟨את⟩ amaqanda amabini.",
+  "translation": "Uza kubazisa kwisikhephe esinye, uza kuzisa ⟨את⟩ ngesikhephe, kunye ⟨את⟩ nenkunzi yenkomo kunye ⟨את⟩ neerham ezimbini.",
   "tokens": [
     {
       "surface": "ונתת",
-      "gloss": "uza kuzibeka"
+      "gloss": "uza kubazisa"
     },
     {
       "surface": "אותם",
       "gloss": "⟨את⟩",
-      "marks": "uzibeka kwisela"
+      "marks": "zonke (izinto zokutya)"
     },
     {
       "surface": "על",
@@ -22,46 +22,48 @@
     },
     {
       "surface": "סל",
-      "gloss": "isela"
+      "gloss": "isikhephe"
     },
     {
       "surface": "אחד",
-      "gloss": "elinye"
+      "gloss": "esinye"
     },
     {
       "surface": "והקרבת",
-      "gloss": "uze ungene"
+      "gloss": "uza kuzisa"
     },
     {
       "surface": "אתם",
       "gloss": "⟨את⟩",
-      "marks": "nazo kwisela"
+      "marks": "ngesikhephe"
     },
     {
       "surface": "בסל",
-      "gloss": "kwisela"
+      "gloss": "ngesikhephe"
     },
     {
       "surface": "ואת",
-      "gloss": "no⟨את⟩"
+      "gloss": "⟨את⟩",
+      "marks": "inkunzi yenkomo"
     },
     {
       "surface": "הפר",
-      "gloss": "inkomosi"
+      "gloss": "inkunzi yenkomo"
     },
     {
       "surface": "ואת",
-      "gloss": "no⟨את⟩"
+      "gloss": "⟨את⟩",
+      "marks": "eerham ezimbini"
     },
     {
       "surface": "שני",
-      "gloss": "amabini"
+      "gloss": "ezimbini"
     },
     {
-      "surface": "האילים",
-      "gloss": "amaqanda"
+      "surface": "האילם",
+      "gloss": "eerham"
     }
   ],
-  "timestamp": "2026-09-18T06:18:56.999606890Z",
+  "timestamp": "2026-09-19T13:52:13.953337062Z",
   "model": "glm-5.3"
 }

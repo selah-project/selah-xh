@@ -5,20 +5,20 @@
   "book": "1-samuel",
   "lang": "xh",
   "chapter": 5,
-  "translation": "Bathuma, baqokelela ⟨את⟩ onke amakhosi amaFilisti, bathi: “Thumani ⟨את⟩ i-arke kaElohim wakwaYisrayeli, ibuyele kwindawo yayo, ibulale mna ⟨את⟩ nabantu bam; kuba ibikho ididekelo lokufa kulo lonke isele — linzima kakhulu isandla sikaElohim apho.”",
+  "translation": "Bathumela bayabutha ⟨את⟩ onke amakhosi amaPelishti, bathi: “Thumelani ⟨את⟩ iarki kaElohim kaYisrael, ibuyele endaweni yayo, ze ingabulali ⟨את⟩ mna nange⟨את⟩ abantu bam; kuba kubikhona ukudideka bobulefu esixekweni sonke, bunzima kakhulu; isandla sikaElohim sasisikhona.”",
   "tokens": [
     {
       "surface": "וישלחו",
-      "gloss": "Bathuma"
+      "gloss": "bathumela"
     },
     {
       "surface": "ויאספו",
-      "gloss": "baqokelela"
+      "gloss": "bayabutha"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "onke amakhosi amaFilisti"
+      "marks": "onke amakhosi amaPelishti"
     },
     {
       "surface": "כל",
@@ -30,7 +30,7 @@
     },
     {
       "surface": "פלשתים",
-      "gloss": "amaFilisti"
+      "gloss": "amaPelishti"
     },
     {
       "surface": "ויאמרו",
@@ -38,16 +38,16 @@
     },
     {
       "surface": "שלחו",
-      "gloss": "Thumani"
+      "gloss": "Thumelani"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "i-arke kaElohim wakwaYisrayeli"
+      "marks": "iarki kaElohim kaYisrael"
     },
     {
       "surface": "ארון",
-      "gloss": "i-arke"
+      "gloss": "iarki"
     },
     {
       "surface": "אלהי",
@@ -55,7 +55,7 @@
     },
     {
       "surface": "ישראל",
-      "gloss": "wakwaYisrayeli"
+      "gloss": "kaYisrael"
     },
     {
       "surface": "וישב",
@@ -63,15 +63,15 @@
     },
     {
       "surface": "למקמו",
-      "gloss": "kwindawo yayo"
+      "gloss": "endaweni yayo"
     },
     {
       "surface": "ולא",
-      "gloss": "hayi ukuba"
+      "gloss": "ze inga-"
     },
     {
       "surface": "ימית",
-      "gloss": "ibulale mna"
+      "gloss": "bulali"
     },
     {
       "surface": "אתי",
@@ -80,7 +80,7 @@
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
+      "gloss": "nange⟨את⟩",
       "marks": "abantu bam"
     },
     {
@@ -93,27 +93,27 @@
     },
     {
       "surface": "היתה",
-      "gloss": "ibikho"
+      "gloss": "kubikhona"
     },
     {
       "surface": "מהומת",
-      "gloss": "ididekelo"
+      "gloss": "ukudideka"
     },
     {
       "surface": "מות",
-      "gloss": "lokufa"
+      "gloss": "bobulefu"
     },
     {
       "surface": "בכל",
-      "gloss": "kulo lonke"
+      "gloss": "sonke"
     },
     {
       "surface": "העיר",
-      "gloss": "isele"
+      "gloss": "esixekweni"
     },
     {
       "surface": "כבדה",
-      "gloss": "linzima"
+      "gloss": "bunzima"
     },
     {
       "surface": "מאד",
@@ -129,9 +129,9 @@
     },
     {
       "surface": "שם",
-      "gloss": "apho"
+      "gloss": "sasisikhona"
     }
   ],
-  "timestamp": "2026-09-18T09:18:40.310660202Z",
+  "timestamp": "2026-09-19T13:44:35.629900573Z",
   "model": "glm-5.3"
 }

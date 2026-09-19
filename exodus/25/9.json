@@ -5,11 +5,11 @@
   "book": "exodus",
   "lang": "xh",
   "chapter": 25,
-  "translation": "Njengako konke oko ndikubonisa, ⟨את⟩ umfanekiso wolwakhiwo ⟨את⟩ nomfanekiso wazo zonke izixhobo zawo — ngokunjalo nilokhu niyakwenza.",
+  "translation": "Ngokwekonkeoko ndikubonisa ⟨את⟩ ⟨אותך⟩ — ⟨את⟩ umzekelo wetabernakele ⟨ואת⟩ nomzekelo wazo zonke izixhobo zayo — ngokunjalo nina niya kwenza.",
   "tokens": [
     {
       "surface": "ככל",
-      "gloss": "Njengako konke"
+      "gloss": "ngokwekonkeoko"
     },
     {
       "surface": "אשר",
@@ -17,46 +17,46 @@
     },
     {
       "surface": "אני",
-      "gloss": "ndi"
+      "gloss": "mna"
     },
     {
       "surface": "מראה",
-      "gloss": "kubonisa"
+      "gloss": "ndikubonisa"
     },
     {
       "surface": "אותך",
-      "gloss": "⟨את⟩wena",
-      "marks": "ndikubonisa → wena"
+      "gloss": "⟨את⟩ ⟨אותך⟩",
+      "marks": "wena"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "umfanekiso wolwakhiwo"
+      "marks": "umzekelo wetabernakele"
     },
     {
       "surface": "תבנית",
-      "gloss": "umfanekiso"
+      "gloss": "umzekelo"
     },
     {
       "surface": "המשכן",
-      "gloss": "ulwakhiwo (ngokwesandi: umhamzelo)"
+      "gloss": "wetabernakele"
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩no",
-      "marks": "umfanekiso wezixhobo"
+      "gloss": "⟨את⟩",
+      "marks": "nomzekelo wazo zonke izixhobo zayo"
     },
     {
       "surface": "תבנית",
-      "gloss": "umfanekiso"
+      "gloss": "nomzekelo"
     },
     {
       "surface": "כל",
-      "gloss": "konke"
+      "gloss": "zonke"
     },
     {
       "surface": "כליו",
-      "gloss": "izixhobo zawo"
+      "gloss": "izixhobo zayo"
     },
     {
       "surface": "וכן",
@@ -64,9 +64,9 @@
     },
     {
       "surface": "תעשו",
-      "gloss": "niyakwenza"
+      "gloss": "niya kwenza"
     }
   ],
-  "timestamp": "2026-09-18T06:12:56.693799707Z",
+  "timestamp": "2026-09-19T13:51:18.851777695Z",
   "model": "glm-5.3"
 }

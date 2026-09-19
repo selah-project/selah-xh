@@ -5,11 +5,11 @@
   "book": "ezekiel",
   "lang": "xh",
   "chapter": 20,
-  "translation": "Kodwa ibethu likaSirayeli lamtyikitya kum ehlathini; kwimimiselo yam ayihambanga, yaza ⟨את⟩ izigwebo zaba ziphaluxe — umntu ozenza ziphila ngazo — yaza yatyabula ⟨את⟩ iintsuku zam zokuphumla kakhulu. Ndandithi ndichithe umsindo wam phezu kwabo ehlathini, ukubatshabalalisa.",
+  "translation": "Kwaye ibhotshwele indlu kaYisraeli kum entlakweni; akuhambanga kwimithetho yam yokuqhotsywa, baza bachitha ⟨את⟩ izigwebo zam — umntu ozenzayo ezi ziphila ngazo — baza benza ingcambu ⟨את⟩ iintsuku zam zokuphumla zazingcangcazela kakhulu; ndaza ndathetha ukutshiza ishwangushwane lam phezu kwabo entlakweni, ukubatshabalalisa.",
   "tokens": [
     {
       "surface": "וימרו",
-      "gloss": "lamtyikitya"
+      "gloss": "bhotshwele"
     },
     {
       "surface": "בי",
@@ -17,27 +17,27 @@
     },
     {
       "surface": "בית",
-      "gloss": "ibethu"
+      "gloss": "indlu"
     },
     {
       "surface": "ישראל",
-      "gloss": "likaSirayeli"
+      "gloss": "kaYisraeli"
     },
     {
       "surface": "במדבר",
-      "gloss": "ehlathini"
+      "gloss": "entlakweni"
     },
     {
       "surface": "בחקותי",
-      "gloss": "kwimimiselo yam"
+      "gloss": "kwimithetho yam yokuqhotsywa"
     },
     {
       "surface": "לא",
-      "gloss": "ayihambanga"
+      "gloss": "akuhambanga"
     },
     {
       "surface": "הלכו",
-      "gloss": "-hamba"
+      "gloss": "hambanga"
     },
     {
       "surface": "ואת",
@@ -50,20 +50,20 @@
     },
     {
       "surface": "מאסו",
-      "gloss": "zaba ziphaluxe"
+      "gloss": "bachitha"
     },
     {
       "surface": "אשר",
-      "gloss": "ozenza"
+      "gloss": "—"
     },
     {
       "surface": "יעשה",
-      "gloss": "enza"
+      "gloss": "ozenzayo"
     },
     {
       "surface": "אתם",
       "gloss": "⟨את⟩",
-      "marks": "umntu"
+      "marks": "ezi"
     },
     {
       "surface": "האדם",
@@ -71,7 +71,7 @@
     },
     {
       "surface": "וחי",
-      "gloss": "aphilile"
+      "gloss": "iphila"
     },
     {
       "surface": "בהם",
@@ -88,7 +88,7 @@
     },
     {
       "surface": "חללו",
-      "gloss": "yatyabula"
+      "gloss": "benza ingcambu"
     },
     {
       "surface": "מאד",
@@ -96,15 +96,15 @@
     },
     {
       "surface": "ואמר",
-      "gloss": "ndandithi"
+      "gloss": "ndathetha"
     },
     {
       "surface": "לשפך",
-      "gloss": "ndichithe"
+      "gloss": "ukutshiza"
     },
     {
       "surface": "חמתי",
-      "gloss": "umsindo wam"
+      "gloss": "ishwangushwane lam"
     },
     {
       "surface": "עליהם",
@@ -112,13 +112,13 @@
     },
     {
       "surface": "במדבר",
-      "gloss": "ehlathini"
+      "gloss": "entlakweni"
     },
     {
       "surface": "לכלותם",
       "gloss": "ukubatshabalalisa"
     }
   ],
-  "timestamp": "2026-09-18T13:11:24.937359746Z",
+  "timestamp": "2026-09-19T13:54:32.429758317Z",
   "model": "glm-5.3"
 }

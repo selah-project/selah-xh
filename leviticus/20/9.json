@@ -5,65 +5,65 @@
   "book": "leviticus",
   "lang": "xh",
   "chapter": 20,
-  "translation": "Kuba umntu wonke, nabani na ochukuchisa ⟨את⟩ ubawo nonina, uya kufa ngenxa yokufa: ubawo nonina wawuchukuchisa; igazi lakhe lise kuye.",
+  "translation": "Ngokuba yedwa na umntu othethisa ubawo wakhe nomama wakhe, makabulawe ngokubulawa; ubawo wakhe nomama wakhe uwuthe thisile — igazi lakhe lisezibeni lakhe.",
   "tokens": [
     {
       "surface": "כי",
-      "gloss": "kuba"
+      "gloss": "Ngokuba"
     },
     {
       "surface": "איש",
-      "gloss": "umntu"
+      "gloss": "yedwa"
     },
     {
       "surface": "איש",
-      "gloss": "wonke"
+      "gloss": "na umntu"
     },
     {
       "surface": "אשר",
-      "gloss": "nabani na"
+      "gloss": "o-"
     },
     {
       "surface": "יקלל",
-      "gloss": "ochukuchisa"
+      "gloss": "thethisa"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ubawo"
+      "marks": "ubawo wakhe"
     },
     {
       "surface": "אביו",
-      "gloss": "ubawo"
+      "gloss": "ubawo wakhe"
     },
     {
       "surface": "ואת",
-      "gloss": "kunye ⟨את⟩",
-      "marks": "unina"
+      "gloss": "⟨את⟩",
+      "marks": "nomama wakhe"
     },
     {
       "surface": "אמו",
-      "gloss": "unina"
+      "gloss": "nomama wakhe"
     },
     {
       "surface": "מות",
-      "gloss": "ngenxa yokufa"
+      "gloss": "makabulawe"
     },
     {
       "surface": "יומת",
-      "gloss": "uya kufa"
+      "gloss": "ngokubulawa"
     },
     {
       "surface": "אביו",
-      "gloss": "ubawo"
+      "gloss": "ubawo wakhe"
     },
     {
       "surface": "ואמו",
-      "gloss": "kunye nonina"
+      "gloss": "nomama wakhe"
     },
     {
       "surface": "קלל",
-      "gloss": "wawuchukuchisa"
+      "gloss": "uwuthe thisile"
     },
     {
       "surface": "דמיו",
@@ -71,9 +71,9 @@
     },
     {
       "surface": "בו",
-      "gloss": "lise kuye"
+      "gloss": "sezibeni lakhe"
     }
   ],
-  "timestamp": "2026-09-18T06:59:32.443376400Z",
+  "timestamp": "2026-09-19T14:06:21.110138783Z",
   "model": "glm-5.3"
 }

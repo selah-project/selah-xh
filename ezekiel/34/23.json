@@ -5,15 +5,15 @@
   "book": "ezekiel",
   "lang": "xh",
   "chapter": 34,
-  "translation": "Ndiza kuvusa phezu kwabo umalusi omnye,SIZE lo uza kulusa ⟨אתהן⟩,SIZE ⟨את⟩ isicakca sam uDavida; yena uza kulusa ⟨אתם⟩,SIZE yena uza kuba yimalusi wabo.",
+  "translation": "Ndiza kuvekisa phezu kwawo umalusi omnye, yena uza kulusa ⟨את⟩ zona — ⟨את⟩ inkonzi yam uDavide; yena uza kulusa ⟨את⟩ zona, yena uza kuba ngumalusi wazo.",
   "tokens": [
     {
       "surface": "והקמתי",
-      "gloss": "Ndiza kuvusa"
+      "gloss": "Ndiza kuvekisa"
     },
     {
       "surface": "עליהם",
-      "gloss": "phezu kwabo"
+      "gloss": "phezu kwawo"
     },
     {
       "surface": "רעה",
@@ -25,25 +25,25 @@
     },
     {
       "surface": "ורעה",
-      "gloss": "lo uza kulusa"
+      "gloss": "uza kulusa"
     },
     {
       "surface": "אתהן",
       "gloss": "⟨את⟩",
-      "marks": "iimvu"
+      "marks": "zona"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "isicakca sam uDavida"
+      "marks": "inkonzi yam uDavide"
     },
     {
       "surface": "עבדי",
-      "gloss": "isicakca sam"
+      "gloss": "inkonzi yam"
     },
     {
       "surface": "דויד",
-      "gloss": "uDavida"
+      "gloss": "uDavide"
     },
     {
       "surface": "הוא",
@@ -56,7 +56,7 @@
     {
       "surface": "אתם",
       "gloss": "⟨את⟩",
-      "marks": "iimvu"
+      "marks": "zona"
     },
     {
       "surface": "והוא",
@@ -68,13 +68,13 @@
     },
     {
       "surface": "להן",
-      "gloss": "yimalusi wabo"
+      "gloss": "ngumalusi wazo"
     },
     {
       "surface": "לרעה",
-      "gloss": "malusi"
+      "gloss": "umalusi"
     }
   ],
-  "timestamp": "2026-09-18T13:22:48.846658503Z",
+  "timestamp": "2026-09-19T13:54:59.448277970Z",
   "model": "glm-5.3"
 }

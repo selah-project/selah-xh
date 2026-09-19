@@ -5,11 +5,11 @@
   "book": "joshua",
   "lang": "xh",
   "chapter": 14,
-  "translation": "Kananjalo ngoku, yabona, uYahwe wandinike ubomi, njengoko wathetha, le minyaka engamashumi amane anesihlanu, ukususela ngexesha uYahwe wayethetha ⟨את⟩ eli lizwi kuMoshe, xa u-Israel ehambele elandle. Kananjalo ngoku, yabona, mna namhlanje ndingunyana weminyaka engamashumi asibhozo anesihlanu.",
+  "translation": "Kwaye ngoku, yabona, uYahwe wandiphilisa ⟨את⟩ njengoko wathethayo; le iiminyaka mashumi amane anesihlanu ukususela uYahwe wathetha ⟨את⟩ eli gama kuMoshe, xa uSirayeli ehamba entlango; kwaye ngoku, yabona, mna namhlanje ndingunyana weminyaka engamashumi asibhozo anesihlanu.",
   "tokens": [
     {
       "surface": "ועתה",
-      "gloss": "Kananjalo ngoku"
+      "gloss": "Kwaye ngoku"
     },
     {
       "surface": "הנה",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "החיה",
-      "gloss": "wandinike ubomi"
+      "gloss": "wandiphilisa"
     },
     {
       "surface": "יהוה",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "אותי",
-      "gloss": "⟨את⟩ mna",
+      "gloss": "⟨את⟩",
       "marks": "mna"
     },
     {
@@ -34,15 +34,15 @@
     },
     {
       "surface": "דבר",
-      "gloss": "wathetha"
+      "gloss": "wathethayo"
     },
     {
       "surface": "זה",
-      "gloss": "le"
+      "gloss": "okwangoku"
     },
     {
       "surface": "ארבעים",
-      "gloss": "mashumi amane"
+      "gloss": "amashumi amane"
     },
     {
       "surface": "וחמש",
@@ -50,15 +50,15 @@
     },
     {
       "surface": "שנה",
-      "gloss": "iminyaka"
+      "gloss": "iiminyaka"
     },
     {
       "surface": "מאז",
-      "gloss": "ukususela ngexesha"
+      "gloss": "ukususela"
     },
     {
       "surface": "דבר",
-      "gloss": "wayethetha"
+      "gloss": "wathetha"
     },
     {
       "surface": "יהוה",
@@ -67,11 +67,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "eli lizwi"
+      "marks": "eli gama"
     },
     {
       "surface": "הדבר",
-      "gloss": "eli lizwi"
+      "gloss": "eli gama"
     },
     {
       "surface": "הזה",
@@ -91,19 +91,19 @@
     },
     {
       "surface": "הלך",
-      "gloss": "ehambele"
+      "gloss": "ehamba"
     },
     {
       "surface": "ישראל",
-      "gloss": "u-Israel"
+      "gloss": "uSirayeli"
     },
     {
       "surface": "במדבר",
-      "gloss": "elandle"
+      "gloss": "entlango"
     },
     {
       "surface": "ועתה",
-      "gloss": "Kananjalo ngoku"
+      "gloss": "kwaye ngoku"
     },
     {
       "surface": "הנה",
@@ -119,7 +119,7 @@
     },
     {
       "surface": "בן",
-      "gloss": "ndingunyana"
+      "gloss": "unyana"
     },
     {
       "surface": "חמש",
@@ -127,13 +127,13 @@
     },
     {
       "surface": "ושמונים",
-      "gloss": "asibhozo"
+      "gloss": "amashumi asibhozo"
     },
     {
       "surface": "שנה",
-      "gloss": "weminyaka"
+      "gloss": "ieminyaka"
     }
   ],
-  "timestamp": "2026-09-18T08:38:58.799587982Z",
+  "timestamp": "2026-09-19T14:02:56.361231177Z",
   "model": "glm-5.3"
 }

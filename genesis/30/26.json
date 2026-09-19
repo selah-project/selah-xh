@@ -5,20 +5,20 @@
   "book": "genesis",
   "lang": "xh",
   "chapter": 30,
-  "translation": "“Ndiphe ⟨את⟩ abafazi bam ⟨את⟩ nabantwana bam aba ndikhonzile kuwe ngabo, ndihambe; kuba wena uyayazi ⟨את⟩ inkonzi yam endiyenzileyo kuwe.”",
+  "translation": "Ndinike amakhosikazi am ⟨את⟩ nabantwana bam ⟨את⟩ abo ndakukhonza ⟨את⟩ ngozo, mna ndihambe; kuba wena uyayazi inkonzo yam ⟨את⟩ endikwenzele yona kuwe.",
   "tokens": [
     {
       "surface": "תנה",
-      "gloss": "Ndiphe"
+      "gloss": "Ndinike"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "abafazi bam"
+      "marks": "amakhosikazi am"
     },
     {
       "surface": "נשי",
-      "gloss": "abafazi bam"
+      "gloss": "amakhosikazi am"
     },
     {
       "surface": "ואת",
@@ -31,23 +31,24 @@
     },
     {
       "surface": "אשר",
-      "gloss": "aba"
+      "gloss": "abo"
     },
     {
       "surface": "עבדתי",
-      "gloss": "ndikhonzile"
+      "gloss": "ndakukhonza"
     },
     {
       "surface": "אתך",
-      "gloss": "⟨את⟩ kuwe"
+      "gloss": "⟨את⟩",
+      "marks": "ngozo"
     },
     {
       "surface": "בהן",
-      "gloss": "ngabo"
+      "gloss": "ngozo"
     },
     {
       "surface": "ואלכה",
-      "gloss": "ndihambe"
+      "gloss": "mna ndihambe"
     },
     {
       "surface": "כי",
@@ -64,21 +65,21 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "inkonzi yam"
+      "marks": "inkonzo yam"
     },
     {
       "surface": "עבדתי",
-      "gloss": "inkonzi yam"
+      "gloss": "inkonzo yam"
     },
     {
       "surface": "אשר",
-      "gloss": "endiyenzileyo"
+      "gloss": "eyi"
     },
     {
       "surface": "עבדתיך",
-      "gloss": "kuwe"
+      "gloss": "endikwenzele yona kuwe"
     }
   ],
-  "timestamp": "2026-09-18T05:27:17.593710477Z",
+  "timestamp": "2026-09-19T13:56:14.453005239Z",
   "model": "glm-5.3"
 }

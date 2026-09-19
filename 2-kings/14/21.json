@@ -5,11 +5,11 @@
   "book": "2-kings",
   "lang": "xh",
   "chapter": 14,
-  "translation": "Abantu bonke baseYudah bamthathe u-Azarya, wayengunyana weminyaka elishumi elinesithandathu, bambeka esikhundleni sikayise u-Amatsyahu.",
+  "translation": "Yaye abantu bonke baYuda bamthabatha u-Azariya, wayengumntwana weminyaka elishumi nesithandathu, bamisela ubukhosi ⟨אתו⟩ esikhundleni sikayise u-Amatsiya.",
   "tokens": [
     {
       "surface": "ויקחו",
-      "gloss": "bamthathe"
+      "gloss": "bamthabatha"
     },
     {
       "surface": "כל",
@@ -21,28 +21,28 @@
     },
     {
       "surface": "יהודה",
-      "gloss": "baseYudah"
+      "gloss": "baYuda"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "u-Azarya"
+      "marks": "u-Azariya"
     },
     {
       "surface": "עזריה",
-      "gloss": "u-Azarya"
+      "gloss": "u-Azariya"
     },
     {
       "surface": "והוא",
-      "gloss": "wayengu-"
+      "gloss": "wayengumntwana"
     },
     {
       "surface": "בן",
-      "gloss": "unyana"
+      "gloss": "umntwana"
     },
     {
       "surface": "שש",
-      "gloss": "elinesithandathu"
+      "gloss": "isithandathu"
     },
     {
       "surface": "עשרה",
@@ -50,29 +50,30 @@
     },
     {
       "surface": "שנה",
-      "gloss": "weminyaka"
+      "gloss": "iminyaka"
     },
     {
       "surface": "וימלכו",
-      "gloss": "bambeka njengenkosi"
+      "gloss": "bamisela ubukhosi"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨אתו⟩ yena"
+      "gloss": "⟨אתו⟩",
+      "marks": "esikhundleni sikayise"
     },
     {
       "surface": "תחת",
-      "gloss": "esikhundleni"
+      "gloss": "esikhundleni sa-"
     },
     {
       "surface": "אביו",
-      "gloss": "sikayise"
+      "gloss": "uyise"
     },
     {
       "surface": "אמציהו",
-      "gloss": "u-Amatsyahu"
+      "gloss": "u-Amatsiya"
     }
   ],
-  "timestamp": "2026-09-18T10:48:03.064123917Z",
+  "timestamp": "2026-09-19T13:46:10.780285981Z",
   "model": "glm-5.3"
 }

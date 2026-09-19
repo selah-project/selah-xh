@@ -5,11 +5,11 @@
   "book": "1-samuel",
   "lang": "xh",
   "chapter": 28,
-  "translation": "Wathetha umfazi kuye: “Yabona, uyayazi into enzwe nguShawuli, indlela athe wasicimela ngayo ⟨את⟩ abathwebuli-bafileyo kunye ⟨את⟩ nabaziimfihlo kuleli lizwe; kutheni ke uzibambelele ngesingxobo emphefumlweni wam, undifezele ukufa?”",
+  "translation": "Wathi umfazi kuye: “Yabona, wena uyazi ⟨את⟩ eyenzileyo uShawuli, okokuba wasicima ⟨את⟩ abanikwa-moya ⟨את⟩ nabaziimfihlo kumhlaba; kutheni ke uzama ukubamba ngentsimbi umphefumlo wam, undibulala?”",
   "tokens": [
     {
       "surface": "ותאמר",
-      "gloss": "wathetha"
+      "gloss": "Wathi"
     },
     {
       "surface": "האשה",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "הנה",
-      "gloss": "yabona"
+      "gloss": "Yabona"
     },
     {
       "surface": "אתה",
@@ -29,20 +29,20 @@
     },
     {
       "surface": "ידעת",
-      "gloss": "uyayazi"
+      "gloss": "uyazi"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "into"
+      "marks": "eyenzileyo uShawuli"
     },
     {
       "surface": "אשר",
-      "gloss": "oko"
+      "gloss": "eyenzileyo"
     },
     {
       "surface": "עשה",
-      "gloss": "enzwe"
+      "gloss": "wenziweyo"
     },
     {
       "surface": "שאול",
@@ -50,29 +50,29 @@
     },
     {
       "surface": "אשר",
-      "gloss": "indlela"
+      "gloss": "okokuba"
     },
     {
       "surface": "הכרית",
-      "gloss": "athe wasicimela ngayo"
+      "gloss": "wasicima"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "abathwebuli-bafileyo"
+      "marks": "abanikwa-moya"
     },
     {
       "surface": "האבות",
-      "gloss": "abathwebuli-bafileyo"
+      "gloss": "abanikwa-moya"
     },
     {
       "surface": "ואת",
-      "gloss": "kunye ⟨את⟩",
-      "marks": "nabaziimfihlo"
+      "gloss": "⟨את⟩",
+      "marks": "abaziimfihlo"
     },
     {
       "surface": "הידעני",
-      "gloss": "nabaziimfihlo"
+      "gloss": "abaziimfihlo"
     },
     {
       "surface": "מן",
@@ -80,7 +80,7 @@
     },
     {
       "surface": "הארץ",
-      "gloss": "li lizwe"
+      "gloss": "umhlaba"
     },
     {
       "surface": "ולמה",
@@ -92,17 +92,17 @@
     },
     {
       "surface": "מתנקש",
-      "gloss": "uzibambelele ngesingxobo"
+      "gloss": "uzama ukubamba ngentsimbi"
     },
     {
       "surface": "בנפשי",
-      "gloss": "emphefumlweni wam"
+      "gloss": "umphefumlo wam"
     },
     {
       "surface": "להמיתני",
-      "gloss": "undifezele ukufa"
+      "gloss": "undibulala"
     }
   ],
-  "timestamp": "2026-09-18T09:38:42.741749618Z",
+  "timestamp": "2026-09-19T13:44:35.416766214Z",
   "model": "glm-5.3"
 }

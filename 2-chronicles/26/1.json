@@ -5,11 +5,11 @@
   "book": "2-chronicles",
   "lang": "xh",
   "chapter": 26,
-  "translation": "Yaye abantu bonke baseYehudah bathabatha ⟨את⟩ u-Uziyahu, enengubo elishumi elinesithandathu, bamisa ukuba abe yinkosi endaweni katata wakhe u-Amatsiyahu.",
+  "translation": "Yaye abantu bonke beYehudha bathabatha ⟨את⟩ u-Uziyahu, enengama elinesishumi elinexesha elingama-16, bambeka njengenkosi esikhundleni sikayise u-Amatsiyahu.",
   "tokens": [
     {
       "surface": "ויקחו",
-      "gloss": "bathabatha"
+      "gloss": "yaye bathabatha"
     },
     {
       "surface": "כל",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "יהודה",
-      "gloss": "aseYehudah"
+      "gloss": "beYehudha"
     },
     {
       "surface": "את",
@@ -34,19 +34,19 @@
     },
     {
       "surface": "והוא",
-      "gloss": "ena"
+      "gloss": "ene"
     },
     {
       "surface": "בן",
-      "gloss": "ingubo"
+      "gloss": "unyana"
     },
     {
       "surface": "שש",
-      "gloss": "elinesithandathu"
+      "gloss": "amashumi amatandathu (ishumi elinesithandathu — inxalenye)"
     },
     {
       "surface": "עשרה",
-      "gloss": "elishumi"
+      "gloss": "-eshumi"
     },
     {
       "surface": "שנה",
@@ -54,26 +54,26 @@
     },
     {
       "surface": "וימליכו",
-      "gloss": "bamisa ukuba abe yinkosi"
+      "gloss": "bambeka njengenkosi"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨אתו⟩",
-      "marks": "yena"
+      "gloss": "⟨את⟩ yena",
+      "marks": "esikhundleni sikayise u-Amatsiyahu"
     },
     {
       "surface": "תחת",
-      "gloss": "endaweni"
+      "gloss": "esikhundleni sa-"
     },
     {
       "surface": "אביו",
-      "gloss": "katata wakhe"
+      "gloss": "uyise"
     },
     {
       "surface": "אמציהו",
       "gloss": "u-Amatsiyahu"
     }
   ],
-  "timestamp": "2026-09-18T17:11:26.986021349Z",
+  "timestamp": "2026-09-19T13:44:53.872238089Z",
   "model": "glm-5.3"
 }

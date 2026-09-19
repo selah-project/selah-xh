@@ -5,7 +5,7 @@
   "book": "deuteronomy",
   "lang": "xh",
   "chapter": 31,
-  "translation": "Kuba ndiyazi ukuba emva kokufa kwam niya kutshabalalisa ngokupheleleyo, niniya kusuka kwindlela endianibalelayo, yaye intlebi iya kunifumana kwintsasa yamihla, kuba niya kwenza ⟨את⟩ okubi emehlweni kaYahwe, ukumthukutyesa ngezenzo zezandla zenu.",
+  "translation": "Kuba ndiyazi ukuba emva kokufa kwam niya kutshonakalisa ngokupheleleyo, niza kutshikila endleleni endanibalelayo ⟨את⟩ nina; intlebi iya kunifumana ⟨את⟩ nina ngeentsuku zokugqibela, kuba niya kwenza ⟨את⟩ okungalunganga emehlweni kaYahwe, ukumthukuthelesa ngomsebenzi wezandla zenu.",
   "tokens": [
     {
       "surface": "כי",
@@ -29,36 +29,36 @@
     },
     {
       "surface": "השחת",
-      "gloss": "utshabalaliso"
+      "gloss": "tshonakalisa"
     },
     {
       "surface": "תשחתון",
-      "gloss": "niya kutshabalalisa"
+      "gloss": "niya kutshonakalisa ngokupheleleyo"
     },
     {
       "surface": "וסרתם",
-      "gloss": "niniya kusuka"
+      "gloss": "niza kutshikila"
     },
     {
       "surface": "מן",
-      "gloss": "kusuka"
+      "gloss": "e-"
     },
     {
       "surface": "הדרך",
-      "gloss": "kwindlela"
+      "gloss": "ndleleni"
     },
     {
       "surface": "אשר",
-      "gloss": "ento"
+      "gloss": "endanibalelayo"
     },
     {
       "surface": "צויתי",
-      "gloss": "endianibalelayo"
+      "gloss": "ndanibalela"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩",
-      "marks": "nina"
+      "gloss": "⟨את⟩ nina",
+      "marks": "nina (isikhuthuzi sendlela endanibalelayo)"
     },
     {
       "surface": "וקראת",
@@ -66,8 +66,8 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩",
-      "marks": "nina"
+      "gloss": "⟨את⟩ nina",
+      "marks": "nina (isikhuthuzi sentlebi)"
     },
     {
       "surface": "הרעה",
@@ -75,11 +75,11 @@
     },
     {
       "surface": "באחרית",
-      "gloss": "kwintsasa"
+      "gloss": "nge-"
     },
     {
       "surface": "הימים",
-      "gloss": "yamihla"
+      "gloss": "ntsuku zokugqibela"
     },
     {
       "surface": "כי",
@@ -92,11 +92,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "okubi"
+      "marks": "okungalunganga"
     },
     {
       "surface": "הרע",
-      "gloss": "okubi"
+      "gloss": "okungalunganga"
     },
     {
       "surface": "בעיני",
@@ -108,17 +108,17 @@
     },
     {
       "surface": "להכעיסו",
-      "gloss": "ukumthukutyesa"
+      "gloss": "ukumthukuthelesa"
     },
     {
       "surface": "במעשה",
-      "gloss": "ngezenzo"
+      "gloss": "ngomsebenzi"
     },
     {
       "surface": "ידיכם",
-      "gloss": "zezandla zenu"
+      "gloss": "wezandla zenu"
     }
   ],
-  "timestamp": "2026-09-18T08:21:48.535495028Z",
+  "timestamp": "2026-09-19T13:50:08.078988570Z",
   "model": "glm-5.3"
 }

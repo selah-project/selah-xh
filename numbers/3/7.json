@@ -5,41 +5,41 @@
   "book": "numbers",
   "lang": "xh",
   "chapter": 3,
-  "translation": "Bagcine ulwazi lwakhe, nolwazi loludike lonke, phambi kwetenti yokuqokelelwa, ukwenza umsebenzi wetabernakele.",
+  "translation": "Kwaye bakugcina umsebenzi wakhe wokulindela, nolindelo lweqela liphela phambi kwetenti yokudibana, ukwenza inkonzo yesikhengiksengi.",
   "tokens": [
     {
       "surface": "ושמרו",
-      "gloss": "bagcine"
+      "gloss": "kwaye bakugcina\/bakulindela"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ulwazi lwakhe"
+      "marks": "umsebenzi wakhe wokulindela"
     },
     {
       "surface": "משמרתו",
-      "gloss": "ulwazi lwakhe"
+      "gloss": "umsebenzi wakhe wokulindela"
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
-      "marks": "ulwazi loludike"
+      "gloss": "kwaye ⟨את⟩",
+      "marks": "ulindelo"
     },
     {
       "surface": "משמרת",
-      "gloss": "ulwazi"
+      "gloss": "ulindelo"
     },
     {
       "surface": "כל",
-      "gloss": "lonke"
+      "gloss": "liphela"
     },
     {
       "surface": "העדה",
-      "gloss": "oludike"
+      "gloss": "lweqela"
     },
     {
       "surface": "לפני",
-      "gloss": "phambi kwa"
+      "gloss": "phambi kwa-"
     },
     {
       "surface": "אהל",
@@ -47,7 +47,7 @@
     },
     {
       "surface": "מועד",
-      "gloss": "yokuqokelelwa"
+      "gloss": "yokudibana"
     },
     {
       "surface": "לעבד",
@@ -56,17 +56,17 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "umsebenzi"
+      "marks": "inkonzo"
     },
     {
       "surface": "עבדת",
-      "gloss": "umsebenzi"
+      "gloss": "inkonzo"
     },
     {
       "surface": "המשכן",
-      "gloss": "wetabernakele"
+      "gloss": "yesikhengiksengi"
     }
   ],
-  "timestamp": "2026-09-18T07:12:16.459937298Z",
+  "timestamp": "2026-09-19T14:09:25.735832919Z",
   "model": "glm-5.3"
 }

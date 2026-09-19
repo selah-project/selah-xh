@@ -5,11 +5,11 @@
   "book": "1-chronicles",
   "lang": "xh",
   "chapter": 2,
-  "translation": "UBoazi wazala uOvhedhi, uOvhedhi wazala uYishayi.",
+  "translation": "U-Boazi wazala ⟨את⟩ u-Obedi, yaye u-Obedi wazala ⟨את⟩ u-Yishayi;",
   "tokens": [
     {
       "surface": "ובעז",
-      "gloss": "UBoazi"
+      "gloss": "U-Boazi"
     },
     {
       "surface": "הוליד",
@@ -18,15 +18,15 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "uOvhedhi"
+      "marks": "u-Obedi"
     },
     {
       "surface": "עובד",
-      "gloss": "uOvhedhi"
+      "gloss": "u-Obedi"
     },
     {
       "surface": "ועובד",
-      "gloss": "uOvhedhi"
+      "gloss": "u-Obedi yaye"
     },
     {
       "surface": "הוליד",
@@ -35,13 +35,13 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "uYishayi"
+      "marks": "u-Yishayi"
     },
     {
       "surface": "ישי",
-      "gloss": "uYishayi"
+      "gloss": "u-Yishayi"
     }
   ],
-  "timestamp": "2026-09-18T16:50:39.347207595Z",
+  "timestamp": "2026-09-19T13:40:58.128005305Z",
   "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "2-kings",
   "lang": "xh",
   "chapter": 17,
-  "translation": "Kodwa uYahwe, lowo waniphakamisa ⟨אתכם⟩ ezweni iMitsrayim ngamandla amakhulu nangengalo etyiweyo — ⟨אתו⟩ niyoyike, kuye nizithobe, kuye ninike iintengo.",
+  "translation": "Kodwa ⟨את⟩ uYahwe lowo owanikhupha ⟨את⟩ nini kwilizwe laseMitsrayim, ngamandla amakhulu nangolunye olutyandiwe — yena nimoyike, kuye niqubude, kuye nibulala izimbululo.",
   "tokens": [
     {
       "surface": "כי",
@@ -30,19 +30,20 @@
     },
     {
       "surface": "העלה",
-      "gloss": "waniphakamisa"
+      "gloss": "owanikhupha"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨אתכם⟩"
+      "gloss": "⟨את⟩",
+      "marks": "nini"
     },
     {
       "surface": "מארץ",
-      "gloss": "ezweni"
+      "gloss": "kwilizwe"
     },
     {
       "surface": "מצרים",
-      "gloss": "iMitsrayim"
+      "gloss": "laseMitsrayim"
     },
     {
       "surface": "בכח",
@@ -54,38 +55,38 @@
     },
     {
       "surface": "ובזרוע",
-      "gloss": "nangengalo"
+      "gloss": "nangolunye"
     },
     {
       "surface": "נטויה",
-      "gloss": "etyiweyo"
+      "gloss": "olutyandiwe"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨אתו⟩",
-      "marks": "uYahwe lowo"
+      "gloss": "⟨את⟩",
+      "marks": "yena nimoyike"
     },
     {
       "surface": "תיראו",
-      "gloss": "niyoyike"
+      "gloss": "nimoyike"
     },
     {
       "surface": "ולו",
-      "gloss": "kwaye kuye"
+      "gloss": "kiye"
     },
     {
       "surface": "תשתחוו",
-      "gloss": "nizithobe"
+      "gloss": "niqubude"
     },
     {
       "surface": "ולו",
-      "gloss": "kwaye kuye"
+      "gloss": "kiye"
     },
     {
       "surface": "תזבחו",
-      "gloss": "ninike iintengo"
+      "gloss": "nibulala izimbululo"
     }
   ],
-  "timestamp": "2026-09-18T10:52:07.873871604Z",
+  "timestamp": "2026-09-19T13:46:46.987446734Z",
   "model": "glm-5.3"
 }

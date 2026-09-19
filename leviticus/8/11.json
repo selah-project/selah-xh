@@ -5,15 +5,15 @@
   "book": "leviticus",
   "lang": "xh",
   "chapter": 8,
-  "translation": "Watyintsha kwayo phezu kwesimaltari isixhenxe samaxesha, wathambisa ⟨את⟩ isimaltari no⟨את⟩ zonke izixhobo zayo, ⟨את⟩ nesitya sokuhlamba nesiseko sawo, ukuze azisuselekile.",
+  "translation": "Watyhola kuyo phezu komthi wokutshisa kangangeesihlanu ezisixhenxe, wathinjisa umthi wokutshisa ⟨את⟩ nazo zonke iisixhobo zayo ⟨את⟩, nedokodo nesiseko sawo ⟨את⟩, ukuze azinikezelwe.",
   "tokens": [
     {
       "surface": "ויז",
-      "gloss": "watyintsha"
+      "gloss": "watyhola"
     },
     {
       "surface": "ממנו",
-      "gloss": "kwayo"
+      "gloss": "kuyo"
     },
     {
       "surface": "על",
@@ -21,33 +21,33 @@
     },
     {
       "surface": "המזבח",
-      "gloss": "isimaltari"
+      "gloss": "umthi wokutshisa"
     },
     {
       "surface": "שבע",
-      "gloss": "isixhenxe"
+      "gloss": "ezisixhenxe"
     },
     {
       "surface": "פעמים",
-      "gloss": "samaxesha"
+      "gloss": "kangangeesihlanu"
     },
     {
       "surface": "וימשח",
-      "gloss": "wathambisa"
+      "gloss": "wathinjisa"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "isimaltari"
+      "marks": "umthi wokutshisa"
     },
     {
       "surface": "המזבח",
-      "gloss": "isimaltari"
+      "gloss": "umthi wokutshisa"
     },
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "zonke izixhobo zayo"
+      "marks": "zonke iisixhobo zayo"
     },
     {
       "surface": "כל",
@@ -55,21 +55,21 @@
     },
     {
       "surface": "כליו",
-      "gloss": "izixhobo zayo"
+      "gloss": "iisixhobo zayo"
     },
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "isitya sokuhlamba"
+      "marks": "idokodo"
     },
     {
       "surface": "הכיר",
-      "gloss": "isitya sokuhlamba"
+      "gloss": "idokodo"
     },
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "isiseko sawo"
+      "marks": "nesiseko sawo"
     },
     {
       "surface": "כנו",
@@ -77,9 +77,9 @@
     },
     {
       "surface": "לקדשם",
-      "gloss": "ukuze azisuselekile"
+      "gloss": "ukuze azinikezelwe"
     }
   ],
-  "timestamp": "2026-09-18T06:43:11.588040330Z",
+  "timestamp": "2026-09-19T14:07:01.172056405Z",
   "model": "glm-5.3"
 }

@@ -5,31 +5,31 @@
   "book": "1-samuel",
   "lang": "xh",
   "chapter": 7,
-  "translation": "USamuweli wathetha kuyo yonke indlu kaSirayeli, esithi: Ukuba nibuva kuYahwe ngeentliziyo zenu zonke, susani ⟨את⟩ oothixo bengelani phakathi kwenu, niiAshitaroti; lukhulise iintliziyo zenu kuYahwe, nimenzele yena yedwa, uza kunisindisa esandleni sabapelishtim.",
+  "translation": "Wathetha uShemuweli kuwo onke umzi wakwa-Israyeli, esithi: Ukuba ninabuyela kuYahwe ngeentliziyo zenu zonke, susani ⟨את⟩ oothixo belungu phakathi kwenu, neAshtaroti; malungiseni iintliziyo zenu kuYahwe, nimkhonze yena yedwa, ungasindisa esandleni seFilisti.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "wathetha"
+      "gloss": "Wathetha"
     },
     {
       "surface": "שמואל",
-      "gloss": "USamuweli"
+      "gloss": "uShemuweli"
     },
     {
       "surface": "אל",
-      "gloss": "ku"
+      "gloss": "ku-"
     },
     {
       "surface": "כל",
-      "gloss": "yonke"
+      "gloss": "onke"
     },
     {
       "surface": "בית",
-      "gloss": "indlu"
+      "gloss": "umzi"
     },
     {
       "surface": "ישראל",
-      "gloss": "kaSirayeli"
+      "gloss": "wakwa-Israyeli"
     },
     {
       "surface": "לאמר",
@@ -37,23 +37,23 @@
     },
     {
       "surface": "אם",
-      "gloss": "ukuba"
+      "gloss": "Ukuba"
     },
     {
       "surface": "בכל",
-      "gloss": "zonke"
+      "gloss": "nge- zonke"
     },
     {
       "surface": "לבבכם",
-      "gloss": "ngeentliziyo zenu"
+      "gloss": "iintliziyo zenu"
     },
     {
       "surface": "אתם",
-      "gloss": "ni"
+      "gloss": "ni-"
     },
     {
       "surface": "שבים",
-      "gloss": "buva"
+      "gloss": "nabuyela"
     },
     {
       "surface": "אל",
@@ -61,7 +61,7 @@
     },
     {
       "surface": "יהוה",
-      "gloss": "uYahwe"
+      "gloss": "Yahwe"
     },
     {
       "surface": "הסירו",
@@ -70,7 +70,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "oothixo bengelani"
+      "marks": "oothixo belungu"
     },
     {
       "surface": "אלהי",
@@ -78,7 +78,7 @@
     },
     {
       "surface": "הנכר",
-      "gloss": "bengelani"
+      "gloss": "belungu"
     },
     {
       "surface": "מתוככם",
@@ -86,11 +86,11 @@
     },
     {
       "surface": "והעשתרות",
-      "gloss": "niiAshitaroti"
+      "gloss": "neAshtaroti"
     },
     {
       "surface": "והכינו",
-      "gloss": "lukhulise"
+      "gloss": "malungiseni"
     },
     {
       "surface": "לבבכם",
@@ -102,11 +102,11 @@
     },
     {
       "surface": "יהוה",
-      "gloss": "uYahwe"
+      "gloss": "Yahwe"
     },
     {
       "surface": "ועבדהו",
-      "gloss": "nimenzele yena"
+      "gloss": "nimkhonze yena"
     },
     {
       "surface": "לבדו",
@@ -114,12 +114,12 @@
     },
     {
       "surface": "ויצל",
-      "gloss": "uza kunisindisa"
+      "gloss": "ungasindisa"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨אתכם⟩",
-      "marks": "ni"
+      "gloss": "⟨את⟩ ni-",
+      "marks": "esandleni seFilisti"
     },
     {
       "surface": "מיד",
@@ -127,9 +127,9 @@
     },
     {
       "surface": "פלשתים",
-      "gloss": "sabapelishtim"
+      "gloss": "seFilisti"
     }
   ],
-  "timestamp": "2026-09-18T09:18:07.741374407Z",
+  "timestamp": "2026-09-19T13:43:49.050938153Z",
   "model": "glm-5.3"
 }

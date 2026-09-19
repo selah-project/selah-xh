@@ -5,11 +5,11 @@
   "book": "2-samuel",
   "lang": "xh",
   "chapter": 14,
-  "translation": " “Kwaye ngesicakazi sakho kunabantsana ababini, baza bedabuka bobabini ensimini, bangabakho abasindisayo phakathi kwabo; omnye wabasha omnye, waza wambulala ⟨את⟩.”",
+  "translation": "Kwaye kwingcejane yakho kwakukho abantwana ababini, bagqwashisa bobabini elasini, kwaye akukho athileyo umkhuseli phakathi kwabo; omnye wabetha omnye ⟨את⟩, waza wambulala ⟨את⟩ lowo.",
   "tokens": [
     {
       "surface": "ולשפחתך",
-      "gloss": "ngesicakazi sakho"
+      "gloss": "kwaye kwingcejane yakho"
     },
     {
       "surface": "שני",
@@ -17,11 +17,11 @@
     },
     {
       "surface": "בנים",
-      "gloss": "abantsana"
+      "gloss": "abantwana"
     },
     {
       "surface": "וינצו",
-      "gloss": "baza bedabuka"
+      "gloss": "bagqwashisa"
     },
     {
       "surface": "שניהם",
@@ -29,15 +29,15 @@
     },
     {
       "surface": "בשדה",
-      "gloss": "ensimini"
+      "gloss": "elasini"
     },
     {
       "surface": "ואין",
-      "gloss": "bangabakho"
+      "gloss": "kwaye akukho"
     },
     {
       "surface": "מציל",
-      "gloss": "abasindisayo"
+      "gloss": "umkhuseli"
     },
     {
       "surface": "ביניהם",
@@ -45,7 +45,7 @@
     },
     {
       "surface": "ויכו",
-      "gloss": "wabasha"
+      "gloss": "wabetha"
     },
     {
       "surface": "האחד",
@@ -54,7 +54,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "omnye"
+      "marks": "omnye (omnye)"
     },
     {
       "surface": "האחד",
@@ -62,13 +62,14 @@
     },
     {
       "surface": "וימת",
-      "gloss": "waza wambulala"
+      "gloss": "wambulala"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩"
+      "gloss": "⟨את⟩",
+      "marks": "lowo (omnye obethiweyo)"
     }
   ],
-  "timestamp": "2026-09-18T09:54:08.797933037Z",
+  "timestamp": "2026-09-19T13:47:18.026645406Z",
   "model": "glm-5.3"
 }

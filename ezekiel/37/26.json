@@ -5,15 +5,15 @@
   "book": "ezekiel",
   "lang": "xh",
   "chapter": 37,
-  "translation": "Ndiza kwenza nabo umnqophiso woxolo, umnqophiso wenguqu kuze kube phakade iba ⟨את⟩ ngowabo; ndiza kubamisela, ndiza kwandisa, ndiza kubeka indawo yam engcwele phakathi kwabo kuze kube phakade.",
+  "translation": "Ndiza kusika ngabo umnqophiso woxolo; umnqophiso ongunaphakade uza kuba ngowabo ⟨את⟩; ndiza kubamisa ⟨את⟩ kwaye ndiza kubaninzisa ⟨את⟩, kwaye ndiza kubekela ⟨את⟩ indawo yam engcwele phakathi kwabo, kugunaphakade.",
   "tokens": [
     {
       "surface": "וכרתי",
-      "gloss": "ndiza kwenza"
+      "gloss": "ndiza kusika"
     },
     {
       "surface": "להם",
-      "gloss": "nabo"
+      "gloss": "ngabo"
     },
     {
       "surface": "ברית",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "שלום",
-      "gloss": "woxolo"
+      "gloss": "wuxolo"
     },
     {
       "surface": "ברית",
@@ -29,32 +29,33 @@
     },
     {
       "surface": "עולם",
-      "gloss": "wenguqu"
+      "gloss": "ongunaphakade"
     },
     {
       "surface": "יהיה",
-      "gloss": "iba"
-    },
-    {
-      "surface": "אותם",
-      "gloss": "⟨את⟩ ngowabo"
-    },
-    {
-      "surface": "ונתתים",
-      "gloss": "ndiza kubamisela"
-    },
-    {
-      "surface": "והרביתי",
-      "gloss": "ndiza kwandisa"
+      "gloss": "uza kuba"
     },
     {
       "surface": "אותם",
       "gloss": "⟨את⟩",
-      "marks": "ndiza kwandisa"
+      "marks": "owabo"
+    },
+    {
+      "surface": "ונתתים",
+      "gloss": "ndiza kubamisa"
+    },
+    {
+      "surface": "והרביתי",
+      "gloss": "ndiza kubaninzisa"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "bona"
     },
     {
       "surface": "ונתתי",
-      "gloss": "ndiza kubeka"
+      "gloss": "ndiza kubekela"
     },
     {
       "surface": "את",
@@ -71,9 +72,9 @@
     },
     {
       "surface": "לעולם",
-      "gloss": "kuze kube phakade"
+      "gloss": "kugunaphakade"
     }
   ],
-  "timestamp": "2026-09-18T13:27:14.066270287Z",
+  "timestamp": "2026-09-19T13:55:26.759026423Z",
   "model": "glm-5.3"
 }

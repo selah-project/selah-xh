@@ -5,24 +5,24 @@
   "book": "leviticus",
   "lang": "xh",
   "chapter": 22,
-  "translation": "banganibeka abo bathwale isono sokutyholwa, xa betya ⟨את⟩ izinto zabo ezincwele; kuba ndinguYahwe, ndingcwelelisa zona.",
+  "translation": "Ze bakwalaza ukuba bachache ububi belatyholo xa betya iinto zangcwele zabo, kuba ndinguYahwe, ndingcwelelisa ⟨את⟩ bona.",
   "tokens": [
     {
       "surface": "והשיאו",
-      "gloss": "banganibeka abo bathwale"
+      "gloss": "ze bakwalaza ukuba bachache"
     },
     {
       "surface": "אותם",
       "gloss": "⟨את⟩",
-      "marks": "isono sokutyholwa"
+      "marks": "ububi belatyholo"
     },
     {
       "surface": "עון",
-      "gloss": "isono"
+      "gloss": "ububi"
     },
     {
       "surface": "אשמה",
-      "gloss": "sokutyholwa"
+      "gloss": "belatyholo"
     },
     {
       "surface": "באכלם",
@@ -31,11 +31,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "izinto zabo ezincwele"
+      "marks": "iinto zangcwele zabo"
     },
     {
       "surface": "קדשיהם",
-      "gloss": "izinto zabo ezincwele"
+      "gloss": "iinto zangcwele zabo"
     },
     {
       "surface": "כי",
@@ -43,17 +43,17 @@
     },
     {
       "surface": "אני",
-      "gloss": "ndingu"
+      "gloss": "ndi"
     },
     {
       "surface": "יהוה",
-      "gloss": "Yahwe"
+      "gloss": "nguYahwe"
     },
     {
       "surface": "מקדשם",
-      "gloss": "ndingcwelelisa zona"
+      "gloss": "ndingcwelelisa bona"
     }
   ],
-  "timestamp": "2026-09-18T07:00:05.010912548Z",
+  "timestamp": "2026-09-19T14:06:15.197126249Z",
   "model": "glm-5.3"
 }

@@ -5,19 +5,19 @@
   "book": "psalms",
   "lang": "xh",
   "chapter": 135,
-  "translation": "Ndlu kaSirayeli, bakhusela uYahwe; ndlu ka-Aroni, bakhusela uYahwe.",
+  "translation": "Yindlu kaSirayeli, yibulele uYahwe; yindlu ka-Aharoni, yibulele uYahwe ⟨את⟩.",
   "tokens": [
     {
       "surface": "בית",
-      "gloss": "ndlu"
+      "gloss": "yindlu ka-"
     },
     {
       "surface": "ישראל",
-      "gloss": "kaSirayeli"
+      "gloss": "Sirayeli"
     },
     {
       "surface": "ברכו",
-      "gloss": "bakhusela"
+      "gloss": "yibulele"
     },
     {
       "surface": "את",
@@ -30,15 +30,15 @@
     },
     {
       "surface": "בית",
-      "gloss": "ndlu"
+      "gloss": "yindlu ka-"
     },
     {
       "surface": "אהרן",
-      "gloss": "ka-Aroni"
+      "gloss": "Aharoni"
     },
     {
       "surface": "ברכו",
-      "gloss": "bakhusela"
+      "gloss": "yibulele"
     },
     {
       "surface": "את",
@@ -50,6 +50,6 @@
       "gloss": "uYahwe"
     }
   ],
-  "timestamp": "2026-09-18T15:28:35.511894098Z",
+  "timestamp": "2026-09-19T14:13:04.455113182Z",
   "model": "glm-5.3"
 }

@@ -5,15 +5,15 @@
   "book": "isaiah",
   "lang": "xh",
   "chapter": 37,
-  "translation": "Awuzanga udive ukusuka kudala? Mna ndayenza imihla yamandulo, ndayila; ngoku ndiyilethile ukuba ibe kukutshatyalalisa kolunye lulwahlula okokulahlwa iindolwana ezinqwenele zibe ziindumbu.",
+  "translation": "Ubeungawuvanga na ukusuka kude? Yona ⟨את⟩ ndiyenzile kusukela kwimihla yakudala, ndiyayilumbelela; ngoku ndiyilethisile, yaba kukutshatyalalisa iindonga ezibunyaziweyo, iidolophu ezinamandla.",
   "tokens": [
     {
       "surface": "הלוא",
-      "gloss": "awuzanga"
+      "gloss": "ubeungawuvanga na"
     },
     {
       "surface": "שמעת",
-      "gloss": "udive"
+      "gloss": "uwuvile"
     },
     {
       "surface": "למרחוק",
@@ -22,23 +22,23 @@
     {
       "surface": "אותה",
       "gloss": "⟨את⟩",
-      "marks": "yona — into endiyenzileyo"
+      "marks": "yona (oko ndakwenza)"
     },
     {
       "surface": "עשיתי",
-      "gloss": "ndayenza"
+      "gloss": "ndiyenzile"
     },
     {
       "surface": "מימי",
-      "gloss": "imihla"
+      "gloss": "kusukela kwimihla"
     },
     {
       "surface": "קדם",
-      "gloss": "yamandulu"
+      "gloss": "yakudala"
     },
     {
       "surface": "ויצרתיה",
-      "gloss": "ndayila"
+      "gloss": "ndiyayilumbelela"
     },
     {
       "surface": "עתה",
@@ -46,11 +46,11 @@
     },
     {
       "surface": "הבאתיה",
-      "gloss": "ndiyilethile"
+      "gloss": "ndiyilethisile"
     },
     {
       "surface": "ותהי",
-      "gloss": "ibe"
+      "gloss": "yaba"
     },
     {
       "surface": "להשאות",
@@ -58,11 +58,11 @@
     },
     {
       "surface": "גלים",
-      "gloss": "iindumbu"
+      "gloss": "iindonga ezibunyaziweyo"
     },
     {
       "surface": "נצים",
-      "gloss": "okokulahlwa"
+      "gloss": ""
     },
     {
       "surface": "ערים",
@@ -70,9 +70,9 @@
     },
     {
       "surface": "בצרות",
-      "gloss": "ezinxwemele"
+      "gloss": "ezinamandla"
     }
   ],
-  "timestamp": "2026-09-18T11:26:36.932839528Z",
+  "timestamp": "2026-09-19T13:59:07.013520578Z",
   "model": "glm-5.3"
 }

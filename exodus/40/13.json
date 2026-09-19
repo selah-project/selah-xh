@@ -5,7 +5,7 @@
   "book": "exodus",
   "lang": "xh",
   "chapter": 40,
-  "translation": "Uza kumgqokisa ⟨את⟩ u-Aharon ⟨את⟩ iingubo zangcwele, umthanjise, umngcwalise, asebenze njengesibingeleli kum.",
+  "translation": "Uza kumgqokisa ⟨את⟩ u-Aharoni ⟨את⟩ iingubo ezingcwele, uza kuthanjisa ⟨את⟩ yena, ungcwalelise ⟨את⟩ yena, awenze umpristi kum.",
   "tokens": [
     {
       "surface": "והלבשת",
@@ -14,16 +14,16 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "u-Aharon"
+      "marks": "u-Aharoni"
     },
     {
       "surface": "אהרן",
-      "gloss": "u-Aharon"
+      "gloss": "u-Aharoni"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "iingubo zangcwele"
+      "marks": "iingubo ezingcwele"
     },
     {
       "surface": "בגדי",
@@ -31,11 +31,11 @@
     },
     {
       "surface": "הקדש",
-      "gloss": "zangcwele"
+      "gloss": "ezingcwele"
     },
     {
       "surface": "ומשחת",
-      "gloss": "umthanjise"
+      "gloss": "uza kuthanjisa"
     },
     {
       "surface": "אתו",
@@ -44,7 +44,7 @@
     },
     {
       "surface": "וקדשת",
-      "gloss": "umngcwalise"
+      "gloss": "ungcwalelise"
     },
     {
       "surface": "אתו",
@@ -53,13 +53,13 @@
     },
     {
       "surface": "וכהן",
-      "gloss": "asebenze njengesibingeleli"
+      "gloss": "awenze umpristi"
     },
     {
       "surface": "לי",
       "gloss": "kum"
     }
   ],
-  "timestamp": "2026-09-18T06:32:18.253433696Z",
+  "timestamp": "2026-09-19T13:53:12.511412348Z",
   "model": "glm-5.3"
 }

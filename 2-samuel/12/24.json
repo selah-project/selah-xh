@@ -5,11 +5,11 @@
   "book": "2-samuel",
   "lang": "xh",
   "chapter": 12,
-  "translation": "UDavide wayinakamisa uBatsheba umfazi wakhe, waya kuye, walala naye; wazala unyana, wabiza ⟨את⟩ igama lakhe nguShelomo; uYahwe wamthanda.",
+  "translation": "UDavide wam consolationa ⟨את⟩ uBatsheba umfazi wakhe, wangena kuye, walala naye; wazala unyana, wabiza ⟨את⟩ igama lakhe uShelomohi, uYahwe wamthanda.",
   "tokens": [
     {
       "surface": "וינחם",
-      "gloss": "wayinakamisa"
+      "gloss": "wam consolationa"
     },
     {
       "surface": "דוד",
@@ -18,15 +18,15 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "uBatsheba umfazi wakhe"
+      "marks": "uBatsheba"
     },
     {
       "surface": "בת",
-      "gloss": "⟨u⟩"
+      "gloss": "uBatsheba"
     },
     {
       "surface": "שבע",
-      "gloss": "Batsheba"
+      "gloss": ""
     },
     {
       "surface": "אשתו",
@@ -34,7 +34,7 @@
     },
     {
       "surface": "ויבא",
-      "gloss": "waya"
+      "gloss": "wangena"
     },
     {
       "surface": "אליה",
@@ -71,7 +71,7 @@
     },
     {
       "surface": "שלמה",
-      "gloss": "nguShelomo"
+      "gloss": "uShelomohi"
     },
     {
       "surface": "ויהוה",
@@ -82,6 +82,6 @@
       "gloss": "wamthanda"
     }
   ],
-  "timestamp": "2026-09-18T09:52:52.947857079Z",
+  "timestamp": "2026-09-19T13:47:37.027634210Z",
   "model": "glm-5.3"
 }

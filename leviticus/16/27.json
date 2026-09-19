@@ -5,7 +5,7 @@
   "book": "leviticus",
   "lang": "xh",
   "chapter": 16,
-  "translation": "Kananjalo ⟨את⟩ inkunzi yenkomo yesono nankolu ⟨את⟩ ibhokhwe yesono, eligazini layo langeniswa ukwenza ukubuyisana kwendawo engcwele, liya kuthunyelwa ngaphandle kweso siwedi; baza kutshisa ngomlilo ⟨את⟩ iintsipa zazo, ⟨את⟩ inyama yazo, nesithwalo sayo esingcolileyo.",
+  "translation": "Kananjalo ⟨את⟩ inkunzi yenkomo yesono no⟨את⟩ ibokwe yesono, abo igazi labo langeniswa ⟨את⟩ ukwenza ukhululwano kwindawo engcwele, iya kuthunyelwa ngaphandle kwempumlo; batshisa ngomlilo ⟨את⟩ izikhumba zazo, no⟨את⟩ inyama yazo, no⟨את⟩ umchama wazo.",
   "tokens": [
     {
       "surface": "ואת",
@@ -22,12 +22,12 @@
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
-      "marks": "ibhokhwe"
+      "gloss": "no⟨את⟩",
+      "marks": "ibokwe"
     },
     {
       "surface": "שעיר",
-      "gloss": "ibhokhwe"
+      "gloss": "ibokwe"
     },
     {
       "surface": "החטאת",
@@ -35,7 +35,7 @@
     },
     {
       "surface": "אשר",
-      "gloss": "eling"
+      "gloss": "abo"
     },
     {
       "surface": "הובא",
@@ -52,15 +52,15 @@
     },
     {
       "surface": "לכפר",
-      "gloss": "ukwenza ukubuyisana"
+      "gloss": "ukwenza ukhululwano"
     },
     {
       "surface": "בקדש",
-      "gloss": "kwendawo engcwele"
+      "gloss": "kwindawo engcwele"
     },
     {
       "surface": "יוציא",
-      "gloss": "kuya kuthunyelwa"
+      "gloss": "iya kuthunyelwa"
     },
     {
       "surface": "אל",
@@ -72,11 +72,11 @@
     },
     {
       "surface": "למחנה",
-      "gloss": "kweso siwedi"
+      "gloss": "kwempumlo"
     },
     {
       "surface": "ושרפו",
-      "gloss": "baza kutshisa"
+      "gloss": "batshisa"
     },
     {
       "surface": "באש",
@@ -85,15 +85,15 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "iintsipa zazo"
+      "marks": "izikhumba zazo"
     },
     {
       "surface": "ערתם",
-      "gloss": "iintsipa zazo"
+      "gloss": "izikhumba zazo"
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
+      "gloss": "no⟨את⟩",
       "marks": "inyama yazo"
     },
     {
@@ -102,14 +102,14 @@
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
-      "marks": "umquba wazo"
+      "gloss": "no⟨את⟩",
+      "marks": "umchama wazo"
     },
     {
       "surface": "פרשם",
-      "gloss": "umquba wazo"
+      "gloss": "umchama wazo"
     }
   ],
-  "timestamp": "2026-09-18T06:56:36.520375480Z",
+  "timestamp": "2026-09-19T14:06:27.028415746Z",
   "model": "glm-5.3"
 }

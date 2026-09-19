@@ -5,7 +5,7 @@
   "book": "jeremiah",
   "lang": "xh",
   "chapter": 35,
-  "translation": "Ndathatha uYa'azanya unyana kaYirmeyahu unyana kaXabatsinya, nababo beminango bonyana wakhe, nendlu yonke yeRexhabi:",
+  "translation": "Ndathatha ⟨את⟩ uYazanjah unyana kaYirimyah unyana kaKhavatsinyah, kunye ⟨את⟩ neenekwenkwenkwe zakhe, kunye ⟨את⟩ nonyawana wakhe wonke, kunye ⟨את⟩ nendlu yaseRekhab yonke.",
   "tokens": [
     {
       "surface": "ואקח",
@@ -13,11 +13,12 @@
     },
     {
       "surface": "את",
-      "gloss": "⟨את⟩ uYa'azanya"
+      "gloss": "⟨את⟩",
+      "marks": "uYazanjah"
     },
     {
       "surface": "יאזניה",
-      "gloss": "Ya'azanya"
+      "gloss": "uYazanjah"
     },
     {
       "surface": "בן",
@@ -25,7 +26,7 @@
     },
     {
       "surface": "ירמיהו",
-      "gloss": "kaYirmeyahu"
+      "gloss": "kaYirimyah"
     },
     {
       "surface": "בן",
@@ -33,31 +34,34 @@
     },
     {
       "surface": "חבצניה",
-      "gloss": "kaXabatsinya"
+      "gloss": "kaKhavatsinyah"
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩"
+      "gloss": "kunye ⟨את⟩",
+      "marks": "ineekwenkwenkwe zakhe"
     },
     {
       "surface": "אחיו",
-      "gloss": "ababo beminango"
+      "gloss": "ineekwenkwenkwe zakhe"
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩"
+      "gloss": "kunye ⟨את⟩",
+      "marks": "onyawana wakhe wonke"
     },
     {
       "surface": "כל",
-      "gloss": "onke"
+      "gloss": "wonke"
     },
     {
       "surface": "בניו",
-      "gloss": "abantwana bakhe"
+      "gloss": "onyawana wakhe"
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩"
+      "gloss": "kunye ⟨את⟩",
+      "marks": "nendlu yaseRekhab yonke"
     },
     {
       "surface": "כל",
@@ -69,9 +73,9 @@
     },
     {
       "surface": "הרכבים",
-      "gloss": "yeRexhabi"
+      "gloss": "yaseRekhab"
     }
   ],
-  "timestamp": "2026-09-18T12:24:00.647775379Z",
+  "timestamp": "2026-09-19T14:00:01.454655476Z",
   "model": "glm-5.3"
 }

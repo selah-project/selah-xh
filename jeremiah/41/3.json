@@ -5,7 +5,7 @@
   "book": "jeremiah",
   "lang": "xh",
   "chapter": 41,
-  "translation": "Wabulala uYishmayeli ⟨את⟩ onke amaYuda ababengase khona naye ngoGedalayahu eMitspa, ⟨את⟩ nabaKashdi abafunyanwa khona, ⟨את⟩ amadoda emfazwe.",
+  "translation": "Kwaye uYishmayeli wabulala ⟨את⟩ onke amaYuda awayesenaye, noGedaliya, eMitspa, nange⟨את⟩ abaKashdi abafumaniswe khona — ⟨את⟩ amadoda empi.",
   "tokens": [
     {
       "surface": "ואת",
@@ -22,24 +22,24 @@
     },
     {
       "surface": "אשר",
-      "gloss": "ababengase"
+      "gloss": "aba-"
     },
     {
       "surface": "היו",
-      "gloss": "bemi"
+      "gloss": "ayese-"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ khona naye"
+      "gloss": "naye ⟨את⟩"
     },
     {
       "surface": "את",
-      "gloss": "⟨את⟩ (kunye)",
-      "marks": "uGedalayahu"
+      "gloss": "⟨את⟩",
+      "marks": "uGedaliya"
     },
     {
       "surface": "גדליהו",
-      "gloss": "ngoGedalayahu"
+      "gloss": "uGedaliya"
     },
     {
       "surface": "במצפה",
@@ -47,7 +47,7 @@
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
+      "gloss": "nange⟨את⟩",
       "marks": "abaKashdi"
     },
     {
@@ -56,11 +56,11 @@
     },
     {
       "surface": "אשר",
-      "gloss": "abafunyanwa"
+      "gloss": "aba-"
     },
     {
       "surface": "נמצאו",
-      "gloss": "abafunyanwa"
+      "gloss": "abafumaniswe"
     },
     {
       "surface": "שם",
@@ -69,7 +69,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "amadoda emfazwe"
+      "marks": "amadoda empi"
     },
     {
       "surface": "אנשי",
@@ -77,17 +77,17 @@
     },
     {
       "surface": "המלחמה",
-      "gloss": "emfazwe"
+      "gloss": "empi"
     },
     {
       "surface": "הכה",
-      "gloss": "Wabulala"
+      "gloss": "wabulala"
     },
     {
       "surface": "ישמעאל",
       "gloss": "uYishmayeli"
     }
   ],
-  "timestamp": "2026-09-18T12:30:54.910894854Z",
+  "timestamp": "2026-09-19T14:01:16.532005773Z",
   "model": "glm-5.3"
 }

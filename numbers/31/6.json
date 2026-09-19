@@ -5,7 +5,7 @@
   "book": "numbers",
   "lang": "xh",
   "chapter": 31,
-  "translation": "Umoshe wawathumela, iwaka ngasizwe ngasinye, kwimpi — wona ⟨אתם⟩, noPinechas ⟨ואת⟩ unyana ka-Elazari, ebingeleli, kwimpi; nezixhobo zangokungcwele neetrampeti zokuvakalisa, ezandweni zakhe.",
+  "translation": "UMoshe wawathumela ⟨את⟩, elingana leliqela ngamnye, kulwazo; yena ⟨את⟩ noPinekhasi unyana ka-Elazari, umpapashi, kulwazo; kalula izixhobo zangcwele neetrompethu zokuvakalisa isixhobo sokulwa kwayeyesandla.",
   "tokens": [
     {
       "surface": "וישלח",
@@ -14,37 +14,36 @@
     {
       "surface": "אתם",
       "gloss": "⟨את⟩",
-      "marks": "wawathumela (iwaka ngasizwe)"
+      "marks": "awo (amabutho)"
     },
     {
       "surface": "משה",
-      "gloss": "uMoshe"
+      "gloss": "UMoshe"
     },
     {
       "surface": "אלף",
-      "gloss": "iwaka"
+      "gloss": "elingana leliqela ngamnye"
     },
     {
       "surface": "למטה",
-      "gloss": "ngasizwe ngasinye"
+      "gloss": "ngomthonyana ngamnye"
     },
     {
       "surface": "לצבא",
-      "gloss": "kwimpi"
+      "gloss": "kulwazo"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩",
-      "marks": "wona"
+      "gloss": "⟨את⟩ yena (abo)"
     },
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "noPinechas"
+      "marks": "noPinekhasi unyana ka-Elazari umpapashi"
     },
     {
       "surface": "פינחס",
-      "gloss": "uPinechas"
+      "gloss": "noPinekhasi"
     },
     {
       "surface": "בן",
@@ -56,33 +55,33 @@
     },
     {
       "surface": "הכהן",
-      "gloss": "ebingeleli"
+      "gloss": "umpapashi"
     },
     {
       "surface": "לצבא",
-      "gloss": "kwimpi"
+      "gloss": "kulwazo"
     },
     {
       "surface": "וכלי",
-      "gloss": "nezixhobo"
+      "gloss": "kalula izixhobo"
     },
     {
       "surface": "הקדש",
-      "gloss": "zangokungcwele"
+      "gloss": "zangcwele"
     },
     {
       "surface": "וחצצרות",
-      "gloss": "neetrampeti"
+      "gloss": "neetrompethu"
     },
     {
       "surface": "התרועה",
-      "gloss": "zokuvakalisa"
+      "gloss": "zokuvakalisa isixhobo sokulwa"
     },
     {
       "surface": "בידו",
-      "gloss": "ezandweni zakhe"
+      "gloss": "kwayeyesandla"
     }
   ],
-  "timestamp": "2026-09-18T07:47:00.977716507Z",
+  "timestamp": "2026-09-19T14:09:47.419433534Z",
   "model": "glm-5.3"
 }

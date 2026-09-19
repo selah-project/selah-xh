@@ -5,7 +5,7 @@
   "book": "judges",
   "lang": "xh",
   "chapter": 8,
-  "translation": "Wafika kumadoda aseSukoti, wathi: “Bona nangu iZebhahi neTsalmona, eninidinela ngabo, nina nithi: ‘Ingaba iZebhahi neTsalmona nangoku sezandleni zakho, ukuba sinike amadoda akho, amaphelelwe ngamandla, isonka?’”",
+  "translation": "Wafika kumambasele aseSukothi, wathetha wathi: “Nanku uZevahi noTsalmona, aba nandihloyile ⟨את⟩ ngokuthi: ‘Ingaba isandla soZevahi noTsalmona sisingaphelelanga ngoku esandleni sakho, ukuba sinike ⟨את⟩ abantu bakho abadiniweyo isonka?’”",
   "tokens": [
     {
       "surface": "ויבא",
@@ -13,67 +13,68 @@
     },
     {
       "surface": "אל",
-      "gloss": "ku-"
+      "gloss": "ku"
     },
     {
       "surface": "אנשי",
-      "gloss": "amadoda"
+      "gloss": "mambasele"
     },
     {
       "surface": "סכות",
-      "gloss": "aseSukoti"
+      "gloss": "aseSukothi"
     },
     {
       "surface": "ויאמר",
-      "gloss": "wathi"
+      "gloss": "wathetha"
     },
     {
       "surface": "הנה",
-      "gloss": "Bona nangu"
+      "gloss": "nanku"
     },
     {
       "surface": "זבח",
-      "gloss": "iZebhahi"
+      "gloss": "uZevahi"
     },
     {
       "surface": "וצלמנע",
-      "gloss": "neTsalmona"
+      "gloss": "noTsalmona"
     },
     {
       "surface": "אשר",
-      "gloss": "eninidinela ngabo"
+      "gloss": "aba"
     },
     {
       "surface": "חרפתם",
-      "gloss": "ninidinela"
+      "gloss": "nandihloyile"
     },
     {
       "surface": "אותי",
-      "gloss": "⟨את⟩ mna"
+      "gloss": "⟨את⟩",
+      "marks": "undahoyo (ukuhloywa)"
     },
     {
       "surface": "לאמר",
-      "gloss": "nithi"
+      "gloss": "ngokuthi"
     },
     {
       "surface": "הכף",
-      "gloss": "Ingaba"
+      "gloss": "isandla"
     },
     {
       "surface": "זבח",
-      "gloss": "iZebhahi"
+      "gloss": "uZevahi"
     },
     {
       "surface": "וצלמנע",
-      "gloss": "neTsalmona"
+      "gloss": "noTsalmona"
     },
     {
       "surface": "עתה",
-      "gloss": "nangoku"
+      "gloss": "ngoku"
     },
     {
       "surface": "בידך",
-      "gloss": "sezandleni zakho"
+      "gloss": "esandleni sakho"
     },
     {
       "surface": "כי",
@@ -85,17 +86,17 @@
     },
     {
       "surface": "לאנשיך",
-      "gloss": "amadoda akho"
+      "gloss": "abantu bakho"
     },
     {
       "surface": "היעפים",
-      "gloss": "aphelelwe ngamandla"
+      "gloss": "abadiniweyo"
     },
     {
       "surface": "לחם",
       "gloss": "isonka"
     }
   ],
-  "timestamp": "2026-09-18T08:59:30.080192698Z",
+  "timestamp": "2026-09-19T14:05:07.580819671Z",
   "model": "glm-5.3"
 }

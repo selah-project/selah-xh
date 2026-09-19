@@ -5,11 +5,11 @@
   "book": "judges",
   "lang": "xh",
   "chapter": 21,
-  "translation": "Kwaye kuya kwenzeke, xa ooyihlo babo okanye oobakhwenu babo beza kurhanela kuthi, sithi kubo: “Neneliseni ngesihawu ngezi ntombi, kuba asizanga sithabathe umntu ngamnye umfazi wakhe emfazwe; kuba nina anizange nanika zona, ukuze ningabi nasinyi ngoku.”",
+  "translation": "Iya kuthi, xa abawo babo okanye ababo babo beza kuwe ukupikisana nathi, siza kuthi kubo: “Sincedeni ngenxa yethu nge ⟨את⟩ bona, kuba asithathanga yedwa umfazi wakhe emfazwe; kuba nina ananaziniki kubo ngeli xesha, ukuze nibe netyala.”",
   "tokens": [
     {
       "surface": "והיה",
-      "gloss": "Kuya kwenzeke"
+      "gloss": "iya kuthi"
     },
     {
       "surface": "כי",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "אבותם",
-      "gloss": "ooyihlo babo"
+      "gloss": "abawo babo"
     },
     {
       "surface": "או",
@@ -29,19 +29,19 @@
     },
     {
       "surface": "אחיהם",
-      "gloss": "oobakhwenu babo"
+      "gloss": "ababo babo"
     },
     {
       "surface": "לרוב",
-      "gloss": "kurhanela"
+      "gloss": "ukupikisana"
     },
     {
       "surface": "אלינו",
-      "gloss": "kuthi"
+      "gloss": "nathi"
     },
     {
       "surface": "ואמרנו",
-      "gloss": "sithi"
+      "gloss": "siza kuthi"
     },
     {
       "surface": "אליהם",
@@ -49,12 +49,12 @@
     },
     {
       "surface": "חנונו",
-      "gloss": "Neneliseni ngesihawu"
+      "gloss": "sincedeni"
     },
     {
       "surface": "אותם",
       "gloss": "⟨את⟩",
-      "marks": "ngezi ntombi"
+      "marks": "bona"
     },
     {
       "surface": "כי",
@@ -66,11 +66,11 @@
     },
     {
       "surface": "לקחנו",
-      "gloss": "asizanga sithabathe"
+      "gloss": "asithathanga"
     },
     {
       "surface": "איש",
-      "gloss": "umntu ngamnye"
+      "gloss": "yedwa"
     },
     {
       "surface": "אשתו",
@@ -86,7 +86,7 @@
     },
     {
       "surface": "לא",
-      "gloss": "anzi"
+      "gloss": "hayi"
     },
     {
       "surface": "אתם",
@@ -94,21 +94,21 @@
     },
     {
       "surface": "נתתם",
-      "gloss": "anizange nanika"
+      "gloss": "ananizinika"
     },
     {
       "surface": "להם",
-      "gloss": "zona"
+      "gloss": "kubo"
     },
     {
       "surface": "כעת",
-      "gloss": "ukuze"
+      "gloss": "ngeli xesha"
     },
     {
       "surface": "תאשמו",
-      "gloss": "ningabi nasinyi ngoku"
+      "gloss": "nibe netyala"
     }
   ],
-  "timestamp": "2026-09-18T09:13:44.953703996Z",
+  "timestamp": "2026-09-19T14:04:47.117346465Z",
   "model": "glm-5.3"
 }

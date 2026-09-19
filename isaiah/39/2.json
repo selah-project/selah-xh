@@ -5,11 +5,11 @@
   "book": "isaiah",
   "lang": "xh",
   "chapter": 39,
-  "translation": "Wavuya uKhizkiyahu ngabo, wabonisa abo indlu yenkcazo yakhe: ⟨את⟩ isilivere, ⟨את⟩ igolide, ⟨את⟩ iimbonyama zomphefumlo, ⟨את⟩ uhowo oluhle, ⟨את⟩ nkonkoni yezixhobo zakhe zendlu, ⟨את⟩ nako konke okwafunyanwa ezizazini zakhe; akukho nto yayikho endlwini yakhe nakwelo lawo lonke uKhizkiyahu awayingabonisiyo abo.",
+  "translation": "Wavuyiswa ngabo uKhizkiyahu, wababonisa indlu yamaxabiso akhe: ⟨את⟩ isiliva, ⟨את⟩ negolide, ⟨את⟩ nezivundiso, ⟨את⟩ noliwo oluhle, ⟨את⟩ nendlu yonke yezixhobo zakhe, ⟨את⟩ nakho konke okwafunyanwa kwiinkozo zakhe; akukho nto yayikho engayibonisi yona uKhizkiyahu endlwini yakhe nakwizo zonke iindawo zolawulo lwakhe.",
   "tokens": [
     {
       "surface": "וישמח",
-      "gloss": "Wavuya"
+      "gloss": "wavuyiswa"
     },
     {
       "surface": "עליהם",
@@ -21,12 +21,12 @@
     },
     {
       "surface": "ויראם",
-      "gloss": "wabonisa abo"
+      "gloss": "wababonisa"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "indlu yenkcazo yakhe"
+      "marks": "indlu yamaxabiso akhe"
     },
     {
       "surface": "בית",
@@ -34,16 +34,16 @@
     },
     {
       "surface": "נכתה",
-      "gloss": "yenkcazo yakhe"
+      "gloss": "yamaxabiso"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "isilivere"
+      "marks": "isiliva"
     },
     {
       "surface": "הכסף",
-      "gloss": "isilivere"
+      "gloss": "isiliva"
     },
     {
       "surface": "ואת",
@@ -52,25 +52,25 @@
     },
     {
       "surface": "הזהב",
-      "gloss": "igolide"
+      "gloss": "negolide"
     },
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "iincasa"
+      "marks": "izivundiso"
     },
     {
       "surface": "הבשמים",
-      "gloss": "iincasa"
+      "gloss": "nezivundiso"
     },
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "uhowo oluhle"
+      "marks": "oliwo oluhle"
     },
     {
       "surface": "השמן",
-      "gloss": "uhowo"
+      "gloss": "noliwo"
     },
     {
       "surface": "הטוב",
@@ -79,15 +79,15 @@
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "konke kwendlu yezixhobo zakhe"
+      "marks": "indlu yonke yezixhobo zakhe"
     },
     {
       "surface": "כל",
-      "gloss": "konke"
+      "gloss": "yonke"
     },
     {
       "surface": "בית",
-      "gloss": "endlu"
+      "gloss": "indlu"
     },
     {
       "surface": "כליו",
@@ -96,11 +96,11 @@
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "nako konke okwafunyanwa ezizazini zakhe"
+      "marks": "konke okwafunyanwa kwiinkozo zakhe"
     },
     {
       "surface": "כל",
-      "gloss": "nako konke"
+      "gloss": "konke"
     },
     {
       "surface": "אשר",
@@ -112,7 +112,7 @@
     },
     {
       "surface": "באצרתיו",
-      "gloss": "ezizazini zakhe"
+      "gloss": "kwiinkozo zakhe"
     },
     {
       "surface": "לא",
@@ -128,15 +128,15 @@
     },
     {
       "surface": "אשר",
-      "gloss": "oko"
+      "gloss": "engo-"
     },
     {
       "surface": "לא",
-      "gloss": "nga"
+      "gloss": "hayi"
     },
     {
       "surface": "הראם",
-      "gloss": "ingabonisiyo abo"
+      "gloss": "abonisi yona"
     },
     {
       "surface": "חזקיהו",
@@ -148,13 +148,13 @@
     },
     {
       "surface": "ובכל",
-      "gloss": "nakwelo lawo lonke"
+      "gloss": "nakwizo zonke"
     },
     {
       "surface": "ממשלתו",
-      "gloss": "ummandla wakhe wolawulo"
+      "gloss": "iindawo zolawulo lwakhe"
     }
   ],
-  "timestamp": "2026-09-18T11:29:11.801849896Z",
+  "timestamp": "2026-09-19T13:59:13.408389015Z",
   "model": "glm-5.3"
 }

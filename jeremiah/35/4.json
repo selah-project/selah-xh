@@ -5,39 +5,40 @@
   "book": "jeremiah",
   "lang": "xh",
   "chapter": 35,
-  "translation": "Ndabangenisa endlwini kaYahwe, esigcaweni seennyanga zikaXanan unyana kaYigdalyahu, umntu ka-El, esecaleni sesigcawu seenkosi, engaphezulu kwesigcawu seMa'aseya unyana kaShallum, umgcini wesango:",
+  "translation": "Ndaza kungenisa ⟨את⟩ abo ebethini likaYahwe, eshishini labantwana bakaKhanani, unyana kaYigdaliyahu, umntu kaElohim, elo shishi lalingaseleyo ngeshishi leenkosi, elalingaphezu kweshishi likaMaaseyahu, unyana kaShalumi, umgadi wesixhobo.",
   "tokens": [
     {
       "surface": "ואבא",
-      "gloss": "Ndabangenisa"
+      "gloss": "ndaza kungenisa"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩ ba"
+      "gloss": "⟨את⟩",
+      "marks": "abo"
     },
     {
       "surface": "בית",
-      "gloss": "endlwini"
+      "gloss": "ebethini"
     },
     {
       "surface": "יהוה",
-      "gloss": "kaYahwe"
+      "gloss": "likaYahwe"
     },
     {
       "surface": "אל",
-      "gloss": "e"
+      "gloss": "ku"
     },
     {
       "surface": "לשכת",
-      "gloss": "sigcaweni"
+      "gloss": "eshishini"
     },
     {
       "surface": "בני",
-      "gloss": "seennyanga"
+      "gloss": "labantwana"
     },
     {
       "surface": "חנן",
-      "gloss": "zikaXanan"
+      "gloss": "bakaKhanani"
     },
     {
       "surface": "בן",
@@ -45,7 +46,7 @@
     },
     {
       "surface": "יגדליהו",
-      "gloss": "kaYigdalyahu"
+      "gloss": "kaYigdaliyahu"
     },
     {
       "surface": "איש",
@@ -53,39 +54,39 @@
     },
     {
       "surface": "האלהים",
-      "gloss": "ka-El"
+      "gloss": "kaElohim"
     },
     {
       "surface": "אשר",
-      "gloss": "ese"
+      "gloss": "elo"
     },
     {
       "surface": "אצל",
-      "gloss": "ecaleni"
+      "gloss": "elingaseleyo"
     },
     {
       "surface": "לשכת",
-      "gloss": "sesigcawu"
+      "gloss": "ngeshishi"
     },
     {
       "surface": "השרים",
-      "gloss": "seenkosi"
+      "gloss": "leenkosi"
     },
     {
       "surface": "אשר",
-      "gloss": "e"
+      "gloss": "eli"
     },
     {
       "surface": "ממעל",
-      "gloss": "ngaphezulu"
+      "gloss": "elingaphezu"
     },
     {
       "surface": "ללשכת",
-      "gloss": "kwesigcawu"
+      "gloss": "kweshishi"
     },
     {
       "surface": "מעשיהו",
-      "gloss": "seMa'aseya"
+      "gloss": "likaMaaseyahu"
     },
     {
       "surface": "בן",
@@ -93,17 +94,17 @@
     },
     {
       "surface": "שלם",
-      "gloss": "kaShallum"
+      "gloss": "kaShalumi"
     },
     {
       "surface": "שמר",
-      "gloss": "umgcini"
+      "gloss": "umgadi"
     },
     {
       "surface": "הסף",
-      "gloss": "wesango"
+      "gloss": "wesixhobo"
     }
   ],
-  "timestamp": "2026-09-18T12:24:00.647980240Z",
+  "timestamp": "2026-09-19T14:00:00.598247771Z",
   "model": "glm-5.3"
 }

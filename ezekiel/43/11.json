@@ -5,96 +5,96 @@
   "book": "ezekiel",
   "lang": "xh",
   "chapter": 43,
-  "translation": "Ukuba bahlazeka nangako konke oko azenze, umbono wendlu nobuyilo bayo, iindawo zokuphuma nezokungena zawo, nawo onke amabono ayo, naku ⟨את⟩ konke imimiselo yayo, nawo onke amabono ayo, nayo yonke iTora yayo — yenza bayazi ⟨את⟩ zona, ubhale phambi kwamehlo abo, ukuze bagcine ⟨את⟩ wonke umbono wayo naku ⟨את⟩ konke imimiselo yayo, bayenze zona.",
+  "translation": "Kwaye ukuba bezisola yimicimbi yonke abayenzileyo, yaziwazise umfanekiso wendlu noyilo lwayo, nokuphuma kwayo nokungena kwayo, namaleko ayo onke, ⟨את⟩ neemiso zayo zonke, namaleko aye onke, neTora yayo yonke, ⟨את⟩ ubhale phambi kwamehlo abo; bayigcine ⟨את⟩ umfanekiso wawo wonke, ⟨את⟩ neemiso zayo zonke, bazenze.",
   "tokens": [
     {
       "surface": "ואם",
-      "gloss": "Ukuba"
+      "gloss": "Kwaye ukuba"
     },
     {
       "surface": "נכלמו",
-      "gloss": "bahlazeka"
+      "gloss": "bezisola"
     },
     {
       "surface": "מכל",
-      "gloss": "nangako konke"
+      "gloss": "yimicimbi yonke"
     },
     {
       "surface": "אשר",
-      "gloss": "oko"
+      "gloss": "aba-"
     },
     {
       "surface": "עשו",
-      "gloss": "azenze"
+      "gloss": "bayenzileyo"
     },
     {
       "surface": "צורת",
-      "gloss": "umbono"
+      "gloss": "umfanekiso"
     },
     {
       "surface": "הבית",
-      "gloss": "wendlu"
+      "gloss": "wendla"
     },
     {
       "surface": "ותכונתו",
-      "gloss": "nobuyilo bayo"
+      "gloss": "noyilo lwayo"
     },
     {
       "surface": "ומוצאיו",
-      "gloss": "iindawo zokuphuma"
+      "gloss": "nokuphuma kwayo"
     },
     {
       "surface": "ומובאיו",
-      "gloss": "nezokungena"
+      "gloss": "nokungena kwayo"
     },
     {
       "surface": "וכל",
-      "gloss": "nawo onke"
+      "gloss": "na-"
     },
     {
       "surface": "צורתו",
-      "gloss": "amabono ayo"
+      "gloss": "maleko ayo onke"
     },
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "konke imimiselo yayo"
+      "marks": "neemiso zayo zonke"
     },
     {
       "surface": "כל",
-      "gloss": "konke"
+      "gloss": "zonke"
     },
     {
       "surface": "חקתיו",
-      "gloss": "imimiselo yayo"
+      "gloss": "neemiso zayo"
     },
     {
       "surface": "וכל",
-      "gloss": "nawo onke"
+      "gloss": "na-"
     },
     {
       "surface": "צורתי",
-      "gloss": "amabono ayo"
+      "gloss": "maleko aye onke"
     },
     {
       "surface": "וכל",
-      "gloss": "nayo yonke"
+      "gloss": "ne-"
     },
     {
       "surface": "תורתו",
-      "gloss": "iTora yayo"
+      "gloss": "iTora yayo yonke"
     },
     {
       "surface": "הודע",
-      "gloss": "yenza bayazi"
+      "gloss": "yaziwazise"
     },
     {
       "surface": "אותם",
-      "gloss": "⟨את⟩ zona"
+      "gloss": "⟨את⟩ ubhale"
     },
     {
       "surface": "וכתב",
-      "gloss": "ubhale"
+      "gloss": "kwimehlo abo"
     },
     {
       "surface": "לעיניהם",
@@ -102,12 +102,12 @@
     },
     {
       "surface": "וישמרו",
-      "gloss": "ukuze bagcine"
+      "gloss": "bayigcine"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "wonke umbono wayo"
+      "marks": "umfanekiso wawo wonke"
     },
     {
       "surface": "כל",
@@ -115,30 +115,31 @@
     },
     {
       "surface": "צורתו",
-      "gloss": "umbono wayo"
+      "gloss": "umfanekiso wawo"
     },
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "konke imimiselo yayo"
+      "marks": "neemiso zayo zonke"
     },
     {
       "surface": "כל",
-      "gloss": "konke"
+      "gloss": "zonke"
     },
     {
       "surface": "חקתיו",
-      "gloss": "imimiselo yayo"
+      "gloss": "neemiso zayo"
     },
     {
       "surface": "ועשו",
-      "gloss": "bayenze"
+      "gloss": "bazenze"
     },
     {
       "surface": "אותם",
-      "gloss": "⟨את⟩ zona"
+      "gloss": "⟨את⟩",
+      "marks": "bazenze"
     }
   ],
-  "timestamp": "2026-09-18T13:35:37.153272709Z",
+  "timestamp": "2026-09-19T13:55:55.533619281Z",
   "model": "glm-5.3"
 }

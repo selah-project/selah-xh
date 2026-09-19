@@ -5,75 +5,75 @@
   "book": "2-kings",
   "lang": "xh",
   "chapter": 12,
-  "translation": "Makabathabathele abapristi, umntu ngamnye ⟨את⟩ kumaziwe yakhe; baze balungele iziphazamiso zendlu, kuzo zonke iindawo apho kufunyanwa khona isiphazamiso.",
+  "translation": "Abapingasi mabathathele bona, umntu ngamntu ⟨את⟩ kubali yakhe ayimaziyo, kwaye bona bazakulungisa ⟨את⟩ umonakalo wendlu nako naliphi na eliya kufunyanwa apho umonakalo.",
   "tokens": [
     {
       "surface": "יקחו",
-      "gloss": "Makabathabathele"
+      "gloss": "mabathathele"
     },
     {
       "surface": "להם",
-      "gloss": "kuwo"
-    },
-    {
-      "surface": "הכהנים",
-      "gloss": "abapristi"
-    },
-    {
-      "surface": "איש",
-      "gloss": "umntu"
-    },
-    {
-      "surface": "מאת",
-      "gloss": "⟨את⟩ kumaziwe yakhe",
-      "marks": "kumaziwe yakhe"
-    },
-    {
-      "surface": "מכרו",
-      "gloss": "umaziwe yakhe"
-    },
-    {
-      "surface": "והם",
       "gloss": "bona"
     },
     {
+      "surface": "הכהנים",
+      "gloss": "abapingasi"
+    },
+    {
+      "surface": "איש",
+      "gloss": "umntu ngamntu"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "kubali yakhe"
+    },
+    {
+      "surface": "מכרו",
+      "gloss": "kubali yakhe ayimaziyo"
+    },
+    {
+      "surface": "והם",
+      "gloss": "kwaye bona"
+    },
+    {
       "surface": "יחזקו",
-      "gloss": "balungele"
+      "gloss": "bazakulungisa"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "iziphazamiso zendlu"
+      "marks": "umonakalo"
     },
     {
       "surface": "בדק",
-      "gloss": "iziphazamiso"
+      "gloss": "umonakalo"
     },
     {
       "surface": "הבית",
-      "gloss": "zendlu"
+      "gloss": "wendle"
     },
     {
       "surface": "לכל",
-      "gloss": "kuzo"
+      "gloss": "nako naliphi na"
     },
     {
       "surface": "אשר",
-      "gloss": "ezo"
+      "gloss": "eli"
     },
     {
       "surface": "ימצא",
-      "gloss": "kufunyanwa"
+      "gloss": "liya kufunyanwa"
     },
     {
       "surface": "שם",
-      "gloss": "khona"
+      "gloss": "apho"
     },
     {
       "surface": "בדק",
-      "gloss": "isiphazamiso"
+      "gloss": "umonakalo"
     }
   ],
-  "timestamp": "2026-09-18T10:49:24.592261517Z",
+  "timestamp": "2026-09-19T13:46:09.415994099Z",
   "model": "glm-5.3"
 }

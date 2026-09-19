@@ -5,49 +5,50 @@
   "book": "deuteronomy",
   "lang": "xh",
   "chapter": 31,
-  "translation": "uYahwe uza kubanika phambi kwenu, niza kwenza kubo ngokwe-<the whole> umyalelo ondidalele wona.",
+  "translation": "uYahwe uza kubanika phambi kwenu, niza kwenza kubo ngokwalo lonke umyalelo endiwuthumele kuni ⟨את⟩.",
   "tokens": [
     {
-      "surface": "ונתנם",
+      "surface": "וּנְתָנָ֥ם",
       "gloss": "uza kubanika"
     },
     {
-      "surface": "יהוה",
+      "surface": "יְהוָ֖ה",
       "gloss": "uYahwe"
     },
     {
-      "surface": "לפניכם",
+      "surface": "לִפְנֵיכֶ֑ם",
       "gloss": "phambi kwenu"
     },
     {
-      "surface": "ועשיתם",
+      "surface": "וַעֲשִׂיתֶ֣ם",
       "gloss": "niza kwenza"
     },
     {
-      "surface": "להם",
+      "surface": "לָהֶ֔ם",
       "gloss": "kubo"
     },
     {
-      "surface": "ככל",
-      "gloss": "ngokweyonke"
+      "surface": "כְּכָל",
+      "gloss": "ngokwalo lonke"
     },
     {
-      "surface": "המצוה",
+      "surface": "הַמִּצְוָ֔ה",
       "gloss": "umyalelo"
     },
     {
-      "surface": "אשר",
-      "gloss": "ondidayalele"
+      "surface": "אֲשֶׁ֥ר",
+      "gloss": "endiwuthumele"
     },
     {
-      "surface": "צויתי",
-      "gloss": "ndidayalele"
+      "surface": "צִוִּ֖יתִי",
+      "gloss": "ndithumele"
     },
     {
-      "surface": "אתכם",
-      "gloss": "⟨את⟩ ninze"
+      "surface": "אֶתְכֶֽם",
+      "gloss": "⟨את⟩",
+      "marks": "kuni (ni)"
     }
   ],
-  "timestamp": "2026-09-18T17:26:00.615250484Z",
+  "timestamp": "2026-09-19T13:49:14.396268170Z",
   "model": "glm-5.3"
 }

@@ -5,85 +5,83 @@
   "book": "leviticus",
   "lang": "xh",
   "chapter": 1,
-  "translation": "Aze ayiceke ngeentshowa zalo, ⟨את⟩ intloko yalo no⟨את⟩ amafutha alo; umpristi uza kuzicwangcisa phezu kwezinti ezikumilio, umilio oselomthendeleko.",
+  "translation": "Aze achithe ⟨את⟩ ngophawu lweenxalenye zawo, kunye nomkhonkoro wakhe kunye namafutha akhe asemthonjeni; umongami aze awahlambele ngokwesikhokelo phezu kweenkuni ezipheleleko phezu komlilo ophilayo phezu kwesisibingelelo.",
   "tokens": [
     {
-      "surface": "ונתח",
-      "gloss": "aze ayiceke"
+      "surface": "וְנִתַּח",
+      "gloss": "aze achithe"
     },
     {
-      "surface": "אתו",
+      "surface": "אֹתוֹ",
       "gloss": "⟨את⟩",
-      "marks": "iintshowa zalo"
+      "marks": "yena (isibingelelo esichitywayo)"
     },
     {
-      "surface": "לנתחיו",
-      "gloss": "ngeentshowa zalo"
+      "surface": "לִנְתָחָיו",
+      "gloss": "ngophawu lweenxalenye zawo"
     },
     {
-      "surface": "ואת",
+      "surface": "וְאֶת",
+      "gloss": "⟨את⟩"
+    },
+    {
+      "surface": "רֹאשցוֹ",
+      "gloss": "umkhonkoro wakhe"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "⟨את⟩"
+    },
+    {
+      "surface": "פִּדְרוֹ",
+      "gloss": "amafutha akhe asemthonjeni"
+    },
+    {
+      "surface": "וְעָרַךְ",
+      "gloss": "uze ahlambele"
+    },
+    {
+      "surface": "הַכֹּהֵן",
+      "gloss": "umongami"
+    },
+    {
+      "surface": "אֹתָם",
       "gloss": "⟨את⟩",
-      "marks": "intloko yalo"
+      "marks": "onke ezo nxalenye"
     },
     {
-      "surface": "ראשו",
-      "gloss": "intloko yalo"
+      "surface": "עַל",
+      "gloss": "phezu kweenkuni"
     },
     {
-      "surface": "ואת",
-      "gloss": "⟨את⟩",
-      "marks": "amafutha alo"
+      "surface": "הָעֵצִים",
+      "gloss": "kweenkuni"
     },
     {
-      "surface": "פדרו",
-      "gloss": "amafutha alo"
+      "surface": "אֲשֶׁר",
+      "gloss": "ezikwisikhondo"
     },
     {
-      "surface": "וערך",
-      "gloss": "uza kuzicwangcisa"
+      "surface": "עַל",
+      "gloss": "phezu komlilo"
     },
     {
-      "surface": "הכהן",
-      "gloss": "umpristi"
+      "surface": "הָאֵשׁ",
+      "gloss": "omlilo"
     },
     {
-      "surface": "אתם",
-      "gloss": "⟨את⟩",
-      "marks": "zona (iintshowa, intloko, amafutha)"
+      "surface": "אֲשֶׁר",
+      "gloss": "ongowesibingelelo"
     },
     {
-      "surface": "על",
-      "gloss": "phezu"
+      "surface": "עַל",
+      "gloss": "phezu kwindawo"
     },
     {
-      "surface": "העצים",
-      "gloss": "kwezinti"
-    },
-    {
-      "surface": "אשר",
-      "gloss": "ezikumilio"
-    },
-    {
-      "surface": "על",
-      "gloss": "kumilio"
-    },
-    {
-      "surface": "האש",
-      "gloss": "umilio"
-    },
-    {
-      "surface": "אשר",
-      "gloss": "osela"
-    },
-    {
-      "surface": "על",
-      "gloss": "ku"
-    },
-    {
-      "surface": "המזבח",
-      "gloss": "omthendeleko"
+      "surface": "הַמִּזְבֵּחַ",
+      "gloss": "kwesisibingelelo"
     }
   ],
-  "timestamp": "2026-09-18T17:22:10.779735431Z",
+  "timestamp": "2026-09-19T14:04:36.759309493Z",
   "model": "glm-5.3"
 }

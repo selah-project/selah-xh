@@ -5,7 +5,7 @@
   "book": "judges",
   "lang": "xh",
   "chapter": 11,
-  "translation": "Inkosi yabantwana bakaAmnon yathi koothunywa bakaYiftahe: “Kuba uYisrayeli wathabatha ⟨את⟩ umhlaba wam ekunyukela kwakhe eMitsrayim, ukusuka eArnoni de kwiYabboki nade kuYordanı; ngoku ke, uzibuyisele ngoxolo.”",
+  "translation": "Wathi inkosi yabantwana beni-Amon koothunywa bakaYifta: “Kuba uSirayeli wathabatha ⟨את⟩ umhlaba wam xa esuka eMitsrayim, ukusuka ku-Arnon de kwiYabboki, de kwiYordan; ngoku ke ubuyisele ⟨את⟩ ngokuthozama.”",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -17,11 +17,11 @@
     },
     {
       "surface": "בני",
-      "gloss": "yabantwana"
+      "gloss": "abantwana"
     },
     {
       "surface": "עמון",
-      "gloss": "bakaAmnon"
+      "gloss": "beni-Amon"
     },
     {
       "surface": "אל",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "יפתח",
-      "gloss": "bakaYiftahe"
+      "gloss": "bakaYifta"
     },
     {
       "surface": "כי",
@@ -45,7 +45,7 @@
     },
     {
       "surface": "ישראל",
-      "gloss": "uYisrayeli"
+      "gloss": "uSirayeli"
     },
     {
       "surface": "את",
@@ -58,7 +58,7 @@
     },
     {
       "surface": "בעלותו",
-      "gloss": "ekunyukela kwakhe"
+      "gloss": "xa esuka"
     },
     {
       "surface": "ממצרים",
@@ -66,10 +66,10 @@
     },
     {
       "surface": "מארנון",
-      "gloss": "ukusuka eArnoni"
+      "gloss": "ukusuka ku-Arnon"
     },
     {
-      "surface": "ועד",
+      "surface": "ו�ד",
       "gloss": "de"
     },
     {
@@ -78,30 +78,30 @@
     },
     {
       "surface": "ועד",
-      "gloss": "nade"
+      "gloss": "de"
     },
     {
       "surface": "הירדן",
-      "gloss": "kuYordanı"
+      "gloss": "kwiYordan"
     },
     {
       "surface": "ועתה",
-      "gloss": "ngoku ke"
+      "gloss": "ngoku"
     },
     {
       "surface": "השיבה",
-      "gloss": "uzibuyisele"
+      "gloss": "ubuyisele"
     },
     {
       "surface": "אתהן",
       "gloss": "⟨את⟩",
-      "marks": "zombini (imimandla eyahlukileyo)"
+      "marks": "into obuyiselwayo"
     },
     {
       "surface": "בשלום",
-      "gloss": "ngoxolo"
+      "gloss": "ngokuthozama"
     }
   ],
-  "timestamp": "2026-09-18T09:02:31.512614649Z",
+  "timestamp": "2026-09-19T14:04:03.346620885Z",
   "model": "glm-5.3"
 }

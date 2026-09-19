@@ -5,11 +5,11 @@
   "book": "1-samuel",
   "lang": "xh",
   "chapter": 10,
-  "translation": "Wathi kubantwana beYisrael: “Kukuthi utsho uYahwe, uElohim wakwaYisrael: Mna ndandikhusela ⟨את⟩ iYisrael ndayisusa eMitsrayim, ndaza ndanisindisa esandleni seMitsrayim nasezandleni zazo zonke amazwe obukhosi anicinezelayo.”",
+  "translation": "Wathetha kubantwana bakaIsrayeli: Kanjalo uthe uYahwe, uElohim kaIsrayeli: Ndazisa ⟨את⟩ uIsrayeli esuka eMitsrayim, ndaza ndanisindisa esandleni seMitsrayim nakwisandla lezo zimbuso zonke ezanitsalela ⟨את⟩ nim.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "Wathi"
+      "gloss": "Wathetha"
     },
     {
       "surface": "אל",
@@ -21,15 +21,15 @@
     },
     {
       "surface": "ישראל",
-      "gloss": "beYisrael"
+      "gloss": "bakaIsrayeli"
     },
     {
       "surface": "כה",
-      "gloss": "Kukuthi"
+      "gloss": "Kanjalo"
     },
     {
       "surface": "אמר",
-      "gloss": "utsho"
+      "gloss": "uthe"
     },
     {
       "surface": "יהוה",
@@ -41,7 +41,7 @@
     },
     {
       "surface": "ישראל",
-      "gloss": "wakwaYisrael"
+      "gloss": "kaIsrayeli"
     },
     {
       "surface": "אנכי",
@@ -49,20 +49,20 @@
     },
     {
       "surface": "העליתי",
-      "gloss": "ndandikhusela ndayisusa"
+      "gloss": "Ndazisa"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "iYisrael"
+      "marks": "uIsrayeli"
     },
     {
       "surface": "ישראל",
-      "gloss": "iYisrael"
+      "gloss": "uIsrayeli"
     },
     {
       "surface": "ממצרים",
-      "gloss": "eMitsrayim"
+      "gloss": "esuka eMitsrayim"
     },
     {
       "surface": "ואציל",
@@ -70,8 +70,8 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩",
-      "marks": "nina"
+      "gloss": "⟨את⟩ nim",
+      "marks": "nim"
     },
     {
       "surface": "מיד",
@@ -83,26 +83,26 @@
     },
     {
       "surface": "ומיד",
-      "gloss": "nasezandleni"
+      "gloss": "nakwisandla"
     },
     {
       "surface": "כל",
-      "gloss": "zonke"
+      "gloss": "lezo zonke"
     },
     {
       "surface": "הממלכות",
-      "gloss": "amazwe obukhosi"
+      "gloss": "zimbuso"
     },
     {
       "surface": "הלחצים",
-      "gloss": "anicinezelayo"
+      "gloss": "ezanitsalela"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩",
-      "marks": "nina"
+      "gloss": "⟨את⟩ nim",
+      "marks": "nim"
     }
   ],
-  "timestamp": "2026-09-18T09:21:15.296703183Z",
+  "timestamp": "2026-09-19T13:43:21.387775779Z",
   "model": "glm-5.3"
 }

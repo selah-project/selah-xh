@@ -5,27 +5,27 @@
   "book": "deuteronomy",
   "lang": "xh",
   "chapter": 4,
-  "translation": "Musani ukongeza kwelizwi endinimyalelayo, musani nokususa nakuphi kulo, ukuze nigcine ⟨את⟩ imiyalelo kaYahwe uElohim enu endinimiyalelayo.",
+  "translation": "Ningazingezi into elizwini endiniyalelayo, ningayitsho into kulo, ukugcina imiyalelo kaYahwe uElohim wenu eniniyalelayo.",
   "tokens": [
     {
       "surface": "לא",
-      "gloss": "musani"
+      "gloss": "akukho"
     },
     {
       "surface": "תספו",
-      "gloss": "ukongeza"
+      "gloss": "ningazingezi"
     },
     {
       "surface": "על",
-      "gloss": "kw"
+      "gloss": "kwi-"
     },
     {
       "surface": "הדבר",
-      "gloss": "elizwi"
+      "gloss": "ilizwi"
     },
     {
       "surface": "אשר",
-      "gloss": "endinimyalelayo"
+      "gloss": "elo"
     },
     {
       "surface": "אנכי",
@@ -33,19 +33,20 @@
     },
     {
       "surface": "מצוה",
-      "gloss": "-nimyalela"
+      "gloss": "ndiniyalela"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ ni-"
+      "gloss": "⟨את⟩",
+      "marks": "nina"
     },
     {
       "surface": "ולא",
-      "gloss": "musani nokususa"
+      "gloss": "kananjalo akukho"
     },
     {
       "surface": "תגרעו",
-      "gloss": "susa"
+      "gloss": "ningayitsho"
     },
     {
       "surface": "ממנו",
@@ -53,7 +54,7 @@
     },
     {
       "surface": "לשמר",
-      "gloss": "ukuze nigcine"
+      "gloss": "ukugcina"
     },
     {
       "surface": "את",
@@ -70,11 +71,11 @@
     },
     {
       "surface": "אלהיכם",
-      "gloss": "uElohim enu"
+      "gloss": "uElohim wenu"
     },
     {
       "surface": "אשר",
-      "gloss": "endinimiyalelayo"
+      "gloss": "elo"
     },
     {
       "surface": "אנכי",
@@ -82,13 +83,14 @@
     },
     {
       "surface": "מצוה",
-      "gloss": "-nimiyalela"
+      "gloss": "ndiniyalela"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ ni-"
+      "gloss": "⟨את⟩",
+      "marks": "nina"
     }
   ],
-  "timestamp": "2026-09-18T07:57:05.381645576Z",
+  "timestamp": "2026-09-19T13:50:32.576407778Z",
   "model": "glm-5.3"
 }

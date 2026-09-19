@@ -5,43 +5,43 @@
   "book": "ruth",
   "lang": "xh",
   "chapter": 2,
-  "translation": "UNaomi wathi kunyana wetyala wakhe: “Makabe sibusisiwe nguYahwe lowo angazange ayekusebenzisa ikhesedi yakhe kwabaphilayo nakwabafileyo.” UNaomi wathi kuye: “Lo mntu usondeleyo kuthi; ngumhlanguli wethu yena.”",
+  "translation": "Wathi uNoomi kunyana wakhe omkakhe: “Ubusisekile yena kuYahwe, obeke akayekanga ikhesedi yakhe ⟨את⟩ abaphilayo ⟨ואת⟩ nabafayo.” Wathi uNoomi kuye: “Lo mntu usondele kuthi, ngomnye wabahlawuli bethu, yena.”",
   "tokens": [
     {
       "surface": "ותאמר",
-      "gloss": "wathi"
+      "gloss": "Wathi"
     },
     {
       "surface": "נעמי",
-      "gloss": "UNaomi"
+      "gloss": "uNoomi"
     },
     {
       "surface": "לכלתה",
-      "gloss": "kunyana wetyala wakhe"
+      "gloss": "kunyana wakhe omkakhe"
     },
     {
       "surface": "ברוך",
-      "gloss": "makabe sibusisiwe"
+      "gloss": "Ubusisekile"
     },
     {
       "surface": "הוא",
-      "gloss": "lowo"
+      "gloss": "yena"
     },
     {
       "surface": "ליהוה",
-      "gloss": "nguYahwe"
+      "gloss": "kuYahwe"
     },
     {
       "surface": "אשר",
-      "gloss": "lowo"
+      "gloss": "obeke"
     },
     {
       "surface": "לא",
-      "gloss": "angazange"
+      "gloss": "aka-"
     },
     {
       "surface": "עזב",
-      "gloss": "ayekusebenzisa"
+      "gloss": "-yekanga"
     },
     {
       "surface": "חסדו",
@@ -50,23 +50,24 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "kwabaphilayo"
+      "marks": "abaphilayo"
     },
     {
       "surface": "החיים",
-      "gloss": "kwabaphilayo"
+      "gloss": "abaphilayo"
     },
     {
       "surface": "ואת",
-      "gloss": "nakwa-⟨את⟩"
+      "gloss": "⟨את⟩",
+      "marks": "nabafayo"
     },
     {
       "surface": "המתים",
-      "gloss": "kwabafileyo"
+      "gloss": "nabafayo"
     },
     {
       "surface": "ותאמר",
-      "gloss": "wathi"
+      "gloss": "Wathi"
     },
     {
       "surface": "לה",
@@ -74,11 +75,11 @@
     },
     {
       "surface": "נעמי",
-      "gloss": "UNaomi"
+      "gloss": "uNoomi"
     },
     {
       "surface": "קרוב",
-      "gloss": "usondeleyo"
+      "gloss": "usondele"
     },
     {
       "surface": "לנו",
@@ -90,13 +91,13 @@
     },
     {
       "surface": "מגאלנו",
-      "gloss": "ngumhlanguli wethu"
+      "gloss": "ngomnye wabahlawuli bethu"
     },
     {
       "surface": "הוא",
       "gloss": "yena"
     }
   ],
-  "timestamp": "2026-09-18T16:19:58.913984234Z",
+  "timestamp": "2026-09-19T14:10:11.976873381Z",
   "model": "glm-5.3"
 }

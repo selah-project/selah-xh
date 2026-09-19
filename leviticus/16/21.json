@@ -5,7 +5,7 @@
   "book": "leviticus",
   "lang": "xh",
   "chapter": 16,
-  "translation": "U-Aharon uza kubeka izandla zakhe zombini phezu kwentloko yesilisi-bhokhwe ephilayo, aze achaze phezu kwesilisi ⟨את⟩ zonke iziphoso zabantwana bakaSirayeli, no⟨את⟩ zonke iintshukumo zabo, kuzo zonke izono zabo; aze azibeke phezu kwentloko yesilisi-bhokhwe, asithume ngosandla lomntu olungelelweleyo kulintlango.",
+  "translation": "U-Aharon uza kubeka ⟨את⟩ izandla zakhe zombini phezu kentloko yebhokhwe ephilayo, aze achaze phezu kwayo ⟨את⟩ zonke iziphoso zabantwana bakwaSirayeli, n⟨את⟩ zonke iziphambano zabo, kuzo zonke izono zabo; aze abeka ⟨את⟩ zona phezu kentloko yebhokhwe, athumele ngosandla lomntu olungileyo esintlangweni.",
   "tokens": [
     {
       "surface": "וסמך",
@@ -34,11 +34,11 @@
     },
     {
       "surface": "ראש",
-      "gloss": "kwentloko"
+      "gloss": "kentloko"
     },
     {
       "surface": "השעיר",
-      "gloss": "yesilisi-bhokhwe"
+      "gloss": "yebhokhwe"
     },
     {
       "surface": "החי",
@@ -50,12 +50,12 @@
     },
     {
       "surface": "עליו",
-      "gloss": "phezu kwesilisi"
+      "gloss": "phezu kwayo"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "zonke iziphoso zabantwana bakaSirayeli"
+      "marks": "zonke iziphoso zabantwana bakwaSirayeli"
     },
     {
       "surface": "כל",
@@ -63,7 +63,7 @@
     },
     {
       "surface": "עונת",
-      "gloss": "izophoso"
+      "gloss": "iziphoso"
     },
     {
       "surface": "בני",
@@ -71,12 +71,12 @@
     },
     {
       "surface": "ישראל",
-      "gloss": "bakaSirayeli"
+      "gloss": "bakwaSirayeli"
     },
     {
       "surface": "ואת",
-      "gloss": "no⟨את⟩",
-      "marks": "zonke iintshukumo zabo"
+      "gloss": "n⟨את⟩",
+      "marks": "zonke iziphambano zabo"
     },
     {
       "surface": "כל",
@@ -84,7 +84,7 @@
     },
     {
       "surface": "פשעיהם",
-      "gloss": "iintshukumo zabo"
+      "gloss": "iziphambano zabo"
     },
     {
       "surface": "לכל",
@@ -96,11 +96,12 @@
     },
     {
       "surface": "ונתן",
-      "gloss": "aze azibeke"
+      "gloss": "aze abeka"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩ azo"
+      "gloss": "⟨את⟩",
+      "marks": "zona (izono ezibekiweyo)"
     },
     {
       "surface": "על",
@@ -108,15 +109,15 @@
     },
     {
       "surface": "ראש",
-      "gloss": "kwentloko"
+      "gloss": "kentloko"
     },
     {
       "surface": "השעיר",
-      "gloss": "yesilisi-bhokhwe"
+      "gloss": "yebhokhwe"
     },
     {
       "surface": "ושלח",
-      "gloss": "asithume"
+      "gloss": "athumele"
     },
     {
       "surface": "ביד",
@@ -128,13 +129,13 @@
     },
     {
       "surface": "עתי",
-      "gloss": "olungelelweleyo"
+      "gloss": "olungileyo"
     },
     {
       "surface": "המדברה",
-      "gloss": "kulintlango"
+      "gloss": "esintlangweni"
     }
   ],
-  "timestamp": "2026-09-18T06:55:43.365983073Z",
+  "timestamp": "2026-09-19T14:05:58.770033525Z",
   "model": "glm-5.3"
 }

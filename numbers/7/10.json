@@ -5,11 +5,11 @@
   "book": "numbers",
   "lang": "xh",
   "chapter": 7,
-  "translation": "Iinkosi zazisa ⟨את⟩ isinikezelo sokusungulwa kombane ngosuku olwagcobywa ngalo; iinkosi zazisa ⟨את⟩ izinikezelo zazo phambi kombane.",
+  "translation": "Kwaye iinkosi zazisa ⟨את⟩ ukwaziswa kwe-altari ngosuku okuthunjiweyo ngako ⟨את⟩ yona; kwaye iinkosi zazisa ⟨את⟩ umnikelo wazo phambi kwe-altari.",
   "tokens": [
     {
       "surface": "ויקריבו",
-      "gloss": "zazisa"
+      "gloss": "kwaye zazisa"
     },
     {
       "surface": "הנשאים",
@@ -18,15 +18,15 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "isinikezelo sokusungulwa kombane"
+      "marks": "ukwaziswa kwe-altari"
     },
     {
       "surface": "חנכת",
-      "gloss": "okusungulwa"
+      "gloss": "ukwaziswa"
     },
     {
       "surface": "המזבח",
-      "gloss": "ombane"
+      "gloss": "kwe-altari"
     },
     {
       "surface": "ביום",
@@ -34,16 +34,16 @@
     },
     {
       "surface": "המשח",
-      "gloss": "okugcoba"
+      "gloss": "okuthunjiweyo ngako"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩",
-      "marks": "ombane"
+      "gloss": "⟨את⟩ yona",
+      "marks": "i-altari"
     },
     {
       "surface": "ויקריבו",
-      "gloss": "zazisa"
+      "gloss": "kwaye zazisa"
     },
     {
       "surface": "הנשיאם",
@@ -52,21 +52,21 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "izinikezelo zazo"
+      "marks": "umnikelo wazo"
     },
     {
       "surface": "קרבנם",
-      "gloss": "izinikezelo zazo"
+      "gloss": "umnikelo wazo"
     },
     {
       "surface": "לפני",
-      "gloss": "phambi"
+      "gloss": "phambi kwa-"
     },
     {
       "surface": "המזבח",
-      "gloss": "kombane"
+      "gloss": "i-altari"
     }
   ],
-  "timestamp": "2026-09-18T17:23:41.636561502Z",
+  "timestamp": "2026-09-19T14:10:10.725604678Z",
   "model": "glm-5.3"
 }

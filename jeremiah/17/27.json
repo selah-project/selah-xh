@@ -5,11 +5,11 @@
   "book": "jeremiah",
   "lang": "xh",
   "chapter": 17,
-  "translation": "Kodwa ukuba anindivuleli ndive ukungcwatyiswa kolwasiwazi kwangehashe obungcwele, ukwenza umthwalo, nokungena emasangweni eYerushalayimi ngolwasiwazi lwangehashe obungcwele, ndiza kuvuthelisa umlilo emasangweni alo; kwaye uza kudla iindlwane zeYerushalayimi, kwaye awunaphelelwa.",
+  "translation": "Kwaye ukuba anilaleli kum ukungcwelelisa ⟨את⟩ usuku lweSabhatha, nokungathwali umthwalo nokungangeni emasangweni eYerushalayimi ngosuku lweSabhatha, ndiza kuvuthaza umlilo emasangweni ayo, uze utya iinqaba zeYerushalayimi, uthe ungacishwa.",
   "tokens": [
     {
       "surface": "ואם",
-      "gloss": "kodwa ukuba"
+      "gloss": "Kwaye ukuba"
     },
     {
       "surface": "לא",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "תשמעו",
-      "gloss": "anindivuleli ndive"
+      "gloss": "anilaleli"
     },
     {
       "surface": "אלי",
@@ -25,28 +25,28 @@
     },
     {
       "surface": "לקדש",
-      "gloss": "ukungcwatyiswa kolwasiwazi kwangehashe obungcwele"
+      "gloss": "ukungcwelelisa"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ulwasiwazi (iintsuku zokuphumla)"
+      "marks": "usuku lweSabhatha"
     },
     {
       "surface": "יום",
-      "gloss": "iintsuku zokuphumla"
+      "gloss": "usuku"
     },
     {
       "surface": "השבת",
-      "gloss": "ngehashe obungcwele"
+      "gloss": "lweSabhatha"
     },
     {
       "surface": "ולבלתי",
-      "gloss": "ukwenza"
+      "gloss": "nokungathwali"
     },
     {
       "surface": "שאת",
-      "gloss": "ukwenza umthwalo"
+      "gloss": "ukuthwala"
     },
     {
       "surface": "משא",
@@ -54,7 +54,7 @@
     },
     {
       "surface": "ובא",
-      "gloss": "nokungena"
+      "gloss": "nokungangeni"
     },
     {
       "surface": "בשערי",
@@ -66,15 +66,15 @@
     },
     {
       "surface": "ביום",
-      "gloss": "ngeentsuku zokuphumla"
+      "gloss": "ngosuku"
     },
     {
       "surface": "השבת",
-      "gloss": "ngehashe obungcwele"
+      "gloss": "lweSabhatha"
     },
     {
       "surface": "והצתי",
-      "gloss": "ndiza kuvuthelisa"
+      "gloss": "ndiza kuvuthaza"
     },
     {
       "surface": "אש",
@@ -82,15 +82,15 @@
     },
     {
       "surface": "בשעריה",
-      "gloss": "emasangweni alo"
+      "gloss": "emasangweni ayo"
     },
     {
       "surface": "ואכלה",
-      "gloss": "uza kudla"
+      "gloss": "uze utya"
     },
     {
       "surface": "ארמנות",
-      "gloss": "iindlwane"
+      "gloss": "iinqaba"
     },
     {
       "surface": "ירושלם",
@@ -98,13 +98,13 @@
     },
     {
       "surface": "ולא",
-      "gloss": "hayi"
+      "gloss": "uthe"
     },
     {
       "surface": "תכבה",
-      "gloss": "naphelelwa"
+      "gloss": "ungacishwa"
     }
   ],
-  "timestamp": "2026-09-18T12:08:21.247396245Z",
+  "timestamp": "2026-09-19T13:59:28.605119021Z",
   "model": "glm-5.3"
 }

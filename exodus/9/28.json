@@ -5,7 +5,7 @@
   "book": "exodus",
   "lang": "xh",
   "chapter": 9,
-  "translation": "Thandazani kuYahwe, kuba sele kwanele ukungabi nako izandi zoElohim nomkhenkce; ndiza kunivumela nihambe, ningeke niphinde nime.",
+  "translation": "“Thandazani kuYahwe, kuba kwanele ukubakho kweendwane zikaElohim nomkhenkce; ndiza kunithumela nina ⟨את⟩, ningayiphindi nime.”",
   "tokens": [
     {
       "surface": "העתירו",
@@ -17,23 +17,23 @@
     },
     {
       "surface": "יהוה",
-      "gloss": "Yahwe"
+      "gloss": "uYahwe"
     },
     {
       "surface": "ורב",
-      "gloss": "kwanele"
+      "gloss": "kuba kwanele"
     },
     {
       "surface": "מהית",
-      "gloss": "ukungabi nako"
+      "gloss": "ukubakho"
     },
     {
       "surface": "קלת",
-      "gloss": "izandi"
+      "gloss": "iindwane"
     },
     {
       "surface": "אלהים",
-      "gloss": "zoElohim"
+      "gloss": "zikaElohim"
     },
     {
       "surface": "וברד",
@@ -41,26 +41,26 @@
     },
     {
       "surface": "ואשלחה",
-      "gloss": "ndiza kunivumela nihambe"
+      "gloss": "ndiza kunithumela"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨אתכם⟩",
-      "marks": "nivumela nihambe (nin)"
+      "gloss": "⟨את⟩",
+      "marks": "nina"
     },
     {
       "surface": "ולא",
-      "gloss": "ningeke"
+      "gloss": "ningayiphindi"
     },
     {
       "surface": "תספון",
-      "gloss": "niphinde"
+      "gloss": ""
     },
     {
       "surface": "לעמד",
       "gloss": "nime"
     }
   ],
-  "timestamp": "2026-09-18T05:56:33.988407557Z",
+  "timestamp": "2026-09-19T13:53:00.276003813Z",
   "model": "glm-5.3"
 }

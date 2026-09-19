@@ -5,16 +5,16 @@
   "book": "leviticus",
   "lang": "xh",
   "chapter": 4,
-  "translation": "Yonke amafutha ayo uza kuwasusa kuyo, awtshise kwi-altari.",
+  "translation": "Kwaye uza kutshatha ⟨את⟩ wonke amafutha ayo avela kuyo, awutshise etywalweni.",
   "tokens": [
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "yonke amafutha ayo"
+      "marks": "wonke amafutha ayo"
     },
     {
       "surface": "כל",
-      "gloss": "yonke"
+      "gloss": "wonke"
     },
     {
       "surface": "חלבו",
@@ -22,21 +22,21 @@
     },
     {
       "surface": "ירים",
-      "gloss": "uza kuwasusa"
+      "gloss": "uza kutshatha"
     },
     {
       "surface": "ממנו",
-      "gloss": "kuyo"
+      "gloss": "avela kuyo"
     },
     {
       "surface": "והקטיר",
-      "gloss": "awtshise"
+      "gloss": "awutshise"
     },
     {
       "surface": "המזבחה",
-      "gloss": "kwi-altari"
+      "gloss": "etywalweni"
     }
   ],
-  "timestamp": "2026-09-18T06:35:57.880944949Z",
+  "timestamp": "2026-09-19T14:06:56.962410253Z",
   "model": "glm-5.3"
 }

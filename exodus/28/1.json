@@ -5,24 +5,24 @@
   "book": "exodus",
   "lang": "xh",
   "chapter": 28,
-  "translation": "Wena ke, yisela kukho ⟨את⟩ u-Aharon umnakweno, noonyana bakhe naye, ephakathi kwabantwana bakwaIsrayeli, ukuba asebenzele njengesibingeleli kum — u-Aharon, uNadabhu, noAbhihu, u-Elazara, noIthamara, oonyana baka-Aharon.",
+  "translation": "Wena, yisa eduze lwakho ⟨את⟩ u-Aharon umnakwenu, noonyana bakhe naye, ephakathi kwabantwana bakwaYisra'eli, ukuba abe ngumkhonzi wam oyingcwele — u-Aharon, uNadabhu no-Abhihu, u-Elazari no-Ithamari, oonyana buka-Aharon.",
   "tokens": [
     {
       "surface": "ואתה",
-      "gloss": "wena"
+      "gloss": "Wena"
     },
     {
       "surface": "הקרב",
-      "gloss": "yisela kukho"
+      "gloss": "yisa eduze"
     },
     {
       "surface": "אליך",
-      "gloss": "kukho"
+      "gloss": "kuwe"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "u-Aharon"
+      "marks": "u-Aharon umnakwenu"
     },
     {
       "surface": "אהרן",
@@ -30,7 +30,7 @@
     },
     {
       "surface": "אחיך",
-      "gloss": "umnakweno"
+      "gloss": "umnakwenu"
     },
     {
       "surface": "ואת",
@@ -55,15 +55,15 @@
     },
     {
       "surface": "ישראל",
-      "gloss": "bakwaIsrayeli"
+      "gloss": "bakwaYisra'eli"
     },
     {
       "surface": "לכהנו",
-      "gloss": "njengesibingeleli"
+      "gloss": "ukuba abe ngumkhonzi oyingcwele"
     },
     {
       "surface": "לי",
-      "gloss": "kum"
+      "gloss": "wam"
     },
     {
       "surface": "אהרן",
@@ -75,16 +75,15 @@
     },
     {
       "surface": "ואביהוא",
-      "gloss": "noAbhihu"
+      "gloss": "no-Abhihu"
     },
     {
       "surface": "אלעזר",
-      "gloss": "u-Elazara"
+      "gloss": "u-Elazari"
     },
     {
-      "surface": "ויתמר",
-      "gloss": "noIthamara",
-      "marks": ""
+      "surface": "ואיתמר",
+      "gloss": "no-Ithamari"
     },
     {
       "surface": "בני",
@@ -92,9 +91,9 @@
     },
     {
       "surface": "אהרן",
-      "gloss": "baka-Aharon"
+      "gloss": "buka-Aharon"
     }
   ],
-  "timestamp": "2026-09-18T06:15:56.195379071Z",
+  "timestamp": "2026-09-19T13:52:47.430014652Z",
   "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "leviticus",
   "lang": "xh",
   "chapter": 8,
-  "translation": "Wathabatha ⟨את⟩ amafutha, no-⟨את⟩ umthondo wesithundu, no-⟨את⟩ onke amafutha asehlabathini lezi zitho zangaphakathi, no-⟨את⟩ isiqingatha sephephu lesibindi, no-⟨את⟩ izintsoye ezimbini ngonoboya bazo obunamafutha, no-⟨את⟩ ulusu lwasemva, nesiphongo sangasekunene;",
+  "translation": "Wathabatha uMoses ⟨את⟩ ulunothi no⟨את⟩ umsila wolunothi no⟨את⟩ lonke ulunothi olukwisu, no⟨את⟩ icala lekhibidha, no⟨את⟩ iintsovu ezimbini no⟨את⟩ ulunothi lwazo, no⟨את⟩ umlenze wasekunene.",
   "tokens": [
     {
       "surface": "ויקח",
@@ -14,63 +14,63 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "amafutha"
+      "marks": "ulunothi"
     },
     {
       "surface": "החלב",
-      "gloss": "amafutha"
+      "gloss": "ulunothi"
     },
     {
       "surface": "ואת",
-      "gloss": "no-⟨את⟩",
-      "marks": "umthondo wesithundu"
+      "gloss": "no⟨את⟩",
+      "marks": "umsila wolunothi"
     },
     {
       "surface": "האליה",
-      "gloss": "umthondo wesithundu"
+      "gloss": "umsila wolunothi"
     },
     {
       "surface": "ואת",
-      "gloss": "no-⟨את⟩",
-      "marks": "onke amafutha"
+      "gloss": "no⟨את⟩",
+      "marks": "lonke ulunothi"
     },
     {
       "surface": "כל",
-      "gloss": "onke"
+      "gloss": "lonke"
     },
     {
       "surface": "החלב",
-      "gloss": "amafutha"
+      "gloss": "ulunothi"
     },
     {
       "surface": "אשר",
-      "gloss": "okusehlabathini lezi zitho"
+      "gloss": "olu"
     },
     {
       "surface": "על",
-      "gloss": "ehlabathini lezi zitho"
+      "gloss": "kwi"
     },
     {
       "surface": "הקרב",
-      "gloss": "izi zitho zangaphakathi"
+      "gloss": "isu"
     },
     {
       "surface": "ואת",
-      "gloss": "no-⟨את⟩",
-      "marks": "isiqingatha sephephu lesibindi"
+      "gloss": "no⟨את⟩",
+      "marks": "icala lekhibidha"
     },
     {
       "surface": "יתרת",
-      "gloss": "isiqingatha sephephu lesibindi"
+      "gloss": "icala"
     },
     {
       "surface": "הכבד",
-      "gloss": "lesibindi"
+      "gloss": "lekhibidha"
     },
     {
       "surface": "ואת",
-      "gloss": "no-⟨את⟩",
-      "marks": "izintsoye ezimbini"
+      "gloss": "no⟨את⟩",
+      "marks": "iintsovu ezimbini"
     },
     {
       "surface": "שתי",
@@ -78,31 +78,31 @@
     },
     {
       "surface": "הכלית",
-      "gloss": "izintsoye"
+      "gloss": "iintsovu"
     },
     {
       "surface": "ואת",
-      "gloss": "no-⟨את⟩",
-      "marks": "amafutha azo"
+      "gloss": "no⟨את⟩",
+      "marks": "ulunothi lwazo"
     },
     {
       "surface": "חלבהן",
-      "gloss": "amafutha azo"
+      "gloss": "ulunothi lwazo"
     },
     {
       "surface": "ואת",
-      "gloss": "no-⟨את⟩",
-      "marks": "usiphongo sangasekunene"
+      "gloss": "no⟨את⟩",
+      "marks": "umlenze wasekunene"
     },
     {
       "surface": "שוק",
-      "gloss": "usiphongo"
+      "gloss": "umlenze"
     },
     {
       "surface": "הימין",
-      "gloss": "usangasekunene"
+      "gloss": "wasekunene"
     }
   ],
-  "timestamp": "2026-09-18T20:19:20.840254739Z",
+  "timestamp": "2026-09-19T14:07:07.938293873Z",
   "model": "glm-5.3"
 }

@@ -5,28 +5,28 @@
   "book": "1-chronicles",
   "lang": "xh",
   "chapter": 6,
-  "translation": "Kwaye banika bona ⟨את⟩ iilwandle-zezi zokubalekela, ⟨את⟩ uShekhem nemida yayo entabeni yakwa-Efrayim, kunye ⟨את⟩ neGezer ⟨את⟩ nemida yayo.",
+  "translation": "Babanika ii dolophu zokubalekela kwindawo ekhuselekileyo: uShekhem kunye nemiqolo yayo esilitye se-Efrayim, negeGzere kunye nemiqolo yayo.",
   "tokens": [
     {
       "surface": "ויתנו",
-      "gloss": "banika"
+      "gloss": "babanika"
     },
     {
       "surface": "להם",
-      "gloss": "bona"
+      "gloss": "kubo"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "iilwandle-zezi zokubalekela"
+      "marks": "ii dolophu zokubalekela kwindawo ekhuselekileyo"
     },
     {
       "surface": "ערי",
-      "gloss": "iilwandle-zezi"
+      "gloss": "ii dolophu"
     },
     {
       "surface": "המקלט",
-      "gloss": "zokubalekela"
+      "gloss": "zokubalekela kwindawo ekhuselekileyo"
     },
     {
       "surface": "את",
@@ -39,40 +39,40 @@
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
-      "marks": "nemida yayo"
+      "gloss": "kunye ne-⟨את⟩",
+      "marks": "imiqolo yayo"
     },
     {
       "surface": "מגרשיה",
-      "gloss": "nemida yayo"
+      "gloss": "imiqolo yayo"
     },
     {
       "surface": "בהר",
-      "gloss": "entabeni"
+      "gloss": "esilitye"
     },
     {
       "surface": "אפרים",
-      "gloss": "yakwa-Efrayim"
+      "gloss": "se-Efrayim"
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
-      "marks": "iGezer"
+      "gloss": "kunye ne-⟨את⟩",
+      "marks": "igeGzere"
     },
     {
       "surface": "גזר",
-      "gloss": "iGezer"
+      "gloss": "igeGzere"
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
-      "marks": "nemida yayo"
+      "gloss": "kunye ne-⟨את⟩",
+      "marks": "imiqolo yayo"
     },
     {
       "surface": "מגרשיה",
-      "gloss": "nemida yayo"
+      "gloss": "imiqolo yayo"
     }
   ],
-  "timestamp": "2026-09-18T16:52:33.125425876Z",
+  "timestamp": "2026-09-19T13:41:00.897989882Z",
   "model": "glm-5.3"
 }

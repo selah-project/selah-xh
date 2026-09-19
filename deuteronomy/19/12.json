@@ -5,19 +5,19 @@
   "book": "deuteronomy",
   "lang": "xh",
   "chapter": 19,
-  "translation": "abadala bedolophu yakhe basuke bamthabathe apho, bamnika ⟨את⟩ esandleni somhlawuli wegazi, afe.",
+  "translation": "Ke oo-mphefumleli besixeko sakhe bayathuma, bamthabathe apho, bamnika ⟨את⟩ yena esandleni somhloli wegazi, afe.",
   "tokens": [
     {
       "surface": "ושלחו",
-      "gloss": "basuke"
+      "gloss": "bayathuma"
     },
     {
       "surface": "זקני",
-      "gloss": "abadala"
+      "gloss": "oo-mphefumleli"
     },
     {
       "surface": "עירו",
-      "gloss": "bedolophu yakhe"
+      "gloss": "besixeko sakhe"
     },
     {
       "surface": "ולקחו",
@@ -39,15 +39,15 @@
     {
       "surface": "אתו",
       "gloss": "⟨את⟩",
-      "marks": "yena"
+      "marks": "yena esandleni somhloli wegazi"
     },
     {
       "surface": "ביד",
-      "gloss": "esandleni sa-"
+      "gloss": "esandleni"
     },
     {
       "surface": "גאל",
-      "gloss": "somhlawuli"
+      "gloss": "somhloli"
     },
     {
       "surface": "הדם",
@@ -58,6 +58,6 @@
       "gloss": "afe"
     }
   ],
-  "timestamp": "2026-09-18T08:11:27.929711619Z",
+  "timestamp": "2026-09-19T13:49:16.102290489Z",
   "model": "glm-5.3"
 }

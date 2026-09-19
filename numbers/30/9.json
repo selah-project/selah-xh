@@ -5,27 +5,27 @@
   "book": "numbers",
   "lang": "xh",
   "chapter": 30,
-  "translation": "Kananjalo ukuba ngosuku olwakhe lokuva, umyeni wakhe wamvala yena, waphula ⟨את⟩ isithembiso sakhe ese phezu kwakhe, nangolu tsho olungengcali lwezindebe zakhe, olawayenzelayo, awayenzele inefeshi yakhe, uYahwe uza kumxolela.",
+  "translation": "Kodwa ukuba ngosuku olumdla anetha indoda imyalela yena, waphula ⟨את⟩ isithembiso sayo esiphezu kwakhe, nange⟨את⟩ ilizwi eliphuphuthumayo lemileve yakhe enamenzelwe umphefumlo wakhe; uYahwe uza kumxolela yena.",
   "tokens": [
     {
       "surface": "ואם",
-      "gloss": "Kananjalo ukuba"
+      "gloss": "Kodwa ukuba"
     },
     {
       "surface": "ביום",
-      "gloss": "ngosuku"
+      "gloss": "ngosuku olumdla"
     },
     {
       "surface": "שמע",
-      "gloss": "olwakhe lokuva"
+      "gloss": "anetha"
     },
     {
       "surface": "אישה",
-      "gloss": "umyeni wakhe"
+      "gloss": "indoda"
     },
     {
       "surface": "יניא",
-      "gloss": "wamvala"
+      "gloss": "imyalela"
     },
     {
       "surface": "אותה",
@@ -39,48 +39,48 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "isithembiso sakhe"
+      "marks": "isithembiso sayo"
     },
     {
       "surface": "נדרה",
-      "gloss": "isithembiso sakhe"
+      "gloss": "isithembiso sayo"
     },
     {
       "surface": "אשר",
-      "gloss": "ese"
+      "gloss": "esiphezu"
     },
     {
       "surface": "עליה",
-      "gloss": "phezu kwakhe"
+      "gloss": "kwakhe"
     },
     {
       "surface": "ואת",
       "gloss": "nange⟨את⟩",
-      "marks": "utsho olungengcali lwezindebe zakhe"
+      "marks": "ilizwi eliphuphuthumayo lemileve yakhe"
     },
     {
       "surface": "מבטא",
-      "gloss": "utsho olungengcali"
+      "gloss": "ilizwi eliphuphuthumayo"
     },
     {
       "surface": "שפתיה",
-      "gloss": "lwezindebe zakhe"
+      "gloss": "lemileve yakhe"
     },
     {
       "surface": "אשר",
-      "gloss": "ol"
+      "gloss": "enamenzelwe"
     },
     {
       "surface": "אסרה",
-      "gloss": "awayenzelayo"
+      "gloss": "enamenzelwe"
     },
     {
       "surface": "על",
-      "gloss": "enzele"
+      "gloss": "phezu"
     },
     {
       "surface": "נפשה",
-      "gloss": "inefeshi yakhe"
+      "gloss": "kumphefumlo wakhe"
     },
     {
       "surface": "ויהוה",
@@ -95,6 +95,6 @@
       "gloss": "yena"
     }
   ],
-  "timestamp": "2026-09-18T07:44:08.106878946Z",
+  "timestamp": "2026-09-19T14:09:12.733071781Z",
   "model": "glm-5.3"
 }

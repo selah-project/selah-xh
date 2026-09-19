@@ -5,7 +5,7 @@
   "book": "deuteronomy",
   "lang": "xh",
   "chapter": 31,
-  "translation": "UMoshe wabizela uYehoshuwa, wathi kuye emehlweni zoonke amaSirayeli: “Yiba strong (mandla) kwaye yiba strong-hearted, kuba wena uza kungena neli qela ⟨את⟩ kumhlaba oYahwe wawuthembisa kooyise ukubanika wona; kwaye wena uza kubanika wona ulifa.”",
+  "translation": "UMoshe wabizela uYehoshuwa, wathi kuye emehlaba kuwo onke akwa-Israel: “Yiba namandla, yiba nesibindi, kuba wena uza kungena ⟨את⟩ neli qela labantu kumhlaba owafungiselwa nguYahwe ooyihlo babo ukubanika wona; yena uza kubenza ukuba bambambele ilifa ⟨את⟩-bona.”",
   "tokens": [
     {
       "surface": "ויקרא",
@@ -29,24 +29,23 @@
     },
     {
       "surface": "לעיני",
-      "gloss": "emehlweni"
+      "gloss": "emehlaba"
     },
     {
       "surface": "כל",
-      "gloss": "zoonke"
+      "gloss": "kuwo onke"
     },
     {
       "surface": "ישראל",
-      "gloss": "amaSirayeli"
+      "gloss": "akwa-Israel"
     },
     {
       "surface": "חזק",
-      "gloss": "yiba strong (mandla)"
+      "gloss": "yiba namandla"
     },
     {
-      "surface": "ויאמר",
-      "gloss": "yiba strong-hearted",
-      "note": ""
+      "surface": "ואמץ",
+      "gloss": "yiba nesibindi"
     },
     {
       "surface": "כי",
@@ -63,11 +62,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "eli qela"
+      "marks": "neli qela labantu"
     },
     {
       "surface": "העם",
-      "gloss": "eli qela"
+      "gloss": "eli qela labantu"
     },
     {
       "surface": "הזה",
@@ -83,42 +82,42 @@
     },
     {
       "surface": "אשר",
-      "gloss": "o-"
+      "gloss": "owo-"
     },
     {
       "surface": "נשבע",
-      "gloss": "wawuthembisa"
+      "gloss": "wafungiselwa"
     },
     {
       "surface": "יהוה",
-      "gloss": "uYahwe"
+      "gloss": "nguYahwe"
     },
     {
       "surface": "לאבתם",
-      "gloss": "kooyise"
+      "gloss": "ooyihlo babo"
     },
     {
       "surface": "לתת",
-      "gloss": "ukunika"
+      "gloss": "ukubanika"
     },
     {
       "surface": "להם",
-      "gloss": "bona"
+      "gloss": "wona"
     },
     {
       "surface": "ואתה",
-      "gloss": "kwaye wena"
+      "gloss": "yena"
     },
     {
       "surface": "תנחילנה",
-      "gloss": "uza kubanika wona ulifa"
+      "gloss": "uza kubenza ukuba bambambele ilifa"
     },
     {
       "surface": "אותם",
-      "gloss": "⟨את⟩",
-      "marks": "eli qela"
+      "gloss": "⟨את⟩-bona",
+      "marks": "bona (eli qela labantu)"
     }
   ],
-  "timestamp": "2026-09-18T17:26:03.451331529Z",
+  "timestamp": "2026-09-19T13:49:53.790792136Z",
   "model": "glm-5.3"
 }

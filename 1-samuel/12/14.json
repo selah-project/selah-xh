@@ -5,11 +5,11 @@
   "book": "1-samuel",
   "lang": "xh",
   "chapter": 12,
-  "translation": "Ukuba niyamoyika ⟨את⟩ uYahwe, nimkhonza, nilalele ilizwi lakhe, ningaphazamisi ⟨את⟩ umlomo kaYahwe, niya kuba nani nina nakwi⟨inkosi⟩ ebusa phezu kwenu, nilandela ngasemva koYahwe uElohim wenu.",
+  "translation": "Ukuba niyamoyika ⟨את⟩ uYahwe, nimkhonza ⟨את⟩ yena, nilalele ilizwi lakhe, ningaphikisi ⟨את⟩ mlomo kaYahwe — uza kuba nina nakanye inkosi ebusa phezu kwenu, emva kukaYahwe uElohim wenu.",
   "tokens": [
     {
       "surface": "אם",
-      "gloss": "Ukuba"
+      "gloss": "ukuba"
     },
     {
       "surface": "תיראו",
@@ -30,7 +30,8 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩"
+      "gloss": "⟨את⟩",
+      "marks": "yena"
     },
     {
       "surface": "ושמעתם",
@@ -42,20 +43,20 @@
     },
     {
       "surface": "ולא",
-      "gloss": "ninga"
+      "gloss": "hayi"
     },
     {
       "surface": "תמרו",
-      "gloss": "phazamisi"
+      "gloss": "niphikise"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "umlomo kaYahwe"
+      "marks": "mlomo"
     },
     {
       "surface": "פי",
-      "gloss": "umlomo"
+      "gloss": "mlomo"
     },
     {
       "surface": "יהוה",
@@ -63,11 +64,11 @@
     },
     {
       "surface": "והיתם",
-      "gloss": "niya kuba"
+      "gloss": "uza kuba"
     },
     {
       "surface": "גם",
-      "gloss": "nani"
+      "gloss": "nabo"
     },
     {
       "surface": "אתם",
@@ -75,7 +76,7 @@
     },
     {
       "surface": "וגם",
-      "gloss": "nakwi"
+      "gloss": "nakanye"
     },
     {
       "surface": "המלך",
@@ -83,7 +84,7 @@
     },
     {
       "surface": "אשר",
-      "gloss": "ebusa"
+      "gloss": "obusa"
     },
     {
       "surface": "מלך",
@@ -95,7 +96,7 @@
     },
     {
       "surface": "אחר",
-      "gloss": "ngasemva ko"
+      "gloss": "emva kwa-"
     },
     {
       "surface": "יהוה",
@@ -106,6 +107,6 @@
       "gloss": "uElohim wenu"
     }
   ],
-  "timestamp": "2026-09-18T20:17:01.262027898Z",
+  "timestamp": "2026-09-19T13:42:48.220380760Z",
   "model": "glm-5.3"
 }

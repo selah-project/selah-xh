@@ -5,15 +5,15 @@
   "book": "1-kings",
   "lang": "xh",
   "chapter": 20,
-  "translation": "Kwaye uBen-Hadadi, inkosi yaseAram, waqokelela ⟨את⟩ onke amabutho akhe; kwaye amashumi amathathu anesibini ookumkani babengasesandleni sakhe, neehashi neenqwelo zempi; wanyuka, wazinzelela iShomroni, walwa nayo.",
+  "translation": "UBen-Hadad, inkosi yaseAram, waqokelela ⟨את⟩ onke amabala akhe, aze amashumi amathathu anesibini ookumkani babe ⟨את⟩ ngaye, kunye neehashe neenkosi ezilwelwayo; wenyuka waya wayoza iShomeroni, waza walwa nayo.",
   "tokens": [
     {
       "surface": "ובן",
-      "gloss": "Kwaye uBen-Hadadi"
+      "gloss": "U-"
     },
     {
       "surface": "הדד",
-      "gloss": "uBen-Hadadi"
+      "gloss": "Ben-Hadad"
     },
     {
       "surface": "מלך",
@@ -30,7 +30,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "onke amabutho akhe"
+      "marks": "onke amabala akhe"
     },
     {
       "surface": "כל",
@@ -38,11 +38,11 @@
     },
     {
       "surface": "חילו",
-      "gloss": "amabutho akhe"
+      "gloss": "amabala akhe"
     },
     {
       "surface": "ושלשים",
-      "gloss": "kwaye amashumi amathathu"
+      "gloss": "amashumi amathathu"
     },
     {
       "surface": "ושנים",
@@ -54,32 +54,31 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ kanye naye",
-      "marks": "ookumkani abangasesandleni sakhe"
+      "gloss": "⟨את⟩ ngaye"
     },
     {
       "surface": "וסוס",
-      "gloss": "neehashi"
+      "gloss": "kunye neehashe"
     },
     {
       "surface": "ורכב",
-      "gloss": "neenqwelo zempi"
+      "gloss": "neenkosi ezilwelwayo"
     },
     {
       "surface": "ויעל",
-      "gloss": "wanyuka"
+      "gloss": "wenyuka"
     },
     {
       "surface": "ויצר",
-      "gloss": "wazinzelela"
+      "gloss": "wayoza"
     },
     {
       "surface": "על",
-      "gloss": "phezu kwe-"
+      "gloss": "kwi-"
     },
     {
       "surface": "שמרון",
-      "gloss": "iShomroni"
+      "gloss": "iShomeroni"
     },
     {
       "surface": "וילחם",
@@ -90,6 +89,6 @@
       "gloss": "nayo"
     }
   ],
-  "timestamp": "2026-09-18T10:33:51.292022438Z",
+  "timestamp": "2026-09-19T14:12:20.537223139Z",
   "model": "glm-5.3"
 }

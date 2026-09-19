@@ -5,11 +5,11 @@
   "book": "2-samuel",
   "lang": "xh",
   "chapter": 21,
-  "translation": "UDawidi wahamba wathabatha amathambo kaShawuli kunye namathambo kaYehonatan unyana wakhe, evela ku⟨את⟩ amadoda aseYavesh yaGiladi, abawebileyo ⟨את⟩ zona eKhadini leBeth-Shan, apho babexhombe khona amaFilisti, ngelokubetha amaFilisti ⟨את⟩ uShawuli eGilboa.",
+  "translation": "Waya uDawidi, wathabatha ⟨את⟩ amathambo kaShawuli, no⟨את⟩ amathambo kaYehonathana unyana wakhe, kubantu baseYaveshi yaseGileyadi, abo babeweba ⟨izidumbu zawo⟩ kwisikwere saseBethe-shani, apho iFilisthi zazizitsalela phezulu, ngomhla iFilisthi ezabetha ⟨את⟩ uShawuli eGilbowa.",
   "tokens": [
     {
       "surface": "וילך",
-      "gloss": "wahamba"
+      "gloss": "Waya"
     },
     {
       "surface": "דוד",
@@ -34,7 +34,7 @@
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
+      "gloss": "no⟨את⟩",
       "marks": "amathambo"
     },
     {
@@ -43,27 +43,27 @@
     },
     {
       "surface": "יהונתן",
-      "gloss": "kaYehonatan"
+      "gloss": "kaYehonathana"
     },
     {
       "surface": "בנו",
-      "gloss": "unyana"
+      "gloss": "unyana wakhe"
     },
     {
       "surface": "מאת",
-      "gloss": "evela ku⟨את⟩"
+      "gloss": "ku ⟨את⟩"
     },
     {
       "surface": "בעלי",
-      "gloss": "amadoda"
+      "gloss": "abantu baseYaveshi yaseGileyadi"
     },
     {
       "surface": "יביש",
-      "gloss": "aseYavesh"
+      "gloss": "abantu baseYaveshi yaseGileyadi"
     },
     {
       "surface": "גלעד",
-      "gloss": "yaGiladi"
+      "gloss": "abantu baseYaveshi yaseGileyadi"
     },
     {
       "surface": "אשר",
@@ -71,24 +71,24 @@
     },
     {
       "surface": "גנבו",
-      "gloss": "abawebileyo"
+      "gloss": "babeweba"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩ zona",
-      "marks": "amathambo"
+      "gloss": "⟨את⟩ izidumbu zawo",
+      "marks": "izidumbu zawo"
     },
     {
       "surface": "מרחב",
-      "gloss": "eKhadini"
+      "gloss": "kwisikwere"
     },
     {
       "surface": "בית",
-      "gloss": "iBeth-"
+      "gloss": "saseBethe-shani"
     },
     {
       "surface": "שן",
-      "gloss": "-Shan"
+      "gloss": "saseBethe-shani"
     },
     {
       "surface": "אשר",
@@ -96,27 +96,27 @@
     },
     {
       "surface": "תלום",
-      "gloss": "babexhombe"
+      "gloss": "zazizitsalela phezulu"
     },
     {
       "surface": "שם",
-      "gloss": "khona"
+      "gloss": "apho"
     },
     {
       "surface": "הפלשתים",
-      "gloss": "amaFilisti"
+      "gloss": "iFilisthi"
     },
     {
       "surface": "ביום",
-      "gloss": "ngelokuba"
+      "gloss": "ngomhla"
     },
     {
       "surface": "הכות",
-      "gloss": "ukubetha"
+      "gloss": "ezabetha"
     },
     {
       "surface": "פלשתים",
-      "gloss": "amaFilisti"
+      "gloss": "iFilisthi"
     },
     {
       "surface": "את",
@@ -129,9 +129,9 @@
     },
     {
       "surface": "בגלבע",
-      "gloss": "eGilboa"
+      "gloss": "eGilbowa"
     }
   ],
-  "timestamp": "2026-09-18T10:03:16.568199561Z",
+  "timestamp": "2026-09-19T13:49:06.971701982Z",
   "model": "glm-5.3"
 }

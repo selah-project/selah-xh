@@ -5,7 +5,7 @@
   "book": "ezekiel",
   "lang": "xh",
   "chapter": 4,
-  "translation": "Wena thata ngokwakho iphenyane yentsimbi, yibeke njengodonga lwentsimbi phakathi kwakho nasedolophini, ulungise ubuso bakho bukhangele kuyo, yaye iba sikusingathi, umsingathe. Yona sisiphawuli kanjalo sokhaya lwakwaSirayeli.",
+  "translation": "Wena, thathe iplanysi yentsimbi, uyibekhe ⟨את⟩ njengodonga lentsimbi phakathi kwakho nasedolophini, ulungise ⟨את⟩ ubuso bakho buke kuyo; iya kubekwa ekulingweni, wena ulinga ngayo: yiphawu lokubantu baseYisrayeli.",
   "tokens": [
     {
       "surface": "ואתה",
@@ -13,15 +13,15 @@
     },
     {
       "surface": "קח",
-      "gloss": "thata"
+      "gloss": "thathе"
     },
     {
       "surface": "לך",
-      "gloss": "ngokwakho"
+      "gloss": "yithabathe"
     },
     {
       "surface": "מחבת",
-      "gloss": "iphenyane"
+      "gloss": "iplanysi"
     },
     {
       "surface": "ברזל",
@@ -29,12 +29,12 @@
     },
     {
       "surface": "ונתתה",
-      "gloss": "yibeke"
+      "gloss": "uyibekhe"
     },
     {
       "surface": "אותה",
       "gloss": "⟨את⟩",
-      "marks": "yibeke njengodonga"
+      "marks": "njengodonga lentsimbi"
     },
     {
       "surface": "קיר",
@@ -42,7 +42,7 @@
     },
     {
       "surface": "ברזל",
-      "gloss": "lwentsimbi"
+      "gloss": "lentsimbi"
     },
     {
       "surface": "בינך",
@@ -50,11 +50,11 @@
     },
     {
       "surface": "ובין",
-      "gloss": "nasedolophini"
+      "gloss": "nase"
     },
     {
       "surface": "העיר",
-      "gloss": "idolophu"
+      "gloss": "dolophini"
     },
     {
       "surface": "והכינתה",
@@ -71,41 +71,41 @@
     },
     {
       "surface": "אליה",
-      "gloss": "bukhangele kuyo"
+      "gloss": "buke kuyo"
     },
     {
       "surface": "והיתה",
-      "gloss": "yaye iba"
+      "gloss": "iya kubekwa"
     },
     {
       "surface": "במצור",
-      "gloss": "sikusingathi"
+      "gloss": "ekulingweni"
     },
     {
       "surface": "וצרת",
-      "gloss": "umsingathe"
+      "gloss": "ulinga"
     },
     {
       "surface": "עליה",
-      "gloss": "kuyo"
+      "gloss": "ngayo"
     },
     {
       "surface": "אות",
-      "gloss": "sisiphawuli"
+      "gloss": "yiphawu"
     },
     {
       "surface": "היא",
-      "gloss": "kanjalo"
+      "gloss": "lo"
     },
     {
       "surface": "לבית",
-      "gloss": "ukhaya lwakwa"
+      "gloss": "kubantu base-"
     },
     {
       "surface": "ישראל",
-      "gloss": "Sirayeli"
+      "gloss": "Yisrayeli"
     }
   ],
-  "timestamp": "2026-09-18T12:51:33.709244710Z",
+  "timestamp": "2026-09-19T13:55:28.017196405Z",
   "model": "glm-5.3"
 }

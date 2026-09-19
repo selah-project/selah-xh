@@ -5,19 +5,19 @@
   "book": "1-samuel",
   "lang": "xh",
   "chapter": 1,
-  "translation": "Kwathi ekupheleni kwamax ekseni—emva kweentsuku ezingunobumba—wakhulelwa uHanna, wazala unyana, wambiza ngegama lakhe uShemueli, kuba kuYahwe ndimcele yena.",
+  "translation": "Kwathi ngokujikeleza kwamaxesha, uChannah wakhulelwa, wazala unyana, wabiza ⟨את⟩ igama lakhe ngokuShmueli, kuba kuYahwe ndamcela yena.",
   "tokens": [
     {
       "surface": "ויהי",
-      "gloss": "Kwathi"
+      "gloss": "kwathi"
     },
     {
       "surface": "לתקפות",
-      "gloss": "ekupheleni"
+      "gloss": "ngokujikeleza"
     },
     {
       "surface": "הימים",
-      "gloss": "kwamax ekseni"
+      "gloss": "kwamaxesha"
     },
     {
       "surface": "ותהר",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "חנה",
-      "gloss": "uHanna"
+      "gloss": "uChannah"
     },
     {
       "surface": "ותלד",
@@ -37,12 +37,12 @@
     },
     {
       "surface": "ותקרא",
-      "gloss": "wambiza ngegama"
+      "gloss": "wabiza"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "igama lakhe uShemueli"
+      "marks": "igama lakhe"
     },
     {
       "surface": "שמו",
@@ -50,7 +50,7 @@
     },
     {
       "surface": "שמואל",
-      "gloss": "uShemueli"
+      "gloss": "ngokuShmueli"
     },
     {
       "surface": "כי",
@@ -62,9 +62,9 @@
     },
     {
       "surface": "שאלתיו",
-      "gloss": "ndimcele yena"
+      "gloss": "ndamcela yena"
     }
   ],
-  "timestamp": "2026-09-18T09:13:35.929219911Z",
+  "timestamp": "2026-09-19T13:42:39.432843950Z",
   "model": "glm-5.3"
 }

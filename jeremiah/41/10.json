@@ -5,20 +5,20 @@
   "book": "jeremiah",
   "lang": "xh",
   "chapter": 41,
-  "translation": "Wathabatha ngokunyanzisa uYishmael ⟨את⟩ onke amasese abantu aba beye kwiMitspa, ⟨את⟩ iintombi zenkosi, nayo ⟨את⟩ onke abantu abasaliweyo kwiMitspa, aba uNevhuzaradan, intloko yabatabaxoki, ababethisele kuGedaliya unyana kaAhikamu; wabanyanzisa uYishmael unyana kaNetanya, wasuka waya ukudlula eya kubantwana bakaAmoni.",
+  "translation": "Wabathabatha ngenkonzo uYishmayeli ⟨את⟩ onke amasalela esizwe ababeMitspa, ⟨את⟩ iintombi zenkosi, nange⟨את⟩ onke abantu abasaleleyo eMitspa, abo uNevuzaradan, intloko yabatabuli, wawamisela ⟨את⟩ uGedaliya unyana ka-Ahikam phezu kwabo; wabathabatha ngenkonzo uYishmayeli unyana kaNetanya, waza wahamba wadlula kubantwana baka-Amon.",
   "tokens": [
     {
       "surface": "וישב",
-      "gloss": "wathabatha ngokunyanzisa"
+      "gloss": "wabathabatha ngenkonzo"
     },
     {
       "surface": "ישמעאל",
-      "gloss": "uYishmael"
+      "gloss": "uYishmayeli"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "onke amasese abantu"
+      "marks": "onke amasalela esizwe"
     },
     {
       "surface": "כל",
@@ -26,19 +26,19 @@
     },
     {
       "surface": "שארית",
-      "gloss": "amasese"
+      "gloss": "amasalela"
     },
     {
       "surface": "העם",
-      "gloss": "abantu"
+      "gloss": "esizwe"
     },
     {
       "surface": "אשר",
-      "gloss": "aba"
+      "gloss": "ababe"
     },
     {
       "surface": "במצפה",
-      "gloss": "kwiMitspa"
+      "gloss": "eMitspa"
     },
     {
       "surface": "את",
@@ -55,8 +55,8 @@
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
-      "marks": "onke abantu abasaliweyo"
+      "gloss": "nange⟨את⟩",
+      "marks": "onke abantu abasaleleyo"
     },
     {
       "surface": "כל",
@@ -68,23 +68,23 @@
     },
     {
       "surface": "הנשארים",
-      "gloss": "abasaliweyo"
+      "gloss": "abasaleleyo"
     },
     {
       "surface": "במצפה",
-      "gloss": "kwiMitspa"
+      "gloss": "eMitspa"
     },
     {
       "surface": "אשר",
-      "gloss": "aba"
+      "gloss": "abo"
     },
     {
       "surface": "הפקיד",
-      "gloss": "ababethisele"
+      "gloss": "wawamisela"
     },
     {
       "surface": "נבוזראדן",
-      "gloss": "uNevhuzaradan"
+      "gloss": "uNevuzaradan"
     },
     {
       "surface": "רב",
@@ -92,7 +92,7 @@
     },
     {
       "surface": "טבחים",
-      "gloss": "yabatabaxoki"
+      "gloss": "yabatabuli"
     },
     {
       "surface": "את",
@@ -109,15 +109,15 @@
     },
     {
       "surface": "אחיקם",
-      "gloss": "kaAhikamu"
+      "gloss": "ka-Ahikam"
     },
     {
       "surface": "וישבם",
-      "gloss": "wabanyanzisa"
+      "gloss": "wabathabatha ngenkonzo"
     },
     {
       "surface": "ישמעאל",
-      "gloss": "uYishmael"
+      "gloss": "uYishmayeli"
     },
     {
       "surface": "בן",
@@ -129,25 +129,25 @@
     },
     {
       "surface": "וילך",
-      "gloss": "waya"
+      "gloss": "wahamba"
     },
     {
       "surface": "לעבר",
-      "gloss": "ukudlula"
+      "gloss": "wadlula"
     },
     {
       "surface": "אל",
-      "gloss": "eya"
+      "gloss": "ku-"
     },
     {
       "surface": "בני",
-      "gloss": "kubantwana"
+      "gloss": "abantwana"
     },
     {
       "surface": "עמון",
-      "gloss": "bakaAmoni"
+      "gloss": "baka-Amon"
     }
   ],
-  "timestamp": "2026-09-18T20:18:39.184707999Z",
+  "timestamp": "2026-09-19T14:02:07.635628729Z",
   "model": "glm-5.3"
 }

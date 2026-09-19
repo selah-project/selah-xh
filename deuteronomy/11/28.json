@@ -5,11 +5,11 @@
   "book": "deuteronomy",
   "lang": "xh",
   "chapter": 11,
-  "translation": "nese siqalekiso, ukuba anisamameli kumiyalelo kaYahwe uElohim wenu, nisuka kwindlela endiniyalelayo namhlanje, ukuhamba emva koothixo abanye aniwazazangayo.",
+  "translation": "Nesiqalekiso, ukuba aniyi kumamela imiyalelo kaYahwe uElohim wenu, nithabathe ngaphandle komgwaqo endiniyalela ngawo ⟨את⟩ nina lelithuba, ukulandela oothixo abanye, enaningazi.",
   "tokens": [
     {
       "surface": "והקללה",
-      "gloss": "nese siqalekiso"
+      "gloss": "nesiqalekiso"
     },
     {
       "surface": "אם",
@@ -21,11 +21,11 @@
     },
     {
       "surface": "תשמעו",
-      "gloss": "anisamameli"
+      "gloss": "aniyi kumamela"
     },
     {
       "surface": "אל",
-      "gloss": "ku"
+      "gloss": "ku-"
     },
     {
       "surface": "מצות",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "יהוה",
-      "gloss": "uYahwe"
+      "gloss": "kaYahwe"
     },
     {
       "surface": "אלהיכם",
@@ -41,19 +41,19 @@
     },
     {
       "surface": "וסרתם",
-      "gloss": "nisuka"
+      "gloss": "nithabathe ngaphandle"
     },
     {
       "surface": "מן",
-      "gloss": "kwi"
+      "gloss": "kwa-"
     },
     {
       "surface": "הדרך",
-      "gloss": "indlela"
+      "gloss": "umgwaqo"
     },
     {
       "surface": "אשר",
-      "gloss": "endiniyalelayo"
+      "gloss": "owo"
     },
     {
       "surface": "אנכי",
@@ -61,24 +61,24 @@
     },
     {
       "surface": "מצוה",
-      "gloss": "ndiyalela"
+      "gloss": "ndiyayalela"
     },
     {
       "surface": "אתכם",
       "gloss": "⟨את⟩",
-      "marks": "ni — endiniyalelayo"
+      "marks": "nina (lelithuba)"
     },
     {
       "surface": "היום",
-      "gloss": "namhlanje"
+      "gloss": "lelithuba"
     },
     {
       "surface": "ללכת",
-      "gloss": "ukuhamba"
+      "gloss": "ukulandela"
     },
     {
       "surface": "אחרי",
-      "gloss": "emva"
+      "gloss": "ngemva kwa-"
     },
     {
       "surface": "אלהים",
@@ -90,17 +90,17 @@
     },
     {
       "surface": "אשר",
-      "gloss": "anawazazanga"
+      "gloss": "aba"
     },
     {
       "surface": "לא",
-      "gloss": "hayi"
+      "gloss": "angingazi"
     },
     {
       "surface": "ידעתם",
-      "gloss": "aniwazazanga"
+      "gloss": "niningazi"
     }
   ],
-  "timestamp": "2026-09-18T08:02:55.383748076Z",
+  "timestamp": "2026-09-19T13:49:20.638010918Z",
   "model": "glm-5.3"
 }

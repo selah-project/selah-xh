@@ -5,20 +5,20 @@
   "book": "song-of-songs",
   "lang": "xh",
   "chapter": 3,
-  "translation": "Ndifungisile ndini, amadodakazi aseYerushalayimi, ngeentsikama nangeentoke zasimthla: musa ukuvusa okanye ukuvuyisa ⟨את⟩ uthando de luthande.",
+  "translation": "Ndifungisile nina ⟨את⟩, amantombazana aseYerushalayimi, ngeerohane okanye ngeezimela zendle: musa ukuvusa, kananjalo musa ukusukumbisa ⟨את⟩ uthando de ludwe.",
   "tokens": [
     {
       "surface": "השבעתי",
-      "gloss": "Ndifungisile ndini"
+      "gloss": "Ndifungisile"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩",
-      "marks": "amadodakazi aseYerushalayimi"
+      "gloss": "⟨את⟩ nina",
+      "marks": "amantombazana aseYerushalayimi"
     },
     {
       "surface": "בנות",
-      "gloss": "amadodakazi"
+      "gloss": "amantombazana"
     },
     {
       "surface": "ירושלם",
@@ -26,35 +26,35 @@
     },
     {
       "surface": "בצבאות",
-      "gloss": "ngeentsikama"
+      "gloss": "ngeerohane"
     },
     {
       "surface": "או",
-      "gloss": "nange"
-    },
-    {
-      "surface": "באילות",
-      "gloss": "entoke"
-    },
-    {
-      "surface": "השדה",
-      "gloss": "zasimthla"
-    },
-    {
-      "surface": "אם",
-      "gloss": "ukuba"
-    },
-    {
-      "surface": "תעירו",
-      "gloss": "musa ukuvusa"
-    },
-    {
-      "surface": "ואם",
       "gloss": "okanye"
     },
     {
+      "surface": "באילות",
+      "gloss": "ngeezimela"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "zendle"
+    },
+    {
+      "surface": "אם",
+      "gloss": "musa"
+    },
+    {
+      "surface": "תעירו",
+      "gloss": "ukuvusa"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "kananjalo musa"
+    },
+    {
       "surface": "תעוררו",
-      "gloss": "ukuvuyisa"
+      "gloss": "ukusukumbisa"
     },
     {
       "surface": "את",
@@ -71,9 +71,9 @@
     },
     {
       "surface": "שתחפץ",
-      "gloss": "luthande"
+      "gloss": "ludwe"
     }
   ],
-  "timestamp": "2026-09-18T16:16:45.384102302Z",
+  "timestamp": "2026-09-19T14:11:22.290682812Z",
   "model": "glm-5.3"
 }

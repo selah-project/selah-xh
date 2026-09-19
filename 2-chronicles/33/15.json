@@ -5,11 +5,11 @@
   "book": "2-chronicles",
   "lang": "xh",
   "chapter": 33,
-  "translation": "Wawasusa oothixo bangaphandle no-simuli esisiqingatha sendlu kaYahwe, nazo zonke iialthari awayazakha entabeni yendlu kaYahwe nakwiYerushalayimi, waza zawaphosa ngaphandle kwesixeko.",
+  "translation": "Wasusa ⟨את⟩ oothixo bangaphandle kunye ⟨את⟩ nesigcawu endlwini kaYahwe, nazo zonke iindawo zokunikela ezazakhe ezintabeni zendlu kaYahwe nakwiYerushalayimi, wazithsala zonke ngaphandle kwesixeko.",
   "tokens": [
     {
       "surface": "ויסר",
-      "gloss": "Wawasusa"
+      "gloss": "wasusa"
     },
     {
       "surface": "את",
@@ -26,16 +26,16 @@
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
-      "marks": "i-simuli"
+      "gloss": "kunye ⟨את⟩",
+      "marks": "nesigcawu"
     },
     {
       "surface": "הסמל",
-      "gloss": "i-simuli"
+      "gloss": "isigcawu"
     },
     {
       "surface": "מבית",
-      "gloss": "esisiqingathi sendlu"
+      "gloss": "endlwini"
     },
     {
       "surface": "יהוה",
@@ -47,11 +47,11 @@
     },
     {
       "surface": "המזבחות",
-      "gloss": "iialthari"
+      "gloss": "iindawo zokunikela"
     },
     {
       "surface": "אשר",
-      "gloss": "awayazakha"
+      "gloss": "ezazakhe"
     },
     {
       "surface": "בנה",
@@ -59,7 +59,7 @@
     },
     {
       "surface": "בהר",
-      "gloss": "entabeni"
+      "gloss": "ezintabeni"
     },
     {
       "surface": "בית",
@@ -75,7 +75,7 @@
     },
     {
       "surface": "וישלך",
-      "gloss": "wazawaphosa"
+      "gloss": "wazithsala"
     },
     {
       "surface": "חוצה",
@@ -86,6 +86,6 @@
       "gloss": "kwesixeko"
     }
   ],
-  "timestamp": "2026-09-18T17:15:26.343050838Z",
+  "timestamp": "2026-09-19T13:45:15.057837292Z",
   "model": "glm-5.3"
 }

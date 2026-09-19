@@ -5,7 +5,7 @@
   "book": "2-chronicles",
   "lang": "xh",
   "chapter": 3,
-  "translation": "Wenze kwindlu engcwele kuneengcwele iikerubhi ezimbini, umsebenzi wokwenziwa ngokhethekileyo, wazibeka ngégolide.",
+  "translation": "Wenze kwendlu-ntlungu yeendlungu iikerubhi ezimbini, umsebenzi wokumbiwa, wazihamba ngegoldi.",
   "tokens": [
     {
       "surface": "ויעש",
@@ -13,15 +13,15 @@
     },
     {
       "surface": "בבית",
-      "gloss": "kwindlu"
+      "gloss": "kwendlu"
     },
     {
       "surface": "קדש",
-      "gloss": "engcwele"
+      "gloss": "yeendlu-ntlungu"
     },
     {
       "surface": "הקדשים",
-      "gloss": "kuneengcwele"
+      "gloss": "yeendwe"
     },
     {
       "surface": "כרובים",
@@ -37,11 +37,11 @@
     },
     {
       "surface": "צעצעים",
-      "gloss": "wokwenziwa ngokhethekileyo"
+      "gloss": "wokumbiwa"
     },
     {
       "surface": "ויצפו",
-      "gloss": "wazibeka"
+      "gloss": "wazihamba nge-"
     },
     {
       "surface": "אתם",
@@ -50,9 +50,9 @@
     },
     {
       "surface": "זהב",
-      "gloss": "ngégolide"
+      "gloss": "goldi"
     }
   ],
-  "timestamp": "2026-09-18T17:02:44.360957755Z",
+  "timestamp": "2026-09-19T13:44:53.341527460Z",
   "model": "glm-5.3"
 }

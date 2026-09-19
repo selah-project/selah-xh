@@ -5,7 +5,7 @@
   "book": "leviticus",
   "lang": "xh",
   "chapter": 16,
-  "translation": "Aze athabathe ⟨את⟩ eentshoci zombini, azimise phambi koYahwe, emnyangweni wohlanga lomdibano.",
+  "translation": "Aze athabathe ⟨את⟩ amabhushi amabini, aze amise ⟨אתם⟩ phambi kaYahwe, emnyangweni owheliweyo wethenti yokuqokelela.",
   "tokens": [
     {
       "surface": "ולקח",
@@ -14,24 +14,24 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "eentshoci zombini"
+      "marks": "amabhushi amabini"
     },
     {
       "surface": "שני",
-      "gloss": "zombini"
+      "gloss": "amabini"
     },
     {
       "surface": "השעירם",
-      "gloss": "eentshoci"
+      "gloss": "amabhushi"
     },
     {
       "surface": "והעמיד",
-      "gloss": "azimise"
+      "gloss": "aze amise"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩",
-      "marks": "eentshoci zombini"
+      "gloss": "⟨אתם⟩",
+      "marks": "phambi kaYahwe"
     },
     {
       "surface": "לפני",
@@ -39,21 +39,21 @@
     },
     {
       "surface": "יהוה",
-      "gloss": "koYahwe"
+      "gloss": "kaYahwe"
     },
     {
       "surface": "פתח",
-      "gloss": "emnyangweni"
+      "gloss": "emnyangweni owheliweyo"
     },
     {
       "surface": "אהל",
-      "gloss": "wohlanga"
+      "gloss": "wethenti"
     },
     {
       "surface": "מועד",
-      "gloss": "lomdibano"
+      "gloss": "yokuqokelela"
     }
   ],
-  "timestamp": "2026-09-18T06:53:50.464356654Z",
+  "timestamp": "2026-09-19T14:05:48.625380193Z",
   "model": "glm-5.3"
 }

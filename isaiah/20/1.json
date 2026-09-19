@@ -5,7 +5,7 @@
   "book": "isaiah",
   "lang": "xh",
   "chapter": 20,
-  "translation": "Ngonyaka owafika khona uTartan eAshdod, xa emthumela uSarhoni, inkosi yaseAshur, wazama eAshdod wayibamba.",
+  "translation": "Ngonyaka owayeuTartan efika eAshdod, xa uSargon inkosi yaseAshur esithumela yena ⟨את⟩, waza walwa naseAshdod, wayibamba.",
   "tokens": [
     {
       "surface": "בשנת",
@@ -13,11 +13,11 @@
     },
     {
       "surface": "בא",
-      "gloss": "owafika khona"
+      "gloss": "efika"
     },
     {
       "surface": "תרתן",
-      "gloss": "uTartan"
+      "gloss": "euTartan"
     },
     {
       "surface": "אשדודה",
@@ -25,16 +25,16 @@
     },
     {
       "surface": "בשלח",
-      "gloss": "xa emthumela"
+      "gloss": "esithumela"
     },
     {
       "surface": "אתו",
       "gloss": "⟨את⟩",
-      "marks": "uSarhoni"
+      "marks": "yena (uSargon)"
     },
     {
       "surface": "סרגון",
-      "gloss": "uSarhoni"
+      "gloss": "uSargon"
     },
     {
       "surface": "מלך",
@@ -46,17 +46,17 @@
     },
     {
       "surface": "וילחם",
-      "gloss": "wazama"
+      "gloss": "walwa"
     },
     {
       "surface": "באשדוד",
-      "gloss": "eAshdod"
+      "gloss": "naseAshdod"
     },
     {
       "surface": "וילכדה",
       "gloss": "wayibamba"
     }
   ],
-  "timestamp": "2026-09-18T11:15:51.696857190Z",
+  "timestamp": "2026-09-19T13:59:13.716424617Z",
   "model": "glm-5.3"
 }

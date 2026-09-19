@@ -5,19 +5,19 @@
   "book": "deuteronomy",
   "lang": "xh",
   "chapter": 10,
-  "translation": "Kuphela kwooyihlo uYahwe wadinwa, ukubathanda bona; waze wakhetha imbewu yabo emva kwabo — nina, ngaphezu kwazo zonke iintlanga, njengangalomhla.",
+  "translation": "Kuphela kuwo ooyihlo benu uYahwe wanelisa ukuthanda ⟨אתם⟩, waza wakhetha iinzala zabo emva kwabo — nina, ngaphezu kwazo zonke iintlanga, njengangoku.",
   "tokens": [
     {
       "surface": "רק",
-      "gloss": "kuphela"
+      "gloss": "Kuphela"
     },
     {
       "surface": "באבתיך",
-      "gloss": "kwooyihlo"
+      "gloss": "kuwo ooyihlo benu"
     },
     {
       "surface": "חשק",
-      "gloss": "wadinwa"
+      "gloss": "wanelisa"
     },
     {
       "surface": "יהוה",
@@ -25,20 +25,20 @@
     },
     {
       "surface": "לאהבה",
-      "gloss": "ukubathanda"
+      "gloss": "ukuthanda"
     },
     {
       "surface": "אותם",
-      "gloss": "⟨את⟩",
-      "marks": "ooyihlo (ukubathanda bona)"
+      "gloss": "⟨אתם⟩",
+      "marks": "ooyihlo benu"
     },
     {
       "surface": "ויבחר",
-      "gloss": "waze wakhetha"
+      "gloss": "wakhetha"
     },
     {
       "surface": "בזרעם",
-      "gloss": "imbewu yabo"
+      "gloss": "iinzala zabo"
     },
     {
       "surface": "אחריהם",
@@ -58,13 +58,13 @@
     },
     {
       "surface": "כיום",
-      "gloss": "njengangalo"
+      "gloss": "njengalomhla"
     },
     {
       "surface": "הזה",
-      "gloss": "mhla"
+      "gloss": "namhlanje"
     }
   ],
-  "timestamp": "2026-09-18T08:01:23.735266500Z",
+  "timestamp": "2026-09-19T13:49:52.086893209Z",
   "model": "glm-5.3"
 }

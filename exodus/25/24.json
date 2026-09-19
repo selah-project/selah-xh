@@ -5,19 +5,20 @@
   "book": "exodus",
   "lang": "xh",
   "chapter": 25,
-  "translation": "Uza kuyigubungela ngegolide ecocekileyo, uze wenzele umda wegolide ojikelezayo.",
+  "translation": "Uza kuwugcwalisa ngendlu yegolide ecocekileyo, uze wenzele ⟨את⟩ umkhosi wegolide ojikeleze wonke.",
   "tokens": [
     {
       "surface": "וצפית",
-      "gloss": "uza kuyigubungela"
+      "gloss": "uza kuwugcwalisa"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ yona"
+      "gloss": "⟨את⟩",
+      "marks": "indlu yegolide"
     },
     {
       "surface": "זהב",
-      "gloss": "negolide"
+      "gloss": "yegolide"
     },
     {
       "surface": "טהור",
@@ -29,11 +30,11 @@
     },
     {
       "surface": "לו",
-      "gloss": "yona"
+      "gloss": "ela"
     },
     {
       "surface": "זר",
-      "gloss": "umda"
+      "gloss": "umkhosi"
     },
     {
       "surface": "זהב",
@@ -41,9 +42,9 @@
     },
     {
       "surface": "סביב",
-      "gloss": "ojikelezayo"
+      "gloss": "ojikeleze wonke"
     }
   ],
-  "timestamp": "2026-09-18T06:12:46.638304079Z",
+  "timestamp": "2026-09-19T13:51:16.698195402Z",
   "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "deuteronomy",
   "lang": "xh",
   "chapter": 12,
-  "translation": "Kodwa njengokutyiwa kwempunzi nempofu ⟨את⟩, ngokunjalo uza kuyitya; ongcolileyo nococekileyo ngokufananya baya kuyitya.",
+  "translation": "Kodwa njengetshwana njenengonyama ezityiwayo, ngokunjalo uza ukutitya oko; umngcolileyo nongcocekileyo ngokufanana bayakutitya oko.",
   "tokens": [
     {
       "surface": "אך",
@@ -17,25 +17,25 @@
     },
     {
       "surface": "יאכל",
-      "gloss": "kutyiwa"
+      "gloss": "ezityiwayo"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "impunzi"
+      "marks": "itshwana"
     },
     {
       "surface": "הצבי",
-      "gloss": "impunzi"
+      "gloss": "itshwana"
     },
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "impofu"
+      "marks": "ingonyama"
     },
     {
       "surface": "האיל",
-      "gloss": "impofu"
+      "gloss": "ingonyama"
     },
     {
       "surface": "כן",
@@ -43,25 +43,25 @@
     },
     {
       "surface": "תאכלנו",
-      "gloss": "uza kuyitya"
+      "gloss": "uza kukutitya oko"
     },
     {
       "surface": "הטמא",
-      "gloss": "ongcolileyo"
+      "gloss": "umngcolileyo"
     },
     {
       "surface": "והטהור",
-      "gloss": "nococekileyo"
+      "gloss": "nongcocekileyo"
     },
     {
       "surface": "יחדו",
-      "gloss": "ngokufananya"
+      "gloss": "ngokufanana"
     },
     {
       "surface": "יאכלנו",
-      "gloss": "baya kuyitya"
+      "gloss": "bayakutitya oko"
     }
   ],
-  "timestamp": "2026-09-18T17:26:00.599398368Z",
+  "timestamp": "2026-09-19T13:49:16.388320833Z",
   "model": "glm-5.3"
 }

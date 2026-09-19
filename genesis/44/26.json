@@ -5,7 +5,7 @@
   "book": "genesis",
   "lang": "xh",
   "chapter": 44,
-  "translation": "Sathi: “Asinako ukwehla; kodwa ukuba umtakwethu omncinci ulikhona ⟨את⟩ nathi, siya kuwehla; kuba asinakubona ubuso lomntu loxa umtakwethu wethu omncinci engathi nathi.”",
+  "translation": "Sathi: “Asinako ukwehla; ukuba umnakwethu omncinaye us nathi, siza kwehla; kuba asinako ukubona ubuso lomntu, umnakwethu omncinaye engasekho nathi.”",
   "tokens": [
     {
       "surface": "ונאמר",
@@ -13,11 +13,11 @@
     },
     {
       "surface": "לא",
-      "gloss": "asi-"
+      "gloss": "hayi"
     },
     {
       "surface": "נוכל",
-      "gloss": "-nako"
+      "gloss": "asinako"
     },
     {
       "surface": "לרדת",
@@ -29,24 +29,24 @@
     },
     {
       "surface": "יש",
-      "gloss": "ulikhona"
+      "gloss": "us"
     },
     {
       "surface": "אחינו",
-      "gloss": "umtakwethu wethu"
+      "gloss": "umnakwethu"
     },
     {
       "surface": "הקטן",
-      "gloss": "omncinci"
+      "gloss": "omncinaye"
     },
     {
       "surface": "אתנו",
       "gloss": "⟨את⟩ nathi",
-      "marks": "nathi (kuthathwa njengendlela evamileyo)"
+      "marks": "umnakwethu omncinaye"
     },
     {
       "surface": "וירדנו",
-      "gloss": "siya kuwehla"
+      "gloss": "siza kwehla"
     },
     {
       "surface": "כי",
@@ -54,11 +54,11 @@
     },
     {
       "surface": "לא",
-      "gloss": "asi-"
+      "gloss": "hayi"
     },
     {
       "surface": "נוכל",
-      "gloss": "-nako"
+      "gloss": "asinako"
     },
     {
       "surface": "לראות",
@@ -74,22 +74,22 @@
     },
     {
       "surface": "ואחינו",
-      "gloss": "loxa umtakwethu wethu"
+      "gloss": "kananjalo umnakwethu"
     },
     {
       "surface": "הקטן",
-      "gloss": "omncinci"
+      "gloss": "omncinaye"
     },
     {
       "surface": "איננו",
-      "gloss": "engathi"
+      "gloss": "akakho"
     },
     {
       "surface": "אתנו",
       "gloss": "⟨את⟩ nathi",
-      "marks": "nathi (loxa engathi nathi)"
+      "marks": "umnakwethu omncinaye"
     }
   ],
-  "timestamp": "2026-09-18T05:45:19.624659099Z",
+  "timestamp": "2026-09-19T13:58:36.498041580Z",
   "model": "glm-5.3"
 }

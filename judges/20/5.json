@@ -5,52 +5,53 @@
   "book": "judges",
   "lang": "xh",
   "chapter": 20,
-  "translation": "Kwaye amadoda aseGibhea avukela mna, ayazungeza ⟨את⟩ indlu ngobusuku, bethe canda ku mna; mna babecinga ukundibulala, kwaye ⟨את⟩ umfazi wam wesibini bamhlabathi, waza wafa.",
+  "translation": "Abantu baseGibea bavukela kum, bazungeleza indlu yam ebusuku; abacinganga nto ngapandle kokuba bandibulale, ke iinjongosi zam bazihlwayayo, yaze yafa.",
   "tokens": [
     {
       "surface": "ויקמו",
-      "gloss": "avukela"
+      "gloss": "bavukela"
     },
     {
       "surface": "עלי",
-      "gloss": "mna"
+      "gloss": "kum"
     },
     {
       "surface": "בעלי",
-      "gloss": "amadoda"
+      "gloss": "abantu base-"
     },
     {
       "surface": "הגבעה",
-      "gloss": "aseGibhea"
+      "gloss": "Gibea"
     },
     {
       "surface": "ויסבו",
-      "gloss": "ayazungeza"
+      "gloss": "bazungeleza"
     },
     {
       "surface": "עלי",
-      "gloss": "ku mna"
+      "gloss": "kum"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "indlu"
+      "marks": "indlu yam"
     },
     {
       "surface": "הבית",
-      "gloss": "indlu"
+      "gloss": "indlu yam"
     },
     {
       "surface": "לילה",
-      "gloss": "ngobusuku"
+      "gloss": "ebusuku"
     },
     {
       "surface": "אותי",
-      "gloss": "⟨את⟩ mna"
+      "gloss": "⟨את⟩ mna",
+      "marks": "bandicinga ukundibulala"
     },
     {
       "surface": "דמו",
-      "gloss": "babecinga"
+      "gloss": "bandicinga"
     },
     {
       "surface": "להרג",
@@ -59,21 +60,21 @@
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "umfazi wam wesibini"
+      "marks": "iinjongosi zam"
     },
     {
       "surface": "פילגשי",
-      "gloss": "umfazi wam wesibini"
+      "gloss": "iinjongosi zam"
     },
     {
       "surface": "ענו",
-      "gloss": "bamhlabathi"
+      "gloss": "bazihlwayo"
     },
     {
       "surface": "ותמת",
-      "gloss": "waza wafa"
+      "gloss": "yafa"
     }
   ],
-  "timestamp": "2026-09-18T09:10:23.152336060Z",
+  "timestamp": "2026-09-19T14:05:09.311087337Z",
   "model": "glm-5.3"
 }

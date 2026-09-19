@@ -5,11 +5,11 @@
   "book": "numbers",
   "lang": "xh",
   "chapter": 26,
-  "translation": "Igama lomfazi ka-Amramu linguYokhevedi, intombi kaLevi, eyayizalelwa uLevi eMitsrayim; wazala ku-Amramu ⟨את⟩ u-Aharon, ⟨את⟩ noMoshe, ⟨את⟩ noMiriyam udade wabo.",
+  "translation": "Igama lomfazi ka-Amram yayinguYokhevedhi, intombi kaLevi, umama azala yena ukuvela kwaLevi kwiMitsrayim; wazala ku-Amram u-Aharon noMoshe noMiriyam udade wabo.",
   "tokens": [
     {
       "surface": "ושם",
-      "gloss": "Igama"
+      "gloss": "igama"
     },
     {
       "surface": "אשת",
@@ -17,11 +17,11 @@
     },
     {
       "surface": "עמרם",
-      "gloss": "ka-Amramu"
+      "gloss": "ka-Amram"
     },
     {
       "surface": "יוכבד",
-      "gloss": "linguYokhevedi"
+      "gloss": "uYokhevedhi"
     },
     {
       "surface": "בת",
@@ -33,24 +33,24 @@
     },
     {
       "surface": "אשר",
-      "gloss": "eyayizalelwa"
+      "gloss": "lowo"
     },
     {
       "surface": "ילדה",
-      "gloss": "eyayizalelwa"
+      "gloss": "azala"
     },
     {
       "surface": "אתה",
       "gloss": "⟨את⟩",
-      "marks": "uLevi"
+      "marks": "yena (uYokhevedhi)"
     },
     {
       "surface": "ללוי",
-      "gloss": "uLevi"
+      "gloss": "kuLevi"
     },
     {
       "surface": "במצרים",
-      "gloss": "eMitsrayim"
+      "gloss": "kwiMitsrayim"
     },
     {
       "surface": "ותלד",
@@ -58,7 +58,7 @@
     },
     {
       "surface": "לעמרם",
-      "gloss": "ku-Amramu"
+      "gloss": "ku-Amram"
     },
     {
       "surface": "את",
@@ -71,27 +71,27 @@
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
-      "marks": "noMoshe"
+      "gloss": "no⟨את⟩",
+      "marks": "uMoshe"
     },
     {
       "surface": "משה",
-      "gloss": "noMoshe"
+      "gloss": "uMoshe"
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
-      "marks": "noMiriyam"
+      "gloss": "no⟨את⟩",
+      "marks": "uMiriyam"
     },
     {
       "surface": "מרים",
-      "gloss": "noMiriyam"
+      "gloss": "uMiriyam"
     },
     {
       "surface": "אחתם",
       "gloss": "udade wabo"
     }
   ],
-  "timestamp": "2026-09-18T07:40:16.192131933Z",
+  "timestamp": "2026-09-19T14:09:16.247969471Z",
   "model": "glm-5.3"
 }

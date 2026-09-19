@@ -5,11 +5,11 @@
   "book": "genesis",
   "lang": "xh",
   "chapter": 21,
-  "translation": "Waza u-Avraham wamkwangalusa uYitshaki unyana wakhe, enemihla emibini nesiwe, njengoko uElohim wamyalela ⟨אתו⟩.",
+  "translation": "Waze u-Avraham wenza umtshato wokuqala (wangena emthambekweni) kuYitsak unyana wakhe, emveni koko u-Avraham wawusika unyana wakhe uYitsak, unyana wemihla emine-nesibini, njengoko uElohim wayemthumele ⟨את⟩ yena. — Emendamento: U-Avraham walungelelisa ⟨את⟩ uYitsak unyana wakhe, unyana wemihla esibhozo, njengoko uElohim wamyalela.",
   "tokens": [
     {
       "surface": "וימל",
-      "gloss": "wamkwangalusa"
+      "gloss": "walungelelisa"
     },
     {
       "surface": "אברהם",
@@ -18,11 +18,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "uYitshaki"
+      "marks": "uYitsak"
     },
     {
       "surface": "יצחק",
-      "gloss": "uYitshaki"
+      "gloss": "uYitsak"
     },
     {
       "surface": "בנו",
@@ -34,11 +34,11 @@
     },
     {
       "surface": "שמנת",
-      "gloss": "inemihla emibini nesiwe"
+      "gloss": "esibhozo"
     },
     {
       "surface": "ימים",
-      "gloss": "⟨imihla⟩"
+      "gloss": "yemihla"
     },
     {
       "surface": "כאשר",
@@ -50,14 +50,14 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨אתו⟩",
-      "marks": "yena"
+      "gloss": "⟨את⟩",
+      "marks": "yena (u-Avraham)"
     },
     {
       "surface": "אלהים",
       "gloss": "uElohim"
     }
   ],
-  "timestamp": "2026-09-18T05:18:57.859801622Z",
+  "timestamp": "2026-09-19T13:56:33.439719108Z",
   "model": "glm-5.3"
 }

@@ -5,15 +5,16 @@
   "book": "exodus",
   "lang": "xh",
   "chapter": 18,
-  "translation": "Uze ubaxhasise ⟨את⟩ iimigaqo neTora, ubazisise ⟨את⟩ indlela abaya kuhamba ngayo, nangomsebenzi abaya kuwenza.",
+  "translation": "Ubachazele ⟨את⟩ iimigaqo n⟨את⟩ iTora, ubazisele kubo ⟨את⟩ indlela abaya kuhamba ngayo, n⟨את⟩ umsebenzi oko abaya kuwenza.",
   "tokens": [
     {
       "surface": "והזהרתה",
-      "gloss": "Uze ubaxhasise"
+      "gloss": "Ubachazele"
     },
     {
       "surface": "אתהם",
-      "gloss": "⟨את⟩ ubaxhasise ⟨abahuqukisi⟩"
+      "gloss": "⟨את⟩",
+      "marks": "abo bantu"
     },
     {
       "surface": "את",
@@ -26,16 +27,16 @@
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
-      "marks": "neTora"
+      "gloss": "n⟨את⟩",
+      "marks": "iTora"
     },
     {
       "surface": "התורת",
-      "gloss": "neTora"
+      "gloss": "iTora"
     },
     {
       "surface": "והודעת",
-      "gloss": "ubazisise"
+      "gloss": "ubazisele"
     },
     {
       "surface": "להם",
@@ -60,22 +61,22 @@
     },
     {
       "surface": "ואת",
-      "gloss": "nango-⟨את⟩",
-      "marks": "omsebenzi"
+      "gloss": "n⟨את⟩",
+      "marks": "umsebenzi"
     },
     {
       "surface": "המעשה",
-      "gloss": "omsebenzi"
+      "gloss": "umsebenzi"
     },
     {
       "surface": "אשר",
-      "gloss": "abaya kuwenza"
+      "gloss": "oko"
     },
     {
       "surface": "יעשון",
       "gloss": "abaya kuwenza"
     }
   ],
-  "timestamp": "2026-09-18T06:05:57.485305231Z",
+  "timestamp": "2026-09-19T13:51:29.546961869Z",
   "model": "glm-5.3"
 }

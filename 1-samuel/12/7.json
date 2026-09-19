@@ -5,27 +5,28 @@
   "book": "1-samuel",
   "lang": "xh",
   "chapter": 12,
-  "translation": "“Nangoku yimanini, ndiza kunigweba phambi koYahwe, nge-⟨את⟩ zonke iintlawulo ezilungileyo zoYahwe awazenzelayo nina ⟨את⟩ nakuwo ooyihlo benu ⟨את⟩.",
+  "translation": "Kwaye ngoku zizicale ke ngathi, ndiza kunigweba phambi koYahwe, ngokwe-⟨את⟩ yonke into elungileyo kaYahwe awayenzileyo nani, nangookhokho benu.",
   "tokens": [
     {
       "surface": "ועתה",
-      "gloss": "Nangoku"
+      "gloss": "kwaye ngoku"
     },
     {
       "surface": "התיצבו",
-      "gloss": "yimanini"
+      "gloss": "zizicale ngathi"
     },
     {
-      "surface": "וואשפטה",
+      "surface": "ואשפטה",
       "gloss": "ndiza kunigweba"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ nina"
+      "gloss": "⟨את⟩ nani",
+      "marks": "nani"
     },
     {
       "surface": "לפני",
-      "gloss": "phambi kwa"
+      "gloss": "phambi kuka-"
     },
     {
       "surface": "יהוה",
@@ -34,42 +35,42 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "zonke iintlawulo ezilungileyo zoYahwe"
+      "marks": "yonke into elungileyo kaYahwe"
     },
     {
       "surface": "כל",
-      "gloss": "zonke"
+      "gloss": "yonke"
     },
     {
       "surface": "צדקות",
-      "gloss": "iintlawulo ezilungileyo"
+      "gloss": "into elungileyo"
     },
     {
       "surface": "יהוה",
-      "gloss": "zoYahwe"
+      "gloss": "uYahwe"
     },
     {
       "surface": "אשר",
-      "gloss": "awazenzelayo"
+      "gloss": "awayenzileyo"
     },
     {
       "surface": "עשה",
-      "gloss": "awazenzelayo"
+      "gloss": "wenzile"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ nina"
+      "gloss": "⟨את⟩ nani",
+      "marks": "nani"
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩ no-",
-      "marks": "ooyihlo benu"
+      "gloss": "⟨את⟩ na-"
     },
     {
       "surface": "אבותיכם",
-      "gloss": "ooyihlo benu"
+      "gloss": "ookhokho benu"
     }
   ],
-  "timestamp": "2026-09-18T09:22:35.678785148Z",
+  "timestamp": "2026-09-19T13:42:53.427970626Z",
   "model": "glm-5.3"
 }

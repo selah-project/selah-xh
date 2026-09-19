@@ -5,19 +5,19 @@
   "book": "jeremiah",
   "lang": "xh",
   "chapter": 26,
-  "translation": "Kwathi-ke, ekugqityweni kukaYirmeyahu ukuthetha ⟨את⟩ konkeoko uYahwe awaleleyo ukuthetha kuyo wonke ⟨the⟩ abantu, bamthabatha abapristi, abaphrofeti nabantu bonke, besithi: “Uya kufa ngokwenene.”",
+  "translation": "Kwathi xa uYiremiya ephela ukuthetha konkeoko uYahwe awamyezele ukuthetha kuwo onke umntu, amadoda amagcisa okhulembelelo nabaprofeti bonke abantu bamzimbaza, bathi: “Uya kufa ngokwenene.”",
   "tokens": [
     {
       "surface": "ויהי",
-      "gloss": "Kwathi-ke"
+      "gloss": "Kwathi"
     },
     {
       "surface": "ככלות",
-      "gloss": "ekugqityweni"
+      "gloss": "xa ephela"
     },
     {
       "surface": "ירמיהו",
-      "gloss": "ukaYirmeyahu"
+      "gloss": "uYiremiya"
     },
     {
       "surface": "לדבר",
@@ -26,11 +26,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "konke oko"
+      "marks": "konke"
     },
     {
       "surface": "כל",
-      "gloss": "konkeoko"
+      "gloss": "konke"
     },
     {
       "surface": "אשר",
@@ -38,7 +38,7 @@
     },
     {
       "surface": "צוה",
-      "gloss": "awaleleyo"
+      "gloss": "awamyezele"
     },
     {
       "surface": "יהוה",
@@ -50,54 +50,54 @@
     },
     {
       "surface": "אל",
-      "gloss": "ku"
+      "gloss": "kuwo"
     },
     {
       "surface": "כל",
-      "gloss": "wonke"
+      "gloss": "onke"
+    },
+    {
+      "surface": "העם",
+      "gloss": "umntu"
+    },
+    {
+      "surface": "ויתפשו",
+      "gloss": "bamzimbaza"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "uYiremiya"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "amadoda amagcisa okhulembelelo"
+    },
+    {
+      "surface": "והנבאים",
+      "gloss": "nabaprofeti"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "bonke"
     },
     {
       "surface": "העם",
       "gloss": "abantu"
     },
     {
-      "surface": "ויתפשו",
-      "gloss": "bamthabatha"
-    },
-    {
-      "surface": "אתו",
-      "gloss": "⟨את⟩ yena",
-      "marks": "uYirmeyahu"
-    },
-    {
-      "surface": "הכהנים",
-      "gloss": "abapristi"
-    },
-    {
-      "surface": "והנבאים",
-      "gloss": "abaphrofeti"
-    },
-    {
-      "surface": "וכל",
-      "gloss": "nabantu"
-    },
-    {
-      "surface": "העם",
-      "gloss": "bonke"
-    },
-    {
       "surface": "לאמר",
-      "gloss": "besithi"
+      "gloss": "bathi"
     },
     {
       "surface": "מות",
-      "gloss": "fa"
+      "gloss": "ufa"
     },
     {
       "surface": "תמות",
-      "gloss": "ngokwenene uya kufa"
+      "gloss": "ngokwenene"
     }
   ],
-  "timestamp": "2026-09-18T20:18:10.096600363Z",
+  "timestamp": "2026-09-19T14:00:04.482695440Z",
   "model": "glm-5.3"
 }

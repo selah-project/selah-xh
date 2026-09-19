@@ -5,29 +5,29 @@
   "book": "ezekiel",
   "lang": "xh",
   "chapter": 11,
-  "translation": "Ndiya kunikhupha phakathi kwayo, ndiza kuninika esandleni seenkolikazi, ndiza kwenza kuni izigwebo.",
+  "translation": "Ndiza kunikhupha ⟨את⟩ nithi embindini wayo, ndiza kuninikeza ⟨את⟩ esandleni seenkosana zendalo, ndiza kwenza kuni izigwebo.",
   "tokens": [
     {
       "surface": "והוצאתי",
-      "gloss": "Ndiya kunikhupha"
+      "gloss": "Ndiza kunikhupha"
     },
     {
       "surface": "אתכם",
       "gloss": "⟨את⟩",
-      "marks": "ni"
+      "marks": "nithi embindini wayo"
     },
     {
       "surface": "מתוכה",
-      "gloss": "phakathi kwayo"
+      "gloss": "embindini wayo"
     },
     {
       "surface": "ונתתי",
-      "gloss": "ndiza kuninika"
+      "gloss": "ndiza kuninikeza"
     },
     {
       "surface": "אתכם",
       "gloss": "⟨את⟩",
-      "marks": "ni"
+      "marks": "esandleni seenkosana zendalo"
     },
     {
       "surface": "ביד",
@@ -35,7 +35,7 @@
     },
     {
       "surface": "זרים",
-      "gloss": "eenkolikazi"
+      "gloss": "eenkosana zendalo"
     },
     {
       "surface": "ועשיתי",
@@ -50,6 +50,6 @@
       "gloss": "izigwebo"
     }
   ],
-  "timestamp": "2026-09-18T12:57:25.372958967Z",
+  "timestamp": "2026-09-19T13:53:15.656780171Z",
   "model": "glm-5.3"
 }

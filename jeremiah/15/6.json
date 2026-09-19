@@ -5,32 +5,33 @@
   "book": "jeremiah",
   "lang": "xh",
   "chapter": 15,
-  "translation": "Wena undishiyele, isibingelelo sikaYahwe; uhamba umva, ndandula ⟨את⟩ isandla sam ngakuwe, ndakutshabalalisa; ndidinwe sokuzisola.",
+  "translation": "⟨את⟩ Wena unditshiyile — intshumo kaYahwe — emva uhamba; ndaza kulula ⟨את⟩ isandla sam kuwe, ndaza kutshabalalisa wena; ndidiniswe, ndinele ⟨ukuzisola⟩.",
   "tokens": [
     {
       "surface": "את",
-      "gloss": "Wena"
+      "gloss": "⟨את⟩",
+      "marks": "unditshiyile"
     },
     {
       "surface": "נטשת",
-      "gloss": "undishiyele"
+      "gloss": "unditshiyile"
     },
     {
       "surface": "אתי",
       "gloss": "⟨את⟩",
-      "marks": "mna"
+      "marks": "intshumo kaYahwe"
     },
     {
       "surface": "נאם",
-      "gloss": "isibingelelo"
+      "gloss": "intshumo"
     },
     {
       "surface": "יהוה",
-      "gloss": "ukaYahwe"
+      "gloss": "uYahwe"
     },
     {
       "surface": "אחור",
-      "gloss": "umva"
+      "gloss": "emva"
     },
     {
       "surface": "תלכי",
@@ -38,7 +39,7 @@
     },
     {
       "surface": "ואט",
-      "gloss": "ndandula"
+      "gloss": "ndaza kulula"
     },
     {
       "surface": "את",
@@ -51,21 +52,21 @@
     },
     {
       "surface": "עליך",
-      "gloss": "ngakuwe"
+      "gloss": "kuwe"
     },
     {
       "surface": "ואשחיתך",
-      "gloss": "ndakutshabalalisa"
+      "gloss": "ndaza kutshabalalisa wena"
     },
     {
       "surface": "נלאיתי",
-      "gloss": "ndidinwe"
+      "gloss": "ndidiniswe"
     },
     {
       "surface": "הנחם",
-      "gloss": "sokuzisola"
+      "gloss": "ukuzisola"
     }
   ],
-  "timestamp": "2026-09-18T12:04:55.901891488Z",
+  "timestamp": "2026-09-19T13:59:06.520713568Z",
   "model": "glm-5.3"
 }

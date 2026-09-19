@@ -5,7 +5,7 @@
   "book": "ezekiel",
   "lang": "xh",
   "chapter": 37,
-  "translation": "Mna ndiza kubeka umoya wam kuni, niza kuphila; ndiza kunibeka nina phezu komhlaba wenu; niza kwazi ukuba mna ndi⟨ngu⟩Yahwe: ndithethile, ndaze ndayenza, utsho uYahwe.",
+  "translation": "Ndiza kubeka umoya wam ngaphakathi kwenu, niya kuphila, ndiza kunifaka phezu komhlaba wenu ⟨את⟩, niya kwazi ukuba mna nguYahwe ndathetha, ndenza, isithi soYahwe.",
   "tokens": [
     {
       "surface": "ונתתי",
@@ -17,32 +17,32 @@
     },
     {
       "surface": "בכם",
-      "gloss": "kuni"
+      "gloss": "ngaphakathi kwenu"
     },
     {
       "surface": "וחייתם",
-      "gloss": "niza kuphila"
+      "gloss": "niya kuphila"
     },
     {
       "surface": "והנחתי",
-      "gloss": "ndiza kunibeka"
+      "gloss": "ndiza kunifaka"
     },
     {
       "surface": "אתכם",
       "gloss": "⟨את⟩",
-      "marks": "nina"
+      "marks": "phezu komhlaba wenu (nina)"
     },
     {
       "surface": "על",
-      "gloss": "phezu ko-"
+      "gloss": "phezu"
     },
     {
       "surface": "אדמתכם",
-      "gloss": "umhlaba wenu"
+      "gloss": "komhlaba wenu"
     },
     {
       "surface": "וידעתם",
-      "gloss": "niza kwazi"
+      "gloss": "niya kwazi"
     },
     {
       "surface": "כי",
@@ -54,25 +54,25 @@
     },
     {
       "surface": "יהוה",
-      "gloss": "uYahwe"
+      "gloss": "nguYahwe"
     },
     {
       "surface": "דברתי",
-      "gloss": "ndithethile"
+      "gloss": "ndathetha"
     },
     {
       "surface": "ועשיתי",
-      "gloss": "ndayenza"
+      "gloss": "ndenza"
     },
     {
       "surface": "נאם",
-      "gloss": "utsho"
+      "gloss": "isithi"
     },
     {
       "surface": "יהוה",
       "gloss": "uYahwe"
     }
   ],
-  "timestamp": "2026-09-18T13:28:35.759437391Z",
+  "timestamp": "2026-09-19T13:55:03.517182887Z",
   "model": "glm-5.3"
 }

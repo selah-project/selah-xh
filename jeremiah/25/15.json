@@ -5,7 +5,7 @@
   "book": "jeremiah",
   "lang": "xh",
   "chapter": 25,
-  "translation": "Kuba uthe uka uYahwe, uElohim kaSirayeli, kum: Thatha ⟨את⟩ indebe yewayini yelo tyhubhu esandleni sam, uze uwandise onke amazwe endingithumela kona.",
+  "translation": "Kuba uthe uYahwe, uElohim kaSirayeli, kum: “Thatha ⟨את⟩ indebe yewayini yale lumeleko le, esandleni sam, udalaze kuwo onke amazwe endithumela kwo.”",
   "tokens": [
     {
       "surface": "כי",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "כה",
-      "gloss": "kanjalo"
+      "gloss": "uthe"
     },
     {
       "surface": "אמר",
@@ -25,11 +25,11 @@
     },
     {
       "surface": "אלהי",
-      "gloss": "uElohim ka"
+      "gloss": "uElohim"
     },
     {
       "surface": "ישראל",
-      "gloss": "Sirayeli"
+      "gloss": "kaSirayeli"
     },
     {
       "surface": "אלי",
@@ -42,7 +42,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "indebe yewayini yelo tyhubhu"
+      "marks": "indebe yewayini yale lumeleko"
     },
     {
       "surface": "כוס",
@@ -54,7 +54,7 @@
     },
     {
       "surface": "החמה",
-      "gloss": "yelo tyhubhu"
+      "gloss": "yale lumeleko"
     },
     {
       "surface": "הזאת",
@@ -66,7 +66,7 @@
     },
     {
       "surface": "והשקיתה",
-      "gloss": "uze uwandise"
+      "gloss": "udalaze"
     },
     {
       "surface": "אתו",
@@ -92,7 +92,7 @@
     },
     {
       "surface": "אנכי",
-      "gloss": "nding"
+      "gloss": "ndi-"
     },
     {
       "surface": "שלח",
@@ -100,13 +100,14 @@
     },
     {
       "surface": "אותך",
-      "gloss": "⟨את⟩ we"
+      "gloss": "⟨את⟩ ⟨אותך⟩",
+      "marks": "kwo (amazwe)"
     },
     {
       "surface": "אליהם",
-      "gloss": "kona"
+      "gloss": "kwo"
     }
   ],
-  "timestamp": "2026-09-18T12:14:16.164800772Z",
+  "timestamp": "2026-09-19T13:59:51.604800164Z",
   "model": "glm-5.3"
 }

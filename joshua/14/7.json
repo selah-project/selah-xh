@@ -5,11 +5,11 @@
   "book": "joshua",
   "lang": "xh",
   "chapter": 14,
-  "translation": "Ndineminyaka engamashumi amane ubudala uMoshe, inkonzi kaYahwe, esithumela ⟨את⟩ ndisuka eKadeshe-Barnea ukulungelelanisa ⟨את⟩ umhlaba, ndamphendulela ngephephandaba njengoko nalentliziyo yam.",
+  "translation": "Ubudala obungeminyaka engamashumi amane babunobu xa uMoshe, inkonzi kaYahwe, endithumela eKadeshi-Barnea ukulungela ukukhangela ⟨את⟩ umhlaba, ndaza ndimphendulela ⟨את⟩ ilizwi njengoko babesintliziyo yam.",
   "tokens": [
     {
       "surface": "בן",
-      "gloss": "ubudala"
+      "gloss": "ubudala obungeminyaka"
     },
     {
       "surface": "ארבעים",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "בשלח",
-      "gloss": "esithumela"
+      "gloss": "xa…endithumela"
     },
     {
       "surface": "משה",
@@ -46,15 +46,15 @@
     },
     {
       "surface": "מקדש",
-      "gloss": "eKadeshe"
+      "gloss": "eKadeshi"
     },
     {
       "surface": "ברנע",
-      "gloss": "-Barnea"
+      "gloss": "Barnea"
     },
     {
       "surface": "לרגל",
-      "gloss": "ukulungelelanisa"
+      "gloss": "ukukhangela"
     },
     {
       "surface": "את",
@@ -67,16 +67,16 @@
     },
     {
       "surface": "ואשב",
-      "gloss": "ndamphendulela"
+      "gloss": "ndaza ndimphendulela"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨אתו⟩",
-      "marks": "ngephephandaba"
+      "gloss": "⟨את⟩",
+      "marks": "ilizwi"
     },
     {
       "surface": "דבר",
-      "gloss": "ngephephandaba"
+      "gloss": "ilizwi"
     },
     {
       "surface": "כאשר",
@@ -84,13 +84,13 @@
     },
     {
       "surface": "עם",
-      "gloss": "nalen"
+      "gloss": "njengoko babesintliziyo"
     },
     {
       "surface": "לבבי",
       "gloss": "intliziyo yam"
     }
   ],
-  "timestamp": "2026-09-18T08:38:26.000749567Z",
+  "timestamp": "2026-09-19T14:02:47.334255188Z",
   "model": "glm-5.3"
 }

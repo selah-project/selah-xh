@@ -5,7 +5,7 @@
   "book": "nehemiah",
   "lang": "xh",
   "chapter": 5,
-  "translation": "Kananjalo, ukusuka kwemini ayalelayo ukuba ndibe ngumlawuli welizwe leYehudha, ukusuka kwonyaka wamashumi amabini de kube kunyaka wamashumi amathathu anamabini ka-Artakhshasta ikumkani — iminyaka elishumi elinambini — mna nabafowethu isonka somlawuli asisityanga.",
+  "translation": "Kananjalo, ukusuka ngomhla owamisela ngawo ⟨את⟩ ukuba ndibe ngumlawuli ezweni loYehudha, ukusuka kwakunyaka wamashumi amabini ukuya kunyaka wamashumi amathathu nakwamabini ka-Artakhshashta inkosi — iminyaka elishumi elinambini — mna nabantakwethu asityanga ukutya komlawuli.",
   "tokens": [
     {
       "surface": "גם",
@@ -13,20 +13,20 @@
     },
     {
       "surface": "מיום",
-      "gloss": "ukusuka kwemini"
+      "gloss": "ukusuka ngomhla"
     },
     {
       "surface": "אשר",
-      "gloss": "eyase"
+      "gloss": "owamisela ngawo"
     },
     {
       "surface": "צוה",
-      "gloss": "wayalelayo"
+      "gloss": "wamisela"
     },
     {
       "surface": "אתי",
       "gloss": "⟨את⟩",
-      "marks": "ukuba ndibe (ngenxa yam)"
+      "marks": "ukuba ndibe ngumlawuli"
     },
     {
       "surface": "להיות",
@@ -34,19 +34,19 @@
     },
     {
       "surface": "פחם",
-      "gloss": "ngumlawuli"
+      "gloss": "umlawuli"
     },
     {
       "surface": "בארץ",
-      "gloss": "welizwe"
+      "gloss": "ezweni"
     },
     {
       "surface": "יהודה",
-      "gloss": "leYehudha"
+      "gloss": "loYehudha"
     },
     {
       "surface": "משנת",
-      "gloss": "ukusuka kwonyaka"
+      "gloss": "ukusuka kwakunyaka"
     },
     {
       "surface": "עשרים",
@@ -54,7 +54,7 @@
     },
     {
       "surface": "ועד",
-      "gloss": "de kube"
+      "gloss": "ukuya ku-"
     },
     {
       "surface": "שנת",
@@ -66,15 +66,15 @@
     },
     {
       "surface": "ושתים",
-      "gloss": "anamabini"
+      "gloss": "nakwamabini"
     },
     {
       "surface": "לארתחשסתא",
-      "gloss": "ka-Artakhshasta"
+      "gloss": "ka-Artakhshashta"
     },
     {
       "surface": "המלך",
-      "gloss": "ikumkani"
+      "gloss": "inkosi"
     },
     {
       "surface": "שנים",
@@ -82,11 +82,11 @@
     },
     {
       "surface": "שתים",
-      "gloss": "elinambini"
+      "gloss": "elishumi elinambini"
     },
     {
       "surface": "עשרה",
-      "gloss": "elishumi"
+      "gloss": ""
     },
     {
       "surface": "אני",
@@ -94,15 +94,15 @@
     },
     {
       "surface": "ואחי",
-      "gloss": "nabafowethu"
+      "gloss": "nabantakwethu"
     },
     {
       "surface": "לחם",
-      "gloss": "isonka"
+      "gloss": "ukutya"
     },
     {
       "surface": "הפחה",
-      "gloss": "somlawuli"
+      "gloss": "komlawuli"
     },
     {
       "surface": "לא",
@@ -110,9 +110,9 @@
     },
     {
       "surface": "אכלתי",
-      "gloss": "sisityanga"
+      "gloss": "tyanga"
     }
   ],
-  "timestamp": "2026-09-18T18:53:37.220757448Z",
+  "timestamp": "2026-09-19T14:08:04.361607116Z",
   "model": "glm-5.3"
 }

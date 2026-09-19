@@ -5,7 +5,7 @@
   "book": "deuteronomy",
   "lang": "xh",
   "chapter": 1,
-  "translation": "UYehoshuwa unyana kaNuni, ome phambi kwakho, yena uza kungena khona; yena ⟨את⟩ mqinisa, kuba yena uza kuyilisela uSirayeli.",
+  "translation": "UYehoshuwa unyana kaNuni, othe ese phambi kwakho, yena uza kungena khona; yena umxhasise, kuba yena uza kwenza u-Israel ⟨את⟩ ulifa lwawo.",
   "tokens": [
     {
       "surface": "יהושע",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "העמד",
-      "gloss": "omi"
+      "gloss": "othe ese"
     },
     {
       "surface": "לפניך",
@@ -41,12 +41,11 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩",
-      "marks": "mqinisa — yena (uYehoshuwa)"
+      "gloss": "⟨את⟩"
     },
     {
       "surface": "חזק",
-      "gloss": "mqinisa"
+      "gloss": "umxhasise"
     },
     {
       "surface": "כי",
@@ -58,18 +57,18 @@
     },
     {
       "surface": "ינחלנה",
-      "gloss": "uza kuyilisela"
+      "gloss": "uza kwenza…ulifa"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "uSirayeli"
+      "marks": "u-Israel"
     },
     {
       "surface": "ישראל",
-      "gloss": "uSirayeli"
+      "gloss": "u-Israel"
     }
   ],
-  "timestamp": "2026-09-18T07:52:03.262151445Z",
+  "timestamp": "2026-09-19T13:48:14.070403656Z",
   "model": "glm-5.3"
 }

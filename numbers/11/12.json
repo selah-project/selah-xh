@@ -5,20 +5,20 @@
   "book": "numbers",
   "lang": "xh",
   "chapter": 11,
-  "translation": "Ndingumama-na wawo onke la mntu? Ndingumdali-na wawo, ukuba uthetha kum: Yithwale esifubeni sakho, njengokuba umthunjisi ethwala ⟨את⟩ umntwana omuncishayo, ude awwisele kwilizwe elingcweleyo elimnandi elathembiswela abooyise?",
+  "translation": "Ngaba mna ndazalela ⟨את⟩ wonke loo bantu? Okanye mna ndamzalela yena, ukuba uthethe kum: “Yithwale esifubeni sakho, njengoko unina ⟨את⟩ ethwalela umntwana oncelayo, uze uye kuloo ndawo yomhlaba awafungela ooyise bawo?”",
   "tokens": [
     {
       "surface": "האנכי",
-      "gloss": "Ndingumama-na"
+      "gloss": "mna"
     },
     {
       "surface": "הריתי",
-      "gloss": "wawo onke"
+      "gloss": "ndazalela"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "la mntu wonke"
+      "marks": "wonke loo bantu"
     },
     {
       "surface": "כל",
@@ -26,23 +26,23 @@
     },
     {
       "surface": "העם",
-      "gloss": "la mntu"
+      "gloss": "loo bantu"
     },
     {
       "surface": "הזה",
-      "gloss": "la"
+      "gloss": "loo"
     },
     {
       "surface": "אם",
-      "gloss": "na"
+      "gloss": "okanye"
     },
     {
       "surface": "אנכי",
-      "gloss": "Ndingumdali-na"
+      "gloss": "mna"
     },
     {
       "surface": "ילדתיהו",
-      "gloss": "wawo"
+      "gloss": "ndamzalela yena"
     },
     {
       "surface": "כי",
@@ -50,7 +50,7 @@
     },
     {
       "surface": "תאמר",
-      "gloss": "uthetha"
+      "gloss": "uthethe"
     },
     {
       "surface": "אלי",
@@ -66,46 +66,46 @@
     },
     {
       "surface": "כאשר",
-      "gloss": "njengokuba"
+      "gloss": "njengoko"
     },
     {
-      "surface": "ישא",
-      "gloss": "ethwala"
+      "surface": "יישא",
+      "gloss": "ethwalela"
     },
     {
       "surface": "האמן",
-      "gloss": "umthunjisi"
+      "gloss": "unina"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "umntwana omuncishayo"
+      "marks": "umntwana oncelayo"
     },
     {
       "surface": "הינק",
-      "gloss": "umntwana omuncishayo"
+      "gloss": "umntwana oncelayo"
     },
     {
       "surface": "על",
-      "gloss": "ude awwisele"
+      "gloss": "uye ku"
     },
     {
       "surface": "האדמה",
-      "gloss": "kwilizwe elingcweleyo elimnandi"
+      "gloss": "loo ndawo yomhlaba"
     },
     {
       "surface": "אשר",
-      "gloss": "ela"
+      "gloss": "—"
     },
     {
       "surface": "נשבעת",
-      "gloss": "elathembiswela"
+      "gloss": "awafungela"
     },
     {
       "surface": "לאבתיו",
-      "gloss": "abooyise"
+      "gloss": "ooyise bawo"
     }
   ],
-  "timestamp": "2026-09-18T07:25:18.844475182Z",
+  "timestamp": "2026-09-19T14:08:57.543887083Z",
   "model": "glm-5.3"
 }

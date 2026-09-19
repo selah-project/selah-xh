@@ -5,15 +5,15 @@
   "book": "2-samuel",
   "lang": "xh",
   "chapter": 15,
-  "translation": "UDawidi wathi kuwo onke amakhonzi ake ababenaye eYerushalayimi: “Sukani, sibaleke, kuba asibinakusinda ekuboneni u-Avshalom; khawulezani ukuhamba, hlezi exhamfutha asibambe, asilahlisele ububi, abethe isixeko ngomlomo wekrele.”",
+  "translation": "Wathetha uDavide kuwo onke izicaka zakhe ezazingasesiYerushalayimi: “Sukani, sibaleke, kuba akukho balekiselelo eliza kusivumela kubuso bukaAvshalom; zixhobilem ukuhamba, hleze achashe asibambe, asibethe ngeentshumba ⟨את⟩ ububi phezu kwethu, abethe isixeko ngomlomo wekrele.”",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "wathi"
+      "gloss": "Wathetha"
     },
     {
       "surface": "דוד",
-      "gloss": "uDawidi"
+      "gloss": "uDavide"
     },
     {
       "surface": "לכל",
@@ -21,19 +21,19 @@
     },
     {
       "surface": "עבדיו",
-      "gloss": "amakhonzi ake"
+      "gloss": "izicaka zakhe"
     },
     {
       "surface": "אשר",
-      "gloss": "abay"
+      "gloss": "ezazi"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ benaye"
+      "gloss": "kunye naye ⟨את⟩"
     },
     {
       "surface": "בירושלם",
-      "gloss": "eYerushalayimi"
+      "gloss": "ngasesiYerushalayimi"
     },
     {
       "surface": "קומו",
@@ -49,31 +49,31 @@
     },
     {
       "surface": "לא",
-      "gloss": "asi"
+      "gloss": "akukho"
     },
     {
       "surface": "תהיה",
-      "gloss": "binakuba"
+      "gloss": "iza kubakho"
     },
     {
       "surface": "לנו",
-      "gloss": "thi"
+      "gloss": "kuthi"
     },
     {
       "surface": "פליטה",
-      "gloss": "ukusinda"
+      "gloss": "balekiselelo"
     },
     {
       "surface": "מפני",
-      "gloss": "ekuboneni"
+      "gloss": "kubuso buka"
     },
     {
       "surface": "אבשלום",
-      "gloss": "u-Avshalom"
+      "gloss": "Avshalom"
     },
     {
       "surface": "מהרו",
-      "gloss": "Khawulezani"
+      "gloss": "zixhobilem"
     },
     {
       "surface": "ללכת",
@@ -81,11 +81,11 @@
     },
     {
       "surface": "פן",
-      "gloss": "hlezi"
+      "gloss": "hleze"
     },
     {
       "surface": "ימהר",
-      "gloss": "exhamfutha"
+      "gloss": "achashe"
     },
     {
       "surface": "והשגנו",
@@ -93,16 +93,16 @@
     },
     {
       "surface": "והדיח",
-      "gloss": "asilahlisele"
+      "gloss": "asibethe ngeentshumba"
     },
     {
       "surface": "עלינו",
-      "gloss": "thi"
+      "gloss": "phezu kwethu"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ububi"
+      "marks": "ububi (הרעה)"
     },
     {
       "surface": "הרעה",
@@ -110,7 +110,7 @@
     },
     {
       "surface": "והכה",
-      "gloss": "abetha"
+      "gloss": "abethe"
     },
     {
       "surface": "העיר",
@@ -118,13 +118,13 @@
     },
     {
       "surface": "לפי",
-      "gloss": "ngomlomo"
+      "gloss": "ngomlomo we"
     },
     {
       "surface": "חרב",
-      "gloss": "wekrele"
+      "gloss": "krele"
     }
   ],
-  "timestamp": "2026-09-18T09:55:55.696051714Z",
+  "timestamp": "2026-09-19T13:48:07.371394603Z",
   "model": "glm-5.3"
 }

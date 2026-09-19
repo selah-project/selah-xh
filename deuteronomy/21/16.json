@@ -5,11 +5,11 @@
   "book": "deuteronomy",
   "lang": "xh",
   "chapter": 21,
-  "translation": "Kuthuke, ngosuku olwahlawulisa ngalo iinkwenkwana yakhe ⟨את⟩ onke oko angakanako, akakwazi ukubhengeca ⟨את⟩ unyana wethandiweyo njengowazalwa kuqala phambi konyana weyinaweleyo, lowo owazalwa kuqala.",
+  "translation": "Kwakuthi, ngosuku anikela ngalo ifa ⟨את⟩ oonakwe ⟨את⟩ okokuya kubakho kuye, akakwazi ukubekisa ⟨את⟩ unyana wothandwayo phezu kobuso lomnyana wesiwayo, owazalwa kuqala.",
   "tokens": [
     {
       "surface": "והיה",
-      "gloss": "kuthuke"
+      "gloss": "Kwakuthi"
     },
     {
       "surface": "ביום",
@@ -17,21 +17,21 @@
     },
     {
       "surface": "הנחילו",
-      "gloss": "olwahlawulisa ngalo"
+      "gloss": "anikela ngalo ifa"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "onke oko angakanako"
+      "marks": "oonakwe"
     },
     {
       "surface": "בניו",
-      "gloss": "iinkwenkwana yakhe"
+      "gloss": "oonakwe"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "onke oko angakanako"
+      "marks": "okokuya kubakho kuye"
     },
     {
       "surface": "אשר",
@@ -39,28 +39,28 @@
     },
     {
       "surface": "יהיה",
-      "gloss": "angakanako"
+      "gloss": "kuya kubakho"
     },
     {
       "surface": "לו",
-      "gloss": "kwakhe"
+      "gloss": "kuye"
     },
     {
       "surface": "לא",
-      "gloss": "hayi"
-    },
-    {
-      "surface": "יוכל",
       "gloss": "akakwazi"
     },
     {
+      "surface": "יוכל",
+      "gloss": "ukwazi"
+    },
+    {
       "surface": "לבכר",
-      "gloss": "ukubhengeca njengowazalwa kuqala"
+      "gloss": "ukubekisa njengowazalwa kuqala"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "unyana wethandiweyo"
+      "marks": "unyana wothandwayo"
     },
     {
       "surface": "בן",
@@ -68,7 +68,7 @@
     },
     {
       "surface": "האהובה",
-      "gloss": "wethandiweyo"
+      "gloss": "wothandwayo"
     },
     {
       "surface": "על",
@@ -76,21 +76,21 @@
     },
     {
       "surface": "פני",
-      "gloss": "phambi"
+      "gloss": "kubuso"
     },
     {
       "surface": "בן",
-      "gloss": "konyana"
+      "gloss": "unyana"
     },
     {
       "surface": "השנואה",
-      "gloss": "weyinaweleyo"
+      "gloss": "wesiwayo"
     },
     {
       "surface": "הבכר",
-      "gloss": "lowo owazalwa kuqala"
+      "gloss": "owazalwa kuqala"
     }
   ],
-  "timestamp": "2026-09-18T08:13:28.902915363Z",
+  "timestamp": "2026-09-19T13:49:40.337652956Z",
   "model": "glm-5.3"
 }

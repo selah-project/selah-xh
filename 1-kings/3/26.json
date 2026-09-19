@@ -5,7 +5,7 @@
   "book": "1-kings",
   "lang": "xh",
   "chapter": 3,
-  "translation": "Wathetha umfazi owawungowakhe umntwana ophilayo, esithi kweenkosi, kuba iintliziyo zakhe zazinengxele ngonyana wakhe; wathi: “Ndiyacela, ndikum, nikele yena umntwana ophilayo, musani ukumbulala.” Yena lo umpha lo mntu: “Makabe naliphi elam, naliphi elakho, hayi — nitsike.”",
+  "translation": "Wathetha umfazi ongowayo umntwana ophilayo, kumkumkani, kuba iirhami zakhe zazithwalwa ngaphezu komntwana wakhe; wathetha wathi: “Ndicela, nkosi yam, nimnikeni yena ⟨את⟩ umntwana ovelweyo ophilayo, ningingabulali ngokupheleleyo.” Lo wasala wathi: “Nakum mna, nakuniwe, akayi kubakho; nisike.”",
   "tokens": [
     {
       "surface": "ותאמר",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "אשר",
-      "gloss": "owawungowakhe"
+      "gloss": "ongowayo"
     },
     {
       "surface": "בנה",
@@ -29,11 +29,11 @@
     },
     {
       "surface": "אל",
-      "gloss": "kweenkosi"
+      "gloss": "ku"
     },
     {
       "surface": "המלך",
-      "gloss": "nkosi"
+      "gloss": "kumkumkani"
     },
     {
       "surface": "כי",
@@ -41,35 +41,35 @@
     },
     {
       "surface": "נכמרו",
-      "gloss": "zazinengxele"
+      "gloss": "zazithwalwa"
     },
     {
       "surface": "רחמיה",
-      "gloss": "iintliziyo zakhe"
+      "gloss": "iirhami zakhe"
     },
     {
       "surface": "על",
-      "gloss": "nga-"
+      "gloss": "ngaphezu"
     },
     {
       "surface": "בנה",
-      "gloss": "onyana wakhe"
+      "gloss": "komntwana wakhe"
     },
     {
       "surface": "ותאמר",
-      "gloss": "wathi"
+      "gloss": "wathetha"
     },
     {
       "surface": "בי",
-      "gloss": "ndiyacela"
+      "gloss": "Ndicela"
     },
     {
       "surface": "אדני",
-      "gloss": "ndikum"
+      "gloss": "nkosi yam"
     },
     {
       "surface": "תנו",
-      "gloss": "nikele"
+      "gloss": "nimnikeni"
     },
     {
       "surface": "לה",
@@ -78,11 +78,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "umntwana ophilayo"
+      "marks": "umntwana ovelweyo ophilayo"
     },
     {
       "surface": "הילוד",
-      "gloss": "umntwana"
+      "gloss": "umntwana ovelweyo"
     },
     {
       "surface": "החי",
@@ -90,7 +90,7 @@
     },
     {
       "surface": "והמת",
-      "gloss": "musani ukumbulala"
+      "gloss": "ningingabulali"
     },
     {
       "surface": "אל",
@@ -98,45 +98,45 @@
     },
     {
       "surface": "תמיתהו",
-      "gloss": "ukumbulala"
+      "gloss": "ukumbulala ngokupheleleyo"
     },
     {
       "surface": "וזאת",
-      "gloss": "yena lo"
+      "gloss": "Lo wasala"
     },
     {
       "surface": "אמרת",
-      "gloss": "umpha"
+      "gloss": "wathi"
     },
     {
       "surface": "גם",
-      "gloss": "naliphi elam"
+      "gloss": "nakum"
     },
     {
       "surface": "לי",
-      "gloss": "elam"
+      "gloss": "mna"
     },
     {
       "surface": "גם",
-      "gloss": "naliphi elakho"
+      "gloss": "nakuniwe"
     },
     {
       "surface": "לך",
-      "gloss": "elakho"
+      "gloss": "nawe"
     },
     {
       "surface": "לא",
-      "gloss": "hayi"
+      "gloss": "akayi"
     },
     {
       "surface": "יהיה",
-      "gloss": "makabe"
+      "gloss": "kubakho"
     },
     {
       "surface": "גזרו",
-      "gloss": "nitsike"
+      "gloss": "nisike"
     }
   ],
-  "timestamp": "2026-09-18T17:31:05.246150598Z",
+  "timestamp": "2026-09-19T13:43:02.988324817Z",
   "model": "glm-5.3"
 }

@@ -5,71 +5,70 @@
   "book": "leviticus",
   "lang": "xh",
   "chapter": 7,
-  "translation": "Kuba ibele lokunyukuzisa nangeenyawo zonikelwa ndazithabatha ⟨את⟩ kwabantwana baka-Israyeli, kwezinnikezelo zezincebiselo zabo, ndazibeka ⟨את⟩ zonka ku-Aharon umngcedi nakubantwana bakhe, njengesigqibo sobukho busengunaphakade ⟨את⟩ kwabantwana baka-Israyeli.",
+  "translation": "Kuba ndithabathe ⟨את⟩ ifuba lokunyuswa kunye ⟨את⟩ nethanga lweTeruma, ndithabatha ku⟨את⟩ bantwana bakaSirayeli, ezibingeleleni zoxolo zabo, ndaza ndabanika ⟨אתם⟩ ku-Aharon umpristi nakubantwana bakhe, njengesabelo somthetho ngonaphakade, kubantwana bakaSirayeli.",
   "tokens": [
     {
       "surface": "כי",
-      "gloss": "kuba"
+      "gloss": "Kuba"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ibele"
+      "marks": "ifuba lokunyuswa"
     },
     {
       "surface": "חזה",
-      "gloss": "ibele"
+      "gloss": "ifuba"
     },
     {
       "surface": "התנופה",
-      "gloss": "lokunyukuzisa"
+      "gloss": "lokunyuswa"
     },
     {
       "surface": "ואת",
-      "gloss": "nangeenyawo ⟨את⟩",
-      "marks": "inyawo"
+      "gloss": "kunye ⟨את⟩",
+      "marks": "ithanga lweTeruma"
     },
     {
       "surface": "שוק",
-      "gloss": "neenyawo"
+      "gloss": "ithanga"
     },
     {
       "surface": "התרומה",
-      "gloss": "zonikelwa"
+      "gloss": "lweTeruma"
     },
     {
       "surface": "לקחתי",
-      "gloss": "ndazithabatha"
+      "gloss": "ndithabathe"
     },
     {
       "surface": "מאת",
-      "gloss": "⟨את⟩ kwabantwana",
-      "marks": "abantwana baka-Israyeli"
+      "gloss": "ku⟨את⟩ bantwana"
     },
     {
       "surface": "בני",
-      "gloss": "abantwana"
+      "gloss": "bantwana"
     },
     {
       "surface": "ישראל",
-      "gloss": "baka-Israyeli"
+      "gloss": "kaSirayeli"
     },
     {
       "surface": "מזבחי",
-      "gloss": "kwezinnikezelo"
+      "gloss": "ezibingeleleni"
     },
     {
       "surface": "שלמיהם",
-      "gloss": "zezincebiselo zabo"
+      "gloss": "zoxolo zabo"
     },
     {
       "surface": "ואתן",
-      "gloss": "ndazibeka"
+      "gloss": "ndaza ndabanika"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩ zonka",
-      "marks": "ibele neenyawo"
+      "gloss": "⟨אתם⟩",
+      "marks": "ku-Aharon umpristi nakubantwana bakhe"
     },
     {
       "surface": "לאהרן",
@@ -77,7 +76,7 @@
     },
     {
       "surface": "הכהן",
-      "gloss": "umngcedi"
+      "gloss": "umpristi"
     },
     {
       "surface": "ולבניו",
@@ -85,26 +84,25 @@
     },
     {
       "surface": "לחק",
-      "gloss": "njengesigqibo"
+      "gloss": "njengesabelo somthetho"
     },
     {
       "surface": "עולם",
-      "gloss": "sobukho busengunaphakade"
+      "gloss": "ngonaphakade"
     },
     {
       "surface": "מאת",
-      "gloss": "⟨את⟩ kwabantwana",
-      "marks": "abantwana baka-Israyeli"
+      "gloss": "ku⟨את⟩ bantwana"
     },
     {
       "surface": "בני",
-      "gloss": "abantwana"
+      "gloss": "bantwana"
     },
     {
       "surface": "ישראל",
-      "gloss": "baka-Israyeli"
+      "gloss": "kaSirayeli"
     }
   ],
-  "timestamp": "2026-09-18T06:36:48.151737872Z",
+  "timestamp": "2026-09-19T14:07:24.271284187Z",
   "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "leviticus",
   "lang": "xh",
   "chapter": 8,
-  "translation": "Wathetha uMoshe ku-Aharon nakwiinyana zakhe: “Phekani ⟨את⟩ inyama emnyango wentente yomdibano; naphi ndiyakutya, nange⟨את⟩ isonka esisokhwameni sezokugcwalisa, njengoko ndidayalele ngokuthi: u-Aharon neenyana zakhe mazidye.”",
+  "translation": "Wathetha uMoshe ku-Aharon nakwawo oonyana bakhe: “Phekani ⟨את⟩ inyama ngasemnyango wehema yomdibano, apha niyakutyi ⟨אתו⟩, nesona ⟨את⟩ isonka esikwisalathi sokumisela, njengokuba ndandiyalele ndithi: u-Aharon noonyana bakhe bayakutyitya.”",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -25,11 +25,11 @@
     },
     {
       "surface": "ואל",
-      "gloss": "nakwi-"
+      "gloss": "nakwa-"
     },
     {
       "surface": "בניו",
-      "gloss": "nyana zakhe"
+      "gloss": "oonyana bakhe"
     },
     {
       "surface": "בשלו",
@@ -46,11 +46,11 @@
     },
     {
       "surface": "פתח",
-      "gloss": "emnyango"
+      "gloss": "ngasemnyango"
     },
     {
       "surface": "אהל",
-      "gloss": "wentente"
+      "gloss": "wehema"
     },
     {
       "surface": "מועד",
@@ -58,48 +58,49 @@
     },
     {
       "surface": "ושם",
-      "gloss": "naphi"
+      "gloss": "apha"
     },
     {
       "surface": "תאכלו",
-      "gloss": "niyakutya"
+      "gloss": "niyakutyi"
     },
     {
       "surface": "אתו",
-      "gloss": "yona ⟨את⟩"
+      "gloss": "⟨אתו⟩",
+      "marks": "(isonka) njengoko"
     },
     {
       "surface": "ואת",
-      "gloss": "nage⟨את⟩",
+      "gloss": "nesona ⟨את⟩",
       "marks": "isonka"
     },
     {
       "surface": "הלחם",
-      "gloss": "isonka"
+      "gloss": "esonka"
     },
     {
       "surface": "אשר",
-      "gloss": "esisokhwameni"
+      "gloss": "esikwi-"
     },
     {
       "surface": "בסל",
-      "gloss": "esisokhwameni"
+      "gloss": "salathini"
     },
     {
       "surface": "המלאים",
-      "gloss": "sezokugcwalisa"
+      "gloss": "sokumisela"
     },
     {
       "surface": "כאשר",
-      "gloss": "njengoko"
+      "gloss": "njengokuba"
     },
     {
       "surface": "צויתי",
-      "gloss": "ndidayalele"
+      "gloss": "ndandiyalele"
     },
     {
       "surface": "לאמר",
-      "gloss": "ngokuthi"
+      "gloss": "ndithi"
     },
     {
       "surface": "אהרן",
@@ -107,13 +108,13 @@
     },
     {
       "surface": "ובניו",
-      "gloss": "neenyana zakhe"
+      "gloss": "noonyana bakhe"
     },
     {
       "surface": "יאכלהו",
-      "gloss": "mazidye"
+      "gloss": "bayakutyitya"
     }
   ],
-  "timestamp": "2026-09-18T06:43:07.301372229Z",
+  "timestamp": "2026-09-19T14:07:19.260724275Z",
   "model": "glm-5.3"
 }

@@ -5,11 +5,11 @@
   "book": "ezekiel",
   "lang": "xh",
   "chapter": 20,
-  "translation": "Kodwa iliso lam lathethelela ngokuzinza ukutshatyalaliswa kwabo, andenze ngokubasela isiphelo esipheleleyo entlangobeni.",
+  "translation": "Kananjalo iliso lam lYabahlela phezu kwabo ukungabahamba-bi, andenzanga ⟨את⟩ ukutshabalalisa kwabo phakathi kwentlango.",
   "tokens": [
     {
       "surface": "ותחס",
-      "gloss": "lathethelela ngokuzinza"
+      "gloss": "kananjalo iliso lam lyabahlela"
     },
     {
       "surface": "עיני",
@@ -17,34 +17,34 @@
     },
     {
       "surface": "עליהם",
-      "gloss": "kuwo"
+      "gloss": "phezu kwabo"
     },
     {
       "surface": "משחתם",
-      "gloss": "ukutshatyalaliswa kwabo"
+      "gloss": "ukungabahamba-bi"
     },
     {
       "surface": "ולא",
-      "gloss": "andi-"
+      "gloss": "andenzanga"
     },
     {
       "surface": "עשיתי",
-      "gloss": "ndenze"
+      "gloss": "andenzanga"
     },
     {
       "surface": "אותם",
       "gloss": "⟨את⟩",
-      "marks": "bona"
+      "marks": "ukutshabalalisa kwabo"
     },
     {
       "surface": "כלה",
-      "gloss": "isiphelo esipheleleyo"
+      "gloss": "ukutshabalalisa kwabo"
     },
     {
       "surface": "במדבר",
-      "gloss": "entlangobeni"
+      "gloss": "phakathi kwentlango"
     }
   ],
-  "timestamp": "2026-09-18T13:09:42.581930888Z",
+  "timestamp": "2026-09-19T13:53:47.883770257Z",
   "model": "glm-5.3"
 }

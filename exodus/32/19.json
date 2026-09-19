@@ -5,15 +5,15 @@
   "book": "exodus",
   "lang": "xh",
   "chapter": 32,
-  "translation": "Kwathi, xa esondela ⟨ku⟩enkampini, wabona ⟨את⟩ ithole nomdanso; ulaka lukaMoshe lwatsha, wazilahla iitafile ezandleni yakhe, waziphula phantsi kwentaba.",
+  "translation": "Yabonakala okokuba, akangena uMoshe esondela nasedolophini, wabona ⟨את⟩ inkunzi yehagu nomdanso; wababisa ulaka lwakhe uMoshe, wazithula ezandleni zakhe ⟨את⟩ iitafile, wazitshabalalisa ngaphantsi kwentaba.",
   "tokens": [
     {
       "surface": "ויהי",
-      "gloss": "Kwathi"
+      "gloss": "yabonakala okokuba"
     },
     {
       "surface": "כאשר",
-      "gloss": "xa"
+      "gloss": "akangena"
     },
     {
       "surface": "קרב",
@@ -21,11 +21,11 @@
     },
     {
       "surface": "אל",
-      "gloss": "ku"
+      "gloss": "e-"
     },
     {
       "surface": "המחנה",
-      "gloss": "enkampini"
+      "gloss": "asedolophini (umhla-ndlela)"
     },
     {
       "surface": "וירא",
@@ -34,11 +34,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ithole"
+      "marks": "inkunzi yehagu"
     },
     {
       "surface": "העגל",
-      "gloss": "ithole"
+      "gloss": "inkunzi yehagu"
     },
     {
       "surface": "ומחלת",
@@ -46,23 +46,23 @@
     },
     {
       "surface": "ויחר",
-      "gloss": "lwatsha"
+      "gloss": "wababisa"
     },
     {
       "surface": "אף",
-      "gloss": "ulaka"
+      "gloss": "ulaka (imarha)"
     },
     {
       "surface": "משה",
-      "gloss": "lukaMoshe"
+      "gloss": "uMoshe"
     },
     {
       "surface": "וישלך",
-      "gloss": "wazilahla"
+      "gloss": "wazithula"
     },
     {
       "surface": "מידו",
-      "gloss": "ezandleni"
+      "gloss": "ezandleni zakhe"
     },
     {
       "surface": "את",
@@ -75,22 +75,22 @@
     },
     {
       "surface": "וישבר",
-      "gloss": "waziphula"
+      "gloss": "wazitshabalalisa"
     },
     {
       "surface": "אתם",
       "gloss": "⟨את⟩",
-      "marks": "iitafile"
+      "marks": "zona (iitafile)"
     },
     {
       "surface": "תחת",
-      "gloss": "phantsi"
+      "gloss": "ngaphantsi kwe-"
     },
     {
       "surface": "ההר",
-      "gloss": "kwentaba"
+      "gloss": "intaba"
     }
   ],
-  "timestamp": "2026-09-18T06:23:05.579214384Z",
+  "timestamp": "2026-09-19T13:52:36.488080984Z",
   "model": "glm-5.3"
 }

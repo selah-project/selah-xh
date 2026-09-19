@@ -5,11 +5,11 @@
   "book": "1-samuel",
   "lang": "xh",
   "chapter": 14,
-  "translation": "Amadoda asikhululo aphendula ⟨את⟩ uYonathani no-⟨את⟩ umthwali wezixhobo zakhe, athi: “Nyukelani kithi, siya kunibonisa into ethile.” UYonathani wathi kumthwali wezixhobo zakhe: “Nyuka emva kwam, kuba ubanikile uYahwe esandleni sika-Israel.”",
+  "translation": "Amadoda omlindi waphendula uYonathan ⟨את⟩ nomthwali wezixhobo zakhe, athi: “Khanyela phezulu kuni, kuya kuboniswa nina into.” Wathi uYonathan kumthwali wezixhobo zakhe: “Khanyela phaya ngasemva kwam, kuba uYahwe ubanikele esandleni sikaSirayeli.”",
   "tokens": [
     {
       "surface": "ויענו",
-      "gloss": "aphendula"
+      "gloss": "waphendula"
     },
     {
       "surface": "אנשי",
@@ -17,25 +17,25 @@
     },
     {
       "surface": "המצבה",
-      "gloss": "asikhululo"
+      "gloss": "omlindi"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "uYonathani"
+      "marks": "uYonathan"
     },
     {
       "surface": "יונתן",
-      "gloss": "uYonathani"
+      "gloss": "uYonathan"
     },
     {
       "surface": "ואת",
-      "gloss": "no-⟨את⟩",
-      "marks": "umthwali wezixhobo zakhe"
+      "gloss": "⟨את⟩",
+      "marks": "nomthwali wezixhobo zakhe"
     },
     {
       "surface": "נשא",
-      "gloss": "umthwali"
+      "gloss": "nomthwali"
     },
     {
       "surface": "כליו",
@@ -47,23 +47,24 @@
     },
     {
       "surface": "עלו",
-      "gloss": "nyukelani"
+      "gloss": "khanyela phezulu"
     },
     {
       "surface": "אלינו",
-      "gloss": "kithi"
+      "gloss": "kuni"
     },
     {
       "surface": "ונודיעה",
-      "gloss": "siya kunibonisa"
+      "gloss": "kuya kuboniswa"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ nin\u0000"
+      "gloss": "⟨את⟩ nina",
+      "marks": "into"
     },
     {
       "surface": "דבר",
-      "gloss": "into ethile"
+      "gloss": "into"
     },
     {
       "surface": "ויאמר",
@@ -71,7 +72,7 @@
     },
     {
       "surface": "יונתן",
-      "gloss": "uYonathani"
+      "gloss": "uYonathan"
     },
     {
       "surface": "אל",
@@ -87,11 +88,11 @@
     },
     {
       "surface": "עלה",
-      "gloss": "nyuka"
+      "gloss": "khanyela"
     },
     {
       "surface": "אחרי",
-      "gloss": "emva kwam"
+      "gloss": "phaya ngasemva kwam"
     },
     {
       "surface": "כי",
@@ -99,7 +100,7 @@
     },
     {
       "surface": "נתנם",
-      "gloss": "ubanikile"
+      "gloss": "ubanikele"
     },
     {
       "surface": "יהוה",
@@ -107,13 +108,13 @@
     },
     {
       "surface": "ביד",
-      "gloss": "esandleni"
+      "gloss": "esandleni sa"
     },
     {
       "surface": "ישראל",
-      "gloss": "sika-Israel"
+      "gloss": "kaSirayeli"
     }
   ],
-  "timestamp": "2026-09-18T09:26:33.327059665Z",
+  "timestamp": "2026-09-19T13:42:48.670295122Z",
   "model": "glm-5.3"
 }

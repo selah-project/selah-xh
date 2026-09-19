@@ -5,35 +5,35 @@
   "book": "2-kings",
   "lang": "xh",
   "chapter": 1,
-  "translation": "Wathetha ithonya likaYahwe kuEliya: Yehla naye; musa ukoyika ubuso bakhe. Wavuka, wehla naye, waya kumkani.",
+  "translation": "Wathetha isithunywa sikaYahwe ku-Eliyahu, wathi: “Ehla ⟨את⟩ naye; musa ukoyika ubuso bakhe.” Wavuka, wehla ⟨את⟩ naye, waya kuyena ⟨inkosi⟩.",
   "tokens": [
     {
       "surface": "וידבר",
-      "gloss": "Wathetha"
+      "gloss": "wathetha"
     },
     {
       "surface": "מלאך",
-      "gloss": "ithonya"
+      "gloss": "isithunywa"
     },
     {
       "surface": "יהוה",
-      "gloss": "likaYahwe"
+      "gloss": "uYahwe"
     },
     {
       "surface": "אל",
-      "gloss": "ku"
+      "gloss": "ku-"
     },
     {
       "surface": "אליהו",
-      "gloss": "uEliya"
+      "gloss": "u-Eliyahu"
     },
     {
       "surface": "רד",
-      "gloss": "Yehla"
+      "gloss": "ehla"
     },
     {
       "surface": "אותו",
-      "gloss": "⟨את⟩ naye",
+      "gloss": "⟨את⟩",
       "marks": "naye"
     },
     {
@@ -50,7 +50,7 @@
     },
     {
       "surface": "ויקם",
-      "gloss": "Wavuka"
+      "gloss": "wavuka"
     },
     {
       "surface": "וירד",
@@ -58,18 +58,18 @@
     },
     {
       "surface": "אותו",
-      "gloss": "⟨את⟩ naye",
+      "gloss": "⟨את⟩",
       "marks": "naye"
     },
     {
       "surface": "אל",
-      "gloss": "kwi"
+      "gloss": "kuyena"
     },
     {
       "surface": "המלך",
-      "gloss": "kumkani"
+      "gloss": "⟨inkosi⟩"
     }
   ],
-  "timestamp": "2026-09-18T10:39:25.242331053Z",
+  "timestamp": "2026-09-19T13:46:28.693888244Z",
   "model": "glm-5.3"
 }

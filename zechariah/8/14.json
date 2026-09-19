@@ -5,7 +5,7 @@
   "book": "zechariah",
   "lang": "xh",
   "chapter": 8,
-  "translation": "Kuba uthe uYahwe Tsebhayoti: njengoko bendicinga ukunenzakalisa, xa ooyihlo bendibangela intukuthzo — uthe uYahwe Tsebhayoti — kwaye andazange ndibuyele;",
+  "translation": "Kuba uthe uYahwe Tsebhayoti: Njengoko ndandingcangcwile ukwenza okubi kuni, xa ooyihlo benikrwareza ⟨את⟩ ndim, uthe uYahwe Tsebhayoti, andizange ndizisole;",
   "tokens": [
     {
       "surface": "כי",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "אמר",
-      "gloss": "uthe"
+      "gloss": "wathi"
     },
     {
       "surface": "יהוה",
@@ -33,19 +33,19 @@
     },
     {
       "surface": "זממתי",
-      "gloss": "bendicinga"
+      "gloss": "ndandingcangcwile"
     },
     {
       "surface": "להרע",
-      "gloss": "ukunenzakalisa"
+      "gloss": "ukwenza okubi"
     },
     {
       "surface": "לכם",
-      "gloss": "ni"
+      "gloss": "kuni"
     },
     {
       "surface": "בהקציף",
-      "gloss": "xa bebangela intukuthzo"
+      "gloss": "benikrwareza"
     },
     {
       "surface": "אבתיכם",
@@ -54,7 +54,7 @@
     {
       "surface": "אתי",
       "gloss": "⟨את⟩",
-      "marks": "mna"
+      "marks": "ndim"
     },
     {
       "surface": "אמר",
@@ -70,13 +70,13 @@
     },
     {
       "surface": "ולא",
-      "gloss": "kwaye hayi"
+      "gloss": "andizange"
     },
     {
       "surface": "נחמתי",
-      "gloss": "ndibuyele (ndingatsho ndiphekukile)"
+      "gloss": "ndizisole"
     }
   ],
-  "timestamp": "2026-09-18T14:20:26.941683955Z",
+  "timestamp": "2026-09-19T14:11:13.172594160Z",
   "model": "glm-5.3"
 }

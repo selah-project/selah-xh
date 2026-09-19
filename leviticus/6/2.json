@@ -5,7 +5,7 @@
   "book": "leviticus",
   "lang": "xh",
   "chapter": 6,
-  "translation": "Yala u-Aharon ⟨את⟩ nabantwana bakhe, uthi: Le yiTora yesentliselweni: yileyo entliselo ekwiyo impahla yotya phezu komthiyo, ixesha lonke lebusuku de kusekusasa; nomlilo womthiyo uyaqhubeka utshisa kuwo.",
+  "translation": "Yala ⟨את⟩ u-Aharon ⟨את⟩ nabanakwabo, ukutsho: Le yiTora yesenzo esitshiswayo: yisona esitshiswayo esiphelele emlilweni wokutshisa wona phezu kwaltari ixesha lonke lebusuku de kusemphuma kwakusasa; umlilo weetari uyaqhubeka utshisa kuwo.",
   "tokens": [
     {
       "surface": "צו",
@@ -22,15 +22,16 @@
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩ nabantwana bakhe"
+      "gloss": "⟨את⟩",
+      "marks": "nabanakwabo"
     },
     {
       "surface": "בניו",
-      "gloss": "abantwana bakhe"
+      "gloss": "nabanakwabo"
     },
     {
       "surface": "לאמר",
-      "gloss": "uthi"
+      "gloss": "ukutsho"
     },
     {
       "surface": "זאת",
@@ -42,23 +43,23 @@
     },
     {
       "surface": "העלה",
-      "gloss": "yesentliselweni"
+      "gloss": "yesenzo esitshiswayo"
     },
     {
       "surface": "הוא",
-      "gloss": "yileyo"
+      "gloss": "yisona"
     },
     {
       "surface": "העלה",
-      "gloss": "entliselo"
+      "gloss": "esitshiswayo"
     },
     {
       "surface": "על",
-      "gloss": "ekwiyo"
+      "gloss": "phezu"
     },
     {
       "surface": "מוקדה",
-      "gloss": "impahla yotya"
+      "gloss": "emlilweni wokutshisa"
     },
     {
       "surface": "על",
@@ -66,7 +67,7 @@
     },
     {
       "surface": "המזבח",
-      "gloss": "komthiyo"
+      "gloss": "kwaltari"
     },
     {
       "surface": "כל",
@@ -82,15 +83,15 @@
     },
     {
       "surface": "הבקר",
-      "gloss": "kusekusasa"
+      "gloss": "kusemphuma kwakusasa"
     },
     {
       "surface": "ואש",
-      "gloss": "nomlilo"
+      "gloss": "umlilo"
     },
     {
       "surface": "המזבח",
-      "gloss": "womthiyo"
+      "gloss": "weetari"
     },
     {
       "surface": "תוקד",
@@ -101,6 +102,6 @@
       "gloss": "kuwo"
     }
   ],
-  "timestamp": "2026-09-18T06:39:20.925955547Z",
+  "timestamp": "2026-09-19T14:07:15.305788364Z",
   "model": "glm-5.3"
 }

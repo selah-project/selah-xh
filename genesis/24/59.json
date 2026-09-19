@@ -5,11 +5,11 @@
   "book": "genesis",
   "lang": "xh",
   "chapter": 24,
-  "translation": "Bamthumela uRivka udadewabo, kunye nonosi wakhe, kunye nencekwanakazi lika-Avraham nabantu bakhe.",
+  "translation": "Bathumela uRivka umzekelisi wakhe, inenekazi layo, ⟨את⟩ kunye noenkokeli ka-Avraham nabantu bakhe.",
   "tokens": [
     {
       "surface": "וישלחו",
-      "gloss": "Bamthumela"
+      "gloss": "Bathumela"
     },
     {
       "surface": "את",
@@ -22,33 +22,33 @@
     },
     {
       "surface": "אחתם",
-      "gloss": "udadewabo"
+      "gloss": "umzekelisi wakhe"
     },
     {
       "surface": "ואת",
-      "gloss": "kunye ⟨את⟩",
-      "marks": "unosi wakhe"
+      "gloss": "⟨את⟩ nenekazi layo",
+      "marks": "inenekazi layo"
     },
     {
       "surface": "מנקתה",
-      "gloss": "unosi wakhe"
+      "gloss": "inenekazi layo"
     },
     {
       "surface": "ואת",
-      "gloss": "kunye ⟨את⟩",
-      "marks": "incekwanakazi lika-Avraham"
+      "gloss": "⟨את⟩ kunye noenkokeli",
+      "marks": "noenkokeli ka-Avraham"
     },
     {
       "surface": "עבד",
-      "gloss": "incekwanakazi"
+      "gloss": "noenkokeli"
     },
     {
       "surface": "אברהם",
-      "gloss": "lika-Avraham"
+      "gloss": "ka-Avraham"
     },
     {
       "surface": "ואת",
-      "gloss": "kunye ⟨את⟩",
+      "gloss": "⟨את⟩ kunye nabantu",
       "marks": "abantu bakhe"
     },
     {
@@ -56,6 +56,6 @@
       "gloss": "abantu bakhe"
     }
   ],
-  "timestamp": "2026-09-18T05:21:06.608763387Z",
+  "timestamp": "2026-09-19T13:56:28.890265801Z",
   "model": "glm-5.3"
 }

@@ -5,27 +5,27 @@
   "book": "exodus",
   "lang": "xh",
   "chapter": 12,
-  "translation": "Nathi izimvu zenu neenkomo zenu, zithabatheni njengoko nithethe, nihambeni; undululiselani nandiphi.",
+  "translation": "Kananjalo iimvu zenu, kananjalo iinkomo zenu, thathani, njengoko nithethile, nihambeni; nibulisela kananjalo ⟨את⟩ mna.",
   "tokens": [
     {
       "surface": "גם",
-      "gloss": "nathi"
+      "gloss": "kananjalo"
     },
     {
       "surface": "צאנכם",
-      "gloss": "izimvu zenu"
+      "gloss": "iimvu zenu"
     },
     {
       "surface": "גם",
-      "gloss": "ne-"
+      "gloss": "kananjalo"
     },
     {
       "surface": "בקרכם",
-      "gloss": "inkomo zenu"
+      "gloss": "iinkomo zenu"
     },
     {
       "surface": "קחו",
-      "gloss": "zithabatheni"
+      "gloss": "thathani"
     },
     {
       "surface": "כאשר",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "דברתם",
-      "gloss": "nithethe"
+      "gloss": "nithethile"
     },
     {
       "surface": "ולכו",
@@ -41,17 +41,18 @@
     },
     {
       "surface": "וברכתם",
-      "gloss": "undululiselani"
+      "gloss": "nibulisela"
     },
     {
       "surface": "גם",
-      "gloss": "nandiphi"
+      "gloss": "kananjalo"
     },
     {
       "surface": "אתי",
-      "gloss": "⟨את⟩ mna"
+      "gloss": "⟨את⟩",
+      "marks": "mna"
     }
   ],
-  "timestamp": "2026-09-18T06:00:57.344953774Z",
+  "timestamp": "2026-09-19T14:11:56.478503814Z",
   "model": "glm-5.3"
 }

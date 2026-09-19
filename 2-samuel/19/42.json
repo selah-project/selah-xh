@@ -5,7 +5,7 @@
   "book": "2-samuel",
   "lang": "xh",
   "chapter": 19,
-  "translation": "Kwaye nangona, onke amadoda aseYisrayeli aza kwiNkosi, athi kwiNkosi: kutheni ukuba abafowethu, amadoda aseYuda, bakutshontsha? bawudlulisa ⟨את⟩ inkosi nendlu yayo, ⟨את⟩ iYordan, kunye namadoda onke kaDawid naye.",
+  "translation": "Kwaye nangona, bonke amadoda akwaIsrayeli aza kukumkani, bathi kukumkani: “Kutheni abazalwana bethu, amadoda akwaYuda, bakubamba ngasese, baze badlulisa ⟨את⟩ umkani no⟨את⟩ indlu yakhe ngaphezu koMlambo iYardeni, kunye bonke amadoda kaDaudi naye?”",
   "tokens": [
     {
       "surface": "והנה",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "כל",
-      "gloss": "onke"
+      "gloss": "bonke"
     },
     {
       "surface": "איש",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "ישראל",
-      "gloss": "aseYisrayeli"
+      "gloss": "akwaIsrayeli"
     },
     {
       "surface": "באים",
@@ -29,23 +29,23 @@
     },
     {
       "surface": "אל",
-      "gloss": "kwi"
+      "gloss": "ku"
     },
     {
       "surface": "המלך",
-      "gloss": "iNkosi"
+      "gloss": "kumkani"
     },
     {
       "surface": "ויאמרו",
-      "gloss": "athi"
+      "gloss": "bathi"
     },
     {
       "surface": "אל",
-      "gloss": "kwi"
+      "gloss": "ku"
     },
     {
       "surface": "המלך",
-      "gloss": "iNkosi"
+      "gloss": "kumkani"
     },
     {
       "surface": "מדוע",
@@ -53,11 +53,11 @@
     },
     {
       "surface": "גנבוך",
-      "gloss": "bakutshontsha"
+      "gloss": "bakubamba ngasese"
     },
     {
       "surface": "אחינו",
-      "gloss": "abafowethu"
+      "gloss": "abazalwana bethu"
     },
     {
       "surface": "איש",
@@ -65,42 +65,42 @@
     },
     {
       "surface": "יהודה",
-      "gloss": "aseYuda"
+      "gloss": "akwaYuda"
     },
     {
       "surface": "ויעברו",
-      "gloss": "bawudlulisa"
+      "gloss": "baze badlulisa"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "iNkosi"
+      "marks": "umkani"
     },
     {
       "surface": "המלך",
-      "gloss": "iNkosi"
+      "gloss": "umkani"
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
-      "marks": "indlu yayo"
+      "gloss": "no⟨את⟩",
+      "marks": "indlu yakhe"
     },
     {
       "surface": "ביתו",
-      "gloss": "indlu yayo"
+      "gloss": "indlu yakhe"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "iYordan"
+      "marks": "uMlambo iYardeni"
     },
     {
       "surface": "הירדן",
-      "gloss": "iYordan"
+      "gloss": "uMlambo iYardeni"
     },
     {
       "surface": "וכל",
-      "gloss": "onke"
+      "gloss": "kunye bonke"
     },
     {
       "surface": "אנשי",
@@ -108,13 +108,13 @@
     },
     {
       "surface": "דוד",
-      "gloss": "kaDawid"
+      "gloss": "kaDaudi"
     },
     {
       "surface": "עמו",
       "gloss": "naye"
     }
   ],
-  "timestamp": "2026-09-18T10:04:20.003244671Z",
+  "timestamp": "2026-09-19T13:48:26.509762613Z",
   "model": "glm-5.3"
 }

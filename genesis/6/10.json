@@ -5,7 +5,7 @@
   "book": "genesis",
   "lang": "xh",
   "chapter": 6,
-  "translation": "UNosi wazala abantwana abathathu: uShemu, uKhami, noYefeti.",
+  "translation": "UNoach wazala abantwana abathathu abangamakhwenkwe: ⟨את⟩ uShemu, ⟨את⟩ uKhamu, noYefethi.",
   "tokens": [
     {
       "surface": "ויולד",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "נח",
-      "gloss": "uNosi"
+      "gloss": "UNoach"
     },
     {
       "surface": "שלשה",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "בנים",
-      "gloss": "abantwana"
+      "gloss": "abantwana abangamakhwenkwe"
     },
     {
       "surface": "את",
@@ -35,22 +35,22 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "uKhami"
+      "marks": "uKhamu"
     },
     {
       "surface": "חם",
-      "gloss": "uKhami"
+      "gloss": "uKhamu"
     },
     {
       "surface": "ואת",
       "gloss": "no⟨את⟩",
-      "marks": "uYefeti"
+      "marks": "uYefethi"
     },
     {
       "surface": "יפת",
-      "gloss": "uYefeti"
+      "gloss": "uYefethi"
     }
   ],
-  "timestamp": "2026-09-18T05:09:28.824529542Z",
+  "timestamp": "2026-09-19T13:57:58.704578706Z",
   "model": "glm-5.3"
 }

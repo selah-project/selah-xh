@@ -5,11 +5,11 @@
   "book": "leviticus",
   "lang": "xh",
   "chapter": 14,
-  "translation": "Kusuke ngosuku lwesixhenxe athelele wonke unyaniyane wakhe: ⟨את⟩ intloko yakhe, ⟨את⟩ ndebe yakhe, ⟨את⟩ neendonga zamehlo akhe; wonke unyaniyane wakhe uza kuthelela; axohle ⟨את⟩ impahla yakhe, ahlambe ⟨את⟩ umzimba wakhe ngamanzi, abe cocekileyo.",
+  "translation": "Kwaye kuya kubakho ngosuku lwesixhenxe, aza kulula ⟨את⟩ ulwele lwakhe lonke ⟨את⟩ intloko yakhe, ⟨את⟩ neendevu zakhe, ⟨את⟩ nemitha yamehlo akhe; ⟨את⟩ lonke ulwele lwakhe uza kulula. Aze uhlanze ⟨את⟩ iingubo zakhe, ageze ⟨את⟩ umzimba wakhe ngamanzi, abe cecile.",
   "tokens": [
     {
       "surface": "והיה",
-      "gloss": "Kusuke"
+      "gloss": "kuya kubakho"
     },
     {
       "surface": "ביום",
@@ -21,20 +21,20 @@
     },
     {
       "surface": "יגלח",
-      "gloss": "athelele"
+      "gloss": "aza kulula"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "wonke unyaniyane wakhe"
+      "marks": "ulwele lwakhe lonke"
     },
     {
       "surface": "כל",
-      "gloss": "wonke"
+      "gloss": "lonke"
     },
     {
       "surface": "שערו",
-      "gloss": "unyaniyane wakhe"
+      "gloss": "ulwele lwakhe"
     },
     {
       "surface": "את",
@@ -48,58 +48,58 @@
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "ndebe yakhe"
+      "marks": "neendevu zakhe"
     },
     {
       "surface": "זקנו",
-      "gloss": "ndebe yakhe"
+      "gloss": "neendevu zakhe"
     },
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "iindonga zamehlo akhe"
+      "marks": "nemitha yamehlo akhe"
     },
     {
       "surface": "גבת",
-      "gloss": "iindonga"
+      "gloss": "imitha"
     },
     {
       "surface": "עיניו",
-      "gloss": "zamehlo akhe"
+      "gloss": "yamehlo akhe"
     },
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "wonke unyaniyane wakhe"
+      "marks": "lonke ulwele lwakhe"
     },
     {
       "surface": "כל",
-      "gloss": "wonke"
+      "gloss": "lonke"
     },
     {
       "surface": "שערו",
-      "gloss": "unyaniyane wakhe"
+      "gloss": "ulwele lwakhe"
     },
     {
       "surface": "יגלח",
-      "gloss": "uza kuthelela"
+      "gloss": "uza kulula"
     },
     {
       "surface": "וכבס",
-      "gloss": "axohle"
+      "gloss": "aze uhlanze"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "impahla yakhe"
+      "marks": "iingubo zakhe"
     },
     {
       "surface": "בגדיו",
-      "gloss": "impahla yakhe"
+      "gloss": "iingubo zakhe"
     },
     {
       "surface": "ורחץ",
-      "gloss": "ahlambe"
+      "gloss": "ageze"
     },
     {
       "surface": "את",
@@ -116,9 +116,9 @@
     },
     {
       "surface": "וטהר",
-      "gloss": "abe cocekileyo"
+      "gloss": "abe cecile"
     }
   ],
-  "timestamp": "2026-09-18T06:49:39.501308583Z",
+  "timestamp": "2026-09-19T14:05:43.952410921Z",
   "model": "glm-5.3"
 }

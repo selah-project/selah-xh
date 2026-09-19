@@ -5,19 +5,19 @@
   "book": "exodus",
   "lang": "xh",
   "chapter": 29,
-  "translation": "Kananjalo uthabathe kulerham amafutha, nomtsalane wamafutha, nelamafutha abambelele emathumbini, nenxalenye yesibindi, neentsoho ezimbini, nelamafutha aphezu kwazo, nomlenze wesokudla, kuba le ⟨is⟩ iram yomthwaso ⟨is⟩.",
+  "translation": "Uthabathe kule nkunzi amafutha, nomsila omde womafutha, kunye no⟨את⟩ amafutha omele amathumbu, no⟨את⟩ isiphongo sesibindi, no⟨את⟩ iintsovu ezimbini, no⟨את⟩ amafutha aphezu kwazo, no⟨את⟩ umlenze ongasekunene; kuba inkunzi yokunikezelwa nguwo.",
   "tokens": [
     {
       "surface": "ולקחת",
-      "gloss": "uthabathe"
+      "gloss": "Uthabathe"
     },
     {
       "surface": "מן",
-      "gloss": "ku-"
+      "gloss": "ku"
     },
     {
       "surface": "האיל",
-      "gloss": "lerham"
+      "gloss": "le nkunzi"
     },
     {
       "surface": "החלב",
@@ -25,12 +25,12 @@
     },
     {
       "surface": "והאליה",
-      "gloss": "nomtsalane wamafutha"
+      "gloss": "nomsila omde womafutha"
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
-      "marks": "amafutha abambelele emathumbini"
+      "gloss": "kunye no⟨את⟩",
+      "marks": "amafutha omele amathumbu"
     },
     {
       "surface": "החלב",
@@ -38,34 +38,34 @@
     },
     {
       "surface": "המכסה",
-      "gloss": "abambelele"
+      "gloss": "omele"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "emathumbini"
+      "marks": "amathumbu"
     },
     {
       "surface": "הקרב",
-      "gloss": "emathumbini"
+      "gloss": "amathumbu"
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
-      "marks": "inxalenye yesibindi"
+      "gloss": "kunye no⟨את⟩",
+      "marks": "isiphongo sesibindi"
     },
     {
       "surface": "יתרת",
-      "gloss": "inxalenye"
+      "gloss": "isiphongo"
     },
     {
       "surface": "הכבד",
-      "gloss": "yesibindi"
+      "gloss": "sesibindi"
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
-      "marks": "iintsoho ezimbini"
+      "gloss": "kunye no⟨את⟩",
+      "marks": "iintsovu ezimbini"
     },
     {
       "surface": "שתי",
@@ -73,11 +73,11 @@
     },
     {
       "surface": "הכלית",
-      "gloss": "iintsoho"
+      "gloss": "iintsovu"
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
+      "gloss": "kunye no⟨את⟩",
       "marks": "amafutha aphezu kwazo"
     },
     {
@@ -86,7 +86,7 @@
     },
     {
       "surface": "אשר",
-      "gloss": "a-"
+      "gloss": "eso"
     },
     {
       "surface": "עלהן",
@@ -94,8 +94,8 @@
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
-      "marks": "umlenze wesokudla"
+      "gloss": "kunye no⟨את⟩",
+      "marks": "umlenze ongasekunene"
     },
     {
       "surface": "שוק",
@@ -103,7 +103,7 @@
     },
     {
       "surface": "הימין",
-      "gloss": "wesokudla"
+      "gloss": "ongasekunene"
     },
     {
       "surface": "כי",
@@ -111,17 +111,17 @@
     },
     {
       "surface": "איל",
-      "gloss": "iram"
+      "gloss": "inkunzi"
     },
     {
       "surface": "מלאים",
-      "gloss": "yomthwaso"
+      "gloss": "yokunikezelwa"
     },
     {
       "surface": "הוא",
-      "gloss": "le"
+      "gloss": "nguwo"
     }
   ],
-  "timestamp": "2026-09-18T06:18:46.887629652Z",
+  "timestamp": "2026-09-19T13:52:34.714853337Z",
   "model": "glm-5.3"
 }

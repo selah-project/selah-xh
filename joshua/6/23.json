@@ -5,11 +5,11 @@
   "book": "joshua",
   "lang": "xh",
   "chapter": 6,
-  "translation": "Amakhwenkwe ahloli angene, bakhipha ⟨את⟩ uRahabi noyise, unina, abakwabo, nako ⟨את⟩ konke okwayo; bakhipha nako ⟨את⟩ zonke iintsapho zakhe, babeka ngaphandle kwekampu yakwa-Israyeli.",
+  "translation": "Kwaye amakhwenkwe, abaphandi, angena; akhupha ⟨את⟩ uRahavi, kunye ⟨את⟩ nooyise, kunye ⟨את⟩ nanoyoko, kunye ⟨את⟩ noonakwabo, kunye ⟨את⟩ konke oko anako; nakuzo ⟨את⟩ zonke iintsapho zakhe zakhuphwa, bazibeka ngaphandle kwikampu yakwaYisrayeli.",
   "tokens": [
     {
       "surface": "ויבאו",
-      "gloss": "angene"
+      "gloss": "angenа"
     },
     {
       "surface": "הנערים",
@@ -17,52 +17,52 @@
     },
     {
       "surface": "המרגלים",
-      "gloss": "ahloli"
+      "gloss": "abaphandi"
     },
     {
       "surface": "ויציאו",
-      "gloss": "bakhipha"
+      "gloss": "akhupha"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "uRahabi"
+      "marks": "uRahavi"
     },
     {
       "surface": "רחב",
-      "gloss": "uRahabi"
+      "gloss": "uRahavi"
     },
     {
       "surface": "ואת",
-      "gloss": "no ⟨את⟩",
-      "marks": "uyise"
+      "gloss": "kunye ⟨את⟩",
+      "marks": "nooyise"
     },
     {
       "surface": "אביה",
-      "gloss": "uyise"
+      "gloss": "nooyise"
     },
     {
       "surface": "ואת",
-      "gloss": "no ⟨את⟩",
-      "marks": "unina"
+      "gloss": "kunye ⟨את⟩",
+      "marks": "nanoyoko"
     },
     {
       "surface": "אמה",
-      "gloss": "unina"
+      "gloss": "nanoyoko"
     },
     {
       "surface": "ואת",
-      "gloss": "no ⟨את⟩",
-      "marks": "abakwabo"
+      "gloss": "kunye ⟨את⟩",
+      "marks": "noonakwabo"
     },
     {
       "surface": "אחיה",
-      "gloss": "abakwabo"
+      "gloss": "noonakwabo"
     },
     {
       "surface": "ואת",
-      "gloss": "nako ⟨את⟩",
-      "marks": "konke"
+      "gloss": "kunye ⟨את⟩",
+      "marks": "konke oko anako"
     },
     {
       "surface": "כל",
@@ -70,16 +70,16 @@
     },
     {
       "surface": "אשר",
-      "gloss": "oku"
+      "gloss": "oko"
     },
     {
       "surface": "לה",
-      "gloss": "okwayo"
+      "gloss": "anako"
     },
     {
       "surface": "ואת",
-      "gloss": "nako ⟨את⟩",
-      "marks": "zonke"
+      "gloss": "naku ⟨את⟩",
+      "marks": "zonke iintsapho zakhe"
     },
     {
       "surface": "כל",
@@ -91,11 +91,11 @@
     },
     {
       "surface": "הוציאו",
-      "gloss": "bakhipha"
+      "gloss": "zakhuphwa"
     },
     {
       "surface": "ויניחום",
-      "gloss": "babeka"
+      "gloss": "bazibeka"
     },
     {
       "surface": "מחוץ",
@@ -103,13 +103,13 @@
     },
     {
       "surface": "למחנה",
-      "gloss": "kwekampu"
+      "gloss": "kwikampu"
     },
     {
       "surface": "ישראל",
-      "gloss": "yakwa-Israyeli"
+      "gloss": "yakwaYisrayeli"
     }
   ],
-  "timestamp": "2026-09-18T08:32:25.683257809Z",
+  "timestamp": "2026-09-19T14:03:51.417295395Z",
   "model": "glm-5.3"
 }

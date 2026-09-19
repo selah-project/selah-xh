@@ -5,11 +5,11 @@
   "book": "2-samuel",
   "lang": "xh",
   "chapter": 18,
-  "translation": "Inkosi yathyalela umthetho ku-Yoav, no-Avishayi, no-Ittayi, yathi: ‘Nithobele ngenxa yam ilishwa le, u-Avshalom.’ Yaye onke abantu beyiva inkosi ithatha umthetho kuzo zonke iinkosi-ndenkulu nge-Avshalom.",
+  "translation": "Inkosi yalethisela ⟨את⟩ uYowabhi, naye ⟨את⟩ uAbishayi, naye ⟨את⟩ uItayi, yathi: “Phathani kancinane ngenxa yam lomfana, uAbsalomu.” Abantu bonke baphulaphula inkosi esalela ⟨את⟩ onke abaphathi ngoAbsalomu.",
   "tokens": [
     {
       "surface": "ויצו",
-      "gloss": "yathyalela umthetho"
+      "gloss": "walethisela"
     },
     {
       "surface": "המלך",
@@ -18,29 +18,29 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "u-Yoav"
+      "marks": "uYowabhi"
     },
     {
       "surface": "יואב",
-      "gloss": "u-Yoav"
+      "gloss": "uYowabhi"
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
-      "marks": "u-Avishayi"
+      "gloss": "naye ⟨את⟩",
+      "marks": "uAbishayi"
     },
     {
       "surface": "אבישי",
-      "gloss": "u-Avishayi"
+      "gloss": "uAbishayi"
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
-      "marks": "u-Ittayi"
+      "gloss": "naye ⟨את⟩",
+      "marks": "uItayi"
     },
     {
       "surface": "אתי",
-      "gloss": "u-Ittayi"
+      "gloss": "uItayi"
     },
     {
       "surface": "לאמר",
@@ -48,7 +48,7 @@
     },
     {
       "surface": "לאט",
-      "gloss": "nithobele"
+      "gloss": "kancinane"
     },
     {
       "surface": "לי",
@@ -56,15 +56,15 @@
     },
     {
       "surface": "לנער",
-      "gloss": "ilishwa le"
+      "gloss": "lomfana"
     },
     {
       "surface": "לאבשלום",
-      "gloss": "u-Avshalom"
+      "gloss": "uAbsalomu"
     },
     {
       "surface": "וכל",
-      "gloss": "yaye onke"
+      "gloss": "bonke"
     },
     {
       "surface": "העם",
@@ -72,11 +72,11 @@
     },
     {
       "surface": "שמעו",
-      "gloss": "beyiva"
+      "gloss": "baphulaphula"
     },
     {
       "surface": "בצות",
-      "gloss": "ethatha umthetho"
+      "gloss": "esalela"
     },
     {
       "surface": "המלך",
@@ -85,15 +85,15 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "izo zonke iinkosi-ndenkulu"
+      "marks": "onke abaphathi"
     },
     {
       "surface": "כל",
-      "gloss": "zonke"
+      "gloss": "onke"
     },
     {
       "surface": "השרים",
-      "gloss": "iinkosi-ndenkulu"
+      "gloss": "abaphathi"
     },
     {
       "surface": "על",
@@ -101,13 +101,13 @@
     },
     {
       "surface": "דבר",
-      "gloss": "luthe"
+      "gloss": "daba"
     },
     {
       "surface": "אבשלום",
-      "gloss": "u-Avshalom"
+      "gloss": "ngoAbsalomu"
     }
   ],
-  "timestamp": "2026-09-18T09:58:42.871528258Z",
+  "timestamp": "2026-09-19T13:48:50.911980849Z",
   "model": "glm-5.3"
 }

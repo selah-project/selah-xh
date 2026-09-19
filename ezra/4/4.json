@@ -5,11 +5,11 @@
   "book": "ezra",
   "lang": "xh",
   "chapter": 4,
-  "translation": "Kwathi abantu bomhlaba bathe bhityisa iisandla zabantu baYuda, kwaye babakhathaza ekwakheni.",
+  "translation": "Yaye kwaba njalo, abantu belizwe bakhupha amandla ezandleni zabantu bakwaYuda, baza babakhathaza ukubambelela ⟨את⟩ ekwakheni.",
   "tokens": [
     {
       "surface": "ויהי",
-      "gloss": "kwathi"
+      "gloss": "kwaba njalo"
     },
     {
       "surface": "עם",
@@ -17,38 +17,38 @@
     },
     {
       "surface": "הארץ",
-      "gloss": "bomhlaba"
+      "gloss": "belizwe"
     },
     {
       "surface": "מרפים",
-      "gloss": "bathe bhityisa"
+      "gloss": "bakhupha amandla"
     },
     {
       "surface": "ידי",
-      "gloss": "iisandla"
+      "gloss": "ezandleni"
     },
     {
       "surface": "עם",
-      "gloss": "zabantu"
+      "gloss": "abantu"
     },
     {
       "surface": "יהודה",
-      "gloss": "baYuda"
+      "gloss": "bakwaYuda"
     },
     {
       "surface": "ומבלהים",
-      "gloss": "kwaye babakhathaza"
+      "gloss": "baza babakhathaza ukubambelela"
     },
     {
       "surface": "אותם",
       "gloss": "⟨את⟩",
-      "marks": "babo (abantu baYuda)"
+      "marks": "ekwakheni"
     },
     {
       "surface": "לבנות",
       "gloss": "ekwakheni"
     }
   ],
-  "timestamp": "2026-09-18T16:40:44.295684314Z",
+  "timestamp": "2026-09-19T13:55:44.002852492Z",
   "model": "glm-5.3"
 }

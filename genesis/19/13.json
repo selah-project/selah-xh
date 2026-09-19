@@ -5,7 +5,7 @@
   "book": "genesis",
   "lang": "xh",
   "chapter": 19,
-  "translation": "kuba thina siyatshabalalisa ⟨את⟩ le ndawo, kuba yandile ukukrokela kwabo phambi kobuso bukaYahwe, uYahwe wasithumela ukuyitshabalalisa.",
+  "translation": "kuba thina sitshabalalisa ⟨את⟩ lo mmandla, kuba isikhale sabo sinobukhulu ⟨את⟩ phambi kobuso bukaYahwe, uYahwe wasithumela ukuyitshabalalisa.",
   "tokens": [
     {
       "surface": "כי",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "משחתים",
-      "gloss": "siyatshabalalisa"
+      "gloss": "sitshabalalisa"
     },
     {
       "surface": "אנחנו",
@@ -22,11 +22,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "le ndawo"
+      "marks": "lo mmandla"
     },
     {
       "surface": "המקום",
-      "gloss": "indawo"
+      "gloss": "lo mmandla"
     },
     {
       "surface": "הזה",
@@ -38,15 +38,15 @@
     },
     {
       "surface": "גדלה",
-      "gloss": "yandile"
+      "gloss": "sinobukhulu"
     },
     {
       "surface": "צעקתם",
-      "gloss": "ukukrokela kwabo"
+      "gloss": "isikhale sabo"
     },
     {
       "surface": "את",
-      "gloss": "⟨את⟩",
+      "gloss": "⟨את⟩ phambi kobuso",
       "marks": "ubuso bukaYahwe"
     },
     {
@@ -55,7 +55,7 @@
     },
     {
       "surface": "יהוה",
-      "gloss": "uYahwe"
+      "gloss": "ukaYahwe"
     },
     {
       "surface": "וישלחנו",
@@ -70,6 +70,6 @@
       "gloss": "ukuyitshabalalisa"
     }
   ],
-  "timestamp": "2026-09-18T05:17:50.805884203Z",
+  "timestamp": "2026-09-19T13:56:31.232298130Z",
   "model": "glm-5.3"
 }

@@ -5,44 +5,44 @@
   "book": "1-samuel",
   "lang": "xh",
   "chapter": 17,
-  "translation": "Wayoyisa uDawidi iPelishti ngeslinga nanginalitye; wamshaya iPelishti wambulala, kodwa intembi yayingekho esandleni sikaDawidi.",
+  "translation": "UDavidi wamngcalula uMfilisti ngesikhunxa nangolithi, wabetha ⟨את⟩ uMfilisti, wambulala; kodwa akukho khemfu esandleni soDavidi.",
   "tokens": [
     {
       "surface": "ויחזק",
-      "gloss": "wayoyisa"
+      "gloss": "wamngcalula"
     },
     {
       "surface": "דוד",
-      "gloss": "uDawidi"
+      "gloss": "uDavidi"
     },
     {
       "surface": "מן",
-      "gloss": "iPelishti"
+      "gloss": "ku-"
     },
     {
       "surface": "הפלשתי",
-      "gloss": "iPelishti"
+      "gloss": "uMfilisti"
     },
     {
       "surface": "בקלע",
-      "gloss": "ngeslinga"
+      "gloss": "ngesikhunxa"
     },
     {
       "surface": "ובאבן",
-      "gloss": "nanginalitye"
+      "gloss": "nangolithi"
     },
     {
       "surface": "ויך",
-      "gloss": "wamshaya"
+      "gloss": "wabetha"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "iPelishti"
+      "marks": "uMfilisti"
     },
     {
       "surface": "הפלשתי",
-      "gloss": "iPelishti"
+      "gloss": "uMfilisti"
     },
     {
       "surface": "וימיתהו",
@@ -50,11 +50,11 @@
     },
     {
       "surface": "וחרב",
-      "gloss": "intembi"
+      "gloss": "khemfu"
     },
     {
       "surface": "אין",
-      "gloss": "yayingekho"
+      "gloss": "akukho"
     },
     {
       "surface": "ביד",
@@ -62,9 +62,9 @@
     },
     {
       "surface": "דוד",
-      "gloss": "sikaDawidi"
+      "gloss": "soDavidi"
     }
   ],
-  "timestamp": "2026-09-18T09:32:14.616008052Z",
+  "timestamp": "2026-09-19T13:43:14.227206577Z",
   "model": "glm-5.3"
 }

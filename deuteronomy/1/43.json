@@ -5,36 +5,36 @@
   "book": "deuteronomy",
   "lang": "xh",
   "chapter": 1,
-  "translation": "Ndandithetha nani, ananiva; naza naphikisana noMlomo kaYahwe, naza nazigqiba ngokuzenzakalisa, naza nanyuka entabeni.",
+  "translation": "Ndandithetha niní, naningawamva; naza nanamanyala ⟨את⟩ umlomo kaYahwe, naza nanenkani, naza nanyuka entabeni.",
   "tokens": [
     {
       "surface": "ואדבר",
-      "gloss": "ndandithetha nani"
+      "gloss": "Ndandithetha"
     },
     {
       "surface": "אליכם",
-      "gloss": "nani"
+      "gloss": "niní"
     },
     {
       "surface": "ולא",
-      "gloss": "ananiva"
+      "gloss": "kananjalo naningawa"
     },
     {
       "surface": "שמעתם",
-      "gloss": "ananiva"
+      "gloss": "mva"
     },
     {
       "surface": "ותמרו",
-      "gloss": "naza naphikisana"
+      "gloss": "naza nanamanyala"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "uMlomo kaYahwe"
+      "marks": "umlomo kaYahwe"
     },
     {
       "surface": "פי",
-      "gloss": "uMlomo"
+      "gloss": "umlomo"
     },
     {
       "surface": "יהוה",
@@ -42,7 +42,7 @@
     },
     {
       "surface": "ותזדו",
-      "gloss": "naza nazigqiba ngokuzenzakalisa"
+      "gloss": "naza nanenkani"
     },
     {
       "surface": "ותעלו",
@@ -53,6 +53,6 @@
       "gloss": "entabeni"
     }
   ],
-  "timestamp": "2026-09-18T07:51:26.758092164Z",
+  "timestamp": "2026-09-19T13:48:23.372579680Z",
   "model": "glm-5.3"
 }

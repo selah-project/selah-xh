@@ -5,7 +5,7 @@
   "book": "jeremiah",
   "lang": "xh",
   "chapter": 11,
-  "translation": "Wathi uYahwe kum: “Biza ⟨את⟩ onke la magama ezixekweni zeYehudah nakwiindlela zaseYerushalayimi, uthi: Mameleni ⟨את⟩ amagama olo mnqophiso, niwenze.”",
+  "translation": "Wathi uYahwe kum: Shumayela ⟨את⟩ onke amagama oku kwiilali zakwaYuda nakwiindlela zaseYerushalayimi, uthi: Mameleni ⟨את⟩ amagama olo mnqophiso olu, nize kuwasebenzisa ⟨את⟩.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -21,12 +21,12 @@
     },
     {
       "surface": "קרא",
-      "gloss": "Biza"
+      "gloss": "Shumayela"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "onke la magama"
+      "marks": "onke amagama oku"
     },
     {
       "surface": "כל",
@@ -34,19 +34,19 @@
     },
     {
       "surface": "הדברים",
-      "gloss": "la magama"
+      "gloss": "amagama"
     },
     {
       "surface": "האלה",
-      "gloss": "la"
+      "gloss": "oku"
     },
     {
       "surface": "בערי",
-      "gloss": "ezixekweni"
+      "gloss": "kwiilali"
     },
     {
       "surface": "יהודה",
-      "gloss": "zeYehudah"
+      "gloss": "zakwaYuda"
     },
     {
       "surface": "ובחצות",
@@ -67,7 +67,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "amagama"
+      "marks": "amagama olo mnqophiso olu"
     },
     {
       "surface": "דברי",
@@ -79,18 +79,18 @@
     },
     {
       "surface": "הזאת",
-      "gloss": "lo"
+      "gloss": "olu"
     },
     {
       "surface": "ועשיתם",
-      "gloss": "niwenze"
+      "gloss": "nize kuwasebenzisa"
     },
     {
       "surface": "אותם",
       "gloss": "⟨את⟩",
-      "marks": "ziwenza"
+      "marks": "amagama olo mnqophiso (zona)"
     }
   ],
-  "timestamp": "2026-09-18T12:03:04.916548856Z",
+  "timestamp": "2026-09-19T13:59:00.534552609Z",
   "model": "glm-5.3"
 }

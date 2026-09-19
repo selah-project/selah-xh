@@ -5,11 +5,11 @@
   "book": "2-kings",
   "lang": "xh",
   "chapter": 23,
-  "translation": "Wathi uYahwe: “Ndiza kususa ⟨את⟩ uYehuda ebusweni bam, njengoko ndasusa ⟨את⟩ uSirayeli; kwaye ndiza kulahla ⟨את⟩ le sixeko endisikhethileyo, iYerushalayimi, kunye ne-⟨את⟩ indlu endandithi igama lam liza kuba khona.”",
+  "translation": "Wathi uYahwe: “Nangaye ⟨את⟩ uYuda ndiza kumsusa phambi kwam, njengoko ndasusela ⟨את⟩ uSirayeli; ndaza ndalahla ⟨את⟩ le sixeko endazikhethela, ⟨את⟩ iYerushalayimi, nange ⟨את⟩ indlu endayithethayo: ‘IGama lam liza kubukhona phaya.’”",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "Wathi"
+      "gloss": "wathi"
     },
     {
       "surface": "יהוה",
@@ -17,28 +17,28 @@
     },
     {
       "surface": "גם",
-      "gloss": "nayi-"
+      "gloss": "nangaye"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "uYehuda"
+      "marks": "uYuda"
     },
     {
       "surface": "יהודה",
-      "gloss": "uYehuda"
+      "gloss": "uYuda"
     },
     {
       "surface": "אסיר",
-      "gloss": "ndiza kususa"
+      "gloss": "ndiza kumsusa"
     },
     {
       "surface": "מעל",
-      "gloss": "kusuka"
+      "gloss": "phambi kwam"
     },
     {
       "surface": "פני",
-      "gloss": "ebusweni bam"
+      "gloss": "ubuso bam"
     },
     {
       "surface": "כאשר",
@@ -46,7 +46,7 @@
     },
     {
       "surface": "הסרתי",
-      "gloss": "ndasusa"
+      "gloss": "ndasusela"
     },
     {
       "surface": "את",
@@ -59,7 +59,7 @@
     },
     {
       "surface": "ומאסתי",
-      "gloss": "kwaye ndiza kulahla"
+      "gloss": "ndaza ndalahla"
     },
     {
       "surface": "את",
@@ -68,19 +68,19 @@
     },
     {
       "surface": "העיר",
-      "gloss": "isixeko"
+      "gloss": "le sixeko"
     },
     {
       "surface": "הזאת",
-      "gloss": "le"
+      "gloss": "eli"
     },
     {
       "surface": "אשר",
-      "gloss": "endisikhethileyo"
+      "gloss": "endazikhethela"
     },
     {
       "surface": "בחרתי",
-      "gloss": "ndakhetha"
+      "gloss": "ndazikhetha"
     },
     {
       "surface": "את",
@@ -93,7 +93,7 @@
     },
     {
       "surface": "ואת",
-      "gloss": "kunye ne-⟨את⟩",
+      "gloss": "nange ⟨את⟩",
       "marks": "indlu"
     },
     {
@@ -102,25 +102,25 @@
     },
     {
       "surface": "אשר",
-      "gloss": "endandithi"
+      "gloss": "endayithethayo"
     },
     {
       "surface": "אמרתי",
-      "gloss": "ndathi"
+      "gloss": "ndayithetha"
     },
     {
       "surface": "יהיה",
-      "gloss": "liza kuba khona"
+      "gloss": "liza kubukhona"
     },
     {
       "surface": "שמי",
-      "gloss": "igama lam"
+      "gloss": "iGama lam"
     },
     {
       "surface": "שם",
-      "gloss": "khona"
+      "gloss": "phaya"
     }
   ],
-  "timestamp": "2026-09-18T18:40:40.641440694Z",
+  "timestamp": "2026-09-19T13:47:32.529881148Z",
   "model": "glm-5.3"
 }

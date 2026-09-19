@@ -5,16 +5,16 @@
   "book": "song-of-songs",
   "lang": "xh",
   "chapter": 5,
-  "translation": "Ndafungisela ⟨nin⟩, amadodakazi aseYerushalayimi: ukuba nifumana ⟨את⟩ umthandayo wam, nithini kuye? Ukuba ndigulwa yithando mna.",
+  "translation": "Ndiyafungisa ⟨את⟩ nina, amadodakazi aseYerushalayimi: ukuba nifumana ⟨את⟩ umthandazi wam, nithini kuye? — ukuba ndigula ngothando, ndingumntu othwele ugulo loluthando.",
   "tokens": [
     {
       "surface": "השבעתי",
-      "gloss": "Ndafungisela"
+      "gloss": "ndiyafungisa"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨אתכם⟩",
-      "marks": "amadodakazi aseYerushalayimi"
+      "gloss": "⟨את⟩",
+      "marks": "nina, amadodakazi aseYerushalayimi"
     },
     {
       "surface": "בנות",
@@ -35,11 +35,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "umthandayo wam"
+      "marks": "umthandazi wam"
     },
     {
       "surface": "דודי",
-      "gloss": "umthandayo wam"
+      "gloss": "umthandazi wam"
     },
     {
       "surface": "מה",
@@ -47,7 +47,7 @@
     },
     {
       "surface": "תגידו",
-      "gloss": "nithini kuye"
+      "gloss": "nithini"
     },
     {
       "surface": "לו",
@@ -55,17 +55,17 @@
     },
     {
       "surface": "שחולת",
-      "gloss": "ndigulwa"
+      "gloss": "ndigula ngothando"
     },
     {
       "surface": "אהבה",
-      "gloss": "yithando"
+      "gloss": "ngothando"
     },
     {
       "surface": "אני",
       "gloss": "mna"
     }
   ],
-  "timestamp": "2026-09-18T16:17:35.622879182Z",
+  "timestamp": "2026-09-19T14:11:15.694424610Z",
   "model": "glm-5.3"
 }

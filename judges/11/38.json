@@ -5,7 +5,7 @@
   "book": "judges",
   "lang": "xh",
   "chapter": 11,
-  "translation": "Wathi: “Hamba.” Wamthumela waye iinyanga ezimbini; yena nabahlobo bakhe bahamba, walila ubuntombazana bakhe ezintabeni.",
+  "translation": "Wathi ⟨kuye⟩: “Hamba.” Wamthumela yaye wamshiya iinyanga ezimbini; yaye yahamba yena nabalungiseleli bakhe, yaye wakhala ngobuntombi bakhe phezu kwezintaba.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -17,12 +17,12 @@
     },
     {
       "surface": "וישלח",
-      "gloss": "wamthumela waye"
+      "gloss": "wamthumela"
     },
     {
       "surface": "אותה",
       "gloss": "⟨את⟩",
-      "marks": "yena"
+      "marks": "iinyanga ezimbini"
     },
     {
       "surface": "שני",
@@ -42,29 +42,29 @@
     },
     {
       "surface": "ורעותיה",
-      "gloss": "nabahlobo bakhe"
+      "gloss": "nabalungiseleli bakhe"
     },
     {
       "surface": "ותבך",
-      "gloss": "walila"
+      "gloss": "wakhala"
     },
     {
       "surface": "על",
-      "gloss": "ngo"
+      "gloss": "nge-"
     },
     {
       "surface": "בתוליה",
-      "gloss": "ubuntombazana bakhe"
+      "gloss": "ubuntombi bakhe"
     },
     {
       "surface": "על",
-      "gloss": "kwi"
+      "gloss": "phezu kwe-"
     },
     {
       "surface": "ההרים",
-      "gloss": "ezintabeni"
+      "gloss": "zintaba"
     }
   ],
-  "timestamp": "2026-09-18T09:02:44.900577685Z",
+  "timestamp": "2026-09-19T14:04:16.846555990Z",
   "model": "glm-5.3"
 }

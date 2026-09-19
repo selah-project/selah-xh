@@ -5,16 +5,16 @@
   "book": "judges",
   "lang": "xh",
   "chapter": 7,
-  "translation": "Abantu bathabatha ⟨את⟩ ukutya ngesandla sabo, kunye ⟨את⟩ neeshofa zabo; wonke umntu weSirayeli wamuthuma umntu ngamntu etyhenteni lakhe; wazibamba ngekhulu lamakhulu amathathu amadoda, umkhosi weMidyan wawumi phantsi kwakhe emlambo.",
+  "translation": "Babethatha ⟨את⟩ ukutya koluntu ngesandla labo, nazo ⟨את⟩ iishofa zabo; ⟨את⟩ wonke umntu wakwaYisraele wamuthumela yena ematendeni yakhe, kodwa ngamadoda angamakhulu amathathu wabambelela; umkhosi kaMidiyan wawungaphantsi kwakhe entsikini.",
   "tokens": [
     {
       "surface": "ויקחו",
-      "gloss": "bathabatha"
+      "gloss": "babethatha"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ukutya"
+      "marks": "ukutya koluntu"
     },
     {
       "surface": "צדה",
@@ -22,15 +22,15 @@
     },
     {
       "surface": "העם",
-      "gloss": "abantu"
+      "gloss": "koluntu"
     },
     {
       "surface": "בידם",
-      "gloss": "ngesandla sabo"
+      "gloss": "ngesandla labo"
     },
     {
       "surface": "ואת",
-      "gloss": "kunye ⟨את⟩ ne",
+      "gloss": "nazo ⟨את⟩",
       "marks": "iishofa zabo"
     },
     {
@@ -39,12 +39,12 @@
     },
     {
       "surface": "ואת",
-      "gloss": "kunye ⟨את⟩",
-      "marks": "onke"
+      "gloss": "wonke ⟨את⟩",
+      "marks": "umntu wakwaYisraele"
     },
     {
       "surface": "כל",
-      "gloss": "onke"
+      "gloss": "wonke"
     },
     {
       "surface": "איש",
@@ -52,27 +52,27 @@
     },
     {
       "surface": "ישראל",
-      "gloss": "weSirayeli"
+      "gloss": "wakwaYisraele"
     },
     {
       "surface": "שלח",
-      "gloss": "wamuthuma"
+      "gloss": "wamuthumela"
     },
     {
       "surface": "איש",
-      "gloss": "umntu ngamntu"
+      "gloss": "yena"
     },
     {
       "surface": "לאהליו",
-      "gloss": "etyhenteni lakhe"
+      "gloss": "ematendeni yakhe"
     },
     {
       "surface": "ובשלש",
-      "gloss": "ngekhulu lamathathu"
+      "gloss": "kodwa ngamathathu"
     },
     {
       "surface": "מאות",
-      "gloss": "amakhulu"
+      "gloss": "amakhulu amathathu"
     },
     {
       "surface": "האיש",
@@ -80,7 +80,7 @@
     },
     {
       "surface": "החזיק",
-      "gloss": "wazibamba"
+      "gloss": "wabambelela"
     },
     {
       "surface": "ומחנה",
@@ -88,25 +88,25 @@
     },
     {
       "surface": "מדין",
-      "gloss": "weMidyan"
+      "gloss": "kaMidiyan"
     },
     {
       "surface": "היה",
-      "gloss": "wawumi"
+      "gloss": "wawu"
     },
     {
       "surface": "לו",
-      "gloss": "phantsi kwakhe"
+      "gloss": "kwakhe"
     },
     {
       "surface": "מתחת",
-      "gloss": "phantsi"
+      "gloss": "ungaphantsi"
     },
     {
       "surface": "בעמק",
-      "gloss": "emlambo"
+      "gloss": "entsikini"
     }
   ],
-  "timestamp": "2026-09-18T08:56:03.118329839Z",
+  "timestamp": "2026-09-19T14:04:51.112873204Z",
   "model": "glm-5.3"
 }

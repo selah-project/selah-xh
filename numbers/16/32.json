@@ -5,11 +5,11 @@
   "book": "numbers",
   "lang": "xh",
   "chapter": 16,
-  "translation": "Umhlaba wavula ⟨את⟩ umlomo wawo, wagweda ⟨את⟩ abo bantu nangezindlu zawo, nangabo onke abantu abangakaKora, nangayo yonke impahle yabo.",
+  "translation": "Umhlaba wawuleka ⟨את⟩ umlomo wawo, wabadla ngoko ⟨את⟩ bona, no⟨את⟩ iindlu zabo, no⟨את⟩ onke abantu abakwaQoraha, no⟨את⟩ konke impahla yabo.",
   "tokens": [
     {
       "surface": "ותפתח",
-      "gloss": "wavula"
+      "gloss": "wawuleka"
     },
     {
       "surface": "הארץ",
@@ -26,26 +26,25 @@
     },
     {
       "surface": "ותבלע",
-      "gloss": "wagweda"
+      "gloss": "wabadla"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩",
-      "marks": "abo bantu"
+      "gloss": "⟨את⟩ bona"
     },
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "izindlu zawo"
+      "marks": "iindlu zabo"
     },
     {
       "surface": "בתיהם",
-      "gloss": "izindlu zawo"
+      "gloss": "iindlu zabo"
     },
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "onke abantu abangakaKora"
+      "marks": "onke abantu"
     },
     {
       "surface": "כל",
@@ -57,26 +56,26 @@
     },
     {
       "surface": "אשר",
-      "gloss": "aba"
+      "gloss": "aba-"
     },
     {
       "surface": "לקרח",
-      "gloss": "ngakaKora"
+      "gloss": "kwaQoraha"
     },
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "yonke impahle yabo"
+      "marks": "konke impahla"
     },
     {
       "surface": "כל",
-      "gloss": "yonke"
+      "gloss": "konke"
     },
     {
       "surface": "הרכוש",
-      "gloss": "impahle"
+      "gloss": "impahla"
     }
   ],
-  "timestamp": "2026-09-18T07:29:53.657133858Z",
+  "timestamp": "2026-09-19T14:08:15.820946587Z",
   "model": "glm-5.3"
 }

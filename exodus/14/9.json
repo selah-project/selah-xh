@@ -5,15 +5,15 @@
   "book": "exodus",
   "lang": "xh",
   "chapter": 14,
-  "translation": "AbaMitsrayim babalandela, bafikelela kubo besemi ngokholisolwandle; yonke ihashe, irikebha likaParo, nabahambi behashe bakhe, namabutho akhe, ngaphaya kwePi-haKhirothi, phambi kweBhuali-Tsefoni.",
+  "translation": "Kwaza iMitsrayim yalandela emva kwabo, yaza yafikelela bona ⟨את⟩ bahleli ngaselwandle — yonke imiphezulu yamahashe neebhaso zikaParo, nabahhashi bakhe, namabutho akhe — emlilweni wePi-haKhirothi, phambi kweBhuali-Tsefoni.",
   "tokens": [
     {
       "surface": "וירדפו",
-      "gloss": "babalandela"
+      "gloss": "yalandela"
     },
     {
       "surface": "מצרים",
-      "gloss": "abaMitsrayim"
+      "gloss": "iMitsrayim"
     },
     {
       "surface": "אחריהם",
@@ -21,24 +21,24 @@
     },
     {
       "surface": "וישיגו",
-      "gloss": "bafikelela"
+      "gloss": "yafikelela"
     },
     {
       "surface": "אותם",
       "gloss": "⟨את⟩",
-      "marks": "abo besemi ngokholisolwandle"
+      "marks": "bona"
     },
     {
       "surface": "חנים",
-      "gloss": "besemi"
+      "gloss": "bahleli"
     },
     {
       "surface": "על",
-      "gloss": "ngokholiso"
+      "gloss": "ngase-"
     },
     {
       "surface": "הים",
-      "gloss": "lolwandle"
+      "gloss": "lwandle"
     },
     {
       "surface": "כל",
@@ -46,19 +46,19 @@
     },
     {
       "surface": "סוס",
-      "gloss": "ihashe"
+      "gloss": "amahashe"
     },
     {
       "surface": "רכב",
-      "gloss": "irikebha"
+      "gloss": "iibhaso"
     },
     {
       "surface": "פרעה",
-      "gloss": "likaParo"
+      "gloss": "ukaParo"
     },
     {
       "surface": "ופרשיו",
-      "gloss": "nabahambi behashe bakhe"
+      "gloss": "nabahhashi bakhe"
     },
     {
       "surface": "וחילו",
@@ -66,19 +66,19 @@
     },
     {
       "surface": "על",
-      "gloss": "ngaphaya kwe"
+      "gloss": "emlilweni we-"
     },
     {
       "surface": "פי",
-      "gloss": "phaya"
+      "gloss": "pi"
     },
     {
       "surface": "החירת",
-      "gloss": "Pi-haKhirothi"
+      "gloss": "haKhirothi"
     },
     {
       "surface": "לפני",
-      "gloss": "phambi kwe"
+      "gloss": "phambi kwe-"
     },
     {
       "surface": "בעל",
@@ -89,6 +89,6 @@
       "gloss": "Tsefoni"
     }
   ],
-  "timestamp": "2026-09-18T18:44:28.157354575Z",
+  "timestamp": "2026-09-19T13:51:39.883820423Z",
   "model": "glm-5.3"
 }

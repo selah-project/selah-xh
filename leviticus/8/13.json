@@ -5,7 +5,7 @@
   "book": "leviticus",
   "lang": "xh",
   "chapter": 8,
-  "translation": "Waza uMoshe wazisa ⟨את⟩ oonyana baka-Aharon, wabambathisa iingubo zangaphakathi, wabaxhoma ngeedangatye, wababophela iitrabandi zentloko, njengoko uYahwe awamyalelayo ⟨את⟩ uMoshe.",
+  "translation": "UMoshe wazisa ⟨את⟩ oonyana ka-Aharon, wabagqokisa iingubo zangaphakathi, wabaxhoma ngeebhande, wababophele iindonyana ezintloko, njengoko uYahwe awalele ⟨את⟩ uMoshe.",
   "tokens": [
     {
       "surface": "ויקרב",
@@ -13,12 +13,12 @@
     },
     {
       "surface": "משה",
-      "gloss": "uMoshe"
+      "gloss": "UMoshe"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "oonyana baka-Aharon"
+      "marks": "oonyana ka-Aharon"
     },
     {
       "surface": "בני",
@@ -30,7 +30,7 @@
     },
     {
       "surface": "וילבשם",
-      "gloss": "wabambathisa"
+      "gloss": "wabagqokisa"
     },
     {
       "surface": "כתנת",
@@ -43,23 +43,23 @@
     {
       "surface": "אתם",
       "gloss": "⟨את⟩",
-      "marks": "iidangatye"
+      "marks": "eebhande"
     },
     {
       "surface": "אבנט",
-      "gloss": "iidangatye"
+      "gloss": "ngeebhande"
     },
     {
       "surface": "ויחבש",
-      "gloss": "wababophela"
+      "gloss": "wababophele"
     },
     {
       "surface": "להם",
-      "gloss": "kuwo"
+      "gloss": "babophelele"
     },
     {
       "surface": "מגבעות",
-      "gloss": "iitrabandi zentloko"
+      "gloss": "iindonyana ezintloko"
     },
     {
       "surface": "כאשר",
@@ -67,7 +67,7 @@
     },
     {
       "surface": "צוה",
-      "gloss": "awamyalelayo"
+      "gloss": "awalele"
     },
     {
       "surface": "יהוה",
@@ -83,6 +83,6 @@
       "gloss": "uMoshe"
     }
   ],
-  "timestamp": "2026-09-18T06:44:46.066989937Z",
+  "timestamp": "2026-09-19T14:06:50.787550786Z",
   "model": "glm-5.3"
 }

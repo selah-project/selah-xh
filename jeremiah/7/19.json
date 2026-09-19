@@ -5,50 +5,51 @@
   "book": "jeremiah",
   "lang": "xh",
   "chapter": 7,
-  "translation": "Mna na abandixhalabisayo? — isalathiso sikaYahwe — ingaba akungabo na, ngenxa yokudumba kobuso babo?",
+  "translation": "Mna na ⟨את⟩ iindawa bayaphazukisa? — kukaloku uYahwe; akuzizo na ⟨את⟩ iindawo zabo, ukubhideka kobuso babo?",
   "tokens": [
     {
-      "surface": "האתי",
-      "gloss": "⟨את⟩ mna"
+      "surface": "הַאֹתִי",
+      "gloss": "Mna na ⟨את⟩",
+      "marks": "iindawa"
     },
     {
-      "surface": "הם",
-      "gloss": "aba-"
+      "surface": "הֵם",
+      "gloss": "iindawa"
     },
     {
-      "surface": "מכעסים",
-      "gloss": "xhalabisayo"
+      "surface": "מַכְעִסִים",
+      "gloss": "bayaphazukisa"
     },
     {
-      "surface": "נאם",
-      "gloss": "isalathiso"
+      "surface": "נְאֻם",
+      "gloss": "kukaloku"
     },
     {
-      "surface": "יהוה",
-      "gloss": "sikaYahwe"
+      "surface": "יְהוָה",
+      "gloss": "uYahwe"
     },
     {
-      "surface": "הלוא",
-      "gloss": "ingaba akuna"
+      "surface": "הֲלוֹא",
+      "gloss": "akuzizo na"
     },
     {
-      "surface": "אתם",
+      "surface": "אֹתָם",
       "gloss": "⟨את⟩",
-      "marks": "ngabo"
+      "marks": "iindawo zabo"
     },
     {
-      "surface": "למען",
-      "gloss": "ngenxa"
+      "surface": "לְמַעַן",
+      "gloss": "ukubhideka"
     },
     {
-      "surface": "בשת",
-      "gloss": "yokudumba"
+      "surface": "בֹּשֶׁת",
+      "gloss": "isihlekisa"
     },
     {
-      "surface": "פניהם",
-      "gloss": "kobuso babo"
+      "surface": "פְּנֵיהֶם",
+      "gloss": "obuso babo"
     }
   ],
-  "timestamp": "2026-09-18T11:59:39.299309492Z",
+  "timestamp": "2026-09-19T14:01:29.855497069Z",
   "model": "glm-5.3"
 }

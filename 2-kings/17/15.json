@@ -5,7 +5,7 @@
   "book": "2-kings",
   "lang": "xh",
   "chapter": 17,
-  "translation": "Balahla iimiso zakhe, nomnqophiso wakhe owawudala nooyihlo abo, namangqina akhe abanikela wona isiboniso; batyhalela emva kolutho olungenalutho, baba yinto engenalutho, bemva kwezintlanga eezikuzo ikhangeliwe, ezazibalelwe nguYahwe ⟨את⟩ ukuba ungazenzi njengazo.",
+  "translation": "Balahla ⟨את⟩ imimiselo yakhe, nange ⟨את⟩ umnqophiso wakhe owawenzeleyo ⟨את⟩ nooyise wabo, nange ⟨את⟩ iingqiniselelo zakhe ezazibangqiniselela kuwo; baya emva koludenge, baza baludengea, nangemva kwamazwe asekukhatshana kwabo, awawalele ngawo uYahwe ⟨את⟩ ukuba bangazenzi njengawo.",
   "tokens": [
     {
       "surface": "וימאסו",
@@ -14,62 +14,62 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "iimiso zakhe"
+      "marks": "imimiselo yakhe"
     },
     {
       "surface": "חקיו",
-      "gloss": "iimiso zakhe"
+      "gloss": "imimiselo yakhe"
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
+      "gloss": "nange ⟨את⟩",
       "marks": "umnqophiso wakhe"
     },
     {
       "surface": "בריתו",
-      "gloss": "nomnqophiso wakhe"
+      "gloss": "umnqophiso wakhe"
     },
     {
       "surface": "אשר",
-      "gloss": "o"
+      "gloss": "owo"
     },
     {
       "surface": "כרת",
-      "gloss": "wawudala"
+      "gloss": "awenzeleyo"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ooyihlo abo"
+      "marks": "nooyise wabo"
     },
     {
       "surface": "אבותם",
-      "gloss": "nooyihlo abo"
+      "gloss": "nooyise wabo"
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
-      "marks": "amangqina akhe"
+      "gloss": "nange ⟨את⟩",
+      "marks": "iingqiniselelo zakhe"
     },
     {
       "surface": "עדותיו",
-      "gloss": "namangqina akhe"
+      "gloss": "iingqiniselelo zakhe"
     },
     {
       "surface": "אשר",
-      "gloss": "a"
+      "gloss": "ezi"
     },
     {
       "surface": "העיד",
-      "gloss": "abanikela wona isiboniso"
+      "gloss": "azibangqiniselela"
     },
     {
       "surface": "בם",
-      "gloss": "wona"
+      "gloss": "kuwo"
     },
     {
       "surface": "וילכו",
-      "gloss": "batyhalela emva"
+      "gloss": "baya"
     },
     {
       "surface": "אחרי",
@@ -77,35 +77,35 @@
     },
     {
       "surface": "ההבל",
-      "gloss": "olutho olungenalutho"
+      "gloss": "oludenge"
     },
     {
       "surface": "ויהבלו",
-      "gloss": "baba yinto engenalutho"
+      "gloss": "baza baludengea"
     },
     {
       "surface": "ואחרי",
-      "gloss": "bemva kwezi-"
+      "gloss": "nangemva kwa-"
     },
     {
       "surface": "הגוים",
-      "gloss": "zintlanga"
+      "gloss": "amazwe"
     },
     {
       "surface": "אשר",
-      "gloss": "ezi"
+      "gloss": "a"
     },
     {
       "surface": "סביבתם",
-      "gloss": "zikuzo ikhangeliwe"
+      "gloss": "asekukhatshana kwabo"
     },
     {
       "surface": "אשר",
-      "gloss": "ezi"
+      "gloss": "awawalele"
     },
     {
       "surface": "צוה",
-      "gloss": "wayebalela"
+      "gloss": "ngawo wawalela"
     },
     {
       "surface": "יהוה",
@@ -114,11 +114,11 @@
     {
       "surface": "אתם",
       "gloss": "⟨את⟩",
-      "marks": "ukuba ungazenzi njengazo"
+      "marks": "ukuba bangazenzi njengawo"
     },
     {
       "surface": "לבלתי",
-      "gloss": "ukuba ungazenzi"
+      "gloss": "ukuba bangazenzi"
     },
     {
       "surface": "עשות",
@@ -126,9 +126,9 @@
     },
     {
       "surface": "כהם",
-      "gloss": "njengazo"
+      "gloss": "njengawo"
     }
   ],
-  "timestamp": "2026-09-18T10:54:03.905554631Z",
+  "timestamp": "2026-09-19T13:46:23.810750509Z",
   "model": "glm-5.3"
 }

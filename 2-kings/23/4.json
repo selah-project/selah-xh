@@ -5,7 +5,7 @@
   "book": "2-kings",
   "lang": "xh",
   "chapter": 23,
-  "translation": "Inkosi yayala uKhilkiyahu umpristi omkhulu, ⟨את⟩ nabapristi abasesikhundleni sesibini, ⟨את⟩ nabagcini bomsinga wokungenisa, ukukhupha etempeleni kaYahwe ⟨את⟩ zonke izixhobo ezenziweyo ngeBhali, ngeAshera, nakumkhosi onke wezulu; wazitshisa ngaphandle kweYerushalayimi emasimini eQidron, waza wathwala ⟨את⟩ ungcakaza zawo eBhete-eli.",
+  "translation": "Inkosi yayala ⟨את⟩ uHilkiyahu, umpristi omkhulu, ⟨את⟩ abapristi bobugcisa obwesibini, kunye ⟨את⟩ abagcini bethyala, ukuba bakhiphe ethempeleni likaYahwe ⟨את⟩ zonke izixhobo ezenziweyo ngoBhali nange-Asherah nangomkhosi wonke wamazulu; wazitshisa ngaphandle kweYerushalayimi kwiiplani zeKidroni, waza wathatha ⟨את⟩ umdaka wazo waya eBheti-eli.",
   "tokens": [
     {
       "surface": "ויצו",
@@ -18,11 +18,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "uKhilkiyahu"
+      "marks": "uHilkiyahu"
     },
     {
       "surface": "חלקיהו",
-      "gloss": "uKhilkiyahu"
+      "gloss": "uHilkiyahu"
     },
     {
       "surface": "הכהן",
@@ -35,7 +35,7 @@
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "abapristi"
+      "marks": "abapristi bobugcisa obwesibini"
     },
     {
       "surface": "כהני",
@@ -43,12 +43,12 @@
     },
     {
       "surface": "המשנה",
-      "gloss": "abasesikhundleni sesibini"
+      "gloss": "bobugcisa obwesibini"
     },
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "abagcini"
+      "marks": "abagcini bethyala"
     },
     {
       "surface": "שמרי",
@@ -56,19 +56,19 @@
     },
     {
       "surface": "הסף",
-      "gloss": "bomsinga wokungenisa"
+      "gloss": "bethyala"
     },
     {
       "surface": "להוציא",
-      "gloss": "ukukhupha"
+      "gloss": "ukuba bakhiphe"
     },
     {
       "surface": "מהיכל",
-      "gloss": "etempeleni"
+      "gloss": "ethempeleni"
     },
     {
       "surface": "יהוה",
-      "gloss": "kaYahwe"
+      "gloss": "likaYahwe"
     },
     {
       "surface": "את",
@@ -89,15 +89,15 @@
     },
     {
       "surface": "לבעל",
-      "gloss": "ngeBhali"
+      "gloss": "ngoBhali"
     },
     {
       "surface": "ולאשרה",
-      "gloss": "ngeAshera"
+      "gloss": "nange-Asherah"
     },
     {
       "surface": "ולכל",
-      "gloss": "nakumkhosi onke"
+      "gloss": "nangomkhosi wonke"
     },
     {
       "surface": "צבא",
@@ -105,7 +105,7 @@
     },
     {
       "surface": "השמים",
-      "gloss": "wezulu"
+      "gloss": "wamazulu"
     },
     {
       "surface": "וישרפם",
@@ -121,34 +121,34 @@
     },
     {
       "surface": "בשדמות",
-      "gloss": "emasimini"
+      "gloss": "kwiiplani"
     },
     {
       "surface": "קדרון",
-      "gloss": "eQidron"
+      "gloss": "zeKidroni"
     },
     {
       "surface": "ונשא",
-      "gloss": "wathwala"
+      "gloss": "waza wathatha"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ungcakaza zawo"
+      "marks": "umdaka wazo"
     },
     {
       "surface": "עפרם",
-      "gloss": "ungcakaza zawo"
+      "gloss": "umdaka wazo"
     },
     {
       "surface": "בית",
-      "gloss": "iBhete-"
+      "gloss": "eBheti-eli"
     },
     {
       "surface": "אל",
-      "gloss": "-eli"
+      "gloss": "eBheti-eli"
     }
   ],
-  "timestamp": "2026-09-18T18:40:47.910498404Z",
+  "timestamp": "2026-09-19T13:47:50.094656333Z",
   "model": "glm-5.3"
 }

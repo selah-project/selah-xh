@@ -5,15 +5,15 @@
   "book": "micah",
   "lang": "xh",
   "chapter": 3,
-  "translation": "Ngelo xesha baya kukhala kuYahwe, kodwa akayi kubaphhendula; uza kufihla ubuso bakhe kubo ngelo xesha, ngenxa yokuba izenzo zabo zazimbi.",
+  "translation": "Ngoko iya kubakala bekala kuYahwe, kodwa akayi kubaphendula; uza kufihla ubuso bakhe kubo ngelo xesha, njengokuba benza okulungileyo—hayi, benze imibi imisebenzi yabo.",
   "tokens": [
     {
       "surface": "אז",
-      "gloss": "Ngelo xesha"
+      "gloss": "ngoko"
     },
     {
       "surface": "יזעקו",
-      "gloss": "baya kukhala"
+      "gloss": "iya kubakala bekala"
     },
     {
       "surface": "אל",
@@ -25,16 +25,16 @@
     },
     {
       "surface": "ולא",
-      "gloss": "kodwa akayi"
+      "gloss": "kodwa akayi ku-"
     },
     {
       "surface": "יענה",
-      "gloss": "kubaphhendula"
+      "gloss": "baphendula"
     },
     {
       "surface": "אותם",
       "gloss": "⟨את⟩",
-      "marks": "abakhalayo"
+      "marks": "baphendula abo (izala ezikhalayo)"
     },
     {
       "surface": "ויסתר",
@@ -50,7 +50,7 @@
     },
     {
       "surface": "בעת",
-      "gloss": "ngelo xesha"
+      "gloss": "ngexesha"
     },
     {
       "surface": "ההיא",
@@ -58,17 +58,17 @@
     },
     {
       "surface": "כאשר",
-      "gloss": "ngenxa yokuba"
+      "gloss": "njengokuba"
     },
     {
       "surface": "הרעו",
-      "gloss": "zazimbi"
+      "gloss": "benze imibi"
     },
     {
       "surface": "מעלליהם",
-      "gloss": "izenzo zabo"
+      "gloss": "imisebenzi yabo"
     }
   ],
-  "timestamp": "2026-09-18T14:03:52.489878530Z",
+  "timestamp": "2026-09-19T14:08:09.163021661Z",
   "model": "glm-5.3"
 }

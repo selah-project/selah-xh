@@ -5,19 +5,19 @@
   "book": "jeremiah",
   "lang": "xh",
   "chapter": 29,
-  "translation": "Niza kundifumana kuni, utshilo uYahwe; ndiza kubuyisa ukuthunjwa kwenu ⟨את⟩, ndiza kuniqokelela ⟨את⟩ kuzo zonke iintlanga nakuzo zonke iindawo apho ndanitsalisa khona ⟨את⟩, utshilo uYahwe; ndiza kubuyisela ⟨את⟩ ni kwindawo apho ndanigxotha khona ukusukela.",
+  "translation": "Ndiza kufunyanwa nguwe, kutsho uYahwe; endiza kubuyisela isithuba seenkosi zenu ⟨את⟩ ubunzima benu, ndiza kunqokelela nina ⟨את⟩ kuzo zonke iintlanga nakuzo zonke iindawo apho ndanitsalisa khona nina ⟨את⟩, kutsho uYahwe; ndiza nibuyisela ⟨את⟩ endaweni apho ndanithumela ngokuthinjwa khona nina ⟨את⟩ ukusukela khona.",
   "tokens": [
     {
       "surface": "ונמצאתי",
-      "gloss": "niza kundifumana"
+      "gloss": "Ndiza kufunyanwa"
     },
     {
       "surface": "לכם",
-      "gloss": "kuni"
+      "gloss": "nguwe"
     },
     {
       "surface": "נאם",
-      "gloss": "utshilo"
+      "gloss": "kutsho"
     },
     {
       "surface": "יהוה",
@@ -25,25 +25,25 @@
     },
     {
       "surface": "ושבתי",
-      "gloss": "ndiza kubuyisa"
+      "gloss": "endiza kubuyisela"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ukuthunjwa kwenu"
+      "marks": "isithuba seenkosi zenu \/ ubunzima benu"
     },
     {
       "surface": "שביתכם",
-      "gloss": "ukuthunjwa kwenu"
+      "gloss": "isithuba seenkosi zenu, ubunzima benu"
     },
     {
       "surface": "וקבצתי",
-      "gloss": "ndiza kuniqokelela"
+      "gloss": "ndiza kunqokelela"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩",
-      "marks": "ni"
+      "gloss": "⟨את⟩ nina",
+      "marks": "nina"
     },
     {
       "surface": "מכל",
@@ -67,12 +67,12 @@
     },
     {
       "surface": "הדחתי",
-      "gloss": "ndanitsalisa"
+      "gloss": "ndanitsalisa khona"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩",
-      "marks": "ni"
+      "gloss": "⟨את⟩ nina",
+      "marks": "nina"
     },
     {
       "surface": "שם",
@@ -80,7 +80,7 @@
     },
     {
       "surface": "נאם",
-      "gloss": "utshilo"
+      "gloss": "kutsho"
     },
     {
       "surface": "יהוה",
@@ -88,20 +88,20 @@
     },
     {
       "surface": "והשבתי",
-      "gloss": "ndiza kubuyisela"
+      "gloss": "ndiza nibuyisela"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩",
-      "marks": "ni"
+      "gloss": "⟨את⟩ nina",
+      "marks": "nina"
     },
     {
       "surface": "אל",
-      "gloss": "kwi-"
+      "gloss": "e-"
     },
     {
       "surface": "המקום",
-      "gloss": "indawo"
+      "gloss": "endaweni"
     },
     {
       "surface": "אשר",
@@ -109,18 +109,18 @@
     },
     {
       "surface": "הגליתי",
-      "gloss": "ndanigxotha"
+      "gloss": "ndanithumela ngokuthinjwa"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩",
-      "marks": "ni"
+      "gloss": "⟨את⟩ nina",
+      "marks": "nina"
     },
     {
       "surface": "משם",
       "gloss": "ukusukela khona"
     }
   ],
-  "timestamp": "2026-09-18T12:21:39.533031411Z",
+  "timestamp": "2026-09-19T14:00:23.381660740Z",
   "model": "glm-5.3"
 }

@@ -5,11 +5,11 @@
   "book": "numbers",
   "lang": "xh",
   "chapter": 10,
-  "translation": "Wathi uMoshe kuKhwobhabhi, unyana kaRaguweli, uMdiyani, umkhwe kaMoshe: “Siyahamba siya kwindawo uYahwe ayithethayo: ‘Ndiya kuninika yona.’ Yithi nathi, size sikwenzele okulungileyo, kuba uYahwe wathetha okuhle ngeSirayeli.”",
+  "translation": "Wathetha uMoshe kuKhowabhabha, unyana kaRaguweli, umMidiyani, umkhwe kaMoshe: “Siyakhenketha siye ⟨the⟩ endaweni ayithethayo uYahwe: ‘⟨את⟩ yona ndiza kuninika’; woza ⟨את⟩ nathi, size sikwenzele okulungileyo, kuba uYahwe wathetha okulungileyo malunga neIsrayeli.”",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "Wathi"
+      "gloss": "wathetha"
     },
     {
       "surface": "משה",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "לחבב",
-      "gloss": "kuKhwobhabhi"
+      "gloss": "kuKhowabhabha"
     },
     {
       "surface": "בן",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "המדיני",
-      "gloss": "uMdiyani"
+      "gloss": "umMidiyani"
     },
     {
       "surface": "חתן",
@@ -41,7 +41,7 @@
     },
     {
       "surface": "נסעים",
-      "gloss": "Siyahamba"
+      "gloss": "siyakhenketha"
     },
     {
       "surface": "אנחנו",
@@ -49,19 +49,19 @@
     },
     {
       "surface": "אל",
-      "gloss": "siya ku-"
+      "gloss": "siye"
     },
     {
       "surface": "המקום",
-      "gloss": "kwindawo"
+      "gloss": "endaweni"
     },
     {
       "surface": "אשר",
-      "gloss": "ayithethayo"
+      "gloss": "eyi-"
     },
     {
       "surface": "אמר",
-      "gloss": "wathetha"
+      "gloss": "ayithethayo"
     },
     {
       "surface": "יהוה",
@@ -70,11 +70,11 @@
     {
       "surface": "אתו",
       "gloss": "⟨את⟩",
-      "marks": "yona (endawo)"
+      "marks": "yona (endaweni ayinika yona)"
     },
     {
       "surface": "אתן",
-      "gloss": "ndiya kuninika"
+      "gloss": "ndiza kuninika"
     },
     {
       "surface": "לכם",
@@ -82,7 +82,7 @@
     },
     {
       "surface": "לכה",
-      "gloss": "Yithi"
+      "gloss": "woza"
     },
     {
       "surface": "אתנו",
@@ -94,7 +94,7 @@
     },
     {
       "surface": "לך",
-      "gloss": "kuwe"
+      "gloss": "kukwenzele"
     },
     {
       "surface": "כי",
@@ -110,17 +110,17 @@
     },
     {
       "surface": "טוב",
-      "gloss": "okuhle"
+      "gloss": "okulungileyo"
     },
     {
       "surface": "על",
-      "gloss": "nge-"
+      "gloss": "malunga"
     },
     {
       "surface": "ישראל",
-      "gloss": "Sirayeli"
+      "gloss": "neIsrayeli"
     }
   ],
-  "timestamp": "2026-09-18T07:23:06.908421063Z",
+  "timestamp": "2026-09-19T14:08:03.349731160Z",
   "model": "glm-5.3"
 }

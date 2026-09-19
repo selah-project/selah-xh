@@ -5,19 +5,19 @@
   "book": "ezekiel",
   "lang": "xh",
   "chapter": 23,
-  "translation": "Ngoko ke utsho u-Adonayi uYahwe: Ngenxa yokuba undikhohliwe, wandiphosa ⟨את⟩ mna phesheya kwehloko yakho, naswe wena thwala ubuqhopholho bomcqomgo wakho kunye ⟨את⟩ nobukhohole bakho.",
+  "translation": "Ngoko uthe u-Adonayi uYahwe: Kuba undikhohliwe, wandisukela ⟨את⟩ ngasemva kwegakuthi, nakho wena yithwale ubugwenxa bakho ⟨את⟩ nobuhlelezi bakho.",
   "tokens": [
     {
       "surface": "לכן",
-      "gloss": "Ngoko ke"
+      "gloss": "ngoko"
     },
     {
       "surface": "כה",
-      "gloss": "utsho"
+      "gloss": "kanjalo"
     },
     {
       "surface": "אמר",
-      "gloss": "uthi"
+      "gloss": "wathi"
     },
     {
       "surface": "אדני",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "יען",
-      "gloss": "Ngenxa yokuba"
+      "gloss": "kuba"
     },
     {
       "surface": "שכחת",
@@ -37,29 +37,29 @@
     },
     {
       "surface": "אותי",
-      "gloss": "⟨את⟩ mna",
-      "marks": "mna"
+      "gloss": "⟨את⟩",
+      "marks": "undikhohliwe — undisukela (mna)"
     },
     {
       "surface": "ותשליכי",
-      "gloss": "wandiphosa"
+      "gloss": "wandisukela"
     },
     {
       "surface": "אותי",
-      "gloss": "⟨את⟩ mna",
-      "marks": "mna"
+      "gloss": "⟨את⟩",
+      "marks": "wandisukela — igakuthi (mna)"
     },
     {
       "surface": "אחרי",
-      "gloss": "phesheya kwe"
+      "gloss": "ngasemva"
     },
     {
       "surface": "גוך",
-      "gloss": "ihloko yakho (umva)"
+      "gloss": "igakuthi"
     },
     {
       "surface": "וגם",
-      "gloss": "naswe"
+      "gloss": "nakho"
     },
     {
       "surface": "את",
@@ -67,21 +67,22 @@
     },
     {
       "surface": "שאי",
-      "gloss": "thwala"
+      "gloss": "yithwale"
     },
     {
       "surface": "זמתך",
-      "gloss": "ubuqhopholho bomcqomgo wakho"
+      "gloss": "ubugwenxa bakho"
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩"
+      "gloss": "⟨את⟩",
+      "marks": "nobuhlelezi bakho"
     },
     {
       "surface": "תזנותיך",
-      "gloss": "nobukhohole bakho"
+      "gloss": "nobuhlelezi bakho"
     }
   ],
-  "timestamp": "2026-09-18T13:13:14.048858045Z",
+  "timestamp": "2026-09-19T13:53:49.515956481Z",
   "model": "glm-5.3"
 }

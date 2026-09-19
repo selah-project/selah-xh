@@ -5,27 +5,27 @@
   "book": "2-samuel",
   "lang": "xh",
   "chapter": 3,
-  "translation": "Wathetha uDawidi kuYowavu nakwabo bonke abantu ababenaye: ‘Rharhunikani izambatho zenu, zibophe ngeesaka, nilile phambi kukaAbineri’; inkosi uDawidi yaya emva kombethe.",
+  "translation": "UDawidi wathetha kuYowabhi nakubo bonke abantu ababe⟨את⟩ naye: “Rharhuzani iingubo zenu, ziqamani iisaka, nilile phambi ko-Abiner.” UNgangeenkosi uDawidi waye wahamba emva kombhede wokungcwabela.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "Wathetha"
+      "gloss": "wathetha"
     },
     {
       "surface": "דוד",
-      "gloss": "uDawidi"
+      "gloss": "UDawidi"
     },
     {
       "surface": "אל",
-      "gloss": "ku"
+      "gloss": "ku-"
     },
     {
       "surface": "יואב",
-      "gloss": "uYowavu"
+      "gloss": "Yowabhi"
     },
     {
       "surface": "ואל",
-      "gloss": "nakwabo"
+      "gloss": "naku-"
     },
     {
       "surface": "כל",
@@ -37,27 +37,28 @@
     },
     {
       "surface": "אשר",
-      "gloss": "⟨ababe⟩"
+      "gloss": "aba-"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ naye"
+      "gloss": "⟨את⟩ naye",
+      "marks": "naye"
     },
     {
       "surface": "קרעו",
-      "gloss": "Rharhunikani"
+      "gloss": "rharhuzani"
     },
     {
       "surface": "בגדיכם",
-      "gloss": "izambatho zenu"
+      "gloss": "iingubo zenu"
     },
     {
       "surface": "וחגרו",
-      "gloss": "zibophe"
+      "gloss": "ziqamani"
     },
     {
       "surface": "שקים",
-      "gloss": "ngeesaka"
+      "gloss": "iisaka"
     },
     {
       "surface": "וספדו",
@@ -65,15 +66,15 @@
     },
     {
       "surface": "לפני",
-      "gloss": "phambi"
+      "gloss": "phambi kwa-"
     },
     {
       "surface": "אבנר",
-      "gloss": "kukaAbineri"
+      "gloss": "Abiner"
     },
     {
       "surface": "והמלך",
-      "gloss": "inkosi"
+      "gloss": "unongangeenkosi"
     },
     {
       "surface": "דוד",
@@ -81,17 +82,17 @@
     },
     {
       "surface": "הלך",
-      "gloss": "yaya"
+      "gloss": "wahamba"
     },
     {
       "surface": "אחרי",
-      "gloss": "emva"
+      "gloss": "emva kwa-"
     },
     {
       "surface": "המטה",
-      "gloss": "kombethe"
+      "gloss": "umbhede wokungcwabela"
     }
   ],
-  "timestamp": "2026-09-18T09:46:52.546502034Z",
+  "timestamp": "2026-09-19T13:48:38.709597656Z",
   "model": "glm-5.3"
 }

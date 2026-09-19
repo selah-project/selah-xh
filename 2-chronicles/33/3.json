@@ -5,11 +5,11 @@
   "book": "2-chronicles",
   "lang": "xh",
   "chapter": 33,
-  "translation": "Wabuyela wakha ⟨את⟩ iibama uYehizqiyahu uyise azitshatyalalisa, wamisa iialthari kubaBhalim, wenza iiAshera, wazithoba kuwo wonke umkhosi wezulu, wazinikela ngeenkonzo.",
+  "translation": "Waphinda wakha iindawo ziphakamileyo ⟨את⟩ ezazitshatyalaliswe nguYehizkiyahu ubawo, waza wamisa iialthari ziiBhali, wenza izithixo zeAshera, wazikhukhumalela konke umkhosi wezulu, waza wazinkonza ⟨אתם⟩.",
   "tokens": [
     {
       "surface": "וישב",
-      "gloss": "wabuyela"
+      "gloss": "waphinda"
     },
     {
       "surface": "ויבן",
@@ -18,27 +18,27 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "iibama"
+      "marks": "iindawo ziphakamileyo"
     },
     {
       "surface": "הבמות",
-      "gloss": "iibama"
+      "gloss": "iindawo ziphakamileyo"
     },
     {
       "surface": "אשר",
-      "gloss": "azi-"
+      "gloss": "ezazi-"
     },
     {
       "surface": "נתץ",
-      "gloss": "azitshatyalalisa"
+      "gloss": "tshatyalaliswe"
     },
     {
       "surface": "יחזקיהו",
-      "gloss": "uYehizqiyahu"
+      "gloss": "nguYehizkiyahu"
     },
     {
       "surface": "אביו",
-      "gloss": "uyise"
+      "gloss": "ubawo"
     },
     {
       "surface": "ויקם",
@@ -50,7 +50,7 @@
     },
     {
       "surface": "לבעלים",
-      "gloss": "kubaBhalim"
+      "gloss": "ziiBhali"
     },
     {
       "surface": "ויעש",
@@ -58,15 +58,15 @@
     },
     {
       "surface": "אשרות",
-      "gloss": "iiAshera"
+      "gloss": "izithixo zeAshera"
     },
     {
       "surface": "וישתחו",
-      "gloss": "wazithoba"
+      "gloss": "wazikhukhumalela"
     },
     {
       "surface": "לכל",
-      "gloss": "kuwo wonke"
+      "gloss": "konke"
     },
     {
       "surface": "צבא",
@@ -78,14 +78,14 @@
     },
     {
       "surface": "ויעבד",
-      "gloss": "wazinikela ngeenkonzo"
+      "gloss": "wazinkonza"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩",
-      "marks": "wonke umkhosi wezulu"
+      "gloss": "⟨אתם⟩",
+      "marks": "zona (umkhosi wezulu)"
     }
   ],
-  "timestamp": "2026-09-18T17:15:05.690629064Z",
+  "timestamp": "2026-09-19T13:45:07.488534459Z",
   "model": "glm-5.3"
 }

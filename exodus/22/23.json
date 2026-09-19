@@ -5,11 +5,11 @@
   "book": "exodus",
   "lang": "xh",
   "chapter": 22,
-  "translation": "ulaka lwam luya kuvutha, ndiza kunibulala ngekrele, nabafazi bakenu baya kuba ngamafelokazi, nabantwana bakenu betandane.",
+  "translation": "Ndiza kuthe vakala ulaka lwam, ndiza kunibulala ngekrele ⟨את⟩, amakhosikazi enu aza kuba ngamakhobokazakazi, nonyana enu aza kuba ngabanangelali.",
   "tokens": [
     {
       "surface": "וחרה",
-      "gloss": "luya kuvutha"
+      "gloss": "iza kuthe vakala"
     },
     {
       "surface": "אפי",
@@ -21,7 +21,8 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ nina"
+      "gloss": "⟨את⟩",
+      "marks": "niku (nina)"
     },
     {
       "surface": "בחרב",
@@ -29,25 +30,25 @@
     },
     {
       "surface": "והיו",
-      "gloss": "baya kuba"
+      "gloss": "aza kuba"
     },
     {
       "surface": "נשיכם",
-      "gloss": "abafazi bakenu"
+      "gloss": "amakhosikazi enu"
     },
     {
       "surface": "אלמנות",
-      "gloss": "ngamafelokazi"
+      "gloss": "ngamakhobokazakazi"
     },
     {
       "surface": "ובניכם",
-      "gloss": "nabantwana bakenu"
+      "gloss": "nunyana enu"
     },
     {
       "surface": "יתמים",
-      "gloss": "betandane"
+      "gloss": "ngabanangelali"
     }
   ],
-  "timestamp": "2026-09-18T06:08:45.612680814Z",
+  "timestamp": "2026-09-19T13:51:47.837643929Z",
   "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "1-chronicles",
   "lang": "xh",
   "chapter": 2,
-  "translation": "UNakhshoni wazala uSalma, uSalma wazala uBoazi.",
+  "translation": "UNakhshoni wazala ⟨את⟩ uSalma, kananjalo uSalma wazala ⟨את⟩ uBoazi.",
   "tokens": [
     {
       "surface": "ונחשון",
@@ -26,7 +26,7 @@
     },
     {
       "surface": "ושלמא",
-      "gloss": "uSalma"
+      "gloss": "kananjalo uSalma"
     },
     {
       "surface": "הוליד",
@@ -42,6 +42,6 @@
       "gloss": "uBoazi"
     }
   ],
-  "timestamp": "2026-09-18T16:50:39.347065736Z",
+  "timestamp": "2026-09-19T13:40:52.236034060Z",
   "model": "glm-5.3"
 }

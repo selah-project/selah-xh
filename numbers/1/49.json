@@ -5,7 +5,7 @@
   "book": "numbers",
   "lang": "xh",
   "chapter": 1,
-  "translation": "Kodwa isizwe samaLevi ungawubali ⟨את⟩, ubuninzi babo ungabunamiseli phakathi kwabantwana bakaSirayeli.",
+  "translation": "Kodwa isizwe sikaLevi ungakubali ⟨את⟩, umntla wabo ungawamameli phakathi kwabantwana bakwaIsrayeli;",
   "tokens": [
     {
       "surface": "אך",
@@ -14,7 +14,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "isizwe samaLevi"
+      "marks": "isizwe sikaLevi"
     },
     {
       "surface": "מטה",
@@ -22,46 +22,46 @@
     },
     {
       "surface": "לוי",
-      "gloss": "uLevi"
+      "gloss": "kaLevi"
     },
     {
       "surface": "לא",
-      "gloss": "mus."
+      "gloss": "unga-"
     },
     {
       "surface": "תפקד",
-      "gloss": "ungawubali"
+      "gloss": "kubali"
     },
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "ubuninzi babo"
+      "marks": "umntla wabo"
     },
     {
       "surface": "ראשם",
-      "gloss": "ubuninzi babo"
+      "gloss": "umntla wabo"
     },
     {
       "surface": "לא",
-      "gloss": "mus."
+      "gloss": "unga-"
     },
     {
       "surface": "תשא",
-      "gloss": "ungabunamiseli"
+      "gloss": "wamameli"
     },
     {
       "surface": "בתוך",
-      "gloss": "phakathi kwa"
+      "gloss": "phakathi kwa-"
     },
     {
       "surface": "בני",
-      "gloss": "abantwana baka"
+      "gloss": "abantwana"
     },
     {
       "surface": "ישראל",
-      "gloss": "Sirayeli"
+      "gloss": "Israyeli"
     }
   ],
-  "timestamp": "2026-09-18T07:09:57.282197794Z",
+  "timestamp": "2026-09-19T14:08:28.984809131Z",
   "model": "glm-5.3"
 }

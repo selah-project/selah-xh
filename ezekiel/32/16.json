@@ -5,19 +5,19 @@
   "book": "ezekiel",
   "lang": "xh",
   "chapter": 32,
-  "translation": "Yililo leli; baza kulila ngalo iintombi zelizwe; baza kulila ngayo, ngeMitsrayim nakulo wonke umninzi wayo; baza kulila ngayo, utshilo luka-Adonayi uYahwe.",
+  "translation": "Ingoma yokuzila yile, kwaye iintombi zelizwe ziya kuyilila ⟨את⟩ yona; ngaye iMitsrayim nakulo lonke ubuninzi bayo ziya kuyilila ⟨את⟩ yona, utshilo u-Adonayi uYahwe.",
   "tokens": [
     {
       "surface": "קינה",
-      "gloss": "ililo"
+      "gloss": "ingoma yokuzila"
     },
     {
       "surface": "היא",
-      "gloss": "leli"
+      "gloss": "yile"
     },
     {
       "surface": "וקוננוה",
-      "gloss": "baza kulila ngalo"
+      "gloss": "kwaye baza kuyilila"
     },
     {
       "surface": "בנות",
@@ -29,43 +29,45 @@
     },
     {
       "surface": "תקוננה",
-      "gloss": "baza kulila"
+      "gloss": "ziya kuyilila"
     },
     {
       "surface": "אותה",
-      "gloss": "⟨את⟩ ngayo"
+      "gloss": "⟨את⟩",
+      "marks": "yona"
     },
     {
       "surface": "על",
-      "gloss": "nge"
+      "gloss": "ngaye"
     },
     {
       "surface": "מצרים",
-      "gloss": "Mitsrayim"
+      "gloss": "iMitsrayim"
     },
     {
       "surface": "ועל",
-      "gloss": "nakulo"
+      "gloss": "nange"
     },
     {
       "surface": "כל",
-      "gloss": "wonke"
+      "gloss": "lonke"
     },
     {
       "surface": "המונה",
-      "gloss": "umninzi wayo"
+      "gloss": "ubuninzi bayo"
     },
     {
       "surface": "תקוננה",
-      "gloss": "baza kulila"
+      "gloss": "ziya kuyilila"
     },
     {
       "surface": "אותה",
-      "gloss": "⟨את⟩ ngayo"
+      "gloss": "⟨את⟩",
+      "marks": "yona"
     },
     {
       "surface": "נאם",
-      "gloss": "utshilo luka"
+      "gloss": "utshilo"
     },
     {
       "surface": "אדני",
@@ -76,6 +78,6 @@
       "gloss": "uYahwe"
     }
   ],
-  "timestamp": "2026-09-18T13:23:35.422054562Z",
+  "timestamp": "2026-09-19T13:55:12.918393310Z",
   "model": "glm-5.3"
 }

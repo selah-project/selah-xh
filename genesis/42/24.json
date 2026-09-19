@@ -5,23 +5,23 @@
   "book": "genesis",
   "lang": "xh",
   "chapter": 42,
-  "translation": "Wazityhalela kwicala angangezhi aze wakhala; wabuya kubo waza wathetha nabo, waza kwakunye noShimon waza wambophelela phambi kwamehlo abo ⟨את⟩ uShimon.",
+  "translation": "Wazitshikila iintliziyo wabasuka kubo, wakhala; wabuyela kubo, wathetha naso, wathabatha phakathi kwabo uShimoni, wambophela emehlweni abo.",
   "tokens": [
     {
       "surface": "ויסב",
-      "gloss": "Wazityhalela kwicala"
+      "gloss": "wabuya \/ wazitshikila iintliziyo wabasuka"
     },
     {
       "surface": "מעליהם",
-      "gloss": "angangezhi"
+      "gloss": "kubo"
     },
     {
       "surface": "ויבך",
-      "gloss": "aze wakhala"
+      "gloss": "wakhala"
     },
     {
       "surface": "וישב",
-      "gloss": "wabuya"
+      "gloss": "wabuyela"
     },
     {
       "surface": "אלהם",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "אלהם",
-      "gloss": "nabo"
+      "gloss": "naso"
     },
     {
       "surface": "ויקח",
@@ -41,32 +41,31 @@
     },
     {
       "surface": "מאתם",
-      "gloss": "kwakunye ⟨את⟩",
-      "marks": "uShimon"
+      "gloss": "phakathi kwabo ⟨את⟩"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "uShimon"
+      "marks": "uShimoni"
     },
     {
       "surface": "שמעון",
-      "gloss": "uShimon"
+      "gloss": "uShimoni"
     },
     {
       "surface": "ויאסר",
-      "gloss": "wambophelela"
+      "gloss": "wambophela"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩",
-      "marks": "wambophelela"
+      "gloss": "⟨את⟩ yena",
+      "marks": "emehlweni abo"
     },
     {
       "surface": "לעיניהם",
-      "gloss": "phambi kwamehlo abo"
+      "gloss": "emehlweni abo"
     }
   ],
-  "timestamp": "2026-09-18T05:41:25.115340986Z",
+  "timestamp": "2026-09-19T13:57:41.654841879Z",
   "model": "glm-5.3"
 }

@@ -5,11 +5,11 @@
   "book": "judges",
   "lang": "xh",
   "chapter": 11,
-  "translation": "Wathetha uYiftah kwiindala zaseGiladi: “Ukuba nindibuyisela ukulwa ngokuchasene nabantwana beAmnon, aze uYahwe abanikeze phambi kwam, mna ndiza kuba yintloko kuwe.”",
+  "translation": "Wathi uYiftah kwiinduna ezindala zaseGiladi: “Ukuba nindibuyisela ⟨את⟩ ukulwa nabantwana base-Ammon, uYahwe akanika ⟨את⟩ bona phambi kwam, mna ndiza kuba yintloko yenu?”",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "wathetha"
+      "gloss": "Wathi"
     },
     {
       "surface": "יפתח",
@@ -17,11 +17,11 @@
     },
     {
       "surface": "אל",
-      "gloss": "ku"
+      "gloss": "ku-"
     },
     {
       "surface": "זקני",
-      "gloss": "iindala"
+      "gloss": "iinduna ezindala"
     },
     {
       "surface": "גלעד",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "אם",
-      "gloss": "ukuba"
+      "gloss": "Ukuba"
     },
     {
       "surface": "משיבים",
@@ -37,12 +37,12 @@
     },
     {
       "surface": "אתם",
-      "gloss": "nina"
+      "gloss": "ni-"
     },
     {
       "surface": "אותי",
       "gloss": "⟨את⟩",
-      "marks": "ukulwa ngokuchasene nabantwana beAmnon"
+      "marks": "ukulwa nabantwana base-Ammon"
     },
     {
       "surface": "להלחם",
@@ -50,15 +50,15 @@
     },
     {
       "surface": "בבני",
-      "gloss": "nabantwana"
+      "gloss": "nabantwana base-"
     },
     {
       "surface": "עמון",
-      "gloss": "beAmnon"
+      "gloss": "Ammon"
     },
     {
-      "surface": "ונתן",
-      "gloss": "aze abanikeze"
+      "surface": "וונתן",
+      "gloss": "akanika"
     },
     {
       "surface": "יהוה",
@@ -67,11 +67,11 @@
     {
       "surface": "אותם",
       "gloss": "⟨את⟩",
-      "marks": "abantwana beAmnon"
+      "marks": "abantwana base-Ammon"
     },
     {
       "surface": "לפני",
-      "gloss": "phambi kwam"
+      "gloss": "phambi kwa-"
     },
     {
       "surface": "אנכי",
@@ -83,13 +83,13 @@
     },
     {
       "surface": "לכם",
-      "gloss": "kuwe"
+      "gloss": "yenu"
     },
     {
       "surface": "לראש",
-      "gloss": "yintloko"
+      "gloss": "intloko"
     }
   ],
-  "timestamp": "2026-09-18T09:02:34.786163861Z",
+  "timestamp": "2026-09-19T14:04:24.253806123Z",
   "model": "glm-5.3"
 }

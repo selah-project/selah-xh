@@ -5,40 +5,40 @@
   "book": "numbers",
   "lang": "xh",
   "chapter": 27,
-  "translation": "Ukuba uyise akanabo bantakwabo, niza kusalela ⟨את⟩ ifa lakhe kumlobokakhe osondeleyo kuye, ovela kusapho lwakhe, yaye uza kulithumba ⟨את⟩; yaye oku kuya kuba ngumthetho wolwebeno kubantwana bakwaSirayeli, njengoko uYahwe awalele ngako uMoshe.",
+  "translation": "Ukuba tatakalikho oonyana bakwallenkosi kayise, niza kunika inxaxheba yakhe kumfana wakwabo osondeleyo kuye, owasemzini wakhe, kwaye uza kuyifa yingowane; ileyokuba kubantwana bakwa-Israela ibe sisiyalelo somthetho, njengoko uYahwe awalele uMoshe.",
   "tokens": [
     {
       "surface": "ואם",
-      "gloss": "ukuba"
+      "gloss": "ukuba tatakalikho"
     },
     {
       "surface": "אין",
-      "gloss": "akanabo"
+      "gloss": "tatakalikho"
     },
     {
       "surface": "אחים",
-      "gloss": "bantakwabo"
+      "gloss": "oonyana bakwallenkosi"
     },
     {
       "surface": "לאביו",
-      "gloss": "uyise"
+      "gloss": "kayise"
     },
     {
       "surface": "ונתתם",
-      "gloss": "niza kusalela"
+      "gloss": "niza kunika"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ifa lakhe"
+      "marks": "inxaxheba yakhe"
     },
     {
       "surface": "נחלתו",
-      "gloss": "ifa lakhe"
+      "gloss": "inxaxheba yakhe"
     },
     {
       "surface": "לשארו",
-      "gloss": "kumlobokakhe"
+      "gloss": "kumfana wakwabo"
     },
     {
       "surface": "הקרב",
@@ -50,20 +50,20 @@
     },
     {
       "surface": "ממשפחתו",
-      "gloss": "ovela kusapho lwakhe"
+      "gloss": "owasemzini wakhe"
     },
     {
       "surface": "וירש",
-      "gloss": "uza kulithumba"
+      "gloss": "uza kuyifa yingowane"
     },
     {
       "surface": "אתה",
       "gloss": "⟨את⟩",
-      "marks": "ifa (elithathwayo)"
+      "marks": "leyo (inxaxheba)"
     },
     {
       "surface": "והיתה",
-      "gloss": "kuya kuba"
+      "gloss": "ileyokuba ibe"
     },
     {
       "surface": "לבני",
@@ -71,15 +71,15 @@
     },
     {
       "surface": "ישראל",
-      "gloss": "bakwaSirayeli"
+      "gloss": "bakwa-Israela"
     },
     {
       "surface": "לחקת",
-      "gloss": "ngumthetho"
+      "gloss": "sisiyalelo"
     },
     {
       "surface": "משפט",
-      "gloss": "wolwebeno"
+      "gloss": "somthetho"
     },
     {
       "surface": "כאשר",
@@ -103,6 +103,6 @@
       "gloss": "uMoshe"
     }
   ],
-  "timestamp": "2026-09-18T07:41:13.191491128Z",
+  "timestamp": "2026-09-19T14:09:12.144565749Z",
   "model": "glm-5.3"
 }

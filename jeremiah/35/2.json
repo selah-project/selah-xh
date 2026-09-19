@@ -5,7 +5,7 @@
   "book": "jeremiah",
   "lang": "xh",
   "chapter": 35,
-  "translation": "Hamba uyaye kwindlu yeRexhabi, uthethe nabo, uze ubamisele endlwini kaYahwe, kwenye yezigcawu, ubasele iwayini:",
+  "translation": "Hamba ubambe elokuqala ukuya kwindlu yabaRekhaba, wabe uthetha-nabo, uze ubafake kwindlu kaYahwe, kwenye yeelishoka, ubasele iwayini.",
   "tokens": [
     {
       "surface": "הלוך",
@@ -13,31 +13,32 @@
     },
     {
       "surface": "אל",
-      "gloss": "uye"
+      "gloss": "uya ku-"
+    },
+    {
+      "surface": "בית",
+      "gloss": "indlu"
+    },
+    {
+      "surface": "הרכבים",
+      "gloss": "yabaRekhaba"
+    },
+    {
+      "surface": "ודברת",
+      "gloss": "wabe uthetha-nabo"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "wabe uthetha-nabo"
+    },
+    {
+      "surface": "והבאותם",
+      "gloss": "ubafake"
     },
     {
       "surface": "בית",
       "gloss": "kwindlu"
-    },
-    {
-      "surface": "הרכבים",
-      "gloss": "yeRexhabi"
-    },
-    {
-      "surface": "ודברת",
-      "gloss": "uthethe nabo"
-    },
-    {
-      "surface": "אותם",
-      "gloss": "⟨את⟩ nabo"
-    },
-    {
-      "surface": "והבאותם",
-      "gloss": "uz ubamisele"
-    },
-    {
-      "surface": "בית",
-      "gloss": "endlwini"
     },
     {
       "surface": "יהוה",
@@ -45,15 +46,15 @@
     },
     {
       "surface": "אל",
-      "gloss": "kw"
+      "gloss": "ku-"
     },
     {
       "surface": "אחת",
-      "gloss": "enye"
+      "gloss": "kwenye"
     },
     {
       "surface": "הלשכות",
-      "gloss": "yezigcawu"
+      "gloss": "yeelishoka"
     },
     {
       "surface": "והשקית",
@@ -61,13 +62,14 @@
     },
     {
       "surface": "אותם",
-      "gloss": "⟨את⟩ ba"
+      "gloss": "⟨את⟩",
+      "marks": "ubasele"
     },
     {
       "surface": "יין",
       "gloss": "iwayini"
     }
   ],
-  "timestamp": "2026-09-18T12:24:00.647599713Z",
+  "timestamp": "2026-09-19T13:59:51.634737083Z",
   "model": "glm-5.3"
 }

@@ -5,11 +5,11 @@
   "book": "1-samuel",
   "lang": "xh",
   "chapter": 14,
-  "translation": "Wathetha uShawuli kubuntu obubeniye: “Baliseni nceda, nibone ngubani ohambileyo kuthi.” Balisela, yabonakala into yokuba uYonatan nomthwali wezixhobo zakhe abekho.",
+  "translation": "Wathi uShawuli kulo lonke ilizwi elalinaye ⟨אתו⟩: “Balani nceda, nibone ngubani ohambe kuthi.” Balaya, yabonakala ngokungenamkuba uYonatan nomthwali wezixhobo zakhe abekho.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "Wathetha"
+      "gloss": "wathi"
     },
     {
       "surface": "שאול",
@@ -17,19 +17,20 @@
     },
     {
       "surface": "לעם",
-      "gloss": "kubuntu"
+      "gloss": "kulo lonke ilizwi"
     },
     {
       "surface": "אשר",
-      "gloss": "obu"
+      "gloss": "eli"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ beniye"
+      "gloss": "⟨אתו⟩",
+      "marks": "elinaye (elili laShawuli)"
     },
     {
       "surface": "פקדו",
-      "gloss": "Baliseni"
+      "gloss": "balani"
     },
     {
       "surface": "נא",
@@ -45,7 +46,7 @@
     },
     {
       "surface": "הלך",
-      "gloss": "ohambileyo"
+      "gloss": "ohambe"
     },
     {
       "surface": "מעמנו",
@@ -53,11 +54,11 @@
     },
     {
       "surface": "ויפקדו",
-      "gloss": "Balisela"
+      "gloss": "balaya"
     },
     {
       "surface": "והנה",
-      "gloss": "yabonakala"
+      "gloss": "yabonakala ngokungenamkuba"
     },
     {
       "surface": "אין",
@@ -76,6 +77,6 @@
       "gloss": "wezixhobo zakhe"
     }
   ],
-  "timestamp": "2026-09-18T09:26:27.013330326Z",
+  "timestamp": "2026-09-19T13:42:39.302549368Z",
   "model": "glm-5.3"
 }

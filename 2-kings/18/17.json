@@ -5,11 +5,11 @@
   "book": "2-kings",
   "lang": "xh",
   "chapter": 18,
-  "translation": "Inkosi yaseAshuru yathumela uThathani ⟨את⟩ noRabhi-Sarisi ⟨את⟩ noRabhi-Shakehi, ivela eLakishi, ukuya kwiNkosi uKhizkiyahu, ngamabutho asindileyo, eYerushalayimi. Baya phezulu, bafika eYerushalayimi; baya phezulu, bafika, bemi emsingeni wedamu eliphezulu, elileyo ecaleni lodlela lwebele lomhlambi.",
+  "translation": "Inkosi yeAshure yathuma ⟨את⟩ uTartani ⟨ואת⟩ uRab-Sarisi ⟨ואת⟩ uRab-Shake kwiLakishi, kunkosi uKhizkiyahu, ngumkhosi omkhulu, kwiYerushalayimi. Banyuka, bangena eYerushalayimi; banyuka, bangena, bamila emgangathweni wedamera ephezulu, ekwindlela yomhlaba wokuhlamba impahla.",
   "tokens": [
     {
       "surface": "וישלח",
-      "gloss": "yathumela"
+      "gloss": "yathuma"
     },
     {
       "surface": "מלך",
@@ -17,58 +17,58 @@
     },
     {
       "surface": "אשור",
-      "gloss": "yaseAshuru"
+      "gloss": "yeAshure"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "uThathani"
+      "marks": "uTartani"
     },
     {
       "surface": "תרתן",
-      "gloss": "uThathani"
+      "gloss": "uTartani"
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
-      "marks": "uRabhi"
+      "gloss": "⟨ואת⟩",
+      "marks": "uRab-Sarisi"
     },
     {
       "surface": "רב",
-      "gloss": "uRabhi"
+      "gloss": "uRab"
     },
     {
       "surface": "סריס",
-      "gloss": "usarisi"
+      "gloss": "-Sarisi"
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
-      "marks": "uRabhi"
+      "gloss": "⟨ואת⟩",
+      "marks": "uRab-Shake"
     },
     {
       "surface": "רב",
-      "gloss": "uRabhi"
+      "gloss": "uRab"
     },
     {
       "surface": "שקה",
-      "gloss": "ushakehi"
+      "gloss": "-Shake"
     },
     {
       "surface": "מן",
-      "gloss": "ivela"
+      "gloss": "kwi-"
     },
     {
       "surface": "לכיש",
-      "gloss": "eLakishi"
+      "gloss": "iLakishi"
     },
     {
       "surface": "אל",
-      "gloss": "ukuya kwi"
+      "gloss": "ku-"
     },
     {
       "surface": "המלך",
-      "gloss": "Nkosi"
+      "gloss": "inkosi"
     },
     {
       "surface": "חזקיהו",
@@ -76,11 +76,23 @@
     },
     {
       "surface": "בחיל",
-      "gloss": "ngamabutho"
+      "gloss": "ngumkhosi"
     },
     {
       "surface": "כבד",
-      "gloss": "asindileyo"
+      "gloss": "omkhulu"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "kwiYerushalayimi"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "banyuka"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "bangena"
     },
     {
       "surface": "ירושלם",
@@ -88,57 +100,45 @@
     },
     {
       "surface": "ויעלו",
-      "gloss": "baya phezulu"
+      "gloss": "banyuka"
     },
     {
       "surface": "ויבאו",
-      "gloss": "bafika"
-    },
-    {
-      "surface": "ירושלם",
-      "gloss": "eYerushalayimi"
-    },
-    {
-      "surface": "ויעלו",
-      "gloss": "baya phezulu"
-    },
-    {
-      "surface": "ויבאו",
-      "gloss": "bafika"
+      "gloss": "bangena"
     },
     {
       "surface": "ויעמדו",
-      "gloss": "bemi"
+      "gloss": "bamila"
     },
     {
       "surface": "בתעלת",
-      "gloss": "emsingeni"
+      "gloss": "emgangathweni wedamera"
     },
     {
       "surface": "הברכה",
-      "gloss": "wedamu"
+      "gloss": "wedamera"
     },
     {
       "surface": "העליונה",
-      "gloss": "eliphezulu"
+      "gloss": "ephezulu"
     },
     {
       "surface": "אשר",
-      "gloss": "elileyo"
+      "gloss": "ekwindlela"
     },
     {
       "surface": "במסלת",
-      "gloss": "ecaleni lodlela"
+      "gloss": "ekwindlela"
     },
     {
       "surface": "שדה",
-      "gloss": "lwebele"
+      "gloss": "yomhlaba"
     },
     {
       "surface": "כובס",
-      "gloss": "lomhlambi"
+      "gloss": "wokuhlamba impahla"
     }
   ],
-  "timestamp": "2026-09-18T10:53:45.121748733Z",
+  "timestamp": "2026-09-19T14:12:32.710299785Z",
   "model": "glm-5.3"
 }

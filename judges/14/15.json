@@ -5,31 +5,31 @@
   "book": "judges",
   "lang": "xh",
   "chapter": 14,
-  "translation": "Kwathi ngomhla wesixhenxe bathi komfazi kaShimshoni: “Khohlisa umyeni wakho uze asixelele ⟨את⟩ imfumba, hleze sitshise ⟨את⟩ wena ⟨את⟩ nendlu yakho ubawo ngomlilo. Ukusirhangqisa na ubusibizela na? Awunjalo?”",
+  "translation": "Kwenzeka ngosuku lwesixhenxe, bathetha kwinkosikazi kaShimshon, bathi: “Khohlisa ⟨את⟩ indoda yakho, aze asixelele ⟨את⟩ ingcamango, ukuze kungabi sisitshisile ⟨את⟩ wena no⟨את⟩ indlu yakabawo ngomlilo. Nasisibizela ukusibanzela thina? Akukho njalo?”",
   "tokens": [
     {
       "surface": "ויהי",
-      "gloss": "Kwathi"
+      "gloss": "Kwenzeka"
     },
     {
       "surface": "ביום",
-      "gloss": "ngomhla"
+      "gloss": "ngosuku"
     },
     {
       "surface": "השביעי",
-      "gloss": "wesixhenxe"
+      "gloss": "lwesixhenxe"
     },
     {
       "surface": "ויאמרו",
-      "gloss": "bathi"
+      "gloss": "bathetha"
     },
     {
       "surface": "לאשת",
-      "gloss": "komfazi"
+      "gloss": "kwinkosikazi"
     },
     {
       "surface": "שמשון",
-      "gloss": "kaShimshoni"
+      "gloss": "kaShimshon"
     },
     {
       "surface": "פתי",
@@ -38,45 +38,46 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "umyeni wakho"
+      "marks": "indoda yakho"
     },
     {
       "surface": "אישך",
-      "gloss": "umyeni wakho"
+      "gloss": "indoda yakho"
     },
     {
       "surface": "ויגד",
-      "gloss": "uze asixelele"
+      "gloss": "aze asixelele"
     },
     {
       "surface": "לנו",
-      "gloss": "si-"
+      "gloss": "thina"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "imfumba"
+      "marks": "ingcamango"
     },
     {
       "surface": "החידה",
-      "gloss": "imfumba"
+      "gloss": "ingcamango"
     },
     {
       "surface": "פן",
-      "gloss": "hleze"
+      "gloss": "ukuze kungabi"
     },
     {
       "surface": "נשרף",
-      "gloss": "sitshise"
+      "gloss": "sisitshisile"
     },
     {
       "surface": "אותך",
-      "gloss": "⟨את⟩ wena"
+      "gloss": "⟨את⟩ wena",
+      "marks": "wena"
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
-      "marks": "indlu yakho ubawo"
+      "gloss": "no⟨את⟩",
+      "marks": "indlu yakabawo"
     },
     {
       "surface": "בית",
@@ -84,7 +85,7 @@
     },
     {
       "surface": "אביך",
-      "gloss": "yakho ubawo"
+      "gloss": "yakabawo"
     },
     {
       "surface": "באש",
@@ -92,21 +93,21 @@
     },
     {
       "surface": "הלירשנו",
-      "gloss": "ukusirhangqisa"
+      "gloss": "ukusibanzela"
     },
     {
       "surface": "קראתם",
-      "gloss": "ubusibizela"
+      "gloss": "nasisibizela"
     },
     {
       "surface": "לנו",
-      "gloss": "si-"
+      "gloss": "thina"
     },
     {
       "surface": "הלא",
-      "gloss": "Awunjalo"
+      "gloss": "Akukho njalo"
     }
   ],
-  "timestamp": "2026-09-18T09:05:55.414108057Z",
+  "timestamp": "2026-09-19T14:05:26.715453435Z",
   "model": "glm-5.3"
 }

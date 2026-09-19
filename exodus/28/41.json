@@ -5,7 +5,7 @@
   "book": "exodus",
   "lang": "xh",
   "chapter": 28,
-  "translation": "Uza kubambisa ⟨את⟩ u-Aharon umnakwenu, kunye ⟨את⟩ oonyana bakhe ⟨את⟩ naye; uza kubathanjisa, uza kugcwalisa ⟨את⟩ izandla zabo, uza kubangcwehlisa, ukuba babe ngababingeleli kum.",
+  "translation": "Uza kubambisa ⟨את⟩ bonke laba — u-Aharon umnakwenu, kunye ⟨את⟩ noonyana bakhe naye; uza kubagcoba, uza kuzalisa ⟨את⟩ izandla zabo, uza kubangcwelisa, ukuze basebenzele mna.",
   "tokens": [
     {
       "surface": "והלבשת",
@@ -14,7 +14,7 @@
     {
       "surface": "אתם",
       "gloss": "⟨את⟩",
-      "marks": "u-Aharon noonyana bakhe"
+      "marks": "bonke laba (u-Aharon noonyana bakhe)"
     },
     {
       "surface": "את",
@@ -40,11 +40,11 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ naye"
+      "gloss": "kunye ⟨את⟩ naye"
     },
     {
       "surface": "ומשחת",
-      "gloss": "uza kubathanjisa"
+      "gloss": "uza kubagcoba"
     },
     {
       "surface": "אתם",
@@ -53,7 +53,7 @@
     },
     {
       "surface": "ומלאת",
-      "gloss": "uza kugcwalisa"
+      "gloss": "uza kuzalisa"
     },
     {
       "surface": "את",
@@ -66,7 +66,7 @@
     },
     {
       "surface": "וקדשת",
-      "gloss": "uza kubangcwehlisa"
+      "gloss": "uza kubangcwelisa"
     },
     {
       "surface": "אתם",
@@ -75,13 +75,13 @@
     },
     {
       "surface": "וכהנו",
-      "gloss": "ukuba babe ngababingeleli"
+      "gloss": "ukuba basebenzele"
     },
     {
       "surface": "לי",
-      "gloss": "kum"
+      "gloss": "mna"
     }
   ],
-  "timestamp": "2026-09-18T06:17:44.950341214Z",
+  "timestamp": "2026-09-19T14:12:00.056465226Z",
   "model": "glm-5.3"
 }

@@ -5,12 +5,12 @@
   "book": "2-kings",
   "lang": "xh",
   "chapter": 16,
-  "translation": "I-altare yebhodloza ebisingayo phambi koYahwe ⟨את⟩, wayisusa kuso ⟨את⟩, kwindawo yangaphambili yendlu, phakathi kwe-altare nendlu kaYahwe, wayibeka phezu kwecalo lwe-altare, emantla.",
+  "translation": "Kwaye ⟨את⟩ i-altare yentsimbi ebeyiphambi koYahwe, wayisusa isuka ⟨את⟩ kumphakamo wendlu, phakathi kwe-altare nephi indlu kaYahwe, wayibeka ⟨⟨את⟩ yona⟩ phezu kwesicala se-altare, emantla.",
   "tokens": [
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "i-altare yebhodloza"
+      "marks": "i-altare yentsimbi"
     },
     {
       "surface": "המזבח",
@@ -18,11 +18,11 @@
     },
     {
       "surface": "הנחשת",
-      "gloss": "yebhodloza"
+      "gloss": "yentsimbi"
     },
     {
       "surface": "אשר",
-      "gloss": "ebisingayo"
+      "gloss": "ebeyi-"
     },
     {
       "surface": "לפני",
@@ -34,20 +34,19 @@
     },
     {
       "surface": "ויקרב",
-      "gloss": "wayisusa kufutshane"
+      "gloss": "wayisusa"
     },
     {
       "surface": "מאת",
-      "gloss": "⟨את⟩",
-      "marks": "kwindawo yangaphambili yendlu"
+      "gloss": "⟨את⟩"
     },
     {
       "surface": "פני",
-      "gloss": "kwindawo yangaphambili"
+      "gloss": "kumphakamo"
     },
     {
       "surface": "הבית",
-      "gloss": "yendlu"
+      "gloss": "wendlu"
     },
     {
       "surface": "מבין",
@@ -59,11 +58,11 @@
     },
     {
       "surface": "ומבין",
-      "gloss": "naphakathi"
+      "gloss": "nephi"
     },
     {
       "surface": "בית",
-      "gloss": "endlu"
+      "gloss": "indlu"
     },
     {
       "surface": "יהוה",
@@ -76,25 +75,25 @@
     {
       "surface": "אתו",
       "gloss": "⟨את⟩ yona",
-      "marks": "i-altare yebhodloza"
+      "marks": "phezu kwesicala se-altare"
     },
     {
       "surface": "על",
-      "gloss": "phezu"
+      "gloss": "phezu kwe-"
     },
     {
       "surface": "ירך",
-      "gloss": "kwecalo"
+      "gloss": "isicala"
     },
     {
       "surface": "המזבח",
-      "gloss": "lwe-altare"
+      "gloss": "se-altare"
     },
     {
       "surface": "צפונה",
       "gloss": "emantla"
     }
   ],
-  "timestamp": "2026-09-18T10:52:18.207170071Z",
+  "timestamp": "2026-09-19T13:46:43.534749870Z",
   "model": "glm-5.3"
 }

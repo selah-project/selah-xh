@@ -5,15 +5,15 @@
   "book": "1-kings",
   "lang": "xh",
   "chapter": 3,
-  "translation": "UShelomoh wadibana ngomtshato noParo, inkosi yeMitsrayim, wathabatha unyana wo mfazi kaParo, wamzisa elidolophini likaDawidi, de agqibe ukwakha indlu yakhe nendlu kaYahwe nomgangatho weYerushalayimi wo mxholo.",
+  "translation": "UShelomohi wazimanya ngomtshato ⟨את⟩ noParo, inkosi yaseMitsrayim, wathabatha ⟨את⟩ intombi kaParo, wayisela esixekwenini sikaDawidi, de wagqiba ukwakha ⟨את⟩ indlu yakhe, kunye ⟨את⟩ nendlu kaYahwe, kunye ⟨את⟩ nomdla weYerushalayimi ujikeleze.",
   "tokens": [
     {
       "surface": "ויתחתן",
-      "gloss": "wadibana ngumtshato"
+      "gloss": "wazimanya ngomtshato"
     },
     {
       "surface": "שלמה",
-      "gloss": "UShelomoh"
+      "gloss": "UShelomohi"
     },
     {
       "surface": "את",
@@ -30,7 +30,7 @@
     },
     {
       "surface": "מצרים",
-      "gloss": "yeMitsrayim"
+      "gloss": "yaseMitsrayim"
     },
     {
       "surface": "ויקח",
@@ -39,11 +39,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "unyana womfazi kaParo"
+      "marks": "intombi kaParo"
     },
     {
       "surface": "בת",
-      "gloss": "unyana womfazi"
+      "gloss": "intombi"
     },
     {
       "surface": "פרעה",
@@ -51,19 +51,19 @@
     },
     {
       "surface": "ויביאה",
-      "gloss": "wamzisa"
+      "gloss": "wayisela"
     },
     {
       "surface": "אל",
-      "gloss": "e-"
+      "gloss": "ku-"
     },
     {
       "surface": "עיר",
-      "gloss": "elidolophini"
+      "gloss": "esixekwenini"
     },
     {
       "surface": "דוד",
-      "gloss": "likaDawidi"
+      "gloss": "sikaDawidi"
     },
     {
       "surface": "עד",
@@ -71,7 +71,7 @@
     },
     {
       "surface": "כלתו",
-      "gloss": "agqibe"
+      "gloss": "wagqiba"
     },
     {
       "surface": "לבנות",
@@ -88,12 +88,12 @@
     },
     {
       "surface": "ואת",
-      "gloss": "kunye no ⟨את⟩",
+      "gloss": "kunye ⟨את⟩",
       "marks": "indlu kaYahwe"
     },
     {
       "surface": "בית",
-      "gloss": "nendlu"
+      "gloss": "indlu"
     },
     {
       "surface": "יהוה",
@@ -101,12 +101,12 @@
     },
     {
       "surface": "ואת",
-      "gloss": "kunye no ⟨את⟩",
-      "marks": "umgangatho weYerushalayimi"
+      "gloss": "kunye ⟨את⟩",
+      "marks": "umdla weYerushalayimi"
     },
     {
       "surface": "חומת",
-      "gloss": "nomgangatho"
+      "gloss": "umdla"
     },
     {
       "surface": "ירושלם",
@@ -114,9 +114,9 @@
     },
     {
       "surface": "סביב",
-      "gloss": "wo mxholo"
+      "gloss": "ujikeleze"
     }
   ],
-  "timestamp": "2026-09-18T10:10:32.733953587Z",
+  "timestamp": "2026-09-19T13:43:10.905769227Z",
   "model": "glm-5.3"
 }

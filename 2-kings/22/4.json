@@ -5,7 +5,7 @@
   "book": "2-kings",
   "lang": "xh",
   "chapter": 22,
-  "translation": "Nyuka uye kuKhilkiyahu unkosi yamadini omkhulu, aze adibanise ⟨את⟩ isiliveri ingenisiweyo endlwini kaYahwe, enabuthwe ngabagadi besango kubantu.",
+  "translation": "Nyuka uye kuKhilkiyahu, ipristi enkulu, aze abale ⟨את⟩ isilivere esingeniswe yendlu kaYahwe, eso abagcini besango basibuthileyo ⟨את⟩ kuwo ⟨abantu⟩.",
   "tokens": [
     {
       "surface": "עלה",
@@ -17,36 +17,36 @@
     },
     {
       "surface": "חלקיהו",
-      "gloss": "uKhilkiyahu"
+      "gloss": "Khilkiyahu"
     },
     {
       "surface": "הכהן",
-      "gloss": "unkosi yamadini"
+      "gloss": "ipristi"
     },
     {
       "surface": "הגדול",
-      "gloss": "omkhulu"
+      "gloss": "enkulu"
     },
     {
       "surface": "ויתם",
-      "gloss": "aze adibanise"
+      "gloss": "aze abale"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "isiliveri"
+      "marks": "isilivere"
     },
     {
       "surface": "הכסף",
-      "gloss": "isiliveri"
+      "gloss": "isilivere"
     },
     {
       "surface": "המובא",
-      "gloss": "ingenisiweyo"
+      "gloss": "esingeniswe"
     },
     {
       "surface": "בית",
-      "gloss": "endlwini"
+      "gloss": "yendlu"
     },
     {
       "surface": "יהוה",
@@ -54,15 +54,15 @@
     },
     {
       "surface": "אשר",
-      "gloss": "ena"
+      "gloss": "eso"
     },
     {
       "surface": "אספו",
-      "gloss": "nabuthwe"
+      "gloss": "basibuthileyo"
     },
     {
       "surface": "שמרי",
-      "gloss": "ngabagadi"
+      "gloss": "abagcini"
     },
     {
       "surface": "הסף",
@@ -70,14 +70,13 @@
     },
     {
       "surface": "מאת",
-      "gloss": "⟨את⟩ ku",
-      "marks": "abantu"
+      "gloss": "⟨את⟩ kuwo ⟨abantu⟩"
     },
     {
       "surface": "העם",
       "gloss": "abantu"
     }
   ],
-  "timestamp": "2026-09-18T17:33:09.360760776Z",
+  "timestamp": "2026-09-19T13:46:05.934239374Z",
   "model": "glm-5.3"
 }

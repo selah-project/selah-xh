@@ -5,11 +5,11 @@
   "book": "amos",
   "lang": "xh",
   "chapter": 4,
-  "translation": "Ndandiphethe phakathi kwenu njengokuphethwa nguElohim koSodoma noweAmora, naba njengesitya somlilo esintshintshiweyo kutshisa; kananjalo anibuyelanga kum, utshilo uYahwe.",
+  "translation": "Ndakuphendula ngokujika kwenu njengokujika kukaElohim kwiSodom ⟨את⟩ naseGomora ⟨ואת⟩, naba njengomsindi owinkinikwe emlilweni, anibuyanga kum, kutsho uYahwe.",
   "tokens": [
     {
       "surface": "הפכתי",
-      "gloss": "ndandiphethe"
+      "gloss": "Ndakuphendula"
     },
     {
       "surface": "בכם",
@@ -17,53 +17,53 @@
     },
     {
       "surface": "כמהפכת",
-      "gloss": "njengokuphethwa"
+      "gloss": "njengokujika"
     },
     {
       "surface": "אלהים",
-      "gloss": "nguElohim"
+      "gloss": "ukaElohim"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "oSodoma"
+      "marks": "iSodom"
     },
     {
       "surface": "סדם",
-      "gloss": "oSodoma"
+      "gloss": "iSodom"
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
-      "marks": "weAmora"
+      "gloss": "⟨ואת⟩",
+      "marks": "iGomora"
     },
     {
       "surface": "עמרה",
-      "gloss": "weAmora"
+      "gloss": "iGomora"
     },
     {
       "surface": "ותהיו",
-      "gloss": "naba njenge"
+      "gloss": "naba"
     },
     {
       "surface": "כאוד",
-      "gloss": "sisitya somlilo"
+      "gloss": "njengomsindi"
     },
     {
       "surface": "מצל",
-      "gloss": "esintshintshiweyo"
+      "gloss": "owinkinikwe"
     },
     {
       "surface": "משרפה",
-      "gloss": "kutshisa"
+      "gloss": "emlilweni"
     },
     {
       "surface": "ולא",
-      "gloss": "kananjalo akuna"
+      "gloss": "ani"
     },
     {
       "surface": "שבתם",
-      "gloss": "nibuyelanga"
+      "gloss": "buyanga"
     },
     {
       "surface": "עדי",
@@ -71,13 +71,13 @@
     },
     {
       "surface": "נאם",
-      "gloss": "utshilo"
+      "gloss": "kutsho"
     },
     {
       "surface": "יהוה",
       "gloss": "uYahwe"
     }
   ],
-  "timestamp": "2026-09-18T17:41:38.599748804Z",
+  "timestamp": "2026-09-19T13:48:10.385171629Z",
   "model": "glm-5.3"
 }

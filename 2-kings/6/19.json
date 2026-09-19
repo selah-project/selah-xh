@@ -5,7 +5,7 @@
   "book": "2-kings",
   "lang": "xh",
   "chapter": 6,
-  "translation": "U-Elishe wathetha kubo: “Ayilendlela le, yaye ayiloo sixeko; landelani ndi, ndiza kuninikhokela ⟨kunini⟩ kumntu nimfuna.” Wabakhokelela eShomrona.",
+  "translation": "Wathetha u-Elisha kubo: “Asili le ndlela, yaye asili le si sixeko. Landelani ndi, ndiza kunihambisa ⟨את⟩ kumntu enifuna uye kuye.” Wabahambisa ngaseShomeroni.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -17,11 +17,11 @@
     },
     {
       "surface": "אלישע",
-      "gloss": "u-Elishe"
+      "gloss": "u-Elisha"
     },
     {
       "surface": "לא",
-      "gloss": "hayi"
+      "gloss": "akukho"
     },
     {
       "surface": "זה",
@@ -29,19 +29,19 @@
     },
     {
       "surface": "הדרך",
-      "gloss": "lendlela"
+      "gloss": "indlela"
     },
     {
       "surface": "ולא",
-      "gloss": "yaye hayi"
+      "gloss": "yaye akukho"
     },
     {
       "surface": "זה",
-      "gloss": "loo"
+      "gloss": "le"
     },
     {
       "surface": "העיר",
-      "gloss": "sixeko"
+      "gloss": "sisixeko"
     },
     {
       "surface": "לכו",
@@ -53,12 +53,12 @@
     },
     {
       "surface": "ואוליכה",
-      "gloss": "ndiza kuninikhokela"
+      "gloss": "ndiza kunihambisa"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨אתכם⟩",
-      "marks": "ninikhokela"
+      "gloss": "⟨את⟩",
+      "marks": "nina"
     },
     {
       "surface": "אל",
@@ -66,30 +66,30 @@
     },
     {
       "surface": "האיש",
-      "gloss": "umntu"
+      "gloss": "mntu"
     },
     {
       "surface": "אשר",
-      "gloss": "owo"
+      "gloss": "eni-"
     },
     {
       "surface": "תבקשון",
-      "gloss": "nimfuna"
+      "gloss": "funa uye kuye"
     },
     {
       "surface": "וילך",
-      "gloss": "wabakhokelela"
+      "gloss": "wabahambisa"
     },
     {
       "surface": "אותם",
-      "gloss": "⟨את⟩ ⟨אותם⟩",
-      "marks": "Wabakhokelela"
+      "gloss": "⟨את⟩",
+      "marks": "bona"
     },
     {
       "surface": "שמרונה",
-      "gloss": "eShomrona"
+      "gloss": "ngaseShomeroni"
     }
   ],
-  "timestamp": "2026-09-18T17:32:26.556950258Z",
+  "timestamp": "2026-09-19T13:47:04.476731630Z",
   "model": "glm-5.3"
 }

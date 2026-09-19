@@ -5,7 +5,7 @@
   "book": "numbers",
   "lang": "xh",
   "chapter": 10,
-  "translation": "Yenza ipepha elinezixhobo ezimbini zesilivere; ngomsebenzi owosiweyo uza kuzenza; kwaye ziya kuba zakho ukubizela umanyano lweqela, nakukuhamba kweezindlu zomkhosi.",
+  "translation": "Yenza iwakhe iindandathe ezibini zesilivere; ngomsebenzi owatyabekileyo uza kuzenza ⟨את⟩; kwaye ziza kuba zezakho ukubizwa kombutho, nakwisihamso ⟨את⟩ amatentsi.",
   "tokens": [
     {
       "surface": "עשה",
@@ -13,15 +13,15 @@
     },
     {
       "surface": "לך",
-      "gloss": "zakho"
+      "gloss": "iwakhe"
     },
     {
       "surface": "שתי",
-      "gloss": "ezimbini"
+      "gloss": "ezibini"
     },
     {
       "surface": "חצוצרת",
-      "gloss": "iitrampeti"
+      "gloss": "iindandathe"
     },
     {
       "surface": "כסף",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "מקשה",
-      "gloss": "ngomsebenzi owosiweyo"
+      "gloss": "ngomsebenzi owatyabekileyo"
     },
     {
       "surface": "תעשה",
@@ -38,38 +38,38 @@
     {
       "surface": "אתם",
       "gloss": "⟨את⟩",
-      "marks": "iitrampeti ezimbini zesilivere"
+      "marks": "iindandathe ezibini zesilivere"
     },
     {
       "surface": "והיו",
-      "gloss": "ziya kuba"
+      "gloss": "kwaye ziza kuba"
     },
     {
       "surface": "לך",
-      "gloss": "zakho"
+      "gloss": "zezakho"
     },
     {
       "surface": "למקרא",
-      "gloss": "ukubizela umanyano"
+      "gloss": "ukubizwa"
     },
     {
       "surface": "העדה",
-      "gloss": "lweqela"
+      "gloss": "kombutho"
     },
     {
       "surface": "ולמסע",
-      "gloss": "nakukuhamba"
+      "gloss": "nakwisihamso"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "iindlu zomkhosi"
+      "marks": "amatentsi"
     },
     {
       "surface": "המחנות",
-      "gloss": "kweezindlu zomkhosi"
+      "gloss": "amatentsi"
     }
   ],
-  "timestamp": "2026-09-18T07:21:37.456166338Z",
+  "timestamp": "2026-09-19T14:08:44.466526629Z",
   "model": "glm-5.3"
 }

@@ -5,32 +5,32 @@
   "book": "joshua",
   "lang": "xh",
   "chapter": 21,
-  "translation": "Banika ikwahlwa elidolophu yokubalekela yombulali, iShekhem nemiyezo yayo, entabeni ye-Efrayim, kunye neGezer nemiyezo yayo.",
+  "translation": "Banike ⟨את⟩ isixeko sokubalekela sombulali, ⟨את⟩ iShekhem, kunye ⟨את⟩ neengcingo zaso entabeni yase-Efrayim, kunye ⟨את⟩ naseGezer kunye ⟨את⟩ neengcingo zaso.",
   "tokens": [
     {
       "surface": "ויתנו",
-      "gloss": "banika"
+      "gloss": "banike"
     },
     {
       "surface": "להם",
-      "gloss": "ikwahlwa"
+      "gloss": "kubo"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "idolophu"
+      "marks": "isixeko sokubalekela sombulali"
     },
     {
       "surface": "עיר",
-      "gloss": "idolophu"
+      "gloss": "isixeko"
     },
     {
       "surface": "מקלט",
-      "gloss": "yokubalekela"
+      "gloss": "sokubalekela"
     },
     {
       "surface": "הרצח",
-      "gloss": "yombulali"
+      "gloss": "sombulali"
     },
     {
       "surface": "את",
@@ -43,12 +43,12 @@
     },
     {
       "surface": "ואת",
-      "gloss": "kunye ⟨neאת⟩",
-      "marks": "miyezo"
+      "gloss": "kunye ⟨את⟩",
+      "marks": "neengcingo zaso"
     },
     {
       "surface": "מגרשה",
-      "gloss": "nemiyezo yayo"
+      "gloss": "neengcingo zaso"
     },
     {
       "surface": "בהר",
@@ -56,27 +56,27 @@
     },
     {
       "surface": "אפרים",
-      "gloss": "ye-Efrayim"
+      "gloss": "yase-Efrayim"
     },
     {
       "surface": "ואת",
-      "gloss": "kunye ⟨neאת⟩",
-      "marks": "iGezer"
+      "gloss": "kunye ⟨את⟩",
+      "marks": "naseGezer"
     },
     {
       "surface": "גזר",
-      "gloss": "neGezer"
+      "gloss": "naseGezer"
     },
     {
       "surface": "ואת",
-      "gloss": "kunye ⟨neאת⟩",
-      "marks": "miyezo"
+      "gloss": "kunye ⟨את⟩",
+      "marks": "neengcingo zaso"
     },
     {
       "surface": "מגרשה",
-      "gloss": "nemiyezo yayo"
+      "gloss": "neengcingo zaso"
     }
   ],
-  "timestamp": "2026-09-18T08:42:35.791259895Z",
+  "timestamp": "2026-09-19T14:02:17.013685535Z",
   "model": "glm-5.3"
 }

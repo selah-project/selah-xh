@@ -5,7 +5,7 @@
   "book": "exodus",
   "lang": "xh",
   "chapter": 33,
-  "translation": "Wathetha uYahwe kuMoshe: “Le nto uyithethileyo ngedwa ndiza kuyenza, kuba ufumene ikhesedi emehweni am, ndakwazi ngogegama.”",
+  "translation": "Wathetha uYahwe kuMoshe: “Le nto uye wayicela iya kundiyenzela nayo, kuba ufumene ikhesedi emehlweni am, ndikudumile ngegama.”",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -17,24 +17,24 @@
     },
     {
       "surface": "אל",
-      "gloss": "ku"
+      "gloss": "ku-"
     },
     {
       "surface": "משה",
-      "gloss": "Moshe"
+      "gloss": "uMoshe"
     },
     {
       "surface": "גם",
-      "gloss": "nangedwa"
+      "gloss": "nayo"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "le nto"
+      "marks": "into"
     },
     {
       "surface": "הדבר",
-      "gloss": "into"
+      "gloss": "le nto"
     },
     {
       "surface": "הזה",
@@ -42,15 +42,15 @@
     },
     {
       "surface": "אשר",
-      "gloss": "oko"
+      "gloss": ""
     },
     {
       "surface": "דברת",
-      "gloss": "uyithethileyo"
+      "gloss": "uye wayicela"
     },
     {
       "surface": "אעשה",
-      "gloss": "ndiza kuyenza"
+      "gloss": "iya kundiyenzela"
     },
     {
       "surface": "כי",
@@ -66,17 +66,17 @@
     },
     {
       "surface": "בעיני",
-      "gloss": "emehweni am"
+      "gloss": "emehlweni am"
     },
     {
       "surface": "ואדעך",
-      "gloss": "ndakwazi"
+      "gloss": "ndikudumile"
     },
     {
       "surface": "בשם",
-      "gloss": "ngegegama"
+      "gloss": "ngegama"
     }
   ],
-  "timestamp": "2026-09-18T06:24:13.251938685Z",
+  "timestamp": "2026-09-19T13:52:03.983723617Z",
   "model": "glm-5.3"
 }

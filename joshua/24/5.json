@@ -5,11 +5,11 @@
   "book": "joshua",
   "lang": "xh",
   "chapter": 24,
-  "translation": "Ndathumela uMoshe ⟨את⟩ no-Aharoni ⟨ואת⟩, ndaza ndazihlasela iMitsrayim ⟨את⟩ njengoko ndakwenza phakathi kwayo; emva koko ndanikhuphela.",
+  "translation": "Ndandithumela uMoshe no-Aharoni, ndaza ndatshabalalisa iMitsrayim njengoko bendikwenzile ngaphakathi kwayo, emva koko ndanikhupha ⟨את⟩ nina.",
   "tokens": [
     {
       "surface": "ואשלח",
-      "gloss": "ndathumela"
+      "gloss": "ndandithumela"
     },
     {
       "surface": "את",
@@ -23,15 +23,15 @@
     {
       "surface": "ואת",
       "gloss": "⟨ואת⟩",
-      "marks": "no-Aharoni"
+      "marks": "u-Aharoni"
     },
     {
       "surface": "אהרן",
-      "gloss": "no-Aharoni"
+      "gloss": "u-Aharoni"
     },
     {
       "surface": "ואגף",
-      "gloss": "ndazihlasela"
+      "gloss": "ndaza ndatshabalalisa"
     },
     {
       "surface": "את",
@@ -48,11 +48,11 @@
     },
     {
       "surface": "עשיתי",
-      "gloss": "ndakwenza"
+      "gloss": "bendikwenzile"
     },
     {
       "surface": "בקרבו",
-      "gloss": "phakathi kwayo"
+      "gloss": "ngaphakathi kwayo"
     },
     {
       "surface": "ואחר",
@@ -60,13 +60,13 @@
     },
     {
       "surface": "הוצאתי",
-      "gloss": "ndanikhuphela"
+      "gloss": "ndanikhupha"
     },
     {
       "surface": "אתכם",
       "gloss": "⟨את⟩ nina"
     }
   ],
-  "timestamp": "2026-09-18T08:48:37.513594610Z",
+  "timestamp": "2026-09-19T14:03:21.212355648Z",
   "model": "glm-5.3"
 }

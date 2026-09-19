@@ -5,16 +5,16 @@
   "book": "judges",
   "lang": "xh",
   "chapter": 16,
-  "translation": "Abantu bam bona ⟨את⟩, bavakalisa udumo kuwo oothixo babo, kuba bathi: Uthixo wethu unike esandleni sethu ⟨את⟩ isitha sethu, no⟨את⟩ otshabalalisa ilizwe lethu, lowo wenza ukuba kube kukhona abafi abaninzi ⟨את⟩ ethu.",
+  "translation": "Apho abantu bembona, bachaza ⟨את⟩ ithixo labo, kuba bathi: “Ithixo lethu sinike ⟨את⟩ isitha sethu esandleni sethu, noko ⟨את⟩ umtshabalalisi welizwe lethu, lowo wandise ⟨את⟩ ababulalwa bethu.”",
   "tokens": [
     {
       "surface": "ויראו",
-      "gloss": "ba... bona"
+      "gloss": "bembona"
     },
     {
       "surface": "אתו",
       "gloss": "⟨את⟩",
-      "marks": "yena (uShimshon)"
+      "marks": "yena (uShimshoni)"
     },
     {
       "surface": "העם",
@@ -22,16 +22,16 @@
     },
     {
       "surface": "ויהללו",
-      "gloss": "bavakalisa udumo"
+      "gloss": "bachaza"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "oothixo babo"
+      "marks": "ithixo labo"
     },
     {
       "surface": "אלהיהם",
-      "gloss": "oothixo babo"
+      "gloss": "ithixo labo"
     },
     {
       "surface": "כי",
@@ -43,11 +43,11 @@
     },
     {
       "surface": "נתן",
-      "gloss": "unike"
+      "gloss": "sinike"
     },
     {
       "surface": "אלהינו",
-      "gloss": "uthixo wethu"
+      "gloss": "ithixo lethu"
     },
     {
       "surface": "בידנו",
@@ -59,21 +59,21 @@
       "marks": "isitha sethu"
     },
     {
-      "surface": "אויבינו",
+      "surface": "אויבנו",
       "gloss": "isitha sethu"
     },
     {
       "surface": "ואת",
-      "gloss": "no⟨את⟩",
-      "marks": "otshabalalisa ilizwe lethu"
+      "gloss": "⟨את⟩",
+      "marks": "umtshabalalisi welizwe lethu"
     },
     {
       "surface": "מחריב",
-      "gloss": "otshabalalisa"
+      "gloss": "umtshabalalisi"
     },
     {
       "surface": "ארצנו",
-      "gloss": "ilizwe lethu"
+      "gloss": "welizwe lethu"
     },
     {
       "surface": "ואשר",
@@ -81,18 +81,18 @@
     },
     {
       "surface": "הרבה",
-      "gloss": "wenza ukuba kube kukhona abafi abaninzi"
+      "gloss": "wandise"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "abafi ethu"
+      "marks": "ababulalwa bethu"
     },
     {
       "surface": "חללינו",
-      "gloss": "abafi ethu"
+      "gloss": "ababulalwa bethu"
     }
   ],
-  "timestamp": "2026-09-18T09:07:54.111208582Z",
+  "timestamp": "2026-09-19T14:05:15.592090103Z",
   "model": "glm-5.3"
 }

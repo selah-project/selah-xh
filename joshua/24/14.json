@@ -5,15 +5,15 @@
   "book": "joshua",
   "lang": "xh",
   "chapter": 24,
-  "translation": "Kunene ngoku, yoyikani uYahwe, nimkhonze ⟨את⟩ ngokucwangciswe nangokwethembekileyo; susani ⟨את⟩ oothixo ababekhonza ooyihlo kwelinye icala lomlambo nakwiMitsrayim, nimkhonze ⟨את⟩ uYahwe.",
+  "translation": "Kwaye ngoku niyoyike ⟨את⟩ uYahwe, nimkhonze ⟨את⟩ ngokupheleleyo nakwinyaniso, nisuse ⟨את⟩ oothixo aba bebekhonza ooyihlo ngaphesheya komlambo nakwiMitsrayim, nikhonze ⟨את⟩ uYahwe.",
   "tokens": [
     {
       "surface": "ועתה",
-      "gloss": "kunene ngoku"
+      "gloss": "Kwaye ngoku"
     },
     {
       "surface": "יראו",
-      "gloss": "yoyikani"
+      "gloss": "niyoyike"
     },
     {
       "surface": "את",
@@ -31,19 +31,19 @@
     {
       "surface": "אתו",
       "gloss": "⟨את⟩",
-      "marks": "nimkhonze (isibonakalisi esidibaniswe nesenzwa)"
+      "marks": "uYahwe (yena)"
     },
     {
       "surface": "בתמים",
-      "gloss": "ngokucwangciswe"
+      "gloss": "ngokupheleleyo"
     },
     {
       "surface": "ובאמת",
-      "gloss": "nangokwethembekileyo"
+      "gloss": "nakwinyaniso"
     },
     {
       "surface": "והסירו",
-      "gloss": "susani"
+      "gloss": "nisuse"
     },
     {
       "surface": "את",
@@ -56,11 +56,11 @@
     },
     {
       "surface": "אשר",
-      "gloss": "aba-"
+      "gloss": "aba"
     },
     {
       "surface": "עבדו",
-      "gloss": "babekhonza"
+      "gloss": "bebekhonza"
     },
     {
       "surface": "אבותיכם",
@@ -68,11 +68,11 @@
     },
     {
       "surface": "בעבר",
-      "gloss": "kwelinye icala"
+      "gloss": "ngaphesheya"
     },
     {
       "surface": "הנהר",
-      "gloss": "lomlambo"
+      "gloss": "komlambo"
     },
     {
       "surface": "ובמצרים",
@@ -80,7 +80,7 @@
     },
     {
       "surface": "ועבדו",
-      "gloss": "nimkhonze"
+      "gloss": "nikhonze"
     },
     {
       "surface": "את",
@@ -92,6 +92,6 @@
       "gloss": "uYahwe"
     }
   ],
-  "timestamp": "2026-09-18T08:47:31.853937418Z",
+  "timestamp": "2026-09-19T14:03:42.101082079Z",
   "model": "glm-5.3"
 }

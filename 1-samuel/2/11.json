@@ -5,7 +5,7 @@
   "book": "1-samuel",
   "lang": "xh",
   "chapter": 2,
-  "translation": "Waza u-Elqana waya eRama, endlwini yakhe; lo mntwana wayenkonzela uYahwe ⟨את⟩ phambi ko-Eli umpristi.",
+  "translation": "Waya u-Elqana eRama, ezikhalweni zakhe; kwasa lomntwana esebenza ⟨את⟩ uYahwe ⟨את⟩ phambi kokuso ubuso buka-Eli umongameli.",
   "tokens": [
     {
       "surface": "וילך",
@@ -21,23 +21,23 @@
     },
     {
       "surface": "על",
-      "gloss": "kwi"
+      "gloss": "ezikhalweni zakhe"
     },
     {
       "surface": "ביתו",
-      "gloss": "endlwini yakhe"
+      "gloss": "ezikhalweni zakhe"
     },
     {
       "surface": "והנער",
-      "gloss": "lo mntwana"
+      "gloss": "kwasa lomntwana"
     },
     {
       "surface": "היה",
-      "gloss": "wayey"
+      "gloss": "wayengum"
     },
     {
       "surface": "משרת",
-      "gloss": "enkonzela"
+      "gloss": "esebenza"
     },
     {
       "surface": "את",
@@ -50,21 +50,22 @@
     },
     {
       "surface": "את",
-      "gloss": "⟨את⟩ phambi"
+      "gloss": "⟨את⟩",
+      "marks": "ubuso buka-Eli"
     },
     {
       "surface": "פני",
-      "gloss": "kwe"
+      "gloss": "phambi kokuso ubuso"
     },
     {
       "surface": "עלי",
-      "gloss": "o-Eli"
+      "gloss": "ka-Eli"
     },
     {
       "surface": "הכהן",
-      "gloss": "umpristi"
+      "gloss": "umongameli"
     }
   ],
-  "timestamp": "2026-09-18T09:12:38.169618254Z",
+  "timestamp": "2026-09-19T13:43:42.181473406Z",
   "model": "glm-5.3"
 }

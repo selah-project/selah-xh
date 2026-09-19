@@ -5,11 +5,11 @@
   "book": "ruth",
   "lang": "xh",
   "chapter": 2,
-  "translation": "Waza wanamathele kwiintombi zikaBoza ukutya intsalela, de wagqitywa umbima webarileyo nowengqolowa; waza yahlala kunye neenkazimana zakhe.",
+  "translation": "Wanamathela kwiintombi zikaBoazi ukutya intsalela, de kwaphela ukuvuna kwesibungu nokuvuna kwingqolowa; wahlala ⟨את⟩ nomkhwekazi wakhe.",
   "tokens": [
     {
       "surface": "ותדבק",
-      "gloss": "wanamathele"
+      "gloss": "wanamathela"
     },
     {
       "surface": "בנערות",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "בעז",
-      "gloss": "zikaBoza"
+      "gloss": "ukaBoazi"
     },
     {
       "surface": "ללקט",
@@ -29,23 +29,23 @@
     },
     {
       "surface": "כלות",
-      "gloss": "wagqitywa"
+      "gloss": "kwaphela"
     },
     {
       "surface": "קציר",
-      "gloss": "umbima"
+      "gloss": "ukuvuna"
     },
     {
       "surface": "השערים",
-      "gloss": "webarileyo"
+      "gloss": "kwesibungu"
     },
     {
       "surface": "וקציר",
-      "gloss": "nowengqolowa"
+      "gloss": "nokuvuna"
     },
     {
       "surface": "החטים",
-      "gloss": "(webarileyo-nowengqolowa)"
+      "gloss": "kwingqolowa"
     },
     {
       "surface": "ותשב",
@@ -54,13 +54,13 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "eenkazimana zakhe"
+      "marks": "umkhwekazi wakhe"
     },
     {
       "surface": "חמותה",
-      "gloss": "eenkazimana zakhe"
+      "gloss": "umkhwekazi wakhe"
     }
   ],
-  "timestamp": "2026-09-18T16:18:18.904211941Z",
+  "timestamp": "2026-09-19T14:10:06.064764799Z",
   "model": "glm-5.3"
 }

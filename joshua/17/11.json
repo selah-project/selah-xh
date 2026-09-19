@@ -5,92 +5,92 @@
   "book": "joshua",
   "lang": "xh",
   "chapter": 17,
-  "translation": "Kwaye kuManase kwa-Isaskara nakwa-Asher kwa: iBete-Shani nammizi yayo, neYibleyamu nammizi yayo, nabalahlali beDori nammizi yawo, nabalahlali be-En-Dori nammizi yawo, nabalahlali beTa'anaki nammizi yawo, nabalahlali beMegido nammizi yawo — lezi yindawo zeNafata ezintathu.",
+  "translation": "Kwaba kukwaMenashе kwisiYisaskari nakwesiAsheri: iBhete-Sheani kunye neendolophu zayo, neYibleami kunye neendolophu zayo, nabalahluzi bakaDori ⟨את⟩ kunye neendolophu zayo, nabalahluzi beyeyni-Dori kunye neendolophu zayo, nabalahluzi beTaanaki kunye neendolophu zayo, nabalahluzi beMegido kunye neendolophu zayo — ezintathu kweziNefathi.",
   "tokens": [
     {
       "surface": "ויהי",
-      "gloss": "kwaye kwaba"
+      "gloss": "Kwaba"
     },
     {
       "surface": "למנשה",
-      "gloss": "kuManase"
+      "gloss": "kukwaMenashе"
     },
     {
       "surface": "ביששכר",
-      "gloss": "kwa-Isaskara"
+      "gloss": "kwisiYisaskari"
     },
     {
       "surface": "ובאשר",
-      "gloss": "nakwa-Asher"
+      "gloss": "nakwesiAsheri"
     },
     {
       "surface": "בית",
-      "gloss": "iBete-"
+      "gloss": "iBhete"
     },
     {
       "surface": "שאן",
-      "gloss": "Shani"
+      "gloss": "-Sheani"
     },
     {
       "surface": "ובנותיה",
-      "gloss": "nammizi yayo"
+      "gloss": "kunye neendolophu zayo"
     },
     {
       "surface": "ויבלעם",
-      "gloss": "neYibleyamu"
+      "gloss": "neYibleami"
     },
     {
       "surface": "ובנותיה",
-      "gloss": "nammizi yayo"
+      "gloss": "kunye neendolophu zayo"
     },
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "abalahlali beDori"
+      "marks": "abalahluzi bakaDori"
     },
     {
       "surface": "ישבי",
-      "gloss": "abalahlali"
+      "gloss": "abalahluzi bakaDori"
     },
     {
       "surface": "דאר",
-      "gloss": "beDori"
-    },
-    {
-      "surface": "ובנותיה",
-      "gloss": "nammizi yawo"
-    },
-    {
-      "surface": "וישבי",
-      "gloss": "nabalahlali"
-    },
-    {
-      "surface": "עין",
-      "gloss": "be-En-"
-    },
-    {
-      "surface": "דר",
       "gloss": "Dori"
     },
     {
-      "surface": "ובנתיה",
-      "gloss": "nammizi yawo"
+      "surface": "ובנותיה",
+      "gloss": "kunye neendolophu zayo"
     },
     {
       "surface": "וישבי",
-      "gloss": "nabalahlali"
+      "gloss": "nabalahluzi"
+    },
+    {
+      "surface": "עין",
+      "gloss": "beyeyni"
+    },
+    {
+      "surface": "דר",
+      "gloss": "-Dori"
+    },
+    {
+      "surface": "ובנתיה",
+      "gloss": "kunye neendolophu zayo"
+    },
+    {
+      "surface": "וישבי",
+      "gloss": "nabalahluzi"
     },
     {
       "surface": "תענך",
-      "gloss": "beTa'anaki"
+      "gloss": "beTaanaki"
     },
     {
       "surface": "ובנתיה",
-      "gloss": "nammizi yawo"
+      "gloss": "kunye neendolophu zayo"
     },
     {
       "surface": "וישבי",
-      "gloss": "nabalahlali"
+      "gloss": "nabalahluzi"
     },
     {
       "surface": "מגדו",
@@ -98,7 +98,7 @@
     },
     {
       "surface": "ובנותיה",
-      "gloss": "nammizi yawo"
+      "gloss": "kunye neendolophu zayo"
     },
     {
       "surface": "שלשת",
@@ -106,9 +106,9 @@
     },
     {
       "surface": "הנפת",
-      "gloss": "indawo zeNafata"
+      "gloss": "kweziNefathi"
     }
   ],
-  "timestamp": "2026-09-18T08:40:58.002729294Z",
+  "timestamp": "2026-09-19T14:02:57.505916273Z",
   "model": "glm-5.3"
 }

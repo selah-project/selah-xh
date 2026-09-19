@@ -5,28 +5,28 @@
   "book": "joshua",
   "lang": "xh",
   "chapter": 24,
-  "translation": "Amathambo kaYosefu, awaphakulisayo abantwana bakwa-Israyeli eMitsrayim, awabeka ngokuzingca eSikhem, kwicala lomhlaba owuthenge uYakobi kwa ⟨את⟩ oonyana baKhamori, uyise waseSikhem, ngekhulu lekhesita; laaba yilifa lokwabanina abantwana bakwaYosefu.",
+  "translation": "Kwaye ⟨את⟩ iithambo zikaYosef, abantwana bakaYisra'eli abaziphekukelayo eMitsrayim, bazihlaba ngomhlaba eShekhem, kwinxalenye yomhlaba oYakobhe awuthengileyo ⟨את⟩ abantwana baseKhamori, uyise uShekhem, ngekheshita ezilikhulu elinye; zaze zaba yifa labantwana bakaYosef.",
   "tokens": [
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "amathambo kaYosefu"
+      "marks": "iithambo zikaYosef"
     },
     {
       "surface": "עצמות",
-      "gloss": "amathambo"
+      "gloss": "iithambo"
     },
     {
       "surface": "יוסף",
-      "gloss": "kaYosefu"
+      "gloss": "kaYosef"
     },
     {
       "surface": "אשר",
-      "gloss": "awaphakulisayo"
+      "gloss": "abaziphekukelayo"
     },
     {
       "surface": "העלו",
-      "gloss": "awaphakulisayo"
+      "gloss": "baziphekukela"
     },
     {
       "surface": "בני",
@@ -34,7 +34,7 @@
     },
     {
       "surface": "ישראל",
-      "gloss": "bakwa-Israyeli"
+      "gloss": "bakaYisra'eli"
     },
     {
       "surface": "ממצרים",
@@ -42,43 +42,44 @@
     },
     {
       "surface": "קברו",
-      "gloss": "awabeka ngokuzingca"
+      "gloss": "bazihlaba ngomhlaba"
     },
     {
       "surface": "בשכם",
-      "gloss": "eSikhem"
+      "gloss": "eShekhem"
     },
     {
       "surface": "בחלקת",
-      "gloss": "kwicala"
+      "gloss": "kwinxalenye"
     },
     {
       "surface": "השדה",
-      "gloss": "lomhlaba"
+      "gloss": "yomhlaba"
     },
     {
       "surface": "אשר",
-      "gloss": "owuthenge"
+      "gloss": "oko"
     },
     {
       "surface": "קנה",
-      "gloss": "owuthenge"
+      "gloss": "awuthengileyo"
     },
     {
       "surface": "יעקב",
-      "gloss": "uYakobi"
+      "gloss": "uYakobhe"
     },
     {
       "surface": "מאת",
-      "gloss": "kwa ⟨את⟩"
+      "gloss": "⟨את⟩",
+      "marks": "abantwana baseKhamori"
     },
     {
       "surface": "בני",
-      "gloss": "oonyana"
+      "gloss": "abantwana"
     },
     {
       "surface": "חמור",
-      "gloss": "baKhamori"
+      "gloss": "baseKhamori"
     },
     {
       "surface": "אבי",
@@ -86,33 +87,33 @@
     },
     {
       "surface": "שכם",
-      "gloss": "waseSikhem"
+      "gloss": "uShekhem"
     },
     {
       "surface": "במאה",
-      "gloss": "ngekhulu"
+      "gloss": "ezilikhulu elinye"
     },
     {
       "surface": "קשיטה",
-      "gloss": "lekhesita"
+      "gloss": "iikheshita"
     },
     {
       "surface": "ויהיו",
-      "gloss": "laaba"
+      "gloss": "zaze zaba"
     },
     {
       "surface": "לבני",
-      "gloss": "abantwana"
+      "gloss": "labantwana"
     },
     {
       "surface": "יוסף",
-      "gloss": "bakwa-Yosefu"
+      "gloss": "bakaYosef"
     },
     {
       "surface": "לנחלה",
-      "gloss": "yilifa lokwabanina"
+      "gloss": "yifa"
     }
   ],
-  "timestamp": "2026-09-18T08:49:33.233845447Z",
+  "timestamp": "2026-09-19T14:13:22.562380329Z",
   "model": "glm-5.3"
 }

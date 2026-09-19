@@ -5,7 +5,7 @@
   "book": "1-kings",
   "lang": "xh",
   "chapter": 11,
-  "translation": "Wayalela-⟨the⟩ yena nangalo mcimbi, wothi angalandeli oothixo abanye, kodwa akanamkelaoko wayalele ngako uYahwe.",
+  "translation": "Wayalela ngalo elo xwebhu lokungaphumeleli ukulandela oothixo abanye, kodwa akaligcinalanga oko uYahwe awalele khona lona ⟨את⟩.",
   "tokens": [
     {
       "surface": "וצוה",
@@ -13,31 +13,31 @@
     },
     {
       "surface": "אליו",
-      "gloss": "yena"
+      "gloss": "kuye"
     },
     {
       "surface": "על",
-      "gloss": "nanga-"
+      "gloss": "malunga"
     },
     {
       "surface": "הדבר",
-      "gloss": "lo mcimbi"
+      "gloss": "elo xwebhu"
     },
     {
       "surface": "הזה",
-      "gloss": "lo"
+      "gloss": "eli"
     },
     {
       "surface": "לבלתי",
-      "gloss": "wothi anga-"
+      "gloss": "ukungaphumeleli"
     },
     {
       "surface": "לכת",
-      "gloss": "landeli"
+      "gloss": "ukulandela"
     },
     {
       "surface": "אחרי",
-      "gloss": "la-"
+      "gloss": "emva"
     },
     {
       "surface": "אלהים",
@@ -49,16 +49,16 @@
     },
     {
       "surface": "ולא",
-      "gloss": "kodwa akananga-"
+      "gloss": "kodwa akahlali"
     },
     {
       "surface": "שמר",
-      "gloss": "namkela"
+      "gloss": "kaligcinalanga"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "oko"
+      "marks": "oko uYahwe awalele khona"
     },
     {
       "surface": "אשר",
@@ -66,13 +66,13 @@
     },
     {
       "surface": "צוה",
-      "gloss": "wayalela"
+      "gloss": "awalele"
     },
     {
       "surface": "יהוה",
       "gloss": "uYahwe"
     }
   ],
-  "timestamp": "2026-09-18T17:30:28.384569364Z",
+  "timestamp": "2026-09-19T13:42:17.944333418Z",
   "model": "glm-5.3"
 }

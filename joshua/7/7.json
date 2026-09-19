@@ -5,19 +5,19 @@
   "book": "joshua",
   "lang": "xh",
   "chapter": 7,
-  "translation": "UYehoshuwa wathi: “Ayi, u-Adonayi Yahwe, kungani wazisa ⟨את⟩ abantu aba ngaphezu koYardeni, ukuze usinike ⟨את⟩ esandleni se-Emori ukusitshabalalisa? Bekungcono ukuba samkela sahleli ngaphesheya koYardeni.”",
+  "translation": "Wathetha uYehoshuwa: Ah, u-Adonayi uYahwe, kutheni wadlulisa ⟨את⟩ abantu aba ngaphezu kolwandle iYordan, ukusinika ⟨את⟩ thina esandleni somAmore ukuze asitshabalalise? Ukuba nje sanqwela, sahlala ngaphaya kolwandle iYordan.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "wathi"
+      "gloss": "Wathetha"
     },
     {
       "surface": "יהושע",
-      "gloss": "UYehoshuwa"
+      "gloss": "uYehoshuwa"
     },
     {
       "surface": "אהה",
-      "gloss": "Ayi"
+      "gloss": "Ah"
     },
     {
       "surface": "אדני",
@@ -25,19 +25,19 @@
     },
     {
       "surface": "יהוה",
-      "gloss": "Yahwe"
+      "gloss": "uYahwe"
     },
     {
       "surface": "למה",
-      "gloss": "kungani"
+      "gloss": "kutheni"
     },
     {
       "surface": "העברת",
-      "gloss": "wazisa"
+      "gloss": "wadlulisa"
     },
     {
       "surface": "העביר",
-      "gloss": "ngokuzisa"
+      "gloss": "watshoisa"
     },
     {
       "surface": "את",
@@ -55,53 +55,54 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "oYardeni"
+      "marks": "iYordan"
     },
     {
       "surface": "הירדן",
-      "gloss": "oYardeni"
+      "gloss": "iYordan"
     },
     {
       "surface": "לתת",
-      "gloss": "ukuze usinike"
+      "gloss": "ukusinika"
     },
     {
       "surface": "אתנו",
-      "gloss": "⟨את⟩ esandleni"
+      "gloss": "⟨את⟩",
+      "marks": "esandleni somAmore"
     },
     {
       "surface": "ביד",
-      "gloss": "se-Emori"
+      "gloss": "esandleni"
     },
     {
       "surface": "האמרי",
-      "gloss": "se-Emori"
+      "gloss": "somAmore"
     },
     {
       "surface": "להאבידנו",
-      "gloss": "ukusitshabalalisa"
+      "gloss": "ukuze asitshabalalise"
     },
     {
       "surface": "ולו",
-      "gloss": "Bekungcono"
+      "gloss": "ukuba nje"
     },
     {
       "surface": "הואלנו",
-      "gloss": "samkela"
+      "gloss": "sanqwela"
     },
     {
       "surface": "ונשב",
-      "gloss": "sahleli"
+      "gloss": "sahlala"
     },
     {
       "surface": "בעבר",
-      "gloss": "ngaphesheya"
+      "gloss": "ngaphaya"
     },
     {
       "surface": "הירדן",
-      "gloss": "koYardeni"
+      "gloss": "kolwandle iYordan"
     }
   ],
-  "timestamp": "2026-09-18T08:35:02.955986411Z",
+  "timestamp": "2026-09-19T14:03:43.092084466Z",
   "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "isaiah",
   "lang": "xh",
   "chapter": 8,
-  "translation": "⟨את⟩ uYahwe Tsebhayoti, yena nimngcwasisa; yena maba liloyiko lenu, yena maba lingcango lenu.",
+  "translation": "⟨את⟩ uYahwe Tsebhayoti nguYehowe nithonelise; yaye yena loyika lwenu, yena yindreadi yenu.",
   "tokens": [
     {
       "surface": "את",
@@ -23,19 +23,19 @@
     {
       "surface": "אתו",
       "gloss": "⟨את⟩",
-      "marks": "yena"
+      "marks": "nithonelise"
     },
     {
       "surface": "תקדישו",
-      "gloss": "nimngcwasisa"
+      "gloss": "nithonelise"
     },
     {
       "surface": "והוא",
-      "gloss": "yena"
+      "gloss": "yaye yena"
     },
     {
       "surface": "מוראכם",
-      "gloss": "loyiko lenu"
+      "gloss": "loyika lwenu"
     },
     {
       "surface": "והוא",
@@ -43,9 +43,9 @@
     },
     {
       "surface": "מערצכם",
-      "gloss": "ingcango lenu"
+      "gloss": "yindreadi yenu"
     }
   ],
-  "timestamp": "2026-09-18T17:33:39.439805540Z",
+  "timestamp": "2026-09-19T13:59:06.396850783Z",
   "model": "glm-5.3"
 }

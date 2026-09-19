@@ -5,11 +5,11 @@
   "book": "deuteronomy",
   "lang": "xh",
   "chapter": 6,
-  "translation": "Wasiyala uYahwe ukwenza ⟨את⟩ wonke la michazo, ukoyika uYahwe uElohim wethu, <inkcazelo>okulungileyo<\/inkcazelo> kuthi yonke iintsuku, ukusigcina <i>phila<\/i> njengangale ntsimbi.",
+  "translation": "Wasityalela uYahwe ukwenza zonke ezi miqulu, ukoyika uYahwe uElohim wethu, ukulunga kwethu yonke iintsuku, ukusigcina esaphila, njengangalom hlâ.",
   "tokens": [
     {
       "surface": "ויצונו",
-      "gloss": "Wasiyala"
+      "gloss": "Wasityalela"
     },
     {
       "surface": "יהוה",
@@ -22,19 +22,19 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "wonke la michazo"
+      "marks": "zonke (ezo miqulu)"
     },
     {
       "surface": "כל",
-      "gloss": "wonke"
+      "gloss": "zonke"
     },
     {
       "surface": "החקים",
-      "gloss": "la michazo"
+      "gloss": "emiqulweni"
     },
     {
       "surface": "האלה",
-      "gloss": "la"
+      "gloss": "lezi"
     },
     {
       "surface": "ליראה",
@@ -43,7 +43,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "uYahwe uElohim wethu"
+      "marks": "uYahwe (uElohim wethu)"
     },
     {
       "surface": "יהוה",
@@ -55,11 +55,11 @@
     },
     {
       "surface": "לטוב",
-      "gloss": "okulungileyo"
+      "gloss": "ukulunga kwethu"
     },
     {
       "surface": "לנו",
-      "gloss": "kuthi"
+      "gloss": "kwethu"
     },
     {
       "surface": "כל",
@@ -71,17 +71,17 @@
     },
     {
       "surface": "לחיתנו",
-      "gloss": "ukusigcina phila"
+      "gloss": "ukusigcina esaphila"
     },
     {
       "surface": "כהיום",
-      "gloss": "njengangale ntsimbi"
+      "gloss": "njengangalom"
     },
     {
       "surface": "הזה",
-      "gloss": "le"
+      "gloss": "hlâ"
     }
   ],
-  "timestamp": "2026-09-18T18:44:06.510899209Z",
+  "timestamp": "2026-09-19T13:50:54.854703826Z",
   "model": "glm-5.3"
 }

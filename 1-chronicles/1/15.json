@@ -5,25 +5,25 @@
   "book": "1-chronicles",
   "lang": "xh",
   "chapter": 1,
-  "translation": "NoHivi, noArki, noSini.",
+  "translation": "kwaye ⟨את⟩ iHivhi, kwaye ⟨את⟩ i-Arki, kwaye ⟨את⟩ iSini;",
   "tokens": [
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "iHivi"
+      "marks": "iHivhi"
     },
     {
       "surface": "החוי",
-      "gloss": "iHivi"
+      "gloss": "iHivhi"
     },
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "iArki"
+      "marks": "i-Arki"
     },
     {
       "surface": "הערקי",
-      "gloss": "iArki"
+      "gloss": "i-Arki"
     },
     {
       "surface": "ואת",
@@ -35,6 +35,6 @@
       "gloss": "iSini"
     }
   ],
-  "timestamp": "2026-09-18T16:50:26.288663320Z",
+  "timestamp": "2026-09-19T13:40:57.188424093Z",
   "model": "glm-5.3"
 }

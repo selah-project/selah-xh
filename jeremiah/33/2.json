@@ -5,7 +5,7 @@
   "book": "jeremiah",
   "lang": "xh",
   "chapter": 33,
-  "translation": "Kunjalo utsho uYahwe, umenzi wayo nguYahwe, umdabuli wayo ukuze ayilungiselele nguYahwe igama lakhe:",
+  "translation": "Kunjalo utsho uYahwe, umenzi wayo; uYahwe oyilelayo ⟨את⟩ yona ukuyimisa; uYahwe nguYahwe igama lakhe.",
   "tokens": [
     {
       "surface": "כה",
@@ -21,24 +21,24 @@
     },
     {
       "surface": "עשה",
-      "gloss": "umenzi wayo"
+      "gloss": "umenzi"
     },
     {
       "surface": "יהוה",
-      "gloss": "nguYahwe"
+      "gloss": "uYahwe"
     },
     {
       "surface": "יוצר",
-      "gloss": "umdabuli wayo"
+      "gloss": "oyilelayo"
     },
     {
       "surface": "אותה",
       "gloss": "⟨את⟩",
-      "marks": "yona (le nto edalweyo)"
+      "marks": "yona — into ayiyilungelelanisayo ukuze ayimise"
     },
     {
       "surface": "להכינה",
-      "gloss": "ukuziyilungiselela"
+      "gloss": "ukuyimisa"
     },
     {
       "surface": "יהוה",
@@ -49,6 +49,6 @@
       "gloss": "igama lakhe"
     }
   ],
-  "timestamp": "2026-09-18T17:37:44.013370292Z",
+  "timestamp": "2026-09-19T14:00:21.227998600Z",
   "model": "glm-5.3"
 }

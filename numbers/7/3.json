@@ -5,32 +5,32 @@
   "book": "numbers",
   "lang": "xh",
   "chapter": 7,
-  "translation": "Zazisa ⟨את⟩ izipho zazo phambi koYahwe: iinqwelo ezisithandathu ezivalelweyo neenkomo ezilishumi elinambini; inqwelo nganye kwezinkosi ezimbini, yenkomo ngokwemoja; bazizisa ke phambi kwetenti yokudibana.",
+  "translation": "Bazaleta ⟨את⟩ oluvo lwabo phambi koYahwe: iinqwelo ezintandathu ezisongiweyo, neenkomo ezilishumi elinambini; inqwelo nganye kwiinkosi ezimbini, nenkomo enye yedwa ngamnye; bazinikeza ⟨את⟩azo phambi kophahlo lokwakha.",
   "tokens": [
     {
       "surface": "ויביאו",
-      "gloss": "Zazisa"
+      "gloss": "bazaleta"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "izipho zazo"
+      "marks": "oluvo lwabo"
     },
     {
       "surface": "קרבנם",
-      "gloss": "izipho zazo"
+      "gloss": "oluvo lwabo"
     },
     {
       "surface": "לפני",
-      "gloss": "phambi"
+      "gloss": "phambi kwa-"
     },
     {
       "surface": "יהוה",
-      "gloss": "koYahwe"
+      "gloss": "uYahwe"
     },
     {
       "surface": "שש",
-      "gloss": "ezisithandathu"
+      "gloss": "ezintandathu"
     },
     {
       "surface": "עגלת",
@@ -38,27 +38,27 @@
     },
     {
       "surface": "צב",
-      "gloss": "ezivalelweyo"
+      "gloss": "ezisongiweyo"
     },
     {
       "surface": "ושני",
-      "gloss": "neezilishumi"
+      "gloss": "kunye ne-"
     },
     {
       "surface": "עשר",
-      "gloss": "elinambini"
+      "gloss": "eshumi"
     },
     {
       "surface": "בקר",
-      "gloss": "iinkomo"
+      "gloss": "elishumi elinambini (eenkomo)"
     },
     {
       "surface": "עגלה",
-      "gloss": "inqwelo nganya"
+      "gloss": "inqwelo"
     },
     {
       "surface": "על",
-      "gloss": "kwezinkosi"
+      "gloss": "kwa-"
     },
     {
       "surface": "שני",
@@ -66,34 +66,34 @@
     },
     {
       "surface": "הנשאים",
-      "gloss": "ezinkosi"
+      "gloss": "iinkosi (abaphakamileyo)"
     },
     {
       "surface": "ושור",
-      "gloss": "yenkomo"
+      "gloss": "nenkomo"
     },
     {
       "surface": "לאחד",
-      "gloss": "ngokwemoja"
+      "gloss": "enye yedwa ngamnye"
     },
     {
       "surface": "ויקריבו",
-      "gloss": "bazizisa ke"
+      "gloss": "bazinikeza"
     },
     {
       "surface": "אותם",
-      "gloss": "⟨את⟩",
-      "marks": "zona"
+      "gloss": "⟨את⟩azo",
+      "marks": "iinqwelo neenkomo"
     },
     {
       "surface": "לפני",
-      "gloss": "phambi"
+      "gloss": "phambi kwa-"
     },
     {
       "surface": "המשכן",
-      "gloss": "kwetenti yokudibana"
+      "gloss": "uphahlo lokwakha"
     }
   ],
-  "timestamp": "2026-09-18T07:14:39.633202191Z",
+  "timestamp": "2026-09-19T14:09:50.997223119Z",
   "model": "glm-5.3"
 }

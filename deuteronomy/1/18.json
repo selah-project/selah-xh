@@ -5,47 +5,46 @@
   "book": "deuteronomy",
   "lang": "xh",
   "chapter": 1,
-  "translation": "Ndawaniyalela nina ngelo xesha ⟨את⟩ yonke into enokuyenzayo.",
+  "translation": "Kwaye ndanibizela ngale ndlela ngelo xesha: ⟨את⟩ onke amagama okwenza anokwenziwa.",
   "tokens": [
     {
-      "surface": "ואצוה",
-      "gloss": "Ndawaniyalela"
+      "surface": "וָאֲצַוֶּה",
+      "gloss": "ndaniyalela"
     },
     {
-      "surface": "אתכם",
-      "gloss": "⟨את⟩",
-      "marks": "nina"
+      "surface": "אֶתְכֶם",
+      "gloss": "⟨את⟩ nina"
     },
     {
-      "surface": "בעת",
+      "surface": "בָּעֵת",
       "gloss": "ngelo xesha"
     },
     {
-      "surface": "ההוא",
-      "gloss": "elo"
+      "surface": "הַהוּא",
+      "gloss": "lelo"
     },
     {
-      "surface": "את",
+      "surface": "אֵת",
       "gloss": "⟨את⟩",
-      "marks": "yonke into"
+      "marks": "onke amagama"
     },
     {
-      "surface": "כל",
-      "gloss": "yonke"
+      "surface": "כָּל",
+      "gloss": "onke"
     },
     {
-      "surface": "הדברים",
-      "gloss": "into"
+      "surface": "הַדְּבָרִים",
+      "gloss": "amagama"
     },
     {
-      "surface": "אשר",
-      "gloss": "ao"
+      "surface": "אֲשֶׁר",
+      "gloss": "okwenza"
     },
     {
-      "surface": "תעשון",
-      "gloss": "enokuyenzayo"
+      "surface": "תַּעֲשׂוּן",
+      "gloss": "anokwenziwa"
     }
   ],
-  "timestamp": "2026-09-18T07:54:15.758326955Z",
+  "timestamp": "2026-09-19T13:48:13.370244215Z",
   "model": "glm-5.3"
 }

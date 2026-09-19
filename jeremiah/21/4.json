@@ -5,15 +5,15 @@
   "book": "jeremiah",
   "lang": "xh",
   "chapter": 21,
-  "translation": "Njalo uthe uYahwe, uElohim wakwa-Israyeli: Nanko ndiya kujikeleza izixhobo zomlo ezisandleni zenu ⟨את⟩, enilwana ngazo inkosi yaseBhavheli ⟨את⟩ namaKashudi acimbele kuni ⟨את⟩ ngaphandle kwezidonga; ndiza kuqokelela wona esigxabini salesi sixeko.",
+  "translation": "Kunjalo uthi uYahwe, uElohim kaSirayeli: Yabona, ndiza kujikeleza ⟨את⟩ izixhobo zomfazwe ezikwizandla zenu, enilwa ngazo inkosi yaseBhabhiloni nange⟨את⟩ amaKashdi abambelelayo kuni ngaphandle kweendonga, ndiza kuqokelela ⟨את⟩ phakathi kweli sixeko.",
   "tokens": [
     {
       "surface": "כה",
-      "gloss": "Njalo"
+      "gloss": "Kunjalo"
     },
     {
       "surface": "אמר",
-      "gloss": "uthe"
+      "gloss": "uthi"
     },
     {
       "surface": "יהוה",
@@ -25,20 +25,20 @@
     },
     {
       "surface": "ישראל",
-      "gloss": "wakwa-Israyeli"
+      "gloss": "kaSirayeli"
     },
     {
       "surface": "הנני",
-      "gloss": "Nanko"
+      "gloss": "Yabona"
     },
     {
       "surface": "מסב",
-      "gloss": "ndiya kujikeleza"
+      "gloss": "ndiza kujikeleza"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "izixhobo zomlo"
+      "marks": "izixhobo zomfazwe"
     },
     {
       "surface": "כלי",
@@ -46,7 +46,7 @@
     },
     {
       "surface": "המלחמה",
-      "gloss": "zomlo"
+      "gloss": "zomfazwe"
     },
     {
       "surface": "אשר",
@@ -54,11 +54,11 @@
     },
     {
       "surface": "בידכם",
-      "gloss": "ezisandleni zenu"
+      "gloss": "ezikwizandla zenu"
     },
     {
       "surface": "אשר",
-      "gloss": "enilwana"
+      "gloss": "ezi"
     },
     {
       "surface": "אתם",
@@ -66,7 +66,7 @@
     },
     {
       "surface": "נלחמים",
-      "gloss": "nilwana"
+      "gloss": "-lwa"
     },
     {
       "surface": "בם",
@@ -75,7 +75,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "inkosi yaseBhavheli"
+      "marks": "inkosi yaseBhabhiloni"
     },
     {
       "surface": "מלך",
@@ -83,20 +83,20 @@
     },
     {
       "surface": "בבל",
-      "gloss": "yaseBhavheli"
+      "gloss": "yaseBhabhiloni"
     },
     {
       "surface": "ואת",
-      "gloss": "kunye no-⟨את⟩",
-      "marks": "amaKashudi"
+      "gloss": "nange⟨את⟩",
+      "marks": "amaKashdi"
     },
     {
       "surface": "הכשדים",
-      "gloss": "amaKashudi"
+      "gloss": "amaKashdi"
     },
     {
       "surface": "הצרים",
-      "gloss": "acimbele"
+      "gloss": "abambelelayo"
     },
     {
       "surface": "עליכם",
@@ -108,7 +108,7 @@
     },
     {
       "surface": "לחומה",
-      "gloss": "kwezidonga"
+      "gloss": "kweendonga"
     },
     {
       "surface": "ואספתי",
@@ -117,25 +117,25 @@
     {
       "surface": "אותם",
       "gloss": "⟨את⟩",
-      "marks": "iwona (izixhobo\/amaKashudi)"
+      "marks": "phakathi kweli sixeko"
     },
     {
       "surface": "אל",
-      "gloss": "ku"
+      "gloss": "eza"
     },
     {
       "surface": "תוך",
-      "gloss": "esigxabini"
+      "gloss": "phakathi"
     },
     {
       "surface": "העיר",
-      "gloss": "salesi sixeko"
+      "gloss": "sixeko"
     },
     {
       "surface": "הזאת",
-      "gloss": "esi"
+      "gloss": "eli"
     }
   ],
-  "timestamp": "2026-09-18T12:12:28.292761496Z",
+  "timestamp": "2026-09-19T14:01:04.492069793Z",
   "model": "glm-5.3"
 }

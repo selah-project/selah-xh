@@ -5,27 +5,28 @@
   "book": "jeremiah",
   "lang": "xh",
   "chapter": 2,
-  "translation": "Ndazilethela eludwe kummandla wezityalo, ukutya iziqhamo zawo nolonwabo lwaso; nize naza nichaza ⟨את⟩ umhlaba wam, nasalelo lwam nanza luba lithetheba.",
+  "translation": "Waze wandisela ⟨את⟩ nina elizwini elinzileyo, ukutya isiqhamo salo nolonwabo lwaso; ninangena, ninangcwatyisa ⟨את⟩ umhlaba wam, nenza ilifa lam libe yinto etshonqolayo.",
   "tokens": [
     {
       "surface": "ואביא",
-      "gloss": "ndazilethela"
+      "gloss": "wandisela"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ nina"
+      "gloss": "⟨את⟩ nina",
+      "marks": "elizwini elinzileyo"
     },
     {
       "surface": "אל",
-      "gloss": "eludwe"
+      "gloss": "kwi-"
     },
     {
       "surface": "ארץ",
-      "gloss": "kummandla"
+      "gloss": "ilizwe"
     },
     {
       "surface": "הכרמל",
-      "gloss": "wezityalo"
+      "gloss": "elinzileyo"
     },
     {
       "surface": "לאכל",
@@ -33,7 +34,7 @@
     },
     {
       "surface": "פריה",
-      "gloss": "isiqhamo sawo"
+      "gloss": "isiqhamo salo"
     },
     {
       "surface": "וטובה",
@@ -41,15 +42,16 @@
     },
     {
       "surface": "ותבאו",
-      "gloss": "nize naza"
+      "gloss": "ninangena"
     },
     {
       "surface": "ותטמאו",
-      "gloss": "nichaza"
+      "gloss": "ninangcwatyisa"
     },
     {
       "surface": "את",
-      "gloss": "⟨את⟩"
+      "gloss": "⟨את⟩",
+      "marks": "umhlaba wam"
     },
     {
       "surface": "ארצי",
@@ -57,17 +59,17 @@
     },
     {
       "surface": "ונחלתי",
-      "gloss": "nasalelo lwam"
+      "gloss": "ilifa lam"
     },
     {
       "surface": "שמתם",
-      "gloss": "nanza liba"
+      "gloss": "nenza… libe"
     },
     {
       "surface": "לתועבה",
-      "gloss": "lithetheba"
+      "gloss": "yinto etshonqolayo"
     }
   ],
-  "timestamp": "2026-09-18T11:52:02.082369018Z",
+  "timestamp": "2026-09-19T13:59:41.434993095Z",
   "model": "glm-5.3"
 }

@@ -5,12 +5,12 @@
   "book": "2-kings",
   "lang": "xh",
   "chapter": 25,
-  "translation": "Okuseleyo kwabantu abasaleleyo esixekweni, ⟨את⟩ abo bawayo kumlawuli waseBhabheli, neseleyo loludaka lwabantu — Nabhuzaradan, inkulu yetabhakha, ⟨את⟩ wabakhuphela.",
+  "translation": "Yaye ⟨את⟩ okuseleyo kwabantu abashiyekileyo sixeko, naye ⟨את⟩ abawa aba wayela kukumkani waseBhabheli, naye ⟨את⟩ okuseleyo kwabantu abaninzi, wabakhuphela awayengabantu uNebuzaradan, elikhulu leenkosi ezibulala.",
   "tokens": [
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
-      "marks": "okuseleyo kwabantu"
+      "gloss": "naye ⟨את⟩",
+      "marks": "okuseleyo"
     },
     {
       "surface": "יתר",
@@ -22,20 +22,20 @@
     },
     {
       "surface": "הנשארים",
-      "gloss": "abasaleleyo"
+      "gloss": "abashiyekileyo"
     },
     {
       "surface": "בעיר",
-      "gloss": "esixekweni"
+      "gloss": "sixeko"
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
-      "marks": "abo bawayo"
+      "gloss": "naye ⟨את⟩",
+      "marks": "abawa"
     },
     {
       "surface": "הנפלים",
-      "gloss": "abo bawayo"
+      "gloss": "abawa"
     },
     {
       "surface": "אשר",
@@ -43,7 +43,7 @@
     },
     {
       "surface": "נפלו",
-      "gloss": "bawayo"
+      "gloss": "wayela"
     },
     {
       "surface": "על",
@@ -51,24 +51,24 @@
     },
     {
       "surface": "המלך",
-      "gloss": "umlawuli"
+      "gloss": "kumkani"
     },
     {
       "surface": "בבל",
-      "gloss": "waseBhabheli"
+      "gloss": "Bhabheli"
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
-      "marks": "neseleyo loludaka"
+      "gloss": "naye ⟨את⟩",
+      "marks": "okuseleyo"
     },
     {
       "surface": "יתר",
-      "gloss": "neseleyo"
+      "gloss": "okuseleyo"
     },
     {
       "surface": "ההמון",
-      "gloss": "loludaka lwabantu"
+      "gloss": "kwabantu abaninzi"
     },
     {
       "surface": "הגלה",
@@ -76,17 +76,17 @@
     },
     {
       "surface": "נבוזראדן",
-      "gloss": "Nabhuzaradan"
+      "gloss": "Nebuzaradan"
     },
     {
       "surface": "רב",
-      "gloss": "inkulu"
+      "gloss": "elikhulu"
     },
     {
       "surface": "טבחים",
-      "gloss": "yetabhakha"
+      "gloss": "leenkosi ezibulala"
     }
   ],
-  "timestamp": "2026-09-18T11:00:03.644545869Z",
+  "timestamp": "2026-09-19T13:47:04.875871991Z",
   "model": "glm-5.3"
 }

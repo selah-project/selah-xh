@@ -5,11 +5,11 @@
   "book": "genesis",
   "lang": "xh",
   "chapter": 12,
-  "translation": "Nceda uthi: ungudadewethu ⟨wena⟩, ukuze kundilungele ngenxa yakho, ukuze umphefumlo wam uphile ngenxa yakho.",
+  "translation": "Nceda uthethe ukuba ungudadewethu ⟨את⟩, ukuze kungcono kum ngenxa yakho, aze abe sobomi umphefumlo wam ngenxa yakho.",
   "tokens": [
     {
       "surface": "אמרי",
-      "gloss": "uthi"
+      "gloss": "uthethe"
     },
     {
       "surface": "נא",
@@ -22,7 +22,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "wena — sisivumelanisi wesifazane, hayi uphawu lomchasi"
+      "marks": "wena (ungudadewethu)"
     },
     {
       "surface": "למען",
@@ -30,11 +30,11 @@
     },
     {
       "surface": "ייטב",
-      "gloss": "kundilungele"
+      "gloss": "kungcono"
     },
     {
       "surface": "לי",
-      "gloss": "ndi-"
+      "gloss": "kum"
     },
     {
       "surface": "בעבורך",
@@ -42,7 +42,7 @@
     },
     {
       "surface": "וחיתה",
-      "gloss": "uphile"
+      "gloss": "aze abe sobomi"
     },
     {
       "surface": "נפשי",
@@ -53,6 +53,6 @@
       "gloss": "ngenxa yakho"
     }
   ],
-  "timestamp": "2026-09-18T05:12:46.026281758Z",
+  "timestamp": "2026-09-19T13:56:17.692080814Z",
   "model": "glm-5.3"
 }

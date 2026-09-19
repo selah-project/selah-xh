@@ -5,19 +5,19 @@
   "book": "leviticus",
   "lang": "xh",
   "chapter": 23,
-  "translation": "Ukuze kube sazi iizizukulwana zenu ukuba kwiintente ndenze abantwana baka-Israel bahlele, ndisibakhupha ⟨אתם⟩ elizweni leMitsrayim; ndinguYahwe uElohim wenu.",
+  "translation": "Ukuze amabele ezizukulwana zenu azazi ukuba kwiihema ndenza ⟨את⟩ abantwana bakwaIsrayeli bahlile, xa ndibakhupha elwandle ezweni laseMitsrayim: ndinguYahwe uElohim wenu.",
   "tokens": [
     {
       "surface": "למען",
-      "gloss": "ukuze"
+      "gloss": "Ukuze"
     },
     {
       "surface": "ידעו",
-      "gloss": "kube sazi"
+      "gloss": "azazi"
     },
     {
       "surface": "דרתיכם",
-      "gloss": "iizizukulwana zenu"
+      "gloss": "izizukulwana zenu"
     },
     {
       "surface": "כי",
@@ -25,16 +25,16 @@
     },
     {
       "surface": "בסכות",
-      "gloss": "kwiintente"
+      "gloss": "kwiihema"
     },
     {
       "surface": "הושבתי",
-      "gloss": "ndenze... bahlele"
+      "gloss": "ndenza bahlile"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "abantwana baka-Israel"
+      "marks": "abantwana bakwaIsrayeli"
     },
     {
       "surface": "בני",
@@ -42,38 +42,38 @@
     },
     {
       "surface": "ישראל",
-      "gloss": "baka-Israel"
+      "gloss": "bakwaIsrayeli"
     },
     {
       "surface": "בהוציאי",
-      "gloss": "ndisibakhupha"
+      "gloss": "xa ndibakhupha"
     },
     {
       "surface": "אותם",
-      "gloss": "⟨אתם⟩",
-      "marks": "elizweni leMitsrayim"
+      "gloss": "⟨את⟩",
+      "marks": "elwandle ezweni laseMitsrayim"
     },
     {
       "surface": "מארץ",
-      "gloss": "elizweni"
+      "gloss": "elwandle ezweni"
     },
     {
       "surface": "מצרים",
-      "gloss": "leMitsrayim"
+      "gloss": "laseMitsrayim"
     },
     {
       "surface": "אני",
-      "gloss": "ndi"
+      "gloss": "ndingu"
     },
     {
       "surface": "יהוה",
-      "gloss": "nguYahwe"
+      "gloss": "uYahwe"
     },
     {
       "surface": "אלהיכם",
       "gloss": "uElohim wenu"
     }
   ],
-  "timestamp": "2026-09-18T07:02:59.986071529Z",
+  "timestamp": "2026-09-19T14:06:25.881088758Z",
   "model": "glm-5.3"
 }

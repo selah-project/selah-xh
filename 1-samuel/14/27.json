@@ -5,11 +5,11 @@
   "book": "1-samuel",
   "lang": "xh",
   "chapter": 14,
-  "translation": "Kodwa uYonatani akazanga esva xa uyise ebizisa abantu ngofungo; wolula ⟨את⟩ isiphelo sentonga ese sekhandleni yakhe, wayityholisa ⟨את⟩ kwisiqwenga soju, wabuyisela isandla sakhe emlonyeni wakhe, amehlo akhe abonakalisa ukukhanya.",
+  "translation": "Kodwa uYonatan akazange azwe xa ubawo ebophisa ⟨את⟩ ilizwe ngoqiniso, waza wakhuphela ⟨את⟩ isiphelo sendonga esesisandleni sakhe, waza walityeza ⟨את⟩ kwisihumba sejuqu, wabuyisela isandla sakhe emlonyeni wakhe, yaza yabukisa amehlo akhe.",
   "tokens": [
     {
       "surface": "ויונתן",
-      "gloss": "uYonatani"
+      "gloss": "Kodwa uYonatan"
     },
     {
       "surface": "לא",
@@ -17,33 +17,33 @@
     },
     {
       "surface": "שמע",
-      "gloss": "esva"
+      "gloss": "azwe"
     },
     {
       "surface": "בהשביע",
-      "gloss": "xa ebizisa ngofungo"
+      "gloss": "xa ebophisa ngoqiniso"
     },
     {
       "surface": "אביו",
-      "gloss": "uyise"
+      "gloss": "ubawo"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "abantu"
+      "marks": "ilizwe"
     },
     {
       "surface": "העם",
-      "gloss": "abantu"
+      "gloss": "ilizwe"
     },
     {
       "surface": "וישלח",
-      "gloss": "wolula"
+      "gloss": "wakhuphela"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "isiphelo sentonga"
+      "marks": "isiphelo sendonga"
     },
     {
       "surface": "קצה",
@@ -51,32 +51,32 @@
     },
     {
       "surface": "המטה",
-      "gloss": "intonga"
+      "gloss": "sendonga"
     },
     {
       "surface": "אשר",
-      "gloss": "ese"
+      "gloss": "eso"
     },
     {
       "surface": "בידו",
-      "gloss": "sekhandleni yakhe"
+      "gloss": "esisandleni sakhe"
     },
     {
       "surface": "ויטבל",
-      "gloss": "wayityholisa"
+      "gloss": "walityeza"
     },
     {
       "surface": "אותה",
       "gloss": "⟨את⟩",
-      "marks": "kwisiqwenga soju"
+      "marks": "kwisihumba sejuqu"
     },
     {
       "surface": "ביערת",
-      "gloss": "isiqwenga soju"
+      "gloss": "kwisihumba"
     },
     {
       "surface": "הדבש",
-      "gloss": "soju"
+      "gloss": "sejuqu"
     },
     {
       "surface": "וישב",
@@ -88,21 +88,21 @@
     },
     {
       "surface": "אל",
-      "gloss": "ku"
+      "gloss": "ku-"
     },
     {
       "surface": "פיו",
-      "gloss": "umlomo wakhe"
+      "gloss": "emlonyeni wakhe"
     },
     {
       "surface": "ותראנה",
-      "gloss": "abonakalisa ukukhanya"
+      "gloss": "yabukisa"
     },
     {
       "surface": "עיניו",
       "gloss": "amehlo akhe"
     }
   ],
-  "timestamp": "2026-09-18T09:28:41.013446869Z",
+  "timestamp": "2026-09-19T13:43:29.024371013Z",
   "model": "glm-5.3"
 }

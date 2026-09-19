@@ -5,7 +5,7 @@
   "book": "ezekiel",
   "lang": "xh",
   "chapter": 38,
-  "translation": "Ndiza kumgweba yena ⟨את⟩ ngesifo nangegazi; imvula eqhubekayo, amatye obuhlalu obomvu, umlilo nesulfuri ndiza kuzisa ngennxa yomkhosi wakhe, nabemi abaninzi abanaye.",
+  "translation": "Ndiza kumgweba ⟨את⟩ naye ngesifo nangegazi; imvula ethwalayo kunye namatye omkhenkce, umlilo nesulufa, ndiza kunezisa phezu kwakhe, naphezu kweqela lakhe, naphezu beenziwe ezininzi ezi⟨את⟩ naye.",
   "tokens": [
     {
       "surface": "ונשפטתי",
@@ -13,8 +13,8 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩",
-      "marks": "yena"
+      "gloss": "⟨את⟩ naye",
+      "marks": "yena (uGogi)"
     },
     {
       "surface": "בדבר",
@@ -29,16 +29,16 @@
       "gloss": "imvula"
     },
     {
-      "surface": "שוטפ",
-      "gloss": "eqhubekayo"
+      "surface": "שוטף",
+      "gloss": "ethwalayo"
     },
     {
       "surface": "ואבני",
-      "gloss": "amatye"
+      "gloss": "kunye namatye"
     },
     {
       "surface": "אלגביש",
-      "gloss": "obuhlalu obomvu"
+      "gloss": "omkhenkce"
     },
     {
       "surface": "אש",
@@ -46,46 +46,46 @@
     },
     {
       "surface": "וגפרית",
-      "gloss": "nesulfuri"
+      "gloss": "nesulufa"
     },
     {
       "surface": "אמטיר",
-      "gloss": "ndiza kuzisa"
+      "gloss": "ndiza kunezisa"
     },
     {
       "surface": "עליו",
-      "gloss": "—"
+      "gloss": "phezu kwakhe"
     },
     {
       "surface": "ועל",
-      "gloss": "ngennxa"
+      "gloss": "naphezu"
     },
     {
       "surface": "אגפיו",
-      "gloss": "womkhosi wakhe"
+      "gloss": "kweqela lakhe"
     },
     {
       "surface": "ועל",
-      "gloss": "nabemi"
+      "gloss": "naphezu"
     },
     {
       "surface": "עמים",
-      "gloss": "abaninzi"
+      "gloss": "beenziwe"
     },
     {
       "surface": "רבים",
-      "gloss": "abaninzi"
+      "gloss": "ezininzi"
     },
     {
       "surface": "אשר",
-      "gloss": "abanaye"
+      "gloss": "ezi"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩",
-      "marks": "abanaye yena"
+      "gloss": "⟨את⟩ naye",
+      "marks": "yena (uGogi)"
     }
   ],
-  "timestamp": "2026-09-18T13:25:04.585370108Z",
+  "timestamp": "2026-09-19T13:55:50.859652269Z",
   "model": "glm-5.3"
 }

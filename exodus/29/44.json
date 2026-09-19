@@ -5,20 +5,20 @@
   "book": "exodus",
   "lang": "xh",
   "chapter": 29,
-  "translation": "Yaye ndiza kungcwalatisa ⟨את⟩ itenti yokudibana nengezibini lokutshisa; ⟨את⟩ u-Aharon kunye ⟨את⟩ nabantwana bake ndiya kungcwalatisa ukuba babe ngabakhonzi bangcwele kum.",
+  "translation": "Ndiza kungcwalalisa ⟨את⟩ ihema yokudibana kunye ⟨את⟩ ne-altare; ⟨את⟩ u-Aharon kunye ⟨את⟩ oonyana bakhe ndiza kungcwalalisa ukuba bangabapristi bam.",
   "tokens": [
     {
       "surface": "וקדשתי",
-      "gloss": "Yaye ndiza kungcwalatisa"
+      "gloss": "Ndiza kungcwalalisa"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "itenti yokudibana"
+      "marks": "ihema yokudibana"
     },
     {
       "surface": "אהל",
-      "gloss": "itenti"
+      "gloss": "ihema"
     },
     {
       "surface": "מועד",
@@ -26,16 +26,16 @@
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
-      "marks": "indawo yokutshisa"
+      "gloss": "kunye ⟨את⟩",
+      "marks": "i-altare"
     },
     {
       "surface": "המזבח",
-      "gloss": "indawo yokutshisa"
+      "gloss": "ne-altare"
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
+      "gloss": "kunye ⟨את⟩",
       "marks": "u-Aharon"
     },
     {
@@ -44,26 +44,26 @@
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
-      "marks": "abantwana bake"
+      "gloss": "kunye ⟨את⟩",
+      "marks": "oonyana bakhe"
     },
     {
       "surface": "בניו",
-      "gloss": "abantwana bake"
+      "gloss": "oonyana bakhe"
     },
     {
       "surface": "אקדש",
-      "gloss": "ndiya kungcwalatisa"
+      "gloss": "ndiza kungcwalalisa"
     },
     {
       "surface": "לכהן",
-      "gloss": "ukuba babe ngabakhonzi bangcwele"
+      "gloss": "ukuba bangabapristi"
     },
     {
       "surface": "לי",
-      "gloss": "kum"
+      "gloss": "bam"
     }
   ],
-  "timestamp": "2026-09-18T06:17:11.802159472Z",
+  "timestamp": "2026-09-19T14:11:53.377205143Z",
   "model": "glm-5.3"
 }

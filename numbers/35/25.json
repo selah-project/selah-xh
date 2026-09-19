@@ -5,15 +5,15 @@
   "book": "numbers",
   "lang": "xh",
   "chapter": 35,
-  "translation": "Kwaye ibandla liza kukhulula ⟨את⟩ umbulali esandleni somlawuli wegazi, kwaye ibandla liza kumbuyisela edolopheni yakhe yokhuseleko apho wabalela khona, yaye uza kuhlala khona de kufe igqirha enkulu ethagunyiweyo ngeoyile engcwele.",
+  "translation": "Kwaye iqela liza kumsindisa ⟨את⟩ umbulali esandleni somsindi wegazi, kwaye iqela liza kumbuyisela ⟨את⟩ yena kwisixeko sakhe sokubalekela apho abalele khona; yena uza kuhlala khona de kube kufa lo mkhonzi omkhulu owathanjisiweyo ngeoli engcwele.",
   "tokens": [
     {
       "surface": "והצילו",
-      "gloss": "liza kukhulula"
+      "gloss": "kwaye iqela liza kumsindisa"
     },
     {
       "surface": "העדה",
-      "gloss": "ibandla"
+      "gloss": "iqela"
     },
     {
       "surface": "את",
@@ -30,7 +30,7 @@
     },
     {
       "surface": "גאל",
-      "gloss": "somlawuli"
+      "gloss": "somsindi"
     },
     {
       "surface": "הדם",
@@ -38,28 +38,28 @@
     },
     {
       "surface": "והשיבו",
-      "gloss": "liza kumbuyisela"
+      "gloss": "kwaye iqela liza kumbuyisela"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩",
-      "marks": "yena (-m- kuthi kumbuyisela)"
+      "gloss": "⟨את⟩ yena",
+      "marks": "umbulali"
     },
     {
       "surface": "העדה",
-      "gloss": "ibandla"
+      "gloss": "iqela"
     },
     {
       "surface": "אל",
-      "gloss": "ku-"
+      "gloss": "kwi-"
     },
     {
       "surface": "עיר",
-      "gloss": "edolopheni"
+      "gloss": "isixeko"
     },
     {
       "surface": "מקלטו",
-      "gloss": "yokhuseleko yakhe"
+      "gloss": "sakhe sokubalekela"
     },
     {
       "surface": "אשר",
@@ -67,7 +67,7 @@
     },
     {
       "surface": "נס",
-      "gloss": "wabalela"
+      "gloss": "abalele"
     },
     {
       "surface": "שמה",
@@ -75,7 +75,7 @@
     },
     {
       "surface": "וישב",
-      "gloss": "uza kuhlala"
+      "gloss": "yena uza kuhlala"
     },
     {
       "surface": "בה",
@@ -83,42 +83,42 @@
     },
     {
       "surface": "עד",
-      "gloss": "de"
+      "gloss": "de kube"
     },
     {
       "surface": "מות",
-      "gloss": "kufe"
+      "gloss": "kufa"
     },
     {
       "surface": "הכהן",
-      "gloss": "igqirha"
+      "gloss": "lo mkhonzi"
     },
     {
       "surface": "הגדל",
-      "gloss": "enkulu"
+      "gloss": "omkhulu"
     },
     {
       "surface": "אשר",
-      "gloss": "othagunyiweyo"
+      "gloss": "owathanjisiweyo (o-)"
     },
     {
       "surface": "משח",
-      "gloss": "ethagunyiweyo"
+      "gloss": "owathanjisiweyo"
     },
     {
       "surface": "אתו",
       "gloss": "⟨את⟩",
-      "marks": "yena"
+      "marks": "ngeoli engcwele"
     },
     {
       "surface": "בשמן",
-      "gloss": "ngeoyile"
+      "gloss": "ngeoli"
     },
     {
       "surface": "הקדש",
       "gloss": "engcwele"
     }
   ],
-  "timestamp": "2026-09-18T07:50:36.715184920Z",
+  "timestamp": "2026-09-19T14:10:27.636113043Z",
   "model": "glm-5.3"
 }

@@ -5,74 +5,75 @@
   "book": "leviticus",
   "lang": "xh",
   "chapter": 4,
-  "translation": "Yaye ipristi uza kutyela ⟨את⟩ umnwe wakhe egazini, aze achithe ngelo gazi amaxesha aisixhenxe phambi koYahwe, phambi kobuso beParokheti engcwele.",
+  "translation": "Umprofeti ongcwele uza kutshonisa ⟨את⟩ umnwakhe wagophu engazinyweni, aze atshize elinye igazi izihlandlo ezisixhenxe phambi koYahwe, phambi kobuso bomRhangca wengcwele.",
   "tokens": [
     {
       "surface": "וטבל",
-      "gloss": "uza kutyela"
+      "gloss": "uza kutshonisa"
     },
     {
       "surface": "הכהן",
-      "gloss": "ipristi"
+      "gloss": "umprofeti ongcwele"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "umnwe wakhe"
+      "marks": "umnwakhe wagophu"
     },
     {
       "surface": "אצבעו",
-      "gloss": "umnwe wakhe"
+      "gloss": "umnwakhe wagophu"
     },
     {
       "surface": "בדם",
-      "gloss": "egazini"
+      "gloss": "engazinyweni"
     },
     {
       "surface": "והזה",
-      "gloss": "achithe"
+      "gloss": "aze atshize"
     },
     {
       "surface": "מן",
-      "gloss": "ngelo"
+      "gloss": "elinye"
     },
     {
       "surface": "הדם",
-      "gloss": "gazi"
+      "gloss": "igazi"
     },
     {
       "surface": "שבע",
-      "gloss": "kwisixhenxe"
+      "gloss": "ezisixhenxe"
     },
     {
       "surface": "פעמים",
-      "gloss": "amaxesha"
+      "gloss": "izihlandlo"
     },
     {
       "surface": "לפני",
-      "gloss": "phambi kwa"
+      "gloss": "phambi"
     },
     {
       "surface": "יהוה",
-      "gloss": "uYahwe"
+      "gloss": "koYahwe"
     },
     {
       "surface": "את",
-      "gloss": "⟨את⟩ phambi kwe"
+      "gloss": "⟨את⟩",
+      "marks": "ubuso bomRhangca"
     },
     {
       "surface": "פני",
-      "gloss": "obuso"
+      "gloss": "ubuso"
     },
     {
       "surface": "פרכת",
-      "gloss": "beParokheti"
+      "gloss": "omRhangca"
     },
     {
       "surface": "הקדש",
-      "gloss": "engcwele"
+      "gloss": "wengcwele"
     }
   ],
-  "timestamp": "2026-09-18T06:40:00.585143457Z",
+  "timestamp": "2026-09-19T14:06:49.025378451Z",
   "model": "glm-5.3"
 }

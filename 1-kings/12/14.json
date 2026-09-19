@@ -5,7 +5,7 @@
   "book": "1-kings",
   "lang": "xh",
   "chapter": 12,
-  "translation": "Wathetha kubo njengecebo leentsana, esithi: Ubawo wenzisa ubunzima ⟨את⟩ ithoni yenu, mna ndiza kongeza phezu kwethoni yenu; ubawo wanilahlula ngeeswati, mna ndiza kunilahlula ngeeskorpioni.",
+  "translation": "Wathetha kabo njengenceba yamakhwenkwe, wathi: “Ubawo wanenzisa ⟨את⟩ intsinga yenu, yaye mna ndiza kongeza phezu kwentsinga yenu; ubawo wanohlwaya ⟨את⟩ nina ngeentonga, yaye mna ndiza kunohlwaya ⟨את⟩ nina ngeeskorpiyoni.”",
   "tokens": [
     {
       "surface": "וידבר",
@@ -13,19 +13,19 @@
     },
     {
       "surface": "אליהם",
-      "gloss": "kubo"
+      "gloss": "kabo"
     },
     {
       "surface": "כעצת",
-      "gloss": "njengecebo"
+      "gloss": "njengenceba"
     },
     {
       "surface": "הילדים",
-      "gloss": "leentsana"
+      "gloss": "yamakhwenkwe"
     },
     {
       "surface": "לאמר",
-      "gloss": "esithi"
+      "gloss": "wathi"
     },
     {
       "surface": "אבי",
@@ -33,20 +33,20 @@
     },
     {
       "surface": "הכביד",
-      "gloss": "wenzisa ubunzima"
+      "gloss": "wanenzisa"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ithoni yenu"
+      "marks": "intsinga yenu"
     },
     {
       "surface": "עלכם",
-      "gloss": "ithoni yenu"
+      "gloss": "intsinga yenu"
     },
     {
       "surface": "ואני",
-      "gloss": "mna"
+      "gloss": "yaye mna"
     },
     {
       "surface": "אסיף",
@@ -54,11 +54,11 @@
     },
     {
       "surface": "על",
-      "gloss": "phezu kwe-"
+      "gloss": "phezu"
     },
     {
       "surface": "עלכם",
-      "gloss": "ethoni yenu"
+      "gloss": "kwentsinga yenu"
     },
     {
       "surface": "אבי",
@@ -66,35 +66,35 @@
     },
     {
       "surface": "יסר",
-      "gloss": "wanilahlula"
+      "gloss": "wanohlwaya"
     },
     {
       "surface": "אתכם",
       "gloss": "⟨את⟩",
-      "marks": "ngeeswati"
+      "marks": "nina"
     },
     {
       "surface": "בשוטים",
-      "gloss": "ngeeswati"
+      "gloss": "ngeentonga"
     },
     {
       "surface": "ואני",
-      "gloss": "mna"
+      "gloss": "yaye mna"
     },
     {
       "surface": "איסר",
-      "gloss": "ndiza kunilahlula"
+      "gloss": "ndiza kunohlwaya"
     },
     {
       "surface": "אתכם",
       "gloss": "⟨את⟩",
-      "marks": "ngeeskorpioni"
+      "marks": "nina"
     },
     {
       "surface": "בעקרבים",
-      "gloss": "ngeeskorpioni"
+      "gloss": "ngeeskorpiyoni"
     }
   ],
-  "timestamp": "2026-09-18T10:26:34.870307733Z",
+  "timestamp": "2026-09-19T13:42:21.077931268Z",
   "model": "glm-5.3"
 }

@@ -5,11 +5,11 @@
   "book": "deuteronomy",
   "lang": "xh",
   "chapter": 3,
-  "translation": "Yala uYehoshuwa, umenze angcamle, umqinise; kuba yena uza kudlula phambi kwalo eli ntsimbi, yena uza kubenza basindze ⟨את⟩ umhlaba oza kuwubona.”",
+  "translation": "Umyalele ⟨את⟩ uYehoshuwa, uqinise yaye umenze abe namandla, kuba nguye oza kudlula phambi kweli intsizwa, yaye nguye oza kubenzela ilifa ⟨את⟩ ⟨אותם⟩ ⟨את⟩ umhlaba oza kuwubona.",
   "tokens": [
     {
       "surface": "וצו",
-      "gloss": "Yala"
+      "gloss": "Umyalele"
     },
     {
       "surface": "את",
@@ -22,11 +22,11 @@
     },
     {
       "surface": "וחזקהו",
-      "gloss": "umenze angcamle"
+      "gloss": "uqinise"
     },
     {
       "surface": "ואמצהו",
-      "gloss": "umqinise"
+      "gloss": "umenze abe namandla"
     },
     {
       "surface": "כי",
@@ -34,11 +34,11 @@
     },
     {
       "surface": "הוא",
-      "gloss": "yena"
+      "gloss": "nguye"
     },
     {
       "surface": "יעבר",
-      "gloss": "uza kudlula"
+      "gloss": "oza kudlula"
     },
     {
       "surface": "לפני",
@@ -46,7 +46,7 @@
     },
     {
       "surface": "העם",
-      "gloss": "eli ntsimbi"
+      "gloss": "eli intsizwa"
     },
     {
       "surface": "הזה",
@@ -54,16 +54,16 @@
     },
     {
       "surface": "והוא",
-      "gloss": "yena"
+      "gloss": "yaye nguye"
     },
     {
       "surface": "ינחיל",
-      "gloss": "uza kubenza basindze"
+      "gloss": "oza kubenzela ilifa"
     },
     {
       "surface": "אותם",
-      "gloss": "⟨את⟩",
-      "marks": "bona (eli ntsimbi)"
+      "gloss": "⟨את⟩ ⟨אותם⟩",
+      "marks": "bona eli intsizwa"
     },
     {
       "surface": "את",
@@ -76,13 +76,13 @@
     },
     {
       "surface": "אשר",
-      "gloss": "o"
+      "gloss": "oza"
     },
     {
       "surface": "תראה",
-      "gloss": "oza kuwubona"
+      "gloss": "kuwubona"
     }
   ],
-  "timestamp": "2026-09-18T07:54:19.440185520Z",
+  "timestamp": "2026-09-19T13:49:51.608450801Z",
   "model": "glm-5.3"
 }

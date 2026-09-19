@@ -5,7 +5,7 @@
   "book": "genesis",
   "lang": "xh",
   "chapter": 46,
-  "translation": "Wavuka uYaakob eBheer-Shebha; oonyana bakaSirayeli bamthwala ⟨את⟩ uYaakob uyise, ⟨את⟩ abantwana babo abancinane, ⟨את⟩ nabafazi babo, kwiiwagone ezazithumela uParo ukuzimthwala.",
+  "translation": "Wavuka uYaakob wehla eBhere-Sheba, aze amadodana kaSirayeli athwale uYaakob uyise, nabantwana babo, nabafazi babo, kwiinqwelo zawo zinkuni ezithwalayo uParo awathumelayo ukumthwala.",
   "tokens": [
     {
       "surface": "ויקם",
@@ -17,28 +17,28 @@
     },
     {
       "surface": "מבאר",
-      "gloss": "eBheer-"
+      "gloss": "wehla eBhere-"
     },
     {
       "surface": "שבע",
-      "gloss": "Shebha"
+      "gloss": "Sheba"
     },
     {
       "surface": "וישאו",
-      "gloss": "bamthwala"
+      "gloss": "aze ... athwale"
     },
     {
       "surface": "בני",
-      "gloss": "oonyana"
+      "gloss": "amadodana"
     },
     {
       "surface": "ישראל",
-      "gloss": "bakaSirayeli"
+      "gloss": "kaSirayeli"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "uYaakob uyise"
+      "marks": "uYaakob"
     },
     {
       "surface": "יעקב",
@@ -50,16 +50,16 @@
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
-      "marks": "abantwana babo abancinane"
+      "gloss": "naba⟨את⟩",
+      "marks": "abantwana babo"
     },
     {
       "surface": "טפם",
-      "gloss": "abantwana babo abancinane"
+      "gloss": "abantwana babo"
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
+      "gloss": "naba⟨את⟩",
       "marks": "abafazi babo"
     },
     {
@@ -68,15 +68,15 @@
     },
     {
       "surface": "בעגלות",
-      "gloss": "kwiiwagone"
+      "gloss": "kwiinqwelo zawo zinkuni"
     },
     {
       "surface": "אשר",
-      "gloss": "azo"
+      "gloss": "ezithwalayo"
     },
     {
       "surface": "שלח",
-      "gloss": "ezazithumela"
+      "gloss": "awathumelayo"
     },
     {
       "surface": "פרעה",
@@ -84,14 +84,13 @@
     },
     {
       "surface": "לשאת",
-      "gloss": "ukuzimthwala"
+      "gloss": "ukumthwala"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩",
-      "marks": "uYaakob (ukuzimthwala)"
+      "gloss": "⟨אתו⟩"
     }
   ],
-  "timestamp": "2026-09-18T05:44:16.658146871Z",
+  "timestamp": "2026-09-19T13:57:59.921165190Z",
   "model": "glm-5.3"
 }

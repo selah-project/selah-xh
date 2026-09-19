@@ -5,11 +5,11 @@
   "book": "exodus",
   "lang": "xh",
   "chapter": 16,
-  "translation": "Bathi abantwana bakaSirayeli kubo: “Ngubani oza kusinika ukuba sife ngesandla sikaYahwe elizweni laseMitsrayim, xa besihleli kwiinqunqa zenyama, sitya okokutya okwanelisayo? Kuba nina nasisikhuphela ⟨את⟩ kulo lango, ukuba nitshabalalise lonke eli qela ngesangxa.”",
+  "translation": "Abantwana bakwaSirayeli bathetha kubo: Ngubani onokusinika ukufa ngesandla sikaYahwe elwini laseMitsrayim, xa besihleli emazantsi zezikhomfi zenyama, besitya ukutya kube nyanzelekile? Kuba nanisikhuphile ⟨את⟩ ekuhambeni kwethu apha kule ntlanga, ukubulala ⟨את⟩ onke le qela ngendlala.",
   "tokens": [
     {
       "surface": "ויאמרו",
-      "gloss": "Bathi"
+      "gloss": "bathetha"
     },
     {
       "surface": "אלהם",
@@ -21,19 +21,19 @@
     },
     {
       "surface": "ישראל",
-      "gloss": "bakaSirayeli"
+      "gloss": "bakwaSirayeli"
     },
     {
       "surface": "מי",
-      "gloss": "Ngubani"
+      "gloss": "ngubani"
     },
     {
       "surface": "יתן",
-      "gloss": "oza kusinika"
+      "gloss": "onokusinika"
     },
     {
       "surface": "מותנו",
-      "gloss": "ukuba sife"
+      "gloss": "ukufa kwethu"
     },
     {
       "surface": "ביד",
@@ -45,7 +45,7 @@
     },
     {
       "surface": "בארץ",
-      "gloss": "elizweni"
+      "gloss": "elwini"
     },
     {
       "surface": "מצרים",
@@ -57,11 +57,11 @@
     },
     {
       "surface": "על",
-      "gloss": "kwi-"
+      "gloss": "emazantsi"
     },
     {
       "surface": "סיר",
-      "gloss": "iinqunqa"
+      "gloss": "zezikhomfi"
     },
     {
       "surface": "הבשר",
@@ -69,67 +69,67 @@
     },
     {
       "surface": "באכלנו",
-      "gloss": "sitya"
+      "gloss": "besitya"
     },
     {
       "surface": "לחם",
-      "gloss": "okokutya"
+      "gloss": "ukutya"
     },
     {
       "surface": "לשבע",
-      "gloss": "okwanelisayo"
+      "gloss": "kube nyanzelekile"
     },
     {
       "surface": "כי",
-      "gloss": "Kuba"
+      "gloss": "kuba"
     },
     {
       "surface": "הוצאתם",
-      "gloss": "nasisikhuphela"
+      "gloss": "nanisikhuphile"
     },
     {
       "surface": "אתנו",
-      "gloss": "⟨את⟩ esikhuphela sona",
-      "marks": "esikhuphela sona"
+      "gloss": "⟨את⟩",
+      "marks": "thina"
     },
     {
       "surface": "אל",
-      "gloss": "kulo"
+      "gloss": "aha"
     },
     {
       "surface": "המדבר",
-      "gloss": "lango"
+      "gloss": "kule ntlanga"
     },
     {
       "surface": "הזה",
-      "gloss": "eli"
+      "gloss": "le"
     },
     {
       "surface": "להמית",
-      "gloss": "ukuba nitshabalalise"
+      "gloss": "ukubulala"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "lonke eli qela"
+      "marks": "onke le qela"
     },
     {
       "surface": "כל",
-      "gloss": "lonke"
+      "gloss": "onke"
     },
     {
       "surface": "הקהל",
-      "gloss": "eli qela"
+      "gloss": "qela"
     },
     {
       "surface": "הזה",
-      "gloss": "eli"
+      "gloss": "le"
     },
     {
       "surface": "ברעב",
-      "gloss": "ngesesangxa"
+      "gloss": "ngendlala"
     }
   ],
-  "timestamp": "2026-09-18T06:02:57.698769095Z",
+  "timestamp": "2026-09-19T13:51:50.530129796Z",
   "model": "glm-5.3"
 }

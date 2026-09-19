@@ -5,15 +5,15 @@
   "book": "deuteronomy",
   "lang": "xh",
   "chapter": 26,
-  "translation": "Namhlanje uYahwe uElohim wakho ukuyalela ukwenza ⟨את⟩ le mithetho ⟨את⟩ nemigaqo; uza kuyigcina uze uyenze ⟨azo⟩ ngentliziyo yakho yonke nangaphefumlo lwakho lonke.",
+  "translation": "Namhlanje eli uYahwe uElohim wakho uyakuyalela ukuba uwenze ⟨את⟩ le miqulu-mithetho ⟨ואת⟩ nemigaqo yayo; uze uyigcine, ubuye uyenze ⟨את⟩ ngehliziyo yakho yonke nangaphefumlo lwakho wonke.",
   "tokens": [
     {
       "surface": "היום",
-      "gloss": "namhlanje"
+      "gloss": "Namhlanje"
     },
     {
       "surface": "הזה",
-      "gloss": "lo"
+      "gloss": "eli"
     },
     {
       "surface": "יהוה",
@@ -25,64 +25,64 @@
     },
     {
       "surface": "מצוך",
-      "gloss": "ukuyalela"
+      "gloss": "uyakuyalela"
     },
     {
       "surface": "לעשות",
-      "gloss": "ukwenza"
+      "gloss": "ukuba uwenze"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "le mithetho"
+      "marks": "le miqulu-mithetho"
     },
     {
       "surface": "החקים",
-      "gloss": "le mithetho"
+      "gloss": "le miqulu-mithetho"
     },
     {
       "surface": "האלה",
-      "gloss": "le"
+      "gloss": "ezi"
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
-      "marks": "imigaqo"
+      "gloss": "⟨ואת⟩",
+      "marks": "nemigaqo yayo"
     },
     {
       "surface": "המשפטים",
-      "gloss": "imigaqo"
+      "gloss": "nemigaqo yayo"
     },
     {
       "surface": "ושמרת",
-      "gloss": "uza kuyigcina"
+      "gloss": "uze uyigcine"
     },
     {
       "surface": "ועשית",
-      "gloss": "uze uyenze"
+      "gloss": "ubuye uyenze"
     },
     {
       "surface": "אותם",
       "gloss": "⟨את⟩",
-      "marks": "zona"
+      "marks": "le miqulu-mithetho nemigaqo (izonke)"
     },
     {
       "surface": "בכל",
-      "gloss": "ngeyona"
+      "gloss": "nge…yonke"
     },
     {
       "surface": "לבבך",
-      "gloss": "intliziyo yakho"
+      "gloss": "inhliziyo yakho"
     },
     {
       "surface": "ובכל",
-      "gloss": "kwaye nange"
+      "gloss": "nange…wonke"
     },
     {
       "surface": "נפשך",
       "gloss": "umphefumlo wakho"
     }
   ],
-  "timestamp": "2026-09-18T08:18:40.241779850Z",
+  "timestamp": "2026-09-19T13:49:37.658865444Z",
   "model": "glm-5.3"
 }

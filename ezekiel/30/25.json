@@ -5,7 +5,7 @@
   "book": "ezekiel",
   "lang": "xh",
   "chapter": 30,
-  "translation": "Mna ndiza kuqinisa ⟨את⟩ iimikhono yenkosi yeBhabhelon, iimikhono kaParo ziza kuwa; baza kwazi ukuba mna ndinguYahwe, xa ndibe ndinike idangathe lam esandleni senkosi yeBhabhelon, yaye elona liza kunikezelwa elwini laseMitsrayim.",
+  "translation": "Ndiza kuqinisa ⟨את⟩ iingalo zenkosi yaseBhabheli, iingalo zoParo ziya kuwa; baze bayazi ukuba mna ndinguYahwe, xa ndibeka ireyisi yam esandleni senkosi yaseBhabheli, aze uyityolulela ⟨את⟩ ukuya elweni laseMitsrayim.",
   "tokens": [
     {
       "surface": "והחזקתי",
@@ -14,35 +14,35 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "iimikhono yenkosi yeBhabhelon"
+      "marks": "iingalo (zenkosi yaseBhabheli)"
     },
     {
       "surface": "זרעות",
-      "gloss": "iimikhono"
+      "gloss": "iingalo"
     },
     {
       "surface": "מלך",
-      "gloss": "yenkosi"
+      "gloss": "inkosi"
     },
     {
       "surface": "בבל",
-      "gloss": "yeBhabhelon"
+      "gloss": "yaseBhabheli"
     },
     {
       "surface": "וזרעות",
-      "gloss": "iimikhono"
+      "gloss": "iingalo"
     },
     {
       "surface": "פרעה",
-      "gloss": "kaParo"
+      "gloss": "zoParo"
     },
     {
       "surface": "תפלנה",
-      "gloss": "ziza kuwa"
+      "gloss": "ziya kuwa"
     },
     {
       "surface": "וידעו",
-      "gloss": "baza kwazi"
+      "gloss": "baze bayazi"
     },
     {
       "surface": "כי",
@@ -58,11 +58,11 @@
     },
     {
       "surface": "בתתי",
-      "gloss": "xa ndibe ndinike"
+      "gloss": "xa ndibeka"
     },
     {
       "surface": "חרבי",
-      "gloss": "idangathe lam"
+      "gloss": "ireyisi yam"
     },
     {
       "surface": "ביד",
@@ -70,34 +70,34 @@
     },
     {
       "surface": "מלך",
-      "gloss": "senkosi"
+      "gloss": "inkosi"
     },
     {
       "surface": "בבל",
-      "gloss": "yeBhabhelon"
+      "gloss": "yaseBhabheli"
     },
     {
       "surface": "ונטה",
-      "gloss": "linokunikezelwa"
+      "gloss": "aze uyityolulela"
     },
     {
       "surface": "אותה",
       "gloss": "⟨את⟩",
-      "marks": "elona (idangathe)"
+      "marks": "ukuya elweni laseMitsrayim (ireyisi)"
     },
     {
       "surface": "אל",
-      "gloss": "ku- \/ elwini"
+      "gloss": "ukuya"
     },
     {
       "surface": "ארץ",
-      "gloss": "elwini"
+      "gloss": "elweni"
     },
     {
       "surface": "מצרים",
       "gloss": "laseMitsrayim"
     }
   ],
-  "timestamp": "2026-09-18T13:20:39.868977286Z",
+  "timestamp": "2026-09-19T13:54:23.329561760Z",
   "model": "glm-5.3"
 }

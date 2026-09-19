@@ -5,11 +5,11 @@
   "book": "deuteronomy",
   "lang": "xh",
   "chapter": 31,
-  "translation": "UMoshe wabayalela, esithi: Ekupheleni kweminyaka esixhenxe, ngexesha elizethweyo, unyaka wokukhululwa, emthendlekweni weentente,",
+  "translation": "UMoshe wayala ⟨את⟩ abo wathi: Ekupheleni kweminyaka esixhenxe, exesha elizeleyo, umnyaka wokukhulula, phakathi komthendeleko weendwendwezi—",
   "tokens": [
     {
       "surface": "ויצו",
-      "gloss": "wabayalela"
+      "gloss": "wayala"
     },
     {
       "surface": "משה",
@@ -17,11 +17,12 @@
     },
     {
       "surface": "אותם",
-      "gloss": "⟨את⟩ bona"
+      "gloss": "⟨את⟩",
+      "marks": "abo"
     },
     {
       "surface": "לאמר",
-      "gloss": "esithi"
+      "gloss": "wathi"
     },
     {
       "surface": "מקץ",
@@ -33,29 +34,29 @@
     },
     {
       "surface": "שנים",
-      "gloss": "kweminyaka"
+      "gloss": "iminyaka"
     },
     {
       "surface": "במעד",
-      "gloss": "ngexesha elizethweyo"
+      "gloss": "exesha elizeleyo"
     },
     {
       "surface": "שנת",
-      "gloss": "unyaka"
+      "gloss": "umnyaka"
     },
     {
       "surface": "השמטה",
-      "gloss": "wokukhululwa"
+      "gloss": "wokukhulula"
     },
     {
       "surface": "בחג",
-      "gloss": "emthendlekweni"
+      "gloss": "phakathi komthendeleko"
     },
     {
       "surface": "הסכות",
-      "gloss": "weentente"
+      "gloss": "weendwendwezi"
     }
   ],
-  "timestamp": "2026-09-18T08:24:50.789064358Z",
+  "timestamp": "2026-09-19T13:49:17.606285424Z",
   "model": "glm-5.3"
 }

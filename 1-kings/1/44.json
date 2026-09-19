@@ -5,16 +5,15 @@
   "book": "1-kings",
   "lang": "xh",
   "chapter": 1,
-  "translation": "Inkosi yamthuma naye ⟨את⟩ uTsadok umpristi ne-⟨את⟩ uNathani umprofeti, noBenaYahu unyana kaYehoyada, namaKereti namaPeleti; bamkwesa ⟨את⟩ yena esilini senkosi.",
+  "translation": "Inkosi yamthumela ⟨את⟩ naye uTsadok umpristi noNatan umprofeti, noBneyahu unyana kaYehoyada, neKreti nePleti; bamtyhalela ⟨את⟩ yena phezu kwesela esikazi lenkosi.",
   "tokens": [
     {
       "surface": "וישלח",
-      "gloss": "yamthuma"
+      "gloss": "yamthumela"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ naye",
-      "marks": "uShelomoh"
+      "gloss": "⟨את⟩ naye"
     },
     {
       "surface": "המלך",
@@ -35,12 +34,12 @@
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
-      "marks": "uNathani"
+      "gloss": "⟨את⟩ no",
+      "marks": "uNatan"
     },
     {
       "surface": "נתן",
-      "gloss": "uNathani"
+      "gloss": "uNatan"
     },
     {
       "surface": "הנביא",
@@ -48,7 +47,7 @@
     },
     {
       "surface": "ובניהו",
-      "gloss": "noBenaYahu"
+      "gloss": "noBneyahu"
     },
     {
       "surface": "בן",
@@ -60,34 +59,34 @@
     },
     {
       "surface": "והכרתי",
-      "gloss": "namaKereti"
+      "gloss": "neKreti"
     },
     {
       "surface": "והפלתי",
-      "gloss": "namaPeleti"
+      "gloss": "nePleti"
     },
     {
       "surface": "וירכבו",
-      "gloss": "bamkwesa"
+      "gloss": "bamtyhalela"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩",
-      "marks": "yena (uShelomoh)"
+      "gloss": "⟨את⟩ yena",
+      "marks": "phezu kwesela esikazi lenkosi"
     },
     {
       "surface": "על",
-      "gloss": "ku-"
+      "gloss": "phezu kwe"
     },
     {
       "surface": "פרדת",
-      "gloss": "esilini"
+      "gloss": "isela esikazi"
     },
     {
       "surface": "המלך",
-      "gloss": "senkosi"
+      "gloss": "lenkosi"
     }
   ],
-  "timestamp": "2026-09-18T17:31:19.497438664Z",
+  "timestamp": "2026-09-19T13:42:27.601370883Z",
   "model": "glm-5.3"
 }

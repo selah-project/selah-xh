@@ -5,20 +5,20 @@
   "book": "2-kings",
   "lang": "xh",
   "chapter": 13,
-  "translation": "U-Yehoachazi wathandazela ubuso bukaYahwe ⟨את⟩, uYahwe wamva; kuba wabona ubunzima ⟨את⟩ beYisrayeli, nangona ibabanzela inkosi yakwaAram.",
+  "translation": "U-Yehoachaz wamcelisa uYahwe ⟨את⟩ wathetha ngesikhumbuzo, wamva uYahwe, kuba wabona uYahwe ⟨את⟩ ucinezelo lweYisrayeli, kuba ubacinezela inkosi yaseAram.",
   "tokens": [
     {
       "surface": "ויחל",
-      "gloss": "wathandazela"
+      "gloss": "wacela isikhumbuzo"
     },
     {
       "surface": "יהואחז",
-      "gloss": "U-Yehoachazi"
+      "gloss": "u-Yehoachaz"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ubuso bukaYahwe"
+      "marks": "ubuso (ubuso bukaYahwe)"
     },
     {
       "surface": "פני",
@@ -26,7 +26,7 @@
     },
     {
       "surface": "יהוה",
-      "gloss": "bukaYahwe"
+      "gloss": "uYahwe"
     },
     {
       "surface": "וישמע",
@@ -34,7 +34,7 @@
     },
     {
       "surface": "אליו",
-      "gloss": "uYahwe ⟨kuye⟩"
+      "gloss": "kuye"
     },
     {
       "surface": "יהוה",
@@ -51,15 +51,15 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ubunzima beYisrayeli"
+      "marks": "ucinezelo"
     },
     {
       "surface": "לחץ",
-      "gloss": "ubunzima"
+      "gloss": "ucinezelo"
     },
     {
       "surface": "ישראל",
-      "gloss": "beYisrayeli"
+      "gloss": "lweYisrayeli"
     },
     {
       "surface": "כי",
@@ -67,12 +67,12 @@
     },
     {
       "surface": "לחץ",
-      "gloss": "ibabanzela"
+      "gloss": "ubacinezela"
     },
     {
       "surface": "אתם",
       "gloss": "⟨אתם⟩",
-      "marks": "abo"
+      "marks": "bona (abantwana baseYisrayeli)"
     },
     {
       "surface": "מלך",
@@ -80,9 +80,9 @@
     },
     {
       "surface": "ארם",
-      "gloss": "yakwaAram"
+      "gloss": "yaseAram"
     }
   ],
-  "timestamp": "2026-09-18T10:50:02.934515428Z",
+  "timestamp": "2026-09-19T13:46:11.285069064Z",
   "model": "glm-5.3"
 }

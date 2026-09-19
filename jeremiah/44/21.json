@@ -5,7 +5,7 @@
   "book": "jeremiah",
   "lang": "xh",
   "chapter": 44,
-  "translation": "Ingaba lo mnqamlezo owanikela ngawo emizini yaseYehudah nasemigwaqweni yeYerushalayimi — nina, nooyihlo benu, neenkosi zenu, noosikhokeli benu, nabantu belizwe — akuzange kuwakhumbule uYahwe ⟨את⟩ wona, kokwa kwenyuka entliziyweni yakhe?",
+  "translation": "Ingaba ⟨את⟩ ukutshisa ipeyile onukisa oko nina enikutshisileyo kwiidolophu zikaYuda nakwiindlela zeYerushalayimi — nina nooyihlo nonkosi zenu nabaphathi benu nabantu belizwe — uYahwe awazukhumbula na leyo nto, yaye ayinyukanga na entlizveni yakhe?",
   "tokens": [
     {
       "surface": "הלוא",
@@ -14,35 +14,35 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "lo mnqamlezo"
+      "marks": "ukutshisa ipeyile onukisa"
     },
     {
       "surface": "הקטר",
-      "gloss": "lo mnqamlezo"
+      "gloss": "ukutshisa ipeyile onukisa"
     },
     {
       "surface": "אשר",
-      "gloss": "owo"
+      "gloss": "oko"
     },
     {
       "surface": "קטרתם",
-      "gloss": "ninkela ngawo"
+      "gloss": "enikutshisileyo"
     },
     {
       "surface": "בערי",
-      "gloss": "emizini yase"
+      "gloss": "kwiidolophu"
     },
     {
       "surface": "יהודה",
-      "gloss": "iYehudah"
+      "gloss": "zikaYuda"
     },
     {
       "surface": "ובחצות",
-      "gloss": "nasemigwaqweni ye"
+      "gloss": "nakwiindlela"
     },
     {
       "surface": "ירושלם",
-      "gloss": "iYerushalayimi"
+      "gloss": "zeYerushalayimi"
     },
     {
       "surface": "אתם",
@@ -50,15 +50,15 @@
     },
     {
       "surface": "ואבותיכם",
-      "gloss": "nooyihlo benu"
+      "gloss": "nooyihlo"
     },
     {
       "surface": "מלכיכם",
-      "gloss": "neenkosi zenu"
+      "gloss": "nonkosi zenu"
     },
     {
       "surface": "ושריכם",
-      "gloss": "noosikhokeli benu"
+      "gloss": "nabaphathi benu"
     },
     {
       "surface": "ועם",
@@ -71,11 +71,11 @@
     {
       "surface": "אתם",
       "gloss": "⟨את⟩",
-      "marks": "wonke loo nto"
+      "marks": "ukukhumbula"
     },
     {
       "surface": "זכר",
-      "gloss": "wayiwakhumbula"
+      "gloss": "ukukhumbula"
     },
     {
       "surface": "יהוה",
@@ -83,17 +83,17 @@
     },
     {
       "surface": "ותעלה",
-      "gloss": "yayinyuka"
+      "gloss": "yaye yenyuka"
     },
     {
       "surface": "על",
-      "gloss": "kwi"
+      "gloss": "ku-"
     },
     {
       "surface": "לבו",
-      "gloss": "ntliziyo yakhe"
+      "gloss": "entlizveni yakhe"
     }
   ],
-  "timestamp": "2026-09-18T12:37:50.514224645Z",
+  "timestamp": "2026-09-19T14:02:02.487369430Z",
   "model": "glm-5.3"
 }

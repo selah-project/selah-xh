@@ -5,7 +5,7 @@
   "book": "2-kings",
   "lang": "xh",
   "chapter": 21,
-  "translation": "Kananjalo igazi lalingenabubi uMenashi walithela elininzi kakhulu, de awugcwalise iYerushalayimi ⟨את⟩ umlomo komlomo, ngaphandle kwesono sakhe awayenza uYuda awasela ngayo, ukwenza okungcolileyo emehlweni kaYahwe.",
+  "translation": "Kananjalo uMenashshe wathela igazi lengefa elininzi kakhulu, de wagcwalisa ⟨את⟩ iYerushalayimi umlomo wamelwe ngomlomo, ngaphandle kwesono lakhe ekwenzisa ⟨את⟩ uYehuda enze iso, ukwenza okulungileyo emehlweni kaYahwe — ⟨hayi⟩: ukwenza okubi emehlweni kaYahwe.",
   "tokens": [
     {
       "surface": "וגם",
@@ -17,15 +17,15 @@
     },
     {
       "surface": "נקי",
-      "gloss": "lalingenabubi"
+      "gloss": "lengefa"
     },
     {
       "surface": "שפך",
-      "gloss": "walithela"
+      "gloss": "wathela"
     },
     {
       "surface": "מנשה",
-      "gloss": "uMenashi"
+      "gloss": "uMenashshe"
     },
     {
       "surface": "הרבה",
@@ -41,11 +41,11 @@
     },
     {
       "surface": "אשר",
-      "gloss": "—"
+      "gloss": "ukuba"
     },
     {
       "surface": "מלא",
-      "gloss": "awugcwalise"
+      "gloss": "wagcwalisa"
     },
     {
       "surface": "את",
@@ -62,7 +62,7 @@
     },
     {
       "surface": "לפה",
-      "gloss": "komlomo"
+      "gloss": "wamelwe ngomlomo"
     },
     {
       "surface": "לבד",
@@ -70,24 +70,24 @@
     },
     {
       "surface": "מחטאתו",
-      "gloss": "kwesono sakhe"
+      "gloss": "kwesono lakhe"
     },
     {
       "surface": "אשר",
-      "gloss": "—"
+      "gloss": "ukuba"
     },
     {
       "surface": "החטיא",
-      "gloss": "awayenza uYuda awasela ngayo"
+      "gloss": "ekwenzisa uYehuda enze iso"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "uYuda"
+      "marks": "uYehuda"
     },
     {
       "surface": "יהודה",
-      "gloss": "uYuda"
+      "gloss": "uYehuda"
     },
     {
       "surface": "לעשות",
@@ -95,7 +95,7 @@
     },
     {
       "surface": "הרע",
-      "gloss": "okungcolileyo"
+      "gloss": "okubi"
     },
     {
       "surface": "בעיני",
@@ -106,6 +106,6 @@
       "gloss": "kaYahwe"
     }
   ],
-  "timestamp": "2026-09-18T10:57:08.865219166Z",
+  "timestamp": "2026-09-19T13:46:17.845196976Z",
   "model": "glm-5.3"
 }

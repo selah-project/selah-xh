@@ -5,11 +5,11 @@
   "book": "1-kings",
   "lang": "xh",
   "chapter": 14,
-  "translation": "Kuba uYahwe uza kutshaya ⟨את⟩ uYisrayeli njengoko intonjane iqhankqazela emanzini, adabulise uYisrayeli kulo mhlaba olungileyo awunike oobawo babo, abahlakaze ngaphaya komlambo, kuba benza ⟨את⟩ i-Ashera zabo, bekrwadisa ⟨את⟩ uYahwe.",
+  "translation": "uYahwe uza kubetha ⟨את⟩ iYisrayeli njengokuba intyontho ihatywa ngamanzi, uza kudabula ⟨את⟩ iYisrayeli kuloo mhlab' olungileyo awayunika ooYise bawo, abahlakaza ngaphaya komlambo, kuba benza ⟨את⟩ iiAshera zawo, bemthukuthezisa ⟨את⟩ uYahwe.",
   "tokens": [
     {
       "surface": "והכה",
-      "gloss": "uza kutshaya"
+      "gloss": "uza kubetha"
     },
     {
       "surface": "יהוה",
@@ -18,48 +18,48 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "uYisrayeli"
+      "marks": "iYisrayeli"
     },
     {
       "surface": "ישראל",
-      "gloss": "uYisrayeli"
+      "gloss": "iYisrayeli"
     },
     {
       "surface": "כאשר",
-      "gloss": "njengoko"
+      "gloss": "njengokuba"
     },
     {
       "surface": "ינוד",
-      "gloss": "iqhankqazela"
+      "gloss": "ihatywa"
     },
     {
       "surface": "הקנה",
-      "gloss": "intonjane"
+      "gloss": "intyontho"
     },
     {
       "surface": "במים",
-      "gloss": "emanzini"
+      "gloss": "ngamanzi"
     },
     {
       "surface": "ונתש",
-      "gloss": "adabulise"
+      "gloss": "uza kudabula"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "uYisrayeli"
+      "marks": "iYisrayeli"
     },
     {
       "surface": "ישראל",
-      "gloss": "uYisrayeli"
+      "gloss": "iYisrayeli"
     },
     {
-      "surface": "מעל",
+      "surface": "мעל",
       "gloss": "ku"
     },
     {
       "surface": "האדמה",
-      "gloss": "mhlaba"
+      "gloss": "lumhlaba"
     },
     {
       "surface": "הטובה",
@@ -67,31 +67,31 @@
     },
     {
       "surface": "הזאת",
-      "gloss": "olo"
+      "gloss": "lo"
     },
     {
       "surface": "אשר",
-      "gloss": "awunike"
+      "gloss": "o"
     },
     {
       "surface": "נתן",
-      "gloss": "awunike"
+      "gloss": "unike"
     },
     {
       "surface": "לאבותיהם",
-      "gloss": "oobawo babo"
+      "gloss": "ooYise bawo"
     },
     {
       "surface": "וזרם",
-      "gloss": "abahlakaze"
+      "gloss": "abahlakaza"
     },
     {
       "surface": "מעבר",
-      "gloss": "ngaphaya ko"
+      "gloss": "ngaphaya"
     },
     {
       "surface": "לנהר",
-      "gloss": "mlambo"
+      "gloss": "komlambo"
     },
     {
       "surface": "יען",
@@ -99,7 +99,7 @@
     },
     {
       "surface": "אשר",
-      "gloss": "nokuba"
+      "gloss": ""
     },
     {
       "surface": "עשו",
@@ -108,15 +108,15 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "i-Ashera zabo"
+      "marks": "iiAshera zawo"
     },
     {
       "surface": "אשריהם",
-      "gloss": "i-Ashera zabo"
+      "gloss": "iiAshera zawo"
     },
     {
       "surface": "מכעיסים",
-      "gloss": "bekrwadisa"
+      "gloss": "bemthukuthezisa"
     },
     {
       "surface": "את",
@@ -128,6 +128,6 @@
       "gloss": "uYahwe"
     }
   ],
-  "timestamp": "2026-09-18T10:28:15.474682567Z",
+  "timestamp": "2026-09-19T13:42:16.418492622Z",
   "model": "glm-5.3"
 }

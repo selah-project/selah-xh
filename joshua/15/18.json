@@ -5,51 +5,52 @@
   "book": "joshua",
   "lang": "xh",
   "chapter": 15,
-  "translation": "Kwathi xa esondela kuye, wamkhuthaza ukuba acele ⟨kubawo wakhe⟩ umhlaba; wahl phantsi edonkini, waza uKalevi wathi kuye: “Ufuna ntoni na?”",
+  "translation": "Yaye kwathi ekufikeni kwakhe, wamqeqeshela ukuba acela insimi ⟨את⟩ kuyise; wehla ngaphaya kwedonki, waza uKalebe wathi kuye: “Kutheni kuwe?”",
   "tokens": [
     {
       "surface": "ויהי",
-      "gloss": "kwathi"
+      "gloss": "yaye kwathi"
     },
     {
       "surface": "בבואה",
-      "gloss": "xa esondela kuye"
+      "gloss": "ekufikeni kwakhe"
     },
     {
       "surface": "ותסיתהו",
-      "gloss": "wamkhuthaza"
+      "gloss": "wamqeqeshela"
     },
     {
       "surface": "לשאול",
-      "gloss": "ukuba acele"
+      "gloss": "ukuba acela"
     },
     {
       "surface": "מאת",
-      "gloss": "⟨את⟩ ekuvela"
+      "gloss": "⟨את⟩",
+      "marks": "kuyise (umthombo wokucela)"
     },
     {
       "surface": "אביה",
-      "gloss": "kubawo wakhe"
+      "gloss": "kuyise"
     },
     {
       "surface": "שדה",
-      "gloss": "umhlaba"
+      "gloss": "insimi"
     },
     {
       "surface": "ותצנח",
-      "gloss": "wahl phantsi"
+      "gloss": "wehla"
     },
     {
       "surface": "מעל",
-      "gloss": "kwi-"
+      "gloss": "ngaphaya"
     },
     {
       "surface": "החמור",
-      "gloss": "idonki"
+      "gloss": "kwidonki"
     },
     {
       "surface": "ויאמר",
-      "gloss": "wathi"
+      "gloss": "waza wathetha"
     },
     {
       "surface": "לה",
@@ -57,7 +58,7 @@
     },
     {
       "surface": "כלב",
-      "gloss": "uKalevi"
+      "gloss": "uKalebe"
     },
     {
       "surface": "מה",
@@ -65,9 +66,9 @@
     },
     {
       "surface": "לך",
-      "gloss": "ufuna"
+      "gloss": "kuwe"
     }
   ],
-  "timestamp": "2026-09-18T08:40:24.591571045Z",
+  "timestamp": "2026-09-19T14:02:59.497425230Z",
   "model": "glm-5.3"
 }

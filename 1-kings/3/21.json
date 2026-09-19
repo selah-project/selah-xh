@@ -5,7 +5,7 @@
   "book": "1-kings",
   "lang": "xh",
   "chapter": 3,
-  "translation": "Ndavuka ekuseni ukuncancisa unyana ⟨wam⟩ wabonakala esewile, ndaza ndamjongisisa ekuseni wabonakala engesiwelo unyana endawo bamzalayo.",
+  "translation": "Ndavuka ekuseni ukuncancisa ⟨את⟩ unyana wam, kwaye nango babufile; ndandibhekele ngokucokisekileyo kuye ekuseni, kwaye nango unyana wam obenguye lowo endizalele yena.",
   "tokens": [
     {
       "surface": "ואקם",
@@ -22,7 +22,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "unyana"
+      "marks": "unyana wam"
     },
     {
       "surface": "בני",
@@ -30,19 +30,19 @@
     },
     {
       "surface": "והנה",
-      "gloss": "wabonakala"
+      "gloss": "kwaye nango"
     },
     {
       "surface": "מת",
-      "gloss": "esewile"
+      "gloss": "babufile"
     },
     {
       "surface": "ואתבונן",
-      "gloss": "ndaza ndamjongisisa"
+      "gloss": "ndandibhekele ngokucokisekileyo"
     },
     {
       "surface": "אליו",
-      "gloss": "aye"
+      "gloss": "kuye"
     },
     {
       "surface": "בבקר",
@@ -50,15 +50,15 @@
     },
     {
       "surface": "והנה",
-      "gloss": "wabonakala"
+      "gloss": "kwaye nango"
     },
     {
       "surface": "לא",
-      "gloss": "engesiwelo"
+      "gloss": "hayi"
     },
     {
       "surface": "היה",
-      "gloss": "ewayengu"
+      "gloss": "obenguye"
     },
     {
       "surface": "בני",
@@ -66,13 +66,13 @@
     },
     {
       "surface": "אשר",
-      "gloss": "endawo"
+      "gloss": "lowo"
     },
     {
       "surface": "ילדתי",
-      "gloss": "bamzalayo"
+      "gloss": "endizalele yena"
     }
   ],
-  "timestamp": "2026-09-18T10:08:48.972889067Z",
+  "timestamp": "2026-09-19T13:42:56.077313927Z",
   "model": "glm-5.3"
 }

@@ -5,16 +5,16 @@
   "book": "ezekiel",
   "lang": "xh",
   "chapter": 32,
-  "translation": "UParo uya kubabona, akanwebele ngakumbi ngako konke qhiwemhuqo lwakhe lokubulawa ilwa — uParo nako konke umkhosi wakhe, utshilo u-Adonayi uYahwe.",
+  "translation": "⟨את⟩ uza kubabona uParo, aze axolele ngako konke umkhankqo wakhe wabafileyo bendsilika; uParo nayo inkosi yakhe yonke — utshilo u-Adonayi uYahwe.",
   "tokens": [
     {
       "surface": "אותם",
       "gloss": "⟨את⟩",
-      "marks": "bona (abo)"
+      "marks": "abafileyo bendsilika"
     },
     {
       "surface": "יראה",
-      "gloss": "uya kubabona"
+      "gloss": "uza kubona"
     },
     {
       "surface": "פרעה",
@@ -22,7 +22,7 @@
     },
     {
       "surface": "ונחם",
-      "gloss": "akanwebele ngakumbi"
+      "gloss": "aze axolele"
     },
     {
       "surface": "על",
@@ -30,19 +30,19 @@
     },
     {
       "surface": "כל",
-      "gloss": "ngako konke"
+      "gloss": "konke"
     },
     {
       "surface": "המונה",
-      "gloss": "qhiwemhuqo lwakhe"
+      "gloss": "umkhankqo wakhe"
     },
     {
       "surface": "חללי",
-      "gloss": "lokubulawa"
+      "gloss": "wabafileyo"
     },
     {
       "surface": "חרב",
-      "gloss": "ilwa"
+      "gloss": "bendsilika"
     },
     {
       "surface": "פרעה",
@@ -50,11 +50,11 @@
     },
     {
       "surface": "וכל",
-      "gloss": "nako konke"
+      "gloss": "nayo yonke"
     },
     {
       "surface": "חילו",
-      "gloss": "umkhosi wakhe"
+      "gloss": "inkosi yakhe"
     },
     {
       "surface": "נאם",
@@ -69,6 +69,6 @@
       "gloss": "uYahwe"
     }
   ],
-  "timestamp": "2026-09-18T13:24:53.116348919Z",
+  "timestamp": "2026-09-19T13:55:05.318266295Z",
   "model": "glm-5.3"
 }

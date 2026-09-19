@@ -5,11 +5,11 @@
   "book": "numbers",
   "lang": "xh",
   "chapter": 15,
-  "translation": "Iba yintsitsi kuni, niyibone, nikhumbule ⟨את⟩ toni imiyalelo kaYahwe, niyenze ⟨את⟩; musa ukuzingela emva kwenhliziyo yenu nakweemeva zenu, eni kuyo nizingela ubufele benkcubeko ngemva kwazo.",
+  "translation": "Iba yintsalela kuni i-tsitsit, nibona ⟨את⟩, nikumbula ⟨את⟩ onke amayalelo kaYahwe, nize niwenze ⟨את⟩, ningalandeli inhliziyo yenu ningalandeli iindwendwe zenu — ndithi, iindlela zenu ezi — zehliso lenhliziyo nemehlo yenu, apho nilala khona ngendlela yokuzinikela; kodwa zininzi iintsalela: nilandela inhliziyo yenu nemehlo yenu, enilalazisa ngayo.",
   "tokens": [
     {
       "surface": "והיה",
-      "gloss": "Iba"
+      "gloss": "iba"
     },
     {
       "surface": "לכם",
@@ -17,33 +17,33 @@
     },
     {
       "surface": "לציצת",
-      "gloss": "yintsitsi"
+      "gloss": "intsalela i-tsitsit"
     },
     {
       "surface": "וראיתם",
-      "gloss": "niyibone"
+      "gloss": "nibona"
     },
     {
       "surface": "אתו",
       "gloss": "⟨את⟩",
-      "marks": "yintsitsi"
+      "marks": "i-tsitsit"
     },
     {
       "surface": "וזכרתם",
-      "gloss": "nikhumbule"
+      "gloss": "nikhumbula"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "toni imiyalelo"
+      "marks": "onke amayalelo kaYahwe"
     },
     {
       "surface": "כל",
-      "gloss": "toni"
+      "gloss": "onke"
     },
     {
       "surface": "מצות",
-      "gloss": "imiyalelo"
+      "gloss": "amayalelo"
     },
     {
       "surface": "יהוה",
@@ -51,12 +51,12 @@
     },
     {
       "surface": "ועשיתם",
-      "gloss": "niyenze"
+      "gloss": "niwenze"
     },
     {
       "surface": "אתם",
       "gloss": "⟨את⟩",
-      "marks": "toni imiyalelo"
+      "marks": "onke amayalelo kaYahwe"
     },
     {
       "surface": "ולא",
@@ -64,7 +64,7 @@
     },
     {
       "surface": "תתרו",
-      "gloss": "ukuzingela"
+      "gloss": "ukulandela-sisiphepho"
     },
     {
       "surface": "אחרי",
@@ -72,19 +72,19 @@
     },
     {
       "surface": "לבבכם",
-      "gloss": "kwenhliziyo yenu"
+      "gloss": "inhliziyo yenu"
     },
     {
       "surface": "ואחרי",
-      "gloss": "nakwe"
+      "gloss": "nemva"
     },
     {
       "surface": "עיניכם",
-      "gloss": "iimeva zenu"
+      "gloss": "emehlo yenu"
     },
     {
       "surface": "אשר",
-      "gloss": "eni"
+      "gloss": "azo"
     },
     {
       "surface": "אתם",
@@ -92,13 +92,13 @@
     },
     {
       "surface": "זנים",
-      "gloss": "nizingela ubufele benkcubeko"
+      "gloss": "nilalazisa"
     },
     {
       "surface": "אחריהם",
-      "gloss": "ngemva kwazo"
+      "gloss": "ngazo"
     }
   ],
-  "timestamp": "2026-09-18T07:29:20.285597083Z",
+  "timestamp": "2026-09-19T14:08:47.383328309Z",
   "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "esther",
   "lang": "xh",
   "chapter": 3,
-  "translation": "Emva kwezi zinto inkosi u-Ahashuverosh yenyusela uHaman unyana kaHamedata uMwakwaAgagi, yamnyusa, yayibeka isihlalo sakhe ngaphezu kwazo onke iinkosi ezazingasese kunye naye ⟨את⟩.",
+  "translation": "Emva kwezi zinto inkosi u-Achashverosh yakhuthaza ⟨את⟩ uHamana unyana kaHamedata u-Agagi, yamnyusa, yabeka ⟨את⟩ isikhongozelo sakhe ngaphezu kwabo bonke abanemvizuko ababe ⟨את⟩ naye.",
   "tokens": [
     {
       "surface": "אחר",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "גדל",
-      "gloss": "yenyusela"
+      "gloss": "yakhuthaza"
     },
     {
       "surface": "המלך",
@@ -29,16 +29,16 @@
     },
     {
       "surface": "אחשורוש",
-      "gloss": "u-Ahashuverosh"
+      "gloss": "u-Achashverosh"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "uHaman"
+      "marks": "uHamana"
     },
     {
       "surface": "המן",
-      "gloss": "uHaman"
+      "gloss": "uHamana"
     },
     {
       "surface": "בן",
@@ -50,7 +50,7 @@
     },
     {
       "surface": "האגגי",
-      "gloss": "uMwakwaAgagi"
+      "gloss": "u-Agagi"
     },
     {
       "surface": "וינשאהו",
@@ -58,16 +58,16 @@
     },
     {
       "surface": "וישם",
-      "gloss": "yayibeka"
+      "gloss": "yabeka"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "isihlalo sakhe"
+      "marks": "isikhongozelo sakhe"
     },
     {
       "surface": "כסאו",
-      "gloss": "isihlalo sakhe"
+      "gloss": "isikhongozelo sakhe"
     },
     {
       "surface": "מעל",
@@ -75,21 +75,21 @@
     },
     {
       "surface": "כל",
-      "gloss": "zonke"
+      "gloss": "bonke"
     },
     {
       "surface": "השרים",
-      "gloss": "iinkosi ezazingasese"
+      "gloss": "abanemvizuko"
     },
     {
       "surface": "אשר",
-      "gloss": "ezazingasese"
+      "gloss": "aba"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ kunye naye"
+      "gloss": "⟨את⟩ naye"
     }
   ],
-  "timestamp": "2026-09-18T16:28:31.593676178Z",
+  "timestamp": "2026-09-19T13:50:50.398077086Z",
   "model": "glm-5.3"
 }

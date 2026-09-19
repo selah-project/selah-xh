@@ -5,32 +5,32 @@
   "book": "joshua",
   "lang": "xh",
   "chapter": 9,
-  "translation": "Le nkozo yethu, ibilisa ngokufudumeleyo ngesikhathi esithile sabo, siphakathi kwabantu abaninzi; ngokukhawuleza yakhathazeka. Wait — REMAINDER: Le sinkwa sethu sasifudumele esiphakamisiweyo ngaphakathi kwezindlu zethu ngosuku olwahlukileyo lokuhamba esiya kuni; nangoku, nanko, somile, sekuyiinkqinkqizo ezingafuni namnyama. (Nanga amagama: sinkwa, ukutya okomileyo, iindlu, usuku; inguqulelo ngokupheleleyo iza emva kokuqinisekiswa koluhlu.)",
+  "translation": "Esi sonka sethu sasishushu, sasithathela isondlo ⟨את⟩ sona emizini yethu ngosuku othe saphuma ngaso ukuzaku kuni; kodwa ngoku, nanga-ndi, somile, saba ziinqwaphu.",
   "tokens": [
     {
       "surface": "זה",
-      "gloss": "le"
+      "gloss": "esi"
     },
     {
       "surface": "לחמנו",
-      "gloss": "sinkwa sethu"
+      "gloss": "sonka sethu"
     },
     {
       "surface": "חם",
-      "gloss": "sasifudumele"
+      "gloss": "sasishushu"
     },
     {
       "surface": "הצטידנו",
-      "gloss": "okuthathwayo"
+      "gloss": "sasithathela isondlo"
     },
     {
       "surface": "אתו",
       "gloss": "⟨את⟩",
-      "marks": "okuthathwayo"
+      "marks": "sona (esonka)"
     },
     {
       "surface": "מבתינו",
-      "gloss": "ezindlini zethu"
+      "gloss": "emizini yethu"
     },
     {
       "surface": "ביום",
@@ -38,23 +38,23 @@
     },
     {
       "surface": "צאתנו",
-      "gloss": "siphuma"
+      "gloss": "saphuma"
     },
     {
       "surface": "ללכת",
-      "gloss": "siya"
+      "gloss": "ukuhamba"
     },
     {
       "surface": "אליכם",
-      "gloss": "kuni"
+      "gloss": "ukuzaku kuni"
     },
     {
       "surface": "ועתה",
-      "gloss": "nangoku"
+      "gloss": "kodwa ngoku"
     },
     {
       "surface": "הנה",
-      "gloss": "nanko"
+      "gloss": "nanga-ndi"
     },
     {
       "surface": "יבש",
@@ -62,13 +62,13 @@
     },
     {
       "surface": "והיה",
-      "gloss": "sekuyi"
+      "gloss": "saba"
     },
     {
       "surface": "נקדים",
-      "gloss": "iinkqinkqizo ezomileyo"
+      "gloss": "ziinqwaphu"
     }
   ],
-  "timestamp": "2026-09-18T08:32:09.603349145Z",
+  "timestamp": "2026-09-19T14:04:03.657363019Z",
   "model": "glm-5.3"
 }

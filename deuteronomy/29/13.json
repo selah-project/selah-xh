@@ -5,15 +5,16 @@
   "book": "deuteronomy",
   "lang": "xh",
   "chapter": 29,
-  "translation": "Kananjalo hayi nani ngedwa mna ndisika ⟨את⟩ lo mnqophiso ⟨את⟩ nesi fungo esi.",
+  "translation": "Kananjalo hayi nani ngedwa ⟨אתכם⟩ ndiya kukuthumba ⟨את⟩ lo mnqophiso nange ⟨את⟩ le isiqalekiso:",
   "tokens": [
     {
       "surface": "ולא",
-      "gloss": "kananjalo hayi"
+      "gloss": "Kananjalo hayi"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ nani"
+      "gloss": "⟨אתכם⟩",
+      "marks": "nani"
     },
     {
       "surface": "לבדכם",
@@ -21,11 +22,11 @@
     },
     {
       "surface": "אנכי",
-      "gloss": "mna"
+      "gloss": "ndi"
     },
     {
       "surface": "כרת",
-      "gloss": "ndisika"
+      "gloss": "iya kukuthumba"
     },
     {
       "surface": "את",
@@ -42,18 +43,18 @@
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩ nes-",
-      "marks": "esi fungo"
+      "gloss": "nange ⟨את⟩",
+      "marks": "le isiqalekiso"
     },
     {
       "surface": "האלה",
-      "gloss": "esi fungo"
+      "gloss": "le isiqalekiso"
     },
     {
       "surface": "הזאת",
-      "gloss": "esi"
+      "gloss": "le"
     }
   ],
-  "timestamp": "2026-09-18T08:19:36.731337938Z",
+  "timestamp": "2026-09-19T13:49:14.533747578Z",
   "model": "glm-5.3"
 }

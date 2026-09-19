@@ -5,11 +5,11 @@
   "book": "leviticus",
   "lang": "xh",
   "chapter": 8,
-  "translation": "Wasondisa uMoshe ⟨את⟩ u-Aharon no-⟨ואת⟩ oonyana bakhe, wabatshula ngamanzi.",
+  "translation": "UMoshe wazisa u-Aharoni noonyana bakhe, wabhaptiza ⟨אתם⟩ ngamanzi.",
   "tokens": [
     {
       "surface": "ויקרב",
-      "gloss": "Wasondisa"
+      "gloss": "wazisa"
     },
     {
       "surface": "משה",
@@ -18,34 +18,35 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "u-Aharon"
+      "marks": "u-Aharoni"
     },
     {
       "surface": "אהרן",
-      "gloss": "u-Aharon"
+      "gloss": "u-Aharoni"
     },
     {
       "surface": "ואת",
-      "gloss": "⟨ואת⟩",
-      "marks": "oonyana bakhe"
+      "gloss": "⟨את⟩",
+      "marks": "noonyana bakhe"
     },
     {
       "surface": "בניו",
-      "gloss": "oonyana bakhe"
+      "gloss": "noonyana bakhe"
     },
     {
       "surface": "וירחץ",
-      "gloss": "wabatshula"
+      "gloss": "wabhaptiza"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩ aba-"
+      "gloss": "⟨אתם⟩",
+      "marks": "u-Aharoni noonyana bakhe"
     },
     {
       "surface": "במים",
       "gloss": "ngamanzi"
     }
   ],
-  "timestamp": "2026-09-18T06:44:14.378413386Z",
+  "timestamp": "2026-09-19T14:06:42.123615698Z",
   "model": "glm-5.3"
 }

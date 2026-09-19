@@ -5,11 +5,11 @@
   "book": "numbers",
   "lang": "xh",
   "chapter": 5,
-  "translation": "Umpristi amfake isifungo, athi kulo mfazi: Ukuba akukho ndoda yakhalanye nawe ⟨את⟩, kwaye ukuba awukhambekanga ngokungcolileyo phantsi komyeni wakho, makuthi ucocekile kula manzi okrarayo aqalekisayo.",
+  "translation": "Kwaye umkhonzi uza kumfumana afunge ⟨את⟩ yena, waza wathi kumfazi: “Ukuba akukho ndoda ilalileyo ⟨את⟩ nawe, nokuba awuzange waguquilele ukungcola ngaphantsi komyeni wakho, uzakholwa kwela manzi kurkakra anqumbisela la.”",
   "tokens": [
     {
       "surface": "והשביע",
-      "gloss": "amfake isifungo"
+      "gloss": "uza kumfumana afunge"
     },
     {
       "surface": "אתה",
@@ -18,19 +18,19 @@
     },
     {
       "surface": "הכהן",
-      "gloss": "umpristi"
+      "gloss": "umkhonzi"
     },
     {
       "surface": "ואמר",
-      "gloss": "athi"
+      "gloss": "waza wathi"
     },
     {
       "surface": "אל",
-      "gloss": "ku"
+      "gloss": "ku-"
     },
     {
       "surface": "האשה",
-      "gloss": "lo mfazi"
+      "gloss": "umfazi"
     },
     {
       "surface": "אם",
@@ -42,7 +42,7 @@
     },
     {
       "surface": "שכב",
-      "gloss": "yakhalanye"
+      "gloss": "ilalileyo"
     },
     {
       "surface": "איש",
@@ -50,54 +50,54 @@
     },
     {
       "surface": "אתך",
-      "gloss": "⟨את⟩",
-      "marks": "nawe"
+      "gloss": "⟨את⟩ nawe",
+      "marks": "wena (umfazi)"
     },
     {
       "surface": "ואם",
-      "gloss": "kwaye ukuba"
+      "gloss": "nokuba"
     },
     {
       "surface": "לא",
-      "gloss": "awukhambekanga"
+      "gloss": "awuzange"
     },
     {
       "surface": "שטית",
-      "gloss": "ukhambekile"
+      "gloss": "waguquilele"
     },
     {
       "surface": "טמאה",
-      "gloss": "ngokungcolileyo"
+      "gloss": "ukungcola"
     },
     {
       "surface": "תחת",
-      "gloss": "phantsi kwa-"
+      "gloss": "ngaphantsi"
     },
     {
       "surface": "אישך",
-      "gloss": "umyeni wakho"
+      "gloss": "komyeni wakho"
     },
     {
       "surface": "הנקי",
-      "gloss": "makuthi ucocekile"
+      "gloss": "uzakholwa"
     },
     {
       "surface": "ממי",
-      "gloss": "kula manzi"
+      "gloss": "kwela manzi"
     },
     {
       "surface": "המרים",
-      "gloss": "okrarayo"
+      "gloss": "kurkakra"
     },
     {
       "surface": "המאררים",
-      "gloss": "aqalekisayo"
+      "gloss": "anqumbisela"
     },
     {
       "surface": "האלה",
-      "gloss": "ala"
+      "gloss": "la"
     }
   ],
-  "timestamp": "2026-09-18T07:19:09.948226780Z",
+  "timestamp": "2026-09-19T14:11:00.842696835Z",
   "model": "glm-5.3"
 }

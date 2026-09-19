@@ -5,15 +5,15 @@
   "book": "2-chronicles",
   "lang": "xh",
   "chapter": 22,
-  "translation": "Nangokweluleko yabo wahamba, waza waya ⟨את⟩ noYehoramu, unyana kaAkhabi, inkosi yakwa-Israyeli, kwimfazwe ngokuchasene noKhazaeli, inkosi yakwa-Aram, eRamoti yaseGileyadi; ama-Aram amlimeze uYoramu.",
+  "translation": "Kananjalo wahamba ngenceba yabo, waya noYehoram unyana kaAhabi, inkosi yakwaSirayeli, emlonyeni ‹⟨את› Yehoram, unyana kaAhab› ukulwa noChazayeli, inkosi yaseAram, eRamoto yaseGileyadi; amaArami ambetha ‹⟨את› Yoramu›.",
   "tokens": [
     {
       "surface": "גם",
-      "gloss": "nangokw-"
+      "gloss": "Kananjalo"
     },
     {
       "surface": "בעצתם",
-      "gloss": "ngokweluleko yabo"
+      "gloss": "ngenceba yabo"
     },
     {
       "surface": "הלך",
@@ -21,16 +21,16 @@
     },
     {
       "surface": "וילך",
-      "gloss": "waza waya"
+      "gloss": "waya"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "noYehoramu"
+      "marks": "uYehoram"
     },
     {
       "surface": "יהורם",
-      "gloss": "uYehoramu"
+      "gloss": "noYehoram"
     },
     {
       "surface": "בן",
@@ -38,7 +38,7 @@
     },
     {
       "surface": "אחאב",
-      "gloss": "kaAkhabi"
+      "gloss": "kaAhabi"
     },
     {
       "surface": "מלך",
@@ -46,19 +46,19 @@
     },
     {
       "surface": "ישראל",
-      "gloss": "yakwa-Israyeli"
+      "gloss": "yakwaSirayeli"
     },
     {
       "surface": "למלחמה",
-      "gloss": "kwimfazwe"
+      "gloss": "ukulwa"
     },
     {
       "surface": "על",
-      "gloss": "ngokuchasene"
+      "gloss": "nexa"
     },
     {
       "surface": "חזאל",
-      "gloss": "noKhazaeli"
+      "gloss": "noChazayeli"
     },
     {
       "surface": "מלך",
@@ -66,11 +66,11 @@
     },
     {
       "surface": "ארם",
-      "gloss": "yakwa-Aram"
+      "gloss": "yaseAram"
     },
     {
       "surface": "ברמות",
-      "gloss": "eRamoti"
+      "gloss": "eRamoto"
     },
     {
       "surface": "גלעד",
@@ -78,11 +78,11 @@
     },
     {
       "surface": "ויכו",
-      "gloss": "amlimeze"
+      "gloss": "ambetha"
     },
     {
       "surface": "הרמים",
-      "gloss": "ama-Aram"
+      "gloss": "amaArami"
     },
     {
       "surface": "את",
@@ -91,9 +91,9 @@
     },
     {
       "surface": "יורם",
-      "gloss": "uYoramu"
+      "gloss": "Yoramu"
     }
   ],
-  "timestamp": "2026-09-18T17:11:18.239638746Z",
+  "timestamp": "2026-09-19T13:45:23.300884244Z",
   "model": "glm-5.3"
 }

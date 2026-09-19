@@ -5,7 +5,7 @@
   "book": "2-kings",
   "lang": "xh",
   "chapter": 18,
-  "translation": "Kwaye ngoku, zenzele isivumelwano, ndicela, nenkosi yam inkosi yaseAshuru; ndiza kukunika amahashe amabini amawaka, ukuba ungakwazi ukubeka kuwena abahlabi okwawo.",
+  "translation": "Kwaye ngoku nceda ithekishe ⟨את⟩ ngo-Adonayi wakho, ⟨את⟩ unkosi weAshuru, ndiza kukunika iihashi ezinkulungwane ezimbini, ukuba ungazibeka abahambele phezu kwazo.",
   "tokens": [
     {
       "surface": "ועתה",
@@ -13,33 +13,33 @@
     },
     {
       "surface": "התערב",
-      "gloss": "zenzele isivumelwano"
+      "gloss": "ithekishe"
     },
     {
       "surface": "נא",
-      "gloss": "ndicela"
+      "gloss": "nceda"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "inkosi yam"
+      "marks": "ngo-Adonayi wakho"
     },
     {
       "surface": "אדני",
-      "gloss": "inkosi yam"
+      "gloss": "ngo-Adonayi wakho"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "inkosi yaseAshuru"
+      "marks": "unkosi weAshuru"
     },
     {
       "surface": "מלך",
-      "gloss": "inkosi"
+      "gloss": "unkosi"
     },
     {
       "surface": "אשור",
-      "gloss": "yaseAshuru"
+      "gloss": "weAshuru"
     },
     {
       "surface": "ואתנה",
@@ -47,15 +47,15 @@
     },
     {
       "surface": "לך",
-      "gloss": "kuwena"
+      "gloss": "kuwe"
     },
     {
       "surface": "אלפים",
-      "gloss": "amabini amawaka"
+      "gloss": "ezinkulungwane ezimbini"
     },
     {
       "surface": "סוסים",
-      "gloss": "amahashe"
+      "gloss": "iihashi"
     },
     {
       "surface": "אם",
@@ -71,17 +71,17 @@
     },
     {
       "surface": "לך",
-      "gloss": "kuwena"
+      "gloss": "kuwe"
     },
     {
       "surface": "רכבים",
-      "gloss": "abahlabi"
+      "gloss": "abahambele"
     },
     {
       "surface": "עליהם",
-      "gloss": "okwawo"
+      "gloss": "phezu kwazo"
     }
   ],
-  "timestamp": "2026-09-18T10:54:15.445425112Z",
+  "timestamp": "2026-09-19T13:46:33.634090125Z",
   "model": "glm-5.3"
 }

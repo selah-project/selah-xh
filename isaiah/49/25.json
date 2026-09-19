@@ -5,7 +5,7 @@
   "book": "isaiah",
   "lang": "xh",
   "chapter": 49,
-  "translation": "Kuba uthe uYahwe: naphefumlo wenkulunkulu uza kutyunyuzwa, nto leyo etyiweyo yomthetho yomkhosi uza kusindwa; ndiza kudibana nabo bakudibanayo, ndiza kusindisa oonyana bakho.",
+  "translation": "Kuba uthe uYahwe: nangaba isigxebhu somkhosi siza kutatywa, yaye isiqholo somtywanyelwa siza kusindiswa; mna ndiza kulingana ⟨את⟩ lowo ulingana nawe, yaye ⟨את⟩ abantwana bakho mna ndiza kubasindisa.",
   "tokens": [
     {
       "surface": "כי",
@@ -13,11 +13,11 @@
     },
     {
       "surface": "כה",
-      "gloss": "ngokuthe"
+      "gloss": "nangaba"
     },
     {
       "surface": "אמר",
-      "gloss": "uthe"
+      "gloss": "ute"
     },
     {
       "surface": "יהוה",
@@ -25,40 +25,40 @@
     },
     {
       "surface": "גם",
-      "gloss": "naye"
+      "gloss": "yaye"
     },
     {
       "surface": "שבי",
-      "gloss": "isigebenga samabandla"
+      "gloss": "isigxebhu"
     },
     {
       "surface": "גבור",
-      "gloss": "wenkulunkulu"
+      "gloss": "somkhosi"
     },
     {
       "surface": "יקח",
-      "gloss": "uza kutyunyuzwa"
+      "gloss": "siza kutatywa"
     },
     {
       "surface": "ומלקוח",
-      "gloss": "nento etyiweyo yomthetho"
+      "gloss": "isiqholo somtywanyelwa"
     },
     {
       "surface": "עריץ",
-      "gloss": "yomkhosi"
+      "gloss": "somtywanyelwa"
     },
     {
       "surface": "ימלט",
-      "gloss": "uza kusindwa"
+      "gloss": "siza kusindiswa"
     },
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "abo bakudibanayo"
+      "marks": "lowo ulingana nawe"
     },
     {
       "surface": "יריבך",
-      "gloss": "abakudibanayo"
+      "gloss": "lowo ulingana nawe"
     },
     {
       "surface": "אנכי",
@@ -66,16 +66,16 @@
     },
     {
       "surface": "אריב",
-      "gloss": "ndiza kudibana"
+      "gloss": "ndiza kulingana"
     },
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "oonyana bakho"
+      "marks": "abantwana bakho"
     },
     {
       "surface": "בניך",
-      "gloss": "oonyana bakho"
+      "gloss": "abantwana bakho"
     },
     {
       "surface": "אנכי",
@@ -83,9 +83,9 @@
     },
     {
       "surface": "אושיע",
-      "gloss": "ndiza kusindisa"
+      "gloss": "ndiza kubasindisa"
     }
   ],
-  "timestamp": "2026-09-18T11:38:52.970632003Z",
+  "timestamp": "2026-09-19T13:59:33.737127458Z",
   "model": "glm-5.3"
 }

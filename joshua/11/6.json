@@ -5,7 +5,7 @@
   "book": "joshua",
   "lang": "xh",
   "chapter": 11,
-  "translation": "Wathetha uYahwe kuYehoshuwa: Musa ukoyika; kuba ngomso nangeli xesha ndinguwo onika bonke ⟨את⟩ abantu abafi emehlweni iYisraele — iihashi zabo uza kuzibaza, iinqwelo zabo uza kuzitshisa ngomlilo.",
+  "translation": "Wathetha uYahwe kuYehoshuwa: “Musa ukoyika ngenxa yabo, kuba ngomso malunga naxesha elo ndiza kunika ⟨את⟩ bonke batyiweyo phambi kukaSirayeli; ⟨את⟩ ihashe labo uza kuluhla-hlaza, kwaye ⟨את⟩ iinqobo zabo uza kutshisa ngomlilo.”",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "אל",
-      "gloss": "ku-"
+      "gloss": "ku"
     },
     {
       "surface": "יהושע",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "מפניהם",
-      "gloss": "phambi kwabo"
+      "gloss": "ngenxa yabo"
     },
     {
       "surface": "כי",
@@ -45,24 +45,24 @@
     },
     {
       "surface": "כעת",
-      "gloss": "nangeli xesha"
+      "gloss": "malunga naxesha"
     },
     {
       "surface": "הזאת",
-      "gloss": "eli"
+      "gloss": "elo"
     },
     {
       "surface": "אנכי",
-      "gloss": "ndinguwo"
+      "gloss": "ndi"
     },
     {
       "surface": "נתן",
-      "gloss": "onika"
+      "gloss": "uza kunika"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "bonke abantu"
+      "marks": "bonke"
     },
     {
       "surface": "כלם",
@@ -70,47 +70,47 @@
     },
     {
       "surface": "חללים",
-      "gloss": "abantu abafi"
+      "gloss": "batyiweyo"
     },
     {
       "surface": "לפני",
-      "gloss": "emehlweni"
+      "gloss": "phambi kuka"
     },
     {
       "surface": "ישראל",
-      "gloss": "iYisraele"
+      "gloss": "Sirayeli"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "iihashi zabo"
+      "marks": "ihashe labo"
     },
     {
       "surface": "סוסיהם",
-      "gloss": "iihashi zabo"
+      "gloss": "ihashe labo"
     },
     {
       "surface": "תעקר",
-      "gloss": "uza kuzibaza"
+      "gloss": "uza kuluhla-hlaza"
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
-      "marks": "iinqwelo zabo"
+      "gloss": "kwaye ⟨את⟩",
+      "marks": "iinqobo zabo"
     },
     {
       "surface": "מרכבתיהם",
-      "gloss": "iinqwelo zabo"
+      "gloss": "iinqobo zabo"
     },
     {
       "surface": "תשרף",
-      "gloss": "uza kuzitshisa"
+      "gloss": "uza kutshisa"
     },
     {
       "surface": "באש",
       "gloss": "ngomlilo"
     }
   ],
-  "timestamp": "2026-09-18T08:38:24.478641243Z",
+  "timestamp": "2026-09-19T14:02:47.545580313Z",
   "model": "glm-5.3"
 }

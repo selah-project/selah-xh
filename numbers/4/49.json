@@ -5,32 +5,32 @@
   "book": "numbers",
   "lang": "xh",
   "chapter": 4,
-  "translation": "Ngokomlomo kaYahwe babalwa ngasesandla sikaMoshe, umntu ngamnye ngenkonzo yakhe nanomthwalo wakhe; nababalwayo njengoko wayalele uYahwe ⟨את⟩ uMoshe.",
+  "translation": "Ngokwelizwi lukaYahwe bacwangciswa ⟨את⟩ ngesandla sikaMoshe, umntu ngamnye kwinkonzo yakhe nakwithi yakwezibambelo; baziswa kwabhalwe ngokomthetho wokubalwa, njengoko uYahwe wayalela ⟨את⟩ uMoshe.",
   "tokens": [
     {
       "surface": "על",
-      "gloss": "ngoku"
+      "gloss": "Ngokwe-"
     },
     {
       "surface": "פי",
-      "gloss": "mlomo"
+      "gloss": "lizwi"
     },
     {
       "surface": "יהוה",
-      "gloss": "kaYahwe"
+      "gloss": "ukaYahwe"
     },
     {
       "surface": "פקד",
-      "gloss": "babalwa"
+      "gloss": "bacwangciswa"
     },
     {
       "surface": "אותם",
       "gloss": "⟨את⟩",
-      "marks": "bona"
+      "marks": "ngesandla sikaMoshe (umntu ngamnye)"
     },
     {
       "surface": "ביד",
-      "gloss": "ngasesandla"
+      "gloss": "ngesandla"
     },
     {
       "surface": "משה",
@@ -46,7 +46,7 @@
     },
     {
       "surface": "על",
-      "gloss": "nge"
+      "gloss": "kwi-"
     },
     {
       "surface": "עבדתו",
@@ -54,15 +54,15 @@
     },
     {
       "surface": "ועל",
-      "gloss": "neno"
+      "gloss": "naki-"
     },
     {
       "surface": "משאו",
-      "gloss": "mthwalo wakhe"
+      "gloss": "thi yakwezibambelo"
     },
     {
       "surface": "ופקדיו",
-      "gloss": "nababalwayo"
+      "gloss": "baziswa kwabhalwe ngokomthetho wokubalwa"
     },
     {
       "surface": "אשר",
@@ -70,7 +70,7 @@
     },
     {
       "surface": "צוה",
-      "gloss": "wayalele"
+      "gloss": "wayalela"
     },
     {
       "surface": "יהוה",
@@ -86,6 +86,6 @@
       "gloss": "uMoshe"
     }
   ],
-  "timestamp": "2026-09-18T07:13:18.888975599Z",
+  "timestamp": "2026-09-19T14:09:58.024082573Z",
   "model": "glm-5.3"
 }

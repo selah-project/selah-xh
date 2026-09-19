@@ -5,7 +5,7 @@
   "book": "2-kings",
   "lang": "xh",
   "chapter": 3,
-  "translation": "Wathi uYehoshafati: “ILizwi likaYahwe likuye.” Bathe bathabatha umkhosi wakwaSirayeli noYehoshafati nomkumkani wakwaEdomu, bathabathela yena bathi behla baya kuye.",
+  "translation": "Wathi uYehoshuwa: “Likho ilizwi likaYahwe ⟨את⟩.” Kwaza ke kutsho inkosi yaseYisrayeli, noYehoshuwa, nenkosi yaseEdoma, batyhona kuye.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -13,16 +13,16 @@
     },
     {
       "surface": "יהושפט",
-      "gloss": "uYehoshafati"
+      "gloss": "uYehoshuwa"
     },
     {
       "surface": "יש",
-      "gloss": "likuye"
+      "gloss": "likho"
     },
     {
       "surface": "אותו",
       "gloss": "⟨את⟩",
-      "marks": "ilizwi"
+      "marks": "ilizwi likaYahwe"
     },
     {
       "surface": "דבר",
@@ -30,11 +30,11 @@
     },
     {
       "surface": "יהוה",
-      "gloss": "likaYahwe"
+      "gloss": "kaYahwe"
     },
     {
       "surface": "וירדו",
-      "gloss": "bathe behla baya"
+      "gloss": "batyhona"
     },
     {
       "surface": "אליו",
@@ -42,25 +42,25 @@
     },
     {
       "surface": "מלך",
-      "gloss": "ukumkani"
+      "gloss": "inkosi"
     },
     {
       "surface": "ישראל",
-      "gloss": "wakwaSirayeli"
+      "gloss": "yaseYisrayeli"
     },
     {
       "surface": "ויהושפט",
-      "gloss": "noYehoshafati"
+      "gloss": "noYehoshuwa"
     },
     {
       "surface": "ומלך",
-      "gloss": "nomkumkani"
+      "gloss": "nenkosi"
     },
     {
       "surface": "אדום",
-      "gloss": "wakwaEdomu"
+      "gloss": "yaseEdoma"
     }
   ],
-  "timestamp": "2026-09-18T10:37:35.649283828Z",
+  "timestamp": "2026-09-19T13:47:37.992043272Z",
   "model": "glm-5.3"
 }

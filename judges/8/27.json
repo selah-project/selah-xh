@@ -5,7 +5,7 @@
   "book": "judges",
   "lang": "xh",
   "chapter": 8,
-  "translation": "Wenza ⟨את⟩ yona uGidhoni ibe yi-efodi, wayimisela edolophini yakhe, eOfra; iIsrael yonke yawhenyukela ngemva yaso khona, yaba kuGidhoni nendlu yakhe sibe yisibiyeli.",
+  "translation": "UGidhoni wenza ⟨את⟩ yona ibe yiephodi, wayimisela ⟨את⟩ yona edolophini yakhe, eOfra; yonke iYisraeli yahamba nokuziphanda ngayo apho; yaba sisigxebiso kuGidhoni nendlu yakhe.",
   "tokens": [
     {
       "surface": "ויעש",
@@ -14,7 +14,7 @@
     {
       "surface": "אותו",
       "gloss": "⟨את⟩",
-      "marks": "yona (igolide)"
+      "marks": "yona (into yiephodi)"
     },
     {
       "surface": "גדעון",
@@ -22,7 +22,7 @@
     },
     {
       "surface": "לאפוד",
-      "gloss": "ibe yi-efodi"
+      "gloss": "yiephodi"
     },
     {
       "surface": "ויצג",
@@ -31,7 +31,7 @@
     {
       "surface": "אותו",
       "gloss": "⟨את⟩",
-      "marks": "i-efodi"
+      "marks": "yona (edolophini yakhe)"
     },
     {
       "surface": "בעירו",
@@ -43,7 +43,7 @@
     },
     {
       "surface": "ויזנו",
-      "gloss": "yawhenyukela"
+      "gloss": "yahamba nokuziphanda"
     },
     {
       "surface": "כל",
@@ -51,15 +51,15 @@
     },
     {
       "surface": "ישראל",
-      "gloss": "iIsrael"
+      "gloss": "iYisraeli"
     },
     {
       "surface": "אחריו",
-      "gloss": "ngemva yaso"
+      "gloss": "ngayo"
     },
     {
       "surface": "שם",
-      "gloss": "khona"
+      "gloss": "apho"
     },
     {
       "surface": "ויהי",
@@ -75,9 +75,9 @@
     },
     {
       "surface": "למוקש",
-      "gloss": "sibe yisibiyeli"
+      "gloss": "sisigxebiso"
     }
   ],
-  "timestamp": "2026-09-18T08:59:17.437964028Z",
+  "timestamp": "2026-09-19T14:04:49.152144428Z",
   "model": "glm-5.3"
 }

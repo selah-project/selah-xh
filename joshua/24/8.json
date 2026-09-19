@@ -5,35 +5,36 @@
   "book": "joshua",
   "lang": "xh",
   "chapter": 24,
-  "translation": "Ndaza ndanizisa elwandle lwe-Emori, ebelihlala ngaphaya koYordani; aza alwa ⟨את⟩ nani; ndaza ndabanika esandleni samenu, naza nawuthatha ⟨את⟩ umhlaba wabo; ndaza ndabatshabalalisa phambi kwenu.",
+  "translation": "Ndakunidisa ⟨את⟩ kwi-lizwe lakwa-Emori, obuhlala ngaphaya koYordani; balwa ⟨את⟩ nani; ndabanika ⟨את⟩ bona esandleni senu, naba lilifa ⟨את⟩ umhlaba wabo, ndabatshabalalisa phambi kwenu.",
   "tokens": [
     {
       "surface": "ואבאה",
-      "gloss": "ndanizisa"
+      "gloss": "Ndakunidisa"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ nina"
+      "gloss": "⟨את⟩",
+      "marks": "kwi-lizwe lakwa-Emori (eluntu lakwa-Emori)"
     },
     {
       "surface": "אל",
-      "gloss": "ku"
+      "gloss": "kwi-"
     },
     {
       "surface": "ארץ",
-      "gloss": "umhlaba"
+      "gloss": "lizwe"
     },
     {
       "surface": "האמרי",
-      "gloss": "lwe-Emori"
+      "gloss": "lakwa-Emori"
     },
     {
       "surface": "היושב",
-      "gloss": "ebelihlala"
+      "gloss": "obuhlala"
     },
     {
       "surface": "בעבר",
-      "gloss": "ngaphaya kwe"
+      "gloss": "ngaphaya"
     },
     {
       "surface": "הירדן",
@@ -41,11 +42,12 @@
     },
     {
       "surface": "וילחמו",
-      "gloss": "alwa"
+      "gloss": "balwa"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ nani"
+      "gloss": "⟨את⟩ nani",
+      "marks": "nani"
     },
     {
       "surface": "ואתן",
@@ -53,15 +55,16 @@
     },
     {
       "surface": "אותם",
-      "gloss": "⟨את⟩ bona"
+      "gloss": "⟨את⟩ bona",
+      "marks": "esandleni senu"
     },
     {
       "surface": "בידכם",
-      "gloss": "esandleni samenu"
+      "gloss": "esandleni senu"
     },
     {
-      "surface": "ותירשו",
-      "gloss": "nawuthatha"
+      "surface": "וירשו",
+      "gloss": "naba lilifa"
     },
     {
       "surface": "את",
@@ -81,6 +84,6 @@
       "gloss": "phambi kwenu"
     }
   ],
-  "timestamp": "2026-09-18T08:48:37.514226868Z",
+  "timestamp": "2026-09-19T14:03:38.886124537Z",
   "model": "glm-5.3"
 }

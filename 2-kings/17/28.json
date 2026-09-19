@@ -5,7 +5,7 @@
   "book": "2-kings",
   "lang": "xh",
   "chapter": 17,
-  "translation": "Wafika omnye wabapristi ababethunyelwa baseShomrona, waza wahlala eBheteli, wabangumfundisi wabo — wabadalisa njani bangamoyika ⟨את⟩ uYahwe.",
+  "translation": "Waza kwenye kwezi babingeleli ababethunyiselwe eSamaria wafika wahlala eBheteli, waba ngumfundisi wabo ⟨את⟩ ukuba bangamoyika uYahwe.",
   "tokens": [
     {
       "surface": "ויבא",
@@ -13,23 +13,23 @@
     },
     {
       "surface": "אחד",
-      "gloss": "omnye"
+      "gloss": "kwenye"
     },
     {
       "surface": "מהכהנים",
-      "gloss": "wabapristi"
+      "gloss": "babingeleli"
     },
     {
       "surface": "אשר",
-      "gloss": "aba"
+      "gloss": "ababethunyiselwe"
     },
     {
       "surface": "הגלו",
-      "gloss": "ababethunyelwa"
+      "gloss": "bethunyiselwe"
     },
     {
       "surface": "משמרון",
-      "gloss": "baseShomrona"
+      "gloss": "eSamaria"
     },
     {
       "surface": "וישב",
@@ -37,11 +37,11 @@
     },
     {
       "surface": "בבית",
-      "gloss": "eBhetel-"
+      "gloss": "eBheteli"
     },
     {
       "surface": "אל",
-      "gloss": "eli"
+      "gloss": "(Bheteli)"
     },
     {
       "surface": "ויהי",
@@ -49,20 +49,20 @@
     },
     {
       "surface": "מורה",
-      "gloss": "ngumfundisi wabo"
+      "gloss": "ngumfundisi"
     },
     {
       "surface": "אתם",
       "gloss": "⟨את⟩",
-      "marks": "wabadalisa"
+      "marks": "wabo (abafundi)"
     },
     {
       "surface": "איך",
-      "gloss": "njani"
+      "gloss": "ukuba bangamoyika"
     },
     {
       "surface": "ייראו",
-      "gloss": "bangamoyiki"
+      "gloss": "bangamoyika"
     },
     {
       "surface": "את",
@@ -74,6 +74,6 @@
       "gloss": "uYahwe"
     }
   ],
-  "timestamp": "2026-09-18T10:54:18.616659049Z",
+  "timestamp": "2026-09-19T13:46:18.620947022Z",
   "model": "glm-5.3"
 }

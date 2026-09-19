@@ -5,11 +5,11 @@
   "book": "joshua",
   "lang": "xh",
   "chapter": 23,
-  "translation": "Kodwa ukuba nisuka nibuyela, nibambelele kwinxalenye yale ntlanga eshiyeleyo, le ihlala nani, nize nitshate kuni, ningene kuni, nani kuni:",
+  "translation": "Kuba ukuba nithe naphendula, naza nilambele kwiseleyo lezi ntlanga, ezi zikuni nani, ⟨את⟩ nize nitshate kuzo, nangena kuzo, nazo kuni —",
   "tokens": [
     {
       "surface": "כי",
-      "gloss": "kodwa"
+      "gloss": "kuba"
     },
     {
       "surface": "אם",
@@ -17,65 +17,66 @@
     },
     {
       "surface": "שוב",
-      "gloss": "nisuka"
+      "gloss": "naphendula"
     },
     {
       "surface": "תשובו",
-      "gloss": "nibuyela"
+      "gloss": "nithe naphendula"
     },
     {
       "surface": "ודבקתם",
-      "gloss": "nibambelele"
+      "gloss": "naza nilambele"
     },
     {
       "surface": "ביתר",
-      "gloss": "kwinxalenye eshiyeleyo"
+      "gloss": "kwiseleyo"
     },
     {
       "surface": "הגוים",
-      "gloss": "yale ntlanga"
+      "gloss": "lezi ntlanga"
     },
     {
       "surface": "האלה",
-      "gloss": "le"
+      "gloss": "ezi"
     },
     {
       "surface": "הנשארים",
-      "gloss": "eshiyeleyo"
+      "gloss": "ezikuseleyo"
     },
     {
       "surface": "האלה",
-      "gloss": "le"
+      "gloss": "ezi"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ nani"
+      "gloss": "⟨את⟩ nani",
+      "marks": "nani"
     },
     {
       "surface": "והתחתנתם",
-      "gloss": "nitshate kuni"
+      "gloss": "nize nitshate kuzo"
     },
     {
       "surface": "בהם",
-      "gloss": "kuni"
+      "gloss": "kuzo"
     },
     {
       "surface": "ובאתם",
-      "gloss": "ningena kuni"
+      "gloss": "nangena"
     },
     {
       "surface": "בהם",
-      "gloss": "kuni"
+      "gloss": "kuzo"
     },
     {
       "surface": "והם",
-      "gloss": "nani"
+      "gloss": "nazo"
     },
     {
       "surface": "בכם",
       "gloss": "kuni"
     }
   ],
-  "timestamp": "2026-09-18T08:46:29.345768004Z",
+  "timestamp": "2026-09-19T14:03:41.699068973Z",
   "model": "glm-5.3"
 }

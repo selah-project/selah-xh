@@ -5,31 +5,32 @@
   "book": "ezekiel",
   "lang": "xh",
   "chapter": 47,
-  "translation": "Niza kuyithatha ilifa, umntu njengomfowabo ⟨omnye njengomnye⟩; kuba mna ndandiphakamisile ⟨את⟩ isandla sam ukuyinika ooyihlo benu; lo mhlaba uza kuwela kuniwe njengelifa.",
+  "translation": "Kwaye niya kuyifa ⟨את⟩, umntu ngamnye njengelungane lako, leyo ndiphakamisile ⟨את⟩ isandla sam ukuyinike ooyihlo benu; kwaye lo mhlaba uya kuwa kunina njengofa.",
   "tokens": [
     {
       "surface": "ונחלתם",
-      "gloss": "Niza kuyithatha ilifa"
+      "gloss": "niya kuyifa"
     },
     {
       "surface": "אותה",
-      "gloss": "⟨את⟩ yona"
+      "gloss": "⟨את⟩",
+      "marks": "umntu ngamnye njengelungane lako"
     },
     {
       "surface": "איש",
-      "gloss": "umntu"
+      "gloss": "umntu ngamnye"
     },
     {
       "surface": "כאחיו",
-      "gloss": "njengomfowabo"
+      "gloss": "njengelungane lako"
     },
     {
       "surface": "אשר",
-      "gloss": "kuba"
+      "gloss": "leyo"
     },
     {
       "surface": "נשאתי",
-      "gloss": "ndandiphakamisile"
+      "gloss": "ndiphakamisile"
     },
     {
       "surface": "את",
@@ -42,7 +43,7 @@
     },
     {
       "surface": "לתתה",
-      "gloss": "ukuyinika"
+      "gloss": "ukuyinike"
     },
     {
       "surface": "לאבתיכם",
@@ -50,7 +51,7 @@
     },
     {
       "surface": "ונפלה",
-      "gloss": "uza kuwela"
+      "gloss": "uya kuwa"
     },
     {
       "surface": "הארץ",
@@ -62,13 +63,13 @@
     },
     {
       "surface": "לכם",
-      "gloss": "kuniwe"
+      "gloss": "kunina"
     },
     {
       "surface": "בנחלה",
-      "gloss": "njengelifa"
+      "gloss": "njengofa"
     }
   ],
-  "timestamp": "2026-09-18T13:38:07.790059979Z",
+  "timestamp": "2026-09-19T13:55:36.002792515Z",
   "model": "glm-5.3"
 }

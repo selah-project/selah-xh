@@ -5,11 +5,11 @@
   "book": "ecclesiastes",
   "lang": "xh",
   "chapter": 2,
-  "translation": "Konke oko amehlo am acebileyo, akazange ndawuncitha kwo; akuzange ndithintele intliziyo yam nasidanyana nasiphi na; kuba intliziyo yam yavuya ngenxa yonke imizamo yam, yaye le yayingumlaba wam onke umzamo wam.",
+  "translation": "Yonke into amehlo am ayafuna, hayi wandizibela kuyo; hayi wandaziba ⟨את⟩ intliziyo yam kulo naniphi na uvuyo, kuba intliziyo yam yayo ivuya ngenxa yonke umsebenzi wam; yaye le yayingu-⟨inxalenye⟩ yam yonke umsebenzi wam.",
   "tokens": [
     {
       "surface": "וכל",
-      "gloss": "konke"
+      "gloss": "yonke into"
     },
     {
       "surface": "אשר",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "שאלו",
-      "gloss": "acebileyo"
+      "gloss": "ayafuna"
     },
     {
       "surface": "עיני",
@@ -25,23 +25,23 @@
     },
     {
       "surface": "לא",
-      "gloss": "akazange"
+      "gloss": "hayi"
     },
     {
       "surface": "אצלתי",
-      "gloss": "ndawuncitha"
+      "gloss": "wandizibela"
     },
     {
       "surface": "מהם",
-      "gloss": "kwo"
+      "gloss": "kuyo"
     },
     {
       "surface": "לא",
-      "gloss": "akuzange"
+      "gloss": "hayi"
     },
     {
       "surface": "מנעתי",
-      "gloss": "ndithintele"
+      "gloss": "wandaziba"
     },
     {
       "surface": "את",
@@ -54,11 +54,11 @@
     },
     {
       "surface": "מכל",
-      "gloss": "nasidanyana nasiphi na"
+      "gloss": "kulo naniphi na"
     },
     {
       "surface": "שמחה",
-      "gloss": "sidanyana"
+      "gloss": "uvuyo"
     },
     {
       "surface": "כי",
@@ -70,7 +70,7 @@
     },
     {
       "surface": "שמח",
-      "gloss": "yavuya"
+      "gloss": "yayo ivuya"
     },
     {
       "surface": "מכל",
@@ -78,7 +78,7 @@
     },
     {
       "surface": "עמלי",
-      "gloss": "imizamo yam"
+      "gloss": "umsebenzi wam"
     },
     {
       "surface": "וזה",
@@ -86,21 +86,21 @@
     },
     {
       "surface": "היה",
-      "gloss": "yaying"
+      "gloss": "yayingu-"
     },
     {
       "surface": "חלקי",
-      "gloss": "umlaba wam"
+      "gloss": "inxalenye yam"
     },
     {
       "surface": "מכל",
-      "gloss": "onke"
+      "gloss": "yonke"
     },
     {
       "surface": "עמלי",
-      "gloss": "umzamo wam"
+      "gloss": "umsebenzi wam"
     }
   ],
-  "timestamp": "2026-09-18T16:24:04.175597718Z",
+  "timestamp": "2026-09-19T13:51:01.371445380Z",
   "model": "glm-5.3"
 }

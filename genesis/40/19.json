@@ -5,19 +5,19 @@
   "book": "genesis",
   "lang": "xh",
   "chapter": 40,
-  "translation": "Ngaphakathi kwamaxesha amathathu uParo uza kunyusa ⟨את⟩ intloko yakho apha kuwe, aze akungenise esibhokeni phezu komthi; inyezi iza kutya ⟨את⟩ inyama yakho apha kuwe.”",
+  "translation": "Ngaphakathi kwentsuku ezintathu uza kunyusa uParo ⟨את⟩ intloko yakho emva kwakho, aze akhangele wena emthini, kwaye inyoni idla ⟨את⟩ inyama yakho phezu kwakho.",
   "tokens": [
     {
       "surface": "בעוד",
-      "gloss": "ngaphakathi kwa-"
+      "gloss": "ngaphakathi kwe"
     },
     {
       "surface": "שלשת",
-      "gloss": "amathathu"
+      "gloss": "ezintathu"
     },
     {
       "surface": "ימים",
-      "gloss": "amaxesha"
+      "gloss": "ntsuku"
     },
     {
       "surface": "ישא",
@@ -38,31 +38,32 @@
     },
     {
       "surface": "מעליך",
-      "gloss": "apha kuwe"
+      "gloss": "emva kwakho"
     },
     {
       "surface": "ותלה",
-      "gloss": "aze akungenise esibhokeni"
+      "gloss": "aze akhangele"
     },
     {
       "surface": "אותך",
-      "gloss": "⟨את⟩ wena"
+      "gloss": "⟨את⟩",
+      "marks": "wena"
     },
     {
       "surface": "על",
-      "gloss": "phezu"
+      "gloss": "ku"
     },
     {
       "surface": "עץ",
-      "gloss": "komthi"
+      "gloss": "umthi"
     },
     {
       "surface": "ואכל",
-      "gloss": "iza kutya"
+      "gloss": "kwaye idla"
     },
     {
       "surface": "העוף",
-      "gloss": "inyezi"
+      "gloss": "inyoni"
     },
     {
       "surface": "את",
@@ -75,9 +76,9 @@
     },
     {
       "surface": "מעליך",
-      "gloss": "apha kuwe"
+      "gloss": "phezu kwakho"
     }
   ],
-  "timestamp": "2026-09-18T05:37:45.585580968Z",
+  "timestamp": "2026-09-19T13:56:57.420589333Z",
   "model": "glm-5.3"
 }

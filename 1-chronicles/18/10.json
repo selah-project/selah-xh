@@ -5,7 +5,7 @@
   "book": "1-chronicles",
   "lang": "xh",
   "chapter": 18,
-  "translation": "Wathumela uHadoram, unyana wakhe, kukumkani uDawidi, ukumbuza ngokhuseleko kwakhe nokuMdahlisa, ngenxa yokuba walwa noHadadezer wamBetha; kuba uHadadezer wayengumntu weemfazwe kuTowu; waza ke uHadoram wafika ⟨enaye⟩ nesonke izixhobo zegolide nesiliva nomdanisi.",
+  "translation": "Wathumela ⟨את⟩ uHadoram unyana wakhe ku inkosi uDawidi, ukuba abuze ngoxolo kuye aze amsikelele ngenxa yokuba walwa noHadaradezer waza wamoyisa; kuba uHadaradezer wayengumntu wezimfazwe kuTowu; yaye wafika enazo zonke iimpahla zegolide, nesiliva, nobhedu.",
   "tokens": [
     {
       "surface": "וישלח",
@@ -30,7 +30,7 @@
     },
     {
       "surface": "המלך",
-      "gloss": "kumkani"
+      "gloss": "inkosi"
     },
     {
       "surface": "דויד",
@@ -38,27 +38,27 @@
     },
     {
       "surface": "לשאול",
-      "gloss": "ukumbuza"
+      "gloss": "ukuba abuze"
     },
     {
       "surface": "לו",
-      "gloss": "yena"
+      "gloss": "kuye"
     },
     {
       "surface": "לשלום",
-      "gloss": "ngokhuseleko kwakhe"
+      "gloss": "ngoxolo"
     },
     {
       "surface": "ולברכו",
-      "gloss": "nokuMdahlisa"
+      "gloss": "aze amsikelele"
     },
     {
       "surface": "על",
-      "gloss": "ngenxa"
+      "gloss": "ngenxa yokuba"
     },
     {
       "surface": "אשר",
-      "gloss": "yokuba"
+      "gloss": "oko"
     },
     {
       "surface": "נלחם",
@@ -66,11 +66,11 @@
     },
     {
       "surface": "בהדדעזר",
-      "gloss": "noHadadezer"
+      "gloss": "noHadaradezer"
     },
     {
       "surface": "ויכהו",
-      "gloss": "wamBetha"
+      "gloss": "waza wamoyisa"
     },
     {
       "surface": "כי",
@@ -82,7 +82,7 @@
     },
     {
       "surface": "מלחמות",
-      "gloss": "weemfazwe"
+      "gloss": "wezimfazwe"
     },
     {
       "surface": "תעו",
@@ -90,19 +90,19 @@
     },
     {
       "surface": "היה",
-      "gloss": "wayenguye"
+      "gloss": "wayengu-"
     },
     {
       "surface": "הדדעזר",
-      "gloss": "uHadadezer"
+      "gloss": "uHadaradezer"
     },
     {
       "surface": "וכל",
-      "gloss": "nesonke"
+      "gloss": "zonke"
     },
     {
       "surface": "כלי",
-      "gloss": "izixhobo"
+      "gloss": "iimpahla"
     },
     {
       "surface": "זהב",
@@ -114,9 +114,9 @@
     },
     {
       "surface": "ונחשת",
-      "gloss": "nomdanisi"
+      "gloss": "nobhedu"
     }
   ],
-  "timestamp": "2026-09-18T16:57:40.834765403Z",
+  "timestamp": "2026-09-19T13:41:28.191532477Z",
   "model": "glm-5.3"
 }

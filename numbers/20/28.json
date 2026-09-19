@@ -5,11 +5,11 @@
   "book": "numbers",
   "lang": "xh",
   "chapter": 20,
-  "translation": "UMoshe wamhlulula uAharon ⟨את⟩ ingubo zakhe, wamgqokisa ngazo uElazari unyana wakhe; uAharon wafa khona phezulu entabeni; uMoshe no-Elazari bashiyahla entabeni.",
+  "translation": "UMoshe wamxinuta u-Aharon ⟨את⟩ izinxibongo zakhe, wayizinxiba u-Elazari unyana wakhe; u-Aharon wafa apho phezulu kwentaba; uMoshe no-Elazari behla entabeni.",
   "tokens": [
     {
       "surface": "ויפשט",
-      "gloss": "wamhlulula"
+      "gloss": "wamxinuta"
     },
     {
       "surface": "משה",
@@ -18,34 +18,34 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "uAharon"
+      "marks": "u-Aharon"
     },
     {
       "surface": "אהרן",
-      "gloss": "uAharon"
+      "gloss": "u-Aharon"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ingubo zakhe"
+      "marks": "izinxibongo zakhe"
     },
     {
       "surface": "בגדיו",
-      "gloss": "ingubo zakhe"
+      "gloss": "izinxibongo zakhe"
     },
     {
       "surface": "וילבש",
-      "gloss": "wamgqokisa ngazo"
+      "gloss": "wayizinxiba"
     },
     {
       "surface": "אתם",
       "gloss": "⟨את⟩",
-      "marks": "ingubo zakhe"
+      "marks": "izinxibongo"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "u-Elazari"
+      "marks": "u-Elazari unyana wakhe"
     },
     {
       "surface": "אלעזר",
@@ -61,23 +61,23 @@
     },
     {
       "surface": "אהרן",
-      "gloss": "uAharon"
+      "gloss": "u-Aharon"
     },
     {
       "surface": "שם",
-      "gloss": "khona"
+      "gloss": "apho"
     },
     {
       "surface": "בראש",
-      "gloss": "phezulu"
+      "gloss": "phezulu kwi-"
     },
     {
       "surface": "ההר",
-      "gloss": "entabeni"
+      "gloss": "intaba"
     },
     {
       "surface": "וירד",
-      "gloss": "bashiyahla"
+      "gloss": "behla"
     },
     {
       "surface": "משה",
@@ -89,13 +89,13 @@
     },
     {
       "surface": "מן",
-      "gloss": "ehla"
+      "gloss": "entabeni"
     },
     {
       "surface": "ההר",
-      "gloss": "entabeni"
+      "gloss": ""
     }
   ],
-  "timestamp": "2026-09-18T07:33:35.783815416Z",
+  "timestamp": "2026-09-19T14:09:34.935465300Z",
   "model": "glm-5.3"
 }

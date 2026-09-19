@@ -5,20 +5,20 @@
   "book": "exodus",
   "lang": "xh",
   "chapter": 26,
-  "translation": "Iingodo uza kuzicekela ngegolide, iintsimbi zazo uza kuzenzela ngegolide, babe yindawo yezinti zawo, iintsiya nazo uza kuzicekela ngegolide.",
+  "translation": "Kwaye ⟨את⟩ iiphaneli uza kuzibamba ngegolide, kwaye ⟨את⟩ iirhingi zawo uza kuzenza ngegolide, ziindawo zokusingatha iibarha zawo, kwaye uza kubamba ⟨את⟩ iibarha zawo ngegolide.",
   "tokens": [
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "iingodo"
+      "marks": "iiphaneli"
     },
     {
       "surface": "הקרשים",
-      "gloss": "iingodo"
+      "gloss": "iiphaneli"
     },
     {
       "surface": "תצפה",
-      "gloss": "uza kuzicekela"
+      "gloss": "uza kuzibamba ngegolide"
     },
     {
       "surface": "זהב",
@@ -27,15 +27,15 @@
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "iintsimbi zazo"
+      "marks": "iirhingi zawo"
     },
     {
       "surface": "טבעתיהם",
-      "gloss": "iintsimbi zazo"
+      "gloss": "iirhingi zawo"
     },
     {
       "surface": "תעשה",
-      "gloss": "uza kuzenzela"
+      "gloss": "uza kuzenza"
     },
     {
       "surface": "זהב",
@@ -43,30 +43,30 @@
     },
     {
       "surface": "בתים",
-      "gloss": "babe yindawo"
+      "gloss": "ziindawo zokusingatha"
     },
     {
       "surface": "לבריחם",
-      "gloss": "yezinti zawo"
+      "gloss": "iibarha zawo"
     },
     {
       "surface": "וצפית",
-      "gloss": "uza kuzicekela"
+      "gloss": "kwaye uza kubamba"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "iintsiya"
+      "marks": "iibarha zawo"
     },
     {
       "surface": "הבריחם",
-      "gloss": "iintsiya"
+      "gloss": "iibarha zawo"
     },
     {
       "surface": "זהב",
       "gloss": "ngegolide"
     }
   ],
-  "timestamp": "2026-09-18T06:13:21.327502497Z",
+  "timestamp": "2026-09-19T13:51:56.459389954Z",
   "model": "glm-5.3"
 }

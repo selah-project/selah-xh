@@ -5,11 +5,11 @@
   "book": "1-samuel",
   "lang": "xh",
   "chapter": 14,
-  "translation": "Wamemeza uShawuli, nakuwo wonke umntu obubeniye, bafikelela kwimfazwe; yabonakala inkankla yomntu ilwa nomakhwabhakithi wakhe, kukho inkxwaleko enkulu kakhulu.",
+  "translation": "Wamangalela uShawuli, nabo bonke abantu aba ⟨את⟩ kuye; bafika kwimfazwe, kwathi nanga, isikhali somntu ngamnye sasisichasene nomakhwabo wakhe — inkxwaleko enkulu kakhulu.",
   "tokens": [
     {
       "surface": "ויזעק",
-      "gloss": "Wamemeza"
+      "gloss": "wamangalela"
     },
     {
       "surface": "שאול",
@@ -17,51 +17,52 @@
     },
     {
       "surface": "וכל",
-      "gloss": "nakuwo wonke"
+      "gloss": "nabo bonke"
     },
     {
       "surface": "העם",
-      "gloss": "umntu"
+      "gloss": "abantu"
     },
     {
       "surface": "אשר",
-      "gloss": "obu"
+      "gloss": "aba"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ beniye"
+      "gloss": "⟨את⟩ kuye",
+      "marks": "kuye (isikhundla sendalo esinqamileyo nesiqu)"
     },
     {
       "surface": "ויבאו",
-      "gloss": "bafikelela"
+      "gloss": "bafika"
     },
     {
       "surface": "עד",
-      "gloss": "kwi"
+      "gloss": "kwimfazwe (ukufikelela)"
     },
     {
       "surface": "המלחמה",
-      "gloss": "mfazwe"
+      "gloss": "imfazwe"
     },
     {
       "surface": "והנה",
-      "gloss": "yabonakala"
+      "gloss": "kwathi nanga"
     },
     {
       "surface": "היתה",
-      "gloss": "kukho"
+      "gloss": "sasi (yayikho)"
     },
     {
       "surface": "חרב",
-      "gloss": "inkankla"
+      "gloss": "isikhali"
     },
     {
       "surface": "איש",
-      "gloss": "yomntu"
+      "gloss": "umntu ngamnye"
     },
     {
       "surface": "ברעהו",
-      "gloss": "ilwa nomakhwabhakithi wakhe"
+      "gloss": "sichasene nomakhwabo wakhe"
     },
     {
       "surface": "מהומה",
@@ -76,6 +77,6 @@
       "gloss": "kakhulu"
     }
   ],
-  "timestamp": "2026-09-18T09:26:27.013984722Z",
+  "timestamp": "2026-09-19T13:42:49.438866911Z",
   "model": "glm-5.3"
 }

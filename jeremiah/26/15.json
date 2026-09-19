@@ -5,19 +5,19 @@
   "book": "jeremiah",
   "lang": "xh",
   "chapter": 26,
-  "translation": "Kodwa qinisekani naniyazi ukuba, ukuba nindibulala, nina niza kubeka igazi elicocekileyo phezu kwenu, naphezu kwesi sixeko naphezu kwabahlali baso; kuba ngenyaniso undithumile uYahwe kuni ukuba ndithethe kwizindlebe zenu ⟨את⟩ onke la mazwi.",
+  "translation": "Kodwa niyakuqiniseka ukuba ukuba nibulala ⟨את⟩ mna, nina nibeka igazi elingenamtyholo phezu kwenu, nakule sixeko nakubemi baso; kuba ngokwenene uYahwe undithumile kuni ukutsho kwizindlebe zenu ⟨את⟩ la mazwi onke.",
   "tokens": [
     {
       "surface": "אך",
-      "gloss": "Kodwa qiniseka"
+      "gloss": "Kodwa"
     },
     {
       "surface": "ידע",
-      "gloss": "qinisekani"
+      "gloss": "ukwazi"
     },
     {
       "surface": "תדעו",
-      "gloss": "naniyazi"
+      "gloss": "niyakuqiniseka"
     },
     {
       "surface": "כי",
@@ -29,16 +29,16 @@
     },
     {
       "surface": "ממתים",
-      "gloss": "nindibulala"
+      "gloss": "nibulala"
     },
     {
       "surface": "אתם",
-      "gloss": "nina"
+      "gloss": "ni"
     },
     {
       "surface": "אתי",
       "gloss": "⟨את⟩",
-      "marks": "undibulala (mna)"
+      "marks": "mna"
     },
     {
       "surface": "כי",
@@ -50,15 +50,15 @@
     },
     {
       "surface": "נקי",
-      "gloss": "elicocekileyo"
+      "gloss": "elingenamtyholo"
     },
     {
       "surface": "אתם",
-      "gloss": "nina"
+      "gloss": "ni"
     },
     {
       "surface": "נתנים",
-      "gloss": "niza kubeka"
+      "gloss": "nibeka"
     },
     {
       "surface": "עליכם",
@@ -66,23 +66,23 @@
     },
     {
       "surface": "ואל",
-      "gloss": "naphezu kwe"
+      "gloss": "nakule"
     },
     {
       "surface": "העיר",
-      "gloss": "esi sixeko"
+      "gloss": "sixeko"
     },
     {
       "surface": "הזאת",
-      "gloss": "esi"
+      "gloss": "le"
     },
     {
       "surface": "ואל",
-      "gloss": "naphezu"
+      "gloss": "naku"
     },
     {
       "surface": "ישביה",
-      "gloss": "kwabahlali baso"
+      "gloss": "bemi baso"
     },
     {
       "surface": "כי",
@@ -90,7 +90,7 @@
     },
     {
       "surface": "באמת",
-      "gloss": "ngenyaniso"
+      "gloss": "ngokwenene"
     },
     {
       "surface": "שלחני",
@@ -106,7 +106,7 @@
     },
     {
       "surface": "לדבר",
-      "gloss": "ukuba ndithethe"
+      "gloss": "ukutsho"
     },
     {
       "surface": "באזניכם",
@@ -115,7 +115,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "onke la mazwi"
+      "marks": "la mazwi onke"
     },
     {
       "surface": "כל",
@@ -123,13 +123,13 @@
     },
     {
       "surface": "הדברים",
-      "gloss": "la mazwi"
+      "gloss": "amazwi"
     },
     {
       "surface": "האלה",
       "gloss": "la"
     }
   ],
-  "timestamp": "2026-09-18T12:16:50.243955127Z",
+  "timestamp": "2026-09-19T14:13:29.641719897Z",
   "model": "glm-5.3"
 }

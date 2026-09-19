@@ -5,40 +5,40 @@
   "book": "genesis",
   "lang": "xh",
   "chapter": 7,
-  "translation": "Wacima ⟨את⟩ konke okukhoyo esigabeni somhlaba, ukusuka kumntu ukuya kwiinkomo, ukuya kwiintyatyambo nokuya kwiinyoni zezulu; zacinywa komhlaba, wasala kuphela uNoa nabo babenaye erityeni.",
+  "translation": "Wacinga ⟨את⟩ wonke umkhwa owayekwisiphelo sobuso bomhlaba, ukusuka kumntu ukuya kwiilwanyana, ukuya kwiintyetyambo nakwiinyoni zezulu; zacingwa emhlabeni, wasala kuphela uNoxa, nabakunye ⟨את⟩ naye earkeni.",
   "tokens": [
     {
       "surface": "וימח",
-      "gloss": "wacima"
+      "gloss": "wacinga"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "konke okukhoyo"
+      "marks": "wonke umkhwa"
     },
     {
       "surface": "כל",
-      "gloss": "konke"
+      "gloss": "wonke"
     },
     {
       "surface": "היקום",
-      "gloss": "okukhoyo"
+      "gloss": "umkhwa"
     },
     {
       "surface": "אשר",
-      "gloss": "ezintshebeni"
+      "gloss": "oko"
     },
     {
       "surface": "על",
-      "gloss": "esigabeni"
-    },
-    {
-      "surface": "פני",
       "gloss": "phezu"
     },
     {
+      "surface": "פני",
+      "gloss": "sobuso"
+    },
+    {
       "surface": "האדמה",
-      "gloss": "somhlaba"
+      "gloss": "bomhlaba"
     },
     {
       "surface": "מאדם",
@@ -50,7 +50,7 @@
     },
     {
       "surface": "בהמה",
-      "gloss": "kwiinkomo"
+      "gloss": "kwiilwanyana"
     },
     {
       "surface": "עד",
@@ -58,15 +58,15 @@
     },
     {
       "surface": "רמש",
-      "gloss": "kwiintyatyambo"
+      "gloss": "kwiintyetyambo"
     },
     {
       "surface": "ועד",
-      "gloss": "nokuya"
+      "gloss": "nakwi"
     },
     {
       "surface": "עוף",
-      "gloss": "kwiinyoni"
+      "gloss": "nyoni"
     },
     {
       "surface": "השמים",
@@ -74,15 +74,15 @@
     },
     {
       "surface": "וימחו",
-      "gloss": "zacinywa"
+      "gloss": "zacingwa"
     },
     {
       "surface": "מן",
-      "gloss": "ko"
+      "gloss": "emhlabeni"
     },
     {
       "surface": "הארץ",
-      "gloss": "umhlaba"
+      "gloss": ""
     },
     {
       "surface": "וישאר",
@@ -94,21 +94,21 @@
     },
     {
       "surface": "נח",
-      "gloss": "uNoa"
+      "gloss": "uNoxa"
     },
     {
       "surface": "ואשר",
-      "gloss": "nabo"
+      "gloss": "nabakunye"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ naye"
+      "gloss": "naye ⟨את⟩"
     },
     {
       "surface": "בתבה",
-      "gloss": "erityeni"
+      "gloss": "earkeni"
     }
   ],
-  "timestamp": "2026-09-18T05:10:04.988131475Z",
+  "timestamp": "2026-09-19T13:58:13.594456639Z",
   "model": "glm-5.3"
 }

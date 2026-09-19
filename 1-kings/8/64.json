@@ -5,19 +5,19 @@
   "book": "1-kings",
   "lang": "xh",
   "chapter": 8,
-  "translation": "Ngalo mlha inkosi yagcisa ⟨את⟩ phakathi kwegadi elingaphambi kwendlu kaYahwe, kuba wenza khona ⟨את⟩ isihlwele sokushiswa, ⟨את⟩ isipho ne⟨את⟩ namafutha ezoxolo; kuba i-altare yethusi elingaphambi kukaYahwe yayingoninzi yokubamba isihlwele sokushiswa, isipho, namafutha ezoxolo.",
+  "translation": "Ngesuku elo inkosi yangcwalisa ⟨את⟩ phakathi lexeshana elingaphambi kwendlu kaYahwe, kuba wenza apho ⟨את⟩ isihlabo sokutshiswa, nange-⟨את⟩ isipho somgalelo, nange-⟨את⟩ amafutha ezihlabo zokuthula; kuba i-altare yobhedu engaphambi koYahwe yayincinci ukwamkela ⟨את⟩ isihlabo sokutshiswa, nange-⟨את⟩ isipho somgalelo, nange-⟨את⟩ amafutha ezihlabo zokuthula.",
   "tokens": [
     {
       "surface": "ביום",
-      "gloss": "ngalo mlha"
+      "gloss": "Ngesuku"
     },
     {
       "surface": "ההוא",
-      "gloss": "lo"
+      "gloss": "elo"
     },
     {
       "surface": "קדש",
-      "gloss": "yagcisa"
+      "gloss": "yangcwalisa"
     },
     {
       "surface": "המלך",
@@ -26,7 +26,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "phakathi kwegadi"
+      "marks": "phakathi lexeshana"
     },
     {
       "surface": "תוך",
@@ -34,7 +34,7 @@
     },
     {
       "surface": "החצר",
-      "gloss": "kwegadi"
+      "gloss": "lexeshana"
     },
     {
       "surface": "אשר",
@@ -42,11 +42,11 @@
     },
     {
       "surface": "לפני",
-      "gloss": "kwa-"
+      "gloss": "kwindawo engaphambi"
     },
     {
       "surface": "בית",
-      "gloss": "endlu"
+      "gloss": "kwendlu"
     },
     {
       "surface": "יהוה",
@@ -62,30 +62,30 @@
     },
     {
       "surface": "שם",
-      "gloss": "khona"
+      "gloss": "apho"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "isihlwele sokushiswa"
+      "marks": "isihlabo sokutshiswa"
     },
     {
       "surface": "העלה",
-      "gloss": "isihlwele sokushiswa"
+      "gloss": "isihlabo sokutshiswa"
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
-      "marks": "isipho"
+      "gloss": "nange-⟨את⟩",
+      "marks": "isipho somgalelo"
     },
     {
       "surface": "המנחה",
-      "gloss": "isipho"
+      "gloss": "isipho somgalelo"
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
-      "marks": "amafutha ezoxolo"
+      "gloss": "nange-⟨את⟩",
+      "marks": "amafutha ezihlabo zokuthula"
     },
     {
       "surface": "חלבי",
@@ -93,7 +93,7 @@
     },
     {
       "surface": "השלמים",
-      "gloss": "ezoxolo"
+      "gloss": "ezihlabo zokuthula"
     },
     {
       "surface": "כי",
@@ -105,7 +105,7 @@
     },
     {
       "surface": "הנחשת",
-      "gloss": "yethusi"
+      "gloss": "yobhedu"
     },
     {
       "surface": "אשר",
@@ -113,7 +113,7 @@
     },
     {
       "surface": "לפני",
-      "gloss": "kuka-"
+      "gloss": "ku"
     },
     {
       "surface": "יהוה",
@@ -121,34 +121,34 @@
     },
     {
       "surface": "קטן",
-      "gloss": "yayingoninzi"
+      "gloss": "yayincinci"
     },
     {
       "surface": "מהכיל",
-      "gloss": "yokubamba"
+      "gloss": "ukwamkela"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "isihlwele sokushiswa"
+      "marks": "isihlabo sokutshiswa"
     },
     {
       "surface": "העלה",
-      "gloss": "isihlwele sokushiswa"
+      "gloss": "isihlabo sokutshiswa"
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
-      "marks": "isipho"
+      "gloss": "nange-⟨את⟩",
+      "marks": "isipho somgalelo"
     },
     {
       "surface": "המנחה",
-      "gloss": "isipho"
+      "gloss": "isipho somgalelo"
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
-      "marks": "amafutha ezoxolo"
+      "gloss": "nange-⟨את⟩",
+      "marks": "amafutha ezihlabo zokuthula"
     },
     {
       "surface": "חלבי",
@@ -156,9 +156,9 @@
     },
     {
       "surface": "השלמים",
-      "gloss": "ezoxolo"
+      "gloss": "ezihlabo zokuthula"
     }
   ],
-  "timestamp": "2026-09-18T10:20:56.348321762Z",
+  "timestamp": "2026-09-19T13:43:33.121736514Z",
   "model": "glm-5.3"
 }

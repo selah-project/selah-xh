@@ -5,11 +5,11 @@
   "book": "genesis",
   "lang": "xh",
   "chapter": 7,
-  "translation": "Wathi uYahwe kuNowa: “Ngena wena nayo yonke indlu yakho kwityeba, kuba wena ndikubonile ulungileyo phambi kwam exizukulwaneni eli.”",
+  "translation": "Wayesithi uYahwe kuNoa: “Ngena wena nendlu yakho wonke ityebini, kuba wena ndikubonile ⟨את⟩ ulungileyo phambi kwam kule nzukulwana.”",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "Wathi"
+      "gloss": "wathetha"
     },
     {
       "surface": "יהוה",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "לנח",
-      "gloss": "kuNowa"
+      "gloss": "kuNoa"
     },
     {
       "surface": "בא",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "וכל",
-      "gloss": "nayo yonke"
+      "gloss": "wonke"
     },
     {
       "surface": "ביתך",
@@ -37,11 +37,11 @@
     },
     {
       "surface": "אל",
-      "gloss": "kwityeba (ku)"
+      "gloss": "ku"
     },
     {
       "surface": "התבה",
-      "gloss": "ityeba"
+      "gloss": "ityebini"
     },
     {
       "surface": "כי",
@@ -49,7 +49,8 @@
     },
     {
       "surface": "אתך",
-      "gloss": "⟨את⟩ wena"
+      "gloss": "⟨את⟩",
+      "marks": "ulungileyo"
     },
     {
       "surface": "ראיתי",
@@ -65,13 +66,13 @@
     },
     {
       "surface": "בדור",
-      "gloss": "exizukulwaneni"
+      "gloss": "kwinzukulwana"
     },
     {
       "surface": "הזה",
-      "gloss": "eli"
+      "gloss": "le"
     }
   ],
-  "timestamp": "2026-09-18T05:10:30.278814617Z",
+  "timestamp": "2026-09-19T13:58:00.010437362Z",
   "model": "glm-5.3"
 }

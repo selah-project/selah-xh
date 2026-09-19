@@ -5,11 +5,11 @@
   "book": "joshua",
   "lang": "xh",
   "chapter": 23,
-  "translation": "Kuya kuba njalo: njengoko konke ilizwi elihle kufikelele kuni, oko uYahwe uElohim wenu akuthethileyo kuni, ngokunjalo uYahwe uza kuletha kuni ⟨את⟩ konke ilizwi elibi, ade akutshabalalise kuni usuka kulo mhlaba omtle lowu uYahwe uElohim wenu aninike wona.",
+  "translation": "Kwaye kuya kubenjalo: njengoko nazala kuni lonke elo lizwi elilungileyo eliwathethayo uYahwe uElohim wenu kuni, ngokunjalo uYahwe uza kuzisa phezu kwenu ⟨את⟩ onke amagama amabi, ade akutshabalalise ⟨את⟩ nina phantsi kolwandle lo mxhamla, ahanjaliswe kuni nguYahwe uElohim wenu",
   "tokens": [
     {
       "surface": "והיה",
-      "gloss": "kuya kuba njalo"
+      "gloss": "kwaye kuya kubenjalo"
     },
     {
       "surface": "כאשר",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "בא",
-      "gloss": "kufikelele"
+      "gloss": "nazala"
     },
     {
       "surface": "עליכם",
@@ -25,23 +25,23 @@
     },
     {
       "surface": "כל",
-      "gloss": "konke"
+      "gloss": "lonke"
     },
     {
       "surface": "הדבר",
-      "gloss": "ilizwi"
+      "gloss": "elo lizwi"
     },
     {
       "surface": "הטוב",
-      "gloss": "elihle"
+      "gloss": "elilungileyo"
     },
     {
       "surface": "אשר",
-      "gloss": "oko"
+      "gloss": "eli"
     },
     {
       "surface": "דבר",
-      "gloss": "akuthethileyo"
+      "gloss": "eliwathethayo"
     },
     {
       "surface": "יהוה",
@@ -61,7 +61,7 @@
     },
     {
       "surface": "יביא",
-      "gloss": "uza kuletha"
+      "gloss": "uza kuzisa"
     },
     {
       "surface": "יהוה",
@@ -69,24 +69,24 @@
     },
     {
       "surface": "עליכם",
-      "gloss": "kuni"
+      "gloss": "phezu kwenu"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "konke ilizwi elibi"
+      "marks": "onke amagama amabi"
     },
     {
       "surface": "כל",
-      "gloss": "konke"
+      "gloss": "onke"
     },
     {
       "surface": "הדבר",
-      "gloss": "ilizwi"
+      "gloss": "amagama"
     },
     {
       "surface": "הרע",
-      "gloss": "elibi"
+      "gloss": "amabi"
     },
     {
       "surface": "עד",
@@ -98,31 +98,31 @@
     },
     {
       "surface": "אותכם",
-      "gloss": "⟨את⟩ kuni"
+      "gloss": "⟨את⟩ nina"
     },
     {
       "surface": "מעל",
-      "gloss": "usuka"
+      "gloss": "phantsi"
     },
     {
       "surface": "האדמה",
-      "gloss": "kulo mhlaba"
+      "gloss": "ulwandle"
     },
     {
       "surface": "הטובה",
-      "gloss": "omtle"
+      "gloss": "lo mxhamla"
     },
     {
       "surface": "הזאת",
-      "gloss": "lowu"
+      "gloss": "elungileyo"
     },
     {
       "surface": "אשר",
-      "gloss": "owo"
+      "gloss": "ahanjaliswe kuni"
     },
     {
       "surface": "נתן",
-      "gloss": "wanika"
+      "gloss": "kuni"
     },
     {
       "surface": "לכם",
@@ -137,6 +137,6 @@
       "gloss": "uElohim wenu"
     }
   ],
-  "timestamp": "2026-09-18T08:50:54.882516926Z",
+  "timestamp": "2026-09-19T14:03:30.568517607Z",
   "model": "glm-5.3"
 }

@@ -5,11 +5,11 @@
   "book": "joshua",
   "lang": "xh",
   "chapter": 6,
-  "translation": "Kwaye kuwo amadoda amabini ahloli ⟨את⟩ ilizwe uYehoshuwa wathetha wathi: “Ngenani endlwini yomfazi obhema, nikhiphe ngaphaya koLo mfazi nako ⟨את⟩ konke okuwe, njengoko nifungisile yena.”",
+  "translation": "UYehoshuwa wawuthethela amadoda awabini ababehlola ⟨את⟩ ilizwe, esithi: “Ngenani endlwini yomfazi, ofiyo lo; nikhuphe apho ⟨את⟩ loo mfazi, nange ⟨את⟩ yonke into anayo, njengoko nanafunga kuye.”",
   "tokens": [
     {
       "surface": "ולשנים",
-      "gloss": "kwaye kuwo amadoda amabini"
+      "gloss": "kuwo awabini"
     },
     {
       "surface": "האנשים",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "המרגלים",
-      "gloss": "ahloli"
+      "gloss": "ababehlola"
     },
     {
       "surface": "את",
@@ -30,7 +30,7 @@
     },
     {
       "surface": "אמר",
-      "gloss": "wathetha"
+      "gloss": "wawuthethela"
     },
     {
       "surface": "יהושע",
@@ -38,7 +38,7 @@
     },
     {
       "surface": "באו",
-      "gloss": "ngenani"
+      "gloss": "Ngenani"
     },
     {
       "surface": "בית",
@@ -50,41 +50,41 @@
     },
     {
       "surface": "הזונה",
-      "gloss": "obhema"
+      "gloss": "ofiyo"
     },
     {
       "surface": "והוציאו",
-      "gloss": "nikhiphe ngaphaya"
+      "gloss": "nikhuphe"
     },
     {
       "surface": "משם",
-      "gloss": "kwindlu yena"
+      "gloss": "apho"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "umfazi"
+      "marks": "loo mfazi"
     },
     {
       "surface": "האשה",
-      "gloss": "Lo mfazi"
+      "gloss": "loo mfazi"
     },
     {
       "surface": "ואת",
-      "gloss": "nako ⟨את⟩",
-      "marks": "konke"
+      "gloss": "nange ⟨את⟩",
+      "marks": "yonke into"
     },
     {
       "surface": "כל",
-      "gloss": "konke"
+      "gloss": "yonke"
     },
     {
       "surface": "אשר",
-      "gloss": "oku"
+      "gloss": "into"
     },
     {
       "surface": "לה",
-      "gloss": "okuwe"
+      "gloss": "anayo"
     },
     {
       "surface": "כאשר",
@@ -92,13 +92,13 @@
     },
     {
       "surface": "נשבעתם",
-      "gloss": "nifungisile"
+      "gloss": "nanafunga"
     },
     {
       "surface": "לה",
-      "gloss": "yena"
+      "gloss": "kuye"
     }
   ],
-  "timestamp": "2026-09-18T08:32:25.683017116Z",
+  "timestamp": "2026-09-19T14:13:01.963214300Z",
   "model": "glm-5.3"
 }

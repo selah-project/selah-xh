@@ -5,11 +5,11 @@
   "book": "ezekiel",
   "lang": "xh",
   "chapter": 43,
-  "translation": "Bakugqibela ⟨את⟩ iintsuku, kuya kubakho ngosuku lwesibhozo nangaphezu kwako, ababingeleli bakwenza phezu kwe-altare ⟨את⟩ izitshiso zenu ⟨את⟩ neentlabelo zenu zoxolo; ndiza kunanela ⟨nina⟩ — isalathiso so-Adonayi uYahwe.",
+  "translation": "Kwaye beya kwaphela ⟨את⟩ iintsuku; kuya kuthi ngosuku olwesibhozo nangaphezu koko, abapristi baya kwenza phezu ko-altare ⟨את⟩ ziinkonzo zokushiswa zenu nange⟨את⟩ izipeliso zenu; ndiza kunamamela ukunikholwa ⟨אתכם⟩ — uyakutsho u-Adonayi uYahwe.",
   "tokens": [
     {
       "surface": "ויכלו",
-      "gloss": "bakugqibela"
+      "gloss": "beya kwaphela"
     },
     {
       "surface": "את",
@@ -22,7 +22,7 @@
     },
     {
       "surface": "והיה",
-      "gloss": "kuya kubakho"
+      "gloss": "kuya kuthi"
     },
     {
       "surface": "ביום",
@@ -30,58 +30,58 @@
     },
     {
       "surface": "השמיני",
-      "gloss": "lwesibhozo"
+      "gloss": "olwesibhozo"
     },
     {
       "surface": "והלאה",
-      "gloss": "nangaphezu kwako"
+      "gloss": "nangaphezu koko"
     },
     {
       "surface": "יעשו",
-      "gloss": "bakwenza"
+      "gloss": "baya kwenza"
     },
     {
       "surface": "הכהנים",
-      "gloss": "ababingeleli"
+      "gloss": "abapristi"
     },
     {
       "surface": "על",
-      "gloss": "phezu kwe"
+      "gloss": "phezu kwa-"
     },
     {
       "surface": "המזבח",
-      "gloss": "i-altare"
+      "gloss": "o-altare"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "izitshiso zenu"
+      "marks": "ziinkonzo zokushiswa zenu"
     },
     {
       "surface": "עולותיכם",
-      "gloss": "izitshiso zenu"
+      "gloss": "ziinkonzo zokushiswa zenu"
     },
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "iintlabelo zenu zoxolo"
+      "marks": "izipeliso zenu"
     },
     {
       "surface": "שלמיכם",
-      "gloss": "iintlabelo zenu zoxolo"
+      "gloss": "izipeliso zenu"
     },
     {
       "surface": "ורצאתי",
-      "gloss": "ndiza kunanela"
+      "gloss": "ndiza kunamamela ukunikholwa"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩",
-      "marks": "nina"
+      "gloss": "⟨אתכם⟩",
+      "marks": "ukunikholwa"
     },
     {
       "surface": "נאם",
-      "gloss": "isalathiso"
+      "gloss": "uyakutsho"
     },
     {
       "surface": "אדני",
@@ -92,6 +92,6 @@
       "gloss": "uYahwe"
     }
   ],
-  "timestamp": "2026-09-18T13:36:33.337639954Z",
+  "timestamp": "2026-09-19T13:55:22.812512719Z",
   "model": "glm-5.3"
 }

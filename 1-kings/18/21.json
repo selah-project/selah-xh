@@ -5,27 +5,27 @@
   "book": "1-kings",
   "lang": "xh",
   "chapter": 18,
-  "translation": "Wasondela u-Eliya kuwo wonke umntu, waza wathetha: “Uza kuthi nisindwa nini nilinga ngeendlela ezimbini? Ukuba uYahwe ⟨nguYElohim⟩, landelani yena; ukuba nguBhaal, landelani yena.” Abantu abangethanga langomnye ilizwi kuye.",
+  "translation": "Wasondelela u-Eliyahu kubo bonke abantu, wathetha: Nide nini niqhudumala phakathi kweziqhezu ezimbini? Ukuba uYahwe nguElohim, landelani yena; ukuba uBhali, landelani yena. Abantu abampendulanga ⟨את⟩ lizwi.",
   "tokens": [
     {
       "surface": "ויגש",
-      "gloss": "Wasondela"
+      "gloss": "Wasondelela"
     },
     {
       "surface": "אליהו",
-      "gloss": "u-Eliya"
+      "gloss": "u-Eliyahu"
     },
     {
       "surface": "אל",
-      "gloss": "kuwo"
+      "gloss": "ku-"
     },
     {
       "surface": "כל",
-      "gloss": "wonke"
+      "gloss": "bonke"
     },
     {
       "surface": "העם",
-      "gloss": "umntu"
+      "gloss": "abantu"
     },
     {
       "surface": "ויאמר",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "עד",
-      "gloss": "kude"
+      "gloss": "Nide"
     },
     {
       "surface": "מתי",
@@ -41,15 +41,15 @@
     },
     {
       "surface": "אתם",
-      "gloss": "ni"
+      "gloss": "ni-"
     },
     {
       "surface": "פסחים",
-      "gloss": "nilinga"
+      "gloss": "niqhudumala"
     },
     {
       "surface": "על",
-      "gloss": "nge"
+      "gloss": "phakathi"
     },
     {
       "surface": "שתי",
@@ -57,11 +57,11 @@
     },
     {
       "surface": "הסעפים",
-      "gloss": "iindawo ezahlukileyo"
+      "gloss": "kweziqhezu"
     },
     {
       "surface": "אם",
-      "gloss": "ukuba"
+      "gloss": "Ukuba"
     },
     {
       "surface": "יהוה",
@@ -69,7 +69,7 @@
     },
     {
       "surface": "האלהים",
-      "gloss": "nguYElohim"
+      "gloss": "nguElohim"
     },
     {
       "surface": "לכו",
@@ -81,11 +81,11 @@
     },
     {
       "surface": "ואם",
-      "gloss": "kwaye ukuba"
+      "gloss": "ukuba"
     },
     {
       "surface": "הבעל",
-      "gloss": "uBhaal"
+      "gloss": "uBhali"
     },
     {
       "surface": "לכו",
@@ -97,26 +97,26 @@
     },
     {
       "surface": "ולא",
-      "gloss": "kwaye hayi"
+      "gloss": "abampendulanga-"
     },
     {
       "surface": "ענו",
-      "gloss": "abangethanga"
+      "gloss": "abampendulanga"
     },
     {
       "surface": "העם",
-      "gloss": "abantu"
+      "gloss": "Abantu"
     },
     {
       "surface": "אתו",
       "gloss": "⟨את⟩",
-      "marks": "langomnye ilizwi"
+      "marks": "lizwi"
     },
     {
       "surface": "דבר",
-      "gloss": "ilizwi"
+      "gloss": "lizwi"
     }
   ],
-  "timestamp": "2026-09-18T10:31:50.781561536Z",
+  "timestamp": "2026-09-19T13:42:09.733799738Z",
   "model": "glm-5.3"
 }

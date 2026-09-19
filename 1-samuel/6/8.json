@@ -5,95 +5,97 @@
   "book": "1-samuel",
   "lang": "xh",
   "chapter": 6,
-  "translation": "Nize nithathe ⟨את⟩ isibhamu-hamba sikaYahwe, nize sisibeke kwindlu yokuhamba; nize nibeke ⟨את⟩ izixhobo zegolide enza kuzibuyisela kuye njengesohlwayo, kwithangi elingasekhupheleni laso; nize sisitheleke, sisihambahamba.",
+  "translation": "Nithabathe ⟨את⟩ iarekane likaYahwe, nide ⟨את⟩ yibeke kweli wagoni, kwaye ⟨את⟩ izixhobo zegolide enibuyisela kuye njengocalulo, zibeke ebhokisini ngaselicala laso; nide ⟨את⟩ lithumele, lize lihambile.",
   "tokens": [
     {
-      "surface": "ולקחתם",
-      "gloss": "Nize nithathe"
+      "surface": "וּלְקַחְתֶּם",
+      "gloss": "nithabathe"
     },
     {
-      "surface": "את",
+      "surface": "אֵת",
       "gloss": "⟨את⟩",
-      "marks": "isibhamu-hamba sikaYahwe"
+      "marks": "iarekane likaYahwe"
     },
     {
-      "surface": "ארון",
-      "gloss": "isibhamu-hamba"
+      "surface": "אֲרוֹן",
+      "gloss": "iarekane"
     },
     {
-      "surface": "יהוה",
-      "gloss": "sikaYahwe"
+      "surface": "יְהוָה",
+      "gloss": "likaYahwe"
     },
     {
-      "surface": "ונתתם",
-      "gloss": "nize sibeka"
+      "surface": "וּנְתַתֶּם",
+      "gloss": "niyibeke"
     },
     {
-      "surface": "אתו",
-      "gloss": "⟨את⟩ yena"
+      "surface": "אֹתוֹ",
+      "gloss": "⟨את⟩",
+      "marks": "kweli wagoni"
     },
     {
-      "surface": "אל",
-      "gloss": "kwi-"
+      "surface": "אֶל",
+      "gloss": "ku"
     },
     {
-      "surface": "העגלה",
-      "gloss": "sithuthi"
+      "surface": "הָעֲגָלָה",
+      "gloss": "eli wagoni"
     },
     {
-      "surface": "ואת",
-      "gloss": "n⟨את⟩",
+      "surface": "וְאֵת",
+      "gloss": "⟨את⟩",
       "marks": "izixhobo zegolide"
     },
     {
-      "surface": "כלי",
+      "surface": "כְּלֵי",
       "gloss": "izixhobo"
     },
     {
-      "surface": "הזהב",
+      "surface": "הַזָּהָב",
       "gloss": "zegolide"
     },
     {
-      "surface": "אשר",
-      "gloss": "owo"
+      "surface": "אֲשֶׁר",
+      "gloss": "azo"
     },
     {
-      "surface": "השבתם",
-      "gloss": "nibuyisela"
+      "surface": "הֲשֵׁבֹתֶם",
+      "gloss": "enibuyisela"
     },
     {
-      "surface": "לו",
+      "surface": "לוֹ",
       "gloss": "kuye"
     },
     {
-      "surface": "אשם",
-      "gloss": "njengesohlwayo-ohlawuliswayo"
+      "surface": "אָשָׁם",
+      "gloss": "icalulo"
     },
     {
-      "surface": "תשימו",
-      "gloss": "nibeke"
+      "surface": "תָּשִׂימוּ",
+      "gloss": "zibeke"
     },
     {
-      "surface": "בארגז",
-      "gloss": "kwithangi"
+      "surface": "בָּאַרְגַּז",
+      "gloss": "ebhokisini"
     },
     {
-      "surface": "מצדו",
-      "gloss": "elingasekhupheleni laso"
+      "surface": "מִצִּדּוֹ",
+      "gloss": "ngaselicala laso"
     },
     {
-      "surface": "ושלחתם",
-      "gloss": "nize sithumele"
+      "surface": "וְשִׁלַּחְתֶּם",
+      "gloss": "nithumele"
     },
     {
-      "surface": "אתו",
-      "gloss": "⟨את⟩ yena"
+      "surface": "אֹתוֹ",
+      "gloss": "⟨את⟩",
+      "marks": "iarekane"
     },
     {
-      "surface": "והלך",
-      "gloss": "sisihambahamba"
+      "surface": "וְהָלָךְ",
+      "gloss": "lize lihambile"
     }
   ],
-  "timestamp": "2026-09-18T09:17:43.268384610Z",
+  "timestamp": "2026-09-19T13:44:03.043184498Z",
   "model": "glm-5.3"
 }

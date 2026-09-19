@@ -5,20 +5,20 @@
   "book": "deuteronomy",
   "lang": "xh",
   "chapter": 13,
-  "translation": "Uthe wababulala ngokwenene ⟨את⟩ abahlali bedolophu elo ngomlomo welifu; uyitshatyalalise ngokungcwalisiwe yonke, ⟨את⟩ konke oko kuyo, nange⟨את⟩ iinxushunxushu zayo ngomlomo welifu;",
+  "translation": "Uza kubetha ngokwenene ⟨את⟩ abahlali baloo mzi ngomlomo welikhwe; uyenze idangata ⟨את⟩ yona, nakuni ⟨את⟩ konke okuseleyo kuyo, nakuni ⟨את⟩ iinkomo zayo ngomlomo welikhwe.",
   "tokens": [
     {
       "surface": "הכה",
-      "gloss": "uthe"
+      "gloss": "uza kubetha"
     },
     {
       "surface": "תכה",
-      "gloss": "wababulala ngokwenene"
+      "gloss": "ngokwenene"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "abahlali bedolophu elo"
+      "marks": "abahlali baloo mzi"
     },
     {
       "surface": "ישבי",
@@ -26,33 +26,33 @@
     },
     {
       "surface": "העיר",
-      "gloss": "bedolophu"
+      "gloss": "loo mzi"
     },
     {
       "surface": "ההוא",
-      "gloss": "elo"
+      "gloss": "loo"
     },
     {
       "surface": "לפי",
-      "gloss": "ngomlomo we"
+      "gloss": "ngomlomo"
     },
     {
       "surface": "חרב",
-      "gloss": "lifu"
+      "gloss": "welikhwe"
     },
     {
       "surface": "החרם",
-      "gloss": "uyitshatyalalise ngokungcwalisiwe"
+      "gloss": "uyenze idangata"
     },
     {
       "surface": "אתה",
       "gloss": "⟨את⟩",
-      "marks": "iyona (idolophu)"
+      "marks": "yona (loo mzi)"
     },
     {
       "surface": "ואת",
-      "gloss": "nange⟨את⟩",
-      "marks": "konke oko kuyo"
+      "gloss": "nakuni ⟨את⟩",
+      "marks": "konke okuseleyo kuyo"
     },
     {
       "surface": "כל",
@@ -60,7 +60,7 @@
     },
     {
       "surface": "אשר",
-      "gloss": "oko"
+      "gloss": "okuseleyo"
     },
     {
       "surface": "בה",
@@ -68,22 +68,22 @@
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
-      "marks": "iinxushunxushu zayo"
+      "gloss": "nakuni ⟨את⟩",
+      "marks": "iinkomo zayo"
     },
     {
       "surface": "בהמתה",
-      "gloss": "iinxushunxushu zayo"
+      "gloss": "iinkomo zayo"
     },
     {
       "surface": "לפי",
-      "gloss": "ngomlomo we"
+      "gloss": "ngomlomo"
     },
     {
       "surface": "חרב",
-      "gloss": "lifu"
+      "gloss": "welikhwe"
     }
   ],
-  "timestamp": "2026-09-18T08:05:24.668064551Z",
+  "timestamp": "2026-09-19T13:49:34.707527230Z",
   "model": "glm-5.3"
 }

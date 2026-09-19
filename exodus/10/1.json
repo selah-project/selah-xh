@@ -5,7 +5,7 @@
   "book": "exodus",
   "lang": "xh",
   "chapter": 10,
-  "translation": "Wathetha uYahwe kuMoshe: “Ngena kuParo, kuba ndinguye owenzinte intliziyo yakhe nentliziyo yeenkokeli zakhe, ukuze ndibeke ezi phawu zam kwindawo yakhe.”",
+  "translation": "Wathetha uYahwe kuMoshe: “Ngena kuParo, kuba mna ndizibenze nzima intliziyo yakhe nolwazi lwezicaka zakhe, ukuze ndibeke ezi phawu zam kwindawo yakhe.”",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "בא",
-      "gloss": "ngena"
+      "gloss": "ngenaku"
     },
     {
       "surface": "אל",
@@ -41,11 +41,11 @@
     },
     {
       "surface": "אני",
-      "gloss": "ndinguye"
+      "gloss": "mna"
     },
     {
       "surface": "הכבדתי",
-      "gloss": "owenzinte"
+      "gloss": "ndizibenze nzima"
     },
     {
       "surface": "את",
@@ -58,16 +58,16 @@
     },
     {
       "surface": "ואת",
-      "gloss": "nee⟨את⟩",
-      "marks": "intliziyo yeenkokeli zakhe"
+      "gloss": "⟨את⟩",
+      "marks": "ulwazi lwezicaka zakhe"
     },
     {
       "surface": "לב",
-      "gloss": "intliziyo"
+      "gloss": "ulwazi"
     },
     {
       "surface": "עבדיו",
-      "gloss": "yeenkokeli zakhe"
+      "gloss": "lwezicaka zakhe"
     },
     {
       "surface": "למען",
@@ -90,6 +90,6 @@
       "gloss": "kwindawo yakhe"
     }
   ],
-  "timestamp": "2026-09-18T05:57:57.701629959Z",
+  "timestamp": "2026-09-19T13:51:20.541821810Z",
   "model": "glm-5.3"
 }

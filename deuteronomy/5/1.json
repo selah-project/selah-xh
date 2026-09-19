@@ -5,11 +5,11 @@
   "book": "deuteronomy",
   "lang": "xh",
   "chapter": 5,
-  "translation": "Wabizela uMoshe uYisraeli onke, wathi kubo: “Mameleni, Yisraeli, ⟨את⟩ imigaqo ⟨את⟩ nemigwebo endiyithethayo kwiindlebe zenu namhlanje; nize niyifunda, niyazigcina, niyenze.”",
+  "translation": "Wabiza uMoshe wonke uIsrayeli, wathi kubo: “Mameli, Israyeli, ⟨את⟩ izimiso ⟨את⟩ nemiqulu eyindawo yokwahlula ndithetha ngayo kwindlebe zenu namhlanje, nize nifunde ⟨את⟩ zonza nizigcine ukuzenza.”",
   "tokens": [
     {
       "surface": "ויקרא",
-      "gloss": "wabizela"
+      "gloss": "wabiza"
     },
     {
       "surface": "משה",
@@ -21,11 +21,11 @@
     },
     {
       "surface": "כל",
-      "gloss": "onke"
+      "gloss": "wonke"
     },
     {
       "surface": "ישראל",
-      "gloss": "uYisraeli"
+      "gloss": "uIsrayeli"
     },
     {
       "surface": "ויאמר",
@@ -37,45 +37,45 @@
     },
     {
       "surface": "שמע",
-      "gloss": "Mameleni"
+      "gloss": "Mameli"
     },
     {
       "surface": "ישראל",
-      "gloss": "Yisraeli"
+      "gloss": "Israyeli"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "imigaqo"
+      "marks": "izimiso"
     },
     {
       "surface": "החקים",
-      "gloss": "imigaqo"
+      "gloss": "izimiso"
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩ nemigwebo",
-      "marks": "imigwebo"
+      "gloss": "⟨את⟩",
+      "marks": "namiqulu eyindawo yokwahlula"
     },
     {
       "surface": "המשפטים",
-      "gloss": "imigwebo"
+      "gloss": "namiqulu eyindawo yokwahlula"
     },
     {
       "surface": "אשר",
-      "gloss": "endiyithethayo"
+      "gloss": "eyi"
     },
     {
       "surface": "אנכי",
-      "gloss": "ndi-"
+      "gloss": "ndi"
     },
     {
       "surface": "דבר",
-      "gloss": "yithethayo"
+      "gloss": "thetha"
     },
     {
       "surface": "באזניכם",
-      "gloss": "kwiindlebe zenu"
+      "gloss": "kwindlebe zenu"
     },
     {
       "surface": "היום",
@@ -83,22 +83,22 @@
     },
     {
       "surface": "ולמדתם",
-      "gloss": "nize niyifunda"
+      "gloss": "nize nifunde"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩",
-      "marks": "nize niyifunda"
+      "gloss": "⟨את⟩ zonza",
+      "marks": "zonza"
     },
     {
       "surface": "ושמרתם",
-      "gloss": "niyazigcina"
+      "gloss": "nizigcine"
     },
     {
       "surface": "לעשתם",
-      "gloss": "niyenze"
+      "gloss": "ukuzenza"
     }
   ],
-  "timestamp": "2026-09-18T07:58:14.362231600Z",
+  "timestamp": "2026-09-19T13:50:54.253063147Z",
   "model": "glm-5.3"
 }

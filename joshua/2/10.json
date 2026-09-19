@@ -5,15 +5,15 @@
   "book": "joshua",
   "lang": "xh",
   "chapter": 2,
-  "translation": "Kuba simva ⟨את⟩ oko uYahwe akomele ⟨את⟩ amanzi olwandle lweekhwanqa phambi kwenu, ngekuphuma kwenu eMitsrayim, noko nakuwenzile kumakhosi amabini amaEmori ahlala ngasemva koYardene, kuSihoni no-Ogi, abo nibazingcwali.",
+  "translation": "Kuba simamilele ⟨את⟩ oko uYahwe wenzile — wadiza amanzi olwandle lweZibhunga phambi kwenu, naphuma nina eMitsrayim — noko ninabenze kumakumkani amabini amaEmori asekwele uMlambo iYoridane, kuSihoni naku-Ogi, aba nabadinela ngokutshatyalaliswa ⟨אתם⟩.",
   "tokens": [
     {
       "surface": "כי",
-      "gloss": "Kuba"
+      "gloss": "kuba"
     },
     {
       "surface": "שמענו",
-      "gloss": "simva"
+      "gloss": "simamilele"
     },
     {
       "surface": "את",
@@ -26,7 +26,7 @@
     },
     {
       "surface": "הוביש",
-      "gloss": "akomele"
+      "gloss": "wadiza"
     },
     {
       "surface": "יהוה",
@@ -35,7 +35,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "amanzi"
+      "marks": "amanzi olwandle lweZibhunga"
     },
     {
       "surface": "מי",
@@ -47,7 +47,7 @@
     },
     {
       "surface": "סוף",
-      "gloss": "lweekhwanqa"
+      "gloss": "lweZibhunga"
     },
     {
       "surface": "מפניכם",
@@ -55,7 +55,7 @@
     },
     {
       "surface": "בצאתכם",
-      "gloss": "ngekuphuma kwenu"
+      "gloss": "naphuma nina"
     },
     {
       "surface": "ממצרים",
@@ -67,15 +67,15 @@
     },
     {
       "surface": "עשיתם",
-      "gloss": "nakuwenzile"
+      "gloss": "nabenza"
     },
     {
       "surface": "לשני",
-      "gloss": "ku- amabini"
+      "gloss": "kumakumkani amabini"
     },
     {
       "surface": "מלכי",
-      "gloss": "amakhosi"
+      "gloss": "amakumkani"
     },
     {
       "surface": "האמרי",
@@ -83,15 +83,15 @@
     },
     {
       "surface": "אשר",
-      "gloss": "ahlala"
+      "gloss": "asekwele"
     },
     {
       "surface": "בעבר",
-      "gloss": "ngasemva"
+      "gloss": "asekwele"
     },
     {
       "surface": "הירדן",
-      "gloss": "koYardene"
+      "gloss": "uMlambo iYoridane"
     },
     {
       "surface": "לסיחן",
@@ -99,21 +99,22 @@
     },
     {
       "surface": "ולעוג",
-      "gloss": "no-Ogi"
+      "gloss": "naku-Ogi"
     },
     {
       "surface": "אשר",
-      "gloss": "abo"
+      "gloss": "aba"
     },
     {
       "surface": "החרמתם",
-      "gloss": "nibazingcwali"
+      "gloss": "nabadinela ngokutshatyalaliswa"
     },
     {
       "surface": "אותם",
-      "gloss": "⟨את⟩ boona"
+      "gloss": "⟨אתם⟩",
+      "marks": "uSihoni no-Ogi"
     }
   ],
-  "timestamp": "2026-09-18T08:30:25.353660440Z",
+  "timestamp": "2026-09-19T14:03:10.055730665Z",
   "model": "glm-5.3"
 }

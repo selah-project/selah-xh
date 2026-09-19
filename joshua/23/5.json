@@ -5,11 +5,11 @@
   "book": "joshua",
   "lang": "xh",
   "chapter": 23,
-  "translation": "Kananjalo uYahwe uElohim wenu, yena uza kubahuda abantu babo bagabadeke phambi kwenu, aze abaxoshe bangabi phambi kwenu; nina niza kuba ngabawneli wobukhosi basemhlabeni wabo, njengoko uYahwe uElohim wenu athethe kuni.",
+  "translation": "Kwaye uYahwe uElohim wenu, nguye oza kubakhupha phambi kuni, ababambe umhlaba wabo phambi kuni; niza kuthabatha ⟨את⟩ umhlaba wabo, njengoko wathetha uYahwe uElohim wenu kuni.",
   "tokens": [
     {
       "surface": "ויהוה",
-      "gloss": "Kananjalo uYahwe"
+      "gloss": "Kwaye uYahwe"
     },
     {
       "surface": "אלהיכם",
@@ -17,41 +17,41 @@
     },
     {
       "surface": "הוא",
-      "gloss": "yena"
+      "gloss": "nguye"
     },
     {
       "surface": "יהדפם",
-      "gloss": "uza kubahuda abantu babo"
+      "gloss": "oza kubakhupha"
     },
     {
       "surface": "מפניכם",
-      "gloss": "phambi kwenu"
+      "gloss": "phambi kuni"
     },
     {
       "surface": "והוריש",
-      "gloss": "aze abaxoshe"
+      "gloss": "ababambe"
     },
     {
       "surface": "אתם",
       "gloss": "⟨את⟩",
-      "marks": "phambi kwenu"
+      "marks": "phambi kuni"
     },
     {
       "surface": "מלפניכם",
-      "gloss": "bangabi phambi kwenu"
+      "gloss": "phambi kuni"
     },
     {
       "surface": "וירשתם",
-      "gloss": "niza kuba ngabawneli"
+      "gloss": "niza kuthabatha"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "obukhosi basemhlabeni wabo"
+      "marks": "umhlaba wabo"
     },
     {
       "surface": "ארצם",
-      "gloss": "obukhosi basemhlabeni wabo"
+      "gloss": "umhlaba wabo"
     },
     {
       "surface": "כאשר",
@@ -59,7 +59,7 @@
     },
     {
       "surface": "דבר",
-      "gloss": "athethe"
+      "gloss": "wathetha"
     },
     {
       "surface": "יהוה",
@@ -74,6 +74,6 @@
       "gloss": "kuni"
     }
   ],
-  "timestamp": "2026-09-18T18:57:26.924698002Z",
+  "timestamp": "2026-09-19T14:03:19.258360976Z",
   "model": "glm-5.3"
 }

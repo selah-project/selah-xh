@@ -5,11 +5,11 @@
   "book": "judges",
   "lang": "xh",
   "chapter": 12,
-  "translation": "Bathi kuye: “Thi nje iShibboleti;” wathi iSibboleti, ekungabinakwazi kwakhe ukuthetha njalo. BamBamba, bamBulala ngeendawo zokudlula koYordan; ngelo xesha kwawa kwakwa-Efrayimi amashumi amane anesibini ezinkulu ngephakathi.",
+  "translation": "Bathi kuye: “Thi nje ⟨shibolethi⟩.” Wathi: “⟨sibolethi⟩,” kuba akazange akwazi ukuthetha kakuhle; bamnqa ⟨את⟩ bamzelela ngasezidibanisi zomlambo iYordan; ngelo xesha kwawa kwa-Efrayim amashumi amane anesibini eli-1000.",
   "tokens": [
     {
       "surface": "ויאמרו",
-      "gloss": "Bathi"
+      "gloss": "bathi"
     },
     {
       "surface": "לו",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "אמר",
-      "gloss": "Thi"
+      "gloss": "thi"
     },
     {
       "surface": "נא",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "שבלת",
-      "gloss": "iShibboleti"
+      "gloss": "shibolethi"
     },
     {
       "surface": "ויאמר",
@@ -33,15 +33,15 @@
     },
     {
       "surface": "סבלת",
-      "gloss": "iSibboleti"
+      "gloss": "sibolethi"
     },
     {
       "surface": "ולא",
-      "gloss": "ekungabinakwazi kwakhe"
+      "gloss": "akazange"
     },
     {
       "surface": "יכין",
-      "gloss": "ukwazi"
+      "gloss": "akwazi"
     },
     {
       "surface": "לדבר",
@@ -49,32 +49,32 @@
     },
     {
       "surface": "כן",
-      "gloss": "njalo"
+      "gloss": "kakuhle"
     },
     {
       "surface": "ויאחזו",
-      "gloss": "BamBamba"
+      "gloss": "bamnqa"
     },
     {
       "surface": "אותו",
       "gloss": "⟨את⟩",
-      "marks": "BamBulala"
+      "marks": "bamzelela (owo)bambileyo"
     },
     {
       "surface": "וישחטוהו",
-      "gloss": "BamBulala"
+      "gloss": "bamzelela"
     },
     {
       "surface": "אל",
-      "gloss": "nge-"
+      "gloss": "ngase"
     },
     {
       "surface": "מעברות",
-      "gloss": "iindawo zokudlula"
+      "gloss": "ezidibanisi"
     },
     {
       "surface": "הירדן",
-      "gloss": "koYordan"
+      "gloss": "iYordan"
     },
     {
       "surface": "ויפל",
@@ -86,11 +86,11 @@
     },
     {
       "surface": "ההיא",
-      "gloss": "lelo"
+      "gloss": "loo"
     },
     {
       "surface": "מאפרים",
-      "gloss": "kwakwa-Efrayimi"
+      "gloss": "kwa-Efrayim"
     },
     {
       "surface": "ארבעים",
@@ -102,9 +102,9 @@
     },
     {
       "surface": "אלף",
-      "gloss": "ezinkulu ngephakathi"
+      "gloss": "eli-1000"
     }
   ],
-  "timestamp": "2026-09-18T09:03:16.228731944Z",
+  "timestamp": "2026-09-19T14:04:21.695606746Z",
   "model": "glm-5.3"
 }

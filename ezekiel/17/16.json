@@ -5,11 +5,11 @@
   "book": "ezekiel",
   "lang": "xh",
   "chapter": 17,
-  "translation": "Ndiphila, kaloku utshilo luka-Adonayi Yahwe: akunanjalo — endaweni yenkosi eyenze yaba yinkosi, eyayicyikamile ⟨את⟩ isifungo sayo yonakalise ⟨את⟩ umnqophiso wayo nayo — phakathi kweBhabheli uza kufa.",
+  "translation": "Ndiyaphila, utshilo u-Adonayi uYahwe: akunanjalo na, endaweni yenkosi emenze ibe yinkosi ⟨את⟩, lo wayoyikayo ⟨את⟩ isifungo sakhe, nalo oluphulayo ⟨את⟩ umnqophiso wakhe — naye embindini weBhabheli uza kufa.",
   "tokens": [
     {
       "surface": "חי",
-      "gloss": "Ndiphila"
+      "gloss": "Ndiyaphila"
     },
     {
       "surface": "אני",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "נאם",
-      "gloss": "utshilo luka-"
+      "gloss": "utshilo"
     },
     {
       "surface": "אדני",
@@ -25,11 +25,11 @@
     },
     {
       "surface": "יהוה",
-      "gloss": "Yahwe"
+      "gloss": "uYahwe"
     },
     {
       "surface": "אם",
-      "gloss": "akunanjalo"
+      "gloss": "ukuba"
     },
     {
       "surface": "לא",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "במקום",
-      "gloss": "endaweni yenkosi"
+      "gloss": "endaweni"
     },
     {
       "surface": "המלך",
@@ -45,46 +45,46 @@
     },
     {
       "surface": "הממליך",
-      "gloss": "eyenze yaba yinkosi"
+      "gloss": "emenze ibe yinkosi"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ yena",
-      "marks": "eyenze yaba yinkosi"
+      "gloss": "⟨את⟩",
+      "marks": "inkosi (icandelo lenkosi emenyweyo)"
     },
     {
       "surface": "אשר",
-      "gloss": "eyayicyikamile"
+      "gloss": "lo"
     },
     {
       "surface": "בזה",
-      "gloss": "eyayicyikamile"
+      "gloss": "wayoyikayo"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "isifungo sayo"
+      "marks": "isifungo sakhe"
     },
     {
       "surface": "אלתו",
-      "gloss": "isifungo sayo"
+      "gloss": "isifungo sakhe"
     },
     {
       "surface": "ואשר",
-      "gloss": "yonakalise"
+      "gloss": "nalo"
     },
     {
       "surface": "הפר",
-      "gloss": "yonakalise"
+      "gloss": "oluphulayo"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "umnqophiso wayo"
+      "marks": "umnqophiso wakhe"
     },
     {
       "surface": "בריתו",
-      "gloss": "umnqophiso wayo"
+      "gloss": "umnqophiso wakhe"
     },
     {
       "surface": "אתו",
@@ -92,17 +92,17 @@
     },
     {
       "surface": "בתוך",
-      "gloss": "phakathi kwa-"
+      "gloss": "embindini"
     },
     {
       "surface": "בבל",
-      "gloss": "eBhabheli"
+      "gloss": "weBhabheli"
     },
     {
       "surface": "ימות",
       "gloss": "uza kufa"
     }
   ],
-  "timestamp": "2026-09-18T13:05:45.700788546Z",
+  "timestamp": "2026-09-19T13:54:21.579288572Z",
   "model": "glm-5.3"
 }

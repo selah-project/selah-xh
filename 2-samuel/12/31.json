@@ -5,7 +5,7 @@
   "book": "2-samuel",
   "lang": "xh",
   "chapter": 12,
-  "translation": "Waza ⟨את⟩ abantu ababelekise kuyo wabakhuphela, wabahlala ngaphantsi kwezixhobo zokucheba namatye yesinyithi, wabagqithisa kumculo wamatye, wanenzela kumjongano; ngokunjalo wayenza kuzo zonke iindawo zabantwana bakaAmnon. Wabuyela uDawidi nabo bonke abantu eYerushalayimi.",
+  "translation": "Waza ⟨את⟩ abantu ababetho kwayo wabakhuphela, wababeka emeleini nakwiindlebe zentsimbi, nakwezinye iimele zentsimbi, wabagqithisa ebrickini; wenza ngokunjalo kuzo zonke iizixeko zabantwana baAmoni. Wabuya uDawidi kunye nonke abantu, aye iYerushalayimi.",
   "tokens": [
     {
       "surface": "ואת",
@@ -18,11 +18,11 @@
     },
     {
       "surface": "אשר",
-      "gloss": "ababelekise"
+      "gloss": "ababetho"
     },
     {
       "surface": "בה",
-      "gloss": "kuyo"
+      "gloss": "kwayo"
     },
     {
       "surface": "הוציא",
@@ -30,27 +30,27 @@
     },
     {
       "surface": "וישם",
-      "gloss": "wabahlala"
+      "gloss": "wababeka"
     },
     {
       "surface": "במגרה",
-      "gloss": "ngaphantsi kwezixhobo zokucheba"
+      "gloss": "emeleini"
     },
     {
       "surface": "ובחרצי",
-      "gloss": "namatye"
+      "gloss": "nakwiindlebe"
     },
     {
       "surface": "הברזל",
-      "gloss": "yesinyithi"
+      "gloss": "zentsimbi"
     },
     {
       "surface": "ובמגזרת",
-      "gloss": "wanenzela"
+      "gloss": "nakwezinye iimele"
     },
     {
       "surface": "הברזל",
-      "gloss": "yesinyithi"
+      "gloss": "zentsimbi"
     },
     {
       "surface": "והעביר",
@@ -59,11 +59,11 @@
     {
       "surface": "אותם",
       "gloss": "⟨את⟩",
-      "marks": "kumjongano"
+      "marks": "ebrickini"
     },
     {
       "surface": "במלכן",
-      "gloss": "kumjongano"
+      "gloss": "ebrickini"
     },
     {
       "surface": "וכן",
@@ -71,7 +71,7 @@
     },
     {
       "surface": "יעשה",
-      "gloss": "wayenza"
+      "gloss": "wenza"
     },
     {
       "surface": "לכל",
@@ -79,19 +79,19 @@
     },
     {
       "surface": "ערי",
-      "gloss": "iindawo"
+      "gloss": "iizixeko"
     },
     {
       "surface": "בני",
-      "gloss": "zabantwana"
+      "gloss": "abantwana"
     },
     {
       "surface": "עמון",
-      "gloss": "bakaAmnon"
+      "gloss": "baAmoni"
     },
     {
       "surface": "וישב",
-      "gloss": "wabuyela"
+      "gloss": "wabuya"
     },
     {
       "surface": "דוד",
@@ -99,7 +99,7 @@
     },
     {
       "surface": "וכל",
-      "gloss": "nabo bonke"
+      "gloss": "kunye nonke"
     },
     {
       "surface": "העם",
@@ -107,9 +107,9 @@
     },
     {
       "surface": "ירושלם",
-      "gloss": "eYerushalayimi"
+      "gloss": "iYerushalayimi"
     }
   ],
-  "timestamp": "2026-09-18T09:53:02.231094903Z",
+  "timestamp": "2026-09-19T13:47:38.619398157Z",
   "model": "glm-5.3"
 }

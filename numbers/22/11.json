@@ -5,11 +5,11 @@
   "book": "numbers",
   "lang": "xh",
   "chapter": 22,
-  "translation": "“Bonani, abantu apho obaphumayo eMitsrayim, baphethe ubuso bomhlaba; yiza ngoku, qalela undithukuthelele: mhlawumbi ndiya kuba nakho ukulwa nabo, ndibaxosha.”",
+  "translation": "“Nangu abantu abaphuma iMitsrayim, baphethe ⟨את⟩ iso lomhlaba; ngoku yeza, qalekisa kum ⟨את⟩ abantu; mhlawumbi ndiza kukwazi ukulwa nabo ndibagxotha.”",
   "tokens": [
     {
       "surface": "הנה",
-      "gloss": "bonani"
+      "gloss": "Nangu"
     },
     {
       "surface": "העם",
@@ -17,11 +17,11 @@
     },
     {
       "surface": "היצא",
-      "gloss": "obaphumayo"
+      "gloss": "abaphuma"
     },
     {
       "surface": "ממצרים",
-      "gloss": "eMitsrayim"
+      "gloss": "iMitsrayim"
     },
     {
       "surface": "ויכס",
@@ -30,15 +30,15 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ubuso bomhlaba"
+      "marks": "iso lomhlaba"
     },
     {
       "surface": "עין",
-      "gloss": "ubuso"
+      "gloss": "iso"
     },
     {
       "surface": "הארץ",
-      "gloss": "bomhlaba"
+      "gloss": "lomhlaba"
     },
     {
       "surface": "עתה",
@@ -46,15 +46,15 @@
     },
     {
       "surface": "לכה",
-      "gloss": "yiza"
+      "gloss": "yeza"
     },
     {
       "surface": "קבה",
-      "gloss": "qalela undithukuthelele"
+      "gloss": "qalekisa"
     },
     {
       "surface": "לי",
-      "gloss": "undithukuthelele"
+      "gloss": "kum"
     },
     {
       "surface": "אתו",
@@ -67,7 +67,7 @@
     },
     {
       "surface": "אוכל",
-      "gloss": "ndiya kuba nakho"
+      "gloss": "ndiza kukwazi"
     },
     {
       "surface": "להלחם",
@@ -79,9 +79,9 @@
     },
     {
       "surface": "וגרשתיו",
-      "gloss": "ndibaxosha"
+      "gloss": "ndibagxotha"
     }
   ],
-  "timestamp": "2026-09-18T07:34:15.676107169Z",
+  "timestamp": "2026-09-19T14:09:39.018350821Z",
   "model": "glm-5.3"
 }

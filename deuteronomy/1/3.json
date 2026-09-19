@@ -5,11 +5,11 @@
   "book": "deuteronomy",
   "lang": "xh",
   "chapter": 1,
-  "translation": "Kwasekubeni kwiminyaka engamashumi amane, ngenyanga yeshumi elinanye, ngomhla weyokuqala wenyanga, wathetha uMoshe kubantwana bakwaIsrayeli, ngokuko konke okwayalele uYahwe ⟨kuye⟩ ngabo.",
+  "translation": "Kwenzeka kwiminyaka engamashumi amane, ngeenyanga ezilishumi elinamanye, ngomhla wokuqala wenyanga, wathetha uMoshe kubantwana bakwa-Israel ngokwako konke oko uYahwe awamyaleleyo ⟨את⟩ yena malunga nabo.",
   "tokens": [
     {
       "surface": "ויהי",
-      "gloss": "Kwasekubeni"
+      "gloss": "Kwenzeka"
     },
     {
       "surface": "בארבעים",
@@ -17,23 +17,23 @@
     },
     {
       "surface": "שנה",
-      "gloss": "yonyaka"
+      "gloss": "iminyaka"
     },
     {
       "surface": "בעשתי",
-      "gloss": "ngenya"
+      "gloss": "kwangaphezu kwe- (eshumi)"
     },
     {
       "surface": "עשר",
-      "gloss": "ngeshumi elinanye"
+      "gloss": "elishumi elinamanye"
     },
     {
       "surface": "חדש",
-      "gloss": "unyanga"
+      "gloss": "iinyanga"
     },
     {
       "surface": "באחד",
-      "gloss": "ngomhla weyokuqala"
+      "gloss": "ngomhla wokuqala"
     },
     {
       "surface": "לחדש",
@@ -49,7 +49,7 @@
     },
     {
       "surface": "אל",
-      "gloss": "ku"
+      "gloss": "ku-"
     },
     {
       "surface": "בני",
@@ -57,19 +57,19 @@
     },
     {
       "surface": "ישראל",
-      "gloss": "bakwaIsrayeli"
+      "gloss": "bakwa-Israel"
     },
     {
       "surface": "ככל",
-      "gloss": "ngokuko konke"
+      "gloss": "ngokwako konke"
     },
     {
       "surface": "אשר",
-      "gloss": "oku"
+      "gloss": "oko"
     },
     {
       "surface": "צוה",
-      "gloss": "wayalela"
+      "gloss": "awamyaleleyo"
     },
     {
       "surface": "יהוה",
@@ -77,14 +77,14 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨אתו⟩",
-      "marks": "kuye"
+      "gloss": "⟨את⟩",
+      "marks": "yena (uMoshe)"
     },
     {
       "surface": "אלהם",
-      "gloss": "ngabo"
+      "gloss": "malunga nabo"
     }
   ],
-  "timestamp": "2026-09-18T07:55:39.471095495Z",
+  "timestamp": "2026-09-19T13:48:32.610566635Z",
   "model": "glm-5.3"
 }

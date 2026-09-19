@@ -5,7 +5,7 @@
   "book": "exodus",
   "lang": "xh",
   "chapter": 39,
-  "translation": "Wabona uMoshe ⟨את⟩ umsebenzi wonke, kwaye ngabonakalayo — ubewenzile njengoko wayetyalele uYahwe; ngokunjalo bakwenzile; wabusisa wabo uMoshe.",
+  "translation": "Wabona uMoshe ⟨את⟩ konke umsebenzi, kwaye nangu ⟨את⟩ benze njengoko uYahwe wayewalele; ngokunjalo benze. Wabusisa uMoshe ⟨את⟩.",
   "tokens": [
     {
       "surface": "וירא",
@@ -18,11 +18,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "umsebenzi wonke"
+      "marks": "konke umsebenzi"
     },
     {
       "surface": "כל",
-      "gloss": "wonke"
+      "gloss": "konke"
     },
     {
       "surface": "המלאכה",
@@ -30,16 +30,16 @@
     },
     {
       "surface": "והנה",
-      "gloss": "kwaye ngabonakalayo"
+      "gloss": "kwaye nangu"
     },
     {
       "surface": "עשו",
-      "gloss": "ubewenzile"
+      "gloss": "benze"
     },
     {
       "surface": "אתה",
       "gloss": "⟨את⟩",
-      "marks": "wonke umsebenzi"
+      "marks": "benze (into yonke)"
     },
     {
       "surface": "כאשר",
@@ -47,7 +47,7 @@
     },
     {
       "surface": "צוה",
-      "gloss": "wayetyalele"
+      "gloss": "wayewalele"
     },
     {
       "surface": "יהוה",
@@ -59,7 +59,7 @@
     },
     {
       "surface": "עשו",
-      "gloss": "bakwenzile"
+      "gloss": "benze"
     },
     {
       "surface": "ויברך",
@@ -68,13 +68,13 @@
     {
       "surface": "אתם",
       "gloss": "⟨את⟩",
-      "marks": "wabo (abantwana bakwaSirayeli)"
+      "marks": "abenzi (abantwana bakwaSirayeli)"
     },
     {
       "surface": "משה",
       "gloss": "uMoshe"
     }
   ],
-  "timestamp": "2026-09-18T06:31:01.594776001Z",
+  "timestamp": "2026-09-19T13:53:00.855044335Z",
   "model": "glm-5.3"
 }

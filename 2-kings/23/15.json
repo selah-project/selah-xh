@@ -5,48 +5,48 @@
   "book": "2-kings",
   "lang": "xh",
   "chapter": 23,
-  "translation": "Waza kwakunene ⟨את⟩ itafile yenkanelelo eseBheth-El, indawo ephezulu eyenziwe nguYarovamo unyana kaNevati, lowo wenza ⟨את⟩ iYisrayeli ichwetheze, nakuba ⟨את⟩ itafile yenkanelelo leyo nendawo ephezulu wayitshabalalisa, waza watshisa indawo ephezulu, wayiqwengqisa yaba luthuli, waza watshisa iAsherah.",
+  "translation": "Kananjalo ⟨את⟩ i-altare eseBeyt-El, elo qonga elenziweyo nguYarovam unyana kaNevat, owenza uYisrayeli awonye — ⟨את⟩ elo altare netha ⟨את⟩ elo qonga wawutshiza, waza watshisa elo qonga, wawutshonkolosa libe ngumbhaka, watshisa ⟨את⟩ iAshera.",
   "tokens": [
     {
       "surface": "וגם",
-      "gloss": "kwakunene"
+      "gloss": "Kananjalo"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "itafile yenkanelelo"
+      "marks": "i-altare"
     },
     {
       "surface": "המזבח",
-      "gloss": "itafile yenkanelelo"
+      "gloss": "i-altare"
     },
     {
       "surface": "אשר",
-      "gloss": "ese"
+      "gloss": "eli"
     },
     {
       "surface": "בבית",
-      "gloss": "eiBheth"
+      "gloss": "eseBeyt-El"
     },
     {
       "surface": "אל",
-      "gloss": "-El"
+      "gloss": "eseBeyt-El"
     },
     {
       "surface": "הבמה",
-      "gloss": "indawo ephezulu"
+      "gloss": "elo qonga"
     },
     {
       "surface": "אשר",
-      "gloss": "eyenziwa"
+      "gloss": "elenziweyo"
     },
     {
       "surface": "עשה",
-      "gloss": "wenza"
+      "gloss": "enenziweyo ngu-"
     },
     {
       "surface": "ירבעם",
-      "gloss": "uYarovamo"
+      "gloss": "uYarovam"
     },
     {
       "surface": "בן",
@@ -54,85 +54,85 @@
     },
     {
       "surface": "נבט",
-      "gloss": "kaNevati"
+      "gloss": "kaNevat"
     },
     {
       "surface": "אשר",
-      "gloss": "lowo"
+      "gloss": "o-"
     },
     {
       "surface": "החטיא",
-      "gloss": "wenz' achwetheze"
+      "gloss": "wenza uYisrayeli awonye"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "iYisrayeli"
+      "marks": "uYisrayeli"
     },
     {
       "surface": "ישראל",
-      "gloss": "iYisrayeli"
+      "gloss": "uYisrayeli"
     },
     {
       "surface": "גם",
-      "gloss": "nakuba"
+      "gloss": "netha"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "itafile yenkanelelo leyo"
+      "marks": "elo altare"
     },
     {
       "surface": "המזבח",
-      "gloss": "itafile yenkanelelo"
+      "gloss": "elo altare"
     },
     {
       "surface": "ההוא",
-      "gloss": "leyo"
+      "gloss": "elo"
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
-      "marks": "indawo ephezulu"
+      "gloss": "netha ⟨את⟩",
+      "marks": "elo qonga"
     },
     {
       "surface": "הבמה",
-      "gloss": "indawo ephezulu"
+      "gloss": "elo qonga"
     },
     {
       "surface": "נתץ",
-      "gloss": "wayitshabalalisa"
+      "gloss": "wawutshiza"
     },
     {
       "surface": "וישרף",
-      "gloss": "watshisa"
+      "gloss": "waza watshisa"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "indawo ephezulu"
+      "marks": "elo qonga"
     },
     {
       "surface": "הבמה",
-      "gloss": "indawo ephezulu"
+      "gloss": "elo qonga"
     },
     {
       "surface": "הדק",
-      "gloss": "wayiqwengqisa"
+      "gloss": "wawutshonkolosa"
     },
     {
       "surface": "לעפר",
-      "gloss": "yaba luthuli"
+      "gloss": "libe ngumbhaka"
     },
     {
       "surface": "ושרף",
-      "gloss": "waza watshisa"
+      "gloss": "watshisa"
     },
     {
       "surface": "אשרה",
-      "gloss": "iAsherah"
+      "gloss": "iAshera"
     }
   ],
-  "timestamp": "2026-09-18T10:59:47.003745013Z",
+  "timestamp": "2026-09-19T13:47:11.199694337Z",
   "model": "glm-5.3"
 }

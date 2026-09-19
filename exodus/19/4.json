@@ -5,11 +5,11 @@
   "book": "exodus",
   "lang": "xh",
   "chapter": 19,
-  "translation": "Nina nibonile oko bendikwenzile iMitsrayim, naza ndininwusela phezu kweempiko zeziqhinga, ndazisa nina kum.",
+  "translation": "Ninibonile oko ndakwenzile kuMitsrayim, ndaza ndanithwala ⟨את⟩ nina ngaphezu kwamaphiko eentaka ezinkulu, ndaza ndanizisa ⟨את⟩ nina kum.",
   "tokens": [
     {
       "surface": "אתם",
-      "gloss": "Nina"
+      "gloss": "nina"
     },
     {
       "surface": "ראיתם",
@@ -21,47 +21,47 @@
     },
     {
       "surface": "עשיתי",
-      "gloss": "bendikwenzile"
+      "gloss": "ndakwenzile"
     },
     {
       "surface": "למצרים",
-      "gloss": "iMitsrayim"
+      "gloss": "kuMitsrayim"
     },
     {
       "surface": "ואשא",
-      "gloss": "naza ndininwusela"
+      "gloss": "ndaza ndanithwala"
     },
     {
       "surface": "אתכם",
       "gloss": "⟨את⟩",
-      "marks": "nina"
+      "marks": "nina (ngaphezu kwamaphiko)"
     },
     {
       "surface": "על",
-      "gloss": "phezu kwe-"
+      "gloss": "ngaphezu"
     },
     {
       "surface": "כנפי",
-      "gloss": "empiko ze-"
+      "gloss": "kwamaphiko"
     },
     {
       "surface": "נשרים",
-      "gloss": "ziqhinga"
+      "gloss": "ezintaka ezinkulu"
     },
     {
       "surface": "ואבא",
-      "gloss": "ndazisa"
+      "gloss": "ndaza ndanizisa"
     },
     {
       "surface": "אתכם",
       "gloss": "⟨את⟩",
-      "marks": "nina"
+      "marks": "nina (kum)"
     },
     {
       "surface": "אלי",
       "gloss": "kum"
     }
   ],
-  "timestamp": "2026-09-18T06:04:54.042853419Z",
+  "timestamp": "2026-09-19T13:51:38.462094819Z",
   "model": "glm-5.3"
 }

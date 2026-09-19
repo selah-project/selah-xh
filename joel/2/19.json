@@ -5,11 +5,11 @@
   "book": "joel",
   "lang": "xh",
   "chapter": 2,
-  "translation": "UYahwe waphendula, wathi kwisizwe sakhe: “Nanku ndithumela kuni ⟨את⟩ ingqolowa newayini neoli, niyakwanelisa ⟨את⟩; andiphindi ndinizise intsinyeulo phakathi kwamazwe.”",
+  "translation": "Waphendula uYahwe wathetha kubantu bakhe: “Ndilapha, ndithumela kuni ⟨את⟩ inkozo nelwayini elitsha neloyile, niza kudla ngazo ukuze nikhale, andisayi kunenza libe siboniso-sohlazo kwiintlanga.",
   "tokens": [
     {
       "surface": "ויען",
-      "gloss": "waphendula"
+      "gloss": "Waphendula"
     },
     {
       "surface": "יהוה",
@@ -17,15 +17,15 @@
     },
     {
       "surface": "ויאמר",
-      "gloss": "wathi"
+      "gloss": "wathetha"
     },
     {
       "surface": "לעמו",
-      "gloss": "kwisizwe sakhe"
+      "gloss": "kubantu bakhe"
     },
     {
       "surface": "הנני",
-      "gloss": "nanku"
+      "gloss": "Ndilapha"
     },
     {
       "surface": "שלח",
@@ -38,54 +38,55 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ingqolowa"
+      "marks": "inkozo (idanga)"
     },
     {
       "surface": "הדגן",
-      "gloss": "ingqolowa"
+      "gloss": "inkozo"
     },
     {
       "surface": "והתירוש",
-      "gloss": "newayini"
+      "gloss": "nelwayini elitsha"
     },
     {
       "surface": "והיצהר",
-      "gloss": "neoli"
+      "gloss": "neloyile"
     },
     {
       "surface": "ושבעתם",
-      "gloss": "niyakwanelisa"
+      "gloss": "niza kudla ukuze nikhale"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩",
-      "marks": "zona"
+      "gloss": "⟨את⟩-zo",
+      "marks": "zonke ezi (inkozo, iwayini, ioyile)"
     },
     {
       "surface": "ולא",
-      "gloss": "andiphindi"
+      "gloss": "andi-"
     },
     {
       "surface": "אתן",
-      "gloss": "ndinizise"
+      "gloss": "-sayi kunenza"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ nina"
+      "gloss": "⟨את⟩-ni",
+      "marks": "ni (abantu bakhe)"
     },
     {
       "surface": "עוד",
-      "gloss": "okwangoku"
+      "gloss": "saya"
     },
     {
       "surface": "חרפה",
-      "gloss": "intsinyeulo"
+      "gloss": "siboniso-sohlazo"
     },
     {
       "surface": "בגוים",
-      "gloss": "phakathi kwamazwe"
+      "gloss": "kwiintlanga"
     }
   ],
-  "timestamp": "2026-09-18T13:53:49.056565021Z",
+  "timestamp": "2026-09-19T14:01:59.793617973Z",
   "model": "glm-5.3"
 }

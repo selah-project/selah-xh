@@ -5,15 +5,15 @@
   "book": "genesis",
   "lang": "xh",
   "chapter": 1,
-  "translation": "Kwaye kuwo onke amadolophu omhlaba, nakuzo zonke iintaka zamazulu, nakuso onke okhwankqizayo phezu komhlaba, apho kukho umphefumlo wokuphila — onke umhlaza ohlaza wotyani ngowokutyela wazo. Kwaba njalo.",
+  "translation": "Kwaye kuwo onke amasilwanyana omhlaba, nakuzo zonke iintaka zasezulwini, nakuzo zonke izinto ezinyamnzalisa emhlabeni, ezinobomi kuzo, ⟨את⟩ onke utye oluhlaza ndinike okutya; kwaba njalo.",
   "tokens": [
     {
       "surface": "ולכל",
-      "gloss": "kuwo onke"
+      "gloss": "nakuzo zonke"
     },
     {
       "surface": "חית",
-      "gloss": "amadolophu wokuphila"
+      "gloss": "amasilwanyana"
     },
     {
       "surface": "הארץ",
@@ -29,15 +29,15 @@
     },
     {
       "surface": "השמים",
-      "gloss": "zamazulu"
+      "gloss": "zasezulwini"
     },
     {
       "surface": "ולכל",
-      "gloss": "nakuso onke"
+      "gloss": "nakuzo zonke"
     },
     {
       "surface": "רומש",
-      "gloss": "okhwankqizayo"
+      "gloss": "ezinyamnzalisa"
     },
     {
       "surface": "על",
@@ -49,11 +49,11 @@
     },
     {
       "surface": "אשר",
-      "gloss": "apho"
+      "gloss": "azo"
     },
     {
       "surface": "בו",
-      "gloss": "kukho"
+      "gloss": "kuzo"
     },
     {
       "surface": "נפש",
@@ -61,12 +61,12 @@
     },
     {
       "surface": "חיה",
-      "gloss": "wokuphila"
+      "gloss": "obomi"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "onke umhlaza"
+      "marks": "onke utye oluhlaza"
     },
     {
       "surface": "כל",
@@ -74,15 +74,15 @@
     },
     {
       "surface": "ירק",
-      "gloss": "umhlaza"
+      "gloss": "oluhlaza"
     },
     {
       "surface": "עשב",
-      "gloss": "wotyani"
+      "gloss": "utye"
     },
     {
       "surface": "לאכלה",
-      "gloss": "ngowokutyela"
+      "gloss": "okutya"
     },
     {
       "surface": "ויהי",
@@ -93,6 +93,6 @@
       "gloss": "njalo"
     }
   ],
-  "timestamp": "2026-09-18T05:07:28.851847386Z",
+  "timestamp": "2026-09-19T13:56:14.646442658Z",
   "model": "glm-5.3"
 }

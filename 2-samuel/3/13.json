@@ -5,11 +5,11 @@
   "book": "2-samuel",
   "lang": "xh",
   "chapter": 3,
-  "translation": "Wathi: “Kulungile; mna ndiza kukuthungula ⟨את⟩ umnqophiso nawe; kodwa into ene ndicela kuwe, ukuthi: Awunakubona ⟨את⟩ ubuso bam, ngaphandle kokuba, phambi kokuba uza kundisa uMikhal intombi kaShawuli, xa uza kubona ⟨את⟩ ubuso bam.”",
+  "translation": "Wathi: “Kulungile, mna ndiza kukuthumba nawe ⟨את⟩ umnqophiso; kodwa idaba elinye mna ndilicela kuwe ⟨את⟩, ukutsho: awuzi kubona ⟨את⟩ ubuso bam, kuba ukuba akungangaphambi kokuzisa kwakho ⟨את⟩ uMikhal, intombi kaShawuli, ekuhleni ubuso bam.”",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "Wathi"
+      "gloss": "wathi"
     },
     {
       "surface": "טוב",
@@ -21,11 +21,11 @@
     },
     {
       "surface": "אכרת",
-      "gloss": "ndiza kukuthungula"
+      "gloss": "ndiza kukuthumba"
     },
     {
       "surface": "אתך",
-      "gloss": "⟨את⟩ nawe"
+      "gloss": "nawe ⟨את⟩"
     },
     {
       "surface": "ברית",
@@ -37,11 +37,11 @@
     },
     {
       "surface": "דבר",
-      "gloss": "into"
+      "gloss": "idaba"
     },
     {
       "surface": "אחד",
-      "gloss": "ene"
+      "gloss": "elinye"
     },
     {
       "surface": "אנכי",
@@ -49,15 +49,15 @@
     },
     {
       "surface": "שאל",
-      "gloss": "ndicela"
+      "gloss": "ndilicela"
     },
     {
       "surface": "מאתך",
-      "gloss": "⟨את⟩ kuwe"
+      "gloss": "kuwe ⟨את⟩"
     },
     {
       "surface": "לאמר",
-      "gloss": "ukuthi"
+      "gloss": "ukutsho"
     },
     {
       "surface": "לא",
@@ -65,7 +65,7 @@
     },
     {
       "surface": "תראה",
-      "gloss": "awunakubona"
+      "gloss": "uzi kubona"
     },
     {
       "surface": "את",
@@ -78,19 +78,19 @@
     },
     {
       "surface": "כי",
-      "gloss": "ngaphandle"
+      "gloss": "kuba ukuba"
     },
     {
       "surface": "אם",
-      "gloss": "kokuba"
+      "gloss": "akungangaphambi"
     },
     {
       "surface": "לפני",
-      "gloss": "phambi kokuba"
+      "gloss": "phambi"
     },
     {
       "surface": "הביאך",
-      "gloss": "uza kundisa"
+      "gloss": "ukuzisa kwakho"
     },
     {
       "surface": "את",
@@ -103,7 +103,7 @@
     },
     {
       "surface": "בת",
-      "gloss": "intombi ka-"
+      "gloss": "intombi"
     },
     {
       "surface": "שאול",
@@ -111,7 +111,7 @@
     },
     {
       "surface": "בבאך",
-      "gloss": "xa uza"
+      "gloss": "ekuhleni"
     },
     {
       "surface": "לראות",
@@ -127,6 +127,6 @@
       "gloss": "ubuso bam"
     }
   ],
-  "timestamp": "2026-09-18T09:45:30.052625108Z",
+  "timestamp": "2026-09-19T13:48:39.729433872Z",
   "model": "glm-5.3"
 }

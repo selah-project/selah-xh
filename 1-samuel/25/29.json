@@ -5,11 +5,11 @@
   "book": "1-samuel",
   "lang": "xh",
   "chapter": 25,
-  "translation": "Kuba umntu uya kuvuka alandele wena, aze afune ⟨את⟩ umphefumlo wakho; yaye umphefumlo wenkosi yam uza kubotshwa wobumba wobomi kuYahwe uElohim wakho, yaye ⟨את⟩ umphefumlo bachasi bakho uza kuwatsiba njengesiphondo phakathi konqawa lwesiphondo.",
+  "translation": "Kwaye ukuba umntu evuka ekulandela waza efuna ⟨את⟩ umphefumlo wakho, umphefumlo weNkosi yam uza kubotshwa esibundeni sobomi ⟨את⟩ uYahwe uElohim wakho; kwaye ⟨את⟩ umphefumlo wezitha zakho uza kuwatshotha njengangaphakathi ecaleni leslingi yokutshotha.",
   "tokens": [
     {
       "surface": "ויקם",
-      "gloss": "uya kuvuka"
+      "gloss": "wavuka"
     },
     {
       "surface": "אדם",
@@ -17,11 +17,11 @@
     },
     {
       "surface": "לרדפך",
-      "gloss": "alandela wena"
+      "gloss": "ekulandela"
     },
     {
       "surface": "ולבקש",
-      "gloss": "aze afune"
+      "gloss": "waza efuna"
     },
     {
       "surface": "את",
@@ -34,7 +34,7 @@
     },
     {
       "surface": "והיתה",
-      "gloss": "yaye iya kuba"
+      "gloss": "uza kubotshwa"
     },
     {
       "surface": "נפש",
@@ -42,7 +42,7 @@
     },
     {
       "surface": "אדני",
-      "gloss": "wenkosi yam"
+      "gloss": "weNkosi yam"
     },
     {
       "surface": "צרורה",
@@ -50,16 +50,16 @@
     },
     {
       "surface": "בצרור",
-      "gloss": "wobumba"
+      "gloss": "esibundeni"
     },
     {
       "surface": "החיים",
-      "gloss": "wobomi"
+      "gloss": "sobomi"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "uYahwe uElohim wakho"
+      "marks": "uYahwe"
     },
     {
       "surface": "יהוה",
@@ -71,8 +71,8 @@
     },
     {
       "surface": "ואת",
-      "gloss": "yaye ⟨את⟩",
-      "marks": "umphefumlo bachasi bakho"
+      "gloss": "⟨את⟩",
+      "marks": "umphefumlo wezitha zakho"
     },
     {
       "surface": "נפש",
@@ -80,11 +80,11 @@
     },
     {
       "surface": "איביך",
-      "gloss": "bachasi bakho"
+      "gloss": "wezitha zakho"
     },
     {
       "surface": "יקלענה",
-      "gloss": "uza kuwatsiba"
+      "gloss": "uza kuwatshotha"
     },
     {
       "surface": "בתוך",
@@ -92,13 +92,13 @@
     },
     {
       "surface": "כף",
-      "gloss": "konqawa"
+      "gloss": "ecaleni"
     },
     {
       "surface": "הקלע",
-      "gloss": "lwesiphondo"
+      "gloss": "leslingi yokutshotha"
     }
   ],
-  "timestamp": "2026-09-18T09:38:25.047097003Z",
+  "timestamp": "2026-09-19T13:44:43.870958189Z",
   "model": "glm-5.3"
 }

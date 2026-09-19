@@ -5,11 +5,11 @@
   "book": "ezekiel",
   "lang": "xh",
   "chapter": 14,
-  "translation": "Baza kunisola, kuba niya kubona ⟨את⟩ indlela yabo ⟨את⟩ nemisebenzi yabo, niza kwazi ukuba hayi ngamahala ndenzile ⟨את⟩ yonke into endenzileyo kuyo — utsho u-Adonayi uYahwe.",
+  "translation": "Baza kunikhuthaza ⟨את⟩ nina, kuba niya kubona ⟨את⟩ indlela yabo ⟨ואת⟩ nezenzo zawo; niza kwazi ukuba hayi ngaphandle kwenxabiso ndenzile ⟨את⟩ konke oko ndikwenzileyo kuyo, kutsho u-Adonayi uYahwe.",
   "tokens": [
     {
       "surface": "ונחמו",
-      "gloss": "Baza kunisola"
+      "gloss": "baza kunikhuthaza"
     },
     {
       "surface": "אתכם",
@@ -35,11 +35,11 @@
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "imisebenzi yabo"
+      "marks": "iizenzo zawo"
     },
     {
       "surface": "עלילותם",
-      "gloss": "nemisebenzi yabo"
+      "gloss": "iizenzo zawo"
     },
     {
       "surface": "וידעתם",
@@ -55,7 +55,7 @@
     },
     {
       "surface": "חנם",
-      "gloss": "ngamahala"
+      "gloss": "ngaphandle kwenxabiso"
     },
     {
       "surface": "עשיתי",
@@ -64,19 +64,19 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "yonke into"
+      "marks": "konke"
     },
     {
       "surface": "כל",
-      "gloss": "yonke into"
+      "gloss": "konke"
     },
     {
       "surface": "אשר",
-      "gloss": "le"
+      "gloss": "oko"
     },
     {
       "surface": "עשיתי",
-      "gloss": "ndenzile"
+      "gloss": "ndikwenzileyo"
     },
     {
       "surface": "בה",
@@ -84,7 +84,7 @@
     },
     {
       "surface": "נאם",
-      "gloss": "utsho"
+      "gloss": "kutsho"
     },
     {
       "surface": "אדני",
@@ -95,6 +95,6 @@
       "gloss": "uYahwe"
     }
   ],
-  "timestamp": "2026-09-18T13:02:48.745987886Z",
+  "timestamp": "2026-09-19T13:53:53.556100140Z",
   "model": "glm-5.3"
 }

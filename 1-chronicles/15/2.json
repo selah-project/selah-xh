@@ -5,11 +5,11 @@
   "book": "1-chronicles",
   "lang": "xh",
   "chapter": 15,
-  "translation": "Ngelo xesha uDawidi wathetha: “Akukho mntu uza kukwazi ukuthwala iarki kaElohim ngaphandle kweLevitesi, kuba nguYahwe owakhetha bona ukuthwala iarki kaYahwe nokukhonza yena kuze kufe umhlaba unaphakade.”",
+  "translation": "Ngoko uDawidi wathetha: akukho mntu uza kuthwala ⟨את⟩ isikhongozeli sikaElohim ngaphandle kweLevi, kuba nguYahwe owakhetha bona ukuthwala ⟨את⟩ isikhongozeli sikaYahwe nokuze amkhonze ade kube ngunaphakade.",
   "tokens": [
     {
       "surface": "אז",
-      "gloss": "ngelo xesha"
+      "gloss": "ngoko"
     },
     {
       "surface": "אמר",
@@ -21,24 +21,24 @@
     },
     {
       "surface": "לא",
-      "gloss": "akukho"
+      "gloss": "akukho mntu uza"
     },
     {
       "surface": "לשאת",
-      "gloss": "ukuthwala"
+      "gloss": "kuthwala"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "iarki"
+      "marks": "isikhongozeli sikaElohim"
     },
     {
       "surface": "ארון",
-      "gloss": "iarki"
+      "gloss": "isikhongozeli"
     },
     {
       "surface": "האלהים",
-      "gloss": "kaElohim"
+      "gloss": "sikaElohim"
     },
     {
       "surface": "כי",
@@ -46,11 +46,11 @@
     },
     {
       "surface": "אם",
-      "gloss": "ngaphandle kuka"
+      "gloss": "ngaphandle"
     },
     {
       "surface": "הלוים",
-      "gloss": "weLevitesi"
+      "gloss": "kweLevi"
     },
     {
       "surface": "כי",
@@ -75,29 +75,29 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "iarki"
+      "marks": "isikhongozeli sikaYahwe"
     },
     {
       "surface": "ארון",
-      "gloss": "iarki"
+      "gloss": "isikhongozeli"
     },
     {
       "surface": "יהוה",
-      "gloss": "kaYahwe"
+      "gloss": "sikaYahwe"
     },
     {
       "surface": "ולשרתו",
-      "gloss": "nokukhonza"
+      "gloss": "nokuze amkhonze"
     },
     {
       "surface": "עד",
-      "gloss": "kuze kufe"
+      "gloss": "ade kube"
     },
     {
       "surface": "עולם",
-      "gloss": "umhlaba unaphakade"
+      "gloss": "ngunaphakade"
     }
   ],
-  "timestamp": "2026-09-18T16:56:09.204172722Z",
+  "timestamp": "2026-09-19T13:41:11.908697692Z",
   "model": "glm-5.3"
 }

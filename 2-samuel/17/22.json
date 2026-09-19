@@ -5,7 +5,7 @@
   "book": "2-samuel",
   "lang": "xh",
   "chapter": 17,
-  "translation": "UDavide wavuka, nabantu bonke ababenaye, badibula ⟨את⟩ iYordane, de kwangokukhanya kwekusasa; de kungabikhho mntu omnye utshatikileyo, ongadibulanga ⟨את⟩ iYordane.",
+  "translation": "UDavide wavuka, nabo bonke abantu ababenaye, badlula ⟨את⟩ uYordan kude kufike kukhanya kwasekuseni; wangekho mntu omnye owungaludlulanga ⟨את⟩ uYordan.",
   "tokens": [
     {
       "surface": "ויקם",
@@ -17,83 +17,84 @@
     },
     {
       "surface": "וכל",
-      "gloss": "naboni"
+      "gloss": "nabo bonke"
     },
     {
       "surface": "העם",
-      "gloss": "abantu bonke"
+      "gloss": "abantu"
     },
     {
       "surface": "אשר",
-      "gloss": "ababe"
+      "gloss": "aba-"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ naye"
+      "gloss": "⟨את⟩ benaye",
+      "marks": "uDavide"
     },
     {
       "surface": "ויעברו",
-      "gloss": "badibula"
+      "gloss": "badlula"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "iYordane"
+      "marks": "uYordan"
     },
     {
       "surface": "הירדן",
-      "gloss": "iYordane"
+      "gloss": "uYordan"
     },
     {
       "surface": "עד",
-      "gloss": "de"
+      "gloss": "kude"
     },
     {
       "surface": "אור",
-      "gloss": "kwangokukhanya"
+      "gloss": "kukhanya"
     },
     {
       "surface": "הבקר",
-      "gloss": "kwekusasa"
+      "gloss": "kwasekuseni"
     },
     {
       "surface": "עד",
-      "gloss": "de"
+      "gloss": "kude"
     },
     {
       "surface": "אחד",
-      "gloss": "mntu omnye"
+      "gloss": "omnye"
     },
     {
       "surface": "לא",
-      "gloss": "akabikho"
+      "gloss": "hayi"
     },
     {
       "surface": "נעדר",
-      "gloss": "utshatikileyo"
+      "gloss": "wangekho"
     },
     {
       "surface": "אשר",
-      "gloss": "ongadibulanga"
+      "gloss": "owaye-"
     },
     {
       "surface": "לא",
-      "gloss": "akazanga"
+      "gloss": "hayi"
     },
     {
       "surface": "עבר",
-      "gloss": "adibule"
+      "gloss": "adlula"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "iYordane"
+      "marks": "uYordan"
     },
     {
       "surface": "הירדן",
-      "gloss": "iYordane"
+      "gloss": "uYordan"
     }
   ],
-  "timestamp": "2026-09-18T09:58:27.294298892Z",
+  "timestamp": "2026-09-19T13:47:15.825659887Z",
   "model": "glm-5.3"
 }

@@ -5,11 +5,11 @@
   "book": "2-kings",
   "lang": "xh",
   "chapter": 11,
-  "translation": "Wakhupha ⟨את⟩ unyana wenkosi, wambekela ⟨את⟩ umqwebede ne-⟨את⟩ ubungqina, bambusa, bamgcoba, babetha izandla, bathi: “Makaphile inkosi!”",
+  "translation": "Wakhupha ⟨את⟩ unyana wenkosi, wambekela phezu kwakhe ⟨את⟩ umqwebe kunye nesiXabiso se-⟨את⟩ ubungqina; bamenza inkosi ⟨את⟩, bamgcoba; batshaya isandla, bathi: “Maphila inkosi!”",
   "tokens": [
     {
       "surface": "ויוצא",
-      "gloss": "wakhupha"
+      "gloss": "Wakhupha"
     },
     {
       "surface": "את",
@@ -30,20 +30,20 @@
     },
     {
       "surface": "עליו",
-      "gloss": "uye"
+      "gloss": "phezu kwakhe"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "umqwebede"
+      "marks": "umqwebe"
     },
     {
       "surface": "הנזר",
-      "gloss": "umqwebede"
+      "gloss": "umqwebe"
     },
     {
       "surface": "ואת",
-      "gloss": "ne-⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "ubungqina"
     },
     {
@@ -52,12 +52,12 @@
     },
     {
       "surface": "וימלכו",
-      "gloss": "bambusa"
+      "gloss": "bamenza inkosi"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨אתו⟩",
-      "marks": "bamgcoba"
+      "gloss": "⟨את⟩",
+      "marks": "bamgcoba (uye)"
     },
     {
       "surface": "וימשחהו",
@@ -65,11 +65,11 @@
     },
     {
       "surface": "ויכו",
-      "gloss": "babetha"
+      "gloss": "batshaya"
     },
     {
       "surface": "כף",
-      "gloss": "izandla"
+      "gloss": "isandla"
     },
     {
       "surface": "ויאמרו",
@@ -77,13 +77,13 @@
     },
     {
       "surface": "יחי",
-      "gloss": "Makaphile"
+      "gloss": "Maphila"
     },
     {
       "surface": "המלך",
       "gloss": "inkosi"
     }
   ],
-  "timestamp": "2026-09-18T10:47:32.619295786Z",
+  "timestamp": "2026-09-19T13:46:40.959566390Z",
   "model": "glm-5.3"
 }

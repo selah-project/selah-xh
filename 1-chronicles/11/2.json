@@ -5,11 +5,11 @@
   "book": "1-chronicles",
   "lang": "xh",
   "chapter": 11,
-  "translation": "Kananjalo izolo, kananjalo nezolo, kananjalo xa uSawuli ebenguye inkosi, wena obekukhupha uIsrayeli ubungenisa; uYahwe uElohim wakho wathetha kuwena: “Wena uza kufuya abantu bam ⟨את⟩ uIsrayeli, yaye wena uza kuba ngumkhokeli phezu kwabantu bam, uIsrayeli.”",
+  "translation": "Nakanjalo izolo, nakanjalo ngaphambili kwizolo, nakanjalo ngoxesha uShawuli enguwinkosi, wena ubungumkhuphi nomngenisi ⟨את⟩ uYisrayeli; wathi uYahwe uElohim wakho kuwe: Wena uza kufuyisa ⟨את⟩ abantu bam ⟨את⟩ uYisrayeli, kwaye wena uza kuba ngumlawuli phezu kwabantu bam uYisrayeli.",
   "tokens": [
     {
       "surface": "גם",
-      "gloss": "Kananjalo"
+      "gloss": "nakanjalo"
     },
     {
       "surface": "תמול",
@@ -17,27 +17,27 @@
     },
     {
       "surface": "גם",
-      "gloss": "kananjalo"
+      "gloss": "nakanjalo"
     },
     {
       "surface": "שלשום",
-      "gloss": "nezolo"
+      "gloss": "ngaphambili kwizolo"
     },
     {
       "surface": "גם",
-      "gloss": "kananjalo"
+      "gloss": "nakanjalo"
     },
     {
       "surface": "בהיות",
-      "gloss": "xa ebengu-"
+      "gloss": "ngoxesha"
     },
     {
       "surface": "שאול",
-      "gloss": "uSawuli"
+      "gloss": "uShawuli"
     },
     {
       "surface": "מלך",
-      "gloss": "inkosi"
+      "gloss": "enguwinkosi"
     },
     {
       "surface": "אתה",
@@ -45,24 +45,24 @@
     },
     {
       "surface": "המוציא",
-      "gloss": "obekukhupha"
+      "gloss": "ubungumkhuphi"
     },
     {
       "surface": "והמביא",
-      "gloss": "ubungenisa"
+      "gloss": "nomngenisi"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "uIsrayeli"
+      "marks": "uYisrayeli"
     },
     {
       "surface": "ישראל",
-      "gloss": "uIsrayeli"
+      "gloss": "uYisrayeli"
     },
     {
       "surface": "ויאמר",
-      "gloss": "wathetha"
+      "gloss": "wathi"
     },
     {
       "surface": "יהוה",
@@ -78,11 +78,11 @@
     },
     {
       "surface": "אתה",
-      "gloss": "Wena"
+      "gloss": "wena"
     },
     {
       "surface": "תרעה",
-      "gloss": "uza kufuya"
+      "gloss": "uza kufuyisa"
     },
     {
       "surface": "את",
@@ -96,15 +96,15 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "uIsrayeli"
+      "marks": "uYisrayeli"
     },
     {
       "surface": "ישראל",
-      "gloss": "uIsrayeli"
+      "gloss": "uYisrayeli"
     },
     {
       "surface": "ואתה",
-      "gloss": "yaye wena"
+      "gloss": "kwaye wena"
     },
     {
       "surface": "תהיה",
@@ -112,7 +112,7 @@
     },
     {
       "surface": "נגיד",
-      "gloss": "ngumkhokeli"
+      "gloss": "ngumlawuli"
     },
     {
       "surface": "על",
@@ -120,13 +120,13 @@
     },
     {
       "surface": "עמי",
-      "gloss": "abantu bam"
+      "gloss": "kwabantu bam"
     },
     {
       "surface": "ישראל",
-      "gloss": "uIsrayeli"
+      "gloss": "uYisrayeli"
     }
   ],
-  "timestamp": "2026-09-18T16:54:54.057892053Z",
+  "timestamp": "2026-09-19T13:41:28.488550819Z",
   "model": "glm-5.3"
 }

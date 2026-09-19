@@ -5,36 +5,36 @@
   "book": "exodus",
   "lang": "xh",
   "chapter": 38,
-  "translation": "Wafaka ⟨את⟩ ii-bhadi kwiindumba, ezicaleni komnqwilo, ukuzithwala ⟨את⟩ nazo; wawenza amabodlokonge okhuni okwenziweyo.",
+  "translation": "Wafaka ⟨את⟩ iintsika kwiiphuse ezikwiicala ze-altare, ukuzithwala ⟨את⟩ ngazo; iphange ngeepleyiti wenza ⟨את⟩.",
   "tokens": [
     {
       "surface": "ויבא",
-      "gloss": "Wafaka"
+      "gloss": "wafaka"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ii-bhadi"
+      "marks": "iintsika"
     },
     {
       "surface": "הבדים",
-      "gloss": "ii-bhadi"
+      "gloss": "iintsika"
     },
     {
       "surface": "בטבעת",
-      "gloss": "kwiindumba"
+      "gloss": "kwiiphuse"
     },
     {
       "surface": "על",
-      "gloss": "ezicaleni"
+      "gloss": "ezikwiicala"
     },
     {
       "surface": "צלעת",
-      "gloss": "ezicaleni"
+      "gloss": "iicala"
     },
     {
       "surface": "המזבח",
-      "gloss": "komnqwilo"
+      "gloss": "ze-altare"
     },
     {
       "surface": "לשאת",
@@ -42,29 +42,31 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ nazo"
+      "gloss": "⟨את⟩",
+      "marks": "ngazo"
     },
     {
       "surface": "בהם",
-      "gloss": "nazo"
+      "gloss": "ngazo"
     },
     {
       "surface": "נבוב",
-      "gloss": "amabodloko"
+      "gloss": "iphange"
     },
     {
       "surface": "לחת",
-      "gloss": "okhuni okwenziweyo"
+      "gloss": "ngeepleyiti"
     },
     {
       "surface": "עשה",
-      "gloss": "wawenza"
+      "gloss": "wenza"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩"
+      "gloss": "⟨את⟩",
+      "marks": "i-altare"
     }
   ],
-  "timestamp": "2026-09-18T06:26:34.077376028Z",
+  "timestamp": "2026-09-19T13:53:15.394296550Z",
   "model": "glm-5.3"
 }

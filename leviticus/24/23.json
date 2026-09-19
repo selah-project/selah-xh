@@ -5,11 +5,11 @@
   "book": "leviticus",
   "lang": "xh",
   "chapter": 24,
-  "translation": "UMoshe wathetha kwabantwana bakwa-Israyeli, baza bekhipha ⟨את⟩ lowo wayequla, bamisa ngaphandle kwelagerhu, bamtyalela ngamatye; abantwana bakwa-Israyeli benza njengoko uYahwe awalele ⟨את⟩ uMoshe.",
+  "translation": "Wathetha uMoshe kubantwana bakaSirayeli, bakhipha ⟨את⟩ lowo walahlazaza ngaphandle kwelikampu, bamlahla ngamatye; abantwana bakaSirayeli benjengoko wayalele uYahwe ⟨את⟩ uMoshe.",
   "tokens": [
     {
       "surface": "וידבר",
-      "gloss": "wathetha"
+      "gloss": "Wathetha"
     },
     {
       "surface": "משה",
@@ -17,49 +17,49 @@
     },
     {
       "surface": "אל",
-      "gloss": "ku-"
+      "gloss": "ku"
     },
     {
       "surface": "בני",
-      "gloss": "abantwana"
+      "gloss": "ubantwana"
     },
     {
       "surface": "ישראל",
-      "gloss": "bakwa-Israyeli"
+      "gloss": "bakaSirayeli"
     },
     {
       "surface": "ויוציאו",
-      "gloss": "baza bekhipha"
+      "gloss": "bakhipha"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "lowo wayequla"
+      "marks": "lowo walahlazaza"
     },
     {
       "surface": "המקלל",
-      "gloss": "lowo wayequla"
+      "gloss": "lowo walahlazaza"
     },
     {
       "surface": "אל",
-      "gloss": "bamisa"
-    },
-    {
-      "surface": "מחוץ",
       "gloss": "ngaphandle"
     },
     {
+      "surface": "מחוץ",
+      "gloss": "kwelikampu"
+    },
+    {
       "surface": "למחנה",
-      "gloss": "kwelagerhu"
+      "gloss": "elikampu"
     },
     {
       "surface": "וירגמו",
-      "gloss": "bamtyalela"
+      "gloss": "bamlahla ngamatye"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩",
-      "marks": "yena (lowo wayequla)"
+      "gloss": "⟨אתו⟩",
+      "marks": "yena"
     },
     {
       "surface": "אבן",
@@ -71,11 +71,11 @@
     },
     {
       "surface": "ישראל",
-      "gloss": "bakwa-Israyeli"
+      "gloss": "bakaSirayeli"
     },
     {
       "surface": "עשו",
-      "gloss": "benza"
+      "gloss": "benjengoko"
     },
     {
       "surface": "כאשר",
@@ -83,7 +83,7 @@
     },
     {
       "surface": "צוה",
-      "gloss": "awalele"
+      "gloss": "wayalele"
     },
     {
       "surface": "יהוה",
@@ -99,6 +99,6 @@
       "gloss": "uMoshe"
     }
   ],
-  "timestamp": "2026-09-18T07:03:22.626635699Z",
+  "timestamp": "2026-09-19T14:06:13.858842720Z",
   "model": "glm-5.3"
 }

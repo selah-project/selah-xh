@@ -5,7 +5,7 @@
   "book": "2-samuel",
   "lang": "xh",
   "chapter": 21,
-  "translation": "Kwakukho kwakhona imfazwe yasePelishtiya nakuIsrayeli; wetyhalela ehansi uDawidi nabakhonzi bakhe kunye naye, balwa nePelishtim, uze uDawudi wadiniwa.",
+  "translation": "Kwakukho kwakhona imfazwe kwiFilisthim kunye ⟨את⟩ noSirayeli, uDavide wayehla nabakhonzi bakhe naye, bahlwabela ⟨את⟩ iFilisthim, uDavide wathatha mandla.",
   "tokens": [
     {
       "surface": "ותהי",
@@ -21,24 +21,24 @@
     },
     {
       "surface": "לפלשתים",
-      "gloss": "yasePelishtiya"
+      "gloss": "kwiFilisthim"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "uIsrayeli"
+      "marks": "noSirayeli"
     },
     {
       "surface": "ישראל",
-      "gloss": "nakuIsrayeli"
+      "gloss": "noSirayeli"
     },
     {
       "surface": "וירד",
-      "gloss": "wetyhalela ehansi"
+      "gloss": "wayehla"
     },
     {
       "surface": "דוד",
-      "gloss": "uDawidi"
+      "gloss": "uDavide"
     },
     {
       "surface": "ועבדיו",
@@ -46,30 +46,30 @@
     },
     {
       "surface": "עמו",
-      "gloss": "kunye naye"
+      "gloss": "naye"
     },
     {
       "surface": "וילחמו",
-      "gloss": "balwa"
+      "gloss": "bahlwabela"
     },
     {
       "surface": "את",
-      "gloss": "ne ⟨את⟩",
-      "marks": "iPelishtim"
+      "gloss": "⟨את⟩",
+      "marks": "iFilisthim"
     },
     {
       "surface": "פלשתים",
-      "gloss": "iPelishtim"
+      "gloss": "iFilisthim"
     },
     {
       "surface": "ויעף",
-      "gloss": "wadiniwa"
+      "gloss": "wathatha mandla"
     },
     {
       "surface": "דוד",
-      "gloss": "uDawudi"
+      "gloss": "uDavide"
     }
   ],
-  "timestamp": "2026-09-18T10:01:57.823327028Z",
+  "timestamp": "2026-09-19T13:48:38.222371497Z",
   "model": "glm-5.3"
 }

@@ -5,11 +5,11 @@
   "book": "exodus",
   "lang": "xh",
   "chapter": 10,
-  "translation": "Wabuyisela ⟨את⟩ uMoshe ⟨את⟩ no-Aharon kuParo; wathi kubo: Hambani, nzebenzelani uYahwe uElohim wenu — ngubani nabani na abahambayo?",
+  "translation": "uMoshe no-Aharon babuyiselwa kuParo, wathi kubo: “Hambani, ngenzelani uYahwe uElohim wenu ⟨את⟩; ngabantu abaphi na abaya kuhamba?”",
   "tokens": [
     {
       "surface": "ויושב",
-      "gloss": "Wabuyisela"
+      "gloss": "babuyiselwa"
     },
     {
       "surface": "את",
@@ -23,11 +23,11 @@
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "u-Aharon"
+      "marks": "no-Aharon"
     },
     {
       "surface": "אהרן",
-      "gloss": "u-Aharon"
+      "gloss": "no-Aharon"
     },
     {
       "surface": "אל",
@@ -51,12 +51,12 @@
     },
     {
       "surface": "עבדו",
-      "gloss": "nzenbenzelani"
+      "gloss": "ngenzelani"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "uYahwe uElohim wenu"
+      "marks": "uYahwe"
     },
     {
       "surface": "יהוה",
@@ -68,17 +68,17 @@
     },
     {
       "surface": "מי",
-      "gloss": "ngubani"
+      "gloss": "ngabantu abaphi"
     },
     {
       "surface": "ומי",
-      "gloss": "nabani na"
+      "gloss": "na"
     },
     {
       "surface": "ההלכים",
-      "gloss": "abahambayo"
+      "gloss": "abaya kuhamba"
     }
   ],
-  "timestamp": "2026-09-18T05:58:51.654970403Z",
+  "timestamp": "2026-09-19T13:51:17.887120289Z",
   "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "numbers",
   "lang": "xh",
   "chapter": 31,
-  "translation": "UMoshe wathabatha kwisiqingatha sabantwana bakwaSirayeli, wathabatha isabelo esinye kwezihlanu-nne, kwabantu nasezilwanyeni, wazipha abaLevi, abagcini besilonda isilonda sehlulo likaYahwe, njengoko wayalele uYahwe uMoshe.",
+  "translation": "Wathabatha uMoshe kwisiqinga sabantwana bakwaSirayeli ⟨את⟩ isabelo esinye kwangama-50, kwabantu nakwiihambo, wabanika abaLevi abagcina isigcino setabernakele kaYahwe, njengoko uYahwe awalele ⟨את⟩ uMoshe.",
   "tokens": [
     {
       "surface": "ויקח",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "ממחצת",
-      "gloss": "kwisiqingatha"
+      "gloss": "kwisiqinga"
     },
     {
       "surface": "בני",
@@ -30,7 +30,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "isabelo esinye kwezihlanu-nne"
+      "marks": "isabelo esinye kwangama-50"
     },
     {
       "surface": "האחז",
@@ -42,15 +42,15 @@
     },
     {
       "surface": "מן",
-      "gloss": "kwezihlanu-nne"
+      "gloss": "kwa"
     },
     {
       "surface": "החמשים",
-      "gloss": "ezihlanu-nne"
+      "gloss": "ngama-50"
     },
     {
       "surface": "מן",
-      "gloss": "kwabantu"
+      "gloss": "kwa"
     },
     {
       "surface": "האדם",
@@ -58,19 +58,19 @@
     },
     {
       "surface": "ומן",
-      "gloss": "nasezilwanyeni"
+      "gloss": "nakwa"
     },
     {
       "surface": "הבהמה",
-      "gloss": "izilwanyana"
+      "gloss": "iihambo"
     },
     {
       "surface": "ויתן",
-      "gloss": "wazipha"
+      "gloss": "wabanika"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩",
+      "gloss": "⟨אתם⟩",
       "marks": "abaLevi"
     },
     {
@@ -79,19 +79,19 @@
     },
     {
       "surface": "שמרי",
-      "gloss": "abagcini besilonda"
+      "gloss": "abagcina"
     },
     {
       "surface": "משמרת",
-      "gloss": "isilonda"
+      "gloss": "isigcino"
     },
     {
       "surface": "משכן",
-      "gloss": "sehlulo"
+      "gloss": "itabernakele"
     },
     {
       "surface": "יהוה",
-      "gloss": "likaYahwe"
+      "gloss": "kaYahwe"
     },
     {
       "surface": "כאשר",
@@ -99,7 +99,7 @@
     },
     {
       "surface": "צוה",
-      "gloss": "wayalele"
+      "gloss": "awalele"
     },
     {
       "surface": "יהוה",
@@ -115,6 +115,6 @@
       "gloss": "uMoshe"
     }
   ],
-  "timestamp": "2026-09-18T07:43:50.880173402Z",
+  "timestamp": "2026-09-19T14:09:10.844245162Z",
   "model": "glm-5.3"
 }

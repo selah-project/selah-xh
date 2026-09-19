@@ -5,11 +5,11 @@
   "book": "1-chronicles",
   "lang": "xh",
   "chapter": 16,
-  "translation": "Baza kungenisa ⟨את⟩ iarki kaElohim, bayibeka phakathi kwetenti uDavide awayeyila yona, bachaza izibingelelo ezitshiswayo nezoxolo phambi koElohim.",
+  "translation": "Baza kungenisa iarki kaElohim, bayibeka ⟨את⟩ phakathi kwetenti awayeyibezelile yona uDawidi, baza kubeka izixhobo zentuthuzelo nezo xabiso phambi kukaElohim.",
   "tokens": [
     {
       "surface": "ויביאו",
-      "gloss": "ngenisa"
+      "gloss": "baza kungenisa"
     },
     {
       "surface": "את",
@@ -26,58 +26,58 @@
     },
     {
       "surface": "ויציגו",
-      "gloss": "yibeka"
+      "gloss": "bayibeka"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩",
+      "gloss": "⟨את⟩ yona",
       "marks": "phakathi kwetenti"
     },
     {
       "surface": "בתוך",
-      "gloss": "phakathi"
+      "gloss": "phakathi kwe-"
     },
     {
       "surface": "האהל",
-      "gloss": "etenti"
+      "gloss": "itenti"
     },
     {
       "surface": "אשר",
-      "gloss": "awayeyila yona"
+      "gloss": "awayeyibezelile yona"
     },
     {
       "surface": "נטה",
-      "gloss": "yila"
+      "gloss": "ibezelile"
     },
     {
       "surface": "לו",
-      "gloss": "yona"
+      "gloss": "yena"
     },
     {
       "surface": "דויד",
-      "gloss": "uDavide"
+      "gloss": "uDawidi"
     },
     {
       "surface": "ויקריבו",
-      "gloss": "chaza"
+      "gloss": "baza kubeka"
     },
     {
       "surface": "עלות",
-      "gloss": "izibingelelo ezitshiswayo"
+      "gloss": "izixhobo zentuthuzelo"
     },
     {
       "surface": "ושלמים",
-      "gloss": "nezoxolo"
+      "gloss": "nezo xabiso"
     },
     {
       "surface": "לפני",
-      "gloss": "phambi"
+      "gloss": "phambi kuka-"
     },
     {
       "surface": "האלהים",
-      "gloss": "koElohim"
+      "gloss": "Elohim"
     }
   ],
-  "timestamp": "2026-09-18T16:56:28.234993461Z",
+  "timestamp": "2026-09-19T13:41:14.545777163Z",
   "model": "glm-5.3"
 }

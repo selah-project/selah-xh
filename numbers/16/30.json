@@ -5,7 +5,7 @@
   "book": "numbers",
   "lang": "xh",
   "chapter": 16,
-  "translation": "Kodwa ukuba uYahwe wadala into entsha, umhlaba wawo uvule ⟨את⟩ umlomo wawo, ubagwede ⟨את⟩ aba bantu nangoko konke okungabawo, baze bakhwele bephila kwiiSheol, niya kwazi ukuba aba bantu benze isiphukilelo kuYahwe ⟨את⟩ uYahwe.",
+  "translation": "Kodwa ukuba uYahwe enza into entsha, umhlaba uvule ⟨את⟩ umlomo wawo, abagwinye ⟨את⟩ nangako konke oko bekuningabo, baze batshona bephila baya kwiSheol, niza kwazi ukuba amadoda la acaphule ⟨את⟩ uYahwe.",
   "tokens": [
     {
       "surface": "ואם",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "יברא",
-      "gloss": "wadala"
+      "gloss": "enza"
     },
     {
       "surface": "יהוה",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "האדמה",
-      "gloss": "umhlaba wawo"
+      "gloss": "umhlaba"
     },
     {
       "surface": "את",
@@ -42,17 +42,17 @@
     },
     {
       "surface": "ובלעה",
-      "gloss": "ubagwede"
+      "gloss": "abagwinye"
     },
     {
       "surface": "אתם",
       "gloss": "⟨את⟩",
-      "marks": "aba bantu"
+      "marks": "abo (bona)"
     },
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "okungabawo"
+      "marks": "konke"
     },
     {
       "surface": "כל",
@@ -64,11 +64,11 @@
     },
     {
       "surface": "להם",
-      "gloss": "okungabawo"
+      "gloss": "bekuningabo"
     },
     {
       "surface": "וירדו",
-      "gloss": "baze bakhwele"
+      "gloss": "batshona"
     },
     {
       "surface": "חיים",
@@ -76,11 +76,11 @@
     },
     {
       "surface": "שאלה",
-      "gloss": "kwiiSheol"
+      "gloss": "iSheol"
     },
     {
       "surface": "וידעתם",
-      "gloss": "niya kwazi"
+      "gloss": "niza kwazi"
     },
     {
       "surface": "כי",
@@ -88,15 +88,15 @@
     },
     {
       "surface": "נאצו",
-      "gloss": "benze isiphukilelo"
+      "gloss": "acaphule"
     },
     {
       "surface": "האנשים",
-      "gloss": "aba bantu"
+      "gloss": "amadoda"
     },
     {
       "surface": "האלה",
-      "gloss": "aba"
+      "gloss": "la"
     },
     {
       "surface": "את",
@@ -108,6 +108,6 @@
       "gloss": "uYahwe"
     }
   ],
-  "timestamp": "2026-09-18T07:29:53.656616990Z",
+  "timestamp": "2026-09-19T14:08:04.248932588Z",
   "model": "glm-5.3"
 }

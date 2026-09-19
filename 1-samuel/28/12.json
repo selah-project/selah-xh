@@ -5,11 +5,11 @@
   "book": "1-samuel",
   "lang": "xh",
   "chapter": 28,
-  "translation": "Wam Bonangumoya wika- Shemuweli umfazi, wakhala ngesandi elikhulu; wathetha umfazi kuShawuli, esithi: “Kutheni undikhohlisile — wena nguShawuli?”",
+  "translation": "Wathi umfazi wabona ⟨את⟩ uShemuweli, wakhala ngelizwi elikhulu, umfazi wathetha kuShawuli, esithi: “Ukungandikhohlisela ngantoni? Yena wena nguShawuli.”",
   "tokens": [
     {
       "surface": "ותרא",
-      "gloss": "wambona"
+      "gloss": "wabona"
     },
     {
       "surface": "האשה",
@@ -30,7 +30,7 @@
     },
     {
       "surface": "בקול",
-      "gloss": "ngesandi"
+      "gloss": "ngelizwi"
     },
     {
       "surface": "גדול",
@@ -58,11 +58,11 @@
     },
     {
       "surface": "למה",
-      "gloss": "kutheni"
+      "gloss": "nungantoni"
     },
     {
       "surface": "רמיתני",
-      "gloss": "undikhohlisile"
+      "gloss": "undikhohlisela"
     },
     {
       "surface": "ואתה",
@@ -73,6 +73,6 @@
       "gloss": "nguShawuli"
     }
   ],
-  "timestamp": "2026-09-18T09:38:42.742455143Z",
+  "timestamp": "2026-09-19T13:43:59.737128068Z",
   "model": "glm-5.3"
 }

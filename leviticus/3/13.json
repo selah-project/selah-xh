@@ -5,11 +5,11 @@
   "book": "leviticus",
   "lang": "xh",
   "chapter": 3,
-  "translation": "Ayakubeka ⟨את⟩ isandla sakhe phezu kweentloko zayo, ayibulala phambi kwetente yokudibana, kunye noonyana ka-Aharon abatshiza ⟨את⟩ igazi layo phezu kwesitya so-altare emacaleni onke.",
+  "translation": "Wabeka ⟨את⟩ isandla sakhe phezu kwe-entloko yayo, wayibulala ⟨אתו⟩ phambi kwetenti yokudibana; oonyana baka-Aharon bakrwada ⟨את⟩ igazi layo phezu kwe-altari ngokuzungezileyo.",
   "tokens": [
     {
       "surface": "וסמך",
-      "gloss": "ayakubeka"
+      "gloss": "wabeka"
     },
     {
       "surface": "את",
@@ -26,16 +26,16 @@
     },
     {
       "surface": "ראשו",
-      "gloss": "kweentloko zayo"
+      "gloss": "kwe-entloko yayo"
     },
     {
       "surface": "ושחט",
-      "gloss": "ayibulala"
+      "gloss": "wayibulala"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩",
-      "marks": "phambi kwetente yokudibana"
+      "gloss": "⟨אתו⟩",
+      "marks": "yona"
     },
     {
       "surface": "לפני",
@@ -43,7 +43,7 @@
     },
     {
       "surface": "אהל",
-      "gloss": "kwetente"
+      "gloss": "itenti"
     },
     {
       "surface": "מועד",
@@ -51,7 +51,7 @@
     },
     {
       "surface": "וזרקו",
-      "gloss": "abatshiza"
+      "gloss": "bakrwada"
     },
     {
       "surface": "בני",
@@ -59,7 +59,7 @@
     },
     {
       "surface": "אהרן",
-      "gloss": "ka-Aharon"
+      "gloss": "u-Aharon"
     },
     {
       "surface": "את",
@@ -76,13 +76,13 @@
     },
     {
       "surface": "המזבח",
-      "gloss": "kwesitya so-altare"
+      "gloss": "i-altari"
     },
     {
       "surface": "סביב",
-      "gloss": "emacaleni onke"
+      "gloss": "ngokuzungezileyo"
     }
   ],
-  "timestamp": "2026-09-18T06:34:19.290028949Z",
+  "timestamp": "2026-09-19T14:06:54.421897638Z",
   "model": "glm-5.3"
 }
